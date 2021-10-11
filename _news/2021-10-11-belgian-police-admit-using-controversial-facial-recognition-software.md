@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-11T13:34:00Z
 originalUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
 webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
@@ -134,6 +135,6 @@ related:
         height: 585
         isCached: true
 
-secured: "rpynW1KkHTaDdx8LCAGh0TYMKCEdNPGRWdPpxR3IasX99pazrzvUcX2qn9EBQEWGr8my1mPIlkmUu58Ui9foTrsOl56r7YdWUBEZUmBNGhFebN7NMdlR47ApmW3fRW+bftFMOHdFaCWlGBlzNPfx4A8V3RiZBOxGIT7f1BIEyQB8CVFxpYpOsaa1nD5Z9joi7ovn8E3UihBUGznS4aaI7/dxchO+3KmqGLTczAJVSTDZx++jbVzG09MupnQgvxnjOgBmG24XqYxEml5UgXhrtgA10tvnDIf7aYr9N/rqb7zFpwrP+t6RQ3jB7g2jVTjgdN1SFwiFfqEHWQ2udViF77xai9BIA7nTGueceS9yoUY=;dVlnElJDxpQkP2b8a5kCTg=="
+secured: "5CRgs5vvUGOKUwsX/olmr2oDAfNlbQHrAFldkKDPlmRlDPg3woh3htJ3cC/McQ6gzz+7OkE/rbYbWWjl6JUGRB5Z9Ns78rLgzerDyTasXMxlSkczWXIAenY+UrD5dnJUJaljTC3pLzs7yGDDD7SekBVZdhBqQi4fOOp5e5zhq76jdZ3Lr82GMmmFeSffQ0VDW2egG8wJpzDuypcbVc5r0ZSTAy9aGRYHUn7JEK+DmNGI9d6hWhmQAgXZlHpotlSveoIS1Ce45T5qu+yJk1NZ7MD9V9EJ8aGYYq0JDPn9ZbVQ6+/feC9BPxsR6uXFwEdJ31vFDJOn29I6RyToRkpIN0d60vQ5LJtSteeF687hXK+p994gMfj9vuZ4dqde0gca1/dNOIYuinzdDo4MGuy/ouZr6w5XSaD7nhPNY/1yJgPsceM3BlFmlfDZ4yPkQOs3lxAyZjxiU3nXBLwsyFPRhTEzPAUZC3fzZyz82Q5joGhYaXAkpnScRKxKOEASZnzMjTcuYebRwZ9wjBdJQQ2whA==;rM1YeKF/kvdBohptTIOozQ=="
 ---
 

@@ -1,27 +1,30 @@
 ---
 category: news
 title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
-excerpt: "LONDON -The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief told the Financial Times."
-publishedDateTime: 2021-10-11T09:20:00Z
-originalUrl: "https://www.euronews.com/2021/10/11/uk-usa-china-ai"
-webUrl: "https://www.euronews.com/2021/10/11/uk-usa-china-ai"
+excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in a emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
+publishedDateTime: 2021-10-11T04:09:00Z
+originalUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
+webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
 type: article
-quality: 36
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/wires/783/62/7836206/1000x563_4o37d.jpg"
-    width: 1000
-    height: 563
+  - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -136,6 +139,22 @@ related:
       - url: "https://c.ndtvimg.com/2021-10/31a2482g_-china-artificial-intelligence_625x300_11_October_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
+    excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
+    publishedDateTime: 2021-10-11T15:56:00Z
+    webUrl: "https://www.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    ampWebUrl: "https://amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 57
+    images:
+      - url: "https://cdn.iflscience.com/images/583f3980-cc99-5515-81a3-01cb04439181/default-1633959012-big-data.jpg"
+        width: 720
+        height: 405
         isCached: true
   - title: "China has won AI battle with US: Pentagon's ex-software chief"
     excerpt: "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,"
@@ -258,6 +277,6 @@ related:
         height: 382
         isCached: true
 
-secured: "oQb2zC2hWZm2SfYsfnFYqmOR9uOKMJUL0Eae23iGI+ivjyScoSmXuGlIBLMSfnnikWaT3r1+TM8vC8KS832KZMrPGiVvsc/Hmqdb4WHL4B/NyCZa6KHR5Q8UoLf1A0tMrOkg8I+eqepOikAJrs6bjUamNowz2KmcrphMTgJKFtqWGEhaPeQzjTqWJhDBjQVHYBbGrZFlWh9bxJkE+oHWbadnAwBrYqBJuoVBcch6/BI6bH8yTJG5GITWCbhEeONbKbIi5CNAPCD35xPBNnyKdjXukeKtyOXmGOUN6x0tiKplqoinwevuDqjCYzWKXUCmTVlNVqC7XQAGjBNkVWJZVwr0NEfwEZQ6Tt16rp/ArJw=;yuRGw1RWZQYyLy3FNcKe1w=="
+secured: "GoIvhJg/pKDe7k0TN7LJCCndl7zwEnBQpYcm3jzT4NInkn2sTxKzfEjNK+DebF94Lmr3GWDxUNhHcmU5TK5aMf5SErnK0oAkIOw+bLcfvjkrJk/RhPrL1FolqO/47sO1MtyAwDk6wiRwPVi+FbYWnawZABKFruStTwNU4fk75JQMoLDxYiBgKRvJD72QELciHN/BHz4yJVuSuvwz9rVmPB0sClb4l0R+6kVLTkxO7adukbbkZn+zgpCFWchCQk13csDkLt6MtHLGdzbiJF/zV8LwVRF7XFY2i0Ir4JoSffQhD2wvlK6MSx3klTDHuBeqG+EOmkM0ADxDvnnB4NADzNdgpOdn1osu7S95KUFaB6Q=;pMhX48nSR0qZ64ejm1hqeQ=="
 ---
 

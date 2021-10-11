@@ -28,14 +28,14 @@ related:
   - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
     excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
     publishedDateTime: 2021-10-11T04:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
@@ -70,6 +70,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "+Wcng4VyZuzzQxdfGy6YGZUEgihdaLqwAI0TPjweEk9xtZPoYeDjWoawD16adADdFIimm1E3Z0PvqmUR1qlpMRsK7J4ll2ktQVWOqOme4F8FYF3a5gX5SfF1q/azV85me3q7XiSO86waEKnb8KB8BBVu2692QcvzoroHPu1l2JNRwoKsbiDyndelgKc49s7ZYaYC9ZrYSF93J+X8nIHo4d8osZvmrthem9XszEVIk8jNPnt4SELvNjMK5J4mBZD7PjBfvgMYcJqmUomJiZPMhOQ6RlL6RCV5dn6AXZUAhTVqcc7nSUWuBNRf2wXOsyG9IcUG31/S1Tp2wJs2D4Lw4YKtnisKM6g3MitU9Xtwmgg=;gTm3OgqwCD2lRrbcbxdGqg=="
+secured: "VbbI9QBtrZkppWhEgJqjqeNY3iNf5UE9qAPYGNZtOAujLTS+hviSwdAXQcPrNyda/jf6ZUyph4i39Xv4RGRjl0he78vV+abN4wHgJm9d0J3n006WcE3fqxxDEbMseJWtyP3RhquOAkaJKCjd+uGl0y6pBeT1+zrl1GIrzl0llvzPpAllNILoQOpmjFqFawJVcuqrUtl/QoMDYFNQ0ehgf24X3J25oJ/xV75Cwsph5YDcsIbQUD3GRSVw+pbdctl7mCPwatfutl8bpjBpaH1oglhYfpxm8FQyuMLjEKfV3Kk2vl3QqWzfGYOjQVTKyq+BqgEFbzhoZwbceR+TwJhBM1yxI3NjUuIQih04ziUvDQLf1QNj9rebGQx7tw/lb6SaCZjpoWO8a8GEXjKsJoptAj0O6dW+HdqntNmgMZOxbhdV86inDX4UfbEO7MeQ08xkR1I4rWMwBBZxcctPa0zs+90J6f2pzzKN7BHfkNAs6vEdfiQg7Tj4pYNSOLpiplClS0T3SZIFYm5da1cThIVnXw==;0D2bQrgvCkgjaLAE5vZIMg=="
 ---
 

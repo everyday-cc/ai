@@ -41,6 +41,22 @@ related:
         width: 1160
         height: 652
         isCached: true
+  - title: "Hardcore Tesla Fans Did A Lot Of Weird, Joyless-Seeming Driving So They Can Get The New FSD Beta"
+    excerpt: "I have to give Tesla credit where credit is due: it manages to keep creating strange, fascinating situations that never really occurred in the automotive industry before. T his past weekend, thanks to some tweets from Tesla big chief Elon Musk,"
+    publishedDateTime: 2021-10-11T17:00:00Z
+    webUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347"
+    ampWebUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 46
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "rYZrZdjXRhLAUeLsktdcw8JGoHlqUjP7k/glzSiRdktMYdeFwjnFR1FX00Vf+YR5jTb0xPAZ/7WSE0qb4iPFAQPZePXHlinXpGkq5hfswD0gpFqL/ycCarEyhPsfKRANRgmJ2PYOGLaWOl9ApDS3bkKlXOlXcWT45O5MHicEvxw7h5so3s6jrip4AqTAXcFJG6mT2/iyN6t6UIhSiwZg7+lQO0D4ueEc0G90Z68IeUAsTG2fHwdpWo995NxciBDY6xwaFZo4UuC0MzWDOSE089bPYPMJbl1v+WwY3cag6PMHh4MWktX+d1qAuNP1E47QJWZaqA5Px7CP0S28tsyRrLWl27+HFoxBG96kRPcYHsU=;v8FYZ3PLFVCC3RpN2f0EWw=="
 ---

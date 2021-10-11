@@ -49,7 +49,7 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
-    quality: 66
+    quality: 64
     images:
       - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
         width: 630
@@ -84,6 +84,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "DOC97dHHHdM0JPDiiccn+r883yd5WGOQBDXUtQqdkXTTJ4PGQ2ko74mGkhEPYeolPf/ieUWyN6HjOai3GQz5kIWNVGtu5kUrC8hx/l8EGqXfELyULpgcPCoAoy/zeOIBRzFe/m0yA+AuNfG1kDIA0FO1nI0fu4TRgRgKX9mAAbtasLuUFTfLeFXdSyvvy6W+krFAj1qXN5PSMj1+UmJXZQ7VBaS249UjOvDI9iSWzB+iW2/YmYR/nL2+RnxlUe7FlyTUJUvmjATn0bFXqKIlfZmLu2AU7a4m0650GE7ajJ3jueiupiHZSRFQ3qQNDrOQHW7AFP73Nx7VEbL4zWK7c+rI2jKxTJ9ieeUyRsCcrU0=;GicZ8puJ6kr4K+UcZJ7/VA=="
+secured: "EY2clvhlsfOJMU252eV80hiS50504p9q5k1qeIi9y9kPvPKPS/laS/MEy0xAh1LyaX7ZCnH4WYLW8zJtuLl5jn0PO6/y8SMsAcpR62Msbd1kaJau/QC0hpAoGDhdfFNdzXdhsvpVn/sw+P6snmHFOsY+WyVe3F7MgX2Hbn3d0CUuEVBcigsBpyMrKVI4nNzY3fho+QZM/+I4LNOo657OKzZvE4OKI2zjfVewEtBG1ZoHLYrxhFsBg8xYwab+0J82riJRnkmlNnA7TxJ6OStkOk/TU8p2ohjw8sr4FmZNW1IxYP5DRediBOLOyVfthC+KbpL5QvQDrAqhlRuDvg/I2Wxgs1DlKiYNR+JjAzUNLeC5G2IrKpk0qtNkoSidxYcE/XEn12cNNiYLcPctpKkHghJtuq33h+R+4bIjsuPluJRW4g2H4wi0f8Rxmln7gOLgG735muwAvVOdf5hfw75jhX98xP/BH3/JXZe5GGd5MfRUcuI4oQyia4SvUsIvYsxXZIKNIMD4ejwHO9S3RWfjNQ==;bp4vqFQTwnf6w9p8gWrlsw=="
 ---
 

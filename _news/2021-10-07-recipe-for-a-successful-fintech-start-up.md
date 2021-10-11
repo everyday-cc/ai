@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "African FinTech Finclusion Raises $20M for Enterprise Development"
-    excerpt: "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development."
-    publishedDateTime: 2021-10-08T16:07:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
+  - title: "Fintech And Compliance: It’s Not One Size Fits All"
+    excerpt: "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies."
+    publishedDateTime: 2021-10-11T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/"
+    ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "Finance & Insurance: Fintech’s Future Is Now"
+    excerpt: "As the banks shut down during the pandemic, people largely relied on virtual financial services, fueling a dramatic growth in FinTech."
+    publishedDateTime: 2021-10-07T19:35:00Z
+    webUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/"
+    ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
+    cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
+    type: article
+    provider:
+      name: Business Facilities
+      domain: businessfacilities.com
     quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://cdn.businessfacilities.com/wp-content/uploads/2021/10/BF-JulAug21_Finance_1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Latest Fintech Trends That are Transforming the Finance Sector"
     excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
@@ -58,6 +74,20 @@ related:
       - url: "https://financialit.net/sites/default/files/digital-banking.jpg"
         width: 778
         height: 518
+        isCached: true
+  - title: "Talk about fintech and you’re in danger of turning people off"
+    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
+    publishedDateTime: 2021-10-11T08:30:00Z
+    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
+    type: article
+    provider:
+      name: Mortgage Introducer
+      domain: mortgageintroducer.com
+    quality: 24
+    images:
+      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
+        width: 1868
+        height: 1189
         isCached: true
 
 secured: "rWJ+jKicUON4tIEcMJn1zAYxml+ulNkEuqD4Zf+M2M+7tcHkoDB+y6J1WzjrR2gdHdHTl7Aj7A/UBhmdMTeux9VZ3neVLhBkn4ljjzwSiZQd09ai21ZLcdiD9cV0GKohuhgs+QdfJq0qUhKpk3wiMaHHCEBVwGg2G0La/cYj3WJCkxtkCFRE7TPQY2KmofY9LvlE1MhV7G3pyFD8/JnBgIGRn7SOo40tyymcWU/FNCn7G2RUzxIxu9LloSbd5uz2nvufJOuGJInN+Nh9cJFogdSEOdfwIt8EjNNb/lIYSTlGqYCYKrwOq6XHkdrINHTEtSJIRymn8CdEgaJ2v7BA69RXxRnYEunps2qABhKi0RMvgoOJZLQ0z//PHW4tdqSTgD7e8pf9DprLtW65ktY87fUpEIcdnJNB+hZ8kCYNiKCJMcKgV8KANGS6ek9OZ7XXpGiDlhRhEqhvx5PUQZ8FuocMeQ0HCQgf8cILdkrHtMvAh0mmiIXcJ6KWq14o5UdVYoONxz4i2Cu8vIU/soOD0Q==;SeIsUdtJhWZGBtccyUB65g=="

@@ -75,6 +75,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Belgian police admit using controversial facial recognition software"
+    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+    publishedDateTime: 2021-10-11T13:34:00Z
+    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 41
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z
@@ -88,20 +102,6 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
         width: 270
         height: 270
-        isCached: true
-  - title: "Belgian police admit using controversial facial recognition software"
-    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-    publishedDateTime: 2021-10-11T13:34:00Z
-    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 39
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
-        width: 600
-        height: 336
         isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"

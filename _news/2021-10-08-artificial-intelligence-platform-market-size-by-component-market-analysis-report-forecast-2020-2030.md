@@ -25,17 +25,90 @@ images:
     isCached: true
 
 related:
-  - title: "New Comprehensive Report on Robotaxi Market Share, Revenue and Sales Forecast i=by 2027"
-    excerpt: "The global robotaxi market was valued at US$ 840.6 million in 2021 and is expected to reach 24,322.8 million by 2028, exhibiting a CAGR of 61.72% between 2021 and 2028. Report Pages:[130 Pages]  Market Competitive Landscape:- Major layers operating in the Global Robotaxi Market are: AutoX,"
-    publishedDateTime: 2021-10-08T19:55:00Z
-    webUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
+  - title: "Artificial Intelligence in Education Market Size By Model: Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 04:18 /Comserve / -- The global Artificial Intelligence in Education market is expected to be around US$ 5.80 Billion by 2025 at CAGR of 45% in the given forecast period."
+    publishedDateTime: 2021-10-07T08:42:00Z
+    webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Security market by Market Research Report - Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:28 /Comserve / -- The global Artificial Intelligence in Security market is expected to exceed more than US$ 42.30 Billion by 2025, at a CAGR of more than 21% in the given forecast period."
+    publishedDateTime: 2021-10-07T22:07:00Z
+    webUrl: "https://menafn.com/1102935340/Artificial-Intelligence-in-Security-market-by-Market-Research-Report-Forecast-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?291272"
+        width: 436
+        height: 249
+        isCached: true
+  - title: "Machine Translation Market 2021: Analysis, Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2024"
+    excerpt: "Machine Translation Market ”report give an insightful analysis of the market development variables and drivers,"
+    publishedDateTime: 2021-10-07T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-2021-analysis-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2024-2021-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipset Market Size By Component: Market Analysis - 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 04:17 /Comserve / -- The global Artificial Intelligence Chipset market is expected to be around US$ 74.70 Billion by 2025 at a CAGR of 33.5% is the given forecast period."
+    publishedDateTime: 2021-10-07T08:46:00Z
+    webUrl: "https://menafn.com/1102931970/Artificial-Intelligence-Chipset-Market-Size-By-Component-Market-Analysis-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
+    publishedDateTime: 2021-10-09T19:10:00Z
+    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
+        width: 445
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market Size By Services: Market Analysis & Forecasts up to 2030"
+    excerpt: "Comserve / -- The global Artificial Intelligence as a Service market is expected to be around US$ 14.7 Billion by 2025 at a CAGR of 47% in the given forecast period. Artificial Intelligence as a Service (AIaaS) is basically third-party offering of AI outsourcing."
+    publishedDateTime: 2021-10-07T08:42:00Z
+    webUrl: "https://menafn.com/1102931774/Artificial-Intelligence-as-a-Service-Market-Size-By-Services-Market-Analysis-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Size By Component: Market Analysis Report, Forecast 2020-2030"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:32 /Comserve / -- The global Automotive Artificial Intelligence market is expected to be around US$ 13.5 Billion by 2025 at a CAGR of 35% in the given forecast period."
     publishedDateTime: 2021-10-07T19:45:00Z
@@ -50,15 +123,20 @@ related:
         width: 366
         height: 250
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Import-Export Ratio, Revenue, Share, Expansion Rate Forecasts to 2019-2025"
-    excerpt: "Healthcare Artificial Intelligence Market will exceed USD 13 billion by 2025; as per a new research report. Advancements in big data analytics is the key impact rendering factor that drives the healthcare artificial intelligence market growth."
-    publishedDateTime: 2021-10-07T19:30:00Z
-    webUrl: "https://www.xing.com/communities/posts/healthcare-artificial-intelligence-market-import-export-ratio-revenue-share-expansion-rate-forecasts-1016803978"
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
     type: article
     provider:
-      name: XING
-      domain: xing.com
-    quality: 15
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
+        isCached: true
 
 secured: "Blij5rxzuxqDZRErzISAAM+I1y2liIdQxs4rRqH6t5H5TaJ9WKxa7MZLcuUxJU9N8EK/iSdWotipWjoqApo5ML9rbhElKRwDrmCCI66GwCrkuZFlVLbMYIqZ53tZ9+lY5iHyop0f/CA2nI/EJUKO/pFqBRtOLcQQ0dgmAcuWytyJqnp36fNRhQGSB975dVra9WgWqW5gvk2ZERbqbUCZHAQIWn4gitg3z1nIKuQzFwo1jlodjNxmwyVrCCfb4Zm600oq0xFJK+vmQ1m+arkRx2w538zDCbqrXCcof+60kS4PZqA7Cr8+CdqkH8AoNUh3E3rICx5ptxqPbllRlZh3MtwKpckFV+IVG9MBUFTwS2I=;zqcRnXWKv68DP6FLB/KZDw=="
 ---

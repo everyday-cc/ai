@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-08-the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain.md",
+      "title": "The Wizard Of CX AI: Why Businesses Need The Human ‘Behind The Curtain’",
+      "excerpt": "To optimize the customer journey, brands should balance automation with logical controls based on strong business strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
+      "publishedDateTime": "2021-10-08T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
       "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
       "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
@@ -192,6 +243,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027.md",
+      "title": "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027",
+      "excerpt": "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-ai-incubator-makes-understanding-practical-applications-as-easy-as-p-ai.md",
       "title": "AI incubator makes understanding practical applications as easy as P-ai",
       "excerpt": "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI.",
@@ -371,6 +474,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-tesla-insurance-will-change-the-way-you-think-about-driving.md",
+      "title": "Tesla insurance will change the way you think about driving",
+      "excerpt": "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour.",
+      "sourceUrl": null,
+      "webUrl": "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/",
+      "originalUrl": "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedriven.io/wp-content/uploads/2020/06/tesla-ap-section-hero-carnival@2x.jpg",
+          "width": 1160,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/",
+      "cdnAmpWebUrl": "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/",
+      "publishedDateTime": "2021-10-07T18:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedriven",
+        "domain": "thedriven.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
       "title": "How AI can fight human trafficking",
       "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
@@ -519,49 +665,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-finance-insurance-fintechs-future-is-now.md",
-      "title": "Finance & Insurance: Fintech’s Future Is Now",
-      "excerpt": "As the banks shut down during the pandemic, people largely relied on virtual financial services, fueling a dramatic growth in FinTech.",
-      "sourceUrl": null,
-      "webUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/",
-      "originalUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.businessfacilities.com/wp-content/uploads/2021/10/BF-JulAug21_Finance_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/",
-      "cdnAmpWebUrl": "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/",
-      "publishedDateTime": "2021-10-07T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Facilities",
-        "domain": "businessfacilities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-07-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-2-training-and.md",
       "title": "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows",
       "excerpt": "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth",
@@ -570,7 +673,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -871,7 +974,7 @@
       "originalUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 257,
       "tags": null,
       "images": [
         {
@@ -1086,100 +1189,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/10/07/conversation-startup-wizard-raises-50-million-with-help-from-marc-lore-and-other-high-profile-investors/amp/",
       "publishedDateTime": "2021-10-07T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-leonardo-the-skateboarding-slacklining-walking-flying-robot-that-im-deathly-afraid-of.md",
-      "title": "Leonardo: The Skateboarding, Slacklining, Walking, Flying Robot That I'm Deathly Afraid Of",
-      "excerpt": "I know humans are capable of building robots, but why do we need to? Has anybody ever stopped and asked that question before? I’ve seen those scary-ass Boston Dynamics robots that can dance,",
-      "sourceUrl": null,
-      "webUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/",
-      "originalUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://unofficialnetworks.com/wp-content/uploads/sites/88/2021/10/Capture-15.jpg?w=1000",
-          "width": 1000,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://unofficialnetworks.com/2021/10/07/leonardo-robot/amp/",
-      "cdnAmpWebUrl": "https://unofficialnetworks-com.cdn.ampproject.org/c/s/unofficialnetworks.com/2021/10/07/leonardo-robot/amp/",
-      "publishedDateTime": "2021-10-07T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unofficial Networks",
-        "domain": "unofficialnetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing.md",
-      "title": "From Science Fiction To Reality: Visual AI Paves Path To Autonomous Testing",
-      "excerpt": "The beauty of using utilization patterns of users to generate automatic navigation is that it uses the “brain of the masses” to test the utilization patterns that are important to the users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f983ea65a5f45fb278c9dd1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/from-science-fiction-to-reality-visual-ai-paves-path-to-autonomous-testing/amp/",
-      "publishedDateTime": "2021-10-07T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

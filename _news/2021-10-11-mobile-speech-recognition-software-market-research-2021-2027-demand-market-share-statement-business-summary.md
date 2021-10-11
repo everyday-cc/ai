@@ -91,6 +91,20 @@ related:
         width: 804
         height: 450
         isCached: true
+  - title: "Belgian police admit using controversial facial recognition software"
+    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+    publishedDateTime: 2021-10-11T13:34:00Z
+    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
+    type: article
+    provider:
+      name: Yeni Şafak
+      domain: yenisafak.com
+    quality: 41
+    images:
+      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
+        width: 600
+        height: 336
+        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z
@@ -104,20 +118,6 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
         width: 270
         height: 270
-        isCached: true
-  - title: "Belgian police admit using controversial facial recognition software"
-    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-    publishedDateTime: 2021-10-11T13:34:00Z
-    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 39
-    images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
-        width: 600
-        height: 336
         isCached: true
   - title: "Uber facial recognition software to be discriminating over people of colour"
     excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."

@@ -97,7 +97,7 @@ related:
     provider:
       name: Yeni Şafak
       domain: yenisafak.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
         width: 600

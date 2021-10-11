@@ -2,21 +2,22 @@
 category: news
 title: "Artificial Intelligence Chip Market size worth $ 109.83 Billion, Globally, by 2028 at 40.17% CAGR: Verified Market Research®"
 excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Chip Market\" By End-user (Healthcare, Manufacturing,"
-publishedDateTime: 2021-10-11T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-size-worth--109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-301396951.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-size-worth--109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-301396951.html"
+publishedDateTime: 2021-10-11T15:17:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chip-market-size-worth-109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-r--849406321.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chip-market-size-worth-109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-r--849406321.html"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
@@ -42,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "jTAejQwC6LaIm3wPs0eRZVAPVL+yFgrjA9eNRp2SjRasPDoBvrOR8j2XDHsXvS9jOsk8aggwMHTgwgC0B64cx45TV1sH4QpSFQLA6EOCYAnmR7McscVdM37rDm+iaPWgESM9iInDj1cfs9VGBKN4doyyz7tNEl0Bh2M4FGo+yh+xdmbRb/7T4fxpLBniEuH2OXvuXRvb2ZoxeuzpPMECob01RG1fbV8Sk11ZJDM62PY0Yj/BAu7jYFPpoUUCUL7ouKChhObT/uUpkaOgzbg1KYntaVNIoZATcSYjQPhGkoALJy8WVkL/OMYV0m3EcsS0k1EyonuyS7D19idKvLAv0DaMTDm5/IN9shAhhpKBLYM=;qJDADUphksRjQYY64LPIxw=="
+secured: "UMNnu1ROX7275wPuQkZ503LUK0ETjYX8sVJndQYf2j4q8vomkd4eM2PpIUpzp9GhKtBdtZgJPLAORIpo7QA45umE2na18ArQzEhvN7GbC4O80rzFBdMbDQUxudVyjLgCQNYbJUy5R5IbI0cKPNkfvuOclEQcaqK7vSp4Cd93ApOYyjBRm/XAv9lBOOQrmF2Nr5zqqvtukHvkMdR0uYJonO+RNhowiaYAjYKtfRn1p0cc7n7f517NgjbIZAp3lWjVPD+/24p8cKLzTBWnB3tjsf+UTjLRevdZWJDeUq9tIqYds5rJVDZUQ8Pvv8OWYg4H3QsVgVUiPIWEnr/lDfSASgYNdlR/iD+og0x+t/uXKu0=;QnQsXBoV6wK3b+MHyVH8nQ=="
 ---
 

@@ -3,12 +3,12 @@ category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
 excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
 publishedDateTime: 2021-10-11T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
 type: article
-quality: 103
+quality: 105
 heat: 135
 published: true
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
   - Google AI
 
@@ -74,6 +75,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "l4ljI4O5X20AyISSfwnKirHslKQNCZ7cfMF6mBnx+3wEFbZc6nBI3Tw+pNtJE4JIrWAL+hbyirROjqBD8btT9zcWRKg+zgaHozx3dEClnAH1ScWFug3fR0ZuOn0bOwW7qJpwgSwffPc17RMI0e63fv/YStF+MQwMsHyjXl/fG56/fUisQRatGsFxkwEpS6OnETj4x79LeskWxXcHEfgL0fAABdxw9H1LQmgsK0JlRV2TCBPPV06Pu8YmfEwB9Z+fgB0UFuUArlp7vYSxWGbbeSqcjlX0HYW1Z1AO458tq8P5FPOXfom2sGZSyEVIu4wfhJbzaVNiAA/4N0yZsCuJqv4rLiYfR4c0OgJu80XH8I4=;HLZang6raF4BDkT9zThTkw=="
+secured: "sx6/mQTz2HNFtbuhT4YMe1oidO7e3HS5hAjEQwaqRrOgRacw8LTrLPLWKkdVLu78dAuoRapTHxp3xoeWSoMjQjfHPh8W4ijYiNnbfv646n7BwEuOgL04d0soOiVAsVCB9ZEpd4ogeWxzLRta2lh9OkikUTo7u+1vHqqh48WKB8wLlJU4y6uQozsIrehh3424obPkSqTOjdBc7uoKjf1N1M0isWT/adUFryxGcXes4aPzjwupCCXwpY3UKMIOQYyR96rG9rijrYmbSRkLb8Az0j6P4M4kZRsKTcN0L+8uJJbAasJnMI90vkKgGFNdI2C4uTSkOMgyh1MxhUu+OgYuMZzQho3C2lwGYxlDkXGF2aM=;8VwvD1S1vrd1zLPq07Qs6g=="
 ---
 

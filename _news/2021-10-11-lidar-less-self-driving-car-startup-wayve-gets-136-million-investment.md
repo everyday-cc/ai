@@ -56,20 +56,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "UK's Ocado invests in self-driving startup Wayve"
-    excerpt: "British online grocer Ocado is investing 10 million pounds (A$18.6 million) in self-driving technology startup Wayve and a partnership to develop autonomous grocery deliveries that can handle tough traffic on busy city streets."
-    publishedDateTime: 2021-10-06T23:45:00Z
-    webUrl: "https://www.itnews.com.au/news/uks-ocado-invests-in-self-driving-startup-wayve-570897"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/supermarket_grocery_shutterstock_48473779.jpg"
-        width: 1000
-        height: 669
-        isCached: true
 
 secured: "76cBoF/q2LF8AOKAUvprX4ZGmykiveOUEI6EVarFhaH8XfBSe4kdy2evmQ5poKRUiQgxodaD5rVi/eRCoJhsj0oBKEOEcpaFGd377Ice4E3RBQnyY8TIdpTUw76AIitPkOmrUXcoTCoFzYNgaaS1iWwDbuid/YTAQ2CChxZ8wvq6xJ0E/LtQYB837kRvPFkvExNf9AQ7LueiNKhQn+wGYw6dpFY8mi1OlwL+4d5PJvWw7PrxtVk2dFFUxLsl9oh34lD1rywRI3LO4YxOm/xw1IL0BMNP3x7pQvuCcsnplUPte2QhCl+YC0DwVnkJK3f0z/FTXpDFOlQKfplD+CgYa0mlhlr7bN5oZ3iN7osLtzcG5mRbHW3fSWgOCc3ekCbKF/Oxpzrtk2sQ/QTFEDWRktPBtheBe1Q1co7y9tE+Zvue9zJzK+hSTi6700f+nhL34vhoEK099pkEfbegSE5c7Ut9j3CYNCnvxleIJPgvbH1A0/QrmB1B4E+5DhOvghfm3PZNa/mon1K0O7POJXaJ6w==;3Wwh4rvqNnbpEqjFskYu7w=="
 ---

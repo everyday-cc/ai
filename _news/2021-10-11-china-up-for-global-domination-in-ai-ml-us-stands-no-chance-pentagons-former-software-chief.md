@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/world/china-up-for-global-domination-i
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html"
 type: article
 quality: 64
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in a emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
+    publishedDateTime: 2021-10-11T04:09:00Z
+    webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
     excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
     publishedDateTime: 2021-10-10T10:53:00Z
@@ -124,6 +138,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
+    excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
+    publishedDateTime: 2021-10-11T15:56:00Z
+    webUrl: "https://www.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    ampWebUrl: "https://amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 57
+    images:
+      - url: "https://cdn.iflscience.com/images/583f3980-cc99-5515-81a3-01cb04439181/default-1633959012-big-data.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "China has won AI battle with US: Pentagon's ex-software chief"
     excerpt: "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,"
     publishedDateTime: 2021-10-11T15:54:00Z
@@ -213,20 +243,6 @@ related:
       - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/11/ak_chcar_111021.jpg?itok=d1G1Tg8s"
         width: 763
         height: 509
-        isCached: true
-  - title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
-    excerpt: "LONDON -The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T09:20:00Z
-    webUrl: "https://www.euronews.com/2021/10/11/uk-usa-china-ai"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 36
-    images:
-      - url: "https://static.euronews.com/articles/wires/783/62/7836206/1000x563_4o37d.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Former Pentagon Software Chief Says U.S. Lags Behind China in Artificial Intelligence"
     excerpt: "The U.S has already lost the race against China to develop artificial intelligence, the Pentagon’s first chief software officer told the Financial Times. Nicolas Chaillan said he  he resigned from the U."

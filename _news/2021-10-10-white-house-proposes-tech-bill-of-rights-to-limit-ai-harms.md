@@ -42,6 +42,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "A global AI bill of rights is desperately needed"
+    excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
+    publishedDateTime: 2021-10-11T16:35:00Z
+    webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
+    ampWebUrl: "https://amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d8761a0-5a61-4efc-8283-ca64ab31c333.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
     excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights\" to guard against powerful new artificial intelligence technology. The White House's Office of Science and Technology Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
     publishedDateTime: 2021-10-08T21:48:00Z

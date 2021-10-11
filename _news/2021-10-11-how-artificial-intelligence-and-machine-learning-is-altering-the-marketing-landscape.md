@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-11T15:47:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
 webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
 type: article
-quality: 66
+quality: 64
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: bignewsnetwork.com
 
 topics:
-  - AI in Autos
   - AI
   - Machine Learning
   - AI in Marketing
@@ -86,6 +85,6 @@ related:
         height: 3888
         isCached: true
 
-secured: "aaqGbZ1O/TUC46xJd9z7qyLIa55pl0J/L0IGWRbCGA43wtJNfTNtPOkzv8h6qbhn61905jDSwZYhIqu9CXHLBC4G2HRT0lioux2ZRYNh54765ocDjrPpY2zttGg/+d731Y8Avgk/3psw7sE0QHi1tEgPvBG6g6R6CcpB+Po0Au9ZKx75fXU3GmCwpj2mohsXeZTUh+wfqUxcV9WaPvLL2uD4+zPBxqqW1+FFZwvekLMiSKsSUMnqmbPGPQ5iYmPYS5K23Ms+uvrgln/jTrYA1BlTxU2Nc1Yxn0IABwIDPDnwUJmOewXiQt/7Rm5r+RC3t5MpQK4RecAdrJptroKENpe7ti9jVxK5/hZ+lFBvdnc=;x2QzJ/kNjzBth5LJ36GbXA=="
+secured: "G4wfndBEeZmkK4L74S3CJtYomjNQgSL6ypnWehoD27qz/y73ZBy+YfcFUDvYNfSYpRHlgzvh3Evh4nRVtPvUHH6CZBdQAdOtk23XQqqHibM+iby6/GxaQS/yz1E2E4VOGF7amjtPTGs4aLnI+bbQ0qShjY2o8Jz/Z51DDzD0NjNSJYsuPCPEliu4RX2bp+39g1crrayA27tYW2ZRysbl8Tfkrlvs0o+2KZXVX1YEXQd1j1tY3R3NPpj6mOIU4YqWJEoZTzcYa7Ofe4QBqd0f2ttOu0VMDuac7RwMRnAypAAOEoaHk+0AA5v1MhZtB2k4xJqmvuEfTgbCLSJnsh4dcMMVaCwZoOwTWgOYky/a6KU=;Ti++bGrrmabNFCG3KgGm0w=="
 ---
 

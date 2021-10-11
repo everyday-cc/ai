@@ -9,8 +9,8 @@ ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-fu
 cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Facilities
@@ -27,47 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Madeline Bailey"
-    excerpt: "Meet Madeline Bailey, Co-Head of Technology Consulting. Madeline Bailey is Co-Head of Technology Consulting - the practice arm of the global law firm Norton Rose Fulbright. She is"
-    publishedDateTime: 2021-10-09T11:58:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-meet-speakers-madeline-bailey"
+  - title: "Fintech And Compliance: It’s Not One Size Fits All"
+    excerpt: "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies."
+    publishedDateTime: 2021-10-11T14:36:00Z
+    webUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/"
+    ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "Latest Fintech Trends That are Transforming the Finance Sector"
+    excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
+    publishedDateTime: 2021-10-11T13:13:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/latest-fintech-trends-are-transforming-finance-sector"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
     quality: 39
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_6.jpg.png?itok=AFLJgqU4"
-        width: 1200
-        height: 630
+      - url: "https://financialit.net/sites/default/files/digital-banking.jpg"
+        width: 778
+        height: 518
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Tevi Legge"
-    excerpt: "Meet Tevi Legge, Vice President at ATB Financial. Tevi Legge joined ATB 6 years ago from leading a commercial sales team at BDC where she had spent most of her career learning abo"
-    publishedDateTime: 2021-10-07T16:06:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-tevi-legge"
+  - title: "Recipe For A Successful Fintech Start-Up"
+    excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
+    publishedDateTime: 2021-10-07T14:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/recipe-successful-fintech-start-up-piyali-guha"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ATB%2BLogo.jpg.png?itok=WIMUELme"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Saphyre to be headline sponsor at FinTech & InsurTech Live"
-    excerpt: "Leading AI-driven fintech Saphyre is taking a frontline position at FinTech & InsurTech Live The US-based fintech Saphyre is a headline sponsor at the FinTech & InsurTech Live event in London on October 12-14th."
-    publishedDateTime: 2021-10-07T10:55:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/saphyre-be-headline-sponsor-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_3.jpg.png?itok=286J2AWF"
-        width: 1200
-        height: 630
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHuK32d3bfxWg/article-cover_image-shrink_600_2000/0/1633614786911?e=1639008000&v=beta&t=KN-1Sph56-Qc6My7-x1N_clEJDJ2bFO9ECQz66tKqhw"
+        width: 750
+        height: 449
         isCached: true
   - title: "Talk about fintech and you’re in danger of turning people off"
     excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
@@ -83,15 +85,6 @@ related:
         width: 1868
         height: 1189
         isCached: true
-  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
-    publishedDateTime: 2021-10-11T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "0t40EQWclbiwc8IRmEtSihWLNjoNz8PcPjmAS37Sm9Ke/i54aGJGdbwWYpa6573EFH8ro6KxBDSXdAJ/ZjK5dFjPn+Rswx3D9A0mpGdVRY2sIs47zF1XxW8NR/KhpuwjHhkuryc61fnuf8HpvYa+HKDvKRKs4KRyRSJyEX5lciP51ZqfaLVrTJtWthIKHQvkEB0rRBZqkEZaQo0G0KziGdQJhFOPuOYzIBcaLCxOtHYGHuNM0SBp7vDQrmGdq79/1QKJCOuGbrM9rhwElFjDKtyxdy7Vr2ETZimeUR4yq5tYRyXUPDwlkHkyTv9SuDOOIpXDv7ofA56GvDqqe+cyYWf07kZx1B4YDbTatSomfiAAq+WVst97m5cQ9yM922Z/ag+SiYqWjLtZcpUnCiR2h6/szkITX+CXNwTMOU4WyU8l06e5943g9FQlTJ4XoStPz7x+fPJS+GrpMBv4tUlvRy2OBQaRhjzCSLJ/O2asP8lWNlCWEFYQ2XbnmLDyYs5+m/+ReOgipupHRpEDlF/+1w==;0oGgSFCdHGiLedTNdeYuUQ=="
 ---

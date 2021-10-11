@@ -248,6 +248,15 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 19
+  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
+    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last-minute concerns\"."
+    publishedDateTime: 2021-10-11T17:27:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211011/3835503.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "9MEnauuuDE3hshuywCF5L1JFqOjMGbepHdilYc5YTqoORQSltQ6CpllfS2j9phZhiJGgam33E5gJV+jKxucv+cubmGemTofYjTkHL6DxwqX2rw5bnlD4YlAtSI/zi7yYYCjKynWJA05QL/W/tD95GbC5SyfJrmLT+msVxDJSNtz8gsTRR/NDjMtSo15JOKh5X0x3CaStnum3X88xYyxlV9Q0re7BnBskKM8ykZpA2j5+R3iWHa+IdrKVaSb/iyzLhKnnl30UXM0si76S+ZUlxCA2E1dHTgNVY85z9ZOPHnbr1F6pTaOJYRBM8TvlkCLZPvxY2Zg7tCbQeQHVIA2nGLbU8CbrSUi4KbrbsyUR7ntSCuFaWNj/LtlV3pajnvEk8/snOR4hji70x/KpfkoYL5K0EPRLIb2W3mDm2fVZzKQldjQ9vTv3ljUdJ+pSeh5Qafvh5r8S9e/XFCVwZ0FSqJqYLAJkle32zkI+bpFjoLHLyMTU5TLP7MKdL8vuMvOnHFSE90IuPljN++dlRSMb4A==;BtLQ+SZfOxnDWEpYVmzMXg=="
 ---
