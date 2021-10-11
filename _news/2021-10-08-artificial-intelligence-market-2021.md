@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "Artificial Intelligence and Automation 2021"
+    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
+    publishedDateTime: 2021-10-08T20:32:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="
 ---

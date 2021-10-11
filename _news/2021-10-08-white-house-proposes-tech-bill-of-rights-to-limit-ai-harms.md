@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House proposes tech 'bill of rights' to limit AI harms"
-    excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology"
-    publishedDateTime: 2021-10-08T17:17:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_b391a4af79a44970802d27dea6418bda_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
     excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology. The White House’s Office of Science"
     publishedDateTime: 2021-10-09T17:11:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/10/AP21281627613223.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
+    excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights\" to guard against powerful new artificial intelligence technology. The White House's Office of Science and Technology Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
+    publishedDateTime: 2021-10-08T21:48:00Z
+    webUrl: "https://apnews.com/article/joe-biden-science-technology-business-biometrics-b9dbf5fee3bf0e407b988b31e21f5300"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "White House science advisors propose AI “Bill of Rights”"
     excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"

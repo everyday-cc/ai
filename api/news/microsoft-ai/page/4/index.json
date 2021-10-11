@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-01-wipro-appoints-mohammed-areff-as-country-head-managing-director-middle-east.md",
+      "title": "Wipro Appoints Mohammed Areff as Country Head & Managing Director, Middle East",
+      "excerpt": "In his most recent role, Areff was the Regional Director of Microsoft Gulf where ... consulting and business process services company. We harness the power of cognitive computing, hyper-automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswireindia.com/wipro-appoints-mohammed-areff-as-country-head-and-managing-director-middle-east-74691.html",
+      "originalUrl": "https://www.businesswireindia.com/wipro-appoints-mohammed-areff-as-country-head-and-managing-director-middle-east-74691.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswireindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-vmwares-new-tanzu-platform-aims-to-unify-kubernetes-development.md",
       "title": "VMware’s new Tanzu platform aims to unify Kubernetes development",
       "excerpt": "The beta release of TAP promises to abstract the complexity of Kubernetes for enterprise developers at all stages of their cloud-native journey.",
@@ -1337,40 +1371,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-cognitive-analytics-market-trends-and-research-insights-by-2026-google-llc-oracle-corporation-sas-institute-ibm-corporation.md",
-      "title": "Cognitive Analytics Market Trends and Research Insights by 2026-Google LLC, Oracle Corporation, SAS Institute, IBM Corporation",
-      "excerpt": "Source=OpenPR&Mode=AK Top Leading Companies of Cognitive Analytics Market are Google LLC, Oracle Corporation, SAS Institute, IBM Corporation, Amazon Web Services, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2359554/cognitive-analytics-market-trends-and-research-insights",
-      "originalUrl": "https://www.openpr.com/news/2359554/cognitive-analytics-market-trends-and-research-insights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2359554/cognitive-analytics-market-trends-and-research-insights",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359554/cognitive-analytics-market-trends-and-research-insights",
-      "publishedDateTime": "2021-08-18T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

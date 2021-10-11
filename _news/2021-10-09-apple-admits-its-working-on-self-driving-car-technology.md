@@ -55,19 +55,19 @@ related:
         width: 550
         height: 352
         isCached: true
-  - title: "Everything You Need to Know About Artificial Intelligence, According ..."
-    excerpt: "Chinmaya Madan of Toronto Explains the Ins and Outs of Artificial Intelligence TORONTO, ON / ACCESSWIRE / October 6, 2021 / Starting back in the 1950s, the fathers of the artificial intelligence (AI) field,"
-    publishedDateTime: 2021-10-06T18:15:00Z
-    webUrl: "https://www.pr-inside.com/everything-you-need-to-know-about-artificial-intelligence-according-r4849874.htm"
+  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
+    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
+    publishedDateTime: 2021-10-11T11:25:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 36
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 37
     images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
+        width: 700
+        height: 530
         isCached: true
 
 secured: "VVH+qJN8LGG6l6R8dZpgQMEk++4ZlF3BOsNtglfAVvJzPNcxfOsDG3uWjVjyw2zUIxeyxqVfEOctYE5PiHdIYLwqJnUhRQoQxeBUOxDK5qNi1EgHIOLSQveDPf/X+VLixkc8c6dihWO2ewPT3xsU5CTn+MVx5/ktLHZBK/kfFdA0cxpgBb51CZvBzLbUS6MiTSVL4+Uvz6sNHHgkYdY48QSoeJdtC+Wm5CNivAFPMOqV+9juVboElVX1b6YH3Nqx+OFEhrSYHukJpQyu8AQFw3YJvZVwWdKvg0zBDYJisLNeOThuyO3PE3M0LNIeHgUiFjUIlebC2MNTIsOGlquJMto/vTpgI09ubKhlbiYbpl8ctpwq+0F9/nMNe+J/DP0hqLGDpUVt0XYwWW0Rt/vUst/XSEzn75WoMN81FuHLePey3mM4gJEmXyxmEgk6CRKSAuKeFAj2gTBpax8Wo8C7GwZjiebbYLZqHlfA5Ub5+LbwISm8ilzJj8q7n65TqE4AD3mKoav2EqqQZcAKuXkQyw==;QWkZk/Vb8sLRu7LCy9bagg=="

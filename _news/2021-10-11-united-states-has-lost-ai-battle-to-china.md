@@ -28,18 +28,18 @@ related:
   - title: "US loses AI battle to China, expert says"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging"
     publishedDateTime: 2021-10-11T05:26:00Z
-    webUrl: "https://www.examiner.com.au/story/7464981/us-loses-ai-battle-to-china-expert-says/"
+    webUrl: "https://www.standard.net.au/story/7464981/us-loses-ai-battle-to-china-expert-says/"
     type: article
     provider:
-      name: The Examiner
-      domain: examiner.com.au
+      name: Warrnambool Standard
+      domain: standard.net.au
     quality: 39
     images:
-      - url: "https://www.examiner.com.au/images/transform/v1/crop/frm/silverstone-feed-data/12074d01-2b9a-468c-baf4-02b30120f2fc.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
+      - url: "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/12074d01-2b9a-468c-baf4-02b30120f2fc.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
         width: 800
         height: 452
         isCached: true
 
-secured: "G/vVMP30/DBXUp9ywN+GfbW3tZ8LfoRkjNIpZaSZe8zL4NT/v2A9UL3URi/n3FGH8D/NZOogM+QptbrsZb1pxFQycsipbdgtxPm2nwUjWsr1e2bcHqfrJi/rXr5r3A+uDJYUYID6Pl9BFYgIoHCvHwRPHiPY6YeVy+3w90j0d+8fYngJkBUfpKZ8SrFCibZWuN5fKOXhpzKl4jDFvQUVIQwRsNp5lOGe4BcVaCnO9VFXTR/b3/YTAm5I4hnm9mWJ04HwDPHEsk4p9HcEDnSt8cxJI6atu4/AbCvjV4oYYLsyF5XdbtraYNSq2NNcBlhjG12tMLTczKzKPu04oLY7FTuKRNcmt/W/cdwipSh4Lno=;We1+T5vgDFWDBUf8rOciyw=="
+secured: "nroy4voHWQEgECkg29yG48hK0v7ll05giWaPfIfSNO/WjODzhaW+TbGXrCEIGjM7zd1WfcIvkQfDLlKiXRfQqMGYuJd0vDcKfnH6N02vO7cE77Ly1Vt7vromtMk14B5bo/Zuy/DCaj+eCrfUb+SaBtUFmLhRAehilprA1PHs5IidMS9AY9plBxi5t1ZlFzHbVjgsFykF+tipb39c+IyKnzY2yL7qOv0fe6Alc8CnwjjRuo+Q4rkkhJ42RUlJklylOhk3ZABlDr0Gd0W9gwRmsiOICG3Jwojf8UNUHJsC+q8FPbx7WFguN33Lp/BFWKoGzUKiqFlw1XdwdedOVpIEhiQHSNP2arlxAMWOAaNuCjD0vjPtSPwPSnZi1X0ej0nvU1iDePg/Zq+h1I8CJfcFz9q/m9R5P0BQt3FWTLyuY3TsZDPDEAidoVULhVgMWHsYXvfvvF2itCVO9QOj4NqZq6O89gX5eGMFfZFDXa34YGiWi3/VNA3hMP/LjSi+arXV0qzRggf/rHHu4T9NtHPWJg==;0GkmEovFUMaFEhMJ2aFjnw=="
 ---
 

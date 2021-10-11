@@ -1,122 +1,20 @@
 ---
 category: news
 title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
+excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
 publishedDateTime: 2021-10-05T20:30:00Z
-originalUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Fairmarkit Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "Fairmarkit honored for achievements in fintech and automated procurement solutionsNEW YORK--(BUSINESS WIRE)--CB Insights today named Fairmarkit to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
-    publishedDateTime: 2021-10-05T21:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542053"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Socure, Onfido and Trulioo crack CB Insights’ Fintech 250"
-    excerpt: "The biometrics providers have cracked the CB Insights Fintech 250 list for 2021, with Socure, Onfido and Trulioo all represented on the list."
-    publishedDateTime: 2021-10-08T16:19:00Z
-    webUrl: "https://www.biometricupdate.com/202110/socure-onfido-and-trulioo-crack-cb-insights-fintech-250"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
-        width: 1140
-        height: 540
-        isCached: true
-  - title: "Glia named to the 2021 CB Insights Fintech 250 list of top Fintech Startups"
-    excerpt: "CB Insights today named Glia, a leading provider of Digital Customer Service, to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
-    publishedDateTime: 2021-10-07T20:24:00Z
-    webUrl: "https://www.cuinsight.com/press-release/glia-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 22
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
-  - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
-    publishedDateTime: 2021-10-06T10:05:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 16
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
-    excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
-    publishedDateTime: 2021-10-07T07:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542920"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 15
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Cowbell Cyber Named to the 2021 CB Insights Fintech 250"
-    excerpt: "Cowbell® Cyber, the industry's first AI-powered cyber insurance provider for small to medium enterprises (SMEs), today was named to the fourth annual CB"
-    publishedDateTime: 2021-10-05T20:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cowbell-cyber-named-to-the-2021-cb-insights-fintech-250/article_8382ba23-d858-59c4-b738-810e031f63aa.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
-  - title: "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running"
-    excerpt: "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private com"
-    publishedDateTime: 2021-10-05T20:44:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211005006187/en/Onfido-Named-to-2021-CB-Insights-Fintech-250-List-of-Top-Fintech-Startups-for-Fourth-Year-Running"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-  - title: "Stampli Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named Stampli to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year’s list was unveiled on stage at CB Insights’ Future of Fintech conference in New York City."
-    publishedDateTime: 2021-10-07T14:00:00Z
-    webUrl: "https://www.financialbuzz.com/stampli-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-
-secured: "wE6ARJObyhXHGUQBCFuUF5p4YWbFwsQXXcJFrcTqC99DwXvfMjM6LMotaLRmaNHBUe3T4oY8JfnEuQ5pCd4fCCKY1Xb92Io3yR7Py+fbBLVoD4fGueMJVpjhTN5viW3kDlchL90bF7vlojIevgEUZIWKrOznvV0CqlVORjeqsgqpTQBBbAj8mZ6R3r0ND6SOlfYhXxiLz0MnqViGvGjMG3WeWOIz6MfNZLRZqb6WL+IaCTkTmkHt4SS80g8N0eEXXLZQ/KIaK7K39mc4zg53Rnn9riT8LYRZj+yrmVJYNpz/kj5V8ftNTBD7aVKfs4IxntRZ0WXClBBzpx+El9mQiswViVft0FCgaeU/8VCFVlc=;9bOLtVjvTG4jStmhwdxHeQ=="
+secured: "RTtTPi6WW3GDn9ICkRbRz6sq1j7yrIBcIU+cVoMeRdfzl4EuG6Ey/WtXLsAkAKxn7YlJ2q22cGaxLqRHa/AuqU0W9G/6/QIqKrQFcV6iTmXdYYeOtL4m9PBo35DjOJysIf4HgdcIp2rDrwKrR3ApRjPeWs+BC/q6f99abxy1Z4tF7Ca9MfZ2qcyHYNnZWtTOzsb7/uKHjpTMvCXkrv72ktrZ1Fcoo2B9qG+HBT7e4wjlEjWnKRTmhXKa2ExjDgJbsVfpNv0nkzfU1HP3ymvRB9TJNzVOVxszuW9NpLO/yzM2lFYu5YEfZyjubFe8GYDRLewDS652xmoUbfE07aE7SxVfBj7mo6AJBl2I2HmTcNE=;QGYGRztg7FDHryrzJNh7OQ=="
 ---
 

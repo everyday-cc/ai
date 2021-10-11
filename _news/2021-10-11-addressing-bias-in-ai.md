@@ -25,23 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "FDA Review Can Limit Bias Risks in Medical Devices Using Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI)—broadly defined as the science of developing machines that can simulate human thinking—offers great potential to improve health care and reduce costs."
-    publishedDateTime: 2021-10-07T00:00:00Z
-    webUrl: "https://www.pewtrusts.org/en/research-and-analysis/articles/2021/10/07/fda-review-can-limit-bias-risks-in-medical-devices-using-artificial-intelligence"
-    ampWebUrl: "https://www.pewtrusts.org/en/research-and-analysis/articles/2021/10/07/fda-review-can-limit-bias-risks-in-medical-devices-using-artificial-intelligence?amp=1"
-    cdnAmpWebUrl: "https://www-pewtrusts-org.cdn.ampproject.org/c/s/www.pewtrusts.org/en/research-and-analysis/articles/2021/10/07/fda-review-can-limit-bias-risks-in-medical-devices-using-artificial-intelligence?amp=1"
+  - title: "AI incubator makes understanding practical applications as easy as P-ai"
+    excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
+    publishedDateTime: 2021-10-08T08:07:00Z
+    webUrl: "https://tsl.news/p-ai-incubator/"
+    ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
+    cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
     type: article
     provider:
-      name: Pew Charitable Trusts
-      domain: pewtrusts.org
+      name: tsl.news
+      domain: tsl.news
+    quality: 57
+    images:
+      - url: "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg"
+        width: 3177
+        height: 2037
+        isCached: true
+  - title: "How AI is Being Used in Education"
+    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
+    publishedDateTime: 2021-10-11T05:46:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
     quality: 54
     images:
-      - url: "https://www.pewtrusts.org/-/media/post-launch-images/2021/10/gettyimages1285032124jpgmaster/16x9_m.jpg"
-        width: 1820
-        height: 1024
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
-secured: "SxVnDcynJ/npq576iApotJHVfp1U2otqVrCtxHKN4gUswX3wkKzzesBCUTvIxQcsEHD8RwMX9JG1jwxKvj/1ezliAMIiHhShiwMk2NlThOTSUWq4tqwa3lGsjMT3LwWRAaYbmQucIJbnSlJtZWF7lViR5CxI/Eh7sv46gYn4qmoc+kmZIxkhTA3YXxMi/Mc5jj4CRUVhXhdX+IbZAFGCNEqGqaWoyNHQL3xHZAMDpigWnEre8omG9EnjevGcPJoWiG+RfEiIz1sNu2pySicGbW6bz5tGuSS5N5Hk07kjuIbkDPCMrgEBcby/rjljQacMiK36dGxZ6kYpdrqpg1KIMOfi7+G0lAsdUT692BabpHY=;GGi9d9v52sIVcexnBXQtUg=="
+secured: "Wn4zFB1Y2Mtz4TXzRSR25/dK/dNo8XSXIKc18s9/7t+ls5CusJwvBqTDXbmiwCUWJmZBeGmnC2F8rxiUgz7zD0ObXxLXscBt5xwCWYKbmKS1UguZyeFM6XFNdJkMGxaKdbpMu5YdDbF+5hJgiKLYOG6TPtN2wjpBAqPv7R1W5JTVBbRgKbGiyjlyhVy5/4zYdg++dANX7lAnLqJPiONY+T5TT2luFqOJNGcxPvMnebNWwf0bF0Bk86elbN++hu2eUbPRt1rY2ZIET8YLJJBzwiC4fX9GzUdAXTb9t2kaA7XhtDPbgVyz3TJ5pFlbCtKVdspCuyK7XQ8/j2ppJwcmn4Ki2XfDfntbsDRq7V8v+O9n8y68YTOvqrzDKE7C7FOJAGZffvyQq1mvdjolJnYNXykZpA9NACaMIluXUdK0Bj7+lRdLx0sZHLFLVR8Z2RHb3xW7e3eQj1Bi8q7YZNEMe6qfNTaHlr2GoCPaBWmawR1OiqGBgMWkUSH3DVHOSZBeDQB5+IBbNR6548F6N3EL9g==;O0YbaFIkfWovJqqg3lvgoA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
 type: article
 quality: 97
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US"
+    excerpt: "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location"
+    publishedDateTime: 2021-10-11T10:21:00Z
+    webUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/"
+    ampWebUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores"
     excerpt: "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\""
@@ -161,6 +177,15 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
+    quality: 19
+  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
+    excerpt: "San FRancisco, Oct 11 (IANS) Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last ..."
+    publishedDateTime: 2021-10-11T11:57:00Z
+    webUrl: "https://www.sify.com/news/tesla-begins-rolling-out-full-self-driving-software-update-musk-news-education-vkll59bceceia.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 19
 
 secured: "Aa5U1MC2CISXBB1/JAk4OsthevHaTFuhiB5YlzHxjIZYW+AlX+NtmNqxjLBOfoadQk0RJ6rFyrGBU1KVEEQDg6NXugHOuWd7ZWyamEcm+g4Vd1z5mYuFbZIWP71wpluHH/dD22aoyQG/nZoHflQZrhHbU9BPClXdxPng9QWqGA+6/wQf6fSOrMTI1zRitkCcIMKdonZ/ZOeqWSP67L8COpboqyjkl9V2bsb3fDJMxERCcHLf1ML1c8NmMvIgqiwp3aPBIcFSXRM8EYoDKcUTccvkIWkONGDvXfAxu9e8vbCmiQPhIS/QYW6foVafX3x0FA3ezo8Prmr91/TmNDq5WLUQ/j1dGGL0+yEhP3nFAN1XRdqysDZUxohHLxExZKRr7rEu9wl3+0lMW3T8MeilhwyA42LQZvDpD5KdQq9aYX27rMPBjSCOjdBmFSi3ADA19ObQ03rcLHihISKVvjERIqrLaZLuBfeD3iqX1IoY5uuFG3PuTly0ol7N7iAuTY85X9X6HGRwBQ0DHp969sJEBA==;+2bOMZR2HQUzj2BweKpNXg=="

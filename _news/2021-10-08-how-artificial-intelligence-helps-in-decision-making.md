@@ -27,149 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Driving AI innovation in tandem with regulation"
-    excerpt: "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation."
-    publishedDateTime: 2021-10-06T18:47:00Z
-    webUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/"
-    ampWebUrl: "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/"
+  - title: "How AI can fight human trafficking"
+    excerpt: "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play."
+    publishedDateTime: 2021-10-07T23:40:00Z
+    webUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/"
+    ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 91
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "AI incubator makes understanding practical applications as easy as P-ai"
-    excerpt: "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI."
-    publishedDateTime: 2021-10-08T08:07:00Z
-    webUrl: "https://tsl.news/p-ai-incubator/"
-    ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
-    cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
+  - title: "How Artificial Intelligence is changing music"
+    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
+    publishedDateTime: 2021-10-07T12:41:00Z
+    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
+    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
     type: article
     provider:
-      name: tsl.news
-      domain: tsl.news
+      name: The Hindu
+      domain: thehindu.com
     quality: 57
     images:
-      - url: "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg"
-        width: 3177
-        height: 2037
+      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
+        width: 615
+        height: 384
         isCached: true
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+  - title: "We need concrete protections from artificial intelligence threatening human rights"
+    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
+    publishedDateTime: 2021-10-07T09:34:00Z
+    webUrl: "https://business-reporter.co.uk/2021/10/07/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 33
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://businessreporter-197a1.kxcdn.com/wp/wp-content/uploads/2021/10/business-technology-internet-and-network-concept-labor-law-lawyer-at-picture-id1206961013.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Time Is Ripe For Responsible AI In Aviation"
-    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
-    publishedDateTime: 2021-10-08T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
-        width: 1600
-        height: 1064
-        isCached: true
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Google AI Introduces FLAN, A Language Model with Instruction Fine-Tuning"
-    excerpt: "Fine-tuned LAnguage Net (FLAN) explores a simple technique called instruction fine-tuning, or instruction tuning for short."
-    publishedDateTime: 2021-10-08T10:24:00Z
-    webUrl: "https://analyticsindiamag.com/google-ai-introduces-flan-a-language-model-with-instruction-fine-tuning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/ai-in-search-5f88cc960a6ef.png"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "These strategies can help in driving innovation at the AI start-ups"
-    excerpt: "We all have heard about many big tech companies of AI and also take inspiration from them many times, right? For all the AI start-up’s looking for strategies to improve your business, here you go!"
-    publishedDateTime: 2021-10-10T11:30:00Z
-    webUrl: "https://www.analyticsinsight.net/10-strategies-ai-start-ups-should-follow-to-become-big-tech-companies/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-Strategies-AI-Startups-Should-Follow-to-Become-Big-Tech-Companies.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Dozen PSUs on the block after AI privatisation"
-    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
-    publishedDateTime: 2021-10-10T19:44:00Z
-    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 37
-    images:
-      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence Could Power the Next Generation of Aviation"
-    excerpt: "Download Free PDF Brochure @  The global artificial intelligence (AI) in aviation market is expected to be valued at USD 152.4 Million in 2018 and is likely to reach USD 2,222.5 Million by 2025, at a CAGR of 46."
-    publishedDateTime: 2021-10-07T20:35:00Z
-    webUrl: "https://www.xing.com/communities/posts/artificial-intelligence-could-power-the-next-generation-of-aviation-1014567822"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 17
-  - title: "Lab Notes: A Pennovation Lab lease deal, an Proscia AI advancement, a cell therapy collaboration and more"
-    excerpt: "Lab Notes has s Pennovation Lab lease deal, an artificial intelligence advancement, a cell therapy collaboration and more."
-    publishedDateTime: 2021-10-08T17:06:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2021/10/08/lab-notes-interius-proscia-century-therapeutics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI-Driven PROVEN Skincare Announces Launch of $60 Million Regulation A+ Offering"
-    excerpt: "PROVEN Skincare (“PROVEN” or the “Company”), an AI-powered, technology first consumer company that formulates and markets personalized skincare produc"
-    publishedDateTime: 2021-10-07T11:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211007005436/en/AI-Driven-PROVEN-Skincare-Announces-Launch-of-60-Million-Regulation-A-Offering"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "sijm1ZgP4eAZED7tmoWcl/Zj4Bo+yW2qnlWDhUgsn/8UC5/P3osYbVsld3e8q+q3dyjqKonTSSUS54uMNNXLK/zeJVmpsZdzDahKVsntjMN0tIbAsrdUREEAQBcRSSTlINY5xpAAVL1gNqgxhY7zKN0YINeIHYLqOolffkXh0xx4dtZQXjaWYbS1oyqgzrRtFk1zPd7VBoIQDio4Si8o28r7zKWjrENjvkTravrt3BEcxwCcylmsLuahYmhtUEHB9Ha2Zh9GwyGAJ9C4h+I2a7TSnhdD46Z0cUehMOtgrxu0hnJryK+BHB7sDNrUdSahat4Csqe5sUleGbfBFZUB4yuqVNPvw3Wv6/jZmXUh+GHyMFKhG3jXX2v4X6fr6jAEXQkBozhjcrBwTAvxPMQg1ipS40XqWacx/5j+I/lcVtI6xYDwUaW/hi26x64J7kwViOqPQglExzEJc8jxCOnqmW/9WCkmSR+IvKIO/K8BiGLekDYOvA+/8B9UO7pCV+BOaS7t2iEo8udJbHhPhZTg1g==;Tw0LAINt/TS92JVAdfJ2XQ=="
 ---

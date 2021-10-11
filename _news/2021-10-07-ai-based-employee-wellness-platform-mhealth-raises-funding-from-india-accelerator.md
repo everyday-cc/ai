@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/389851"
 webUrl: "https://www.entrepreneur.com/article/389851"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered professional networking platform Lunchclub now in India"
+    excerpt: "Lunchclub, a US-based networking platform that uses machine learning algorithms to connect professionals with common in"
+    publishedDateTime: 2021-10-11T11:36:00Z
+    webUrl: "https://menafn.com/1102950518/AI-powered-professional-networking-platform-Lunchclub-now-in-India"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/I_6f3fbimage_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "News: AI based corporate wellness startup mHealth raises funding led by India Accelerator"
     excerpt: "The Delhi based startup helps corporates in streamlining employee wellness programs and bringing the same on a single platform"
     publishedDateTime: 2021-10-08T02:40:00Z

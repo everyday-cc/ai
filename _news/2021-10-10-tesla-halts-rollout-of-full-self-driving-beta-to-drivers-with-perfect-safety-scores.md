@@ -63,6 +63,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US"
+    excerpt: "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location"
+    publishedDateTime: 2021-10-11T10:21:00Z
+    webUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/"
+    ampWebUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla wants to share ‘Full Self-Driving’ with other automakers when it has yet to deliver it to people who paid for it"
     excerpt: "Driving” software to other automakers, but the company has yet to deliver the feature to Tesla owners who paid for it. At Tesla’s shareholder’s meeting yesterday, CEO Elon Musk announced that Tesla is considering licensing its “Full Self-Driving” (FSD) software to other automakers: I think Tesla’s open"
     publishedDateTime: 2021-10-08T19:03:00Z
@@ -161,6 +177,15 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
+    quality: 19
+  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
+    excerpt: "San FRancisco, Oct 11 (IANS) Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last ..."
+    publishedDateTime: 2021-10-11T11:57:00Z
+    webUrl: "https://www.sify.com/news/tesla-begins-rolling-out-full-self-driving-software-update-musk-news-education-vkll59bceceia.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 19
 
 secured: "LPHdfcObOudFe0xOntVybUkBAgJjwm2dpcoUUSH4knISwpwz/nzZJnf0/hvi7rRXILTHkPaknovoRPkFrv2HhSsWkSdTMoe6Qe3DIS9E9JBnGcdFlU6KhAu0yd1boeZDdq8wRUQEzASp+GbSyltj/4wZ2FUYbQEr6d95Igg4K2rB9hBshy3KyHK5A78ahmhtz7uE0wPw8VAdh812Dn/L46p43AJK3a9gdqeXnrIfLuySCvVXXMdMX5PpveDxsv8FLkgzay6lJKAr39LFy/owxsCO1jVJ0oa8X2xus1yjKxpR2MgDSfLsUmQcUUxMlzXDlXIiL2eCNbjQe6yIcDe8g67kkSOKc74upAlE7iPf313+0+yKqKJZ3fbcW/ZfZ7wU2PB7bSV/Z5dDj9aieeIwq3fsRcWx1mWBSPoB1lX9y77dcAuszh8EAo939lX8Lw42G0PL0a0E58OYOmJvXM6n79BYqrPWnVgKXvohMsl24JTFRrlsOT7XuzVdkqFwpBTQoas0SQQJTnFo5WBuz1yUYQ==;ZD6/DqNa95yRdvKhSkUA/A=="

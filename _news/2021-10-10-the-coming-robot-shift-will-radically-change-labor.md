@@ -7,7 +7,7 @@ originalUrl: "https://www.taipeitimes.com/News/editorials/archives/2021/10/11/20
 webUrl: "https://www.taipeitimes.com/News/editorials/archives/2021/10/11/2003765884"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 586
     height: 800
     isCached: true
-
-related:
-  - title: "The robots are coming, and your job may change — but it won’t disappear"
-    excerpt: "The most radical among them formed paramilitary groups to raid textile factories and destroy knitting machines and mechanical looms — devices that would replace workers. Their political descendants include the lamplighters of early-20th-century New York who went on strike to protest the advent of electric streetlights,"
-    publishedDateTime: 2021-10-06T18:50:00Z
-    webUrl: "https://www.thestar.com/business/mars/2021/10/06/the-robots-are-coming-and-your-job-may-change-but-it-wont-disappear.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 39
-    images:
-      - url: "https://images.thestar.com/kute1lIezo8p7Lnvfq-OovO2q08=/1200x812/smart/filters:cb(1633546246270)/https://www.thestar.com/content/dam/thestar/business/mars/2021/10/06/the-robots-are-coming-and-your-job-may-change-but-it-wont-disappear/welding_robot_and_welder.jpg"
-        width: 1200
-        height: 812
-        isCached: true
 
 secured: "uVop3fI6H+zRfCo1gNbbPOH4eTqkEjMfMVqDyc97yQFDAh8X4fBa6/8+uqsQrWDhNurp6CBaIsS/NtxoPPgNcmEqbb9lzUJjjiQgPechu0JmPG/IaLkZ694EqsffrqnPSiCAjajQXnzqCHFK4BFXBjUMyz8TOcVDJvf6kKALBcs2uyVXdER0m2+NYyTJ3FoolYNOa+Bz2KAbZe8b2ML5CNT1jQ5Obq07frN3w+AVT53yrkCSnPssNs5oeBRZEEocnKix8HBJV7CJfT4EDq2y1/OqEjq89rh3Of33oMi7HZpcgsvU1TODOngnMYwmdt0jJDf7g1uCMv1UvdJjFIHUZL9IXUuZdc1ZTnP7CCKEY1MP8hYSD15VAHnGIfrjImQ5kvPA1sVyXWrKE71UAseHv3w49TOdl10S4VPc7qS2mAcf4zxS0djzwP2dlnVg+SBj1I55GSVNZaYXk34Dwh6y5tNsyOTrvWuWrkCY5v1mGjlitZ0J0aaqNwwT8xig9+xAe8Y3SZBfgl36hLK1ptzPxA==;Ib5bjiiEU2rzmlv4iQeXJA=="
 ---

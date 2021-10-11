@@ -87,6 +87,20 @@ related:
         width: 660
         height: 381
         isCached: true
+  - title: "EU parliament calls for a ban on facial recognition in public spaces"
+    excerpt: "MEPs in the European Parliament have voted in favour (by 377-248) to ban automated facial recognition in public spaces in the European Union. In a resolution MEPs also asked for a ban on private facial recognition databases,"
+    publishedDateTime: 2021-10-11T10:54:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/eu-parliament-calls-for-a-ban-on-facial-recognition-in-public-spaces"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633949566/widgetdocs/Biometric_surveillance_jwbisi_jqecjd.jpg"
+        width: 750
+        height: 445
+        isCached: true
   - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
     excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
     publishedDateTime: 2021-10-11T08:37:00Z

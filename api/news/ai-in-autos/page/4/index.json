@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-10-dubai-eyes-the-future-with-self-driving-cabs.md",
+      "title": "Dubai eyes the future with self-driving cabs",
+      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "originalUrl": "https://www.zawya.com/uae/en/business/story/Dubai_eyes_the_future_with_selfdriving_cabs-SNG_241845934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210412111336ZRVZ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_241845934/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_241845934/",
+      "publishedDateTime": "2021-09-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-4-self-driving-truck-stocks-you-need-to-keep-an-eye-on.md",
       "title": "4 Self-Driving Truck Stocks You Need to Keep an Eye On",
       "excerpt": "The global economy is moving toward several exciting trends that lead to new and interesting investment areas like self-driving truck stocks. Driverless vehicles promise a revolution in safety and ...",
@@ -1362,58 +1405,6 @@
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-30-artificial-intelligence-ai-in-automotive-market-study-2021-2027-highly-favourable-reward-to-risk.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market Study 2021-2027: Highly Favourable Reward-to-Risk",
-      "excerpt": "issues concerning accidents of self-driving cars, and the risks of cyber-attacks on connected vehicles may hinder the market demand from 2020 to 2026. Artificial Intelligence (AI) in Automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-study-2021-2027-highly-favourable-reward-to-risk-2021-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-study-2021-2027-highly-favourable-reward-to-risk-2021-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -101,6 +101,20 @@ related:
         width: 660
         height: 381
         isCached: true
+  - title: "EU parliament calls for a ban on facial recognition in public spaces"
+    excerpt: "MEPs in the European Parliament have voted in favour (by 377-248) to ban automated facial recognition in public spaces in the European Union. In a resolution MEPs also asked for a ban on private facial recognition databases,"
+    publishedDateTime: 2021-10-11T10:54:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/eu-parliament-calls-for-a-ban-on-facial-recognition-in-public-spaces"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633949566/widgetdocs/Biometric_surveillance_jwbisi_jqecjd.jpg"
+        width: 750
+        height: 445
+        isCached: true
   - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
     excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
     publishedDateTime: 2021-10-06T19:22:00Z
@@ -116,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "F9RUG2hZO1Ogk0cmTP1p/9XZ13KbEHPoecZrvzW5SCD6b6kX5zt3nPvPIyamHZGxgUxuTdMCHikYGX12u2ZoJIrYILFA0yXRYVTJneMqoxS2N5DMQhNNZOjbiRczVESyo05ST02UhAxzcx8jRfdXVARuUJqdQ78e+uG609cCKy6JrpzRnlvoPBZuSAclnp4v6waMOFhRfMBSZNqIG9RJPAJAAHFkKptavfTxL7GSl7aELpO4bpLOp9zcLLIeegE/LfCNuO9wP6JoXWnjJAxam5VzX233E3NGbtqPDOBj3tEupFd8h1qMFFicYpZ3r9hBlWLjLD33ki9zxsf4bWWNKAZal0mIMcld3An+WDkYQHw=;8sm+DMC7nYfOdO0o26IE+w=="
+secured: "njl1er7NSiQURo0bzVJpDMkQOHhUmbowEqRuFySwtQIeiVYFtgpAjeWOhW9e/mqXu6dPbUbYxB1ximeb6aH7IUyEOKsVfKiz6gDfonwR6oLPY/u+0zHk2S8bokwsTfUqjYc0RLWaZQTXTYtw/kIzsEazgBGNa0NvSdy0r16g9foo58NLmVcorWBI+n+mnSAZkGoNCH5h7fpV7Jw6edk8iawdStO/YNNpMA5f6a24h9Vupbz4b5oKeg3fGtQJlGcMkzS6WaH/l99O5G/z3VtuZtS8M9UpfAolCNMMaYgB0zVCzxUwHte0cMVYnViTgz37Q+PzS31UE1Dyqs5Jb4hINl912h8R71EOvUIVoZd7P+wxIDbwmevwrY0Os5YeAHhlwr4SYnx+NL4oMG6NniY1C90oXcPsSZnmU+1woKPc4tpEc5V7FJIrWMY0Xbucta0LnyH4ncetjJibsQD8aQu3qxVQK3qomR6ADI1tF+vN2xRgagXWVpWAFosZk7rAk0adCYrmxuU6zyD+bRPePcJauQ==;EHhaFU4f9VxzvXWKDPiF1g=="
 ---
 

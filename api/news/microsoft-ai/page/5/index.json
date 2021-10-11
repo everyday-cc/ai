@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-18-cognitive-analytics-market-trends-and-research-insights-by-2026-google-llc-oracle-corporation-sas-institute-ibm-corporation.md",
+      "title": "Cognitive Analytics Market Trends and Research Insights by 2026-Google LLC, Oracle Corporation, SAS Institute, IBM Corporation",
+      "excerpt": "Source=OpenPR&Mode=AK Top Leading Companies of Cognitive Analytics Market are Google LLC, Oracle Corporation, SAS Institute, IBM Corporation, Amazon Web Services, Microsoft Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2359554/cognitive-analytics-market-trends-and-research-insights",
+      "originalUrl": "https://www.openpr.com/news/2359554/cognitive-analytics-market-trends-and-research-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2359554/cognitive-analytics-market-trends-and-research-insights",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359554/cognitive-analytics-market-trends-and-research-insights",
+      "publishedDateTime": "2021-08-18T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-18-auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year.md",
       "title": "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year",
       "excerpt": "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021.",
@@ -1244,50 +1278,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud.md",
-      "title": "Danish State Railways rely on video security from Dallmeier, deployed within Azure cloud",
-      "excerpt": "Danish State Railways (“Danske Statsbaner”, DSB) operates the local passenger transport on nearly all the railway lines in Denmark. The scope of its responsibilities also includes",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/920/danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud-920x533.jpg",
-          "width": 920,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

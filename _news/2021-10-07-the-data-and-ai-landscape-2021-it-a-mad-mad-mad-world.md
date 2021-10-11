@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Artificial Intelligence and Automation 2021"
+    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
+    publishedDateTime: 2021-10-08T20:32:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "yHF1t3L3g3QljavSeCrE+kJPd880hFsJKoakwiN2+JnokBGnnWU5+J1j98zPxdkTavG2GDwBg09OackLMFGWETqEc/njNnzJDIZWsUfa8YSF0dzNOyUPzUrVdStRvfgLYPu+KTFwEKr2fh3MGzEDQ+H9jDGkF7dBYduOltNnVK6qj/3i99q65T0R07EjMl7zsC1KNaISY3gROI1HXc0nb9VT6ql3403mBKgGgOnYinWfx/uzvVpusVvwZQoLZutofLj9ExMgTE3Lnlg/K+fa43xB02YK3WPnOywNNmVSeeunEcxBFx/YSF7iTDo21ll/whsIU8d1TDOR20WmwNPvzvW7p7nbtS3B7e+mQiqYUwWjFNcq5plHxadAq5Q/tFzrX+xyiSji7LEmOtFDBuk8/rRgv5WQp4R/4HXRpKZ40HYMLWdBbrv9xJ5P0opCMjzi8XadVlmVKbO2E2Eq7EaPG1pE+7pxPbS5O7pV/q2xRpGtXrE4m5hWou/+6rRAAUJi+gRw6hVRxeHEAoM3mkrciA==;rnkZPmzDimFtwhFGfFgmdA=="

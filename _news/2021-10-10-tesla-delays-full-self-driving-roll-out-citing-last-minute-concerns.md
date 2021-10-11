@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US"
+    excerpt: "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location"
+    publishedDateTime: 2021-10-11T10:21:00Z
+    webUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/"
+    ampWebUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores"
     excerpt: "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\""
     publishedDateTime: 2021-10-10T05:30:00Z
@@ -161,6 +177,15 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
+    quality: 19
+  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
+    excerpt: "San FRancisco, Oct 11 (IANS) Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last ..."
+    publishedDateTime: 2021-10-11T11:57:00Z
+    webUrl: "https://www.sify.com/news/tesla-begins-rolling-out-full-self-driving-software-update-musk-news-education-vkll59bceceia.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 19
 
 secured: "J17EaGq2HZ9hxZDYC8NjaOfMQU3ya4ZHV90krPr+IJdN8hx14YNA4k2Kf+d7LFoJA20xnE5rC2JCj22TH4GR9jd94X6WNnqF1eI3xuPmHAqdxM5vr1F8AsOCszsCVucB19MEzkaMitfc4Bxp/YWrrJ0MHp5iD6JN3soBhk/xtRFBF/MUyqLfeVbXeYbhWFJ8wwk0ZEddzVEAdB618+V+XW5UXnIn4eXLn4NABSGWz5mp7OZREA4AoyLFb0hBypD4RR+kmO0Ekmme+sP8Wxzk/XgYC39uPSg35WlPfcXlhPkB0/hNQ0S2LJx+aQ4VYSvFww3xY7asRTG4gwC6BjOMZ8u6Z90DDC4Epqy5ZAJ60ywoYrx9wrRoGtkFj/CcTXmHYk3Xfwy7ApO44uQfAtftQbdltFUFw9JX6RJ3th7JZOJ5ACpRPZSVlIxFO7mpspYyS6zwJXuypdR9jMZmF7OT0TER088MveNu1lrtijS0BtGhWqhSFXhDlrA12EwwUURfHdVqJD+kns5DLS+nMgziRw==;RlmDTz4bujuS7YWZQnnAmg=="

@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/how-verification-and-validation-can-cr
 webUrl: "https://semiengineering.com/how-verification-and-validation-can-create-a-comprehensive-digital-twin-to-design-tomorrows-self-driving-cars-today/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 640
     height: 443
     isCached: true
-
-related:
-  - title: "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real"
-    excerpt: "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,"
-    publishedDateTime: 2021-10-06T17:46:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg"
-        width: 997
-        height: 555
-        isCached: true
-  - title: "Self-Driving Cars Will Hit The Mainstream If These 3 Problems Are Solved"
-    excerpt: "Self-driving cars are bogged down by several problems. There are many challenges for self-driving cars, ranging from cybersecurity risks to high costs to technical issues, that prevent mass adoption."
-    publishedDateTime: 2021-10-09T07:03:00Z
-    webUrl: "https://www.bbntimes.com/technology/self-driving-cars-will-hit-the-mainstream-if-these-3-problems-are-solved"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 38
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Car_Challenges.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Self-Driving Fleets: Are They The Future?"
-    excerpt: "Having looked at electric fleets it seemed only logical to look at the other big thing in fleets at the moment, self-driving fleets. Self-driving or autonomous cars have gone from pipedream to reality in an astonishingly short space of time."
-    publishedDateTime: 2021-10-08T07:37:00Z
-    webUrl: "https://www.xing.com/communities/posts/self-driving-fleets-are-they-the-future-1013888913"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 4
 
 secured: "UNyEK9sCixoBOEIuzdRq5dMw3jVkjhDE1yZtxc+u+76zVOeg1os7SAQLZNWORD2qw6Z+oR9nU34ImXv2RCi+xlJznVwvQHFnpxVYfJRxb6ln8yx70Z2mRcqZD4/+8WvB7dKl/+ypVR5RZcaybZBvi2QRLB2Q9YGDuP4AnqFUeb6dYETuH1pxeeQ2Vb0/MI9fmyxcXyivmwecvz34eeQuxcUFJZlxKz2xIcFrmhGtGyft3WlBlMXfDiHR9W8IA+mK1wz9NsRkzqkPLH26Hs6liQ5v94nSReEl7qZ4i8tAn86K5U4pgMqCXzXuycNfHnyrTSVoTvxuekqaZbbDX50rIK1na3dRsNBH5WM0IxFam3/41utYu+zKwNi+YL1MFVE41S0mAuwygNB2U/zcq0ut2Q32YMUogZNDs5/vapcT+Kc6xp5fe/g3O3MT47Ukks2sAjHp02O8sZsfz8/ov/HLfkL0bZlRKohdpZJdQIZaR2CKGMD/ablnsHuwiuRGCgNIPQsMG8ULGr7t4fj+pYDP0w==;sS8xU0p1IZbkHPbSbjjNbA=="
 ---

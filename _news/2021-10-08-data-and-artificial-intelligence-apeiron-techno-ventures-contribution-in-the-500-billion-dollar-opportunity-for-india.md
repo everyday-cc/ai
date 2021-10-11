@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Data & Artificial Intelligence – Apeiron Techno Venture’s Contribution in the 500 Billion Dollar Opportunity for India"
-    excerpt: "India’s economic growth in the coming decades will totally depend on the data which its nearly 1.4 billion population - Report on The Eastern Herald"
-    publishedDateTime: 2021-10-07T12:40:00Z
-    webUrl: "https://www.easternherald.com/2021/10/07/data-artificial-intelligence-apeiron-techno-ventures-contribution-in-the-500-billion-dollar-opportunity-for-india/"
-    ampWebUrl: "https://www.easternherald.com/2021/10/07/data-artificial-intelligence-apeiron-techno-ventures-contribution-in-the-500-billion-dollar-opportunity-for-india/?amp=1"
-    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/10/07/data-artificial-intelligence-apeiron-techno-ventures-contribution-in-the-500-billion-dollar-opportunity-for-india/?amp=1"
+  - title: "YData secures €2.3 million to join the data preparation for AI race"
+    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
+    publishedDateTime: 2021-10-11T11:03:00Z
+    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
     type: article
     provider:
-      name: easternherald.com
-      domain: easternherald.com
-    quality: 35
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
     images:
-      - url: "https://www.easternherald.com/wp-content/uploads/2020/09/placeholder-image-TEH.jpg"
-        width: 1200
-        height: 682
+      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
+        width: 960
+        height: 545
         isCached: true
   - title: "Data and Artificial Intelligence - Apeiron Techno Venture's Contribution in the 500 Billion Dollar Opportunity for India"
     excerpt: "\"Data and artificial intelligence (AI) could add USD 500 billion to India's Gross Domestic Product by 2025, consultancy McKinsey & Co and IT industry lobby group Nasscom have forecasted.\" After considering the past term many data companies including Apeiron Techno Ventures,"

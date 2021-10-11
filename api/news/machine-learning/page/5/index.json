@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-09-wells-fargo-applies-machine-learning-robotics-to-accounts-receivable.md",
+      "title": "Wells Fargo applies machine learning, robotics to accounts receivable",
+      "excerpt": "A new service offered by the company helps clients automatically capture payment and invoice information as well as make sure the information matches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
+      "originalUrl": "https://www.americanbanker.com/news/wells-fargo-applies-machine-learning-robotics-to-accounts-receivable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/8063fce/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F31%2F88%2F4dfb34fd4f2f9a705fe40f371d99%2F377873475.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says.md",
       "title": "Machine learning is a great tool for cybersecurity, but be cautious, expert says",
       "excerpt": "Supervised and unsupervised machine learning are good ways to detect threats. But what's the difference? TechRepublic's Karen Roby spoke with Chris Ford, VP of product for Threat Stack, about supervised and unsupervised machine learning.",
@@ -1356,42 +1400,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-5-stocks-to-watch-amid-evolving-machine-learning-applications.md",
-      "title": "5 Stocks to Watch Amid Evolving Machine Learning Applications",
-      "excerpt": "In the fourth industrial revolution, AI will be the predominant technology, and its subsets ML and deep learning will be driving the change. ML has found its application in multiple disciplines, and businesses can use large data to better understand consumers’ behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-watch-amid-evolving-machine-learning-applications-2021-08-26?amp",
-      "publishedDateTime": "2021-08-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

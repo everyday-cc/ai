@@ -127,33 +127,33 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market By Component: Regional Analysis - Global Forecast by 2020 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:24 /Comserve / -- The Artificial Intelligence Chipsets Market is expected to be around US$ 80.20 Billion by 2025 at a CAGR of 36% in the given forecast period."
-    publishedDateTime: 2021-10-06T18:45:00Z
-    webUrl: "https://menafn.com/1102928735/Artificial-Intelligence-Chipsets-Market-By-Component-Regional-Analysis-Global-Forecast-by-2020-2030"
+  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
+    publishedDateTime: 2021-10-11T11:44:00Z
+    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 23
+    quality: 28
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
-        width: 374
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
         isCached: true
-  - title: "Bot Services Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022"
-    excerpt: "The global bot services market size is expected to grow from USD 458.4 million in 2017 to USD 1,783.9 million by 2022, at a Compound Annual Growth Rate (CAGR) of 31.2%. The proliferation of millennial across social media channels and the use of Artificial Intelligence (AI),"
-    publishedDateTime: 2021-10-06T18:46:00Z
-    webUrl: "https://menafn.com/1102928698/Bot-Services-Market-Insights-by-Leading-Companies-Demand-Analysis-Future-Growth-and-Revenue-Forecast-to-2022"
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 4
+    quality: 7
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
-        width: 374
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
         isCached: true
   - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."

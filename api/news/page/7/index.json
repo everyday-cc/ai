@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-05-deepmind-technologies-sued-over-data-sharing.md",
+      "title": "DeepMind Technologies Sued Over Data Sharing",
+      "excerpt": "A law firm in the United Kingdom is suing Google's artificial intelligence (AI) subsidiary DeepMind Technologies over an alleged breach of data protection laws. Mishcon de Reya is bringing a representative suit against DeepMind pertaining to the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "originalUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
+      "title": "Amazon, MIT establish Science Hub for robotics research",
+      "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
+      "originalUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/assets.amazon-e1633363084228.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-ai-and-machine-learning-where-are-the-checks-and-balances.md",
+      "title": "AI and machine learning: Where are the checks and balances?",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, Joe McKendrick says oversight of AI-generated decisions is lagging. Read more: https://zd ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
+      "originalUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad02a2eaf68e6ca543a36eb682720d480e35a9db/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=770&height=578&fit=crop&auto=webp",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
+      "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
+      "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "originalUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "publishedDateTime": "2021-10-04T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
       "title": "Robotics transforming knee replacement surgeries",
       "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
@@ -995,171 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-this-healthcare-company-is-using-ai-to-develop-drugs.md",
-      "title": "This Healthcare Company Is Using AI to Develop Drugs",
-      "excerpt": "L ife sciences company Schrödinger (NASDAQ: SDGR) has developed software that could help drug companies develop medicine using artificial intelligence and physics, and it's already being used by a number of big-name pharma companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "originalUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-healthcare-company-is-using-ai-to-develop-drugs-2021-10-03?amp",
-      "publishedDateTime": "2021-10-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
-      "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
-      "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/10/227f04f9c0bc4cceaed880176ef570e9-227f04f9c0bc4cceaed880176ef570e9-2793bc1d66804cf08f75439792eebdc0.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "publishedDateTime": "2021-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijings-goal-of-reining-in-big-tech.md",
-      "title": "Chinese AI gets ethical guidelines for the first time, aligning with Beijing’s goal of reining in Big Tech",
-      "excerpt": "China has revealed its first set of ethical ... Beijing's goals of reining in Big Tech's influence and becoming the global AI leader by 2030. Humans should have full decision-making power, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijing-s-goal-of-reining-in-big-tech/ar-AAP4O4N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/30/a076ab7c-21ed-11ec-83d0-b8338c7f9150_image_hires_224915.jpg?itok=wPPO-EZd&v=1633013362",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "publishedDateTime": "2021-10-02T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "domain": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-amazons-controversial-vision-for-the-future-of-your-home-security.md",
-      "title": "Amazon's controversial vision for the future of your home security",
-      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "publishedDateTime": "2021-10-02T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

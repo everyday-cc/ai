@@ -2,6 +2,204 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-01-apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets.md",
+      "title": "Apple’s no-code Trinity AI platform handles complex spatial datasets",
+      "excerpt": "Apple is creating a name for itself in the low-code/no-code movement. Fusemachines CEO Sameer Maskey gave us his take on the new platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/digitization-6402021_1920-e1632778146499.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
+      "publishedDateTime": "2021-10-01T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-google-and-deepmind-face-lawsuit-over-deal-with-britains-national-health-service.md",
+      "title": "Google and DeepMind face lawsuit over deal with Britain’s National Health Service",
+      "excerpt": "DeepMind found itself in the spotlight in 2016 when the New Scientist reported that its collaboration with the U.K.'s National Health Service went beyond what was publicly announced. British law ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1633088344",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "publishedDateTime": "2021-10-01T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
+      "title": "How To Get Your Cloud Migration Strategy Right",
+      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "publishedDateTime": "2021-10-01T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-tech-offerings.md",
+      "title": "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings",
+      "excerpt": "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "originalUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg",
+          "width": 550,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "publishedDateTime": "2021-10-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-honda-plans-new-air-taxi-robotics-and-space-technologies.md",
       "title": "Honda plans new air taxi, robotics and space technologies",
       "excerpt": "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi",
@@ -540,6 +738,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
+      "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
+      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies,* and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
+      "originalUrl": "https://www.fltimes.com/business/national/acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence/article_00a57f13-c513-5218-a453-f1d972f3adc3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/eedition/2/9e/29ed879d-0e4d-5fd8-accf-8c1a9134d7ea/61636f5a330dc.preview-300.jpg?resize=300%2C600",
+          "width": 300,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-beware-professional-services-workers-robots-are-coming-for-your-job-too.md",
       "title": "Beware Professional Services Workers: Robots Are Coming For Your Job Too!",
       "excerpt": "For the most part, the biggest fears of many during this period of rapid technology advancement has been that blue collar positions, the laborers and builders of the world, would be the ones finding their positions threatened the most.",
@@ -697,40 +938,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-01-acclarent-launches-first-ent-navigation-technology-powered-by-artificial-intelligence.md",
-      "title": "Acclarent Launches First ENT Navigation Technology Powered by Artificial Intelligence",
-      "excerpt": "Acclarent, Inc., part of the Johnson & Johnson Medical Devices Companies, * and a leader in developing minimally-invasive Ear, Nose & Throat (ENT) technologies, today announced the U.S. launch of its first-ever AI-powered ENT technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-acclarent-launches-first-ent-navigation-technology-powered-artificial-/2021/09/30/9460511.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-01-google-is-using-artificial-intelligence-to-make-information-more-useful.md",
       "title": "Google is using artificial intelligence to make information more useful",
       "excerpt": "At its Search On event this week, Google revealed details about how it plans to use a technology it calls Multitask Unified Model (MUM), which should",
@@ -834,6 +1041,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-how-artificial-intelligence-can-change-education.md",
+      "title": "How Artificial Intelligence can change Education",
+      "excerpt": "Conversations about Artificial Intelligence usually involve robots, space exploration machines, and smart home devices. The impact of this technology on education is much less discussed, although AI could change it completely.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/",
+      "originalUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/09/Artificial-Intelligence-Education.png",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-artificial-intelligence-can-change-education/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-can-change-education/amp/",
+      "publishedDateTime": "2021-09-30T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-create-amazon-sagemaker-projects-with-image-building-cicd-pipelines.md",
       "title": "Create Amazon SageMaker projects with image building CI/CD pipelines",
       "excerpt": "Amazon SageMaker projects are AWS Service Catalog provisioned products that enable you to easily create end-to-end machine learning (ML) solutions. SageMaker projects give organizations the ability to use templates that bootstrap ML solutions for your users to speed up the start time for ML development.",
@@ -933,248 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-vcs-invested-over-75b-in-ai-startups-in-2020.md",
-      "title": "VCs invested over $75B in AI startups in 2020",
-      "excerpt": "According to a new report from OECD, VCs poured a record amount of money into startups developing AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/vcs-invested-over-75b-in-ai-startups-in-2020/amp/",
-      "publishedDateTime": "2021-09-30T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-dmi-raises-40-mn-for-its-fintech-focussed-sparkle-fund-plans-to-make-20-investments.md",
-      "title": "DMI Raises $40 Mn For Its Fintech-Focussed Sparkle Fund, Plans To Make 20 Investments",
-      "excerpt": "The Sparkle Fund by DMI Alternatives was set up in 2017 to invest in India’s rapidly growing digital finance ecosystem. Sparkle has so far invested $10 Mn across multiple companies including M2P, Credgenics,",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
-      "originalUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/09/GST-Social-2.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dmi-closes-40-mn-capital-raise-for-its-fintech-focussed-sparkle-fund/amp/",
-      "publishedDateTime": "2021-09-30T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart.md",
-      "title": "Use SEC text for ratings classification using multimodal ML in Amazon SageMaker JumpStart",
-      "excerpt": "Starting today, we’re releasing new tools for multimodal financial analysis within Amazon SageMaker JumpStart. SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:30:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-kratos-voice-actor-says-god-of-war-ragnarok-delayed-because-of-me.md",
-      "title": "Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’",
-      "excerpt": "Kratos’ voice actor, Christopher Judge, says he’s the reason why God of War: Ragnarok was delayed. In a tweet, Judge writes that he needed multiple surgeries in 2019 and that God of War developer Sony Santa Monica studios delayed the game so he could recover and continue voicing video games’ favorite problematic dad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "originalUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dkclWGip4dpQXjiWOacSaczXySw=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69931807/E_3vU3YXMAEXoy2.0.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "publishedDateTime": "2021-09-30T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

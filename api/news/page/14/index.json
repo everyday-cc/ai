@@ -2,6 +2,257 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
+      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
+      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
+          "width": 954,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
+      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
+      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "publishedDateTime": "2021-09-28T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-alexas-new-features-will-let-users-personalize-the-ai-to-their-own-needs.md",
+      "title": "Alexa’s new features will let users personalize the AI to their own needs",
+      "excerpt": "Amazon is preparing to roll out a trio of new features that will allow consumers to further personalize their Alexa experience by helping train the Alexa AI using simple tools. In a few months’ time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/",
+      "originalUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-12.16.26-PM.jpg?w=680",
+          "width": 680,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/alexas-new-features-will-let-users-personalize-the-a-i-to-their-own-needs/amp/",
+      "publishedDateTime": "2021-09-28T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-zoomtopia-2021-ai-and-video-to-power-healthcare-financial-services.md",
+      "title": "Zoomtopia 2021: AI and Video to Power Healthcare, Financial Services",
+      "excerpt": "At the recent Zoomtopia, the company spotlighted how video and artificial intelligence will great boost the process of digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
+      "originalUrl": "https://www.eweek.com/cloud/zoomtopia-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/09/Zoom-White.jpg",
+          "width": 1032,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-adobe-adds-ai-powered-masking-tools-to-lightroom.md",
+      "title": "Adobe adds AI-powered masking tools to Lightroom",
+      "excerpt": "Adobe has revealed some new masking upgrades that are coming to Lightroom, Lightroom Classic and Adobe Camera Raw (or ACR, Photoshop's raw photo processing tool). The company calls it the \"biggest change to providing control over selectively enhancing photos\" since it released Lightroom 2 in 2008.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
+      "originalUrl": "https://www.engadget.com/adobe-camera-raw-lightroom-classic-mask-features-ai-160056644.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0SAt8C3pZMiN3YYNcl6KTg--~B/Zmk9ZmlsbDtoPTQ1MDt3PTY3NTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2021-09/6bcedf10-2068-11ec-afd7-f6730c12cb32.cf.jpg",
+          "width": 675,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
       "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
       "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
@@ -927,258 +1178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
-      "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
-      "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027.md",
-      "title": "Global Face Recognition Software Market 2021 Industry Statistics, Emerging Opportunities, Revenue and Volume Analysis by 2027",
-      "excerpt": "MarketQuest.biz have issued a global study report titled Global Face Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that contains an accurate simulation of industry insight,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
-      "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
-      "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory.md",
-      "title": "Anyone Can Download An Autonomous ‘Research Robot’ From The Air Force Research Laboratory",
-      "excerpt": "In the fight to prevail over America’s adversaries by out-innovating them - a fight which has all the hallmarks of a Cold War despite President Biden’s assertions to the contrary - increasing the speed at which physical lab experiments can be done and iterated is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e2c6a619e124d42a2a15d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2021/09/27/anyone-can-download-an-autonomous-research-robot-from-the-air-force-research-laboratory/amp/",
-      "publishedDateTime": "2021-09-27T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-deep-learning-market-to-be-worth-72-billion-growing-application-of-deep-learning-to-boost-growth-technavio.md",
-      "title": "Deep Learning Market To Be Worth $ 7.2 Billion | Growing Application Of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "The deep learning market will be driven by the growing application of deep learning. In addition, growing emphasis on cloud-based deep learning will influence the deep learning market growth positively during the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23125791",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125791",
-      "publishedDateTime": "2021-09-27T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,142 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-06-singapore-patrol-robots-warn-people-of-undesirable-behavior.md",
+      "title": "Singapore patrol robots warn people of ‘undesirable’ behavior",
+      "excerpt": "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
+      "originalUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
+      "publishedDateTime": "2021-10-06T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-in-memory-computing-startup-neuroblade-nabs-83m-in-funding.md",
+      "title": "In-memory computing startup NeuroBlade nabs $83M in funding",
+      "excerpt": "NeuroBlade, a startup developing in-memory computing chips and hardware appliances, has raised $83 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screenshot-20.png?w=566&resize=566%2C600&strip=all",
+          "width": 566,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
+      "publishedDateTime": "2021-10-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
+      "title": "Tata Power ropes in AI firm BluWave-ai",
+      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
+      "publishedDateTime": "2021-10-06T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
       "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
       "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
@@ -303,6 +439,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
+      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
+      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "originalUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
       "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
       "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
@@ -445,6 +624,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
+      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
+      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDBJ",
+        "domain": "wdbj7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -706,58 +919,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389467",
-      "originalUrl": "https://www.entrepreneur.com/article/389467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633454310-Oct5InteligenciaArtificialChinacdigoticoleyesIsaacAsimovrobotsrobtica.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -1033,194 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
-      "title": "AI helps rule out cancer in dense breasts",
-      "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg",
-          "width": 2400,
-          "height": 3747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
-      "publishedDateTime": "2021-10-05T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-forget-about-cars-honda-wants-flying-vehicles-avatar-robots-and-rockets.md",
-      "title": "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets",
-      "excerpt": "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
-      "originalUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us.md",
-      "title": "Tortoise expands remote operated robotic delivery to convenience stores across the US",
-      "excerpt": "Tortoise is expanding its remote controlled delivery robots to convenience store chains across the U.S. through ... you’re just telling us which robot and where to drive it to,” said Shevelenko.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/IMG_20210927_163206017_HDR-e1633312411157.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
-      "publishedDateTime": "2021-10-05T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-robots-at-dubai-expo-have-multiple-roles-while-interacting-with-visitors.md",
-      "title": "Robots at Dubai Expo have multiple roles while interacting with visitors",
-      "excerpt": "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the",
-      "sourceUrl": null,
-      "webUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
-      "publishedDateTime": "2021-10-05T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "العربية.نت",
-        "domain": "alarabiya.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

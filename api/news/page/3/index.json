@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-08-the-internet-archives-wayforward-machine-paints-a-grim-future-for-the-web.md",
+      "title": "The Internet Archive's 'Wayforward Machine' paints a grim future for the web",
+      "excerpt": "The Internet Archive is marking its 25th anniversary by peering into the future to predict what the web might look like a quarter of a century from now. The non-profit took the opportunity to rail against internet regulation by offering a grim vision of what lies ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eff.org/issues/cda230",
+      "originalUrl": "https://www.engadget.com/internet-archive-wayforward-machine-web-future-wayback-175936050.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eff.org/files/issues/cda-230.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-scale-ai-launches-rapid-data-labeling-service.md",
+      "title": "Scale AI launches rapid data-labeling service",
+      "excerpt": "Scale has launched a data-labeling service it says enables rapid and accurate results for companies building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "publishedDateTime": "2021-10-07T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-face-recognition-software-launched.md",
+      "title": "Face Recognition Software launched",
+      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "publishedDateTime": "2021-10-07T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.md",
       "title": "GM-backed Cruise targets 1 million self-driving vehicles by 2030",
       "excerpt": "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030.",
@@ -113,7 +258,7 @@
       "originalUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -568,7 +713,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -673,7 +818,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/389851",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -724,7 +869,7 @@
       "originalUrl": "https://mashable.com/video/gustav-klimt-ai-paintings-google-arts-and-culture",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1109,164 +1254,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-the-ml-glossary-five-years-of-new-language.md",
-      "title": "The ML Glossary: Five years of new language",
-      "excerpt": "Over guacamole and corn chips at a party, a friend mentions that her favorite phone game uses augmented reality. Another friend points her phone at the host and shouts, \"Watch out—a t-rex is sneaking up behind you.\" Eager to join the conversation, you blurt, \"My blender has an augmented reality setting.\"If",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
-      "originalUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
-          "width": 1300,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
-      "publishedDateTime": "2021-10-06T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
-      "title": "Driving AI innovation in tandem with regulation",
-      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "publishedDateTime": "2021-10-06T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real.md",
-      "title": "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real",
-      "excerpt": "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg",
-          "width": 997,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "publishedDateTime": "2021-10-06T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

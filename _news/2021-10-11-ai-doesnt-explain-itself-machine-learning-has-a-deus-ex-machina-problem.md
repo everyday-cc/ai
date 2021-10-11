@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-de
 ampWebUrl: "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-12/ai-chess.jpg"
@@ -27,6 +28,6 @@ images:
     height: 844
     isCached: true
 
-secured: "oTZYQ29GATyDs56uFMvzmyFic48Czy5zY6K7recHjORM/aogbdACXG9VRJM3iXgOWLV/cbjs+9cheGvGs4LXTU0WgbQnGox4INrCe98yLR5HkgVHYIXrfYtwNtwsIQiunxTDQRx2uAOH1o/6CuTko65CVdpiIOejcQuFXUsmAoRI2TSAB3eQ9aT0clIP8bBabOzN7hUVz/xLVyxDJt0tL/upXxA1jggsu0QJFjjcUTQMefxj5kqV6p4GW0ImM1c/LDM40J+8Aes14+dzzzlpwGTO4QyJcZnT69Mesp5gvz34UgEkM3wXDBcX0eAW8jOmDzGCnQTAVUzuJEJMLh5h5gdQZfARjAXoJuOFPHKr2hM=;oyj73Wmx8MqejutZA3pxjQ=="
+secured: "HM1oceaeAGdT4FiyB+Y6g/N+lFi2jXD1bFGy3Evu7IBWA6u85JZZqlisVho2NqL+HdryEGdtP+4YT3KnOOop7vuPGDPj0goX7VjFwvU1AYBhmxO8yS5UvHrYLSFuCT0YVnQAZsfyqN2XTqzG14zFMpaU65GH1UkugnTcr6EhGuUXGI0oFP9LGloabf1sA1EwHKWsJ1QNFHqZ0bjfasydnEjhrUOfvg84BEwIaP3in5FEYMl97EfkdgaRSsfgzZdYbjhrxxOcIlVOzww91T3pSujHHUbccB/Rykzz4ZXlgo2nlZoFdNTDg/yRmf4KlKfQa+e2j+czM8QOptlWkpPsZ16ulBuKcPrj3GDimdsO7W03+4tGBWOfBjI83PdsR9XF25Kcx9VIagOACyLq5MZ3I2gK5uCsAUS3Fp/a7We169k0XyAiNiXXewB8gpi2c1lZ8FdgvIjMrK7PdokrFYYKa0b5AKu9M/FQF1akdbwV0/MRf+hXGddAwbXl13NA+5QiSzUNc96im/2mJI7aBD7BLg==;RLTfUGeNWMH5uh+YV1F/LA=="
 ---
 

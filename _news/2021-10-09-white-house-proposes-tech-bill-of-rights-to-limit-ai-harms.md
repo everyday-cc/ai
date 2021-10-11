@@ -1,28 +1,26 @@
 ---
 category: news
-title: "White House proposes tech 'bill of rights' to limit AI harms"
-excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology"
-publishedDateTime: 2021-10-08T17:17:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-webUrl: "https://abcnews.go.com/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/white-house-proposes-tech-bill-rights-limit-ai-80480774"
+title: "White House proposes tech ‘bill of rights’ to limit AI harms"
+excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights\" to guard against powerful new artificial intelligence technology. The White House's Office of Science and Technology Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
+publishedDateTime: 2021-10-08T21:48:00Z
+originalUrl: "https://apnews.com/article/joe-biden-science-technology-business-biometrics-b9dbf5fee3bf0e407b988b31e21f5300"
+webUrl: "https://apnews.com/article/joe-biden-science-technology-business-biometrics-b9dbf5fee3bf0e407b988b31e21f5300"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_b391a4af79a44970802d27dea6418bda_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -73,6 +71,6 @@ related:
         height: 452
         isCached: true
 
-secured: "snauj1BwJL3ztqvRW4VUGGb/5MaoK6T7vMoCGoj+0Zp16KefY4VjcjJeOAFT4YKRmgOL1I4rukiR+XZbW+uaHXTR6qDYEmVOsjv29+Kt5gUUdCdzK3vNSVtnLelsXN1AwYRYSDwHzeW6eKIrTUjvjbaIlhFKZ/YNjUri/4mjo43pBZkaCeg+dlb6jC5JI/sV77JEWm9fSmz5oHM/gj1B4W30grJqdRGj0d5xO75to653Rt1lCdu93S8F/zrJa4wRI0FQn/uTexUiO4YDJDK4stdxL0X0AfMqD61WLZGMIgP+6V+K9cuBfIZHLpz1NrYOUcGdfqanGnLNdoT1EpIevY1dE6ly7DuXE4IfNCt0s7Y=;wXFBmffNqyy4qCsarSuM4A=="
+secured: "K4/fpEw8yX2ruq/opqEGq6rD7Dwn0kyH33tzGPVI40L5SBCoY0+SWjFOwWy9+WhxR6HLJY6v/bijl04wFLT9lMkeewepLPzU5hwsB1lG064mfCmAas6MSj290jOpwiJRlaKi5SrTyv6zYX7tXmRa5ss1oobcXC9cj3Z5x8EtZvQwfR5q1lRBihvS1uFxEFoj518Bff1RP49y/dJVeqMKE5nruv3epUA1JXWXZfnzfdh2GWgK/jBvuH7X7La29jjEnV93bj5iPgc3fA6UZiVPScb/7+coXex1Aw+HCGKj3ghI/wnM5Z58KAt5wC92JO2ZkQs2tiomb5czPRnL4Y8JV3jgkDAUaCh4E4hVAMnTfPc=;wy7+1nE4F0dOMcFCLSD2qA=="
 ---
 
