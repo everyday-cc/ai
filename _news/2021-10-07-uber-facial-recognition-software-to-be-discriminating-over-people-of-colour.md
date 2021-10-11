@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Uber Being Sued Over ‘Racist’ Facial Recognition Algorithm"
-    excerpt: "Uber is being sued over a ‘racist’ facial recognition algorithm that is more likely to lock out drivers with darker skin. With this algorithm, drivers are required to scan their face intermittently before they can access the back-end of the ride-hailing app’s system."
-    publishedDateTime: 2021-10-06T14:53:00Z
-    webUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/"
-    ampWebUrl: "https://www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/news/uber-being-sued-over-racist-facial-recognition-algorithm/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 59
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F10%2FUber_Sued.jpg"
-        width: 1200
-        height: 619
-        isCached: true
   - title: "Uber Is Being Sued Over Its \"Racist\" Facial Recognition System"
     excerpt: "Rideshare company Uber is back in headlines once again, and for the wrong reasons: the company has been accused of using a racially bias ed facial recognition algorithm. T he United Kingdom labor union,"
     publishedDateTime: 2021-10-06T15:57:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Uber taken to court for ‘racist’ facial recognition software"
-    excerpt: "Lawyers will argue facial recognition systems, including those operated by Uber, are faulty and generate poor accuracy results when used with people of colour. | ITV News London"
-    publishedDateTime: 2021-10-06T14:41:00Z
-    webUrl: "https://www.itv.com/news/london/2021-10-06/uber-taken-to-court-for-racist-facial-recognition-software"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 39
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/3z7E4ljmpMkSw3eDXBTZJz/92f93330b93942e73a381642640c4f21/uber.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "CdHbvx32FPDNSIkA7MUA+Hk/BdQpztmwmihjL3meLKigrC1ZBHubk3TF5c1oXiM446frEi46KJfMU8yRp5fqxSFse+K2gx0QUAAudjyhijA/84onTCpvVnodupStdAQR5m6obr/Z/dXJ8/1w3Tdxbj8TRZnOTwJ+vybpKGXCoOkX3vhauR80BoNyCjfrBOR0HWDsYgMiVWR1hu0203DjmrydrQI+kwRpeoGUr0fKL2xRFcoN85Bh0UP9HH4JgWv8GGWEXxEv3gcVWqpAso6HshHKKg5lsCmTLseE2ou4vDUcc0MKs/frILD4SYajQjDLGjibBe5/ZH+Q1OgZ+5Bn1XRQhQkpZMF7SeDI4D9MWKY=;HXtp9dfvCB9z6QJssak+gw=="

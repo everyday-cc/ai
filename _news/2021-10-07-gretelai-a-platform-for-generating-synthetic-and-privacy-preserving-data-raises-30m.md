@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generati
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 440
         height: 220
         isCached: true
-  - title: "Neural Magic raises $30M to shift AI from hardware to software"
-    excerpt: "Somerville AI startup Neural Magic, an AI company trying to replace machine learning hardware with software, has raised $30M in Series A funding."
-    publishedDateTime: 2021-10-06T14:26:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/06/neural-magic-raises-30-million.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "A09KjOV2ch7hs+XkfeNTkJuzZVOqqzY9QPGnRMJFmDTgUPKvciY14vb0dr/Rwv8nGmArBciUE/93CWj/e4+U56o599QRcs9paaj2Btlqk/Fm/O716xPfn5fOBiHrekBXam4ef2dUUdjC/8fRFmhPTwE8IzJ8dGwCCtyoJBPDk4aYoh4ifXvIiM0VA7busXZa8VKNiKoX/RTdFganKHT49/BZZJVyO7igoAVCOnKKgnt57RLz0fWY3LZ6p4fRgtfOIGcCIApB7KXh+oEvXEFSCIJV2eOhXe4sanie2j9gJzaEYrUKhfK773/K/qD0RBDVxchZGTBGHZJ+dZ6lBp+1zF86IdDTaPo/k5M8Ps22/Yu71ExAnOZPO5FoEsSHzZkjMJUTz9rgqn7fKiVU+FA48fPBqii50SMIqdCiBbW4Bp1vp6HsaReQqQC2rt9aoz73HxRQafwsGrz1RpSTq85v49s0zedLdoRKXQXQ7wPjNCGX1qXifgWkuwTQlDzcNtHIMqmNujStskBsOS75hY34eA==;V0beTc1DrYv/1nQ3WcSC8w=="
 ---

@@ -23,6 +23,22 @@ images:
     height: 576
     isCached: true
 
+related:
+  - title: "AI accurately identifies artifacts on diffusion MRI"
+    excerpt: "Artifacts on diffusion MRI can be accurately identified by an artificial intelligence (AI) algorithm, according to a presentation at the recent Conference on Machine Intelligence in Medical Imaging."
+    publishedDateTime: 2021-10-11T07:38:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133730"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_29_22_25_5579_artificial_intelligence_AI_data_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "d2wvIRAs8ZWA9iuLYIMFFjaZ2VvxON/cIZzu3Zt1cGI7Elw+0zVg3kMK1sBHI5hstXgBXvshwnXSI+88uRbdIeI+nehaVrRtYm1DpEcyFBfzX0cs4fV3hz7prkrWIFO2+K34pXiygybq3zW9a/b0yXDawig82woqP420dVThPWgC7zx4mISuU8PcQT+4vngzCzDRvs2VO3qJDrF4Sq+mm4zNI+CL64Qp/hvqEc2S1nkCDfr1yvIkmPRmK70aaDDE0TjEFG1czPgp37QXbtZUteFUaZQpNMlrvPE5OKkKNLwNmtnoocXoMtKGc9qq7QznFG6c2nKVRlY3dzoaG30KEfNwE89mG7o7Gk5qA9Q/adCJS6FLJFO2LVvzWbuM0ewTIlkMD/ZQrtsAeICpptriMwYOZ9oCjjjKDWlsYKo5ad628Q2dY05FcVIiIx8JByd92QHLHv+VKYJ31m4DbEGwPIzeyflPCzlOaOYffyT9aiJLAK1nuKfeJQNSkSLkGgPmbmFUPE5Uy18yqtuFKjSVsg==;QsPX8+2F09HZXD+jZcK30g=="
 ---
 

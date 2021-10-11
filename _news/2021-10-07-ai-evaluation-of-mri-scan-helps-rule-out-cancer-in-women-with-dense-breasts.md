@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2021/10/07/cancer-breast-density
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/10/07/cancer-breast-density-mri-ai-study/8831633555406/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: UPI.com
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Helps Rule Out Cancer in Women With Dense Breasts"
-    excerpt: "While mammograms have reduced deaths by detecting breast cancers when they're small and easier to treat, it's less effective for women with dense breasts. However, a new study finds that supplemental MRI screening can make a difference for these women,"
-    publishedDateTime: 2021-10-06T13:17:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2021-10-06/ai-helps-rule-out-cancer-in-women-with-dense-breasts"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "South African Entrepreneur Launches AI Solution Designed For Breast Cancer Identification"
     excerpt: "Breast cancer remains the highest rate of mortality in South African women and those living in rural areas face multiple barriers in screening."
     publishedDateTime: 2021-10-10T09:49:00Z

@@ -133,6 +133,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-go-big-chip-raises-growth-capital-on-crowdcube-tops-1-million-in-ten-minutes-crashes-servers.md",
+      "title": "Go Big: Chip Raises Growth Capital on Crowdcube, Tops £1 Million in Ten Minutes, Crashes Servers",
+      "excerpt": "Chip, a Fintech that streamlines savings and investment, is seeking growth capital on Crowdcube. According to a note received from the company, the securities offering raised £1 million in under 10 minutes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/181336-go-big-chip-raises-growth-capital-on-crowdcube-tops-1-million-in-ten-minutes/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181336-go-big-chip-raises-growth-capital-on-crowdcube-tops-1-million-in-ten-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Chip-team-1024x683.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181336-go-big-chip-raises-growth-capital-on-crowdcube-tops-1-million-in-ten-minutes/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181336-go-big-chip-raises-growth-capital-on-crowdcube-tops-1-million-in-ten-minutes/amp/",
+      "publishedDateTime": "2021-10-07T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
       "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
       "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
@@ -1358,58 +1401,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast.md",
-      "title": "In The Latest AI Benchmarks, Nvidia Remains The Champ, But Qualcomm Is Rising Fast",
-      "excerpt": "NVIDIA rules the performance roost, Qualcomm demonstrates exceptional power efficiency, and Intel demonstrates the power of software. Every three months, the not-for-profit group MLCommons publishes a slew of peer-reviewed MLPerf benchmark results for deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61490dd8cf58c0d1dd55ed22%2F0x0.jpg",
-          "width": 1200,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/22/in-the-latest-ai-benchmarks-nvidia-remains-the-champ-but-qualcomm-is-rising-fast/amp/",
-      "publishedDateTime": "2021-09-22T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

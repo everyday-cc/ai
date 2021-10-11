@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "tFOefb0dIbPX0SXyEtEJa63A6Krsr/EY9829XP4Ly6LdSq9/tlDsCeSJGnaj615+mklTSF0YUvS51PhFaEFknNVOlhk/D+PpgupKXaxUpW3KrMPdg/VbeGEWpkcA2AVCjmr3iYNRzp2oACEkIsnCCl1v/9pUBImXre+29jTiukNA1T4ggqTRvpfz4eHc2njR9pwrQEHkBZ9psSpmfYUKNIREsims6i1gai08VR7XLZ7+Ly9BE8O9UrTgbWmfI3JqYlRPzKG8rhiAJXk1B1k9hbpwvi1cF3PlIhpi7RadlP59jl9eTs7BmrzDLXxNUyRHxpCy/rER5PJwOC2O9/EiCPHXmto1SkA7BuO9xeCqJpo=;yddT3dnVZx7GvgA5IrSdhg=="
 ---

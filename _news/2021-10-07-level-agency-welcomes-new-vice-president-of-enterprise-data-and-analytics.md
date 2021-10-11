@@ -64,6 +64,17 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Leveraging AI & analytics to build the shoppers of future"
+    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
+    publishedDateTime: 2021-10-11T06:46:00Z
+    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
+    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
 
 secured: "UI++8c3UzCN48C/aiTxWTwLjM3NmZYmxeGagtwlwVHZhslyMQ3FKnOzMFHVel2tn19v0Sqrv9CO07TR6L+X4fffLjteiCepLs8hpvruIWyksAai5/VzA+P8/t5QvKZfOYzzHYB5FeBtu4AchXKjHhezB1hxvQIfFkuH38YAzwiR7mZrqUHWIkRvnoW7xFrSToXUnizAmL2jnp2RXxWysV0xW5N79qzXcMDg/oATkFSo8dxZyKebglS0lNOtUVHW4SLmBJGWok78w5JrNC28ejAg7HwIw9fTpSE6B/brbXark5wane8vkbpkdsmHxCheS7+xRyA8iLLB4Vzc2SpJXAThQVhINFB2MfE3bL96EX4o=;302cTYwhrcsG483ebK+FPQ=="
 ---

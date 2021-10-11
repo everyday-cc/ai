@@ -2,6 +2,39 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-09-27-ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav.md",
+      "title": "AI navigation startup Phiar lands ex-Google manager, funding from Telenav",
+      "excerpt": "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp",
+      "publishedDateTime": "2021-09-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-cyber-security-in-the-public-cloud.md",
       "title": "Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads.",
@@ -1101,49 +1134,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-tesla-is-bringing-self-driving-no-matter-what-regulators-need-to-adapt.md",
-      "title": "Tesla Is Bringing Self-Driving No Matter What. Regulators Need to Adapt.",
-      "excerpt": "San Francisco authorities have expressed concern over Tesla's autonomous driving feature, dubbed Full Self Driving. More broadly, self-driving systems are advancing much faster than regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996",
-      "originalUrl": "https://www.barrons.com/articles/tesla-stock-self-driving-regulation-51632504996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-406428/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-regulation-51632504996",
-      "publishedDateTime": "2021-09-24T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-09-14-deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn.md",
+      "title": "DeepMind Introduces Reinforcement Learning Lecture Series 2021, Here’s What You Can Learn",
+      "excerpt": "The series comprises 13 lectures covering the fundamentals of reinforcement learning and planning in sequential decision problems.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-reinforcement-learning-lecture-series-2021-heres-what-you-can-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/09/DeepMind-Reinforcement-Learning-Lecture-Series-2021.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-its-best-to-wait-on-baidu-stock-in-light-of-chinas-crackdown.md",
       "title": "It’s Best to Wait on Baidu Stock in Light of China’s Crackdown",
       "excerpt": "I’m cautious on the name mainly because I believe that it could easily become a target for China’s zealous tech regulators. For BIDU stock, it’s a very good sign that Baidu has apparently ...",
@@ -1057,49 +1100,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-robot-rock-a-history-of-vocoders.md",
-      "title": "Robot Rock: A History Of Vocoders",
-      "excerpt": "Over the last 80 years we've seen vocoders developed and used on countless tracks and songs, and they still hold their charm today. At a time when robots, automation and A.I. are increasingly integrated into our world,",
-      "sourceUrl": null,
-      "webUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
-      "originalUrl": "https://sonicstate.com/news/2021/09/13/robot-rock-a-history-of-vocoders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/ww2.sonicftp.com/news/images/34860_721.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sonic State",
-        "domain": "sonicstate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

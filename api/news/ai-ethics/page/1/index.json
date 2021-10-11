@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-10-us-has-already-lost-ai-fight-to-china-says-ex-pentagon-software-chief.md",
-      "title": "US has already lost AI fight to China, says ex-Pentagon software chief",
-      "excerpt": "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation",
+      "path": "_news/2021-10-11-china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagons-former-software-chief.md",
+      "title": "China up for global domination in AI, ML; US stands no chance: Pentagon's former software chief",
+      "excerpt": "Nicolas Chaillan told the FT that he resigned in protest at the slow pace of technological transformation in the US military",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0",
-      "originalUrl": "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0",
+      "webUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief-11633929471511.html",
+      "originalUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief-11633929471511.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
+          "url": "https://images.livemint.com/img/2021/10/11/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1633931650931.jpg",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0",
-      "publishedDateTime": "2021-10-10T03:53:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html",
+      "publishedDateTime": "2021-10-10T23:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI",
-        "AI Ethics"
+        "Machine Learning"
       ]
     },
     {

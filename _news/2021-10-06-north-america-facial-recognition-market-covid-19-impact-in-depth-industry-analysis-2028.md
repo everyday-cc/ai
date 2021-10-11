@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-facial-rec
 webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "WCrkDtk8WfSYxzBVWbTUpCZLkDt4RJ+ugbnxYgUttAqJN/9unhh/q09rO24qW+c2jpU855Y9/cCoYM7qeIxayCpho4iZJ17zvfN77vatlxaGUxgTg3Rt6+h5e9jnmaNgY+LNZDXstZUVhDKCy/HLGfOVQT7F4i3FjnEi4yxvkhjqzMybX9/kJsmQaAEiOuJljCalAcyutL4snnZXz+hTi5AM4iff59PmikHHuxOmHt+J08oubKGGoDgXQckAL6DuWMr13aWjVypfi72a3CA6uqh1/2WTbbLFTgJ5i2yYmN/LkIb2FpmIGGkyK2uCx4LsdngdGw3XHJXs1/dxnkCWz6akwLqBcDNqQxAUKhnwUWM=;oijgeP6gaCZoCituCHKAvA=="

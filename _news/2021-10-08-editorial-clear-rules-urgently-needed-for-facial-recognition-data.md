@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Uber is facing legal action for facial recognition ID checks that are racially biased"
-    excerpt: "In a legal test case, an Uber driver who lost his job when automatic face-scanning software failed to recognize him accuses the company of indirect race discrimination"
-    publishedDateTime: 2021-10-06T14:56:00Z
-    webUrl: "https://techstory.in/uber-is-facing-legal-action-for-facial-recognition-id-checks-that-are-racially-biased/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 32
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
     excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
     publishedDateTime: 2021-10-06T19:22:00Z

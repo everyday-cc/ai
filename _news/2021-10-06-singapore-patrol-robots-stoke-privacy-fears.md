@@ -7,7 +7,7 @@ originalUrl: "https://www.taipeitimes.com/News/world/archives/2021/10/07/2003765
 webUrl: "https://www.taipeitimes.com/News/world/archives/2021/10/07/2003765694"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
-    excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
-    publishedDateTime: 2021-10-06T13:48:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Singapore patrol robots stoke fears of surveillance state"
     excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
     publishedDateTime: 2021-10-07T02:54:00Z

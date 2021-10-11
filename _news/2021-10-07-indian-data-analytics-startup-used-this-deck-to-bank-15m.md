@@ -53,6 +53,17 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Leveraging AI & analytics to build the shoppers of future"
+    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
+    publishedDateTime: 2021-10-11T06:46:00Z
+    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
+    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
     publishedDateTime: 2021-10-07T15:42:00Z

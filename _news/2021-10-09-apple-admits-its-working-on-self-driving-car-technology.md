@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-    publishedDateTime: 2021-10-06T13:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
 
 secured: "VVH+qJN8LGG6l6R8dZpgQMEk++4ZlF3BOsNtglfAVvJzPNcxfOsDG3uWjVjyw2zUIxeyxqVfEOctYE5PiHdIYLwqJnUhRQoQxeBUOxDK5qNi1EgHIOLSQveDPf/X+VLixkc8c6dihWO2ewPT3xsU5CTn+MVx5/ktLHZBK/kfFdA0cxpgBb51CZvBzLbUS6MiTSVL4+Uvz6sNHHgkYdY48QSoeJdtC+Wm5CNivAFPMOqV+9juVboElVX1b6YH3Nqx+OFEhrSYHukJpQyu8AQFw3YJvZVwWdKvg0zBDYJisLNeOThuyO3PE3M0LNIeHgUiFjUIlebC2MNTIsOGlquJMto/vTpgI09ubKhlbiYbpl8ctpwq+0F9/nMNe+J/DP0hqLGDpUVt0XYwWW0Rt/vUst/XSEzn75WoMN81FuHLePey3mM4gJEmXyxmEgk6CRKSAuKeFAj2gTBpax8Wo8C7GwZjiebbYLZqHlfA5Ub5+LbwISm8ilzJj8q7n65TqE4AD3mKoav2EqqQZcAKuXkQyw==;QWkZk/Vb8sLRu7LCy9bagg=="
 ---

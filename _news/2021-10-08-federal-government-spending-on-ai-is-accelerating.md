@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Making self-driving cars human-friendly"
-    excerpt: "Automated vehicles could be made more pedestrian-friendly thanks to new research which could help them predict when people will cross the road. Scientists investigating how to better understand human behavior in traffic say that neuroscientific theories of how the brain makes decisions can be used in automated vehicle technology to improve safety and make them more human-friendly."
-    publishedDateTime: 2021-10-06T13:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211004203419.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Apple Admits It’s Working on Self-Driving Car Technology"
     excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
     publishedDateTime: 2021-10-09T06:41:00Z

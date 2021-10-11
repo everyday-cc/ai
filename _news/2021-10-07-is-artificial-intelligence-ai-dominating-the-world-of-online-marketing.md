@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-dominati
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-dominating-world-online-felicidade-jones"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: LinkedIn
@@ -28,24 +28,6 @@ images:
     width: 1476
     height: 600
     isCached: true
-
-related:
-  - title: "Content Marketing A.I. And Machine Learning Have Arrived"
-    excerpt: "For the past five years, we have been paying attention to content and active engagement. Well, just like the others, it’s not something you “want to have” – it is very much a “need to have.” Therefore,"
-    publishedDateTime: 2021-10-06T14:47:00Z
-    webUrl: "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915"
-    ampWebUrl: "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 76
-    images:
-      - url: "https://images.squarespace-cdn.com/content/v1/5176a0afe4b0e5c0dba2fd29/1633280666284-QFNXS6QUL8S3SARYHHBC/contert_machine_learning.png?format=1000w"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "U6T46vSXY30sklOQ34gTF8UZco7TrB9C7RT8ZG/gN8YuWbZBUjjuHIEtaLxNiLmlq9cQFY2YG3ZPwQVFItwqYMGfjaYg9UZRTnB6glSBjgXLZ3FrljP7Icn01LX23d2HVLG+rRGyxROe1ZkZYTWe/IQA8Yb7+T4QiuMj2EvTYyNOcw0Di+NFMVZeJYRQMkzWVKl34UoaeCZmrq+gg5wC96ST8hOUBSqNjGVoEFtspv09DBfyp/EglO/IKInLS7aRQp6ww+SiLSJsZWBbZ3HfTeNksx2MLVKGxLA9OC4YoYjj8sZ89iDgpxwpo1Ry9Rv7Xgrh1Uvh0ortPqao25KBW6uFRQVGqvRoEuPYUqNRaYU4KeG8tII5+EKueJRIIQXJbVaIrbK7dq6s61k8D+o6g77AYGXZW3EVvASiQ8ros6nWfl0giUIol/RMfvOE8iH3JaFY7RJocJTHc0oNFgQfNvgdlC7SBvnYHksWfnN3tIdLVegVQVnHQiklHeXfMQ8Wf/Dr4V77ZdWS3+1MO3FAvg==;HUEs1ZyxAvkNYGKJ2M/kwQ=="
 ---
