@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Military researchers to use gaming concepts and artificial intelligence (AI) for nuanced communications"
+    excerpt: "Diplomatic negotiation is complex and requires an in-depth understanding of the interactions of many potentially untrustworthy allies and adversaries."
+    publishedDateTime: 2021-10-11T11:50:00Z
+    webUrl: "https://www.intelligent-aerospace.com/military/article/14211880/military-researchers-to-use-gaming-concepts-and-artificial-intelligence-ai-for-nuanced-communications"
+    type: article
+    provider:
+      name: Intelligent Aerospace
+      domain: intelligent-aerospace.com
+    quality: 36
+    images:
+      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/10/Diplomacy_8_Oct_2021.615f4a150593b.61609f2843123.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fUa2lpT/onV4EIIE6MYWFuwHN7EBu5t2bn53q9facwRzqXKcwt+zj5WMtmCrwnY1zRhU/yNxjLEIpFo5vfrkKfJC3UVNSOofzk9sfVoqnuXXXhgiH+vRG54CkjKOQSXBTmJcdNhXee0bc44yRYIeNlQHlqq8amQ0mmoxc1bZkSUjx9ewEly6RqmpozCXvVrL21coumcMl6CWZT1g/wDvpttUac6t0Y9cW+tWVafBTjGvolAAWNx1WZkR/Fr7gENofya/7WOZd6bvsFSo4qPgd19nTKIg4kzuiSmaGkX5Wr7ikUCWLj2xysRAwksoqrOQRJJLhrDBaL0y+REcNoHKqwujEEYreVugpFaMHW+UcWg/BjdWJcyAnl1sMYC3OcAv2/hJv0T16YBgzHm9GnxqwroJEx1aKpa86TRbWL8IbeTIY8cvPOtcixn4eZD/I1TzfjO1WY2jOLIgXa8gstcDuCVKnUkMGXeWm1BvVwOOg7pY3h3oyPC07xPxONLhF5H8V4J+OmpKsZQbj6VbbqxB4g==;BN19e02N1PuWDpHBRFFJVw=="
 ---

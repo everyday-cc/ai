@@ -1,31 +1,24 @@
 ---
 category: news
 title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
-excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in a emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
-publishedDateTime: 2021-10-11T04:09:00Z
-originalUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
-webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
+excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
+publishedDateTime: 2021-10-11T05:21:00Z
+originalUrl: "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11"
+webUrl: "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11"
+ampWebUrl: "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 66
+heat: 256
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "China up for global domination in AI, ML; US stands no chance: Pentagon's former software chief"
@@ -232,6 +225,45 @@ related:
         width: 1920
         height: 886
         isCached: true
+  - title: "United States has lost AI battle to China"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief said."
+    publishedDateTime: 2021-10-11T09:02:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDuEq2x0ZPLReFmZA03SXyeE%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 39
+    images:
+      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/7-eac85750-2f5d-4647-8619-ee3a0b614b10.jpeg"
+        width: 740
+        height: 453
+        isCached: true
+  - title: "US loses AI battle to China, expert says"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief says."
+    publishedDateTime: 2021-10-11T06:03:00Z
+    webUrl: "https://thebull.com.au/us-loses-ai-battle-to-china-expert-says/"
+    type: article
+    provider:
+      name: The bull
+      domain: thebull.com.au
+    quality: 39
+    images:
+      - url: "https://thebull.com.au/wp-content/uploads/2020/05/china-us-flag.jpg"
+        width: 512
+        height: 337
+        isCached: true
+  - title: "China has won AI battle with US"
+    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times."
+    publishedDateTime: 2021-10-11T18:00:00Z
+    webUrl: "https://www.thedailystar.net/business/global-economy/news/china-has-won-ai-battle-us-2196251"
+    ampWebUrl: "https://www.thedailystar.net/business/global-economy/news/china-has-won-ai-battle-us-2196251?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/global-economy/news/china-has-won-ai-battle-us-2196251?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 39
   - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
     excerpt: "He said US cyber defences in some government departments were at \"kindergarten level\".. Read more at straitstimes.com."
     publishedDateTime: 2021-10-11T05:48:00Z
@@ -277,6 +309,6 @@ related:
         height: 382
         isCached: true
 
-secured: "GoIvhJg/pKDe7k0TN7LJCCndl7zwEnBQpYcm3jzT4NInkn2sTxKzfEjNK+DebF94Lmr3GWDxUNhHcmU5TK5aMf5SErnK0oAkIOw+bLcfvjkrJk/RhPrL1FolqO/47sO1MtyAwDk6wiRwPVi+FbYWnawZABKFruStTwNU4fk75JQMoLDxYiBgKRvJD72QELciHN/BHz4yJVuSuvwz9rVmPB0sClb4l0R+6kVLTkxO7adukbbkZn+zgpCFWchCQk13csDkLt6MtHLGdzbiJF/zV8LwVRF7XFY2i0Ir4JoSffQhD2wvlK6MSx3klTDHuBeqG+EOmkM0ADxDvnnB4NADzNdgpOdn1osu7S95KUFaB6Q=;pMhX48nSR0qZ64ejm1hqeQ=="
+secured: "a4Jg9VHRvWCWBK4hxkrA+anArxl7yMO8DQPcCV2K5ltRyDZzMGlwbFEQ0DHfDrVLhUkixIG/+w5uTiix8hUywD4zFTsPw5iWq14GAA9eNCKlZIbNqtRwa3i3hSFSSLgwhm5d5EiPTRcUvTEM/yxPptOtIbyxLdveQd84+EF4BRekF4CkArtecncjuiEHkC0GewFo7uPdjtP1O3eI0dWsAZ86f+6kdbw3gkYogE3WlQbAnY4zHTfxpYbee6gQV3EEKeVzAeEGMK2IVnIXQwUe3jGUPqPquPYMsa/IcB0RFFqSMBpvOlSPvFTqkFluuxh+vP2ZiHoViSo617bI2kU7azk3BF7hZdef4AGNQopzxfXA8S93Vdd5vah2zNIODSAsH2qd/BCa8sQMSW80PEA2xZuUiiF2wW2ObDDPNX6ZlordcvgvsKFtlnPQ+Pem9O1d3JX5M+bBpT7RynfVl64lLjtz8wIWgiXPsVoT2r0a0JWQo3lxhyusekpp3j7H2k3lLVNTiMqowN3ZrtLqy0T58A==;p98reMFnngCDdzlBiFEXDA=="
 ---
 

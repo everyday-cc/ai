@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -76,6 +76,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Translator now works with over 100 languages and dialects"
+    excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."
+    publishedDateTime: 2021-10-11T18:07:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 61
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
+        width: 800
+        height: 598
+        isCached: true
+  - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
+    excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
+    publishedDateTime: 2021-10-11T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-translator-hits-100-languages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/07/microsofttranslator.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Azure AI empowers organizations to serve users in more than 100 languages"
     excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making information in text and documents accessible to 5."
     publishedDateTime: 2021-10-11T17:20:00Z
@@ -86,6 +116,6 @@ related:
       domain: publicnow.com
     quality: 35
 
-secured: "D0LJ8BKjVHa2vrhRnsymDDE42XJMyU0nGuyFe3lfVI7XybYKgW8UGkgIXrnvZznDTFRY7AkhQZjBZs/2ehaL5d0pgVZbM/A2ggxAhMYJoPg9lUWKtDuuiqlu92aD/YaG8zldyamwWaNtsH0XV+fYPR5IWHOYybNvO2XlF/Z1jWb8UC8Ujhh+W1NJchbeTMxdPXhvHKvN8aBl3WCxghpvYg3qdbEZa3y+47rhSdWWpd1VbFTGaACZ10zlazpwAkxzGwjN8Zyxm8VVkjtsFXvYY5iM/IpA6RiFWg6tpLksXa2/Zks8iQZ1pxPt19qkgXw4qFk6h6KjudDP+5Rg0EI27c8oOaryyDmYuO5CVP2cCfnXCZNp5adWrNinIntqcV8H;C5InOalHJfd/POyqqsXdOw=="
+secured: "8XDg8hB6kHWB9xjrI8U1PshvbIW8APX89KcRi42jrFrA0vZlZk3E5XB4tjCWIT905VXwAcKgFEtcVC0QSkoL4jl1ErNyup+lyxkWzsX0e0QvJARzGiegjVIBdetaKKiNU5mOjhn6u30+n5ytykRvtysnv+mYX/6zZ3sMjORqRxxdKRIXoXKzfQFpOOLY6IfAT3Je93f/4XF8SqqxFfVmzqdz5bxwcWQZje8xC1JUiVtqT1C70Ep8EWFDqdjohbQbeyWsOLojOksBqKIfG/L6SISycdTOQJ1LMtrRVi9mmv6R56oao2hd4k5ng/aoK872FAVmLnNUSlwOKRwEYSLa6+QnOIH9piGF/G0zifwYIJP5ar0QiaVt5g10/+GgA+04T598CGmCvCF/vGteHY/uq+itD5EPGVKWFA9S7YxL9HS5Z4aN+Qz3k44AkftS+6dB7V7TOrYPp8uVbnKgboq0HIaSS+PV2p+h0JOar9Y/fckeRP6HbUh8iFRSHPw/0rkwj3dMLiEiDepFLPQetQRvO1hbmd0wU2jKG1wH2oJqTV0=;iBby7naEkfYWhktVQMbmHg=="
 ---
 

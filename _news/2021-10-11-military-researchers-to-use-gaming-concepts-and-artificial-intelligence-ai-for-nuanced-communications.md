@@ -24,29 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision"
-    excerpt: "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,"
-    publishedDateTime: 2021-10-11T13:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168"
+  - title: "AI contest hype will only create barrier to industry cooperation"
+    excerpt: "There is no doubt that the US takes a leading position in the AI field, where China is catching up rapidly. The advantages of the US can be reflected in some high-end and core innovations of AI. China has achieved an advanced position in applications such as speech recognition."
+    publishedDateTime: 2021-10-11T11:53:00Z
+    webUrl: "https://www.globaltimes.cn/page/202110/1236012.shtml"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg"
-        width: 679
-        height: 400
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-10-11/86a68aa6-ad81-4d9e-8115-196b38086fdf.jpeg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Georgia Tech Researchers Advance the Next Generation of Computer Vision"
-    excerpt: "The IEEE International Conference on Computer Vision (ICCV) takes place biennially and focuses on the interdisciplinary scientific field of computer vision, which deals with how c"
-    publishedDateTime: 2021-10-07T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/georgia-tech-researchers-advance-next-generation-computer-vision"
+  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in August 2021"
+    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in August 2021, with 24.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2021-10-08T16:55:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-august-2021/"
     type: article
     provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 19
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 23
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/33/2021/10/shutterstock_1590824851.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "VSZ5u8gSbfoY/WCrs5AFZgX0vbf78GdAY9FHsvRsFFWWIX/yGdB7JjzG1NNgzAi4XoPLyJauhEWnxBf7eSkCR64DvTD5oCrJrPCGDw32AlTG04pE44f8UxSwZOnXRDB04WPG/ErNWIG0FNJzA9k4+gqBct04E/iXVY95JyFetIdHTXgRGhN2lQl6IvWsMa+cppg+vxakC1gIQa0rY0/1IkKWd5YeaZl2PiTif+s8ZsAIuu7kRnr8RWeKxSyjtCbHSt1va0EAtX4Ji5QrA39V7i8j+va++M3X4Kqw5HHSnFOpDth8VOjYCVaV9GOO6QMaZkPm6CHMpP/OsQqDSZ10PiK6D3LK1xkoZzfwLCpAHWg=;1HpefNX7SNlJ03ZPPb41lA=="
 ---

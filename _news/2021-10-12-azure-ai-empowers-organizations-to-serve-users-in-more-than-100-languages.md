@@ -80,6 +80,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Translator now works with over 100 languages and dialects"
+    excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."
+    publishedDateTime: 2021-10-11T18:07:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 61
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
+        width: 800
+        height: 598
+        isCached: true
+  - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
+    excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
+    publishedDateTime: 2021-10-11T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-translator-hits-100-languages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/07/microsofttranslator.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "tuTGt1RPZ0jbKuSTZsHWjpN7IGbjys6XQ6wbemXDlnQyKA2LbRBZq+7zSmWvuFhGcXKzbS5wBY646SyZm8cVtRDzSR5lClQqfGjJqhFS7MzKors41Qk6Upp18edjG5yNjuWlngohFbTFb6+EmBbJpe3xleJvAxN3pShCroGdBf5pGRZoioebnZDVuFowPbCBHYgVwJjyvODxAZHjd+92WTX08P7mn2Sn+FhgVJSxKJesIbmZmwahd+rKcBy7p149RJlvkCYU7uysmNlSGxATPg3wQp9GNKp5NSQ98lV6wLUMpYeZWEDQ3MUhnC3P5xqgMRc1A2GOyBWaWD8yiHhDOQlPMUdixAsOZGRsQ72JhzQ=;gBpo3aoWy4TWLGOGn3dCxg=="
 ---

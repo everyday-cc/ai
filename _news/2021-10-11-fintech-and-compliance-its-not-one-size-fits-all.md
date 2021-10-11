@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
         width: 1868
         height: 1189
+        isCached: true
+  - title: "Fintech firm to boost financial inclusion with $620,000 fund"
+    excerpt: "To improve financial inclusion in Nigeria and other emerging markets through automated credit assessment tools, Canadian Fintech startup, Periculum has raised a $620,000 pre-seed funding round to improve product development and scale up operations."
+    publishedDateTime: 2021-10-11T17:33:00Z
+    webUrl: "https://guardian.ng/infrastructure/fintech-firm-to-boost-financial-inclusion-with-620000-fund/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 24
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/06/fintech.jpg"
+        width: 960
+        height: 634
         isCached: true
 
 secured: "5Yfxp8KKqihSnyfgIYjy0zGK8zn6jtfEhAVFEnR6PsdRSQGWlkvuH/3DV+5ljC2R98T6h/mvG7zMRLEtRNE5rQ0HkUskRiX5OpF+LbVJpWkg8GhUaK2p11byIjCy5Xh+iBg0UBleOR9ekVebGVrzoJlJuv2imdwQUz/mA/9PHmUoizXZPg7cpuu4CESK4ndubXSdstzQUaFGXYhloX/JF4wDJ3W6a6o+ofAhexegNwWBHQap5d1pqbCmaeg53Avz6nphPsBLTrK1DUjyWy8+iH2cdbk3CxtFGe9D2mS2X/KjL6Id7IfLz0RnAeT/3/yVJeEf9CoaIdEkdHFi6FYKAy5BkHc/bo1y3D1Cah9G1pc=;SjgBtXEXDjtzEeLplUwvrg=="

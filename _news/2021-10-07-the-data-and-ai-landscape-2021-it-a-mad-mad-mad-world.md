@@ -32,18 +32,20 @@ images:
 
 related:
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
-    publishedDateTime: 2021-10-11T15:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+    publishedDateTime: 2021-10-11T14:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 64
+      name: Business Standard
+      domain: business-standard.com
+    quality: 86
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
-        width: 630
-        height: 420
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Artificial Intelligence Market 2021"
     excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."

@@ -89,6 +89,20 @@ related:
         width: 1868
         height: 1189
         isCached: true
+  - title: "Fintech firm to boost financial inclusion with $620,000 fund"
+    excerpt: "To improve financial inclusion in Nigeria and other emerging markets through automated credit assessment tools, Canadian Fintech startup, Periculum has raised a $620,000 pre-seed funding round to improve product development and scale up operations."
+    publishedDateTime: 2021-10-11T17:33:00Z
+    webUrl: "https://guardian.ng/infrastructure/fintech-firm-to-boost-financial-inclusion-with-620000-fund/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 24
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/06/fintech.jpg"
+        width: 960
+        height: 634
+        isCached: true
 
 secured: "rWJ+jKicUON4tIEcMJn1zAYxml+ulNkEuqD4Zf+M2M+7tcHkoDB+y6J1WzjrR2gdHdHTl7Aj7A/UBhmdMTeux9VZ3neVLhBkn4ljjzwSiZQd09ai21ZLcdiD9cV0GKohuhgs+QdfJq0qUhKpk3wiMaHHCEBVwGg2G0La/cYj3WJCkxtkCFRE7TPQY2KmofY9LvlE1MhV7G3pyFD8/JnBgIGRn7SOo40tyymcWU/FNCn7G2RUzxIxu9LloSbd5uz2nvufJOuGJInN+Nh9cJFogdSEOdfwIt8EjNNb/lIYSTlGqYCYKrwOq6XHkdrINHTEtSJIRymn8CdEgaJ2v7BA69RXxRnYEunps2qABhKi0RMvgoOJZLQ0z//PHW4tdqSTgD7e8pf9DprLtW65ktY87fUpEIcdnJNB+hZ8kCYNiKCJMcKgV8KANGS6ek9OZ7XXpGiDlhRhEqhvx5PUQZ8FuocMeQ0HCQgf8cILdkrHtMvAh0mmiIXcJ6KWq14o5UdVYoONxz4i2Cu8vIU/soOD0Q==;SeIsUdtJhWZGBtccyUB65g=="
 ---

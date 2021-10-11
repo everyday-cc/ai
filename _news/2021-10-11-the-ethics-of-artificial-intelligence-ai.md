@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-a
 webUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is Artificial Intelligence (AI) dominating the world of online marketing?"
-    excerpt: "Many online marketing and advertising platforms would have you believe that AI is here now and that you no longer need to worry about content creation or to create your own Facebook or LinkedIn ads ever again."
-    publishedDateTime: 2021-10-07T02:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-dominating-world-online-felicidade-jones"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 70
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGfmZBN3jg1QQ/article-cover_image-shrink_600_2000/0/1633551074484?e=1639008000&v=beta&t=UuDTR84fxF0Z2_agyDuXdBR7-zrkm53R4XxUX-Hlnjs"
-        width: 1476
-        height: 600
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
     excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence (AI) Robots Industry\" -  AI also enables robots to establish communication with other robots and humans. For companies,"
     publishedDateTime: 2021-10-08T13:51:00Z

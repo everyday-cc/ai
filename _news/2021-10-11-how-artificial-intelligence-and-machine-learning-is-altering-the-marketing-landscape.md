@@ -1,28 +1,31 @@
 ---
 category: news
 title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
-publishedDateTime: 2021-10-11T15:47:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
-webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+publishedDateTime: 2021-10-11T14:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
 type: article
-quality: 64
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
+  - AI in Autos
   - AI
   - Machine Learning
   - AI in Marketing
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
-    width: 630
-    height: 420
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -85,6 +88,6 @@ related:
         height: 3888
         isCached: true
 
-secured: "G4wfndBEeZmkK4L74S3CJtYomjNQgSL6ypnWehoD27qz/y73ZBy+YfcFUDvYNfSYpRHlgzvh3Evh4nRVtPvUHH6CZBdQAdOtk23XQqqHibM+iby6/GxaQS/yz1E2E4VOGF7amjtPTGs4aLnI+bbQ0qShjY2o8Jz/Z51DDzD0NjNSJYsuPCPEliu4RX2bp+39g1crrayA27tYW2ZRysbl8Tfkrlvs0o+2KZXVX1YEXQd1j1tY3R3NPpj6mOIU4YqWJEoZTzcYa7Ofe4QBqd0f2ttOu0VMDuac7RwMRnAypAAOEoaHk+0AA5v1MhZtB2k4xJqmvuEfTgbCLSJnsh4dcMMVaCwZoOwTWgOYky/a6KU=;Ti++bGrrmabNFCG3KgGm0w=="
+secured: "wViAlmAKtTBmJZOyh76M41589CoShH0WRW+sIXxBg0EsrI+A0AGRdbxlqg2l5k2GLDSy1ZytmL8mktAvVviBsRsrSRVqJvHhVCD5nsGcb/mMzMgXD31Y0skavXJwbzQAeTTqNNwSA8P02EmbjzlmHo1RbaI5v0gT4krNOPudqvUoMR8UXGu84HxZD2jEoocrnGNxrYG8ae2z7WoSY1rig23OhLcGAdLSuDsfxeZcfU1pfJPg1djoDebM1rwusquAh7JVHSrc+pIF9Zn20PG2qdPP7EMHbHRRkLwQEgwdiApw+5gVQJtjKLuwzhZHJVhx/m8R4gziMRAVrcTkj3Ojl5lhCE5qxQFZr0cUab3BRQo=;jAruji+pe++24Wo6tbsVsw=="
 ---
 

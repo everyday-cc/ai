@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "Is Artificial Intelligence (AI) dominating the world of online marketing?"
-    excerpt: "Many online marketing and advertising platforms would have you believe that AI is here now and that you no longer need to worry about content creation or to create your own Facebook or LinkedIn ads ever again."
-    publishedDateTime: 2021-10-07T02:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-dominating-world-online-felicidade-jones"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 70
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGfmZBN3jg1QQ/article-cover_image-shrink_600_2000/0/1633551074484?e=1639008000&v=beta&t=UuDTR84fxF0Z2_agyDuXdBR7-zrkm53R4XxUX-Hlnjs"
-        width: 1476
-        height: 600
-        isCached: true
   - title: "IBM Artificial Intelligence (AI) Portfolio Review"
     excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
     publishedDateTime: 2021-10-07T04:15:00Z

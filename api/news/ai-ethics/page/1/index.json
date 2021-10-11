@@ -10,7 +10,7 @@
       "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -46,35 +46,26 @@
       ]
     },
     {
-      "path": "_news/2021-10-11-china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagons-former-software-chief.md",
-      "title": "China up for global domination in AI, ML; US stands no chance: Pentagon's former software chief",
-      "excerpt": "Nicolas Chaillan told the FT that he resigned in protest at the slow pace of technological transformation in the US military",
+      "path": "_news/2021-10-11-united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says.md",
+      "title": "United States has lost AI battle to China, Pentagon's ex-software chief says",
+      "excerpt": "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief-11633929471511.html",
-      "originalUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief-11633929471511.html",
+      "webUrl": "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11",
+      "originalUrl": "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 256,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/11/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1633931650931.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html",
-      "publishedDateTime": "2021-10-10T23:11:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp",
+      "publishedDateTime": "2021-10-10T22:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -85,8 +76,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
