@@ -55,20 +55,6 @@ related:
         width: 682
         height: 383
         isCached: true
-  - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
-    excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
-    publishedDateTime: 2021-10-06T20:27:00Z
-    webUrl: "https://mobilesyrup.com/2021/10/06/gm-reveals-ultra-cruise-a-more-advanced-semi-self-driving-system/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 24
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/01/gm-logo-header-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
   - title: "Self-driving cars coming to Scottsdale"
     excerpt: "A utonomous cars are coming to Scottsdale. General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, according to Mayor David Ortega."
     publishedDateTime: 2021-10-10T08:00:00Z

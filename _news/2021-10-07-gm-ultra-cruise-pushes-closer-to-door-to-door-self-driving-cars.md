@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
         width: 682
         height: 383
-        isCached: true
-  - title: "GM reveals Ultra Cruise, a more advanced semi-self-driving system"
-    excerpt: "General Motors has shown off some aspects of its new upgraded semi-autonomous driving system called Ultra Cruise. The system promises to be a huge leap over GM’s current hands-free driver assistance program Super Cruise."
-    publishedDateTime: 2021-10-06T20:27:00Z
-    webUrl: "https://mobilesyrup.com/2021/10/06/gm-reveals-ultra-cruise-a-more-advanced-semi-self-driving-system/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 24
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/01/gm-logo-header-scaled.jpg"
-        width: 2560
-        height: 1439
         isCached: true
   - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
     excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."

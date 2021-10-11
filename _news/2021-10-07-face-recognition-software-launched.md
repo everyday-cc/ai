@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
         width: 270
         height: 270
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
+    excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
+    publishedDateTime: 2021-10-11T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2424632/mobile-speech-recognition-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11553029_g.jpg"
+        width: 626
+        height: 333
+        isCached: true
   - title: "Uber facial recognition software to be discriminating over people of colour"
     excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
     publishedDateTime: 2021-10-07T09:48:00Z
@@ -117,6 +133,15 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "Belgian police admit using controversial facial recognition software"
+    excerpt: "The Belgian police admitted using facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
+    publishedDateTime: 2021-10-11T12:59:00Z
+    webUrl: "https://www.timeturk.com/en/belgian-police-admit-using-controversial-facial-recognition-software/news-45635"
+    type: article
+    provider:
+      name: Timeturk
+      domain: timeturk.com
+    quality: 21
 
 secured: "z6FMyixx3GFrYO3/qmh/CfmHicmrbLz4FF2Ove17ghH6wDyLVs/WhXzZlTgADlOYqsiWYRkuDXCLurHazoMDcBzWQScRTje+aY4Y5JYtB66GElhU05X43wsjqSK8OV8y4gC77S4ofURzxqL9SrnBIJy93HIP8anYmtRhZmbloceYRr7wHo8Chq9X4IC+NRW+l53GxDflTJbR9Cg4/Gq33JZrL9zlFPp3hNSil0BuI6Lvt5xWqX3S2IeG6lYRGTyrzo5DXBeJJzp/mEvl0pxSfVK3X467oz6G7prqC3XejVTHrKNLQP8KP6gxCDe6xBfF5inVt1Qb49r/hrY/m7C9FLOJSrX2LleGpPjtG1Ldy+g=;aVRiembU7/u+md70VumREg=="
 ---

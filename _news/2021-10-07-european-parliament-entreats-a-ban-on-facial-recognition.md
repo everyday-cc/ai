@@ -115,20 +115,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
-    excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
-    publishedDateTime: 2021-10-06T19:22:00Z
-    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/do-we-need-international-rules-artificial-intelligence-three-points-eu-proposal-ai-regulation-you-should-know"
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 22
-    images:
-      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/Susanna%20kuva%201.png?itok=PDMZJ6KA"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "slcbK3wiQ3vsbtQVFmaS1Ewz00lg2CtQ13yVQ1FT5MdLQUulBdfgSpyzMFGUvu+GZpL+qNyDht//qfMuHbgD7GNjgcWkpj4XWrIMW7EEFnudXkexeqztI+U0f4Zg0fhSgOkkiDaecH4bMzYyZ2HkXajVZfi8AUboajCcExqRScRBQmdjiqVXxeG6DjYzbRhYmQg+yCW/WA0XOe+4GoC5N2pZOaz4MssSTGKAcih4PtdH3iE4PPPB4gn527c+8ZCEbuN2/zLnZG8fO1pwfZcNzkS+YFExdhHVMZ0PCWOgusP42lSKGKy4LCfMK5ZEmkedm343B3dql2fBMrXJikABdzBmyEkjMrwR/AaaR2LZiMJqS8CqAGHbUpOURoaSJq6poYRmzpacvsxIFSv0PnO/xYL3Ex0qsfqqa3Lm+WJzHW93OKzTkS3ci6NzxNT0GIfQTpM0oK2HIbHKPvRgHws9P5g4ZihEo2nAEs0CRUyWyKahpnQbI2jr/El+vt3gtnn8VPQjbDETjOcqBm9mQX1XMg==;D4/YIOjiVQhiyed1x0hvNw=="
 ---

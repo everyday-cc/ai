@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
+    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
+    publishedDateTime: 2021-10-11T12:47:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "qz6Se6lJLkm8bW8Li72EvmhnMrW1DDxYvbIbwxLPzRtu2rRZbAdmsz93tAnN5F15B99EqMwgVF0FnZ3t7bEF5fi2ANNDqB5wDXaBK+ZXTcTXhd95FfwaKMrXwHu04RDetF95QhsV40XHqgj1CpRlDYfEN3rVgFUvcN1XmpSG1YoXKb7CxDNvfaPh/lAvwZhpZCZcYtFNnY6rHDWC+nz8r9YIifB0itLAnqVoKUJIkxsZaCe+CEDjJWHIBA6ZTBOFz/r5p6JZMxOQXZLK6AJMOgeLoZT2B4NL/SOuJ6a8DV2clmqDHcJ4SxsYWjl7N/MrI1PKy7q7USeiIX8ZT4aKr9QIPyizwbpIJWCBBpgPiRw=;d6Pk3Yvx6OwOXQAj0ayiWQ=="
 ---

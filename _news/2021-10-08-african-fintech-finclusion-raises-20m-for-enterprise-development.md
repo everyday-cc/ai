@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest Fintech Trends That are Transforming the Finance Sector"
+    excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
+    publishedDateTime: 2021-10-11T13:13:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/latest-fintech-trends-are-transforming-finance-sector"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/digital-banking.jpg"
+        width: 778
+        height: 518
+        isCached: true
   - title: "Recipe For A Successful Fintech Start-Up"
     excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
     publishedDateTime: 2021-10-07T14:04:00Z

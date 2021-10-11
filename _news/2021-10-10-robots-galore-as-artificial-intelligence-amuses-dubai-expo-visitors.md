@@ -41,6 +41,22 @@ related:
         width: 920
         height: 533
         isCached: true
+  - title: "Robots with an artificial intelligence system began operation in Dubai, UAE"
+    excerpt: "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model"
+    publishedDateTime: 2021-10-11T13:39:00Z
+    webUrl: "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 87
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif"
+        width: 612
+        height: 355
+        isCached: true
 
 secured: "lRoA/U8bT5hwshg2fN+S2TxbQDmo7dkrNEWyaFN8+VlpivLMlqZCyMzgtp6YhdHlChroFeYfLM1l1GwAb7CxjXT0lm9V7Y7jx/57RCrrWMm++I5QxELl6kPn0I2szomnuAiV0EnxtkJIYko77MpfjqqG7VIZvcenVGdZEvZJPaQMcJAhHOeUspZp4aNXgUycYch6lpRdt6PlXBUP9fS53wv3bMm41OeFKuBO7cCQ3M5EZRRJ/hqUg6RgwLWL2/eLtR49CRxXUAwo8qogVKGd6HxOY8rLZwJpcOFosBOVz/3luTxtoUDn9ItGjaIGtqKUXrVJK2wz+6AZd6gXGAbvZ+7QZahsyFgK2ab09HRrgqHknwbkXQvEgCHRjsyazpqyvANc+ZAwnRXEMecH6TzNEoCElKOKKVUd5KLOs6/apDR1QWLslYRdEaeNx5wH3ew0zVC1OJLOT6c/NoNhCW3Er6zW1BIzqJhvOdOp2agPM0UvbIOM/JLAnY/4qywL6yhtu1SRemIQtnIflEcIexV9uw==;0cR2JXtlNipW8ldks9sGLQ=="
 ---

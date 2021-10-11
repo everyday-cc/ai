@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "LiDAR-Less Self-Driving Car Startup Wayve Gets $13.6 Million Investment"
+    excerpt: "Wayve, a start-up company that is developing self-driving car technology, has recently received a significant investment. We are referring to GBP 10 million, which is about $13.6 million. The investment comes from Ocado,"
+    publishedDateTime: 2021-10-11T11:24:00Z
+    webUrl: "https://www.autoevolution.com/news/lidar-less-self-driving-car-startup-wayve-gets-136-million-investment-171443.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 26
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/lidar-less-self-driving-car-startup-wayve-gets-136-million-investment-171443-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Ocado invests in self-driving company"
     excerpt: "The tech firm’s $13.6 million investment in Wayve follows a similar funding announcement earlier this year as it looks to automate delivery for partner retailers like Kroger."
     publishedDateTime: 2021-10-07T15:47:00Z

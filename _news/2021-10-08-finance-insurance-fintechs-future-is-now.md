@@ -9,7 +9,7 @@ ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-fu
 cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 1868
         height: 1189
         isCached: true
+  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
+    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
+    publishedDateTime: 2021-10-11T12:47:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "0t40EQWclbiwc8IRmEtSihWLNjoNz8PcPjmAS37Sm9Ke/i54aGJGdbwWYpa6573EFH8ro6KxBDSXdAJ/ZjK5dFjPn+Rswx3D9A0mpGdVRY2sIs47zF1XxW8NR/KhpuwjHhkuryc61fnuf8HpvYa+HKDvKRKs4KRyRSJyEX5lciP51ZqfaLVrTJtWthIKHQvkEB0rRBZqkEZaQo0G0KziGdQJhFOPuOYzIBcaLCxOtHYGHuNM0SBp7vDQrmGdq79/1QKJCOuGbrM9rhwElFjDKtyxdy7Vr2ETZimeUR4yq5tYRyXUPDwlkHkyTv9SuDOOIpXDv7ofA56GvDqqe+cyYWf07kZx1B4YDbTatSomfiAAq+WVst97m5cQ9yM922Z/ag+SiYqWjLtZcpUnCiR2h6/szkITX+CXNwTMOU4WyU8l06e5943g9FQlTJ4XoStPz7x+fPJS+GrpMBv4tUlvRy2OBQaRhjzCSLJ/O2asP8lWNlCWEFYQ2XbnmLDyYs5+m/+ReOgipupHRpEDlF/+1w==;0oGgSFCdHGiLedTNdeYuUQ=="
 ---

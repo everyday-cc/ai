@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
+    excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
+    publishedDateTime: 2021-10-11T13:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-owners-safety-score/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 79
+    images:
+      - url: "https://www.cnet.com/a/img/AlelQuTQnwIvVeJhumirT_nwxJ8=/2021/08/20/3aa8af46-9168-4930-8ff1-d6d502ab3378/ogi-tesla-ai-day-fsd-demo.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Says Tesla Full Self Driving Update Delayed."
     excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
     publishedDateTime: 2021-10-09T15:37:00Z
@@ -188,6 +204,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "zUkpQa2TGKKdDuQoEHw1kWmiLeGtx1i9OrLsqNkf+4LImoBoy2VaTk/vjkebsZJ4BCcuf1u6VD1qT1KVjIvpt6dspmwfBOUuRIKBjDLZeAimR57LrvCwf3occMsqdcf9ioqWbcSmd6wTgD7qkOGxFyhAOTpB9X8TU0+RKJ3cf0Zbiyq5Zxiasj3n7POa61nZLV+xf43kTc9fMwLNJFOmAT0cw4WtxRE502fDGZ/m/AR7ttqk6WY1KBhFWpXbBQ1AzNTRu8sjysSladxHwaJwKeFNXyrMOYCN48DF1mRlBE9Nr4aytC8TAkw33eIjBMqGxmq/dTfaB9FSfjJhwcx0qrjW6lxIiERgw888mJ1rbzg=;l4/qY/B5okMQrIYQ+Bmrfw=="
+secured: "vpX5nZUso/0fhSr5BjTLkC+NmUL9EdyWuUTni3RUS8rkIj4OYS4sPxNMpzwBc1QIH3B8KOqH/lZwLkfPh4Ks8OyHbxZ7mEp36E1EW9S06xSE78ldlHxdxDO+8jaemaAGXAl9Y0Mbx7Av+aXsOHmws7MXwlVlYGy6jC0KEvOSo28GalJmnIgvtM+BYRQDCZbWM1ZcgCM4HeLqqBsOp+IAcic6KAexvBbqb5vKV7Ofcoj21+STpNsjg5pfi9T6SzpErmF3IbyDQ0Oc9ct+gR+21yZU/AOIrMV5abNkFD0ZDne5a5lxVZ1ip1b05hOiwRB6jiiwzVUpx4F84AWTQ+zTevBa98PoIGnKv5ZWUvUM5tBU4sBcmrgRXlQBCMSWZYLFY53yuvuzSIjz+kcLnDb6RRwdBcmbSnPsqg5Esp7Ictlb3GBlZMoBNaaXi33n9Zy9V5qDzGMuddeNihGieXMjJtHhPLEHeLJKAJZaFNRCGlkHyc861OBk9cTYb7h2/rwCVuvXxbAxLPR/2eTxYwYD+A==;k6HgJIFjTqdSsgOrNatefQ=="
 ---
 

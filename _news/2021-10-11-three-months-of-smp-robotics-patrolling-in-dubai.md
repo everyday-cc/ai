@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/months-smp-robotics-patrolli
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots with an artificial intelligence system began operation in Dubai, UAE"
+    excerpt: "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model"
+    publishedDateTime: 2021-10-11T13:39:00Z
+    webUrl: "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 87
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Robots galore as artificial intelligence amuses Dubai Expo visitors"
     excerpt: "Visitors to Dubai Expo are being entertained by the omnipresence of robots at the massive world fair, as artificial intelligence is proving to be nearly as adept at hosting an event of such magnitude as its human counterpart."
     publishedDateTime: 2021-10-09T19:49:00Z

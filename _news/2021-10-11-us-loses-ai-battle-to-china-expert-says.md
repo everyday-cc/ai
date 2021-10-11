@@ -1,27 +1,27 @@
 ---
 category: news
 title: "US loses AI battle to China, expert says"
-excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging"
-publishedDateTime: 2021-10-11T05:26:00Z
-originalUrl: "https://www.standard.net.au/story/7464981/us-loses-ai-battle-to-china-expert-says/"
-webUrl: "https://www.standard.net.au/story/7464981/us-loses-ai-battle-to-china-expert-says/"
+excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief says."
+publishedDateTime: 2021-10-11T06:03:00Z
+originalUrl: "https://thebull.com.au/us-loses-ai-battle-to-china-expert-says/"
+webUrl: "https://thebull.com.au/us-loses-ai-battle-to-china-expert-says/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Warrnambool Standard
-  domain: standard.net.au
+  name: The bull
+  domain: thebull.com.au
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.standard.net.au/images/transform/v1/crop/frm/silverstone-feed-data/12074d01-2b9a-468c-baf4-02b30120f2fc.jpg/r0_74_800_526_w1200_h678_fmax.jpg"
-    width: 800
-    height: 452
+  - url: "https://thebull.com.au/wp-content/uploads/2020/05/china-us-flag.jpg"
+    width: 512
+    height: 337
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 453
         isCached: true
 
-secured: "MEPYUjp9TKgS9wK7TIj/JtnlUetzbVKVcVxmTixpv2W65WKnR5JoeKdx/L7ezac9qXIXtO8yD/T9Ryhwh2f+JIeP5F9mEC/kg/XB9kilTJglCPsAQxUKbX/YNGSY17z+5AQJPEqPZXjttkmUQ+NjQQNtRemRZSUfC5zPfRIGHySPbfGfs5lnhs57QSVqNJsHsbHMjoBWZ0M9dX8fH1WxkvKNW3NogGrI723BggVuXuwbYJeHO8LKLClaNKO2mX3XLxt/SHO4gcrL43MVcR71jyBJoz3cpHSq1KigM5Og7YJizD/HT1RwjLxGLBFudVnUvWt0kuoMGwzYXISV4HZ7TqTBfaxI6W7f3kXfgT9fWlE=;eT45J/Ht64qpM738cjnv2Q=="
+secured: "SKTpILtrjhew3Jx4COEjENeBZpDDbwOnuZHSo48yCVVXJ5A0Q6l3n+PS6rGClrI4QLyr9V9mK09gRNGhDrL/SiqKigPN6GGJJP9yDrB/fqzKVJ2NVilxJrlMMPkFDv11fs+X4WTWrfdA4cY9KfTToLBh488a5PAYT4Nl4hBPS0Rp+S0UUErq4kL/8lK2Qtak+ShUWEbInss8Rqhn98/HdTEd72P4lB/8poUY0NiBn7OiJ3mMrqjmBoJSpZ28YQIKa54A8p10OOKjOKdK1WiLfKuEX7Mxfj+N6JcBZ9IHjHrg/RH/F6sa7mRtpAZvln04MP+Uid8jcA4u+EQMSHeeiIiPsPOepXmT5uynrJhOd6g=;TO8WE1dezzlkAtO5WUUA4g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 type: article
 quality: 203
-heat: 273
+heat: 263
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633941009/widgetdocs/facial-recognition_f8jukk_yutkw7_hxcfoj.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
-    excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
-    publishedDateTime: 2021-10-06T19:22:00Z
-    webUrl: "https://www.helsinki.fi/en/news/artificial-intelligence/do-we-need-international-rules-artificial-intelligence-three-points-eu-proposal-ai-regulation-you-should-know"
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 22
-    images:
-      - url: "https://www.helsinki.fi/assets/drupal/styles/og_images/s3/media-image/Susanna%20kuva%201.png?itok=PDMZJ6KA"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "FBBtsDhSUqCnZa+HNpy+cNukHGTs9RMKsThe9aXIT3paAxFAF4WkV0nHVlySH1AmNRjC67Rv24un+phMcwklevyIWhZCe3DUSBAi0pBlA0YFaJasjZG3vXaiYpASqgeJ895B+1f/mDDaVPzt6Ow87ty9Ac+lKQ71IkCT+Sjsa/N/wEGvdU0DAApK+bOgsRBqKzfCJOufJ8mpDfvb8zqpIU0XUV2LfojLUgiLB7yM2KICai8c2khqg96t/Ci92Qvx2RvqxWF48zezsKvCtWbI1EtBD5kVGpKXxnRk/6hTl6FeHk/oJVqn7nwxa2jqfoi5zr9CgDKN9mjnofDWWf1T9c70pdhgqhrs1bSTAWeSzOO/DH8Yq7QvgfyjchzfebfqRnEBUD8p2jO8yMHtz3bF+7C0YJV7P1JrIwdf5gJp/myn7mTv8luaNw+mGrb9awbhOve0FHlMqcP6p+2K6r3k7cBloTmbwCEB1DO2uKhTvWshlgzJ33vR5ZTaXRvZSWafuxI8K5WkSrc8dDV69apSKv0FiUX2AmpZplLvUomYW5Q=;J6Dhung1KBVMBYdLqZuPpQ=="

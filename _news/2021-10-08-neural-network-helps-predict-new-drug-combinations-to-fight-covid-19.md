@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/neural-network-helps-predict-new-drug-combi
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/neural-network-helps-predict-new-drug-combinations-to-fight-covid-19/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -26,6 +26,22 @@ images:
     width: 777
     height: 518
     isCached: true
+
+related:
+  - title: "Scientists turn to deep learning algorithms to predict new drug combos for COVID-19"
+    excerpt: "Health solutions powered by deep learning algorithms have not only made it faster for medical pros, but enabled researchers to have a better grasp of data."
+    publishedDateTime: 2021-10-11T13:51:00Z
+    webUrl: "https://techhq.com/2021/10/scientists-turn-to-deep-learning-algorithms-to-predict-new-drug-combos-for-covid-19/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 33
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9NP36Z-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "tEqXA0dYuf6OsrgraG3fFhLow8z5sKYSkV/fX2x8q3xvIbyyD3IgKbdyFl4WLHuLigHKNlbfjSvypkaRGkwkF9zTf1f70eOTWpYWRvYdYwA722hpLES50AafthqMcf3k+49kp0U8BVf/Lt4hYD9/V4RsRz2YAOZnphHU3HQXVRZwpxxyEcsnitnVYi3AEm6wfy3VSS/ujLprPqASgpASYRJUktxglXxZ50VOHOpUsiYC4HK8ACNJTo/9CEFMcfythN2CJP6/NAKFYRH5pjD1acGPXsR0ULpKajetCdB6aNgWJNH7XGgGgBEg8DQAMfeOodrY1kAjAdmj1rOFdVcuN8p0F3bZ1KRJWD8CgKnA1YBDpkiNgG1Pi4wTgMz96mGdBeMDHMErBf5lEmjd2norQk9ZinQFkxpk8524PLyKppkXJtW/EudRGUqvFDUesgVQ+D+u+CN0uLk//Ex2PoWhdIKfgs38waQdlwD/jBGDI3Wdkjcym74Uc1DrHNoOpXdL7tW2nim+iMYv3Z4nidy0yg==;jqyN3ORmmMAijoJ3BGqjBg=="
 ---

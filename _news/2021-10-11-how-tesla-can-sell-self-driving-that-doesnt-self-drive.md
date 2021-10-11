@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
+    excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
+    publishedDateTime: 2021-10-11T13:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-owners-safety-score/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 79
+    images:
+      - url: "https://www.cnet.com/a/img/AlelQuTQnwIvVeJhumirT_nwxJ8=/2021/08/20/3aa8af46-9168-4930-8ff1-d6d502ab3378/ogi-tesla-ai-day-fsd-demo.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Says Tesla Full Self Driving Update Delayed."
     excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
     publishedDateTime: 2021-10-09T15:37:00Z

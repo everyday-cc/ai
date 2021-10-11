@@ -45,6 +45,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Latest Fintech Trends That are Transforming the Finance Sector"
+    excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
+    publishedDateTime: 2021-10-11T13:13:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/latest-fintech-trends-are-transforming-finance-sector"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/digital-banking.jpg"
+        width: 778
+        height: 518
+        isCached: true
 
 secured: "rWJ+jKicUON4tIEcMJn1zAYxml+ulNkEuqD4Zf+M2M+7tcHkoDB+y6J1WzjrR2gdHdHTl7Aj7A/UBhmdMTeux9VZ3neVLhBkn4ljjzwSiZQd09ai21ZLcdiD9cV0GKohuhgs+QdfJq0qUhKpk3wiMaHHCEBVwGg2G0La/cYj3WJCkxtkCFRE7TPQY2KmofY9LvlE1MhV7G3pyFD8/JnBgIGRn7SOo40tyymcWU/FNCn7G2RUzxIxu9LloSbd5uz2nvufJOuGJInN+Nh9cJFogdSEOdfwIt8EjNNb/lIYSTlGqYCYKrwOq6XHkdrINHTEtSJIRymn8CdEgaJ2v7BA69RXxRnYEunps2qABhKi0RMvgoOJZLQ0z//PHW4tdqSTgD7e8pf9DprLtW65ktY87fUpEIcdnJNB+hZ8kCYNiKCJMcKgV8KANGS6ek9OZ7XXpGiDlhRhEqhvx5PUQZ8FuocMeQ0HCQgf8cILdkrHtMvAh0mmiIXcJ6KWq14o5UdVYoONxz4i2Cu8vIU/soOD0Q==;SeIsUdtJhWZGBtccyUB65g=="
 ---

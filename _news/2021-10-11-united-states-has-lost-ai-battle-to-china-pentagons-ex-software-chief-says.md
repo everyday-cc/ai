@@ -1,27 +1,30 @@
 ---
 category: news
 title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
-excerpt: "LONDON -The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief told the Financial Times."
-publishedDateTime: 2021-10-11T09:20:00Z
-originalUrl: "https://www.euronews.com/2021/10/11/uk-usa-china-ai"
-webUrl: "https://www.euronews.com/2021/10/11/uk-usa-china-ai"
+excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in a emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
+publishedDateTime: 2021-10-11T04:09:00Z
+originalUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
+webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
 type: article
-quality: 36
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/wires/783/62/7836206/1000x563_4o37d.jpg"
-    width: 1000
-    height: 563
+  - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -137,22 +140,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
-    excerpt: "LONDON - The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial"
-    publishedDateTime: 2021-10-11T07:27:00Z
-    webUrl: "https://www.asiaone.com/world/united-states-has-lost-ai-battle-china-ex-pentagon-software-chief-says"
-    ampWebUrl: "https://www.asiaone.com/world/united-states-has-lost-ai-battle-china-ex-pentagon-software-chief-says?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/world/united-states-has-lost-ai-battle-china-ex-pentagon-software-chief-says?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 57
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/20211011_robot_reuters.jpg?itok=ebQ_Py7d"
-        width: 763
-        height: 509
-        isCached: true
   - title: "US has lost AI battle to China, Pentagon's ex-software chief says"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advanc."
     publishedDateTime: 2021-10-11T05:09:00Z
@@ -169,6 +156,20 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "China is beating USA in AI race, says ex-Pentagon software chief"
+    excerpt: "Some US government departments' cyber defences are at 'kindergarten level' compared to China's advancement, Nicolas Chaillan thinks"
+    publishedDateTime: 2021-10-11T11:16:00Z
+    webUrl: "https://www.computing.co.uk/news/4038435/china-beating-usa-ai-race-pentagon-software-chief"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/3abcc90/2ccfb016-ef72-4da5-a40a-efc07801e5c5/6/ai-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Pentagon’s ex-software chief says China has won AI battle with US"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon s former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T10:52:00Z
@@ -182,6 +183,20 @@ related:
       - url: "https://thefrontierpost.com/wp-content/uploads/2020/09/FP-Logo-scaled.jpg"
         width: 1920
         height: 886
+        isCached: true
+  - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
+    excerpt: "He said US cyber defences in some government departments were at \"kindergarten level\".. Read more at straitstimes.com."
+    publishedDateTime: 2021-10-11T05:48:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/united-states-has-lost-ai-battle-to-china-ex-pentagon-software-chief-says"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/11/ak_chcar_111021.jpg?itok=d1G1Tg8s"
+        width: 763
+        height: 509
         isCached: true
   - title: "Former Pentagon Software Chief Says U.S. Lags Behind China in Artificial Intelligence"
     excerpt: "The U.S has already lost the race against China to develop artificial intelligence, the Pentagon’s first chief software officer told the Financial Times. Nicolas Chaillan said he  he resigned from the U."
@@ -198,6 +213,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "pmC4E6tpMX/SDUHKY5GQyu6I3hDSdCmROQnPGhCz5kLbTPMBlH1hPcYy27gL1/ni/g3FpeqetUcn3CvCntL0O9JUf2/EiJFsLetvDOYGDM4pyhfvxlDV8+/1TsizamNvjG7whpx9bqXa/1wjLSscZtKoInQ90VlU3h9NReoLSXLRUtgUKgBoK0i7W0Sdt4n38txmo83LQa1TzGYh2hG5CIF8txn3GK4Pbd1B3iPcOKr6hpyHa6HfOjKJrdUTANvPzWV+nkm3Sd+MLG/8SLEF4NE+NgQr3uRn8iGEodWY0iswy3nHtDIEsdm7KlAQYmLAK0GvOB4az5hn6wA1+I7as4xOcGmDTjfGxzdUTXA0Kus=;FeGqF1M6M+E+0jQ+PdNG+Q=="
+secured: "aZouXyecBH625jtSoueHuwqXWabDlgZYed2zn2xiTyihz8gal1oEmUDj3X11y/6sJntsUTXy0xjOqNBScWnuUdXzFOP0uYTpL+NCfOUv7a9aPtxD6Y9+HAxIuAe64AxE9DaspobQqdzTsq7GRUbLdQRvlfrenLku6tm56rHJOnUlObhaD0LkUFIlmzltl726C9bBx5ENlEif7E0cOTINhdNmh8Pk/BPBSHpmfurq14YI61+SCZVUGCAop0BCjxhkW9bha/NoGuS3JzTplbGI2QwCL3sSfp/YU5dZQANpz2srMWisJwPYPdp0RxbMCnmCnaTG/SsRnXXLU4TNMmrr/q71xjdTrX/d6OIz0e+hs7Y=;FTcTwA/srLh9gttPpacl3Q=="
 ---
 

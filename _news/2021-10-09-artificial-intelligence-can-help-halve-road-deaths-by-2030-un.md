@@ -65,6 +65,22 @@ related:
         width: 800
         height: 552
         isCached: true
+  - title: "Artificial intelligence can help halve road deaths by 2030: UN"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-11T13:04:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/artificial-intelligence-can-help-halve-road-deaths-by-2030-un/articleshow/86939409.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/artificial-intelligence-can-help-halve-road-deaths-by-2030-un/amp_articleshow/86939409.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/artificial-intelligence-can-help-halve-road-deaths-by-2030-un/amp_articleshow/86939409.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86939409,imgsize-23544,width-800/86939409.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "jzMQH4WP6FMscONa+8JlxYEf5ogJBsMa6iOfu6SfQldH48IxCC8kiz1xQkdyOw9/owunlmgsfoLqd2FMd1gzm9A5fF+eOIaujRShBCWVHJWf4TcYuUgnEjhi2g1h130mZp74ZRYajtnUDJNQ66UB6uF8uJfQtbxslHl68GzKjtEJJmF99PLvXWVP5RyxPZK8VQWefnHaITpmvI7pejl8BlT6ZW204RhLVOW1JfSnpXozNZ6ydiJBTwExc82KaNiJKd4IL9rLVP7UhCwFwD4LMHL4VSm6NmHzo4mnQgl5VxbXeuvR/d7hdbkswKg2yZeZCjuYzoAMHhTfaEvZDlnMQdC6N8NLBA1LSKxwLKL59DQ=;BSV9NFjYvotUdQcxiioE+g=="
 ---

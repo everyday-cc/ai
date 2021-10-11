@@ -14,6 +14,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "5PZPnDf01PFkiUu4n0Vmgi3bJATQOYfUBi/HTslfOcutBp3w6zWvUUBe+Rbv2bpeOdIf2HKGgvvQ8nX2kc9CJwsIVS2Wd+wm/brr7yKLJtnKIKvZllOiMwNpr9YQuVIM+4AHkUuCvPI/UKghYg3g8A1Rhtg2unL4ZOcR+NmLsg1C5fl9yz5wr5oF8j7+cKo1wOvBA+PKJjRJSQWeqvk+2nZdla0zSUC1VhSvZJCcyE0PveZ/Gls0VynajeX18A2jQZqp0VwCvRqZR2tQZ18P/oxgPniG1I6w674oHvLY8RiEogWod5Xb5OS438mDkHuXJTC6GTwA3iNYLu/2uDwkuTqmUKQL4BLu49DCqdo0A0Q=;8ZYK0ldSB5XeM/yUhiZbbw=="
+secured: "ovco4ZwaVA9x2LQhA5kwCXBsfxcTzBGAtyaHm0UCDxqTCh40oN05vuMr7aUpMFQq7hdpuQRv4HG+HKhcj4iyvOqZyeqUTp1YQli8PDWT3jXqEABdZmzpRIVN2bCqyy37n9XZTiD9jiGrH0s5JI+vJACaoTer0E/I7mQS3YVNB6ttZbLiLpLhiZ6OVgkWQHrD5NYccmy0jgHz9Ha9IE0Qf1WSzO1/n2siCf1gK+EAIYRoHUao85S4ZDGVjpq7R7/8FR5cvW0J/Km/E3aF460A0A0edHYd0lvGG13vCeFmhI5KhPD8U+Q0tXzo40r9BlYmaGowoYNDqN4K/JSzNrTWVcMFsd8mxobBiAHBKY24abgVB4ydYeq7VnIvjkD6FV4PBUtrML3FTb4z1BsCAPnjOYHiYf8nwsa6gNGdtRN9UypAJD9/xNcw2Z2EXNyaEhHOiNCIurz/IGT6nOtEm1TgcD2vm5escxFLZ0+Q5QMleH/qbzvgv5Al1hFk0IY68J3sLdWssweaQrxfTlzaEdR0TA==;0vcECf/Aq7OM+5ZxGO8boA=="
 ---
 
