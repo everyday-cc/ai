@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "US firm acquires Keralite's AI start-up"
-    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
-    publishedDateTime: 2021-10-06T15:47:00Z
-    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    type: article
-    provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
-    quality: 57
-    images:
-      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
-        width: 490
-        height: 268
-        isCached: true
   - title: "Aussie AI start-up acquired by US giant"
     excerpt: "Sydney-based start-up Hyper Anna has become the latest Aussie tech player to be bought by a large US firm, with NYSE-listed Alteryx swooping in."
     publishedDateTime: 2021-10-07T13:00:00Z
@@ -54,19 +38,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Kerala Based AI Startup Uncanny Vision Acquired by Cloud Video Surveillance Platform Eagle Eye"
-    excerpt: "All 60 Uncanny Vision employees will be retained, and Eagle Eye plans to expand the Bangalore office, current customers will be served same."
-    publishedDateTime: 2021-10-07T06:28:00Z
-    webUrl: "https://analyticsindiamag.com/kerala-based-ai-startup-uncanny-vision-acquired-by-cloud-video-surveillance-platform-eagle-eye/"
+  - title: "AI startup Hyper Anna acquired as Aussie M&A skyrockets"
+    excerpt: "Aussie AI data science startup Hyper Anna has been acquired by US-based and NYSE-listed analytics automation company Alteryx."
+    publishedDateTime: 2021-10-07T23:02:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/hyper-anna-acquired-aussie-mergers-and-acquisitions/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 25
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/edited.jpeg"
-        width: 2500
-        height: 1305
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2017/08/Natalie-Nguyen-Hyper-Anna.jpg"
+        width: 641
+        height: 333
         isCached: true
 
 secured: "fvgrfHHe3bD/NN4g7xOMu4VgKL15rVFNBY0kdn/vIXENsalFv5zTKfgJkVgWYTaY4TtJTHqyev47ZOu8UnFpwEKtkVVKMM/mA38x2G53Kvo53cATYX2C6Lo+CqFDfBgAWHNojSxD5WhEzAIPqvbIEZp08I5znotMXwuYNRUFXQC/+6+ZHp5I2kD+Hp9vkLFAUBnpNvisbe5uXgBi7l0xZXpdMfX95IkjQy1x30p0FS9FycXZl9oTTzoJ9R3kofdmcOwfSEEqgJICYxnYeU1tPDqCFBQhlCtVRgUQdmouETNT32oemDrwBeCtcxw3UVEL0nWWPwq5PgJ5AASh1vQYGrQVaFKCaeMzMwADchzMb2yQUZ8cSuPDxEiPbTcCG/rhTuHoqmINw3THPwLRxKaFZITaMWkA8FunrgGELep6Wcf6UK9ZCd+H2YKT0G0uVistqnb0xkhCRq03izbD493R+EwIPufvrN052c1ArJKZf2bDo32Ju1r8a4duW0BKOwp6QROvffB2FpUWxi857d3jPw==;ucnYvFu0hEQsay3I0jj5aw=="

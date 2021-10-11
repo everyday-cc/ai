@@ -87,6 +87,20 @@ related:
         width: 660
         height: 381
         isCached: true
+  - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
+    excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
+    publishedDateTime: 2021-10-11T08:37:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/european-proposal-to-ban-facial-recognition-is-misguided-and-harmful-says-itif"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 35
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633941009/widgetdocs/facial-recognition_f8jukk_yutkw7_hxcfoj.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
     excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"
     publishedDateTime: 2021-10-06T19:22:00Z

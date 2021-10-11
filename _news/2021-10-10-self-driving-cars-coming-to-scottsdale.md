@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
-    excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1133793_gm-s-ultra-cruise-to-enable-hands-free-driving-for-95-of-driving-in-2023"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 23
-    images:
-      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625565_h.jpg"
-        width: 1920
-        height: 1275
-        isCached: true
 
 secured: "cxe1GupECVbE80khbbq5R4Px5tRNUky5jRguy0/QY7bkj/RNo6UwYsWcwkOAkYJXS3aUlq7VbN9aimkvin1H7zq0259Uf9Ol6sZtTBFHJKXwy+bewwjhl1B83tNOLkBPohTb3xhrsaXFSPibsfu0DlV5R5IxjejsBBC3TyJ3FnqCYmmAXCOAslrT4rXad0uoyiiKSywJy8AmIBT/+MdA4EmjYaLZJ/sxxug3lB8IxO129vgPlsUJdnmT4g2mSxz+BGGKZumGYpxaVktVnLYsN8rfYGax8Jjjngfb7NSztt4VBBgMeocg3HzF9gwDma7Rdg0i/RHBIkUdHjTjVvffOovoVliIfrtKJMTvOZNqf8/7XKqos+7lxBWJmfXv+cz3G4J+C3uMmce+m3w2G2Bzv076Ce9W0qwmhE0o3HmfNHjb/rmNHfGNqymMjblpZRXhDDKV97eOxcSG1ophM3BtpPkg4HWIyumyslJlJO2JfNsSQyprL8aHm/FXdn9LjcJprmxY7gh1rhbXKO0A5WxdRg==;tcmvWPLmaE2Nj6oH5YpryA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
         width: 270
         height: 270
+        isCached: true
+  - title: "Uber facial recognition software to be discriminating over people of colour"
+    excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
+    publishedDateTime: 2021-10-07T09:48:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/uber-facial-recognition-software-to-be-discriminating-over-people-of-colour/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 37
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-2-1024x585.jpg"
+        width: 1024
+        height: 585
         isCached: true
 
 secured: "z6FMyixx3GFrYO3/qmh/CfmHicmrbLz4FF2Ove17ghH6wDyLVs/WhXzZlTgADlOYqsiWYRkuDXCLurHazoMDcBzWQScRTje+aY4Y5JYtB66GElhU05X43wsjqSK8OV8y4gC77S4ofURzxqL9SrnBIJy93HIP8anYmtRhZmbloceYRr7wHo8Chq9X4IC+NRW+l53GxDflTJbR9Cg4/Gq33JZrL9zlFPp3hNSil0BuI6Lvt5xWqX3S2IeG6lYRGTyrzo5DXBeJJzp/mEvl0pxSfVK3X467oz6G7prqC3XejVTHrKNLQP8KP6gxCDe6xBfF5inVt1Qb49r/hrY/m7C9FLOJSrX2LleGpPjtG1Ldy+g=;aVRiembU7/u+md70VumREg=="

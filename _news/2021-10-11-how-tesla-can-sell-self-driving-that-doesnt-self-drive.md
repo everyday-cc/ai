@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM reveals Ultra Cruise, a proper Tesla Full Self-Driving beta rival"
-    excerpt: "Super Cruise will handle hands-free highway driving; Ultra Cruise, GM promises, will be onboard to tackle hands-free driving in 95% of all scenarios."
-    publishedDateTime: 2021-10-06T16:58:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/gm-ultra-cruise-tesla-full-self-driving-beta-rival/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/HVaaHhjDY5Cu1wSngHfxbRUraKg=/2021/10/06/3836995a-9a1e-4556-896a-24436729ed73/ogi-gm.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla delays full self-driving roll out citing last minute concerns"
     excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
     publishedDateTime: 2021-10-10T13:56:00Z

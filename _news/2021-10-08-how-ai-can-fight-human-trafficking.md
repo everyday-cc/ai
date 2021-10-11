@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Google tries to make traffic lights more efficient with artificial intelligence"
-    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
-    publishedDateTime: 2021-10-06T17:00:00Z
-    webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
-        width: 640
-        height: 360
         isCached: true
   - title: "We need concrete protections from artificial intelligence threatening human rights"
     excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."

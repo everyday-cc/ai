@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-11-nexer-insight-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
+      "title": "Nexer Insight Has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization",
+      "excerpt": "Nexer Insight has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.mynewsdesk.com/se/nexer/pressreleases/nexer-insight-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-3135077",
+      "originalUrl": "https://www.mynewsdesk.com/se/nexer/pressreleases/nexer-insight-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-3135077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/wjyzng6kmbq3pbld9vu9.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mynewsdesk.com",
+        "domain": "mynewsdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
       "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
       "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
@@ -1358,49 +1402,6 @@
       "provider": {
         "name": "The Australian",
         "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-mphasis-acquires-blink-ux-a-user-experience-research-strategy-and-design-firm.md",
-      "title": "Mphasis Acquires Blink UX - a User Experience Research, Strategy, and Design firm",
-      "excerpt": "Blink has been growing at over 40% CAGR in the past three years Strong market synergies from an increased total addressable market in Mphasis direct accounts Leadership accretive: Blink’s leadership team will further strengthen the Mphasis org.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-0b143743ca8d293d5d0a21d3bf63b2c5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

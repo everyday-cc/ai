@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/aussie-ai-start-up-acquired-by-us-g
 webUrl: "https://www.afr.com/technology/aussie-ai-start-up-acquired-by-us-giant-20211007-p58y3u"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "US firm acquires Keralite's AI start-up"
-    excerpt: "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’."
-    publishedDateTime: 2021-10-06T15:47:00Z
-    webUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    ampWebUrl: "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
-    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705"
+  - title: "AI startup Hyper Anna acquired as Aussie M&A skyrockets"
+    excerpt: "Aussie AI data science startup Hyper Anna has been acquired by US-based and NYSE-listed analytics automation company Alteryx."
+    publishedDateTime: 2021-10-07T23:02:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/hyper-anna-acquired-aussie-mergers-and-acquisitions/"
     type: article
     provider:
-      name: Mathrubhumi
-      domain: mathrubhumi.com
-    quality: 57
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
     images:
-      - url: "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png"
-        width: 490
-        height: 268
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2017/08/Natalie-Nguyen-Hyper-Anna.jpg"
+        width: 641
+        height: 333
         isCached: true
   - title: "Gap Inc. Acquires AI Startup CB4"
     excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
@@ -53,20 +51,6 @@ related:
       - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
         width: 1024
         height: 667
-        isCached: true
-  - title: "Kerala Based AI Startup Uncanny Vision Acquired by Cloud Video Surveillance Platform Eagle Eye"
-    excerpt: "All 60 Uncanny Vision employees will be retained, and Eagle Eye plans to expand the Bangalore office, current customers will be served same."
-    publishedDateTime: 2021-10-07T06:28:00Z
-    webUrl: "https://analyticsindiamag.com/kerala-based-ai-startup-uncanny-vision-acquired-by-cloud-video-surveillance-platform-eagle-eye/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 25
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/edited.jpeg"
-        width: 2500
-        height: 1305
         isCached: true
 
 secured: "dPf2lHPL0/6bWXTF+deukDCLtEpk9Hz8ejLz+5mSsu6BE5BjYhHmKkaz022jvEsq1uotzXBaw0RFDMgZqlTvAfcOv+ffRUfckBtE6NR+5AsfKk7lOTzN8haSdNjG1FncH6SuTS/9JmqpFUfHn3xZ/CIW6EOa84yBW6YRO6reydJw0rXkBN/9WMuTcjrsoFf7ArgXBCROddwLjKcfGiGT0XWcgpUZ4VGL4fcp1tnQUsR8a8e75Bzv/bBiEFLmXaMzFGy7FzBHulrGnUp29Wvr9vSOklna6nOf+aMqn6wtmMwQqp4QCc6lyLrrjC1U3NGsEJuJmDM3/V1rp4A2kqW9eHY35VTBHtummCQzzhcJmjXII43+LF6jYQyUbI3baSr9n9z3VVsxjePyfBLhiyDpacyN72LRtkYJfZ4x3t0XBeUpbMfFHLlJxSRDpN9RpBlptlB8ZcZooZqbYK1xoQgl9TC8foH8jIfiuGlDdBRL2dF2i/x9cRnmRmaPJyO9k92AkWrs3YXcoQFp67hQSYk3dQ==;yuCXuecWCOoM/hQBWdYZvQ=="

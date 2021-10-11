@@ -57,20 +57,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Google tries to make traffic lights more efficient with artificial intelligence"
-    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans"
-    publishedDateTime: 2021-10-06T17:00:00Z
-    webUrl: "https://www.stltoday.com/news/world/google-tries-to-make-traffic-lights-more-efficient-with-artificial-intelligence/video_37aa10bc-08d9-5d91-8287-c97b49de7ecc.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37aa10bc-08d9-5d91-8287-c97b49de7ecc/615dd64329c4a.preview.png?resize=640%2C360"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "mq3s/qeEJhwqX4cUclVHAGd0FiGNxpJuma0e3uANy9MNR2A6Ui3y5CBxxEMvytjYnyMzgOn0+/IMhL08qILroa7EcwR2WVHt8uJYO45XE7mkQVWt1lfpiiob/1Uw2JUm40QOIzsbN+w05NzvmxS3I/ShaAsXgKnPyD0HznBC2WapU+J9ubTQ+ziYhOWOy39Yif9a5A/Mcl/aIwNfSjbRBJbGW9VWv9lFqRlDhlZbdGE1aL/edj/s7MEkysbWz58C3DfBxKMBYoYOxcu+wuZp/8Zgu0y6uCbUySNBt24e+hFkIatf8I2WWoCfL6BeoVR5S/gjc4h0PfCKdmGf7ZpB2DxlhJxK2T7CdZeZcZtNAek=;jKe+Cbsqdq+Jp6Zy2KyNjA=="
 ---

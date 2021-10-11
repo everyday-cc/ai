@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-cou
 webUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

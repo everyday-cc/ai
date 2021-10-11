@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Is Baidu's Stock Cheap At 150?"
+    excerpt: "Updated 03/25/2021] Does Baidu’s Stock Have A Moderate Upside? Having grown 62% since the end of 2018, Baidu’s stock (NASDAQ: BIDU) has moderate upside potential. Baidu, China’s Google rival, saw its stock grow from $159 at the end of 2018 to near $257 now,"
+    publishedDateTime: 2021-10-11T08:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-baidus-stock-cheap-at-150-2021-10-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/is-baidus-stock-cheap-at-150-2021-10-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-baidus-stock-cheap-at-150-2021-10-11?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Baidu Inc. (BIDU) Stock Sinks As Market Gains: What You Should Know"
     excerpt: "From self-driving cars to consumer data analysis ... Click to get this free report Baidu, Inc. (BIDU): Free Stock Analysis Report To read this article on Zacks.com click here."
     publishedDateTime: 2021-10-08T04:19:00Z

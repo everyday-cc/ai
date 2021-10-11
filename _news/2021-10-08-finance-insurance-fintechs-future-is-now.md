@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Jonathan Holman"
-    excerpt: "Corporate & Commercial Banking at Santander. Jonathan Holman is a technologist and banker who runs Digital for Santander in SME, Commercial"
-    publishedDateTime: 2021-10-06T15:48:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-jonathan-holman"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1247809421%20%283%29.jpg.png?itok=Z_J0LDGo"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "FinTech & InsurTech Live: Meet the Speakers, Tevi Legge"
     excerpt: "Meet Tevi Legge, Vice President at ATB Financial. Tevi Legge joined ATB 6 years ago from leading a commercial sales team at BDC where she had spent most of her career learning abo"
     publishedDateTime: 2021-10-07T16:06:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_3.jpg.png?itok=286J2AWF"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Talk about fintech and you’re in danger of turning people off"
+    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
+    publishedDateTime: 2021-10-11T08:30:00Z
+    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
+    type: article
+    provider:
+      name: Mortgage Introducer
+      domain: mortgageintroducer.com
+    quality: 24
+    images:
+      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
+        width: 1868
+        height: 1189
         isCached: true
 
 secured: "0t40EQWclbiwc8IRmEtSihWLNjoNz8PcPjmAS37Sm9Ke/i54aGJGdbwWYpa6573EFH8ro6KxBDSXdAJ/ZjK5dFjPn+Rswx3D9A0mpGdVRY2sIs47zF1XxW8NR/KhpuwjHhkuryc61fnuf8HpvYa+HKDvKRKs4KRyRSJyEX5lciP51ZqfaLVrTJtWthIKHQvkEB0rRBZqkEZaQo0G0KziGdQJhFOPuOYzIBcaLCxOtHYGHuNM0SBp7vDQrmGdq79/1QKJCOuGbrM9rhwElFjDKtyxdy7Vr2ETZimeUR4yq5tYRyXUPDwlkHkyTv9SuDOOIpXDv7ofA56GvDqqe+cyYWf07kZx1B4YDbTatSomfiAAq+WVst97m5cQ9yM922Z/ag+SiYqWjLtZcpUnCiR2h6/szkITX+CXNwTMOU4WyU8l06e5943g9FQlTJ4XoStPz7x+fPJS+GrpMBv4tUlvRy2OBQaRhjzCSLJ/O2asP8lWNlCWEFYQ2XbnmLDyYs5+m/+ReOgipupHRpEDlF/+1w==;0oGgSFCdHGiLedTNdeYuUQ=="

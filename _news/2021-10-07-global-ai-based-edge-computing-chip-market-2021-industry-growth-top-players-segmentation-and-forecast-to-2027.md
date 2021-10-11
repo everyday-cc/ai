@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: MarketWatch
@@ -29,21 +29,107 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence (AI) Robots Industry\" -  AI also enables robots to establish communication with other robots and humans. For companies,"
-    publishedDateTime: 2021-10-08T13:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23297862/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23297862"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23297862"
+  - title: "Artificial Intelligence in Education Market Size By Model: Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 04:18 /Comserve / -- The global Artificial Intelligence in Education market is expected to be around US$ 5.80 Billion by 2025 at CAGR of 45% in the given forecast period."
+    publishedDateTime: 2021-10-07T08:42:00Z
+    webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Industrial AI Computers Market Report Provides Marketing Channel, Distributors, Customers and Manufacturing Process Analysis 2021 to 2027"
+    excerpt: "Oct 08, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" The report analyse the growth rate of"
+    publishedDateTime: 2021-10-08T10:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrial-ai-computers-market-report-provides-marketing-channel-distributors-customers-and-manufacturing-process-analysis-2021-to-2027-2021-10-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security market by Market Research Report - Forecast 2020-2028"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:28 /Comserve / -- The global Artificial Intelligence in Security market is expected to exceed more than US$ 42.30 Billion by 2025, at a CAGR of more than 21% in the given forecast period."
+    publishedDateTime: 2021-10-07T22:07:00Z
+    webUrl: "https://menafn.com/1102935340/Artificial-Intelligence-in-Security-market-by-Market-Research-Report-Forecast-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?291272"
+        width: 436
+        height: 249
+        isCached: true
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
+        isCached: true
+  - title: "Global Geospatial Analytics Artificial Intelligence Market 2021 Key Players Insights, Growth Challenges and Forecast to 2027"
+    excerpt: "A recently uploaded report namely Global Geospatial Analytics Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 has provided unique insights about the market for the given period."
+    publishedDateTime: 2021-10-07T00:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-geospatial-analytics-artificial-intelligence-market-2021-key-players-insights-growth-challenges-and-forecast-to-2027-2021-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market By Component: Regional Analysis - Global Forecast by 2020 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 00:24 /Comserve / -- The Artificial Intelligence Chipsets Market is expected to be around US$ 80.20 Billion by 2025 at a CAGR of 36% in the given forecast period."
+    publishedDateTime: 2021-10-06T18:45:00Z
+    webUrl: "https://menafn.com/1102928735/Artificial-Intelligence-Chipsets-Market-By-Component-Regional-Analysis-Global-Forecast-by-2020-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
         isCached: true
   - title: "Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Report (2021-2026) with COVID-19 Impact and Interview Excerpts o"
     excerpt: "The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market\" is likely to grow at a CAGR of around 23."
@@ -59,6 +145,54 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Bot Services Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022"
+    excerpt: "The global bot services market size is expected to grow from USD 458.4 million in 2017 to USD 1,783.9 million by 2022, at a Compound Annual Growth Rate (CAGR) of 31.2%. The proliferation of millennial across social media channels and the use of Artificial Intelligence (AI),"
+    publishedDateTime: 2021-10-06T18:46:00Z
+    webUrl: "https://menafn.com/1102928698/Bot-Services-Market-Insights-by-Leading-Companies-Demand-Analysis-Future-Growth-and-Revenue-Forecast-to-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?160760"
+        width: 374
+        height: 249
+        isCached: true
+  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
+    publishedDateTime: 2021-10-07T14:44:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Artificial Blood Market 2021 – 2028 | Industry Insight By Key Players Cerus Corporation and Baxter International"
+    excerpt: "The Global Artificial Blood Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast period (2021-2028). The research presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2021-10-08T11:47:00Z
+    webUrl: "https://www.medgadget.com/2021/10/artificial-blood-market-2021-2028-industry-insight-by-key-players-cerus-corporation-and-baxter-international.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
+  - title: "Cognitive Systems Spending Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2030"
+    excerpt: "The global COVID-19 pandemic has severely impacted the global economy. However, the banking system is largely considered to be an essential service, which sustains the prospects of cognitive systems spending market during the global pandemic."
+    publishedDateTime: 2021-10-08T19:55:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 0
 
 secured: "RHJy9W9SLcsC/O09CByMV5ZyeiymzfEjnxArmB1O/f8BTb0RiH4VFaTJ21uR5kynHtAbAU9LsfOv9fzw2t/3arsDDHxbUO3650pa7/ky8EJ7HCZ9iyYxdAymIkm4JOqncex5pVb5Zd1UNTDa5XmF49X8i5XH5Pf0AfkgSmFhU/U/SZrzzrOL9dnAgp+JTmph+oNibfr49j7RGv3CyuFaoac4ZDt6w5+kGEfxzlx2rc1Q5ObZplrS3wU2LBU3esQD9+kGlP4zBKWvyGNhmxELeSKvK4nNL+a6ik/1yQVIH9k29r/u0Sbh00ZG5BROWqeNBs3kzr0uqCfc0rOYUOpIs0YQEEQTEyCF2xLitulUt88=;puqyq7DoC9AX137gIslDOg=="
 ---

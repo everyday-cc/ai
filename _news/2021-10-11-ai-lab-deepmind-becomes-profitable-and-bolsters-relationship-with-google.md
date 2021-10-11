@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitabl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
 quality: 103
-heat: 124
+heat: 123
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "1q3rAcGjh39eZ/ParOKXBnUTS5fBy0aA4lwHEbPXQhMJ18E6ryuxAxso5R+IfqMieSxwWS7fhpH2sqHMdtaVc6UX29atLyCKGIyOHgmNh9FcUsmwkofYJ1yEMY5MH5m8EPcHUxMRemKCJngktpLIXtvLUAoV5wQMn0tEmmAIxfuVcmYni3pyWEUG3w/o/UBeLB3FXdPYpVkYhM2G3nx5dUnx+mTusWiHNtyHKRkwfqZU+wOof23PIVIIUiFhqfyDSob9FWVTFbfCGedqMmLzFdKHp7TdCFXsfEC/DAxxM6+DDxp6zze7DnURXYTG70h1lMCyFXgG18menbsAHRScRryNS0x14UTJNaz2iAw/4Go=;nf5eiVqUMEdnxHY8v8cYnA=="
+secured: "18Fkb8w5Rwnebl9CoHlyXFIau4AkKOM+sP68u+M8lQOhKebSFZYDfHkdU8JkYfKLGxQffTFRxgPVlbDab7ekK0vqnSujeYu/ynG1wXE8DZ7lI16Bk19D8QPBujSz8zD0MgLchpK/djWrJvhQo1u3OhXrR8KPdvT8sZ6bDBy/4BAq9fjKgIb/lETRnPbDSRXnIb13vrku+szrNe0JJdcLddS7W+87iLynShPMqkGyZexqkOP07rtvRXiIupPwX7BmfFbKQGJwZ9oHPU3og1Uaz3Yc8v3EndfGvzEw2X3/v8HJD6JAcchIavN9bT2sUsTW2Z47bSbb6waVHuFECq454sq6RclGAPSR7Urn7WqFgHY=;OY296VTH6O9G51EMeK+nMQ=="
 ---
 

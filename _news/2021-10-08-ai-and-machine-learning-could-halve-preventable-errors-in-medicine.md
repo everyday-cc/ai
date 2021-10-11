@@ -7,7 +7,7 @@ originalUrl: "https://massivesci.com/articles/ai-artifical-intelligence-machine-
 webUrl: "https://massivesci.com/articles/ai-artifical-intelligence-machine-learning-healthcare-tedmed/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Brain cell differences could be key to learning in humans and AI"
-    excerpt: "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI."
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211006112626.htm"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 117
 
 secured: "xP7BjqUqNxXXuI6M3avlUa3NgpkrKjX/6lPhwBk9VqpoHwKyqJRT7RZ7rwBtMzd1QJVwNAdFOZim/Cme5frnAKuVIFQ5qneuE4KqGwgECGISSZuhENhAAiwi4CII+DxaTfpwvDeruN3jAAcJQz7cYnKlsf5OLPNIkpPZnIkAHIEZVYhVnBq3aPgpuGI73+uRi/lw2qFFhctBbtqPfh4peJiGbPNhSpJXwS6nFVqSq3AeUXuurfdaLckGmOjPGhoB05sG2xSCQxiEmCmQGAC0hPMrkdrvoqRY1FYENHEhEuXLycJwMRA+i0x1vBmIJqKIVNACk3BKAcDhmiwLqmSUoxsBMGo4RhgXyBpXqgSnuLEz/64rnlk6Vv/nKEJJVrSPolo2vLlrkeMlUXEkwaDSStLqTtu6Ck4XdgZH4kE9yzme6yRWmti+lQELxYLaGEKEZYVxzGvCRly72bY7fEoRzSwdgHwofSU4Rb/yWvxlnMc6plEnz7O6+px2BH17XaGr6wrxQshxKpNRN+UNye+W4g==;OZ4pd1l33uzIq7Gnt4uWOQ=="
 ---

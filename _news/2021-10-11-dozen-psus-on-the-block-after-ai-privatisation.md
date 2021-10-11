@@ -142,34 +142,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Artificial intelligence hiring levels in the power industry dropped in August 2021"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions dropped in August 2021, with 35.7% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.power-technology.com/features/artificial-intelligence-hiring-power-industry-august-2021/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 31
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/poweraihiringlead.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
-    excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/revival-ai-announces-regulation-a-offering-to-revolutionize-bible-publishing-through-customization-ai-and-automation/article_e6a02887-3895-5593-85f0-52b992516690.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial Intelligence Could Power the Next Generation of Aviation"
     excerpt: "Download Free PDF Brochure @  The global artificial intelligence (AI) in aviation market is expected to be valued at USD 152.4 Million in 2018 and is likely to reach USD 2,222.5 Million by 2025, at a CAGR of 46."
     publishedDateTime: 2021-10-07T20:35:00Z

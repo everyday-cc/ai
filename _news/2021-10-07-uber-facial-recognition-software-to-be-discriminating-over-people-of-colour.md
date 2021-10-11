@@ -25,37 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims"
-    excerpt: "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,"
-    publishedDateTime: 2021-10-06T15:37:00Z
-    webUrl: "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-"
+  - title: "Face Recognition Software launched"
+    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
+    publishedDateTime: 2021-10-07T16:51:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 60
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Uber Is Being Sued Over Its \"Racist\" Facial Recognition System"
-    excerpt: "Rideshare company Uber is back in headlines once again, and for the wrong reasons: the company has been accused of using a racially bias ed facial recognition algorithm. T he United Kingdom labor union,"
-    publishedDateTime: 2021-10-06T15:57:00Z
-    webUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686"
-    ampWebUrl: "https://jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/uber-is-being-sued-over-its-racist-facial-recognition-1847809686/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/03e8a0e44c23400109e531a7e13340b1.jpg"
-        width: 800
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
+    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
+    publishedDateTime: 2021-10-09T10:27:00Z
+    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
+    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
+    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
+    publishedDateTime: 2021-10-08T12:10:00Z
+    webUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283"
+    ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 57
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
+    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
+    publishedDateTime: 2021-10-08T12:32:00Z
+    webUrl: "https://english.newstracklive.com/news/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 48
+    images:
+      - url: "https://media.newstrack.in/uploads/latest-news/india-news/Oct/08/big_thumb/00_61603a0031bc0.jpg"
+        width: 804
         height: 450
+        isCached: true
+  - title: "Sensory Launches Speech Recognition Model for Children"
+    excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
+    publishedDateTime: 2021-10-06T21:28:00Z
+    webUrl: "https://mobileidworld.com/sensory-launches-speech-recognition-model-children-7102103/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "The Pandemic is Testing the Limits of Face Recognition"
+    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
+    publishedDateTime: 2021-10-07T12:16:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 39
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "CdHbvx32FPDNSIkA7MUA+Hk/BdQpztmwmihjL3meLKigrC1ZBHubk3TF5c1oXiM446frEi46KJfMU8yRp5fqxSFse+K2gx0QUAAudjyhijA/84onTCpvVnodupStdAQR5m6obr/Z/dXJ8/1w3Tdxbj8TRZnOTwJ+vybpKGXCoOkX3vhauR80BoNyCjfrBOR0HWDsYgMiVWR1hu0203DjmrydrQI+kwRpeoGUr0fKL2xRFcoN85Bh0UP9HH4JgWv8GGWEXxEv3gcVWqpAso6HshHKKg5lsCmTLseE2ou4vDUcc0MKs/frILD4SYajQjDLGjibBe5/ZH+Q1OgZ+5Bn1XRQhQkpZMF7SeDI4D9MWKY=;HXtp9dfvCB9z6QJssak+gw=="

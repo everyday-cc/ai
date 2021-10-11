@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with Its Conversational AI"
-excerpt: "Yellow.ai's platform offers seamless interoperability across multiple use-cases, languages, and communication channels SAN ANTONIO, Oct. 11, 2021 - Report on The Eastern Herald"
-publishedDateTime: 2021-10-11T05:54:00Z
-originalUrl: "https://www.easternherald.com/2021/10/11/yellow-ai-commended-by-frost-sullivan-for-enhancing-customer-and-employee-experiences-with-its-conversational-ai/"
-webUrl: "https://www.easternherald.com/2021/10/11/yellow-ai-commended-by-frost-sullivan-for-enhancing-customer-and-employee-experiences-with-its-conversational-ai/"
-ampWebUrl: "https://www.easternherald.com/2021/10/11/yellow-ai-commended-by-frost-sullivan-for-enhancing-customer-and-employee-experiences-with-its-conversational-ai/?amp=1"
-cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2021/10/11/yellow-ai-commended-by-frost-sullivan-for-enhancing-customer-and-employee-experiences-with-its-conversational-ai/?amp=1"
+excerpt: "Based on its recent analysis of the Middle Eastern and South Asian conversational AI market, Frost & Sullivan bestows Yellow.ai with the 2021 Technology Innovation Leadership Award for delivering a highly differentiated conversational artificial intelligence (AI)-powered customer experience (CX) and employee experience (EX) automation platform."
+publishedDateTime: 2021-10-11T08:31:00Z
+originalUrl: "https://www.publicnow.com/view/AFC4B1A7120A7657CD231853AB73C3FD2E6847B6"
+webUrl: "https://www.publicnow.com/view/AFC4B1A7120A7657CD231853AB73C3FD2E6847B6"
 type: article
-quality: 37
-heat: 37
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: easternherald.com
-  domain: easternherald.com
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://i1.wp.com/www.easternherald.com/wp-content/uploads/2020/10/default-facebook-app-img.jpg?fit=1200%2C630&ssl=1"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "LbCorGjhWV9WZLC0Lh1AzW6Yk/tcfLAeYft1FvZv8G/FFJJsMSaizqoJQ/rHh+ANJ32LvXC8hBS6HoMZenCgHTTu1lcXhjIWjhdq/CNmZHvJB0i8upb4fTP//xsXgccVA/1+N0nhFLG5Ofeo0bVNhjnpu6oX9SM4bqHb1RyIOrJwJQUtAwKgC75b4YnJVMlzsTGCNBVFn77zgVdZWYJhlJv5xh+zrx6h8QTLUzRDkU4a9Ybbwue+QNZc9hfXcq6CJGuGVRsybCjVcOu8ysbsA21Na1jAH5Fif17ekGwiGBvdQsWSqXaHJSR3n9QWbPvo1syVdoM4LY/0DOKEXuHMfRirT5pTXonb9sMHn5QqzKE=;7dT5KkUpBFqBFBXsWaCHJQ=="
+secured: "ei0tNSP0+wGYt9JMl9GePY5JXiNT5w+vaQLON/QquHLsYDXTnkvE+4KniQTZDJuDENus/szeQ4HKoqaiQbrLxxaka0Ad0vdsH5dRTrjSwUQWgCzEe0weyVSYrzYUkr8qEpMEFyc1LooG4/syDTelnRTVXwPtX5+e7Zxa6xSwIExP8lyxPzt6wfxJnwrWhamnTa+Vrgzx0iazP5XxO5/ZZ6RNlcb3dA8WtdrcQLf+1Cmt3MQeCXFh+sX/3adqoxLWeL9bs9CjcCyRQENyJFIcOPg5jLI7iy14A0fZGFP2Ld+GlmtrDZUlDkaOk0jSecyBDXD/FQAzQOLArlOy93xU57b4XiPfPcpkc4XwFvq9Eow=;PNUUyAACkBYrksBZGXfg9g=="
 ---
 

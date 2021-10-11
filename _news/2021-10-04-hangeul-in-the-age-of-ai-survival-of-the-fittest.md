@@ -3,8 +3,8 @@ category: news
 title: "Hangeul in the age of AI: survival of the fittest?"
 excerpt: "Marion Eggert, a professor at the Korean Studies Department of Ruhr University in Bochum, Germany, said some of the strengths of Hangeul are its efficiency and that it can be computerized. In the age of AI,"
 publishedDateTime: 2021-10-03T23:05:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html"
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html?nans"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/10/142_316422.html?nans"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316422"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316422"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "QnvZEzYs9NOnngitg0yo3WklN/aZDvzrguXEAfEg7Ndos8L8EK49ERSyC9f6qAnEPTWqyN96CC5RjPWxneIJASW1aWooTO7kBjfUNmsHycyvnzLuKYUCcuUNithmlSv5mtPMYxoX4FS6juZuBgtuJBP8WFPGtKYsLH+Ai/eLWCSW3+GOSbLueoWKxNGt4jweh7Hr1+pPFyUKF4DClvQH3Oa2/8deYIgW1zZlfNs9bWO6iOGIPIBUvIYxQyssf/z47d3prDny1cnPRHKqnGL61hbVW0zmRhP8+EsGTQ2nWcU+rWSCg3BKeSKz0I1op49wi5GepfDy6r1VQPlphbSvUncxKsGY1RELl8715Yt3LIk1b0hdVi8Y6wgX8n0/ugup4OwDSWeX2+Cu7imY40cv394t71Y2EYqJ43j+ovC9kymO4iFEMEmaJen60/CAbaJwMfw0wX7C2buRv6VCPkeOmiRB7LxjBrSxgb9efbl4TVwrI3AyE/grrvhMVfSkpiMY9xyC+11OXHZwU5VIMntDhg==;Sn6AuJfqWTfwqal5WfO8cA=="
+secured: "ies4+0snn43G0murjNbFgQwSn0Y5+hiPTiU+YSHCBck2RPPzqfPJu1heBZOTsxKqkHX9jfk3tcWLVSMA6wjNDdscdpX87wzBFw16ZTLfY5bYgFE7DkvxJ4o8kZ84buwM8Z42rcBz/vekiYYI+j8iByPiEh1Kq25MS9oteTujdV/jo1xZfPsrfIaI22pZPAEoXLdL/1YSGrrIxc4RU5aIp2AM5m+nLeHQ5X3NT0f+oxyXsD/p/2AQWGKOYrPKKBoz+p2wGUImR3hqd4F7e89B06NnL/z5wzGJJAiE3dHTL+TaBsNy9g33n6B3V9DKgQbM1It7JSsWbo9PYxgiADdRlVm6twNP69HZRErn2mwnEjw=;fbz4OqaqW89ztzLrauI0DA=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Jonathan Holman"
-    excerpt: "Corporate & Commercial Banking at Santander. Jonathan Holman is a technologist and banker who runs Digital for Santander in SME, Commercial"
-    publishedDateTime: 2021-10-06T15:48:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-jonathan-holman"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1247809421%20%283%29.jpg.png?itok=Z_J0LDGo"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Saphyre to be headline sponsor at FinTech & InsurTech Live"
     excerpt: "Leading AI-driven fintech Saphyre is taking a frontline position at FinTech & InsurTech Live The US-based fintech Saphyre is a headline sponsor at the FinTech & InsurTech Live event in London on October 12-14th."
     publishedDateTime: 2021-10-07T10:55:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_3.jpg.png?itok=286J2AWF"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Talk about fintech and you’re in danger of turning people off"
+    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
+    publishedDateTime: 2021-10-11T08:30:00Z
+    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
+    type: article
+    provider:
+      name: Mortgage Introducer
+      domain: mortgageintroducer.com
+    quality: 24
+    images:
+      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
+        width: 1868
+        height: 1189
         isCached: true
 
 secured: "jkNcfCu452SmzOplNGSN9LPXgcQyHhpEQcyRfjqoqXJZZqWXNbQPq6N0YUQ38fXx8SQbkTt1xDjFu+Orjq8HaRHmm7Bcdc2m2isukLJokuimtsVTJa6eRVwE0PJduAt6YFWREaoQsBu+HuucDh1qszHmX7RhydcLatQCjHDgSnw5quJT9Oeaz8HzQQQy/VPdj+1YZ3jG/HXoJfQhU44wspOTuYFvUqAHK1pi2fUbYlWHwEBCSe00zlny1ToeL2a0QL6JqxZsOYKoaXyDKTN3WNU+IQAIx7OxtdJ886aSjaLQPbcMOoy77X9TdIa/puYz/G4WKFJo6DRynCO/LmxLZXwDjisXhW5c/BngLCFOeoW0B5oHai6jf57/1mY1EYArxAJmnO9HZBiS/jarb/8IOEx0s11iudCeD/dhdro1/N1zPH41zzw1X4r98QOOLugD6spROHglacnS3yPP6BCHDxeWBt/yVpdsvfIZOSXjXqf3NbxsVMMsAol0+7XLNi0H6sRn4fErpM3/znCp07x0Uw==;xnGC5D3QdYekvePoKWMmRg=="

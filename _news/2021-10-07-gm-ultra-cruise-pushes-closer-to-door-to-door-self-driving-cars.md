@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
         width: 759
         height: 630
-        isCached: true
-  - title: "GM's Ultra Cruise to enable hands-free driving for 95% of driving in 2023"
-    excerpt: "GM's Ultra Cruise driver-assist system will arrive in 2023 to go beyond Super Cruise and provide hands-free driving on more than 2 million miles of road in the U.S. and Canada."
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1133793_gm-s-ultra-cruise-to-enable-hands-free-driving-for-95-of-driving-in-2023"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 23
-    images:
-      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625565_h.jpg"
-        width: 1920
-        height: 1275
         isCached: true
 
 secured: "3nVyKL9U4Lvldem9J+tEYKIQwNm/C0lpJiVwe8Eq1v1yn+NS32NbjPcR1UFZT1JdWxF8vCJJ78Ru26eoCdqbzi37vCqIwXScMF+7jgQVsB+pSR6DB31yunAh0/5rwVblPLh87o0nveSf4/1dr62jze+5FceMOHO3eT+HcowfzRGTjDS1NuKKVPOccmzXVUxDPSxkBvZouEjPQ1RJgPFsdwTLGGbvyVZ7+z0M+RR+zw9BWNumNljwPNOEnE478i275+TOZDw6epGLHM8eA5oP73Z7wLABh1h9AZAm1CcLDUNs9Wcc3cy5Q02twSYp0w88Jt7/mpkHsHMekH6D+mspWWiuQCXOBr04L9uRSEX9/q8=;TQplL2GPLNm/ezfjoW7NPQ=="

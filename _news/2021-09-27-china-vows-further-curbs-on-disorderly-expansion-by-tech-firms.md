@@ -1,26 +1,28 @@
 ---
 category: news
-title: "China Vows Further Curbs on ‘Disorderly Expansion’ by Tech Firms"
-excerpt: "Sheng also listed self-driving vehicles and platform economies as areas that ... Regulation of shared economy or smart delivery applications could impact Meituan, for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health ..."
-publishedDateTime: 2021-09-27T08:56:00Z
-originalUrl: "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
-webUrl: "https://www.bloombergquint.com/business/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms"
+title: "China vows further curbs on 'disorderly expansion' by tech firms"
+excerpt: "Sheng also listed self-driving vehicles and platform economies ... for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health Information Technology Ltd and JD Health ..."
+publishedDateTime: 2021-09-27T16:39:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740"
 type: article
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: brandequity.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://etimg.etb2bimg.com/thumb/msid-86554740,imgsize-21350,width-800,height-434,overlay-etbrandequity/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.jpg"
+    width: 800
+    height: 434
     isCached: true
 
-secured: "YRnlVlJC6iHADvrPzQA9H0lSnqgqfznYto8kxoZrIuti1/8WtjjZtny9FgfbROc/WRbsP1FZ9ltDMjpvnm1k6KCy4HkMrvurvoqWj3gyMHfglNHM3D/nbN/3lDPzbgXGtSS/Y2ngknVW2RomI3arnqrswgPXSIiZW/JnjQjAppFpwyxd7tmNVMA84D+r+sHiEaBq59c/Z2Hf4HLnLZDpbcRmy85l40Otqq8WQ57MMIZ1NNE/XPY2eaTIZK03Im43jJgB8ulQITVqvrxj9WBYadSJsZBwS8vg+lPr5vGBl/PpuQt2zT1D9NtfEnKnMo3WyKIjl54IB6WheXoak1vGPQLJRQMm2jDmia+FNSN2+M4=;iJTK0ltd6Lq73rziboRsIg=="
+secured: "SY7DAJRrnPTD+pyKmdW0Vat/FJtduxrJO3jbTXdcgvAXWXyVM9D0FnV789BvF1m9bynHx2a4USMrQQDEsgh7PnQcO5dFAh52Ix7xRsmnBe9cvs9f1LaZ5VH314O/peTk6jbSGdKsKVm9mh9got+dq1mAkKMItonuoXotBApEcUUPkHQ51emZBTTv2gSiOwcWd2mOmGRtlI8wVDu7wNfUZRxQKLX9DOO5qYcs/DW/N73bSN51LvxJCpdrZpEanvguFHJAqWiJ9Hv3UasqK0u8fxxIydWEoeAQFDuC3MeeJd6PvPo0SOlgfFwYXZKRn9da2S7LR+EDPPqFS+AVDgoOa5Tjmuys8t46ZBcENH8jftE=;KQt3rDve57tgzqq+LYDUgA=="
 ---
 

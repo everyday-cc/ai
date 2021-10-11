@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91618-european-parliament-opposes-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2896
     height: 1947
     isCached: true
-
-related:
-  - title: "'Historic Moment': EU Approves Call for Sweeping Ban on Facial Recognition Surveillance"
-    excerpt: "The European Parliament has overwhelmingly approved a call to ban facial recognition surveillance—a development heralded by the technology's foes as a \"big win for human rights.\" \"Fundamental rights are unconditional,"
-    publishedDateTime: 2021-10-06T16:00:00Z
-    webUrl: "https://www.commondreams.org/news/2021/10/06/historic-moment-eu-approves-call-sweeping-ban-facial-recognition-surveillance"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 31
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/euparliament-vote-biometric-surveillance.jpg?h=4362216e&itok=XUHBAjEU"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kkzKM/GTc1VPLWq6FOgdRp7hKZitQSKmX78AHeXt2+3pOru4NAmUR+s1hON/mIYw8YhtLTnAvauqpOma9gdTP6TbhGqwZzqKmn/AMFUMgkLhlGpSgSacX7Z4TyovnfS4cpokjPWKsA6fDTrOEifKWWlSu0QZz8pgJLhqg+YaOvIuUzI38BdCC3WipuSzGlPmtZuvH3WjNdxiztlUWHwQ5ncF5CoMAW1KHsDAOvIrqOK9x0MjyT+WTBdOO8YZ69+MPUcjSMXXuoQYexQDc64hXJIWcbD7Tzzpo9C80KcAaN/ezADJLoV8vYb930u4NX9eM553ooYuU1RuIqNkxHWH26yjHp4rHDFeDM3aGQeqEEDgOZ5QpDYW29hlgfjAjTHLwq+Xubj8ljmObiHUluN2Wm4r23sQwKK+JJ6mcX0Xc7EDHpasSz5P8SR9JTZkimRlMsajf3sot2P2QQjrfN/N8RBOI4mHlwjAdSvu5O3wPtJVdniBrnW8Bn048laFHaQwy179OAnnS/uxAgb2Zbc5og==;8MyjuTMCXz7i35vfrgde2w=="
 ---

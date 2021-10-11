@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/visual-story/predictivu"
 webUrl: "https://www.techinasia.com/visual-story/predictivu"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,35 +23,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition"
-    excerpt: "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio."
-    publishedDateTime: 2021-10-06T16:32:00Z
-    webUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition"
+  - title: "US-listed analytics company Alteryx buys Sydney AI startup Hyper Anna"
+    excerpt: "Artificial intelligence (AI)-driven startup Hyper Anna has been acquired by NYSE-listed California analytics automation firm Alteryx."
+    publishedDateTime: 2021-10-08T00:53:00Z
+    webUrl: "https://www.startupdaily.net/2021/10/us-listed-analytics-company-alteryx-buys-sydney-ai-startup-hyper-anna/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 135
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 37
     images:
-      - url: "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Databricks acquires bamboolib creator 8080 Labs"
-    excerpt: "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem."
-    publishedDateTime: 2021-10-06T17:08:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 74
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/10/Natalie-Nyugen-headshot.jpg"
+        width: 768
+        height: 514
         isCached: true
   - title: "Leveraging AI & analytics to build the shoppers of future"
     excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
@@ -64,6 +48,20 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "Analytics Insight explores some of the top Indian AI companies offering remote working in 2021"
+    excerpt: "This article explores some of the top Indian AI companies offering remote working in 2021 with utmost flexibility. AI companies are leveraging smart functionalities of artificial intelligence through remote working efficiently and effectively."
+    publishedDateTime: 2021-10-11T09:02:00Z
+    webUrl: "https://www.analyticsinsight.net/top-indian-ai-companies-offering-remote-working-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 25
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-AI-Companies-Offering-Remote-Working-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
     publishedDateTime: 2021-10-07T15:42:00Z
