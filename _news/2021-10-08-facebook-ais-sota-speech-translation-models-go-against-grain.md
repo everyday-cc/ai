@@ -39,6 +39,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "6 Models of Artificial Intelligence that Facebook use"
+    excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
+    publishedDateTime: 2021-10-10T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/6-models-artificial-intelligence-facebook-use-rejwan-bin-sulaiman"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "yotCqTOwpiqbP6I4arwBCqllu5f/E9NVFo5po3hWig0OD4HP0Ulg52FVYqYGk2q8FSsbBAuUo+sSVUyxugaeW5arBQpC4BIPj+CBx8eRtT/1M5qiPGEqBEWd1PQTzIiwln/n8CiWlXOmMwc5QqrGZe09MwDj9zrNDcQsnegAdgjeJhLBuI9+b1WnCOr7FmTeMwFV36Bgbaz0Sf+AlUBlHv6bZrcsdBOv6SDSWf6kTEJ+qomBDp6M1puCDzilTBv2aBZg2CHIpIZk1jtJHXQrdGJCLIrt1hMoWKpbmODM5XtuMyBXrlZxcnaxyhJlHSBlnw8f6qyRRW2uAkwOyVcJhbh0/K66msSkhliD1+benYKx4II11UmDc8SFvVphZ5gRDhudKp09V6cbugYxhpnfrd9p4imAzqQSAE0G7j2erJ4IEJ+qqCsfM4ZCCXlLv6h/8jCgEmUzDa4My64mIBAGX5BH8IyTgPkrd+EwbpKio81FWFVeI+HYQ4ylS5/Kv5n9XM3KMmLPW0npI1V6sw6rPA==;vdv6xg5r34lHsxKrbUWjtA=="
 ---

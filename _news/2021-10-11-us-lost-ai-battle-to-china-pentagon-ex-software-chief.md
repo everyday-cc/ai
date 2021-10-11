@@ -118,6 +118,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "China Has Won AI Battle With U.S., Says Ex-Pentagon Software Chief"
+    excerpt: "According to Reuters, the Pentagon’s former software chief Nicolas Chaillan told the Financial Times on Sunday that “We have no competing fighting chance against China in 15 to 20 years. Right now, it’s already a done deal;"
+    publishedDateTime: 2021-10-11T20:43:00Z
+    webUrl: "https://syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/"
+    ampWebUrl: "https://syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/10/US-China.webp?fit=950%2C634&ssl=1"
+        width: 950
+        height: 633
+        isCached: true
   - title: "US Has Lost AI Battle To China, Pentagon's Ex-Software Chief Says: Report"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T07:18:00Z
@@ -253,6 +269,20 @@ related:
       - url: "https://thebull.com.au/wp-content/uploads/2020/05/china-us-flag.jpg"
         width: 512
         height: 337
+        isCached: true
+  - title: "China has won AI battle with US, Pentagon's ex-software chief says"
+    excerpt: "China has won AI battle with the United States and is heading towards global dominance because of its technological advances, Pentagon's former software chief says"
+    publishedDateTime: 2021-10-11T20:09:00Z
+    webUrl: "https://tribune.com.pk/story/2324358/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 39
+    images:
+      - url: " https://i.tribune.com.pk/media/images/1196589-image-1476091522/1196589-image-1476091522.jpg  "
+        width: 1024
+        height: 691
         isCached: true
   - title: "China has won AI battle with US"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times."

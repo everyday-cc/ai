@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-ai-humans.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ai-humans.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 375
     height: 375
     isCached: true
+
+related:
+  - title: "Developing an AI that ‘Thinks’ Like Humans"
+    excerpt: "Creating human-like AI is about more than mimicking human behaviour – technology must also be able to process information, or ‘think’, like humans too if it is to be fully relied upon, According to University of Glasgow."
+    publishedDateTime: 2021-10-11T21:06:00Z
+    webUrl: "https://finchannel.com/developing-an-ai-that-thinks-like-humans/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 37
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2018/12/www.pcquest.com_wp-content_uploads_2017_07_artificial-intelligence-developing-artificial-intelligence-software.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "sRdf0/oKYnbeMlKBikgsATiiDpwlnVhSM2X2MKdQnOY+aYRmEIpEvz4Yw7hOXuUG+1Labp0Eak2iP9DCqiEmbi+EvI0Pb77qmCa0UkkHIlGJVe4drMERT2SjmKKtkVscO46lAvkTLccdim5FTt2KhMyfpm6hl2yTJN8sxAvXmO0Mr/mmblSqLnQ0DdFTzy30RkXV0F9ZnxHJsQUwOfWdi0RPhpdHFmYt91beUT4jA+3I1tX8PGE6wYYgB2pUYZB/BPE2P5jA5e45blaCjhGT3/Fnl4PEqEI5ifj/4LWHZipioekBBRVS84O3zO026RDi5hG5iUQT8+0v47Xz+kL+TQchG8eijbZWbv4rl+JGsPwE18gW5Ab52PFIF5a7hmMd1iut1tC9U3P6kzuFaFssVldIZ9ZakaJQakwcELpTvlLveZqkXRBJACm9bI3K0LTabi+F6WMXT3tBJWp1IgnQpuhVsqBIRkqW9X797RkGoTi6bDSqw66v7fnnJ9tQNdy4RMuyssADLuBskLIMfV9sqw==;XU9smE8CLAX/QNcMrsbDkw=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Military researchers to use gaming concepts and artificial intelligence (AI) for nuanced communications"
-    excerpt: "Diplomatic negotiation is complex and requires an in-depth understanding of the interactions of many potentially untrustworthy allies and adversaries."
-    publishedDateTime: 2021-10-11T11:50:00Z
-    webUrl: "https://www.intelligent-aerospace.com/military/article/14211880/military-researchers-to-use-gaming-concepts-and-artificial-intelligence-ai-for-nuanced-communications"
-    type: article
-    provider:
-      name: Intelligent Aerospace
-      domain: intelligent-aerospace.com
-    quality: 36
-    images:
-      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/10/Diplomacy_8_Oct_2021.615f4a150593b.61609f2843123.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in August 2021"
     excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in August 2021, with 24.9% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2021-10-08T16:55:00Z

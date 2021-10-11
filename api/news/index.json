@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
+      "title": "AI technology could reshape the U.S. government, but should it?",
+      "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/government_funding-e1633966248930.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "publishedDateTime": "2021-10-11T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
+      "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
+      "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T14:19:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities.md",
       "title": "DeepMind proposes new benchmark to improve robots’ object-stacking abilities",
       "excerpt": "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems.",
@@ -165,7 +268,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -321,7 +424,7 @@
       "originalUrl": "https://www.openpr.com/news/2424828/coordinated-healthcare-market-to-witness-huge-growth-by-2026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -416,7 +519,7 @@
       "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -536,6 +639,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
+      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
+      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
+          "width": 679,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -886,7 +1042,7 @@
       "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -981,7 +1137,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 276,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1015,7 +1171,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1056,153 +1212,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-researchers-develop-ai-system-to-improve-eye-disease-detection.md",
-      "title": "Researchers develop AI system to improve eye disease detection",
-      "excerpt": "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
-      "originalUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
-      "publishedDateTime": "2021-10-10T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-stacking-our-way-to-more-general-robots.md",
-      "title": "Stacking our way to more general robots",
-      "excerpt": "Introducing RGB-Stacking as a new benchmark for vision-based robotic manipulation.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
-      "originalUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/AmFPJnwo5d3vAXo369YTs-co0fKRBpt8MNLW75imLf5VO2KfQxcdbqgi7RuUzAQj_CUT0o_kw9LxHFiuRcDxqLOxJj_LkEr3EMJg-1-LDAnHyDYzw6k",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-taliban-say-us-will-provide-aid-but-not-recognition-after-doha-talks.md",
-      "title": "Taliban say US will provide aid, but not recognition, after Doha talks",
-      "excerpt": "The Taliban announced Sunday following talks in Qatar that the United States would not be formally recognizing the Taliban but would be providing humanitarian aid to Afghanistan, The Associated Press",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
-      "originalUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/taliban-fighters_afghanistan_081721getty_weapons.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
-      "publishedDateTime": "2021-10-10T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
+        "Google AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -95,7 +95,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Google AI"
+        "Google AI",
+        "Facebook AI"
       ]
     },
     {

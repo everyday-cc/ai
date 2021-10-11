@@ -39,6 +39,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Leveraging AI & analytics to build the shoppers of future"
+    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
+    publishedDateTime: 2021-10-11T06:46:00Z
+    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
+    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
   - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
     excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
     publishedDateTime: 2021-10-07T19:27:00Z
@@ -52,6 +63,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/5.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
+    excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
+    publishedDateTime: 2021-10-07T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036302.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
+        width: 299
+        height: 400
         isCached: true
 
 secured: "7Hwaz3AbXIFmGuXLStw9j1bl9vrNXE+eYKwzZuWJw4JwFc2AO9d8kwKg0U7CyMWI+sv4kslcNDWT+qRzBrQDZ55CKfhKZXuqetRKyNS0JYpnLXkv5WWMEUOIFs1BAarTcKCWFPu3tbhJQpMuKDbPBHD+oJ5ezeJIiEHWXy6lvMQMOGE03BMRPSpoHD8BDOQ3U4JNXjLiUEWsQIEzmzYknpHY2fpEJC603srx3GKpewHwU1vbulgZTIiLui82CHd8DajH2I8sLx9AmXHOUgQslStU6TO1wcuKTbP/daJsxEo15HXsLtj37jhDnbhD39OxYcUe/zb1OwK/u8wTtAn/3tu1Lr/UxIhq/Zkoy9MH03k=;yB2W0RE6wcugXWmadg1ZuA=="

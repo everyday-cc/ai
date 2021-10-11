@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "IBM Artificial Intelligence (AI) Portfolio Review"
-    excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
-    publishedDateTime: 2021-10-07T04:15:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ibm-artificial-intelligence-ai-portfolio/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/08/IBM-Logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "kVZq5IxrRPkwptuhk00GoyhkfqhlWZzNC2zu0uPzew68isacYdDPTPV6FbBLJMH50yd5/RJvpO7x1sdabfCVjNFZ6n0kVzi/RQrJ3YpnV4xwdBeweI+GyWFr6SnjBpZGM5jBJxvTPFRcNTzoBlaVaNtifXP6zB+2lnxC7cQLXJntFBTIusb+yhgW3XYGEo72H19q9Cexpf5AtBuB8M9MfwucekPC8Yz9Yqo3940yacBTFWW0baAfSX9F8Cr3mADzv+ak7uDiZxPUzFmWWfWMnuRycjBXB33GiYAo5VLPyx5MJjnHNtTAFZlQVGut0VTJs/VsSJTszzNWFnEMtFs9o5FlDLnPnSvxD1aP9l92lgY=;caF/HUZonzTLqcjv/8/fAA=="
 ---

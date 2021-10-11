@@ -29,12 +29,12 @@ images:
 related:
   - title: "Artificial Intelligence Chip Market size worth $ 109.83 Billion, Globally, by 2028 at 40.17% CAGR: Verified Market Research®"
     excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Chip Market\" By End-user (Healthcare, Manufacturing,"
-    publishedDateTime: 2021-10-11T15:17:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chip-market-size-worth-109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-r--849406321.html"
+    publishedDateTime: 2021-10-11T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-size-worth--109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-301396951.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 29
     images:
       - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"

@@ -102,6 +102,20 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
+    excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
+    publishedDateTime: 2021-10-11T20:44:00Z
+    webUrl: "https://siliconangle.com/2021/10/11/microsofts-ai-powered-translator-service-now-supports-100-languages-dialects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/microsoft-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Azure AI empowers organizations to serve users in more than 100 languages"
     excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making information in text and documents accessible to 5."
     publishedDateTime: 2021-10-11T17:20:00Z
@@ -112,6 +126,6 @@ related:
       domain: publicnow.com
     quality: 35
 
-secured: "gKyKHSz3Ry0QTuwkc82Mwpav5fn7pagsGrDz1ogv5p1gINyfuucTlZeyOkBuiocgto5axIblbCX1o70ygFDbwQPbilxLfQ7xAN3+XLtHepZ+kZWuophIYmJnrZomN+xkrSTOyPNuL843+csbPEKyOUjqy5JLx4H8118xyNaMKzF9E0QoPSHCmOE/TXXINC8w5MwbXn3AfBUSqgozoFuAkqa91T/p6hcYL2LhIi8zd/kBEEZipVsSIhqDSR62wReiKHCY+1LGu4PjuP3JNi6ZyxJwAuEmekjRRzjNwWHjyVgpkSVi0J8TyRUI5VW8CUwIoRmSnD8ksGjnuHLd8F1L8KffaiF4hWOYLnumzSK3eM0=;6iGB1xtLj4tNeep7ySTcoA=="
+secured: "6SBkf8uXHGmdWjDTlE+Fs3fblSuYIV+5jyoUm++rdgFJRF3JZ6aT4ym1sFf/TjkgS1x/cGBXYV+IXOLmI+ldQw6tKia2tFur0RMwQrBIaHnd1ESbFgS13dxR1IMCYXIQcT9MJcCS1GGSnzhu4VKAgJL58C1Tx22ICBNsXhdjebsTaJVUXQR5aSigNSUQibAK4UgeI9QaCY0aIw7kVPDrX7RGT55Z5sSlQB6EUj+8Lu1o9s7ZsDhVhbT1zjJ3jZbSg0lJLSK4gQaDgqH68L4dkEZ5PpbluGRw9O5yTP/EgHSKKqex3KwmI+O7YYPG3bVAhzh/2LS0AWvUgrM2T/Ik9pjExvV3obAeuErfwy16RFxA4iXNaWvwdr+5IkwWrFWkAdiFAl7OChzXKhGWyDA64CFKgeCCkfYj+4ESCnzWB+4wT6q2WKKZvbNBNyH7xULark6aN29ubIQUaTOy5cQANQR1aToAnKq7NPhty1d7JvnyW/nVu6peRE9GVOod4Dwb/aocLqCqOn1bTWXsCvbi6g==;s89/CtDxm/06Iu7FNjMkIw=="
 ---
 

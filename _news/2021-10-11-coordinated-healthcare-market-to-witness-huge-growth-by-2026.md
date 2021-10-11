@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2424828/coordinated-healthcare-market-to-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424828/coordinated-healthcare-market-to-witness-huge-growth-by-2026"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/374/922/main/smart-robotic-artificial-intelligence-medical-set_81522-4748.jpg?temp_url_sig=c6b7267cc7e67978cedab3eedcd727ec1e33b608&temp_url_expires=1633701665"
         width: 475
         height: 267
-        isCached: true
-  - title: "The Global Vision Screeners Market will witness healthy growth of CAGR 6% through 2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2021-10-07T03:34:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-10-07/the-global-vision-screeners-market-will-witness-healthy-growth-of-cagr-6-through-2029"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 16
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
 
 secured: "cwEIV/n0eidN7eZvwipEEHmwdnNdpKc3bhSCF0n1ZftKEv0l3iVWisem24TvZg0pH5oCcuaqKos3DOaQVRRT717KgfvcHiC7uU1x9bLwNZkQ2DsxBVWO3QK2NdN6lREjbcvNdYoMp56bDJQvZwVS5UrA+CADT0G9GUmcFdruSORzvi7qbNrAzxZr+kw9eaWJtTgzW+hnCPMh6OhPKzJIXKYuUGFkIbqNE1TFxJiIBj9bxgdkLTXc4AgW+VAZ6aEf4HfA38cVoHiSKFD4Zk0ps3t0fmpB/CBhOwhDFznZTM0NI7uJtT74y4dclR8q0D2vPKWNE2UOWwG1XrPUQUWK7CFiWR0cOmF2vtgSOxwQEB+K0jfPIa3V8q6/8QRC+W2g6RFY+RHBSoEZPh3ONsefhBHswQhI3de+So8h9wMQV5EaVlz5D6CVyCkfUStiW8Pg+ZvRwLmnIodnsX133PXJXnvkvm2xcH1ohS4CAlhEdM0284Q3e+grSuNhwQb+LCY0HxJNhShOYAQfvT1zDhJfGw==;5R5q/TqWWbqhyKaz+Z+IlA=="

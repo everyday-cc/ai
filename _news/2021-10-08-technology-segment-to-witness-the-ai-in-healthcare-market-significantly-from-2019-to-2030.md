@@ -58,20 +58,6 @@ related:
         width: 620
         height: 381
         isCached: true
-  - title: "The Global Vision Screeners Market will witness healthy growth of CAGR 6% through 2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2021-10-07T03:34:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-10-07/the-global-vision-screeners-market-will-witness-healthy-growth-of-cagr-6-through-2029"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 16
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "xQc/MgIgs0MLwBOBabTx8/EY2FVv3vD7XkCFgOqaEmWiMEk+gboodNaA1oNhZ2Y4Gy0ly1aceqBYEZb6qtfb/jQRtWWXzglrilFu5Xht6MTxeWnSbrB5UHIrQQ5o5E3lUV8SL07BduAsfwjavCB7wUNWZXHlDyehFl5r820EZxFGigdbOeWTVQaA2m9rnRDGejr81P3sytVFPKd0P6LofYp82g5g2QSHuDC9qUnBdpVTaGS8XwZLDJqlL2P/KVJj+YtOSnFzhIzVfUO2owXzx+FfQAF+sj460Ar0ij+1NU3tBTXg2rlvGn1IOszoGj61+oXG33tk1J7VJ1Ux4k0sJSjrSSBvFxr9vZgMeFGmJO6mFQi3sCM4/O2YRJcrEgQ8eSM2lg5EETXa2u7yxRXq7v70oxC2V2YiuQLCGhMXGS9dAFgpH1Xo6dfUfvwdC4hP6/Z/CNmlWgV91ER1Kj+HIDfqonSGiXkwFkX5rQ1eMaKI2Ap4ykZruwIj/1XYOwNR8TQUoQKg85hvBHrqM0QoAg==;PolVkAR52CFjap52xJOSKg=="
 ---

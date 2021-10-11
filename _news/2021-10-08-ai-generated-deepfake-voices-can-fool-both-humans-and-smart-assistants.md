@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2293138-ai-generated-deepfake-v
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 483
     height: 400
     isCached: true
+
+related:
+  - title: "AI-generated deepfake voices can fool both smart devices and humans with only five seconds of training and are better at imitating women and non-native English speakers"
+    excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were fooled about half the time by the deepfake audio."
+    publishedDateTime: 2021-10-11T19:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10081007/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10081007/amp/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10081007/amp/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 12
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/11/20/49041205-0-image-a-8_1633979906457.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "+Q6zTNHjVkzJk3FY4bUbRwZklf1WJ2ihMKrxXVg/OlxhtgbSJAdxwtmg+luzqCljuzRZDQ6qDfQjNZ8AlmmJIatez0DvQExcmoaxkL87OcC1OunwnL/VPW5VYzkNHOGKgMunPtfhsm3dpPok5yiWxFGluuXg6pc3Np8/vUO8S88xHTLrV3met2KSDYwdgsRftD/iYFebPP1QUZPe7UivoM9aatlRsKswB/m6TkKrEFiu6A3iNu0TOT3wxfgqAApCCKb0sEwy4nRbGeIOXb0utIbdqOkSlzXSJ40pd3zak+jOG8ItLPba0inPeBuII5AGv/gC8MxzXk8Hv7fx00vx7Q6Ubku50sN8hx9d6d+xDzwoOSzaYCYYy0JxWcll/WsxgVtn7WfU1DcZeQxB6dc/EJapObegVFCdwkaqMuaf+5V1xdY+GfMgwOCGEZ9V+ZKQHixkyOxI66eDmaEfEVldFIgOMaVPbBVAqq6+gNORo3n5l5MCRqOWVaE9sH8jFZZ/LKfTbflWQPUJbEZZtuyW/g==;sBJyp7moSeCaviOQJF7EQg=="
 ---

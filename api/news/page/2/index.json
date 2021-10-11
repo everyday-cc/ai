@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-11-researchers-develop-ai-system-to-improve-eye-disease-detection.md",
+      "title": "Researchers develop AI system to improve eye disease detection",
+      "excerpt": "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "originalUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "publishedDateTime": "2021-10-10T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-stacking-our-way-to-more-general-robots.md",
+      "title": "Stacking our way to more general robots",
+      "excerpt": "Introducing RGB-Stacking as a new benchmark for vision-based robotic manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "originalUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/AmFPJnwo5d3vAXo369YTs-co0fKRBpt8MNLW75imLf5VO2KfQxcdbqgi7RuUzAQj_CUT0o_kw9LxHFiuRcDxqLOxJj_LkEr3EMJg-1-LDAnHyDYzw6k",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-taliban-say-us-will-provide-aid-but-not-recognition-after-doha-talks.md",
+      "title": "Taliban say US will provide aid, but not recognition, after Doha talks",
+      "excerpt": "The Taliban announced Sunday following talks in Qatar that the United States would not be formally recognizing the Taliban but would be providing humanitarian aid to Afghanistan, The Associated Press",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
+      "originalUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/taliban-fighters_afghanistan_081721getty_weapons.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
+      "publishedDateTime": "2021-10-10T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-government-to-begin-work-on-monetising-ai-subsidiaries.md",
       "title": "Government to begin work on monetising AI subsidiaries",
       "excerpt": "The govt on October 8 had announced that salt-to-software conglomerate Tatas have won the bid to acquire Air India for ₹ 18,000 crore",
@@ -1047,160 +1193,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics.md",
-      "title": "Is Neuromorphic Computing The Answer For Autonomous Driving And Personal Robotics?",
-      "excerpt": "Applications like autonomous driving and personal robotics are proving to be challenging for traditional computing architectures, but a relatively unknown, biology-inspired technology called neuromorphic computing could hold the key to new killer applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615fc4df8dafbfcf054d1798%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
-      "publishedDateTime": "2021-10-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-11-examples-of-ai-climate-change-solutions-for-zero-carbon.md",
-      "title": "11 Examples Of AI Climate Change Solutions For Zero Carbon",
-      "excerpt": "Achieving net-zero by 2050 is nothing short of a momentous endeavor, and the energy sector is playing a key role in reaching it. No AI solutions that matter more to humanity than decarbonizing the atmosphere and winning the war on climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616035ab1537a36957a3fe32%2F0x0.jpg",
-          "width": 1171,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
-      "publishedDateTime": "2021-10-08T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai.md",
-      "title": "How Zowie Diagnostics aims to refresh customer service chatbots with AI",
-      "excerpt": "Zowie is evangelizing on behalf of the power of AI-powered customer service automation both to reach customers and to promote the market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/image3-e1633575180595.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/amp/",
-      "publishedDateTime": "2021-10-08T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

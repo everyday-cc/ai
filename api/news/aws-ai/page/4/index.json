@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-valued-to-be-93-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth-worldwide.md",
+      "title": "Valued to be $9.3 Billion by 2026, Artificial Intelligence (AI) in Accounting Slated for Robust Growth Worldwide",
+      "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22659416/valued-to-be-9-3-billion-by-2026-artificial-intelligence-ai-in-accounting-slated-for-robust-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1600638/GIA_Artificial_Intelligence_Accounting.jpg",
+          "width": 400,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22659416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22659416",
+      "publishedDateTime": "2021-08-25T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-24-access-an-amazon-sagemaker-studio-notebook-from-a-corporate-network.md",
       "title": "Access an Amazon SageMaker Studio notebook from a corporate network",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning. It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, and deploy models. You can quickly upload data, create new notebooks, train",
@@ -1356,40 +1399,6 @@
       "provider": {
         "name": "Open Data Science",
         "domain": "opendatascience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-digital-human-rights-are-next-frontier-for-fund-groups-subscription-only.md",
-      "title": "Digital human rights are next frontier for fund groups [subscription only]",
-      "excerpt": "Digital human rights are fast becoming the latest front in the debate around fund managers’ ethical investments efforts... Attention on technology groups began with concerns around data privacy, but emerging focal points are targeted advertising and how companies deal with online",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/zh-hans/最新消息/digital-human-rights-are-next-frontier-for-fund-groups-subscription-only/",
-      "originalUrl": "https://www.business-humanrights.org/zh-hans/最新消息/digital-human-rights-are-next-frontier-for-fund-groups-subscription-only/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
         "images": null,
         "publishers": null,
         "authors": null

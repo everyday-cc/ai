@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHuK32d3bfxWg/article-cover_image-shrink_600_2000/0/1633614786911?e=1639008000&v=beta&t=KN-1Sph56-Qc6My7-x1N_clEJDJ2bFO9ECQz66tKqhw"
         width: 750
         height: 449
+        isCached: true
+  - title: "FinTech & InsurTech LIVE: The changing landscape of FinTech"
+    excerpt: "With only one day to go until our debut FinTech & InsurTech live, we take a look at the changing landscape of FinTech"
+    publishedDateTime: 2021-10-11T15:49:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/fintech-and-insurtech-live-changing-landscape-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Fintech%20and%20Insurtech%20LIVE_10.jpg.png?itok=ixcNrQUr"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Talk about fintech and you’re in danger of turning people off"
     excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."

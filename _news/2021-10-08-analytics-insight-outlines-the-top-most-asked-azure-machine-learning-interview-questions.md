@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging AI & analytics to build the shoppers of future"
+    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
+    publishedDateTime: 2021-10-11T06:46:00Z
+    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
+    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 37
   - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
     excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
     publishedDateTime: 2021-10-07T19:27:00Z
@@ -53,6 +64,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?618537"
         width: 375
         height: 250
+        isCached: true
+  - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
+    excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
+    publishedDateTime: 2021-10-07T15:42:00Z
+    webUrl: "https://www.lelezard.com/en/news-20036302.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
+        width: 299
+        height: 400
         isCached: true
 
 secured: "HW5C+gMI5Akc/rYWjuI9xvXAdTpcjoN7CPgvCebBQCh2nrKN2WbKDF4srAS8dz0XJWo0QeJ8it2D5HTmKZNzKODs4OKWKFAjDhO4qKHOpeP6wKLv00Ud0dqGxuwsk/V2fisS41+frgIZQwgwFCNrdT+UZrNmzASoND9sPybnTWyrgr7lmDuScVGtl6ttGdZHqdg2ga0Z/gOO31VQSSvg2LwMbDYbZG2uirtDChk/SIxnhjx4/9vxUUGyfmHF2PP0o69Hr4C5w7sR3NW1OH4rioP5M/19yge/pe00havyJmVLp+Mt0QEZVNcBSQi0oGrk4eAhtsO6aS6B0HoLWVOViKRBkL1wtjiCtkAfb8/BQ2I=;6Kx5br9oJZF4MB0YR1BFaQ=="

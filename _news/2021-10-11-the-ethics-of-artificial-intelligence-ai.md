@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-a
 webUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     images:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM Artificial Intelligence (AI) Portfolio Review"
-    excerpt: "Watson Captioning Live uses a combination of ML, AI, and cognitive speech-to-text applications to deliver automated real-time captions for audio files. Watson Studio is IBM’s software platform for developers, data scientists, and analysts to develop ..."
-    publishedDateTime: 2021-10-07T04:15:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ibm-artificial-intelligence-ai-portfolio/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/08/IBM-Logo.jpg"
-        width: 600
         height: 600
         isCached: true
 

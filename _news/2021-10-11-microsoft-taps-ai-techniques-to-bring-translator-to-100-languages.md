@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
         width: 800
         height: 598
+        isCached: true
+  - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
+    excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
+    publishedDateTime: 2021-10-11T20:44:00Z
+    webUrl: "https://siliconangle.com/2021/10/11/microsofts-ai-powered-translator-service-now-supports-100-languages-dialects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/microsoft-1.png"
+        width: 718
+        height: 400
         isCached: true
   - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
     excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
