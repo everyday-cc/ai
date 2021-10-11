@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore patrol robots warn people of ‘undesirable’ behavior"
-    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
-    publishedDateTime: 2021-10-06T10:41:00Z
-    webUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/"
-    ampWebUrl: "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 59
-    images:
-      - url: "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#"
-        width: 620
-        height: 413
-        isCached: true
   - title: "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state"
     excerpt: "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules"
     publishedDateTime: 2021-10-06T13:48:00Z
@@ -56,68 +40,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba"
         width: 600
         height: 360
-        isCached: true
-  - title: "Singapore: Patrol robots seeking 'undesirable social behaviour' spark privacy concerns"
-    excerpt: "The trial of patrol robots has sparked privacy concerns in Singapore. These robots are designed to blast warnings at people who are seen engaging in \"undesirable social behaviour\".   Singapore is seeing an explosion of tools to track inhabitants."
-    publishedDateTime: 2021-10-06T09:18:00Z
-    webUrl: "https://www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598"
-    ampWebUrl: "https://www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/singapore-patrol-robots-seeking-undesirable-social-behaviour-spark-privacy-concerns-418598/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 51
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2021/10/06/214716-singapore-patrol-robots.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "Xavier, the Robot Policing Undesirable Social Behavior, Is Raising Privacy Concerns"
-    excerpt: "What if you prevent petty crime before it happened, or stop it in the early stages? That sounds like the premise of many dystopian novels and films, but for the people of Singapore, it’s reality – partly due to Xavier,"
-    publishedDateTime: 2021-10-10T06:55:00Z
-    webUrl: "https://www.autoevolution.com/news/xavier-the-robot-policing-undesirable-social-behavior-is-raising-privacy-concerns-171378.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 48
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/xavier-the-robot-policing-undesirable-social-behavior-is-raising-privacy-concerns-171378_1.jpg"
-        width: 1358
-        height: 727
-        isCached: true
-  - title: "Singapore trials patrol robots to warn people of \"undesirable\" behavior: \"It reminds me of Robocop\""
-    excerpt: "Officials say the technology is needed to reduce the policing burden, but some worry \"Robocop\" is becoming all too real."
-    publishedDateTime: 2021-10-06T10:41:00Z
-    webUrl: "https://www.cbsnews.com/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/singapore-robots-patrol-police-undesirable-behavior-robocop/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 45
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/1200x630/d5c92593b5eb5087a2f7ef39d4178e07/singapore-robot-xavier-1235122903.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Singapore patrol robots blast warnings at people engaging in ‘undesirable' behaviour, fuel privacy concerns"
-    excerpt: "From vast numbers of CCTV cameras to trials of lampposts kitted out with facial recognition tech, Singapore is seeing an explosion of tools to track its inhabitants."
-    publishedDateTime: 2021-10-06T10:09:00Z
-    webUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html"
-    ampWebUrl: "https://www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/singapore-patrol-robots-blast-warnings-at-people-engaging-in-undesirable-behaviour-fuel-privacy-concerns-10031071.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 41
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/10/640-robots-.jpg"
-        width: 640
-        height: 362
         isCached: true
   - title: "Singapore patrol robots stoke privacy fears"
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."

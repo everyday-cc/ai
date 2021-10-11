@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Descartes Unveils Artificial Intelligence and Machine Learning Enhancements to Routing, Mobile & Telematics Suite"
-    excerpt: "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite."
-    publishedDateTime: 2021-10-06T10:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-descartes-unveils-artificial-intelligence-machine-learning-enhancements-routing-/2021/10/06/9463670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
-
 secured: "nuJYa25lc3k9nYU8xx89pbsmkceMcgY17f5FfH9HNXQCgTvVQffrDsL19i8+4l8VbXIdpTDCQi8M/iEVcqS6NNseNf6VrClg53tKXACUhyn7FKgh2zPGV0VW5lyadkPkbokn9nPSR1wRfYZ8bTbaFifnpQ4H7EN8TO+qhzBO9tWjj6HAbz7gmdLzPx2QVemk+shexk4DqmTyiUAasUG2vERVLOwfCoRoaUDnEjcPtT7hAf5gycBWXYrb7v2j9spXsaZ4d2riXSL/AkpPK63ks8oS0qjN93c3J3emhi3HV7GAF1RhfPLiubVu792IUbrxnKswDRjFfTdB7GcQVNgnk1NEzzgyIuTy/SBJacDNAPf4X6HX7YHXrJU0qPNVSkTQv9dYAgXvSiSAawto512gMaMjXoRDXoIdk1eG24mfaOKbZ+t/rpmoxP+4ZrFwpd1F/O1TQxFIwLhl0Cw5ecEt4XtZiLwd+kjAx67MagiwPXUpuryXNFGytZHXBv2BnQeNAvLGLHeiKozLJWDSRiwJyg==;EkC9OaPJVqXFY+IV5k+flw=="
 ---
 

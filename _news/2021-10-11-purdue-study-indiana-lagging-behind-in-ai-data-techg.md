@@ -1,24 +1,28 @@
 ---
 category: news
-title: "NITI Aayog, AWS, and Intel collaborate to accelerate digital innovation in India"
-excerpt: "New Experience Studio at the NITI Aayog Cloud Innovation Centre to be hub for collaboration and experimentation."
-publishedDateTime: 2021-10-10T10:35:00Z
-originalUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india"
-webUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india"
-ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
-cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
+title: "Purdue study: Indiana lagging behind in AI, data techg"
+excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
+publishedDateTime: 2021-10-11T02:07:00Z
+originalUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: manufacturingtodayindia
-  domain: manufacturingtodayindia.com
+  name: Tribune Star
+  domain: tribstar.com
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
+    width: 660
+    height: 600
+    isCached: true
 
 related:
   - title: "Intel imparts training in AI to over 2 lakh students in India"
@@ -53,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Purdue study: Indiana lagging behind in AI, data techg"
-    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
-    publishedDateTime: 2021-10-11T02:07:00Z
-    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
-    type: article
-    provider:
-      name: Tribune Star
-      domain: tribstar.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
-        width: 660
-        height: 600
-        isCached: true
   - title: "Purdue study: Indiana lagging behind in AI, data tech"
     excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
     publishedDateTime: 2021-10-11T02:07:00Z
@@ -81,7 +71,18 @@ related:
         width: 660
         height: 600
         isCached: true
+  - title: "NITI Aayog, AWS, and Intel collaborate to accelerate digital innovation in India"
+    excerpt: "New Experience Studio at the NITI Aayog Cloud Innovation Centre to be hub for collaboration and experimentation."
+    publishedDateTime: 2021-10-10T10:35:00Z
+    webUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india"
+    ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
+    cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
+    type: article
+    provider:
+      name: manufacturingtodayindia
+      domain: manufacturingtodayindia.com
+    quality: 34
 
-secured: "T9z5uqBQ2HSHYaioTEj7RUfL4l0LMwitTzXwp3ic69AUR1n+HO7t3yiCFhmq37ZGwBKTsUR2XMLwz0UWC9NdadZX/iN46BnSwpaXYac3A0m+PlQ2fnGDMMDLuTGgAlo+vaHKDRtwbmN4nRdHqvJA+tu6TSJXU5wQ+ASHlrZPBWDyyeaiwAt7boXchVA5XmkVIUI9orrPPpgcQs8jY44zu/TeMWmUTFxsMgqn+eoggtCT+dAL1CMvJBsQ5RAOGEBlI4hYO6gvz2JwthWmYM8YTIrybAD5m7tqZTrYc1vdGgp/WBVtqNTC4yplz2RNT6EHfJfBu+wnFF2JNecN0c9OqMtR3o1rJPLW6au+xXrkgE0fiWETYrLzJPF1Ef0UzUZcoBlsGnxfyHVoxUG0Zq0zAQBZpM3YPLlJzriTVUZokvA3KW8VZ73cWr7v+OzLR1vNEI1XRDxqov4WlYIj/52020ghmY3MmerYD22N4xoxjtfFlgtTAqANdgXyWGk9p2TcvdysSVd6/Cx142v4NRvDkg==;Pib752/SaqBfW74xrLQE0Q=="
+secured: "pbg1nheSsxl0uG6ZWjzKORfqbt0Qv6CvqhNV0tlARSXF80UMoy2VhLaBxq1a8XHKlejfSDIIMMPr5WPM31EtKHKh5l2KvB1UGT5se8JZMFGU8Kg/LVmDNP4BeXhewJAvvJTuVoLg8fxZr9sO+37oNZReh2HQ6+mFCLwbieRp1Pcr/cjtsxPBUeRvU88SAay/7AIW+VIX28YAqzaYlfrwBl+Fb0GeYSi94cikSdX/K8xtjBJL7lwfAvH9DiGhNzgm+5r9weo4lqVtzIikk9i7RbAauVBJXzELT23SfRwSKdyLeGvBpYy4l6bm97jpKnO8ZfWis7fKEa/N46ByglxxFfTt3mGDnYNXfMtAMav3kCA=;7gvveubYVZXj/BH181SfFQ=="
 ---
 

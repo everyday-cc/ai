@@ -89,22 +89,6 @@ related:
         width: 804
         height: 450
         isCached: true
-  - title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
-    excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
-    publishedDateTime: 2021-10-06T10:53:00Z
-    webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 39
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "The Pandemic is Testing the Limits of Face Recognition"
     excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
     publishedDateTime: 2021-10-07T12:16:00Z

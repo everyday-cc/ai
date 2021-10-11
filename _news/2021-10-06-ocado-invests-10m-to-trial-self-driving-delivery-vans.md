@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theretailbulletin.com/newsletter/ocado-invests-10m-to-tr
 cdnAmpWebUrl: "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
-    excerpt: "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer"
-    publishedDateTime: 2021-10-06T10:47:00Z
-    webUrl: "https://www.marketwatch.com/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Startup Wayve Gets $13.6M Investment From Online Grocer Ocado"
     excerpt: "British-based online grocer Ocado has invested £10 million ($13.6 million) in Wayve, a self-driving tech start-up that specializes in camera-based deep learning AI. Ocado and Way"
     publishedDateTime: 2021-10-10T10:00:00Z

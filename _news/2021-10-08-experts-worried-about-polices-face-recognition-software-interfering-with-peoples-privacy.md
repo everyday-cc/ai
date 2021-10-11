@@ -75,22 +75,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "TDSi GARDiS software now features full integration with Hikvision’s face recognition terminals and ANPR cameras"
-    excerpt: "Integrated security manufacturer, TDSi is pleased to announce that its powerful GARDiS access management software now supports full integration with Hikvision’s face recognition terminals"
-    publishedDateTime: 2021-10-06T10:53:00Z
-    webUrl: "https://www.sourcesecurity.com/companies/hikvision/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tdsi-gardis-software-full-integration-hikvision-face-recognition-terminals-anpr-cameras-co-1645-ga-co-3425-ga-co-3480-ga-co-1556192842-ga-npr.1633509876.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 39
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/tdsi-announces-full-integration-with-the-rotaone-time-attendance-solution-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Sensory Launches Speech Recognition Model for Children"
     excerpt: "Sensory has released new speech recognition models that have been specifically trained to recognize children’s unique vocal patterns"
     publishedDateTime: 2021-10-06T21:28:00Z

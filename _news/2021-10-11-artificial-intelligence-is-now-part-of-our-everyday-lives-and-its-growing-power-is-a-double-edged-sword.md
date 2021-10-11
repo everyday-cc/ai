@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Artificial intelligence is now part of our everyday lives and its growing power is a double-edged sword"
-excerpt: "A major new report on the state of artificial intelligence (AI) has just been released . Think of it as the AI equivalent of an Intergovernmental Pa"
-publishedDateTime: 2021-10-10T19:48:00Z
-originalUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
-webUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
+title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
+excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
+publishedDateTime: 2021-10-10T19:10:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
-quality: 21
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/10/TC_45139image_story.jpg"
-    width: 1000
-    height: 1204
+  - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
+    width: 320
+    height: 385
     isCached: true
 
 related:
@@ -39,6 +42,6 @@ related:
         height: 362
         isCached: true
 
-secured: "NLkFbgERdOst5JgM2FS379U6Yo6OBQlpTKXhgRKZDP1MgkohzmUKox8N4OzYMHyCCuzeG1KvsgQBHDCvt3JtL7o1zDP6X0XIpYUH99MDTf3Owst6wibQavQiCIcOJk3qKTFypue8VuHdDc9HNSQIDdZ6BMjb8BsFSPG5bSiB6ZuWINiNPWCuIlIwHzGq/kJZX9tDjhA19RtjMbMjvevbUsnjumZe2fyaHIdX6jFky1MrO1daDkHlGEPkmWPtCdDcFxXm4hPkH2SaozkcAmOjpMp/nzaqCM38s194qAXPMeLtw9rqRoHyk1hG3AHWDY1T5sKsHPLDZVYPBmx8eXUgXX0iWXg6fRqwtLg26IBMTz8=;kO/KlKVMSTS0KFntARxLBQ=="
+secured: "YS9whtEic7akL7j72tNNwf5XlyTx0/GmioZuchAmpFxEtKPU7vnttYmJdm+aHtcOczjgGmwZ7qsntR7v8APuAu18x5I2MT4GRx9jXSAlia7cjbCjyTwxfid21ARBfcW2m34yxUZ/pn/0lqiVkwK2EFG0+Z5b5fxxKKnlfCtxgTEyk3OkTyIcfCTPH/ed+0xri/oewKG2we+4Q+Uh/E8jD6eXkdvZ1t7z+yTR9HDmmqvHVgyEiZD6x+Qq+mAF1RUJg5J13snfwcd0Y9XHTFdkOSNZrQkmplAOd3jAYlLDIjEnobZvQGzfiEjhCzL2ruLdxSH4lE38qpiErmy+34G0f/li0kSsN+Cn5hXzNcxdKIs=;Uoal0LlRf5iq0iA2RTRqsQ=="
 ---
 

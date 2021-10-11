@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education
 webUrl: "https://menafn.com/1102931771/Artificial-Intelligence-in-Education-Market-Size-By-Model-Forecast-2020-2028"
 type: article
 quality: 53
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?291272"
         width: 436
-        height: 249
-        isCached: true
-  - title: "Artificial Intelligence in Security Market By Application: Market Analysis & Forecasts up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 06, 2021, 01:08 /Comserve / -- The Artificial Intelligence in Security Market is expected to be around US$ 45.80 Billion by 2025 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2021-10-06T09:59:00Z
-    webUrl: "https://menafn.com/1102925127/Artificial-Intelligence-in-Security-Market-By-Application-Market-Analysis-Forecasts-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?515093"
-        width: 444
         height: 249
         isCached: true
   - title: "Artificial Intelligence Chipset Market Size By Component: Market Analysis - 2020-2030"

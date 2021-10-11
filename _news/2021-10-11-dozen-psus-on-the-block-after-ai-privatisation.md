@@ -114,20 +114,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "NLMK is testing innovations in the field of artificial intelligence"
-    excerpt: "NLMK Group has signed a strategic partnership agreement with the Association of Laboratories for the Development of Artificial Intelligence."
-    publishedDateTime: 2021-10-06T10:14:00Z
-    webUrl: "https://www.akm.ru/eng/news/nlmk-is-testing-innovations-in-the-field-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: akm.ru
-      domain: www.akm.ru
-    quality: 37
-    images:
-      - url: "https://www.akm.ru/upload/iblock/ee5/NLMK_NLMK.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "These strategies can help in driving innovation at the AI start-ups"
     excerpt: "We all have heard about many big tech companies of AI and also take inspiration from them many times, right? For all the AI start-up’s looking for strategies to improve your business, here you go!"
     publishedDateTime: 2021-10-10T11:30:00Z

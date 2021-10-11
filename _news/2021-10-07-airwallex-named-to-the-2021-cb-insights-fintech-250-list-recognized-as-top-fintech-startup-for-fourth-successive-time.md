@@ -83,20 +83,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "ComplyAdvantage Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-    excerpt: "CB Insights today named ComplyAdvantage to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. These 250 fintech startups are attacking an incredibly diverse array of financial services opportunities across 19 sectors,"
-    publishedDateTime: 2021-10-06T10:05:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/complyadvantage-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 16
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lYwXxJW53aFdoSDkbFQk5TC00XlkPrXVySU7I0TAEXTBrLJ5zeaUK08DqHyUKE4OzYO4BGGOcV8bXKp5MQjIs80yN+9bZGEDSfn2gbw8cBbOUO8rVY6vSIO/EJdcNjueAFryRgSDrAxSKtM/GP5IKM7dAc/EagkmK4zBKc9NLSs2I1ORwcfeyRDD0cH1QhV9+/rt+Xhz660XGkv5ngguApF7gjzAkoBubs3Ts8V274HGwknFfvq4fNGrqBg77y7A5GYCWdL0tUh/VqGjdIakTJ/sfnnafeJKoyBjqOdu93CxCfQmR5lk9/E68qf7KFbCGMSZXKnQeCNU8So1Z9KlG7LcXezzKb/BFi6Al2Xpp+4=;TJAWnhWaInZHfs8sRKxgVQ=="
 ---

@@ -87,20 +87,6 @@ related:
         width: 768
         height: 440
         isCached: true
-  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
-    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
-    publishedDateTime: 2021-10-06T10:42:00Z
-    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
-    images:
-      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Uber facial recognition software to be discriminating over people of colour"
     excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
     publishedDateTime: 2021-10-07T09:48:00Z

@@ -101,20 +101,6 @@ related:
         width: 768
         height: 440
         isCached: true
-  - title: "Uber sued over ‘racist’ facial recognition algorithm that locks out workers"
-    excerpt: "When you have an job that you think will help you to secure income and it’s taken away unfairly, it’s very difficult’ says a former driver"
-    publishedDateTime: 2021-10-06T10:42:00Z
-    webUrl: "https://www.independent.co.uk/news/business/news/uber-sued-facial-recognition-algorithm-racist-b1933275.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 37
-    images:
-      - url: "https://static.independent.co.uk/2021/10/06/13/PRI203646116.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "CdHbvx32FPDNSIkA7MUA+Hk/BdQpztmwmihjL3meLKigrC1ZBHubk3TF5c1oXiM446frEi46KJfMU8yRp5fqxSFse+K2gx0QUAAudjyhijA/84onTCpvVnodupStdAQR5m6obr/Z/dXJ8/1w3Tdxbj8TRZnOTwJ+vybpKGXCoOkX3vhauR80BoNyCjfrBOR0HWDsYgMiVWR1hu0203DjmrydrQI+kwRpeoGUr0fKL2xRFcoN85Bh0UP9HH4JgWv8GGWEXxEv3gcVWqpAso6HshHKKg5lsCmTLseE2ou4vDUcc0MKs/frILD4SYajQjDLGjibBe5/ZH+Q1OgZ+5Bn1XRQhQkpZMF7SeDI4D9MWKY=;HXtp9dfvCB9z6QJssak+gw=="
 ---

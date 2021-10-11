@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-trainin
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,34 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Purdue study: Indiana lagging behind in AI, data techg"
+    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
+    publishedDateTime: 2021-10-11T02:07:00Z
+    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+    type: article
+    provider:
+      name: Tribune Star
+      domain: tribstar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
+        width: 660
+        height: 600
+        isCached: true
+  - title: "Purdue study: Indiana lagging behind in AI, data tech"
+    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
+    publishedDateTime: 2021-10-11T02:07:00Z
+    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-tech/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+    type: article
+    provider:
+      name: Tribune Star
+      domain: tribstar.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
+        width: 660
+        height: 600
         isCached: true
   - title: "NITI Aayog, AWS, and Intel collaborate to accelerate digital innovation in India"
     excerpt: "New Experience Studio at the NITI Aayog Cloud Innovation Centre to be hub for collaboration and experimentation."

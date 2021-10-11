@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 type: article
 quality: 203
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/077f0d0acac61f7819fa5b878c59dba9db36c0e8/2021/05/26/cf8ae2ae-d7f1-441c-bd07-269f57b1c255/facial-recognition-emotion.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "POLITICO AI: Decoded: Parliament wants to ban facial recognition— Experimenting with facial recognition rules — Big big bucks in AI"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-10-06T09:41:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-parliament-tests-facial-recognition-waters-experimenting-with-facial-recognition-rules-big-big-bucks-in-ai/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 46
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "European Parliament entreats a ban on facial recognition."
     excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."

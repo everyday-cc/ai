@@ -3,10 +3,10 @@ category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
 excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
 publishedDateTime: 2021-10-10T21:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
 quality: 105
 heat: 145
@@ -21,7 +21,7 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
   - Google AI
 
@@ -91,6 +91,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "Rp5g0+jWXSjSJWTszt+XSTXDCto/9W+rui5kUhw/dD2nTZtQrgDiI0eVLa1L1ZF0Jh3jQqmwM8VlUiDm9kPtFiIHH35+bHeZ5ra+ZIAUwfEN/sml3N5M3un/P2JLFHKmYNT/esaCRzVY6eefapDG2B+8yq5LZ8QXlnhJrqgN7aLybN+3RQNz2Wz09yQ4J64cfFmi9X/gH2IASiaYOJX0zCgGHCqfI7QCASHlZ+H0C+hLgd0j7QRiN/10XpTfg0cxL/U5myi58DXEeCzOpxM87rKPTv4EC+bd1VMlwqydKf22ghgJ+7hg9kimXNNfEj9D8Z1N+EjCAxP9l+6OfRwGO4w2LsqGKnopmr2ubNmjSSk=;AfspH9nqbp9kaq0hGVyrXg=="
+secured: "WfSxovbNRu71fAbyvnVtlnqqQCsWX56N13K4HED/fanSCVsUS1MtmD/I7MwaiF7RgVg1zr1izDhMdXPPNqQ6hJC9Ty13Y3wpSEnO/2DvMjmweeo+86ECGzPXo/vg03Onvr+mwdAZ2aBU9iGtL1KOQ5wC3x4rAmlE08ThK5ZUsYtx6IZqxYsN48IMKoZ7A3HDQRAZi5PAfHCs9icWTG7TIDNArtPAgqhauKftebTyq9c+eXQol+VoZyipX8MH6SKNf/3LJrrACioL2pntApZq/DSC5fgoJcbPJs6Etp4fy83XP4oDQso79JWCTHsdkLMYy2U26y0nx9ITs6uU0IJQiii5wNp2ZkBfBl4Qw5UMDwk=;it94mDsGFF6WRWc42ilY9w=="
 ---
 

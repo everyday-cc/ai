@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
-    excerpt: "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer"
-    publishedDateTime: 2021-10-06T10:47:00Z
-    webUrl: "https://www.marketwatch.com/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ocado invests £10m to trial self-driving delivery vans"
     excerpt: "Ocdao have confirmed plans to invest £10mln in self-driving technology start-up Wayve to accelerate the development of autonomous grocery deliveries. As part of a partnership deal, London-based Wayve’s technology will be fitted onto a selection of Ocado delivery vans and tested on urban delivery routes for 12 months."
     publishedDateTime: 2021-10-06T12:37:00Z
