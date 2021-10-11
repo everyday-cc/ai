@@ -7,8 +7,8 @@ originalUrl: "https://www.controleng.com/articles/using-blockchain-technology-to
 webUrl: "https://www.controleng.com/articles/using-blockchain-technology-to-protect-robots/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Control Engineering
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma"
-    excerpt: "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies."
-    publishedDateTime: 2021-10-06T07:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd"
+  - title: "All about Telangana’s plan to use facial recognition, blockchain for voting via smartphones"
+    excerpt: "The Telangana government held a dry run of a smartphone-based eVoting solution that leverages tech like blockchain and facial recognition."
+    publishedDateTime: 2021-10-07T09:28:00Z
+    webUrl: "https://www.medianama.com/2021/10/223-telangana-voting-smartphone-trial/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
+      name: MediaNama
+      domain: medianama.com
+    quality: 44
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc"
+      - url: "https://www.medianama.com/wp-content/uploads/2021/10/vote-1804596_1280-2.jpg"
         width: 1280
-        height: 720
+        height: 854
         isCached: true
   - title: "Blockchain Tech Could Be the Solution Against Hacked Drones or Self-Driving Cars"
     excerpt: "A near future where robotaxis and autonomous trucks are safely sharing the roads with regular vehicles, while cargo drones up in the air are making most of our deliveries, sounds like a wonderful idea."

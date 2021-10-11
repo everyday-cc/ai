@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/robotics-sta
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo"
         width: 615
         height: 384
-        isCached: true
-  - title: "Geospatial SaaS Startup Attentive Raises Pre-Series A Funding From Info Edge Ventures"
-    excerpt: "The company will utilize the funds to expand the organization, and further their investment in innovative technology"
-    publishedDateTime: 2021-10-06T08:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/389582"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 60
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633508484-Attentive1.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Privacy engineering-as-a-service startup Gretel raises $50M"
     excerpt: "Including the new funding, Gretel has raised $65.5 million to date. Founded in 2020, Gretel offers a data categorization and identification platform designed to test anonymized versions of a data set automatically."

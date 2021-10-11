@@ -57,20 +57,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Geospatial SaaS Startup Attentive Raises Pre-Series A Funding From Info Edge Ventures"
-    excerpt: "The company will utilize the funds to expand the organization, and further their investment in innovative technology"
-    publishedDateTime: 2021-10-06T08:21:00Z
-    webUrl: "https://www.entrepreneur.com/article/389582"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 60
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1633508484-Attentive1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "1KwhbYL3p/qwk+YGWTzKr6IZCjTzoA1hYhFhTTYwYi98hdhHSoR3Sp4ohH979w4ghOyBWJlITDAq5NSJCZVcNmKgikYwWYkOXbLgiMCxhybk8u/qKigjJ8k30MO6uF2WZ7VVKW0wvOy/edvo99CP8PL7MyNinM4+qG1nojsUoVVWF1tS7Hd3xwpOB3nWOoblxxwsrFeFtR9PTDn5N+AgKyuf5yWmnj3MVn1eo62RaxmxitPeKuFP5x3b483qv6sranX5Mz0T9wCe6Kux93huBciQMkHmnfHwWYrHh42QuoHMjpKvOgNE2CSeud8DZpldueMvwI4xKDIUVBHsuq9+uJ32pNAbFDPFudCmX/seEjg=;X851CRrzWv4cNA/nPaWs/A=="
 ---

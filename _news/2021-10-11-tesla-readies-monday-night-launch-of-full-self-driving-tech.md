@@ -121,6 +121,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla ‘Full Self Driving’ Is Delayed. Here’s When Musk Says It Will Be Ready."
+    excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
+    publishedDateTime: 2021-10-11T00:33:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://images.barrons.com/im-403553/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "See how Tesla’s ‘full self-driving’ mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-08T00:52:00Z
@@ -150,6 +166,6 @@ related:
         height: 1439
         isCached: true
 
-secured: "DkByNPoq6Y8wUsxhEBj3qdJp3vkQbCQVq9eeNdExNHgy8JyWEsKf10FDUoNucsyPqLvNYhxE2rDlV3cLusSjgl7NYB/wsijexwHhgB3chiLb4W0o7C6hpg50pUHcQx3UFyP9uAvPBAGqiF8NvUdBcd1DKIb/zqUAhtxkAypRj3PzaSn2r94SUgTDcOLw/JieKV4E51clBUy0foUTHSv0mwroKrXP6aHzivgyZMVHxN9zZaeysqp5/Nfy7g1tRfP3pk4K5tA+6HsjQHpKkO4kfCtsy/wX7klz2NHpIZdmw8Dnsj57uOgytRyuqNpOLICGZToh7764OXrTFWeZh1pCe0pgrVkvMN/fX9o+Q2LsteU=;MRZ0fXg+8gGBbd68J94H8g=="
+secured: "BvYW0vCC6+ER761IrDoLoyCyAhtkCb0TU6yvzIdfuqzHGHkqhKCEJDiCGyjjX6MOxlYTMesJDK4G/ax8poLNOdYLweMmZS5Tvp3YF4JTaxDoFzuAdpv0fOc8qUU2Qrwv98KUaIQkHyUUjpgXJbriazDF2rg5kMXNK49vrqMN2R/AIiYaAbb/l9IfP3ZM0jIHFBUn/Y5jsORpQ96Ch3bfOoRo3AGfJP0h4P5k85SfFKEEk/ZbSlNr2c4lfscnRdR+meVBUBnfzNFGRjAAD+H/SJoxmtH9hVSCF83xuvUL8g0i6bmaOG3Mme7srJ0lmPDaC350AJAuoa0uqlNA6GJHPShmYf2aDjnSaR2tUI2sE4allwAnUS0Fij5ET8RBPzyOvB+59ZnHKHlfVdJn3cBjgNw3L3g/b76uZE/X4GcD98JNbgEgvCZT7K7p+dWz5Sqjv90J1rEF0GQFENjF2X1Dg5ljYNTixRADRSTGcTTBxXLdJ+Cp5m5QeJE0+uaG/xojK/N+bPQEXuRo/yZ790wHKg==;ruW04soPAtDwPCJ2HhbMlQ=="
 ---
 

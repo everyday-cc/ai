@@ -57,22 +57,6 @@ related:
         width: 2896
         height: 1947
         isCached: true
-  - title: "European Parliament calls for a ban on facial recognition"
-    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is even committed."
-    publishedDateTime: 2021-10-06T08:38:00Z
-    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/"
-    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/06/GettyImages-1168367649-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "r32BJUH2+nMy6R9u7L2kflUp9TUZBKHKqScpya4AQHh2e5xl2Y3mk4UBCkXWE3A0f0XsOJqD92QP1rssN5hZryIr6NYqd+2j/rmLSmjt4qny8yVxwo8luhz5xiEuAL8LieFgxBrqYqWmX1ujuJvKHe93rAH5wK6LeARb1AXhfrpJyZwxt/8oEpeXePXczN1NtyeDsZ/SUp/unhvZQZi8GWzMqw8k4lb1C5/0Z3XfrkHOZqQmUgQF+V/jaOhLYNvpk5sXIMIQIQ+qSVdmBRRxUUcBOjsnZN7g+5mtsFF80TzLdhhrZWr++8kNz6tGtzFtWN20LIiF2pto8F9IZUHVMp/uG7pEBf/AjCQQ7TefjQeHPOLbNtxuUPGBt29oDs5oqjy4MG2RWchv9XwLwttTgwQjfFMcezKlZveAhD25FbUxXi8mm86farknG1hNQ0MLWSbnyWT2tlHnya4Xe2V0J4HgTifRyk7DqnNXX4VijW6vnHPKblfhKmgnOyzutzaBNlN26ZoyEDMjfO0Hi7qVgA==;56agyiozx2mbjSrkVQD+Aw=="
 ---

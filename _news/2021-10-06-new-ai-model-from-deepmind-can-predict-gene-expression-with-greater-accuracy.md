@@ -28,14 +28,14 @@ related:
   - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
     excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
     publishedDateTime: 2021-10-10T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 107
+    quality: 105
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
@@ -56,22 +56,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Google’s elite AI division DeepMind turns in its first profit in years"
-    excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
-    publishedDateTime: 2021-10-06T08:52:00Z
-    webUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/"
-    ampWebUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 76
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."

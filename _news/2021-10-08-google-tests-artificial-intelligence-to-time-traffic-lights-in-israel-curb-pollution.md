@@ -56,20 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google wants to use artificial intelligence to time traffic lights more efficiently"
-    excerpt: "Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro."
-    publishedDateTime: 2021-10-06T07:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/google-wants-to-use-artificial-intelligence-to-time-traffic-lights-more-efficiently/articleshow/86805352.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://img.etimg.com/thumb/msid-86805547,width-1070,height-580,imgsize-16938,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
 
 secured: "w3oTyy1PfMWezHqBvQpX5Yp4MifgLhzcLtFpYTrk5Yb15r0jOdWDkyNmj64vGfRE8WHsgQ6wQN3mcRYU9aZzNkRg7djgU63oq6TnACs/6F+G6ijqDMic1rk1cMlNeZK3XPxTJtSWPpF1zHgQMHTqSJfgUMFg3fSNflase3zutV2f4PXKSX2Ro1Sa2udCpxuEE1ceM40vqSOKCeIFIQSkl8ye+VX7HrgepP3xmugDm9nbs1BY29f2jsuOK7yuj6X5mzxsvAn+QkqKKM+CCgojB7x4Qn6E8aatT0cOk+94gVVa6O/ldIMg22F0BjNJV0qNEyIQz/JTKLylg6WyBAJPWaOf9PJZc7aJNG2MdtF6Hj0=;WZfoIGevJABU1sUBErXuJQ=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Ethical Issues of AI"
-    excerpt: "Ethical Issues of AI By CIOReview - Tech giants and experts believe that this is the time to discuss the concerns regarding the future of AI as this technology"
-    publishedDateTime: 2021-10-06T07:26:00Z
-    webUrl: "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 54
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_cOD76eP5.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Tata gets AI for Rs 2700 crore, Power crisis new jolt"
     excerpt: "The sale of Air India, eight-year tax reprieve to Tatas, a severe power crisis that may give a jolt to industry and agriculture and the stepping down of Chief Economic Advisor K Subramanian give a new twist to the economy."
     publishedDateTime: 2021-10-10T20:07:00Z

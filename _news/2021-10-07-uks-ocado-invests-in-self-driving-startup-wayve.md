@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado"
-    excerpt: "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket."
-    publishedDateTime: 2021-10-06T08:29:00Z
-    webUrl: "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/"
-    ampWebUrl: "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024"
-        width: 1024
-        height: 540
-        isCached: true
   - title: "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
     excerpt: "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer"
     publishedDateTime: 2021-10-06T10:47:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ocado invests £10m to trial self-driving delivery vans"
+    excerpt: "Ocdao have confirmed plans to invest £10mln in self-driving technology start-up Wayve to accelerate the development of autonomous grocery deliveries. As part of a partnership deal, London-based Wayve’s technology will be fitted onto a selection of Ocado delivery vans and tested on urban delivery routes for 12 months."
+    publishedDateTime: 2021-10-06T12:37:00Z
+    webUrl: "https://www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/"
+    ampWebUrl: "https://www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/amp/"
+    cdnAmpWebUrl: "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/amp/"
+    type: article
+    provider:
+      name: Retail Bulletin
+      domain: theretailbulletin.com
+    quality: 44
+    images:
+      - url: "https://www.theretailbulletin.com/wp-content/uploads/2019/07/Ocado-Van.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Self-Driving Startup Wayve Gets $13.6M Investment From Online Grocer Ocado"
     excerpt: "British-based online grocer Ocado has invested £10 million ($13.6 million) in Wayve, a self-driving tech start-up that specializes in camera-based deep learning AI. Ocado and Way"

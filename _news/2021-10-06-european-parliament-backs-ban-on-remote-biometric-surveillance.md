@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/"
 type: article
 quality: 172
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-06-image-63.jpg"
         width: 2896
         height: 1947
-        isCached: true
-  - title: "European Parliament calls for a ban on facial recognition"
-    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is even committed."
-    publishedDateTime: 2021-10-06T08:38:00Z
-    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/"
-    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/06/GettyImages-1168367649-1200x628.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "'Historic Moment': EU Approves Call for Sweeping Ban on Facial Recognition Surveillance"
     excerpt: "The European Parliament has overwhelmingly approved a call to ban facial recognition surveillance—a development heralded by the technology's foes as a \"big win for human rights.\" \"Fundamental rights are unconditional,"

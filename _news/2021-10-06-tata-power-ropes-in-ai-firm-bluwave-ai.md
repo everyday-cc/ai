@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-f
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical Issues of AI"
-    excerpt: "Ethical Issues of AI By CIOReview - Tech giants and experts believe that this is the time to discuss the concerns regarding the future of AI as this technology"
-    publishedDateTime: 2021-10-06T07:26:00Z
-    webUrl: "https://www.cioreview.com/news/ethical-issues-of-ai-nid-34549-cid-175.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 54
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_cOD76eP5.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Tatas have been promised 118 planes from AI's fleet"
     excerpt: "As per a TOI report, apart from the purchase cost of the carrier, the conglomerate might have to spend Rs 3,000 crore over two years while they have been assured no more planes will be grounded until they take over."
     publishedDateTime: 2021-10-10T06:48:00Z

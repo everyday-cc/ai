@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensi
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Sony readies subscription service for AI product developers"
-    excerpt: "TOKYO: Sony Group will start offering subscriptions to artificial intelligence development tools, part of the Japanese company’s push to rely more on recurring revenue and less on hardware sales. The conglomerate said today,"
-    publishedDateTime: 2021-10-06T07:49:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/10/06/sony-readies-subscription-service-for-ai-product-developers/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
   - title: "Sony to Launch Edge AI Platform Service AITRIOS™ To Streamline the Development and Implementation of AI Camera-Driven Sensing Solutions"
     excerpt: "Sony Semiconductor Solutions Corporation (“Sony”) announced today that its AITRIOS™ edge AI sensing platform will launch in Japan, the U.S. and Europe starting from late 2021. Sony is now widely recruiting corporate partners,"
     publishedDateTime: 2021-10-06T14:32:00Z

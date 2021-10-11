@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma"
-    excerpt: "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies."
-    publishedDateTime: 2021-10-06T07:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Using blockchain technology to protect robots"
     excerpt: "Control Engineering - Imagine a team of autonomous drones equipped with advanced sensing equipment, searching for smoke as they fly high above the Sierra Nevada mountains. Once"
     publishedDateTime: 2021-10-08T05:02:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/10/CTL2110_WEB_IMG_MIT_Blockchain_Robots-Slider.jpeg"
         width: 645
         height: 350
+        isCached: true
+  - title: "All about Telangana’s plan to use facial recognition, blockchain for voting via smartphones"
+    excerpt: "The Telangana government held a dry run of a smartphone-based eVoting solution that leverages tech like blockchain and facial recognition."
+    publishedDateTime: 2021-10-07T09:28:00Z
+    webUrl: "https://www.medianama.com/2021/10/223-telangana-voting-smartphone-trial/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 44
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/10/vote-1804596_1280-2.jpg"
+        width: 1280
+        height: 854
         isCached: true
 
 secured: "75mjl51dWAXVUYDGeCJWFpE3WhogZVXnZubIt5bxoglI4QfsACWEuQcOqVC7TKH4sj83Zo9y5E6i+wNwTwk1KIlGwlXWRPFemrq/huC9g+3XgF5XQhRAUOsACFUQOvZVmGfB2i3/E2JQecMJY2gzkx+8agaWFGgEaFOjsCG/8LhikvLtCDLa5b4dTUQvi9BJe/mcXZisr37qzfFQSRy6xHrcsyoaqTMmsMfvJcGo7XDEN2jNsVmzcihwi19D56QTRePDD7I9e/C2PeE1L2gQzNvAnO/LyDgkpS2gzPGTL8Zcc2FFTuIK6AVc8bv/pKuUizhjcJRlKdQAQ16xBybouCDtr8JBLKAQF6NoEyWt/BqZq1FRyS5SOPxojHqDuLxXtt+cSRk+J6V+qI5bObfCKIK7+qlqxXcmDWySdK4hm+T2xB3TZfookJ3dCd0U8rAELhvwUARxA1QD3PGDu7eSTaVJjF8ENQ0VeFCYgZ2potn2Dd4aQ0qIcyYmw3pNje79hnTGvj5xfPxYHblBHKEpNw==;CqOf8OnRPqYdWdTVfJqCzw=="

@@ -3,13 +3,13 @@ category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
 excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
 publishedDateTime: 2021-10-10T21:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/?via=indexdotco&amp"
 type: article
-quality: 107
-heat: 157
+quality: 105
+heat: 145
 published: true
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
   - Google AI
-  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
@@ -48,22 +47,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Google’s elite AI division DeepMind turns in its first profit in years"
-    excerpt: "DeepMind turned in profit for the first time last year with a profit of £43.8 million, compared to a loss of £476 million in 2019."
-    publishedDateTime: 2021-10-06T08:52:00Z
-    webUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/"
-    ampWebUrl: "https://www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/googles-elite-ai-division-deepmind-turns-in-its-first-profit-in-years/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 76
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
     excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."
@@ -108,6 +91,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "acGzHNbznQGvtb5+mMx0Hrhe86mlnGIJfXv5r5owJcpcU9mOtDfBOJRCDjinbbxfsS1SEA5FbhTVo3lC7lZMG1SKAP9zjGZnD2naou6SsuLYwp63TZ3guRAlowAgBoxkx+0K7e00ZRazZv/0IRX5EAgSHPbzHhQ9LbyjsFa5WOnqCuLmpYhFkH6R51+N3H67VbakbeOzWknvDe+fMlBQv2Pj9ar2dbAsSo2nmrkEcF35Pz85SSznG5fBueLGeMliV75ni4JLAWxdN3zOKbeUHgUcBpgh+GpW4BadBQlIswy6HqPLyjEkBomAcJo5HmJapcntc1NUABNuQd/aHu/NyZssuNKdIGCOASpBrrirXgf0JB+IaxdQ+zd+BOQemU6hHtUZKO0s0Een15ab8Gsr2rDFctPZkPFMNc3GE06s0Iqe+uXf7xlzCZlWWdPOLdZLU7gtnok/CJd8N+1kwb2gg+65yd+D7b73ep/mUrFP1LV+HP8CLvsp+9mOk1i42BRG3Ucm/q3cdny/bR8yhKQAew==;KSNab15bAJ+onnv0REJFjA=="
+secured: "Rp5g0+jWXSjSJWTszt+XSTXDCto/9W+rui5kUhw/dD2nTZtQrgDiI0eVLa1L1ZF0Jh3jQqmwM8VlUiDm9kPtFiIHH35+bHeZ5ra+ZIAUwfEN/sml3N5M3un/P2JLFHKmYNT/esaCRzVY6eefapDG2B+8yq5LZ8QXlnhJrqgN7aLybN+3RQNz2Wz09yQ4J64cfFmi9X/gH2IASiaYOJX0zCgGHCqfI7QCASHlZ+H0C+hLgd0j7QRiN/10XpTfg0cxL/U5myi58DXEeCzOpxM87rKPTv4EC+bd1VMlwqydKf22ghgJ+7hg9kimXNNfEj9D8Z1N+EjCAxP9l+6OfRwGO4w2LsqGKnopmr2ubNmjSSk=;AfspH9nqbp9kaq0hGVyrXg=="
 ---
 

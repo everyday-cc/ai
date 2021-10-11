@@ -38,15 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Sony readies subscription service for AI product developers"
-    excerpt: "TOKYO: Sony Group will start offering subscriptions to artificial intelligence development tools, part of the Japanese company’s push to rely more on recurring revenue and less on hardware sales. The conglomerate said today,"
-    publishedDateTime: 2021-10-06T07:49:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2021/10/06/sony-readies-subscription-service-for-ai-product-developers/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "I28NG71viZTSyM/EYSq9SZHcxdfP7TNuigova49YY77IavLIAZpiKtSjrUlbem1jiNuGvGJGjXgnYkijqPkwaZHz7HdpHu+aetRuXLV14Q8SAPRuaZyHkrMenvKx56BNL3ETlQEu04TrrXgdPHKWo8Cd/JvnaWMQuR+4rspjO4nOrfjgezMHMILlvzZijcQiK+2I44Xx6uy4MRlzSiHnMHg5FVQyM+da7V+0AiR8dBEQu9rFiTcsSgM9Ens8fNhxwSae12w1ILlo/VB5fNNenStWcCCy8NTk4CZjpQF5e3hJl3uAKDUGhMx93l5Fb3fvPKtQIxeXqZdFq8NJfdoZ3C992SoD0AOIiue92G4Y9j/MMhTWG24U2vsNB7viA4O2yy5qlj8wAFl5zuFNuAHzmeOeU7p+fYyRU41QoJkQhzfwUpZ+bNEkU2L3k0X0OAx11UwKNk6DrNf58qrdwUgisQLNhFdDuEQrWnx96WnjZORMgQJ94oazcUUW2uitsyO5+wEFIi7eK5NtLuKgfKTXoQ==;UtrZQRXVR4966TBeDM9kzw=="
 ---
