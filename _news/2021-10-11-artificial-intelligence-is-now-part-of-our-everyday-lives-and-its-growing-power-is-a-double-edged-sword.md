@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Artificial intelligence is now part of our everyday lives and its growing power is a double-edged sword"
-excerpt: "A major new report on the state of artificial intelligence (AI) has just been released . Think of it as the AI equivalent of an Intergovernmental Pa"
-publishedDateTime: 2021-10-10T19:48:00Z
-originalUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
-webUrl: "https://menafn.com/1102948378/Artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword"
+title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
+excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
+publishedDateTime: 2021-10-10T19:10:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
-quality: 21
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/10/TC_45139image_story.jpg"
-    width: 1000
-    height: 1204
+  - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
+    width: 320
+    height: 385
     isCached: true
 
 related:
@@ -38,7 +41,21 @@ related:
         width: 1171
         height: 720
         isCached: true
+  - title: "AI continues to become a bigger part of our daily lives, but is it going too far?"
+    excerpt: "A new report on the state of AI argues we are at an inflection point where researchers and governments must act carefully to contain the risks AI presents."
+    publishedDateTime: 2021-10-10T22:35:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/ai-continues-to-become-a-bigger-part-of-our-daily-lives-but-is-it-going-too-far/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 32
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/10/AI-images-blue-strawberry.jpg"
+        width: 733
+        height: 362
+        isCached: true
 
-secured: "c5XX+jzc8j1Av2dkRHAY5TRxiTVILMxDzWrDXGZmksdRajNYoRdJG6JC0EHkeywqhUtVzJYy5Bhf1Lok1Mb3KMczf1qHvz0sQ9NY6mFP1KTEpfXy7sPVDY+OtUNzTE2wcEkTJgrOHpLkTCHFpkdg1/XXLI3Vq26GmVd0w165UTo4Esq4tT8tFtA8M3ed8RV0z5JSE5JeX/5A8c15k3ULPCQDHsxiGxt2/n7FdcMEz4QBcPkzAcscbBk7WiNJg+Eq03RaVf9XW6FtHbOpnv7SKLb1BwzYtWAHDpq+pMuyXVSL+d3JKWIPinFhGvdtkDlc/zbg78fm9B2EKns+/xy82OAWjzXYqFan6Dl7mDWRweE=;DmQpFRDXNkpfawnVOzrzdg=="
+secured: "nZ3OaQYVdyY0iuF8XbIRKYjNU5fEv0rG9Rx+tw6HDMlHj9zW8LlWQmoPN9wx+uKuFDeiXbCWk56k7VM5ndtOecoVKaqLF++F3AjlorwxZcRYr50CRQpsHXP/aUWOjpjqv/FFBY7rnbp9k2anfjNRCscC5KJuMF5Dk4IE7CZciS5LFzgrzqbXdsDRISHJWa75jPJR3iJg6EFj0Ph5VhPrzJeiyrw0Sh5PavIMKFzWTHQEjQTWi2YFEKGOrsvBi3ddPVlbASTBgwyVVceNFb84SE8jrytdYmqI1yRok/AjNYnT22KUM5HrH225oNJXwJMAVkTGhszovFDKrqnxKXFP252YfQ86d6Ub8VxPlqAcXYQ=;krivVn53anGOu+QkTttWBw=="
 ---
 

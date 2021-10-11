@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Taliban says US will provide aid, but not recognition, after Doha talks"
+    excerpt: "The Taliban announced Sunday following talks in Qatar that the United States would not be formally recognizing the Taliban, but would be providing humanitarian aid to Afghanistan, the Associated Press"
+    publishedDateTime: 2021-10-10T21:58:00Z
+    webUrl: "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks"
+    ampWebUrl: "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/taliban-fighters_afghanistan_081721getty_weapons.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "U.S., Taliban hold first face-to-face talks since American withdrawl from Afghanistan"
     excerpt: "The Taliban and the United States are talking again. U.S. representatives and top Taliban figures kicked off two days of meetings in Doha, the capital of Qatar, on Saturday. A Taliban official said the group that now effectively runs Afghanistan would not seek U."
     publishedDateTime: 2021-10-09T21:32:00Z

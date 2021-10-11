@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
@@ -86,20 +86,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/New-AI-Model-From-DeepMind-Can-Predict-Gene-Expression-With-Greater-Accuracy.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Alphabet Owned Intelligence Lab DeepMind Turns Its First Profit"
-    excerpt: "DeepMind employs some of the world’s leading AI research scientists, who can command annual salaries of more than $1 million."
-    publishedDateTime: 2021-10-06T06:25:00Z
-    webUrl: "https://analyticsindiamag.com/alphabet-owned-intelligence-lab-deepmind-turns-its-first-profit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Making Sense of DeepMind’s First-Ever Profit"
     excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."

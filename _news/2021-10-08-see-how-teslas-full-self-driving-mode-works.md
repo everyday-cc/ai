@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
+    excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."
+    publishedDateTime: 2021-10-10T23:39:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/tesla-readies-monday-night-launch-of-full-self-driving-tech-785995"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+    images:
+      - url: "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/10/Depositphotos_61615681_s-2019.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
     publishedDateTime: 2021-10-09T18:54:00Z

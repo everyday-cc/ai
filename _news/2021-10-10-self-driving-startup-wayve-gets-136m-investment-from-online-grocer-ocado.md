@@ -87,15 +87,6 @@ related:
         width: 1000
         height: 669
         isCached: true
-  - title: "Ocado Invests GBP10 Million in Self-Driving Startup Wayve for Autonomous Grocery Deliveries"
-    excerpt: "Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer Ocado Group PLC in a partnership that will develop autonomous grocery deliveries in urban environments."
-    publishedDateTime: 2021-10-06T06:02:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202110064841/ocado-invests-gbp10-million-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "OGqmpyXphVH+8pRGlOjP+FvBKLdLRUvH3PtQSPUQLA9chy4LCTikPBAG+y+4PlmZtjG66Mtr1nkzZtB5uUyKllvsQGqoZvJ0TAoAAgJkSLZmZsC1UsgIrA+j7hhg+OUn4/v7FLdGxN/1x1OrC0Ef1rSMHoFeiqg5xWMLPmXXM+Pas27T/B2cp3eO9fJ3zOy7zAEDxnwPCa2yG/QVbxWkXx6hZJo1Y6wn319TJYU3Iwckls6cbOg0cGLEvO4ki/9EIuwxgPwGh4CIIh2L9zVL3mIjzdlH90pEMYUvKtkihIzc05K/f0UMTmfIyN2wjlRQp0kzcPBfROsg7kTqtzhfmPMHzlJj+8ZPcbPlj3adZNgHA9hGJDBoubYcMeFdCQiihySygso9KOOjXkNUnHe+9dnmCwKinTH9Iwna8WohOkvkNluPoit+7Jh7A/i9qAaJwODXZ3OKCStbxPxWjuyqzlUvSp005+ctDPewp49FTaW9ygCBoKjUu0UW3/XObZpplePOmNSiPr/X5/LUZNVKIg==;2OjL9KhpOgnVSqqk5MFdrA=="
 ---

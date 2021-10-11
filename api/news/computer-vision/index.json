@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-11-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks.md",
+      "title": "Taliban says US will provide aid, but not recognition, after Doha talks",
+      "excerpt": "The Taliban announced Sunday following talks in Qatar that the United States would not be formally recognizing the Taliban, but would be providing humanitarian aid to Afghanistan, the Associated Press",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
+      "originalUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/taliban-fighters_afghanistan_081721getty_weapons.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp",
+      "publishedDateTime": "2021-10-10T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-ai-weekly-eu-facial-recognition-ban-highlights-need-for-us-legislation.md",
       "title": "AI Weekly: EU facial recognition ban highlights need for U.S. legislation",
       "excerpt": "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1358,50 +1401,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-recurrent-neural-network-explains-the-power-of-the-frontal-cortex.md",
-      "title": "Recurrent Neural Network Explains the Power of the Frontal Cortex",
-      "excerpt": "“In the artificial intelligence field, computer scientists have designed various artificial neural networks, including RNNs, which effectively solve problems, such as language translation and object recognition, by simulating the neural network in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
-      "publishedDateTime": "2021-09-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

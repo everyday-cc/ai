@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
@@ -72,20 +72,6 @@ related:
       - url: "https://www.technowize.com/wp-content/uploads/2021/10/DeepMinds-first-profit-in-years-e1633510299166.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Alphabet Owned Intelligence Lab DeepMind Turns Its First Profit"
-    excerpt: "DeepMind employs some of the world’s leading AI research scientists, who can command annual salaries of more than $1 million."
-    publishedDateTime: 2021-10-06T06:25:00Z
-    webUrl: "https://analyticsindiamag.com/alphabet-owned-intelligence-lab-deepmind-turns-its-first-profit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."

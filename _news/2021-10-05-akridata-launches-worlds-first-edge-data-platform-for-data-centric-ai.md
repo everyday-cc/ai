@@ -3,67 +3,18 @@ category: news
 title: "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI"
 excerpt: "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries"
 publishedDateTime: 2021-10-05T16:17:00Z
-originalUrl: "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
-webUrl: "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+originalUrl: "https://www.fox19.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
+webUrl: "https://www.fox19.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: KPLC
-  domain: kplctv.com
+  name: WXIX-TV
+  domain: fox19.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "How To Enable Data-Centric AI"
-    excerpt: "Let’s see how we can now enable data-centricity in AI for the next decade. Data-centricity involves many distinct processes: data augmentation, labeling, cleaning, pre-processing and more. All these processes depend on data scientists being able to take the first step — create a dataset."
-    publishedDateTime: 2021-10-08T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg"
-        width: 1200
-        height: 826
-        isCached: true
-  - title: "Akridata™ Launches World’s First Edge Data Platform for Data-Centric AI"
-    excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platform™, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources – an industry first."
-    publishedDateTime: 2021-10-05T18:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-4c8ea10dce1301dbf506069ae700e519"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Akridatatm Launches World's First Edge Data Platform for Data-Centric AI"
-    excerpt: "Akridata, a category-maker and pioneer in Data-Centric AI, today announced the launch of the Akridata Edge Data Platformtm, which creates and manages smart data pipelines and AI workflows spanning Edge-Core-Cloud resources ?"
-    publishedDateTime: 2021-10-05T16:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20031572.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 38
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "Ov4pA8+ZP7DtKDYHx4N6v3ybyeuJuEFkqSRSXNLgOw9QHZrswVmqh01KQBVfNq6mkwfSCPEc0TX1MtYgNoKJsV/FSZFaw650EzRinPpGLLaOSUlhmE5jR9E6f7b+6X/zU4AwE7hOEzj8RL47cy32rum01ow+k0v7aeif1TjNis7xoPRVC7XAtF6fyRLH6pdsVajBOgJlo8deQGlfKUCWwEXgO50TJvWVCrOuXoMldjO5xG5FLnDF68L/EikZgnkynAgCxhJlFqgF8gvSPCj/tlvfJ/fe6bgv0wQODNA+K012AJTyHF1qB4Gam1gsj43TecgGZ1WX+kwTcqy+SCmIF72yZ6cgRrzSxMBMP/C2abk=;qCvdurv27SUeSPwK0gQPjA=="
+secured: "S+r8fvN0b6DvduI2yYtJpr5tE5dRqV7qcw3B8puOkwczOQtgoqn6TDPBSzTk/y5Cn67OSSS3lZ/v+GXlHcxJRng8MlPJGjImz5KpvKydbEowMvBnKVsBATGgh7/peM2RjC016PHdYqF3pV+wgHGJXg1j1h6R6p8mYmkBOEkRiyRYsm4IdeIHIkEBjhQ1NUMqks21qqT0o641ZnH03cFN2noCqysKwrzH1OcfQBz420HqKHVD9hcuWCqFh8viqK3wIHjOi8NdfYrj/6UkmlmnLKheH9N2Rx5yB4E4eFa8M4RZDjyN/qQ2MFFBDaSdvtJf1mp2ePIDPlnDUoApcmQqJqDfIKbeJ5uIl4ADRsXk5pU=;WAkoy18keXFPAJ4WY1oqUA=="
 ---
 

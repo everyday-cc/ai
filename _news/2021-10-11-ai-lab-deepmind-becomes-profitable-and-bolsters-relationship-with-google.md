@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-a
 ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 105
-heat: 165
+quality: 107
+heat: 157
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Autos
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
@@ -78,20 +79,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Alphabet Owned Intelligence Lab DeepMind Turns Its First Profit"
-    excerpt: "DeepMind employs some of the world’s leading AI research scientists, who can command annual salaries of more than $1 million."
-    publishedDateTime: 2021-10-06T06:25:00Z
-    webUrl: "https://analyticsindiamag.com/alphabet-owned-intelligence-lab-deepmind-turns-its-first-profit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/6496.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-07T08:11:00Z
@@ -121,6 +108,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "UysRu8GbKgGcgoZxTkcdN1EHt33JxYn5e7+Ekr/XQHleplArxV+gjoqW1BsqokuTr5HJo2MIWPM646+jGHJavyKIX3smBLkIogsMAgzRQ6nLMaHP3hWRYha/cjOl09ol+Kmu13c8VHmfq6V+EPlEt9/lLfcMC8HvbbCdI8qoY8Ge8f+oTUoy85vI83rgot6npH7Yj0kE77kSTtieFPEBYL+EStxL44wfNq42o75r0snxIZWB6fgn0IhjahenR7M6H4imhAWD7mMBlFpwSTJWgvyW48SMr6cdTOaVC589ExOdm2DhApZpNc5VuH1t1+87yQJQqzwvQk1/mh2lHc2Olt+nlRVkfKzq04dm2idddr4=;PzDaIYia3P61iDMQwcTYWA=="
+secured: "acGzHNbznQGvtb5+mMx0Hrhe86mlnGIJfXv5r5owJcpcU9mOtDfBOJRCDjinbbxfsS1SEA5FbhTVo3lC7lZMG1SKAP9zjGZnD2naou6SsuLYwp63TZ3guRAlowAgBoxkx+0K7e00ZRazZv/0IRX5EAgSHPbzHhQ9LbyjsFa5WOnqCuLmpYhFkH6R51+N3H67VbakbeOzWknvDe+fMlBQv2Pj9ar2dbAsSo2nmrkEcF35Pz85SSznG5fBueLGeMliV75ni4JLAWxdN3zOKbeUHgUcBpgh+GpW4BadBQlIswy6HqPLyjEkBomAcJo5HmJapcntc1NUABNuQd/aHu/NyZssuNKdIGCOASpBrrirXgf0JB+IaxdQ+zd+BOQemU6hHtUZKO0s0Een15ab8Gsr2rDFctPZkPFMNc3GE06s0Iqe+uXf7xlzCZlWWdPOLdZLU7gtnok/CJd8N+1kwb2gg+65yd+D7b73ep/mUrFP1LV+HP8CLvsp+9mOk1i42BRG3Ucm/q3cdny/bR8yhKQAew==;KSNab15bAJ+onnv0REJFjA=="
 ---
 

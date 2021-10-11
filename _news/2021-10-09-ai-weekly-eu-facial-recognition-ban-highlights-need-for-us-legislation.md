@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 type: article
 quality: 203
-heat: 283
+heat: 274
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/10/PRI203646116.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "MEPs back EU facial-recognition ban for police"
-    excerpt: "The European Parliament has backed a moratorium on facial recognition for law-enforcement purposes – bypassing attempts from members of the European People's Party aiming to torpedo the ban on biometric mass surveillance in public spaces."
-    publishedDateTime: 2021-10-06T05:12:00Z
-    webUrl: "https://euobserver.com/democracy/153135"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 24
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
-        width: 480
-        height: 322
         isCached: true
   - title: "Do we need international rules for artificial intelligence? Three points in the EU proposal for AI regulation that you should know"
     excerpt: "There is no dedicated legislation on AI in Finland or the European Union. The European Commission has recently made a proposal for regulation of AI. Susanna Lindroos-Hovinheimo, professor in public law at the University of Helsinki,"

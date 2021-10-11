@@ -1,46 +1,28 @@
 ---
 category: news
 title: "Toch.ai Raises Close to $12 Million in Series A to Transform Digital Video Content Industry"
-excerpt: "Toch.ai, an AI-driven SaaS platform that is revolutionizing how some of the most respected broadcasters, entertainment companies, streaming apps, media"
+excerpt: "AI Solution Addresses $224B+ Digital Video Content and Digital Video Ad Industry's Biggest Pain Points: Manual Processes, Engagement and Monetization"
 publishedDateTime: 2021-10-07T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/toch-ai-raises-close-to-12-million-in-series-a-to-transform-digital-video-content/article_e2a6dc96-0a41-5d77-a422-68390fa7413f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/toch-ai-raises-close-to-12-million-in-series-a-to-transform-digital-video-content/article_e2a6dc96-0a41-5d77-a422-68390fa7413f.html"
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/07/tochai-raises-close-12-million-series-transform-digital-video-content-industry/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/07/tochai-raises-close-12-million-series-transform-digital-video-content-industry/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/34/434ab83a-abd8-5e03-8688-ff312ae73e96/615ef34be594b.image.jpg?resize=744%2C630"
-    width: 744
-    height: 630
+  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/uBSLmL2pwk8_PPtwH-kgj_Gd8NE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/TEDC4BZIHSR24VZBWMWOK2ZDBY.jpg"
+    width: 980
+    height: 831
     isCached: true
 
-related:
-  - title: "Neural network approach to diabetes treatment nets $140 million Series C for startup Twin Health"
-    excerpt: "By composing a whole-body digital twin, the company can use recurrent neural nets to predict the results of dietary interventions to reverse root causes of diabetes and other metabolic disorders."
-    publishedDateTime: 2021-10-06T14:30:00Z
-    webUrl: "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 76
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/227b0d7ee6f46df331bd8bc29309849fd712ee90/2021/10/06/e5b0fe07-3745-436a-8f05-6b45be92b2db/twin-health-platform-2021.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 756
-        isCached: true
-
-secured: "YRYuaELszOh2/keWPgWkN+/3TtcqW3EXUE3CeCW0OatJa0DhMzuVLMkTpJMocviL8uRKTOyocV4216sKNsE0rfJRSzA06Fur5jDt0F0ft1DzAsSgZsJ83h1yklENuLMwgMqJHekGJ6S4UE3b/SrEcDQsFuBBnkSMRfInZjylmU9syv+jz6hpnT5CCbpdmecXnqiDVzZ588F16g/a2e729Fg5KP1uO4lahTxrxBI45t5S2/wY+7CNaVeeZW1JXjaAP/vILEDifO41nxSSXz+blqBI+zFw8lbOddlzHHPBxRtgeMei/wnfVDlpZ+IIcakkAI+7p11N5mGhd5G9cG9gTg9DEVS1oHA6Zxwp7B18RiY=;vHv9JEOT38EBxdcymRfuEQ=="
+secured: "VY5JpLfuDVZoTkRbhfWKj2x9qCV49O8OrQpEvXENi7DiXsGyEJNvJ1qdp9VFghRRbOK+uNfQe+N0HGD5XbP7z7FfjRavhO4oWLBeHz6aUQC9y9G10oVkftgWa0veROb6K89cGxQpv77oSktxe8dxJw7kNoiodo1Yy+pbX+s78DYehb14gQJoWtZRgFw9CxyEaM6RwLCEvSMs1cKvmDYZU9aVVreDmeqoSQElX1kwsIcrKB3gzc87JDstEKryIk7k6atpEs0b3FFg1ZEJom+zD2sLFefxtNjpvq8OxS7xxegsJOXOYC7qiKpaLAQunkoDjYWcSpXBSjaeRW5IYwzFFhZ1dd0tt2aQb8ASBUcCvxA=;s1zmZ2hLOo+vlnK5MNL/aQ=="
 ---
 

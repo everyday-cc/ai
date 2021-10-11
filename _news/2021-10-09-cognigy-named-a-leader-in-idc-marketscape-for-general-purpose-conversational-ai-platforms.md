@@ -3,26 +3,26 @@ category: news
 title: "Cognigy Named a Leader in IDC MarketScape for General-Purpose Conversational AI Platforms"
 excerpt: "Cognigy has been recognized as a Leader in the IDC MarketScape: Worldwide General-Purpose Conversational AI Platforms 2021 Vendor Assessment"
 publishedDateTime: 2021-10-08T19:15:00Z
-originalUrl: "https://www.wsaw.com/prnewswire/2021/10/08/cognigy-named-leader-idc-marketscape-general-purpose-conversational-ai-platforms/"
-webUrl: "https://www.wsaw.com/prnewswire/2021/10/08/cognigy-named-leader-idc-marketscape-general-purpose-conversational-ai-platforms/"
+originalUrl: "https://www.kalb.com/prnewswire/2021/10/08/cognigy-named-leader-idc-marketscape-general-purpose-conversational-ai-platforms/"
+webUrl: "https://www.kalb.com/prnewswire/2021/10/08/cognigy-named-leader-idc-marketscape-general-purpose-conversational-ai-platforms/"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: WSAW
-  domain: wsaw.com
+  name: KALB
+  domain: kalb.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/CForHpN4NHtjufinQSxH-6kRvwE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7CMWLIHS2B75YJIMQUZRW7D2OY.jpg"
+  - url: "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/CForHpN4NHtjufinQSxH-6kRvwE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/7CMWLIHS2B75YJIMQUZRW7D2OY.jpg"
     width: 980
     height: 512
     isCached: true
 
-secured: "xgW2w2/MF1GhnSm0txJQ9TN+Z9qqTZcORZlSW7jxMGGlLSg48XHK4Ayt3dZGYek9/tLfuPEbjP3LMOfOS0q3KM0iQKiSvEU0u/ngDsrNKd7OSyygNRMV2Pwr9syeEzvvrLPXJZvhaneo+uvAUlaWHZSTkh6HIivEtrkPoa8nYmqnci+O+YEqfQ0/RMUOPxsebp0lG+0lEJ9k0iMSbJ+BbouIapDo0I8nVjF5F3+YbsXTS7q7Y7h0XwMuivMAi9HE4ZG4/kOeiJxYmuTpco/ZBr1hCdC/CBS1Lak7q0OXweZ5kH4GFKhU6YGbC11UyCHPtBNDF6RhwTuUtgzNYQ/NFkJO54CSPJENuYcNbrzfjsE=;auDVuRcnARxnMlEQF0VV9Q=="
+secured: "o4WdsBqFuqikeIGsPv941R2EXbUdQDH9q4qToc+jX3X+MYIqUG3Uv3Jxrm+gRODcJyiizjMuzwpr3DzqIJsgj7ZMeyN4bMqSE6dmwZeBgxG37kDbWY0gp5YYOG8oqTwU4WJrZ9vOgHen7JqvqrnR5B5Fh42J4waFEWANSUB3ER3Gv+t+2bf8LHelIzcD/7lLf9F8DTcZxwuHyEuGfHPys7+24jAs6Z9ub3+oV0g9qCvTvUzP8QWTAY6QaKmfp9AGUKB3huDguaENRg4hBpoYy134kNwJA7IRA11po1fdF12d7LJeSkHgdl5sraKKFuoOLYrinOD5GctX+vTtT1khrZ65IldaU2r6iyUUiOWUbio=;+DB8pTdPBmuEGShRX/EG/w=="
 ---
 
