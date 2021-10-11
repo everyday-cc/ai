@@ -87,20 +87,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
-    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
-    publishedDateTime: 2021-10-06T12:42:00Z
-    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 38
-    images:
-      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
-        width: 768
-        height: 440
-        isCached: true
 
 secured: "CdHbvx32FPDNSIkA7MUA+Hk/BdQpztmwmihjL3meLKigrC1ZBHubk3TF5c1oXiM446frEi46KJfMU8yRp5fqxSFse+K2gx0QUAAudjyhijA/84onTCpvVnodupStdAQR5m6obr/Z/dXJ8/1w3Tdxbj8TRZnOTwJ+vybpKGXCoOkX3vhauR80BoNyCjfrBOR0HWDsYgMiVWR1hu0203DjmrydrQI+kwRpeoGUr0fKL2xRFcoN85Bh0UP9HH4JgWv8GGWEXxEv3gcVWqpAso6HshHKKg5lsCmTLseE2ou4vDUcc0MKs/frILD4SYajQjDLGjibBe5/ZH+Q1OgZ+5Bn1XRQhQkpZMF7SeDI4D9MWKY=;HXtp9dfvCB9z6QJssak+gw=="
 ---

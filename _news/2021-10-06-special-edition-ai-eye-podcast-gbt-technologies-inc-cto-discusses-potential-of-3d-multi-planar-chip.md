@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Special Edition AI Eye Podcast - GBT Technologies' (OTC Pink: $GTCH) CTO Discusses Potential of 3D Multi Planar Chip"
-    excerpt: "Hear the AI Eye on Spotify. GBT Technologies Inc.'s (OTC PINK:GTCH) multi planar 3D chip design affords greater capacity than current industry standards, according"
-    publishedDateTime: 2021-10-06T12:58:00Z
-    webUrl: "https://www.investorideas.com/news/2021/artificial-intelligence/10061GTCH-3D-Chip.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 31
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
-
 secured: "KXSWNQUruDp0pm3IUKNQlTNoX2H3JXl6d0sFY5iRZtpvmASPa7ewMawNCNDmDzlqD6j0jjFgxW3eg08/LW5PZzr7h89wtxiDwJp5SwQaycdqgR9JeZN8QoIU/JQsXMvU+a/5OgcHQNuZvjEhqyLCNX/zBCwacsxSQ3EdcEJR2qkGN3OZOaABN4bbSnxExrQIjvKxIM1e2MAGQNDjD3Aj2eceXYHbFgOv1+0nubBI7ccFMuNnqlezBriNnnAL8TKQPE4t/yhbLvlTbmrxN5VepkW/l947CtG5tkGZg8KYdqDuK1a7Ok2Um9I/5vKFBteSo1U7WnJ8OVRKxJrV1dZmxC0+9RDJoNfrrI/YUpialgU=;lDzttHerdNjaDUxOK71HPw=="
 ---
 

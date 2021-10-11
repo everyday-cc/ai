@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Smart patrol robots stoke surveillance fears in Singapore"
-    excerpt: "Singapore has trialed patrol robots that blast warnings at people engaging in undesirable social behavior, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns."
-    publishedDateTime: 2021-10-06T12:40:00Z
-    webUrl: "https://manilastandard.net/mobile/article/366776"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 19
 
 secured: "/CTN4ivt2wupj4XWYWBzZ+ZAi5QNhynEvIVijwbcSFuXIOvZZy6zfhNPUgxiTu6cLbKNx3RP8huSQc9ahHk8ySPl1eHYyRYQTd/TYtrqowyv+jxE4S4yfJI/R6CMhf6Nji2MmdRkhUsV5tsnLwELuUUBTU/rgI3FOtBS38gMT12JRi/qaaSIa0Y/r5XlUq5OhzAfw7/xcZ6PeW7hKYLvXoD5BzSIU3ytynq+E3YPF4dk1CyMnI2CiePt4+UiS9HUKzqp6EATNVVmecNnM7ecZkUePo/0bbyPS3EQiGIKvsVrvySYNphzs6fwRcelJMBZnRxvilSTHn5a0RRHPerkVGBQDBfRw2hplfLo6NC3vI8=;bIJkw5dB1RWLkp+5KgeVpQ=="
 ---

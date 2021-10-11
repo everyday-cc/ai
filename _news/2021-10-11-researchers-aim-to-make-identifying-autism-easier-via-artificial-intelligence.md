@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "How To Identify AI Opportunities"
-    excerpt: "Businesses might throw more money to new AI in the near future, but that doesn’t guarantee they’ll get a significant return on investment."
-    publishedDateTime: 2021-10-06T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/06/how-to-identify-ai-opportunities/amp/"
+  - title: "Researchers develop AI system to improve eye disease detection"
+    excerpt: "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale."
+    publishedDateTime: 2021-10-11T01:21:00Z
+    webUrl: "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Israeli researchers develop new AI treatment for leukemia"
+    excerpt: "Israeli researchers have developed a new method combining biology and artificial intelligence to treat leukemia, Bar Ilan University (BIU) in c"
+    publishedDateTime: 2021-10-11T04:41:00Z
+    webUrl: "https://menafn.com/1102949088/Israeli-researchers-develop-new-AI-treatment-for-leukemia"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/11/TNA_40e07image_story.jpg"
+        width: 660
+        height: 440
         isCached: true
 
 secured: "Q1eXf8RfQne8OF/oNvCB5ykxBRef4z5E4k7dg9Pel/BKw9BwgEI/czVRKdgrGq4wxm8ENKlxedfq7P+PIPbhRs0Y8yQ7bZYNPGCT9kqA86YJ6uo1HOdaW7sjCP3LVQZfcxfEBLImfZkBPYqNUtQZ59DrH++QgeFA9OcU+nGm0hSJPyIz5YI4WOXaWTIC16CgBhr/YzIPRtAvoBuSENdXLOkMBX/paem2ohxSovlVI39yjw2PYc4L62C/YTCa7CoiPY5ElxBDBFcuOyzaEXZHJiJbKic9z0G57dTTraL+Z+ZriX87tc8cZoBRaoecr0JPZUlFQqJJNcHV8hSuiXGZv+MD+V1hoCrlbu3FpAV7O8fSyn5OoydWEOYJjVFpejZhi6yyxQ+OWfuw0rk9RA4t6eMrfP1knw0bo0URXpUo2UQJMerEi0tYoQL0g8k3a0sm9LisY6juQ/AbC2JRADaY6+quccvLc7p1DYWpwpHB8mkxid/PUtsttt/9Hl4DsiHp4cmj2bMzaDcmMYSV0in0kg==;ajeaqwMMprh//cJNUvDtUw=="

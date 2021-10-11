@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-m
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ocado invests £10m to trial self-driving delivery vans"
-    excerpt: "Ocdao have confirmed plans to invest £10mln in self-driving technology start-up Wayve to accelerate the development of autonomous grocery deliveries. As part of a partnership deal, London-based Wayve’s technology will be fitted onto a selection of Ocado delivery vans and tested on urban delivery routes for 12 months."
-    publishedDateTime: 2021-10-06T12:37:00Z
-    webUrl: "https://www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/"
-    ampWebUrl: "https://www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/amp/"
-    cdnAmpWebUrl: "https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/newsletter/ocado-invests-10m-to-trial-self-driving-delivery-vans-06-10-2021/amp/"
-    type: article
-    provider:
-      name: Retail Bulletin
-      domain: theretailbulletin.com
-    quality: 44
-    images:
-      - url: "https://www.theretailbulletin.com/wp-content/uploads/2019/07/Ocado-Van.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Ocado invests in self-driving company"
     excerpt: "The tech firm’s $13.6 million investment in Wayve follows a similar funding announcement earlier this year as it looks to automate delivery for partner retailers like Kroger."
     publishedDateTime: 2021-10-07T15:47:00Z

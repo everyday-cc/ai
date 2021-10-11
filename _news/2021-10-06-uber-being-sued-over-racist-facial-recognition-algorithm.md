@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Striking Uber drivers demand end to ‘racist’ facial recognition software"
-    excerpt: "Striking Uber drivers, supported by Black Lives Matter and Union IWGB, are protesting at Uber HQ over 'racist' facial recognition software"
-    publishedDateTime: 2021-10-06T12:42:00Z
-    webUrl: "https://www.bigissue.com/news/employment/uber-drivers-strike-racist-facial-recognition-software-higher-pay/"
-    type: article
-    provider:
-      name: The Big Issue
-      domain: bigissue.com
-    quality: 38
-    images:
-      - url: "http://thebigissue581.wpengine.com/wp-content/uploads/2021/10/UberStrike1-768x440.png"
-        width: 768
-        height: 440
-        isCached: true
   - title: "Uber facial recognition software to be discriminating over people of colour"
     excerpt: "A former Uber driver is taking legal action against the firm over its automated face-scanning software that he is claiming to be discriminating. Indeed, the black driver who worked with Uber from 2016 to April 2021 has filed an employment tribunal claim alleging his account was illegally deactivated after the facial verification software didn’t recognize him several times."
     publishedDateTime: 2021-10-07T09:48:00Z

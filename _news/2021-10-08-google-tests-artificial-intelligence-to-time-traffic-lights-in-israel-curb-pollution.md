@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
-    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
-    publishedDateTime: 2021-10-06T11:30:00Z
-    webUrl: "https://www.news18.com/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    ampWebUrl: "https://www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 48
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/google--163351983416x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "w3oTyy1PfMWezHqBvQpX5Yp4MifgLhzcLtFpYTrk5Yb15r0jOdWDkyNmj64vGfRE8WHsgQ6wQN3mcRYU9aZzNkRg7djgU63oq6TnACs/6F+G6ijqDMic1rk1cMlNeZK3XPxTJtSWPpF1zHgQMHTqSJfgUMFg3fSNflase3zutV2f4PXKSX2Ro1Sa2udCpxuEE1ceM40vqSOKCeIFIQSkl8ye+VX7HrgepP3xmugDm9nbs1BY29f2jsuOK7yuj6X5mzxsvAn+QkqKKM+CCgojB7x4Qn6E8aatT0cOk+94gVVa6O/ldIMg22F0BjNJV0qNEyIQz/JTKLylg6WyBAJPWaOf9PJZc7aJNG2MdtF6Hj0=;WZfoIGevJABU1sUBErXuJQ=="
 ---

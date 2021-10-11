@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "European Parliament backs ban on remote biometric surveillance"
-    excerpt: "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe."
-    publishedDateTime: 2021-10-06T11:10:00Z
-    webUrl: "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/"
-    ampWebUrl: "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 172
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "European Parliament opposes 'mass surveillance,' calls for a ban on facial recognition tech in public"
     excerpt: "MEPs have officially called for a \"permanent ban\" on the use of automated facial recognition technologies in \"public spaces.\" European citizens, they say,"
     publishedDateTime: 2021-10-07T12:37:00Z

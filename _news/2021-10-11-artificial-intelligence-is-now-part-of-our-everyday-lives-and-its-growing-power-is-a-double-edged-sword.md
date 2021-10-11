@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-
 ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
@@ -42,6 +43,6 @@ related:
         height: 362
         isCached: true
 
-secured: "YS9whtEic7akL7j72tNNwf5XlyTx0/GmioZuchAmpFxEtKPU7vnttYmJdm+aHtcOczjgGmwZ7qsntR7v8APuAu18x5I2MT4GRx9jXSAlia7cjbCjyTwxfid21ARBfcW2m34yxUZ/pn/0lqiVkwK2EFG0+Z5b5fxxKKnlfCtxgTEyk3OkTyIcfCTPH/ed+0xri/oewKG2we+4Q+Uh/E8jD6eXkdvZ1t7z+yTR9HDmmqvHVgyEiZD6x+Qq+mAF1RUJg5J13snfwcd0Y9XHTFdkOSNZrQkmplAOd3jAYlLDIjEnobZvQGzfiEjhCzL2ruLdxSH4lE38qpiErmy+34G0f/li0kSsN+Cn5hXzNcxdKIs=;Uoal0LlRf5iq0iA2RTRqsQ=="
+secured: "iIAY8NdZLkS3O8FV8dwFxQDwGteHiIXMAe0wfIb5ujQZa+/B7nPu57g8DybWp2mvjcsMv+zO25dRRZlC3r0+PtxnbupV/gktANqJw/7mDDca+npyq5BQ3ZwwcX0Gzfbjcn0HAxcVEn0yD5dPm3MdcbvUbd8KkoctPJem1jXOvzBMuSK1AAF8EQrATi/w1BSK58Brl6Fr6FQHQJMmyA5rEiOnfExLTBt9Kar3XeYCYdfWYI3bXe8RwjjEKHMsm28dYlcl/wUf2cjXTCnQRA25a7RTQPKY2pWyj70BhawGy+GdTMXwgZHC88QYwI/Kc4bkqoLfUS5dvGPwhcyG44PmzN9VjaZAqc1NMzeNQF0unciqTYDXS4cg1QMRRXUcYTwrKrIRXOYxh6W2+nwnFJKXOPYwUpRrYdzE0X6NQN1UKwnTt8RpacP+oB1Fo49T4vPRy5AEUSssREVxSwTKS3G0SGg8WAma84mdrpEcB4A/08MPSlWx0Ag9Ba3px65UmZ8tTWUOyZ8XnoVhbNJdCqFHnQ==;/E+Y96qoXZQerKxsrw0g2Q=="
 ---
 

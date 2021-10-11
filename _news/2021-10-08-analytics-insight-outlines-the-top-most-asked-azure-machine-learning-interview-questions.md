@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NeuroBladers build a processing-in-memory analytics chip and server"
-    excerpt: "An Israeli startup called NeuroBlade has exited stealth mode, built a processing-in-memory (PIM) analytics chip combining DRAM and thousands of cores, put four of them in an analytics accelerating server appliance box,"
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://blocksandfiles.com/2021/10/06/neurobladers-build-a-processing-in-memory-analytics-chip-and-server/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 39
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/10/NeuroBlade-Xiphos.jpg"
-        width: 950
-        height: 390
-        isCached: true
   - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
     excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
     publishedDateTime: 2021-10-07T19:27:00Z

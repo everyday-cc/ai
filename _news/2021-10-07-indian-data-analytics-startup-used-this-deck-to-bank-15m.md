@@ -53,17 +53,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Databricks, Qlik, Nvidia show AI is heating up"
-    excerpt: "Databricks is announcing its acquisition of 8080 Labs today. This follows Qlik's announcement last week that it's buying Big Squid, and Domino Data lab's announcement yesterday of a $100M Series F funding round,"
-    publishedDateTime: 2021-10-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
   - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
     excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
     publishedDateTime: 2021-10-07T15:42:00Z
@@ -77,20 +66,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
         width: 299
         height: 400
-        isCached: true
-  - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20032713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "0TuQ3OHFi2xR4SkhAQMJ7U93JaL8dabWaZ1TO1DkapiSx/ylHe68xvB2Y000/Ll5R3yG0DKaFZkND2LccoKZAj7ARBL5kCuxZbL7z3i5rWNUEoqxTpI/8wf+GKqPl52lOm5iIkmMAGj3Q9DqQ9Uq/i//UikXfaKNvEnEbvO75YPVaIl7Uo0+8LCmeGDZD8rtOTQdWPg8yDddL0Ix/uYQEl6j8ynYLeMbTM7BRyzckWEENoxjwB++HCQEBLcGA3ac1WSDnAvFvz996SJg01bmjNJpq7VBB38iRh9+VicY5N1bJxBHtX98rWPGcCxFPhamf3TTfp3DQDeNWOC4Ka04Ao98Gv/iZChj4aSDCK7AFCVEy67uZVY2ABZVuQbjJbgIwoLvjuhIPMNcqpZmzBLbrinRLeP8S/8tKwJv8gVUmTS9ipyrTeey2sY2UEXl/5WaHpnVPIBFy4udSv7xMxLrFzlzX1rxSGsjjUeE4hAGzJ5iuNB4OQse7kXRfKwQWG4Ak4XX1pUQlIqBWIxtSxyGjA==;H7axfB3le4TntZib9ka9QA=="

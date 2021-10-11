@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code
 webUrl: "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition"
 type: article
 quality: 135
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Databricks, Qlik, Nvidia show AI is heating up"
-    excerpt: "Databricks is announcing its acquisition of 8080 Labs today. This follows Qlik's announcement last week that it's buying Big Squid, and Domino Data lab's announcement yesterday of a $100M Series F funding round,"
-    publishedDateTime: 2021-10-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
   - title: "Indian data analytics startup used this deck to bank $1.5m"
     excerpt: "PredictiVu helps its clients better understand the effectiveness of their campaigns through consumer profiles, brand-switching propensity, and other data."
     publishedDateTime: 2021-10-07T03:56:00Z
@@ -73,20 +62,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
         width: 299
         height: 400
-        isCached: true
-  - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20032713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "/x+mhuoDYkmQDHedszY6q3NqcGR66/q9eWkydpIpV1v8YowFJR1V6uq5h+l5wTeTJz+AXDPFW5P5IhUUPiaL44K129ThlWwBh3fBYcVee9KKQiFswUQtubI5TqnSYoR1i/9D95fPRQv+RiLlu7Ws0H26L8Gp2Ba0+TqPBmAB3FA5c5kxOAN1S5egrCVR91bbDPiWzCySvh5T8rovWDJFe5bazaJcfJoTsUDN7aK9T5/Q88XXGwnKd7gL0ArxF5+S7AcFWQAWPdP3CsYjAVXd44ZPcFs8kCoG/DxuLSkMiHXOjtEOnyrZdfl1G/F4QJJ5wx+UQkerCMmjpEFNGehNTKLwqsEiGv6DrMsCPTtSTAg=;tCswa5Weddh2ub75wjhn/Q=="

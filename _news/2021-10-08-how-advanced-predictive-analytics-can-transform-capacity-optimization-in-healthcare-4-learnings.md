@@ -39,20 +39,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "NeuroBladers build a processing-in-memory analytics chip and server"
-    excerpt: "An Israeli startup called NeuroBlade has exited stealth mode, built a processing-in-memory (PIM) analytics chip combining DRAM and thousands of cores, put four of them in an analytics accelerating server appliance box,"
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://blocksandfiles.com/2021/10/06/neurobladers-build-a-processing-in-memory-analytics-chip-and-server/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 39
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2021/10/NeuroBlade-Xiphos.jpg"
-        width: 950
-        height: 390
-        isCached: true
 
 secured: "Vv50jpToQDBxQRepOVmee/H+9LfKYuQVNncbtWBysNC1FQmgFFx/LBwNsAiRO/DQZBwI6ISQCH7ajp2/0WNI8IWsp6WsDwbFEYaEaEgIiixbWZNqXtMxkqNRkdY6/krtZ4iic0re3IU3DDwqO9V/x0I2cvpvm08jXTQXZFSzg4c650642oQRNQvD/JyjFYlJR9AK+Tg3aw4ImL8OdsoI+DTzUNMGSrqCInV2EpmG3c7IF+6rkKnE6pDulhqIJd4gpJQ6qDQQy8vSJ50O8dcVTPfInkulINJi5m3wyXopaNkX12Q7f1DN7Zt/vvn+ZCgGt4+oDxGXlVFJ6jDH9GJYVXjTyiLSpClxAu4ZXdcXKjM=;W1MoZn/qjcBU5qYFXV13tA=="
 ---

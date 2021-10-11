@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "SONY Unit to Introduce Edge AI Sensing Platform Service"
-    excerpt: "Sony Group Corp.’s SONY subsidiary, Sony Semiconductor Solutions, has announced that its AITRIOS edge artificial intelligence (AI) sensing platform will be launched in Japan, the United States, and Europe in late 2021."
-    publishedDateTime: 2021-10-06T13:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp"
+  - title: "Higher Ed CRM Leader Element451 Launches Predictive Marketing and Expanded Personalization Using Automated Intelligence"
+    excerpt: "Element451, an advanced student engagement CRM for higher ed institutions, today announced enhancements to its behavior-driven Bolt AI that extend the platform’s automated capabilities beyond admissions and enrollment engagement to support the full and increasingly non-linear higher ed student journey."
+    publishedDateTime: 2021-10-06T15:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-d334a5b9794aaddb4e1d6308094d8c2f"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "I28NG71viZTSyM/EYSq9SZHcxdfP7TNuigova49YY77IavLIAZpiKtSjrUlbem1jiNuGvGJGjXgnYkijqPkwaZHz7HdpHu+aetRuXLV14Q8SAPRuaZyHkrMenvKx56BNL3ETlQEu04TrrXgdPHKWo8Cd/JvnaWMQuR+4rspjO4nOrfjgezMHMILlvzZijcQiK+2I44Xx6uy4MRlzSiHnMHg5FVQyM+da7V+0AiR8dBEQu9rFiTcsSgM9Ens8fNhxwSae12w1ILlo/VB5fNNenStWcCCy8NTk4CZjpQF5e3hJl3uAKDUGhMx93l5Fb3fvPKtQIxeXqZdFq8NJfdoZ3C992SoD0AOIiue92G4Y9j/MMhTWG24U2vsNB7viA4O2yy5qlj8wAFl5zuFNuAHzmeOeU7p+fYyRU41QoJkQhzfwUpZ+bNEkU2L3k0X0OAx11UwKNk6DrNf58qrdwUgisQLNhFdDuEQrWnx96WnjZORMgQJ94oazcUUW2uitsyO5+wEFIi7eK5NtLuKgfKTXoQ==;UtrZQRXVR4966TBeDM9kzw=="
 ---

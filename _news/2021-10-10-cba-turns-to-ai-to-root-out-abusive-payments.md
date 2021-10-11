@@ -23,6 +23,19 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "CBA tags in AI to crack down on transaction-based abuse"
+    excerpt: "One of Australia’s biggest banks is leveraging artificial intelligence to crack down on abuse and harassment made using Australia’s payments infrastructure. The Commonwealth Bank of Australia (CBA"
+    publishedDateTime: 2021-10-11T05:45:00Z
+    webUrl: "https://www.investordaily.com.au/technology/50057-cba-tags-in-ai-to-crack-down-on-transaction-based-abuse"
+    ampWebUrl: "https://www.investordaily.com.au/technology/50057-cba-tags-in-ai-to-crack-down-on-transaction-based-abuse/amp"
+    cdnAmpWebUrl: "https://www-investordaily-com-au.cdn.ampproject.org/c/s/www.investordaily.com.au/technology/50057-cba-tags-in-ai-to-crack-down-on-transaction-based-abuse/amp"
+    type: article
+    provider:
+      name: Investor Daily
+      domain: investordaily.com.au
+    quality: 37
+
 secured: "gmrI53kkzK/yqwZdjGmgZlUISv5mza2NUz21zMqJ0qlB3588ZDrJxkZs48SHgV2oJMgDVXxQcB2RO+my9DftjftebUwx2lFZaZaPXoWTgZzlmn1NfgBbV2e4R8P1LO8VQcT1Jd6KHcIEumNHgTzgsHr0fsHNsU2g9YX9npiyJFt7OXH692lQSuOwPt2dBzLU633OXbYHB2tA+LlDxYvDHUdzYUosNZLPcIXsWy+4E6IM7Lzylmb0CNZO0oyhBfA645gE124Qb+mQ/RhHs2PO6vaTTi9ycitg+xQWf4ucNvRg2kUyIp0EHfNUkC4vcaXfUX2OQ1hHwhBMx2ThiEtnkh0XX+ggtnjWFW1NjN+ci0M=;dexP+JkuaDv4X9ttnvME8w=="
 ---
 

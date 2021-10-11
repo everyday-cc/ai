@@ -41,22 +41,6 @@ related:
         width: 1160
         height: 652
         isCached: true
-  - title: "Tesla’s Approach to Self-Driving Cars Could Cause Problems Down the Road"
-    excerpt: "The car maker is betting that it can develop self driving cars with only optical cameras, while other car makers believe multiple sensors will be required."
-    publishedDateTime: 2021-10-06T11:56:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-self-driving-51633520175"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-self-driving-51633520175"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-self-driving-51633520175"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 58
-    images:
-      - url: "https://images.barrons.com/im-411554/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "GM’s Ultra Cruise Will Leapfrog Tesla Autopilot, Offer Full Hands-Free Driving Virtually Everywhere"
     excerpt: "GM aims to take the lead in the race to develop autonomous driving with the new Ultra Cruise system. Set to debut in 2023 it will allow hands-free operation on 2 million miles of road - and that will grow to 3."
     publishedDateTime: 2021-10-06T22:26:00Z

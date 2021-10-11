@@ -2,14 +2,14 @@
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
 excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-publishedDateTime: 2021-10-10T21:20:00Z
+publishedDateTime: 2021-10-11T04:20:00Z
 originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
 webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
 ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 105
-heat: 145
+quality: 103
+heat: 123
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
   - Google AI
 
@@ -32,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet helps DeepMind to turn its first ever profit"
-    excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
-    publishedDateTime: 2021-10-06T12:09:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
-    excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."
-    publishedDateTime: 2021-10-06T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/new-ai-model-from-deepmind-can-predict-gene-expression-with-greater-accuracy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 51
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/New-AI-Model-From-DeepMind-Can-Predict-Gene-Expression-With-Greater-Accuracy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
     publishedDateTime: 2021-10-07T08:11:00Z
@@ -91,6 +60,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "WfSxovbNRu71fAbyvnVtlnqqQCsWX56N13K4HED/fanSCVsUS1MtmD/I7MwaiF7RgVg1zr1izDhMdXPPNqQ6hJC9Ty13Y3wpSEnO/2DvMjmweeo+86ECGzPXo/vg03Onvr+mwdAZ2aBU9iGtL1KOQ5wC3x4rAmlE08ThK5ZUsYtx6IZqxYsN48IMKoZ7A3HDQRAZi5PAfHCs9icWTG7TIDNArtPAgqhauKftebTyq9c+eXQol+VoZyipX8MH6SKNf/3LJrrACioL2pntApZq/DSC5fgoJcbPJs6Etp4fy83XP4oDQso79JWCTHsdkLMYy2U26y0nx9ITs6uU0IJQiii5wNp2ZkBfBl4Qw5UMDwk=;it94mDsGFF6WRWc42ilY9w=="
+secured: "nsS9ECXjdTejVQwlg1I9fltxtLtWzgMvhuGolbosUCj2pHPXxMThN5r/cPj0uW1BaXPfxsLWD863hJyEbUYLAvOt/G/Q5ezXfQncmtvhrpZrtFh5iglB6lX20EFfvVhjuh2DrxFr12Cq00YVgUfb1z1WIxXbonkQ4GDYyUbK8nYL7ZNB7nE0rPpawV79BkEzyiz8rPCsVLrpLFBncd4wFDDwUi/dMjd5EVpI3iosdVOOprm9Ft6+3vERhJlb78vnHEjsYWqpy2EUVrN/ErJRv6xCUh3qQYZH7hDifPL706u151C29Oo3wyE0xG8LdO1fH4NLGwSdq+0Bh3CJV7a3zWf8EFMOnRkIzBcoR3z8tdo=;z8fB9yw7SjeAKJzRhG4fzw=="
 ---
 

@@ -27,7 +27,7 @@ images:
 related:
   - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
     excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-    publishedDateTime: 2021-10-10T21:20:00Z
+    publishedDateTime: 2021-10-11T04:20:00Z
     webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
     ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
     cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
@@ -35,41 +35,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 103
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Alphabet helps DeepMind to turn its first ever profit"
-    excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
-    publishedDateTime: 2021-10-06T12:09:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361135/alphabet-helps-deepmind-to-finally-turn-profit?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1633518860/itpro/DeepMind_magnifying_glass_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "New AI Model From DeepMind Can Predict Gene Expression With Greater Accuracy"
-    excerpt: "The idea behind Enformer is to better understand variants in the non-coding genome and predict the effects of any variants on gene expression."
-    publishedDateTime: 2021-10-06T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/new-ai-model-from-deepmind-can-predict-gene-expression-with-greater-accuracy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 51
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/New-AI-Model-From-DeepMind-Can-Predict-Gene-Expression-With-Greater-Accuracy.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Alphabet helps DeepMind to turn its first ever profit"
     excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."

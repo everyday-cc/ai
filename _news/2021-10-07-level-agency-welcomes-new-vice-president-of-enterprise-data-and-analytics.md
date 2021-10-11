@@ -55,17 +55,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Databricks, Qlik, Nvidia show AI is heating up"
-    excerpt: "Databricks is announcing its acquisition of 8080 Labs today. This follows Qlik's announcement last week that it's buying Big Squid, and Domino Data lab's announcement yesterday of a $100M Series F funding round,"
-    publishedDateTime: 2021-10-06T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-qlik-nvidia-show-ai-is-heating-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
   - title: "Indian data analytics startup used this deck to bank $1.5m"
     excerpt: "PredictiVu helps its clients better understand the effectiveness of their campaigns through consumer profiles, brand-switching propensity, and other data."
     publishedDateTime: 2021-10-07T03:56:00Z
@@ -75,20 +64,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Olea Edge Analytics Closes $35M Series C Round to Empower Cities with Artificial Intelligence to Recover Lost Water Revenue"
-    excerpt: "Olea Edge Analytics, an intelligent edge computing platform for the water utility industry, today announced the closing of $35 million in Series C funding led by New York-based global private equity and venture capital firm Insight Partners."
-    publishedDateTime: 2021-10-06T11:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20032713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 13
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "UI++8c3UzCN48C/aiTxWTwLjM3NmZYmxeGagtwlwVHZhslyMQ3FKnOzMFHVel2tn19v0Sqrv9CO07TR6L+X4fffLjteiCepLs8hpvruIWyksAai5/VzA+P8/t5QvKZfOYzzHYB5FeBtu4AchXKjHhezB1hxvQIfFkuH38YAzwiR7mZrqUHWIkRvnoW7xFrSToXUnizAmL2jnp2RXxWysV0xW5N79qzXcMDg/oATkFSo8dxZyKebglS0lNOtUVHW4SLmBJGWok78w5JrNC28ejAg7HwIw9fTpSE6B/brbXark5wane8vkbpkdsmHxCheS7+xRyA8iLLB4Vzc2SpJXAThQVhINFB2MfE3bL96EX4o=;302cTYwhrcsG483ebK+FPQ=="
 ---

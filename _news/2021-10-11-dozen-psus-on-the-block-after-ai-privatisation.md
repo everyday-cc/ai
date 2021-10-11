@@ -72,6 +72,20 @@ related:
         width: 3177
         height: 2037
         isCached: true
+  - title: "How AI is Being Used in Education"
+    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
+    publishedDateTime: 2021-10-11T05:46:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Time Is Ripe For Responsible AI In Aviation"
     excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
     publishedDateTime: 2021-10-08T12:31:00Z
@@ -142,20 +156,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "NLMK Group is testing innovations in the field of the Internet of Things and artificial intelligence"
-    excerpt: "NLMK Group, an international metallurgical company, has signed a strategic partnership agreement with ALRII, an independent association of laboratories for the development of artificial intelligence"
-    publishedDateTime: 2021-10-06T11:10:00Z
-    webUrl: "https://www.akm.ru/eng/press/nlmk-group-is-testing-innovations-in-the-field-of-the-internet-of-things-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: akm.ru
-      domain: www.akm.ru
-    quality: 22
-    images:
-      - url: "https://www.akm.ru/upload/iblock/eb7/NLMK_NLMK.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Revival AI Announces Regulation A+ Offering to Revolutionize Bible Publishing Through Customization, AI, and Automation"
     excerpt: "Revival AI, a Bible customization firm driven by some of today's most groundbreaking technology, is pleased to announce the launch of its Regulation"
     publishedDateTime: 2021-10-06T16:00:00Z
@@ -188,15 +188,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "Standard AI Expands Executive Team with Seasoned AI, Retail and Operations Leaders"
-    excerpt: "Standard AI, the world’s leading computer vision platform for retail, today announced the addition of Jennifer Haroon as Chief Financial Officer (CFO) and Angie Westbrock as Chief Operating Officer (COO) to its executive team."
-    publishedDateTime: 2021-10-06T12:33:00Z
-    webUrl: "https://www.channelbiz.co.uk/press-release/standard-ai-expands-executive-team-with-seasoned-ai-retail-and-operations-leaders/"
-    type: article
-    provider:
-      name: Channel Biz
-      domain: channelbiz.co.uk
-    quality: 13
   - title: "AI-Driven PROVEN Skincare Announces Launch of $60 Million Regulation A+ Offering"
     excerpt: "PROVEN Skincare (“PROVEN” or the “Company”), an AI-powered, technology first consumer company that formulates and markets personalized skincare produc"
     publishedDateTime: 2021-10-07T11:30:00Z

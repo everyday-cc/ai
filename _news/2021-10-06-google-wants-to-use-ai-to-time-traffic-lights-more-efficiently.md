@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/google-wants-use-ai-time-traffi
 webUrl: "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/irdkhycccbabgqff_1633664717.jpeg"
         width: 768
         height: 438
-        isCached: true
-  - title: "Google Planning to Use Artificial Intelligence to Cut Traffic Delays, Fuel Use in Brazil"
-    excerpt: "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,"
-    publishedDateTime: 2021-10-06T11:30:00Z
-    webUrl: "https://www.news18.com/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    ampWebUrl: "https://www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/google-planning-to-use-artificial-intelligence-to-cut-traffic-delays-fuel-use-in-brazil-4291247.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 48
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/09/google--163351983416x9.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "CCoq1MDyJ9SwP1epw7hY7m1xDWR9TVL2xneoaOD5c8mUaDsVkGO/2zZJUR/LlUYAUTjThWEpSto0y2o3N4OSnVsxma+/lm/f4noHDQiLetMn/7Lwn1ddnfKxfC2OwX4G408H2x1rPK2WLKauiuIaLf5GSD5UHmAofjCQlFwRmrbCRJQX8fQn2L+2KAY17Sc34YVusqIbF2ylmgA9k9yj5Js/iZlK6ietPGuvz6Bb1uGawTQG7hpHLUr3XarQtDKY4ba8XTdN/646UyyqCrjfTqRDusJTFJ06gCO9OHCyKHpOhaYd7HvvPsaDAGohYhs2hQLo2Lq9NNh9FkFPZR4pi4KUC7PX3wBoNOLIrBP3MtEpDfenWGZmTbXPck1BAmHJ9a7EBOmRoKCc0fqdNZ698qLDE0DoxFsaXeBXTmjbVndeHpRPnqnv/mFXaSbUT9YqYRqDCCYPhIjMQQE2/ID5iPIvQSQn0RRbOOdKZhD5rX8ufFjcX73c5rE44b7yZYyGS8UukH8Fe+nwHXLg0ahR2Q==;dFIoHdkgxrN5rx/s60vdTQ=="
