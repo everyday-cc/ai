@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -196,20 +196,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "See how Tesla’s ‘full self-driving’ mode works"
-    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
-    publishedDateTime: 2021-10-08T00:52:00Z
-    webUrl: "https://kvia.com/news/2021/10/07/see-how-teslas-full-self-driving-mode-works/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
-        width: 375
-        height: 225
-        isCached: true
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
     publishedDateTime: 2021-10-11T14:05:00Z

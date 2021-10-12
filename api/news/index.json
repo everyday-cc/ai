@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-tredence-launches-healthemai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations.md",
+      "title": "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations",
+      "excerpt": "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg ",
+          "width": 823,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
       "title": "Why graph DB + AI may be the future of data management",
       "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -94,7 +146,10 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos",
+        "IBM AI",
+        "Facebook AI"
       ]
     },
     {
@@ -252,7 +307,7 @@
       "originalUrl": "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -428,6 +483,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
+      "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
+      "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg",
+          "width": 2001,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -692,7 +799,7 @@
       "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -780,7 +887,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1115,110 +1222,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
-      "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
-      "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T14:19:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities.md",
-      "title": "DeepMind proposes new benchmark to improve robots’ object-stacking abilities",
-      "excerpt": "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
-      "publishedDateTime": "2021-10-11T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

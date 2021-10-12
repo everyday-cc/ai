@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102954438/Yellowai-Commended-by-Frost-Sullivan
 webUrl: "https://menafn.com/1102954438/Yellowai-Commended-by-Frost-Sullivan-for-Enhancing-Customer-and-Employee-Experiences-with-Its-Conversational-AI"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to increase customer loyalty? Lead with conversational AI in your customer experience."
+    excerpt: "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s"
+    publishedDateTime: 2021-10-12T12:00:49Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 109
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg"
+        width: 2001
+        height: 1007
+        isCached: true
   - title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with its Conversational AI"
     excerpt: "Based on its recent analysis of the Middle Eastern and South Asian conversational AI market, Frost & Sullivan bestows Yellow.ai with the 2021 Technology Innovation Leadership Award for delivering a highly differentiated conversational artificial intelligence (AI)-powered customer experience (CX) and employee experience (EX) automation platform."
     publishedDateTime: 2021-10-11T15:57:00Z

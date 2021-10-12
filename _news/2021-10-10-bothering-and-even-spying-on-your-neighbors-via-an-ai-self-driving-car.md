@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
     excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"

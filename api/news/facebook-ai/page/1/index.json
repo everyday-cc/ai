@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: Best AI Companies",
+      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "IBM AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
       "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
       "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
@@ -10,7 +57,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1391,51 +1438,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-04-ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google.md",
-      "title": "AI in Social Media Market (New Release) Predicted to Hold a Huge Impact on Sales in 2021 – AWS , Facebook , Google",
-      "excerpt": "Pune, Maharashtra, India, September 4 2021 (Wiredrelease) MarketResearch.Biz –:Global AI in Social Media Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized and in-intensity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-03T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
       ]
     }
   ],

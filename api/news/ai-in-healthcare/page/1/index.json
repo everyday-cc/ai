@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-tredence-launches-healthemai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations.md",
+      "title": "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations",
+      "excerpt": "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg ",
+          "width": 823,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning.md",
       "title": "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning",
       "excerpt": "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -150,7 +202,7 @@
       "originalUrl": "https://www.openpr.com/news/2424828/coordinated-healthcare-market-to-witness-huge-growth-by-2026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -193,7 +245,7 @@
       "originalUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1322,58 +1374,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-healthcare-ai-startup-endimension-raises-inr-23-cr-seed-round-from-inflection-point-ventures.md",
-      "title": "Healthcare AI Startup Endimension Raises INR 2.3 Cr Seed Round From Inflection Point Ventures",
-      "excerpt": "The funds raised will be utilised to acquire talent for new product development, R&D and for boosting the sales team to fuel further growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/386940",
-      "originalUrl": "https://www.entrepreneur.com/article/386940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1632293467-L-RBharadwajKssApparaoMLVKurienZacharia2v12.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ]
     }

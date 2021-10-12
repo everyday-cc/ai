@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tredence launches HealthEM.AI to optimize cost of care and improve outcomes for global healthcare organizations"
-    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI"
-    publishedDateTime: 2021-10-12T07:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
+  - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
+    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,"
+    publishedDateTime: 2021-10-12T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/12/full/20211012101828.jpg"
-        width: 600
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg "
+        width: 823
+        height: 400
         isCached: true
 
 secured: "qU4rT7kBg43zZTvOdaCuuNV87+izMioIrjNtAnqEBQcJzQ5peIIBSKLQs5X6ZRyBqTlVmT3QQJIGlKEdBM4IS9MJuHfuznC8yF4go5TtgWQgXqhDQHmzHy/6LaKvr0sSmZ0k6gSOSavOtzOfFDrvpTCtgr3tizoM4Yc8BiEwPHIzNQ8QagrIpXyW80IHcsR6j6Ij6xBpkjNXSxTab2OTUZ7XHN+BV7GHifQtbqBVXKJGRhtUhWUGyvHebuzGZrF0yvYt120KroEduZb/5BaNXIughbKcBo/G2IYpPqk9CSw9UDo5glTSkAuRtos3CphDhmqfu97/c6vTJdmb45aI14qBDdMNRhXVrFgqpnqWh1M=;SRW92SuKNe92/uEeX/jFJA=="

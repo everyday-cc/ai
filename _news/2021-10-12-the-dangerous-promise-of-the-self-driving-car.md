@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
     excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
     publishedDateTime: 2021-10-11T14:30:00Z
@@ -120,6 +136,6 @@ related:
         height: 300
         isCached: true
 
-secured: "t06fTJlYN3pp2LbMcv9N5NrHcxxP3OztuKsQnrqZ0907TGsEegegUoTkfdyXSXJ9lc8cFWIbEZGe65AsPXfIzUOM7/xNGlZzKvUFx6SnB8N8/RfC2/02tMwV3sXuT+tpBom4hSrSWLakoTPmA4HfjrIdXgU3s3h8MCsrRuql09l8qbxJ6PBWf+P8Vdq66npGmHq+6hmPT+D6b4XVm7vl0gkUxT2is62T7szaZSeZfwmYJBE4Q+bynhlmRLG6ejDRj1R5QwDOcGs20Km92RXnzq7GZKS7qMB0AYSq6d0KbQ62n8fnxubGSrXiYNvMFkECZ2gwtRgLaQTUPJCkBGUcZmmMeTLkFCTNwXQbGr3zS8M=;z3A+bSEVfC9JAfjYEosDHw=="
+secured: "pMSmA93eMBJEFWbueoJrEKe8emqR7L+v8OfKu8g9J+5idr10icdNU5pQ8/V6rJr4I/hCXPU5midya+1pAi1wOtGEj8Ul1Hr1/ihTSvpsgwIxjQS4NF4GYME9++Y4DWLkBJsC1+bHVdG01ANudSUaLF9uVdxdAF6B6d78/a03yqazVQTKmAzIDD7ajrlBQtKTHRutncN8CCsqM4CfO/q86PPpGObCjDR6rI0at33XKFcpx5LpgaV1R0BB22bJWJCXIOvNSXWp4GRM+MuVQ4GTFa/3rw8XkscHSHKG6EmBGXefksIezodOZl30TmsxD9Qkag27oJi+KF898+JBibfWam5oxnzAEh49pIuj0sCQpk2NnAMgNL7SdSNF57zl45aTjZu/bJuc1eVR+NSA8bgNL5TY0xrwmL2FSoU8eh9hLpuaDY+UncLtqk9g+puSWmVTDMAE44LiSDXV6PTjlS/t6k+Khc5XgM/a+MTcum6dKRKzt8fP8or9EtFV4VHUx3MCRtQlEDV8X/g9ifkgyrBgWg==;0AaEOKxTO5xw+DaKxOaASw=="
 ---
 

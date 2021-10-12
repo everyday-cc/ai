@@ -24,6 +24,22 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Broadridge Extends Intelligent Automation Suite with New AI-powered Anti-Money Laundering Solution"
+    excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced the launch of the Broadridge Anti-Money Laundering Solution (AMLS),"
+    publishedDateTime: 2021-10-12T16:01:00Z
+    webUrl: "https://financialit.net/news/compliance/broadridge-extends-intelligent-automation-suite-new-ai-powered-anti-money-laundering"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 25
+    images:
+      - url: "https://financialit.net/sites/default/files/broadridge_11_0.png"
+        width: 3442
+        height: 1485
+        isCached: true
+
 secured: "MU8io5jclv6m/dK/MDGf35dXbv/8RFrf7DjEXzbRSAxZUizapY3WCpWq5W1vx3IX50E8lEj7WFxmxMVVSMHEwamUk2eF4kPi7Fnbjk4LKlnI4EPREbOIdAzrIgJZ+MoMPSrO5hsuQpa4EcOm06Skrk1ThtNHBPC67tJGJZna4hrNfbP0RaAxpO4IV4BnzKFy+HeJxFZ4Hv3dEVlSvMFwDP8KttNob1BdJ4J9DCdRtwYkiF9pcQci8p5Gx78Zb7YXVqhUUMbigs7VdlAojfpDexdEFDz0kVuuvOQ08ZzV9fXIGdKoI8avwyIRUXMeScUVUY0j7xRQhh4F/4AGl8LYdOWRprNii1Hl+oz9S0pZs0A=;GgY/6dUvRERqR/qB9dhN9A=="
 ---
 

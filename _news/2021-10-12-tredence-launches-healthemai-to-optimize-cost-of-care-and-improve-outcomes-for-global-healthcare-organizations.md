@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Tredence launches HealthEM.AI to optimize cost of care and improve outcomes for global healthcare organizations"
-excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI"
-publishedDateTime: 2021-10-12T07:30:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
+title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
+excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,"
+publishedDateTime: 2021-10-12T16:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
+webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 64
+heat: 74
+published: true
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/12/full/20211012101828.jpg"
-    width: 600
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg "
+    width: 823
+    height: 400
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 312
         isCached: true
 
-secured: "cKUORK3uwNzRO4d3wdKcmzyoX6QkL/rrCUf+jmDvFS71TKLr43D8bTCt9hVFPwqeZyHavFilC26irZSnfsOevFlsI4EzpMfYRmur0WVn4TaWqL351ggGz7jnOYTb2z44Ri+38SpYJJPD6hgaT3DE3kZPRXaH13gMPugV1hvtF01lzgZCasvvOOt5IwW6oJnUhwxLrttebia3LJLZZbpD9IQre2nfuooXgFZe8bKtiG3jba8vOvXJ1rHwEcUV0U2gdLtITwS+aPdu9avd7HnMod2vOm9vYCL2wcbyy1ykrUVsp7zHgtxPZ+38XkiuZ5pFWew/xwgYD5d5OGXAoUJO61i/8HcIvU16Jul6wA2XCNM=;kLhNqmiAELlct5wBqYPFvQ=="
+secured: "0gynHdkAYxOKLNfen3TNF7e5VPMCYnHxjwvghHg5bL14chHrLIRPgRY3WtWuYjgdbPVhkKgb9F6P0DKLKEtgC2LBKL0OyncfCy7ApIE9bg22TW+WYewCyJ5my1cIi2cfIl8wT4mvDU/KX3eUz4ap9cJXV6KOhlOW/JfJ9epUxIWdPR+KjmXNQ9QtVsAw+rVfRf3eY75npMFat5jqWMRRs7/Ywx3wss4EN5IEKmpzGa/k5e/cYhoCaO6IcRgLGQ99sSobf7QVN24A3o8mf5Jz3tVWd7vR+9o586FDgVzjKni+eAFJbPaL63pr61vMLLnDORm7+2TE84Z4H72eVgfrkkcuIm512TUvo7WkMNvDME0=;mf2nrMDVVlJjMAgGdIY6iA=="
 ---
 

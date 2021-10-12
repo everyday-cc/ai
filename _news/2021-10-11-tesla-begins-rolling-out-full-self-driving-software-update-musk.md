@@ -206,20 +206,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "See how Tesla’s ‘full self-driving’ mode works"
-    excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
-    publishedDateTime: 2021-10-08T00:52:00Z
-    webUrl: "https://kvia.com/news/2021/10/07/see-how-teslas-full-self-driving-mode-works/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2021/10/100721-HIKE-FORECAST-375x225.png"
-        width: 375
-        height: 225
-        isCached: true
   - title: "Tesla Rolls Out Full Self-Driving (FSD) Software Update"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software."
     publishedDateTime: 2021-10-11T15:35:00Z

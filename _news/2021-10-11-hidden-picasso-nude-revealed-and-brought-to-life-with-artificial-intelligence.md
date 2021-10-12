@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/inde
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists use AI, X-rays, and 3D printing to reveal a hidden Picasso"
+    excerpt: "Researchers from University College London used AI to recreate a Picasso painting that had been hidden under another artwork for 118 years."
+    publishedDateTime: 2021-10-12T17:33:00Z
+    webUrl: "https://thenextweb.com/news/ai-reveals-picasso-artwork-hidden-under-painting"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-1-2.jpg&signature=84a51c953aacda69e7e9ffc672013840"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "A Nude Portrait Hidden in a Picasso Painting Was Just Was Just Revealed by Artificial Intelligence"
     excerpt: "A nude figure has been found hiding beneath the oil paint of the Spanish artist’s The Blind Man’s Meal (1903). And we don’t have to wonder what the original work would have looked like thanks to the magic of AI technology."
     publishedDateTime: 2021-10-11T22:30:00Z

@@ -61,20 +61,6 @@ related:
         width: 620
         height: 381
         isCached: true
-  - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
-    excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."
-    publishedDateTime: 2021-10-08T01:01:00Z
-    webUrl: "https://www.xing.com/communities/posts/technology-segment-to-witness-the-ai-in-healthcare-market-significantly-from-2019-to-2030-1018512512"
-    type: article
-    provider:
-      name: XING
-      domain: xing.com
-    quality: 47
-    images:
-      - url: "https://swobj.xingassets.com/v1/communities/public-production/content_images/images/005/374/922/main/smart-robotic-artificial-intelligence-medical-set_81522-4748.jpg?temp_url_sig=c6b7267cc7e67978cedab3eedcd727ec1e33b608&temp_url_expires=1633701665"
-        width: 475
-        height: 267
-        isCached: true
 
 secured: "6MeivBje99x0zpJfmunkWkCrJm/AQ0QaSpg60AZc+W3cMiMbekNiuHL4M/TrwPornGr3I329UwBm5y8H4drlDoAZykwiT6RjKXUhxWPmt1zV+wxukLHA5ldXgWBXDU7COsbv+3NcMqTGlyLVuHkARjVnCyuZF3WgEwuR26GYG+3afNHZ1wgua+pftwalx/m4x7mOqUP3RUX5jbVvzXkboiHak9zNE91fs4z/6qsgB3vwWXU4jXgoYQD9NU2ld2o2KHhk4OQX/L9T8ThAiLMC8/1QUOLWZ0UZ1LjvwJgnnapBHa071fHC8nJ2TTceuoyoPHkndeV+syw/vYPSUA1BMYfk86EZEwlBpVpTuh0+283HCLrb32rLKAcPoJjYVeC4FN+L6ABl6kLS0mYis3zaFOxRWBUadNP4B4UaUHzz3ZEg6eC4Cq2Yd86mY45qW9AS+tUhfx/JXfqyUQit3WhrawfBTuNCUqCaM1rfm9Fe0SOlamHtcdOfdcuaRJ9Ccv4lMW3SAz2w2RSOIYFXsUH5zg==;oZkdW7Ar0WkReb1UuOyr4A=="
 ---

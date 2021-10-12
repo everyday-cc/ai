@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "How to increase customer loyalty? Lead with conversational AI in your customer experience."
+    excerpt: "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s"
+    publishedDateTime: 2021-10-12T12:00:49Z
+    webUrl: "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 109
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg"
+        width: 2001
+        height: 1007
+        isCached: true
   - title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with Its Conversational AI"
     excerpt: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with Its Conversational AI Yellow.ai's platform offe"
     publishedDateTime: 2021-10-12T12:42:00Z

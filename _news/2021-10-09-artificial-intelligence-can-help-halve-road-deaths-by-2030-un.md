@@ -103,6 +103,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial intelligence can help halve road deaths by 2030: UN"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-10T02:46:00Z
+    webUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "rumU1XjSkHTeKWcYc/AEP/OZAgshyTxE8M+ThJwHfgySZFDvKQk8LTS36DDtIs109pfa0bCSifL5JGu9svPHKZYMeBYj3IBDoLsDsPveWePaTOc6JW5HeAQ6FU4teSBlbpLKxpmccfTrEEvf5KS8l8kK2IpNid2DIQ9rOx4UGU9mKRogUCOUBT6kvFOmGd/GSF0soreJQOKH1m5cV0ZHfc4q8X5WcghfiYU1u1ZKHOhgdmeIW/uBmQhaHor8rrfM0GZfuDpQuoYU0LeBqETF9nmzflVC1jNNDbjr2ZXuLTDRQDLaHHkj7Bu8fqkjOFXLuflDYud1Dk2L9IeKSgOg5oFm77W7mN+huVdl1VQt1rE=;vZU0XWUiQj6BkL4Neo/UiA=="
 ---

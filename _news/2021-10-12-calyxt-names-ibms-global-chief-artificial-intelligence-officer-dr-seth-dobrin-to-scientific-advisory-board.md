@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Calyxt Names IBM's Global Chief Artificial Intelligence Officer, Dr. Seth Dobrin, to Scientific Advisory Board"
-excerpt: "Calyxt, Inc. (Nasdaq: CLXT), a plant-based synthetic biotechnology company, today announced the appointment of Seth Dobrin, Ph.D., to"
+excerpt: "PRNewswire/ -- (Nasdaq: CLXT), a plant-based synthetic biotechnology company, today announced the appointment of Seth Dobrin, Ph.D., to the Company's Scientific Advisory Board"
 publishedDateTime: 2021-10-12T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/calyxt-names-ibms-global-chief-artificial-intelligence-officer-dr-seth-dobrin-to-scientific-advisory-board-301397529.html"
-webUrl: "https://www.prnewswire.com/news-releases/calyxt-names-ibms-global-chief-artificial-intelligence-officer-dr-seth-dobrin-to-scientific-advisory-board-301397529.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/calyxt-names-ibms-global-chief-artificial-intelligence-officer-dr-seth-dobrin-to-scientific-advisory-board/article_4ea4ea8f-a477-583c-95c3-7c5c40ed243e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/calyxt-names-ibms-global-chief-artificial-intelligence-officer-dr-seth-dobrin-to-scientific-advisory-board/article_4ea4ea8f-a477-583c-95c3-7c5c40ed243e.html"
 type: article
-quality: 0
-heat: 0
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "17PbP7y2IqKahahLwpcXp7gefxTvizbAtRMzFXPaS9/AP/bGD1O3C2jAeMzcf4ntCNFMLiip1/sRoH93xiyRVU5HofyMrift7/siyN6vpOXSFkC639ahsmcVYPUXD/+xJ2nH1/JwNpoYHemWRo9t2iuHFJOSEEimc4xvsHG+eFZdp5oiZ4eVFeWe1MvWVZgwcaMJa8IFUci5STrc6Juw+DouK0m88c8on57BW3uuZrZh4DPqtYdtgOJh7SkU883S0+dxS29Qm1guW4cO26iVqOa0JcFh0OtlFIe/uuPFWM++VPI6BkfIf9/JZOWkJN8LxkKfKcCVP/SaaZVbiFMrTMU6MYZ99rcBqxVJy6vVc84=;UYnZhsdWEw/PANWfW8s6ag=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "yi5QXLNsr0gZUOpas/yo+5dwaf95me6kaN7ub/dX0rpgTb4TkmAr4kupx8KvexlyT/3A1qO+Q8Xoy5VvJmcAIyyRGNSH3xDlwYhUf8ftMNUMzhoioU0Zy3j+k4MIN/VrbquPQQ7vdJzlmhYEcavMYxdTIxGgYQ/B+zDXcuEpg5rzDVM9sNtojPEgwCa4AoVGCVzkx17AIZ6qbESrUsd3xGzXQrVqymxT89kHgyrr+Ee26CossAguGIOYB12plzuaQUo+jz7JZf+gSHoD1Idv7X44m4Go9GPwYMS1d7peVijprGTVVwWvNeTVCCZd7/ML477ZUNp8qK8SRfUVtco9uLm9IRxlTp03lpC+FMJ6lnw=;C2MARgZvyGaebd+Dxwv3DQ=="
 ---
 

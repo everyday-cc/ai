@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-07-face-recognition-software-launched.md",
+      "title": "Face Recognition Software launched",
+      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
+      "publishedDateTime": "2021-10-07T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.md",
+      "title": "GM-backed Cruise targets 1 million self-driving vehicles by 2030",
+      "excerpt": "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
+          "width": 810,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
+      "publishedDateTime": "2021-10-07T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-zf-invests-in-oxbotica-to-develop-autonomous-urban-shuttles.md",
       "title": "ZF invests in Oxbotica to develop autonomous urban shuttles",
       "excerpt": "German automotive industry supplier ZF Friedrichshafen AG will invest in British autonomous vehicle software startup Oxbotica to jointly develop driving systems for pod-like shuttles which will be able to transport people and goods.",
@@ -1155,111 +1250,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
-      "title": "Driving AI innovation in tandem with regulation",
-      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "publishedDateTime": "2021-10-06T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real.md",
-      "title": "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real",
-      "excerpt": "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg",
-          "width": 997,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
-      "publishedDateTime": "2021-10-06T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

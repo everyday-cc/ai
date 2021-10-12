@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Facebook’s moment of no return"
+    excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
+    publishedDateTime: 2021-10-12T17:07:00Z
+    webUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/"
+    ampWebUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/amp/"
+    cdnAmpWebUrl: "https://psuvanguard-com.cdn.ampproject.org/c/s/psuvanguard.com/facebooks-moment-of-no-return/amp/"
+    type: article
+    provider:
+      name: PSU Vanguard
+      domain: psuvanguard.com
+    quality: 44
+    images:
+      - url: "https://psuvanguard.com/wp-content/uploads/2021/10/AP_21278523584186.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
     publishedDateTime: 2021-10-08T07:38:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
+    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
+    publishedDateTime: 2021-10-12T17:52:00Z
+    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
+    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
+        isCached: true
   - title: "Streaming Asia: Would you hop in a self-driving taxi?"
     excerpt: "Would you trust a robot taxi? Residents of Shanghai are being offered the opportunity to hail a cab with no driver. AutoX is the latest company to offer free taxi services using self-driving cars in a small area of Shanghai as part of a trial to see if driverless cars can become a part of everyday life."
     publishedDateTime: 2021-10-09T12:28:00Z

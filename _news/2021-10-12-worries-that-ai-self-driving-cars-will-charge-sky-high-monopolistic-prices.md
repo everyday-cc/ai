@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
     excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
     publishedDateTime: 2021-10-11T14:30:00Z
@@ -120,6 +136,6 @@ related:
         height: 300
         isCached: true
 
-secured: "QGzJ9F1QhMYbiUTXy2jQcF931cLhxgwCeOvWiROWmV32dxFIMZkDqAITCN4brFSPQniypxinINDkKPmq8FjqnWh/ZxwSQVhq0EA2n2rsi7Zq+CyeC5WQfNGJ2oI7GZO6v1AB3Uigb8bBYN5M4ESOrvk9nlFuhPSCotV+tuwpfnetn1KBjT57wW+3q5GxmuI35ky/HzraV5QTZbMnHBZVwCIbcrnl/PVEsI+jqXLkcL8cHa5wdbL0ZkRkgi8MnbpXnMeCv/sq5RCX8ada1TUHgWbjIdJT7lQ7Ft3/GW8Ei62pXEkIdHqnTepFK689LvGXRvVsW89SIG8VmEu+3XSX7np8nVCizfh7EX5yvAZA7i0=;B9BmMOJXfei4Q8JeJyCn6g=="
+secured: "eQ+QcOe09T4IQ/Yr61sMSx1hoOPHdqNHzKo8DspnxlYs7nNdvcDaRRG8sa7btVEcn47Vm35XxpClOqFqzhSINDQLX3LVKXqyiYk/ZQNBUijzEfgmUwxNuPbzFxjEW+JUxXLV9U5vp4eGSQt42j+aY41bI94PqxRvFnUs6GL2qPYqgQvcI5+H2fWaQoZxXF+m/0AySWtjyrAyXDEn6gjq+qH+gYu/MXyRYkpb+W+egaHsjzvUpZI1xa29oRyQCMKP2vfAcxJ/PQs2tbqwV9zv9wEbVt8rdKoP6t5bD+MOzURlEjtB3JytWZO2k5fx0cU2wWSedwTcNfBh1UQiyRoYactFgI55ksuVcenMCcPzZj6QxodDOPcFwzzXp8HVBjtjQYvuScxt+oRO+1xMxqjZ7JB9f8gfTb04NYdEmoB9f6VXvvI0QdCRlcYpVqfkzeI7pIxKcbPiJ+tjVHllu2Iuwz7hyRwK3/rlTOeD4pyr3B5tVaBnldpTaRFI53ZXl5AxSsLnQIJ76+dUvfyzok6hXg==;ys4od8XNG/7NsEcyu4RcHw=="
 ---
 

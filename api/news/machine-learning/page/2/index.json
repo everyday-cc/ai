@@ -780,6 +780,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely.md",
+      "title": "Mammoth AI report says era of deep learning may fade, but that's unlikely",
+      "excerpt": "The era of deep learning began in 2006, when Geoffrey Hinton, a professor at the University of Toronto, who is one of the founders of that particular approach to artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eb09df3dfbcf667a8c95d0ca12a95b1369d4eca1/2021/09/28/59bf349e-44b1-443c-b760-c5f441a18292/ai100-2021-report-graphic.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "publishedDateTime": "2021-09-28T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
       "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
       "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
@@ -1391,50 +1443,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals.md",
-      "title": "Deep Learning in Computer Vision Market 2021 to 2027 To See Booming Ahead, Latest Study Reveals",
-      "excerpt": "The Latest research study released by Data Bridge Market Research “Deep Learning in Computer Vision Market” with 100+ pages of analysis on business Strategy taken up by key and emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/47147b97d23f91a99a112fb98d947fd877764fff-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

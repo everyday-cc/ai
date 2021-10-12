@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Attention-based deep neural network increases detection capability in sonar systems"
+    excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
+    publishedDateTime: 2021-10-12T16:33:00Z
+    webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Researchers aim to make identifying autism easier via artificial intelligence"
     excerpt: "Characterizing an autism patient’s behavior can be challenging, but West Virginia University researchers aim to make identification easier by conducting the first systematicYou have reached […]"
     publishedDateTime: 2021-10-10T21:35:00Z

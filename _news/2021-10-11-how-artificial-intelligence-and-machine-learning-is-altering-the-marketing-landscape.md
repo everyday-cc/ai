@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
     excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
     publishedDateTime: 2021-10-11T17:30:00Z

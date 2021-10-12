@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intell
 webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-Strategies-AI-Startups-Should-Follow-to-Become-Big-Tech-Companies.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Driving AI innovation through a National Research Cloud"
+    excerpt: "The NRC will provide affordable access to high-end computational resources, large-scale government datasets in a secure cloud environment and a close partnership between academia, government and industry."
+    publishedDateTime: 2021-10-12T16:32:00Z
+    webUrl: "https://gcn.com/articles/2021/10/12/national-research-cloud.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "RecWPvrMCXpg35gvzxBju8be20qsrK5QFqCGrQ+jSYquQHoUOLIt+lXXua2xxOe9D0wbLe3IlgVQzPfRsxbKyedUFeJEEJjzZg/J7SQ5Cy9h8ZUus1GLU6hPkOD91C0riWyb1DabQt0rh2ck+cEEaq8198kJq1egSEEHjYiXJ7bu5ik6Wc/B9psq1Mz2Iybo99UyCIWcQZMsUrSRDW9bpi3wVi6fzAyNv92V668et2omvuGBsxZjtQNiBYFDE4nqlzf4DH6u0vLmJSvauentNo8aeGMmeJpIMOtvZrlsLSiFLQLU3JXRzzYDWAxcnSf8j0DDrvHTheZQHu2suMGWmvqGA41kCZpIhYIkCkcg+YO+ji/GJgN5xF013FKLPFlEceoMT0f6UyZ1yx41BP6stTAN0LLD0+UwCB4+ETadGfBzhOrAxB3P1G0Ykv+40GuYz2KRylBOeNdQERZdE3o/62Kr5wA2/bn+htD4gjTHhH2Y6nMI5VrMwy3GodIcdiLI0CImt1ggc2ZhAoJOeoLsPw==;yf6YxytfRmA2FQexjQipgw=="

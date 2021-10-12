@@ -53,6 +53,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Driving AI innovation through a National Research Cloud"
+    excerpt: "The NRC will provide affordable access to high-end computational resources, large-scale government datasets in a secure cloud environment and a close partnership between academia, government and industry."
+    publishedDateTime: 2021-10-12T16:32:00Z
+    webUrl: "https://gcn.com/articles/2021/10/12/national-research-cloud.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "JFF1ZKjSh/2lNtaQSQskVkFzghfAQKeWA9ubdNLNjFjImNnG+f6Dqv3YtF4Rn+5VSGMol09XyVc0EWF90d+N9SUnadomqqVQyaYvSAMN0xgaybyf1pkfoqJ8TfwrKdOrPiyX187CgsnfLGinTpuMdK3UwytAj6na6NuE724McK3GR+u39ehr9+uQBJrMkybNEK+N7f+9sAaqEMGRU4kbgx8fAM2JHKTnnjzlgy5jItJhqtQ815GwLfUP/qYYdomvZhaCoJVau64Bp3ZKMXHiFhg/ZQM4xXXvxoUENnxYqIlizHv4mYVxThltsuhsGlzc1cU5bZseK8tmW1cmP4D1Rjc4573uYZCSLSQZbgebxvV720gMIwFeNXXdT4NdZrofSXNFRBHn2HM99Pj4yTsL5u6XI6xpI83YhP6Mwndl8QiKWl7RgiSV3yH9Fd1TDvX4CBE5ph/y9GkJT9BI1ptaH8ue69jW/+b5zJUOZe1rcQXm+pFXtjKwfFwhU9Z/gama8temy5r8gwvPMyj4tMDBzA==;wcvMNtuSpsil2ybakSCnAQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.cgtn.com/news/2021-10-09/Streaming-Asia-Would-you-hop
 webUrl: "https://news.cgtn.com/news/2021-10-09/Streaming-Asia-Would-you-hop-in-a-self-driving-taxi--14dQ3YwBsis/index.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
+    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
+    publishedDateTime: 2021-10-12T17:52:00Z
+    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
+    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
+        isCached: true
   - title: "Self-driving cars coming to Scottsdale - some day"
     excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
     publishedDateTime: 2021-10-11T11:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.khaleejtimes.com/world/americas/artificial-intelligenc
 webUrl: "https://news.un.org/en/story/2021/10/1102522"
 type: article
 quality: 136
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial intelligence can help halve road deaths by 2030: UN"
+    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
+    publishedDateTime: 2021-10-10T02:46:00Z
+    webUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "4cTMEtxIbyz9y7iwTVvgxYh+kw89PIA0qrWrSJWJhkVTylpO4jTE5LzaVtCcdayOdBRIXZp1Y8tg84zQiNEziN2r9PsdcAJ1YvNMMfwRANA1DUtOhtuk8rsmjGrBlYLT9YqfcE9nUpVb9l28kmttbM1N7mxvx9cPK/62feZ6rl/jQ/7IhkpTMXoiiqjoOUOTNNUS/tfb0yHnNnYFnl2JInCIESL0Z1lhIJSpJ3VRecOZVXZXYnFX2ZZ/hOzU511feeWv2dl4ccqHP31XQcsyPM3b8Ha6fNO19d46uAJVMTbAyjLgcTGV+mjGsJ1bdIHXmeyV/nJlK6DEVM610HVH2E9yTVK23mQgPCXAEV0AVZA=;p4eeaUXQmtxuVCgxd2uGwQ=="
 ---

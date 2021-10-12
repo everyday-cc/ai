@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-04-ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google.md",
+      "title": "AI in Social Media Market (New Release) Predicted to Hold a Huge Impact on Sales in 2021 – AWS , Facebook , Google",
+      "excerpt": "Pune, Maharashtra, India, September 4 2021 (Wiredrelease) MarketResearch.Biz –:Global AI in Social Media Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized and in-intensity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-new-release-predicted-to-hold-a-huge-impact-on-sales-in-2021-aws-facebook-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-open-source-powers-ai-yet-policymakers-havent-seemed-to-notice.md",
       "title": "Open source powers AI, yet policymakers haven't seemed to notice",
       "excerpt": "Commentary: Open source is driving AI policy without policymakers getting involved, argues a Brookings Institution briefing.",
@@ -1302,49 +1347,6 @@
       "provider": {
         "name": "The Arizona Republic",
         "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
-      "title": "Artificial intelligence in structural biology is here to stay",
-      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null
