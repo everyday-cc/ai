@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
         isCached: true
   - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
     excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."

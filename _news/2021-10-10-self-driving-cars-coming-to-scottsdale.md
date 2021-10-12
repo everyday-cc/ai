@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
-    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
-    publishedDateTime: 2021-10-07T18:30:00Z
-    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
-    type: article
-    provider:
-      name: GearJunkie
-      domain: gearjunkie.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-driving cars coming to Scottsdale - some day"
     excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
     publishedDateTime: 2021-10-11T11:55:00Z

@@ -57,20 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
   - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
     excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
     publishedDateTime: 2021-10-11T11:25:00Z

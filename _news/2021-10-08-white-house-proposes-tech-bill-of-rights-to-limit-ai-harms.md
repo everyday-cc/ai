@@ -59,7 +59,7 @@ related:
   - title: "A global AI bill of rights is desperately needed"
     excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
     publishedDateTime: 2021-10-11T16:35:00Z
-    webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
+    webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366?sharetype=blocked"
     ampWebUrl: "https://amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
     type: article

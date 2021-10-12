@@ -116,6 +116,20 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
+    excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
+    publishedDateTime: 2021-10-12T11:16:00Z
+    webUrl: "https://www.ibtimes.sg/pentagon-software-chief-resigns-saying-us-has-lost-china-cyber-warfare-ai-60697"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 32
+    images:
+      - url: "https://data.ibtimes.sg/en/full/52465/nicolas-chaillan.jpg"
+        width: 697
+        height: 367
+        isCached: true
   - title: "The Pentagon's first software chief RESIGNS in protest because the US has 'already lost' the AI war with China and is '20 years behind its technology'"
     excerpt: "The Pentagon's first ever chief software officer resigned last month in protest of the slow pace of technological advances in the military, claiming China is winning the Artificial Intelligence battle."
     publishedDateTime: 2021-10-11T15:10:00Z

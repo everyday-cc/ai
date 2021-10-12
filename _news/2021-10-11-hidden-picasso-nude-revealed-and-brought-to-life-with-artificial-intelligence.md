@@ -3,8 +3,8 @@ category: news
 title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
 excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
 publishedDateTime: 2021-10-11T16:02:00Z
-originalUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
-webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+originalUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+webUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 562
         isCached: true
 
-secured: "+eTL9bVsHd31g8yhGNT+cvcdHmHTI/UCa1gi1ri35aVK7tv0sVvfZpUrJbIEe6RWfrflhGiQEovQ7yfQF3vFvOjFRv7lwp5KkxxC33bYX5wmt2N1DakiOb96UsCnhtt/VI7EfH4kwTmtPjAPP/ZEUMp5szATnT4M/hQ/Z5BCtO8o4qPQVEYE0l1CxqyK2pUeKqd/lrvFbfek5ez0TBPJrhyeyyiM9eVrSvlACeFY8dWmgRxFlAOgVNPSz4d9xF2uz+/I9MsDViljT0lvqeqctehKJI5JRmiuJguNoc9kmpW33aCxBQ/8v1fmwIB+p4iPL414iWtZEh3T8UlbmswlB6EpEpjDywntOzz6pUtFfkjZaOhzpbYTW9WozW6IZsVwUC0CsjsFPxcP7E/6/uWrGeLCO3sw2405vYLVXrvq8q+qc8HSswz7+iht0AYtlYxOmtHUaUBYlAsvDpCBX+hLckPtPalbRoXgOXBL1Xe8kgzTt9jgkXzBgG9KZyvyEOX79KbB7LFror1KuTxxlha9oQ==;YVFnDi8cwify0F5uW/Dyag=="
+secured: "9atRQQoz5h+3XEJ6LdtSLyHBkj3aIj9CF9J2ZqDRehlfNBM5hul4PYESLtX+o0qJONF4RfVQa4BfXk64DQ7CFbK+2BLGkdoRoIDLFkNSbXQcUgMn+puey27F6EiqKDQ/WifQe2IY8MQVIqMeDBrLUC8IbP0RN/JCgslyvEdBm8morzMdLad9/YKDlemEQ0qWkKk16NFsaiKVicgdUM7FK88rMVA8WlmOpOy6m4RFKJK/yNYYikUD0N/9QB7DrDxkwGK88OaWrmwtFOigm3Axqv+VEiZ9PyF3OVscrltdZgEBqRtafgT3pif9XEGLD0lDtxJWthmNngTNkUNBDsy08/Zd9vA8p20xTIWpAzNlnyk=;WLlXtByhGAtlbR/xjVAg0Q=="
 ---
 

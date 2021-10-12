@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-    excerpt: "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime."
-    publishedDateTime: 2021-10-12T05:21:00Z
-    webUrl: "https://www.just-style.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
+    excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"
+    publishedDateTime: 2021-10-12T05:23:00Z
+    webUrl: "https://www.packaging-gateway.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 32
+      name: Packaging Gateway
+      domain: packaging-gateway.com
+    quality: 34
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1602197377.jpg"
+      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/10/shutterstock_1602197377.jpg"
         width: 500
         height: 286
         isCached: true

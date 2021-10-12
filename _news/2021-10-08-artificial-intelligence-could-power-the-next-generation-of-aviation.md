@@ -18,20 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Time Is Ripe For Responsible AI In Aviation"
-    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
-    publishedDateTime: 2021-10-08T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
+  - title: "Dozen PSUs on the block after AI privatisation"
+    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
+    publishedDateTime: 2021-10-10T19:44:00Z
+    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 37
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
-        width: 1600
-        height: 1064
+      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
+        width: 600
+        height: 350
         isCached: true
+  - title: "Lab Notes: A Pennovation Lab lease deal, an Proscia AI advancement, a cell therapy collaboration and more"
+    excerpt: "Lab Notes has s Pennovation Lab lease deal, an artificial intelligence advancement, a cell therapy collaboration and more."
+    publishedDateTime: 2021-10-08T17:06:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2021/10/08/lab-notes-interius-proscia-century-therapeutics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "mmQkkVccJxqiQWe2akhbkhX1ZujD3nl386ii1XFLnwVV/Em1SGVGEiceFT0LNz+uZmiK9sIS/XCPne8DG3R7sSYiZO1EgpRKYhm83X/9h9CcPp08fu+3fIM4r4bAJtDCX4I5z8DBpkzlLpgd/SvvKGcUTDikfI4C4PLBUhpJTJQMgNCg+cdm0N00F104ih+gaQ5KNWfSne8E4MoCZl9dUVONokEvKlYuirfJL+44uQsQGLMwN+Tsvo1hPN1c1W0s+tbhlg8y0nmWyX9EXvNYZ9yIbjrX5ODITKAppHr0gNX2OLDMOfRzgSgL7LA8FBuaauKCzjW5pB/a3199jyjyAuwkP90yTH16XNa4TfgbbxMXQtm07/aXPpEg3GrH/kzmMMwrSKuNA2bhABS9Nl4iY8E+XIKY2so/J8Q+8EHZ25TFKsVYys881POcX1pHTRs98oyAOiFaXYHnI/aEx8anb0KLPdmj0mBTdDbYJ7yi7REMKsjBhVssAY9NIJ9vRuJbF2rGxL47QJGHxlM7sPd56A==;MFKQJcK9mLKvFEt13aSo5g=="
 ---

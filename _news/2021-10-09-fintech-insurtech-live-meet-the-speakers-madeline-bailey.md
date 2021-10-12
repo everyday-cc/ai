@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtec
 webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-meet-speakers-madeline-bailey"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
-    publishedDateTime: 2021-10-11T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
+  - title: "Fintech Ecosystems — Some Assembly Required"
+    excerpt: "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive."
+    publishedDateTime: 2021-10-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Jn9a1CMOs8ySjDDZO0gu2p4qfkn2aXIxUpnGn22Cb06tHF74elK88UZZfIlrhlhLzNKMwrxxA3Hwic1RB3HKg+17glhVGsKL0/41Q1YPGMEdsKDsqQSsQIH9VVD+Wxj5x5Jt6SolL7agDElkX7kww+sHrxZuDwa7h2z6W5olAheM+No3gb5RoTRfOvmXsJOYFRlPTzGe/5Hr9qtxUx2f49JEZnEL/MhvgtlDac7aE0MFMYFFqSK5A/rqOa9ifKLscIlepQJ25fsgdYDk9NUf24/iDWWpnJvsaGEf5VyZbIFRhJ6bntkvRiKH7tWw0Sg3UzQlNkMchnkw5pRIoF6MZ4NO1YhEEHny1mgtdKFvmY8BGiCQzbXWmvgu3xMul8ZPRuVcdG0Db7gG3EaMvMx4FJL6c7CxTZ+GXwCgUmhdGEkgWLaKuJgHjX2crFimCiwLga4idMr+63sdC1ovoLNIq/AeHMGWmJttX59JV3XEgSmIShyjVjTU5dmEEdyCjGW2FmAoOhQYXAZIxMe31pnlcg==;vx0PWKf9SVxUbZLAKropOQ=="
 ---

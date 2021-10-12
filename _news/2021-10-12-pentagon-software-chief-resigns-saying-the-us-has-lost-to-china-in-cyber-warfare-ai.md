@@ -1,0 +1,153 @@
+---
+category: news
+title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
+excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
+publishedDateTime: 2021-10-12T11:16:00Z
+originalUrl: "https://www.ibtimes.sg/pentagon-software-chief-resigns-saying-us-has-lost-china-cyber-warfare-ai-60697"
+webUrl: "https://www.ibtimes.sg/pentagon-software-chief-resigns-saying-us-has-lost-china-cyber-warfare-ai-60697"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: Ellen
+  domain: ibtimes.sg
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://data.ibtimes.sg/en/full/52465/nicolas-chaillan.jpg"
+    width: 697
+    height: 367
+    isCached: true
+
+related:
+  - title: "US already lost AI battle to China: Pentagon's ex-software chief"
+    excerpt: "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances"
+    publishedDateTime: 2021-10-11T07:15:00Z
+    webUrl: "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief"
+    ampWebUrl: "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
+  - title: "US lost AI battle to China: Pentagon ex-software chief"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
+    publishedDateTime: 2021-10-11T07:36:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/10/11/ai.jpg?itok=scTHWYB6"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "China has won AI battle with US: Pentagon's ex-software chief"
+    excerpt: "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,"
+    publishedDateTime: 2021-10-11T15:54:00Z
+    webUrl: "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/11_mon/img_1633964411381_404.jpg?"
+        width: 728
+        height: 485
+        isCached: true
+  - title: "Chinese firms have won AI battle with US, Pentagon's ex-software chief says"
+    excerpt: "Chinese firms, Chaillan said, were obliged to work with their government and were making 'massive investment' in AI without regard to ethics."
+    publishedDateTime: 2021-10-11T14:36:00Z
+    webUrl: "https://www.standardmedia.co.ke/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
+    ampWebUrl: "https://www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
+    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
+    type: article
+    provider:
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 57
+    images:
+      - url: "https://cdn.standardmedia.co.ke/images/monday/chinese_firms_have_w61644d182012a.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "United States has lost AI battle to China"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief said."
+    publishedDateTime: 2021-10-11T09:02:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDuEq2x0ZPLReFmZA03SXyeE%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 39
+    images:
+      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/7-eac85750-2f5d-4647-8619-ee3a0b614b10.jpeg"
+        width: 740
+        height: 453
+        isCached: true
+  - title: "US loses AI battle to China, expert says"
+    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief says."
+    publishedDateTime: 2021-10-11T06:03:00Z
+    webUrl: "https://thebull.com.au/us-loses-ai-battle-to-china-expert-says/"
+    type: article
+    provider:
+      name: The bull
+      domain: thebull.com.au
+    quality: 39
+    images:
+      - url: "https://thebull.com.au/wp-content/uploads/2020/05/china-us-flag.jpg"
+        width: 512
+        height: 337
+        isCached: true
+  - title: "China has won AI battle with US"
+    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
+    publishedDateTime: 2021-10-12T01:07:00Z
+    webUrl: "https://www.itnews.com.au/news/china-has-won-ai-battle-with-us-571102"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg"
+        width: 690
+        height: 428
+        isCached: true
+  - title: "The Pentagon's first software chief RESIGNS in protest because the US has 'already lost' the AI war with China and is '20 years behind its technology'"
+    excerpt: "The Pentagon's first ever chief software officer resigned last month in protest of the slow pace of technological advances in the military, claiming China is winning the Artificial Intelligence battle."
+    publishedDateTime: 2021-10-11T15:10:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10079319/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10079319/amp/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10079319/amp/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 19
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/11/16/49029765-0-image-a-7_1633965039015.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "8C4TQU/qtW+d1wfIlKzoD22x7TBXecrjRsIjmm9GsKhF/pyeWF3HgGdRpVOrjkqBle1yDr0TxevJLAx3fxdp29Sxb2Orjq0gQ4ujV/EWa2TXQUrl60Zi0WuEXCKFkyj7eGjwrzUQ6pVbPicDIH148uMOTAcwXbCuuJ9fFpWosiUzMtXBRevfzg2r14JqlO0fjwuLX+d99olW5bu9nsI/YsK6zEZbiZEYmRJ9FKgOZpa8UbPtlKKmP1pIowuufJU2qxfBcPG8CcmPb49USQujgdRqLxJZ/5Q36e0a71598I9BmkQUSofqXiugeR0wqf8MQ7PVZlKP3HjiRHxKsB71MxNp3HUtiRECHXUbv9eMaQQ=;3aqO34Lqoeubq98sIg1/gw=="
+---
+

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scale AI launches rapid data-labeling service"
-    excerpt: "Scale has launched a data-labeling service it says enables rapid and accurate results for companies building AI models."
-    publishedDateTime: 2021-10-07T18:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/"
-    ampWebUrl: "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/"
+  - title: "Tredence launches HealthEM.AI to optimize cost of care and improve outcomes for global healthcare organizations"
+    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI"
+    publishedDateTime: 2021-10-12T07:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all"
-        width: 800
-        height: 400
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/12/full/20211012101828.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "qU4rT7kBg43zZTvOdaCuuNV87+izMioIrjNtAnqEBQcJzQ5peIIBSKLQs5X6ZRyBqTlVmT3QQJIGlKEdBM4IS9MJuHfuznC8yF4go5TtgWQgXqhDQHmzHy/6LaKvr0sSmZ0k6gSOSavOtzOfFDrvpTCtgr3tizoM4Yc8BiEwPHIzNQ8QagrIpXyW80IHcsR6j6Ij6xBpkjNXSxTab2OTUZ7XHN+BV7GHifQtbqBVXKJGRhtUhWUGyvHebuzGZrF0yvYt120KroEduZb/5BaNXIughbKcBo/G2IYpPqk9CSw9UDo5glTSkAuRtos3CphDhmqfu97/c6vTJdmb45aI14qBDdMNRhXVrFgqpnqWh1M=;SRW92SuKNe92/uEeX/jFJA=="

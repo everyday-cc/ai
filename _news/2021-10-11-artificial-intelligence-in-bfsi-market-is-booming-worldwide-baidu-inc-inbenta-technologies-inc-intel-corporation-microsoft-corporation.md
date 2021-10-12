@@ -21,6 +21,17 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Wearable AI Market Size, Growth and Key Manufacturers – Fitbit Inc., Apple Inc., Sony, Google LLC, Samsung, Microsoft Corporation"
+    excerpt: "The Wearable AI Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
+    publishedDateTime: 2021-10-09T10:28:00Z
+    webUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/"
+    ampWebUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
   - title: "Artificial Intelligence (AI) in Mining Market Is Booming Worldwide: Rio Tinto, Infosys, Goldspot Discoveries Inc., Drone Deploy"
     excerpt: "Artificial Intelligence AI in Mining Market research report endows with wide ranging statistical analysis of the market s continuous developments capacity production production value cost profit supply demand and import export Moreover businesses can apply the information included in this"
     publishedDateTime: 2021-10-11T15:29:00Z

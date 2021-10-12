@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
         width: 800
         height: 598
+        isCached: true
+  - title: "Microsoft and Nvidia join up to train massive AI-powered language model"
+    excerpt: "The new model has 105 layers and 530bn parameters, but Microsoft and Nvidia said that bias is still a problem for the system."
+    publishedDateTime: 2021-10-12T11:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/microsoft-nvidia-language-model-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/10/natural-language-processor.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"

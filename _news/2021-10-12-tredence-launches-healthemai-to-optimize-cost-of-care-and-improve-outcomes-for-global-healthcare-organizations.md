@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/tre
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-121101200633_1.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Mount Sinai launches department of artificial intelligence and human health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
+    publishedDateTime: 2021-10-11T19:44:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/mount-sinai-launches-department-artificial-intelligence-and-human-health"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 52
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
+        isCached: true
 
 secured: "cKUORK3uwNzRO4d3wdKcmzyoX6QkL/rrCUf+jmDvFS71TKLr43D8bTCt9hVFPwqeZyHavFilC26irZSnfsOevFlsI4EzpMfYRmur0WVn4TaWqL351ggGz7jnOYTb2z44Ri+38SpYJJPD6hgaT3DE3kZPRXaH13gMPugV1hvtF01lzgZCasvvOOt5IwW6oJnUhwxLrttebia3LJLZZbpD9IQre2nfuooXgFZe8bKtiG3jba8vOvXJ1rHwEcUV0U2gdLtITwS+aPdu9avd7HnMod2vOm9vYCL2wcbyy1ykrUVsp7zHgtxPZ+38XkiuZ5pFWew/xwgYD5d5OGXAoUJO61i/8HcIvU16Jul6wA2XCNM=;kLhNqmiAELlct5wBqYPFvQ=="
 ---

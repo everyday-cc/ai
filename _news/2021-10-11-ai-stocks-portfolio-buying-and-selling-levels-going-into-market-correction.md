@@ -71,20 +71,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Federal Government Spending on AI is Accelerating"
-    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
-    publishedDateTime: 2021-10-07T18:11:00Z
-    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
-        width: 550
-        height: 352
-        isCached: true
   - title: "Apple Admits It’s Working on Self-Driving Car Technology"
     excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
     publishedDateTime: 2021-10-09T06:41:00Z

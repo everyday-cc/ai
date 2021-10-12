@@ -1,25 +1,26 @@
 ---
 category: news
 title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-excerpt: "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime."
-publishedDateTime: 2021-10-12T05:21:00Z
-originalUrl: "https://www.just-style.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
-webUrl: "https://www.just-style.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
+excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"
+publishedDateTime: 2021-10-12T05:23:00Z
+originalUrl: "https://www.packaging-gateway.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
+webUrl: "https://www.packaging-gateway.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Packaging Gateway
+  domain: packaging-gateway.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1602197377.jpg"
+  - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/10/shutterstock_1602197377.jpg"
     width: 500
     height: 286
     isCached: true
@@ -40,6 +41,6 @@ related:
         height: 334
         isCached: true
 
-secured: "9/dLLf/fgRxEEUNmitnf0YWf7t+oyCeAovMGooKUHKwf9Lhvb3QfPYDIwdSsF+fqirYfjhfvDD1+m/0MbBCO66opWEddQfGGzLZ5JmAlMxm8rlmkfWIYX1U53Bt0sbICDOds97WQrHKr3Uj861qUtwQfKNlhpnH2vxp37kPQ4MpBWjlZ5SZ5eJwQizSsvuJoJMRnfAmlG89vUL8XWk0rVA8AuGQ1r5mJLi+sKfFjO0kqBFVfh9IZKy9SBGc0JfXrQUD+K2e7p2f8aUeziaXyn1T13A0OZ47VLzc/AdPThOspoMdIOqnW4/Tr/XYtblHODGwcB7CT2ayPYhFOHtv8+SWXd37q5e5KR9CX50wILRw=;FKCO//5TPrnSmAhi9vkiew=="
+secured: "3BUK9Y0QRw6A1Y2OfN9mDBBe+Oeb+H5s22X1Msh7iCgSci1JhceEBXJF95gpXGKfcVDxVyDFgKis+gcuoOAlNVBYcGdlkrt/tkTeLoCKTtlNnIKGecEW1m1p3FVuKzNmmR55GElZKhZCzvDkbiTby3UYjskYD9/k8gIQepoAMqClTZ+ko/eJtK2GSoHnFd1noHrVDKRN1MYaWB9x/eQmHKdGrwYmaUptZ/kpAzU38GLF+8DVF+7sS9B1XbDLvf05+ZM9M6d+i/QeFvUVGylZqGiybgWbnFOdVdSYy0rIkadXglj8Hi7BymDR1JChHah8oP5w13g4zEiZaZiKx6doFfQQJhKKYnR8Y8R9BVuDrtk=;A3heJRc1MEYaWvgNBsmshQ=="
 ---
 

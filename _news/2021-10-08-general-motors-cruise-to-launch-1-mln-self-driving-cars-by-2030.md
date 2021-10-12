@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-ml
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
-    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
-    publishedDateTime: 2021-10-07T18:30:00Z
-    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
-    type: article
-    provider:
-      name: GearJunkie
-      domain: gearjunkie.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-driving cars coming to Scottsdale"
     excerpt: "A utonomous cars are coming to Scottsdale. General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, according to Mayor David Ortega."
     publishedDateTime: 2021-10-10T08:00:00Z
