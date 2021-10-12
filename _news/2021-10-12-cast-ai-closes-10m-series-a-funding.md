@@ -35,6 +35,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 26
+  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
+    excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
+    publishedDateTime: 2021-10-12T20:16:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "BzrKywfRdrgc9m18akwAKAK12mrYc9+nWB0/jk1YON4BvqswViUjBgi6fSm6yCxa4DW2u/FekO6IxOK0DAmRZn8QfKYCXX9eu/HtVRYrAWhBJZAs2QwZao2w4nd2uIzf04++BtHaJhs89F156CfINb2PFhifccHY1HYaZYsZnZbfGzRAem11wj11y1Lsf/iq57TARj2YudVUwbJrd9kCRUh3h+Rfv84X0aOofLYooxMBHAHEoZuloO2nPirSmVaLTxy3BkB5lA88a32332LhTXRXEo2i2HvxjsX0TjJH8gOVQbL3Lbxq7m8KN4Sf0OwZe7uqXl6HCK9Bxxelr4N0tO6i5qd0d8y5MbQhAZjTM+k=;512Yu0ffZwKk9VunJnh5hQ=="
 ---

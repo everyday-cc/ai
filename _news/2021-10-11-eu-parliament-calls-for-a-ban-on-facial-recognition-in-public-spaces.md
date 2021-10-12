@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
-    excerpt: "East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan area to detect suspicious people."
-    publishedDateTime: 2021-10-08T04:36:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14456292"
-    type: article
-    provider:
-      name: asahi.com
-      domain: asahi.com
-    quality: 39
-    images:
-      - url: "https://p.potaufeu.asahi.com/1fc2-p/picture/26409728/12d3330251bcbabbe9f42ef7c07b84e0.jpg"
-        width: 660
-        height: 381
-        isCached: true
   - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
     excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
     publishedDateTime: 2021-10-11T08:37:00Z

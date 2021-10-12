@@ -1,32 +1,48 @@
 ---
 category: news
 title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-publishedDateTime: 2021-10-08T10:49:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-webUrl: "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171"
+excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
+publishedDateTime: 2021-10-08T15:50:00Z
+originalUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Edwardsville Intelligencer
+  domain: theintelligencer.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
+  - title: "Nissan’s “Intelligent Plant” Is Almost Entirely Run by Robots. Will Other Automakers Follow Suit?"
+    excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. \"Up to now, people had to make production adjustments through experience,"
+    publishedDateTime: 2021-10-12T21:00:00Z
+    webUrl: "https://altdriver.com/gearhead/ap-nissan-intelligent-factory/"
+    ampWebUrl: "https://altdriver.com/gearhead/ap-nissan-intelligent-factory/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-nissan-intelligent-factory/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 46
+    images:
+      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Nissan plant heavy on robots"
     excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
     publishedDateTime: 2021-10-09T06:45:00Z
@@ -95,6 +111,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "arQAkW8fWPn/zzCLifv6nTHzSOR5SNIJqvhf8RhHFnhhVp+4kpe0GUVPgAGAtyh6KaN5iArxx/C/xPRa7eamqapp8SMtRjYLS/UnyZAU5FnuwdU1Ab+NR1qWAmDfsF/tAbEoWnuqfUnTQ8DsjbaxCg1xyvabm/3JRZnBSnqOSDEbe3p8rlPc0TCHn70jMXkYGU5sQuZ66JQoJSipshVL4gvkoY+cNlt9/7ahkSJKtANhzxAfmyItMMFVkWpLkudegZA9kHQABckMNMRtXBGLBdmFEL4oG3pAnpA8QQ0FU8FCW3O6P1YwyLEUfiJWQ1cX2LlQBw5hyx+XYVLPaG6vOJQRmMDkfutu2r2jcR4Of/8=;EPQ034KB0IsSnn2qGScjHg=="
+secured: "VRtdBFkZbaBKB2NP6l/XdkgtEJeQV+HWgQ4qdhgE71wq6PxLlVjmpEoYh6Fd+JFt8epQUJ1UVfO1M1rf2xmOG+dJ/Jy7v/9w2e0kdsA09IDnRznhmaykPTkC6ZsJ6KG0DQtFBtVIVSPyAx2bw4eP//unu4ZsEhAeOHPt7Co8HsWEL3EN3vNbZyYjizPrG/kMf1qscFskmF37s109n3VbVAaPkGQzUYoESWGPjttZhnOXFlI84DYLafHCHZlqRkml1iysY0ZVTszODX/uabZEnSKR/72SyrFNg0nfpbGnEW2EI2OvI9Uei+ByJ84A0yYJjHdB1noH4JS5nZqsdRqr7uxG8NqgRAEJNgkWZZfaYf8=;iF+dUn96+ZwFQtAyYdk8rQ=="
 ---
 

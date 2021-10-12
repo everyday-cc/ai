@@ -41,20 +41,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Using AI in Healthcare to Improve Care Delivery Models"
-    excerpt: "Artificial intelligence (AI) has remodeled many industries around the globe, and the field of healthcare is no different. Healthcare providers now realize the benefits technology is offering to them."
-    publishedDateTime: 2021-10-08T05:35:00Z
-    webUrl: "https://www.cioapplications.com/news/using-ai-in-healthcare-to-improve-care-delivery-models-nid-8668.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/uploaded_images/magazine_img/tk832cioapplications300x400123.jpg"
-        width: 300
-        height: 400
-        isCached: true
 
 secured: "P7GbXVWpHOGcgKlVLP0I/hQbjxUy6+yQS8w7Wd2EncqHBqQTsI/qL6JsfvD0Er4ToEbe9zHpOtluabYjEtG6JS/yFYW5xfjUI4YKmX5oumOOfvz/Ze4Dv0LP7+MCGLTQtmIUq+YeahWh6wiCMCVdwe18imT1K/qZbcPZBqOpwj86eNqJ/16oTVP2KUquTuN9kPPL7pvZszupdtaaFNldqNphAR07zQqfSNhI+AF2gasgbxEct1lMI69BqrYaEDX48VTWIRuo5VQZZxKf7qJl2TBjX9sQq2xZH9739AeBkUj1pDafMZQJi0BO+gFwYKpMgDcck4lMpHR04Wkn+0/KkUCwvVbJvGEdmho5H89b04L1h+xRu33X1sCg6mwuDEFqHtSjmUyVb6he0En7az5uzMjXQwIz4jB1giE5ThKXU+RfI8Zog7q9w7Ly6aQJlunUGhrB/XL2P50a+q0SMykxGnNCWHFyGftpUCEK56mPIxcUnVe2owvjIRC83LAvB4fyh5eRDFsh4I/0YXLKzwgQrA==;rTxPIyqnXmoJliLBX4W5gA=="
 ---

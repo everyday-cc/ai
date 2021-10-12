@@ -2,19 +2,24 @@
 category: news
 title: "IBM and Raytheon Technologies to Collaborate on Artificial Intelligence, Cryptography and Quantum Technologies"
 excerpt: "IBM (NYSE: IBM) and Raytheon Technologies (NYSE: RTX) will jointly develop advanced artificial intelligence, cryptographic and quantum solutions for the aerospace, defense and intelligence industries,"
-publishedDateTime: 2021-10-11T14:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ibm-raytheon-technologies-collaborate-artificial-intelligence-cryptography-quant-/2021/10/11/9466668.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ibm-raytheon-technologies-collaborate-artificial-intelligence-cryptography-quant-/2021/10/11/9466668.htm"
+publishedDateTime: 2021-10-11T14:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies-1030856332"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies-1030856332"
 type: article
-quality: 17
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -41,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Rb14Qr6AFX1uwUyUZ0/5kBeH6227Gpo8xMNiU3i/yu++jOjnAll8evjaakmih3UxeQIAUlgYo4BbWZpg6COjPp+wERq/Cx2OzrXOpr/opW3hOZ/lshJfbaw3WrHqi9iMd+r9ipaJq1UEG1nkDWMAXrzo6imDo5IS0mb3OrlYUfyiGaXUBbtii4CzIVTDk/kzI7v3ZM9A8sWNphcTl8todCLAPIWYOFIXxzHI1rx3Jo/FC6JBRZU3bhP/tKdU8w61jwgcCaZbnxpWa4nRB4gaFsOgFxb4f/Vz0aJNAdVgN6PgRKHP6adIuSYUI5R/YpL4sNJizRDWdVK+0lF/cB2rPJnDSQC2hrpKzKByRTeTlyY=;lkR8p9TgoWTnYIPvE0s+IQ=="
+secured: "Ct9oMPAjwJ62RP80zxxRNKSe67nd+0jmFC2paLDClmRU9omyPa2+C4AZDrRnY2Pz+7KZt/6RxmhIVxjIcV8isRfjN6n3wqoKYxJA8DTNrzyhWfa9A2D6CEZ7hMRbW1mX0yoox1Di2P5Quleo0y+E7q0h2iUTOC454gNSNItgedYv1vCBHW1+652cwTcTUvNAMy3jiX9zckBPbZYYbahqzrYsq7LgRA2Wgaw6PYcVgBHt/RPZDIfrj2N9o92aCq5R8XAD9OsyO1ssbA1Ey71onFdPpnoKKYqFxgDk7rD47yKUyLd5d9NACckbc/2ustiUSTMx6q6QzYbJGNaxRMBXuONHJVQF8EEaTaDbufEWdCc=;tgre59lubNm+mowpB00HYg=="
 ---
 

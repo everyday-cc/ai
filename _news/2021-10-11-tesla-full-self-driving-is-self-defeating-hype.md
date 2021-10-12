@@ -179,6 +179,15 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
+    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous"
+    publishedDateTime: 2021-10-12T21:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-1030860563"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
     publishedDateTime: 2021-10-11T14:05:00Z

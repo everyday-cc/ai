@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delta Air Lines expands facial recognition in Atlanta"
-    excerpt: "The facial recognition equipment will first be in Atlanta's South Security Checkpoint in the next few weeks. ATLANTA — Delta Air Lines announced Thursday it's expanding its digital identity experience in Atlanta."
-    publishedDateTime: 2021-10-08T03:39:00Z
-    webUrl: "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    ampWebUrl: "https://www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 74
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/06a84961-1446-427e-9a57-9ea94a4aeda6/06a84961-1446-427e-9a57-9ea94a4aeda6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta"
     excerpt: "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the"
     publishedDateTime: 2021-10-09T14:20:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-12T17:38:00Z
 originalUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
 webUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Hailo.png"
@@ -141,6 +142,6 @@ related:
       domain: prnewswire.com
     quality: 20
 
-secured: "9a2E+t+grFYs1zeBk126eJ/irNPjNFJHDzG6oYmQdKsMokoQlrkleXJPflcecwhdN1gBH3PXbwNPSgNKVp52rDQjinsrRfoBe4mbOrL9yVSzi9sGLAPcDgSfqsQXOXRO1k5nZRqVXI4KNyPwpqCyh3HFNVkGhCUQQLhrr/bnmuyeoo26rJZzdU2Oec4FX1Z/2gF9DnqJrBguuN5JVAxqs1V5PU4BsECIktqEvE4es9EEf/RMeMx+51sS52qgCAzMZG9GC3Uj6tumM/M7ImnN7wJY6WQOqMtRzmwS4Qmyqa4gFziuXB3C15XLGLRuFVyKt6/pYQ6GAZDi8fkLrMveo2ECOpM+jd8L64lmVxMcm4c=;pvTzzAeOgxvA/ZjkwQ81Bw=="
+secured: "6gkcNuCf5FdTfrrS+hf/7lKEiOR1Ov2W4OGbXOJ+zXt9H+Al8ViyA/1cJTj/Tk8rhNS/KxqmMds3sXLUBuytC3cP1gQZ1MJTB1h4FAFrY+Ev1obOjgkCuPlpQxZCqXlYgbu7N9yOyrRFzbeb3qytyxiAOEnbl0L13Det2GvKpZ1a+/KV59yWz9bRv71HYBmkR9GpYu626GcyG8Ps7JrvZRNPcOG9GO/FuvGurWKjIcj5dg/z8YJMLd1yajTTAhs5pRw0mIQlR7gMoJXBi98x9OJv1RW+PWNsL4qjvYLhOc1ZLmWI6K8KAbr0gLn4jb3Ts+Z3JXxaZRXYNporoYvMlfRB58kQGLsGz/zahO6sWaA3dgSiDPRTdx2kI+mLazkRR2xNGAI5OT3pJ0BNqqXa37t4CqVQjw/aIi1um6gA7SIHhkgbpdEHEDuwUwr45NIlTz8uOIIgzpuTK1L6yH7cHB/g3+ZV8s0ie9anHHoZ6ytwElryC+ADtCzy32t6HblPq5Eh0B7TEeMFDLqst3hFzw==;iuyPGiX5Op7KSVQY7tapGQ=="
 ---
 

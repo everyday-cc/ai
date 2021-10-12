@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "No-code AI analytics may soon automate data science jobs"
+    excerpt: "Exclusive SparkBeyond Discovery lets analysts use AI to auto generate new answers to business problems without requiring coding."
+    publishedDateTime: 2021-10-12T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "Leveraging AI & analytics to build the shoppers of future"
     excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
     publishedDateTime: 2021-10-11T06:46:00Z

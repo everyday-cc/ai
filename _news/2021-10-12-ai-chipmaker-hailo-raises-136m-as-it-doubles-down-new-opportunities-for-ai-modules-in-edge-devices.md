@@ -79,6 +79,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Hailo reels in $136M for its ultrafast edge AI chip"
+    excerpt: "Artificial intelligence chip startup Hailo Technologies Ltd. today announced that it has closed a $136 million funding round to expand go-to-market operations and improve its technology. The round was led by Poalim Equity and Gil Agmon."
+    publishedDateTime: 2021-10-12T17:38:00Z
+    webUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Hailo.png"
+        width: 990
+        height: 555
+        isCached: true
   - title: "Hailo Claims Record AI Chip Venture Round with $136M Series C"
     excerpt: "Artificial intelligence chipmaker Hailo today announced it has raised$136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The company said the round brings Hailo’s total funding to $224 million and will be used to further develop the Hailo-8 AI Processor for Edge Devices and for expansion into new and"
     publishedDateTime: 2021-10-12T13:28:00Z
@@ -120,20 +134,6 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1634032062/direct/%D7%AA%D7%9E%D7%95%D7%A0%D7%94-_%D7%A6%D7%95%D7%95%D7%AA_%D7%A2%D7%95%D7%91%D7%93%D7%99_Hailo_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C_t5cffp.jpg"
         width: 800
         height: 392
-        isCached: true
-  - title: "Hailo reels in $136M for its ultrafast edge AI chip"
-    excerpt: "Artificial intelligence chip startup Hailo Technologies Ltd. today announced that it has closed a $136 million funding round to expand go-to-market operations and improve its technology. The round was led by Poalim Equity and Gil Agmon."
-    publishedDateTime: 2021-10-12T17:38:00Z
-    webUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Hailo.png"
-        width: 990
-        height: 555
         isCached: true
   - title: "Leading AI Chipmaker Hailo Raises $136 Million to Expand Edge AI Solutions as Global Demand Surges"
     excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $136 million in a Series C funding round led by"

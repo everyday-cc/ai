@@ -9,8 +9,8 @@ ampWebUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Simple Flying
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delta Air Lines expands facial recognition in Atlanta"
-    excerpt: "The facial recognition equipment will first be in Atlanta's South Security Checkpoint in the next few weeks. ATLANTA — Delta Air Lines announced Thursday it's expanding its digital identity experience in Atlanta."
-    publishedDateTime: 2021-10-08T03:39:00Z
-    webUrl: "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    ampWebUrl: "https://www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 74
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/06a84961-1446-427e-9a57-9ea94a4aeda6/06a84961-1446-427e-9a57-9ea94a4aeda6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Delta to expand facial recognition at Atlanta airport"
     excerpt: "Delta Air Lines plans to soon begin using facial recognition in the domestic terminal at Hartsfield-Jackson Atlanta International Airport, allowing passengers who qualify to go through security and board their flights without showing identification or boarding passes."
     publishedDateTime: 2021-10-08T21:50:00Z

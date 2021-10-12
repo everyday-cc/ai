@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
+excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
 publishedDateTime: 2021-10-10T10:53:00Z
-originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
-webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
+originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 type: article
@@ -252,6 +252,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "UFDbGWrl8nx3jRmbokbWl+5sLEL1SeUI+rrgiVfrYBM8nFgNQWzdjoLeCoVIXWhPyNklbz37WTtL3Dp68XixcdFVXPRR/cY6G9E8Mo4a5ZQwRnkTcpOTadpC88nAhmkffOwqz/P6g89PiySrKV0plLimy1ATqg3XrktUS3Op8HPneeLZ6Rv4ufd7hRvPcZZ4r9HaqZeFPdTxBoq5mV9xTdufs5pPzFiSggUuleKtIDMf4qlViTV88CMXI55FdK60Dj3+BEQtPMMrXOJU1SAMlTwMkgPU5dCSaRyAOkWrLObnXF29FFIBADcYsVgnaxg8AwHWvtYaXLZsMzN0Bbu7o/tfGWyxfMzk0gYR8LI9O0bVqYZlnmW0MoSnL4r6zxihyyBuKAmFDjUSJFM4cVYqRFWgTD5CULrSzXw16zD37ixgbgzus5OHVtApIpNjTXs5gDemqBT2gQVf62nDrkL9pXGpYOkexV8IwpywiSlXzmKsM2xcpMW4G+Jzq94FXzftigWzffgVmJUPEn3L9vqIDw==;foJnRzdHIbEeHuS2CRtrIg=="
+secured: "6lBW/sU4HHLAwW/VK3R2slpejRsKMP1iu35HwgM9Gfgtgt0UvIa2gq1wCBW82BuYrWg1LnfE4L1Yu56Qpyypxkhe4c0alqexXVMG1z6WpKqb7QnRk6ZmLfUvxn1B04HPAylxbaKRqXf3E2nho/nKl/Unb56Xw0yb37yby7m57eofXuI3DUQjfMuL8IwEin/6rUF9FNIVSs3PyEx+JQZc4Jfe2AwhtTOnU250DuTrOronNiI+c9UQtot1WraPfG0tZETu0nQm/pvXr8lu0fpPTEdU/ilYbQWO2buaGar6T3CE3JcAbj/iUgDDnXTHVb6ZOGlULCqQQ/UvPQ02lsFu6ORVLTs4v7psu2RQClivZr4=;ARtFGQoyiC2e0zYqXTeDQA=="
 ---
 

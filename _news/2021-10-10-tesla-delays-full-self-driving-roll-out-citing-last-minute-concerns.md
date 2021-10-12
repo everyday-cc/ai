@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -175,6 +175,15 @@ related:
     excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-10-11T15:56:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
+    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous"
+    publishedDateTime: 2021-10-12T21:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-1030860563"
     type: article
     provider:
       name: Business Insider

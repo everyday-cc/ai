@@ -7,7 +7,7 @@ originalUrl: "https://asianage.com/business/autos/121021/hyundai-mobis-develops-
 webUrl: "https://asianage.com/business/autos/121021/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 400
     height: 224
     isCached: true
+
+related:
+  - title: "Hyundai Mobis develops a foldable steering wheel system for self-driving car"
+    excerpt: "A foldable steering wheel system for self-driving cars has been developed by Hyundai Mobis. Hyundai Mobis announced on Monday that it has developed the 'foldable steering system' that can store the steering wheel of the driver's seat invisible by folding it."
+    publishedDateTime: 2021-10-12T20:33:00Z
+    webUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car-11634028683973.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2021/10/12/600x338/foldable_steering_system_1634029216103_1634029237547.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "SrRZL04eyATBfEi/Qb52kYy08tx/xe0S6a1/tHGS39IJao6Bep35/LdsJaI4PweQnsAx+NG+bn70R1rpDltImepbdAEBHFqwRPzODtmzlgQCEPhXLgmxUNDH/uJzI9uAxAz0Jewip7it4EwJRDR5nFTxdND0sxaVF8AYGACGlk+gjqq85rwt0wiqqXNF1wTBk1r46H83vn4E7wUWsCd0EpG5J9NaPyOGq+Nm10zefAKa6+TlTZD8V2cEaKmPFCeS17khanyQF2gG4brWeK3TD8gRj7x2dxbiCLx4t+FaDQ/WHO3HuXyE7/IdGoBeuln8VfmEDT/ZFy3qEO+8+oZa5ZbgMMypQ4CtHr4o1RED5nA=;QyZ/RrXEQihz1KNj6US6Dg=="
 ---

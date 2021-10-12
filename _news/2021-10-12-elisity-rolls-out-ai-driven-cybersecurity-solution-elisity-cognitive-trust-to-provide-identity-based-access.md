@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-    excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"
-    publishedDateTime: 2021-10-12T05:23:00Z
-    webUrl: "https://www.packaging-gateway.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
+  - title: "How Big Data, Blockchain & Artificial Intelligence Can Enhance Your Cybersecurity"
+    excerpt: "Big data, blockchain and artificial intelligence can take your cybersecurity strategy to the next level. When we go online, we leave traces of our data. We would never want our data falling into the wrong hands."
+    publishedDateTime: 2021-10-12T21:01:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-big-data-blockchain-artificial-intelligence-can-enhance-your-cybersecurity"
     type: article
     provider:
-      name: Packaging Gateway
-      domain: packaging-gateway.com
-    quality: 34
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 47
     images:
-      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/10/shutterstock_1602197377.jpg"
-        width: 500
-        height: 286
+      - url: "https://www.bbntimes.com/images/articles/global-economy/HOW_BIG_DATA_BLOCKCHAIN__ARTIFICIAL_INTELLIGENCE_CAN_ENHANCE_YOUR_CYBERSECURITY.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "FlaqLuEckNLQudZ4gDXDjfO/K66L6FeYpP3dPJXO67dT3DUvgNqOMtU1s6rz8TPZiW5qdc7ixTZXIjZQM70RTFWOaMNfImcYBe20nWOXZA+WMlFut9d9yBbOPrC7EyxDjuveis6SKU9JPPM2HDaK1UTpmGuiBARqBiUAKTkcy9enR95IibDjFs36jl7wj3gt13tc7yXgpJ5hrLQ2CTtCO3lUvOLi1dSmSzWHm1I9+fdoeC9XbMoMib2A+qFHIjjnJ0bblrbV+1Wz3s7744M02nHxOdXvWVrKwrIWM99h1G+ZBbCfR9HDNjuXuLslBGJOSp1I/AuHpiiM8rwt0D0DgEvL8PL3OIj2YSx2dYrjUh/YjjxT73oEF12Re80AmqYsOrC+fZvDcMtqkBHfzLGFoHnHxiC/7/Oevcu0DXREY4IxBb2RrU7meX39fxNgvh9zIx113eRfVtt6v6AugwNdNc9rFXWBjg71Yhu+4Rm32ahmKu9ik4GQfNqkjXxtygp+XXKhGV9gQMr41Ow04OIPwA==;YZO1mJCP/+ScorXuvVt4lQ=="
