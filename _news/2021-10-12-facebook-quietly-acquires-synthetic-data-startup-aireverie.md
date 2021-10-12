@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-
 ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
-quality: 91
-heat: 143
+quality: 93
+heat: 146
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"

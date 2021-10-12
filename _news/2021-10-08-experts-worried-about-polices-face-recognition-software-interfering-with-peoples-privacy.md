@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Software launched"
-    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
-    publishedDateTime: 2021-10-07T16:51:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
-    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
-    publishedDateTime: 2021-10-09T10:27:00Z
-    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
-    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
     excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
     publishedDateTime: 2021-10-08T12:10:00Z
@@ -88,22 +56,6 @@ related:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
         width: 600
         height: 336
-        isCached: true
-  - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
-    excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
-    publishedDateTime: 2021-10-11T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2424632/mobile-speech-recognition-software-market"
-    ampWebUrl: "https://www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua11553029_g.jpg"
-        width: 626
-        height: 333
         isCached: true
 
 secured: "19FuvJswkCATUZUvzQsyYSCWg/lv5cI6CbmTp0rFrnGWSLkVn2+68k0QNlTkwGMI2JV0JGf4ZhWrLHmTRY0tPN2Z8fi6eE5Wv9jBVCguTb0r1j5C9IwTFSlkq9EGupXrBy5WhmJ3cIMROWKIl2TLEKRF7tOh0CVscg+4DYNkRllXWvesvhiNmlJqWzZPeBLlFVSJMkX5uAipxmtPMChvYNj5xyTd4n4EXZIyRfOx0hqa3uWbTNyQN+GuzCZAVPKUtFQIYe6Q2D3Sn2TU52lJArHgrAkh95jcCQROAwLH4JWNjbp9JhhW0rceOmvBusUaWx8MtAEC0EbWj399BEv+Q9daeZ5WaAyQ0Z3Y19jJDXzLKeaMXHMlphO07Q0LYVh1quid84tAGD426Kl48qWY2CrMtGPN4MqRZ7K6JCSs0S/6zZZ0ziBu4le+Iku67Vg9iQ7cLIMU+CBW6Zd7VKLV0YTpLC2V0ctVQMjeoG4axAFE1f4BnAJydbf0CLdyytTn6LbbvlDPb411VKyJXMGKtQ==;kBzGTBO8Z2IRhf88eViCAQ=="

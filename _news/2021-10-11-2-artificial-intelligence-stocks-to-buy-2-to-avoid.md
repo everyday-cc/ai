@@ -1,32 +1,23 @@
 ---
 category: news
 title: "2 Artificial Intelligence Stocks to Buy, 2 to Avoid"
-excerpt: "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and"
-publishedDateTime: 2021-10-11T15:03:00Z
-originalUrl: "https://www.entrepreneur.com/article/390452"
-webUrl: "https://www.entrepreneur.com/article/390452"
+excerpt: "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain, owing to their consistent product innovations and expanded market reach."
+publishedDateTime: 2021-10-11T14:06:00Z
+originalUrl: "https://stocknews.com/news/aapl-googl-pltr-ai-2-artificial-intelligence-stocks-to-buy-2-to-avoid/"
+webUrl: "https://stocknews.com/news/aapl-googl-pltr-ai-2-artificial-intelligence-stocks-to-buy-2-to-avoid/"
+ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
 type: article
-quality: 69
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stock News
+  domain: stocknews.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg"
-    width: 2560
-    height: 1707
-    isCached: true
 
 related:
   - title: "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
@@ -88,6 +79,6 @@ related:
         height: 3888
         isCached: true
 
-secured: "NtREkXFWYUXmHdZ4vpl5AwpZdDf12N0NgqgGaM9QkYZkcVXjsiI1Tv31DfRxTegkvOieqLbS3vILny+zceAjrD/th1uxYYOTTY6pvJpW6ed8WhaeOSufPoL2c2BHxRaioxhfXr6pi40gUkRCvEU+nGnPTP4GcEEF6BFD+7CqV+zDmLFiMnwypjv588ilMW0bTMxuY8/hjlJul0F60cLmBSZ+bQT8qUiPKIhVG0gd/Ycs55hOYohqInhkpVqx4c810S83XMuBuytu2/ugh4aUVBdRAjW6QlO641bJUOBko7KA6hiBvNjSkM/VXCo+mwcYvfjKs2Sw4BmyzZIkDxPlrUoewCa5APMWeSGV9CUIMViswLg1+D/IpfBSa7CzuWD8y6c+wdWefJesVcOO6GWCyEwHigkkJd/O1fsUZ75fh9fsFLbOYnyh8kZXs5HwOnJwYsXzhRfBGABUfqTkBIB97ieD4ntRrTeSP8LNyQUu4hJ6YCrg/HnotphdrNEdSarRf8Lzteb+QqL3PdlRmIg0yA==;H9Vs3V54LKgVPLRBtGBJgw=="
+secured: "pUJU8kppTYXcwnP/S1TT2uZYhg7RAgDdmCbLrQa+OQrGKpt3XDrYpk/91BCFdUiwbgJXQVf+1/uqHabKP+hqGztHltiF0jslo+7A80hoQAXXFh6sdzEnpmvm8dusHYXQGZ2loy7RW/IeogKKKzk3qwr/nb2e1KbBBc7Ti2eWq4PaQDqbhlwcEu00tsvDLVQJu7kg6dY+LCDOATfI3bAaUdnL0AhUmgD2NDMQ3Gi5iXPk1nFApKIlqoQ3Jq3OMrmvDVYOC9LS1Yhg/QszX/KJeVWugao5ZJgdm4bherTwXSTZwNf1zVVURZjapuY5Oal1XIlVAjA3ME4GAlUw/EHpT3koEyqLcmtsX0+igk+QN9StA5CJ8Ow1hNUXZnjlNJXZgwBteJrePa4PrK2jmwJ6TOZKtcaVL8bt+6QoHpNuKNb4s4Ol2hykR2ezV9SVY9IBPkMfUsXaWJwv6nRYdiBL3LeUnmgHcWFVj26YUCFd8qi0iQyJxs4l4gDoGE1GiZ0zKAibJ2x/TevZNNt/SyvrBA==;b81iWZZiPtl07jsMPKDp2g=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Germany Unveils The First Self-Driving Train"
+    excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
+    publishedDateTime: 2021-10-12T09:23:00Z
+    webUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg"
+        width: 705
+        height: 352
+        isCached: true
 
 secured: "wxTyQsEOn0MOGz6t5nCYwaYzp+mnaWJQDaJFuOM2Vcx+KcTulOqJAvMNHXBN0ML2Jx39vtKKck9QT+xKwsMxTwun8xKZW05FP/P4EUXIhG6B/8jRv7jJGbczzEwROjHKxaEw5hcWQpCdZ1nQqeLEcJVV8muS7lWoNoiWwljoUhEF20El/TaXMbXyw1ua4bibr8/L20gtJzneCWuARNAelWMW4V+1JBlbJjyK9qGOKiRLoyCHZfNQZQepPwGK/6Adhgct7emO8cz1FV16ZRbuj3q5QJOYwKNaYpe9GUXl7CLE9IpPOmobt6Bap+tNlv/hOlt0CQarn4h3quqEXmh4TJsQIiVk/guxDiE3HHZdZIY=;q/dbzQEFAkF1SAQbISQ1MA=="
 ---

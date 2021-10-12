@@ -38,6 +38,20 @@ related:
         width: 679
         height: 400
         isCached: true
+  - title: "TRI publishes six research papers pushing boundaries of scalable learning at ICCV"
+    excerpt: "The Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,"
+    publishedDateTime: 2021-10-12T09:07:00Z
+    webUrl: "https://www.greencarcongress.com/2021/10/20211012-tri.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 19
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0278804ff2ec200d-600wi"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "VSZ5u8gSbfoY/WCrs5AFZgX0vbf78GdAY9FHsvRsFFWWIX/yGdB7JjzG1NNgzAi4XoPLyJauhEWnxBf7eSkCR64DvTD5oCrJrPCGDw32AlTG04pE44f8UxSwZOnXRDB04WPG/ErNWIG0FNJzA9k4+gqBct04E/iXVY95JyFetIdHTXgRGhN2lQl6IvWsMa+cppg+vxakC1gIQa0rY0/1IkKWd5YeaZl2PiTif+s8ZsAIuu7kRnr8RWeKxSyjtCbHSt1va0EAtX4Ji5QrA39V7i8j+va++M3X4Kqw5HHSnFOpDth8VOjYCVaV9GOO6QMaZkPm6CHMpP/OsQqDSZ10PiK6D3LK1xkoZzfwLCpAHWg=;1HpefNX7SNlJ03ZPPb41lA=="
 ---

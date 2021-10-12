@@ -27,83 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Software launched"
-    excerpt: "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t"
-    publishedDateTime: 2021-10-07T16:51:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Xiaomi Face Recognition Smart Door Lock X Officially Announced"
-    excerpt: "Xiaomi has announced its smartest door lock, namely the Xiaomi Face Recognition Smart Door Lock X. The price is not known yet."
-    publishedDateTime: 2021-10-09T10:27:00Z
-    webUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/"
-    ampWebUrl: "https://www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/09/xiaomi-face-recognition-smart-door-lock-x-officially-announced/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/xiaomi-serratura-smart-sblocco-riconoscimento-facciale-3d-prezzo-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried"
-    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5."
-    publishedDateTime: 2021-10-08T12:10:00Z
-    webUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283"
-    ampWebUrl: "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 57
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Experts worried about police's 'face recognition software' interfering with people's privacy"
-    excerpt: "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to assist the state police in their investigati..|News Track"
-    publishedDateTime: 2021-10-08T12:32:00Z
-    webUrl: "https://english.newstracklive.com/news/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/experts-worried-about-polices-face-recognition-software-interfering-with-peoples-privacy-sc1-nu303-ta303-1186385-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 48
-    images:
-      - url: "https://media.newstrack.in/uploads/latest-news/india-news/Oct/08/big_thumb/00_61603a0031bc0.jpg"
-        width: 804
-        height: 450
-        isCached: true
-  - title: "Belgian police admit using controversial facial recognition software"
-    excerpt: "The Belgian police admitted using a facial recognition software, according to media reports. Citing an internal investigation of the federal police, Belgian Interior Minister Annelies Verlinden told a parliamentary committee last week that the police had used the controversial software Clearview AI,"
-    publishedDateTime: 2021-10-11T13:34:00Z
-    webUrl: "https://www.yenisafak.com/en/world/belgian-police-admit-using-controversial-facial-recognition-software-3582007"
-    type: article
-    provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
+      name: openpr.com
+      domain: openpr.com
     quality: 41
     images:
-      - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
-        width: 600
-        height: 336
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
+        isCached: true
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
         isCached: true
 
 secured: "bDvDjYDmgXGqdgnOkn4x7MtWYJsCS8uc/61NaDDVrUmnyPxPuwybagEPRJ3e7lLpHjEah9Ki3q5Tkps57e7b8ot6mdpa4ji0fJvC5yQzywVdnsa9r595Pn+5qawrPPzSqEzikxOd1Zhz37GGPDli/VvHWcwOKtzKGLPioh1AlwZ4++yvtXC4idd4l3OSKCQusqaa0Pf60oaRMEvQ/S3vIdahG2tLknPSWHUHxfT2ec8ZBkIUDlgEunr9fBskFqo0X3q7iu4Q0hbexF+7Ja3NsmXeUMGPnaYpTDAWFwRadA82WA3AYkzPJMhKUHQ5axCy5QhrgY5h/qRBBXPUqFwYOkc4eLaUhNlN4e12vfTrXK01crCBHu+5EfjKVacz365wu5A/cQzWjCiyac6i+qs1mCF+mdjQdT1ynSqhzYbKUYe5U33RtplqHF+WbruMdfh9PC6V9hEnjn8RHCFVrr47aNrlGOsTqH0Pz16fNvH4Ra+SasRA9pOJiZGwvhbMiBHQVmVPPHcVtn1Wgb4g1rpVWg==;SEdcxHKiUjG6FIYhTqatTQ=="

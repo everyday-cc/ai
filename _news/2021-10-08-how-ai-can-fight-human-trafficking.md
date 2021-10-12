@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How Artificial Intelligence Helps In Decision Making"
     excerpt: "It’s incredible how artificial intelligence has drastically changed the way we experience technology. To say that it makes life easier is an understatement. Some may not be aware of it, but AI has become a part of everybody’s life."
     publishedDateTime: 2021-10-07T23:31:00Z

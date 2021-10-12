@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/general-motors-cruise-to-launch-1-ml
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/general-motors-cruise-to-launch-1-mln-self-driving-cars-by-2030-2021-10-07?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Nasdaq
@@ -21,40 +21,48 @@ topics:
   - AI
 
 related:
-  - title: "GM-backed Cruise targets 1 million self-driving vehicles by 2030"
-    excerpt: "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030."
-    publishedDateTime: 2021-10-07T16:07:00Z
-    webUrl: "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html"
+  - title: "GM Ultra Cruise: Self-Driving Cars Can Finally Ditch Highways"
+    excerpt: "GM announced today its semiautonomous driving system called 'Ultra Cruise.' It aims to leapfrog Tesla in the race to self-driving cars."
+    publishedDateTime: 2021-10-07T18:30:00Z
+    webUrl: "https://gearjunkie.com/news/gm-ultra-cruise-self-driving-cars"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
+      name: GearJunkie
+      domain: gearjunkie.com
+    quality: 24
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319"
-        width: 810
-        height: 421
+      - url: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/10/GM-UltraCruise-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "GM to invest $300 million in Momenta to develop self-driving tech"
-    excerpt: "General Motors announced today it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China."
-    publishedDateTime: 2021-10-07T15:45:00Z
-    webUrl: "https://www.plantservices.com/industrynews/2021/gm-to-invest-300-million-in-momenta-to-develop-self-driving-tech/"
+  - title: "Self-driving cars coming to Scottsdale"
+    excerpt: "A utonomous cars are coming to Scottsdale. General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, according to Mayor David Ortega."
+    publishedDateTime: 2021-10-10T08:00:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 4
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "BEIJING - A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing Innovation Center for Mobility Intelligent (BICMI)."
-    publishedDateTime: 2021-10-09T02:22:00Z
-    webUrl: "https://www.publicnow.com/view/836EE090D9495578FAD7735A9A905A629A25DDDA"
+      name: scottsdale
+      domain: scottsdale.org
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
+        height: 630
+        isCached: true
+  - title: "Self-driving cars coming to Scottsdale - some day"
+    excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
+    publishedDateTime: 2021-10-11T11:55:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale---some-day/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 3
+      name: scottsdale
+      domain: scottsdale.org
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
+        height: 630
+        isCached: true
 
 secured: "xaR+GztfSyuapQ4mbo8FSGq7pU/sYEwSRUi2x9G+tq3ZXcJ3dWpBNDYE0GLm6q+ZdJ9s+pp4QDFTvq9TigygRLq3cWg1MM5KTaW+yxBYxKlNn3JlTjQCDiGOboY0WGWN54BTtcQ1t/YZs1Kte34nWxF+o8g54xrJo4aMlbGNuGnoCQGXpExq5ewhaDKosS8efbGfb4DZaCFZYZo3ZdwYuCtrPDA+F/Lpc0JhQ/Du7N4JXUj6BL3GJ9yKyFkLeTxGeRGLj47rZptQgOe9J+MqBoz7qJR2noF4so9Z95/0epEojD9akTXUzdTjR11SWtwYP2eDvW6/MFqGRAfUikSn1zOpIHnON5AWQHTJA9rpL08=;YEjy3AYawPmYAnV9fsECRg=="
 ---

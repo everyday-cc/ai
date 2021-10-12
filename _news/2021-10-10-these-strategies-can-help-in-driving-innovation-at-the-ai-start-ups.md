@@ -23,6 +23,22 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "National AI Strategy to reinforce UK’s role in the AI economy"
+    excerpt: "The UK National AI Strategy published in September aims to lead the country into becoming a world leader in AI and guide AI investment, innovation, and governance over the next 10 years. Indeed, the Strategy will be focusing on three AI pillars ..."
+    publishedDateTime: 2021-10-12T09:45:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/national-ai-strategy-to-reinforce-uks-role-in-the-ai-economy/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 37
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/patrick-perkins-ETRPjvb0KM0-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
 secured: "n0ua3dr4QXdOoHKrFHivuWI+6dAprzB4Ub70GZpWiUizk3u6sbrHZgqkPwbWXSyTg2/vXyXqc/Sie1enJ6mkliqfBhuFYLH38vVxO4RXjNpjwZXBdUTU9taWHyQt1F/btdEdxQKlsNEt2smYV06eiHhkxSgPdTUmDONcLqL74MF0/BW6eZEO1HUSupbACFLDH84pw42j8fewenGVsRQvbyoJoVgCiAq+c2L5gNLFSLE1I0mMGRu0tjydWR3jQL7xQKzS0UX16aRpOIdKrS3RcZxntlgcbZ4sGcAgDY4Dcl0nH44K0foR3vx6l6Ihnxqb2qGv2+yGcUTot5/IpUcMwHtsaYCTwk6UyWiJL3u3ki6KGld0nJ1YEilO/MZFN8Eb+Vm7GHGrkvU5OJGt2z7qVxhxwmg1zagojqU1yeFqNCsRe5oYOaEvw4lFQqPXcQ/3NYWceyx8LRx7zU6wefj5pi8oFTzG6oqZTtzchQ7Tnf82D3uZomM+S3tEzaMe8VMUk04XYCqsAQGnuihR7KghRg==;vY+elq4vOg6syYE17TOPcQ=="
 ---
 

@@ -101,6 +101,20 @@ related:
       name: XING
       domain: xing.com
     quality: 15
+  - title: "Clinical Trial Biorepository & Archiving Solutions Market Size Worth $6.0 Billion By 2028: Grand View Research, Inc."
+    excerpt: "The global clinical trial biorepository and archiving solutions market size is expected to reach USD 6.0 billion by 2028, according to a"
+    publishedDateTime: 2021-10-12T08:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/clinical-trial-biorepository--archiving-solutions-market-size-worth-6-0-billion-by-2028-grand-view-research-inc-301397720.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
 
 secured: "rVW0p2IRY9SHYW7oITfO5ApmOs+33bRI+cxOuN9cZGRuXHo30B5iEgAPB5ccInleXQGSJx+3gwHmlaGe//xahehzWgTnTioSzcgwBAxmXh53P81FnOP209HPx1SSLjpLTIDdvc9iQQ7J2uh5mx6tdUOIm9cFmO9hngqt3GGT0i79lv9qD9jXJK9kXM3ZMiy+pGyzsg+6biJ8jXZSFCnwhXoxUVerKYL0DIVtLu/4/m/5s6XeIbDgyuTjvkc9zYyIgJM5yStox17XUcoowauPGLhXrwdqSMHJvpKGQIYwuqPALl4DtP72ipNLRXBeVX6sMiizaPufyNmLc5jjLGWlk8yHR27olbnY9+lLJk726BE=;FOZyntZhLT0x8NIr++M2Lg=="
 ---

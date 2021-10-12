@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Tevi Legge"
-    excerpt: "Meet Tevi Legge, Vice President at ATB Financial. Tevi Legge joined ATB 6 years ago from leading a commercial sales team at BDC where she had spent most of her career learning abo"
-    publishedDateTime: 2021-10-07T16:06:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-tevi-legge"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ATB%2BLogo.jpg.png?itok=WIMUELme"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eqIdDcbmTQAtzF0385FDvOsdMmIy38splK8ITOxXstZrF5P+dxH3iwD0gsccy2ne1bdBEAhfw54YJhiGrHkI7MWXzjagywKLBQLnBD8UEYmlmpkORu8f0fAxyreBFUCxW5NemmBrMMNLuOOhazVWetUiPuNP92NtrLra9SYHx3jpVH7IAqI4aPtXOXaoxG1I1TgmpHQ/M9/fcIsShu3htCgiXLcBhEMpKQVM9vkFlX48H8bMtrHrn/+HkLWatnCS3b4jf4y1tf/lbJB4X2+Nz1T1WXQbb5NuKUgQbDirS4FLavrvQdpmmcucTqBzQsb6wHRsQDnEIGhd/f7XNUowhEUk/E7sckVpypzf8tu/idc=;NsP5L/stmk1qaVMZA/i/xA=="
 ---

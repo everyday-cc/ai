@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Kiromic BioPharma Announces Strategic Collaboration with Gemelli Teaching Hospital to Accelerate the Analysis of Allogeneic CAR-T Clinical Trial Candi"
-excerpt: "Alexis ISO-1 is Company’s First Artificial Intelligence-identified, Gamma Delta T Cell Engineered Iso-Mesothelin Candidate to Address Solid Tumor CancersCompany Also Provides Guidance on Regulatory PathwayHOUSTON--(BUSINESS WIRE)--$KRBP #KRBP--Kiromic BioPharma,"
-publishedDateTime: 2021-10-11T12:02:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=544489"
-webUrl: "https://us.acrofan.com/detail.php?number=544489"
+title: "Kiromic BioPharma Announces Strategic Collaboration with Gemelli Teaching Hospital to Accelerate the Analysis of Allogeneic CAR-T Clinical Trial Candidate Alexis ISO-1 in Solid ..."
+excerpt: "Alexis ISO-1 is Company’s First Artificial Intelligence-identified, Gamma Delta T Cell Engineered Iso-Mesothelin Candidate to Address Solid Tumor Cancers HOUSTON-- ( BUSINESS WIRE )--Kiromic BioPharma,"
+publishedDateTime: 2021-10-11T16:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers"
+webUrl: "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "Wee+vNb00SDf1XGUexkRUmBdb13oD2IQ2mYgan1jXUFfvEr8k85dtYRo4h1h2Q6NnbTeS0O5ziF+SipSPBMEGPpeiJWR65mX02m3lamBeY5klvhe3ExtdVi6xio2AUrQGzc75xE/aVLkfzF4l/jfJoGJr9UUL0DIGpbY9aj1ZLTojVWIBDSb6JSWsISuK4q6Hf3gi81/rM4rTZcMis2jtoTGFYLYjUeM4ZS99xnkpxBvzEjJo5SLfa2pEEv++mLwFSihh1yCzQvmWR3zxjqgi1Ub7w7ErJUaPkk7Y7qIxeqizPOwIWrsBpWLI2ua1sqz8uNPOsx15vFLJSy/+/tdoJ3eBk36+gRsMqoUoFOsCFE=;880MPE4ET0W7cY9O+FZviA=="
+secured: "DeNJziPLA10Lht+JALs3xVyL248aOGSNQxP+a+Y65sXyVlKcFrSCSNxyYER8I/7izdDyKTZROP5ZmleH8CdYZ63WHZubYfEh05A8QmcJMzE1ESh3wF5kiQi16uzF2HD9ivItuqABbkAdSfAS3/3rjTE/6EDla/StZiLjb/AmFV6elwk389uQ3xNAo2qLh8SS94LGwXvE7RKyi0Yb3vLq6Ma4CwP44BFP4TNeJXX8Xqh0fKMWs/NryAM97PsFL3n5QOtAskUouVLhtJ4v4kOky1FHpbYQks9yQIgnc8d4V5q81jM0Hc/TW30LVumpVXGSPA1y74vtwobWyjzzPf4R4d61mhnb9+UGwxIJwgbr5PY=;Z5dk/4Rl1Po3HFIbpZA9Rw=="
 ---
 

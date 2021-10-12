@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Ocado invests in self-driving company"
-    excerpt: "The tech firm’s $13.6 million investment in Wayve follows a similar funding announcement earlier this year as it looks to automate delivery for partner retailers like Kroger."
-    publishedDateTime: 2021-10-07T15:47:00Z
-    webUrl: "https://www.grocerydive.com/news/ocado-invests-in-self-driving-company/607847/"
-    type: article
-    provider:
-      name: grocerydive.com
-      domain: grocerydive.com
-    quality: 24
-    images:
-      - url: "https://www.grocerydive.com/user_media/cache/56/ce/56ce5d5f543d8914e6095342834c3426.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "76cBoF/q2LF8AOKAUvprX4ZGmykiveOUEI6EVarFhaH8XfBSe4kdy2evmQ5poKRUiQgxodaD5rVi/eRCoJhsj0oBKEOEcpaFGd377Ice4E3RBQnyY8TIdpTUw76AIitPkOmrUXcoTCoFzYNgaaS1iWwDbuid/YTAQ2CChxZ8wvq6xJ0E/LtQYB837kRvPFkvExNf9AQ7LueiNKhQn+wGYw6dpFY8mi1OlwL+4d5PJvWw7PrxtVk2dFFUxLsl9oh34lD1rywRI3LO4YxOm/xw1IL0BMNP3x7pQvuCcsnplUPte2QhCl+YC0DwVnkJK3f0z/FTXpDFOlQKfplD+CgYa0mlhlr7bN5oZ3iN7osLtzcG5mRbHW3fSWgOCc3ekCbKF/Oxpzrtk2sQ/QTFEDWRktPBtheBe1Q1co7y9tE+Zvue9zJzK+hSTi6700f+nhL34vhoEK099pkEfbegSE5c7Ut9j3CYNCnvxleIJPgvbH1A0/QrmB1B4E+5DhOvghfm3PZNa/mon1K0O7POJXaJ6w==;3Wwh4rvqNnbpEqjFskYu7w=="
 ---

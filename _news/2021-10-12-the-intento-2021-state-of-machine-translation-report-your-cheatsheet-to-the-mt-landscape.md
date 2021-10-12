@@ -33,6 +33,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Cellebrite Seeks to Expand Law Enforcement Intelligence Work With Digital Clues Acquisition"
+    excerpt: "Cellebrite (Nasdaq: CLBT) has agreed to buy the assets of Digital Clues, an open-source intelligence firm, to expand its footprint as an end-to-end digital intelligence platforms provider within law enforcement investigation and intelligence markets."
+    publishedDateTime: 2021-10-12T09:31:00Z
+    webUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-enforcement-intelligence-work-with-digital-clues/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 12
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/10/Cellebrite-Seeks-to-Expand-Law-Enforcement-Intelligence-Work-With-Digital-Clues-Acquisition.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Mwe0RSlBm8qIxzO1D+ndhRdOrIFbAs93GfzEOAlQhCxsUc3akZKw8DURY97CFIU5XV6nx4YFi56Afgc+u8vPZagya8AcHjuvRG5CO+Yx4TdmJKpJ4YJfuu9AuCddcoSGtfcsMQmKaq6dpsTn416kPHLiCZOGL3U8rv3pIF8r1rCktQRSemlKZcMpvGyfX6e4q/XhfDGKfD17CLSxhuJfu5nOPzUykn5hSp6U+2r8z030glrpI6hYVwZOb7Sa4h1VP0NinZwTYdNtL0ox9liHij/yUoH60WyyaB/qvwAq79vfdN4T1gb4UYH9Pf6wuwSZJtNQYY8E96hsIrJSJ9AjVlrgp2pq6H7SzvaWmOTh21E=;sFtX8m6/k9vydHy0nG1hpQ=="
 ---

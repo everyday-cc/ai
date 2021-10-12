@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Tevi Legge"
-    excerpt: "Meet Tevi Legge, Vice President at ATB Financial. Tevi Legge joined ATB 6 years ago from leading a commercial sales team at BDC where she had spent most of her career learning abo"
-    publishedDateTime: 2021-10-07T16:06:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-meet-speakers-tevi-legge"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ATB%2BLogo.jpg.png?itok=WIMUELme"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
     excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
     publishedDateTime: 2021-10-11T12:47:00Z

@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cellebrite Seeks to Expand Law Enforcement Intelligence Work With Digital Clues Acquisition"
+    excerpt: "Cellebrite (Nasdaq: CLBT) has agreed to buy the assets of Digital Clues, an open-source intelligence firm, to expand its footprint as an end-to-end digital intelligence platforms provider within law enforcement investigation and intelligence markets."
+    publishedDateTime: 2021-10-12T09:31:00Z
+    webUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-enforcement-intelligence-work-with-digital-clues/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 12
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/10/Cellebrite-Seeks-to-Expand-Law-Enforcement-Intelligence-Work-With-Digital-Clues-Acquisition.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
     excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and"
     publishedDateTime: 2021-10-11T20:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Germany Unveils The First Self-Driving Train"
+    excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
+    publishedDateTime: 2021-10-12T09:23:00Z
+    webUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg"
+        width: 705
+        height: 352
+        isCached: true
   - title: "Germany to have first self-driving train in the world"
     excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."
     publishedDateTime: 2021-10-12T07:10:00Z
@@ -42,6 +58,6 @@ related:
         height: 315
         isCached: true
 
-secured: "B/gMTLrqThP083eDk0stjwL7sHUKZ6h9Ep8r3GSA3UmsN2/2nh01x/h6v5PjhmzNLAZ/CSsVsCNgx239ckzSU5WAGhMJLIwOM+/g/8v0q2LMWVJYkIfHlnY5smFc5roi6z4/Gdwcxhv/UxunJi9UoPYCzigEYuIVgOi//Y+oGAp6IhzV3p6T0uF02sldFewuJLZEmyB7fihMIRLxgNFmA7d66MWzUbm/NiD7kGBVpWQCKkw2Bsr556Zv7VRUkm5gyoWAIYCAnQ2QDCu5Cup+yQ8GlvRS2ViQcR90t0JOf2CyKfTqAiuiixd11jvn7LtBHbZsaQVIS0897q8me8Ky90eRTUDd0ank6vWaGUpC1mY=;VSsd/BytKE/cyGV5s3ytCw=="
+secured: "xuOPGPlaONxOz24/V3t74IB2pAYsMF5ewGAIu6MnfcEWFMN9wM7nsMYrKVBiWefjlUWgVM6f+BAXHcLsA6+E2rCqqJZMQbFOv9TMSOxFWyLSOzYCyfrXrJGyOo+W/TzSMfusx2ZsLnpwNb4X5457SywVgqTo+fvPZA0PmU4TTWiB99T7lI6ToPVkElJB9lracP8t798+Op2Vz58hTXrMO3fLDtrmBlbLRpNfZZCZbcUejIFyF3ftNkjMVNjWSfryuqeqiWC70laALIQ/d9z6GIp5aqNhNmm7MNJPV2BcXOyJkR6fBqcS+ZJQnFEN4e5FjF5hcVmc74YvjyRRo4x8V21iy62y/YIWXslELoXhkUp50py1IW6dAxY3d0f2MvV3P1I/x9bN4yEdRAmPj98a2GOyABjuYVBirO3UiNwFwjjGvtGQ9ajNvx/45MWk98AA45vTSPCU1yN934HbaVH+Kr/KfrWv+Ema8YVjR1gtJHqyCEeCeU19XWd+k8Psfn85IedZ13HRHeYhpLwkBOjgWw==;DUWmbQ7ntwKLKFhBK/8SzA=="
 ---
 

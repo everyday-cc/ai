@@ -64,20 +64,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Level Agency Welcomes New Vice President of Enterprise Data and Analytics"
-    excerpt: "Level Agency, one of Pittsburgh's leading digital marketing agencies, has announced the addition of Eric Liu, Ph.D., MBA. Liu will serve as a member of the agency's Executive Team in the role of Vice President of Enterprise Data and Analytics."
-    publishedDateTime: 2021-10-07T15:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-20036302.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/1654049/Eric_Liu.jpg"
-        width: 299
-        height: 400
-        isCached: true
 
 secured: "Vv50jpToQDBxQRepOVmee/H+9LfKYuQVNncbtWBysNC1FQmgFFx/LBwNsAiRO/DQZBwI6ISQCH7ajp2/0WNI8IWsp6WsDwbFEYaEaEgIiixbWZNqXtMxkqNRkdY6/krtZ4iic0re3IU3DDwqO9V/x0I2cvpvm08jXTQXZFSzg4c650642oQRNQvD/JyjFYlJR9AK+Tg3aw4ImL8OdsoI+DTzUNMGSrqCInV2EpmG3c7IF+6rkKnE6pDulhqIJd4gpJQ6qDQQy8vSJ50O8dcVTPfInkulINJi5m3wyXopaNkX12Q7f1DN7Zt/vvn+ZCgGt4+oDxGXlVFJ6jDH9GJYVXjTyiLSpClxAu4ZXdcXKjM=;W1MoZn/qjcBU5qYFXV13tA=="
 ---

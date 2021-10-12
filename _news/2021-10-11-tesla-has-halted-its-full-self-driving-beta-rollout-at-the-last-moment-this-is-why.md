@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk releases more details about Tesla’s ‘Full Self-Driving Beta’ wider release"
-    excerpt: "Elon Musk has released a few additional details about Tesla’s “Full Self-Driving Beta” wider release, which should start tomorrow. Tesla’s plan for a “wider release” of its Full Self-Driving Beta, which was supposed to land six months ago,"
-    publishedDateTime: 2021-10-07T15:22:00Z
-    webUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/"
-    ampWebUrl: "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla delays full self-driving roll out citing last minute concerns"
     excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
     publishedDateTime: 2021-10-10T13:56:00Z
@@ -155,6 +139,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla insurance will change the way you think about driving"
+    excerpt: "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour."
+    publishedDateTime: 2021-10-08T01:08:00Z
+    webUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/"
+    ampWebUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
+    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
+    type: article
+    provider:
+      name: thedriven
+      domain: thedriven.io
+    quality: 59
+    images:
+      - url: "https://thedriven.io/wp-content/uploads/2020/06/tesla-ap-section-hero-carnival@2x.jpg"
+        width: 1160
+        height: 652
+        isCached: true
   - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
     excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."
     publishedDateTime: 2021-10-10T23:39:00Z
@@ -183,6 +183,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla: ‘full self-driving’ is self-defeating hype"
+    excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-10-11T15:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "See how Tesla’s ‘full self-driving’ mode works"
     excerpt: "Despite concerns from regulators,Tesla is rolling out its autonomous driving feature to some owners who can prove they are safe drivers."
     publishedDateTime: 2021-10-08T00:52:00Z

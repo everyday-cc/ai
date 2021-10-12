@@ -34,7 +34,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 44
+    quality: 42
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg"
         width: 1356

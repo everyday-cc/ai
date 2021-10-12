@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
 type: article
 quality: 203
-heat: 243
+heat: 233
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "European Parliament entreats a ban on facial recognition."
-    excerpt: "The European parliament seems rather unyielding in its decision to put a ban on the use of facial recognition by police."
-    publishedDateTime: 2021-10-07T16:32:00Z
-    webUrl: "https://techstory.in/european-parliament-entreats-a-ban-on-facial-recognition/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/facial-recognition-crowds-1024x536-1.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "EDITORIAL: Clear rules urgently needed for facial recognition data"
     excerpt: "East Japan Railway Co. has been using thousands of security cameras with facial recognition technology at 110 major railway stations and other facilities in the Tokyo metropolitan area to detect suspicious people."
     publishedDateTime: 2021-10-08T04:36:00Z

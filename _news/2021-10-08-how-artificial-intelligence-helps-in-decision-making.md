@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Your Next Training Session Might be Taught by an AI"
+    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
+    publishedDateTime: 2021-10-12T09:00:00Z
+    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
+    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "sijm1ZgP4eAZED7tmoWcl/Zj4Bo+yW2qnlWDhUgsn/8UC5/P3osYbVsld3e8q+q3dyjqKonTSSUS54uMNNXLK/zeJVmpsZdzDahKVsntjMN0tIbAsrdUREEAQBcRSSTlINY5xpAAVL1gNqgxhY7zKN0YINeIHYLqOolffkXh0xx4dtZQXjaWYbS1oyqgzrRtFk1zPd7VBoIQDio4Si8o28r7zKWjrENjvkTravrt3BEcxwCcylmsLuahYmhtUEHB9Ha2Zh9GwyGAJ9C4h+I2a7TSnhdD46Z0cUehMOtgrxu0hnJryK+BHB7sDNrUdSahat4Csqe5sUleGbfBFZUB4yuqVNPvw3Wv6/jZmXUh+GHyMFKhG3jXX2v4X6fr6jAEXQkBozhjcrBwTAvxPMQg1ipS40XqWacx/5j+I/lcVtI6xYDwUaW/hi26x64J7kwViOqPQglExzEJc8jxCOnqmW/9WCkmSR+IvKIO/K8BiGLekDYOvA+/8B9UO7pCV+BOaS7t2iEo8udJbHhPhZTg1g==;Tw0LAINt/TS92JVAdfJ2XQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-11T23:01:00Z
 originalUrl: "https://www.prnewswire.com/il/news-releases/cybersixgill-recognized-as-the-best-machine-learning-autonomous-solution-by-the-2021-tech-ascension-awards-301397008.html"
 webUrl: "https://www.prnewswire.com/il/news-releases/cybersixgill-recognized-as-the-best-machine-learning-autonomous-solution-by-the-2021-tech-ascension-awards-301397008.html"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1447996/Cybersixgill_Logo.jpg?p=facebook"

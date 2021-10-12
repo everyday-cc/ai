@@ -34,7 +34,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 21
+    quality: 23
     images:
       - url: "https://mma.prnewswire.com/media/1447996/Cybersixgill_Logo.jpg?p=facebook"
         width: 2700

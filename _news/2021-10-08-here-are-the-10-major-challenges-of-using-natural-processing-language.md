@@ -39,6 +39,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "AI and Power BI provide completely new opportunities for business development"
+    excerpt: "Let's look at just 5 of the new AI \"hacks\" available in Power BI, which will really make your BI products pop. Good reporting is about telling a story, and data reporting is no different. It can be the story of the result of a campaign,"
+    publishedDateTime: 2021-10-12T08:08:00Z
+    webUrl: "https://www.publicnow.com/view/33AC0BC3824851F2263D3521C2D72C6F46930E66"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 14
 
 secured: "B41CzOMczp4+yOjePjKRGcsLN2945ZiO8EOiWS9e9p3/WFR0dIKS7ndfi7HTB1djAwNF6DlBA+Qm2PTcj0sRRVLVHzuBHZ2FMDFas5QOOlKvPvWAw9eOqOj2dPga4UxL+yYGS2v9bZoOSXhgK47O1/DQNLCijEEWlFYYNRu/jTQ6Xhy0u754qFOJsNzTWLD7m9wpVyPeKzWuzZmbL/TTgYyr+sNMyTTUJKU8jYIqG/Ggg/yFtbkr+lg9PkDuvJ3sjbxFy/QF2N8e343Bo7pj06vle4eJfBqi4nfeBMPM+6TcGFKdulzNfsnDm5eVPbIweT3kBKOejjzguYWGo6VKYczIiOmz4z59usFwdGj/DJRs3ZSdiak78/WNSAk34Dd7Qn7xqkPy15cwBnFFe34DSqdssrp2SNt0atAFlLIjQgqA2inTMUy3HyCmt9FIK7DBGZJ0WYBJ7EV4UVjfEZ35zw1e+SSghRLciifQe4V+zQeTqOOwVTGD9/QUEC0AMmtdLdPmGqMMK5kzA1WUtogDbA==;Mea/wG3h52q5omxJLcpDEA=="
 ---
