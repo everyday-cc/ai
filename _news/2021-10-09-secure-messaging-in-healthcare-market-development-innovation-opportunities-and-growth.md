@@ -53,7 +53,7 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Machine-Learning-in-Healthcare-Market-Including-Key-Players-Market-Share.jpg"
         width: 1125

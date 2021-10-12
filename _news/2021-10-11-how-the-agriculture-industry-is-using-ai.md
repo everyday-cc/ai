@@ -56,20 +56,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Artificial intelligence hiring levels in the railway industry for August 2021"
-    excerpt: "We've analysed hiring patterns using data from GlobalData. The proportion of railway equipment and technologies companies hiring for artificial intelligence related positions rose in August 2021, with 29."
-    publishedDateTime: 2021-10-07T10:28:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-for-august-2021/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 49
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/09/Konstantin-Planinski-on-Unsplash-800px.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "IgtZM/My94C+gd3JN3OPH2vjXceqEjoc4NTW/L0y0gn/j/Dc4PPHw5RcBz3IUbOvyOBWlAZfjXHgYPEfncks2nAX39HwKojLUuE3WzdwTjID9XOm2+h+JhWm+uVwbemORemcmzKXMnwlNaaf6x2whvIfAq6P9HAh2+GCFHrKXhDLR+eZJwjQ4A0dgAiawmL9eQYwK8QuLHNqi9AHxDbsVIltjk/HkVATkuYmml2amBzFU8FrJfUfLGs9iLeZGiVjktNKUbu3iS+NCSViQAyJ/6IlFCzO4hSxqKGAM1CEfnQyjvpSNiA4eeTPxMEzkbx3BqMqtEC9KmguYo5lW+z7zpdvpIxE8NlBVlFcpWvVmowLAcxPUB+C6xCQD7kfSOtbti1L5xJgNtqiWlssEHpfCv4neG9sJAeQh3PQJ5lC7UXS2WHDTyoqVQs0RPPhIQ0CogfWkCG7Gmr1n5R1x2gTMm/ZHmqf5mwpc5hgFbkjNHfpppqZjBYnumMMFKDPWTo5yLg+SR5MzVid5n3+BU+Q/Q==;kP3xTCf4iTVkrN96vHiw3Q=="
 ---

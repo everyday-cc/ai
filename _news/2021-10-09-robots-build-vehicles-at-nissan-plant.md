@@ -55,6 +55,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
+    publishedDateTime: 2021-10-09T01:49:00Z
+    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Smart robots do all the work at a Nissan plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
     publishedDateTime: 2021-10-09T11:00:00Z
@@ -69,6 +83,17 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
+    publishedDateTime: 2021-10-08T20:42:00Z
+    webUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
+    ampWebUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "8m7x+0ZHi4RRB+cdFy4MlwUDnzQgwdLE0ZYF/7y6vg4xUbrePkdUJ9WF51xfxIilaTuYy8oKeKcH2ucy+gtAIQLjd87B11IQ85paXIEvXWLo+EEO8LjB/NGZIzANevI7OlXfe9e1kl1aLdL/XP14CSOsbAuZWtDx/RwSdDEztFmKyTe6F2QWBuLq8lowvyhrzs+EDCGZbnZAbQHPTZr8Zccrv4B0PjJeG6HEsDqfC/vVPi7JSUvJcw2J3XeTCNrov2bGAKV5rLPtiNYOWixu1d1h7PfHFjPzO4e7SkA7V9QweDOjWcCB4I7mq1BmROyjUtTJQCjyBpvUdMwVxEdYEpL8M95r0XpFp4cqia0kJuZaS+4mBwVGqbbcgRzdt/o3uYCE0N/kUbifmfdcQlb6+i/lYi/AGzK0F0u+PwTglvOl0gySoV7l5mCbr46g3P915LIwYuXKTqDA9SQT/7pml9ZU4Mx6Fx9lwzSYVVGePNN9Z9npqsOGXsRM0MGihtrYiSrPyeO3wsdsvmdIBcm1Ew==;s6bhf9DUCD9T9JQuOhZtVQ=="
 ---

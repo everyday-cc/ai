@@ -69,6 +69,31 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
+    publishedDateTime: 2021-10-09T01:49:00Z
+    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
+        width: 620
+        height: 330
+        isCached: true
+  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
+    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
+    publishedDateTime: 2021-10-08T20:42:00Z
+    webUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
+    ampWebUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "I5kuPQ71SLP3YAabqiQ6aoKp5crfoy0LNc0HX24bWbkBSmVSJsEh7QuHU1LQ/KZiO/7Wm4b3VkkprJfrweJpYy9nBFnVGf3lpggLXofRuNRCAE9+9morBnh+SuBzjsA6eHVSRjEjnUu72lcJ/C1FZEpMZ0/h4pw99FzAZrnqMHuY9n9Z3TxAesE1c4j/eQoy6V21FnvKjaMyZNdwu/4yCae1CPT8VRwqLN/cbyZTa7luBvamLhJrHrSMxED/nx25iXPGRlc+PHxpMULNWhdI9AvWW7RDpgBTgKUVSloobtyHI1v7uwjSeIqnAO9GQ1o2rALoeTMgmuQVtHBshzPbKP0Dnj5ibWv0qY5T58bUn8xjHe9QrLQvQEfA0ivK9n7DuYGOf39GqGIiplIp0r83DSfj73r3OAffaH8O0Qcf7LktWqzkxZrcknE83BFo4t28oAOW6M9A/cw378JpPP4hKiRoY3eLA36O35JIc2cRGB+FOSGOv8wa8Mu08Od0q5Z8QW8v8TZMksMIN3q4XBDpNw==;ZiNTwOMcoWphHpfBvbIdOg=="
 ---

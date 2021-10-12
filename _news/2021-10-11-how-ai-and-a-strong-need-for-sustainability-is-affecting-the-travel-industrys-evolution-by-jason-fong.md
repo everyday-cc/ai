@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-stro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/10/Depositphotos_212660524_S.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Artificial intelligence hiring levels in the railway industry for August 2021"
-    excerpt: "We've analysed hiring patterns using data from GlobalData. The proportion of railway equipment and technologies companies hiring for artificial intelligence related positions rose in August 2021, with 29."
-    publishedDateTime: 2021-10-07T10:28:00Z
-    webUrl: "https://www.railway-technology.com/features/artificial-intelligence-hiring-levels-in-the-railway-industry-for-august-2021/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 49
-    images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/09/Konstantin-Planinski-on-Unsplash-800px.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "How the Agriculture Industry is Using AI"
     excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"

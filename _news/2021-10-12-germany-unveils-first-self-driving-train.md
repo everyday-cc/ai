@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2880
     height: 1920
     isCached: true
-
-related:
-  - title: "General Motors unveils Ultra Cruise self driving tech"
-    excerpt: "General Motors has unveiled Ultra Cruise, a new, advanced driver assistance technology which, it said, is a significant next step...Read"
-    publishedDateTime: 2021-10-07T10:38:00Z
-    webUrl: "https://www.just-auto.com/news/general-motors-unveils-ultra-cruise-self-driving-tech/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/GM-UltraCruise-resize.jpg"
-        width: 682
-        height: 383
-        isCached: true
 
 secured: "Agx/naHst39b1wgl9uYWNP0Y4fJDADFx1qw++jmLU8g8T8ratR/IolZVx+QZK5vGAmrDDQRqq6UARz5nT4UaMtGmlmbeXD2nuH2yWniv3vZmATqA0IAmF+sBhjj88m6QrNTU1Bn1ea0BhNVelJ+5BTEzTtqi3xBo/UQadDT06R4rPpeOOso0nnelcYwEmHkNI8LjQoDPpabmPLPB/ucfn+G7fedHOr5MLONoMwmVl7gbDcsB0AuJd8y7Mou979gF2ySaMitZi0B7c0PHEqy3ZDLn0pGgDRU4F4wHRzGd10JJ/l2oFKHHRDLyDbgdGRiMKlaves/87cD1SFByodEjNL58/Uykot481zNDE3eNcbdfBFtEGCOvuPFKF+HmRVQOML8XJZK82FyjAH8fC+qUDXvd+z1ERxzu44s4+fHEn7eUG+n4pZwkg6qivYWsGKKBy2GzGj2FzbOouUszXBGV3sgR33S1TEKFStYCyighixKA7kQeO3iCTWKs1UyKuZTtragehf0IoaK03dLqPDMmCQ==;1b3VoOBh/rYTsRQa+ebAIA=="
 ---

@@ -58,20 +58,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "We need concrete protections from artificial intelligence threatening human rights"
-    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
-    publishedDateTime: 2021-10-07T09:34:00Z
-    webUrl: "https://business-reporter.co.uk/2021/10/07/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp/wp-content/uploads/2021/10/business-technology-internet-and-network-concept-labor-law-lawyer-at-picture-id1206961013.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jTc+HY3h/K+0/hcBXuYqNr4NSgv27PTxdwdck+DwDpVc4RvxzlKGCWK8wL/lFxggeItHYc7MJTmzqHKE0cDpNpX60xvjGC2yT6aMFVXCxmrxJE4xDVfHsONNcLqbgq0aM5QPdTCkCXmRwF1Y6YJBWaGrWdHwUu5dMTJS0A5ZFUn1rq0imlEwsuq7QEMOwPPkE2FywBVIthMjcrKWWrHU0xpImfFgyA9YFq4yNe73aMER8KLV7917Lgo+qJvGNJZSX3niB0s+XWllxqJTzXggWt80lqpZpWd+v+sDB5WwYciOPUBSV2ZizXxsFDJW0c302Jn/KId2c0RrvoFrZWLL+AtTjhnqxEskj7cgJuZVYyA=;yVl9w0TjlVnMjcdY6u5/dA=="
 ---

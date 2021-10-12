@@ -8,7 +8,7 @@ webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-wit
 ampWebUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
+  - AI in Finance
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Machine-Learning-in-Healthcare-Market-Including-Key-Players-Market-Share.jpg"
@@ -75,6 +76,6 @@ related:
         height: 267
         isCached: true
 
-secured: "2bASjwLFqdrN+5tOzKvTAF1sIzhG+bjeSkzdQTFaDURrudlHBT4sZbIeWYnqyxisLrkK+WNINeBdSaBgNmLxY7T0+LwBOg5/JaXn+v/d4gpFRFyjJiiefAerJ1pLldgzfv3Z1Dm50vSHTKYilotOtIneDXMZTi3G+lH7bbI069Rnb+B1cKTLM7O/GRX276+lNBUAds1huNT7Mv9csIXNk8SZI43mHFG88N0MC3mpD4HLM3p4bRF5CsiyMAZPHKbh+ZNFluEi15K2mh+8jYjRs3F54R9yJ5XTg4BSH2PpsLXysGAM0h8Rf/v4JCcOsS1n3g158WDXvnDVi3H2+8yXIHHRfGkEEr/WainQzOwnDVg=;sbHT/zdAspT7UQ44zzJU8w=="
+secured: "6MeivBje99x0zpJfmunkWkCrJm/AQ0QaSpg60AZc+W3cMiMbekNiuHL4M/TrwPornGr3I329UwBm5y8H4drlDoAZykwiT6RjKXUhxWPmt1zV+wxukLHA5ldXgWBXDU7COsbv+3NcMqTGlyLVuHkARjVnCyuZF3WgEwuR26GYG+3afNHZ1wgua+pftwalx/m4x7mOqUP3RUX5jbVvzXkboiHak9zNE91fs4z/6qsgB3vwWXU4jXgoYQD9NU2ld2o2KHhk4OQX/L9T8ThAiLMC8/1QUOLWZ0UZ1LjvwJgnnapBHa071fHC8nJ2TTceuoyoPHkndeV+syw/vYPSUA1BMYfk86EZEwlBpVpTuh0+283HCLrb32rLKAcPoJjYVeC4FN+L6ABl6kLS0mYis3zaFOxRWBUadNP4B4UaUHzz3ZEg6eC4Cq2Yd86mY45qW9AS+tUhfx/JXfqyUQit3WhrawfBTuNCUqCaM1rfm9Fe0SOlamHtcdOfdcuaRJ9Ccv4lMW3SAz2w2RSOIYFXsUH5zg==;oZkdW7Ar0WkReb1UuOyr4A=="
 ---
 

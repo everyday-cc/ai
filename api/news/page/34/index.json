@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
       "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
       "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
@@ -1051,49 +1094,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
-      "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
-      "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "originalUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2020/07/Fintech-Trends-Q2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "publishedDateTime": "2021-09-14T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

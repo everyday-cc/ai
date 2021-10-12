@@ -1,0 +1,49 @@
+---
+category: news
+title: "NVIDIA CEO Jensen Huang to unveil new AI technologies, products in GTC Keynote"
+excerpt: "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders."
+publishedDateTime: 2021-10-12T03:36:00Z
+originalUrl: "https://mb.com.ph/2021/10/12/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote/"
+webUrl: "https://mb.com.ph/2021/10/12/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote/"
+ampWebUrl: "https://mb.com.ph/2021/10/12/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote/?amp"
+cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/12/nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote/?amp"
+type: article
+quality: 55
+heat: 65
+published: false
+
+provider:
+  name: Manila Bulletin
+  domain: mb.com.ph
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://mb.com.ph/wp-content/uploads/2021/10/36505.jpeg"
+    width: 1209
+    height: 680
+    isCached: true
+
+related:
+  - title: "NVIDIA’s upcoming GTC keynote on November will focus on preeminent AI research featuring industry leaders and Jensen himself"
+    excerpt: "NVIDIA has announced that they will be hosting another round of virtual GTC in the month of November where brand new AI technologies are slated for the unveiling."
+    publishedDateTime: 2021-10-08T05:09:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-gtc-november-2021/"
+    ampWebUrl: "https://www.tech-critter.com/amp/nvidia-gtc-november-2021/"
+    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-gtc-november-2021/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 32
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2021/10/NVIDIA-GTC-2021.jpg"
+        width: 1209
+        height: 680
+        isCached: true
+
+secured: "wc6K5B7wlLCnlrOEBEMBgaMf95U975B4VK6BaoSNIvG/L7QdlBHhihOkUtpZ6gXY1m1pnfOiD+s29ZHW8yj9maSWppuBrl2n0xBLwd62ajrHUtWLFTH/gMqb48ddAr2nNj494NkUnWj1t4hFmU664xscUlzX8uJyCK+tHjObttJNGDKInvQkM8WR9Kvky3w32ZA5dJ7kjl4QruuuMk06PvdhZsvJldi8QutAUUls8qco5rxsI7GX1aPYFKynW3+nuKaGLeXvC1pYFDNjj7sFmhx2+B2gtCwxlo0e918W32NbcOVQC1bd0bTaP8gGj3fgUHfNBYXTBhFLYf/coDlhTYiIzbNpDWnAKYG8I5H6hPY=;z6kVVA8KLx8GEVBjIiCOcQ=="
+---
+

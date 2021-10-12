@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/nvidia-strategically-meeting-dema
 webUrl: "https://www.analyticsinsight.net/nvidia-strategically-meeting-demands-of-artificial-intelligence-workloads/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA’s upcoming GTC keynote on November will focus on preeminent AI research featuring industry leaders and Jensen himself"
-    excerpt: "NVIDIA has announced that they will be hosting another round of virtual GTC in the month of November where brand new AI technologies are slated for the unveiling."
-    publishedDateTime: 2021-10-08T05:09:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-gtc-november-2021/"
-    ampWebUrl: "https://www.tech-critter.com/amp/nvidia-gtc-november-2021/"
-    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-gtc-november-2021/"
+  - title: "VMware and NVIDIA solutions deliver high performance in machine learning workloads"
+    excerpt: "VMware, with Dell, submitted its first machine learning benchmark results to MLCommons. The results-which show that high performance can be achieved on a VMware virtualized platform featuring NVIDIA GPU and AI technology-were accepted and published in the MLPerf 1."
+    publishedDateTime: 2021-10-09T19:28:00Z
+    webUrl: "https://www.publicnow.com/view/530C12E4A72128CCD3D7F067E79FFE493811054D"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 32
-    images:
-      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2021/10/NVIDIA-GTC-2021.jpg"
-        width: 1209
-        height: 680
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 13
 
 secured: "5DBovpK3EMCPu9digKfemjWTYRn/seQRBRYXpNTv1PnXg4e1TZ44Ky/uZaEt/K6LO+icnwgR47qwaqEE5pgrk0jU3ds2pg1wslhChSEvrxsehtjxFYdm/GHM06cVCkM4TiPJ1hZp/DOfjXEHBvw+7lFExqYUENyq2zPUKQYqOk/uSAqU6nsXZa7CDWNR9ODMiy+6Okq3fqW1E6s8sMIYIofvgLGhEcYJLmlAkU0As9tBDia7FA+g022lzjfrJ5P688iCpaPzVofArM1E+TKlVHGeN5FWLZL1LVjliBdM6SxxaAynw0BhPWW6qp+w0/eteaE7ZawronpVBtbXbYaIu3VJkmnS3797kGMiwNA7Srv+4y47UWDVY3y7gGShL/Bdzc1dCQ7BeH/4Q4zdoGZigjzUZ08+RxkAefASbygMTMyzQHlIiUwVyze0gLHRw9F1uU1DVvLtOXwrBHdLOlerUOUTfaPcCKiHaxjiMNbm3V7S8vhjN3hEfi+8OejTCR6a1o32mihi0LC6yDPL4S4CbQ==;o9Aeg9HejSPLodAaqUxpIQ=="
 ---

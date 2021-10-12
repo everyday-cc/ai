@@ -2,6 +2,50 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-09-08-lumo-labs-backs-autoscriber-to-advance-healthcare-ai-voice-recognition.md",
+      "title": "LUMO Labs Backs Autoscriber to Advance Healthcare AI Voice Recognition",
+      "excerpt": "LUMO Labs is backing Dutch health-tech startup Autoscriber, which specializes in artificial intelligence (AI)-supported voice recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/shutterstock_1746429518-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/lumo-labs-backs-autoscriber-advance-healthcare-ai-voice-recognition/amp/",
+      "publishedDateTime": "2021-09-07T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-global-healthcare-artificial-intelligence-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
       "title": "Global Healthcare Artificial Intelligence Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
       "excerpt": "MarketQuest.biz has published another latest research report on Global Healthcare Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that encapsulates vital details about the market current as well as future status during the mentioned forecast period of 2026.",
@@ -1136,40 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-arteris-ip-flexnoc-interconnect-licensed-for-use-in-sk-telecom-sapeon-ai-chips.md",
-      "title": "Arteris IP FlexNoC Interconnect Licensed for Use in SK Telecom SAPEON AI Chips",
-      "excerpt": "Arteris IP today announced that South Korean telecommunications operator SK Telecom will use the Arteris IP FlexNoC interconnect IP in its next-generation SAPEON artificial intelligence (AI) systems-on-chip (SoCs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "originalUrl": "https://www.design-reuse.com/news/50553/arteris-ip-flexnoc-interconnect-sk-telecom-sapeon-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

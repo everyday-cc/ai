@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-15-is-the-new-federal-ai-advisory-committee-too-late-to-the-game.md",
+      "title": "Is the new federal AI Advisory Committee too late to the game?",
+      "excerpt": "The Department of Commerce issued a press release about the creation of the National Artificial Intelligence Advisory Committee (NAIAC) which “will consist of expert leaders from a broad and int",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "originalUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-federal-ai-advisory-committee-too-late-to-game?amp",
+      "publishedDateTime": "2021-09-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
       "title": "AI hampered by public perception, ethics concerns",
       "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
@@ -1335,58 +1378,6 @@
         "AI",
         "AI in Autos",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma.md",
-      "title": "How AI can tackle complex social problems, from loneliness to stigma",
-      "excerpt": "Arezou Soltani Panah is teaming up with social scientists and policy makers to solve complex problems like loneliness and family violence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
-      "originalUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/how-ai-can-tackle-complex-social-problems-from-loneliness-to-stigma/amp/",
-      "publishedDateTime": "2021-08-20T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/former-senior-pentagon-official-says-china-is-ki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp"
 type: article
 quality: 82
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
         width: 640
         height: 428
+        isCached: true
+  - title: "China has won AI battle with US: Pentagon's former software chief"
+    excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
+    publishedDateTime: 2021-10-12T02:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/articleshow/86955326.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47488,msid-86955452/untitled-11.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "China Has Won AI Battle With U.S., Says Ex-Pentagon Software Chief"
     excerpt: "According to Reuters, the Pentagon’s former software chief Nicolas Chaillan told the Financial Times on Sunday that “We have no competing fighting chance against China in 15 to 20 years. Right now, it’s already a done deal;"
@@ -242,6 +258,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "cesdxoUthz8OcZ1gn7D74APv5IvkrSRsrYVIy6+QZObrs/3QrK/AA2uFy5c70RReGIlQjpaX5Jzd0iD5Szn0pqXm+l6/z1PXm1DbM4vGxJr5mXUxvZ8mqOh/6ofcYnVGRutWr9M5zkGdhe+q820KJAGTS9dwstWLEI1F9KvqwKBxzuWsS9q2ymTOmrSMXGNwlerCWSyQhdYu5bj5uFzcmhswgejV/qlh6Uqs9bgSSSdK9Q1cgdJIVM6SQuDHzzyhp0k4lzGejwPcQOtzT7wbXU+aN9Cjs9QgCPZ4d5/7lUPqvbKoF5GT2DTwE2VXIPO1dFIw7IiwRUoXAtTjxm6EuSAgJPzRw6wLBLvtp2zRyIg=;XsPgm+O2vs5qQ1HFe1JkXw=="
+secured: "klmK2KQohpD6eo9zdPD7Xx6EcXSO4xp+fdO/6VG0L6BuuP5ra+BZtMaWjzH3ahnrDl5yYv4R7VwZeZGnkoZmqdAppXRrGQKE+3vs0GAzzxOSTpH70xrpoEoDf99tMCzKySmrxAhKsOFQBFyJRKNvu4PBjGZ7+nwzz0aa9MOg3Wy+acBG93lQ1X+Rx4FoRErOCGjJVWo7GzERhmJ+/6fA/PG1AIV67bIYdGArDipbXW34QxLQBXoWJgympOX3SzRhEyfZsbibRlwfr1a0EqNj+8scipnmoxR+h81ug8rJOuxxSMmmVVms0Pt0EbJFdnB1DuCq4qrJvUbly1xE3ZqVYOZmnPHFQ0NPH0BL+/vg7fvuhh63gpHPw15VH63sSMcQId7uYDSvXbtMDCtCj+DHeiRhqdaa6LRbd6gcpG+NiiUVG7B32eRoVwv0ILU0/LOtL8wtCGHO5/SLbohNnXbWNGD6ioAUA4Yyhz+JpdCeYJ8KvgZgTz3xUqdGZjNO4XJTd5dwe8+v2SZthFYiG+Ktcg==;I77A7UZRnJKX8yyvZ8eSFw=="
 ---
 

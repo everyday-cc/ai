@@ -3,24 +3,24 @@ category: news
 title: "Speech Processing Solutions (SPS) becomes a Nuance Dragon Medical One Distributor in Europe and Asia Pacific Region"
 excerpt: "Speech Processing Solutions (SPS), a leader in professional dictation, has announced they are joining forces with Nuance Communications as an official distributor of Nuance Dragon Medical One, the leading cloud-based speech recognition solution for clinical documentation,"
 publishedDateTime: 2021-09-28T07:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/business-technology-europe-health-c31cc06c44d84246b091d87e4a101617"
-webUrl: "https://apnews.com/press-release/BusinessWire/business-technology-europe-health-c31cc06c44d84246b091d87e4a101617"
+originalUrl: "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html"
+webUrl: "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/e/43/e4305dae-7d56-5911-9c31-673fb3f58c9d/6152c1705fa0e.image.jpg?crop=1662%2C1247%2C0%2C0&resize=840%2C630&order=crop%2Cresize"
+    width: 840
+    height: 630
     isCached: true
 
-secured: "7EEQSCrnVKpDdww9Blp41anaB7K3Gm3b8UbnBc5RFE7eJpSnB4wo86W1gtnBYTAiUTufhdQIu5KfScQZ5/+LRDJgk1S0gllbVcPN9OD499K3mP8HFISTOLkJKrcsA9qa63wfZSZrpzeNKeOxEFDh+kNtCdQwfeSC4gBRs9RLH1HQ3q4xMZ2WQwtR/xYQvFubtp4D5pciT7+ARpOV31IhYDO97I7opZJ+oTVoJuoDn9wkRXo4n/k7NdHHjw72EWteW1Kgzm652R8+I2o97snLJwhijljo5ctJ8McttX5m194Bpr7Iv96OcwkYyeSF6Y4RNkAeV9gqW1yUF8l0BvZBZ9gB7EAX8woG9vicPfHayFY=;U7hzxesUaZ7uHXyK2eD1pg=="
+secured: "/zeS5sOkQi2lqZ6MXEgQ2Q3ZplamcH/Y6qqBYks+XBjHdIow05HYGgXI7WDZo9/5lVptB9W06hObBDL6fefsFCqEYj+6gWOQ2itbJwKwE5+eJsrbje/wInYYRMgcPGAR5k7SIbWJazXLdVUNIYrbqVfnrEM6Q+pc+YZ6hmTuYfwndkZADvYZBOcobitlQ6fz2CKKXu6TE2nAyq6QHpp+lbsgozAMBG1XcmIpsHK58O+bWUju8L9lRQejqHZhXzUQpHDFlDifFV6H/biw+abyAuAayGVelitbiK/+TLIarF0YPzNphifY1TgQzaZY6JlNA38B2w5qMvuPHfYdJYRqrhKYruNJWFk0IM3vkN0YVdg=;xs/qEXvLW/WtxgLBEx+3MA=="
 ---
 

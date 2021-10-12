@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "We need concrete protections from artificial intelligence threatening human rights"
-    excerpt: "Events over the past few years have revealed several human rights violations associated with increasing advances in artificial intelligence."
-    publishedDateTime: 2021-10-07T09:34:00Z
-    webUrl: "https://business-reporter.co.uk/2021/10/07/we-need-concrete-protections-from-artificial-intelligence-threatening-human-rights/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp/wp-content/uploads/2021/10/business-technology-internet-and-network-concept-labor-law-lawyer-at-picture-id1206961013.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "zqrTE2g/gvwY8j5eOK+WWnDa3qlUrehlvvJw7xCMApyp13I7RpqFsx6fkwPMiv0X8Gn7SmzM/ZE2FQNFdBr7KqAHfQQCnMQSydt7s05fKOoxefiSrO+KWHmE/KI2te5AQiL5M5vYuJ13B8C+vX3yRCBCw4E+jdQ2VymtRw7zvUtw/xUYJ5pLRmt7EYhhNzdAknqWDNn9inc1OTph0EtLQAjIV7ibyiV9zQapJj0tHHpgnJbQ1c9vKbEB3hjsEHux/uh5EGk8uxyhI4IiwdysuTPSkrV8iM7HpH6g9QYs8AZS4cFqwbclYH86zKLAHm4vt5FiT7XSuWSl22fEQicdbOWvw3EOgn9kkDsvBCXhB0Zx//Vl6/rlCAVJqHOHaLDt0i+atwSuKJVH2s6wutj4bRH6VWo1v+KgdayF8iOTZtZgr0aw9K1trj8sfQFxhrm0UmralCafpfqedoQ3AzdyMFhihqednT+awVk8BYr3y7Hux/FRo0YeHriQoqL+JBWUhGU1M4RYXZAktLOXglTscA==;e1uIPvIh2cdKI/YcgI+uzA=="

@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Machine Learning Software Reduces Time to Map Competencies to Curriculum"
-excerpt: "Texas-based minority owned software company creates an artificial intelligence solution using natural language processing (NLP), neural networks and machine learning to help nursing schools reach accreditation goals."
-publishedDateTime: 2021-10-11T12:42:00Z
-originalUrl: "https://www.lelezard.com/en/news-20039399.html"
-webUrl: "https://www.lelezard.com/en/news-20039399.html"
+excerpt: "Texas-based minority owned software company creates an artificial intelligence solution using natural language processing (NLP), neural networks and machine learning to help nursing"
+publishedDateTime: 2021-10-11T12:38:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-software-reduces-time-to-map-competencies-to-curriculum/article_a9264dc4-a521-5675-9341-d12d2714ceba.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-software-reduces-time-to-map-competencies-to-curriculum/article_a9264dc4-a521-5675-9341-d12d2714ceba.html"
 type: article
-quality: 40
-heat: 40
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/78/f78aabd0-4bca-5473-90fc-91e1ef7240c7/616432b3985f7.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "nsVzmv1w2rir+VG9KPrxN5DHftIaN9qhiKSILsykEYIR9aQOKS22Y/afuH7FARMVOUzRUU381sqnnSqKliSFY+iEAVVKDzYI1bd45lBM0NnYQXflDuDPsLutPSA/wWZ3W+pwGPrDYh2B8N4DBU5nbUqNbmdQ+5UW4yAvq9fzui8pZhPZmVXzsXOS1YEh2hY+IgfMlTwplVPAiQpJ1FrI6JNlfOrRxE1WxQkquJlU6wzgPQJiSQZiNOpWeLENaZMWufbeu/NFUvgX8LqQxLkOXNaoSee0UriqZoEqzSA7ZbuCrmuldlpUGNsuOcPcFxjEYbGCq9CL0gJq093chwamzvWVqPvBvDYLymHYLTdCMvI=;ijTry2cVmI4FLVBM0XftEg=="
+secured: "ju+9P3N4lToGAuMFgOOqd35GE91scLAwS5yydrhEZdGfjkc+hcdjUEXlSbt4TLCcNLKSCODk4ZBSrl7PlpHHJlikyCpRLVvNhCcXWgs9z67AY4NnJTvRO3qoeaX3GVGmekLXd+VDAFGMS4SxjOjNUNy/42Tkj+klPXwGZZ5ICGA6aadGI58OIUJPBMKfUBT6Y7kQ8owRBjvIODcHefhZa0VaQklHeFHJRolvNC0Sa8L8Pz6JGp4wVL9ci9WIzUNNhE6vC1X1Iald75iQt4wWurThD+mIjAk7WjFNuOU2gaT7KA+ldmA+b+HIMefunc2HsAfTH6FL5/cPE4rZUMX+heRsrSe2EOaEIUh6hU3tN44=;C0yHq7GJvfLcVVU6orWmgw=="
 ---
 

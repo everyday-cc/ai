@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-field Speech Recognition Market 2021 Size, Trends, Scope, Demand, Opportunity and Forecast by 2027| Covering COVID-19 impact Analysis"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “ Far-field Speech Recognition Market ” report covering growth prospects, market development potential, profitability,"
-    publishedDateTime: 2021-10-07T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2021-size-trends-scope-demand-opportunity-and-forecast-by-2027-covering-covid-19-impact-analysis-2021-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Report (2021-2026) with COVID-19 Impact and Interview Excerpts o"
-    excerpt: "The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market\" is likely to grow at a CAGR of around 23."
-    publishedDateTime: 2021-10-07T09:37:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542985"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "J8x5v6DzA0J5E5Uhq4dcGQOb/f/nIdYhjaMHO+84vI7vdTH2prd3ZWMQLsGv7m6Iv9CTZEXGm12hyoOqVzD7y7w31I8gfH/402HF94/GI9lunsMFlX7T3V0UAvX62mmRYjMR/aLbPudWmJTsSq7PfJrHcDvt38w68Elyq3whPFmcNpr22jPnn+XD0+cMwKsfrAfZ/rH/9Wo7nUFp2DRa08xynYpdQhfMAuiNBGySQ9ykzkdd4GP3wXtksoFL7Y4frYrGFrwnPJdVPCe8vaWz2DNwiQqulrcQZjSVqh+i8ywTwFLJ5gJP4SZKKpDNsJ3FN3VGE/+0iD+Og7NXddN7xQ6c77TQKGRzTKWPuajT5ljYb44qX7ucg+eWxxWXeKb9Fj2H4OFaZ/ccvkCBLewZ0znrENX6NI2PM3YTsb897M7otZHOUQprqpQOIO1dT5OxTHsGuzBfLtVYXAISXyjzDbGvzfSZ1OAZ3g5vAOJjdYLILvTYZa79bXEnxz4mg9k7YERR6HygNEKWN0ZaWjAMWg==;fDKbdlpKdAHgjaP6yFvD7g=="
 ---

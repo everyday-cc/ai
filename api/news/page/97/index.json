@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2021-07-29-convert-an-object-detection-python-code-to-aws-sagemaker-for-deployment.md",
+      "title": "Convert an object detection python code to AWS sagemaker for deployment.",
+      "excerpt": "Object Detection Re-implementation on AWS Sagemaker using Pytorch's detecto library. We have an object detection code in Pytorch using detecto. However, we would like to deploy it on aws sagemaker. We have an existing object detection dataset. Our goal is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
+      "originalUrl": "https://www.upwork.com/freelance-jobs/apply/Convert-object-detection-python-code-AWS-sagemaker-for-deployment_~01cc049e3d738a019e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.upwork.com/images/upwork-logo-1200.png",
+          "width": 1201,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Upwork",
+        "domain": "upwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-partnering-with-the-nsf-on-a-research-institute-for-ai-to-improve-elderly-care.md",
       "title": "Partnering with the NSF on a research institute for AI to improve elderly care",
       "excerpt": "From the early days of the internet to the development of the Human Genome Project, U.S. government-funded R&amp;D has yielded remarkable progress for society, and today it is an important engine for AI research. That’s why, last year, we were proud to announce our partnership with the U.S. National",
@@ -1108,49 +1151,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
-      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
-      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "originalUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/amp/",
-      "publishedDateTime": "2021-07-28T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
