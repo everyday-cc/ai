@@ -53,22 +53,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-    excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
-    publishedDateTime: 2021-10-10T10:53:00Z
-    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "China Has Won AI Battle With US, Pentagon's Ex-Software Chief Says"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T10:16:00Z
@@ -100,22 +84,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
         width: 640
         height: 428
-        isCached: true
-  - title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
-    excerpt: "The Pentagon's first chief software officer who resigned in protest against the slow pace of technological transformation in the U.S. military, said the failure to respond was putting the U.S. at risk"
-    publishedDateTime: 2021-10-12T04:40:00Z
-    webUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
-    ampWebUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/news/international/v4jy2u/article36938450.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
-        width: 615
-        height: 384
         isCached: true
   - title: "China has won AI battle with US: Pentagon's former software chief"
     excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
@@ -164,6 +132,22 @@ related:
       - url: "https://c.ndtvimg.com/2021-10/31a2482g_-china-artificial-intelligence_625x300_11_October_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
+    excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
+    publishedDateTime: 2021-10-10T10:53:00Z
+    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
+    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
     excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
@@ -224,6 +208,20 @@ related:
       - url: "https://thefrontierpost.com/wp-content/uploads/2020/09/FP-Logo-scaled.jpg"
         width: 1920
         height: 886
+        isCached: true
+  - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
+    excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
+    publishedDateTime: 2021-10-12T15:41:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 39
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
+        width: 1024
+        height: 691
         isCached: true
   - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
     excerpt: "He said US cyber defences in some government departments were at \"kindergarten level\".. Read more at straitstimes.com."

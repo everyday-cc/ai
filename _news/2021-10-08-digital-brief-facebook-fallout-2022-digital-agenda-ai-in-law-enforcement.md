@@ -55,20 +55,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
-    publishedDateTime: 2021-10-07T22:36:00Z
-    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
-        width: 1024
-        height: 667
-        isCached: true
   - title: "6 Models of Artificial Intelligence that Facebook use"
     excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
     publishedDateTime: 2021-10-10T12:51:00Z

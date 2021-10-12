@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-23-word-from-the-street-david-delgados-keynote-speech.md",
+      "title": "Word from the street: David Delgado’s keynote speech",
+      "excerpt": "The city prefers to use the word “cleans,” but when you’re removing a person and they have no choice, it’s a “sweep.” I do cleanings in my neighborhood all the time. I made friends with the street cleaners and realized they weren’t intimidated by the unhoused.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "originalUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.realchangenews.org/sites/default/files/p4%20david%20delgado.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Real Change News",
+        "domain": "realchangenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-20202027.md",
       "title": "Natural Language Processing (NLP) Market, Revenue Share, Key Growth Trends, Major Players, and Forecast, 2020–2027",
       "excerpt": "The global natural language processing (NLP) market is expected to reach USD 28.44 Billion by 2026, according to a new report by Reports and Data. Natural language processing (NLP) is a field of artificial intelligence,",
@@ -1264,49 +1307,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
-      "title": "WhatsApp for iOS to add voice message transcription feature",
-      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
-      "publishedDateTime": "2021-09-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

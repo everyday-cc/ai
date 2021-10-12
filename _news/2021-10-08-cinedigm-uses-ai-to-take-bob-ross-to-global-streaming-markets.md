@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technologies Are Being Used to Localize the Bob Ross Channel"
-    excerpt: "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms"
-    publishedDateTime: 2021-10-07T21:28:00Z
-    webUrl: "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg"
-        width: 959
-        height: 585
-        isCached: true
   - title: "AI technologies used to localise content for the Bob Ross Channel"
     excerpt: "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms"
     publishedDateTime: 2021-10-08T08:27:00Z

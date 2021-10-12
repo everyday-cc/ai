@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-delivery/ai-technologies-used-to-loc
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/ai-technologies-used-to-localise-content-for-the-bob-ross-channel?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Technologies Are Being Used to Localize the Bob Ross Channel"
-    excerpt: "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms"
-    publishedDateTime: 2021-10-07T21:28:00Z
-    webUrl: "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg"
-        width: 959
-        height: 585
-        isCached: true
   - title: "Cinedigm uses AI to take Bob Ross to global streaming markets"
     excerpt: "Cinedigm, an independent streaming content provider, has turned to artificial intelligence-based startup Papercup to dub the iconic Bob Ross series, “The Joy of Painting,” for the international OTT marketplace."
     publishedDateTime: 2021-10-08T13:11:00Z

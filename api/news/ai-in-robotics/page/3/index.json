@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
+      "title": "Amazon Astro could be the robot we've been waiting for",
+      "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "publishedDateTime": "2021-09-28T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
       "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
       "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
@@ -95,6 +147,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-best-cheap-robot-vacuums.md",
+      "title": "Best cheap robot vacuums",
+      "excerpt": "This bump-and-clean robot is controlled via the onboard buttons or ... If you’ve got a budget in mind, this is obviously the first thing you should consider before you buy a robot vacuum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/uk/best-picks/best-cheap-robot-vacuums",
+      "originalUrl": "https://www.tomsguide.com/uk/best-picks/best-cheap-robot-vacuums",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E8mSKJALNJ6bUCQx2ukhnT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1306,104 +1401,6 @@
         "AI",
         "AI in Marketing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
-      "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
-      "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "originalUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/09/University-of-Texas-taking-closer-look-at-ethical-AI.png?w=1280",
-          "width": 566,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks/amp/",
-      "publishedDateTime": "2021-09-22T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
-      "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
-      "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
-      "originalUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/21/da423e03-baee-48a1-a496-5d7b1687a678/resize/1200x/cb835c5e04a13149c7d356d4637df0e7/arctoris-ulysses-platform.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
-      "publishedDateTime": "2021-09-22T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

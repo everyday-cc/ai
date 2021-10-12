@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human-Like AI Technology Based on Deep Neural Networks Approach"
+    excerpt: "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability."
+    publishedDateTime: 2021-10-12T14:53:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12540"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12540"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg"
+        width: 650
+        height: 434
+        isCached: true
   - title: "Developing an AI that 'thinks' like humans"
     excerpt: "Creating human-like AI is about more than mimicking human behavior—technology must also be able to process information, or \"think\" like humans if it is to be fully relied upon."
     publishedDateTime: 2021-10-11T11:16:00Z

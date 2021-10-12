@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
+    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
+    publishedDateTime: 2021-10-12T15:20:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "J17EaGq2HZ9hxZDYC8NjaOfMQU3ya4ZHV90krPr+IJdN8hx14YNA4k2Kf+d7LFoJA20xnE5rC2JCj22TH4GR9jd94X6WNnqF1eI3xuPmHAqdxM5vr1F8AsOCszsCVucB19MEzkaMitfc4Bxp/YWrrJ0MHp5iD6JN3soBhk/xtRFBF/MUyqLfeVbXeYbhWFJ8wwk0ZEddzVEAdB618+V+XW5UXnIn4eXLn4NABSGWz5mp7OZREA4AoyLFb0hBypD4RR+kmO0Ekmme+sP8Wxzk/XgYC39uPSg35WlPfcXlhPkB0/hNQ0S2LJx+aQ4VYSvFww3xY7asRTG4gwC6BjOMZ8u6Z90DDC4Epqy5ZAJ60ywoYrx9wrRoGtkFj/CcTXmHYk3Xfwy7ApO44uQfAtftQbdltFUFw9JX6RJ3th7JZOJ5ACpRPZSVlIxFO7mpspYyS6zwJXuypdR9jMZmF7OT0TER088MveNu1lrtijS0BtGhWqhSFXhDlrA12EwwUURfHdVqJD+kns5DLS+nMgziRw==;RlmDTz4bujuS7YWZQnnAmg=="
 ---

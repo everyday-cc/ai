@@ -40,6 +40,20 @@ related:
         width: 483
         height: 400
         isCached: true
+  - title: "AI-generated deepfake voices can fool both smart assistants and humans with 5 ..."
+    excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were"
+    publishedDateTime: 2021-10-11T20:06:00Z
+    webUrl: "https://en.mogaznews.com/Technology/1843792/AI-generated-deepfake-voices-can-fool-both-smart-assistants-and-humans-with-5-.html"
+    type: article
+    provider:
+      name: en.mogaznews.com
+      domain: mogaznews.com
+    quality: 34
+    images:
+      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-11-efb72bac1b.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI-generated deepfake voices can fool both smart devices and humans with only five seconds of training and are better at imitating women and non-native English speakers"
     excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were fooled about half the time by the deepfake audio."
     publishedDateTime: 2021-10-11T19:52:00Z

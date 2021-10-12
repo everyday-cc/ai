@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-ibm-brings-weather-data-and-ai-to-help-with-sustainability-goals.md",
+      "title": "IBM brings weather data and AI to help with sustainability goals",
+      "excerpt": "The topics related to CSR and ESG aren’t at all new, but they have certainly received a great deal more attention and focus as the result",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "originalUrl": "https://www.techspot.com/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-10.jpg",
+          "width": 2160,
+          "height": 1266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "publishedDateTime": "2021-10-12T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
       "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
       "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -64,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -1376,49 +1428,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-word-from-the-street-david-delgados-keynote-speech.md",
-      "title": "Word from the street: David Delgado’s keynote speech",
-      "excerpt": "The city prefers to use the word “cleans,” but when you’re removing a person and they have no choice, it’s a “sweep.” I do cleanings in my neighborhood all the time. I made friends with the street cleaners and realized they weren’t intimidated by the unhoused.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
-      "originalUrl": "https://www.realchangenews.org/news/2021/09/22/word-street-david-delgado-s-keynote-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.realchangenews.org/sites/default/files/p4%20david%20delgado.jpg",
-          "width": 3024,
-          "height": 4032,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Real Change News",
-        "domain": "realchangenews.org",
         "images": null,
         "publishers": null,
         "authors": null

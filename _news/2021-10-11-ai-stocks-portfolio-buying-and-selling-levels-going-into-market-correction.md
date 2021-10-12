@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
+    excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
+    publishedDateTime: 2021-10-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
     excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
     publishedDateTime: 2021-10-11T14:30:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "The Dangerous Promise of the Self-Driving Car"
+    excerpt: "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created."
+    publishedDateTime: 2021-10-12T14:32:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Apple Admits It’s Working on Self-Driving Car Technology"
     excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."

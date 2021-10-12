@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-27-robotics-startup-rents-out-automated-machines-to-factories-for-as-little-as-10-an-hour.md",
+      "title": "Robotics startup rents out automated machines to factories for as little as $10 an hour",
+      "excerpt": "Companies struggling with a labor shortage and rising salaries are turning to robots for automated work and for those who can't afford a big expense, they're renting robots for as little as $10 per hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/08/26/13/47127101-0-image-a-104_1629981069153.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9928905/amp/FOCUS-Rent-robot-Silicon-Valley-s-new-answer-labor-shortage-smaller-U-S-factories.html",
+      "publishedDateTime": "2021-08-26T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valley.md",
+      "title": "Factbox: Investors are betting on rent-a-robot startups in Silicon Valley",
+      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "originalUrl": "https://www.reuters.com/business/investors-are-betting-rent-a-robot-startups-silicon-valley-2021-08-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=50",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove.md",
       "title": "MIT’s mind-controlled prosthetic hand slips on like a glove",
       "excerpt": "Unlike most robots—which are built from hard metals ... in your arm muscles through electromyography, or EMG. While mind-controlled limbs might still seem like the stuff of sci-fi, Zhao says ...",
@@ -1300,112 +1395,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-elon-musk-announces-teslas-new-humanoid-robots.md",
-      "title": "Elon Musk Announces Tesla's New Humanoid Robots",
-      "excerpt": "Elon Musk announced Thursday night that his company, Tesla, is creating a humanoid robot. He anticipates ... \"It's basically going to start dealing with work that is boring, repetitive and dangerous,\" he said during Tesla’s AI Day. He added, \"What ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380843",
-      "originalUrl": "https://www.entrepreneur.com/article/380843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 646,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629473007-GettyImages-1234764434.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380843",
-      "publishedDateTime": "2021-08-20T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
-      "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
-      "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
-      "originalUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1875508/tesla-bot.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
-      "publishedDateTime": "2021-08-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

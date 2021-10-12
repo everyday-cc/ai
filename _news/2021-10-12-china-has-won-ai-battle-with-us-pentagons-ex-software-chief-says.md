@@ -1,29 +1,27 @@
 ---
 category: news
-title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
-excerpt: "The Pentagon's first chief software officer who resigned in protest against the slow pace of technological transformation in the U.S. military, said the failure to respond was putting the U.S. at risk"
-publishedDateTime: 2021-10-12T04:40:00Z
-originalUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
-webUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
-ampWebUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
+title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
+excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
+publishedDateTime: 2021-10-12T15:41:00Z
+originalUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
+webUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Pakistan Today
+  domain: pakistantoday.com.pk
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.thehindu.com/news/international/v4jy2u/article36938450.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
-    width: 615
-    height: 384
+  - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
+    width: 1024
+    height: 691
     isCached: true
 
 related:
@@ -69,22 +67,6 @@ related:
       - url: "https://images.livemint.com/img/2021/10/11/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1633931650931.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-    excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
-    publishedDateTime: 2021-10-10T10:53:00Z
-    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "China Has Won AI Battle With US, Pentagon's Ex-Software Chief Says"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
@@ -165,6 +147,22 @@ related:
       - url: "https://c.ndtvimg.com/2021-10/31a2482g_-china-artificial-intelligence_625x300_11_October_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
+    excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
+    publishedDateTime: 2021-10-10T10:53:00Z
+    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
+    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
     excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
@@ -255,6 +253,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "jbmXDG+YxgCfhiRlnU2XycCY1cQUiOsK+6yQCOIt9xyD2cygN9kCV+CNa0blbjFDjVu3Si+o8aeWb7CYbCN/7Z83VoH6BMtU8vEKn07TnQLqF4ibbDFiBA7brU4MRWF3G3RVYScJrwtmhcPMcoM6wFnC5fAGHNiAjcIawh5Rvb2qLSjouOwotPkZ56H7l21gJ7gTY22URhZxMDcRY2OBQfl/BHBNHLjWTCtCoFXAvkwCzXTK/JNayV+RH0USIDlrzZtNP1LWejRJTbJLKE5aC8OKd8t4Ju2cGs0Jybw/gTSWL/e3cwpmQHkfC0KjJs6vfkGB6NXmMwObHlITTRdFcB9/8cBr67dSx6pJ2r6XR+bvrFBFvAgRMhPJGfDFdul27L+XM9ACgussLpqPwJDMrKm35HezxDqW6aEI8OVnkeDcur7mTmiU7SD2yBXDpqANi4ceQX52SAjxhAAHkzWjs07pIe2NrFVsuFTmBFpUmDOnXUEKyS013hBtlAkZYVaT26Rk5r3YDWJdsFCocrD63g==;Appd99s9+wtxnhTJGYOpnw=="
+secured: "tkEJLI5Wdyc/AnPkwnaBkHnDsYCIGXjtwuJNPt1k8G+JVYqnBxcrHzPdeHpIfPgsq5Dfgc468sjb2vOQDYn1qVTXzxf0sgGRf0rQ7xv3SG2VFRUNd0u1UzlWUXuvacy8O7CO9Au6b8oK2yAsHvuuMA0GjrM0mdy33/r1Q5qKIpSE0tXtttNSj9POxC0BSBIVSAXXYtKCRzpvm0RUSHlAM/We9SDzvqtVmoC9yCcp0zqnVywfNhSGBv88IVHEyDvK3OZDRpDPkMx6JHO/xm0eZBziZB/w8uQEHlzqgl74Zf84+InpNKD5kh2tOmkqupPU6PeJPD24jO6UA780hGrS95/76tebX7C+Ip45DoPTwGU=;O0fZ2g9bj1XfAiI2koEc8Q=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars coming to Scottsdale - some day"
+    excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
+    publishedDateTime: 2021-10-11T11:55:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale---some-day/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
+    type: article
+    provider:
+      name: scottsdale
+      domain: scottsdale.org
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
+        height: 630
+        isCached: true
   - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
     excerpt: "BEIJING - A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing Innovation Center for Mobility Intelligent (BICMI)."
     publishedDateTime: 2021-10-09T02:22:00Z

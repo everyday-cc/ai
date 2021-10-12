@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/wjyzng6kmbq3pbld9vu9.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft and Nvidia created the world's largest, most powerful language model to date, but it's still biased"
+    excerpt: "Nvidia and Microsoft on Monday revealed they have been working together on something called the “Megatron-Turing Natural Language Generation model.” The two companies claim they’ve created"
+    publishedDateTime: 2021-10-12T15:05:00Z
+    webUrl: "https://www.techspot.com/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 72
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-14.jpg"
+        width: 3840
+        height: 2880
         isCached: true
   - title: "Microsoft Translator now works with over 100 languages and dialects"
     excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."

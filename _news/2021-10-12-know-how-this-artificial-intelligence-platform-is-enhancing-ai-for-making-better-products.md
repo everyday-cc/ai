@@ -35,7 +35,7 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
         width: 800
@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
-    excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for"
-    publishedDateTime: 2021-10-12T13:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20041587.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 55
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Upcoming AI Conferences And Events To Look Forward To"
     excerpt: "AIM brings you a curated list of top AI conferences and events happening in the next month. Conferences and events are a great place to connect, share knowledge and learn. They provide a platform for tech enthusiasts to keep up with the fast-changing trends and developments in the tech and analytics industries."
     publishedDateTime: 2021-10-12T04:30:00Z
@@ -99,6 +85,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
+    excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for the digital enterprise."
+    publishedDateTime: 2021-10-12T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-key-business-continuity-security-finds-new-/2021/10/12/9467501.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "VoKSIPNs9sDgVFKMerO79hK20EHoBaNcYyWc9i4vRhdvDN/1FuZeAQz00/rylX+rWOp8xP3XnoNUxaiEP9Gw7Ukf8vQOB2NRi/5wkCZUh3o+IcBfLoUXDyXtokS6vyE1kQFtkmiLISijBkRe5BCf0wGJkr9cjhBDFqYj5U8M9TwTZRyjEyq/tLeg5fc+wDOxcVg/Wj2rIVojNNMnaCHd2nVNlcUfXrXtqj/VjqkQStKw3RcgsXC7K1xGGazqXdk6LFnbMpiIOWO5DiksxtLV1QRYWnhDoov1KhROXDQ27LdG4xHoJyaTNBg9NxurNz9ZrpSJ5vG6pZpmbJPGYUhji2xXKq8HxzdoO/pXkJi8X0SAndDnimMvczVwOTWA04sp7sQJzfAdUdlYAvVIiuIQNTgMTf8NHHm0qbTMwZx9PSB/6eMdAqIUKXatYhAHmX1PzcvW+ATa/rxVNohYS5kZQ/bEoaZ543UmdhdV/sV2TSQOXR3yIksWoJZ32UAsI1izH/7lrJ/HJ+9rfDvpZh6ejQ==;knBd1oTBcM/343zR8EfUwQ=="
 ---

@@ -25,59 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security market by Market Research Report - Forecast 2020-2028"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 07:28 /Comserve / -- The global Artificial Intelligence in Security market is expected to exceed more than US$ 42.30 Billion by 2025, at a CAGR of more than 21% in the given forecast period."
-    publishedDateTime: 2021-10-07T22:07:00Z
-    webUrl: "https://menafn.com/1102935340/Artificial-Intelligence-in-Security-market-by-Market-Research-Report-Forecast-2020-2028"
+  - title: "AI-based Clinical Trials Solution Provider Market Size to Reach USD 5.86 Billion in 2028 | Emergen Research"
+    excerpt: "Increasing penetration of Artificial Intelligence (AI) in healthcare technologies, growing need to minimize time and costs of clinical trials, and rising adoption of AI-enabled technology to streamline clinical trial operations are some key factors expected to drive market growth According to Emergen Research,"
+    publishedDateTime: 2021-10-11T14:08:00Z
+    webUrl: "https://www.medgadget.com/2021/10/ai-based-clinical-trials-solution-provider-market-size-to-reach-usd-5-86-billion-in-2028-emergen-research.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?291272"
-        width: 436
-        height: 249
-        isCached: true
-  - title: "New Comprehensive Report on Robotaxi Market Share, Revenue and Sales Forecast i=by 2027"
-    excerpt: "The global robotaxi market was valued at US$ 840.6 million in 2021 and is expected to reach 24,322.8 million by 2028, exhibiting a CAGR of 61.72% between 2021 and 2028. Report Pages:[130 Pages]  Market Competitive Landscape:- Major layers operating in the Global Robotaxi Market are: AutoX,"
-    publishedDateTime: 2021-10-08T19:55:00Z
-    webUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/new-comprehensive-report-on-robotaxi-market-share-revenue-and-sales-forecast-iby-2027/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
-  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
-    publishedDateTime: 2021-10-11T11:44:00Z
-    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
-        width: 357
-        height: 250
-        isCached: true
-  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
-    publishedDateTime: 2021-10-09T19:10:00Z
-    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
-        width: 445
-        height: 250
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
 
 secured: "DWzUgg/Hjavm/puzh5ei4xj6boLivVUHa5ir3GcMpIFIKmA/QqvcAKMsnuaIsZEBypksCo+Vd3pMFWnM65bceLKrJmrBaZdFvmFNrdBAL7XdQ6GludTzg0o6gRtEcjH97UIYX0wh+latNQNdY8skHRE3nBRupX59AsrFUenP8vxont2cMCJ+RN188PpahOupJTiK8y0kNmC/tCyR/GuOv1v7EP/9/tO/gPOXFTgjXGEkTwPCeporiMaL/ChEAOCEOPfj0RGkfQzdtud4UlNAiDrFxlhEsSeiR+uC90JUKb5FBvxkVBMbomWGSoJhhyJJ6iX/+66a6EIVLlP0FIybCl5YEwZUxGqFw+X1DQ7puonkNS1Rch/zIUEmZU4y5LcbU3hbq1HMGurncpVbBR6bft4SHw2IcM32ei0c0rgH9lqwAFuCb6GuI1fSNY25DsFiU+fEaixz3UJaveI6kyD6OCC+R6Z/iZ4F5E7bg7uoHaqUwMfAU6Do+7GtXURjCLKzaSceEGPUz4e6G6JiLYzeFQ==;d1Rld8LDfZAGB3oFhkmGXg=="
 ---

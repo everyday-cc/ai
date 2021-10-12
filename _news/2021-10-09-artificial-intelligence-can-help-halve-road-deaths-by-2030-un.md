@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence can help halve road deaths by 2030: UN"
-excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
-publishedDateTime: 2021-10-09T14:57:00Z
-originalUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
-webUrl: "https://news.webindia123.com/news/articles/World/20211009/3834328.html"
+excerpt: "The Sustainable Development Goals (SDGs) include a call for action to halve the annual rate of road deaths globally and ensure access to safe, affordable and sustainable transport for everyone by 2030."
+publishedDateTime: 2021-10-08T18:42:00Z
+originalUrl: "https://menafn.com/1102940748/Artificial-intelligence-can-help-halve-road-deaths-by-2030-UN"
+webUrl: "https://menafn.com/1102940748/Artificial-intelligence-can-help-halve-road-deaths-by-2030-UN"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?538261"
+    width: 375
+    height: 250
+    isCached: true
 
 related:
   - title: "Artificial intelligence can help halve road deaths by 2030, say UN envoys"
@@ -98,6 +104,6 @@ related:
         height: 338
         isCached: true
 
-secured: "jzMQH4WP6FMscONa+8JlxYEf5ogJBsMa6iOfu6SfQldH48IxCC8kiz1xQkdyOw9/owunlmgsfoLqd2FMd1gzm9A5fF+eOIaujRShBCWVHJWf4TcYuUgnEjhi2g1h130mZp74ZRYajtnUDJNQ66UB6uF8uJfQtbxslHl68GzKjtEJJmF99PLvXWVP5RyxPZK8VQWefnHaITpmvI7pejl8BlT6ZW204RhLVOW1JfSnpXozNZ6ydiJBTwExc82KaNiJKd4IL9rLVP7UhCwFwD4LMHL4VSm6NmHzo4mnQgl5VxbXeuvR/d7hdbkswKg2yZeZCjuYzoAMHhTfaEvZDlnMQdC6N8NLBA1LSKxwLKL59DQ=;BSV9NFjYvotUdQcxiioE+g=="
+secured: "rumU1XjSkHTeKWcYc/AEP/OZAgshyTxE8M+ThJwHfgySZFDvKQk8LTS36DDtIs109pfa0bCSifL5JGu9svPHKZYMeBYj3IBDoLsDsPveWePaTOc6JW5HeAQ6FU4teSBlbpLKxpmccfTrEEvf5KS8l8kK2IpNid2DIQ9rOx4UGU9mKRogUCOUBT6kvFOmGd/GSF0soreJQOKH1m5cV0ZHfc4q8X5WcghfiYU1u1ZKHOhgdmeIW/uBmQhaHor8rrfM0GZfuDpQuoYU0LeBqETF9nmzflVC1jNNDbjr2ZXuLTDRQDLaHHkj7Bu8fqkjOFXLuflDYud1Dk2L9IeKSgOg5oFm77W7mN+huVdl1VQt1rE=;vZU0XWUiQj6BkL4Neo/UiA=="
 ---
 

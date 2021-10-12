@@ -2,6 +2,194 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
+      "title": "AI helps rule out cancer in dense breasts",
+      "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg",
+          "width": 2400,
+          "height": 3747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "publishedDateTime": "2021-10-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-forget-about-cars-honda-wants-flying-vehicles-avatar-robots-and-rockets.md",
+      "title": "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets",
+      "excerpt": "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "originalUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us.md",
+      "title": "Tortoise expands remote operated robotic delivery to convenience stores across the US",
+      "excerpt": "Tortoise is expanding its remote controlled delivery robots to convenience store chains across the U.S. through ... you’re just telling us which robot and where to drive it to,” said Shevelenko.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/IMG_20210927_163206017_HDR-e1633312411157.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "publishedDateTime": "2021-10-05T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-robots-at-dubai-expo-have-multiple-roles-while-interacting-with-visitors.md",
+      "title": "Robots at Dubai Expo have multiple roles while interacting with visitors",
+      "excerpt": "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "publishedDateTime": "2021-10-05T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-waymo-co-ceo-tekedra-mawakana-on-how-to-get-self-driving-taxis-to-the-mall.md",
       "title": "Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall",
       "excerpt": "Waymo is working on self-driving taxis, which is a huge deal. Ride-sharing apps like Uber and Lyft have remade cities, allowed people to give up their cars, and generally connected the buttons you push on your phone to real things happening in the world more directly than almost any other app.",
@@ -962,178 +1150,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-i-am-a-public-service-journalist-what-can-ai-do-for-me.md",
-      "title": "I am a public service journalist: what can AI do for me?",
-      "excerpt": "In this special series that focuses on journalism rather than algorithms, we look at how 10 European public service broadcasters overcome language barriers to share stories across the continent",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
-      "originalUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.journalism.co.uk/assets/136/christian-lue-7dEyTJ7-8os-unsplash.jpg_resized_460_.jpeg",
-          "width": 459,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
-      "cdnAmpWebUrl": "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
-      "publishedDateTime": "2021-10-04T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism.co.uk",
-        "domain": "journalism.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-deepmind-technologies-sued-over-data-sharing.md",
-      "title": "DeepMind Technologies Sued Over Data Sharing",
-      "excerpt": "A law firm in the United Kingdom is suing Google's artificial intelligence (AI) subsidiary DeepMind Technologies over an alleged breach of data protection laws. Mishcon de Reya is bringing a representative suit against DeepMind pertaining to the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
-      "originalUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
-      "title": "Amazon, MIT establish Science Hub for robotics research",
-      "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
-      "originalUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/assets.amazon-e1633363084228.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-ai-and-machine-learning-where-are-the-checks-and-balances.md",
-      "title": "AI and machine learning: Where are the checks and balances?",
-      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, Joe McKendrick says oversight of AI-generated decisions is lagging. Read more: https://zd ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
-      "originalUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad02a2eaf68e6ca543a36eb682720d480e35a9db/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=770&height=578&fit=crop&auto=webp",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

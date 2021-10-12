@@ -1,14 +1,14 @@
 ---
 category: news
 title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
+excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
 publishedDateTime: 2021-10-10T10:53:00Z
-originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
-webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
+webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?twclid=11447787748866199561"
 ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
@@ -101,22 +100,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
         width: 640
         height: 428
-        isCached: true
-  - title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
-    excerpt: "The Pentagon's first chief software officer who resigned in protest against the slow pace of technological transformation in the U.S. military, said the failure to respond was putting the U.S. at risk"
-    publishedDateTime: 2021-10-12T04:40:00Z
-    webUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
-    ampWebUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/news/international/v4jy2u/article36938450.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
-        width: 615
-        height: 384
         isCached: true
   - title: "China has won AI battle with US: Pentagon's former software chief"
     excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
@@ -226,6 +209,20 @@ related:
         width: 1920
         height: 886
         isCached: true
+  - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
+    excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
+    publishedDateTime: 2021-10-12T15:41:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 39
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
+        width: 1024
+        height: 691
+        isCached: true
   - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
     excerpt: "He said US cyber defences in some government departments were at \"kindergarten level\".. Read more at straitstimes.com."
     publishedDateTime: 2021-10-11T05:48:00Z
@@ -255,6 +252,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "L2CI3EvfvTXK+vLhGfs6UwM007EBJdAw2PECsehB318VJ6l7T1yEOYwxvrxYnvNUvFDC5cudskh07i4XcbA2/zmGwEnPL6rYLLjJm7Y9ww79bP9slWG0vDUSMTGPbhJtINN+Th+KdFSsBJI2w4Xb3XoGXKvSlql8rXtFD6c2J9LuflVuTP/HqnbO/0SrzCn1W7A2kilZQwFwsSRsL5ycgN+Lz5NKU6WzT5L2tlPgKlYWINypO9kJNMVZTF/BPgH4X42At/o86Ebh999qMRxkkTHsUAGW3TuhLBRF3PrHlXBB2FbdxBiQ5amd9eipFbLnxZfQd2fgXFv+ucGRqLiPPKyJCF+sg/xS5Fh9fvscFE98HW8UFIF3ejIzguj0VsB0n2y9NB+9ael7OXLha26vMxOF+3Mv4xBmYS0+MYeGPRZ1tQg2E0xFcwzFHr/f15l4AUqE1ZlhwIknFd3a9tA3VYHpgccS2LGwb8OKYB1N4meh09ktkhNtok2BPaspx3ynKTUdWYZsUsv0Plc+qZpU1A==;V3hlPzCSljBhr+8ddYwJTA=="
+secured: "liSqhLbG0ipDwCXGbfVF2JgDv78Gl1UNNsG+fHUhXMH+hHOONj6DeZvDOu6Pow9ZzYtpZKaiLpBMG2xZQFPkoT/n8HF0De6JPGSnwrFe8nKb2rmVfrGJmnHFnyDMbZW+KWIDDBVY+RC3MF/o0K7sKZpO7lWKIkdGTiQzsOPbILdBN1sMkS8HDLe9Q9KzADBQI4rflPXA+eobKhuHN6yNBWWVLGv3+8CFuL8swAJbzUuQwwyOrB6WiXeX0WVe8avUFfoXG5939cqv0qxl/6bOyQEoGUegzsxiW5Dxu3h5K2/uXc0iJkoxNDKXgxVRphQfHhUEffkXlUL4t78nRJ6mnQ6mqSWpoCD8HSoXWOz74kE=;7u46E7oIwIj5BjpyDOaoow=="
 ---
 

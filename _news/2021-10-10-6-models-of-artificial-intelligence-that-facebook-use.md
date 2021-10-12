@@ -72,20 +72,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Gap Inc. Acquires AI Startup CB4"
-    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
-    publishedDateTime: 2021-10-07T22:36:00Z
-    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
-        width: 1024
-        height: 667
-        isCached: true
   - title: "Facebook Loves Self-Supervised Learning. Period."
     excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
     publishedDateTime: 2021-10-11T05:30:00Z

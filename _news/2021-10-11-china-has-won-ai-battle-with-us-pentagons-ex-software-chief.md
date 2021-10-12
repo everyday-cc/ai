@@ -130,6 +130,20 @@ related:
         width: 697
         height: 367
         isCached: true
+  - title: "Fmr. Pentagon software chief: Some US cyber defenses “kindergarten level;’ China already won AI race"
+    excerpt: "Nicolas Chaillan, the Pentagon's first chief software officer who resigned in protest of the U.S. military's IT strategy, said China has already beaten the U.S. in the race for artificial intelligence,"
+    publishedDateTime: 2021-10-12T14:51:00Z
+    webUrl: "https://americanmilitarynews.com/2021/10/fmr-pentagon-software-chief-some-us-cyber-defenses-kindergarten-level-china-already-won-ai-race/"
+    type: article
+    provider:
+      name: American Military News
+      domain: americanmilitarynews.com
+    quality: 24
+    images:
+      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-09-07-12.24.10-PM-e1631044688698.png"
+        width: 1048
+        height: 614
+        isCached: true
   - title: "The Pentagon's first software chief RESIGNS in protest because the US has 'already lost' the AI war with China and is '20 years behind its technology'"
     excerpt: "The Pentagon's first ever chief software officer resigned last month in protest of the slow pace of technological advances in the military, claiming China is winning the Artificial Intelligence battle."
     publishedDateTime: 2021-10-11T15:10:00Z

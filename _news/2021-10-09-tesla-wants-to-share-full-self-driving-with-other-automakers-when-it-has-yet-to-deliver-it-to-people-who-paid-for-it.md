@@ -270,6 +270,22 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
+    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
+    publishedDateTime: 2021-10-12T15:20:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "0bmWEtm87udAFNdPPfOsGubL4yjpya6KSSOhvOR0ZRPbWjIIfatUsYaZhCfI5d8P7voQS7OEN2oKjfCyY29qQ1j2B4PlbcHckXLiDkq2R0Ow5F9P6PCvxUpQP4EXP8ZNCkbgjdGg7AiaHHR/Np1BHUX4kGxv8/EjBRnV1Gni3j42WgrFpGCH69PnvWtyN6z0E+OETiDOq++euE7BkcYfS3Kvb9HfDlJmWauAvhyri4WcyXr0u2NTk/SpiKT4yrj1tGd+x4oPwdlQVoz02R0o5JU0Ghk1VXRosC33gtxaClgp60zHpT9L1apENoGDTKkNnKGuVEKZI7jt3jOKGP4Gn2PYaZBYAP4HTaxk4mZSEkuFY/86D8eS8xiIGYnfdLexp+HK07QM5VVBGb8JOpCXwO1L3LIICoIOTrTlSo4OQVJajFL/t4H5D3f6+bueJqk3bXKZtaDvchjKc0uq6hWCl3/6ciT8kSVmXtQRqAMrkfpTFMFhuEP8s1OGCsnJ6ups2IaFc69n5NWcA1RJrcvWvQ==;8OEvk9jZpcV2hiyRUtRAtA=="
 ---

@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-02-ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning.md",
+      "title": "AI Weekly: Amazon’s ‘custom’ AI features showcase the potential of unsupervised learning",
+      "excerpt": "Amazon's newly announced Custom Sounds and Custom Event Alerts features illustrate the potential of techniques like unsupervised learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2-e1628020933987.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-10-01T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
+      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
+      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/80112-2/",
+      "originalUrl": "https://www.dqindia.com/80112-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
+          "width": 540,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
+      "publishedDateTime": "2021-10-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-qlik-acquires-big-squid.md",
       "title": "Qlik acquires Big Squid",
       "excerpt": "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ...",
@@ -1338,101 +1435,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms.md",
-      "title": "Researchers having a whale of a time with deep learning AI algorithms",
-      "excerpt": "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/",
-      "originalUrl": "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits.md",
-      "title": "How APIs Are Democratizing Access To AI (And Where They Hit Their Limits)",
-      "excerpt": "The value in AI is quickly transitioning from the models themselves to the data used to train and run them in inference. Much like the API economy has transformed other types of technology by allowing otherwise closed systems to interoperate and share data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a2727e57526ba412333b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/24/how-apis-are-democratizing-access-to-ai-and-where-they-hit-their-limits/amp/",
-      "publishedDateTime": "2021-09-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

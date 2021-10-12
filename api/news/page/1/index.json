@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
+      "title": "Why graph DB + AI may be the future of data management",
+      "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "originalUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f0372ad25c6804126f901cb8d3c2fdf422b8b1e6/2021/10/12/224e2aaf-3631-43ec-ba47-39756282a739/alindeutsch-tigergraph1-copy.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "publishedDateTime": "2021-10-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: Best AI Companies",
+      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
+      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
+      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
+          "width": 650,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ibm-brings-weather-data-and-ai-to-help-with-sustainability-goals.md",
+      "title": "IBM brings weather data and AI to help with sustainability goals",
+      "excerpt": "The topics related to CSR and ESG aren’t at all new, but they have certainly received a great deal more attention and focus as the result",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "originalUrl": "https://www.techspot.com/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-10.jpg",
+          "width": 2160,
+          "height": 1266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html",
+      "publishedDateTime": "2021-10-12T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-mechanics-methods-and-mentality-of-successful-ai-initiatives.md",
       "title": "The Mechanics, Methods And Mentality Of Successful AI Initiatives",
       "excerpt": "Even when the mechanics of the initiative are successful, and the processes for the solution’s deployment have been cleared and optimized, the team’s mentality can fully arrest the initiative’s progress.",
@@ -103,7 +294,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -249,7 +440,7 @@
       "originalUrl": "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -280,7 +471,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -440,6 +632,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
+      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
+      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
+          "width": 4000,
+          "height": 2693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "publishedDateTime": "2021-10-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning.md",
       "title": "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning",
       "excerpt": "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications.",
@@ -536,7 +780,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -975,246 +1219,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
-      "title": "Biden administration says we need a Bill of Rights for AI",
-      "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
-      "originalUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-first-self-driving-train.md",
-      "title": "Germany unveils first self-driving train",
-      "excerpt": "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/german-train.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp",
-      "publishedDateTime": "2021-10-11T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-build-tune-and-deploy-an-end-to-end-churn-prediction-model-using-amazon-sagemaker-pipelines.md",
-      "title": "Build, tune, and deploy an end-to-end churn prediction model using Amazon SageMaker Pipelines",
-      "excerpt": "The ability to predict that a particular customer is at a high risk of churning, while there is still time to do something about it, represents a huge potential revenue source for every online business. Depending on the industry and business objective, the problem statement can be multi-layered. The",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-tune-and-deploy-an-end-to-end-churn-prediction-model-using-amazon-sagemaker-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-tune-and-deploy-an-end-to-end-churn-prediction-model-using-amazon-sagemaker-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/05/Architecture.png",
-          "width": 1027,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T10:03:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud.md",
-      "title": "An artificial intelligence ecosystem isn't necessarily all cloud",
-      "excerpt": "A call for greater enterprise architecture in building AI ecosystems, leveraging both cloud and on-premises systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb4ba6c2233102b81d58df1794507788cee886fa/2021/10/11/3ff2cb35-671b-4587-b278-d39ea185ec1c/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
-      "publishedDateTime": "2021-10-11T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-hidden-picasso-nude-revealed-and-brought-to-life-with-artificial-intelligence.md",
-      "title": "Hidden Picasso nude revealed and brought to life with artificial intelligence",
-      "excerpt": "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html",
-      "originalUrl": "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/211011063106-04-hidden-picasso-painting-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html",
-      "publishedDateTime": "2021-10-11T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

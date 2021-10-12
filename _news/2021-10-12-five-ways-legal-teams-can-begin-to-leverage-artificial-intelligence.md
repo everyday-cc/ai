@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 800
     isCached: true
 
-secured: "HYDfJVYvJyPrEc+TbUCrnQfjRxmeS36bUZrVfxSQ1n83xc6cXuavuIU/QPeWqJjzHmCb1fvrx8B2Ov0Zw00juhxy8eNR0tQ18Iudpv8XKqzeMsPKsXxMoIvsd95fgfiBBME9dfwU/9FSTzuVSwQJCuBA7hBcRciaODOjQgbWHwbL2B/qymToJLtgAjhiIF9J6Pn6XNEK/udha6Z3UwsjPDE55hQ3MavKLkYFcaijfLQyrzpzgKOtHkouKfPG1pQYGazvbR/kLSaE5iB6I7sKo1DmM3GGpep+6x0aoKbRlZGlHsHpe2alKs06uNpOxe0GtepNq9z98CD+tMTNmqjqTpJVEAVe9mtbb7yqq/gfX3w=;SzZ3J13Rqx5P0yqriJtGwA=="
+related:
+  - title: "AI in Food and Beverage"
+    excerpt: "Artificial intelligence in food and beverages will be defined as solutions that help in improving the supply chain of the food beverages industry This solution provides gives another way to fulfill their customers at lower costs The advent usage of"
+    publishedDateTime: 2021-10-12T14:38:00Z
+    webUrl: "https://www.openpr.com/news/2426362/ai-in-food-and-beverage-market-to-see-massive-growth-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2426362/ai-in-food-and-beverage-market-to-see-massive-growth-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426362/ai-in-food-and-beverage-market-to-see-massive-growth-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua12449037_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "HsDM5mLhsXSJQMUf9GSNgRWQaXGlKFht6s3oJRAYRsX+L1+XRnPCvYc7iQ24Y0JeA5QcKWXuops3ZW9YjIigXP1ZEIvNfAV+j3GfTtpB4tW7BnhxV9Oi8c7Qq9RHmzz/vD7J/1gij+b8xOM1rvluXHpOgBjSZRCD4nWM/MpJnS12eGBiP7FEIUQ91Yo4r1aMyBWekG1sRbGTFhRR9PyKOYx5Neu1YPJTuiq9UX4vq0aBNRl0CsehkM4AtI4iRGwxhjIoOnqykN80Q37xLAZKhD3QO5MmWLHCwfKJm8yPiNg4JZB9M4uUMNXpjydbVxILBojqx1Lr/Tx9G61ZQtxWrWSNMHINcakrYCf5unniwgBYWcOOUmqqY/x4k+BO62vSmgtUt/pNqQNUzVP6VEXGmjcCCz6lF52RqStbVTh3DvxkPqkUwuV+PnXjabUbgc9ySIEtnWuhGryHt6vsQaA2bPHrsSufapI30AqEabaXaRXWn/hJP8YiQv/7uThuj1xXkOXbbU9fOIRE9GeXDWDcgw==;OCb8QAyyxDqywJ8H3E49yA=="
 ---
 

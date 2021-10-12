@@ -26,19 +26,6 @@ images:
     height: 220
     isCached: true
 
-related:
-  - title: "Cognitive Computing Market Size, Growth and Key Manufacturers – Microsoft, Google, IBM, Numenta, SAS Institute, AWS"
-    excerpt: "The Cognitive Computing Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
-    publishedDateTime: 2021-10-07T22:09:00Z
-    webUrl: "https://manometcurrent.com/cognitive-computing-market-size-trends-and-growth/"
-    ampWebUrl: "https://manometcurrent.com/cognitive-computing-market-size-trends-and-growth/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-computing-market-size-trends-and-growth/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-
 secured: "/xy3qFKRySLhNjkZxCL9BRBK+rfCmemtEdNNJcP1jD3GBPmGUZJqJseg6/AgbzgKeNp8ycZne2WHlH8nzTaK8kbUT1H92Y3thYiX59gH/KnUT7W/ozm7XMhBAtbPiyoR/9EERvcYu9zkz9myi3WWWlNHy0V20XlS8sY78ZEH1K5TxCYw7f8eGIhNa/5emltx6GRpxuWl2xmfsOuJaJikmqGVd78mPSsYQLF4HNLkuMukoY6ludbatNcwV9fVBu0/vi519PJEeo6OW9ktxOrSnrCx5eYKjigDr4G6zArQ4R4DaJucMiYD2HetiBZfoCKjA50uMox1Y8oaor2OlX08Nub4y3ilOytFTtEEaUeXy90=;wmJaJd20vg+mUWsFz4lOXw=="
 ---
 
