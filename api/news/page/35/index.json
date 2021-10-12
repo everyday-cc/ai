@@ -2,6 +2,179 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-09-14-researchers-lay-the-groundwork-for-an-ai-hive-mind.md",
+      "title": "Researchers lay the groundwork for an AI hive mind",
+      "excerpt": "Intel's newest AI advances are a rising tide that lifts all vessels. But every science fiction horror story has to start somewhere, behold the hive mind.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
+      "originalUrl": "https://thenextweb.com/news/researchers-lay-groundwork-for-ai-hive-mind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fborgcube.jpg&signature=3f2568c9fafe1daeaffa3bcb4690159a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-self-driving-cars-will-save-and-improve-lives.md",
+      "title": "Self Driving Cars Will Save and Improve Lives",
+      "excerpt": "If self-driving cars can become ten times safer than human-driven cars and became standard for the world then 1.1 million of the over 1.2 million global",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/09/olddrivers.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/09/self-driving-cars-will-save-and-improve-lives.html",
+      "publishedDateTime": "2021-09-14T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis.md",
+      "title": "Descartes Labs to Host GEOINT 2021 Training Workshop on Creating Machine Learning-Based Computer Vision Models for Planetary Scale Data Analysis",
+      "excerpt": "The one-hour workshop, “Advanced Geospatial Analytics Utilizing Ever Increasing Geo Data with Computer Vision at Planetary Scale: Learn to Build and Deploy Machine Learning Models for Young Professionals to Senior Scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "originalUrl": "https://sensorsandsystems.com/descartes-labs-to-host-geoint-2021-training-workshop-on-creating-machine-learning-based-computer-vision-models-for-planetary-scale-data-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sensorsandsystems.com",
+        "domain": "sensorsandsystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-40.md",
+      "title": "AKA Announces Launch of New AI Social Robot “Musio S” and “Musio OS 4.0”",
+      "excerpt": "AKA announced that it has scheduled the official launch of Musio S and Musio OS 4.0 for September this year. Musio S is AKA’s second-generation reference social robot with an increased focus on usability.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/14/aka-announces-launch-of-new-ai-social-robot-musio-s-and-musio-os-4-0/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/akaai/22263_33406_2437.jpg?1631499698671",
+          "width": 960,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-all-change-founders-out-and-new-ceo-in-at-gpu-based-storage-array-control-biz-nyriad.md",
       "title": "All change: founders out and new CEO in at GPU-based storage array control biz Nyriad",
       "excerpt": "New Zealand-based Nyriad has had a makeover, with the founders out, new chairman, new funding, new CEO, exec hires, and a relocation to the USA. Back in 2014 CEO Matthew Simmons and CTO Alex St John co-founded Nyriad and devised a different way to build a storage controller designed to cope with exabyte levels of",
@@ -904,178 +1077,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move.md",
-      "title": "Alibaba Invests in Chinese Self-Driving Unicorn in Latest Electric Vehicle Move",
-      "excerpt": "Chinese e-commerce giant Alibaba Group Holding has led a $300 million funding round for one of China’s newest self-driving car start-ups. Shenzhen-based Deeproute said in a statement on Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
-      "originalUrl": "https://www.barrons.com/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-368481/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/alibaba-invests-in-chinese-self-driving-unicorn-in-latest-electric-vehicle-move-51631636823",
-      "publishedDateTime": "2021-09-14T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
-      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
-      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-logistics-robotics-startup-ambi-raises-26m.md",
-      "title": "Logistics robotics startup Ambi raises $26M",
-      "excerpt": "Ambi Robotics emerged from stealth with a $6 million raise. Today the Bay Area-based firm is back with several times that, announcing a $26 million Series A, led by Tiger Global. The new round also features participation from existing investors,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "originalUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/Ambi-Robotics_Founders-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/14/logistics-robotics-startup-ambi-raises-26m/amp/",
-      "publishedDateTime": "2021-09-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
-      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
-      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
-          "width": 790,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "publishedDateTime": "2021-09-14T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

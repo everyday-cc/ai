@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-
 webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation"
+    excerpt: "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments."
+    publishedDateTime: 2021-10-12T17:35:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 63
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Mount Sinai launches department of artificial intelligence and human health"
     excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
     publishedDateTime: 2021-10-11T19:44:00Z

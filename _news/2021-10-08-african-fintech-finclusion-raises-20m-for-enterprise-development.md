@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -35,6 +35,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 15
+  - title: "Alviere, a Global Fintech Startup, Raises $70 Million Driven by Company’s Rapid Traction in Embedded Finance"
+    excerpt: "Alviere, the leading embedded finance platform enabling any brand to deliver financial products and services to its customers and employees, today ann"
+    publishedDateTime: 2021-10-12T17:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211012005708/en/Alviere-a-Global-Fintech-Startup-Raises-70-Million-Driven-by-Company’s-Rapid-Traction-in-Embedded-Finance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 15
 
 secured: "B/OknqHigZVVB4ad7xs19EW79GoPr+5CDu+UIOSDA9hmdaXttho+wgF1u3UCR+5+P141Wehdk0eO5nIavELsmU8ie/QVGaJA0vbhAI+/rs8LZXq3OOzJCRcIMGXD31Hq7Av5jhTZn6mfrT4bl+oI3K/P9M4qgEF0zkiZ9ZvHYtVJBMGkPEhufMjmA22gMYArIOUhR9nVk0lYJrm+tFhx4CNeBRBwmz4DNxbuHUqXpypkCcTYaONy3LChpjMww5r5L/eCcEmbzk0m9QWZAxSdonPnFwAkugbtM87yRd523+f+GIoZDe8CrxjUvfFAE89C70RVbjMhq5wPuT1T8LC0OSN59+BnCpCV9dy85DhWiO+Rj1cQju0iLkb/gl60PoyyDn1BX1CbQpCAiQGugvfkcrnp+MUWR6AWV2bVEXR+Af0fl0DBDQFxKo+aVN4PswXy7ohw89gipQzcGYSh/PaoOkAc3SPbN99O1ZwwsFYBcUu5RI7HRQzIfJofR4e7h5BzAQak6x+xydhIl7gxRRluBg==;VQVzVzql/9QrKvVY3OeX9Q=="

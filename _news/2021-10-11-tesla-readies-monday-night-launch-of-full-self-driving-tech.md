@@ -137,22 +137,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla insurance will change the way you think about driving"
-    excerpt: "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour."
-    publishedDateTime: 2021-10-08T01:08:00Z
-    webUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/"
-    ampWebUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
-    type: article
-    provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 59
-    images:
-      - url: "https://thedriven.io/wp-content/uploads/2020/06/tesla-ap-section-hero-carnival@2x.jpg"
-        width: 1160
-        height: 652
-        isCached: true
   - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
     excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."
     publishedDateTime: 2021-10-11T15:26:00Z

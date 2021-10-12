@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI used to reproduce 'lost' Picasso nude"
+    excerpt: "A painting of a naked woman by Pablo Picasso that has been hidden beneath one of his \"Blue Period' masterpieces for more than a century has been recreated by UCL scientists using a combination of X-rays,"
+    publishedDateTime: 2021-10-12T19:08:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ai-lost-picasso-nude.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-ai-lost-picasso-nude.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ai-lost-picasso-nude.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-used-to-reproduce-l.jpg"
+        width: 768
+        height: 480
+        isCached: true
 
 secured: "Uu8pPVZdE4ZdaewFhd2Ojo1l64RG/2ngFsb5XnCtFukzZMlkLJl+1t33YurucEyEwPJSWya1VXfQrSiNBYhN0d3TnwnqEL4APtTjZWuPxayqm30kEpveBJImdclxCYQ9pttfutIOMC3ztMyuBjsVpn2DJTwWE2gqmpxKbtZOOTTmxywRPfOJyGxPlNIGD6tXDYH3Gyi60IWXJJpZhkpKH+XXb5z9cIWeHHMCGl3haHV73fYj3151Gar2v0ggRJnOxC6ddcms0io/CfWCS1ZNNdhnzebCzodbF64HAloxxDD8yM7EbSMNoicEDulmz3K+dSti1BCIInL0unlWcuokCwIKjIp0A4vES7wOtDYSU4JgxpFdK6kPLkPqcMbJa+hignxk+3xyNsXrFNkyrrt3jGTx4bGTi5zKVrueFvpLL4Kk4oLZGOzmcpANtnBEYyZMN3pF+Z7VU/vBkuGyd4NFfiAhGv+KlM+OGxo9Z/uqaubNrq0Uy/70rMqdtkVra26X+A0lBcGtkr7F4QRtCCx2AA==;s50owoodZL00OI/5WiRQ2g=="
 ---

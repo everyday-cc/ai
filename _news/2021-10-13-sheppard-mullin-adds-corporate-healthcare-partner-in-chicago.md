@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Sheppard Mullin Adds Corporate Healthcare Partner in Chicago"
-excerpt: "Sheppard Mullin Adds Corporate Healthcare Partner in Chicago. Sheppard, Mullin, Richter & Hampton LLP is pleased to announce that Sara Helene Shanti has joined the firm's Corporat"
-publishedDateTime: 2021-10-12T17:08:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/12/9467833.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/12/9467833.htm"
+excerpt: "Sheppard, Mullin, Richter & Hampton LLP is pleased to announce that Sara Helene Shanti has joined the firm’s Corporate practice group and Healthca"
+publishedDateTime: 2021-10-12T19:28:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211012005875/en/Sheppard-Mullin-Adds-Corporate-Healthcare-Partner-in-Chicago"
+webUrl: "https://www.businesswire.com/news/home/20211012005875/en/Sheppard-Mullin-Adds-Corporate-Healthcare-Partner-in-Chicago"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "XI+P2FhPRJHX974MvqPbI0XCmnMmkPc2e5v8/dPd9t6ZS1rWKWrcgvyRfF3RAdYLWZbIF0OukFYgt4RaCX1sy7Knkrk3ELWYcfkacJef7qg7M5wJE9wh6/ynpfgwgQD2aGEKqs59VvjwZg4v5SHtZfagQWa5pa91d/+NRLMGFDqZpzRck/5lFVvSZNAJEhVfPoh2VgUNZ/317QlFuBNLPQnvmZrISRy3xDjZOTJpGIhZLPjiXi2bWLpyomoJCHz7+cPCD0K4ahZru1SYdESsTF//7lgOVM6cvR6JPSz3arBds5W9IjEAaVqmYWZKEgfPINrymw9AWJCz7M6eR41l8w/wNX7MgWD0sLAoolPYMt4=;50C4Dxu8cwf36BeOKmoBsA=="
+secured: "urw3a0gQkO2vEwNTMW8f/yUeMVgdTpctNQr3w73gIZvEM5nyYpL7GoyXVDOmMbbS6dhJRF8J36xVQeu3LbZs6h2Cf8mqmGXZaF9vj5o+a6iGTZMICFv8WGhyqIxroZNpQB6M4nLA9xzIPT7zGR+dDZnVlW+gZa7JlWT/8g6VRCSs3e/IyET84WqXO9h36zRC4NrX+HAB/GnOTjM5GJIMvwDz6KKXkCqd9Y+hwrMUTcUYN4n4kY1c43XZBpeTzC6Co/bgnaInts3e6L16tSjNFKmxHPbVFmWcH8QojY/bIhRGmHqHc37FT2j88u2h3uWH4VXzYuQQaQcpZbrh93TTf/sNezudGLkCbw8WdnMFYiI=;rIQdUkp6AJSvNtSMZSOVrg=="
 ---
 

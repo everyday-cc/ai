@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Outreach Expands Platform to Now Include Revenue Intelligence Capabilities with Latest Acquisition"
+    excerpt: "\"These are leaders who had to adapt and evolve their mindset to embrace automation and machine learning as the keys to driving predictable ... capabilities coupled with Outreach's artificial intelligence-powered buyer sentiment capabilities and the ..."
+    publishedDateTime: 2021-10-12T17:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467957.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Mwe0RSlBm8qIxzO1D+ndhRdOrIFbAs93GfzEOAlQhCxsUc3akZKw8DURY97CFIU5XV6nx4YFi56Afgc+u8vPZagya8AcHjuvRG5CO+Yx4TdmJKpJ4YJfuu9AuCddcoSGtfcsMQmKaq6dpsTn416kPHLiCZOGL3U8rv3pIF8r1rCktQRSemlKZcMpvGyfX6e4q/XhfDGKfD17CLSxhuJfu5nOPzUykn5hSp6U+2r8z030glrpI6hYVwZOb7Sa4h1VP0NinZwTYdNtL0ox9liHij/yUoH60WyyaB/qvwAq79vfdN4T1gb4UYH9Pf6wuwSZJtNQYY8E96hsIrJSJ9AjVlrgp2pq6H7SzvaWmOTh21E=;sFtX8m6/k9vydHy0nG1hpQ=="
 ---

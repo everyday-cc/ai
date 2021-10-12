@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-11-getting-started-with-amazon-sagemaker-feature-store.md",
+      "title": "Getting started with Amazon SageMaker Feature Store",
+      "excerpt": "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/5-3856-console.jpg",
+          "width": 800,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T16:10:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
       "title": "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
       "excerpt": "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected",
@@ -1275,49 +1327,6 @@
       "provider": {
         "name": "GitHub",
         "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-top-mlops-books-in-2021.md",
-      "title": "Top MLOps Books In 2021",
-      "excerpt": "It will guide you through the process of deploying and querying your models with AWS SageMaker, Microsoft Azure, and Google Cloud. Find it here. In this book, authors Lynn Heidmann and Mark Treveil from Dataiku introduce the data science-ML-AI project ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
-      "originalUrl": "https://analyticsindiamag.com/top-mlops-books-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Top-Books-On-MLOps-To-Look-Out-For-In-2021-.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

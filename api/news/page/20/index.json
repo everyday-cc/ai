@@ -2,6 +2,197 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
+      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
+      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
+      "sourceUrl": null,
+      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
+      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
+          "width": 640,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electriccarsreport.com",
+        "domain": "electriccarsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-customize-amazon-sagemaker-studio-using-lifecycle-configurations.md",
+      "title": "Customize Amazon SageMaker Studio using Lifecycle Configurations",
+      "excerpt": "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. It provides all the tools you need to take your models from experimentation to production while boosting your productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-sagemaker-studio-using-lifecycle-configurations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-sagemaker-studio-using-lifecycle-configurations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T10:28:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-nvidia-lines-up-beefy-arm-cpus-to-target-x86-based-servers-touts-a100-gpus-for-ai.md",
+      "title": "NVIDIA Lines Up Beefy Arm CPUs To Target x86-Based Servers, Touts A100 GPUs For AI",
+      "excerpt": "NVIDIA is beating its chest over a round of benchmark runs highlighting the potency of its A100 accelerators paired with Arm or x86 hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "originalUrl": "https://hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56321/content/small_nvidia_arm_server.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-arm-cpus-a100-gpus-x86-based-servers",
+      "publishedDateTime": "2021-09-24T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-three-key-artificial-intelligence-applications-for-cybersecurity.md",
+      "title": "Three Key Artificial Intelligence Applications For Cybersecurity",
+      "excerpt": "We are at the doorstep of a new era of smart technology and cybersecurity is already a testing ground. The cybersecurity industry is increasingly impacted by the deployment of solutions supported by a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e04f5dff3ebea27d194cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2021/09/24/three-key-artificial-intelligence-applications-for-cybersecurity/amp/",
+      "publishedDateTime": "2021-09-24T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.md",
       "title": "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology",
       "excerpt": "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read",
@@ -1017,168 +1208,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
-      "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
-      "sourceUrl": null,
-      "webUrl": "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html",
-      "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png",
-          "width": 1128,
-          "height": 1132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Green Car Congress",
-        "domain": "greencarcongress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-meet-deedee-a-twin-cities-thai-restaurants-new-robot-server.md",
-      "title": "Meet ‘DeeDee,’ A Twin Cities Thai Restaurant’s New Robot Server",
-      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "originalUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg?w=1026",
-          "width": 1026,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/24/meet-deedee-a-twin-cities-thai-restaurants-new-robot-server/?amp",
-      "publishedDateTime": "2021-09-24T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-nasdaq-yewno-global-artificial-intelligence-and-big-data-index.md",
-      "title": "Nasdaq Yewno Global Artificial Intelligence and Big Data Index",
-      "excerpt": "The Nasdaq Yewno Global Artificial Intelligence and Big Data Index ... In contrast, less than half of ROBO Global Robotics and Automation Index is based in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "originalUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nasdaq-yewno-global-artificial-intelligence-and-big-data-index-2021-09-15?amp",
-      "publishedDateTime": "2021-09-24T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-opentrons-raises-200m-in-series-c-funding.md",
-      "title": "Opentrons Raises $200M in Series C Funding",
-      "excerpt": "Opentrons Labworks Inc., a NYC-based lab platform provider, raised $200M in Series C funding. SoftBank Vision Fund 2 led the round with participation by Khosla Ventures. Other investors in Opentrons include Sands Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/09/opentrons-raises-200m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/09/opentrons.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

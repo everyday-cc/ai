@@ -39,6 +39,22 @@ related:
         width: 823
         height: 400
         isCached: true
+  - title: "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation"
+    excerpt: "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments."
+    publishedDateTime: 2021-10-12T17:35:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 63
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "qU4rT7kBg43zZTvOdaCuuNV87+izMioIrjNtAnqEBQcJzQ5peIIBSKLQs5X6ZRyBqTlVmT3QQJIGlKEdBM4IS9MJuHfuznC8yF4go5TtgWQgXqhDQHmzHy/6LaKvr0sSmZ0k6gSOSavOtzOfFDrvpTCtgr3tizoM4Yc8BiEwPHIzNQ8QagrIpXyW80IHcsR6j6Ij6xBpkjNXSxTab2OTUZ7XHN+BV7GHifQtbqBVXKJGRhtUhWUGyvHebuzGZrF0yvYt120KroEduZb/5BaNXIughbKcBo/G2IYpPqk9CSw9UDo5glTSkAuRtos3CphDhmqfu97/c6vTJdmb45aI14qBDdMNRhXVrFgqpnqWh1M=;SRW92SuKNe92/uEeX/jFJA=="
 ---

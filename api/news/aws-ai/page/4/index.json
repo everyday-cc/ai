@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-26-guardian-alliance-technologies-completes-aws-partner-transformation-program.md",
+      "title": "Guardian Alliance Technologies Completes AWS Partner Transformation Program",
+      "excerpt": "Guardian Alliance Technologies is proud to announce it has completed the Amazon Web Services (AWS) Partner Transformation Program (PTP), furthering the reliability and security of the Guardian Background Investigation Software Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-guardian-alliance-technologies-completes-aws-partner-transformation-program-/2021/08/26/9437947.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-26T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-26-valued-to-be-44-billion-by-2026-artificial-intelligence-ai-in-call-center-slated-for-robust-growth-worldwide.md",
       "title": "Valued to be $4.4 Billion by 2026, Artificial Intelligence (AI) in Call Center Slated for Robust Growth Worldwide",
       "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence (AI) in Call Center - Global Market Trajectory & Analytics\".",
@@ -1357,58 +1391,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-getting-started-with-amazon-sagemaker-feature-store.md",
-      "title": "Getting started with Amazon SageMaker Feature Store",
-      "excerpt": "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/5-3856-console.jpg",
-          "width": 800,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T16:10:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

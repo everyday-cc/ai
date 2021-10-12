@@ -2,6 +2,177 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
+      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
+      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
+      "publishedDateTime": "2021-10-04T17:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-bot-framework-composer-video-series-with-ayca-bas-and-bob-german.md",
+      "title": "Bot Framework Composer Video series with Ayça Baş and Bob German",
+      "excerpt": "Ayca and Bob return to the show to talk about a new video series that discusses the Who's Online bot created using Bot Framework Composer and Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
+      "originalUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41jMG3+T0hL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C41jMG3+T0hL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBBot%20Framework%20Composer%20...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-clearview-ai-says-it-can-do-the-computer-enhance-thing.md",
+      "title": "Clearview AI Says It Can Do the ‘Computer Enhance’ Thing",
+      "excerpt": "The co-founder and CEO of the sketchy face-recognition firm, Hoan Ton-That, says it's working on \"deblur\" and \"mask removal\" tools.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776",
+      "originalUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8727033124597022b06aafa62e5c4b9b.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-says-it-can-do-the-computer-enhance-thin-1847795776/amp",
+      "publishedDateTime": "2021-10-04T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-coverage-of-fdas-aiml-medical-devices-workshop-part-1-the-history-of-fda-software-regulation.md",
+      "title": "Coverage of FDA’s AI/ML Medical Devices Workshop - Part 1: The History of FDA Software Regulation",
+      "excerpt": "In anticipation of FDA’s virtual public workshop on transparency of artificial intelligence/machine learning (AI/ML)-enabled medical devices scheduled for October 14, 2021, we will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
+      "originalUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
+      "publishedDateTime": "2021-10-04T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-the-future-of-ai-driven-meeting-technology.md",
       "title": "The Future Of AI-Driven Meeting Technology",
       "excerpt": "AI technology is vital for organizations that want to increase cross-team information flow and drive results in an increasingly remote working environment.",
@@ -398,19 +569,19 @@
     {
       "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
-      "excerpt": "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. PORTLAND, Ore., Oct. 4, 2021 /PRNewswir",
+      "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-computer-vision-market-reach-4111-bn-globally-2030-/2021/10/04/9461739.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-computer-vision-market-reach-4111-bn-globally-2030-/2021/10/04/9461739.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -420,11 +591,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:13:00-07:00",
+      "publishedDateTime": "2021-10-04T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -957,197 +1128,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-self-driving-citroen-skate-carries-swappable-pods-for-inner-city-travel.md",
-      "title": "Self-driving Citroën Skate carries swappable pods for inner-city travel",
-      "excerpt": "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "originalUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "publishedDateTime": "2021-10-03T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
-      "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
-      "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "originalUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319657811/medium_image_1319657811.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "publishedDateTime": "2021-10-03T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-the-economy-of-the-future.md",
-      "title": "The economy of the future",
-      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
-      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "publishedDateTime": "2021-10-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
-      "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
-      "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615740b33540fa024d235c55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1399%26cropY1%3D42%26cropY2%3D829",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
-      "publishedDateTime": "2021-10-03T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

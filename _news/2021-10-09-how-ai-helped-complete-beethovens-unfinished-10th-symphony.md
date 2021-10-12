@@ -40,6 +40,22 @@ related:
         width: 724
         height: 543
         isCached: true
+  - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
+    excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
+    publishedDateTime: 2021-10-12T17:49:00Z
+    webUrl: "https://www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492"
+    ampWebUrl: "https://www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 53
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
     excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."
     publishedDateTime: 2021-10-10T19:51:00Z

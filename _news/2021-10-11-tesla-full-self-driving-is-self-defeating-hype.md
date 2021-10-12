@@ -135,22 +135,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla insurance will change the way you think about driving"
-    excerpt: "Elon Musk has revealed more information about Tesla’s car insurance product at the company’s shareholder meeting on Friday morning (Australia time), and it signals a potentially massive shift in driving behaviour."
-    publishedDateTime: 2021-10-08T01:08:00Z
-    webUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/"
-    ampWebUrl: "https://thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/10/08/tesla-insurance-will-change-the-way-you-think-about-driving/amp/"
-    type: article
-    provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 59
-    images:
-      - url: "https://thedriven.io/wp-content/uploads/2020/06/tesla-ap-section-hero-carnival@2x.jpg"
-        width: 1160
-        height: 652
-        isCached: true
   - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
     excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."
     publishedDateTime: 2021-10-10T23:39:00Z

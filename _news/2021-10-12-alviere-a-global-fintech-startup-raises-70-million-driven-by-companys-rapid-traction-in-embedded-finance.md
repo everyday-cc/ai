@@ -35,6 +35,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Alviere, a Global Fintech Startup, Raises $70 Million Driven by Company’s Rapid Traction in Embedded Finance"
+    excerpt: "Alviere, the leading embedded finance platform enabling any brand to deliver financial products and services to its customers and employees, today ann"
+    publishedDateTime: 2021-10-12T17:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211012005708/en/Alviere-a-Global-Fintech-Startup-Raises-70-Million-Driven-by-Company’s-Rapid-Traction-in-Embedded-Finance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "xnU1duyI1Mu6sxxGEAMty2nuV83b4G9pIUolkiH9OGHFAaR1kPoF5qMkUg6GdDjtggup/xdr/3VUO5udK0Dt7c/GlvNGOw6Nn2Ulg4vLqgj3HudyZZZtuY0GzUIAGyPiNYMkfenZzRWZu6vDgPHAiSHZPoNY7SZtD2q51+tkFZzP7jMH/pAE65dWPj4e9qaxNfPlbo70nOaCtRgXIZV3aAURy9U4y38+cXJWCeYLFx6By9UwSic3VgAlwM4InKaDUH8YmwxgSQtN7qLdHwE/J4HYeklrJsFxZh+S+tcJ8O2wwRycIuvUuEd36iP6YlC/u5utlpl9XhtIlBisF21OzMhZvmlIT6Mk4jOhG2W3GHQ=;qwC1PCDTqAXtsUMY44ZJYg=="
 ---

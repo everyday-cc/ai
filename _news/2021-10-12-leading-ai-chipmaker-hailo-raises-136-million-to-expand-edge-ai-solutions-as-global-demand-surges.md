@@ -125,6 +125,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Hailo reels in $136M for its ultrafast edge AI chip"
+    excerpt: "Artificial intelligence chip startup Hailo Technologies Ltd. today announced that it has closed a $136 million funding round to expand go-to-market operations and improve its technology. The round was led by Poalim Equity and Gil Agmon."
+    publishedDateTime: 2021-10-12T17:38:00Z
+    webUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Hailo.png"
+        width: 990
+        height: 555
+        isCached: true
 
 secured: "+cndnxjJrGV4ULg/BnyDBoEVBvry9+0q1ch8ZJUw5dHx7mNxsOCNPDwssixXERMW5+GW6dBEZDtQZ7DHEW4PMjMrpA5/Pfr2cN8hJdDYBJdYdyx3N8XCS3gu8hN1EMfBBRnQl0Yfeq9W4oXEnl9MoOkjOpJ30StEapAssLd99IYy2PtT8mp/GkpJye17joDMo1zNjJ5C+/o+qsWvhm4jUcWzzOw9w784y78uldmDC/6eDuyuKrm4FqwVC5+e0VERtupU+weiOWZYHen6vm+8vo0wRpsfV1tC+bCBHCxfq/cT9xZjFYz70XOBH1eNuRCgm+le0nw2S25nYzI55hkgkRtCwp0c2y+klOOdyNY3VQ8=;6mPMJrKjISXaHMwhAccJMA=="
 ---

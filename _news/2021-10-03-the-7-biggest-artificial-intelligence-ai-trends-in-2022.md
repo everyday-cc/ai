@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "rU6y6hNaf+2CvbYdbyPsdVCce6kDEC0FB3K4gijk457j0gnoK/SgtjF5nf6c+NdGbtxea1gl8U+B8F1FeMlbopQ1Exmi5nsQoPzNIu4C1ZMbCQcft/jybpAaIIZ68plFGgCgF8VTHP2nM5FJC5VAA2CxZLDB8mG+f01d0WrBhA7Nmnnnz8xcWsSZjIA+/rrxjYDtMqR2qLlinA+8KrVmluVCTEiJvt+l/ZPQgiw/oxUBOYZuLL+UX6fC1xX2AbK7AvTANhz/FQnHgU6A+W1bPu+W24QgNnaGxkCDtk2jDGeQbxbKzS7VHXA4k95GlvQ4iz2sKGHwesYcz42AzS0OtnuTxJlZXtK2xyRucrhCQoE=;fkw061/qkds4/eR0k8Zz1g=="
+secured: "hj/9mp3UbiTvcj/y6SAZTqGOJ+zK3nwiBEAbe2J7c1mZX4bvJii0lHyOmQ/mYguPfYGb/x8JFvy43f8m4C7ak50FEbjcunoJd0rwx8GZLSiq/VqiTBmQG2MZ9UEBhArW8jn8lEgMPld8YBqoIQa0xEdmbNHhRfAC6w06s8hLhLBp3CZSlERzbST3npTj5WtWql9oJtiYeiWwJc+VBbSsqOFkNENBYZ19HjJzZgJCjVJR0nLFjHH8dLJkvoAszL5JdDk9wVm5mZegb5kJCbeLINa+MiU4O8naLp5tJ+ATctqTWVFHbdJkwbcgDqYrDH1dBF8SBt1afPIBFXtMxfD/0HwUbvcGMLJc7Kyk56S1eUI=;lMhNqSVoawwfUCQ/hf72AQ=="
 ---
 

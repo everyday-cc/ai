@@ -39,6 +39,20 @@ related:
         width: 929
         height: 380
         isCached: true
+  - title: "White House Wants to Know How Biometrics Like Facial Recognition Are Being Used"
+    excerpt: "A request for comments is polling governments and the private sector on the full breadth of uses, whether it’s IDing faces or predicting malintent."
+    publishedDateTime: 2021-10-12T17:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-know-how-biometrics-facial-recognition-are-being-used/186033/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/12/NGbiometrics20211012/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Canada issues tender notice to improve face biometrics for immigration applications"
     excerpt: "The Government of Canada has issued a tender notice inviting industry engagement to improve its biometric immigration system."
     publishedDateTime: 2021-10-11T16:30:00Z

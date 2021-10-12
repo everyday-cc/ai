@@ -51,6 +51,15 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 9
+  - title: "Outreach Expands Platform to Now Include Revenue Intelligence Capabilities with Latest Acquisition"
+    excerpt: "\"These are leaders who had to adapt and evolve their mindset to embrace automation and machine learning as the keys to driving predictable ... capabilities coupled with Outreach's artificial intelligence-powered buyer sentiment capabilities and the ..."
+    publishedDateTime: 2021-10-12T17:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467957.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PLaPsHznJAUgCO0hgM+ibJr7sXRbvG1TzB7WcPmmlcwfegSdd3r/p4ernwAGsgTisevOhjbWsoqrtSRd6SJwaws92Z0qJWALsoGtSvjAv+j5HSmxzIs0cN5J8zBgXy5lv8+84EsE10SbQOzhjqLYsNqwG4a9LXqU1tAwyJsHObUmu9gCURvk99JcddlTvXHSBEryAk+LvcbgPp375d1QGJ0GQmix1E+Hl8vuROJxZdvYakhSX3dCsBx5SjGgp9vztoJ1F7wFPJk6Adn8H36vwPxzcWzfINZGqFqTqu2mEDstU2QIzUyq6m66iT6ukra7PR8rmVwPcBGI7FdmE/FoWYzZdoDOyAwqGILM66jL3Ic=;2F9A3kq/N1tWZnmkYpDbRg=="
 ---

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "White House Wants to Know How Biometrics Like Facial Recognition Are Being Used"
+    excerpt: "A request for comments is polling governments and the private sector on the full breadth of uses, whether it’s IDing faces or predicting malintent."
+    publishedDateTime: 2021-10-12T17:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-know-how-biometrics-facial-recognition-are-being-used/186033/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/12/NGbiometrics20211012/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Synaptics integration could enable voice biometrics in low-power edge devices"
     excerpt: "Synaptics and Edge Impulse partner to facilitate the development of embedded machine learning models in power-sensitive intelligent IoT applications."
     publishedDateTime: 2021-10-11T15:58:00Z
