@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-11-why-simple-machine-learning-models-are-key-to-driving-business-decisions.md",
+      "title": "Why Simple Machine Learning Models Are Key To Driving Business Decisions",
+      "excerpt": "Despite the breakthroughs in data science and machine learning (ML), despite the development of several data management softwares and despite hundreds of articles and videos online, why is it that production-ready ML models are just not hitting the mark?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61606638fba0b1336be54839%2F0x0.jpg",
+          "width": 1200,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
+      "publishedDateTime": "2021-10-11T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-harness-your-data-to-make-weak-ai-your-strength.md",
       "title": "Harness your data to make weak AI your strength",
       "excerpt": "\"Weak AI” is delegating to  computer systems tasks handled by people provided the scope of data provided is sufficient to recognize patterns.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -280,60 +332,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-11-researchers-develop-ai-system-to-improve-eye-disease-detection.md",
       "title": "Researchers develop AI system to improve eye disease detection",
       "excerpt": "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale.",
@@ -381,6 +379,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
+      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -613,58 +654,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
-      "title": "These virtual obstacle courses help real robots learn to walk",
-      "excerpt": "As a result, the researchers say they were able to train the robots in less than one-hundredth the time that’s normally required. Using the specialized chips also presented challenges. Nvidia’s chips excel at calculations that are crucial for rendering graphics and running neural networks,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/robot-listing-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

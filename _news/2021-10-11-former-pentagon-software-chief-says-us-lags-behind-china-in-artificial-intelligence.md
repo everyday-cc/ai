@@ -40,20 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T20:06:00Z
-    webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T05:21:00Z
@@ -128,6 +114,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
         width: 640
         height: 428
+        isCached: true
+  - title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
+    excerpt: "The Pentagon's first chief software officer who resigned in protest against the slow pace of technological transformation in the U.S. military, said the failure to respond was putting the U.S. at risk"
+    publishedDateTime: 2021-10-12T04:40:00Z
+    webUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/news/international/v4jy2u/article36938450.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
+        width: 615
+        height: 384
         isCached: true
   - title: "China has won AI battle with US: Pentagon's former software chief"
     excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."

@@ -1,30 +1,29 @@
 ---
 category: news
 title: "China has won AI battle with U.S., Pentagon's ex-software chief says"
-excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
-publishedDateTime: 2021-10-11T20:06:00Z
-originalUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
-webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
+excerpt: "The Pentagon's first chief software officer who resigned in protest against the slow pace of technological transformation in the U.S. military, said the failure to respond was putting the U.S. at risk"
+publishedDateTime: 2021-10-12T04:40:00Z
+originalUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
+webUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece"
+ampWebUrl: "https://www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says/article36938451.ece/amp/"
 type: article
-quality: 67
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.thehindu.com/news/international/v4jy2u/article36938450.ece/ALTERNATES/LANDSCAPE_615/FILE-PHOTO-Security-officers-keep-watch-in-front-of-an-AI-Artificial-Intellige"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -256,6 +255,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "YwP7Sv8aF4MBNK9CaitB5Or/QoWnkzN/cC0LMa88914x3orcyZIQD0PCWca8ubbdiUtPMikaQmi0WfQbguyk4ndH8g+rrFuu4ORhA9vMHCu6WETbrtGZluMT3N2sCNQMAWT23If8eQWzkiTKU79uc1/O0Di6qZd91UYMe7Jc+UeipascPEdXUZ0mQbbwyIa/has14EyHa+reZ5TpalsQNkZ3kz3GEg0qIC8oUyxhnHYvQr4y87AdryptHp3PLQA86mRbS2g/9uz1kaosVfKE8syebxLVsM4Vr/8B/56AcDKmMXLrLKOGbn35gr8owptINhDasDCkznoZjph7l9RlBcLEv/scAFbHzM/drNzdzGE=;4Wvtdiz5njEfudh9VoMxJQ=="
+secured: "d3UqNqE8hQPrt5G3kddYChbhkM97ZvaELi7xGu6S5b13yofGUZf2MlRjyuwCxg/tLjQ/U/f7ON/zFwI9HoHwIDxTFWpH7FD2XTWZn1aSiYRGa92dn7mjM07pRGXeoHJPHjnYHD+tN4W8F1boQD6He0+Bz40gnYjfmNeael4TUUEgAWu6U2e/xGoCfoB8PX9oC4VhNlyovQ8hVekQ9uKDfRSjHkKj2NzQybtZRoQg8wDQQaQMucGb9GZO7vvZhs+7n9OJ+8S+npWMeyguhC8WMqbnqKq0EZJ2m7at5vhvC/EZJvbZZ19St7gl7uy1uA3qTRCsiznlmH2zCrO+HvaT509ybriI+G3uoyvjs0bQeXk=;wzzckts4uBl8mBZxqntmJQ=="
 ---
 

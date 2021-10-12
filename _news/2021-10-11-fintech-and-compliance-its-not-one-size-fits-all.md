@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://financialit.net/sites/default/files/digital-banking.jpg"
         width: 778
         height: 518
-        isCached: true
-  - title: "Recipe For A Successful Fintech Start-Up"
-    excerpt: "\"You have to, to serve these markets, re-imagine how money can be managed and moved because there’s going to be more change in the next five years in financial services than happened in the past 30\"- Dan Schulman,"
-    publishedDateTime: 2021-10-07T14:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/recipe-successful-fintech-start-up-piyali-guha"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHuK32d3bfxWg/article-cover_image-shrink_600_2000/0/1633614786911?e=1639008000&v=beta&t=KN-1Sph56-Qc6My7-x1N_clEJDJ2bFO9ECQz66tKqhw"
-        width: 750
-        height: 449
         isCached: true
   - title: "FinTech & InsurTech LIVE: The changing landscape of FinTech"
     excerpt: "With only one day to go until our debut FinTech & InsurTech live, we take a look at the changing landscape of FinTech"

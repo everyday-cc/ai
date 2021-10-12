@@ -43,20 +43,6 @@ related:
         width: 1510
         height: 691
         isCached: true
-  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
-    publishedDateTime: 2021-10-07T14:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "OXpqnJBHWXv5NjcKumv86WbmOT1PpXpNajRF9y0zweImdDUcUtsFGaX/oEZdKP68h1EdYDVUDiyeQQtq9tKtodecZnOa3RHSMLbsppVdrIK5foG4KwJbY5afhez5vvuqD2JZ0GAT+9O61FPuIt6KlM268iy8+OI24tn30rj2n4DeUeuzuwIVNVpToGAHCkYFjH8lxLzQMqVsEzkAMgg7E5HSlEhwi1A11t4OVeMft7Rn62ts8HTVAqEGUU534pjVxbUIkqVhuwzzu6XpZ/T71GqSCS73881CWpNg5PMIHv/BdXGHj2twpNAecknLhoEZE6iUyq/cUYUQmGowKGFLd/SQwhble8jnhUvoYi2d9Z0=;+DSLIedFqYlaYbc5l7lV4A=="
 ---

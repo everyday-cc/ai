@@ -203,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -255,7 +255,7 @@
       "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -374,6 +374,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
+      "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
+      "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
+      "originalUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg",
+          "width": 2880,
+          "height": 2872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
+      "publishedDateTime": "2021-10-08T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1407,58 +1450,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-tibco-adds-enhancements-to-its-predict-portfolio-of-products.md",
-      "title": "TIBCO adds enhancements to its Predict portfolio of products",
-      "excerpt": "SEE: 5 Linux server distributions you should be using (TechRepublic Premium) TIBCO Data Science is getting access to a range of new cloud data sources as well as TIBCO Data Virtualization integration, Spotfire interoperability, AutoML augmentations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "originalUrl": "https://www.techrepublic.com/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/30/d6afd41b-6128-42c3-bc4c-73842f4d3283/resize/1200x/b76d3780141304e3c3f84628d30143ae/istock-1077503914bigdata.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "publishedDateTime": "2021-09-30T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

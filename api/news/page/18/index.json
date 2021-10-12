@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
+      "title": "Absa Launches Facial Recognition Tech in South Africa",
+      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "publishedDateTime": "2021-09-27T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-thailands-first-virtual-influencer-is-a-21-year-old-woman-powered-by-ai.md",
       "title": "Thailand's first 'virtual influencer' is a 21-year-old woman powered by AI",
       "excerpt": "Thai branding agency SIA Bangkok has unveiled what they're calling \"the first metaverse human in Thailand\", and you can't deny just how life-like this 'influencer' looks: Claiming to be the \"first virtual influencer agency in Thailand\",",
@@ -1112,57 +1155,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-peritusai-automates-community-intelligence-for-cloud-native-questions.md",
-      "title": "Peritus.ai automates community intelligence for cloud-native questions",
-      "excerpt": "Peritus.ai has built a machine learning engine that helps surface the best answers to developer questions on cloud-native technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/",
-      "originalUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/peritus-analytics-.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/peritus-ai-automates-answers-for-cloud-native-questions/amp/",
-      "publishedDateTime": "2021-09-24T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

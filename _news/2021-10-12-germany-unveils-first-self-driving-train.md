@@ -2,28 +2,46 @@
 category: news
 title: "Germany unveils first self-driving train"
 excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."
-publishedDateTime: 2021-10-12T05:23:00Z
-originalUrl: "https://www.bssnews.net/news/22243"
-webUrl: "https://www.bssnews.net/news/22243"
+publishedDateTime: 2021-10-11T17:07:00Z
+originalUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html"
+webUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Bangladesh Sangbad Sangstha
-  domain: bssnews.net
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.bssnews.net/assets/news_photos/2021/10/12/image-22217-1634012078.jpg"
-    width: 800
-    height: 557
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/german-train.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
-secured: "bGqbBxHD1IumL9QJQm4rjB3Nc8Oc4PEhtU331ipngTfKEN3War/Fw6inqiD7PEpM5eHYqTeOBjYzLKLpsAorQiodJ6Z759+TCkKZpUKGCzCSk+HOM0rDlLmAckq7kym6xckavTcFrA5F64l0I7Oibf8yxquOpg3+nXBOEbRCzDR0glLjpTVjhVpjnldBTQbQc6ho6SYaprh4IO3rOXMVDJ4B0PAUYF30x8OR+szDoaiuvLs7Ja4X6C5sIND7RRRz5nOC4ms7w7RtzryCioHM6Etg08qeIOZKMRXq/eWLgCwl5N2lQ1g432gEJF7VQZYl04aX79dRdHs9O4gn+SiqAvlySZ/Wn65uHBLaXkcQOCE=;Kl0v5DlPqQ6KIackH8O45g=="
+related:
+  - title: "Germany to have first self-driving train in the world"
+    excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."
+    publishedDateTime: 2021-10-12T07:10:00Z
+    webUrl: "https://www.dhakatribune.com/world/europe/2021/10/12/germany-to-have-first-self-driving-train-in-the-world"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2021/10/watermarked/381775/1634022627037germany-train-1634022578419.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "B/gMTLrqThP083eDk0stjwL7sHUKZ6h9Ep8r3GSA3UmsN2/2nh01x/h6v5PjhmzNLAZ/CSsVsCNgx239ckzSU5WAGhMJLIwOM+/g/8v0q2LMWVJYkIfHlnY5smFc5roi6z4/Gdwcxhv/UxunJi9UoPYCzigEYuIVgOi//Y+oGAp6IhzV3p6T0uF02sldFewuJLZEmyB7fihMIRLxgNFmA7d66MWzUbm/NiD7kGBVpWQCKkw2Bsr556Zv7VRUkm5gyoWAIYCAnQ2QDCu5Cup+yQ8GlvRS2ViQcR90t0JOf2CyKfTqAiuiixd11jvn7LtBHbZsaQVIS0897q8me8Ky90eRTUDd0ank6vWaGUpC1mY=;VSsd/BytKE/cyGV5s3ytCw=="
 ---
 

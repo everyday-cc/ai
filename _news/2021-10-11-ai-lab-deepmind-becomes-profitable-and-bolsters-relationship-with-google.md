@@ -1,36 +1,26 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-publishedDateTime: 2021-10-11T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+publishedDateTime: 2021-10-11T01:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
 type: article
-quality: 107
-heat: 129
+quality: 63
+heat: 73
 published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - Google AI
-  - Facebook AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
+  - AI
 
 related:
   - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
@@ -47,21 +37,7 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Making Sense of DeepMind’s First-Ever Profit"
-    excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
-    publishedDateTime: 2021-10-08T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/making-sense-of-deepminds-first-ever-profit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Behind-DeepMinds-profit-numbers-.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
-secured: "A6ybzKU+Y1WarG9B0RrljUJdkiMBBjHdT2ufv/pVA97sUh5LrM0EsjsI0lncG84YiD58MowePoc4URtSG5keDH+eyWnGDwoMcDF+OUkvMHOz4OGKLQ1Cz8B4/3ipZA/9W1dsBG19m5iSsAP1DCXmRQGNOIHFAXbGgPeOKo1X9T9XQmRv8t29/LWeJa6hmZjnocHiLsxr/3Kop9TfswJcVBukTh7ALMP4qxKbUderSpXdXiBlF6W0XctmNrDic8TT0JjzGoSrxl3d5Gv98tsEhlC8yfTdMm0rd0ilw/e3Gi8q3ykuX9jsEXwJ+H6pzAoG5VXMzPlDR2jofj2/8w9mBCsYov9SmxiCdAFQwUxZENA5PPFXYZpbRTgrQJUW3XPlAf2AjndiYs5nrCT0/QXsD6eJ9c5SyqxKpIFYcsJIvqIf3MfMOKTPDiqikUF8IlDqcs2zDYfTdpWdKRBrC+6MibNb02HuTx3BxwvVe1jPWtZ6+6chMSDqyX2YringyBmgm3hhFKzHPTv/sStoDUZqug==;wc2Y+zL0Z5uFyUWr8zmVkA=="
+secured: "+wQiJr/Ga89FE4s55tFsjH470IjVXxjkGIE68ciD150aKjJsFAtHwBKHJofQLD7tdxRviNSjb3GTH33qlF/EMe6MYT6sV0cH4gaFVrlQ96F4qzPX8jP1cCwYxVfA1URjdIFBu0/JWr4VJUibKsnfclgp6zyrQ/El8IqyrRZ2+VewErnl8Mfef0793/JLfdVEhLW8Ev34r4fXJpeRXVbE9gNkea19JW0l6Kaxn2DSZcfXnBmegUdKoOK6moD5ensbfAvZlnfsPpIyUdii7B9JVwCcIvNQgj8ZADtfQ6ozkT6OmGSG32LxhkhAfQOKoUdSk5WhQIkEqS6LOfo1h385vbNsmpch0DRRlKFVkn9SUPQ=;BTmTDKkIs455a/Bt89eLfg=="
 ---
 

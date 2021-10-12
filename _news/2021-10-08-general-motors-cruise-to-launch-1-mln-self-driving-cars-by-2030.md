@@ -37,22 +37,6 @@ related:
         width: 810
         height: 421
         isCached: true
-  - title: "GM's self-driving subsidiary Cruise aims for fleet of 1M vehicles by 2030"
-    excerpt: "General Motors subsidiary Cruise is scaling up operations, with a goal of at least 1 million self-driving vehicles in its ride-sharing fleet by 2030."
-    publishedDateTime: 2021-10-07T14:55:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/10/07/Cruise-self-driving-vehicles/1251633613853/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 58
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/1251633613853/2021/1/16336147327899/v1.5/GMs-self-driving-subsidiary-Cruise-aims-for-fleet-of-1M-vehicles-by-2030.jpg"
-        width: 563
-        height: 377
-        isCached: true
   - title: "GM to invest $300 million in Momenta to develop self-driving tech"
     excerpt: "General Motors announced today it will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China."
     publishedDateTime: 2021-10-07T15:45:00Z

@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-08-25-watch-san-franciscans-take-a-ride-in-waymos-self-driving-car.md",
-      "title": "Watch San Franciscans take a ride in Waymo’s self-driving car",
-      "excerpt": "Autonomous-car specialist is expanding its trial ridesharing service to regular folks in San Francisco as part of a new research program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/dsc_0570.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-san-franciscans-take-a-ride-in-waymos-autonomous-car/?amp",
-      "publishedDateTime": "2021-08-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-25-baidus-ai-voice-assistant-xiaodu-closes-funding-at-51-billion-valuation.md",
       "title": "Baidu's AI voice assistant Xiaodu closes funding at $5.1 billion valuation",
       "excerpt": "FILE PHOTO: Men interact with a Baidu AI robot near the company logo at its headquarters in Beijing, China April 23, 2021. REUTERS/Florence Lo/File Photo (Reuters) - Tesla Inc's Chief Executive ...",
@@ -1435,6 +1383,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-20-tesla-bot-reveal-sparks-tidal-wave-of-jokes-memes-as-people-make-i-robot-comparisons.md",
+      "title": "Tesla Bot Reveal Sparks Tidal Wave of Jokes, Memes as People Make 'I, Robot' Comparisons",
+      "excerpt": "Tesla Bot has been presented to the public by Elon Musk and Twitter has predictably reacted with humor and mock horror.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
+      "originalUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1875508/tesla-bot.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-bot-robot-elon-musk-asimov-memes-1621357?amp=1",
+      "publishedDateTime": "2021-08-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

@@ -46,60 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-10-bothering-and-even-spying-on-your-neighbors-via-an-ai-self-driving-car.md",
       "title": "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car",
       "excerpt": "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!",
@@ -255,7 +201,7 @@
       "originalUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1458,6 +1404,58 @@
         "AI in Autos",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-kodiak-launches-its-4th-generation-self-driving-semi-truck.md",
+      "title": "Kodiak launches its 4th-generation self-driving semi-truck",
+      "excerpt": "That move towards autonomy in the trucking industry is where Kodiak Robotics comes in, with its fourth-generation Kodiak Driver system, which the company announced on Tuesday. The system is somewhat unique from others on the road in its modularity and ease of installation on any modern Class 8 truck,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/kodiak-autonomous-semi-truck-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/fXRtRHYXHsgvDiRTPEUy6OR0_EU=/2021/09/27/de369ec4-cdeb-4aa1-bbf8-c04f0dda9fb2/767a6856-1.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kodiak-autonomous-semi-truck-launched/",
+      "publishedDateTime": "2021-09-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

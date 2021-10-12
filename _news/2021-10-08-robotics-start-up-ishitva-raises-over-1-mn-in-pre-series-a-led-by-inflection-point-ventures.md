@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Privacy engineering-as-a-service startup Gretel raises $50M"
-    excerpt: "Including the new funding, Gretel has raised $65.5 million to date. Founded in 2020, Gretel offers a data categorization and identification platform designed to test anonymized versions of a data set automatically."
-    publishedDateTime: 2021-10-07T15:00:00Z
-    webUrl: "https://siliconangle.com/2021/10/07/privacy-engineering-service-startup-gretel-raises-50m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/gretel.png"
-        width: 1080
-        height: 608
-        isCached: true
 
 secured: "iDLkyGq4mV+aFelNPlM1znP9SQ015qfn//WBK5VyyRavb+GzijZtEZX0Q+CIgISztsWGET3Kzcly2/es11IJCuOKeeK+HNIVARvjB6uV6zEy7OCiwSr5rPeaLT8AHuW/O0hJROEnNd1RoPSjvM0X2S/d4EQorHIj7hDFGu2ysROuLFf07p1m3oFhpYYjr0mjYPb7h5MwFSO0F+OhhXmRpmrWr4NnHt/8SOJQNUyVF3Q+ZB0pGCn+KgBRo7ZM7oIQ0uXaLYw/qOKyovaksnw2sXX69quK7ElxhP0LphuMOENRmHwhxwkpvcZlM+x1feRrrqpnFD2L2S8SAsFRqtzCQ6iF+ZnhrmzjA9eALLF7POOmC/H82E6KIhZ5JijB07QD2+cdlaxmEprxSExxKXwp4QHu+g1lqzZ6qqZQRzN34qh1zphs3Z2FX3/jjBAndBhCTBbzQwZ1XBqUZ/3xpQii1nRYdyhdtC7fq8dY0VIBVISNGZ7HAL1Irn4wvidVhScmzTYPq4e70QtRuceIfbKAWA==;iWSd0EF8S1vObkXjyOIARA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-cf14530458f9434885014b4f8f61fd35"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Chennai-based M2P Fintech raises $35 million in Series C funding led by Tiger Global Management"
+    excerpt: "Chennai-based M2P Fintech, previously known as Yap, today announced that it has raised $35 million in Series C funding led by Tiger Global Management. The funding round also saw the participation of existing investors BEENEXT,"
+    publishedDateTime: 2021-10-12T06:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 47
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/iuh09y/article36957845.ece/ALTERNATES/LANDSCAPE_615/bl13M2P-Fintech"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "aQvyy7755cgmpUcsQgu32O/N/IFbY9sw+2xyhc1d/dTkpNJnRIRFv6Js30GfHR7ciT3ywcEAW70BSsw/k8mRrHnoHdhKOFhJHg81LmxFSYQFj/Qc73Mzk1Q39l8AI5Gm0zI7wtOghJDDuF5KCLV3wyayFBejtiu1kE/IpMiTuTDYVND5LyF6Fri1HGfiQfB8kFuImUhxOiZeSWRj07oRtvmT1Il5lOhMl0AI8rHJMnaHkvTjdw/Q1JX+y8PvYroMtEK/gjBXo54RmErUIdpZlnak74daGvJ7C7HS5aZ0a/+0AIQXgzHDUznWp3sFAeeQpoPgf0n0nilKPINis3d3I/ktQFKvCJPRFs3UujrSvZg=;WrIDKiKa3xeLRmswKo+kwQ=="
 ---

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market size worth $ 109.83 Billion, Globally, by 2028 at 40.17% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Chip Market\" By End-user (Healthcare, Manufacturing,"
-publishedDateTime: 2021-10-11T15:17:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chip-market-size-worth-109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-r--849406321.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-chip-market-size-worth-109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-r--849406321.html"
+excerpt: "Despite many headwinds and realignment of interest and priorities that can breed uncertainty, the market did not suffer any fatigue. Enterprises are increasingly warming up to the AI value. Not only are enterprises actively adopting automation to automate repetitive processes,"
+publishedDateTime: 2021-10-11T16:49:00Z
+originalUrl: "https://www.mobilitytechzone.com/news/2021/10/11/9466714.htm"
+webUrl: "https://www.mobilitytechzone.com/news/2021/10/11/9466714.htm"
 type: article
-quality: 29
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
-  - AI in Robotics
   - AI
   - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
     isCached: true
 
 related:
@@ -43,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "g/f3xYJRUF2ozFdLCro82Zqd1ANBt3p/ASFc0XYURqxCJkvCKerE2k0BMp5252pY4yMgQRJdadRmjh3OiWBZAI1/B7hWPn30aNuJvaBOqg9QfbEfNSqFJpCQF/TwRtYB+Xwp8g3HgYYtr5r4yGVIRM4bfQXX+4E68lOfUvi5+GOFRZPQU8sK09AxoJSQ6xJFU4AXEmAGzVG65t0gWdhvFo4pLFFgK/PpV1HbcJwboPTuANk0YiB4ghn/TJVZjjwdq3ITLgPxPZlNibs7Kl7H0Hb/Xp0uNlLlmBKx03TsNbJiiAawk9K9gC0LlNZwkr/tocdnqcAsH2Te7i9YTbTLTei0L+QcQR104IHrSUK/GcI=;ElKqKY+0N0oLhTvh8+kfJg=="
+secured: "wye9V/yE5ryQwzWoqU7L3PbZrfsIMD5ATLwgBtWS2dtTTZvKFArAPF9d3JyYYMuWUZ6+iCYx1WcT06yZ7mixiAnDIWXhCwvx8+MmBCkRpCQHn9VEwd1UVIn4MOZpY/VJsEvqTycizcV719i9HN4Wm5JVyG51pDGZ+KxN0xgJrbD3uvawBbNScfEMq2WsJ+0g62C0lJTeBQB2OGPCkVuBbjHFS/7HGxO33w9P1GKgRR9nlSjIyMkdoaNI9UOFPW8RKB/KPvBWmiudL2Q5YjTzR0l6eZFwY37/4geu8kxwaBIvnJIEVoSrZMAd0lElQ6U+DFeRTBHlDl2jggNTJPmpuY41sad5IBso2ej89Fd9GZE=;INq442Bggj5U7zBz8+LtZw=="
 ---
 

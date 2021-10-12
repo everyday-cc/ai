@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -407,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -459,7 +460,7 @@
       "originalUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -657,7 +658,7 @@
       "originalUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -855,7 +856,7 @@
       "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1039,7 +1040,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1178,21 +1179,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-11-why-simple-machine-learning-models-are-key-to-driving-business-decisions.md",
-      "title": "Why Simple Machine Learning Models Are Key To Driving Business Decisions",
-      "excerpt": "Despite the breakthroughs in data science and machine learning (ML), despite the development of several data management softwares and despite hundreds of articles and videos online, why is it that production-ready ML models are just not hitting the mark?",
+      "path": "_news/2021-10-11-ibm-and-deloitte-launch-new-ai-offering-to-unlock-business-insights-in-hybrid-cloud-environments.md",
+      "title": "IBM and Deloitte Launch New AI Offering to Unlock Business Insights in Hybrid Cloud Environments",
+      "excerpt": "IBM (NYSE: IBM) and Deloitte today announced a new offering—DAPPER, an AI-enabled managed analytics solution. The solution reinforces the two organizations' 21-year global alliance —which helps organizations accelerate the adoption of hybrid cloud and AI across the enterprise—and 10 years of experience implementing the Deloitte Analytics Platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-deloitte-launch-new-ai-offering-to-unlock-business-insights-in-hybrid-cloud-environments-1030855945",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-deloitte-launch-new-ai-offering-to-unlock-business-insights-in-hybrid-cloud-environments-1030855945",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61606638fba0b1336be54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 928,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1200,16 +1201,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "publishedDateTime": "2021-10-11T04:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T05:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1225,7 +1226,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

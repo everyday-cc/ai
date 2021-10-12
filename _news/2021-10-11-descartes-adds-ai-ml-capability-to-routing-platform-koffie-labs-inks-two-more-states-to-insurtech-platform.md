@@ -7,7 +7,7 @@ originalUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-a
 webUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-adds-ai-ml-capability"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Descartes Unveils AI and Machine Learning Enhancements to Routing, Mobile & Telematics Suite"
-    excerpt: "Descartes unveils artificial intelligence and machine learning enhancements to Routing, Mobile & Telematics Suite"
-    publishedDateTime: 2021-10-07T14:21:00Z
-    webUrl: "https://www.dcvelocity.com/articles/52695-descartes-unveils-ai-and-machine-learning-enhancements-to-routing-mobile-telematics-suite"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 43
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/182f3ffe-f729-483c-9201-d7024a0ace47.png?height=635&t=1633562170&width=1200"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "kzHiq5KMb5DVa2tSHH8K+zXTjPG3F8h2MVIaf6/77JqPDxEl4JCI+v+a0iJlfhT7rhmRoZ8s5oPeJYzb+v4aVzDO9vWIgdeZxS84LzhmKfG9SGaW7LT73vAFLk9+SOCLYB3xNcq2GC+9N6LnmF+FeP20NkEO0dcuaB4jDT3MKZVJJFUbmVNU/j5ZdzpUm0qjXRqBP0R9AB/1hghji/dm+iPbU8Iug1OAUVJfeBPnCLtlGTtHCpmio+/yv7NhHhRL5uewvoYNMQebjpzUj/uV3uK3pTIQkMJn6DiObjCnF60x839/xUmVX6OCmFRG5KvMBfLTrhLMJGCv+jgWpwJTFJ7aS+Kxb2Hj2oQdqAgnTMJEyUmfC6N2EO3M63WiOng8DyMX18OMZjtFElB0X1kocZtHDPuTMSZSPDKNJWdWX0CRCXor81UoGoCzBdn4niO9T5qMX8QTKYw/u/uwlWHpZ08Mkkj5YNXWGtRY2yPMjw9o8FJNS/OlmCmliT7IfaQGHiXzKI5UsqaZRoaIWxFg1g==;Nex97zGNvw5yD0u2NHDFMw=="
 ---

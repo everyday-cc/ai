@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/robotics-sta
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo"
         width: 615
         height: 384
-        isCached: true
-  - title: "Privacy engineering-as-a-service startup Gretel raises $50M"
-    excerpt: "Including the new funding, Gretel has raised $65.5 million to date. Founded in 2020, Gretel offers a data categorization and identification platform designed to test anonymized versions of a data set automatically."
-    publishedDateTime: 2021-10-07T15:00:00Z
-    webUrl: "https://siliconangle.com/2021/10/07/privacy-engineering-service-startup-gretel-raises-50m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/gretel.png"
-        width: 1080
-        height: 608
         isCached: true
 
 secured: "tpC9KvJQl21rb2fgELmBBA21l+HPWEvBfkmyy0PUX74eRELI9AE+aA3+LAV5EeHMAepGfZXxFKX3Klbh9gzKBPSr+5P+MInzkcI4uN/pSH+8+DIT/oBsi58y3cNY4BjEQadnCwNM7UWd2HcY61+YeTZmqv79oXVYJ6/x8KmIkN4jLFv9Yny6Pqbh8BXNt2sRziPgRc9wk43Uz2wuM6wo3jQvb9KQXFPmzfyZgzYqkfcJ6iufBBlV8O5Hc/ZP3ZY1JvIM1oPJbpuMSQxRtUv7jEt3uwaflteMxPHzfrQMKcDUjVBQoZeuEhwc9sszIAGOqfTf1xq0hR9i//zpkLNv2h6OFjwe3IohlVFg42is8IGlK+WZ/odyr/Z5+Mk0w3XYopdrHkmtmO8ykal62u/7513l3nktxJQoC+mu9Er/oDdNHGPTK5Ol9zonATHee2gBDwuXox7KwVW1Ish88r3KPbI0JEu2S6G9LiXPO4wrKMOd4RUnxutLlrb9PS0wh1pv7XxjP0YW8YmjUwizUf0iXw==;9csRshQlBnXfrJfv2PSKrQ=="

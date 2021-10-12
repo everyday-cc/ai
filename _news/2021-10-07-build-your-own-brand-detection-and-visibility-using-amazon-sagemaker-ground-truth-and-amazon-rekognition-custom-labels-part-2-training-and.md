@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-ow
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/05/Architecture.png"
         width: 1027
         height: 529
-        isCached: true
-  - title: "Emotion Detection and Recognition Markets by Solution, Application, Technology, & End-User - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The “Emotion Detection and Recognition Market 2021-2027” report has been added to ResearchAndMarkets.com’s offering. The Emotion Detection and Recognition Market is anticipated to grow at the rate of 11."
-    publishedDateTime: 2021-10-07T14:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-0ff909975c8c48178df310e92e8eadad"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "ANau+tmYjGxRIJcw1KchtHH/2KIlcm1YeBDKMVCQZ/YVjCOODslN5JKIJT/UmV64PbFIlKOGtwaJyGMUZCl6ZeOxapqwuIUb0MmI1sUDzUoJkPkHhUoJjZUx4QAT9SkugoAFqpZ0EIyX/9dSf7NYTYzdidJQDaPHbgFv1zqusmsDyfdJR6J7DHwmAqY/5vKvA3JxmzV5XPqLyDawzbOdkz8oMAcV7ONysX8qzZSfjwuS2YuQm77e5zeMZYis0BYepyPhQj3iHtlaY1VawMMYn07hBy8nWn0dxduOiJXfkJW6bVJD1cT/8uYtuDf3eG7iIaJTBPWYZthij4j/nb4Au/2kJgk4MPATHkBvHti8C2I=;WhFcaBuRbgq8vNsg8WW0vw=="

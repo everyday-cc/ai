@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-
 ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
-quality: 89
-heat: 139
+quality: 91
+heat: 143
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
@@ -102,6 +103,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "zjQD62EnbpZLKD1xUNQJpwwIvL6ktuifRpSIM/+YylB4Gjd5iD/LBati9axldntJY/mIYtxHk1syW+FGBvxYBMzK8+e/zEivTnncZMZwbGnd6NMn07UG6lSG58zvHT/hHSod7dnAuEQjEN009RlTd0j/4hMlYJaCkxRpsgf+LFYCp0q5PNeKh8WWf2QDe93y0NGOglFGvNT/6MCA4ko9/Xb4144TuzqCMjrjEMYNswgNaE4nXIJ0ElcZwKSTBuBjhNkubNMFp6ps5+DvCa7BBsrUK1/AjYP/gGsvCVBQHEhcjfTjnW0qK+qwhV8fP/+6rtztruBxM7bLMR50ggArJnlutYKKxo8izTEsRA2WqsA=;ey9LX0d996Aj0BTOR+llyQ=="
+secured: "LPsMF7EVQo4nw90VbiTilmdxiXDwi/jRczVtHYCrsUV0KX8HFO9u5V9R0hTzDbV28jBs8Ri5QlYBB+tdLsoKwcEoDFso+vw49O/cicRb1Zmtq0cP0DNxGnSKhfGRBNUNI1x/wEWd8B0K+Zgs32sCF29+Em7oO2ggwo3JOoNOrBoDkjbW7z0Re7YQQQW/OqBd+H3cMfgSd0e7b4ofgdnGB5/nfGqtLoL8WQpcOF3z7FlQMbpCt52vysdClz3eru2xk6gjYMhDKPLeEXnr3UeMJsL14h38XqfMyOQaQZ9qqi1Pxa3/xDkgvKWIwAB7NhVYktvtzetCVVIFZZ+LvZXat8Wr4/iQ+OgHnW4Jk6w+KszIdtEb0TBqXE2nakr967m4lIo7gcMnuzbjIeSuDaGVRmxeTd0RFDdxRBBGnQcpSBz+g/ENICiYtObTAN2X/uSibDAgRGjZaR0zpGzorweGYFghhiGZHVoiIvrQG3g9ureDj9KNOK4xn93b8o/UQesVs/0sAa5P0v92Cp4TclsvcA==;1oMJu3ReotYK3hvysqNn3g=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
+      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
+      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "publishedDateTime": "2021-10-11T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
       "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
       "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
@@ -142,7 +195,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -208,58 +261,6 @@
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
-      "title": "These virtual obstacle courses help real robots learn to walk",
-      "excerpt": "As a result, the researchers say they were able to train the robots in less than one-hundredth the time that’s normally required. Using the specialized chips also presented challenges. Nvidia’s chips excel at calculations that are crucial for rendering graphics and running neural networks,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/robot-listing-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -715,7 +716,7 @@
       "originalUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {

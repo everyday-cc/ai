@@ -7,7 +7,7 @@ originalUrl: "https://www.khaleejtimes.com/world/americas/artificial-intelligenc
 webUrl: "https://news.un.org/en/story/2021/10/1102522"
 type: article
 quality: 136
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-86939409,imgsize-23544,width-800/86939409.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Artificial intelligence can help reduce road deaths by half by 2030, says UN"
+    excerpt: "New AI for Road Safety initiative will focus on the development and application of artificial intelligence (AI) by countries to make roads safer..Usage of AI towards improving road safety will require equitable access to data and the ethical application of algorithms."
+    publishedDateTime: 2021-10-12T07:02:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/artificial-intelligence-can-help-reduce-road-deaths-by-half-by-2030-says-un-41634021181238.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/artificial-intelligence-can-help-reduce-road-deaths-by-half-by-2030-says-un/amp-41634021181238.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/artificial-intelligence-can-help-reduce-road-deaths-by-half-by-2030-says-un/amp-41634021181238.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/10/12/600x338/artificial-intelligence_1634021526755_1634021536908.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030: UN"
     excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."

@@ -25,20 +25,20 @@ images:
 
 related:
   - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-    excerpt: "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime."
-    publishedDateTime: 2021-10-12T05:21:00Z
-    webUrl: "https://www.just-style.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
+    excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"
+    publishedDateTime: 2021-10-12T05:23:00Z
+    webUrl: "https://www.packaging-gateway.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 32
+      name: Packaging Gateway
+      domain: packaging-gateway.com
+    quality: 34
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/10/shutterstock_1602197377.jpg"
+      - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/2/2021/10/shutterstock_1602197377.jpg"
         width: 500
         height: 286
         isCached: true
 
-secured: "t+bC9rYeiWQef9kYiOnkf4yEBS+1D1FH2Mcpjgh6fzey4y0+V38AOcHuCjMdrME4E8K0TBnLqye+PBmXyzzyPdL3/Bj/dWMyaNn7ALTMuwVKvqQ6bZgYPIutTz7dMjtnvQyaC68I1tg/6dYZZYqD4+4jPZdfIMtnQZOH/oCEIu5hqBlOZx0FY50EcvvRu+VYxvObjUua51MZBhuIF43Ps6R7NHHHNbllCmpgtUVLfTHWQm5gyWrQSdCqtMzO/Img/3sB4LQbSzN767MBAKzs4T1VCUjNjctx0w2vNCv1FPbmxRsYOGVOjp7GG5TRTzKBSrqkfeJ0+EaITyoaUckupdt5Y5PZP6UuwnILwEmQ1gw=;sXo6l6zdBSpGeLpPsvcxpQ=="
+secured: "FlaqLuEckNLQudZ4gDXDjfO/K66L6FeYpP3dPJXO67dT3DUvgNqOMtU1s6rz8TPZiW5qdc7ixTZXIjZQM70RTFWOaMNfImcYBe20nWOXZA+WMlFut9d9yBbOPrC7EyxDjuveis6SKU9JPPM2HDaK1UTpmGuiBARqBiUAKTkcy9enR95IibDjFs36jl7wj3gt13tc7yXgpJ5hrLQ2CTtCO3lUvOLi1dSmSzWHm1I9+fdoeC9XbMoMib2A+qFHIjjnJ0bblrbV+1Wz3s7744M02nHxOdXvWVrKwrIWM99h1G+ZBbCfR9HDNjuXuLslBGJOSp1I/AuHpiiM8rwt0D0DgEvL8PL3OIj2YSx2dYrjUh/YjjxT73oEF12Re80AmqYsOrC+fZvDcMtqkBHfzLGFoHnHxiC/7/Oevcu0DXREY4IxBb2RrU7meX39fxNgvh9zIx113eRfVtt6v6AugwNdNc9rFXWBjg71Yhu+4Rm32ahmKu9ik4GQfNqkjXxtygp+XXKhGV9gQMr41Ow04OIPwA==;YZO1mJCP/+ScorXuvVt4lQ=="
 ---
 
