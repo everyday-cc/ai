@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Cybersixgill Recognized as the Best Machine Learning Autonomous Solution by the 2021 Tech Ascension Awards"
-excerpt: "Cybersixgill today announced its Investigative Portal and Darkfeed have been recognized as the best machine learning autonomous solution by the 2021 Tech Ascension Awards. Cybersixgill autonomous threat intelligence solutions provide real-time contextual intelligence and the necessary insight into the nature and source of each threat."
-publishedDateTime: 2021-10-11T16:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cybersixgill-recognized-as-best-machine-learning-autonomous-solution-/2021/10/11/9466752.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cybersixgill-recognized-as-best-machine-learning-autonomous-solution-/2021/10/11/9466752.htm"
+excerpt: "Cybersixgill today announced its Investigative Portal and Darkfeed have been recognized as the best machine learning autonomous solution by"
+publishedDateTime: 2021-10-11T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cybersixgill-recognized-as-the-best-machine-learning-autonomous-solution-by-the-2021-tech-ascension-awards-301397008.html"
+webUrl: "https://www.prnewswire.com/news-releases/cybersixgill-recognized-as-the-best-machine-learning-autonomous-solution-by-the-2021-tech-ascension-awards-301397008.html"
 type: article
-quality: 1
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://mma.prnewswire.com/media/1447996/Cybersixgill_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Cybersixgill Recognized as the Best Machine Learning Autonomous Solution by the 2021 Tech Ascension Awards"
@@ -34,6 +41,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "9ymYsCsoRbpht9wxmCpuFBZyZ1F6b+/Js/F9Gzu0WXPIsfkLsrkjmCC6s69i6J73uwG/6V5ZkXQNjrPuTeT6WF/9e3slnPKlO9OD/eIpx85OAzOLqMrDSB5x4rLVI3YjwLQ4gtqXA5mBWEwe9sw/GVEeW+xuUkY1/7aKDsymcxedM8bh+WIDm3s5R1jc4q0TPOoGfMhHjyGrFh90O0zMQwfGxDsHQCyV3E+4h7KTXIBFtMUtfeEX80Jwh9SgtX/Ih+dPxJ6Lz4ETihOa5HLQ/8HYJ54irlxAw15qSzVOWvfGz8Izj5Y3d1VSnb6xMQhip9PfcHVqMvtWKYxxO5I4CZyoTp+s/waySe9QMwsDs3A=;+Jc9ZlG7Vlzo++st2jTydA=="
+secured: "8Gf7pRh/nlHfHaGaqqEUSslCCX05Gd/BTFArQMTrq7Wq+vcbj3p+MoTtsWPF6gJiv5Held4kmWyHOyajbKHDe/iHmeol/aMQQ/zkgwPl1jUxdeVVmKITbyuPfRzsZ7SK2R9I2RyAgB9UbbUizf7NUGhABjUWKAYU6xlr2UcO9cDNkH0P4/+Xq+2F/O//QglkdAile/83/gm6Q3M0JGgqTBpYa351BBlcABkiHZKW49nb/Hpnm7IJCVKkuBUfpUe7N/nAglNIENgIdqb8J4UeHRkJVKLl+zf6i8jMKvsjhUMrqBLVVHuUmY7Be1esBrJDyIVJLYgfNRT3SYGCOOlSdKOh/c2Jz7J23wtGBkF2aCc=;ZbpVHAcnU2dusVVi+eBa+A=="
 ---
 

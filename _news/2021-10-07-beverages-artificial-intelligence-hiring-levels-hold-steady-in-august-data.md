@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence hiring levels in the apparel industry rose to a year-high in August 2021"
-    excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose to a year-high in August 2021."
-    publishedDateTime: 2021-10-07T08:31:00Z
-    webUrl: "https://www.just-style.com/features/artificial-intelligence-hiring-levels-in-the-apparel-industry-rose-to-a-year-high-in-august-2021/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 24
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/09/shutterstock_1058815598.jpg"
-        width: 500
-        height: 322
-        isCached: true
   - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in August 2021"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose to a year-high in August...Read"
     publishedDateTime: 2021-10-07T15:13:00Z

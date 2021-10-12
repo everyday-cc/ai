@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2424828/coordinated-healthcare-market-to-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424828/coordinated-healthcare-market-to-witness-huge-growth-by-2026"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua09944352_g.jpg"
         width: 620
         height: 381
+        isCached: true
+  - title: "Machine Learning in Healthcare Market to Witness Huge Growth by 2028 | Hewlett Packard Enterprise Development, Google Inc."
+    excerpt: "Global Machine Learning in Healthcare Market was valued at USD XXX million in 2021 and is expected to grow at a compound annual growth rate (CAGR) of XX percent to reach USD XXX million by 2029 including key companies- Hewlett Packard Enterprise Development,"
+    publishedDateTime: 2021-10-11T13:48:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/"
+    ampWebUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 50
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Machine-Learning-in-Healthcare-Market-Including-Key-Players-Market-Share.jpg"
+        width: 1125
+        height: 750
         isCached: true
   - title: "Technology Segment to Witness the AI in Healthcare Market significantly from 2019 to 2030"
     excerpt: "AI in healthcare offers the opportunity to help physicians identify better treatment options, detect cancer at an early stage and engage patients for better healthcare. Companies such as IBM have played a big role in pushing AI into healthcare."

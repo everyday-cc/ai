@@ -52,6 +52,20 @@ related:
         width: 641
         height: 333
         isCached: true
+  - title: "How one Reddit post led to a 15x revenue boost for an Aussie AI art generator"
+    excerpt: "An Aussie entrepreneur saw a surge in traffic, and in revenue, after his AI-powered art side-hustle went viral on a Reddit thread overnight."
+    publishedDateTime: 2021-10-12T01:34:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/reddit-post-15x-revenue-boost-ai-art-generator-nightcafe/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 34
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/10/NightCafe.jpg"
+        width: 733
+        height: 358
+        isCached: true
 
 secured: "fvgrfHHe3bD/NN4g7xOMu4VgKL15rVFNBY0kdn/vIXENsalFv5zTKfgJkVgWYTaY4TtJTHqyev47ZOu8UnFpwEKtkVVKMM/mA38x2G53Kvo53cATYX2C6Lo+CqFDfBgAWHNojSxD5WhEzAIPqvbIEZp08I5znotMXwuYNRUFXQC/+6+ZHp5I2kD+Hp9vkLFAUBnpNvisbe5uXgBi7l0xZXpdMfX95IkjQy1x30p0FS9FycXZl9oTTzoJ9R3kofdmcOwfSEEqgJICYxnYeU1tPDqCFBQhlCtVRgUQdmouETNT32oemDrwBeCtcxw3UVEL0nWWPwq5PgJ5AASh1vQYGrQVaFKCaeMzMwADchzMb2yQUZ8cSuPDxEiPbTcCG/rhTuHoqmINw3THPwLRxKaFZITaMWkA8FunrgGELep6Wcf6UK9ZCd+H2YKT0G0uVistqnb0xkhCRq03izbD493R+EwIPufvrN052c1ArJKZf2bDo32Ju1r8a4duW0BKOwp6QROvffB2FpUWxi857d3jPw==;ucnYvFu0hEQsay3I0jj5aw=="
 ---

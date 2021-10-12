@@ -55,20 +55,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Alphabet helps DeepMind to turn its first ever profit"
-    excerpt: "DeepMind, the London-based AI research firm, has turned a profit for the first time ever, reporting in £43.8 million in profits for 2020. The firm has posted multi-million-pound losses over the last several years and reportedly burned through $649 million in 2019."
-    publishedDateTime: 2021-10-07T08:11:00Z
-    webUrl: "https://www.techcentral.ie/alphabet-helps-deepmind-to-turn-its-first-ever-profit/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2015/02/artificial_intelligence_machine_learning_digital_brain_concept_web.jpg"
-        width: 620
-        height: 350
-        isCached: true
 
 secured: "3p3XDVKoo6dl7fucDCjWAcPjV0gPWYn7ResN+PJa2cjhLjzUmavrgXiJhvHP7gc9E6/E/blJ5OyofD/xFQrcFRFsWoCtNISRy7XijYZVaXhM+Z8T5o8Wlwr2IOXC18r2ckUXqMtUDD2hQDCTVSqgSA/VpG5AEnrWEmV/u67HmUAqHcXdtPQxqe4LAK8tyK9CeGs01Emq12VVyetwWSe3FGmXPmCDzSz4kM78TwAs+ke5ECQhw3B4CIedc1g/wozXmDNYiseivNnOiyOxgZ7eSa7G9Sc6Meiwe4ZJe2AKi4XpVSxahKT15JShquI8pbdRcayNaj3t2wObGpF+HT28G2aonNxOCOt0Gkgo/tGRKGaLVfcas0Kyd1BNn22Zm/tQV8eM99+EpHfU0tAj0vU/sFbCTO7IJp2rN4uzpljl3S8Ly5N7nBh48vvJp3/jjOh6OmehvVs7mGrlNA+cbCTb9DOTa4Gm3Jl2MJ2+hsjqQHTC7vIDxdxNEHWVsMIUFgnxJ5Z6/5oItehZbREV0+DmEQ==;Ss5VRCRi9/GkHR/KGb7n0w=="
 ---

@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Chip Market size worth $ 109.83 Billion, Globally, by 2028 at 40.17% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence Chip Market\" By End-user (Healthcare, Manufacturing,"
-publishedDateTime: 2021-10-11T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-size-worth--109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-301396951.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-chip-market-size-worth--109-83-billion-globally-by-2028-at-40-17-cagr-verified-market-research-301396951.html"
+excerpt: "Verified Market Research recently published a report, \" Artificial Intelligence Chip Market \" By End-user (Healthcare, Manufacturing, Automotive, Retail), By Technology (Machine Learning, Predictive Analysis,"
+publishedDateTime: 2021-10-11T16:49:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/11/9466714.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/11/9466714.htm"
 type: article
-quality: 29
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
-  - AI in Healthcare
   - AI
   - AI Hardware
-
-images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
 
 related:
   - title: "Automotive Chip Market worth USD 117.76 billion by 2028, registering a CAGR of 12.27% - Report by Market Research Future (MRFR)"
@@ -43,6 +36,6 @@ related:
         height: 600
         isCached: true
 
-secured: "X0FsqPJfuUCZqQADjFgTL16Fo2q7xMGmISKI7yzJQdI0fR0btOWQv6YYkh1KpvshKjJOWTFgly3tyuOD/SHa6fWgt5P9D/Qk9diEhZOGmqH/+bfJdgoTXNdvLKrzg1eElb2Vy/rbAVfUltk6Pzl7QeeZwRXJb/IppYX8bhEEZX0Vvc6La8TLRNdFcDsAt10UG3Ghj2Q/gniiXPlKVpE5t2uxfbSlFSd0yymy8pBOSU4OkAjJ75JbwlWL+7WLgDiQrXAjGAheTvw8cSLUlJfVIWgBVHbcGOsmotf6qFuds7BtUJjK+VSAPxsE+T5lYpObVRFdbHk7HXJql4wKTwFMzXgfh68sEScvmZXZUCh/7ZM=;WVGQfrW5nv0nYS2odEAUYg=="
+secured: "+bm2yYOCbeHiz719vte4EUoCDWcvItUokwaSdIEANSUelsm/TI1haPcrYq0TQm1t+DDF4DKusyQymw4uUTmV/cSm64OqKpSPDVv2M5tynQVsNYI97lLMUBKOEUBrazrH4bjrbaDMy2cbLacbcop6SNRbfgGetEk14k22uCD9O96H/VZhalkaxwoa6szzlxo8O/4sgByv/1m5k7H8xEh3dmacJVPuUGWX7Xc4Ig2Mp+SSPXJM5nLqeOq+v9WBFtJApl6L4k4vrLXuTNzbx4wel/mDwOBhDvLIxizzQSWcrMh5brmiKCUOJc90y+pdng6HFli8ZJryYcNJ4xOPLh0xGlBRrmMQzGrnq2OX7HwE7Xk=;fSx4Q30U0WlKwJsVLv1qqQ=="
 ---
 

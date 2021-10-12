@@ -59,20 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI Computing Hardware Market Valuable Growth Prospects, Size, Share, Demand and Current Trends Analysis"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 07, 2021, 02:35 /Comserve / -- AI Computing Hardware Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies,"
-    publishedDateTime: 2021-10-07T08:41:00Z
-    webUrl: "https://menafn.com/1102932014/AI-Computing-Hardware-Market-Valuable-Growth-Prospects-Size-Share-Demand-and-Current-Trends-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?202236"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Report (2021-2026) with COVID-19 Impact and Interview Excerpts o"
     excerpt: "The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. The \"Global Artificial Intelligence (AI) Enabled Drug Discovery and Clinical Trials Market\" is likely to grow at a CAGR of around 23."
     publishedDateTime: 2021-10-07T09:37:00Z

@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Artificial Intelligence Stocks to Buy, 2 to Avoid"
-    excerpt: "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and"
-    publishedDateTime: 2021-10-11T15:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/390452"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "5 Best AI Stocks to Buy for 2021 and Beyond"
     excerpt: "In this article, we discuss the 5 best AI stocks to buy for 2021 and beyond. If you want to read our detailed analysis of the AI industry, go directly to read the The Best AI Stocks to Buy for 2021 and Beyond."
     publishedDateTime: 2021-10-11T13:21:00Z
@@ -73,6 +59,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "2 Artificial Intelligence Stocks to Buy, 2 to Avoid"
+    excerpt: "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain, owing to their consistent product innovations and expanded market reach."
+    publishedDateTime: 2021-10-11T14:06:00Z
+    webUrl: "https://stocknews.com/news/aapl-googl-pltr-ai-2-artificial-intelligence-stocks-to-buy-2-to-avoid/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 37
 
 secured: "rr6Pwbau6mKiBAimucRHAsJ8uqostWNYlkcrlCg1t4BTUhJMpPtP8ngW2qWyrGhW4hcVG/NaojDRMD3X3/IvpvQh4T6DMXkzVtlapK22B9y3QZtmZGTwBrK8wgmtN8JnxNYyK1Vg9TEW/ZwM0hl0s2hkEMeuYijYTUu8ZHQwQwQkIYiTN1q+kMQ+hX1SeZ2d68/TgmEU3+pFORK6oV834vjFeD41iqb5AElEzJQx9TiVuVUPWkSC4Ha8o9uLNJeZLb9XNJwnVmiJBkZcTfoonvfNMpu0EjQ8EM2UUY7/mw8yjTZZU2fxpXYW3jqTmzlQfl8Yu25kKy+8AyVOKAAal/GWTWcfZJrtoQhB+sV6r8yHWR70wv62cIkjCGLsLAykRowR4EYGPrZ50bEuuQ8xRlYB+MQpeWpXkGNo+KVg7KgR/szLLB/FMplWkcWuLO8BIAMPWMQe5xLB+r6Gjy4y/REtP4q9HP+RIvqI7RM/OUBZAWNBhYodYUTRaLD1GngoZHks6ugQq2YC/ATN+kpbhg==;6KDE4f6KnkuJhYLwyMb45g=="
 ---

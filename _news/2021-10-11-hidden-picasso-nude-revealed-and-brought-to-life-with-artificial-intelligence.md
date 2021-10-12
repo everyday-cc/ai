@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/inde
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "A Nude Portrait Hidden in a Picasso Painting Was Just Was Just Revealed by Artificial Intelligence"
+    excerpt: "A nude figure has been found hiding beneath the oil paint of the Spanish artist’s The Blind Man’s Meal (1903). And we don’t have to wonder what the original work would have looked like thanks to the magic of AI technology."
+    publishedDateTime: 2021-10-11T22:30:00Z
+    webUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/"
+    ampWebUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 58
+    images:
+      - url: "https://robbreport.com/wp-content/uploads/2021/10/picassolonesome.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "+eTL9bVsHd31g8yhGNT+cvcdHmHTI/UCa1gi1ri35aVK7tv0sVvfZpUrJbIEe6RWfrflhGiQEovQ7yfQF3vFvOjFRv7lwp5KkxxC33bYX5wmt2N1DakiOb96UsCnhtt/VI7EfH4kwTmtPjAPP/ZEUMp5szATnT4M/hQ/Z5BCtO8o4qPQVEYE0l1CxqyK2pUeKqd/lrvFbfek5ez0TBPJrhyeyyiM9eVrSvlACeFY8dWmgRxFlAOgVNPSz4d9xF2uz+/I9MsDViljT0lvqeqctehKJI5JRmiuJguNoc9kmpW33aCxBQ/8v1fmwIB+p4iPL414iWtZEh3T8UlbmswlB6EpEpjDywntOzz6pUtFfkjZaOhzpbYTW9WozW6IZsVwUC0CsjsFPxcP7E/6/uWrGeLCO3sw2405vYLVXrvq8q+qc8HSswz7+iht0AYtlYxOmtHUaUBYlAsvDpCBX+hLckPtPalbRoXgOXBL1Xe8kgzTt9jgkXzBgG9KZyvyEOX79KbB7LFror1KuTxxlha9oQ==;YVFnDi8cwify0F5uW/Dyag=="
 ---

@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Pixel 6 could finally see Gboard enhanced voice typing"
-    excerpt: "Google's advanced voice recognition system could be set to come to Gboard in the Google Pixel 6 and Pixel 6 Pro, according to new reports"
-    publishedDateTime: 2021-10-07T08:37:00Z
-    webUrl: "https://www.trustedreviews.com/news/pixel-6-could-finally-see-gboard-enhanced-voice-typing-4171652"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 24
-    images:
-      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/09/Pixel-6-wild-1.jpeg"
-        width: 2505
-        height: 1670
-        isCached: true
-
 secured: "hUjjYWlH241KL2R4H+GVCPn5KnGpT816kco23diKQlS3D170HnMhVgE+NnJz7s6grYg70MLhOb1sUO3ZeeA+yP8ECULIVS0MtSJ/jy+1ElgxLj/4lBY+mGG5boo3Y9LcQP6yQR9KqA+32YBn2SV4B8HWqRvw2TG+A6Xa6V8hBc7m5WDPkbaXE0wXEGrsUjknrbpV70JZpwOTXco/YrK5ceB3SfmH5vlZgeasCuD0GuukJSf66Bgp819CIEni7e8RGJKTqx63e/DLRpcSy/9xlZMys/K3kzTUUr8f5k8s28BI7GUBVye/vUCAza/JNolo5WBZEa4XHRZFJoqVxgFOYmMtyfADC4cAOS4qaoSbjfM5yNNpQp9TfI0ZYiwhXTh9SlWtDKe35uGdJ6s8l1JBg6FLpnFTSyp6Az+MHuKF8e+rimOs5AicB0BiA/qKMuat55aVC6FNZavcq77BZKTM53bfvxHaETQ5zDmqt0v7K5YadvX5dA+EV4wBDKRDyKhiIdURY1ziLFGFVqA6it6img==;p8G2/+XckUHyLkzYA9jOug=="
 ---
 
