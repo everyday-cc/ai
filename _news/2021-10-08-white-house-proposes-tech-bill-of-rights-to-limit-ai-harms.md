@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rig
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration says we need a Bill of Rights for AI"
+    excerpt: "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI."
+    publishedDateTime: 2021-10-11T18:15:00Z
+    webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
     excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology. The White House’s Office of Science"
     publishedDateTime: 2021-10-09T17:11:00Z
@@ -71,20 +85,6 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "White House science advisors propose AI “Bill of Rights”"
-    excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"
-    publishedDateTime: 2021-10-10T21:15:00Z
-    webUrl: "https://techstory.in/white-house-science-advisors-propose-ai-bill-of-rights/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/images-95.jpeg"
-        width: 678
-        height: 452
         isCached: true
 
 secured: "8QKT4DyCnrBGowuUHdlAVT//It9YGgL/LTLW4QKmeRMFXdmUcTEiWFNxhQM6k3BFz7C0SeNPRXInlzpBj4y9eLW4VdqDxbU6H4Z+dVPVz2Im48cPBjNMfo60jQZ3iXveF+OmhSEkO/JlB/KwwqwO+PENV68QSHNr7mHV+4Yo+szr4zM3uCXgMff65oPie+yrFDgG+LcTqn6ud9Y6OmHUAsNTWZjgOeZeQzv/tI6HE5AmmXnZcp7raB1smOJj3D3V+3GKg9fgkG8Lv61ar/1OZmwNw0qHeef8XBcojf4W0VSThY0q8bR4XhQFbIFFAdXk3NqNLccHeEwikXwxsmmuJzLuxXVgELRB86m5DwDeNF3YJoWinzeLgqedjtipm1e3PBJ08LOTm7wPAlPRh+VL5fpRsSszQ7xqXcmEsEqqg+x9UviLNTzJy8HYgElMZmNiC2bPj7mcdl7CeEoi+Zk3Ca9mOs1dIlikK5XCoL9G1cc5FCZNaP+wQMs7g1Ef3mXEIa/7LIM5rEyFJXXpshYLrw==;PsJR8pfpqjzMo5pY1ineqg=="

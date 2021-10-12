@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finish
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

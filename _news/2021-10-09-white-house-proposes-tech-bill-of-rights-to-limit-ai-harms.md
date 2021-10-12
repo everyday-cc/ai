@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration says we need a Bill of Rights for AI"
+    excerpt: "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI."
+    publishedDateTime: 2021-10-11T18:15:00Z
+    webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "White House proposes tech 'bill of rights' to limit AI harms"
     excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
     publishedDateTime: 2021-10-08T16:34:00Z
@@ -71,20 +85,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d8761a0-5a61-4efc-8283-ca64ab31c333.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "White House science advisors propose AI “Bill of Rights”"
-    excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"
-    publishedDateTime: 2021-10-10T21:15:00Z
-    webUrl: "https://techstory.in/white-house-science-advisors-propose-ai-bill-of-rights/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/images-95.jpeg"
-        width: 678
-        height: 452
         isCached: true
 
 secured: "LgkuXLZrmcVdcULoVCkJmz8d+pf6HnKtp6Ar5mLxLN0+fxEGsz4Vv0vp21YKeLBw/cN9FUo3xskHGQ7ZSBSmIu2lbSoyhDxqxKS3P37CkZGGG8/7Xk3QY0PVdlwxujCUCm/zurYI3ICyIs8QpioFWtz/GGK1Fwhu3Fh2KNks4rR64jEhOt7OZVZLlgrVE4cr7wwiNjux80CuSN3bxX3d8mooyQaKnNtKLSvLHWd1js2Dab3HbSZjie06O40ntlBowaC60BqumxMcndVddzBfSrqHOC16pexS2OwuTtqDVfV3dn+BwpytrdQVM3niF2YwIBnZdLFO5bUIZzwP8ldac+JgvX/zRbo8+bb+qXPXzTQ12nAu6SOplD7K/dGxWXsKWQ0owRtaejHUvmyDDieCOevazQzyr77w3t7nBLhlkfA2BtIoQhdKidj32LZtvee8JvXfSGGtMoV3lgGkQpf5ck8fOyLK5M0XUxK+Da5Pjso/V0TctsK8butJXbOBmyuZfH3Y3InIbPFgmOAA5zioFg==;ZPuqLgY6I+Qc+zcRX6MtTg=="

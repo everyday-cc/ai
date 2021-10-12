@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups"
-excerpt: "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly"
+excerpt: "CB Insights today named Quantexa to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology. This year's list was unveiled on stage at CB Insights' Future of Fintech conference in New York City."
 publishedDateTime: 2021-10-05T20:30:00Z
-originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
-webUrl: "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/"
 type: article
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "s0T3NXy8yBzYxt0/p75EFID8n9p6HGREjJ/IOlQeK8Os1V+ptlcPCWtHpihspSbooDVOKYcH1X+8pZFU7ge8I+85bCT+nq4k0BBdwvQUFK5iHRsS76ww7YOwZupmmHZqg/QSCHw0+4tpIJ8rXmqJftbC+NYS0hzMNk0NVc3bQygSLrivf2+8yhrsZbmmjvpZiZvvg6QRhKoOEMxvj9vMIlkszTYUAMHps5NvkNiSuX9+RY3S3H8qYoMh5e3NwnS6dxGeRitp5XlHFbnhhBb8CuWsh9Mvxc5XSshTuCiH+aheiLJN5uEHdkto0o58KyykdA/PsPsJ3PwucyDJDLqlSD+smm9N0jShu4xSY5Y6b0s=;qrrpYm7CQ3NIAonH+zPu7g=="
+secured: "oC4/5uLJ7O3X4dWKDKGKS0UoA/ZMVrk5usN7y+0G+0vzkvYZGAjvJR/0w0KGEBgApNxtPd9MEE63vHtGohLloFnSPQHwWB086VdvENP0YU+ZJWAeS4JphISfXGwBxFtyu0CkQbYjcxce3P5bLVORqsQ++8EBmStqwFsPdxYKkJwcvqcw97ySbmzFO9j+5AHoXUP9xHLey+vjmKEHHlw6CHiaEINTZyeedOf0WZ/qaPo+jJgLIXQPzwmhSLym6Xsg7g1lzRsWqhlQLtGXdJrYOackxijSvJLeFtvvdvVWtwC2z5Px15seEmfmWPMYZNkE6J7KtuwQtQhGo3fQqnmECCkFXShSn1nGztEeLVEbQ54=;8sLibOqcbnyXrtIz/HmkAw=="
 ---
 

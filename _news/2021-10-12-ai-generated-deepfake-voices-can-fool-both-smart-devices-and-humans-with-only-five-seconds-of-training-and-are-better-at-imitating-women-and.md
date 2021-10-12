@@ -44,7 +44,21 @@ related:
         width: 483
         height: 400
         isCached: true
+  - title: "Scientists are using AI originally developed for producing deepfake videos to stop future pandemics"
+    excerpt: "Generative adversarial networks are being used to predict the structure of antibodies that could neutralize a previously unknown virus"
+    publishedDateTime: 2021-10-11T23:54:00Z
+    webUrl: "https://news.ucr.edu/articles/2021/10/11/scientists-are-using-ai-originally-developed-producing-deepfake-videos-stop"
+    type: article
+    provider:
+      name: UCR Today
+      domain: ucr.edu
+    quality: 23
+    images:
+      - url: "https://news.ucr.edu/sites/g/files/rcwecm1816/files/2021-10/ivan-diaz-_ts3NfjvaXo-unsplash.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "sSed6O8OW3ZLgtVaFqtvck9LVMiOczVnp4C8Ep0MzGNIPlhOqSjJDmdtLD+dBSW/dkmFUf/u8P3F8QCdgZT/Fz/heSJR7fNQ89E5ZdPNNNayQBdO6oifS32JTPdqFf2cIEfQw0gNVKVMBBNYnqgKd7Ep+A48esDSsL6xkMcFftg70ztUI0DU96hLWenBj1GEaRYVuz5n94W5okTk0E32GHFdbvE4mjd8p8R/HKw0N3+VBJM1JpQRYCokgGkftqCIneP9QPod6UoAaSbr7nNlXcwKKeSgt016ZK5wof0lgbUHVHk+DPFgjjdCynjag8J9H+1MWCx957ip6saQQzSk2mMyqs5QsKy+uMPFyunX9ds=;qKrmHDBV4HAPWV3xUEV7WQ=="
+secured: "vgXuSvE5jJwzWhtW0JX1EzJIZdTDpkXrMo3/whhq51K5leujGr18W+mWEXmyZSB2BmqJ7Cw7KJnhEQVa90X2doZu8UNkaApBmoBqUJnl8pwt9fRSfGJwJduyGFWR1JUfaZa3K9vMJRBj1F4J3C3P0bLFSMrZjgWq3UWLyLYAKFIDde+p6wAz5bTy4WXrQFyFJPEG9Sz3YUkUEoVEt8CdSSl4gIsBhsIlF83fRtWyx8rFNpsJn38opDkD5WGmtGQgjyay+SsLwcme9wiYQ9zOZefb23FCooQO9Eq74PF5BWbXrAUTQCrWdYR9qR9wGDA2H9wmR5kOxEsiourRLkpBGRBRbaTwZHFVs0OqTkuf6Q6hlorq3iWPIJBU/2uGoU3qWG4kgJIo8zqU6aA4J+lKBRvoAX08aa0iVX1iC9M6DnftFc/rCAWzj2UAye+qLP9QI+RlqFmvoQtSrLK6D0UgLZPX2vvUlyeglkaLBVmQQNVO6odEvqP4q56PbBE+Q227JUwajRO/2Qx5cumEyBYsAg==;CfAQK+mtadgftN4qWD/Cew=="
 ---
 

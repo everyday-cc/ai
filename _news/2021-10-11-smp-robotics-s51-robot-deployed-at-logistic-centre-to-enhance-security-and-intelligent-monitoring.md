@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-depl
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

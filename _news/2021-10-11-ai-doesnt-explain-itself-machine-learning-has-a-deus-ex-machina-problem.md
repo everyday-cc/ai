@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

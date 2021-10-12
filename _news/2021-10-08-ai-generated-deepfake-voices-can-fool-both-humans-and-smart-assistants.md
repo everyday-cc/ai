@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2293138-ai-generated-deepfake-v
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: New Scientist
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists are using AI originally developed for producing deepfake videos to stop future pandemics"
+    excerpt: "Generative adversarial networks are being used to predict the structure of antibodies that could neutralize a previously unknown virus"
+    publishedDateTime: 2021-10-11T23:54:00Z
+    webUrl: "https://news.ucr.edu/articles/2021/10/11/scientists-are-using-ai-originally-developed-producing-deepfake-videos-stop"
+    type: article
+    provider:
+      name: UCR Today
+      domain: ucr.edu
+    quality: 23
+    images:
+      - url: "https://news.ucr.edu/sites/g/files/rcwecm1816/files/2021-10/ivan-diaz-_ts3NfjvaXo-unsplash.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "AI-generated deepfake voices can fool both smart devices and humans with only five seconds of training and are better at imitating women and non-native English speakers"
     excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were fooled about half the time by the deepfake audio."
     publishedDateTime: 2021-10-11T19:52:00Z

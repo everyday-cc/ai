@@ -71,20 +71,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "Airwallex Named to the 2021 CB Insights Fintech 250 List; Recognized as Top Fintech Startup for Fourth Successive Time"
-    excerpt: "Airwallex honored for achievements in Payments, Processing & Networks CategorySAN FRANCISCO--(BUSINESS WIRE)--CB Insights today named Airwallex to the fourth annual Fintech 250, a prestigious list of emerging private companies working on groundbreaking financial technology."
-    publishedDateTime: 2021-10-07T07:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=542920"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 15
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "42kCFpnnMYjycyWW06LxrDnDz66aULWD1E0UxA+DhpZBTcooy4XyzIXjo65taPXsHm0cZjLMti9WFrrGFPVuu6XvIOQ79vfvoYcxcrphMsckx5r9POIxb+Obw55K/lBXwOtZ3rTYUqKbyA9tHZRadprjWFB4mKp0qT1lgtoP15MiRQSy0LanE14t+ISKJGBpYDpzFq2ENJOm1wiQUGP0WMJjwMl7biVGiK1DgqBQ0QjrFkbrqPxFBAenPO+2NjrEzykVzBdsAaTC/89l7PDeVCnlJNLMtC3ugeTP/66c/diLq/38+bPW+2utdfP08K7a/30MVZDJRKVQbowM7qQ4hBpTD+GyhHINDIiy4jdVWQKiSRDTGR7sSnlZs6qivEiW6Y6pBCXEV7EOQfjTWQ590wh2nd/hC6Woo2Bq8ErG8jjnhyjWbzuKwjhdHOwwtjdWMqSJA23b69OUK3zwzSvvKnzTfiWwQYwmGUFT7V8Wj1aPwMqwhqA+4b8dWCzQgWVbspJUCKylsOij1BlurxKywQ==;dpN23ku3CIbE2/F72EYoZw=="
 ---

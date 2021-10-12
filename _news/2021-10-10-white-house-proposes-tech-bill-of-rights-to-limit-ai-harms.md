@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration says we need a Bill of Rights for AI"
+    excerpt: "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI."
+    publishedDateTime: 2021-10-11T18:15:00Z
+    webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "White House proposes tech 'bill of rights' to limit AI harms"
     excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
     publishedDateTime: 2021-10-08T16:34:00Z
@@ -71,20 +85,6 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "White House science advisors propose AI “Bill of Rights”"
-    excerpt: "In a first of its kind move, the White House has seen its science advisors propose an AI \"Bill of Rights\" to limit the scope of"
-    publishedDateTime: 2021-10-10T21:15:00Z
-    webUrl: "https://techstory.in/white-house-science-advisors-propose-ai-bill-of-rights/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/images-95.jpeg"
-        width: 678
-        height: 452
         isCached: true
 
 secured: "l8QlUiVsKAO30N7SNFXV6/y2tVpLNE1/tw04vsnZxsmdR1Pku1TwMgd/IqWGzGlDvuqSB3W/qzm38rqF6f80X2heiLY0R4nJ2hdAWFApgttddCnID02vTv8bCDifBx0Y+8qtD/eI2fk7m1iFVuE4SROvdSk5ypbUmXsJ/OYa9tWF+wFsdZchOYfBcp52dCw89yxfMsjGaBeSTWVSwqwdo5NT77pQ1E9js6ZojEBd63p23Y87yQkNQZNW5Co56/hhYU3nxSw8PT6vf/0o3nuT+8h++zYP3BBocRAMiuhtN7BAIrYtuN+Eb1epUhxdveUkRf59gcECVW5XSsWyYAhRVZexYfcnTnjNWhfsTfDb+j0=;oTFNtWtIIPOWEFvNi7jDJw=="
