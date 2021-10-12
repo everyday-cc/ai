@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-11T20:06:00Z
 originalUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
 webUrl: "https://www.reuters.com/technology/united-states-has-lost-ai-battle-china-pentagons-ex-software-chief-says-2021-10-11/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/vxrixy2xw223OX87iJ5q7lC5b8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4FW6O7HWZ5OELEZ5QMCOM7D4CI.jpg"
@@ -257,6 +256,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "uoDE2lEXMf6cUnEO+6Ya31ksQ+6jNtpnrOqVtz+W5ncjHwvwft7U8tNsX01mH1Rr3P8L+KNFgeZZTTqYv2nx71kjJ1UUdhZ89tlvdKyP4eIcv387OnaoyOi3z7fUsmISR3OiwNbEsk2EF8oWadqy8KvqV0E5mta9JL8fJvyRIz26QZvBrRyFZ+kAjib74BT8EUj99Fmosgv1a405btls7SL9iTiDksj8pg8sQmT8TPJL3etlykiiussZ+HgMJtCnD+WnubL3BCQkeNJPaegiy60zmIhNWHPyAlNsF304FuMFd3xY+9fK/TZxq57f9kAy93BOO4qrW9ylTXypli/DyF49q3Wi4rcp3S8IRGhf1w4=;/qVolnwJ/fycY+nj36NMMw=="
+secured: "YwP7Sv8aF4MBNK9CaitB5Or/QoWnkzN/cC0LMa88914x3orcyZIQD0PCWca8ubbdiUtPMikaQmi0WfQbguyk4ndH8g+rrFuu4ORhA9vMHCu6WETbrtGZluMT3N2sCNQMAWT23If8eQWzkiTKU79uc1/O0Di6qZd91UYMe7Jc+UeipascPEdXUZ0mQbbwyIa/has14EyHa+reZ5TpalsQNkZ3kz3GEg0qIC8oUyxhnHYvQr4y87AdryptHp3PLQA86mRbS2g/9uz1kaosVfKE8syebxLVsM4Vr/8B/56AcDKmMXLrLKOGbn35gr8owptINhDasDCkznoZjph7l9RlBcLEv/scAFbHzM/drNzdzGE=;4Wvtdiz5njEfudh9VoMxJQ=="
 ---
 

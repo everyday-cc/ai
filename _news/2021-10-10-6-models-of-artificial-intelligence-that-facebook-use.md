@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook quietly acquires synthetic data startup AI.Reverie"
+    excerpt: "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation."
+    publishedDateTime: 2021-10-12T05:46:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
     publishedDateTime: 2021-10-08T07:38:00Z
@@ -55,6 +71,34 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Gap Inc. Acquires AI Startup CB4"
+    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
+    publishedDateTime: 2021-10-07T22:36:00Z
+    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
+        width: 1024
+        height: 667
+        isCached: true
+  - title: "Facebook Loves Self-Supervised Learning. Period."
+    excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
+    publishedDateTime: 2021-10-11T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-loves-self-supervised-learning-period/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Facebook-Self-supervised-learning-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "4gY1olSA34v1ssMZ2ukdch7NPFAb5KX77DyH3GLfXKzqCNtDrT0HppxJRBb7tr6PBCbuM3odwUInvrzqnom6hDBipdhB487XcoiQwxgxn5TsaH8rK0QWBH7fTfw8Ihq4nYpxAA04mRW5vyZgwWa1mrMGinlheKsvOzOgJr5lvdb6Z/RvHSqopfXZxYHjiRnXuVag8l5K+lVkKTtk+N4BQM0UnjZsId0OfbruYARizhOhfZWu9l8lv+DRp6u4PdV7l370I9D1tC2DLd49BG2ZWnsfNHV+TTo8jWxn2xRTBrojvLw3DdDU5DxlY+0rQ+dAHd2sphLekMRXyFQ5RNZgYI1wZyAzr6Gv3Qe5xGtcJKA=;fYkL1G6T4bMkecZ1waJQhw=="

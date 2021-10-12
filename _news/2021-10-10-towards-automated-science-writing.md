@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/towards-automated-science-writing/"
 webUrl: "https://www.unite.ai/towards-automated-science-writing/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Low Code Data Science is Not the Same as Automated Machine Learning"
-    excerpt: "SPONSORED POST] In this special guest feature, Rosaria Silipo, Ph.D., Principal Data Scientist at KNIME, discusses the difference between automated Machine Learning and low code tools for data science."
-    publishedDateTime: 2021-10-07T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/10/07/low-code-data-science-is-not-the-same-as-automated-machine-learning/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/10/KNIME_fig1.png"
-        width: 700
-        height: 432
-        isCached: true
 
 secured: "pesN6WTdiN6dL2beamR7ToVBIesx9SzK91c0LtbALYU9pyZbpDtH5wLPvSFRFQbkqhGDgHkCIXilOxnD/J39iuqgVk9Ylw8momulixdZivqlaDiogoelzKi7aV+THsTEuUBBKEBoJdpebIkgEZc4C9sOa9j5+2nUA8JNMVnk8BUfhk1mnZTY99ZCfPEUpp74v72ZL2Ak1ijLSxSsW3dYd7DEdELAzwtwKWiFXnmBSw7DJv73vI8l4/znA+MeivNIBipwZMHkj65uJpifol6vrAEVh0MQlizR/LQRHfNgXg98MMGAs+EHibUmSSIpRFQL3gFdBdq4vh2YjEbgY2EOwl0YIMOOtaEZL2r4ISXXyjmh3HQ+XdDnEAYELzKDuoizovQSp0HX3jmsdbkHJTqYQGNlkpAT0oiaR2lWTMW1IkvB7glG6VIhZHKYCijRHHYpVJtprBqF9H24RBaTYp92ZYhDqf5T5S9kx7JwZERFcBXjiFvAN4y5zaJJrXGmFi/b0WAQxdvvcHUES36AJ5exzg==;Yka/fsp4PqxQ9m0zgs24Sw=="
 ---

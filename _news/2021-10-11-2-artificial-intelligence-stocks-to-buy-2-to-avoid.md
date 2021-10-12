@@ -73,7 +73,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Best AI Stocks to Buy for 2021 and Beyond"
+    excerpt: "In this article, we discuss the 10 best AI stocks to buy for 2021 and beyond. You can skip our detailed analysis of the AI industry, and go directly to see the 5 Best AI Stocks to Buy for 2021 and Beyond."
+    publishedDateTime: 2021-10-11T13:26:00Z
+    webUrl: "https://www.insidermonkey.com/blog/the-best-ai-stocks-to-buy-for-2021-and-beyond-983673/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29220621/possessed-photography-JjGXjESMxOY-unsplash.jpg"
+        width: 4398
+        height: 3888
+        isCached: true
 
-secured: "zzl6neTbv97NFXVPWjofjRs88rKTTIM/2K2KZW8xf4fJGpiZ+LXyxgV2yjx+BHa90tlpamiM4cZ0x+vHATjHT8ncQiJSXXscIij+kjXvzLnUOtQMZxkah+mRC4my3bp2nMmFPyeGsj8bseKiQL06fft5Hh16VokwTUXIu0ovtJMWHu6UaTT//yXhnjVO6664M07VlShWLB9XaKLCoRmq/ROJGEN+wZaDLN29mvqcJKpnNUlSvBmmfls4wQ4fW2uF4OAnYN5ClCG+Uie5TYjUcrIeG7j9IgnNoSssDTJ2NuZUmW8i0z8EnLRf09A2oRW9T6/78P5KooUSFH6dgQU2RocNjPOj2htkUwywe642ai8=;BustquIivL4wLeJrX+/38g=="
+secured: "NtREkXFWYUXmHdZ4vpl5AwpZdDf12N0NgqgGaM9QkYZkcVXjsiI1Tv31DfRxTegkvOieqLbS3vILny+zceAjrD/th1uxYYOTTY6pvJpW6ed8WhaeOSufPoL2c2BHxRaioxhfXr6pi40gUkRCvEU+nGnPTP4GcEEF6BFD+7CqV+zDmLFiMnwypjv588ilMW0bTMxuY8/hjlJul0F60cLmBSZ+bQT8qUiPKIhVG0gd/Ycs55hOYohqInhkpVqx4c810S83XMuBuytu2/ugh4aUVBdRAjW6QlO641bJUOBko7KA6hiBvNjSkM/VXCo+mwcYvfjKs2Sw4BmyzZIkDxPlrUoewCa5APMWeSGV9CUIMViswLg1+D/IpfBSa7CzuWD8y6c+wdWefJesVcOO6GWCyEwHigkkJd/O1fsUZ75fh9fsFLbOYnyh8kZXs5HwOnJwYsXzhRfBGABUfqTkBIB97ieD4ntRrTeSP8LNyQUu4hJ6YCrg/HnotphdrNEdSarRf8Lzteb+QqL3PdlRmIg0yA==;H9Vs3V54LKgVPLRBtGBJgw=="
 ---
 

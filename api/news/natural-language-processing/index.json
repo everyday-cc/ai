@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
+      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
+      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
+      "publishedDateTime": "2021-10-11T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
       "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
       "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
@@ -160,7 +212,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/how-to-enable-data-centric-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1365,49 +1417,6 @@
       "provider": {
         "name": "Real Change News",
         "domain": "realchangenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-20202027.md",
-      "title": "Natural Language Processing (NLP) Market, Revenue Share, Key Growth Trends, Major Players, and Forecast, 2020–2027",
-      "excerpt": "The global natural language processing (NLP) market is expected to reach USD 28.44 Billion by 2026, according to a new report by Reports and Data. Natural language processing (NLP) is a field of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/",
-      "originalUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-18.png",
-          "width": 750,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-market-revenue-share-key-growth-trends-major-players-and-forecast-2020-2027/?amp=1",
-      "publishedDateTime": "2021-09-22T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

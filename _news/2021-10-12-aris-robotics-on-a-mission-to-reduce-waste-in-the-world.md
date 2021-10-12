@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Twilight of the Robots? Androids in Contemporary Cinema"
+    excerpt: "Elon Musk announced that his company is prototyping a humanoid robot called the “Tesla Bot.” He shared the stage with an ecstatically dancing figure that was obviously a human in a robot costume. Musk assured the audience that eventually the robot “will be real” and will derive from the AI system used in Tesla vehicles."
+    publishedDateTime: 2021-10-11T16:00:00Z
+    webUrl: "https://filmmakermagazine.com/112350-twilight-of-the-robots-androids-in-contemporary-cinema/"
+    type: article
+    provider:
+      name: Filmmaker
+      domain: filmmakermagazine.com
+    quality: 39
+    images:
+      - url: "https://filmmakermagazine.com/wp-content/uploads/2021/10/im4-628x348.jpg"
+        width: 628
+        height: 348
+        isCached: true
 
 secured: "a6YnXq/Yl6AwNKW1KG4dWMP3d22OgJvC/Kv9hoomYok1ZKSnD5W/uIXsxZiB3em5CPmdeA7z0KJ+xwnXJA3xNGPmH9x19bh/CSRCC/1YnT7lx01Pdcja1X9+UG1iOzzzNs/N+AuKUXTx8a0PfyIS5TRNnJMv2JFbFe+1uwdJkmuef1pst9MVRhSTge+CENvauwHk0YD8VcxnQJD7Ygaxy1JSz6SOTu0N6UKYwItUIxGh+XkKBLJ0gQwonMny2ObeMTr2Uv3ejPDkqthZgetKW6spI3R1JPFaijg3QCnUTMSdvo87iuoMnvVoHRXfNNDalHdQSgJzi303F+s9RupSNFlf7mWgPdAQRNoq/ytODJ8o8tqtw9FB8PXkBTFKd809LyE4IX6n1WUZmT1UUUjEm7bDlgWfpKAQCMj/yj7tO5sbiMOzXrVgjPtdmNJ0m/PZuYp53gqUE7CzqqA5wTnF4sJvd8XoD2MP8QxwUQ896oBpRVhTwuU+A4BfeEpZZUQzeKQaNI5RddZd78pNywZMtw==;CjqYdklkGY2NIirzRFq5FA=="
 ---

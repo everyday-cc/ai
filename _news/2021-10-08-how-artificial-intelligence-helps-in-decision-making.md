@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Artificial Intelligence is changing music"
-    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
-    publishedDateTime: 2021-10-07T12:41:00Z
-    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
-    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "sijm1ZgP4eAZED7tmoWcl/Zj4Bo+yW2qnlWDhUgsn/8UC5/P3osYbVsld3e8q+q3dyjqKonTSSUS54uMNNXLK/zeJVmpsZdzDahKVsntjMN0tIbAsrdUREEAQBcRSSTlINY5xpAAVL1gNqgxhY7zKN0YINeIHYLqOolffkXh0xx4dtZQXjaWYbS1oyqgzrRtFk1zPd7VBoIQDio4Si8o28r7zKWjrENjvkTravrt3BEcxwCcylmsLuahYmhtUEHB9Ha2Zh9GwyGAJ9C4h+I2a7TSnhdD46Z0cUehMOtgrxu0hnJryK+BHB7sDNrUdSahat4Csqe5sUleGbfBFZUB4yuqVNPvw3Wv6/jZmXUh+GHyMFKhG3jXX2v4X6fr6jAEXQkBozhjcrBwTAvxPMQg1ipS40XqWacx/5j+I/lcVtI6xYDwUaW/hi26x64J7kwViOqPQglExzEJc8jxCOnqmW/9WCkmSR+IvKIO/K8BiGLekDYOvA+/8B9UO7pCV+BOaS7t2iEo8udJbHhPhZTg1g==;Tw0LAINt/TS92JVAdfJ2XQ=="
 ---

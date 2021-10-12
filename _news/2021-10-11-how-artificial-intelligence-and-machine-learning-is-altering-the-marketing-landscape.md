@@ -29,63 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "The Data and AI landscape 2021: It a MAD, MAD, MAD world"
-    excerpt: "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?"
-    publishedDateTime: 2021-10-07T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/"
+  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
+    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
+    publishedDateTime: 2021-10-10T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/890f80640dd7706a6c82494d036edfe6dca1eeca/2021/10/07/2e0da503-fa3f-4701-8c59-09547ebc7693/data-and-ai-landscape-2021-small-1024x522.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
         width: 1200
-        height: 612
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence Market 2021"
-    excerpt: "The artificial intelligence (AI) market is driven by data-based AI & deep learning. Explore our overview of today's artificial intelligence market & forecast now."
-    publishedDateTime: 2021-10-08T16:08:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
+  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
+    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
+    publishedDateTime: 2021-10-11T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 41
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 60
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/artificial-intelligence-g48cb9bf7d_1920.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
+  - title: "Federal Government Spending on AI is Accelerating"
+    excerpt: "The adoption of AI by the US federal government is accelerating, with defense agencies leading the way and services suppliers benefitting."
+    publishedDateTime: 2021-10-07T18:11:00Z
+    webUrl: "https://www.aitrends.com/ai-in-government/federal-government-spending-on-ai-is-accelerating/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
+      name: aitrends
+      domain: aitrends.com
     quality: 39
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-8FederalAISpending-2.jpeg"
+        width: 550
+        height: 352
         isCached: true
-  - title: "The Best AI Stocks to Buy for 2021 and Beyond"
-    excerpt: "In this article, we discuss the 10 best AI stocks to buy for 2021 and beyond. You can skip our detailed analysis of the AI industry, and go directly to see the 5 Best AI Stocks to Buy for 2021 and Beyond."
-    publishedDateTime: 2021-10-11T13:26:00Z
-    webUrl: "https://www.insidermonkey.com/blog/the-best-ai-stocks-to-buy-for-2021-and-beyond-983673/"
+  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
+    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
+    publishedDateTime: 2021-10-11T11:25:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 37
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29220621/possessed-photography-JjGXjESMxOY-unsplash.jpg"
-        width: 4398
-        height: 3888
+      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
+        width: 700
+        height: 530
+        isCached: true
+  - title: "Apple Admits It’s Working on Self-Driving Car Technology"
+    excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
+    publishedDateTime: 2021-10-09T06:41:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "7fFlC8JbU3diqn30o7EpOvfsIldqZdycYKpl7qvp4AsQoHpQiVkJqPPCB/Wq7C2r3vfYPVLlV8Kmo87AMRyXFrDbZnkgz3UUdrNtVTrR6N/UFOU8w5Gb+0J+ryyyz2hOeabwixpLOwy1y1wHEflYBmiv0EmMhzrXMTz6hquzXpVKWsvTcySqkwuVe8U0IKstVb3vDtpyFLtF4TNGa6a/vKCoyUwcV+QNWIt6JNcbuJEr6KzfA47ugIc+v79yjlkCkk1uYSujUOybA4LlkpEpBut+fpX3x8n4o9mPKZAn8btP75Lje9lAlSQT7YT+/PjvzZbprYApHzOfSBFmXMha28ZUiVAOWlaQg7vK3gZh/gRXfMNFm4D4P+2dNElFI5O0pbol1+1dRYBxOxg3mRpbwuYvxtvXzkltfqqhokK+odVliGN4/1uE5jPXiaDpkoeWT2jH8EB4J1MEcbyKysmV1LtcUMnvQOFHmuKvLSfPyO/WRAU61jax/yhdjvGFC/38uIrCoOZVVpcMaDGtUj02VQ==;OdWcjp+hj+40oCmBmXsfMw=="

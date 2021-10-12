@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-traffickin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-robot-scaled.jpeg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "How Artificial Intelligence is changing music"
-    excerpt: "Beethoven’s unfinished 10th symphony has just been completed, 194 years after the composer wrote it, by an Artificial Intelligence program as part of an effort at Rutgers University. This sort of development in the world of creativity is critical for two reasons."
-    publishedDateTime: 2021-10-07T12:41:00Z
-    webUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece"
-    ampWebUrl: "https://www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/entertainment/music/how-artificial-intelligence-is-changing-music/article36876008.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/entertainment/music/4yoo3m/article36876007.ece/ALTERNATES/LANDSCAPE_615/08frANILSRINIVASANfr21UV8SV6CSjpg"
-        width: 615
-        height: 384
         isCached: true
 
 secured: "zqrTE2g/gvwY8j5eOK+WWnDa3qlUrehlvvJw7xCMApyp13I7RpqFsx6fkwPMiv0X8Gn7SmzM/ZE2FQNFdBr7KqAHfQQCnMQSydt7s05fKOoxefiSrO+KWHmE/KI2te5AQiL5M5vYuJ13B8C+vX3yRCBCw4E+jdQ2VymtRw7zvUtw/xUYJ5pLRmt7EYhhNzdAknqWDNn9inc1OTph0EtLQAjIV7ibyiV9zQapJj0tHHpgnJbQ1c9vKbEB3hjsEHux/uh5EGk8uxyhI4IiwdysuTPSkrV8iM7HpH6g9QYs8AZS4cFqwbclYH86zKLAHm4vt5FiT7XSuWSl22fEQicdbOWvw3EOgn9kkDsvBCXhB0Zx//Vl6/rlCAVJqHOHaLDt0i+atwSuKJVH2s6wutj4bRH6VWo1v+KgdayF8iOTZtZgr0aw9K1trj8sfQFxhrm0UmralCafpfqedoQ3AzdyMFhihqednT+awVk8BYr3y7Hux/FRo0YeHriQoqL+JBWUhGU1M4RYXZAktLOXglTscA==;e1uIPvIh2cdKI/YcgI+uzA=="

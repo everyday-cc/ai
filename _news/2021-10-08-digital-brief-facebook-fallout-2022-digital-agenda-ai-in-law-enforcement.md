@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook quietly acquires synthetic data startup AI.Reverie"
+    excerpt: "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation."
+    publishedDateTime: 2021-10-12T05:46:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
     excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
     publishedDateTime: 2021-10-08T07:38:00Z
@@ -39,6 +55,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Gap Inc. Acquires AI Startup CB4"
+    excerpt: "Gap Inc. announced earlier this week that it's acquiring the New York- and Tel Aviv-based startup Context-Based 4 Casting (CB4), which uses artificial intelligence (AI) and machine learning to identify patterns in retail data and identify ways to improve in-store sales."
+    publishedDateTime: 2021-10-07T22:36:00Z
+    webUrl: "https://www.mytotalretail.com/article/gap-inc-acquires-ai-startup-cb4/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2020/09/GettyImages-129169006.jpg"
+        width: 1024
+        height: 667
+        isCached: true
   - title: "6 Models of Artificial Intelligence that Facebook use"
     excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
     publishedDateTime: 2021-10-10T12:51:00Z
@@ -52,6 +82,20 @@ related:
       - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
         width: 1400
         height: 800
+        isCached: true
+  - title: "Facebook Loves Self-Supervised Learning. Period."
+    excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
+    publishedDateTime: 2021-10-11T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-loves-self-supervised-learning-period/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Facebook-Self-supervised-learning-2.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "MtrhkZPLgDJk6dBQZFqRm7vDODU8DYnNqPMwBv/JMf2CdZFuq6bLfYepHanjL5vcNN8LipWwJ0NVnDYjAvTgVSVaV6diue5Vk1uPKE8GAhU0JtwqkWvPFZOEE9PXeLQsmxDn3csNNDNW6SA1GP4K5jD7XRUOWZLXwQVPO98+aV/XmlVIasPoURCfC91abVzvQjMoodHfisdkltJ89C5OjVb5h2czIiIFkVYY2BauPBz/MuGiHHRFjpQohTXsIYcFn7Gg6bHKoDHw90APQunotYZmKTG8RWmfI8HkFWyz+jCoirZuN8yBQpLua0tJRKOfqe5upgdhZ/wEWD/1Q1lIsYDTcK5t9qUtaaqFwZtgFmrkSj2RQOAWy9tFNQ/Y2+zH5bCe2xZ6w/vLgl7DgscQc4IE/JJm0IAxmyXbVaxUt5yI7s95uA0QAhvKuKzu7tyJ6h2u1ckEeWSJ3pfKEnmORSGSM27AAG0L1CnAHuHPE6kHaRie/6muwP454dmycvjOjzvLPXBDLA3NmcpK3iAulw==;xRaHbOQCFAKdfR/FCBHyag=="

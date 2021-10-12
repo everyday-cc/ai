@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco"
         width: 760
         height: 500
+        isCached: true
+  - title: "Twilight of the Robots? Androids in Contemporary Cinema"
+    excerpt: "Elon Musk announced that his company is prototyping a humanoid robot called the “Tesla Bot.” He shared the stage with an ecstatically dancing figure that was obviously a human in a robot costume. Musk assured the audience that eventually the robot “will be real” and will derive from the AI system used in Tesla vehicles."
+    publishedDateTime: 2021-10-11T16:00:00Z
+    webUrl: "https://filmmakermagazine.com/112350-twilight-of-the-robots-androids-in-contemporary-cinema/"
+    type: article
+    provider:
+      name: Filmmaker
+      domain: filmmakermagazine.com
+    quality: 39
+    images:
+      - url: "https://filmmakermagazine.com/wp-content/uploads/2021/10/im4-628x348.jpg"
+        width: 628
+        height: 348
         isCached: true
 
 secured: "CodjaTOKvF3HCMNEoVCNzcMSDTlm+K0/89nN12yrasM6iK9xlLJgxXa0tDVrDkBeZ1Lyioi2jEQiTIhhLpevWpQhmGEexXs0y0Fe+oDxpjCUqMp1XIeyKQrIxgN6knpZIOIKZeTXD30IF0CVCPY7bRlh7c61dcPBXjDFLZUV0K7ZOM3F0LxUgai0e5c1+y4UdQgAUAG13mEwLPDy/CJyhKggwRwS8PWHbGWlGMwjYoZbMqfV950Rd8WBq0UQHKe+iaTQEOU5dirhumXwY+KC0J1PVjv02sgdZdTU/yPoZiEq2X0AQg+ou2KYX4Q1HVJ1elrzydm56pszWdf246NxRfYoH0QZ2sOYyhmi/nUu2wnTp+aqKaXmakazS4TlOYq6jTvYNfGXaGDYJ9E2mMgCwz/NnER5ye7PTVCUcd9y2B7s4JP8oD40SgU7xqJ5mi/SsbMx108Gb3jBk7XHZYfrZHAYT+wREp7rEQNxlyR7fj23wzjYxKbKTbGKN63EVDkPcYoFGDX3ivpbntPnR4yxkQ==;BObuEBvFKOGi9baFlk4frA=="

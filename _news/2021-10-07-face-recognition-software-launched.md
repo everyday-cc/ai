@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://img.piri.net/mnresize/600/-/piri/upload/3/2021/10/11/c9b7405b-i759szdhywva43rz2o83.jpeg"
         width: 600
         height: 336
-        isCached: true
-  - title: "The Pandemic is Testing the Limits of Face Recognition"
-    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
-    publishedDateTime: 2021-10-07T12:16:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
-        width: 270
-        height: 270
         isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"

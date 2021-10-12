@@ -38,15 +38,6 @@ related:
         width: 679
         height: 400
         isCached: true
-  - title: "Georgia Tech Researchers Advance the Next Generation of Computer Vision"
-    excerpt: "The IEEE International Conference on Computer Vision (ICCV) takes place biennially and focuses on the interdisciplinary scientific field of computer vision, which deals with how c"
-    publishedDateTime: 2021-10-07T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/georgia-tech-researchers-advance-next-generation-computer-vision"
-    type: article
-    provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 19
 
 secured: "VSZ5u8gSbfoY/WCrs5AFZgX0vbf78GdAY9FHsvRsFFWWIX/yGdB7JjzG1NNgzAi4XoPLyJauhEWnxBf7eSkCR64DvTD5oCrJrPCGDw32AlTG04pE44f8UxSwZOnXRDB04WPG/ErNWIG0FNJzA9k4+gqBct04E/iXVY95JyFetIdHTXgRGhN2lQl6IvWsMa+cppg+vxakC1gIQa0rY0/1IkKWd5YeaZl2PiTif+s8ZsAIuu7kRnr8RWeKxSyjtCbHSt1va0EAtX4Ji5QrA39V7i8j+va++M3X4Kqw5HHSnFOpDth8VOjYCVaV9GOO6QMaZkPm6CHMpP/OsQqDSZ10PiK6D3LK1xkoZzfwLCpAHWg=;1HpefNX7SNlJ03ZPPb41lA=="
 ---

@@ -105,20 +105,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The Pandemic is Testing the Limits of Face Recognition"
-    excerpt: "Government use of face ID systems exploded during the pandemic—but tying it to critical services has left some people locked out at the moment they needed help the most. At first glance, JB, an artist based in Los Angeles,"
-    publishedDateTime: 2021-10-07T12:16:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-pandemic-is-testing-the-limits-of-face-recognition/12291/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/09/270x270-Coursera-Banner-1.jpg"
-        width: 270
-        height: 270
-        isCached: true
 
 secured: "bDvDjYDmgXGqdgnOkn4x7MtWYJsCS8uc/61NaDDVrUmnyPxPuwybagEPRJ3e7lLpHjEah9Ki3q5Tkps57e7b8ot6mdpa4ji0fJvC5yQzywVdnsa9r595Pn+5qawrPPzSqEzikxOd1Zhz37GGPDli/VvHWcwOKtzKGLPioh1AlwZ4++yvtXC4idd4l3OSKCQusqaa0Pf60oaRMEvQ/S3vIdahG2tLknPSWHUHxfT2ec8ZBkIUDlgEunr9fBskFqo0X3q7iu4Q0hbexF+7Ja3NsmXeUMGPnaYpTDAWFwRadA82WA3AYkzPJMhKUHQ5axCy5QhrgY5h/qRBBXPUqFwYOkc4eLaUhNlN4e12vfTrXK01crCBHu+5EfjKVacz365wu5A/cQzWjCiyac6i+qs1mCF+mdjQdT1ynSqhzYbKUYe5U33RtplqHF+WbruMdfh9PC6V9hEnjn8RHCFVrr47aNrlGOsTqH0Pz16fNvH4Ra+SasRA9pOJiZGwvhbMiBHQVmVPPHcVtn1Wgb4g1rpVWg==;SEdcxHKiUjG6FIYhTqatTQ=="
 ---
