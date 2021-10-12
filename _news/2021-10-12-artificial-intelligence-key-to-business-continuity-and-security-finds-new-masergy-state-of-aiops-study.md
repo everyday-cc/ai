@@ -1,0 +1,106 @@
+---
+category: news
+title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
+excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for"
+publishedDateTime: 2021-10-12T13:11:00Z
+originalUrl: "https://www.lelezard.com/en/news-20041587.html"
+webUrl: "https://www.lelezard.com/en/news-20041587.html"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: Le Lézard
+  domain: lelezard.com
+
+topics:
+  - AI in Healthcare
+  - AI
+  - AI in Security
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+related:
+  - title: "Dynamics and importance of AI and Machine Learning"
+    excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
+    publishedDateTime: 2021-10-12T11:56:00Z
+    webUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 74
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Self-Supervised Learning's Impact on AI and NLP"
+    excerpt: "Although humans can learn from observing a few examples of a given task, ML algorithms cannot. They can, however, learn through self-supervised learning. We explain how self-supervised learning works."
+    publishedDateTime: 2021-10-12T11:11:00Z
+    webUrl: "https://tdwi.org/articles/2021/10/12/adv-all-self-supervised-learning-ai-nlp.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 58
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI1.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "Learning AI With Boys and Girls Club of Western PA"
+    excerpt: "Welcome to Stem Fest 2021! Amazon is working with the Boys and Girls Club of Western PA to give local students a fast start in understanding artificial intelligence."
+    publishedDateTime: 2021-10-11T13:43:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/6086302-learning-ai-with-boys-and-girls-club-of-western-pa/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 57
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/471/A3B/471A3B6F7E5E8E5DE461526B51E73EC4.jpg?Expires=1728604800&KeyName=mcpkey1&Signature=zlErye3XyFJwRY0DA9X6nqBnImI"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Know how this artificial intelligence platform is enhancing AI for making better products"
+    excerpt: "Micro technology is strengthening a new generation of intelligent, faster, global infrastructures. Micron’s Artificial intelligence improves business and lives beyond what we can imagine with regard to AI."
+    publishedDateTime: 2021-10-12T11:45:00Z
+    webUrl: "https://www.analyticsinsight.net/how-is-micro-technology-using-artificial-intelligence-to-innovate/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/How-is-Micro-Technology-Using-Artificial-Intelligence-to-Innovate.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Upcoming AI Conferences And Events To Look Forward To"
+    excerpt: "AIM brings you a curated list of top AI conferences and events happening in the next month. Conferences and events are a great place to connect, share knowledge and learn. They provide a platform for tech enthusiasts to keep up with the fast-changing trends and developments in the tech and analytics industries."
+    publishedDateTime: 2021-10-12T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-and-events-to-look-forward-to/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Upcoming-AI-Conferences-And-Events.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "lU5OudUv4R3EAvJhFx1UC41uPy0C2F8U7s3lVBfvdJCqncMkyAypWRIl10v6N0AXjxhxcFLs23qFXjWadY8PnXw5fKfw7WXYvqGxvF1yYf6D13SfcmIF+sMjJYAqpWyb5yuOVLetikv49UydOs1dH+c7EMa7lHl8t4NGdVSpLgPmFR6DKNAFqHUrGHBXcbqF4Dq3JqnHi5gq58p4LuKVr1NC9ADFseR1Jil40NWVCkQXjXWACpmXk9I95xupPNTe/VDw/rdfhF5XNyFFxB8m/l/y6v3KvB46l7POcGf886QXwkLjNPmN0jIP9mTb30SwVu80Lwn0VEEC1mTpEaNGz97lbgXt058y6M5DFAz8COQ=;8L6RFwjJ3v8x/dsjDNK0ZA=="
+---
+

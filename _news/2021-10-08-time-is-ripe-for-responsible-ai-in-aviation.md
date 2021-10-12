@@ -33,7 +33,7 @@ related:
     provider:
       name: EURACTIV
       domain: euractiv.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
         width: 800

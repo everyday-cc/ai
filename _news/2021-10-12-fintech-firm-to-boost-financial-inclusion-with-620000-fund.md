@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 704
         isCached: true
-  - title: "Finance & Insurance: Fintech’s Future Is Now"
-    excerpt: "As the banks shut down during the pandemic, people largely relied on virtual financial services, fueling a dramatic growth in FinTech."
-    publishedDateTime: 2021-10-07T19:35:00Z
-    webUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/"
-    ampWebUrl: "https://businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
-    cdnAmpWebUrl: "https://businessfacilities-com.cdn.ampproject.org/c/s/businessfacilities.com/2021/10/finance-insurance-fintechs-future-is-now/amp/"
-    type: article
-    provider:
-      name: Business Facilities
-      domain: businessfacilities.com
-    quality: 59
-    images:
-      - url: "https://cdn.businessfacilities.com/wp-content/uploads/2021/10/BF-JulAug21_Finance_1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest Fintech Trends That are Transforming the Finance Sector"
     excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
     publishedDateTime: 2021-10-11T13:13:00Z
@@ -98,6 +82,20 @@ related:
       - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
         width: 1868
         height: 1189
+        isCached: true
+  - title: "3 promising FinTech companies in Florida"
+    excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
+    publishedDateTime: 2021-10-12T13:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-promising-fintech-companies-in-florida/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "mgQrQct5Pwkyu6iBdK+4fPLNXXp80Xu2IF7apQ1aDcPivkkCkmeLSX5/rxhq96IZod39imyPGtAwen+vQkEcY8+VR/Q+3V6eCg9d24CJB9nUjKmVTd3PevOYQRaorAW+rqtnUwzM6ezr6DAiXjDRoWV1HrmfNTX2HDC/6/Mk6WhcEgSM+bU2VDCQcaWwEQQ4xfiEMUZl4yijoeWP2dng36kod+kbA1tbeHAIZR4mj04BoLfRuHPEjQRihk7a3WCwZTWjSwmRpaNiNBHBv88dJ1ese2l2Losl9xav5IMRQYBJdEEuB6GeRzIi6iDoSW+YF+lvainqeBPjIqLHxzyFocctU03el14VSxjzqHVunFc=;o3ZSpNhqIn+zaEKkndrfjw=="

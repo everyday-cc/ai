@@ -79,6 +79,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Hailo Claims Record AI Chip Venture Round with $136M Series C"
+    excerpt: "Artificial intelligence chipmaker Hailo today announced it has raised$136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The company said the round brings Hailo’s total funding to $224 million and will be used to further develop the Hailo-8 AI Processor for Edge Devices and for expansion into new and"
+    publishedDateTime: 2021-10-12T13:28:00Z
+    webUrl: "https://insidehpc.com/2021/10/hailo-claims-record-ai-chip-venture-round-with-136m-series-c/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/10/Hailo-logo.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Israeli AI Edge Chipmaker Hailo Raises $136M"
     excerpt: "The company said the funding will be used to address 'surging interest' in the Hailo-8 AI Processor for edge devices."
     publishedDateTime: 2021-10-12T11:21:00Z
@@ -117,6 +131,6 @@ related:
       domain: prnewswire.com
     quality: 20
 
-secured: "4eV+hi8MQEjFF+e2vSw2SCwuSS5WtxDuMIBr2numBSs0XBcbF9EcfuI9mW704zbMxxIp11ufAEbW/QmFzQgSeLOIDHXdMcd4WyyYtJ8YkYldJw5UccNf+Xc3jYxBFlQvAzncGcXLXzw/ZvicJLTvh5mePLV5cdHWdO5Jr9abgnR5TitNteUDxdbhdAMFCU29TXjweGj4LIz7Y0Wu9TJ8qoiCR3XqQlSGl4RoJpT2dKOs798wdzerwUVHQOhOEzdQktdoDRZm0ITI8WAq4V0FIjUGWSGi2RCk2F+8nl/G98ug3rMZuytLGUdk+Pkkknx2OFpYIuofQdw+g39h36tg3VdaaPzYtT8P1SjYAUOBWw4=;N4gJ8LVNQ4caFU+67cyB7Q=="
+secured: "X8/kWz8HN/xwjwqd3sKiWklCUCu/xRvEKgSci11PSjxOHhq4oUxLgSh1vE5yDan9aQwTmH4blzxoziMOYlAsEvqVSTh/rUDtb0Xu0ToHdFc5ERBd+/J6+UMp04ROsDflUF9dpACLZv98KJnKs+pqMRC7zT2D5ueU7JmMsLGmN5UKRTBl9fproetclfvDl3gmsFoHrU53DebMsfwyQ4NlwOy1sVvyMG/R+gmB6V9lWLZKaEtu12W/gYjwbG3rE6KBqGA2wOhfDlwHYpC9B2jHiH+Y7jvdmcFhVQWayG/tRmecyWEP2G4mE8rY0kOal3M2Y9iwEaU/k8Xwwiuw62oC3ODx0Mqh/YvSAagaukblii7CdfCN5ksSiIDGcw4ywRuU+czVeSp7YaefwP4R3GmIm3wE7Bh+vGlZ5/Z/EGv5C7n/HsYRC2+nBS8GqhZqnBJiTda2X9XeVDz0CxPpelit+HhbImsRYfuFZivtOCdqm+EwQzaLef2HUPEwH1fuK1gd1MAshK3KsUywnuoBxXSf9g==;/jbBZf00F8HozwFuUDQnTQ=="
 ---
 

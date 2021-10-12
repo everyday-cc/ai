@@ -52,6 +52,22 @@ related:
         width: 760
         height: 500
         isCached: true
+  - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
+    excerpt: "Company names Michael Brown as CEO & chairman and Ross Blum as COO ahead of first Ozmo deployment in North America Skyline Robotics today announced the appointment"
+    publishedDateTime: 2021-10-12T13:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23333782/skyline-robotics-secures-funding-solidifies-leadership-team-to-meet-global-demand-for-automated-ro"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23333782"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23333782"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UFMN/nztvCHR9WaYxfksQJRzEATLIyWoLoUZV8wrClvSxtP2eWR2khtZI5Elz3KpDE+uBBTdNDSbAJW+bDRUTrWnUrhT8kh7rfevZwSnh23PHNw3bwx4DWFg8HvMuqDy/EnjpwmOS2jLw4P3eVVQFMz/vdF7Y4rN3PR0a1hcwEEAnX7BslXyCnkoI9HlxBZO/BpLLkUZNA1cSi/H+QI8uq/R8Lu2RbY7fqZbOE0UHpZAiZty/yOd0Vkk+ev6OTtf9q1QpLw6D98DxKUTbg5Zdh4tRKoliCHxi/bOJtUldKCfcrWo2rbUjXDVggfCC78oNhYTJQlkjw1zFSFA0su2DgAHn9DuWuFQUmhVsP6PMzxarQMrQlE3AJPyrc5bETCH6R8S/ya9EhnPCDNqzEwE4uuMmD7KT7cV3GcON2S35jwraWwzJS2kigmYL8+T7BPtiAw/SFD12yarxDue+EdgiHcjUazvKPb8+7SUE5WB4R3n0vMvNo7uS+Tbsbq7ardXUnT+ZjdoLXNLJPgKwrCkgg==;CcTv1uLc26mUiemxJ3Fsug=="
 ---

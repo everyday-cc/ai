@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Hailo Claims Record AI Chip Venture Round with $136M Series C"
+    excerpt: "Artificial intelligence chipmaker Hailo today announced it has raised$136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The company said the round brings Hailo’s total funding to $224 million and will be used to further develop the Hailo-8 AI Processor for Edge Devices and for expansion into new and"
+    publishedDateTime: 2021-10-12T13:28:00Z
+    webUrl: "https://insidehpc.com/2021/10/hailo-claims-record-ai-chip-venture-round-with-136m-series-c/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/10/Hailo-logo.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Israeli AI Edge Chipmaker Hailo Raises $136M"
     excerpt: "The company said the funding will be used to address 'surging interest' in the Hailo-8 AI Processor for edge devices."
     publishedDateTime: 2021-10-12T11:21:00Z
@@ -117,6 +131,6 @@ related:
       domain: prnewswire.com
     quality: 20
 
-secured: "4hIPaFC3m5RXe7Zs5+BhQYGWG6s6fqpsEcieXqihYk8WiwlbjO5pLJPxBKSGU/i14DIFuoTQwZRP94s9Yk5YRYYpAGi63CrSrx46LXLPKReAcR/c5TJLkuQMQyH4DbDRoEU5t+dGK1hoM4qUSVzJu2siapiYo1FuIXXBJNOnr+JyT89Vv4VTgkZsrQGswu+GiieHEnut0wUnpgL2cP0w+veHduCRltZExXVih5V4a6QcXSe+Q3kUVtMXw1daTMsTJx9y2xk3tDDo1dM+0YG2SfedOFW/9TAhniX/Gsd4It8uY61juHNrEo2eHKZDGH0VODYOqy0UK6yfW8WW8ClLX+dsY/YEWseELr3BIDwP1M4=;3jUoI0AUVSJ/cCl62MDDTg=="
+secured: "eApiiqKaHdySuyFZ3PKEHnbtWguNN0Xe25ZQAt7CAZW4LITjd9jDxXd3s58hx3I4+6tE7XmDQJ/G3BsbpePNkPpbZva87NoRgWT/w3tdkXkWbYQO+ipulJvaSTj92ga4C8o0eAdpqklzyRkdLc7Fd1iBB/PE8XrxBgyskdyJD6J2arNtzje6Rq4pymxIZ7KpozW+VkM0PlYVknLuotYZdqCsFeZQxG9OLpVh2Bq+IaxutNoFMD8UUCnMugwj/LPu7APgLByvVlpr8VdGOpvCL0kter8T9MUKZklgtQ1PFWpXw3UcTwp1AmZ+SXCcHTz645vPNdmA8xLGKce/BXru1OllcD+k2hBeANUqy4sDB2dpIglPRN97UOx6DkSD1ZBy8bvIAro941NO2yeXcdDjAStksnKrWsTtIJrVFAbe4KxlPjscSokgo4/9JRXH8/gYl5OeE4XojSOqLJb+TazP0aot5Z1ysIU9kh5zpYJAQ3RRyllIZ2ubDLAKd4g/7r06O8/2s+gx1XmtJZcopb9dyg==;0mxetenR12peyQkjp66V3w=="
 ---
 

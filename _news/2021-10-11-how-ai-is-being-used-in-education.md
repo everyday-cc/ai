@@ -41,20 +41,6 @@ related:
         width: 3177
         height: 2037
         isCached: true
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Addressing Bias in AI"
     excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
     publishedDateTime: 2021-10-11T08:48:00Z

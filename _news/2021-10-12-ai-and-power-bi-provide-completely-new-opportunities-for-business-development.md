@@ -32,20 +32,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "Here are the 10 major challenges of using natural processing language"
-    excerpt: "This article features the top 10 major challenges using natural processing language. Check this article to learn more."
-    publishedDateTime: 2021-10-07T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/10-major-challenges-of-using-natural-language-processing/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Challenges-of-Using-Natural-Language-Processing.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "C3U43XWq6oOPVKfbVknoZbtNksa68KYqmXJF2y84ZuZe602dPGIPdEW4MwKQ3PDIlLhL3+PtNsHKlYfXOBKJS7wWpx94ciiFcqOzzpKZSlI+oAbD3WEj/re3tvVve90Fnq/AVr+yMkdwc1YLQoTN9w5TFwFhxNkQR4Rblh+YuevDqxRqswQU4+PFISCWtNAgrDnp+Fp56x9GY+JXONxxOBDYpwZQDnC5g2wFMSUfwUUiH7FbNrT349WT/cAEiNfGAOkjbgRVQ0eWJyKgy4HqH0OMiwGue4w09OshDMtfznFRuAfegaZdQVjU8XccForlWqswxd06LAUiubEqgrHULwvPVIgS/TqWqbbVsPPIfE4=;KOyCk1AWvW6QahTIlelTDg=="
 ---

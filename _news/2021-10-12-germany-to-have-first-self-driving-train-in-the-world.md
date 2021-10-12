@@ -57,6 +57,38 @@ related:
         width: 705
         height: 352
         isCached: true
+  - title: "Germany Unveils the World's First Fully Automated Train in Hamburg"
+    excerpt: "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB)."
+    publishedDateTime: 2021-10-12T12:03:00Z
+    webUrl: "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
+    ampWebUrl: "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg"
+        width: 744
+        height: 419
+        isCached: true
+  - title: "Germany unveils world's first self-driving train. See photos"
+    excerpt: "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December"
+    publishedDateTime: 2021-10-12T13:30:00Z
+    webUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html"
+    ampWebUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wxTyQsEOn0MOGz6t5nCYwaYzp+mnaWJQDaJFuOM2Vcx+KcTulOqJAvMNHXBN0ML2Jx39vtKKck9QT+xKwsMxTwun8xKZW05FP/P4EUXIhG6B/8jRv7jJGbczzEwROjHKxaEw5hcWQpCdZ1nQqeLEcJVV8muS7lWoNoiWwljoUhEF20El/TaXMbXyw1ua4bibr8/L20gtJzneCWuARNAelWMW4V+1JBlbJjyK9qGOKiRLoyCHZfNQZQepPwGK/6Adhgct7emO8cz1FV16ZRbuj3q5QJOYwKNaYpe9GUXl7CLE9IpPOmobt6Bap+tNlv/hOlt0CQarn4h3quqEXmh4TJsQIiVk/guxDiE3HHZdZIY=;q/dbzQEFAkF1SAQbISQ1MA=="
 ---

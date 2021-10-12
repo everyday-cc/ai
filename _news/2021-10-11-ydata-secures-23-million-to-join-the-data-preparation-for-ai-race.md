@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Data and Artificial Intelligence - Apeiron Techno Venture's Contribution in the 500 Billion Dollar Opportunity for India"
-    excerpt: "India economic growth in the coming decades will totally depend on the data which its nearly 14 billion population generates"
-    publishedDateTime: 2021-10-08T06:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271425502/data-and-artificial-intelligence---apeiron-techno-venture-contribution-in-the-500-billion-dollar-opportunity-for-india"
+  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
+    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
+    publishedDateTime: 2021-10-12T13:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 34
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633674078.jpg"
-        width: 630
-        height: 420
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Data and Artificial Intelligence - Apeiron Techno Venture's Contribution in the 500 Billion Dollar Opportunity for India"
-    excerpt: "\"Data and artificial intelligence (AI) could add USD 500 billion to India's Gross Domestic Product by 2025, consultancy McKinsey & Co and IT industry lobby group Nasscom have forecasted.\" After considering the past term many data companies including Apeiron Techno Ventures,"
-    publishedDateTime: 2021-10-08T18:16:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211008/3833427.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "m6EEIEtO2MY3bXLZujSggEHmFDwTPBQ3/gNEJ9NEaFaYw6sEBmpIxsv4yMzowrZzQET9rd0DZpy4OKZysllhDjSmMuEBeKRrNWBuEnGk2iIYGoN8HSqn1jKiOz0Ii4ISaYQVJ998nGxlYnTg05kIyPKXAXYy5cpIs3RBAh+UT7Spui1LxZgc+P3Qu88dpMV4jHPPYnAne/1xsbGDqZQmEsQ43zcVavG3XDEm2LkpHQbU3o4Qoa4C4uCNBRGzldju5HVB6/3ON5Y7GfX/BvyTOyRPzAo/OmVwZjcQnzFGysLoUwuuXjZwlAdAa1epg2Vc0yLurE8EkziCc+BuVEqkEuHWneq+YsaYp0boT/Wi80VDvU25csmjtc/lSNDfw43+oycYQ1eBBZbXnDTyCxkeQtKx0J6rjM6F1J0AUIU65tDkLppXpSN5Fl+DSnMZXF7ykgVHp9j2ECKHf6/O2o3HIVpst7PdbcQMfPGZ43JFvlYu5UFFhalEzLCdvvv+h4FlWB1M+txCdUVFkUWMnA7ISA==;wLKuB8sbrx0OfgoTIjZotQ=="
 ---

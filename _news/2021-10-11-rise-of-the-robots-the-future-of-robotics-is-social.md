@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       - url: "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco"
         width: 760
         height: 500
+        isCached: true
+  - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
+    excerpt: "Company names Michael Brown as CEO & chairman and Ross Blum as COO ahead of first Ozmo deployment in North America Skyline Robotics today announced the appointment"
+    publishedDateTime: 2021-10-12T13:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/b23333782/skyline-robotics-secures-funding-solidifies-leadership-team-to-meet-global-demand-for-automated-ro"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23333782"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23333782"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Twilight of the Robots? Androids in Contemporary Cinema"
     excerpt: "Elon Musk announced that his company is prototyping a humanoid robot called the “Tesla Bot.” He shared the stage with an ecstatically dancing figure that was obviously a human in a robot costume. Musk assured the audience that eventually the robot “will be real” and will derive from the AI system used in Tesla vehicles."

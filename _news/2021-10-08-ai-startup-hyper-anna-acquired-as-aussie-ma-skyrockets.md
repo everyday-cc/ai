@@ -23,22 +23,6 @@ images:
     height: 333
     isCached: true
 
-related:
-  - title: "US-listed analytics company Alteryx buys Sydney AI startup Hyper Anna"
-    excerpt: "Artificial intelligence (AI)-driven startup Hyper Anna has been acquired by NYSE-listed California analytics automation firm Alteryx."
-    publishedDateTime: 2021-10-08T00:53:00Z
-    webUrl: "https://www.startupdaily.net/2021/10/us-listed-analytics-company-alteryx-buys-sydney-ai-startup-hyper-anna/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 37
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2021/10/Natalie-Nyugen-headshot.jpg"
-        width: 768
-        height: 514
-        isCached: true
-
 secured: "gR9l0HzLTlG1yhXlIBIaf/adwAfBEOUzbEfBHY5xgLfJOETdV+9l9JykQndg2RhXhFyjYxet8iPdVOACh4yjn/F5lAgf78f0NJ/dAoaNczGIvxyuJpIJo6g4eOP/e1KdQ1WOMmTca/CS6Hm8i5hjMLMAAwPyhxw0wZlmLzkuSJi1L/aMrvv8dYzS3QTow47DQPTwzjmCH9XPZdX0YdOBPpbQqh6DXW5WDuSQHajOnoK8ch9Qc2Hgh+4s2SZ0IflgCSjzR2x8SJZOLJ9Yz+AOvYzW5d3zYUD0YxNw9tlWTUcYcxg8l2/NUGZtxMPVba0d9sh9lqyiz2KQhJ+eondAVaNCljpHcMvSEy+gV4wf3X7GWjGW+BjqCp/Gw+yGEkLYu1J4SJTkqwkUmqt6ML2njH0ETk6aWUGhlC7mxzRhJzuJHdx7Ce5g6uNtJM5jklyu5b6Pgiub/leBGB0pTld5kzNvjekhCsej4sU2onLulNw8FHpLbIosVCYQ1mTvS+2lkhQr8slJGmkLSXbKDY1Rjw==;KLkEroeMNRIKs20Kts96mg=="
 ---
 

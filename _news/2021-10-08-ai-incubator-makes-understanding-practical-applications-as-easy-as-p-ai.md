@@ -9,7 +9,7 @@ ampWebUrl: "https://tsl.news/p-ai-incubator/amp/"
 cdnAmpWebUrl: "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
     quality: 54
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
         width: 2560
         height: 1707
         isCached: true

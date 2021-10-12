@@ -83,6 +83,20 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Hailo Claims Record AI Chip Venture Round with $136M Series C"
+    excerpt: "Artificial intelligence chipmaker Hailo today announced it has raised$136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The company said the round brings Hailo’s total funding to $224 million and will be used to further develop the Hailo-8 AI Processor for Edge Devices and for expansion into new and"
+    publishedDateTime: 2021-10-12T13:28:00Z
+    webUrl: "https://insidehpc.com/2021/10/hailo-claims-record-ai-chip-venture-round-with-136m-series-c/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/10/Hailo-logo.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Israeli AI Edge Chipmaker Hailo Raises $136M"
     excerpt: "The company said the funding will be used to address 'surging interest' in the Hailo-8 AI Processor for edge devices."
     publishedDateTime: 2021-10-12T11:21:00Z

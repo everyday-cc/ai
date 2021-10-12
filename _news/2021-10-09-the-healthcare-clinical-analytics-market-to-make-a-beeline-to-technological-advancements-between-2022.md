@@ -39,31 +39,15 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Leveraging AI & analytics to build the shoppers of future"
-    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
-    publishedDateTime: 2021-10-11T06:46:00Z
-    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
-    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
+  - title: "AT&T Managed XDR Extends Threat Detection with Machine Learning and Analytics"
+    excerpt: "AT&T * is launching a managed Extended Detection and Response (XDR) offering. The AT&T Managed XDR solution features a cloud-based security platform with security threat analytics, machine learning, and third-party connectors to protect endpoint,"
+    publishedDateTime: 2021-10-12T13:17:00Z
+    webUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F24F95"
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
-  - title: "How advanced predictive analytics can transform capacity optimization in healthcare — 4 learnings"
-    excerpt: "With advanced predictive analytics and intelligence tools powered by artificial intelligence, Aurora-based University of Colorado Health has optimized capacity demands on beds, supplies and staff. During a virtual session sponsored by LeanTaaS at Becker's 6th Annual Health IT + Revenue Cycle Conference,"
-    publishedDateTime: 2021-10-07T19:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/how-advanced-predictive-analytics-can-transform-capacity-optimization-in-healthcare-4-learnings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 26
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 16
 
 secured: "7Hwaz3AbXIFmGuXLStw9j1bl9vrNXE+eYKwzZuWJw4JwFc2AO9d8kwKg0U7CyMWI+sv4kslcNDWT+qRzBrQDZ55CKfhKZXuqetRKyNS0JYpnLXkv5WWMEUOIFs1BAarTcKCWFPu3tbhJQpMuKDbPBHD+oJ5ezeJIiEHWXy6lvMQMOGE03BMRPSpoHD8BDOQ3U4JNXjLiUEWsQIEzmzYknpHY2fpEJC603srx3GKpewHwU1vbulgZTIiLui82CHd8DajH2I8sLx9AmXHOUgQslStU6TO1wcuKTbP/daJsxEo15HXsLtj37jhDnbhD39OxYcUe/zb1OwK/u8wTtAn/3tu1Lr/UxIhq/Zkoy9MH03k=;yB2W0RE6wcugXWmadg1ZuA=="
 ---

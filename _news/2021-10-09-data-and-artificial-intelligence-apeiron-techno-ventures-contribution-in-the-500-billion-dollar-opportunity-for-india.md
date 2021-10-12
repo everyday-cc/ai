@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "YData secures €2.3 million to join the data preparation for AI race"
-    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
-    publishedDateTime: 2021-10-11T11:03:00Z
-    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
+  - title: "Top 10 Computer Vision Companies In India To Keep An Eye On"
+    excerpt: "We take a look at various emerging startups with roots in India that are using computer vision tech to solve a variety of problems"
+    publishedDateTime: 2021-10-12T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-10-computer-vision-companies-in-india-to-keep-an-eye-on/"
     type: article
     provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
-        width: 960
-        height: 545
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/computer-vision.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Data and Artificial Intelligence - Apeiron Techno Venture's Contribution in the 500 Billion Dollar Opportunity for India"
     excerpt: "India economic growth in the coming decades will totally depend on the data which its nearly 14 billion population generates"

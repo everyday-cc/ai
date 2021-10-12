@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here are the 10 major challenges of using natural processing language"
-    excerpt: "This article features the top 10 major challenges using natural processing language. Check this article to learn more."
-    publishedDateTime: 2021-10-07T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/10-major-challenges-of-using-natural-language-processing/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Challenges-of-Using-Natural-Language-Processing.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "AI and Power BI provide completely new opportunities for business development"
     excerpt: "Let's look at just 5 of the new AI \"hacks\" available in Power BI, which will really make your BI products pop. Good reporting is about telling a story, and data reporting is no different. It can be the story of the result of a campaign,"
     publishedDateTime: 2021-10-12T08:08:00Z

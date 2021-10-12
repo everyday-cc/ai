@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-12T10:00:00Z
 originalUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
 webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
 type: article
-quality: 53
-heat: 73
+quality: 57
+heat: 77
 published: true
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
@@ -54,6 +56,6 @@ related:
         height: 500
         isCached: true
 
-secured: "FPdL6CbK18vzOwtISp9tnlR3m8poZf6JFimXGpjpc2d138D+x5SNzdK2HX+gYc29LrwAkd4XR3BTKsNbcdZMCV0c5ftMhWADjhhM7JiBkDbd0VVXLJZgDUP7kPtAEq4jwZvG7HD3Zi14WNvrH/TxFeb0DzT9hKQi3wZBSpJ9A5L8lnUUhqlMgriy3kRrLpYSau5ca3FIMpVCAW4o5SvB/gnce5Ke0iSfM3WzZWLcLxDjkdKqdPDu+NXMbL853MnkiPEQOhT4XoFMLq3HIOscKUvdd5ja9iV/IvNIcbIQQsrYObZ+6Ut43hGrzjjTSMZQtYuE0bYI3iLEDVCku6YjFa/aqQy79l4VwH5lEv9SLcs=;x+0XpOVyETuZl8kpHZSgYg=="
+secured: "RecWPvrMCXpg35gvzxBju8be20qsrK5QFqCGrQ+jSYquQHoUOLIt+lXXua2xxOe9D0wbLe3IlgVQzPfRsxbKyedUFeJEEJjzZg/J7SQ5Cy9h8ZUus1GLU6hPkOD91C0riWyb1DabQt0rh2ck+cEEaq8198kJq1egSEEHjYiXJ7bu5ik6Wc/B9psq1Mz2Iybo99UyCIWcQZMsUrSRDW9bpi3wVi6fzAyNv92V668et2omvuGBsxZjtQNiBYFDE4nqlzf4DH6u0vLmJSvauentNo8aeGMmeJpIMOtvZrlsLSiFLQLU3JXRzzYDWAxcnSf8j0DDrvHTheZQHu2suMGWmvqGA41kCZpIhYIkCkcg+YO+ji/GJgN5xF013FKLPFlEceoMT0f6UyZ1yx41BP6stTAN0LLD0+UwCB4+ETadGfBzhOrAxB3P1G0Ykv+40GuYz2KRylBOeNdQERZdE3o/62Kr5wA2/bn+htD4gjTHhH2Y6nMI5VrMwy3GodIcdiLI0CImt1ggc2ZhAoJOeoLsPw==;yf6YxytfRmA2FQexjQipgw=="
 ---
 

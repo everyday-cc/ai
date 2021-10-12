@@ -102,6 +102,17 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Microsoft thwarts mega-DDoS attack on Azure platform"
+    excerpt: "Tbps DDoS attack on an undisclosed Microsoft Azure customer may have been the largest ever attempted against a single target."
+    publishedDateTime: 2021-10-12T07:14:00Z
+    webUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform"
+    ampWebUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z
@@ -140,6 +151,6 @@ related:
       domain: publicnow.com
     quality: 35
 
-secured: "J/Ls+8Wcklpk22iwd9nLRpCzCuchGsh/xPRRCQ3NKcs631DBMC7PeJ+CoMXyoQfnVrOXuW0EBdp6LZZ44rtNX0Bv2XVk2BFPS/23q1kTGyMEjW8eCay66mJNxofa33nD6PPnPefc7oc7d5dwsESykaUiE3Wipyg+ipOYhDHlWuhJYhtmL1q2H215KPZGwLU7Mq7Xq3xjM882S5WxdtmvPTZgjYbOH7zJdsC0uONykx4lb3f4KH9kbDXQqJZWteoSdjtxRKVurKO3XrXeRcWs9/qbJa0ppqJhI7liSHnj9rmJrDWdWEa6BG3NsEEmM4MZPUIjZy/IH+6/MLbclAUKZRXKlBAO3gfQwiLWUnjdW2g=;nlCbeaRLsiMMgHcCMo+brQ=="
+secured: "SFfUoYR1yGWVv1j+fImsx6svEXKDYczRUNNyWqYGDagFqZJToOtaHn+/JmDWGfG/4SNzmcibVFmpd6k7llzENzmqsuHUsg5Pwf1Ww0C0v6JVYjemReEhHZydzzrXJvaNqWGEUBePdFkQIfODQoCtgXeU/u0urt5cKOL+gnuAFxFIQ7k1WPzI6qlPEO+K8w3EGHCu/vuREHcwxCqnbSbpb5y1vMJTQg1KO9Nf9A90dtwueIrSTt3cQWjTrCnibG8rgAxEjmt4wOaJSoqPGh+FmiaZ+Zah1sNcbch0a8NW9NCUyBNFupmERJCp/hhk9z0I0puXbX2KQiJ4PQ4ATlbIcwbLzDLct6uwxgQL7lBuL5PKlIEcyMugD2yknQTrQk9lp+R/v6nzyatGX/TdMAx6yiklWhZWx2gxnbCjG3CEwukoD05JSN/RgCo+hznTXLWyZYVL+Z0lJHEb52+Tizu1frbweI1DYF/FyvUI1bXTF738bvwNXSHPAZX2QfwcWJ998xqAdNuYRYmHxFemwZaoAg==;i9MXh26Z5eY1SQ4DabQuYQ=="
 ---
 
