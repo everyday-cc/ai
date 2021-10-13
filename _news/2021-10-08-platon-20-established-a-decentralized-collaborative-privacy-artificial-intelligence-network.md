@@ -40,15 +40,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Shenzhen Bowen Media Infotech Co.,Ltd.: PlatON 2.0 Established A Decentralized Collaborative Privacy Artificial Intelligence Network"
-    excerpt: "PlatON, a next-generation Internet infrastructure protocol based on the fundamental properties of blockchain, recently combined blockchain, artificial"
-    publishedDateTime: 2021-10-08T07:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54150883-shenzhen-bowen-media-infotech-co-ltd-platon-2-0-established-a-decentralized-collaborative-privacy-artificial-intelligence-network-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "1+TbXjAHAliZUjhKHTivoeX95D7FIFK9UmytT4T0bTpYDNvZ9CrJCsnVeHpr2Zs9FEuJo4cAbmKnxqhyfWxO9Rc7fVQ7kHVi0fURGhfMN2edKPMEVvcUlHwlPRUl6Zu56lDKd3MEQ/kDMiSeOH3Kvu+QOUaj9xbkond8ARokzErZwaSWAliVOj8UAm3mZWxY8NYst/mn/9XGqyxpfKlUee5FoefT6m1c1wiCO4OkcGpdQZZGePQX2iiwsVYampR+IYEmgbsoIxmo6gpCMgZy0TcRgCKFCE5M2KXdw6nAL4EYHmsT+Nm4bGVLMNYq5an1a06J9wQoA+flKiy9o84r2Kb4/6hFyQ29vtRxItEwH1s=;HF29Nhv0UbzU+ZKwmRVilA=="
 ---

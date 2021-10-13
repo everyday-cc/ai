@@ -38,6 +38,20 @@ related:
         width: 800
         height: 446
         isCached: true
+  - title: "How AI is Being Used in Education"
+    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
+    publishedDateTime: 2021-10-11T05:46:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Time Is Ripe For Responsible AI In Aviation"
     excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
     publishedDateTime: 2021-10-08T12:31:00Z

@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
+    excerpt: "Skyline Robotics today announced the appointment of Michael Brown as chief executive officer and chairman of the board, and Ross Blum as chief operating officer to solidify its world-class executive leadership team."
+    publishedDateTime: 2021-10-12T17:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211012005574/en/Skyline-Robotics-Secures-Funding-Solidifies-Leadership-Team-to-Meet-Global-Demand-for-Automated-Robots"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
 
 secured: "UFMN/nztvCHR9WaYxfksQJRzEATLIyWoLoUZV8wrClvSxtP2eWR2khtZI5Elz3KpDE+uBBTdNDSbAJW+bDRUTrWnUrhT8kh7rfevZwSnh23PHNw3bwx4DWFg8HvMuqDy/EnjpwmOS2jLw4P3eVVQFMz/vdF7Y4rN3PR0a1hcwEEAnX7BslXyCnkoI9HlxBZO/BpLLkUZNA1cSi/H+QI8uq/R8Lu2RbY7fqZbOE0UHpZAiZty/yOd0Vkk+ev6OTtf9q1QpLw6D98DxKUTbg5Zdh4tRKoliCHxi/bOJtUldKCfcrWo2rbUjXDVggfCC78oNhYTJQlkjw1zFSFA0su2DgAHn9DuWuFQUmhVsP6PMzxarQMrQlE3AJPyrc5bETCH6R8S/ya9EhnPCDNqzEwE4uuMmD7KT7cV3GcON2S35jwraWwzJS2kigmYL8+T7BPtiAw/SFD12yarxDue+EdgiHcjUazvKPb8+7SUE5WB4R3n0vMvNo7uS+Tbsbq7ardXUnT+ZjdoLXNLJPgKwrCkgg==;CcTv1uLc26mUiemxJ3Fsug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
 quality: 93
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://psuvanguard.com/wp-content/uploads/2021/10/AP_21278523584186.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook AI’s SOTA Speech Translation Models Go Against Grain"
-    excerpt: "Now, Facebook AI and self-described “AI community” Hugging Face have announced the release of their joint state-of-the-art speech translation models. The models build on previ"
-    publishedDateTime: 2021-10-08T07:38:00Z
-    webUrl: "https://slator.com/facebook-ai-sota-speech-translation-models-go-against-grain/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 39
-    images:
-      - url: "https://slator.com/assets/2021/10/Facebook-Speech-to-Speech-Machine-Translation.png"
-        width: 600
-        height: 400
         isCached: true
   - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
     excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"

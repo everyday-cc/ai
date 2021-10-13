@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
+      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
+      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
       "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
       "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
@@ -1157,40 +1200,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
-      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
-      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
-      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

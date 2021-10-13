@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1198
     height: 670
     isCached: true
-
-related:
-  - title: "Making Sense of DeepMind’s First-Ever Profit"
-    excerpt: "DeepMind has developed breaking innovations, including AlphaFold, a solution to the 50-year-old protein folding problem. According to a corporate filing with the UK company registry published on Tuesday, Google-backed artificial intelligence research firm ..."
-    publishedDateTime: 2021-10-08T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/making-sense-of-deepminds-first-ever-profit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Behind-DeepMinds-profit-numbers-.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "7H0iZ6aZfMw6mLrbK4UuSPeoJ/+/Lgxwgv38VNAoB2eYTzHPKpehePCo+yT0BzqwrXIxVE48nbUUJyxjvOrbH/whT+j2AfK9AKnnXq7oAVaYXm3hLW2CYhzs+BCVVEYU2AgdaNT+6doT+obZYgsmu9H4JQq8qMMTVY0kxh+HYFwXmd0olk5PW6FqPsfSMvQErwJXMIjD4ADOcJ9NbakJod1HgU6vrFlU/Iexe0lYrxf3fdPtlVomA9mnRJwbaSHyAsjtRkV8HW/rlcLiXP8+d7PuQiWBwzFnYA1tVs2WAUJDetOpA8++xRUBzp3tGhH0D+mYhcFOk9+xo5x/Ub1eAQa81tzN40pKJtiDNZjTxa58CkBQwgDSof/7JNx03PN4gM1wV9JztjJytauaJG2XlEn2b4x3ciSsn+MDPYZpxmHnz0ePoMU6UPb0vcxQvhyx13WeZR0CVxCLEEZdd5LWdK7dl5nBdyEjgy7WTugzePkPmUZG4KCBvvuu+8xupK3lN0GyPZoFNDzzspO/0rwkNw==;/2MG5M4sahutlzOksgpjBw=="
 ---

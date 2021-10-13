@@ -2,6 +2,60 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
+      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2021-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-half-of-people-say-they-are-better-drivers-than-computers-will-be.md",
       "title": "Half of people say they are better drivers than computers will be",
       "excerpt": "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ...",
@@ -1072,58 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-for-self-driving-cars-the-hot-new-technology-is-radar.md",
-      "title": "For Self-Driving Cars, the Hot New Technology Is… Radar",
-      "excerpt": "Companies are improving and adapting the century-old technology to help vehicles operate more safely with less human involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "originalUrl": "https://www.wsj.com/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-406622/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-self-driving-cars-the-hot-new-technology-is-radar-11632542430",
-      "publishedDateTime": "2021-09-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -150,6 +150,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
+    excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
+    publishedDateTime: 2021-10-10T10:53:00Z
+    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US has lost AI battle to China, Pentagon's ex-software chief says"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advanc."
     publishedDateTime: 2021-10-11T05:09:00Z
@@ -236,15 +252,6 @@ related:
         width: 1860
         height: 1008
         isCached: true
-  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-    excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
-    publishedDateTime: 2021-10-10T10:53:00Z
-    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?sharetype=gift?token=de21a71e-747c-4a23-a232-d09e0fc800bb"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "qk4Mk9La3vqoRtkjBAGukVQZWFFB0VNQLvL1CNQ1vfxK8KghgZwFas3QRCQ72UC1WsK97UNZDGyhd0zIx3+4Yyq71z3yfW7JpbZrr9oAlToI46FhafvK1zRV0cpuewE8rLMSYr7v/9r4L8EEVxGvKGVqHPRWpXN/qKhEUKYiw8BU2zrDUzJMDJUdQNp5zft1B9zRWjCXkTffmSlU6WmGsdCZv+SrJd6kXg0mF9a/LevzExlGw77izSqKrKBOnnPi1jqNSKlDy2cAcWo9scJ31mIEzAbLKQFitsdO60xAeeBHaEsgAKMV4v5BCFgThaw3HvlWoOE7o4WINb9WYy2usgE9nS/bZkU7kkbzPwgnFufEnxtvaVZPI4xz0aSEdimIQ8D2TN3oXgTkEWLjRu63GJqeX44uR3oRugW2g/0ivVujuP36+uiSvmU0aLrpQ5nTQldkJjujrdIti2EF7cFJ5P8kx0PI0DSnMKA+UmtcB0XJCq2EsxZrGwy2wuegcaZXZIHPDNEwzCeAz10xJ7KMUw==;F4ZvUyBkxCbS1y4tbM0SHA=="
 ---

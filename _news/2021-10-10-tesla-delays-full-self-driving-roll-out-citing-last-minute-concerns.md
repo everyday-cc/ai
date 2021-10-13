@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -218,6 +218,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/08/tesla-logo.jpg"
         width: 690
         height: 758
+        isCached: true
+  - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
+    excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
+    publishedDateTime: 2021-10-12T23:58:00Z
+    webUrl: "https://www.thedrive.com/tech/42710/tesla-full-self-driving-but-not-really-beta-is-now-live-on-the-streets"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 38
+    images:
+      - url: "https://www.thedrive.com/content/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""

@@ -3,8 +3,8 @@ category: news
 title: "The 7 Biggest Artificial Intelligence (AI) Trends In 2022"
 excerpt: "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species."
 publishedDateTime: 2021-10-03T13:16:00Z
-originalUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr"
-webUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr"
+originalUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail"
+webUrl: "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "eSkGTG0a/6YuOHSAMenhPt6tEpFkol5j9wb+Y3h6n4x2zHyvvtNzgLSRo2XYvwJ7rb18XPMAWhr/Y+Iab6mWbz+ygL8ADuislGbYXIt1lJ6bZfbzl2ogZTAgBONWXRvhP4KjyMEb03aRA8RDtzgxWypRWTnJ1fIpRtIy9TyfbpQZChweTA+vR4m1tmxFU+r1IY0pd1Y/RrHUrvc4747AubWT3VY3kA9p6tR3WIT+rZQw2F/P20jpwhGzyFiFNk10q4vZ+754IuSq1Nge08E85lID3ayGUws9yg7PNXFde+D3wZeOaqkYEb+u+RERB9TMW+hQrYgck0c0U2N6M1LrNgK3O9O7uhgJdNoSkJ0dQ2I=;YKQ5eqDYTu95TAsUNJNMJw=="
+secured: "B8fOjSWggxUBxxlbeQyM64nnGl/ElH4bad3Aooym1qvveqlk9wCF5ycq1BeEVUYkuxu00J34NyE472q8aqBLUw1khsU5lmIjIFN/2xw86lCIrJatgks3RRBcKMsjSaKXBOIsSeFdgX7m4KqBXacvycuelxphEvr+PixArLsFPJfK2wr1Skk9GDmPHMeH1eMr7X8XNFXizHvUKpyMUOPxqiSJDPHQVhfoV7p2/ZrkRIRgpryJ8Bf0DdekBnnyibbcQz5IR/3dIRiV3aV1u3I+urDlr/6PB5qV0s0MSTvXwfULpdmPSRh+edQh7jmqN7rleTU76Fgh+yWKDyxFdNfsKy1dNwTA8RExG88l6HmGLXM=;i0lT7FnP5vtJaVR9Yjm9og=="
 ---
 

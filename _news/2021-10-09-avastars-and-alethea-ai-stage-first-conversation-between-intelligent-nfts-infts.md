@@ -7,7 +7,7 @@ originalUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/08/avastars-aleth
 webUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/08/avastars-alethea-ai-stage-first-conversation-between-intelligent-nfts-infts/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 980
     height: 551
     isCached: true
-
-related:
-  - title: "AI and Erotic NFT Art Collide in the World's First Collection of NFTs for Adults"
-    excerpt: "All eyes in the blockchain world are transfixed on the revolutionary project that will transform the way people think about and interact with erotic"
-    publishedDateTime: 2021-10-08T07:35:00Z
-    webUrl: "https://menafn.com/1102937144/AI-and-Erotic-NFT-Art-Collide-in-the-Worlds-First-Collection-of-NFTs-for-Adults"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/08/M_e674dcc1-8_Image_In_Body.jpeg"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "U4FUbybAvsPlzykA5oqMsB6gjfOpUE3a4r108cfQzbgdV2ZhUVqPzPhunbEyQlpmpQO5G9oF9lhEZwWw5LfqjMHjStAxRguv/Ew9dtYc65YwMUML0yyVE42+h87zznthBBErH1TSU4zjP8SdNfwYokzHUX6HYXY7aOGylBwFego/B8ctmEDyGsuJ0V5BZHQL8PjFKVror27obOo1xxDnG3lqeoN4DDyftTzrAKSNn07RJqj0I6BYO3agBdK8/1e7ymwx7PiAOYiaDr+z9Hz9tqyNbDIHyMROXOdmeieVPQv4s/hDBd9l4bP9BCb2WXAjdDHj0UbPIWNVHstFCE5iC06X3uX6Wfsvm/D5+68Hc5k=;KueIQLHAkGAfcxQ01ZMKWw=="
 ---

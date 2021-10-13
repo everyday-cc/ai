@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -56,27 +56,36 @@
     {
       "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
       "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ...",
+      "excerpt": "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
+      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 115,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-10T18:11:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "publishedDateTime": "2021-10-10T21:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,8 +101,9 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "Google AI"
       ]
     },
     {

@@ -1,26 +1,35 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-publishedDateTime: 2021-10-11T01:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
+publishedDateTime: 2021-10-11T04:20:00Z
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 63
-heat: 73
+quality: 105
+heat: 115
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
+  - Facebook AI
   - AI
+  - Google AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
@@ -38,6 +47,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "dYhOCXFUuK5IAqlo/v67SRnTQRVQt9CreZ1xDexjCP7lryS/xJBXdSDMapYGRWVCXW9ZSKYe1KxeLxYQzri7LqTM2k2pKiflRSAXqEImZdSWJHm/aIbHy+451qB82QByorm92JXTgDQi7PQ/oftH/H8zr0tUIQdbeHcNxgeUio9F8ab1a5HEFYu4EiM8021AzI8DjxJ+qDS+kCHhNZ9+vFboj9gUxVvcDtB6cMgvfhf7iW5P84N/K+5j6Dl2qNUEnxHLSi5iA2+1waLa3ZfKkQyo+XwlJ/aKVBNotIdcL0PZVcqq3mDUGX9w596J6TVuc9VtnbZBIfm0l88jaKxpBSe/v0E52m5UiAQswgTU+rY=;nxs8Odefj0CgdiZ1aT5Svw=="
+secured: "HHnnSgXH3eYUbTFInH1voS+MycwrdjTNDj+8BB+ywNxBDZQZeJptqwzozHyz00qoMkJoJZRm4rxWUm3HEUwDbDHpeZyg8EccDU1zVZ0K0Bvhy4hwzwHoJv6sQeFIt/3EL1qW6uTMkQufG3z2U8vcTbBzy1rNSatpDv3vZKARNg6l/b0zpfXaA2A4SuCx8zF7ibCUa/wEpAe6x6qQtX/3ZNnR1ZouVlZzabhV+AXSDeJTmR/LUFQ7edndU442LmY1b42VxVhhXkjmC4h9jmuwjxD8n6iX4CIO/XQzr5l5PlLk5PulQlzl6tKUl1a1++1z0AoQhoyO//EP1hj6UAZCcIVpZknIJ3e9/ZG7ZWgDx0s=;4uLhCjqrnCW4aPKa0YOGZw=="
 ---
 

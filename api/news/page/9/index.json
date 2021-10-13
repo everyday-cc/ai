@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
+      "title": "Gap Inc. acquires AI startup CB4 to drive sales",
+      "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
+      "sourceUrl": null,
+      "webUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "originalUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc",
+          "width": 1388,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "cdnAmpWebUrl": "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
+      "publishedDateTime": "2021-10-05T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fashionunited.com",
+        "domain": "fashionunited.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
       "title": "Tesla gears up to launch self-driving software but with a catch",
       "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
@@ -1055,49 +1098,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-amazon-rolls-out-computer-vision-service-to-identify-defects.md",
-      "title": "Amazon Rolls Out Computer Vision Service to Identify Defects",
-      "excerpt": "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
-      "originalUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1358359658.jpg",
-          "width": 500,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Power Technology",
-        "domain": "power-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

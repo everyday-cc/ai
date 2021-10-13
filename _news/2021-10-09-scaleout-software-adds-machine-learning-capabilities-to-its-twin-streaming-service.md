@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-08T18:40:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/ScaleOut-Software-Adds-Machine-Learning-Capabilities-to-its-Twin-Streaming-Service-149436.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/ScaleOut-Software-Adds-Machine-Learning-Capabilities-to-its-Twin-Streaming-Service-149436.aspx"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.dbta.com/images/social-logo-2019.png"

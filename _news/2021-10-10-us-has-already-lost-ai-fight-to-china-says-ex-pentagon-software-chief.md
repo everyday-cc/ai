@@ -1,12 +1,14 @@
 ---
 category: news
 title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
+excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
 publishedDateTime: 2021-10-10T10:53:00Z
-originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?sharetype=gift?token=de21a71e-747c-4a23-a232-d09e0fc800bb"
-webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?sharetype=gift?token=de21a71e-747c-4a23-a232-d09e0fc800bb"
+originalUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
+    isCached: true
 
 related:
   - title: "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence"
@@ -244,6 +252,6 @@ related:
         height: 1008
         isCached: true
 
-secured: "3agN46o8SlIkdEdYH36kiGf2EZQ5PDXWDMup5XtFDmldcDMUiZ8toBgrn5uhyDaTUj3HrToZucTieJzroYHVCaTWCjVpxzmcOYBway8ftduFi3tyObAsyZr4XOufCee23wrU1X6GzJUOz2oINdZt+MlXs9sBsebJK88D2hLBxhAs8SdBEjXX9JTegh1NimD1Gey42fqTQlWjXtYQcCzx8CvqHG6PmmjIq13goGQmUyfIPS5wctcGLHanK9MNpyfSH/WynlGVQq7cwz6V72RLpl+KfeDXyUfu0G1LQGW9whKuy8eMQ9gBg0s1kuAMglXa0wP1Q7akKK+wDQZJrIjZBjnuEtiNiXqo7alrTWFwasqkxSCLeIwg6WBI1am7xxsJ2rAAuQ0z7Q2PQJ9suFPyqhr8UVaEFlWMZLumVoLgSqqYqfXnO6J3N0zimod6L09TzBfcQ94+jeog+K/DqXJ5y+lsqgtwo1EYd6pO9nAE5urlaLhxBFWZtb43WznftF5lX/FHX9A8lNA5JMdnIqwhTA==;xlVbV5SLOWu7dyGjbhhKKA=="
+secured: "PZ0He/cZIchwa++0HlTA+BSsNa8lyHjZdv5s4DsMhDVoB4KKpi7zrAHN2BPH5xdhlJt2lJs9FnZMsKtZxKsKXWc7gOtvxeko6kXGc/ZRO3xZhx4Nz2wYiHbNoVjWSPQSzGGC++gzR6EfGi88Uhmb5JkVVm9FeSi/bHZGJHtKmSVWzct9jmeDzrmtEGmZ+fiv+xbNkEBCHX2JoeQSI4J+BX9+JHt2EKw7Ivf7DftcEwfDzdv6c+HgyRT+EG1/tCF7EvgE7rs6X1P/lhNWzafa4FFBECUZTOuOdO0yCp6I+p5SzNbHCnYhcDghYb+opgaDxi3gSKYByHpviFxqG4IaSKUBIONxSTyTF5twi32mSA8=;0DoI+WCR9MFXLAazrbUiGQ=="
 ---
 

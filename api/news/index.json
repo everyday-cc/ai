@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-13-sorry-ai-the-brain-is-still-the-best-inference-machine-out-there.md",
+      "title": "Sorry AI - The Brain Is Still The Best Inference Machine Out There",
+      "excerpt": "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/",
+      "publishedDateTime": "2021-10-12T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare.md",
       "title": "Create And Scale Complex Artificial Intelligence And Machine Learning Pipelines Anywhere With IBM CodeFlare",
       "excerpt": "Goodson, dives in to discuss the deal with the extraordinary growth of AI and its ever-increasing complexity, IBM created an open-source framework called CodeFlare to deal with AI’s complex pipeline requirements.",
@@ -166,7 +217,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-how-to-approach-conversation-design-getting-started-with-amazon-lex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -373,7 +424,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -703,7 +754,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1058,7 +1109,7 @@
       "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1197,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1189,58 +1240,6 @@
         "AI",
         "AI in Robotics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-build-conversational-experiences-for-credit-card-services-using-amazon-lex.md",
-      "title": "Build conversational experiences for credit card services using Amazon Lex",
-      "excerpt": "New trends are shaping the credit card industry as shopping habits have rapidly evolved over the last 18 months. The pandemic has accelerated the move away from cash towards cards. Card issuers are transforming their products to better serve cardmembers through innovations such as contactless payments",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/1-6097-Architecture.jpg",
-          "width": 800,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:04:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

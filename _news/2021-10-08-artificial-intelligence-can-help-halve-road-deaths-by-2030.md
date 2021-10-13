@@ -41,22 +41,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "UN envoys: Artificial intelligence can help halve road deaths by 2030"
-    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
-    publishedDateTime: 2021-10-08T08:23:00Z
-    webUrl: "https://www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770"
-    ampWebUrl: "https://www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770/amp"
-    cdnAmpWebUrl: "https://www-today-ng.cdn.ampproject.org/c/s/www.today.ng/technology/envoys-artificial-intelligence-help-halve-road-deaths-2030-392770/amp"
-    type: article
-    provider:
-      name: TODAY
-      domain: today.ng
-    quality: 59
-    images:
-      - url: "https://www.today.ng/wp-content/uploads/2021/09/29141542.jpg"
-        width: 800
-        height: 552
-        isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030: UN"
     excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
     publishedDateTime: 2021-10-11T13:04:00Z

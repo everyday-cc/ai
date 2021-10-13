@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 628
         height: 348
         isCached: true
+  - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
+    excerpt: "Skyline Robotics today announced the appointment of Michael Brown as chief executive officer and chairman of the board, and Ross Blum as chief operating officer to solidify its world-class executive leadership team."
+    publishedDateTime: 2021-10-12T17:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211012005574/en/Skyline-Robotics-Secures-Funding-Solidifies-Leadership-Team-to-Meet-Global-Demand-for-Automated-Robots"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
 
 secured: "CodjaTOKvF3HCMNEoVCNzcMSDTlm+K0/89nN12yrasM6iK9xlLJgxXa0tDVrDkBeZ1Lyioi2jEQiTIhhLpevWpQhmGEexXs0y0Fe+oDxpjCUqMp1XIeyKQrIxgN6knpZIOIKZeTXD30IF0CVCPY7bRlh7c61dcPBXjDFLZUV0K7ZOM3F0LxUgai0e5c1+y4UdQgAUAG13mEwLPDy/CJyhKggwRwS8PWHbGWlGMwjYoZbMqfV950Rd8WBq0UQHKe+iaTQEOU5dirhumXwY+KC0J1PVjv02sgdZdTU/yPoZiEq2X0AQg+ou2KYX4Q1HVJ1elrzydm56pszWdf246NxRfYoH0QZ2sOYyhmi/nUu2wnTp+aqKaXmakazS4TlOYq6jTvYNfGXaGDYJ9E2mMgCwz/NnER5ye7PTVCUcd9y2B7s4JP8oD40SgU7xqJ5mi/SsbMx108Gb3jBk7XHZYfrZHAYT+wREp7rEQNxlyR7fj23wzjYxKbKTbGKN63EVDkPcYoFGDX3ivpbntPnR4yxkQ==;BObuEBvFKOGi9baFlk4frA=="
 ---

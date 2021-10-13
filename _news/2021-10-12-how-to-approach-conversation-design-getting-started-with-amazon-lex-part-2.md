@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-how-to-approa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-how-to-approach-conversation-design-getting-started-with-amazon-lex/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

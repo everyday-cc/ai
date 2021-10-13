@@ -231,6 +231,20 @@ related:
         width: 690
         height: 758
         isCached: true
+  - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
+    excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
+    publishedDateTime: 2021-10-12T23:58:00Z
+    webUrl: "https://www.thedrive.com/tech/42710/tesla-full-self-driving-but-not-really-beta-is-now-live-on-the-streets"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 38
+    images:
+      - url: "https://www.thedrive.com/content/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
     publishedDateTime: 2021-10-09T18:54:00Z

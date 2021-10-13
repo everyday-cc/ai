@@ -10,7 +10,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -57,7 +57,7 @@
       "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -241,7 +241,7 @@
       "originalUrl": "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1109,6 +1109,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-03-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
+      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
+      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1639612800&v=beta&t=G0BnfutTKQvYpx4BZEYpv4a9ROj2ZpqX6XfRcav0tFk",
+          "width": 1290,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-03T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
       "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
       "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
@@ -1380,49 +1432,6 @@
       "provider": {
         "name": "Carscoops",
         "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers.md",
-      "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
-      "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "originalUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/46/e4637dd0-9aeb-5452-b24f-a8a50379cbcd/61539075d1f2e.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/national/teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers/article_2ae10b4b-66de-5c68-9c7c-37af035b122e.amp.html",
-      "publishedDateTime": "2021-09-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
         "images": null,
         "publishers": null,
         "authors": null

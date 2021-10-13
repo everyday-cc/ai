@@ -139,6 +139,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
+    excerpt: "Nicolas Chaillan speaks of ‘good reason to be angry’ as Beijing heads for ‘global dominance’ through technological innovation"
+    publishedDateTime: 2021-10-10T10:53:00Z
+    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    ampWebUrl: "https://amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3cbc9c-9c53-4c5d-acbb-25030e3434eb.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
     excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
     publishedDateTime: 2021-10-11T15:56:00Z
@@ -241,15 +257,6 @@ related:
         width: 1860
         height: 1008
         isCached: true
-  - title: "US has already lost AI fight to China, says ex-Pentagon software chief"
-    excerpt: "The Pentagon’s first chief software officer said he resigned in protest at the slow pace of technological transformation in the US military, and because he could not stand to watch China overtake America."
-    publishedDateTime: 2021-10-10T10:53:00Z
-    webUrl: "https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0?sharetype=gift?token=de21a71e-747c-4a23-a232-d09e0fc800bb"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "klmK2KQohpD6eo9zdPD7Xx6EcXSO4xp+fdO/6VG0L6BuuP5ra+BZtMaWjzH3ahnrDl5yYv4R7VwZeZGnkoZmqdAppXRrGQKE+3vs0GAzzxOSTpH70xrpoEoDf99tMCzKySmrxAhKsOFQBFyJRKNvu4PBjGZ7+nwzz0aa9MOg3Wy+acBG93lQ1X+Rx4FoRErOCGjJVWo7GzERhmJ+/6fA/PG1AIV67bIYdGArDipbXW34QxLQBXoWJgympOX3SzRhEyfZsbibRlwfr1a0EqNj+8scipnmoxR+h81ug8rJOuxxSMmmVVms0Pt0EbJFdnB1DuCq4qrJvUbly1xE3ZqVYOZmnPHFQ0NPH0BL+/vg7fvuhh63gpHPw15VH63sSMcQId7uYDSvXbtMDCtCj+DHeiRhqdaa6LRbd6gcpG+NiiUVG7B32eRoVwv0ILU0/LOtL8wtCGHO5/SLbohNnXbWNGD6ioAUA4Yyhz+JpdCeYJ8KvgZgTz3xUqdGZjNO4XJTd5dwe8+v2SZthFYiG+Ktcg==;I77A7UZRnJKX8yyvZ8eSFw=="
 ---

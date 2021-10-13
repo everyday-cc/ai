@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercevideo.com/video/cinedigm-uses-ai-to-take-bob-ros
 webUrl: "https://www.fiercevideo.com/video/cinedigm-uses-ai-to-take-bob-ross-to-global-streaming-markets"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI technologies used to localise content for the Bob Ross Channel"
-    excerpt: "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms"
-    publishedDateTime: 2021-10-08T08:27:00Z
-    webUrl: "https://www.tvbeurope.com/media-delivery/ai-technologies-used-to-localise-content-for-the-bob-ross-channel"
-    ampWebUrl: "https://www.tvbeurope.com/media-delivery/ai-technologies-used-to-localise-content-for-the-bob-ross-channel?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/ai-technologies-used-to-localise-content-for-the-bob-ross-channel?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/10/Bob-ross-3-950x534-1.jpeg"
-        width: 950
-        height: 534
-        isCached: true
 
 secured: "529EFlQBaH76+3TGLgAMCKiY+PsWXkE//JlmYtfBHnV08HHdvanW1vPn5OZplJXdB0t6hwiT24xnqalow8iiuVznwQTUTWtjWYmOxgwnhMnBrdlnfRczAMTxBcY/x/wcVli42C8X5BoD3wDELAKM2DQLYvA25Wwk8fGzhT/FXNCM8EK827xm/dwla/4F9uICro0xJyKDIPoop2Vqu2GerHLgt/GXeGw1Llgs91KOsv1Fv1RgWGl4BD/BKKkN8EnFEBipd9lYnW7YZY2a7CMAuPJS3HyVxZ7OrRUfLDdaLGOxzZt+eVlwucrtnllhQP+5ESsAFJ7nivgWf9rehTPSABiv8r35mwfHMPlwzdqKbVg7Wvt4tedrs2EaGBo8iGY2nfATu28QPwqQuoObnCs8R1oIkLxznxMTohzbPYCGnLIDKCfOfmsHaWlwUaSeqboHvRiSwdGu5bG7CdXFv151zbjVnzJ2T6zlQa45F2jIipky2gD7jkBDS6HjiVhQ7/zOQgfAzxM8IhoBRIj+K9iRzA==;+fsY6ERrxCJasoQybD3Ztw=="
 ---
