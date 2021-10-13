@@ -25,6 +25,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Ban UK police use of facial-recognition, House of Lords told"
+    excerpt: "Experts giving evidence to the House of Lords have said that UK police use of facial-recognition is disproportionate and ineffective, and further questioned the utility of algorithmic crime ‘predictio"
+    publishedDateTime: 2021-10-12T12:45:00Z
+    webUrl: "https://www.computerweekly.com/news/252508053/Ban-UK-police-use-of-facial-recognition-House-of-Lords-told"
+    ampWebUrl: "https://www.computerweekly.com/news/252508053/Ban-UK-police-use-of-facial-recognition-House-of-Lords-told?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252508053/Ban-UK-police-use-of-facial-recognition-House-of-Lords-told?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+
 secured: "GfFXyNejLPDrBDNk2TfMe1J0ex06uEOXny3yMdE5oNLtaN7p4NN5v/tqr3Mcfqx7hSspxjogSoniKoR8WrdLQPfh0KeybpjOh+EKNBseNwAckNt+Fr7XgD+EUjGx5v0FL8GLkRLGyNvH/3zz0sjpNDuJr4/gbCThN6vErLol/uwBxMaCQohsgB+UFA5EV20J0iv+ZWHl/D+C6au7ZEMD8jOobL2Pqnt3TEiS8L4v6vdqPLIvuObbXg2Kj+VYlwRHcVV886y62eQ6NmPLaAclhKgOOBltUBZK3VOO+fUiQQqGaVhmoIZcItTNcF9R6ySqbQAefNhbvxRdOAG/zNhyy1dKw3M6HtBwcOKXoAl9AT0=;yk2MWWbb/IE0sAEC5EfSDw=="
 ---
 

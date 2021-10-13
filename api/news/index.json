@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
+      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
+      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "publishedDateTime": "2021-10-12T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-sorry-ai-the-brain-is-still-the-best-inference-machine-out-there.md",
       "title": "Sorry AI - The Brain Is Still The Best Inference Machine Out There",
       "excerpt": "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -424,7 +468,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -702,50 +746,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition.md",
-      "title": "Mashreq NEO to become first digital bank in UAE to use facial recognition",
-      "excerpt": "Mashreq NEO, the full-service digital bank from Mashreq Bank, has announced that it will enable residents to conveniently open a bank account using",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition",
-      "originalUrl": "https://www.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211012/ARTICLE/211019701/AR/0/AR-211019701.jpg&NCS_modified=20211012145946&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition",
-      "publishedDateTime": "2021-10-12T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m.md",
       "title": "AI-powered customer service analytics platform SupportLogic nabs $50M",
       "excerpt": "SupportLogic, a customer service analytics platform powered by AI, has raised $50 million in a venture funding round.",
@@ -857,7 +857,7 @@
       "originalUrl": "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 127,
       "tags": null,
       "images": [
         {

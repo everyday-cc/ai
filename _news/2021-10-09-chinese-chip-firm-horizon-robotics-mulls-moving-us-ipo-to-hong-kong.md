@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Chip Firm Horizon Robotics Eyes Moving U.S. IPO to Hong Kong"
-    excerpt: "Chinese artificial intelligence-chip startup Horizon Robotics Inc. is considering shifting its potential U.S. initial public offering to Hong Kong in the wake of Beijing’s increasing scrutiny of overseas listings,"
-    publishedDateTime: 2021-10-08T09:54:00Z
-    webUrl: "https://www.bloombergquint.com/china/china-ai-chip-firm-horizon-robotics-said-to-eye-moving-u-s-ipo-to-hong-kong"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "It is said that Horizon, a Chinese AI chip start-up company, may be listed in Hong Kong next year."
     excerpt: "The company is working with the financial institutions responsible for mentoring the listing and plans to list in Hong Kong next year, according to people familiar with the matter. They also said the company had planned to list in the US and was expected to raise more than $1 billion."
     publishedDateTime: 2021-10-09T06:30:00Z

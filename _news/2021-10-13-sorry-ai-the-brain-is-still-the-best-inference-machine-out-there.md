@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-br
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dAb/02leMzVteY3Du9xCH/sMNQY8gIKZYICXvme2zIjsF6yK71+Ew2HIk/61umOB1yTmbC4xamSbKN0jSUIShAS4O7cPrf8B72LKlalCIOoJzQlP3fBpVhIlIy4YfvIcLDChMdieljvslSrdf+o6gyWwfJ/oLUDS6gmvXFvxtUb81IJdEq3I2evi0wgxqj0TPLq9LEwevPK5b4MGuFZtawzoixsW/EeNlj7E7W36gWmr7TfTOc0vl9COXruZMwT7MG+ft+vAtmen7fqJm/0eU/as6wp9kn7wBo8dakyhKqbvMvJpGlpiP4XfRk1NkCkVgsX0M8fpUI55mxLEO2HD0YPT1aClx7u6GvdwiZNtEzE=;kXcTn2ogtpOhRYCD8NYc9w=="
+secured: "qZ3oXW+sqNYF7r/u6caUkkVw2HB4XBNYc+QKLPyPmFx5b1fM5vNbsK8VW1yxJo5BRlzkCCI5yFMHT8/UOCDSwpyZg0sB5f3qvb920GnaiqnF2tSGJClGvSjCGmD8iDoQDLje8r38Loys92StZlgdxvd9Y0cAuxhpVQ7yVb0KOWnZzJLwDLLhBb81KL98dUzFir7w5EktCIQH7MNYqwHpb6UUpN/3NScHQtukMW4nlai8ANQE8HwDc2hVkIRFJRotVFcLUxzf/zvPeG+87l1771aMYZ3AHfk5lyvaojwYKkk7LhBTQ/VcD7Ny/5TwRkDqT/fwPTI2sjMxsyUKsIarlBpjT1pPuH6mYvdvQfbnBlrtfdpp9gmkrBk+S0gKaGEKFWH/lF9LBLgeW61LTTEqUx2ozOQ9QuAE5gTIMXHyPWIHFduoxPQ+ti830pRveB7jr0NzxpLYdLUvNK0xFSx9zX6snWgJLwJG8CDHkcFwQgbmIu8FnTxWAFFDregT3hIPf30Q+D9Fc52JbmcIJe/dHg==;+O3ZolhDhgEDvFcgiRwJ/g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-stocks-best-ai-compa
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/google-is-still-pioneering-artificia
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-is-still-pioneering-artificial-intelligence-2021-10-09?amp"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,19 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Google Is (Still) Pioneering Artificial Intelligence"
+    excerpt: "Google Search leans on artificial intelligence to understand ... Of course Deep Blue is IBM's thing. IBM also shocked the world in 2011 when it's Watson defeated Ken Jennings and Brad Rutter ..."
+    publishedDateTime: 2021-10-10T21:10:00Z
+    webUrl: "https://www.fool.com/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
 
 secured: "Emt9IQkzVUopjDbckSNdaQjkQiAy01bt1MUroYOWMrxY00ubEdCbvxruHsDIW/Fr6K2CamV/8Q69H+vugORg5M7Rj8K0G0mfmcEi/pRtnpTxGFLRF8FVQiFPKIeCGMBp6RCS2UHaVx5MRqSCGXcUW7emTR2KvGsHyfsRSJ1to1lC2blO/2AnCq0nd/e4XfkeWFKZ5C04WSqOB/328lLAnjlYxJ7NAocL55SpDCNLCGFwqNHsh+bspaKKal9wANDJ8WCrySNEDXDl68lBEMmHf+k1dhSAyDh9SoCG8CqckYdg6Af8gpoo/fBHuwS8MZMojW2odC/X6ZrAW9stcuShgPHROWfugB0exN7bvw+FF0g=;6DYcvQ5BNErUf8xLvmr+UQ=="
 ---

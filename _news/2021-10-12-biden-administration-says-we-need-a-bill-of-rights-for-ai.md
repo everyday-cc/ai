@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 type: article
 quality: 67
-heat: 108
+heat: 107
 published: true
 
 provider:

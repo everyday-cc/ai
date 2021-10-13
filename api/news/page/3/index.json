@@ -340,7 +340,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -381,7 +381,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Google AI"
+        "Google AI",
+        "AI in Autos"
       ]
     },
     {
@@ -527,6 +528,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-google-is-still-pioneering-artificial-intelligence.md",
+      "title": "Google Is (Still) Pioneering Artificial Intelligence",
+      "excerpt": "Google Search leans on artificial intelligence to understand ... Of course Deep Blue is IBM's thing. IBM also shocked the world in 2011 when it's Watson defeated Ken Jennings and Brad Rutter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/google-is-still-pioneering-artificial-intelligence/",
+      "publishedDateTime": "2021-10-10T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1106,7 +1150,7 @@
       "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1137,58 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-ai-edge-chip-startup-hailo-lands-136m.md",
-      "title": "AI edge chip startup Hailo lands $136M",
-      "excerpt": "Hailo, a startup developing AI edge chips, has raised $136 million in venture capital, bringing its total raised to $224 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/",
-      "publishedDateTime": "2021-10-08T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Hardware"
       ]

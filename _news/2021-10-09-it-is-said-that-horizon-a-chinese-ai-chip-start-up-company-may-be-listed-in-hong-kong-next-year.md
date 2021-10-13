@@ -35,20 +35,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "China Chip Firm Horizon Robotics Eyes Moving U.S. IPO to Hong Kong"
-    excerpt: "Chinese artificial intelligence-chip startup Horizon Robotics Inc. is considering shifting its potential U.S. initial public offering to Hong Kong in the wake of Beijing’s increasing scrutiny of overseas listings,"
-    publishedDateTime: 2021-10-08T09:54:00Z
-    webUrl: "https://www.bloombergquint.com/china/china-ai-chip-firm-horizon-robotics-said-to-eye-moving-u-s-ipo-to-hong-kong"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 71
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Y1KIRirJqPqXlqIiDBjeLc4nQDELTeJwT1D19Awjvn1S3cTGYkhzcgdjYRAmKadhMZObZfNbMWiHZDwZ9Rq1qNlP9u56vux6qxa+etneYclPIh0fDhLQUIQcBSI7ixC2LiAEDvAY3wgiNOlrR5QfFKETzuhVy6JPhdezCFj2tOIQ9q+IXeeUPlArQQDs0yawl/I0B4q3KYaQszCUiblULEUeEDmqW8YpBofDyEnydkrCWW7msph5IspzZqGTXsus1jxQMl3uTB33+BDp/tLxjZiQv2tLsGLW0zBZZyidHAtsqQvREqWUMKokdGBW+yR4cP9e5yUmnI4JEr/MxM/hw9SGfQHg7X7m5KQ05VTP+Q8=;hEnHyuFI/vfxGVXyo9awcg=="
 ---
