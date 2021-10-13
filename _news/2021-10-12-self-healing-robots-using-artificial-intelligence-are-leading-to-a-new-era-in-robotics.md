@@ -131,6 +131,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Hearing on Artificial Intelligence"
+    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
+    publishedDateTime: 2021-10-13T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 19
 
 secured: "W0OSVEedEsRDCjprxkKuVWVo/rOn5BDb4RDdfUG53lWH40ZAk+/ietmVcQ8iZmmkdZDfYKj3kkG0BY7X6mxPGOnEi57HnskDy1z3dKPwFlTEe6DTswc+15O8bykOAJ1VDntIhwMnoOKwNNH6jNAnwjcw7RolHrSqEy4ejAlQfaW/ZoxSlgnvd4kcy1xkGebkLJrLjONq8ysksceeKOHNG4K3AzGyqkgVgJwhfqR7hBda8UHM0DJRkPXn7S2kZ5pIg5wT0gw/H1NFeq7GyBQfhNxMU6jjycITsvQT3JonNbcK/g0ztrI2J+cQOYOznsnC3lsBvrDClckRfqKyD1i4HesB/r9pgJGLUs1aXv9IiXUEiyJ4Zn7uhtPJETkBc7fE42hGweD0xocjeaD9mFKdu9ck0tvzoV1g+mMFQGA7yKGfY7OPV62ffsErd6ShWZDM5NttVbwuMwPNL0/V2gqjtaYkLy0jbljn+UO2dJ+XTEqNjVajbzNMkgHmBpxNGbzyGPsBB2bMSWK0xORptDU19A==;NaY9lTnLRdYxXLD83cmbIg=="
 ---

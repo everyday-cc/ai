@@ -37,12 +37,12 @@ related:
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/does-deepmind-ai-future-proof-alphabets-share-price"
+    webUrl: "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price"
     type: article
     provider:
       name: CMC Markets
       domain: cmcmarkets.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
         width: 768

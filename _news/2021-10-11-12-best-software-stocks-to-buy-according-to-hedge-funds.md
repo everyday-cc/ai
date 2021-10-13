@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/12-best-software-stocks-to-buy-
 webUrl: "https://www.insidermonkey.com/blog/12-best-software-stocks-to-buy-according-to-hedge-funds-986505/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "11 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
+    excerpt: "In this article, we discuss the 11 best artificial intelligence and robotics stocks to buy according to hedge funds."
+    publishedDateTime: 2021-10-13T16:27:00Z
+    webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989022/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 65
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/13070035/andy-kelly-0E_vhMVqL9g-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "baUN2CKCKPBAhI9BDzYWTMZvO2ZWpgETltgJNCljhcS9GuWJ5GOeJrLI/NJLTXniUClUNgSsEHNuxHfZBLltz/1u8aYYFkazXlFLcNmCjGeAnHJlZ8/6YY42imhxQey7oUNbPBi8nkNgwS4os/R3/8zY+/9bpfpoeBt2yZiyQ0AvpESUF+9mjYQAPn4W9MQzomdUTZ1oPxrTpW+Iin4NI7xstIDDNvVY2itVVrc726OTuRWld0gIHg8ZmQ/I8GVaduSwouNIfGG6jweRLlWuLahUcuuuJj42r5ubnV687i5EpDS2lYIn0EOHJyRHkxpllilWuwWi9KQB1JDudSFT8PsgcWFcqV3IVxBT35FAXRk=;tIgaRUhw3OudZShDcoCHBw=="
 ---

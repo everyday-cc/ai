@@ -53,6 +53,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
+    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
+    publishedDateTime: 2021-10-13T17:52:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "5vAurDCKvPvq1RTt6t0j2Cnz0QZdfBRrsnU7k5ULc/B6t+65Irea/SZLnQirckT7OiYxbpO6/qb6FNz9WbndxRC+b1oi6aKmFJXPFey2RTUXDjNzqljrxcUs+JIpvhecaA8pP8zGSZlFZh0qNv16AgKos4278Ciw4hzl7kuF11x/oIwSAgP1edz0inqpZwHeypCyCCzVTH8FrnVmkAoNIrSq3EIIdjgjlLIRt/1WzLe1Cv8XD82DXiUakcTSjrs6HBkw35drYukywsUjx78Z0z1mn9Iz0Cz2u5c3jnTygIzaRzJzbdP9DaW63zB0LWu8GUKZDvlgpYGCfiDz8sQVauqs0bPL1l+tD54P9Mjgycs=;H0nIkKZzftyXZGbBDhgPDQ=="
 ---

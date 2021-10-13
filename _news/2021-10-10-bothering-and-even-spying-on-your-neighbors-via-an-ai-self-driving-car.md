@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Hearing on Artificial Intelligence"
+    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
+    publishedDateTime: 2021-10-13T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 19
 
 secured: "oyoS1V9KmQQHnj/sKciSkwAXNtviw8UAViKbpKzjB2aZ/g6VLzwdEn35F7mhWQBSlZIA+A7gfkxGntSJYCWYcu3XAbQ4fnJT7tfnuvr/reC/8xZsb2jVGqgj992jgvCS9VtBrvsL6UYhyj3X4lPHznDwr7Xl+bsB5ogjkc7KEHiX2hOOa1tYbyx+ahikfHP53PaJYk5QJGvJRwvBOuoSbOUD4+U+7ei6LMPPbMTNNca53SFaJvAoWu50iDVS+4QEIvZPl0dwf10h72UgNUpxmknkJVJZkoJj1p8J+XBXdbdfNIQBR5p4o95vV7AW7lNJXiWs6tYRarymfyNiN1jd+zlq0u7u0XhO7yvGQCrTaCzu6x/LxX/xmMw3eHNmnMLU2lAkbkFhA/tquoNMQHY3z8FKtPzfrTVeL1VmE8W+Rt2SOWa4vuN1XAESodYliE21NgOpZ92UJ9uEWVTQrIvhK2GaPtrZBqKAKuW1reF4I4xg4cJmbKPHabScftgW9S7EW4NvDSPtGIWFx9st6Czzkw==;BoZ/tC1jrDc+447b5JQ/FA=="
 ---

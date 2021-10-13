@@ -53,6 +53,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Samsung, Google renew mobile face and fingerprint biometrics efforts"
+    excerpt: "Samsung recently filed a new patent application with WIPO for a foldable phone with a double-sided in-display fingerprint biometrics sensor."
+    publishedDateTime: 2021-10-13T17:30:00Z
+    webUrl: "https://www.biometricupdate.com/202110/samsung-google-renew-mobile-face-and-fingerprint-biometrics-efforts"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/02125402/android-phone.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Synaptics integration could enable voice biometrics in low-power edge devices"
     excerpt: "Synaptics and Edge Impulse partner to facilitate the development of embedded machine learning models in power-sensitive intelligent IoT applications."
     publishedDateTime: 2021-10-11T15:58:00Z

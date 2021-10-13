@@ -87,17 +87,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "hkcjgasyMyDLL8d/prqkwWVHstvNotGpgwwKG9jIc2mJEEHbSILQWsIVDG2/wjbC+CWnvBerVjL6+9iumCOnO0mV4wwgnc+MXy0WB2rCI2UP02peifsIUV9P3zonopCPjGWSvowqWsQ+iIp04lpKKJ2fNu7N1IoT/5AyRwcNn4HEpAiIL+mknIHO1X2rLHdloR5CJdgApxWZJjX2PHa/4CAFoeMPMJ5hvYAroJ+ZpcHV/F3OYpJec3NV7VaV79aUNbM0cEeYvNQ6BffE49FrEIAsQzG2ky2MwLnsmqOJeEv8RMidQQBc1kufzIEDGihFqdkvJIHzbxgKiE5DfNKyN4APkcwcouYfYAtl9gdI4kVfT8UYQ9k/GupfXbbU1RVG5BCUclhiEi2EUG36yk/zlb2Xr5b9dmL4sgzv1526/8ctlTjJDdE9tT9ghqsxD//tTdwVC7oNsc67YqP5qc6DyQfDIX0gvhU5i8yvnXckSsRKiJPjVwkTWqaZcM4JicI3BuNVRNKbSpi80sfktuwytQ==;EiZPd9+9GmeDaNCMIYdVgw=="
 ---

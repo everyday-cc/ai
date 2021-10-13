@@ -45,22 +45,6 @@ related:
         width: 800
         height: 621
         isCached: true
-  - title: "Secure Messaging In Healthcare Market Development, Innovation, Opportunities And Growth"
-    excerpt: "The Secure Messaging In Healthcare Market is expected to be worth US 979 Million at a CAGR of 20 between 2019 to 2029 Healthcare is going the digital way In other words artificial intelligence AI enabled medical devices and telemedicine"
-    publishedDateTime: 2021-10-08T23:57:00Z
-    webUrl: "https://www.openpr.com/news/2423251/secure-messaging-in-healthcare-market-development"
-    ampWebUrl: "https://www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423251/secure-messaging-in-healthcare-market-development"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua09944352_g.jpg"
-        width: 620
-        height: 381
-        isCached: true
 
 secured: "6MeivBje99x0zpJfmunkWkCrJm/AQ0QaSpg60AZc+W3cMiMbekNiuHL4M/TrwPornGr3I329UwBm5y8H4drlDoAZykwiT6RjKXUhxWPmt1zV+wxukLHA5ldXgWBXDU7COsbv+3NcMqTGlyLVuHkARjVnCyuZF3WgEwuR26GYG+3afNHZ1wgua+pftwalx/m4x7mOqUP3RUX5jbVvzXkboiHak9zNE91fs4z/6qsgB3vwWXU4jXgoYQD9NU2ld2o2KHhk4OQX/L9T8ThAiLMC8/1QUOLWZ0UZ1LjvwJgnnapBHa071fHC8nJ2TTceuoyoPHkndeV+syw/vYPSUA1BMYfk86EZEwlBpVpTuh0+283HCLrb32rLKAcPoJjYVeC4FN+L6ABl6kLS0mYis3zaFOxRWBUadNP4B4UaUHzz3ZEg6eC4Cq2Yd86mY45qW9AS+tUhfx/JXfqyUQit3WhrawfBTuNCUqCaM1rfm9Fe0SOlamHtcdOfdcuaRJ9Ccv4lMW3SAz2w2RSOIYFXsUH5zg==;oZkdW7Ar0WkReb1UuOyr4A=="
 ---

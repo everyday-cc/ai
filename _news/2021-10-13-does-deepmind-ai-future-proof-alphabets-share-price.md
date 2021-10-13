@@ -3,10 +3,10 @@ category: news
 title: "Does DeepMind AI future proof Alphabet’s share price?"
 excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
 publishedDateTime: 2021-10-13T12:45:00Z
-originalUrl: "https://www.cmcmarkets.com/en-au/opto/does-deepmind-ai-future-proof-alphabets-share-price"
-webUrl: "https://www.cmcmarkets.com/en-au/opto/does-deepmind-ai-future-proof-alphabets-share-price"
+originalUrl: "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price"
+webUrl: "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
@@ -50,6 +51,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "TDByAo7XZopz3s8wmsWn8XWxhjDbmBcstAMqSk8AIcVmHLSksROfNb2BYG1T3+nkY7KDtgQPEqjJFttmxnSmyFxnFcltF3cDRtOrUa5ESpSiOxFMaXgRruWje9B+/54Ms0gdbhfULO+UPaSGj4jRYTbeomhdXyf7b7xMaOOLdIhI6k7XTZv/w/K96pe5R7phFNIpJ4hdZjjIVBmpvGNdEOgcJJ7AsnAF+cYOnX53DctjY1yebrRXJoT34R/JPYR2RKsDzeW7xwBNkkF5UAGxdg9ZT3lDwhZcPop1e/241nwepuUZZW70yeiXp5d7vhmz3/QXPRrYK+/bVNTdYieEsyzPO0yj4IBZDxg3xVOGMWE=;GMeCXu5EM1EmBye1ZAfA/w=="
+secured: "+UvoxyCrZZGSprEsLUcL5/xw6Asq/cYLE3fx3dYtQcds8X5N5oa9USUyiJ1bRTBkQ5L1bUPaeCt3+/5sjRGTDMplLwg4k0IT+O6hpDQWbXzJQoi5pnG4ue29rvuHHJtJ/petKkaOn9bRy6V8GbWtzTDdUSKAah78ul2Imu2YZzg73RL7Ty7KaNWs/CwJEn+xiqPmAiGH0w65QhE0k2U96CTtMDJggmhLfKeHUQvnIZzCpOBOV/RmGZoL2FH3eC8Zr5dAA+pneeZ7iNhuFiYUMtc8tlLA1teZJmXNt5//Gm3h8bOWTSFakqLARCrHacB7RrfbVJqHLKQ4PKV1xjyG/FtTINIIR3OiWpuTDRqPXLc=;nb192m5B8fD17kGxm7kLtA=="
 ---
 

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
-publishedDateTime: 2021-10-13T07:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
+excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing"
+publishedDateTime: 2021-10-13T12:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
 type: article
-quality: 36
-heat: 36
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "dZmEtHgVTdnVxoAo5APkppmQw89UIVPBkrXC5nmWhK5AbKSe7pk6JH1RNW0lX3a7gwP6pjWIsIPhzfsUwnvApXWuCfMJ5HEMqa8NLeexrjz7unPmfYygRhh4mJ2sogsq7pFLlwIm0SrYMM5/87haAkGnucaVoSTz9w9YiifgLd/uP1OK6qEDnFgdkZ+0rYVamVkB0UCLswfybSClBj4/aCsLW1n1Y1gePuH39Zy+ZLy7Zc16GWtmc9FdSG3UFQsI5sJL2S8KjGtK3In/0+uyuag/IB7V8oVKpTBHsaw1aLZ2QSWgFkQzHifF0Ju5mnlxfTnWzE9RO93FEQnwfy3YHtizrQYUpRML0sUt/un4Yu8=;oA+XIKAs2+P95r8ZRlgM5A=="
+secured: "u4y7bmXJ4v8llPMlV/D0NojfYUbn13irbWgQoFAalxtRDeNAidpWf/PcgzHLjfB93XSqb0sPQQScOl/LWQ3CnVwdNL94EBqGsVk0RV2qI4AbV/RysMvR+5qG4CBsMp8cKJYEnzWfvc6Qv3hD8zY6z4XCkvyqXQke9zx5gpUfaIFMIjccUylJMoM3ZuYpXtauirRu+hUtD5YODhY5Kp6ntGa9KZBLuJ5dqBL3ejYNks718F7lyen6I8m7aE87M3RbvOIC2tTCXt/bvFp7RLjm8jFz/r2Z+1XEPtHWZ4Cg0SMvh5pcolZvA1nD7qf1qQzoA2SzhYHHUih22kjeg/qQEYnI5SaqhlfBP9CITkgZ0Rw=;7VEQ+F+4dI0Q7Fp2tH5dcg=="
 ---
 

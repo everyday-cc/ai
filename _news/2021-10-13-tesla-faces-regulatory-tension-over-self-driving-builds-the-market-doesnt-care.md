@@ -166,6 +166,22 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
+    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
+    publishedDateTime: 2021-10-13T17:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 59
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
     excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
     publishedDateTime: 2021-10-13T11:53:00Z
@@ -263,6 +279,20 @@ related:
         width: 690
         height: 758
         isCached: true
+  - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
+    excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
+    publishedDateTime: 2021-10-13T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/samsung-potentially-takes-the-lead-on-teslas-self-driving-chips/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 39
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
+        width: 700
+        height: 351
+        isCached: true
   - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
     excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
     publishedDateTime: 2021-10-12T23:58:00Z
@@ -326,6 +356,6 @@ related:
         height: 382
         isCached: true
 
-secured: "M5EhT3DPwyK6Y2FEmoaYoOp6QNjoICIeE2oBiMUauNeCLTbhIXaxoCN13oXzc0MZ1Ee6IYpRLO45VYVq6O/fxiKCmyBmRZUqbNrN4rN3d15CsvEm5+F1SVHqKEgNgW3NodxgrMaGNhClDsVRM5c+Ja5tgn4JDnfJ0eKdJINXk43fAOCut3QvGs/dsX3g8PX7yK31fZptpL3+4wpdnH1Q5g5QeJAnesERGYrwbD7FVbS/NIox3bbJ9pgwuS0ec0SXWClHW1ZceJxF/HnvopwGfxRLwu6lf6b2nDIwo6ETzixfxHtU9lHrWvMwLBUR0V7SLKRilnxVAyllGTi9gafU3hldAEZYAcyoRB4CkH21BkE=;hWfeuQvFfAOwadKvWVEbxg=="
+secured: "ioQYnsjMYZX0hahBTEmdTm9c6SQZsz49Xj7rE/HHS/lMuZ0S9ZKn2Jhd0HTYh2CIkuyM61BvaIpupIjAeOulFeoBYYWGmuZ7d9qZ21IaEd80S16MXx+Uo6ZreJ+5RVrS6u5hlEKsQiQj5jD30zG+nkuu37FPJX3oj/B7unkkg3QI5jrHs+WYFCNu8VRQMwOn4dgNdceRxcuCDGm7Q9EE9IhGXNS2gJWyC2Xj1yJmn+QXzMdMgAtRcewfuTksADz1HAsfLvqNsqJSVA4hDycc5yTdaL8MXfSQqT+JOMZQudZFBpk+s+76klpbIPQYZkrc8EcZRWEbUPZ+VI0t50tyw3yRA9SBlu9+qHtnsATBod6LQcXa7eDq0TVmiRlGBWrkSVQHO1GwmupaR7Nx89iRz5jYqQ4PdCfBRukwssoXoDrDYS4UX0xNg0eaFP/fglOn0CNurcTbVC4Rz9RhbD6QAtVCaUfcVDHKlRUfUWaXiLvi6IEkn8PANCeAo2raM3sxYJa5J6RNykEV4mmue0dN+Q==;smjOJ5N8IjqepbxeujWmEA=="
 ---
 

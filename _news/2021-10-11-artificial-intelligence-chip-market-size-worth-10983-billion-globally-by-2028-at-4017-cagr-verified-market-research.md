@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Conversational AI Market Size to Reach USD 32.62 Billion by 2030 at CAGR 20.0% - Valuates Reports"
+    excerpt: "Conversational AI Market Size to Reach USD 32.62 Billion by 2030 at CAGR 20.0% - Valuates Reports. BANGALORE, India, Oct. 13, 2021 /PRNewswire/ -- The Conversational AI Market is"
+    publishedDateTime: 2021-10-13T17:29:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2021/10/13/9469094.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 24
+    images:
+      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+        width: 1577
+        height: 1050
+        isCached: true
 
 secured: "3WlugAYzRqofnfmRemcqZRi28w7XmEYPNzefm1VJLi+v7Y9iIZi0d93ZDWFQ9uW4dDBJim1nhXyFNxjzhzGPI4rVw+Bpm6xlfYohHiCohiniz2nBX3hlcTJ5AP42nTp1R9vCRPPjeM74tB0Vy19pM/QgJvSoMsKnjEsMbXqU6hSGFF8Fn5Lcc6/Td0D2vzTtJUTg4WcXWZSwE7r4wCMkGW4H6Rj4obIpRh4wfut8h1tXP29kyc8mPv24O9/XYdzBK49h0Zy6Elc3hF2POiey41jGEiBf3XYnz1OSWao0GiRTyu2vF1kt5BzSflaONVNl4KActyHgAe0JSiNuuvXyf4VvkEdyVOwTmjtqU+0ZmzQ=;GtTWA1HNlR+g9x3gqndjLA=="
 ---

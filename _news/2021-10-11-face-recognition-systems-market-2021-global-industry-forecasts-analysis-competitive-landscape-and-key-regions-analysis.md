@@ -73,17 +73,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
   - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
     publishedDateTime: 2021-10-11T11:42:00Z

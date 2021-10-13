@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
-excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
+excerpt: "Vouched, a leader in AI-powered, real-time visual and document identity verification, continues the expansion of its executive leadership team. The Company named Marita Scarfi, an experienced finance and operations executive,"
 publishedDateTime: 2021-10-12T16:30:00Z
-originalUrl: "https://www.financialbuzz.com/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and-saas-revenue-expert-will-lead-sales/"
-webUrl: "https://www.financialbuzz.com/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and-saas-revenue-expert-will-lead-sales/"
+originalUrl: "https://us.acrofan.com/detail.php?number=545540"
+webUrl: "https://us.acrofan.com/detail.php?number=545540"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Sales
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "How SaaS Companies Can Prevent Churn And Drive Growth Using AI"
@@ -37,6 +43,6 @@ related:
         height: 960
         isCached: true
 
-secured: "KjP0m9YLpPRcFrVzF5YrxG1J7ZKOHaDFwBjr1fxh619gGzHlqhW2XsLVF6p8RM2UNcqvnu4zRMU2SRsX5gLHxtK5yklUpREdnswBGE4UWHoFvN8frDBJvSr+H73UJk+5iojOxYXk+OdDx0HIftutIZpDWtdKYjBc7xPFpnIqT54ezqjbq3dtr1nyFlWK4ZlYb6VstETdGEeiBKqwAPLHnduWE2B79o1SwV+wL2vwVtBE3Ds04V0WBPaedhYX+sNjDo1hAkj+BaVCqmfAFN8bXvzgVUv0WIg/X3Sr026I/AkMnaKkogeV2ykmhjI+Iimp/uErCKjPr/VE4mM47iqdZwp/pxqUCLmBiFPxgdPYw/c=;+hIXLSpvdCCgCHvarOIagA=="
+secured: "bM9Lj3XS3g6XjLmU/lVK0lPFEvD/S9lzL1cpAeWPO8gnB0Yu4/iFEfzGwtJ204oGpXxaCjPSn1VnQMtuLxEXCQ70DndFvTyWRXkFZfW4nny5GfLfTrCzMoVuYpmAdOFRwrFlv52lu53jloFRZSOkgZ3CTVtkoVGbS2nhbu92ZsRwB5ezG9NTv2MSz4CLyfUXhVm6HqbpiEoRa/sUQmdgpbL3m87JXCiZJjrWWNBihpqI2kFguAXoBRKqDvR1lA7/7L/0kYExhFIWIyoDsrc9bL1H+vUvDncXv0C/9j+WWDNHOQow1+4hjpewUOoEwTKqF1qyoWKZIPoEGIU/SRbiaQezpNsjmNfhde5iwKTCJ7Q=;ez+OuI3jAs+/T7ZIjloVPw=="
 ---
 

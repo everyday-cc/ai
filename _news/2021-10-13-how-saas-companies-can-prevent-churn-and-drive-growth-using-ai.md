@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
-    excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
+    excerpt: "Vouched, a leader in AI-powered, real-time visual and document identity verification, continues the expansion of its executive leadership team. The Company named Marita Scarfi, an experienced finance and operations executive,"
     publishedDateTime: 2021-10-12T16:30:00Z
-    webUrl: "https://www.financialbuzz.com/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and-saas-revenue-expert-will-lead-sales/"
+    webUrl: "https://us.acrofan.com/detail.php?number=545540"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 4
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "DYYZDf8PqNewBVAzKvPE5zVrLyBRLjPbf3BElEAGrfLcu2FeWZU7UGZ8/x+3eMhrjERXaR1r2D0sEuSKlKF2Vz0MchYuU7rDlHOGTtmRravz4Uj23sWRIoKS6afiUCT53BR2S+e79WrZ9EzjMIoNouKrkJdNlK4eDQvNjOJHbBIxK2Vs1bljCHCg0GfmnH0s1k1QmO6nfp3RAiuFCmXOtR72G2b2HZK1+ArKVY5DxS1zPNq/VDQrCuRussccYRU7ZsjbY8VzFPfwNo32s/ZNLhE5rG4KFEXA9Vz5XyngY3jNUWpTQEM2DL++C/cbW3ZjWTXeJzH+Lip4FyGVFUkd0+Pzffi3G1IoyNbx05vGFsJqEKhIKGRY+sVgusYfSX+zUqnnvr6QHiN+Fle4MO8xfJ0cnDTDdIsO9TH9QKsQ56lU2ZGY93MSluf24FDncGjplzgd9SxPbMotopRjj2WlexANUrO7nEqPYUNoJt3tizIXSGf7v11KXnZ0QFjAdASsS20VEp75xcaXNdheNUof9g==;izsLuhT/dm3JgHdeI8EHKA=="
 ---

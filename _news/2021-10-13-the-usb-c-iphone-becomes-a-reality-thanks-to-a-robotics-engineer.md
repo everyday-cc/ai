@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

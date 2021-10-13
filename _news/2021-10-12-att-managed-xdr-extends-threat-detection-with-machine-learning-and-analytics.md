@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Content Analytics Discovery And Cognitive Systems Market May See Big Move | Microsoft, Google, SAP"
-    excerpt: "Latest Report Available at Advance Market Analytics, “Content Analytics Discovery And Cognitive Systems Market” provides pin-point analysis for changing competitive dynamics and a forward looking perspective on different factors driving or restraining industry growth."
-    publishedDateTime: 2021-10-12T10:01:00Z
-    webUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
-    ampWebUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
+  - title: "The Healthcare Clinical Analytics Market To Make A Beeline To Technological Advancements Between 2022"
+    excerpt: "The Healthcare Clinical Analytics Market is expected to be worth US$ 28,000 Million at a CAGR of 15% between 2022 . Healthcare is going the“digital” way. In other words, artificial intelligence (AI)-enabled medical devices and telemedicine are the concrete instances of the proliferation of the digital wave in the healthcare industry."
+    publishedDateTime: 2021-10-09T05:43:00Z
+    webUrl: "https://menafn.com/1102942611/The-Healthcare-Clinical-Analytics-Market-To-Make-A-Beeline-To-Technological-Advancements-Between-2022"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Logistics-Services-3PL-4PL-Market-390x220.jpeg"
-        width: 390
-        height: 220
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?618537"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "dv89iWGzd/7S33x4QyvufhdaEO/x2V627TqGSky0nw/ot1CtPpi5gSsGZlEiYqGAOV3qaw6kB8ZJPghmMtprt5fEBWuVHpv5hpW0+iyxTvso+AV4A22ZB71xJi5ru8GdbwJz6l3tH43cthPPa6wIj5Zxu4gRZyYuhhoc/IYwL/VODyflIqiZJmac1tTG3lN3gMzM/6pxELFFIvivrdWutAXVvliF600W1Pky5n7j/kaeAxXUpu8w91mKc/Ts8+0wul/eq6o9gHD4zkT/HOumvXnaCpUXwbUZY4GZ2dkXdUctOJs0EqqGyetyRpk/dJXMaBjlzBDqOb/KMa8xSE73G+Lm72lC8hh4ge5M3oWEK/Y=;Dp/wnG/Gi/C9pIp5JR1qIQ=="

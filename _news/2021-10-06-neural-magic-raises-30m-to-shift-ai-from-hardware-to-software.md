@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M"

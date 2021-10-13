@@ -89,6 +89,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 84
+  - title: "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3"
+    excerpt: "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger."
+    publishedDateTime: 2021-10-13T16:19:00Z
+    webUrl: "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/"
+    ampWebUrl: "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 75
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Nexer Insight Has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Nexer Insight has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep"
     publishedDateTime: 2021-10-11T09:20:00Z
@@ -118,6 +134,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-14.jpg"
         width: 3840
         height: 2880
+        isCached: true
+  - title: "Microsoft and Nvidia partner up on speech recognition model training"
+    excerpt: "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models."
+    publishedDateTime: 2021-10-13T17:19:00Z
+    webUrl: "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 71
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
+        width: 1040
+        height: 585
         isCached: true
   - title: "Microsoft Translator now works with over 100 languages and dialects"
     excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."

@@ -164,6 +164,22 @@ related:
         width: 1280
         height: 852
         isCached: true
+  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
+    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
+    publishedDateTime: 2021-10-13T17:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 59
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
     excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
     publishedDateTime: 2021-10-13T11:53:00Z
@@ -276,6 +292,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2021/08/tesla-logo.jpg"
         width: 690
         height: 758
+        isCached: true
+  - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
+    excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
+    publishedDateTime: 2021-10-13T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/samsung-potentially-takes-the-lead-on-teslas-self-driving-chips/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 39
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
+        width: 700
+        height: 351
         isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""

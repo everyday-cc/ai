@@ -1,23 +1,22 @@
 ---
 category: news
 title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-excerpt: "SAN FRANCISCO, Oct. 11, 2021 /PRNewswire/ -- Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT ..."
-publishedDateTime: 2021-10-11T20:35:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54171095-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54171095-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-008.htm"
+excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
+publishedDateTime: 2021-10-11T20:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
 type: article
-quality: 11
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - IBM AI
-  - AI
   - Natural Language Processing
+  - AI
 
 related:
   - title: "Cellebrite to Acquire Digital Clues, Strengthening Its Market Leading Position as the End-To-End Investigative Digital Intelligence Platform Provider"
@@ -58,6 +57,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "sTUFaAAV444LC9MYhfhWhNa5gcxTvwsxmryMaWxInEIfOW3cXusRTwhpk0Qv6p8qeTZXaBYgJG1lXWFGb+5QAQK1qotZ1NpDkHQsMLAcuNjZnbKOYo/7unH9hZ1NyaD/6MgXgeXmPgkUAsfjNa3XkPO3G8YXBrglL9N9m80mwGFyN6RbxJztoC3xTF7clarkDd6I9h9HuygEeU0QZ0h8awNFKAX21TOowliE1wS55RP0HZ4JrD0gFNFy3q/B3FKleeHqufQD/6crqLwzXT8TAp5nvG+NzfQj4FpQSkv2AKqhjsPsGoWe1Z68A+/30/EtZe/P1lShNIyS6Wk9UDG1NxGGgscL72QCS8TER7W+acw=;l+nYy1RnNDJ5OlasdnWIKQ=="
+secured: "tCmn5lBs7jCd7kd1Ej4hW1kL1Aew/TYjzE1w8fATGXX7cqwR2d3MUIfNmWHjXMMs/XxQQL36HSKsVH5Q24EcAjmmRsZ0FvTaBojFqcZM+p5B5Rx5Swscv8pN/ms1pQqF/bkHXgz8LZ5kzd9XCPIvgTIB5Odxlzr9Wu8vCNloQVfiEYkqSkb5niHbC2wfBw2rS1AcuF4JnLt1WB2IDYRBcT2GwOZGfBrQ8dcJZl4qOBL/qhicm65LrxDuuE4dsgxRn9617GjUJOqpYXH926wVwZ/JwMzfisMIsuCGuC3cUef9NM6qpMRPeU3TxBXcZWln/yKoixk+UXtCDZBWRHu5fULfQpwVl8LtMx2azqjWm18=;2QQijUF+mQQ8tf+cLWVBIg=="
 ---
 

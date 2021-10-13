@@ -24,6 +24,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "AT&T Managed XDR Extends Threat Detection with Machine Learning and Analytics"
+    excerpt: "AT&T * is launching a managed Extended Detection and Response (XDR) offering. The AT&T Managed XDR solution features a cloud-based security platform with security threat analytics, machine learning, and third-party connectors to protect endpoint,"
+    publishedDateTime: 2021-10-12T13:17:00Z
+    webUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F24F95"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 16
+
 secured: "7Hwaz3AbXIFmGuXLStw9j1bl9vrNXE+eYKwzZuWJw4JwFc2AO9d8kwKg0U7CyMWI+sv4kslcNDWT+qRzBrQDZ55CKfhKZXuqetRKyNS0JYpnLXkv5WWMEUOIFs1BAarTcKCWFPu3tbhJQpMuKDbPBHD+oJ5ezeJIiEHWXy6lvMQMOGE03BMRPSpoHD8BDOQ3U4JNXjLiUEWsQIEzmzYknpHY2fpEJC603srx3GKpewHwU1vbulgZTIiLui82CHd8DajH2I8sLx9AmXHOUgQslStU6TO1wcuKTbP/daJsxEo15HXsLtj37jhDnbhD39OxYcUe/zb1OwK/u8wTtAn/3tu1Lr/UxIhq/Zkoy9MH03k=;yB2W0RE6wcugXWmadg1ZuA=="
 ---
 
