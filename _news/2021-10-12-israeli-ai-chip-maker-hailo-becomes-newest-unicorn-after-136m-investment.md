@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI edge chip startup Hailo lands $136M"
-    excerpt: "Hailo, a startup developing AI edge chips, has raised $136 million in venture capital, bringing its total raised to $224 million."
-    publishedDateTime: 2021-10-09T02:06:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&strip=all"
-        width: 1200
-        height: 610
-        isCached: true
   - title: "Hailo reels in $136M for its ultrafast edge AI chip"
     excerpt: "Artificial intelligence chip startup Hailo Technologies Ltd. today announced that it has closed a $136 million funding round to expand go-to-market operations and improve its technology. The round was led by Poalim Equity and Gil Agmon."
     publishedDateTime: 2021-10-12T17:38:00Z

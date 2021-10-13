@@ -20,36 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Cloud optimization startup Cast AI raises $10M"
-    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
-    publishedDateTime: 2021-10-09T01:39:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
-        width: 1200
-        height: 721
-        isCached: true
-  - title: "Cast AI Closes $10M Series A Funding"
-    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 41
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
     excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
     publishedDateTime: 2021-10-12T14:00:00Z

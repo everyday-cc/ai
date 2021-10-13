@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-cambridge-quantum-makes-quantum-natural-language-processing-a-reality.md",
+      "title": "Cambridge Quantum Makes Quantum Natural Language Processing A Reality",
+      "excerpt": "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg",
+          "width": 810,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
+      "publishedDateTime": "2021-10-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
       "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
       "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
@@ -64,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 326,
       "tags": null,
       "images": [
         {
@@ -788,6 +840,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-30-insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fidelity-among-others.md",
+      "title": "Insights on the Natural Language Processing Global Market to 2025 - Featuring 3M, Apple and Health Fidelity Among Others",
+      "excerpt": "15.2. Amazon Web Services, Inc. 15.3. Apple Inc. 15.4. Automated Insights, Inc. 15.5. Bitext Innovations, S.L 15.6. Conversica, Inc. 15.7. Dolbey Systems, Inc. 15.8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23162501",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23162501",
+      "publishedDateTime": "2021-09-29T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-beware-the-known-unknowns-when-finance-meets-ai.md",
       "title": "Beware the known unknowns when finance meets AI",
       "excerpt": "How can we act when dealing with known unknowns? That dilemma is facing regulators today as they try to assess the impact of artificial intelligence in the finance industry. As two recent reports from the Bank for International Settlements and the OECD make clear,",
@@ -1324,111 +1419,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot.md",
-      "title": "AI Weekly: Researchers attempt an open source alternative to GitHub’s Copilot",
-      "excerpt": "A group of researchers is attempting to create an open source alternative to GitHub's Copilot service, powered by OpenAI's Codex model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
-      "originalUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-628332486-e1622192309124.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/amp/",
-      "publishedDateTime": "2021-09-24T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
-      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
-      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

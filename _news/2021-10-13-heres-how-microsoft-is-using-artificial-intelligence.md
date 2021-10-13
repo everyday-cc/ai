@@ -197,6 +197,20 @@ related:
         width: 1739
         height: 831
         isCached: true
+  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
+    publishedDateTime: 2021-10-13T17:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=546459"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z

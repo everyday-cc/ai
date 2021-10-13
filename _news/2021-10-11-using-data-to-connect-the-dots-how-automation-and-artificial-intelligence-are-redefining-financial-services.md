@@ -44,6 +44,20 @@ related:
         width: 1191
         height: 692
         isCached: true
+  - title: "Meg King Testifies Before the House Financial Services Committee on Ethics, Artificial Intelligence, and the Digital Age"
+    excerpt: "Meg King, Director of the Wilson Center's Science and Technology Innovation Program (STIP), testified before the House Financial Services Committee's Taskforce on Artificial Intelligence on \"Ethics, Artificial Intelligence,"
+    publishedDateTime: 2021-10-12T00:00:00Z
+    webUrl: "https://www.wilsoncenter.org/video/meg-king-testifies-house-financial-services-committee-ethics-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Wilson Center
+      domain: wilsoncenter.org
+    quality: 31
+    images:
+      - url: "https://www.wilsoncenter.org/sites/default/files/styles/og_image/public/media/uploads/images/Meg%20King%20Testimony%20Pic.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dEaxUecuimuxCXrn7Oe+YeJJI0tNJZ284r2y/0K+joO7Ydi0IDlI7uJ6Om9xaXgaGGKz/B9VjkClUU5uqb6oo5mXtQk8/pMr0ODBG6B5aHJm8rkIZx2mB5ohQmvquTwv7sgqFnOckNQ+KINZ0KeNjBSYrTQbqelVXstDubj9aGnLpFVJJBqkMTVW4p74ZSVKWj6UaVRW9LJmUmpnfdf6yfbGaCxJ4sU4ZgM4EN46+/6yiuBQGlT5QY+evy3yHwctgDMpW20P9DD2oAcV1w0de+yeGXJfLiFAJFhkalOhV0yhLwOGHvNIPxhDwu11B1zkiNBwfC54AoDkvXCsW44417H4f4h73OHjfcGkF9cT9b19RJBYaowLejt0x5MM886SeAI8BVLPoR08cKCISTJXk8HxfsA0To7oKISJWgxf2RK8QVw60Jj/pxeG0DtxlaZlc0YGH7KriFhxoIOl38JyO5XUkBqTyaCyMx4QuztkMHObIGWgM+witwiAHL2slxHLq/s26ielO4lpgbhRKKqgTw==;5JGJEerCYitTeTj3DU/bKA=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 759
         height: 630
         isCached: true
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "BEIJING - A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing Innovation Center for Mobility Intelligent (BICMI)."
-    publishedDateTime: 2021-10-09T02:22:00Z
-    webUrl: "https://www.publicnow.com/view/836EE090D9495578FAD7735A9A905A629A25DDDA"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 3
 
 secured: "hcoL5lKPYXMDeVZH5xHdRZF2oWzYYc6r9cHhO0i7+rG0eEmND5EXze6OCpEoQl2VUsBf8BzSUOcrOhmiAVI0vMXZZiinlJePaDUbzMG03OF/1W0dUXSueQM4bqIFc3q00qVRzcavdmrymDk8vbjpqx7X3tx4snYq1SLaDHqVkTYeZU6Gzd2miolbWn34DKHE9kw1MF6V1yBJAFBUignooaZiK9CkSMMW13fNHGarEHmay36O/CJ0d+1MhFexlGB7vCUo48iXV/3ixIn8aqT7x2phamlPAO0QRJiyxdc0wDa/S94LvDPl4V1d6k5aTH/Ua2AuHDcSpcYlipahnXeojmkLbHxdgEFxUAaL5iDyXMP4w1AtaSkqafvzduW1lXpos9b6oRSeSZxxtLwGGgCtQQpwe6yFPbg3yX0poYCZIthepf4mXPAhTzjz8+piemTJ85Z4mRC6ia0T5zHB/elew3ooLKdaW3SG/yKP+rtQw3qBKKes3vWIkY4UwES+6rBb48HOAjNgwdy/+dnWTUEdMA==;XiQwf3FZKZS1WOiNUJNbkQ=="
 ---

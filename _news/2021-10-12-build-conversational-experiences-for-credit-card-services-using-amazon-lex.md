@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

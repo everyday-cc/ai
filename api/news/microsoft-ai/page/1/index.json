@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-wendys-envisions-ai-rich-apps-with-new-google-cloud-deal.md",
-      "title": "Wendy’s Envisions AI-Rich Apps With New Google Cloud Deal",
-      "excerpt": "The fast-food chain plans to use voice recognition at its drive-ins, eliminating the need to shout into the drive-through menu board, among other novelties, says CIO Kevin Vasconi.",
+      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
+      "title": "Google Cloud extends its reach with new Distributed Cloud options",
+      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/wendys-envisions-ai-rich-apps-with-new-google-cloud-deal-11634040000",
-      "originalUrl": "https://www.wsj.com/articles/wendys-envisions-ai-rich-apps-with-new-google-cloud-deal-11634040000",
+      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-415265/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/wendys-envisions-ai-rich-apps-with-new-google-cloud-deal-11634040000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wendys-envisions-ai-rich-apps-with-new-google-cloud-deal-11634040000",
-      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "publishedDateTime": "2021-10-13T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 326,
       "tags": null,
       "images": [
         {

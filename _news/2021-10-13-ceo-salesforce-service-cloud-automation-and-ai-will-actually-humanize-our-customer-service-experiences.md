@@ -3,8 +3,8 @@ category: news
 title: "CEO Salesforce Service Cloud: Automation and AI will actually humanize our customer service experiences"
 excerpt: "Clara Shih, CEO Salesforce Service Cloud, talks with TechRepublic's Bill Detwiler about how automation and AI will \"humanize\" customer service."
 publishedDateTime: 2021-10-13T15:00:00Z
-originalUrl: "https://www.techrepublic.com/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
-webUrl: "https://www.techrepublic.com/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
+originalUrl: "https://www.techrepublic.com/index.php/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
+webUrl: "https://www.techrepublic.com/index.php/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
 type: article
 quality: 51
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "eoqCLr+zbRjfbUV+/e3VK5sKLxK3PTQvhysDoOosahEn6wx6KpXHW9FKJ5i32Wa65P9jWL2k1OVKvDexvxspt73rIzMmrJUi4DCNlvEpDGuOkjg3UX4PB9eh3MOIu8wMiMUwsmXnbVAKMLrUCuf/FzQGXnMmVwNYbHPoCWLBfN3+22WWgyuDZQjDjhiFivmSwvWZGYHe4zfMUJUBg5PTok9k3L0z5xAhhQu5auRw8ouW+uyPPciYucPot1zS2uNIia8oIJsc8y4zkvVh8nIqGg5b8XM8WGoEswzvMt8s2Up1qI0ZW23kgXJDAVeFYy7cHepxhHD9kYcFLrZRuTTdBuJizhJvb+rRVrtHLe+cZdJLbkF4R25ni65vy908XG7A8FP9CnIhVnCNvjM944nJPre61U2rlyitCgUbg/hoUJaIs+jkvWXN9/jA8PsTHwBFOeigE5oC3gopG9orRdLfiHrPx4iLBt1COAcpPvXd79rk3SWt5sJGRUU4NCEbHf9qzpgrTElstTfmzPIsWljiAQ==;/JW6nhBa7OucHUUFCVAwow=="
+secured: "uh8VCtZqVKEFIEnRSYqwAKPi32g3Uxut9Ys3D+p1sL0vh+xE2MHekFFDbfQ+FDA5Y/EsA3Wppd7fZnmvO5QTHeWfzeFHCK/BozK2C6tO3pUD9LCskpKC1rhJYI9AP6Prfh0pakHKxYiSIhTeYKg4U/wGbZIAUZuyJ+Hg4dtK04M5PxqlTNGk4PIcYJjICoSnDnTW5R2wlfrZlFknhRrrgCT5eILQxQqvfp3HZLJMc7yMn95OI0DKO+Ad3NLi1rzj/GzmtEMzqG6j50eQv9JVlc5w54HQN7orjt4Qa5EPw9zqrOH+hZTPYLCGpPOkNuoTfvb9gRjmxnlM/KAyEI2u4LGR8dT2mSRCu16ogzVwHdc=;wNCV6KS5/VtT6PlKUP6Eng=="
 ---
 

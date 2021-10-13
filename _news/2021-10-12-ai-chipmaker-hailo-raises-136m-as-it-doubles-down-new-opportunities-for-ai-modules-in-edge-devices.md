@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 type: article
 quality: 190
-heat: 260
+heat: 250
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI edge chip startup Hailo lands $136M"
-    excerpt: "Hailo, a startup developing AI edge chips, has raised $136 million in venture capital, bringing its total raised to $224 million."
-    publishedDateTime: 2021-10-09T02:06:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&strip=all"
-        width: 1200
-        height: 610
-        isCached: true
   - title: "Israeli AI chip maker Hailo becomes newest ‘unicorn’ after $136m investment"
     excerpt: "Tel Aviv-based startup’s AI processor allows smart devices to run deep learning applications for industries such as automotive, drones, and home appliances"
     publishedDateTime: 2021-10-12T11:01:00Z

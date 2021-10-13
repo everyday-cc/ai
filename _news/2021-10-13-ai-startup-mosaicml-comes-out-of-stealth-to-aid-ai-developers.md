@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 1228
     isCached: true
+
+related:
+  - title: "Health data startup emerges from stealth with big AI ambitions"
+    excerpt: "A new healthcare data startup from two founders who met at genomics giant Foundation Medicine is launching today with the goal of using AI to take on some of the daunting challenges around medical data."
+    publishedDateTime: 2021-10-13T18:18:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/13/health-data-startup-emerges-from-stealth-with-big.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "pv2ggtK5JX5WVt/vFCPHJLBEiDZowE17DdJeYuuoIlp3S9R0WRYFpPrvWKstcclGcrULHybqKxoTjOmpph9pyhsFY2xje2PwtPo37n8hIdTFhCtYfJi6O0SPhF/i0MRLnZ2BUMPyFlG7tokMAW9qJHe5OmVZW6UFuO+MG2L20vF4jNAkmfbU/w4+sM5PAvTOysCyI292JZyIBCncP77yqNRCUki5I89XvTnMK1f2msEfRsKut+2xBGa9QSZyIPWvdG6rXQ0c421kTTD+jFbNROZgpY+M7xEHuIocYnx2RFJ7qzNdEUl+eZwlkuNLvKMYMfu1dmrb1/ixJLS1ykKrDu6E9FrZBwcLTIotyFiGxSYARTqLg54YQa+MTzSCNZuaAR5yaSwXpyvHmUsxDuTZmFy5Ejgw+YKYPBaX+oWd58pC4p4k2ELi7WPIpOgvPiZeK0O1CrLGHcrjYzYh8AyJ0zxQ/JcINzlNWyYYw/s5eZr8eh7liXjBjAkH7jCj/Qdmao+R3aIPlqSfmyFqHnuoKg==;ReJCqZG2z6PQ9xGedMUakQ=="
 ---

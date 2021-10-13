@@ -195,6 +195,20 @@ related:
         width: 1739
         height: 831
         isCached: true
+  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
+    publishedDateTime: 2021-10-13T17:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=546459"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z
@@ -247,6 +261,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "myjv7JIpJI2vst18ap0q6EHN/m267QFQ7J/vgi8VPL1Ry96guFARtA7iv/Bdcmj3JlighdUez3oXtw7EktoM50Po2tPINgbM91l9bRBQYc+gImqRxC4oC8Sth+mCjSI1HYBnUOOLp8P0lgMcuMEW/zmKFYNLoscGb72qwTvABLYH0HzMQuhAeppuGu2ONhiJNNyw7dlOJiwcOZqszOdoVPUUEfPEJEZKieybNbz4gsZeQI7uj/LSbKbStT+Ysnq8qyiXgKtux9TXHmWGsv4bW+B/wR8GBCQoa0ZWXIvU/HClb5Dzok2HKfr0j8mt/wMhR7Xyd4GONAzfGENwFX+dP5dIVlvPr2hjornXjCj4QKA=;e3D9BDLwKCNXeXshFZ/00A=="
+secured: "xJYwxX2RsGX/UYmvEwn2cqPvxr2bDDWi4tEPgMwU/mMjB6OgJRTU6uV6UqBlgMMt9aNKeQLUI8PmUitHWXVmpGv0X+aE1T7es0YHj63pYMLbNG8rkNxEP67Io7CvnsaUn6wdDalxKyROpSdiiCuNBSEr/w7/0Rn9Nr8QOsqM+G0ruVG8HR9iDNnHV+MUjo77XeEXuzPFY5iiGFz/Yifa6ixcXixGfhItV4TxBuFfxWtz+9NjXzliSo5VPf+NuWeLD6V2lPhK/JduKYPSo48lD7/gr15cvjUhrcPfwkjrqEidKGEZXxAvGwRTnZqKc/ZimeF9VOoSd0M1RwKyn8OrFfteFs3sU9hASrdQc9C7mpFdRHq5ZmqL2j7kN2UqBpuWp39zBVI6GnW9dRD0am5GTMdsmG2a6S4q43GrYEOncJr/GUtmWPtwv3yTgsm1nnTjZF3QJ7GI9/YCF4B6vu4k3r+emCJwiM4USACjKRIlduTtBUDZGT4G3vkwr7DChYGad0GAcixrKTwRmcu1d+cg9w==;2dzxgTkNPnpTN2WEMh2/Wg=="
 ---
 

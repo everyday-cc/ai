@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Expel Managed Detection and Response Now Available on AWS Marketplace, AWS Detection Virtual Summit Planned for October 20"
-excerpt: "Expel, the managed detection and response (MDR) provider that's making great security as accessible as the internet, today announced its availability on the Amazon Web Services (AWS) Marketplace. The AWS Marketplace catalog makes it easy for"
-publishedDateTime: 2021-10-13T13:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-20044170.html"
-webUrl: "https://www.lelezard.com/en/news-20044170.html"
+excerpt: "Expel Managed Detection and Response (MDR) is available for cloud security customers to purchase through the Amazon Web Services (AWS) Marketplace."
+publishedDateTime: 2021-10-13T12:55:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211013005178/en/Expel-Managed-Detection-and-Response-Now-Available-on-AWS-Marketplace-AWS-Detection-Virtual-Summit-Planned-for-October-20"
+webUrl: "https://www.businesswire.com/news/home/20211013005178/en/Expel-Managed-Detection-and-Response-Now-Available-on-AWS-Marketplace-AWS-Detection-Virtual-Summit-Planned-for-October-20"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
@@ -53,7 +47,30 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "EQS-News: Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
+    excerpt: "Yandex to Announce Third Quarter 2021 Financial Results on October 27 th. Moscow and Amsterdam, the Netherlands, October 13, 2021 - Yandex (NASDAQ and MOEX: YNDX) today announced"
+    publishedDateTime: 2021-10-13T07:00:00Z
+    webUrl: "https://www.boersennews.de/nachrichten/artikel/eqs-news-yandex-to-announce-third-quarter-2021-financial-results-on-october-27th/3255081/"
+    type: article
+    provider:
+      name: Börsennews
+      domain: boersennews.de
+    quality: 19
+    images:
+      - url: "https://www.boersennews.de/images/social/og-image.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
+  - title: "Extreme Networks Schedules First Quarter Fiscal 2022 Financial Results Conference Call"
+    excerpt: "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its first fiscal quarter, ended September 30, 2021. The company will announce before market open on Tuesday,"
+    publishedDateTime: 2021-10-11T06:05:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20211011sf34338/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
-secured: "ItaJT0aJTaumuBqJ+guSy/Xa0pcedZ8kgDwNP+Xj9YqgojqUYsk+Nljlk5VDe142qbFy6QjB71PgivyWj0QEMz64hYcYX+tWZXxvws8TMcTvmRRhTFLaJ4tVplyFSwtmY8bhRWCUXq4kGSdGSzNmlob24GHDzdYwUvxomD3upTIsI+wtgvhn2qgAEIwz2MLnUrS8Wh9rAGdA8kd+F/GOQI2xAzISMETeipTIziMdB7IX4c9Hn64kxz9YW6DQLa5ZjXalbWJjJsYTotXnEUvMlq75W/6GXh3XrYTrXmKh80iOseoC49kaGCivFTRkr0anpos0Mxg0RmHFytHs28kVImXenwCTitddGfuUrQrq5XE=;zqCNfS+lgxuRcieeD6cqWA=="
+secured: "5okyB/erB0y30kjPbiyUX4HwCcXCxJ4bxNHWL64mXfsSujbAtPTGTU88Ft0njQOBsroj4zFD11wbQoWWy+H8QAlFw+QBD1Sj4d44x/g6pkpmK+Slhpb6tPxqd/Yo73j8S+gkYeUhzh2hU15XcH8RikmPhpcGLDwjkUEOoJMR96yfWAia+fCDu2eEMyWUJNZzaMJxRhhUSfcTxZ2MthR7sTuI2L50qXhtV1t01XkPaWEzEsVbK8lgsMBDsxdFwKta1GyCQSZTlANkohyki/FfCsXnPNpoTRQ4xB/BJj1kLMf87FNnL8ppfoPYaMoGM7ovRxpIi+4YEXA/xcduF4KYNUuGPxqeJefAw88PYBON3qPvRy6m0y/76ud+BcOubTebCjjCWWT1U9orJksfa5RwWN8N0O7iCSEYLyAPl3NT2PWGHhail58pmtn4Myig6Z3YNBHVKE3zfGs2JkogQEFKYdwnIpDHhuQvBDHblhl0ZWnz8EyQ3IIMt7jgSDeMmYmrbPb8Hpe8ymyk0w03pogQPA==;hTNFRZgIbymP6VMS/+LGhA=="
 ---
 

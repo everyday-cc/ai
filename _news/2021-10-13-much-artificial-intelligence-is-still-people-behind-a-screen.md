@@ -2,27 +2,31 @@
 category: news
 title: "Much ‘Artificial Intelligence’ Is Still People Behind a Screen"
 excerpt: "AI startups can rake in investment by hiding how their systems are powered by humans. But such secrecy can be exploitative."
-publishedDateTime: 2021-10-13T13:01:00Z
-originalUrl: "https://www.washingtonpost.com/business/much-artificial-intelligenceis-still-people-behind-a-screen/2021/10/13/3454f414-2c1d-11ec-b17d-985c186de338_story.html"
-webUrl: "https://www.washingtonpost.com/business/much-artificial-intelligenceis-still-people-behind-a-screen/2021/10/13/3454f414-2c1d-11ec-b17d-985c186de338_story.html"
+publishedDateTime: 2021-10-13T11:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idsWZAmr_z7s/v1/1200x817.jpg"
+    width: 1200
+    height: 817
     isCached: true
 
-secured: "bZ+MKt0wOkQznn619vPXJucw4D69HvRZtE1WHLsdD8okFsyleT3JbbaASNJp2IcIjUxJlAUZYmsz+w8JJkNz9u/qm4htL3tmsd9wyEAhyiEA8ophAj1BA56nO1CtS6FEIKtgL+Hj8fbRM310wjb/ZY10i3MIFnxvOMFSHg7I5JmzJUsWH3zfVV1Eu8meoYav/KL9TenPRq5JJay9wCLXqaLhaL9xhZ5EPVxuqz6cIK7tpgtwa5t1iKcmiAjESWV5a9+8JtnlZFrbnGeoMsG0iYGlZmKZeWSxXN6p4zf53UKm9hBLizrW7wai8coKjtrcVnZN4R0C6aQUkfku3UIypxfSIyjGwIvGCy2hVrt5LRA=;QkNCpV4tyQFFgXtBeAPYog=="
+secured: "55yhTIiyMsxYgk8dBHneH59ix/LaUVKVgvDE8hnSUHVrvf1lRcnhsxWJfcRZ9UZrmWQd1wEipugKG4tDAVcnLppriLQzBwfEe8Ww2gdH+ud4HlVNmOgNZ+PF3MfGqfSFgw70lmTWTI+A52Smmr4UHTP5571WWMU4eYgyJoA7IniHOOLe/YpeD7ZS2ia9nhqoaSwcaXDxCAjzNoJv1wHZBeShrCJgfcvIKTh0aIz3Aux+HbcGqYDm1ZXlnNVJF66QUeP9nxjwj+RU3C8wSk0l4uHoKSewA2F0OYB4OzJZhO5o5m9b03me7NI79mMkA4AU/5rr84LxTGrYXF7fslubAj665G3dxSuvxe9B+HcEtL4=;heI7Pak+ofcqW9djNwDeww=="
 ---
 

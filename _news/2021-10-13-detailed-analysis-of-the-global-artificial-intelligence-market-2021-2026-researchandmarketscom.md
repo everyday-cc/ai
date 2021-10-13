@@ -2,25 +2,26 @@
 category: news
 title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
 excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2021-10-13T10:47:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=545944"
-webUrl: "https://us.acrofan.com/detail.php?number=545944"
+publishedDateTime: 2021-10-13T10:58:00Z
+originalUrl: "https://www.lelezard.com/en/news-20043451.html"
+webUrl: "https://www.lelezard.com/en/news-20043451.html"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+    width: 421
+    height: 421
     isCached: true
 
 related:
@@ -87,6 +88,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Q8PjtpkSVhnwaSPK5Sv8bcw9I4bsMGxxne5xywHcDloDiVntV61Xv8nNbB6n6jReFqTnTVucUfx9Hokq4kux/6hX0K/3X7eh9ux0K5vFJOtZVGqkY0MOI1KYhUHJ+nUAw0gw5dlxRuI2jzftbQAwMGArDxti6muqHv5qP4y4s6IBE1unvgQ4C5CfjXTr1Mi+NLOErk6Upu8GYxiOJ1zUJ5c3A3jvKLhBR4DgFT9ALwOePOD/k+fzqSsdylDJxlO5XeamSdckQPYKCXOLigGglkmpbzi+Ylrw06MmRAGrY6svKhX+LuA2RnjTghe2H0aHz7424uPrlCDH9WuTdk5nC3oI26+DAs3PCrMioKWNT/w=;UJEx0gKvS9XQ6C4pVwdbgA=="
+secured: "PCO4nocXgTD/V3LvXm19ldyaBMnp5GpvsBnCc63GxqFfTYjW0QGLH70YnJeIRmH9ee3qhtw5gIvFCSZwXyanMxylxaEQJHT1CxA8gNmjdvD9PT2y9zz2IhRnDsBJzZJbN9qhb1XO3MHl/Z67enr1LBn0pwKRATEK6ytWxDk4vYSTNQOdN2cDtemAaJUPe9mdHys2iAFDSPy2HrA6maUlFcQuqk2Uz7jgHnW9/85SC7tCx5ZY6iike8fOwH6yrPQxts18a8qi1K/vzWqsaExyEojoSN428/LhGFpPWARmfC29y57VVmYabLXlWvrl3QfUbktdjjMYajaOqshbt7z1rQpO1mcue8a1z0gL97hzN+Y=;YxR9zuRz37tNWlLIadi0Qw=="
 ---
 

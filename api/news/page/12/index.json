@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-02-iphone-14-rumors-release-date-price-camera-specs-and-will-it-finally-go-notchless.md",
+      "title": "iPhone 14 rumors: Release date, price, camera specs and will it finally go notchless?",
+      "excerpt": "We don't know much yet about the iPhone 14's release date, price, or other specs and features. The biggest rumors so far ... Sometimes Apple will stagger release dates for specific models ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/inside/apple-car",
+      "originalUrl": "https://www.cnet.com/tech/mobile/iphone-14-rumors-release-date-price-camera-specs-and-will-it-finally-go-notchless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/product_pages/87-hero.jpg",
+          "width": 890,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-mars-robots-take-cruise-control-during-solar-event.md",
+      "title": "Mars robots take cruise control during solar event",
+      "excerpt": "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kezi.com/content/national/575445912.html",
+      "originalUrl": "https://www.kezi.com/content/national/575445912.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/designimages/kezidefault.png",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.kezi.com/templates/AMP?contentID=575445912",
+      "cdnAmpWebUrl": "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575445912",
+      "publishedDateTime": "2021-10-02T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KEZI",
+        "domain": "kezi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-portrait-of-an-ai-leader-piyush-gupta-of-dbs-bank.md",
+      "title": "Portrait of an AI Leader: Piyush Gupta of DBS Bank",
+      "excerpt": "Thomas H. Davenport and Randy Bean It is widely agreed that support from senior leadership is necessary for the successful adoption of artificial intelligence within large organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
+      "originalUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFbJ5Qb8lZkIw/article-cover_image-shrink_720_1280/0/1633186737649?e=1639612800&v=beta&t=td8ODBukagJTby89xG7Qy5BDURAwyKz0WyrMsrtLQxU",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
       "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
       "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
@@ -1032,133 +1179,6 @@
       "provider": {
         "name": "Proactiveinvestors",
         "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-why-uxui-should-be-considered-throughout-the-ai-life-cycle.md",
-      "title": "Why UX/UI Should Be Considered Throughout The AI Life Cycle",
-      "excerpt": "Both user experience (UX) and user interface (UI) design play crucial roles in successful AI product development and implementations and should be considered throughout the entirety of the AI life cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdb169d384f635f4653a1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
-      "publishedDateTime": "2021-10-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
-      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
-      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/80112-2/",
-      "originalUrl": "https://www.dqindia.com/80112-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
-          "width": 540,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
-      "publishedDateTime": "2021-10-01T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others.md",
-      "title": "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others",
-      "excerpt": "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html",
-      "originalUrl": "https://www.freepressjournal.in/business/alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null

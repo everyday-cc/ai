@@ -9,8 +9,8 @@ ampWebUrl: "https://worldindustrialreporter.com/an-intelligent-factory-managed-b
 cdnAmpWebUrl: "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: worldindustrialreporter.com
@@ -42,20 +42,6 @@ related:
       - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
         width: 300
         height: 250
-        isCached: true
-  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
-    publishedDateTime: 2021-10-09T01:49:00Z
-    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 39
-    images:
-      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
-        width: 620
-        height: 330
         isCached: true
 
 secured: "dV/kEC/OrTOU4eT0mAOtS3cf8rb3FXpGmKxDphkecPUKUpsaAqPi2pBFdxAI03S4K0ssuCoJP1gkfPWd1V6GumaICViAd+WRSyamV4QVL5ofrnh/TJvQVZ4/flPWkx+Y8aTSNysfeoHAP+EKyXFz7JMipX67pVlz4iJUkKdeq79WEcKtmDf35IBXkniJnOaC8UPxP52290J1VAtpyX791+srwnwSe4zMHwXULYvmdvu6nshAmxRiykfn2U6xrUwHU8kxUTSrRJG04SW4UQz+J3q3fYvAinwJpO0dqiVWEnes4vBjYRaLulHovmQrc1YR9Eoo0yzFAawI9uz505tssXWj39+F+Jwe5tGdt9EAFgwE0tFdxDwyir8kIOW9zMOyJ4SS0agb3gLx3bCydO65PnDU5pJFKfIfKzY5CVjd8a3C2j2VDzSRdo/5RgtaSarC0hpWB+U/74j0iaePWhmEpK4UN+hOqYNjclVfpJ6zqaxZuz1+ZlKJ180MWLeuqgkMMM1CEmCUTQ1tDsCv2FyYOg==;iyTR9Vxob35jxKmv8IEdFg=="

@@ -2,9 +2,9 @@
 category: news
 title: "Mammoth AI report says era of deep learning may fade, but that's unlikely"
 excerpt: "The era of deep learning began in 2006, when Geoffrey Hinton, a professor at the University of Toronto, who is one of the founders of that particular approach to artificial intelligence ..."
-publishedDateTime: 2021-09-28T17:45:00Z
-originalUrl: "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
-webUrl: "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
+publishedDateTime: 2021-09-29T12:46:00Z
+originalUrl: "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
+webUrl: "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 715
     isCached: true
 
-secured: "zEn9EKT3bX3fAbuwn9XthOTsjLrU9pmR8YD5sJsrXCA7srlmKRI+FRZKwtYIxxC9iEOGEiJtO0R3bOzhtl43gnAunN1NOeld/LILsScUbA1MNqbPWoZKO+3x8zOYwMrvz4tegTBWPRAj1cgWEkS+Ro84sguC2iexG2HEbUFpn0HU8Pj7ZRXmFQdh3z+jDwphItj502PXVwex1Ky3tGAC9akkF+8T4CCgu32Yy66zVPSjUsCM936nj/o8GA+ZWc2nyUNP5nXC/pfa6C7JR1nxJWb/yR2cv6KG8JP7YGiTKIFxKfl+1eM60pl7goUZ00mVBK7Tk7iqcIJwrPj3MUt6ifWzeFUzxzqFz+DFHMf0L9E=;+Ql1waJdsjUWhPI5WuK+aw=="
+secured: "rffknkJoS1efQLsS/Fge9HzpdUKiim7g1yPgnmLPRajgNkqXIl94E8E8790Eb9/wrmKCNunz0al/WWm6N8ngDCaSEcLNtDCsHmc0nMfAiwQWNimkzr63Z9GBYabnCTxP2IpP/XEV3Z+DAGkk2aG4OmCntUst7+ZQ2fnWIfJgAYsTXvROUr/zkHdSRxiSj/wf+NXx6PVexk91pF1nBP4A2DxioEhX492tpDRHu9vmINUSaZtWunPSJqWFSQsbxGna8ij/vn/XNvgevz0Qyk+Tj7/TFR71lsLYhVxXLr6jsITfj5xCNk8psc0R6bYxy7acPjsj5s7J/ifW/Ws4Ogm7FflH5Xo7Mb4wkiCDnX0z48s=;bOEyhrOhGcGAIY3u1W0WIg=="
 ---
 

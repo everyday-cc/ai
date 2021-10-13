@@ -256,6 +256,22 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
+    excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
+    publishedDateTime: 2021-10-13T19:00:00Z
+    webUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/"
+    ampWebUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 52
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla: ‘full self-driving’ is self-defeating hype"
     excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-10-11T15:56:00Z
@@ -306,6 +322,20 @@ related:
       - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
         width: 700
         height: 351
+        isCached: true
+  - title: "Tesla under fresh scrutiny over assisted driving features"
+    excerpt: "The US highway safety watchdog has pushed Tesla for details about its driver-assistance systems, specifically whether it has barred some people testing the features from reporting possible safety concerns."
+    publishedDateTime: 2021-10-13T19:32:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/tesla-under-fresh-scrutiny-over-assisted-driving-features/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-AFP-1K.jpg"
+        width: 1024
+        height: 479
         isCached: true
   - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
     excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""

@@ -52,6 +52,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "KB4pGNgJyV6Sq1ywVmerB9rFvvb79AYgLdK+UUnhyapkBhuS8MSsH/XD4Gq9JaCXO0Mtvnu5FO+axQ+IjQ1dIuqGPcA+rC2zt3mOOL/pCX2jDfs3XaKtA5qo4Ts0ztrxwJPzVjKq6a0e+/Rvzs+P4l1ytKl+RwxCdpvRBmhiNMwM31cgyCaabCGlTYQV8mKqkvkPTvSk8abB9wreIszlcSRCzSYRc86Ynkd8xPrs/dGL35PRM1K5CWQ46gXzDLd+ikl9Cg/KX0fChr2/Io0o4csNlrsVe56wiBD3UAj2EznR4VDax/UFZvQoRJ/4z30kTFZ+m1bvPmJPAfQhQAJttPv3pim6QmjvJK/p+4l2v0E=;liJ608bUZ1omap/1OQVfCg=="
+secured: "99aS2N+UZ5N+RpQ45lkcS+921qRlNbuNEBDZfSbnbmsJkahDqxRSXlyF6PaiSwqHYi8hHRh2OtuHlhBIFl/NnWCQvNijZSQ/2cTjGB7osIIkF8Dfcv/VWAg1mqmgfb0DEERMWO19cA+ahJONVaioe7YhyYSTI4MEo9QBtt5qAJcT9DOlCMjM6PRAsShYQLGlYM/b0gheR83CL/fc8EvLgYQqsjyRZsxV04VhtviF7cSUqeu3W0H68JyELfFCQLQKq4eRY99w8nGItGqBwErI5gEPXmKsg6+5+DYQYnpWd7SRhMz8irbxeioTOcr+EKumaQYGYfiNVF0oPOFWAksrz8D0kyXbDFLfFnRGYYv1PdY=;YiRlqQ0foYNF1zE1E7xR7w=="
 ---
 

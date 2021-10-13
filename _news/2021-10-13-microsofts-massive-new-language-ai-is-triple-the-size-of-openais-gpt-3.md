@@ -195,6 +195,20 @@ related:
         width: 1739
         height: 831
         isCached: true
+  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
+    publishedDateTime: 2021-10-13T17:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=546459"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z
@@ -247,6 +261,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "sL7vJO3AVCh6yHi9sYAyFzztycWMkECiubLYLNFiBQ9HapI56F+CYVHNvfeRjJsDzzCH/DRXkoIDkl+3C16hhnLt6VXxlEsEs18VJnun9vs56+mZvovYdp0KmExDdziOk8XJ7pUnDQCJlcE7yJYAQa2ezGk7ty8eRNvTWZs4xlG92s7wknlioZyzi/hRTFWjQmdyLcasEvc7AIiCDx3DGI6Sqeu7xo29heCeD+3bjtudQ6QIcqfoooiFaqvtkFRJZmTNeLWGsyRLD3jFrGlksxCus0D46FHMGCrLUrLSFlqOM9nhVCrGnpLQLsFZHkANEqfCtnweBvp6G2shJyu778t8ary3JVgstThyOOq7aWc=;RIRXI7lDqG0yz7thCHmRXg=="
+secured: "76sf1sW+7Ho955jgftUlgA76s2MLSC5vqQ2azOLAXc+OKSKlWDUxq2OsnpkSXunkLcCdWEeH1bBDSucE/nxVxjcOc2v1JCmVRj9B608umwjMK8BzM5xyUta1v8cuEFVIhChp1BXbETkbmVC+nwjjoo0dgEmXmPbyKnco3qR/ScxDbjRmHKzJz7TBU9ocUqHXNmgDUgI2cG1o9mAfwnqQLCYH863oBwwVJOEpD8Pq/mwAg7pQurAiuaLwoT6X/cVVMJ7v6yutHMjsA4woNDYj6y6iL4MotfrfaaF6WAWUBeS3sd1d3N5tbfsrEZasq84gOO/qUjo3LGBLd4RXonsk0u8N0Dkb+aJ0XFoY1ClLxn25/BBH+z1oRvUn6WFlTt9e88mVQhVqZnod4pLvRE9b/xyY4P/SGpoqdckIbNZt/Rck2lg9s39APpW3iuKHa+NfymkFTiqiF8PvV53gxfSn9Zx3QShosnFgY3MZjTydpCTMdFfMYYnphjtH13npkIt3tNufmsFhzQ1CbyNlPMf2uQ==;NPvoeQgta+hZH0lYDxwaKg=="
 ---
 

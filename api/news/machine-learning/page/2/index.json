@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
+      "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
+      "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Fireside-Chat-with-Arthi-Rajan-Makhija-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "publishedDateTime": "2021-10-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report.md",
       "title": "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report",
       "excerpt": "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group.",
@@ -791,6 +835,58 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely.md",
+      "title": "Mammoth AI report says era of deep learning may fade, but that's unlikely",
+      "excerpt": "The era of deep learning began in 2006, when Geoffrey Hinton, a professor at the University of Toronto, who is one of the founders of that particular approach to artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "originalUrl": "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eb09df3dfbcf667a8c95d0ca12a95b1369d4eca1/2021/09/28/59bf349e-44b1-443c-b760-c5f441a18292/ai100-2021-report-graphic.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
+      "publishedDateTime": "2021-09-29T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-syntiant-brings-artificial-intelligence-development-to-everyone-everywhere-with-introduction-of-tinyml-platform.md",
       "title": "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction of TinyML Platform",
       "excerpt": "Tiny Machine Learning Development Board Now Available for BuildingLow-Power Voice, Audio and Sensor Applications using Edge Impulse's Embedded ML Platform Smallest Form Factor",
@@ -1112,58 +1208,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-29-mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely.md",
-      "title": "Mammoth AI report says era of deep learning may fade, but that's unlikely",
-      "excerpt": "The era of deep learning began in 2006, when Geoffrey Hinton, a professor at the University of Toronto, who is one of the founders of that particular approach to artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/eb09df3dfbcf667a8c95d0ca12a95b1369d4eca1/2021/09/28/59bf349e-44b1-443c-b760-c5f441a18292/ai100-2021-report-graphic.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "publishedDateTime": "2021-09-28T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
       "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
       "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
@@ -1388,50 +1432,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-top-use-cases-of-aiml-in-the-fintech-industry.md",
-      "title": "Top Use Cases of AI/ML in the Fintech Industry",
-      "excerpt": "AI has progressed significantly since then, and it is now employed in a wide range of applications. FinTech are particularly interested in it, either to develop it or to utilise it themselves, because it has so many useful applications. Traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "originalUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/robot-507811.jpg",
-          "width": 4961,
-          "height": 3508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

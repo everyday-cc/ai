@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cast AI Closes $10M Series A Funding"
+    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
+    publishedDateTime: 2021-10-12T14:51:00Z
+    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 41
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "rMcBy89FKdunaCmLvckj38zX8RdRHGnNZdOhL29I8swleFGE+9zgHOX/4xMaOERUhVYb+dQ8yz45Kq7xuUmAMMsFVVVmwwJRH6LUWv1QaG40fCeuQAferPw++r2qd4IjGtUshg+DZGFvf0cykVg+ZXFMv93MN4Oqw65b2Jh7RyWXmBOV78MGh2yQmeeqYxuogOI+T+yLvuAsMpxdsMOw5+AKGjk+5vgow9dJkpgbI6Y5g28Ygp+/EX46ziuSe7ISZ/bBqByYO7glJN6nEDWFwnwtLR0G0bwfHzisdVtTy4loSlmVL7iWFNLoS5yThtcqHZCHfc8HXA+ufeK1A1qVXkBIkS1QqYyJI5q1iG2NG6I=;0GMP5xgpqP7bReleEYwEWQ=="
 ---

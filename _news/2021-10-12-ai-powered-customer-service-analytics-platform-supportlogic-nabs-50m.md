@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

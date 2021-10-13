@@ -75,6 +75,22 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Air Force embraces former software chief who quit, warned China is winning AI competition"
+    excerpt: "The Air Force says it sought the input of Nicolas Chaillan, its former chief software officer, after he quit and publicly warned that China is winning the artificial intelligence race. Air Force Secretary Frank Kendall is said to have personally thanked Mr."
+    publishedDateTime: 2021-10-13T19:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/26/Biden_Air_Force_Nominee_55039.jpg-11814_c0-280-5000-3196_s1200x700.jpg?d4e91f06fc102cbc877d1177e2fe00769277f6fd"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "United States has lost AI battle to China"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief said."
     publishedDateTime: 2021-10-11T09:02:00Z

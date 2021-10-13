@@ -10,7 +10,7 @@
       "originalUrl": "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -42,7 +42,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {
@@ -128,49 +129,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-an-intelligent-factory-managed-by-robots.md",
-      "title": "An Intelligent Factory Managed by Robots",
-      "excerpt": "According to Nissan, the innovations tested at its Tochigi intelligent factory will be later rolled out at its other global plants too.",
-      "sourceUrl": null,
-      "webUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/",
-      "originalUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/",
-      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/",
-      "publishedDateTime": "2021-10-13T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "worldindustrialreporter.com",
-        "domain": "worldindustrialreporter.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1408,6 +1366,58 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
+      "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
+      "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "publishedDateTime": "2021-10-05T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

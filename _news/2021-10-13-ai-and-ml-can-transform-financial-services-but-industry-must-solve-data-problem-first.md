@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/"
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meg King Testifies Before the House Financial Services Committee on Ethics, Artificial Intelligence, and the Digital Age"
+    excerpt: "Meg King, Director of the Wilson Center's Science and Technology Innovation Program (STIP), testified before the House Financial Services Committee's Taskforce on Artificial Intelligence on \"Ethics, Artificial Intelligence,"
+    publishedDateTime: 2021-10-12T00:00:00Z
+    webUrl: "https://www.wilsoncenter.org/video/meg-king-testifies-house-financial-services-committee-ethics-artificial-intelligence-and"
+    type: article
+    provider:
+      name: Wilson Center
+      domain: wilsoncenter.org
+    quality: 31
+    images:
+      - url: "https://www.wilsoncenter.org/sites/default/files/styles/og_image/public/media/uploads/images/Meg%20King%20Testimony%20Pic.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Using data to connect the dots: How automation and artificial intelligence are redefining financial services"
     excerpt: "What is the goal for automation? How are you using data to connect the dots?  Welcome to the age of artificial intelligence (AI), where new technologies hold the promise to both improve the relationship between financial services institutions and their customers,"
     publishedDateTime: 2021-10-11T12:38:00Z

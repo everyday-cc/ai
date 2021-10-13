@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-09-thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you.md",
+      "title": "Thinking About AI To Grow Your Fashion Or Design Brand? Let These Companies Inspire You",
+      "excerpt": "Businesses are using advanced AI technologies to drive customer growth, production management, user analytics and more. This is a list of ten companies that are taking AI to the next level so businesses,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61608f297f417592678425ab%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
+      "publishedDateTime": "2021-10-08T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-ai-weekly-eu-facial-recognition-ban-highlights-need-for-us-legislation.md",
+      "title": "AI Weekly: EU facial recognition ban highlights need for U.S. legislation",
+      "excerpt": "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
+      "originalUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
+      "publishedDateTime": "2021-10-08T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare.md",
       "title": "Researchers, UW educators see a bright future for AI in healthcare",
       "excerpt": "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health.",
@@ -1081,102 +1184,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv.md",
-      "title": "Robotics startup Ishitva raises $1mn in pre-series A funding led by IPV",
-      "excerpt": "Ahmedabad-based robotics startup Ishitva raised $1 million in pre-series A funding round led by Inflection Point Ventures (IPV). Ishitva is an OEM operating in dry waste sorting technology using AI, ML,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/23/full/1629658476-4597.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "publishedDateTime": "2021-10-07T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
-      "title": "How AI can fight human trafficking",
-      "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "originalUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "publishedDateTime": "2021-10-07T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

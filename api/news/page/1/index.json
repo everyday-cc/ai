@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
+      "title": "Applying The Power Of Deep Learning To Cybersecurity",
+      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "publishedDateTime": "2021-10-13T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-cambridge-quantum-makes-quantum-natural-language-processing-a-reality.md",
+      "title": "Cambridge Quantum Makes Quantum Natural Language Processing A Reality",
+      "excerpt": "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg",
+          "width": 810,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
+      "publishedDateTime": "2021-10-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
       "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
       "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
@@ -42,6 +146,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-despite-disappointing-earnings-ai-stock-is-still-a-long-term-buy.md",
+      "title": "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/391046",
+      "originalUrl": "https://www.entrepreneur.com/article/391046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -105,7 +260,7 @@
       "originalUrl": "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -137,7 +292,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {
@@ -234,6 +390,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
+      "title": "Google Cloud extends its reach with new Distributed Cloud options",
+      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "publishedDateTime": "2021-10-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so.md",
       "title": "Will automation and AI actually improve customer service calls? Salesforce thinks so",
       "excerpt": "Clara Shih, CEO of Service Cloud at Salesforce, explains Salesforce Service Cloud's three-pillar approach to automation and AI and how the technology is transforming customer service.",
@@ -294,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -595,7 +803,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -648,7 +856,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/390891",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -687,49 +895,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-an-intelligent-factory-managed-by-robots.md",
-      "title": "An Intelligent Factory Managed by Robots",
-      "excerpt": "According to Nissan, the innovations tested at its Tochigi intelligent factory will be later rolled out at its other global plants too.",
-      "sourceUrl": null,
-      "webUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/",
-      "originalUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/",
-      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/",
-      "publishedDateTime": "2021-10-13T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "worldindustrialreporter.com",
-        "domain": "worldindustrialreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -889,7 +1054,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1078,160 +1243,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-how-saas-companies-can-prevent-churn-and-drive-growth-using-ai.md",
-      "title": "How SaaS Companies Can Prevent Churn And Drive Growth Using AI",
-      "excerpt": "Not only can AI consume and organize data, but it is also the key to unlocking insights that help prevent churn, stopping loss before it starts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165cee8c9c9bc394a1e3a1e%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
-      "publishedDateTime": "2021-10-12T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-dreamdrive-lucids-proprietary-advanced-driver-assistance-platform-thats-user-friendly-and-future-ready.md",
-      "title": "DreamDrive: Lucid's Proprietary Advanced Driver Assistance Platform That's User-Friendly and Future-Ready",
-      "excerpt": "Lucid Group, which is setting new standards with its advanced luxury EVs, announced today the details of DreamDrive™, the most technically sophisticated advanced driver-assistance system (ADAS). All versions of DreamDrive employ 32 on-board sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lucidmotors.com/media-room/dreamdrive-advanced-driver-assistance-platform/",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dreamdrive-lucid-s-proprietary-advanced-driver-assistance-platform-that-s-user-friendly-and-future-ready-1030859943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lucidmotors.com/static/lucid-air-pure-touring-grand-touring-1200x630-e638642943942ed7bb3845892e57cceb.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ibm-says-ai-can-help-track-carbon-pollution-across-vast-supply-chains.md",
-      "title": "IBM says AI can help track carbon pollution across vast supply chains",
-      "excerpt": "Finding sources of pollution across vast supply chains may be one of the largest barriers to eliminating carbon pollution. For some sources like electricity or transportation, it's relatively easy. But for others like agriculture or consumer electronics,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2021/10/ibm-says-ai-can-help-track-carbon-pollution-across-vast-supply-chains/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2021/10/ibm-says-ai-can-help-track-carbon-pollution-across-vast-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1160485212-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

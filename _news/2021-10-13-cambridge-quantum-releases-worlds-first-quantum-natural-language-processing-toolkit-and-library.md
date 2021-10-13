@@ -1,23 +1,45 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing"
-publishedDateTime: 2021-10-13T12:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
+excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
+publishedDateTime: 2021-10-13T07:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
 type: article
-quality: 6
-heat: 6
+quality: 36
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "u4y7bmXJ4v8llPMlV/D0NojfYUbn13irbWgQoFAalxtRDeNAidpWf/PcgzHLjfB93XSqb0sPQQScOl/LWQ3CnVwdNL94EBqGsVk0RV2qI4AbV/RysMvR+5qG4CBsMp8cKJYEnzWfvc6Qv3hD8zY6z4XCkvyqXQke9zx5gpUfaIFMIjccUylJMoM3ZuYpXtauirRu+hUtD5YODhY5Kp6ntGa9KZBLuJ5dqBL3ejYNks718F7lyen6I8m7aE87M3RbvOIC2tTCXt/bvFp7RLjm8jFz/r2Z+1XEPtHWZ4Cg0SMvh5pcolZvA1nD7qf1qQzoA2SzhYHHUih22kjeg/qQEYnI5SaqhlfBP9CITkgZ0Rw=;7VEQ+F+4dI0Q7Fp2tH5dcg=="
+related:
+  - title: "Cambridge Quantum Makes Quantum Natural Language Processing A Reality"
+    excerpt: "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq."
+    publishedDateTime: 2021-10-13T19:16:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg"
+        width: 810
+        height: 540
+        isCached: true
+
+secured: "9mzzGHvNQhE/dlyxboTZAeCG7RgNKmRimEYcVKGkfNxawGrYsbN1vIBJZgBrDFosvJpggDj/kHYUbQzVQKZmKBz3gD2XN1GJnXSwuEgc7qDIxkU1aBj5Cm7NitIfvxThKEYPc4nNR0z5T1oud1YgHLf883EFf+SGZE2f+9jlj1egw/xEXutGIDqcOQdy5SeVy2IkCgTyrhAEZ9aq9npVZjolGKyGzLTkGmmQwRBSUl4amtvNyZnEF3ZL4TtbpD8l4PtGIfK72wkE/Y9udz+zQ9pfAzuc0bCIe2DoVzFOdNozKK6DhAE9N4eGo93/VnTceSBDrIPkZakd9bEQ25r/5pbpny7vCak1hL7aFnbN0LQ=;9rWLvMPEtPvnY9dyAcRobg=="
 ---
 

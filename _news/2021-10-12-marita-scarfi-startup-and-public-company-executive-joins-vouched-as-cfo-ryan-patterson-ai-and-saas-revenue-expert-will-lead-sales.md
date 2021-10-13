@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
-excerpt: "Vouched, a leader in AI-powered, real-time visual and document identity verification, continues the expansion of its executive leadership team. The Company named Marita Scarfi, an experienced finance and operations executive,"
-publishedDateTime: 2021-10-12T16:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=545540"
-webUrl: "https://us.acrofan.com/detail.php?number=545540"
+excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
+publishedDateTime: 2021-10-12T16:32:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and/article_5cda56c0-18e9-5097-b52a-62a2c3c5a832.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and/article_5cda56c0-18e9-5097-b52a-62a2c3c5a832.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/88/f8824e6b-d04b-5d0f-aa36-9561c3cbce1b/6165bc1076ef0.image.jpg?resize=420%2C630"
+    width: 420
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 960
         isCached: true
 
-secured: "bM9Lj3XS3g6XjLmU/lVK0lPFEvD/S9lzL1cpAeWPO8gnB0Yu4/iFEfzGwtJ204oGpXxaCjPSn1VnQMtuLxEXCQ70DndFvTyWRXkFZfW4nny5GfLfTrCzMoVuYpmAdOFRwrFlv52lu53jloFRZSOkgZ3CTVtkoVGbS2nhbu92ZsRwB5ezG9NTv2MSz4CLyfUXhVm6HqbpiEoRa/sUQmdgpbL3m87JXCiZJjrWWNBihpqI2kFguAXoBRKqDvR1lA7/7L/0kYExhFIWIyoDsrc9bL1H+vUvDncXv0C/9j+WWDNHOQow1+4hjpewUOoEwTKqF1qyoWKZIPoEGIU/SRbiaQezpNsjmNfhde5iwKTCJ7Q=;ez+OuI3jAs+/T7ZIjloVPw=="
+secured: "D/JE56HoJ5G1FUcAov2dQEkOMmCnPkeYH5jTdCGpu2H25xrvSwvezp+i5RwlZt974M6pCQ3Qzl75JM5mwB05BgLnz6glczDigr5tedXjgtG7u3RkMeac0eW7vugHFfASHvJ5is9jofgY0Jf2fLMjLuzZK4ZDgZHaU1/pl8DiCbHCtQhfDbUaK0gtovETXDsKixsyTiLKYUR328mgN0MQADBmjQAsQW0dj94gDQYHhqFyjkq0L6hcQEolpr5zS7qSfNe3XWv3+cAdURFQwIGM/A/oLvGQxQCdhAP3EE/1Ety8rWuG+6CKCNsy8Fx515wy/oPPRA/2Wb5BnvOiJn5UzOR+OUsxLSiTcKg95qbhz9Q=;1+jEzdWp0GIsX2D9XYmOpg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deployi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Organize product data to your taxonomy with Amazon SageMaker"
+    excerpt: "When companies deal with data that comes from various sources or the collection of this data has changed over time, the data often becomes difficult to organize. Perhaps you have product category names that are similar but don’t match, and on your website you want to surface these products as a group."
+    publishedDateTime: 2021-10-13T19:27:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/organize-product-data-to-your-taxonomy-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML5264-ARCH-DIAG.png"
+        width: 529
+        height: 351
+        isCached: true
   - title: "Build, tune, and deploy an end-to-end churn prediction model using Amazon SageMaker Pipelines"
     excerpt: "The ability to predict that a particular customer is at a high risk of churning, while there is still time to do something about it, represents a huge potential revenue source for every online business. Depending on the industry and business objective, the problem statement can be multi-layered. The"
     publishedDateTime: 2021-10-11T17:03:05Z

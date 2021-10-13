@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-fraudnet-wins-platinum-juniper-res
 webUrl: "https://www.tmcnet.com/usubmit/-fraudnet-wins-platinum-juniper-research-award-fintech-innovation-/2021/10/13/9468824.htm"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
-    publishedDateTime: 2021-10-11T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
+  - title: "The Temenos Infinity Platform Empowers Banks and Credit Unions with Cutting-Edge Fintech Solutions"
+    excerpt: "The Temenos Infinity platform provides out-of-the-box digital banking solutions for financial institutions looking to innovate quickly. Infinity offers a wide range of features to meet common online banking needs,"
+    publishedDateTime: 2021-10-13T19:02:00Z
+    webUrl: "https://www.cardrates.com/news/temenos-infinity-brings-fintech-to-banks-and-credit-unions/"
+    ampWebUrl: "https://www.cardrates.com/news/temenos-infinity-brings-fintech-to-banks-and-credit-unions/amp/"
+    cdnAmpWebUrl: "https://www-cardrates-com.cdn.ampproject.org/c/s/www.cardrates.com/news/temenos-infinity-brings-fintech-to-banks-and-credit-unions/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: CardRates.com
+      domain: cardrates.com
+    quality: 45
+    images:
+      - url: "https://www.cardrates.com/images/uploads/2021/09/CR-Temenos.jpg?width=480&height=249"
+        width: 480
+        height: 249
+        isCached: true
+  - title: "Temenos Selected by Green Dot to Help Build and Power the Digital Bank and Fintech’s Cloud-Based Processing Platform"
+    excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that Green Dot Corporation (NYSE: GDOT) has enlisted The Temenos Banking Cloud as i"
+    publishedDateTime: 2021-10-13T10:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211012005847/en/Temenos-Selected-by-Green-Dot-to-Help-Build-and-Power-the-Digital-Bank-and-Fintech’s-Cloud-Based-Processing-Platform"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "VeivnSiVNa9T24Ov+LLxer6LC+HfLoum15DQ7kJqs8t3TMloTJERJHtdfmsxH4Lth5G1FhSqEsdETBJ07vaXzNeW7nBAJH8+I8wIb3g7SlLzkPE0ilBJWnEqYuYF7MbR6IAhZ9lbLg9/wQdMCTN3NPCKpd33ZEiXYeFcjjytF7H0JD+BE6lHujeMarFCWqK4i3Wj0TGCqCrMOu6Ay2JSUZptwNb8afrfLKtSCSQOhPkNx056WJJtdyNcULWOTvLEFVACxYZaV0Uibw7Egin3jNRla5ccBKWy0t3APZ/YXD+gpTZ6nqybZO8k6oBn2YLyEyiA5tdxgCcZJwQs2AK2S7u8uSDyJeuznBJ4gh4YIfkdq2JYrrjwu7cn3y/PFbZRaekTN3jGbbP+BOHysMrFqhP5KrZ8Tia7TQKJEKw3KHjMvHFzj3o1y3ooyZb7qrfkBOWn2n7D91JeV9kHB1zMlqTd1OS754nhgeSrGT3Z3zvOxF4SCVXoPiNlCP84/DrJ+HP7Kjb0w2su+uDTm2Z+kQ==;ILCQhdsQOP7o3BvGfPRuUw=="
