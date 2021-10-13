@@ -206,6 +206,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 35
+  - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
+    excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
+    publishedDateTime: 2021-10-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-microsoft-introduce-new-language-model-mt-nlg-with-530-billion-parameters-leaves-gpt-3-behind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/NVIDIA-Microsoft-Megatron-Turing-NLG-1.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "VJLPWZnGlm4esY9+HK+eD8Q0MBtqIGSLSpJVLBilb6AjwPBe4AVXs0fw/A6nHpUy2XkH56q5vBZi6K/faT7tgkh+IuswqyalsNdevwtEWwsQolRBI9E2mKNDaOVoUcGVz/budmQwTbqo6wjvC4oVoGUaCNYEfX1RYEwd7va7NDBweO/nEBcriDaSyyTs1sz0vTs+GAMed62olxn8l8Mwp8DzaBtIW+j03dUSZZ8NxYqxkhjx5DvAOBG7bjz8sNLYLeoMmuj6Xt5bWE37LYQ5PyD9IzRRT8UbWwi+gXaEgSY2b5+lOy3mb8Ku0M0tmjIG2EjLoHYH97K/nPysw2rbCtfB0f71Df7aRaHHwCutozWZ+vtHmbI+KIBFiGrrl33CRq8+fdkwBnv7bERjykdduuJGLBb4J95fVteE/nG81MKejB1KwYnAYmKFSd/6LOlysu7vMWfD8q1sYK4HBV7LG1StwaaLJFm3+SirX2LUplGNw3HTyxqrKOCIbH7mQSHoAObuZ4oQe7W5QhOEiZUpwA==;LOITGRJyxRV6nR5IXHAFGg=="
 ---

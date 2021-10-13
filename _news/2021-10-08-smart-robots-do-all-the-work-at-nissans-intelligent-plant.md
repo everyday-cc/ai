@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
-publishedDateTime: 2021-10-08T15:50:00Z
-originalUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
+publishedDateTime: 2021-10-08T16:50:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+webUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
 type: article
 quality: 59
 heat: 119
 published: true
 
 provider:
-  name: Edwardsville Intelligencer
-  domain: theintelligencer.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
@@ -111,6 +111,6 @@ related:
       domain: seattletimes.com
     quality: 39
 
-secured: "VRtdBFkZbaBKB2NP6l/XdkgtEJeQV+HWgQ4qdhgE71wq6PxLlVjmpEoYh6Fd+JFt8epQUJ1UVfO1M1rf2xmOG+dJ/Jy7v/9w2e0kdsA09IDnRznhmaykPTkC6ZsJ6KG0DQtFBtVIVSPyAx2bw4eP//unu4ZsEhAeOHPt7Co8HsWEL3EN3vNbZyYjizPrG/kMf1qscFskmF37s109n3VbVAaPkGQzUYoESWGPjttZhnOXFlI84DYLafHCHZlqRkml1iysY0ZVTszODX/uabZEnSKR/72SyrFNg0nfpbGnEW2EI2OvI9Uei+ByJ84A0yYJjHdB1noH4JS5nZqsdRqr7uxG8NqgRAEJNgkWZZfaYf8=;iF+dUn96+ZwFQtAyYdk8rQ=="
+secured: "ubx0PaiQ2Wo/V/yziXGd0Ig9UaKRGhnmsSoCI4wlNIaqHcNYwAko//WJEl/eRlJ8Nk8GB7P1/1S8Mr5fsl+a9KgzbkFYXimX7Jk7mA2eJTkANKjWDsNQX1GmaiqeFdedTsOxuGmxtLiaZT4aPu4MzhaucLTTBZm8z+42wBfvMkDt2agE+75NlMYSxvLW+HDhMMLTS+BfqK3lCtHQMEC7TK3s1Bs8gTWVQMEc5ONi8mphwHghmuF6DeCmabRh1yJ35G3bsKvXwjtgpB6kZayUA3RyPIyAOlNHxjqO5a45S6EkB/ARH9/BPh4GvVWoBEM6wvDvHouu8YQrX0bEFz9nt6waH5HN4+D2DrBg4qVVJjo=;zrM0D87DilITv5/uqMDgYQ=="
 ---
 

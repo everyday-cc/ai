@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Delta to Launch Facial Recognition Program for PreCheck Members in Atlanta"
-    excerpt: "Delta Air Lines in the coming weeks will begin a facial recognition program for U.S. Transportation Security Administration PreCheck members at Hartsfield-Jackson Atlanta International Airport, the carrier announced."
-    publishedDateTime: 2021-10-08T14:35:00Z
-    webUrl: "https://www.businesstravelnews.com/Transportation/Air/Delta-to-Launch-Facial-Recognition-Program-for-PreCheck-Members-in-Atlanta"
-    type: article
-    provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 37
-    images:
-      - url: "https://www.businesstravelnews.com/dist/images/BTN-footer-logo-no-tag.png"
-        width: 600
-        height: 398
-        isCached: true
 
 secured: "dUxcRV+BkYeg1/qVfWAAYcTlGKaNrR269g7E5eG8OcUTsptABnXSzAcM+GLyHMQj5bSHqucCn+cwiAc/U4Ds3jwHr/7cwRSWuAzPLzaDDQxoRgtww48itS/TVoxhS8U/+F4C/VSus6m8pS7O+xF+9UOnKHweEiB9uPGnBXCzVU0ufI39AKZFq8e6F6Yw8jv4VVnh35LXPqVWypnhGKJEuvoHB5NIOOPKjSlCIHn/m26jTr8MxU+ebJGFWq98VK9Etw7aFfNaXp3x4iB+zxM6EheU4yUh56Xe9KvVzTK+4qt55HPkM4SC8VQInhsgS/XXhgY58w78EZ8Q2MMaQvW2EbtDkevaGC/jbpmk51oeuCaSC6x6mjlxXPuN7sfHaXEDLrkjH3v8WMlyBG8TdefUElky03+111h3sNKExAUvzncbXS1OYUGy8ongrK8/HZQOq8OYyYYFfq06Z4CLB8hfjnYGknd3BHmj9AgwvCoawbUlDqP/0YA/kgWhPJqxaPxBhCsICiLRVF1fOllmV3AZ2w==;JqpkabTvhym2gnOFUAEYpA=="
 ---

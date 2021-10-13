@@ -86,6 +86,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Bill of Rights: The US wants to set the law for artificial intelligence"
+    excerpt: "Reports claim that the White House Office of Science and Technology Policy is developing law to guard against artificial intelligence — with input from"
+    publishedDateTime: 2021-10-12T11:49:00Z
+    webUrl: "https://techhq.com/2021/10/bill-of-rights-the-us-wants-to-set-the-law-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 37
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/10/063_1296738340-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
 
 secured: "l8QlUiVsKAO30N7SNFXV6/y2tVpLNE1/tw04vsnZxsmdR1Pku1TwMgd/IqWGzGlDvuqSB3W/qzm38rqF6f80X2heiLY0R4nJ2hdAWFApgttddCnID02vTv8bCDifBx0Y+8qtD/eI2fk7m1iFVuE4SROvdSk5ypbUmXsJ/OYa9tWF+wFsdZchOYfBcp52dCw89yxfMsjGaBeSTWVSwqwdo5NT77pQ1E9js6ZojEBd63p23Y87yQkNQZNW5Co56/hhYU3nxSw8PT6vf/0o3nuT+8h++zYP3BBocRAMiuhtN7BAIrYtuN+Eb1epUhxdveUkRf59gcECVW5XSsWyYAhRVZexYfcnTnjNWhfsTfDb+j0=;oTFNtWtIIPOWEFvNi7jDJw=="
 ---

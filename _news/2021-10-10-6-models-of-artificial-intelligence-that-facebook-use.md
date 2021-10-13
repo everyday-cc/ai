@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
-    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
-    publishedDateTime: 2021-10-08T14:15:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Facebook Loves Self-Supervised Learning. Period."
     excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
     publishedDateTime: 2021-10-11T05:30:00Z

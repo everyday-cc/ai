@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-market/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Study on Ai Machine Learning Market hints a True Blockbuster"
-    excerpt: "The Global Ai Machine Learning Market study with 150+ market data Tables, Pie Chart & Figures is now released by HTF MI. The research assessment of the Market is designed to analyze futuristic trend,"
-    publishedDateTime: 2021-10-08T14:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/latest-study-ai-machine-learning-market-hints-true-lal-singh-bisht"
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHJhCy7k3TuQw/article-cover_image-shrink_600_2000/0/1633703082023?e=1639008000&v=beta&t=7Vd8ZAWwYPADNmrZtIYL4fmAvZSpkG_Xv-x9QuK96fU"
-        width: 900
-        height: 500
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
         isCached: true
 
 secured: "lFD4lTPZ2XtFGbYBvXS9O3CV4JR5LITZ3U/HhH/ma4b668PN6Zb367MIm7FRewkWEz9730VYsXGkgezwYa6Gl3FYuaFf2dGs1T4W1nKQYNs7nzfxIi/PDU6glkHnLw4kaIig/69cw9HgiOL12PxJDLC9kiSQw5Hf/ebkJLkyeUVUVOZQov39DzBASnXifMlKyljJ/GUkgLTwR4YNUEp+wp++cKpDR8IGgfy3X1UR1AXwuT8IoCujUoGDV6Z8NhgXk0+pMZ5UUX9TLwbK0Leycfu5OfHbJy0XssSURFxu7i92lNiMvomBRoHhYDD0NWU5spYvDCh5OI3EhW2mO09VM6AriCyOvN9wJ2NXiHxfpkEd1tXxs8UsZT3DcokMYaer5RXdSyeLGFMcGAEmCiNoP8IKhoR66ROfKjL/PchHftECx1JlwLJss/eFNVy3oAU8h5mVLznTuTc8vHj70mObEjrVODzJd+2ZOucoAn9gr+Iz5xhYVm6S2gBg5FWvW6A7A0rTuI9AaBqZyVURlZiH5A==;k5PeBUdz1x7au6zR7VEreA=="

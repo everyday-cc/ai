@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital Brief: Facebook fallout, 2022 digital agenda, AI in law enforcement"
-    excerpt: "Welcome to EURACTIV’s Digital Brief, your weekly update on all things digital in the EU. You can subscribe to the newsletter here.  “The things I saw at Facebook over and over again was,"
-    publishedDateTime: 2021-10-08T14:15:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/digital-brief-facebook-fallout-2022-digital-agenda-ai-in-law-enforcement/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/1-1-800x450.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "6 Models of Artificial Intelligence that Facebook use"
     excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
     publishedDateTime: 2021-10-10T12:51:00Z

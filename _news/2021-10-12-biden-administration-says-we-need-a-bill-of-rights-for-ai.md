@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Bill of Rights: The US wants to set the law for artificial intelligence"
+    excerpt: "Reports claim that the White House Office of Science and Technology Policy is developing law to guard against artificial intelligence — with input from"
+    publishedDateTime: 2021-10-12T11:49:00Z
+    webUrl: "https://techhq.com/2021/10/bill-of-rights-the-us-wants-to-set-the-law-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 37
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/10/063_1296738340-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
 
 secured: "vJlSSl45h1ARFYu5kx4wuecNtXVV/RnniS2Kxu5TborAocZWBj8Dwts4U0nf7XoTGPJ1cKqfVShGOf0X0z4UYCLsFYSRiE6HnMkHRTIRYIReg2+lIoE74T6rNbVQI3rUA0iyhSp5+KUKZSIlTkBBBY1fck50hsQ3+03i0CuNac6d10POEYmxjkeaGdsdKt1zylEaNLcyqkVBbDgY7uja/Y9LJfs84SZxHTpYdQTFoLKnumX+0gCviFc/cygNusWHXTSMHtyI6cwT4q7nCfsZN9aiSCO1g2s7rDqueOd5oM3CuP6YtkejYSQddoRnV2xD5ymQmJn15smoRLM/C2QmoUXH1GUa92Y1JOlBKrczL6FkLLtU0MQEVBVvGKDexF355UH1+ZNaePiudTPWzw2DNlit88pgIs8Cqv4YHIL+Wl0sIUt8esA8AEkyCfWWBDaaGz1DnRmJ5K/X/88gO1ONlru8iFb/gikUHTjO9S7SMvetw5gBs4U/Nzl6RpV7CufiJNzZTgo6VWtMxkFpn9HOjA==;wxYTJhpkkai817Nx2nO79g=="

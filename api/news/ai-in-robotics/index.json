@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -616,10 +616,10 @@
     {
       "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
       "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
-      "excerpt": "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "originalUrl": "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "webUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -636,13 +636,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "cdnAmpWebUrl": "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "publishedDateTime": "2021-10-08T08:50:00-07:00",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "publishedDateTime": "2021-10-08T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Edwardsville Intelligencer",
-        "domain": "theintelligencer.com",
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
         "images": null,
         "publishers": null,
         "authors": null

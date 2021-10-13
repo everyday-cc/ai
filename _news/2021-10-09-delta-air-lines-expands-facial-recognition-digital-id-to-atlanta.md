@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://media.timesfreepress.com/img/photos/2021/04/22/1619121052_Hartsfield_planes_071805_hr--1-_gs_t1070_h1232738d68446476565c200b8eb542ae20d6109b.jpg"
         width: 1070
         height: 583
-        isCached: true
-  - title: "Delta to Launch Facial Recognition Program for PreCheck Members in Atlanta"
-    excerpt: "Delta Air Lines in the coming weeks will begin a facial recognition program for U.S. Transportation Security Administration PreCheck members at Hartsfield-Jackson Atlanta International Airport, the carrier announced."
-    publishedDateTime: 2021-10-08T14:35:00Z
-    webUrl: "https://www.businesstravelnews.com/Transportation/Air/Delta-to-Launch-Facial-Recognition-Program-for-PreCheck-Members-in-Atlanta"
-    type: article
-    provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 37
-    images:
-      - url: "https://www.businesstravelnews.com/dist/images/BTN-footer-logo-no-tag.png"
-        width: 600
-        height: 398
         isCached: true
 
 secured: "OWXwSztiZxANJHBvdiG3cPtudB8ZU2QxeNzL95ZQE+WPq3lDcNFpHXsB2rqfvFl4EjHzjdnb+OSrnDOlDzlZEcTV0TW3q8vOdpOlLpqtyLlbX/cvzY+wqSsah+Vs5DoQQyGiC2So/HcIq4dX4h7c17Rezr18AfpYeFdBztO9mvj5rRgwna3V0IhC7I2fAwj+pRsSdREUF9kTQwR7Iq5iV6QLUeNXP9O8OccoC8OrxA/oUtZf/nl2Vo90jLrWmpWZkxCGSjBkCaVksjhP/ljPnrP9s9cEy+WdJBR33VpIR+bUmxNNWeQdC4IFCUCxkJ8sMtJtvItt7IZ0yi6eKXjtwe6B0yt/+yHJ143WBUIxAauKh3d7IrJHtmXIh6tN5m4jirk1rGEKgJcSSHt09l1kOaggCFLz0WIqaY6S0hGAlXHZPCuQ4e4Du92ZBMEEZ/NPF2XV9UeN775jzxWhthFVkXEyekfD0D/hLFQxXXGqBZub+5BYtjBe3OvTQXpQP5H4gJSdlo7RaJLzoHUJ/KDVzQ==;6o/t5yHXr+8JtfUU0n+DLA=="

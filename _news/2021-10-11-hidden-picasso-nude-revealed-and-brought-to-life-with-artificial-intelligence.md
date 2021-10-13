@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
-excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing. Dubbed \"The Lonesome Crouching Nude,"
-publishedDateTime: 2021-10-11T15:50:00Z
-originalUrl: "https://www.wthitv.com/content/national/575502762.html"
-webUrl: "https://www.wthitv.com/content/national/575502762.html"
-ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575502762"
-cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575502762"
+excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
+publishedDateTime: 2021-10-11T16:02:00Z
+originalUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 114
+published: true
 
 provider:
-  name: WTHI-TV
-  domain: wthitv.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-    width: 640
-    height: 380
+  - url: "http://cdn.cnn.com/cnnnext/dam/assets/211011063106-04-hidden-picasso-painting-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -73,6 +77,6 @@ related:
         height: 480
         isCached: true
 
-secured: "LPjHaYy2utzDYnvXLzqHqObO+PB54kQ1Bcv9ORdk5T1SAPQdMfeVD48Tg7alEEP/IdVYmyMR9VqrAvo8OYHt1rF0unkEN9BbzywlDSD7yww7p3RvCbxMDctjEr5icoo37Uy9ayx9rWgn8cwmRSYnKsdRMH3ABX5moQaSxvwol0NSZoy9pnOsUHqakiT7BQCysw1pjzlvJwG858pts1V4nO7IZ6bg+qMMtxqfbwbWzalMsEhR6QCsxFKRXUPT0o6zO2aMuQT6//sQt+oCdjNqTgrlv2xNJjPmstuvTde3KVa32W6cOEtpsxnWnFubo4iIIghcrwXA0im7Z/ENQWo2Ng2em7gRkbLlBb8cBk4yquc=;N05vh/ZE3HNxEzpdfWox8A=="
+secured: "K6kgmHWy0ycCtT0Iv65Mxpcprs0yUJoHeAX7ztX06KchaCbdvp6fXoqb17pcwZeAtUGW/pELmk9B0ucV3sdC97xQBOtWEqauDiTOURwKL0H7kYNtBTRfTMyg4HWbqbtJ3aG8eLoVT06UTRbjJpq2tofRTbQiZOfDOkZw7kd1WvDNqloWwGt59Bg5GwokbGfIQC5rGfp2CtOSGYplIU1Am48av/XGn92Y+vDfj4RlQDhnABRS1QeAT94EAFTuYUgJ56ZXpsycFJ+n8wYkN1RjloGkZraVyStQYCZNMnvw4Z5IvSoPPXLRZZTrS0+NxwEqc21N+DvDdUJ26Zmz2QbgDGsvhEA6vHATYi07oiuWFR4=;NUzmg/9gBS3lJ6+SzJmXIA=="
 ---
 

@@ -43,13 +43,13 @@ related:
         height: 628
         isCached: true
   - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and"
-    publishedDateTime: 2021-10-11T20:28:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html"
+    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
+    publishedDateTime: 2021-10-11T20:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 9
   - title: "Outreach Expands Platform to Now Include Revenue Intelligence Capabilities with Latest Acquisition"
     excerpt: "\"These are leaders who had to adapt and evolve their mindset to embrace automation and machine learning as the keys to driving predictable ... capabilities coupled with Outreach's artificial intelligence-powered buyer sentiment capabilities and the ..."

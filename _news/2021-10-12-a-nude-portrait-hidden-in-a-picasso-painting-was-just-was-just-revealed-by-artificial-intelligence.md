@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
+    excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
+    publishedDateTime: 2021-10-11T16:02:00Z
+    webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 84
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/211011063106-04-hidden-picasso-painting-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Scientists use AI, X-rays, and 3D printing to reveal a hidden Picasso"
     excerpt: "Researchers from University College London used AI to recreate a Picasso painting that had been hidden under another artwork for 118 years."
     publishedDateTime: 2021-10-12T17:33:00Z
@@ -55,22 +71,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-used-to-reproduce-l.jpg"
         width: 768
         height: 480
-        isCached: true
-  - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
-    excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing. Dubbed \"The Lonesome Crouching Nude,"
-    publishedDateTime: 2021-10-11T15:50:00Z
-    webUrl: "https://www.wthitv.com/content/national/575502762.html"
-    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575502762"
-    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575502762"
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 54
-    images:
-      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "Uu8pPVZdE4ZdaewFhd2Ojo1l64RG/2ngFsb5XnCtFukzZMlkLJl+1t33YurucEyEwPJSWya1VXfQrSiNBYhN0d3TnwnqEL4APtTjZWuPxayqm30kEpveBJImdclxCYQ9pttfutIOMC3ztMyuBjsVpn2DJTwWE2gqmpxKbtZOOTTmxywRPfOJyGxPlNIGD6tXDYH3Gyi60IWXJJpZhkpKH+XXb5z9cIWeHHMCGl3haHV73fYj3151Gar2v0ggRJnOxC6ddcms0io/CfWCS1ZNNdhnzebCzodbF64HAloxxDD8yM7EbSMNoicEDulmz3K+dSti1BCIInL0unlWcuokCwIKjIp0A4vES7wOtDYSU4JgxpFdK6kPLkPqcMbJa+hignxk+3xyNsXrFNkyrrt3jGTx4bGTi5zKVrueFvpLL4Kk4oLZGOzmcpANtnBEYyZMN3pF+Z7VU/vBkuGyd4NFfiAhGv+KlM+OGxo9Z/uqaubNrq0Uy/70rMqdtkVra26X+A0lBcGtkr7F4QRtCCx2AA==;s50owoodZL00OI/5WiRQ2g=="

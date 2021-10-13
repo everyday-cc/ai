@@ -48,13 +48,13 @@ related:
         height: 628
         isCached: true
   - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and"
-    publishedDateTime: 2021-10-11T20:28:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-808363804.html"
+    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
+    publishedDateTime: 2021-10-11T20:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 9
 
 secured: "y7x4fwIltIQKA6MnW4dL3rvc+syJWdqJz6LQcdEm+cRNBcTMdc4Oas6WAHlPc7qj073iAPfzlobryaYg8sk/cRxUnrFOPXJShaC/tTR0UZqG9atxwbl/LXJjom6PcE1I0WB9p9n72lIs+ouMG3JfZi09iCgK5FzWfwr0CPJG5XwwAfZCwLOH1+iAEYHGlQW6MZUX906lKKRVWWYE9VtJ+cn2J6Z3/NoOOFZZkb2ckzXtyUw1stKwkd24JZ2KvloqjC51oEszo1Db+m4gynId8qOm9wvxa+/9Hx6tc3nq+Fe/J9UpIBMcnMJYe3HIydN+n4Emghl2gUQrJmJDMdX88qLuQoR5d140tmUHvKk4+W8=;pJp4x12oulgSDSSj+eO/Ng=="

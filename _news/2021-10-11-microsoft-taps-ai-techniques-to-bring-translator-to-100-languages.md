@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 35
+  - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
+    excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
+    publishedDateTime: 2021-10-13T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-microsoft-introduce-new-language-model-mt-nlg-with-530-billion-parameters-leaves-gpt-3-behind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/NVIDIA-Microsoft-Megatron-Turing-NLG-1.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "8XDg8hB6kHWB9xjrI8U1PshvbIW8APX89KcRi42jrFrA0vZlZk3E5XB4tjCWIT905VXwAcKgFEtcVC0QSkoL4jl1ErNyup+lyxkWzsX0e0QvJARzGiegjVIBdetaKKiNU5mOjhn6u30+n5ytykRvtysnv+mYX/6zZ3sMjORqRxxdKRIXoXKzfQFpOOLY6IfAT3Je93f/4XF8SqqxFfVmzqdz5bxwcWQZje8xC1JUiVtqT1C70Ep8EWFDqdjohbQbeyWsOLojOksBqKIfG/L6SISycdTOQJ1LMtrRVi9mmv6R56oao2hd4k5ng/aoK872FAVmLnNUSlwOKRwEYSLa6+QnOIH9piGF/G0zifwYIJP5ar0QiaVt5g10/+GgA+04T598CGmCvCF/vGteHY/uq+itD5EPGVKWFA9S7YxL9HS5Z4aN+Qz3k44AkftS+6dB7V7TOrYPp8uVbnKgboq0HIaSS+PV2p+h0JOar9Y/fckeRP6HbUh8iFRSHPw/0rkwj3dMLiEiDepFLPQetQRvO1hbmd0wU2jKG1wH2oJqTV0=;iBby7naEkfYWhktVQMbmHg=="
 ---

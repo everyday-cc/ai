@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-22-technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market.md",
+      "title": "Technological Advancements in Machine Learning in Healthcare to Boost the World Market",
+      "excerpt": "Staying ahead in business is often about being the first; check the pulse of Machine Learning in Healthcare Market know what is hot and what’s going wrong in your industry is a key to success. Stay tuned with latest trends of Machine Learning in Healthcare Market with latest edition released by HTF MI.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "originalUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Machine-Learning-in-Healthcare.jpeg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
+      "publishedDateTime": "2021-09-22T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-healthcare-ai-startup-endimension-raises-inr-23-cr-seed-round-from-inflection-point-ventures.md",
       "title": "Healthcare AI Startup Endimension Raises INR 2.3 Cr Seed Round From Inflection Point Ventures",
       "excerpt": "The funds raised will be utilised to acquire talent for new product development, R&D and for boosting the sales team to fuel further growth",
@@ -1281,41 +1326,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-europe-natural-language-processing-in-healthcare-markett-competitive-strategies-share-regional-outlook-forecast-up-to-2028.md",
-      "title": "Europe Natural Language Processing in Healthcare Markett Competitive Strategies, Share, & Regional Outlook Forecast up to 2028",
-      "excerpt": "The report titled “Natural Language Processing in Healthcare Market 2021-2028” provides an exhaustive analysis of key market trends & dynamics along with market estimates & forecasts covering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI in Healthcare"
       ]

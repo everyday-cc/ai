@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-a
 webUrl: "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1285
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Artificial Intelligence (AI) Robots Industry\" -  AI also enables robots to establish communication with other robots and humans. For companies,"
-    publishedDateTime: 2021-10-08T13:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23297862/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23297862"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23297862"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "rkYqlcSZB1H7nisCXppEeHZhLT5omat3/ZZD9N6uPHWpFEeWIvezXt9no9NTBzlFd4bD0RZ3rwH5aUXcQyVhmVWON8B9BiulqhD0mW8nHsGDwXK40YOF2s5exvFFrKyx9WIGtAYT9p7+4F2CMDpbqgOlnMpinxOQNXJaKkT2IZhmkFnaB1Q4J6av6OeaZM5OhWFEDLEWzZ1ed/+N+LJkLp1GPOSr7TP1rLGF4GD5GBy3gFnp8wHJx/O8kM4sgnSA7MoSRr4txCl5tfyUPCNiPSBmSpjxoRY4fvW5rFt4gt4V5h74zeDyXuWcy0t/bNPv9/w8Ge3LswFnI5Yi8hpyUlR+kdv5gGI3HY7JgxDwY5NgNhjy/5xBRq02zFuRDcX5JBFQsW6uuWgUPH6nEavAZLNZXyom76aEFIcTHeYZzdl4KU7QHRt7/6WXJ2iVq92xseDhsva4Qgbd+kudpNSDfgTBTIJBLacj0S2HsYcAXhWi4DtWxTNNJ6tv6S8qh+gVE0XAubekzbSYirdLN6NVtg==;5ZoGliD9f8Qlm7+i2a/L/A=="
 ---

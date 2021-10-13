@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-08-europe-natural-language-processing-in-healthcare-markett-competitive-strategies-share-regional-outlook-forecast-up-to-2028.md",
+      "title": "Europe Natural Language Processing in Healthcare Markett Competitive Strategies, Share, & Regional Outlook Forecast up to 2028",
+      "excerpt": "The report titled “Natural Language Processing in Healthcare Market 2021-2028” provides an exhaustive analysis of key market trends & dynamics along with market estimates & forecasts covering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-destigmatization-through-digitization-abu-dhabis-mindtales-aims-to-promote-mental-health-wellness-with-its-artificial-intelligence-powered.md",
       "title": "Destigmatization Through Digitization: Abu Dhabi's MindTales Aims To Promote Mental Health Wellness With Its Artificial Intelligence-Powered Platform",
       "excerpt": "More than 70% of people with mental health issues across the globe are unable to receive the help they require due to a lack of access to therapy and counselling. And this explains the ...",
@@ -1351,61 +1386,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
-      "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
-      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
-      "publishedDateTime": "2021-08-21T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Computer Vision",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -1,31 +1,53 @@
 ---
 category: news
 title: "Extreme Networks Schedules First Quarter Fiscal 2022 Financial Results Conference Call"
-excerpt: "Extreme Networks, Inc. (NASDAQ:EXTR), a cloud-driven networking company, today announced plans to release financial results for"
-publishedDateTime: 2021-10-11T11:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23315202/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/n23315202/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
-ampWebUrl: "https://www.benzinga.com/amp/content/23315202"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23315202"
+excerpt: "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its first fiscal quarter, ended September 30, 2021. The company will announce before market open on Tuesday,"
+publishedDateTime: 2021-10-11T06:05:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20211011sf34338/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20211011sf34338/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
 type: article
-quality: 36
-heat: 36
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-    width: 1200
-    height: 600
-    isCached: true
+related:
+  - title: "Yandex to Announce Third Quarter 2021 Financial Results on October ..."
+    excerpt: "MOSCOW, RUSSIA and AMSTERDAM, NETHERLANDS / ACCESSWIRE / October 13, 2021 / Yandex (NASDAQ:YNDX)(MOEX:YNDX) today announced it will report its financial results for the quarter ended September 30, 2021,"
+    publishedDateTime: 2021-10-13T07:20:00Z
+    webUrl: "https://www.pr-inside.com/yandex-to-announce-third-quarter-2021-financial-results-on-october-r4850623.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "EQS-News: Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
+    excerpt: "Yandex to Announce Third Quarter 2021 Financial Results on October 27 th. Moscow and Amsterdam, the Netherlands, October 13, 2021 - Yandex (NASDAQ and MOEX: YNDX) today announced"
+    publishedDateTime: 2021-10-13T07:00:00Z
+    webUrl: "https://www.boersennews.de/nachrichten/artikel/eqs-news-yandex-to-announce-third-quarter-2021-financial-results-on-october-27th/3255081/"
+    type: article
+    provider:
+      name: Börsennews
+      domain: boersennews.de
+    quality: 19
+    images:
+      - url: "https://www.boersennews.de/images/social/og-image.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
 
-secured: "rRKz2nhW4MfJ64gFl4/tFfDXVRRlTe6XM6V4ehwfXTtMa4o2iCit2gxvg3T7Ve00gMGdrrck/exO73ujnSJTjlVZlpJl9NCqJSYtnzquVHf6Cs6xzJpzBLQF3E4JNH24ZlreIXq0CwgV9lG187Ga675fINC0rS7IN2+aVhB0XcZxV/aSCUMGLOXOyE40EFc4NgVHK1BsRqHCd7aTcFn0FvpecxKOPfv9hQniJfTC7uymiD7Wk9cKwTiR4z+9DspRMWlA/g/hJknYNvZ3VBsTgfTf7X7WrLc/QVsx5czmOvW0/OaqsPzbfO0ML3ewwB/vGNxPKAm2TAFqtw0L9PfI47A/1tdNI8SrfgPddNx2Y7c=;yA20pnQb14PuYDLj6OopIw=="
+secured: "grXgmoIjXEloKX4527UuB2n3pxQN2bcAH39aFVdG5WcY4luleQyVlC6xisXBFGUmyjnKBDvPw2LIU5JdTxVm+5NJW2AjatJCAXSnQkYXc2NcFZsVVCuU3EXZhaaUsj46DmMMy0fSxB1gUd287mAhcLnD3aT0h154cBWj0SzWdKdPXohsKHh9fSxQfdO9SSi9oHTkTLvCkP21Y+DkS2GxPxilj1Ze2DmVEZkzV0n1KQNH44MCQ4lF2i5as429rLvo550bsD64kxndfCw6ZqtEEBkAfXzM0shs/6DcBu2CPggyzkFelIwiRIlLem5ZdOYBrs7BEqD3FhFaXSRykP8OjbvpGpcDLywLr5zdj2lYbIY=;9qo8hfMByuUIBLT0NtaqHg=="
 ---
 

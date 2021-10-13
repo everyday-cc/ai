@@ -19,49 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "What made me want to fight for fair AI"
-    excerpt: "My life has always involved centering the voices of those historically marginalized in order to foster equitable communities. Growing up, I lived in a small suburb just outside of Cleveland, Ohio and I was fortunate enough to attend Laurel School, an all-girls school focused on encouraging young women"
-    publishedDateTime: 2021-10-08T15:00:00Z
-    webUrl: "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/"
-    ampWebUrl: "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/"
+  - title: "Counting down to our AI rapture"
+    excerpt: "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?"
+    publishedDateTime: 2021-10-09T17:06:00Z
+    webUrl: "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/"
+    ampWebUrl: "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ai_Speaker_sFyeasw.max-1300x1300.png"
-        width: 1300
-        height: 733
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Scientists want to use artificial intelligence to save Maine’s coast"
-    excerpt: "With artificial intelligence, forecasting ocean activity will be constantly improving in accuracy even as the climate changes."
-    publishedDateTime: 2021-10-13T05:00:00Z
-    webUrl: "https://bangordailynews.com/2021/10/13/homestead/scientists-want-to-use-artificial-intelligence-to-save-maines-coast/"
+  - title: "The EU Is Regulating Your AI. Five Ways To Prepare Now."
+    excerpt: "EU regulations of this type apply to all companies that seek to do business in the EU or with EU-based businesses or EU-based consumers."
+    publishedDateTime: 2021-10-10T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/10/red.tide1-kc-1.jpg?fit=2000%2C1307&#038;ssl=1"
-        width: 2000
-        height: 1307
-        isCached: true
-  - title: "Bill of Rights: The US wants to set the law for artificial intelligence"
-    excerpt: "Reports claim that the White House Office of Science and Technology Policy is developing law to guard against artificial intelligence — with input from"
-    publishedDateTime: 2021-10-12T11:49:00Z
-    webUrl: "https://techhq.com/2021/10/bill-of-rights-the-us-wants-to-set-the-law-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/10/063_1296738340-scaled.jpg"
-        width: 2560
-        height: 1708
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615e6368c32bb1fa05b71b54%2F0x0.jpg"
+        width: 512
+        height: 256
         isCached: true
 
 secured: "mIJKrAt2HM0wIHq9u7t3bg2qeFPFlaarbQ6P9c87Yh2egmUR5pGO5gyhVkTHuW93aDQUVIabh+YuGE+YaOs7Th+3E279lSgmKhrpTKOCdjLSLaLft8ZfEF48mNyqDBKTM47hUja+adVX3kquWTIfTWy8Ln1ntXaceM/nTfL3buTEpr6WjC2zCe7pcBG5qWXy8iiyvmvfO+bHWliyxfxHx2orYlJazCWFFAZZmDX//QDKAc/i3d40dI3MPMEablfIDI38bxKm0ubxY5LOj2fTPq152+0Psrft4MlFJizNdwLP4P0+0BYyNnjO4TKi/g7513iI8ssiIYbfiV9R1vxCf1JouRZye0Zi8xhmEJ0yMDQ=;Szr61GwqdiK1C6987s71MA=="

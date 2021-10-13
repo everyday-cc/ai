@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence, analyzing collected data, are able to do it. The technology has developed to that level,"
-    publishedDateTime: 2021-10-08T15:50:00Z
-    webUrl: "https://www.theintelligencer.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    ampWebUrl: "https://www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    cdnAmpWebUrl: "https://www-theintelligencer-com.cdn.ampproject.org/c/s/www.theintelligencer.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
+    publishedDateTime: 2021-10-08T16:50:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
     type: article
     provider:
-      name: Edwardsville Intelligencer
-      domain: theintelligencer.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 59
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

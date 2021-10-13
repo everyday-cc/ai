@@ -245,7 +245,7 @@
       "originalUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -837,6 +837,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth.md",
+      "title": "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth",
+      "excerpt": "Natural language processing service providers, vendors and other stakeholders Government bodies such as regulating authorities and policy makers Organizations, forums and alliances related to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-aiml-innovations-tech2heal-readies-its-remote-patient-monitoring-platform-for-deployment.md",
       "title": "AI/ML Innovations’ Tech2Heal Readies Its Remote Patient Monitoring Platform For Deployment",
       "excerpt": "Product roll out and pilot studies planned for the fourth quarter 2021 TORONTO, ON / ACCESSWIRE / September 28, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FSE:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
@@ -1339,51 +1383,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market.md",
-      "title": "Technological Advancements in Machine Learning in Healthcare to Boost the World Market",
-      "excerpt": "Staying ahead in business is often about being the first; check the pulse of Machine Learning in Healthcare Market know what is hot and what’s going wrong in your industry is a key to success. Stay tuned with latest trends of Machine Learning in Healthcare Market with latest edition released by HTF MI.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
-      "originalUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Machine-Learning-in-Healthcare.jpeg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market/",
-      "publishedDateTime": "2021-09-22T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

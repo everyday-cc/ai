@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -116,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -1024,6 +1024,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth.md",
+      "title": "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth",
+      "excerpt": "Natural language processing service providers, vendors and other stakeholders Government bodies such as regulating authorities and policy makers Organizations, forums and alliances related to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to/article_0bb320a9-d5fc-5eff-9baf-7e84e9c7fd4f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia-pacific-region.md",
       "title": "Speech Processing Solutions (SPS) becomes a Nuance Dragon Medical One Distributor in Europe and Asia Pacific Region",
       "excerpt": "Speech Processing Solutions (SPS), a leader in professional dictation, has announced they are joining forces with Nuance Communications as an official distributor of Nuance Dragon Medical One, the leading cloud-based speech recognition solution for clinical documentation,",
@@ -1099,6 +1143,110 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030.md",
+      "title": "Natural Language Processing Market Size, Share, Growth, Revenue, CAGR Status, Industry Analysis, Revenue Expectation to 2021-2030",
+      "excerpt": "Sep 27, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing Market for 2021 till 2030. Report further now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-revenue-cagr-status-industry-analysis-revenue-expectation-to-2021-2030-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-26T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030.md",
+      "title": "Natural Language Processing (NLP) Market Share, Growth, Size, Regional Overview, Leading Company Analysis and Key Country Forecast to 2021-2030",
+      "excerpt": "Sep 27, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing (NLP) Market for 2021 till 2030. Report further now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-26T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1300,145 +1448,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-the-impact-of-conversational-ai-on-critical-services.md",
-      "title": "The impact of conversational AI on critical services",
-      "excerpt": "AI could also be a game-changing communication tool for critical service providers. How? By empowering customer service departments",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "originalUrl": "https://www.itproportal.com/features/the-impact-of-conversational-ai-on-critical-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-impact-of-conversational-ai-on-critical-services/",
-      "publishedDateTime": "2021-09-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
-      "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
-      "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png",
-          "width": 1284,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
-      "publishedDateTime": "2021-09-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids.md",
-      "title": "Former Head of LEGO Ventures Joins Fast-Growing Developer of Speech Recognition Technology for Kids",
-      "excerpt": "SoapBox Labs, pioneering developer of safe, secure, and accurate speech recognition technology for children, today announced the appointment",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-301383497.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/former-head-of-lego-ventures-joins-fast-growing-developer-of-speech-recognition-technology-for-kids-301383497.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1517650/SoapBox_Labs_Logo.jpg?p=facebook",
-          "width": 2000,
-          "height": 1047,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

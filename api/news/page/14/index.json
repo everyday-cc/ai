@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-09-30-fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets.md",
+      "title": "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets",
+      "excerpt": "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "publishedDateTime": "2021-09-30T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-google-develops-ai-that-can-accurately-predict-if-it-will-rain-in-the-next-90.md",
+      "title": "Google develops AI that can accurately predict if it will rain in the next 90 ...",
+      "excerpt": "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the",
+      "sourceUrl": null,
+      "webUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "originalUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en.mogaznews.com/temp/resized/medium_2021-09-30-5807097d22.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.mogaznews.com/Technology/amp/1838298",
+      "cdnAmpWebUrl": "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1838298",
+      "publishedDateTime": "2021-09-30T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "en.mogaznews.com",
+        "domain": "mogaznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-decided-to-adopt-ai-four-questions-to-consider-before-you-start.md",
       "title": "Decided To Adopt AI? Four Questions To Consider Before You Start",
       "excerpt": "In order to better understand what pitfalls to expect when adopting AI for business processes and how to avoid them, here are a few key questions whose answers should help you successfully start your AI project: 1.",
@@ -1093,109 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-how-ai-is-making-information-more-useful.md",
-      "title": "How AI is making information more useful",
-      "excerpt": "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
-      "originalUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry.md",
-      "title": "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry",
-      "excerpt": "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61549f1ba14eafa27698887b%2F0x0.jpg",
-          "width": 1200,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
-      "publishedDateTime": "2021-09-29T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
