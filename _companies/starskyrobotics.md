@@ -2,7 +2,7 @@
 name: "Starsky Robotics"
 overview: "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families."
 type: "profile"
-heat: 41
+heat: 42
 
 website: http://starskyrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarskyRobotics"
   url: "https://twitter.com/StarskyRobotics"
-  followers: 925
+  followers: 924
 
 size: 11-50 employees
 locations:
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-fjy3iaiWFw"
 
-secured: "MT336tlEcM8KTaeVcS3jGmf8HaRv+g3RjEfJtXb8omkn6Wr1S7lm8ZqaxB+rkkbwvADQAcNwWP4hGpQothW6H/7Kw0y7Dq+HsLCCapLcos9GS4muxPu0cvt6Q1JzMorgzAMAhTxFvaL5m2xOSKG++6OOIeWnheWoKWvsArSHHlI5jUXFra0lwub/xtHhFRjBaep3oNSC0mOvWvv7LSxy7ea6xjhhM69AP/C48MRS3dtlTjPTYqmIYOIrwUjXlYBwmAluPpeUfBHgGJUukQMWEoQ4H1/gowEBAkLAScDIOT2Ws1GpfZTkHcK1Jtb/Jgw5mHeMzKCp0cJ4iVIbSeZgWNDCUtbV6ZgVRfSskAVbLv4TLR18b1auM1ovsA0ENsLkAISlHuykGNHHnndTXRQ0uA==;R+VAvytwK9HlGpyK9AZ5BA=="
+secured: "hzA5NjuKvTX5zYSKAErPdJ4BKiVJu3QnNXHFdRu22eqYV2IWT45tnA73xKlOauuWcU/AZeo3K3RNe0ZqsmZJK5K+da/GFh0Qp/v3LxvbHdHhIDK+jkxx8Ls07cV4mtH3DIcnlxdfxJOHNGAP7AGJZrfTPP1ET9sOCs/PZIkm4PI+Q4rfeywdk3OrOpmp2BD3j0rZayC7DxcaVTqUX+jj12haUI5Z/xqp7dRDTuBcwosdx/KNSNR2o90DrbClbaaYCXGJhxrKlpHD9k+a7dK5iBie94/OT1yAZubXOO3sQi0m6UXvZ1Gtb6rCaXaseYHiPyBmkIJbtwaUAfG4RK6YSnbtVZgLUKse1KRiaJ1vuJs4ZK/IEST8bwCPVU9s3Z9Sy763NecLd9TglbCRvLOY9g==;TWoUhNlOqZtux5yOnv20lw=="
 ---
 
