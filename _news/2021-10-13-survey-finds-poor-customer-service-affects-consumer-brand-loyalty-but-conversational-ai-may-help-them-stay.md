@@ -2,25 +2,26 @@
 category: news
 title: "Survey finds poor customer service affects consumer brand loyalty, but conversational AI may help them stay"
 excerpt: "Poor customer service is pervasive. A recent survey from Replicant, a provider of AI-enabled automated customer contact centers, found that 91% of consumers report they have experienced poor customer service in the last six months."
-publishedDateTime: 2021-10-13T13:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-survey-finds-poor-customer-service-affects-consumer-brand-/2021/10/13/9468735.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-survey-finds-poor-customer-service-affects-consumer-brand-/2021/10/13/9468735.htm"
+publishedDateTime: 2021-10-13T13:16:00Z
+originalUrl: "https://www.lelezard.com/en/news-20044311.html"
+webUrl: "https://www.lelezard.com/en/news-20044311.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1658888/Primary_Dark_Logo_2x__1_Logo.jpg"
-    width: 1131
-    height: 400
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -62,6 +63,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "mKRXTbVrURFpts/ClFQ4lhswLBooUTeGhJsdmYdA1FwdN8zLTpIfU3gyiMDtgfhQAZLGQF8cz68qtQAlMFApHKJcY1xdBf7QUjRa/AVnd4UZB9hEDvPnhd8hTqUlEgPxgfL6sjl/uLGIq3ngdAM8bXmIH1z9QC7h89Q8FjH8F8vVVCCzH4H5Ny5Rxnij3r/PdIZI1jeguxji7hXr3v4IgZeZO3+2JaQkRPZdHMh3abANjmtupR0SmRqEc+YA9SvNUMeq7X/X75eZPvbiP0RgllE0vKJZ26AAu5xEYOfSFjTQeT0JComf2fvZhZOrmq3nAafcce2niZPYIKPfpqAs8naA5zvXbJ3f3DoWi2TpOEU=;cRhDOONEJOr6mjMJQFrIrQ=="
+secured: "diPyRPPxJ/OIHd8HHEQx4Ti93oLLhiB/ByuONfXaAADzUnEe1HZbaazfggnOy0jadf76GeIl98YC1aawW4ON9zdKRkTyy/Bxxyq7xEoFmboliSKEazcfL/Va40PUxf7+CLq2htDdiZnjdGMm0sXszIztruS3LQbB4ZqCbHOOdePE493DCi12deHUw0Dixm/sNukKOh5nOtOgqcXCz8DeycfLc6HdcBKe6zGxHjv966b+MVFoUKLeWn/EIEWu8tMbEfV4NB7yRTYhmSwZeGbdwq43h0NOGk2Pvq7kumPLgluxNSJZcOG27S/+KL2EoBAKKM0j8luPCwbvZx+u9QMtN2fHlmp5VZE7mIErVDQpz08=;AOMr6IcdbT48iCrP8aMfdA=="
 ---
 

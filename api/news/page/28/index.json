@@ -2,6 +2,152 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-09-21-siemens-energy-launches-ai-solution-to-fight-industrial-cybercrime.md",
+      "title": "Siemens Energy launches AI solution to fight industrial cybercrime",
+      "excerpt": "Siemens Energy has launched a new solution for monitoring and responding to cyberthreats against the Industrial Internet of Things (IIoT). The industrial sector is undergoing a rapid shift from legacy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
+      "originalUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/forumsiocusssions/my-pc-has-framedropknow-whublic.com/index.php/google-amp/article/siemens-launches-ai-solution-to-fight-industrial-cybercrime/",
+      "publishedDateTime": "2021-09-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028.md",
+      "title": "Speech and Voice Recognition Market Size, Industry Share, Total Revenue Growth Rate by Key Players Forecast Till 2028",
+      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-industry-share-total-revenue-growth-rate-by-key-players-forecast-till-2028-2021-09-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-blackbirdai-grabs-10m-to-help-brands-counter-disinformation.md",
+      "title": "Blackbird.AI grabs $10M to help brands counter disinformation",
+      "excerpt": "New York-based Blackbird.AI has closed a $10 million Series A as it prepares to launched the next version of its disinformation intelligence platform this fall. The Series A is led by Dorilton Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/26400512912_b3ff16ccf0_k.jpg?w=1024",
+          "width": 1024,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "publishedDateTime": "2021-09-21T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate.md",
       "title": "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate",
       "excerpt": "Facebook also claims that the research they have found does not demonstrate that the mental health issues are “widespread,” and that many of those issues are not “easy to address.” Artificial intelligence is taking over real estate – here’s ...",
@@ -1078,153 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars.md",
-      "title": "Ordinary Lowly Lampposts Aiming To Stand Tall For Bolstering AI Self-Driving Cars",
-      "excerpt": "Lampposts can do a lot more than merely provide light for our roadways, and efforts are underway to leverage lampposts for the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6094766e8d7cd811a0ed5a8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1893%26cropY1%3D95%26cropY2%3D1160",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/20/ordinary-lowly-lampposts-aiming-to-stand-tall-for-bolstering-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-step-into-a-successful-career-with-artificial-intelligence-machine-learning.md",
-      "title": "Step into a successful career with Artificial Intelligence & Machine Learning",
-      "excerpt": "Advanced technologies are in demand in every industry, thus upgrading oneself with new techno-friendly environment would be appreciable. It is opening a new path for technology career seekers in the Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/9/2021_9$largeimg_1807833861.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/step-into-a-successful-career-with-artificial-intelligence-machine-learning-313818",
-      "publishedDateTime": "2021-09-20T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-20-beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle.md",
-      "title": "Beef up your knowledge on AI and machine learning with this expert-led bundle",
-      "excerpt": "This AI machine learning bundle includes 79 hours of content on deep learning, machine learning, python in addition to other development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "originalUrl": "https://thenextweb.com/news/beef-up-your-knowledge-on-ai-and-machine-learning-with-this-expert-led-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2FTNW-AI-Super-Bundle.jpeg&signature=812ae6959c43ac5f7abad714f7095389",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

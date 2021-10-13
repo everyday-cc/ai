@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
+      "title": "Fruitcore Robotics closes $20M Series A",
+      "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
+      "originalUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/fruitcore-robotics-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
+      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
+      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
+      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPLC",
+        "domain": "kplctv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
       "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
       "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
@@ -1084,83 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
-      "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
-      "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
-      "originalUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/as-insurers-invest-in-robotics-lever-up-on-ubot-2021-10-04?amp",
-      "publishedDateTime": "2021-10-04T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-bot-framework-composer-video-series-with-ayca-bas-and-bob-german.md",
-      "title": "Bot Framework Composer Video series with Ayça Baş and Bob German",
-      "excerpt": "Ayca and Bob return to the show to talk about a new video series that discusses the Who's Online bot created using Bot Framework Composer and Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
-      "originalUrl": "https://www.audible.com/pd/Bot-Framework-Composer-Video-series-with-Ayca-Ba-and-Bob-German-Podcast/B09HSJ98ZK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41jMG3+T0hL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C41jMG3+T0hL.jpg%7C0,0,1200,630+107,79,402,402_PJAdblSocialShare-Gradientoverlay-smallasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,576,270_OU01_ZBLISTENING%20ON,593,216,52,500,AudibleSansMd,30,255,255,255_PJAdblSocialShare-PodcastIcon-Small,TopLeft,1094,50_ZBBot%20Framework%20Composer%20...,106,519,48,404,AudibleSansMd,24,255,255,255.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
+    excerpt: "Yandex (MOEX:YNDX) today announced it will report its financial results for the quarter ended September 30, 2021, on Wednesday, October 27, 2021. On that day, management will hold a conference call and webcast at 8:00 a."
+    publishedDateTime: 2021-10-13T08:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043219.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
+        isCached: true
   - title: "Yandex to Announce Third Quarter 2021 Financial Results on October ..."
     excerpt: "MOSCOW, RUSSIA and AMSTERDAM, NETHERLANDS / ACCESSWIRE / October 13, 2021 / Yandex (NASDAQ:YNDX)(MOEX:YNDX) today announced it will report its financial results for the quarter ended September 30, 2021,"
     publishedDateTime: 2021-10-13T07:20:00Z

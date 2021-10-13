@@ -35,7 +35,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
         width: 1024

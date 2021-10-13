@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-10-13T10:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-20043451.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 40
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
     publishedDateTime: 2021-10-11T13:28:00Z
@@ -55,6 +41,20 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua11553029_g.jpg"
         width: 626
         height: 333
+        isCached: true
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:47:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=545944"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 38
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
     excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"

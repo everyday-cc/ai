@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
-    excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights\" to guard against powerful new artificial intelligence technology. The White House's Office of Science and Technology Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
-    publishedDateTime: 2021-10-08T21:48:00Z
-    webUrl: "https://apnews.com/article/joe-biden-science-technology-business-biometrics-b9dbf5fee3bf0e407b988b31e21f5300"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/b391a4af79a44970802d27dea6418bda/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Bill of Rights: The US wants to set the law for artificial intelligence"
     excerpt: "Reports claim that the White House Office of Science and Technology Policy is developing law to guard against artificial intelligence — with input from"
     publishedDateTime: 2021-10-12T11:49:00Z

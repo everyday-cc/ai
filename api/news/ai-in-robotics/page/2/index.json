@@ -590,59 +590,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-03-the-7-biggest-artificial-intelligence-ai-trends-in-2022.md",
-      "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
-      "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
-      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0c0tNZYneuA/article-cover_image-shrink_600_2000/0/1633266750161?e=1639612800&v=beta&t=G0BnfutTKQvYpx4BZEYpv4a9ROj2ZpqX6XfRcav0tFk",
-          "width": 1290,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-03T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
       "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
       "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
@@ -1369,6 +1316,49 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-graymatter-robotics-raises-41m-seed-round.md",
+      "title": "GrayMatter Robotics Raises $4.1M Seed Round",
+      "excerpt": "GrayMatter Robotics, creator of smart robotic assistants that help humans more safely and effectively do surface treatment tasks such as sanding and spraying",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/graymatter-robotics-raises-4-1m-seed-round/article_a8e198ac-36c0-5cea-b558-988632b8412f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

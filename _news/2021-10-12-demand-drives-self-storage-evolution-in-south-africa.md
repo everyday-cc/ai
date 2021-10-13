@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence suggests a new narrative for the Out of Africa process"
-    excerpt: "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the “Out of Africa” scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought."
-    publishedDateTime: 2021-10-08T22:07:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/930860"
+  - title: "South African Entrepreneur Launches AI Solution Designed For Breast Cancer Identification"
+    excerpt: "Breast cancer remains the highest rate of mortality in South African women and those living in rural areas face multiple barriers in screening."
+    publishedDateTime: 2021-10-10T09:49:00Z
+    webUrl: "https://iafrica.com/south-african-entrepreneur-launches-ai-solution-designed-for-breast-cancer-identification/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
+      name: iafrica.com
+      domain: iafrica.com
+    quality: 28
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5b2fca3-9ae2-4513-91e2-df16a526fd85/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 299
+      - url: "https://iafrica.com/wp-content/uploads/2021/10/Kathryn-Malherbe.jpg"
+        width: 453
+        height: 392
         isCached: true
 
 secured: "DEu2gWRtFoaJDcSGYwwAEXQ5g8nwXkmLQh1826Ltn2p4ods7HF0woLJqmlISgdWzkPnTey6AcMpLR9doXcButLQL5/KBs4gLFwFSqEveKrbtcDqDUvkfGNHTV5KVstildKTMTB0EBw5iXoxP4ONXwInxpmKZXftk5pi/e+rJT0Y69MHN3CQN73acwQHu2LtQ479HCElQxGNqfam/HB2gHmjIJg/6E0kMDfQFnayTGmdjESNfw+GhN+KWKOuu85Qd+OKjKoBXnCpvNTM4FadmM0g6gnQ8FTjN/PuLjNU16P4DStE+OKilyzt66ONW9PZbwjTmgorU+qSPZkZoDwbLfg0NgFeJpCCN3cT1EUI4Mmc=;uxmzSXBrNL7Rn+N77V24DQ=="

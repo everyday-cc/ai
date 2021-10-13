@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467508.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467508.htm"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Supermicro Expands GPU System Portfolio for AI, HPC, Cloud Workloads"
+    excerpt: "Supermicro has announced new systems based on NVIDIA Ampere architecture GPUs and 3rd Gen Intel Xeon Scalable processors with built-in AI accelerators (Supermicro X12 series). These servers are designed for demanding AI applications where low latency and high application performance are essential."
+    publishedDateTime: 2021-10-13T14:23:00Z
+    webUrl: "https://insidehpc.com/2021/10/supermicro-expands-gpu-system-portfolio-for-ai-hpc-cloud-workloads/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
     excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing"
     publishedDateTime: 2021-10-12T22:35:00Z

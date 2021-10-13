@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all"

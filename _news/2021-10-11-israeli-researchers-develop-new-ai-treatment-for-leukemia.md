@@ -70,6 +70,15 @@ related:
         width: 1600
         height: 1059
         isCached: true
+  - title: "Attention-based deep neural network increases detection capability in sonar systems"
+    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. Researchers now explore an attention-based deep neural network to tackle this problem."
+    publishedDateTime: 2021-10-13T14:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
 
 secured: "deYZeui5ZTTzjukEgtsvUpgEC0NZDPfcZ5s9CAZOhPa6y5cSrl7M4AHP6KEFYEg7HhREwR3uwZbC0q9oVUsQX03zz4YslN8I03L9TH0t9FkIgF3tTZTg3rF4SQamNFSb/FeqiV/3DYIJDxgYl0tlBcQiig/gQ76R3ukqZgoH3Kur0lq6sfqIwPONkljgo4oxF/oDDEqgD6tjRz+dLOWYVUKP/94Z4M/+G9hsfGHWb3+xQ78YEUr9sQYynVGChiJmCz+ytBkTmnwkJFDsxPlJr8WwrOgHjCE3qWlBCla5BWjGEzWxs5AEr27H5o4iQVGsXk3W1QS3PiF02zkFUUGSQrYRe2o0GMPYolTz2SCxav4=;GnAEy13KhYrpC+5uqw/Icw=="
 ---

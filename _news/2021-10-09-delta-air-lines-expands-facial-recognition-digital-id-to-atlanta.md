@@ -9,7 +9,7 @@ ampWebUrl: "https://simpleflying.com/delta-facial-recognition-atlanta/amp/"
 cdnAmpWebUrl: "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Delta to expand facial recognition at Atlanta airport"
-    excerpt: "Delta Air Lines plans to soon begin using facial recognition in the domestic terminal at Hartsfield-Jackson Atlanta International Airport, allowing passengers who qualify to go through security and board their flights without showing identification or boarding passes."
-    publishedDateTime: 2021-10-08T21:50:00Z
-    webUrl: "https://www.timesfreepress.com/news/business/story/2021/oct/08/deltexpand-facial-recognitiatlantairport/555693/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 54
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2021/04/22/1619121052_Hartsfield_planes_071805_hr--1-_gs_t1070_h1232738d68446476565c200b8eb542ae20d6109b.jpg"
-        width: 1070
-        height: 583
-        isCached: true
 
 secured: "OWXwSztiZxANJHBvdiG3cPtudB8ZU2QxeNzL95ZQE+WPq3lDcNFpHXsB2rqfvFl4EjHzjdnb+OSrnDOlDzlZEcTV0TW3q8vOdpOlLpqtyLlbX/cvzY+wqSsah+Vs5DoQQyGiC2So/HcIq4dX4h7c17Rezr18AfpYeFdBztO9mvj5rRgwna3V0IhC7I2fAwj+pRsSdREUF9kTQwR7Iq5iV6QLUeNXP9O8OccoC8OrxA/oUtZf/nl2Vo90jLrWmpWZkxCGSjBkCaVksjhP/ljPnrP9s9cEy+WdJBR33VpIR+bUmxNNWeQdC4IFCUCxkJ8sMtJtvItt7IZ0yi6eKXjtwe6B0yt/+yHJ143WBUIxAauKh3d7IrJHtmXIh6tN5m4jirk1rGEKgJcSSHt09l1kOaggCFLz0WIqaY6S0hGAlXHZPCuQ4e4Du92ZBMEEZ/NPF2XV9UeN775jzxWhthFVkXEyekfD0D/hLFQxXXGqBZub+5BYtjBe3OvTQXpQP5H4gJSdlo7RaJLzoHUJ/KDVzQ==;6o/t5yHXr+8JtfUU0n+DLA=="
 ---

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-30-samsung-will-create-chips-for-teslas-next-gen-self-driving-computer.md",
-      "title": "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer",
-      "excerpt": "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/",
-      "originalUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/09/Samsung-Tesla-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/09/samsung-will-create-chips-for-teslas-next-gen-self-driving-computer/amp/",
-      "publishedDateTime": "2021-09-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-teslas-full-self-driving-feature-could-be-days-away-for-approved-drivers.md",
       "title": "Tesla's 'full self-driving' feature could be days away for approved drivers",
       "excerpt": "A wider group of Tesla owners who paid up to $10,000 for what the company calls its \"full self-driving\" software can now ask the automaker for access to a test",
@@ -1375,6 +1332,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-21-tech-and-transport-a-match-made-in-heaven.md",
+      "title": "Tech and transport, a match made in heaven",
+      "excerpt": "Artificial Intelligence, machine learning, IoT (internet of things) and data analytics help logistics service providers get access to milestone-based tracking, which enables them to view the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/tech-transport-match-made-heaven/",
+      "originalUrl": "https://www.ciol.com/tech-transport-match-made-heaven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/tech-transport-match-made-heaven/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/tech-transport-match-made-heaven/amp/",
+      "publishedDateTime": "2021-09-20T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

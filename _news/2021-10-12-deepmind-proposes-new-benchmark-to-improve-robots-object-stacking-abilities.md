@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1198
     height: 670
     isCached: true
+
+related:
+  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
+    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
+    publishedDateTime: 2021-10-12T13:20:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "7H0iZ6aZfMw6mLrbK4UuSPeoJ/+/Lgxwgv38VNAoB2eYTzHPKpehePCo+yT0BzqwrXIxVE48nbUUJyxjvOrbH/whT+j2AfK9AKnnXq7oAVaYXm3hLW2CYhzs+BCVVEYU2AgdaNT+6doT+obZYgsmu9H4JQq8qMMTVY0kxh+HYFwXmd0olk5PW6FqPsfSMvQErwJXMIjD4ADOcJ9NbakJod1HgU6vrFlU/Iexe0lYrxf3fdPtlVomA9mnRJwbaSHyAsjtRkV8HW/rlcLiXP8+d7PuQiWBwzFnYA1tVs2WAUJDetOpA8++xRUBzp3tGhH0D+mYhcFOk9+xo5x/Ub1eAQa81tzN40pKJtiDNZjTxa58CkBQwgDSof/7JNx03PN4gM1wV9JztjJytauaJG2XlEn2b4x3ciSsn+MDPYZpxmHnz0ePoMU6UPb0vcxQvhyx13WeZR0CVxCLEEZdd5LWdK7dl5nBdyEjgy7WTugzePkPmUZG4KCBvvuu+8xupK3lN0GyPZoFNDzzspO/0rwkNw==;/2MG5M4sahutlzOksgpjBw=="
 ---

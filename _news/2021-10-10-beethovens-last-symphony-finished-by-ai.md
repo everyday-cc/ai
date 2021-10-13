@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finish
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How AI helped complete Beethoven’s unfinished 10th Symphony"
-    excerpt: "For the nearly two centuries since Ludwig van Beethoven's death, his 10th Symphony has sat unfinished and largely untouched. All the German composer left behind were a few sketches. But with a little help from modern technology,"
-    publishedDateTime: 2021-10-08T21:17:00Z
-    webUrl: "https://www.pri.org/file/2021-10-08/how-ai-helped-complete-beethoven-s-unfinished-10th-symphony"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
         isCached: true
   - title: "Artificial Intelligence helps complete Beethoven Symphony"
     excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."

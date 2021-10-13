@@ -22,12 +22,12 @@ related:
   - title: "Fraud.net wins Platinum Juniper Research Award for Fintech Innovation, AI Platform of the Year"
     excerpt: "Fraud.net, a leading fraud prevention and risk management platform, is proud to announce that it has won the 2021 Platinum Juniper Research Future Digital Award for \"AI Platform of the Year\" in Fintech Innovation."
     publishedDateTime: 2021-10-13T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/13/9468824.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-fraudnet-wins-platinum-juniper-research-award-fintech-innovation-/2021/10/13/9468824.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://mma.prnewswire.com/media/1658863/Fraud_net_FutureDigitalAwards2021.jpg"
         width: 766

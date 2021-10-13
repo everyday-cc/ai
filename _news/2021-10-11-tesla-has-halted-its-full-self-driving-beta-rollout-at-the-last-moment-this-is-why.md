@@ -210,6 +210,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Tesla Faces Regulatory Tension Over Self-Driving Builds. The Market Doesn’t Care."
+    excerpt: "U.S. automotive-safety regulators want some answers from Tesla over its recall practices. It’s another example of the tension building between Tesla and the traditional auto industry as cars become smarter and start to drive themselves."
+    publishedDateTime: 2021-10-13T14:24:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51634135014"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-416197/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla: ‘full self-driving’ is self-defeating hype"
     excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-10-11T15:56:00Z

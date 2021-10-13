@@ -42,20 +42,6 @@ related:
         width: 724
         height: 543
         isCached: true
-  - title: "How AI helped complete Beethoven’s unfinished 10th Symphony"
-    excerpt: "For the nearly two centuries since Ludwig van Beethoven's death, his 10th Symphony has sat unfinished and largely untouched. All the German composer left behind were a few sketches. But with a little help from modern technology,"
-    publishedDateTime: 2021-10-08T21:17:00Z
-    webUrl: "https://www.pri.org/file/2021-10-08/how-ai-helped-complete-beethoven-s-unfinished-10th-symphony"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
-        isCached: true
   - title: "Artificial Intelligence helps complete Beethoven Symphony"
     excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
     publishedDateTime: 2021-10-13T09:42:00Z
