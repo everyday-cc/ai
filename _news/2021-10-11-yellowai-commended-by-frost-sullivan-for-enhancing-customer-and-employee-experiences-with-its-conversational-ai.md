@@ -33,6 +33,20 @@ related:
         width: 2001
         height: 1007
         isCached: true
+  - title: "Survey finds poor customer service affects consumer brand loyalty, but conversational AI may help them stay"
+    excerpt: "Poor customer service is pervasive. A recent survey from Replicant, a provider of AI-enabled automated customer contact centers, found that 91% of consumers report they have experienced poor customer service in the last six months."
+    publishedDateTime: 2021-10-13T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-survey-finds-poor-customer-service-affects-consumer-brand-/2021/10/13/9468735.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1658888/Primary_Dark_Logo_2x__1_Logo.jpg"
+        width: 1131
+        height: 400
+        isCached: true
   - title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with Its Conversational AI"
     excerpt: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with Its Conversational AI Yellow.ai's platform offe"
     publishedDateTime: 2021-10-12T12:42:00Z

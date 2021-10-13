@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-cras
 webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Deep learning helps to predict traffic crashes before they happen"
+    excerpt: "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,"
+    publishedDateTime: 2021-10-13T13:30:00Z
+    webUrl: "https://techxplore.com/news/2021-10-deep-traffic.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-deep-traffic.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "AGpfbcAq2D6FrN7t2crv0eE96zl11baqM69dhYX/j49lszTmNMKWGE8Iw7gGuK2HTzgAetG8v4bEVfBqFtUJXKrxiP0LRaNoSFx3TLuCIVTU5Ckb/YyugCJrL585UaS8/UeGGvKDvrjF1itQijsk29PpZQLWGuhE5efT5EonIU2BF1OVpMkIBMvGz6r+5nB7654dts7RNtyuJx97EU0yxhmsBLRqX4IuCRhrtiYhNyAkTb3kc09CHKhXHUme3drlf1VeucoKnmIIjzLNS0ojoRn8So+MJFR/Mh88q/DkGCeLL1Irc7A876FI6ujjcWY7CzLCdaawMoTivj6kZwOt/1gVKYCjzctXLIukAIfQob8=;z/czGxNCrFCqXQ+jcpR1Tg=="
 ---

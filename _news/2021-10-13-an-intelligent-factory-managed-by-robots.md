@@ -9,7 +9,7 @@ ampWebUrl: "https://worldindustrialreporter.com/an-intelligent-factory-managed-b
 cdnAmpWebUrl: "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
-    publishedDateTime: 2021-10-08T20:42:00Z
-    webUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-    ampWebUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "dV/kEC/OrTOU4eT0mAOtS3cf8rb3FXpGmKxDphkecPUKUpsaAqPi2pBFdxAI03S4K0ssuCoJP1gkfPWd1V6GumaICViAd+WRSyamV4QVL5ofrnh/TJvQVZ4/flPWkx+Y8aTSNysfeoHAP+EKyXFz7JMipX67pVlz4iJUkKdeq79WEcKtmDf35IBXkniJnOaC8UPxP52290J1VAtpyX791+srwnwSe4zMHwXULYvmdvu6nshAmxRiykfn2U6xrUwHU8kxUTSrRJG04SW4UQz+J3q3fYvAinwJpO0dqiVWEnes4vBjYRaLulHovmQrc1YR9Eoo0yzFAawI9uz505tssXWj39+F+Jwe5tGdt9EAFgwE0tFdxDwyir8kIOW9zMOyJ4SS0agb3gLx3bCydO65PnDU5pJFKfIfKzY5CVjd8a3C2j2VDzSRdo/5RgtaSarC0hpWB+U/74j0iaePWhmEpK4UN+hOqYNjclVfpJ6zqaxZuz1+ZlKJ180MWLeuqgkMMM1CEmCUTQ1tDsCv2FyYOg==;iyTR9Vxob35jxKmv8IEdFg=="
 ---

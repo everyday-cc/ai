@@ -26,61 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Intel imparts training in AI to over 2 lakh students in India"
-    excerpt: "As of today, the company has already trained over 2 lakh students between 8th standard and 12th standard in AI and has upskilled 5,000 government officials. “In July this year, Intel launched ‘AI for All’ programme with a target of enabling over one million citizens with knowledge and know-how of AI,"
-    publishedDateTime: 2021-10-10T12:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
+  - title: "Why AI And Human Intelligence Must Work Together In Medicine"
+    excerpt: "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care."
+    publishedDateTime: 2021-10-13T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.thehindubusinessline.com/companies/60pd5t/article36927597.ece/ALTERNATES/LANDSCAPE_615/Nivruti-Rai"
-        width: 615
-        height: 384
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165945d620e135d8e246734%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Purdue study: Indiana lagging behind in AI, data techg"
-    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
-    publishedDateTime: 2021-10-11T02:07:00Z
-    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+  - title: "Sorry AI - The Brain Is Still The Best Inference Machine Out There"
+    excerpt: "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain."
+    publishedDateTime: 2021-10-13T00:27:00Z
+    webUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/"
+    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
     type: article
     provider:
-      name: Tribune Star
-      domain: tribstar.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
-        width: 660
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Purdue study: Indiana lagging behind in AI, data tech"
-    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
-    publishedDateTime: 2021-10-11T02:07:00Z
-    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-tech/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
+    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
+    publishedDateTime: 2021-10-10T06:42:00Z
+    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
     type: article
     provider:
-      name: Tribune Star
-      domain: tribstar.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
-        width: 660
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
+        width: 375
+        height: 250
         isCached: true
-  - title: "NITI Aayog, AWS, and Intel collaborate to accelerate digital innovation in India"
-    excerpt: "New Experience Studio at the NITI Aayog Cloud Innovation Centre to be hub for collaboration and experimentation."
-    publishedDateTime: 2021-10-10T10:35:00Z
-    webUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india"
-    ampWebUrl: "https://www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
-    cdnAmpWebUrl: "https://www-manufacturingtodayindia-com.cdn.ampproject.org/c/s/www.manufacturingtodayindia.com/sectors/11672-niti-aayog-aws-and-intel-collaborate-to-accelerate-digital-innovation-in-india?amp"
+  - title: "Embracing AI in the World of Auto Insurance"
+    excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
+    publishedDateTime: 2021-10-10T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/10/10/embracing-ai-in-the-world-of-auto-insurance/"
     type: article
     provider:
-      name: manufacturingtodayindia
-      domain: manufacturingtodayindia.com
-    quality: 34
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "gpzAQea8LDb2+P6OSTBc7tnK2wfPuVWIIqByj3ez3/yZmWM5bxfrQNs/is3a7hILVtoKF4hWZdU9zVMTXMgvABczoMmzlwZ+IP3tPMjb28sBQEnp50Ue3Do3gzgtjrf8I+gRDOPqV2pFN07uePgnBJ6AZIDFovGPA6kMIDSNOoBt/ArDxQq6I1zzUwPkl/0+cDpqf8FIdUJuNWl32QDwcVHsG7ERsIJHut5xPHDInekL+vciiRVQYTUi11AoGgmX/eAJhgWXFIDkftibCQ1pDFyAXSztetTmffZkAb8qI6pYczWSDfNW9coq6RLstAgVZJ4WudZzeKv11r6nGXvrABUCdE0yjt9dQUbFZ6lJfiOizVG1sHcbPUICueAqeIQMbpMe9bosk3xe7imO3dO+dUs9xQM1vxkRc/a/RvYDv3+o1C2+/ijnRHpMa+mgMSsOdClngvwMVdgjyCVs9mmGs4Qnic/4R+iB6tl1qXDOjET91mW61MoIXB+eb9OdlLQk4ERirLUmwc33TMY0mG8qtA==;7UwMExHZScayikYHrGTr2Q=="
 ---

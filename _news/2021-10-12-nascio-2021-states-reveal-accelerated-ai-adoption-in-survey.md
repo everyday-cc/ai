@@ -9,7 +9,7 @@ ampWebUrl: "https://statetechmagazine.com/article/2021/10/nascio-2021-states-rev
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2021/10/nascio-2021-states-reveal-accelerated-ai-adoption-survey?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and Automation 2021"
-    excerpt: "AI and automation are starting to take more of the human workload. Learn more about these technologies & which jobs will be affected in the future."
-    publishedDateTime: 2021-10-08T20:32:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-and-automation/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/DRL-ICA-82721-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "L//eCjfpviFkC4uWAsKElDXEaQ2kIA1viZlNO/R7NZjz+f3GAsAWfH4o6VgeL/014rXqx85bvjhqQnXmKVYyRUNPTkNLeLkDBTWZS98FWWnSBDpIaa7eWwuNK1uKY/wwVKRypfHzfnnznIDGMndnsW0KyMneoNZUTSEgBdhb3KsrCRuIPWvHzMJ7xzxnTzrmY+/dy73bqOw0kg3AK+zEANIQXGszhKQwHtWabzca/hlFewjXmUqqyyb2cYo0u19KE5nRBM5+mMYmHsAlkAobQm2w8Fd5TtK52OfumVDmsvnH1oqBypyt5whaS7y0huLie4O4lzGESE+KJKWs9+wEJWIRlHI0rmM8oT7FojrtLchzz1IfYjdn5PDorPAtaLgIlv/04Ew59xd92Q/j6KVG00LGwUDAnffSKMwDIbnFhpgYBNVQ1AEandierSaNckvUCBRN4b9s6dtCHRSOintKQ1zMX03En8tQM1w0yj9Ood8z7xYWaqHH2xwMIScYDiCIte6HIshUEoXHk/aXnpJpBw==;KuRe0g8l1DGCxPo9TBnHsA=="
 ---

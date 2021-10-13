@@ -2,19 +2,24 @@
 category: news
 title: "IBM and Raytheon Technologies to Collaborate on Artificial Intelligence, Cryptography and Quantum Technologies"
 excerpt: "IBM (NYSE: IBM) and Raytheon Technologies (NYSE: RTX) will jointly develop advanced artificial intelligence, cryptographic and quantum solutions for the aerospace, defense and intelligence industries,"
-publishedDateTime: 2021-10-11T09:15:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20211011cl34576/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20211011cl34576/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies"
+publishedDateTime: 2021-10-11T14:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies-1030856332"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies-1030856332"
 type: article
-quality: 17
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -41,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "gqjVSQ9lCCAq4kVgNgfb0O9TOIcT8ODrNV19jXrTZLE2EDQ6bvFx0zDD/sGiotvlFT2F0Anw8kDQcDuGrXaOCdp7JH66Lcifc3VHZfPiKLzvlt7oU8o+8Xyk3fKJuAs8yMaNFSj1Kgbtlp09DhzSPrY2xwEtZ/wjVyCzvcdDOxfI7/nlhIQVZkt9DEgAUwm2n0Xbsav+/rD7od0IxYGdaqw5Ai0+OgJhIxBKPqnpdeFHjzseApKGLG1QJ6os3wwk6J96R1Jq7aJpyKhzdZ/78BImn5Ku+qYZs3i/d9as/26npNjkGHgWeuQMcz2Z2ajHAAUBlPqIS2RRB8pt6CDcu0rJL0XanV0Cgx9bzKVlL+I=;EddXCsu3SkjSfCiRvV/n8w=="
+secured: "TJWLAiflUV+mEP6b+n6JlDWabUyzNQ6BHIHqu4/O9TfREldBYD+WfKkkWxJsAbpjj2oEmhNJDBAoI4xrIsTDk0heviP5ONqxPdc9AzVYD8V3zr0X34MWq60ZIWZLMtH6WzvNne4hJoBl7TvAd+i3IEP6uQFIkOXXPapIjoAli/wtpLImBO0M3xIJnC9MUuvHIvPZ+qFO5z4yXBsh0Gg0QTRGrQJIgbJGCZ2R0xTl32VB5i0akZtFJvkrkKByi3+HYg0AaveFk8rAUGD5cZiIAA415B/eOLKmwSDU8qHZz5440ERMdO0Zl/+XmNK28dBZ3j5uYWlG+yty8fwiXQZGIdShlkz1mudIsMwkwlIokl4=;vTiXZ7quuQbzHeEGnZ/RSg=="
 ---
 

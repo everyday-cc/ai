@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-
 ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
-quality: 93
-heat: 126
+quality: 193
+heat: 226
 published: true
 
 provider:
@@ -78,6 +78,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "LPsMF7EVQo4nw90VbiTilmdxiXDwi/jRczVtHYCrsUV0KX8HFO9u5V9R0hTzDbV28jBs8Ri5QlYBB+tdLsoKwcEoDFso+vw49O/cicRb1Zmtq0cP0DNxGnSKhfGRBNUNI1x/wEWd8B0K+Zgs32sCF29+Em7oO2ggwo3JOoNOrBoDkjbW7z0Re7YQQQW/OqBd+H3cMfgSd0e7b4ofgdnGB5/nfGqtLoL8WQpcOF3z7FlQMbpCt52vysdClz3eru2xk6gjYMhDKPLeEXnr3UeMJsL14h38XqfMyOQaQZ9qqi1Pxa3/xDkgvKWIwAB7NhVYktvtzetCVVIFZZ+LvZXat8Wr4/iQ+OgHnW4Jk6w+KszIdtEb0TBqXE2nakr967m4lIo7gcMnuzbjIeSuDaGVRmxeTd0RFDdxRBBGnQcpSBz+g/ENICiYtObTAN2X/uSibDAgRGjZaR0zpGzorweGYFghhiGZHVoiIvrQG3g9ureDj9KNOK4xn93b8o/UQesVs/0sAa5P0v92Cp4TclsvcA==;1oMJu3ReotYK3hvysqNn3g=="
+secured: "Hvzq3S0CkfoK3sTwCNYwiNE8tENMUJNtTCB18TIVMtRP3fnWEB7/9Z1LpJZO7lpvpu/ZhYpVw3lf5DkRvdnFD4N5K+29JHgy5D8chon1AG7AOMLavJ1ewXAtcp8xyvqwvQDqP8Zu74SSiYrmmMIDhJQWlphqnGbkOCyguE9alb4yZdbwvIUEM1dhnXyljwBkzFF8mFOQgHV6BUhMgDcWG/J9TjTcwxgkxqDad97zvRrNCgbLLTvi9d/ddxJhLwkq8WLAsWVgPPbvlFN01PTn/dxKwc657cS0tRDzFgd+0+vyQSQkoWwVt/ZjY4ZxMalbjfVLQAZdwiq04iJV6zRatyDhbEWFwGskBzKGN20713coYTtFK6qRi1f3YP8dG84OnSdO2ZIsuqcRnVEvzLZm/7FAL8KSXqMzUigLguE/dMnPSwHJvZVYZ4rQbm8L8dkHApIGarmLPjn0UYztOuLdCphjNlkfVos63qeHVBk0xcljVkYvJTqw2n+2QBKVGd7yn2OW59bYGUA4PYzEuy2V7jYJ62EGmU6JzayQQ7ZurRE=;d9oLQohzi6anVRVqa0/4ig=="
 ---
 

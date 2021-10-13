@@ -1,24 +1,65 @@
 ---
 category: news
 title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft"
+excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
 publishedDateTime: 2021-10-12T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
-webUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
+originalUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
+webUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KKTV11
+  domain: kktv.com
 
 topics:
   - Microsoft AI
   - AI
   - AWS AI
 
-secured: "CZP3vo8//llAaTTucBxpujyMAOpvLBwTzWe08OMTxPt4RSRv3XcRji7iDnxJM8jjR0bnG22l6jegoG37VPsw19O8orqKAbNAEKb+xt5hfBiU+qyZg3z1oe4Cj6LjDTKr/HXXwJrUM6f2nCXOGXNtJQJL6spd4mYye7Mpz8kKfwsxxtK8RcBrWNqAVVZTR4roOkdojhHFIh8h5e4iFhLQTpVCPSwTDsAFqgaHUP6WuRH/k+IM4hGrQiufuaCUygr25diP8HidQo72v+ddEejwfJ6ObDFGpDbyxNr8zeQ5XvmaKrVWkwZWneGPs+kZCCjIBfILA2MgM0jKzexhlo+RwYk134kGXYBPICNinKoQ5Q0=;K0MqSkDSd/8h3gJ4g2TIWA=="
+related:
+  - title: "Cloud optimization startup Cast AI raises $10M"
+    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
+    publishedDateTime: 2021-10-09T01:39:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
+        width: 1200
+        height: 721
+        isCached: true
+  - title: "Cast AI Closes $10M Series A Funding"
+    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
+    publishedDateTime: 2021-10-12T14:51:00Z
+    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 41
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
+    excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
+    publishedDateTime: 2021-10-12T20:16:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
+
+secured: "it+Jux5SGSqW7FYFgHZRU8kJ91LBVQ94IvXmj43+koiJPAuazY79pnj8VDa1fujoC3injRpxSwiM3A7s9C/8hjup07KU7Q2PQ/VpfPMrNcbzHpmwyCxJYVTTKzXk7ETUcNrR/9e2/R7Zj6cWuWnM3vbwQ+G9FX6mWHB4xr7TzjM2Yzj4rWVjKCXR6oX9Vz2DmLGoh3V/6MNNX0gVFr5o89gV5oNNgEl/N54CM+fBVdcfSdCkidIq5KCaJdafI8/br0P3PHSYr4VaP9jSYyMKpI349TXNR8stJu/LewzM3840FGdhWfsAYNfDfbbP+2pV9zreRz+3HpFVJkER8/ebHoVlrTnCd8bcZ/tsZrBGRd8=;/2bc92oQeTNwwhM6vs28Sg=="
 ---
 

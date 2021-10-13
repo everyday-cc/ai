@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/"
 ampWebUrl: "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 type: article
-quality: 90
-heat: -1
-published: false
+quality: 190
+heat: 260
+published: true
 
 provider:
   name: TechCrunch
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/0f1109a5-c70d-4a6e-9220-9ad6189e69db.png?w=1200&strip=all"
         width: 1200
         height: 610
-        isCached: true
-  - title: "Cloud optimization startup Cast AI raises $10M"
-    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
-    publishedDateTime: 2021-10-09T01:39:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
-        width: 1200
-        height: 721
         isCached: true
   - title: "Israeli AI chip maker Hailo becomes newest ‘unicorn’ after $136m investment"
     excerpt: "Tel Aviv-based startup’s AI processor allows smart devices to run deep learning applications for industries such as automotive, drones, and home appliances"
@@ -145,6 +129,6 @@ related:
       domain: businessinsider.com
     quality: 50
 
-secured: "X8/kWz8HN/xwjwqd3sKiWklCUCu/xRvEKgSci11PSjxOHhq4oUxLgSh1vE5yDan9aQwTmH4blzxoziMOYlAsEvqVSTh/rUDtb0Xu0ToHdFc5ERBd+/J6+UMp04ROsDflUF9dpACLZv98KJnKs+pqMRC7zT2D5ueU7JmMsLGmN5UKRTBl9fproetclfvDl3gmsFoHrU53DebMsfwyQ4NlwOy1sVvyMG/R+gmB6V9lWLZKaEtu12W/gYjwbG3rE6KBqGA2wOhfDlwHYpC9B2jHiH+Y7jvdmcFhVQWayG/tRmecyWEP2G4mE8rY0kOal3M2Y9iwEaU/k8Xwwiuw62oC3ODx0Mqh/YvSAagaukblii7CdfCN5ksSiIDGcw4ywRuU+czVeSp7YaefwP4R3GmIm3wE7Bh+vGlZ5/Z/EGv5C7n/HsYRC2+nBS8GqhZqnBJiTda2X9XeVDz0CxPpelit+HhbImsRYfuFZivtOCdqm+EwQzaLef2HUPEwH1fuK1gd1MAshK3KsUywnuoBxXSf9g==;/jbBZf00F8HozwFuUDQnTQ=="
+secured: "QRD3eIq7S2g3UCNfzJocqviokrBe8GFDjr3/9adwv7aSl8dW6MEcL373BSHh4+IpRler+XodmZw7j21xnbPRVpPKDVVjg3GPb48j6Bq+/gO2vsEO/egB5MHO+jm9JR6nxyFwkWnnpltMFYEtJcStXTdBsm6JlXsuFjkg8v3TNc9dj5SIs3ikg0nxngM6gZAxhAZ4FzgUv4imUflGX94fe/xM50ZT0/oknbfDOe7I2q0CmGkTj76IQ6IzmJyiO5rdpmPrh1DjKqeRobACMcwbuG8dPNEmJyNQSAmEPKYTTTk8D4e7p8IgJfUGXAIYERksQb4putF1jRlF/CD6YrLYwgr6LaFQ63lKzCZv41ZGN9RLO645Utm/GH3Wzgpmw62B1I0ckig1LRyxEjjQ5jAUB433m0pvX92dLhBU6BmJfshVRWsxQiq+2NeZgW28aPks+nNIt5d8icP+g1lMieALclolDIhJ+pkWrx30OzZZ5cvvF5+UVk7Wrwf1Fukl+BZhS0PC2MlU9MU47Ql3rldH1BNF+G2nsLCa3/35+N4YXAE=;h9jYCBdzZfH8fP0npcYZHA=="
 ---
 

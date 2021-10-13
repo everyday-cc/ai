@@ -24,17 +24,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-    excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
-    publishedDateTime: 2021-10-12T20:16:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
-
 secured: "053PSV6ZOmnTBsOxkg3QFLrGtV5Ad7cWIVHZMKs1QaZbTS9W4qasWyOAACj/QzmcgQYC6a3gCClHgpZ4wCCNSmm1BrHZ+SaLQKasjwvgIPHimf63YkUrG9f2eCyxrNwS+Rlnalmonu+uMx2lXUjrJCFooVEH4KO3M9IVlQ/Hph4hmdPFaKx8FGxNV8+dgVgyRpAfEN/lkmScftXmijAh01rHSEXcN4Wq9HUaLFu6JDFZwCViDCGmcfb6u5wwaicQuMGwFb2+BJ3lQrFSiDKImMdnqImqTYL3gcJu1z+71zl47sS9lLuoFgtDVP1T3XOz4TVf2AWCMJ9Tj9qotH/LwZgTyIJ49RjsYn3YfzwvqPGI141sZo/6vXx4l3SkBcb9KuZK7gN29OJFMGMg1K4Dj7vAzMrjXgqBV7RVIQWurVsJikD7qGleP0vBxrcAh6czuwyV5QgO0CdkM/rYC3o/gq9+BOVrXMCm1dP1gFj1uHYH8EYTTFN6AFBfAIqeg3nzrUJfVH/bPf3LCFA6A/TsKA==;MvjutbA18raMy0Rj8hsDfA=="
 ---
 

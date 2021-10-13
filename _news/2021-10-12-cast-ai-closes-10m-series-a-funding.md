@@ -26,50 +26,40 @@ images:
     isCached: true
 
 related:
-  - title: "Toch.ai Raises Close To $12 Mn In Series A Round"
-    excerpt: "The funding will be used to scale up technology infrastructure and venture expansion into global markets with specific focus on the foreign markets"
-    publishedDateTime: 2021-10-13T10:35:00Z
-    webUrl: "https://www.entrepreneur.com/article/390891"
+  - title: "Cloud optimization startup Cast AI raises $10M"
+    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
+    publishedDateTime: 2021-10-09T01:39:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634121270-Tochai-Co-Foundersv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
-    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
-    publishedDateTime: 2021-10-13T09:34:00Z
-    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
-    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 49
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 721
         isCached: true
-  - title: "London fintech firm raises £8M in Series A fund to expand to the US"
-    excerpt: "A London-based fintech company specialising in debt capital markets has announced an £8m Series A round fund fuelling its expansion… | London | Recruitment | Finance | Finance | Investment | USA | Bus"
-    publishedDateTime: 2021-10-13T10:20:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/10/13/london-fintech-firm-raises-8m-in-series-a-fund-to-expand-to-the-us"
+  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
+    excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
+    publishedDateTime: 2021-10-12T14:00:00Z
+    webUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/xIqSu1kc2buPg4yv2qQDg3PmjK1ExFZUWEgnLoji.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=e55f3b2453c8e49a33adf322a3d45633"
-        width: 940
-        height: 430
-        isCached: true
+      name: KKTV11
+      domain: kktv.com
+    quality: 26
+  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
+    excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
+    publishedDateTime: 2021-10-12T20:16:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
 
 secured: "BzrKywfRdrgc9m18akwAKAK12mrYc9+nWB0/jk1YON4BvqswViUjBgi6fSm6yCxa4DW2u/FekO6IxOK0DAmRZn8QfKYCXX9eu/HtVRYrAWhBJZAs2QwZao2w4nd2uIzf04++BtHaJhs89F156CfINb2PFhifccHY1HYaZYsZnZbfGzRAem11wj11y1Lsf/iq57TARj2YudVUwbJrd9kCRUh3h+Rfv84X0aOofLYooxMBHAHEoZuloO2nPirSmVaLTxy3BkB5lA88a32332LhTXRXEo2i2HvxjsX0TjJH8gOVQbL3Lbxq7m8KN4Sf0OwZe7uqXl6HCK9Bxxelr4N0tO6i5qd0d8y5MbQhAZjTM+k=;512Yu0ffZwKk9VunJnh5hQ=="
 ---

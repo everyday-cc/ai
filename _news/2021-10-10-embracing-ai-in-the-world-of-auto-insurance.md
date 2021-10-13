@@ -18,21 +18,67 @@ topics:
   - AI
 
 related:
-  - title: "Thinking About AI To Grow Your Fashion Or Design Brand? Let These Companies Inspire You"
-    excerpt: "Businesses are using advanced AI technologies to drive customer growth, production management, user analytics and more. This is a list of ten companies that are taking AI to the next level so businesses,"
-    publishedDateTime: 2021-10-08T19:41:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/"
+  - title: "Why AI And Human Intelligence Must Work Together In Medicine"
+    excerpt: "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care."
+    publishedDateTime: 2021-10-13T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61608f297f417592678425ab%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165945d620e135d8e246734%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
+        isCached: true
+  - title: "Sorry AI - The Brain Is Still The Best Inference Machine Out There"
+    excerpt: "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain."
+    publishedDateTime: 2021-10-13T00:27:00Z
+    webUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/"
+    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries"
+    excerpt: "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group."
+    publishedDateTime: 2021-10-10T09:33:00Z
+    webUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/"
+    ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 50
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
+    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
+    publishedDateTime: 2021-10-10T06:42:00Z
+    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "qlna3leBCBGsNzFnW9Pp9CbA6DaVwWntjv9WBLKy2fFtDr55bIsSMVHWld6urpYYQEIz8bZzJwJ2F6uxujdBT9B9hqnTqF9KbnwHRHmtAiCzd381VJx3dyfgJCeNhlDJB+w5b0bl41N3HEy/kVLQCLN1sXaVcVFWfvm6wpBmv+AOxf1q42CuNeruC1W1MXRo93s9jdinqoyD7VfmY8eS56bmKfpGfMXzm3/2tGuFvefpTXRyuhSIzG2Dpwry40Xyi8O5GAVh8m4/1Rtsfnw5zw5y4dStSJzSREd4DGfK4kFEk6MH3rTp9BpH92txc6XtR3sJjPWoj81jXea1ytLPcNKN6ZtHj2lRcbNPq7m8tUa5NMxftYjO1qowHL6f2s5Kqb3sx2Xto44AYuqy3I8b+XhmuWO387+HpN1MGebB2XkGzhMYx0vG7Xh2JdwMzK1G771EjjTOFAu75AInmf3RAvZ9bFInvT/RWGlv5UmYOSTB/6JVJGUP4QniMplIPadvRMcy9ktTZpw/j/QLZES9tQ==;Mor5fspYdHU8c3X7A02/kQ=="

@@ -23,6 +23,22 @@ images:
     height: 347
     isCached: true
 
+related:
+  - title: "Singapore-based POS Startup Turns to Napier for AML Controls"
+    excerpt: "RegTech company, Napier, provider of advanced anti-financial crime compliance solutions, has announced that integrated point-of-sale (POS) and payment solutions startup, Qashier, is the latest to adopt its anti-money laundering (AML) technology."
+    publishedDateTime: 2021-10-13T13:27:00Z
+    webUrl: "https://financialit.net/news/regtech/singapore-based-pos-startup-turns-napier-aml-controls"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 22
+    images:
+      - url: "https://financialit.net/sites/default/files/napier_logo_1_1.png"
+        width: 1613
+        height: 861
+        isCached: true
+
 secured: "by8Qu3rFRV+nJxPxi1vd8WIYuISwsEuFDWpbgEiTi9fKLiH+m/ptuRAxXt5+ZsYb1MlM0UXmjVcp51TnbChp4XHfFv4HuBjyb98Z46iWEBhJrOIBeBTaEVeehRnQEwwCzrCR1pyTE/LB6uXq0ZEDcqj2TraRdSKIvTiWE9ZZlwI61UKDL5B66Dtn6aJ3JfvQDOEguCdFOqft7KCmlwwOav+yW5SxRs1mUcKciSauaZwxRyk8HSmF4XD/7SxJdOQ+e9jaivBys1IDWMVkFDUw2KnvlqeGj4SfP8SHUgSnm9jR5+7dIxbEmEXXau7iVPbkBc3GforawRF2zE+Y8tocSQSWddg00pt7mMGShukXMk8=;af/TZLCAMlo8L/LzAY/C/Q=="
 ---
 

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM unveils AI to help firms respond to climate risks"
+    excerpt: "IBM has released a suite of environmental intelligence software that leverages artificial intelligence to help organisations respond to weather and climate risks that may disrupt business and reduce the complexity of regulatory compliance and reporting."
+    publishedDateTime: 2021-10-12T16:28:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 157
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/nwqkzm/article36972261.ece/ALTERNATES/LANDSCAPE_615/AI"
+        width: 615
+        height: 384
+        isCached: true
   - title: "IBM brings weather data and AI to help with sustainability goals"
     excerpt: "The topics related to CSR and ESG aren’t at all new, but they have certainly received a great deal more attention and focus as the result"
     publishedDateTime: 2021-10-12T14:36:00Z
@@ -43,6 +59,50 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-10.jpg"
         width: 2160
         height: 1266
+        isCached: true
+  - title: "IBM launches AI service to assist companies with climate change analysis"
+    excerpt: "IBM's new Environmental Intelligence Suite leverages AI-powered tools and analytics technologies to help companies measure climate change."
+    publishedDateTime: 2021-10-13T04:01:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "IBM turns to AI to predict and mitigate climate risk"
+    excerpt: "IBM has launched a new AI-based tool to help companies assess and mitigate climate risks and their carbon footprint. Dubbed the Environmental Intelligence Suite (EIS), the SaaS tool brings together artificial intelligence,"
+    publishedDateTime: 2021-10-13T08:23:00Z
+    webUrl: "https://www.computing.co.uk/news/4038548/ibm-ai-predict-mitigate-climate-risk"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/73520fc/8bd9349e-7189-4bd1-abb2-eee31f3fdea5/4/iw-climate-change-004-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "IBM Announces AI-Driven Software for Environmental Intelligence"
+    excerpt: "IBM has unveiled a new suite of environmental intelligence software that uses AI to enable organizations to prepare for and respond to weather and climate risks. By doing this, these companies can avoid business disruption,"
+    publishedDateTime: 2021-10-13T13:13:00Z
+    webUrl: "https://www.unite.ai/ibm-announces-ai-driven-software-for-environmental-intelligence/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SD0pWAt1/w:888/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/10/hands-68918_1280.jpg"
+        width: 848
+        height: 600
         isCached: true
 
 secured: "UL4aAs8UymyFtIUXlICS8hzmt7oThFAp6+74Hg4t3oj9cNXUJf0kdb527A6Lo18aebg2/TsJHw1RJhLj/a3HtkVTXgIkrYzMFBUJVVJ3QvPHvHRbzZTCe8okmMX0+XJhUqdTSLH/LplSVgF3OmXJKQv2mTPgt0YkxNgdOhPdGz+T1LrQY9b9O8ftjgr5jf1pJTyLtsstI9+F+N1aC/dsbaz2WjVGltpo2foCJZpPaIYqoN2Z0OjQ+hSwbgQzUip/7Nsahxwlyw7pKRWgw8SW3SozmFEEau0PL54qSldiEIe4baV/PmHYh4JpodPufKext3XGoUxiV7QpjDFd5MB+Umud90krcIcYOnx5wOJxsiJVoUtQBzPfQBza7rHUVmR5V7qi1JSNZUqsJ/Inyl0e1p11hGelgEocUr2RxpEwpvbS90BpEl4aGbS9ckJlO4b14sllOSqm0wxf5owVz3DSWEWJCCmNWVsYl10q83I1yDVslcVbB9kP153P7p+IhJidoIavnwuwGOQyZZEzHt5VQg==;NbBU15TF6HLhOY/UtHDJgw=="

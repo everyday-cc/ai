@@ -20,20 +20,45 @@ topics:
   - AWS AI
 
 related:
-  - title: "At Cloud Next, Google dives into distributed clouds and AI-infused products"
-    excerpt: "The company today launched Google Distributed Cloud, a new service that combines hardware and software to extend Google Cloud infrastructure to customers’ data centers and edge locations. That was just one of several new services and updates announced during a busy day at Google Cloud Next ’21."
-    publishedDateTime: 2021-10-12T12:00:00Z
-    webUrl: "https://siliconangle.com/2021/10/12/google-dives-distributed-clouds-ai-infused-products-google-cloud-next-21/"
+  - title: "Cloud optimization startup Cast AI raises $10M"
+    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
+    publishedDateTime: 2021-10-09T01:39:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Untitled.png"
-        width: 960
-        height: 540
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
+        width: 1200
+        height: 721
         isCached: true
+  - title: "Cast AI Closes $10M Series A Funding"
+    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
+    publishedDateTime: 2021-10-12T14:51:00Z
+    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 41
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
+    excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
+    publishedDateTime: 2021-10-12T14:00:00Z
+    webUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 26
 
 secured: "m76uAFGgPjmSJnLIvv5HVbEpqC+9TbThYvSnCBXrgqKn7aXXBhGBdOMTyeRd95UUoEWvZBKdOOLBx73zHmAInPVYDIb5nborFDi10vSVDKWU4qLfI5g3NmJLMAvKEUrXPpEO+8Ynxet2ZAZ9myOtXlQMxgIgzld/Rznlu4/pXiA5XkOfVXGY7/2iCqEFEHSPM5Xp54ZtDA6U0iRc7q+/bjBXIq+bWsmGniSrtPpMwaNy/PZwbHvxd0wbjQEX757sa9zr2fFFc687aAS+gLRjiGaf7tXrAb1JuIaZ3S2LOPCs7ntKVJwMNM0a1Y6Bh5bZhzYdVTSZWDD51RINBGCw/nLfwquvMaEv8aTnlfmIFQU=;bwOp9yCl4KO2YRnraDmAFQ=="
 ---

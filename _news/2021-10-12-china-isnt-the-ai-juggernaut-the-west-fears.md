@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-11/china-isn-t-
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-11/china-isn-t-the-ai-juggernaut-the-west-fears-u-s-expertise-is-more-valuable"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Sorry AI - The Brain Is Still The Best Inference Machine Out There"
-    excerpt: "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain."
-    publishedDateTime: 2021-10-13T00:27:00Z
-    webUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/"
-    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "2Lzp8rxn2h/PhUmT0jeS6bbLXd85M2IPHpS5UBT/K0vpa/AYg8N/INoE8qGrJVezHTy7gXA+IL35ZBX6uJ4ee11OTlB5nDiBvOVYul9cNC0An9+9F4s53T64lln40uP6eE44/gAxrZT7SsdUlIgfB0ksQw1v7QnFB3cjBIhetotefZtT2Z41fey/C4eLb5XputbEaesfTbsJtb6Ev9c6HPbEKZfBgtfpjwjGNHZgdu9fwj9Nb2coG1YwC9Qc2skVcEIYo1rAhjJdNcTDQ+flFQ7pF+LpjEpkF37Jpq93n/0ilgZYkrXdae2tWQEIOeEUWP0LixohvTKQYBztw4n/YDbdXfX4FsDWCYbcX9x4R7w=;v9I0UHs+qa40AsQNwjjNTA=="
+secured: "KOqCfVW4ciuxV8ybxZ4zKzzKLC9XrrK64JdhgFlp61gN8zfoI1tSMP17apqOdwS7xrgXRtiFB7gSUJwVAkDfw096D41LgqPE6PVojBNyNVdBn8/vAtD6fSr0TGHycsTiJn02bkYzZf9+EyRjh8z87hGLAwJopLEfmJqpMqz8OIykLN52w8cEIV2TCqOnj2WzPviYp4DVpgAaACNBdLb0HECnqr42xs1C+GAP7L0Q9g0s7OKIn7yiyErlweUuoCA9DPWsJYkjzgOE9iExPbj8q3+AFwUKnWVOog64JZirYN+/sewEpnl+EfpFwVFshqb1IJGpv3tJjI6VeKm7M2ETIqgmPlHjaZvTObc/DqY83Hin9EHNaVoDVx+IxGJ8h8B5ekfIcHlbdLmHe/Tya7571HSXJDyn1LBkG6XA7p6ZYgvFYtz4A8zE9rwd5s3F/8pge8Qw+SlzqRp+F6sH9zmgRb8iMq3x5e5AFkEViziK39uBsknPgEfLaQFnYvVOHLfMWmlf367IkcxfV3p6pagBog==;hcmi3XHeFMx1pg+mY0jmrw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-edge-chip-startup-hailo-lands-136m/amp/"
 type: article
 quality: 104
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -41,27 +41,11 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 90
+    quality: 190
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Cloud optimization startup Cast AI raises $10M"
-    excerpt: "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital."
-    publishedDateTime: 2021-10-09T01:39:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all"
-        width: 1200
-        height: 721
         isCached: true
   - title: "Israeli AI chip maker Hailo becomes newest ‘unicorn’ after $136m investment"
     excerpt: "Tel Aviv-based startup’s AI processor allows smart devices to run deep learning applications for industries such as automotive, drones, and home appliances"
