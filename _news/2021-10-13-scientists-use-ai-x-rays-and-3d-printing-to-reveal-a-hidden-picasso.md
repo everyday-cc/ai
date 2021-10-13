@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-reveals-picasso-artwork-hidden-unde
 webUrl: "https://thenextweb.com/news/ai-reveals-picasso-artwork-hidden-under-painting"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
+    excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
+    publishedDateTime: 2021-10-11T16:02:00Z
+    webUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 84
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/211011063106-04-hidden-picasso-painting-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "A Nude Portrait Hidden in a Picasso Painting Was Just Was Just Revealed by Artificial Intelligence"
     excerpt: "A nude figure has been found hiding beneath the oil paint of the Spanish artist’s The Blind Man’s Meal (1903). And we don’t have to wonder what the original work would have looked like thanks to the magic of AI technology."
     publishedDateTime: 2021-10-11T22:30:00Z
@@ -59,22 +75,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-used-to-reproduce-l.jpg"
         width: 768
         height: 480
-        isCached: true
-  - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
-    excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing. Dubbed \"The Lonesome Crouching Nude,"
-    publishedDateTime: 2021-10-11T15:50:00Z
-    webUrl: "https://www.wthitv.com/content/national/575502762.html"
-    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575502762"
-    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575502762"
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 54
-    images:
-      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "ciRMGjUQOn9gzNY6QKgI/r3yAVoMc+l4G8IuW7OgnRuWb+CBp0UfH59Zm234wy/pfsIvHyJ/QjW9NUVmq1dXPrybjQV2Ngmuh4Thvm/qHvyUUm27q3oC65kQTRLH0BA9yp0kzfs6eADZR9vAJ01wcRtneW2LHKN3aOgRTzChw1uXbqTKZFbPZiUyiD0SrO2Sb8n8QmCIl7AMfDSs8IXNVX9dsloahnyEVjqHx4Zd/nFhqZcICFiGPDLTGg0Xlve3yTqsQeWj8fGayq5RZRGO9oNrnBhzf83qYMMvH0d37z4yPQf3uqr/H+DbcPBUdNyObhqhEZddF5cL7K4U+qx9f9DjVFkYgsUTgqrORoHtVnCdNmrSWB8Cuu3tTpIOMW178zO613SrNr4jVJI4hoM0kW4OW7Oj7KDgdJnNpQXR5tdAUfbiH/WIV3Icvj7dRLhlHrQ8wYyhprm/wGoNaO1W0r7nILYrFVQHAnEMH+fxiW9cQEnU+2AECptb5rf9PjjyOpKZawmJkDWR2rwpczuBLQ==;biONYBHOWBqKsw+OJgtqCA=="

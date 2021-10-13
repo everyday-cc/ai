@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
-excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous"
-publishedDateTime: 2021-10-12T21:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-1030860563"
-webUrl: "https://markets.businessinsider.com/news/stocks/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-1030860563"
+excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
+publishedDateTime: 2021-10-12T21:44:00Z
+originalUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
+webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
+ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
@@ -265,6 +263,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yQqAlobSKEo625vRm/H5jy+w5rt0DE9UQ7XjokpZ7rXDcfUUqyDgN9bNpB184bV2sz2Cg71ha99xGcJ9EN4vsUyDvjAbF7iQNHnrZ0qeCgxYzZRknmTAiWbUinITsvo/uHrVfK6Jw84MwIONGIcl/6HPZlpFQoXf1WBSgNXfu0hQi/NYwBUPkUsxBh9wFhKcFbo9W+VfIeTQoLKxwWOhj1UztZdmIfYhnmihGD1BBKmcn5vENl6OBO2DpY5wgxhBJPw8QoHQMq70HhzkItTF6b7MMLBNzvQajqDX9GcRJwp/HBFkzA2POTe3SUE/wbQBHAIOm99WEwvczCmvWpMcD5atBZxcbmI2jZxqhh9GICg=;ide+mBsZY4duPbil9lTmrg=="
+secured: "4oY9azP/NY3ngKVztb/3d7fjUzjNpiEJjzj0md7RBQLWw6KAzMszIUETbMNJsnbif91FQ/CtISI4xgVMCEELnwuIaEbJOw8Z4BdcxcHL/wsfxOvFUAmykEc7J5BItIE6RYKZP+gPA9sGcuYLuSYWq5Ie1RCtiM+WwZH85X3+hV7Jg/aXEcV0IeqLi92F+Yaa33QV5lzNSeq63SJUt9lBA5Ig+2w8h/UfDFfbBajVnzVXfyKeSEjyYdZUCJET9rfXMYHNRldvrCdxHJBELf87sRACERMxP8t4Wxk5OjOnBCdTW/pTsAzMg0Wf0k1nHyD8bWQFuOwaqdenneYnrbOK8BuqcY6RH2OWlQiSqlvsVJQ=;6kxgFg3Z+CzUqM1Tqfdgfw=="
 ---
 

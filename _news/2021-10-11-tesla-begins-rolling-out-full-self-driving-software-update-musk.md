@@ -137,6 +137,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
+    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
+    publishedDateTime: 2021-10-12T21:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
     excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."
     publishedDateTime: 2021-10-10T23:39:00Z
@@ -185,15 +196,6 @@ related:
     excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-10-11T15:56:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
-    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous"
-    publishedDateTime: 2021-10-12T21:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-1030860563"
     type: article
     provider:
       name: Business Insider

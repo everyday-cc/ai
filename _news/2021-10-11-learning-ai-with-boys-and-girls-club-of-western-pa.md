@@ -56,20 +56,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
-    excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for"
-    publishedDateTime: 2021-10-12T13:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20041587.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 55
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Know how this artificial intelligence platform is enhancing AI for making better products"
     excerpt: "Micro technology is strengthening a new generation of intelligent, faster, global infrastructures. Micron’s Artificial intelligence improves business and lives beyond what we can imagine with regard to AI."
     publishedDateTime: 2021-10-12T11:45:00Z
@@ -98,6 +84,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
+    excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for the digital enterprise."
+    publishedDateTime: 2021-10-12T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-key-business-continuity-security-finds-new-/2021/10/12/9467501.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "xRt7k53VpOjiAHmfMSRZLT9SHslW+Jb/v0Euajn5jukRbs7FvdkQJhohnrzwC1PN5qa3qvAqdrf2tWBLiEA0/exewE9s4Z8CFe3//RWl2Wsh76ykt9/YlFjkfgj3YIMSWz1YQXbo6gUiRDz/qYfdPSgw0ZYCnET9Kj9pUSNAbph8g78qYrwWkhaQ3issNIR6RSuCPR+A1KYs+amXqTzgLRhi/jTIMzTgfY77Dr1ElOo8Nz2qvYkUdA9JLdV2E7dvhx2+Sin/5Un5H2S5KjMhslNvHseRnr+FiziBYMiYzTX/8j5zW5SFv0CNGplHqGwztBPwCRFpoXlSGUKVKaMTIaCL0nUyzyt8BqAiDUIsjp66Dzgh4SrO3OoNagkTBhJ9hbcemiGFjR7Tot6DRCmFnX6i5glceh5a9dYv/Y103dNgt8kHZ5Wg6vzi8UzZbKWjAeE1+yrZqubH52/1E7s6ax0RXHTYfrX7H1bX6QJgXt0O1mx4b9sPTLfvUZex6YXi8XpLyeOFlUIeL7oRLuzhlw==;T53HhS82gRcrJ2VvY5RMsg=="
 ---

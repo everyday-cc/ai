@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
-excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for"
-publishedDateTime: 2021-10-12T13:11:00Z
-originalUrl: "https://www.lelezard.com/en/news-20041587.html"
-webUrl: "https://www.lelezard.com/en/news-20041587.html"
+excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for the digital enterprise."
+publishedDateTime: 2021-10-12T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-key-business-continuity-security-finds-new-/2021/10/12/9467501.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-key-business-continuity-security-finds-new-/2021/10/12/9467501.htm"
 type: article
-quality: 55
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
   - AI in Security
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Dynamics and importance of AI and Machine Learning"
@@ -101,6 +94,6 @@ related:
         height: 900
         isCached: true
 
-secured: "wuwRvCR+JK/wLu9M0VMpEtzELVyN56DPlW2dpZcnFaURTSIf6R178f98fbBf98ogkxlHw8dbTILUJrhTQ7Cpdaqm+OcdhyPeLwFb4c2OatK7jXHAb/Ae+nNokPmzt8f+BlMClJyZ6xTep2XrkQK2Vzsd6OeA9Y0XqbWQe4PUdKhJcK3Z4VsPGN6ecYV1q78fzqoHuAdUcypRJiBmE2ZDmOdsHUyGFQK7aM7+l0Htk7qX2uIF0VzxmwZ3+QG9/zWfALzeSBPjs51FFmd8CS/2NXBeiRBOA3T7cYa4wdSes1DCIwYf1XU0dZ3D6LZt/FZEF2LT+Jp8VO/lnts7IgSfbhaYrMC45RAtiXaGph5iLJo=;VWOXo3ekV8Y3v85IHd+ddw=="
+secured: "QkjScnnpw9Gllt8ZZXhw1Fjk8D8FLj6qHOBtJB7jVchRApLgbLwqr2LuONi82n2IBss8E59wHJxzaRF4MXbSHejtXeDTiNOYlsmk7k0RJdmkr98zN1MUzom5bsCr7ms9WVXi/DYefuUMnJb2NodBwZ2DB79WWB3C8xndHYAj6NfpvG7mndPT618Y2LuoplSXGnDZWFNkWB3XFtwnZoLMpvjmjJCEFpz/1HP6SheP/MWWs6b2B6jX+3bi1GvbQ6TsZQV2i/nZoiNHd3MLCJo2NWjIyxZ/Z/VIUNIekVtbodsYTCa1zqxXre0edl5/5s8TcgPVIj35iGcvvFOBCS5TOdPwkUpJyogvmM1QzWjEO74=;Ncnp2f939CIEqWWl/00J9g=="
 ---
 
