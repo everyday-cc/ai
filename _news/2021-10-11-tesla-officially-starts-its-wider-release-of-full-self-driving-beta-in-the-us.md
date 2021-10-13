@@ -63,22 +63,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Tesla wants to share ‘Full Self-Driving’ with other automakers when it has yet to deliver it to people who paid for it"
-    excerpt: "Driving” software to other automakers, but the company has yet to deliver the feature to Tesla owners who paid for it. At Tesla’s shareholder’s meeting yesterday, CEO Elon Musk announced that Tesla is considering licensing its “Full Self-Driving” (FSD) software to other automakers: I think Tesla’s open"
-    publishedDateTime: 2021-10-08T19:03:00Z
-    webUrl: "https://electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/"
-    ampWebUrl: "https://electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/08/tesla-share-full-self-driving-other-automakers-when-it-has-yet-to-deliver-it-people-who-paid-for-it/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
     excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
     publishedDateTime: 2021-10-11T13:25:00Z
@@ -153,6 +137,38 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
+    excerpt: "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a"
+    publishedDateTime: 2021-10-13T11:56:00Z
+    webUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/"
+    ampWebUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 59
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg"
+        width: 1280
+        height: 852
+        isCached: true
+  - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
+    excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
+    publishedDateTime: 2021-10-13T11:53:00Z
+    webUrl: "https://www.outlookindia.com/website/story/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 55
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
+        width: 550
+        height: 372
         isCached: true
   - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
     excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."

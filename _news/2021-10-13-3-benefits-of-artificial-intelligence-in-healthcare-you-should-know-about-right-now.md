@@ -7,7 +7,7 @@ originalUrl: "https://www.softwareadvice.com/resources/benefits-of-artificial-in
 webUrl: "https://www.softwareadvice.com/resources/benefits-of-artificial-intelligence-in-healthcare/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 245
     isCached: true
 
-related:
-  - title: "Researchers, UW educators see a bright future for AI in healthcare"
-    excerpt: "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health."
-    publishedDateTime: 2021-10-08T17:45:00Z
-    webUrl: "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html"
-    ampWebUrl: "https://madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 74
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/34/434fa0a6-a033-58ed-b6ed-576a955cf1b5/61536cc229786.image.jpg"
-        width: 600
-        height: 400
-        isCached: true
-
-secured: "Ig5Kmb8As3omKYAP57bEERm0PMm54yCLpwZvm6KcuFlKN0/lV6BT4kHUDVoBT+r8AlNoaq0ZJ0LhAnCLK9bmeCCVOwoAkABCAVH3X9M6hBdIX/eQUEW4+posgwZTaxl3WuLOQz5Dbt5JSQMvV3x73z8qKQY7s3XiHFNVTw3GZJVaP+PzfTCagKbKks++MFCVMsLfaysiv6f/+KiUnIfREh83HXXVd4XVSotnZQzSkGIZ8BVSTiKqTK7Fhj0akWgYGOvJL4w+lUXXMXT2VfD4wcWLBXI+iHD/SxldkyLvOYrLS4wFs2IYz1AIKOxXdMB4v/kK/zVxutx55+jGcYQRjziEsk5GXBezLOY+PoJJ/o0=;GLoESZ6QRdg/MfZ6ZbOexQ=="
+secured: "FMTlqI3Lzx5z/ERdpil4oNMPGFO9drdqmleR3YHnUX+mrdF2rpfD/i4/Lz8WX7knidceoWNx+zYqldiTxHx+1xBsGtTFKr2Og8fwF/teFE8mYB4JL7NUezLOKtzgdxYEQFnpyD6y/7aEggzvrEparreugopa+TavOwnucpjNxP/1L3x7Kfnq6cQFmuUPwmCgJwmM4TiEmnGFZM82Wz0ZHXlJkJ2uflfr0LSrMb7pUTEVd7jtkqeXmx4crut7cE7wZuDLBpz8ZtLdvoUfDfea91lkiaYCqDxDX7AlCzH588adW9g2O56b3NePAxV05zn6S1VyyKbaCqayAI8D8vUaBtomVazP5KFUnGJPj8K/4Cj+cGVmDyLxYL1BvK9zJ4d7P/50coxZ+Pm7xMks251gPYscw6J1Z768CpbXX//WxO4ajyG++2VdDAJJG+2TIF5VR1A+idMUckchea/X/K9F7xmMZhQ4kfCi9QudeMeV8O9RoP0t3f/9/b1xnJsHDYs72MkD1hSx+SPeJQuMVZF1vg==;otoIjeAhv6A3S7bsb4gt1A=="
 ---
 

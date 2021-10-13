@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dnata partners with Gather AI to enhance cargo service with drone technology"
-    excerpt: "The drones can operate at temperatures as low as -10 Celsius degrees, enabling dnata to take advantage of the technology in its state-of-the-art cool chain facilities, too. dnata plans to gradually roll out the drones across its global cargo network in the next years."
-    publishedDateTime: 2021-10-11T11:36:00Z
-    webUrl: "https://www.stattimes.com/news/dnata-partners-with-gather-ai-to-enhance-cargo-service-with-drone-technology-air-cargo/"
-    ampWebUrl: "https://www.stattimes.com/news/dnata-partners-with-gather-ai-to-enhance-cargo-service-with-drone-technology-air-cargo/amp/"
-    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/dnata-partners-with-gather-ai-to-enhance-cargo-service-with-drone-technology-air-cargo/amp/"
+  - title: "UK gov urged to protect human right to review AI decisions"
+    excerpt: "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'"
+    publishedDateTime: 2021-10-13T11:24:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp"
     type: article
     provider:
-      name: air cargo
-      domain: stattimes.com
-    quality: 54
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
     images:
-      - url: "https://www.stattimes.com/statbackend/assets/uploads/original/dnata-invests-in-cutting-edge-technology--drone-inventory.jpg"
-        width: 1000
-        height: 600
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "zc9lPA2HvE29PoPPR/C4o/Hjro5ZUIxhTCJv2MTPkMhcHJ7X705ZhUW7gD4zsgYctQbNAI4b1qtlrT6wLUiIVp7rU5cHHjfle81iO1PheWOcq6fOi4JzwVCtYXThxnMYPLCsQqQXDoJ9Cv6xwUp739KXw+a6229VhLF2MIZ/XQNs7et+PNDnVRL2pwG5LJW8O0tFnlUg/O8A38V+eZxC0XXBCdCPTxXQRQv59gHh5rhC3LzBPLdItzqdSTqLErpNJLnoMhkU5PDptDFYoIlOOiFXthFeMzqlHIZ3d7XAcrceg4f+qOpFbFJVYTTKCMnPJGDxEhpFkOB5zBPtCRUafzOZku/IUh5l7ifz2qvRvzM=;yURaGMJZZganHEZwxRcFkg=="

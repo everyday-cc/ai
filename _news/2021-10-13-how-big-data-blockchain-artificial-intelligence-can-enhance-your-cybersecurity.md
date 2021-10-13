@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct Report Highlights Need to Rethink Approach to Cybersecurity"
+    excerpt: "The Voice of SecOps Report from Deep Instinct contains a variety of interesting insights and shows why we need a new approach to security."
+    publishedDateTime: 2021-10-13T11:03:00Z
+    webUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/"
+    ampWebUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 43
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2021/10/deep.png"
+        width: 820
+        height: 479
+        isCached: true
   - title: "Elisity Rolls Out AI-Driven Cybersecurity Solution ‘Elisity Cognitive Trust’ to Provide Identity-Based Access"
     excerpt: "California’s cybersecurity startup Elisity has rolled out the first combined zero-trust network and software-defined perimeter solution Elisity Cognitive Trust (ECT) to provide identity-based network access."
     publishedDateTime: 2021-10-12T05:08:00Z

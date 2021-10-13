@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/73520fc/8bd9349e-7189-4bd1-abb2-eee31f3fdea5/4/iw-climate-change-004-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Mortgage AI provider launches language tool"
+    excerpt: "Mortgage technology firm Meet Parker has launched a new multi-language translation tool to its ‘Parker’ chatbot."
+    publishedDateTime: 2021-10-13T09:40:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/news/2021/10/13/mortgage-ai-provider-launches-language-tool/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/03/phil-bailey.jpg"
+        width: 6000
+        height: 4200
         isCached: true
 
 secured: "7Uvl7/MuXufl/6L15JRbEU5McEfQryMj2/1lCXPxbTpTmyl7DauW8wjHuECb1sy6KKXeUJrlbasRxJ1C0STrIh400plKpXmye/TqXroh3xU0Tk/nj5oPUcyPOrQuRAJbY7T4QgMLB7bdelwSDxOM8MNv8gqvHIBv5jQTmB+EiR5kD9v8Hz/hEnatMQWXrqK+WzRzJl237AKk7RxZmGmd69oq1Kj5LO4iS9jqPfE2txSg0RfirohhljpTx/6gmQS9kHvzxSVOqtp6+KhvCtihzGnscll32ZyRy3Fvgh3ie/mZFxbD5jNjEAbKWG5POXxW3aJDXFp+3oynZzgqdk61QBC2p9SBcgvrLz4T/22Uu1eULBzai2272bse4NYb7jvgq8SYQ7Fxxmhbqp7YhkSHIt6neBlHgMFfYJVjRaOhXlBUlUl8CIFHcCwRwUQJsfAFuagawzfYFbxPb/9Y5o2gnT/uYDsYKUorS3eoMa9BelBI2Icu+G4P0ZqzEnxHGUHhNoEsLre7Awfc9AA6t4YvYQ==;gp/vLLf5lQhQ4vMJUWirgA=="

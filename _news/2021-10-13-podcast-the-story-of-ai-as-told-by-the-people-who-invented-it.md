@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/10/13/1037027/podcast-the-story-o
 ampWebUrl: "https://www.technologyreview.com/2021/10/13/1037027/podcast-the-story-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/13/1037027/podcast-the-story-of-artificial-intelligence/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/i-was-there-when-header101221.jpg?w=3000"
@@ -25,6 +26,6 @@ images:
     height: 1687
     isCached: true
 
-secured: "ZD1KMSgvRbLYWLZWci/SAISbQs3PtKxrTKNu4BVuBFpsKW/9zCd9tCuFxkCTqiOeR0J2k6OPw6yMnfJfkI20/u2Ct0ejONiIsM5Oo0b0hvExOMDvgS7GX1EODS2HCmC/Vn98JcJABFCLRNYrGGVTc3Aht/Q8org5NZZVNpeOWsdkPzUarSjek1KWp4PDJNzXPmeoZXpUKS5L2cuv/wriHUpGDkWXrZcv7kAOqTysL8MH0GWRkTOR+PhDN4Wk4CwFe/ILEgBM0Z2d9QZi14xGQMq5T9aSsn7vj528KSqBpS0WoITF/mvN1gifb9/PqGuDWjprIB5i2t4gIsrDs48/J7jgZczn1Eg32hdZquT+0xM=;9VEnRutwpII8+q9QkIUEHQ=="
+secured: "2Ks+YUYbqbBFGqundat2Iq1WacrLLDcqbHkmUlBy0iGFEy3LqLJ3tpdy9vQljL8tbFPG/7+sQmbjBTbbJZglMUM8khpPYkYrxgZQb7kNdsfOLso2jcrpeVysw4eGWUTwNJifk6IrqTZd6EeWPmCaEQBC2Kvx1jGaCnPIuooZ7i6JqqRG6mljsp201soahnzxQsL3HpBlNim+Lg9yg1SdGyt8E20jZsZ7kFUHNI5vhaocNy+VYbZU7r/w6n3OiI8zbPgka/MeaR6zmKjxjIiVaDYo3JC69QD2/AbOGH1GGpnaJvUQ0MMyQggTMW0PmY/gzuFj1SigoYgTB1QKQmVykJFN8Sq8BWKrUoGGf6jc5LKIb6hefYwx6rcYAUnfTkd7McpudNxYy8Sw/aLb2KXFJOJwtboEXapLu4seAT5kCZ7hKksSbfVyl27lM2M8cXk9fBXCrGknxdtP/VCesZfNDafO8teEjef79DXOtjA4U+EqrpvOrwlwTIQiPnY/zlCHr2Y6GYfE8ndF2/pIu+iDPQ==;oupbCbNw3h7ev+fTslmvkA=="
 ---
 

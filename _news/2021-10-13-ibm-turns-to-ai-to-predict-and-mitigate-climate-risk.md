@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mortgage AI provider launches language tool"
+    excerpt: "Mortgage technology firm Meet Parker has launched a new multi-language translation tool to its ‘Parker’ chatbot."
+    publishedDateTime: 2021-10-13T09:40:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/news/2021/10/13/mortgage-ai-provider-launches-language-tool/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/03/phil-bailey.jpg"
+        width: 6000
+        height: 4200
+        isCached: true
 
-secured: "50ObZXJkUjRrVeoWWwohHHiJvl7YlueHqVNeONBzpcFOz02GFUG8oRtwYPfszhGuW20SpEhRWYmB0Pr4V6DltscYWNvMf47OBa6fSQc+Hjgm19TduYahW9Hhs88VSL+zBICCZd+i22rzO1A0nX4sys2NQ3HXq3lFaZZF1X/Ry9J0Y9SE6EmQMp8xgXGceydCJ4hAJLCI6PppCNUSxjVkTYm+Pg2GbF13rrUy1d4p9UVMRw9KkHNsDnnLW9yJAaRiqBjX43LChcEBAFXk4ItgTpMKf77BI3yi+LptXR2+1NR3uQ+nyHVJSmU+KYfJTRivOtC4r15gtOHZfcL/2gNLtANj6cP45IrQMlbBNAO/1Z4=;SphxtWlok5fU6B9aGp+afg=="
+secured: "6Jpq4BvYs2pxTZdkf6sj8YuluoDHhwVAxEmGh+EFXfW2ubGqMwnk+/qhIzomE4atjKtgxmNvjgmTA18aNKDgE+ZTv4ji3h6SsQmNrf7eIwaRN9z3Uo9hJLyevovihL8JZK82PiT7vXXCDIvOK0oteqyrQ7yj0Pw4YoEcVg44u++0iFFr5q2otZCsSx4oOFeOHYKRrsnLKFPewV6KDdsxMU3Aobir5Sgc3w+s9deE1OmSVeCTrRfvMfWQ7Hp4FHC5374WMpfUlZCs2Xm4vtpx74iYUgTPdaehJ0u9TDQvBtXavcdVDblvXObfwRAPhNtUpw3pNKI51iyeHeoLp/S0nwe7EQhDdLf1roIDggBmoTazX/CNXwma3uJhJYugtETZYcITUClfCClB1kVOm8Qct5nhnaI+Zd29JiVNvOhKe7r1PfOVntgOqJJ0gsHasE4yxRFn1+O1TTOc6SNKUBZsJQy6tAXX3zRlEjET9k0gF1BBdgzCknvTXgpzBfDt4Bj2+D7Auuqig1g6kivoZFsK/Q==;aO83icF2QECLI1kOiONHqQ=="
 ---
 

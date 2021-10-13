@@ -40,22 +40,6 @@ related:
         width: 724
         height: 543
         isCached: true
-  - title: "Artificial Intelligence helps complete Beethoven Symphony"
-    excerpt: "The idea was to use AI to analyse and learn from all of the data of Beethoven's artistic legacy given by the team and see what it could come up with."
-    publishedDateTime: 2021-10-13T04:27:00Z
-    webUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105"
-    ampWebUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 57
-    images:
-      - url: "https://img.astroawani.com/2021-10/81634096176_WalterWerzowa.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
     excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
     publishedDateTime: 2021-10-12T17:49:00Z
@@ -71,6 +55,20 @@ related:
       - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence helps complete Beethoven Symphony"
+    excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
+    publishedDateTime: 2021-10-13T09:42:00Z
+    webUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 37
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
     excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."

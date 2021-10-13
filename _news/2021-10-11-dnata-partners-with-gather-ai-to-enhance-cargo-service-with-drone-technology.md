@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stattimes.com/news/dnata-partners-with-gather-ai-to-enha
 cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/dnata-partners-with-gather-ai-to-enhance-cargo-service-with-drone-technology-air-cargo/amp/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Technology firms urged to produce AI engineers"
-    excerpt: "Technology firms in Vietnam complain that they find it difficult to recruit workers, especially highly qualified ones."
-    publishedDateTime: 2021-10-10T03:28:00Z
-    webUrl: "https://vietnamnet.vn/en/sci-tech-environment/technology-firms-urged-to-produce-ai-engineers-781372.html"
-    type: article
-    provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 37
-    images:
-      - url: "https://vnn-res.vgcloud.vn/ResV9/images/vietnamnet-bridge.png"
-        width: 738
-        height: 273
-        isCached: true
 
 secured: "6xVBzhrJB+DsYfvwhdUqSQcwUzWU7GuKcAC527R4bKoUm3g4/K9hFixNRDkKdDqnAu2K6UoGZZ6G8cR19mY+eezD67PNgLvaC4QoXF/n5x+7R3zMRay+q6Bf1gtaDIj0Khkd0gNstRuN05HbSoGQBUIXI0FvP5gAabaCSoZ7tZWvh1OeYPzEClO/8a//irWKIPtDERFtkv7F6wCHlsPu35IT6ht+Wh3i2ulhjXgzi9Mokd64Wlv5+M/vIwD4IlsdeFb+t/saa+15eNPR75fyGV2xFDC5C3abnMn747mRcPSD3uRKbxA1gKrU1zMdk3m1gaxOnag1zgTZ+BrQV+WIicz4ZQVUDALlZqL5iiCAYkOxH6ZGv6SgUoELmxD5KQGeH9i9cklTn7EsxW3Jn/NIccXSr/wG7yABm0SBRP0bkGVZr3/OFvuPiNYuWHGT1jIyLyOm8hh4IuRBsdeR5gd52Sb6Jz3vdJ2krlZl6LxxohJO5tOdJrpsGVxIB/7Xb9j0t0HO2pGyZoQxD44tXvbpog==;7qXnC+KZXySCld2UhM4Bqg=="
 ---

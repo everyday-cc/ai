@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Deep Learning Market Analysis Report, Share, Trends, Overview 2021-2027"
+    excerpt: "The global deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition. As the amount of data generated in various end-use industries continues to grow at an alarming rate, the ..."
+    publishedDateTime: 2021-10-13T11:40:00Z
+    webUrl: "https://www.openpr.com/news/2427652/global-deep-learning-market-analysis-report-share-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
     excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
     publishedDateTime: 2021-10-12T12:09:00Z
@@ -43,31 +54,20 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence Market Size by Technology: Market Analysis Report, Forecast 2020-2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 12, 2021, 11:08 /Comserve / -- The global Artificial Intelligence market is segregated on the basis of Technology as Natural Language Processing, Context-Aware Computing,"
-    publishedDateTime: 2021-10-13T05:19:00Z
-    webUrl: "https://menafn.com/1102960492/Artificial-Intelligence-Market-Size-by-Technology-Market-Analysis-Report-Forecast-2020-2030"
+  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
+    publishedDateTime: 2021-10-11T11:44:00Z
+    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 28
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?831406"
-        width: 362
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
         height: 250
         isCached: true
-  - title: "Cognitive Systems Spending Market 2021 by Global Key Players, Types, Applications, Countries, Industry Size and Forecast to 2030"
-    excerpt: "The global COVID-19 pandemic has severely impacted the global economy. However, the banking system is largely considered to be an essential service, which sustains the prospects of cognitive systems spending market during the global pandemic."
-    publishedDateTime: 2021-10-08T19:55:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-systems-spending-market-2021-by-global-key-players-types-applications-countries-industry-size-and-forecast-to-2030/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 0
 
 secured: "zcf7PDOJ1zqMR2Othsz4hPOf0BF2oimKE3kfPFeq572+LZ5+YKTvYN2aHv6rT0aK1uDGXIpqmHiFvSVfNBkDbOIeQjt9J8gXfUWv3QOS7Jm7d7z4Sa7+aE52o4VmkgkPIA7ydrLeEJy+hJbsxH4770HQyesiwlfChB9PQDacsKLvsB37Kj4a/MXmGZM5BI7WlcY70oF2nRKKa0E+b1H6V+luC9mqNgbOoR1BDeHP44KSsS2H0oehLkhOFklDjAIl6Sj3nBhpPoaHIKd4qrUZU0Q6vUtzWLSv8KhI5ifa4nm0soDU5xisCCdDQT0UUGl2JxqxqR/VAoDRNmLIwVdvT3gohuDpc561E5PYlNzvuY0=;GWzZA4W4ib0p7QJWfxJOAQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_6.jpg.png?itok=AFLJgqU4"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."
+    publishedDateTime: 2021-10-13T11:24:00Z
+    webUrl: "https://menafn.com/1102961269/Fintech-Technologies-Market-Expected-to-Reach-69848-Billion-By-2030-Allied-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238679"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "B6VCsnZ9fznDmgebWoHIbW4Szs+y9FphhfYMN2iBxAct3T+BhjKnk5rO8Cn9VPeWJk+rV/yBS6LhBKPnuESprg9ILn5K9jzIPCs3yHhwbmPi+MXHmZfTr7zRg3rUpbK/2o3RyOpgl3WIyH1XASIT0bbz4XbX23JQgXcnQJ0DM8uJmcGqUpj9tiOJBjnjWeRyKnV91nxJMcD+l6m6xZP19jxRmwIq7L0emmwQlt7HuIRAKlIxPrfvEyiTkBfSKdFmgX4c0wzqIXD0HeBUWFYClaD9I3mZfuBV5HFj/kvrDgLT6JQlpYDAyBCUMxX98EI0cnrp36802INbbf4K4VlOrdVm9ImaOLT3EVzzbDxwlaJ+qDSwBhXMj5lfLiOPklXWa4cMX55qO+uZGJaNkfOzNFwwydTHQC9fq09qGRQPIPGA/75FrRRnMX5kSOKXMdHvkb8Dw8UID61fhDyBYXQRyb8vQ+KZYcLGULzXOTnzfwhcL7raFJiFOtww1TycMb59VEelmo7rDiVXQiUirW5Oig==;4DmUrf5WCVswz7pN2mKt6w=="

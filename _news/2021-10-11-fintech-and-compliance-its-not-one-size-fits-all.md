@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2020/06/fintech.jpg"
         width: 960
         height: 634
+        isCached: true
+  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
+    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
+    publishedDateTime: 2021-10-13T11:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5Yfxp8KKqihSnyfgIYjy0zGK8zn6jtfEhAVFEnR6PsdRSQGWlkvuH/3DV+5ljC2R98T6h/mvG7zMRLEtRNE5rQ0HkUskRiX5OpF+LbVJpWkg8GhUaK2p11byIjCy5Xh+iBg0UBleOR9ekVebGVrzoJlJuv2imdwQUz/mA/9PHmUoizXZPg7cpuu4CESK4ndubXSdstzQUaFGXYhloX/JF4wDJ3W6a6o+ofAhexegNwWBHQap5d1pqbCmaeg53Avz6nphPsBLTrK1DUjyWy8+iH2cdbk3CxtFGe9D2mS2X/KjL6Id7IfLz0RnAeT/3/yVJeEf9CoaIdEkdHFi6FYKAy5BkHc/bo1y3D1Cah9G1pc=;SjgBtXEXDjtzEeLplUwvrg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/artificial-intelligence-can-hel
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/artificial-intelligence-can-help-halve-road-deaths-by-2030-un/amp_articleshow/86939409.cms"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/10/12/600x338/artificial-intelligence_1634021526755_1634021536908.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Artificial intelligence can help halve road deaths by 2030: UN"
-    excerpt: "The Sustainable Development Goals (SDGs) include a call for action to halve the annual rate of road deaths globally and ensure access to safe, affordable and sustainable transport for everyone by 2030."
-    publishedDateTime: 2021-10-08T18:42:00Z
-    webUrl: "https://menafn.com/1102940748/Artificial-intelligence-can-help-halve-road-deaths-by-2030-UN"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?538261"
-        width: 375
-        height: 250
         isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030: UN"
     excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."

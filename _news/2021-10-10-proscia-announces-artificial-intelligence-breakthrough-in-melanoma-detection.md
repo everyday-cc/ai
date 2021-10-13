@@ -23,17 +23,6 @@ images:
     height: 409
     isCached: true
 
-related:
-  - title: "Lab Notes: A Pennovation Lab lease deal, an Proscia AI advancement, a cell therapy collaboration and more"
-    excerpt: "Lab Notes has s Pennovation Lab lease deal, an artificial intelligence advancement, a cell therapy collaboration and more."
-    publishedDateTime: 2021-10-08T17:06:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2021/10/08/lab-notes-interius-proscia-century-therapeutics.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "8sIhnfG0WbEGj0/cW1LBu8YTIIhXrjzkse3NRBI7ysoH/Zys4xfhwpFlBjLxIHiqnN+yiz5KY8HrKYITvcLyjNrNOIUYaVjNgBY2VA1GjZMuCmdQ4j/RAG2vRzpeGQhBwRS0/CMqpvTiBuoVH0hz5tsrFegdyEfDah2MOk3Io4ExpzCk2Zc9yplLXiLAvEOsjIdaoiSCS4voOP0abbt51Eeq4OHa/Ug6Gw4k7ePFjuM6qEB/ZXiGxIs7nEhOiKVvbtzYEp77aZw5t5+yu67db5QwndRqUEhX00/i/CgNGAxeJPGwv7xRNDD/f2vB+8wng+s7bSIXVUsr1Boet7G3r9VqWXBPzTUoWlmkNBvXxvxPU/YP38XksbfTQz1sWNuOMNNgRHzKboJejehKvJRkYHchNJ/UHzmWaVTzfachOI3y0i3wg1rJuHx/j6lB0w6zPn48zHixbq9eZD68MEDtwTriz3JRoqpqq3kA8ueb9/cZvkKjvjfiCqPsGTKe2xjusJCDUYxpQHMR/xnNvqqLAQ==;eBOS4s4xbJx0ZoZkczhSzw=="
 ---
 

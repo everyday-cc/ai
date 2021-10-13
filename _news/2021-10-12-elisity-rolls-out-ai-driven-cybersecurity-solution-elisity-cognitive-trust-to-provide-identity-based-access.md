@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Deep Instinct Report Highlights Need to Rethink Approach to Cybersecurity"
+    excerpt: "The Voice of SecOps Report from Deep Instinct contains a variety of interesting insights and shows why we need a new approach to security."
+    publishedDateTime: 2021-10-13T11:03:00Z
+    webUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/"
+    ampWebUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 43
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2021/10/deep.png"
+        width: 820
+        height: 479
+        isCached: true
 
 secured: "FlaqLuEckNLQudZ4gDXDjfO/K66L6FeYpP3dPJXO67dT3DUvgNqOMtU1s6rz8TPZiW5qdc7ixTZXIjZQM70RTFWOaMNfImcYBe20nWOXZA+WMlFut9d9yBbOPrC7EyxDjuveis6SKU9JPPM2HDaK1UTpmGuiBARqBiUAKTkcy9enR95IibDjFs36jl7wj3gt13tc7yXgpJ5hrLQ2CTtCO3lUvOLi1dSmSzWHm1I9+fdoeC9XbMoMib2A+qFHIjjnJ0bblrbV+1Wz3s7744M02nHxOdXvWVrKwrIWM99h1G+ZBbCfR9HDNjuXuLslBGJOSp1I/AuHpiiM8rwt0D0DgEvL8PL3OIj2YSx2dYrjUh/YjjxT73oEF12Re80AmqYsOrC+fZvDcMtqkBHfzLGFoHnHxiC/7/Oevcu0DXREY4IxBb2RrU7meX39fxNgvh9zIx113eRfVtt6v6AugwNdNc9rFXWBjg71Yhu+4Rm32ahmKu9ik4GQfNqkjXxtygp+XXKhGV9gQMr41Ow04OIPwA==;YZO1mJCP/+ScorXuvVt4lQ=="
 ---

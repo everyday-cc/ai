@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."
+    publishedDateTime: 2021-10-13T11:24:00Z
+    webUrl: "https://menafn.com/1102961269/Fintech-Technologies-Market-Expected-to-Reach-69848-Billion-By-2030-Allied-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238679"
+        width: 400
+        height: 250
+        isCached: true
 
 secured: "Jn9a1CMOs8ySjDDZO0gu2p4qfkn2aXIxUpnGn22Cb06tHF74elK88UZZfIlrhlhLzNKMwrxxA3Hwic1RB3HKg+17glhVGsKL0/41Q1YPGMEdsKDsqQSsQIH9VVD+Wxj5x5Jt6SolL7agDElkX7kww+sHrxZuDwa7h2z6W5olAheM+No3gb5RoTRfOvmXsJOYFRlPTzGe/5Hr9qtxUx2f49JEZnEL/MhvgtlDac7aE0MFMYFFqSK5A/rqOa9ifKLscIlepQJ25fsgdYDk9NUf24/iDWWpnJvsaGEf5VyZbIFRhJ6bntkvRiKH7tWw0Sg3UzQlNkMchnkw5pRIoF6MZ4NO1YhEEHny1mgtdKFvmY8BGiCQzbXWmvgu3xMul8ZPRuVcdG0Db7gG3EaMvMx4FJL6c7CxTZ+GXwCgUmhdGEkgWLaKuJgHjX2crFimCiwLga4idMr+63sdC1ovoLNIq/AeHMGWmJttX59JV3XEgSmIShyjVjTU5dmEEdyCjGW2FmAoOhQYXAZIxMe31pnlcg==;vx0PWKf9SVxUbZLAKropOQ=="
 ---

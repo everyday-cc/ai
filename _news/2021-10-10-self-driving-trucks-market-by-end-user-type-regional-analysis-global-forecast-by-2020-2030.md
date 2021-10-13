@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
-    publishedDateTime: 2021-10-11T11:44:00Z
-    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
+  - title: "Artificial Intelligence Market Size by Technology: Market Analysis Report, Forecast 2020-2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 12, 2021, 11:08 /Comserve / -- The global Artificial Intelligence market is segregated on the basis of Technology as Natural Language Processing, Context-Aware Computing,"
+    publishedDateTime: 2021-10-13T05:19:00Z
+    webUrl: "https://menafn.com/1102960492/Artificial-Intelligence-Market-Size-by-Technology-Market-Analysis-Report-Forecast-2020-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 28
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
-        width: 357
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?831406"
+        width: 362
         height: 250
         isCached: true
 

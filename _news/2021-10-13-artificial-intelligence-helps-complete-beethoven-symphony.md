@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence helps complete Beethoven Symphony"
-excerpt: "The idea was to use AI to analyse and learn from all of the data of Beethoven's artistic legacy given by the team and see what it could come up with."
-publishedDateTime: 2021-10-13T04:27:00Z
-originalUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105"
-webUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105"
-ampWebUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
-cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
+excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
+publishedDateTime: 2021-10-13T09:42:00Z
+originalUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
+webUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Astro Awani
-  domain: astroawani.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://img.astroawani.com/2021-10/81634096176_WalterWerzowa.jpg"
-    width: 590
-    height: 400
+  - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
         height: 800
         isCached: true
 
-secured: "GgpF5AMDIGzScg/SF6Se+R7mlDbR3Mt06yy5skAxOwBKNgD1bUrz92EoZTvee30v1+BTHY30oAWmLEXxNNJMzT95HNzqXsXvonBZwh/NWmghhJgg+xi6HucnevJOcKXpW2kQJ/aNEU8JmwqHg1aa/KyA4p0tdC7DvepCkB+zO+BQ992T116PETXBzz2i8htNcKriIlFxf9uRKIz+EEvDt2gcGWJZVkUcb+7DoLKhiApjClFIYKPLUCGOjwtetmEiHoFxsy8EqzD86XyjMLdnbk3JENmn6ERKnc/UfEU/jft/dKFGUpR/U8LBKA/lt6e/fVKdDWie06XVhLqpbboOrBUZIB82FFQFMjfgv+lnxSnP0974N/a0CJeIdvzpLsjA7NIH8kxBYDPGYtELLv1P4w3dsgOEKvu3ktJEjtMOMqxKRjq9lxExy/yMCtd5IBwLPadvSUQNe9iv3DwoZ4IWVh5tvfbVh1FWiZjAjd9KbZicK1W+fAbjC8O6/IOMmE8JBFagR9sTxEmaLQFYdmG0Wg==;F+Lg2BRMdIDrxx1iM3o2pw=="
+secured: "Dij3lTPervxP1kssNmODrZmT8dEM1fTDj2RbuEoUovX5yxS+OSREAW+Pe5nv27gjle88wsVpPhJB/vULpnVBts+svUzb4uy/RnXfNefuo6KmafGh8OCiOIX2XUBq84XGuBV09eyuU7nA/oAU4kBgSIJQkR5WFcG0klVJneDHvgpkIEOe231+b5Bk3WVrcGtQSP8HlWgnLymhXyeKNSBxS3//hhzcb4Feg5pHvlHZF+LqkI7/ZbUJHQRgZQD+His/Wo0sMzBpQlNyxYPy6Otnk7VBppVIf/qdn1D66s+rI3lfyUw2R2ArSZ5hthu1vNRqlJx6+9s+pVxh5ycpGhqV9cwKLAAtlKtuovLJ1Ty+rF4=;7Mw8tsTgrAh05NaCp6m44w=="
 ---
 

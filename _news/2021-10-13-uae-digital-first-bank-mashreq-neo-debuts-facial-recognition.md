@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-dig
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://amp.khaleejtimes.com/storyimage/KT/20211012/ARTICLE/211019701/AR/0/AR-211019701.jpg&NCS_modified=20211012145946&MaxH=225&imageVersion=16by9"
         width: 400
         height: 225
+        isCached: true
+  - title: "Mashreq NEO to become first Digital Bank in UAE to use Facial Recognition for Bank Account Openings"
+    excerpt: "Mashreq NEO collaborates with Ministry of Interior (MOI) to introduce an innovative face biometric based digital account opening process <stro"
+    publishedDateTime: 2021-10-13T11:16:00Z
+    webUrl: "https://menafn.com/1102960941/Mashreq-NEO-to-become-first-Digital-Bank-in-UAE-to-use-Facial-Recognition-for-Bank-Account-Openings"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238679"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "GpVm2NEBIbXQoBfwkBUAd0nOsTVOgsUSW1eh4gTzSXplcj06pDd+Jc2/FQdsKr800huId83hOfmOlY11spA0u6XJKKNhEoScASveVyGtk16HHCuxU+IN+kgXun/scfXcKF2SiP1FP1K2R8YHKYNwoF8I5/tMONLJFU6hDuCP8kzz3jY+tWWpeq8XGQlf+e8pscsTVxjr/e17ofv2R4VMkj7NcImQaqNBOPoqNaKPaJ/xylpdlys8eWMxjNsCUcR0DHAdxneyHwm4VBFoh9Pv3ryxqZPKqy9AOKZaUlKDOmfG17QGrCGnVu7qOJO2wOXswado5urqcIkOQOW/0fAT8Pk258TIr5yuzQYirOlyiFDdCcbAsqgEmCrcb/KloeCRfrYcW1OrUUUT7OpBLeui4bUm1UK9Ynxm+OqVxoAOTRUFZ5dyHd3yYCrUGtT/tmBTiu7acExobWb31R2Kff+eXD0bqv2HQiC25V5SWrF2bEqAEXFCyaNWLUD3BzXXeK+kyfcZ8m+SSQdE/e7vbkuvow==;G3Co+X0ugzbZkm1rBrq87w=="

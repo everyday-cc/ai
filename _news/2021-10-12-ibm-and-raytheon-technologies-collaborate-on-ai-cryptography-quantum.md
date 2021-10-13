@@ -28,13 +28,13 @@ images:
 related:
   - title: "IBM and Raytheon Technologies to Collaborate on Artificial Intelligence, Cryptography and Quantum Technologies"
     excerpt: "IBM (NYSE: IBM) and Raytheon Technologies (NYSE: RTX) will jointly develop advanced artificial intelligence, cryptographic and quantum solutions for the aerospace, defense and intelligence industries,"
-    publishedDateTime: 2021-10-11T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies-1030856332"
+    publishedDateTime: 2021-10-11T09:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20211011cl34576/ibm-and-raytheon-technologies-to-collaborate-on-artificial-intelligence-cryptography-and-quantum-technologies"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
     images:
       - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400

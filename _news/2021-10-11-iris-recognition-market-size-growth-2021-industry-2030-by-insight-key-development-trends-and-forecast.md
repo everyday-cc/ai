@@ -41,6 +41,20 @@ related:
         width: 657
         height: 400
         isCached: true
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043451.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
     publishedDateTime: 2021-10-11T13:28:00Z
@@ -73,6 +87,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
+    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
+    publishedDateTime: 2021-10-13T11:13:00Z
+    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "hkcjgasyMyDLL8d/prqkwWVHstvNotGpgwwKG9jIc2mJEEHbSILQWsIVDG2/wjbC+CWnvBerVjL6+9iumCOnO0mV4wwgnc+MXy0WB2rCI2UP02peifsIUV9P3zonopCPjGWSvowqWsQ+iIp04lpKKJ2fNu7N1IoT/5AyRwcNn4HEpAiIL+mknIHO1X2rLHdloR5CJdgApxWZJjX2PHa/4CAFoeMPMJ5hvYAroJ+ZpcHV/F3OYpJec3NV7VaV79aUNbM0cEeYvNQ6BffE49FrEIAsQzG2ky2MwLnsmqOJeEv8RMidQQBc1kufzIEDGihFqdkvJIHzbxgKiE5DfNKyN4APkcwcouYfYAtl9gdI4kVfT8UYQ9k/GupfXbbU1RVG5BCUclhiEi2EUG36yk/zlb2Xr5b9dmL4sgzv1526/8ctlTjJDdE9tT9ghqsxD//tTdwVC7oNsc67YqP5qc6DyQfDIX0gvhU5i8yvnXckSsRKiJPjVwkTWqaZcM4JicI3BuNVRNKbSpi80sfktuwytQ==;EiZPd9+9GmeDaNCMIYdVgw=="
 ---

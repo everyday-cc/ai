@@ -7,7 +7,7 @@ originalUrl: "https://www.inavateonthenet.net/news/article/eu-parliament-calls-f
 webUrl: "https://www.inavateonthenet.net/news/article/eu-parliament-calls-for-a-ban-on-facial-recognition-in-public-spaces"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: EU facial recognition ban highlights need for U.S. legislation"
-    excerpt: "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation."
-    publishedDateTime: 2021-10-08T18:15:00Z
-    webUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/"
-    ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 203
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
     excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
     publishedDateTime: 2021-10-11T08:37:00Z

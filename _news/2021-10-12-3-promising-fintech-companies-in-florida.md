@@ -97,6 +97,20 @@ related:
         width: 960
         height: 634
         isCached: true
+  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
+    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
+    publishedDateTime: 2021-10-13T11:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jRJFXPjX00l3OYz1SGLmXxn1E1ggxShKh2EFkUdxagAerzTp6uR3B/o54ZKuCaJoNIvKksDpW/s91Kvnmk6Qq0SUpKraxpBYlFxv+Ls56E+EFTSGrzFnpbzJdIcpswqIc7gWIdcroCX9Q4iyqrud9+gdcpppCmmfLasLSe9GaCyi5JOsfAKLM1Ht40mSo6Ak+eCcENIWWiymOyqEH5mevdm4IVbRgMNg5Glbhn5k830HXbn+n2z0aM4pVW8MLORV03zCIH0HaSWNBSYyGQV9ioXkZhD4EryjjSOrouAz84w7i83hUjAxHh8wPUeZ0HFNml1ohEkwxRwoyfdTPB+kWKgc7gP6Y5BdUqvaVz9krw8=;XK+OpXcTSJuAbldlIiJKjg=="
 ---

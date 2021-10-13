@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: EU facial recognition ban highlights need for U.S. legislation"
-    excerpt: "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation."
-    publishedDateTime: 2021-10-08T18:15:00Z
-    webUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/"
-    ampWebUrl: "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 203
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "EU parliament calls for a ban on facial recognition in public spaces"
     excerpt: "MEPs in the European Parliament have voted in favour (by 377-248) to ban automated facial recognition in public spaces in the European Union. In a resolution MEPs also asked for a ban on private facial recognition databases,"
     publishedDateTime: 2021-10-11T10:54:00Z
