@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "LabeledData"
   url: "https://twitter.com/LabeledData"
-  followers: 162
+  followers: 163
 
 locations:
   - San Francisco, CA
