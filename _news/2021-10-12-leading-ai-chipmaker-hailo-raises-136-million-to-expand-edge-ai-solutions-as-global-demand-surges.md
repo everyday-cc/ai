@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Leading AI Chipmaker Hailo Raises $136 Million to Expand Edge AI Solutions as Global Demand Surges"
-excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $136 million in a Series C funding round led by"
-publishedDateTime: 2021-10-12T11:00:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-301397699.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-301397699.html"
+excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $ 136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round was joined by existing investors,"
+publishedDateTime: 2021-10-12T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-1030858583"
+webUrl: "https://markets.businessinsider.com/news/stocks/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-1030858583"
 type: article
-quality: 20
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -140,6 +144,6 @@ related:
         height: 392
         isCached: true
 
-secured: "+cndnxjJrGV4ULg/BnyDBoEVBvry9+0q1ch8ZJUw5dHx7mNxsOCNPDwssixXERMW5+GW6dBEZDtQZ7DHEW4PMjMrpA5/Pfr2cN8hJdDYBJdYdyx3N8XCS3gu8hN1EMfBBRnQl0Yfeq9W4oXEnl9MoOkjOpJ30StEapAssLd99IYy2PtT8mp/GkpJye17joDMo1zNjJ5C+/o+qsWvhm4jUcWzzOw9w784y78uldmDC/6eDuyuKrm4FqwVC5+e0VERtupU+weiOWZYHen6vm+8vo0wRpsfV1tC+bCBHCxfq/cT9xZjFYz70XOBH1eNuRCgm+le0nw2S25nYzI55hkgkRtCwp0c2y+klOOdyNY3VQ8=;6mPMJrKjISXaHMwhAccJMA=="
+secured: "yGCxWZeONIJZGDtr5eO+2GYMZ1e3Fk46LBI50gB9+PJCJNdwpmkA1T6hFDD1zTSke60muzMftMRg3ZXWLhVW/fqQw9sXY7DPQnovmfUTOdwZ8yDKSyooKwJUDcSNraY+fwWqSI9iKlo2CD75pamNjVW0Eqb1bLnAHRx9TuvP71rhBFA99b88Up5Ctfk/lbZ9z2s9g3AXGfu89avaRmqJGo4xjg/siqB+IU+kMP6z7HBxC1rTKZpYAgulVO/THxCZMCLQ1NlC8IXovLk5pYs/xTqws8DPo+u88Dp5pnU8qIChG7PcXgy1v+GiXRbBwZccuu77w52/4XT8+mZmK7k5zXbfEjHbOy1vPsgBUa5rztI=;LgIKiDE7sRy52s3OjqnYyw=="
 ---
 

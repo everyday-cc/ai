@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-cura
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 396
     height: 397
     isCached: true
+
+related:
+  - title: "Cracking the Mystery of Deep Learning"
+    excerpt: "In the machine learning world, the sizes of artificial neural networks — and their outsize successes — are creating conceptual conundrums. When a network named AlexNet won an annual image"
+    publishedDateTime: 2021-10-12T05:00:00Z
+    webUrl: "https://www.realclearscience.com/2021/10/12/cracking_the_mystery_of_deep_learning_798499.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 19
 
 secured: "HuwuT6kgA9qE49KK5OPeDWILFTlKI1GfO5R4SjRqeIYSou2XSqfASWAaFhHnXf3K1ztGgxi9ad0ZGDxiTySmLjVRDyLYY3wqcFnut4oH98oIDdn5g1HbYkVFp/fhXgb8zYKZhCRPU5NmbqIwv9C5S1/ah+w3xvkdDbsDE/NwS2mMA5y+u+KrcmRk7GkI+wMonLUTYDjnXuWK4cXXTK9m4lSe6344ixJYIZ7LmaaVHg+r3RHY0nNZOO7lAz2VkIgHUKMUn/uDzDFelxFqlabsB2yhlLM3bWr5T0YZAjTqHtv3Ke00KVFxWNhfRaunlYj01KHnIOceLwRSj9dHQHASI9q8lWYrCpPTfW0FoUA5gz0=;1g+C6L0aFKDxKCNWiaCMdQ=="
 ---

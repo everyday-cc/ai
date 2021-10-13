@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-in-c
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-in-chatbot-security-market-build-a-business-opportunity-of-continuous-technology-innovation/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,31 +21,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+  - title: "Meet Parker adds multilingual AI translation service to chatbot"
+    excerpt: "AI technology provider Meet Parker has added the use of a multi-language translation to its ‘Parker’ chatbot. This multilingual feature will provide automatic translation of chat between Parker and customer."
+    publishedDateTime: 2021-10-13T03:00:00Z
+    webUrl: "https://www.mortgageintroducer.com/meet-parker-multilingual-ai-translation-service-chatbot/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: Mortgage Introducer
+      domain: mortgageintroducer.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2020/06/shutterstock_618880562.jpg"
+        width: 1000
+        height: 546
         isCached: true
-  - title: "AI in Financial Asset Management Market Trends, Business Outlook"
-    excerpt: "Report Pages ] In recent years, financial institutions are adopting the artificial intelligence (AI) technology for managing their financial assets and reducing operating cost, thereby increasing the revenue."
-    publishedDateTime: 2021-10-08T12:12:00Z
-    webUrl: "https://www.pr-inside.com/ai-in-financial-asset-management-market-trends-business-outlook-r4850183.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 19
 
 secured: "43vO6agiwMjyWPPgw96Fq73l68xsX5dp4h05KpFhyFehHt8RHl2H2qVmmndihuuwhMcOPV0Hkmlt+IL2Vjw1z2sg3KTUc/rGeVm85pSK/Pb18cVIqehZ1Grmr6kDXrjU+sLUft6ePoCRJ78zNJWZMcQijZObJLbvqg+44RsDbaTBzh2LnicvSO1JKp/5qIiSGF2FP1st/Dc2VCV6EWY5foFoqTdks5vtoNkD+e91Mzad2pJ3jNW4vQe5Bz+Kp+ofYH/IuaPQ1ajyKsYAIp46Pvvv2pRoLokZQEm2kdIYtGqt+qk2ScnZG3TOcUeJcwkp/sMXyis6kJVH9qXtfQelDVfKoBt/mfzEZ0aXPYw29YQ7LxDX8cAZ5d2pJMKrHcuvlfqEn9KM8TWCpEL696dtOaavXO7tUGPMIrNuKPEpEMo4A5YMK84XghQI6ld4suioXv7/aP7hYpYt9qjD5he61NrMxzX3XvszO/KOArE//jtusH/Wz0B/MnzkrUPemzlZ+S2jfKPAPmnzuaBIwzDSFQ==;Ngc8xrRrFy0Z8J/Zb5HFig=="
 ---

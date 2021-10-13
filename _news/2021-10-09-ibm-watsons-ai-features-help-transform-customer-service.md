@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent"
-    excerpt: "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase"
-    publishedDateTime: 2021-10-08T12:00:16Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/"
+  - title: "IBM says AI can help track carbon pollution across vast supply chains"
+    excerpt: "Finding sources of pollution across vast supply chains may be one of the largest barriers to eliminating carbon pollution. For some sources like electricity or transportation, it's relatively easy. But for others like agriculture or consumer electronics,"
+    publishedDateTime: 2021-10-12T16:48:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/10/ibm-says-ai-can-help-track-carbon-pollution-across-vast-supply-chains/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 105
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg"
-        width: 2000
-        height: 1007
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1160485212-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "MH3Hr9sVaV513dKQeXFrsqu2B7g8w8m/JxMyAYSVawtjXsHRdPmiN4fkinfgwozniQnqqETkH6hRy56WPMlDTIHCoqn89ckb6TlkDINfcob5ad81XNp1QdSDm4Mq8or4yptm06Wq//7eFqdFKIpQtPizsfCKNZ2+BgkzA/rjR30uWaeYsJQEmD6CGUL6v9oyMOMzuBgtAOcvDQltRy9xomivPY8DGm/f29bdEAQzUYCT3qaSxV+qz93Xvv40DPZgVF79hUQU5SzAb99/i3BAq7WGrmeJUUqR3yR0VNlLw2uy62HH8KZunGgriQsqypaYHmImfxxE1Bg9uboA7zmNyu9/3ucFvUKV71Ds6Kj34jc=;CGZXa9H/Dwvi2G1GHeCtUA=="

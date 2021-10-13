@@ -55,6 +55,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Here Are The Benefits Of A Digital Transformation In Healthcare"
+    excerpt: "Source Technological advancements have not only revolutionized the way people navigate their daily lives, but the way businesses operate and"
+    publishedDateTime: 2021-10-13T05:00:00Z
+    webUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/"
+    ampWebUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
+    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/10/healthcare-and-digital-transformation.png?fit=1000%2C500&ssl=1"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "qU4rT7kBg43zZTvOdaCuuNV87+izMioIrjNtAnqEBQcJzQ5peIIBSKLQs5X6ZRyBqTlVmT3QQJIGlKEdBM4IS9MJuHfuznC8yF4go5TtgWQgXqhDQHmzHy/6LaKvr0sSmZ0k6gSOSavOtzOfFDrvpTCtgr3tizoM4Yc8BiEwPHIzNQ8QagrIpXyW80IHcsR6j6Ij6xBpkjNXSxTab2OTUZ7XHN+BV7GHifQtbqBVXKJGRhtUhWUGyvHebuzGZrF0yvYt120KroEduZb/5BaNXIughbKcBo/G2IYpPqk9CSw9UDo5glTSkAuRtos3CphDhmqfu97/c6vTJdmb45aI14qBDdMNRhXVrFgqpnqWh1M=;SRW92SuKNe92/uEeX/jFJA=="
 ---

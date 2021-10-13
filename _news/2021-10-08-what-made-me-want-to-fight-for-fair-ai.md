@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/am
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists want to use artificial intelligence to save Maine’s coast"
+    excerpt: "With artificial intelligence, forecasting ocean activity will be constantly improving in accuracy even as the climate changes."
+    publishedDateTime: 2021-10-13T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/10/13/homestead/scientists-want-to-use-artificial-intelligence-to-save-maines-coast/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 52
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/10/red.tide1-kc-1.jpg?fit=2000%2C1307&#038;ssl=1"
+        width: 2000
+        height: 1307
+        isCached: true
   - title: "Bill of Rights: The US wants to set the law for artificial intelligence"
     excerpt: "Reports claim that the White House Office of Science and Technology Policy is developing law to guard against artificial intelligence — with input from"
     publishedDateTime: 2021-10-12T11:49:00Z

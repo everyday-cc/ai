@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png"
         width: 600
         height: 337
+        isCached: true
+  - title: "Germany launches world’s first self-driving train – Know details"
+    excerpt: "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,"
+    publishedDateTime: 2021-10-13T04:44:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 59
+    images:
+      - url: "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Germany to have first self-driving train in the world"
     excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."

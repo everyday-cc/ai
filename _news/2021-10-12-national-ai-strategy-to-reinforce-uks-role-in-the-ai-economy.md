@@ -7,7 +7,7 @@ originalUrl: "https://www.softwaretestingnews.co.uk/national-ai-strategy-to-rein
 webUrl: "https://www.softwaretestingnews.co.uk/national-ai-strategy-to-reinforce-uks-role-in-the-ai-economy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Liberian Gets International Recognition for Excellence in Information Technology"
-    excerpt: "US based Liberian, Abraham P. Detrench Kallon has been included in 'Marquis Who's Who', the world's leading biographical publisher, dedicated to chronicling the lives of the most accomplished individuals and innovators from every significant field of endeavor,"
-    publishedDateTime: 2021-10-12T07:24:00Z
-    webUrl: "https://allafrica.com/stories/202110120113.html"
+  - title: "New Ten-year Plan to Make the UK a Global AI Superpower"
+    excerpt: "A National AI Strategy to boost business use of AI, attract international investment and develop next generation of tech talent has launched. The UK"
+    publishedDateTime: 2021-10-13T04:30:00Z
+    webUrl: "https://businessnewswales.com/new-ten-year-plan-to-make-the-uk-a-global-ai-superpower/"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 19
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 41
     images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
+      - url: "https://businessnewswales.com/wp-content/uploads/Chris_Philp_AI_summit-uk-gov.jpg"
+        width: 580
+        height: 385
         isCached: true
 
 secured: "Qs0yjLIdmLh3q27F59FAkTHYuxR7ObZfKUe5dhI9eaAPBjtC5/H6WUQx3MrtmydniR2GyaT87YI14wdcaDdo7c+qDVVYyHITS6Yr714q2qo1Eyw2dBXXMElHHqtlYhQDvIla9E/vX+FYT43fw9BtYnel7HMwJliwJA1djh5+VHf+RldV0rpEUvmc5bvCrZOCDN2jnxoxwBq2tTBsEaQlndzhMGChrfz86cUIy5D0cRpko7uLoi2acS8PaYa0d5akSLsfnF81JhhPyiz88EXAcSLbL6osqdmI7/55vctEbV+yQzu3F63RiTat+fVtBLOF7k160GLJ+s2EMKNDOJlwcBk22Y/3xxcxqqQhQ7L5pX4=;nOXKI4wkYRp6LlmfjCduJw=="

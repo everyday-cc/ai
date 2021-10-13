@@ -40,6 +40,20 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Scientists want to use artificial intelligence to save Maine’s coast"
+    excerpt: "With artificial intelligence, forecasting ocean activity will be constantly improving in accuracy even as the climate changes."
+    publishedDateTime: 2021-10-13T05:00:00Z
+    webUrl: "https://bangordailynews.com/2021/10/13/homestead/scientists-want-to-use-artificial-intelligence-to-save-maines-coast/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 52
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/10/red.tide1-kc-1.jpg?fit=2000%2C1307&#038;ssl=1"
+        width: 2000
+        height: 1307
+        isCached: true
   - title: "Using Artificial Intelligence To Fight Cancer"
     excerpt: "AI can help doctors make correct treatment decisions, reduce unnecessary surgeries, and help oncologists improve cancer treatment plans."
     publishedDateTime: 2021-10-08T16:31:00Z

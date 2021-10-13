@@ -39,22 +39,6 @@ related:
         width: 770
         height: 420
         isCached: true
-  - title: "Artificial intelligence can help halve road deaths by 2030"
-    excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone"
-    publishedDateTime: 2021-10-08T11:37:00Z
-    webUrl: "https://www.daily-sun.com/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/581176/Artificial-intelligence-can-help-halve-road-deaths-by-2030"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 59
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/10/08/Artificial_Intelligence.jpg"
-        width: 960
-        height: 564
-        isCached: true
   - title: "Artificial intelligence can help halve road deaths by 2030: UN"
     excerpt: "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative."
     publishedDateTime: 2021-10-11T13:04:00Z

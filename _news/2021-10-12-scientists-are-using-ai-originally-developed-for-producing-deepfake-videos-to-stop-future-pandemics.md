@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated deepfake voices can fool both humans and smart assistants"
-    excerpt: "Deepfake tools that mimic a particular individual's voice from just a few snippets of audio are good enough to trick humans and bypass voice recognition systems"
-    publishedDateTime: 2021-10-08T11:41:00Z
-    webUrl: "https://www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/"
-    ampWebUrl: "https://www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293138-ai-generated-deepfake-voices-can-fool-both-humans-and-smart-assistants/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.7276f163.png"
-        width: 483
-        height: 400
-        isCached: true
   - title: "AI-generated deepfake voices can fool both smart assistants and humans with 5 ..."
     excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were"
     publishedDateTime: 2021-10-11T20:06:00Z

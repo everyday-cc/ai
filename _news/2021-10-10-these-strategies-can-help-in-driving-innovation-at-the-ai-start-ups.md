@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Time Is Ripe For Responsible AI In Aviation"
-    excerpt: "AI is here for over 60 years, advances in computing and access to data have allowed many industries to exploit the potential of ML algorithms."
-    publishedDateTime: 2021-10-08T12:31:00Z
-    webUrl: "https://analyticsindiamag.com/time-is-ripe-for-responsible-ai-in-aviation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Time-Is-Ripe-For-Responsible-AI-In-Aviation.jpg"
-        width: 1600
-        height: 1064
-        isCached: true
   - title: "Driving AI innovation through a National Research Cloud"
     excerpt: "The NRC will provide affordable access to high-end computational resources, large-scale government datasets in a secure cloud environment and a close partnership between academia, government and industry."
     publishedDateTime: 2021-10-12T16:32:00Z

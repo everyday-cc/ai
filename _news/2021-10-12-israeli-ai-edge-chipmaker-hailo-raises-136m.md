@@ -132,14 +132,14 @@ related:
         height: 392
         isCached: true
   - title: "Leading AI Chipmaker Hailo Raises $136 Million to Expand Edge AI Solutions as Global Demand Surges"
-    excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $136 million in a Series C funding round led by"
-    publishedDateTime: 2021-10-12T11:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-301397699.html"
+    excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $ 136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round was joined by existing investors,"
+    publishedDateTime: 2021-10-12T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-1030858583"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
 
 secured: "+tCqifnGe0ZWbni1ItBBEDo3TS1ZxuVygmUCOzJukvuFETB/96dpcgj5IFCSUcRN4lbYRkmpxW+g9Uz1YC8OX/5y5UVn50KrzIDvzbMJyunLAP0P7mQmc9GU0utTZiXmVm6n1iPouZfQT/vwU75PduPd/dW8uB35sUUjeI6j5HnIF3HfmXdg20DvIICSD/tvfcAWcXa6hkcKZdGQilAV/yZsTq7ICtpBe68N9BKhxxqbLMAY8JoLMcnvmbAW2Z4MqbRKQ7BP+OxITmzpFEf8qvTs4cfUM/6LZcj0k7Sej/htPJfqiXxnB9dY8zKwdGnWuwVfSAs1BSFxL8CyJwP8r6sgHfkXyOwvB7nHf598L0k=;v8UWMk43Hefa/CuOmrVrXQ=="
 ---

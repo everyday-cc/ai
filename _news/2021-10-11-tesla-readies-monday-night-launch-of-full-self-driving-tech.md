@@ -148,6 +148,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included"
+    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\"."
+    publishedDateTime: 2021-10-13T04:02:00Z
+    webUrl: "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
+    ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 66
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
     excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."
     publishedDateTime: 2021-10-11T15:26:00Z

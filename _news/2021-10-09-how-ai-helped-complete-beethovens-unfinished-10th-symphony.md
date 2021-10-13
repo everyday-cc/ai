@@ -40,6 +40,22 @@ related:
         width: 724
         height: 543
         isCached: true
+  - title: "Artificial Intelligence helps complete Beethoven Symphony"
+    excerpt: "The idea was to use AI to analyse and learn from all of the data of Beethoven's artistic legacy given by the team and see what it could come up with."
+    publishedDateTime: 2021-10-13T04:27:00Z
+    webUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105"
+    ampWebUrl: "https://www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-hiburan/artificial-intelligence-helps-complete-beethoven-symphony-325105?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 57
+    images:
+      - url: "https://img.astroawani.com/2021-10/81634096176_WalterWerzowa.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
     excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
     publishedDateTime: 2021-10-12T17:49:00Z

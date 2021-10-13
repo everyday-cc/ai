@@ -83,6 +83,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Here's How Microsoft Is Using Artificial Intelligence"
+    excerpt: "Microsoft (NASDAQ:MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
+    publishedDateTime: 2021-10-12T20:09:00Z
+    webUrl: "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
   - title: "Nexer Insight Has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Nexer Insight has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep"
     publishedDateTime: 2021-10-11T09:20:00Z
@@ -154,6 +165,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
+  - title: "Microsoft Translator Can Now Translate More Than 100 Languages And Dialects"
+    excerpt: "Microsoft says that its Translator can now make text and information in documents accessible to 5.66 billion people worldwide."
+    publishedDateTime: 2021-10-13T05:46:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-translator-can-now-translate-more-than-100-languages-and-dialects/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Microsofttt.png"
+        width: 1739
+        height: 831
+        isCached: true
   - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
     excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
     publishedDateTime: 2021-10-11T17:27:00Z
