@@ -21,49 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Intel imparts training in AI to over 2 lakh students in India"
-    excerpt: "As of today, the company has already trained over 2 lakh students between 8th standard and 12th standard in AI and has upskilled 5,000 government officials. “In July this year, Intel launched ‘AI for All’ programme with a target of enabling over one million citizens with knowledge and know-how of AI,"
-    publishedDateTime: 2021-10-10T12:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
+  - title: "Top 10 Computer Vision Companies In India To Keep An Eye On"
+    excerpt: "We take a look at various emerging startups with roots in India that are using computer vision tech to solve a variety of problems"
+    publishedDateTime: 2021-10-12T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-10-computer-vision-companies-in-india-to-keep-an-eye-on/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/60pd5t/article36927597.ece/ALTERNATES/LANDSCAPE_615/Nivruti-Rai"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Purdue study: Indiana lagging behind in AI, data techg"
-    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
-    publishedDateTime: 2021-10-11T02:07:00Z
-    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
-    type: article
-    provider:
-      name: Tribune Star
-      domain: tribstar.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
-        width: 660
-        height: 600
-        isCached: true
-  - title: "Purdue study: Indiana lagging behind in AI, data tech"
-    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
-    publishedDateTime: 2021-10-11T02:07:00Z
-    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-tech/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
-    type: article
-    provider:
-      name: Tribune Star
-      domain: tribstar.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
-        width: 660
-        height: 600
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/computer-vision.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "T9z5uqBQ2HSHYaioTEj7RUfL4l0LMwitTzXwp3ic69AUR1n+HO7t3yiCFhmq37ZGwBKTsUR2XMLwz0UWC9NdadZX/iN46BnSwpaXYac3A0m+PlQ2fnGDMMDLuTGgAlo+vaHKDRtwbmN4nRdHqvJA+tu6TSJXU5wQ+ASHlrZPBWDyyeaiwAt7boXchVA5XmkVIUI9orrPPpgcQs8jY44zu/TeMWmUTFxsMgqn+eoggtCT+dAL1CMvJBsQ5RAOGEBlI4hYO6gvz2JwthWmYM8YTIrybAD5m7tqZTrYc1vdGgp/WBVtqNTC4yplz2RNT6EHfJfBu+wnFF2JNecN0c9OqMtR3o1rJPLW6au+xXrkgE0fiWETYrLzJPF1Ef0UzUZcoBlsGnxfyHVoxUG0Zq0zAQBZpM3YPLlJzriTVUZokvA3KW8VZ73cWr7v+OzLR1vNEI1XRDxqov4WlYIj/52020ghmY3MmerYD22N4xoxjtfFlgtTAqANdgXyWGk9p2TcvdysSVd6/Cx142v4NRvDkg==;Pib752/SaqBfW74xrLQE0Q=="

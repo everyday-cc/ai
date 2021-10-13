@@ -24,6 +24,36 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Purdue study: Indiana lagging behind in AI, data techg"
+    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
+    publishedDateTime: 2021-10-11T02:07:00Z
+    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+    type: article
+    provider:
+      name: Tribune Star
+      domain: tribstar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
+        width: 660
+        height: 600
+        isCached: true
+  - title: "Purdue study: Indiana lagging behind in AI, data tech"
+    excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
+    publishedDateTime: 2021-10-11T02:07:00Z
+    webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-tech/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
+    type: article
+    provider:
+      name: Tribune Star
+      domain: tribstar.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/e/95/e9551f95-1b77-53f6-aaa9-b3acc9f02b96/6163ac6dcbe56.image.jpg?resize=660%2C600"
+        width: 660
+        height: 600
+        isCached: true
+
 secured: "8KuSOqZDcxNDsPJrxwBtVoo9AhBZfo/14n+jfBzDwqxctRMBwCPH+0DWsnSZcjpCZSto+OSw+FqBWo8gmKMmOtF91kSmDXg51+dnPfwCyluqccXrT61XeH+hhlEcf6Nw3OqlglkYpRPdTcjqzJmdDSOQqvYxfnQteVQgvOAbO7EZK3y//rIPlWtihpafykWh+FZauupEFQQ6eXu0tE9im6bNM6lgYWxmuwdtyFodODyWnhJ9bU9EDKumG1XA2Qgg76knPtFNwd1x4kkv6hPEs90LGBblfsIieLJQK69YRJxB32ZksgWCMckbLxv6f8EGIi8tDK7ICl2AutZuZ/21f8OTlAaaBHD0ljOrd1wHTFmOZertx0FF+6P8wa3S52t4dVRTalWzM1gdp+eJDqkTlPPjzLbq25K8Uumg0vGn7mqHa8jbAgaPeEKQXiJT6UAPkn07UhbshImy2UjyzowSV+Fa/gxFWvo3L6XAhm/fSWwZ0RS4+wb+LW7zMhOu/V50Yp4AtGEyAhdAnkYaZh+8Vw==;Tn9jFWIHAK/GNSkDmk5/sw=="
 ---
 

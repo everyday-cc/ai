@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots build vehicles at Nissan plant"
-    excerpt: "Nissan's “intelligent factory” hardly has any human workers. The robots do the work, including welding and moun"
-    publishedDateTime: 2021-10-09T04:00:00Z
-    webUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehicles-at-nissan-plant"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20211009/ARTICLE/310099979/AR/0/AR-310099979.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Smart robots do all the work at a Nissan plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
     publishedDateTime: 2021-10-09T11:00:00Z

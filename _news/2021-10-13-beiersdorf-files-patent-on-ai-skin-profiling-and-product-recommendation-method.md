@@ -7,7 +7,7 @@ originalUrl: "https://www.cosmeticsdesign-europe.com/Article/2021/10/13/Beiersdo
 webUrl: "https://www.cosmeticsdesign-europe.com/Article/2021/10/13/Beiersdorf-patents-AI-skin-profiling-and-personalised-product-recommendation-method"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,64 @@ images:
     width: 702
     height: 498
     isCached: true
+
+related:
+  - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
+    excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
+    publishedDateTime: 2021-10-13T20:43:00Z
+    webUrl: "https://fcw.com/articles/2021/10/13/ausa-ai-data-training-solsbury.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 51
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "YData secures €2.3 million to join the data preparation for AI race"
+    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
+    publishedDateTime: 2021-10-11T11:03:00Z
+    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
+        width: 960
+        height: 545
+        isCached: true
+  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
+    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
+    publishedDateTime: 2021-10-12T13:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 34
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "One particular aspect of the digital transformation that relies almost entirely on access to data is Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) relies on data both to make its decisions and to learn how to improve them; the higher the quality - and quantity - of data that AI applications can access, theoretically the better the outputs."
+    publishedDateTime: 2021-10-11T15:31:00Z
+    webUrl: "https://www.theparliamentmagazine.eu/news/article/intelligent-data"
+    type: article
+    provider:
+      name: The Parliament Magazine
+      domain: theparliamentmagazine.eu
+    quality: 12
+    images:
+      - url: "https://www.theparliamentmagazine.eu/siteimg/share/ugc-1/fullnews/news/23518/22897_original.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "qMp8GoPayGHhllC9CtyaOo2TVJfGChy7fJoMXtd5o2ghgtKBYEGGlXIvrqdvU6HMAoBLx8SnfhL4J6yuq6I6L7WA7Wqyl+esgrzHdonEeg5HC22Jrj0ezT3Da8cw8Dz5rfrBpXmtidJPbzSlJn8MIvWADpt4cHkSEWEVNT35FWZvLFJ1ZrJgfqoJ4OsP2OJh31T8KC0dKG9PYP7lv9fZ7thEPxydnAruShzQgiiTNEBESwAsiB4GgUvKAPJc9es15Y6GSzJkzld+xLuQO8aJqyIJsNKvOb5McftzCp2TmroZFKBvLEKpP70aW3NSB7GuUXZ1OaeaSGm/6t/+5w2IBLjxrL8ddOP0dQ+sqsRGPP8=;67HiYKnSAjgsQ8biETreIQ=="
 ---

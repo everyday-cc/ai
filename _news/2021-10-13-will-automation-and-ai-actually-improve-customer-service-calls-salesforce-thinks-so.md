@@ -34,7 +34,7 @@ related:
   - title: "CEO Salesforce Service Cloud: Automation and AI will actually humanize our customer service experiences"
     excerpt: "Clara Shih, CEO Salesforce Service Cloud, talks with TechRepublic's Bill Detwiler about how automation and AI will \"humanize\" customer service."
     publishedDateTime: 2021-10-13T15:00:00Z
-    webUrl: "https://www.techrepublic.com/index.php/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
+    webUrl: "https://www.techrepublic.com/videos/ceo-salesforce-service-cloud-automation-and-ai-will-actually-humanize-our-customer-service-experiences/"
     type: article
     provider:
       name: TechRepublic

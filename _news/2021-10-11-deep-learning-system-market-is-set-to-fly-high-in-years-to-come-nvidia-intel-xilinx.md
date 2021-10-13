@@ -43,6 +43,17 @@ related:
         width: 660
         height: 330
         isCached: true
+  - title: "AI Infrastructure Market is Going to Boom with Intel Corporation, NVIDIA Corporation, IBM, Xilinx"
+    excerpt: "Download Free Sample Copy of ‘ AI Infrastructure market’ Report @ Global AI Infrastructure Market to reach USD 100.8 billion by 2027. Global AI Infrastructure Market is valued approximately USD 18.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 27."
+    publishedDateTime: 2021-10-13T21:06:00Z
+    webUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/"
+    ampWebUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 24
 
 secured: "YnK5c5pnDJAf81O/NklW9NKYjvWH0+9n89P8cX3fzHSuQ3IKxRmtkqorTDNcG7rbXIDGCNpwwGHdSREsKmpZAJLs/wP9nCTvXSzAS/DtLn1UWHW+lYk/93kIiKpFHyKPdKp9/qOVBRPZX2i1IM/7wwMDvobDGoLBrlN9eiDh5m07A5O0RZ26PskhQVyAdN7fiY86MB/UKtv8EouTfARTt4yn94vaKkz+D/JzHWqkJ7L9uVG7XPyaL6lqamkemAFw4eJqafas4JVuPMgc/CRXmnbUIC6dt83BPKrqZUeix2HduM2+lNKq8poB+3AXS7tb4WmbT32T3znopokNLS5mZ175w3lmklOMl0g/KvloVITNqX4xroGsAVts93J+l1BvrO716dgavnmY6VSEKRfOlDf4TYh8nOyWlkW6lU+BkMariDNSB5FIwk23SUR92bLrahKV8pkzPtjK9Lne7F8U6mW0CGJObmf/FVU1ojStEm6tfEr3oamw4ygLyRqfTUU/9rVfUnWbODUtHo3U6dDGzQ==;Sgu9ZkDAljLmjXKjoWuEaQ=="
 ---

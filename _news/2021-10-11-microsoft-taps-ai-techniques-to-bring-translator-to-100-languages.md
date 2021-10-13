@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 326
+heat: 336
 published: true
 
 provider:
@@ -213,6 +213,17 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
+    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
+    publishedDateTime: 2021-10-13T20:34:00Z
+    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z

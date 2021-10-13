@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Mashreq NEO to become first Digital Bank in UAE to use Facial Recognition for Bank Account Openings"
-excerpt: "Mashreq NEO collaborates with Ministry of Interior (MOI) to introduce an innovative face biometric based digital account opening process <stro"
-publishedDateTime: 2021-10-13T11:16:00Z
-originalUrl: "https://menafn.com/1102960941/Mashreq-NEO-to-become-first-Digital-Bank-in-UAE-to-use-Facial-Recognition-for-Bank-Account-Openings"
-webUrl: "https://menafn.com/1102960941/Mashreq-NEO-to-become-first-Digital-Bank-in-UAE-to-use-Facial-Recognition-for-Bank-Account-Openings"
+title: "Mashreq NEO To Become First Digital Bank In UAE To Use Facial Recognition For Bank Account Openings"
+excerpt: "Mashreq NEO collaborates with Ministry of Interior (MOI) to introduce an innovative face biometric based digital account opening process. As part of the efforts to implement the directives of the UAE government in enhancing the quality of life for the Emirati community and its quest to sustain scientific and digital excellence,"
+publishedDateTime: 2021-10-13T16:06:00Z
+originalUrl: "https://hubbis.com/news/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition-for-bank-account-openings"
+webUrl: "https://hubbis.com/news/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition-for-bank-account-openings"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Hubbis
+  domain: hubbis.com
 
 topics:
   - Computer Vision
@@ -20,9 +20,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238679"
-    width: 400
-    height: 250
+  - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
         height: 225
         isCached: true
 
-secured: "em8Ovyalhm/EFpywDwWYorot69mTGA1FlagDd7UXydpizFOvKR3wl6rRlMNF9N8la/UgUtaz+Daol8OujziNCCNPi9kgLVsIHJ2W/krSAx8dv07MqtNeRDEv6+uuC1hfpuiOe+qlhdhkuN2SgQd2C3sGJV/sikOiw/Th7ccsit2yTvHDGBffQnI2OBYVlqNB3J+OQKBGkDGgMtC3S9NLyfGP+Lqul0VNPUk6rqsOysa+3yjTplUJnhJNDNZEfoRl6u8Ka5wJHTQPGNixtPGaFSmmltRdVwH7x6hXsMMwAIcgmge1XqG2xyx/JfV96uS/RQhjyl/dt12UZYSwqMtOY7bpvnjLtjOjgqecOC+Xsqk=;1gMR3OLG16RYHu+Ds4Ou6g=="
+secured: "BXCxmG9GcuI5gizbUfUHgGi9RWgmzCaLwukTiUc5dBcmw9XufpWMJmOesKe75oGoy+bBa7hnEvtkIwDpp+c/rpqaMxsBhDlyOCafPnf0nuPr+Jdsxw8QgiHlv5JB/ItZxBJYs5BI1xHV5p/q6DLr6d2pJv9ycwcF0Mt2374yyUNWl136d1UiGojBGSAsh+qxfJvOT1l5FpEYkiazt/qG9ry5jnZXUnTboq9SX4WZ7jDEWsgCbW4M/yG853zvN6K6ydXGoLcdK9GVl/H7WyuSxEOvjxK5os3JWbdlVA/Bv1mRN4ePzlZlTISZVuYNR+uVzz0ekJarw/wlbZ6R9JbRNEGd2Vy1E2yubH23aig9Y2k=;qI7XJHDBAhyODDQUm3/Glw=="
 ---
 

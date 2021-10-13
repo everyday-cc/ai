@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Data quality, AI and how ethics can be a competitive advantage"
+    excerpt: "AI can be misused, but how can businesses differentiate themselves from less ethical ones to gain competitive advantage?"
+    publishedDateTime: 2021-10-13T19:59:00Z
+    webUrl: "https://www.orange-business.com/en/blogs/data-quality-ai-and-how-ethics-can-be-competitive-advantage"
+    type: article
+    provider:
+      name: Orange Business Services
+      domain: orange-business.com
+    quality: 54
+    images:
+      - url: "https://www.orange-business.com/sites/default/files/blog_ai-ethics.png"
+        width: 530
+        height: 250
+        isCached: true
 
 secured: "yYoYgtwxhMuVVekxCORSQjUJIvnuvfiezmaU1axyWatMUuEkqtao3IuQLct/v9RdC7rNY+bQRFKpRz5IhCTwosPJMw8GLHb3Uvsigkz2YUzfGtU/fulpnGdPdT9hhBv2YBEr1MH8aesLQbfvXl/2C2mJOD0XzyWCYRZ33so3kaYMyRqxefU9DlP3r+3Qz9Li+77si+WUubxr9R1UJtf0ZIrRjm7Fbo2kePhf4JuRysCK0duCYau0KkK4AKBD5pMmkAEmQIddMQiN13ERE5Lf/72Hg4HxPjxA1ITzrjefO7seNKw9oOQ4jPOESM34Nrua9JQj8PAGWY2PeREbhPtrmrY6ebQ+ONsEhIqjoLMwFqE=;xmPEYME8zMG4mY4Zy9aBUg=="
 ---

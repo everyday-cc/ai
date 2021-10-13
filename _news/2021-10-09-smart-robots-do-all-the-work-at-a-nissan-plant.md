@@ -39,20 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Robots build vehicles at Nissan plant"
-    excerpt: "Nissan's “intelligent factory” hardly has any human workers. The robots do the work, including welding and moun"
-    publishedDateTime: 2021-10-09T04:00:00Z
-    webUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehicles-at-nissan-plant"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20211009/ARTICLE/310099979/AR/0/AR-310099979.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "I5kuPQ71SLP3YAabqiQ6aoKp5crfoy0LNc0HX24bWbkBSmVSJsEh7QuHU1LQ/KZiO/7Wm4b3VkkprJfrweJpYy9nBFnVGf3lpggLXofRuNRCAE9+9morBnh+SuBzjsA6eHVSRjEjnUu72lcJ/C1FZEpMZ0/h4pw99FzAZrnqMHuY9n9Z3TxAesE1c4j/eQoy6V21FnvKjaMyZNdwu/4yCae1CPT8VRwqLN/cbyZTa7luBvamLhJrHrSMxED/nx25iXPGRlc+PHxpMULNWhdI9AvWW7RDpgBTgKUVSloobtyHI1v7uwjSeIqnAO9GQ1o2rALoeTMgmuQVtHBshzPbKP0Dnj5ibWv0qY5T58bUn8xjHe9QrLQvQEfA0ivK9n7DuYGOf39GqGIiplIp0r83DSfj73r3OAffaH8O0Qcf7LktWqzkxZrcknE83BFo4t28oAOW6M9A/cw378JpPP4hKiRoY3eLA36O35JIc2cRGB+FOSGOv8wa8Mu08Od0q5Z8QW8v8TZMksMIN3q4XBDpNw==;ZiNTwOMcoWphHpfBvbIdOg=="
 ---

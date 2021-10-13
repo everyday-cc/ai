@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Startup Wayve Gets $13.6M Investment From Online Grocer Ocado"
-    excerpt: "British-based online grocer Ocado has invested £10 million ($13.6 million) in Wayve, a self-driving tech start-up that specializes in camera-based deep learning AI. Ocado and Way"
-    publishedDateTime: 2021-10-10T10:00:00Z
-    webUrl: "https://www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/"
-    ampWebUrl: "https://www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/online-grocer-ocado-invests-13-6-million-in-self-driving-startup-wayve/amp/"
+  - title: "Ouster Lidar Starts Automotive Division, Challenges Argo.AI and Waymo"
+    excerpt: "Competition in the American autonomous vehicle sector is starting to heat up in a big way. The San Francisco-based LiDAR manufacturer Ouster announced it would begin developing systems for autonomous vehicles,"
+    publishedDateTime: 2021-10-13T19:00:00Z
+    webUrl: "https://www.autoevolution.com/news/ouster-lidar-starts-automotive-division-challenges-argoai-and-waymo-171666.html"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 42
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 56
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Ocado-Wayve-Investment-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://s1.cdn.autoevolution.com/images/news/start-up-lidar-manufacturer-starts-automotive-division-challenges-waymo-and-argoai-171666_1.jpg"
+        width: 1390
+        height: 940
         isCached: true
 
 secured: "76cBoF/q2LF8AOKAUvprX4ZGmykiveOUEI6EVarFhaH8XfBSe4kdy2evmQ5poKRUiQgxodaD5rVi/eRCoJhsj0oBKEOEcpaFGd377Ice4E3RBQnyY8TIdpTUw76AIitPkOmrUXcoTCoFzYNgaaS1iWwDbuid/YTAQ2CChxZ8wvq6xJ0E/LtQYB837kRvPFkvExNf9AQ7LueiNKhQn+wGYw6dpFY8mi1OlwL+4d5PJvWw7PrxtVk2dFFUxLsl9oh34lD1rywRI3LO4YxOm/xw1IL0BMNP3x7pQvuCcsnplUPte2QhCl+YC0DwVnkJK3f0z/FTXpDFOlQKfplD+CgYa0mlhlr7bN5oZ3iN7osLtzcG5mRbHW3fSWgOCc3ekCbKF/Oxpzrtk2sQ/QTFEDWRktPBtheBe1Q1co7y9tE+Zvue9zJzK+hSTi6700f+nhL34vhoEK099pkEfbegSE5c7Ut9j3CYNCnvxleIJPgvbH1A0/QrmB1B4E+5DhOvghfm3PZNa/mon1K0O7POJXaJ6w==;3Wwh4rvqNnbpEqjFskYu7w=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2424329/deep-learning-system-software-mar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: openpr.com
@@ -43,6 +43,17 @@ related:
         width: 800
         height: 410
         isCached: true
+  - title: "AI Infrastructure Market is Going to Boom with Intel Corporation, NVIDIA Corporation, IBM, Xilinx"
+    excerpt: "Download Free Sample Copy of ‘ AI Infrastructure market’ Report @ Global AI Infrastructure Market to reach USD 100.8 billion by 2027. Global AI Infrastructure Market is valued approximately USD 18.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 27."
+    publishedDateTime: 2021-10-13T21:06:00Z
+    webUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/"
+    ampWebUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 24
 
 secured: "xdrN0PMJRbfR+Ubz1xtY8awToeI0IhHRx2x83qZCz2MIqrV6lyZnc7ypMmPMyNhO7O73EI7Zn1q1GAJp4FvHNAQ2HS0KxFLWa4jyEMMs+xT4DGPaOlgVkhmgWMDbRC6xNXJd2tP4KyWy/1kZktQ95p5lBeiooZ9TUkPQxTIA36uNO/22QyVEZiUqyES2ExP4jAkYhVHfFYRXD2kLBUlEiLTxM7Qb9TQQt+mXOo10ED0IlAW2aLmDMW18uNQceVp1gPOaG5dEyMQES5fuaECaGvoUpEKzOByo+D5fGX00w0didaHyoWxKyT/nDmoJu6BfuLaHtxtL8ksKmP1+d8An2ZC0dwRdLVJwjixBHqBFYXeUaT61iO4xChs1ZzY3Xk7/lgyhU4hfwhyB0jugnYUi8vxT3ER1dvDoIqOfVRJ4zYRIFdwc8ZAOFQHxZk1CecPifKRvbGUUb9TWCHMSHO8iHsQ88X4k37AYq7BziAr+eyrwyC+dl5T0Wm2M6IyIQJQqGH4mNPwiB/aSMMFNfj1iYA==;lwcuNepsQJE3amL+hKyzMw=="
 ---

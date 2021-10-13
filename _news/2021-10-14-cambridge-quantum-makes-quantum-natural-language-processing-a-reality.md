@@ -32,15 +32,15 @@ images:
 
 related:
   - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
-    publishedDateTime: 2021-10-13T07:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
+    excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing"
+    publishedDateTime: 2021-10-13T12:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 6
 
-secured: "7F8aKFv5woagZFg/kBs0xqrgjrRCJzf1h99l2YDZ65tNr5nnl4AuGbfDbBSNnfsUB2JBENUbPlaGL0nzMpjWDZWaE6AbQKEyNLKS1JRqglg5fsjLErpRzxVrWOc/Ej/vfsTcLU+B5qaid96wxZia2ljcJ1xta6Rxr93joA02fpeTJ/BPj+TfsOpezN4RqrJSysPzHYijB/w2tt3du2CeW1wtC66frku+bRwhEfPQ0DAJAVaW56xFl6006zxgxbPAvMLYUE75vnY7JPNg2acnS69Zr8AhLffRRfcCD1T9I3IiXoReqjbtXTpqXGElksxAVpEfWcOI/oHhvfb706s/AYjO7vFqZoZy+ryIZu3hk7s=;wDo3xoESbY7uy7roQwQ2MA=="
+secured: "fnc5a8Jx5tuR2bkdjtfhy4f+v1NHWkpiWG3Lvn7QaAmkVrFLE8NJji5cbFmHuiJ3CbDj/7dEnDXlTi3cOahcz9Ezz0JsTfmqV9oQfwnHTQ8qCGLvF3MXY9hKIuClkgTNMfwlHF+fcAPor7Zor8XIHahnonwALwi+FHfiYnBPCDQEbVVKkVNXRyCzf3Wyv2Dv2FG+YtykA2kV06M5UILkdY4dPHxIwD0MeHdN8AFH3jHYnQhO/1nxhMpTwClaZqAI+c6IMPiTP8kMbFi9SW0zS5r76ARcqiJhIG+LPTO6sKrUD2DvjtP+Ka6545hXTOBO04GYkVqwdrnR//yKcm8vUYmVYl/AUrIjpIUXT2d/ly08omi3eWMN0V60MKiR3ws1X0o6uoQs4ezlI3Zh+9bTCFiFMjdxjda186Y60kqGiBsXZv2b+G9UJiVdBX0DhUOgMw1BPVr1T/9qN4Y3b6I7zN2ebk6Rf76GZsm3m9RWC1Wmoe+iosNz+0QpLtIPowLj7p6wOS7q4lb0vIMKmkzsGQ==;7Z9Wzynv0hEx/XLlduzG2g=="
 ---
 

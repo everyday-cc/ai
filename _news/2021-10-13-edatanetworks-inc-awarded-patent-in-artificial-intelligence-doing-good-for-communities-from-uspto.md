@@ -1,26 +1,29 @@
 ---
 category: news
 title: "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO"
-excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and"
-publishedDateTime: 2021-10-13T11:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto-1030862425"
-webUrl: "https://markets.businessinsider.com/news/stocks/edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto-1030862425"
+excerpt: "Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI)"
+publishedDateTime: 2021-10-13T11:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-20043501.html"
+webUrl: "https://www.lelezard.com/en/news-20043501.html"
 type: article
-quality: 33
-heat: 33
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "sRYJmpwnXLiFGINQHpCz6cNpyyWxQMLR6kPSeRvAa9abXfDlSZZqv2H+b1o+kWSe/Uy4bgFA+RpQ6fiH9NwhGehA+tXDuGRTj+OvMc5fZrdbNQhaviC0e/ZkuNesT7WL7anJXijX1KksHhmgHVpXzmtUiDFBuJ0RvqVmYMzyo7NfMj0GG+oPE4D4apZ2iv3gYoyqt4JptqL+m8OnYcLXShdt+S/b434L2H/YaKW7X0MClHDg5Jci72EufNWplnYxohX7tPjT/0rMD2qb7BSPkFjsWQHatOr1Q/83JNROUWFqDxGlhHvcQ8Hhol+ecqEQYmpJXyIbaqCFZ2IMauCGE92j+C8yIJGxTg293TEFKzs=;PaGbB0UrW4Oh8e6iVA7A4Q=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/business.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "Ca/mIfzvCg/OHtxjjLqpj/IbUNt6bLcseLTpbLcArl3pkWPc2nxgfDRoCHBiDLIRjYi0PCzP+mjy+492+7U2KGW4mah55q9dQMZc4H5eocqoIYzDGR6JNYbTPbPEM+y/nodB4xmjaCElcFgiRldOYDr6K3BOTMlbt4GNov5FZrV9pbl5Nre2HKse3PUdH52Q/0Q34WScXhoxnyGHjvS8CRQGslGlXS2EyJ2cVinZyEuVsrgbGBZqTmqmB+q3YTGPf57YSU3oG0RjGIVXto3LJMvmC0sCHcMSjxpdcVvNdtZlfCTFYBV7vHfbdVDD6lMsb9gwx2oQd5YZpItpuzIxRicgwt34Miu+enCqA7hONTg=;LLpmF3WDst15eWZ/psPJpw=="
 ---
 

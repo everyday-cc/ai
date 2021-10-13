@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-08-19-intel-xess-is-alchemists-answer-to-dlss-and-fsr-and-can-work-on-anyones-gpu.md",
       "title": "Intel XeSS is Alchemist's answer to DLSS and FSR, and can work on anyone's GPU",
       "excerpt": "Intel has announced that its upcoming lineup of gaming graphics cards, now known as Intel Alchemist, will support a frame rate boosting technology called (XeSS). That bit you might have known already,",
@@ -1443,6 +1390,49 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-i-spoke-to-a-mutating-ai-npc-this-morning-and-now-it-thinks-its-god.md",
+      "title": "I spoke to a mutating AI NPC this morning and now it thinks it's God",
+      "excerpt": "I just finished conversing with an AI NPC about transcendentalism, predeterminism, and the meaning of love. Not how I expected to spend my morning, but I'm so glad I did. Not only have I walked away from Sensorium's new AI chatbot demo with a better understanding of the definition of intelligence (according to this new breed of artificial human),",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "originalUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UU9jrN7YFJ9nk774jEZRjk-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "publishedDateTime": "2021-08-05T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
         "images": null,
         "publishers": null,
         "authors": null

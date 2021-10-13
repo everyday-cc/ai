@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-    publishedDateTime: 2021-10-11T04:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+    excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
+    publishedDateTime: 2021-10-11T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 105
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
@@ -47,6 +54,20 @@ related:
       - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
         width: 768
         height: 576
+        isCached: true
+  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
+    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
+    publishedDateTime: 2021-10-12T13:20:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "VbbI9QBtrZkppWhEgJqjqeNY3iNf5UE9qAPYGNZtOAujLTS+hviSwdAXQcPrNyda/jf6ZUyph4i39Xv4RGRjl0he78vV+abN4wHgJm9d0J3n006WcE3fqxxDEbMseJWtyP3RhquOAkaJKCjd+uGl0y6pBeT1+zrl1GIrzl0llvzPpAllNILoQOpmjFqFawJVcuqrUtl/QoMDYFNQ0ehgf24X3J25oJ/xV75Cwsph5YDcsIbQUD3GRSVw+pbdctl7mCPwatfutl8bpjBpaH1oglhYfpxm8FQyuMLjEKfV3Kk2vl3QqWzfGYOjQVTKyq+BqgEFbzhoZwbceR+TwJhBM1yxI3NjUuIQih04ziUvDQLf1QNj9rebGQx7tw/lb6SaCZjpoWO8a8GEXjKsJoptAj0O6dW+HdqntNmgMZOxbhdV86inDX4UfbEO7MeQ08xkR1I4rWMwBBZxcctPa0zs+90J6f2pzzKN7BHfkNAs6vEdfiQg7Tj4pYNSOLpiplClS0T3SZIFYm5da1cThIVnXw==;0D2bQrgvCkgjaLAE5vZIMg=="

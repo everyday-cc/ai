@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analy
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

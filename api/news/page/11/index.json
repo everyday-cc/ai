@@ -2,6 +2,134 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
+      "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-cloud-providers-green-data-center-market-is-projected-to-witness-market-growth-of-2350-by-forecast-2027.md",
+      "title": "Cloud Providers Green Data Center Market is projected to witness market growth of 23.50% by forecast 2027",
+      "excerpt": "In the forecast period from 2020 to 2027, the cloud providers green data centre market is projected to witness market growth of 23.50%. The Data Bridge Market Research Report on the cloud providers green data centre market offers analysis and insights into the various factors expected to be prevalent over the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
+      "originalUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
+      "publishedDateTime": "2021-10-04T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion.md",
+      "title": "GM-Backed Cruise Sees Robotaxi Business Growing Past $50 Billion",
+      "excerpt": "Cruise LLC, the autonomous vehicle startup majority-owned by General Motors Co., will tell investors this week that it sees a path for its ride-hailing business to reach $50 billion in revenue as the company ramps up its driverless ride hailing business starting over the next couple of years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-04/gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-04/cruise-sees-driverless-ride-hailing-business-topping-50-billion-gm-stock-rises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglhlcJ6PXKQ/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-the-cios-guide-to-managing-enterprise-ai.md",
       "title": "The CIO's guide to managing enterprise AI",
       "excerpt": "How should Chief Information Officers prepare to lead AI efforts in the enterprise? The author of a new book explains exactly what you need to know, on episode #706 of the CXOTalk series of conversations with people shaping our world.",
@@ -874,8 +1002,8 @@
       "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
       "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
-      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
+      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1040,136 +1168,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-amazons-controversial-vision-for-the-future-of-your-home-security.md",
-      "title": "Amazon's controversial vision for the future of your home security",
-      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "originalUrl": "https://www.wcvb.com/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-7cba5e0629bc8bec312c8080d57b8459-h-a9a0089212e086209aacfe9662e04615-1633212724.jpg?crop=1.00xw:0.752xh;0,0.188xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/amazons-controversial-vision-for-the-future-of-your-home-security/37836185",
-      "publishedDateTime": "2021-10-02T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
-      "title": "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration",
-      "excerpt": "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
-      "originalUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
-      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
-      "publishedDateTime": "2021-10-02T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "herald.ng",
-        "domain": "herald.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-worse-than-nukes-an-autonomous-robot-may-have-already-killed-people.md",
-      "title": "Worse than nukes? An autonomous robot may have already killed people",
-      "excerpt": "Autonomous weapons will undermine humanity’s final stopgap against war crimes and atrocities: the international laws of war.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "originalUrl": "https://scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/164618-kybyqusbld-1633010600.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1006658/worse-than-nukes-an-autonomous-robot-may-have-already-killed-people",
-      "publishedDateTime": "2021-10-02T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

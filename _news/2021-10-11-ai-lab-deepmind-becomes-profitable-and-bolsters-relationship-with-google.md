@@ -1,26 +1,35 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-publishedDateTime: 2021-10-11T04:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
+publishedDateTime: 2021-10-11T04:20:00Z
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 63
-heat: 83
+quality: 105
+heat: 135
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
+  - Facebook AI
   - AI
+  - Google AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
@@ -51,7 +60,21 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
+    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
+    publishedDateTime: 2021-10-12T13:20:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "VdXgoTLDD9vNc3mW6DyhMy5Mdlk2MKN2o9CQHxJ77RQ2x/8tytSuBPVASrpwAH/YwaCP1yXhKtn9Yv3r1M0O8x0KBXMNRHslK/GU8ZLMFf7RdWXtzHxeSpcWk3eTZ8fpuHibp8yYkgnwMa/qQHUXxtjJ9/5n33KH6dcl8D03VhIGY8t/f5L+adch2LI5ZRxjwOYOMD0gB8132FtyhHrrdibA+r2Cbzw3LE6fZ8rzYNHQ1q5Oqo9MwqA8HHcf7XLLVc9AXBrU2uLBHxpITrOqYf+94nqGg77lnWVh2yuymCAhEftMRTuVLtm3M/XCWbuVp2dOwjChGdu5dk2feA4wHSE1npKTT9JIwea7/WtUy6k=;Ps2DugItVGk1S0g6+FSarQ=="
+secured: "ygC+ZShxN1ombUVWmSX63tuO6101kkEXogECaFZk32WaZ0h2W1rAYv7kZk90MQDRCAit1lj4qaxET868aTvKIe2FB4cgi2jT82ZU55lGqsW7Jfy0FI/M6MPh1HXMGveE3aNGqNrAWEoXEgyqLWGGLjrKEVpNhAc4D55wcPWGUnQIFr1V01JR+m02RuxQyJJsnmid6HIzyMl9ZjMZidhh+xl04zt0b0QxXOVsV0CglyudLOyH9RhxBoh+bspkQdLgK7EcRT9/86/qe4VCtx8nJjgYJejaksz4l3fnC0F7mdUpF7lxJMpFlzVRe6Bj9nEaQfe8PsPVuxlqRVBf/HJInjysh6MFYYpkEQI/gNd+pSE=;PUclAIWtInUjmjDNqNpJrQ=="
 ---
 

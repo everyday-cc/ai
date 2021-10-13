@@ -223,6 +223,17 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
+    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
+    publishedDateTime: 2021-10-13T20:34:00Z
+    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
   - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
     excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
     publishedDateTime: 2021-10-11T17:27:00Z
