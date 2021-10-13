@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Temenos Selected by Green Dot to Help Build and Power the Digital Bank and Fintech's Cloud-Based Processing Platform"
-excerpt: "Temenos' robust and scalable cloud platform will power Green Dot's technology stack, enabling the leading Banking Platform Services (BaaS) provider's partners to embed financial services - including credit,"
-publishedDateTime: 2021-10-13T06:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-temenos-selected-green-dot-help-build-power-digital-/2021/10/13/9468212.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-temenos-selected-green-dot-help-build-power-digital-/2021/10/13/9468212.htm"
+excerpt: "The Temenos Banking Cloud will enable greater features, functionality and scalability on a more streamlined, secure platform for Green Dot's direct and banking platform"
+publishedDateTime: 2021-10-13T06:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/b23349119/temenos-selected-by-green-dot-to-help-build-and-power-the-digital-bank-and-fintechs-cloud-based-pr"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/b23349119/temenos-selected-by-green-dot-to-help-build-and-power-the-digital-bank-and-fintechs-cloud-based-pr"
+ampWebUrl: "https://www.benzinga.com/amp/content/23349119"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23349119"
 type: article
-quality: 0
-heat: 0
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "q8xzl1MxizM3FtJgaXDZVg4iT1vYIWj7jBNry4w1c0NQCB8XSEsw6n2ugP9hoEixSszjZeW8ZRFHJWsJ9NqgrZb3h4ckd+GpF7dJQr74QwgFKRbCVwAPx8CKumJqeOBBrb7e1JMgnlahSfLqKPTFw9uM20/2XklTd5lt8pSqu7vxuMEKvM3LgH+k8dt1679yuAavt6F2IyZx1oemRt8tolHl/uvhWLhyRPI1lHh92jVXFBwvu4YQcIc2svTqpaKSZ4j5IeSuibldqH5II+1/sEamcHL60jOaxkwlWSEKC77s0sgZC2XEehG469ES8W0Lqpx3XxXd4yI/Rvf7W59UtdriLdiW0iVviSUcwEJgiXo=;WlvGs88xgpxyhV+PPgNv8g=="
+images:
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "hBjegx66lJ7R7bFk4D3EPSj5KTNeuBbmWXID2vEB8WeNNTQGFXfzU/BxfV+X5NMY7mo/AULDVOltTt6kRCpE7vFJXhZnbccr5TA46vVVUf3Bx3WotcdFcVAM3hIoRrsBcijFHBX5E7Jqx1rs4iHKl62JAe586Z6SCOoVNnUg2sCRLlPdd/FB09H+1Z/hWo0Pn/4UVUfA2JLZLSZ5UU3YHtMxfoAIns80Za30p/9cUtrd3QTaSg+S815hWw7E/2tQeqh+ZClDx3jNMiwN6SwaMAZGmuI8dKHVn/56phNZ6mvIEYS3bqu1zXHEez9EIhnZLkRYAzvBdUSdaP2BEoof2zhUwBdap4uS7hK/YuWCl5E=;5ANPnAvh0lzyvxWMWnMugg=="
 ---
 

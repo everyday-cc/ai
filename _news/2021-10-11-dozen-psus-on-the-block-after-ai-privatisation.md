@@ -7,7 +7,7 @@ originalUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-priv
 webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Lab Notes: A Pennovation Lab lease deal, an Proscia AI advancement, a cell therapy collaboration and more"
-    excerpt: "Lab Notes has s Pennovation Lab lease deal, an artificial intelligence advancement, a cell therapy collaboration and more."
-    publishedDateTime: 2021-10-08T17:06:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2021/10/08/lab-notes-interius-proscia-century-therapeutics.html"
+  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
+    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
+    publishedDateTime: 2021-10-13T09:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: inc42.com
+      domain: inc42.com
+    quality: 49
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "5lSDtOeQHoSd7J/q8a0+5U18rHcl2Wb2JpvtID7iCUMXjW8/XvqI0r06b8ZdrqS/Kh7eCgT0YdlXDP8NaoCA2Xa/IulJIswxXQJcHvIjSDf5EX3RYueLkLvCspNoyUut4e8C4Xi7RlT1bq+4o3hzGMDcpfJ1wNeiEdfkngEskLQJ58/+EHz1FSOcIEViFte7NxBe/Se9D3JQJ1/wujrrKnu+vYAnSKIq/H6VcRQ2Yl0PzBgrjjg5nII+G3aVZ4TH4ipNUftcVcx86y40vqt4jINMqkamHS8vieiNJuEGflKNLmDVRX9y145aDqFZYg/z8NTGFNRlOWJ6BBNt7apUnOeCeoSz+OdSnSAGyXOOGo8qxXicwH2hSb/7L35UPUVV7kf/yF7IKutt+eFansBqS4+Diz07yjcls7gwx2q2MHiegDKn5T9gzuoL5AhA5F6leypyhTRYInAZ/8dTNaxavyi/taGnc/2bVBpBxh+JM1KeLooTQugvYAUocNsvcuDbAgPtiLqBRxo3crO+1Wyjzg==;aKiHIwmiiR3f37LzlzruIw=="
 ---

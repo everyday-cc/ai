@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-    publishedDateTime: 2021-10-08T16:50:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+  - title: "An Intelligent Factory Managed by Robots"
+    excerpt: "According to Nissan, the innovations tested at its Tochigi intelligent factory will be later rolled out at its other global plants too."
+    publishedDateTime: 2021-10-13T08:00:00Z
+    webUrl: "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/"
+    ampWebUrl: "https://worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/"
+    cdnAmpWebUrl: "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/an-intelligent-factory-managed-by-robots/amp/"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
+      name: worldindustrialreporter.com
+      domain: worldindustrialreporter.com
     quality: 59
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Nissan plant heavy on robots"
-    excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
-    publishedDateTime: 2021-10-09T06:45:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/oct/09/nissan-plant-heavy-on-robots/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/10/08/4D1nissan1009_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Robots build vehicles at Nissan plant"
-    excerpt: "Nissan's “intelligent factory” hardly has any human workers. The robots do the work, including welding and moun"
-    publishedDateTime: 2021-10-09T04:00:00Z
-    webUrl: "https://www.journalgazette.net/business/20211009/robots-build-vehicles-at-nissan-plant"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 39
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20211009/ARTICLE/310099979/AR/0/AR-310099979.jpg"
-        width: 800
-        height: 533
+      - url: "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
@@ -84,20 +56,6 @@ related:
       - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
         width: 620
         height: 330
-        isCached: true
-  - title: "Smart robots do all the work at a Nissan plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
-    publishedDateTime: 2021-10-09T11:00:00Z
-    webUrl: "https://avpress.com/business/smart-robots-do-all-the-work-at-a-nissan-plant/article_3ea5a1f6-28a4-11ec-bda5-cbb55c851e50.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/assets/v3/editorial/4/dc/4dc4d4ae-28a4-11ec-a9a0-a7d7a5b54784/6160f755176e3.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
         isCached: true
   - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"

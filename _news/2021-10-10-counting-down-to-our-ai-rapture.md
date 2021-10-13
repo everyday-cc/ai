@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/am
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 512
         height: 256
         isCached: true
-  - title: "Using Artificial Intelligence To Fight Cancer"
-    excerpt: "AI can help doctors make correct treatment decisions, reduce unnecessary surgeries, and help oncologists improve cancer treatment plans."
-    publishedDateTime: 2021-10-08T16:31:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/using-artificial-intelligence-to-fight-cancer--5907.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 19
 
 secured: "0BTAgS+8svDHuwRsb48RfMjPD3kRQJ7jWkhnjr4MxDRoY/pdPAav+GXZ3GuTipT+g0+XtvARnTZiEn3sNw4+TsOCNFwMxXAIjXOCQRuPBVaSaqHVYt8wu2X4LyEbyqJyobP0g/+DZv223D01wV10RXkI+MVCtWh5EBAmbh2GB6xnyM5/gQgJch2tICzYXp1MEokBV/Dg8chNH7lPgj+Er2nkuNqQJavrFyPYWkQfIIdWyiJvFJ9W9GAkoV0IRhlChJNQFZDMEI6J7i47Fa0u1ZhPjJpL+P27McvgXttiXcssjMl02opaRrps7k94RlKgUNSTc0WVrygB8lo7CIQ2nSq6RimnvIkbFxu5bBKilcg=;eGv/7oDq2Z5YlMoBtc+2vA=="
 ---

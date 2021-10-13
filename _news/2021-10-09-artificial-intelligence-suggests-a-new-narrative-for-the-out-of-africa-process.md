@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/930860"
 webUrl: "https://www.eurekalert.org/news-releases/930860"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence suggests a new narrative for the Out of Africa process"
-    excerpt: "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought."
-    publishedDateTime: 2021-10-08T16:24:00Z
-    webUrl: "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html"
-    ampWebUrl: "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg"
-        width: 2880
-        height: 2872
-        isCached: true
   - title: "Demand Drives Self-Storage Evolution in South Africa"
     excerpt: "Like many young industries, self-storage in South Africa faces obstacles. Fortunately, an increase in demand for the service is still driving growth. Following is market insight from the co-owner of Lock Up Storage in KwaZulu-Natal."
     publishedDateTime: 2021-10-12T07:04:00Z

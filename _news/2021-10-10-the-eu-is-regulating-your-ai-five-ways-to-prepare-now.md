@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Using Artificial Intelligence To Fight Cancer"
-    excerpt: "AI can help doctors make correct treatment decisions, reduce unnecessary surgeries, and help oncologists improve cancer treatment plans."
-    publishedDateTime: 2021-10-08T16:31:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/using-artificial-intelligence-to-fight-cancer--5907.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 19
 
 secured: "zhGUsQ6aXGfR8m8pwPzNi6hgegCkIugjbpwlPu0vKRQcEMVH2QBxFYX1WHrX14NBRPshtKlLJVHXlljZzIIhpQwwSJeUHdjI6pgOPb84I44Xg0tRnuEUFP8nPzUNeVFc+vwJ8nVdJTqE6cVa5ByMC1WIhi4hKDIMK+7/eYTUTxeca4BZyxxb2Ef3W8OpigPhsZaWz4yrIbj/ORmKC0uC621ILEvttAEOiS/3z4aadL/lAEHdDxHh3BqfXlTN315WWngjR45dtRF3hnAju3CQtJxc3aj/5e3K0jMTD+D7DKA2yVnh8HnS8z7SqrRPqpRNdEYMUTDP7fSDCMYywhqJX03ZxkpvnWzhpLDq8Ylvs+mcQWsQaLRSMUHnOvmLm3vicbZn2eyMlxAw8or314kkL9c9pAuDveQNbPTrxI9deiGmXeIRJReSdeW/tpg+f7n8jx49+Q8Uqf+RmNawNmCbOZ54dvrBzC4CkfOpT64FIWiBNKX9N5WEZNMD3cNhhru/rjVD/2F9gCj/AR59MIUBXQ==;1JMcpwmPDL6q04JBuuqIEA=="
 ---

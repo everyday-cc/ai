@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/yandex-to-announce-third-quarter-2021-fi
 webUrl: "https://www.pr-inside.com/yandex-to-announce-third-quarter-2021-financial-results-on-october-r4850623.htm"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
+    excerpt: "Yandex (MOEX:YNDX) today announced it will report its financial results for the quarter ended September 30, 2021, on Wednesday, October 27, 2021. On that day, management will hold a conference call and webcast at 8:00 a."
+    publishedDateTime: 2021-10-13T08:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043219.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
+        isCached: true
   - title: "EQS-News: Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
     excerpt: "Yandex to Announce Third Quarter 2021 Financial Results on October 27 th. Moscow and Amsterdam, the Netherlands, October 13, 2021 - Yandex (NASDAQ and MOEX: YNDX) today announced"
     publishedDateTime: 2021-10-13T07:00:00Z

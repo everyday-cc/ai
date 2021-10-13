@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "White House proposes tech 'bill of rights' to limit AI harms"
-    excerpt: "The White House's Office of Science and Policy on Friday launched a fact-finding mission to look at facial recognition and other biometric tools used to identify people or assess their emotional or mental states and character."
-    publishedDateTime: 2021-10-08T16:34:00Z
-    webUrl: "https://www.chron.com/news/article/White-House-proposes-tech-bill-of-rights-to-16519406.php"
-    ampWebUrl: "https://www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/White-House-proposes-tech-bill-of-rights-to-16519406.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "A global AI bill of rights is desperately needed"
     excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
     publishedDateTime: 2021-10-11T16:35:00Z

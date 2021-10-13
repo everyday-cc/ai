@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-    excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-    publishedDateTime: 2021-10-08T16:50:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Nissan’s “Intelligent Plant” Is Almost Entirely Run by Robots. Will Other Automakers Follow Suit?"
-    excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. \"Up to now, people had to make production adjustments through experience,"
-    publishedDateTime: 2021-10-12T21:00:00Z
-    webUrl: "https://altdriver.com/gearhead/ap-nissan-intelligent-factory/"
-    ampWebUrl: "https://altdriver.com/gearhead/ap-nissan-intelligent-factory/amp/"
-    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/gearhead/ap-nissan-intelligent-factory/amp/"
-    type: article
-    provider:
-      name: altdriver.com
-      domain: altdriver.com
-    quality: 46
-    images:
-      - url: "https://dummyimage.com/300x250/cccccc/ffffff&text=Advertisement"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Nissan plant heavy on robots"
     excerpt: "Nissan's \"intelligent factory\" hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs."
     publishedDateTime: 2021-10-09T06:45:00Z
@@ -70,20 +38,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2021/10/08/4D1nissan1009_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
-        isCached: true
-  - title: "Robots do the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers, with robots doing the work. The workers at the factory can focus on more skilled work such as analyzing data collected by the robots, and on maintaining the equipment."
-    publishedDateTime: 2021-10-09T01:49:00Z
-    webUrl: "https://finance-commerce.com/2021/10/robots-do-the-work-at-nissans-intelligent-plant/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 39
-    images:
-      - url: "https://finance-commerce.com/files/2021/10/Nissan.jpg"
-        width: 620
-        height: 330
         isCached: true
   - title: "Smart robots do all the work at a Nissan plant"
     excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their"
@@ -99,17 +53,6 @@ related:
         width: 944
         height: 630
         isCached: true
-  - title: "Smart robots do all the work at Nissan’s ‘intelligent’ plant"
-    excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
-    publishedDateTime: 2021-10-08T20:42:00Z
-    webUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/"
-    ampWebUrl: "https://www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/smart-robots-do-all-the-work-at-nissans-intelligent-plant/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "8m7x+0ZHi4RRB+cdFy4MlwUDnzQgwdLE0ZYF/7y6vg4xUbrePkdUJ9WF51xfxIilaTuYy8oKeKcH2ucy+gtAIQLjd87B11IQ85paXIEvXWLo+EEO8LjB/NGZIzANevI7OlXfe9e1kl1aLdL/XP14CSOsbAuZWtDx/RwSdDEztFmKyTe6F2QWBuLq8lowvyhrzs+EDCGZbnZAbQHPTZr8Zccrv4B0PjJeG6HEsDqfC/vVPi7JSUvJcw2J3XeTCNrov2bGAKV5rLPtiNYOWixu1d1h7PfHFjPzO4e7SkA7V9QweDOjWcCB4I7mq1BmROyjUtTJQCjyBpvUdMwVxEdYEpL8M95r0XpFp4cqia0kJuZaS+4mBwVGqbbcgRzdt/o3uYCE0N/kUbifmfdcQlb6+i/lYi/AGzK0F0u+PwTglvOl0gySoV7l5mCbr46g3P915LIwYuXKTqDA9SQT/7pml9ZU4Mx6Fx9lwzSYVVGePNN9Z9npqsOGXsRM0MGihtrYiSrPyeO3wsdsvmdIBcm1Ew==;s6bhf9DUCD9T9JQuOhZtVQ=="
 ---

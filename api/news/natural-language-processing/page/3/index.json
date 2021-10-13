@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
+      "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
+      "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "originalUrl": "https://slator.com/facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/09/Facebook-Speech-to-Speech-Translation.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-zoom-will-add-real-time-translation-for-12-languages-next-year.md",
+      "title": "Zoom Will Add Real-Time Translation For 12 Languages Next Year",
+      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature Monday during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/24728/zoom-will-add-real-time-translation-for-12-languages-next-year",
+      "originalUrl": "https://in.mashable.com/tech/24728/zoom-will-add-real-time-translation-for-12-languages-next-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/article/z/zoom-will-/zoom-will-add-real-time-translation-for-12-languages-next-ye_u7t9.620.jpg",
+          "width": 620,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/24728/zoom-will-add-real-time-translation-for-12-languages-next-year?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/24728/zoom-will-add-real-time-translation-for-12-languages-next-year?amp=1",
+      "publishedDateTime": "2021-09-13T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-on-hindi-divas-garuda-prakashan-announces-publishing-partnership-with-iit-bombay-project-for-indian-language-translation-of-engineering-books.md",
       "title": "On Hindi Divas, Garuda Prakashan announces publishing partnership with IIT-Bombay project for Indian language translation of engineering books",
       "excerpt": "Mumbai: Joining forces with the premier Indian Institute of Technology (IIT) Bombay for an Indian-language end-to-end translation ecosystem, Garuda Prakashan is playing an important role of a publishing partner for Project Udaan.",
@@ -1271,101 +1357,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-nvidias-rad-tts-generates-realistic-ai-voices-that-are-more-expressive.md",
-      "title": "NVIDIA's RAD-TTS generates realistic AI voices that are more expressive",
-      "excerpt": "As far as synthesized voices and text-to-speech has come, it's still not perfect. However, Nvidia's text-to-speech research department has developed some machine-learning tools for making voice",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html",
-      "originalUrl": "https://www.techspot.com/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-31-image-44.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91051-nvidia-rad-tts-generates-realistic-ai-voices-more.html",
-      "publishedDateTime": "2021-08-31T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-presto-launches-new-voice-capability-to-automate-speech-recognition-for-restaurants.md",
-      "title": "Presto Launches New Voice Capability to Automate Speech Recognition for Restaurants",
-      "excerpt": "Presto, the leading provider of enterprise-grade restaurant technologies, has launched Presto Voice to automate speech recognition for restaurants. In the face of the ongoing labor shortage, restaurants can use Presto Voice to effectively scale operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-92e4bdba2f50417dbafd7f0d76c39e46",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-92e4bdba2f50417dbafd7f0d76c39e46",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

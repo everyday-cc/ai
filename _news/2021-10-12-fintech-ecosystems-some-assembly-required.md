@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "How fintech can bridge the credit gap for first-time borrowers"
+    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
+    publishedDateTime: 2021-10-13T09:42:00Z
+    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
+    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
+    excerpt: "With company executives coming from across the globe, FinTech & InsurTech Live offers a packed schedule of speakers from the banking sector and payment solutions to insurance technology and artificial intelligence."
+    publishedDateTime: 2021-10-11T12:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23316777/preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23316777"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23316777"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "FinTech & InsurTech Live: Meet the Speakers, Madeline Bailey"
     excerpt: "Meet Madeline Bailey, Co-Head of Technology Consulting. Madeline Bailey is Co-Head of Technology Consulting - the practice arm of the global law firm Norton Rose Fulbright. She is"
     publishedDateTime: 2021-10-09T11:58:00Z

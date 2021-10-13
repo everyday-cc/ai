@@ -1,27 +1,30 @@
 ---
 category: news
 title: "China Isn't the AI Juggernaut the West Fears"
-excerpt: "The report is supposed to highlight the country’s prowess in artificial intelligence, yet it reveals a lesser-known truth: China’s AI isn’t so much a tool of world domination as a narrowly deployed means of domestic control."
-publishedDateTime: 2021-10-12T11:59:00Z
-originalUrl: "https://www.bloombergquint.com/gadfly/china-isn-t-the-ai-juggernaut-the-west-fears-u-s-expertise-is-more-valuable"
-webUrl: "https://www.bloombergquint.com/gadfly/china-isn-t-the-ai-juggernaut-the-west-fears-u-s-expertise-is-more-valuable"
+excerpt: "The nation excels in computer vision and facial recognition, but practical applications are limited to surveillance. The U.S. has much broader expertise."
+publishedDateTime: 2021-10-11T22:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2021-10-11/china-isn-t-the-ai-juggernaut-the-west-fears-u-s-expertise-is-more-valuable"
+webUrl: "https://www.bloomberg.com/opinion/articles/2021-10-11/china-isn-t-the-ai-juggernaut-the-west-fears-u-s-expertise-is-more-valuable"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBpkSNZSNqk0/v1/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +45,6 @@ related:
         height: 900
         isCached: true
 
-secured: "qQ+/zqDX/cub8rrA3CIe2ITFmsYiuxBfHDM2j4n3MG1Pb6uA0TDOqj+FuCIyhlIaR8hoFfKxNM1h4SO/ANzq+mvK6+mWQgtRsHg9t5WgHsh2pCthxLAhDY1ibABDbL4AnFCRT6HepHCvjwtAHCcvF2FPr/qX6RJeu0kdEQYhZ79I7vlh9vO5+TBxXUew8C1MuwNurcSJc99G8BLJS5De95mUiin8UntqaRZuEpuila1bR9knptO3I77Bb3oOMBJzOzc3LxLi9CrEyV84aoxUFUqpdNS3OyGZONpNm/RodoCswgZO8biZGED0xsFUBPmAfDNI5Vy6rlzhPowN0vhgm4Ltkj5Gp2RfxzH5/zHrQpY=;Cp7c6blT10sEximr7qtwjg=="
+secured: "2Lzp8rxn2h/PhUmT0jeS6bbLXd85M2IPHpS5UBT/K0vpa/AYg8N/INoE8qGrJVezHTy7gXA+IL35ZBX6uJ4ee11OTlB5nDiBvOVYul9cNC0An9+9F4s53T64lln40uP6eE44/gAxrZT7SsdUlIgfB0ksQw1v7QnFB3cjBIhetotefZtT2Z41fey/C4eLb5XputbEaesfTbsJtb6Ev9c6HPbEKZfBgtfpjwjGNHZgdu9fwj9Nb2coG1YwC9Qc2skVcEIYo1rAhjJdNcTDQ+flFQ7pF+LpjEpkF37Jpq93n/0ilgZYkrXdae2tWQEIOeEUWP0LixohvTKQYBztw4n/YDbdXfX4FsDWCYbcX9x4R7w=;v9I0UHs+qa40AsQNwjjNTA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://madison.com/news/local/education/researchers-uw-educators-se
 cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "3 Benefits of Artificial Intelligence in Healthcare You Should Know About Right Now"
+    excerpt: "AI-powered medical software has come a long way. Understand the benefits of AI in healthcare to improve patient retention and patient experience for your practice."
+    publishedDateTime: 2021-10-13T09:01:00Z
+    webUrl: "https://www.softwareadvice.com/resources/benefits-of-artificial-intelligence-in-healthcare/"
+    type: article
+    provider:
+      name: Software Advice
+      domain: softwareadvice.com
+    quality: 48
+    images:
+      - url: "https://www.softwareadvice.com/resources/wp-content/uploads/generic-tile-new.png"
+        width: 450
+        height: 245
+        isCached: true
 
 secured: "zZYZJK8SeCtcleY/Wp/LspXt4ALREA8VxFWSIf7kQtnIcSJG8wxaADc9ov4zt4W0ZhBTI+NY7nYpTfUDj7h70lZYf6MDr5GMKRegcO4SLemwBZhsz2AHaucvrbg456deRcXxj3jFXyjilYY6Tup07ezmDyaeU/wGLPE/Mp7tI/nWlk/nZL4h/FdR6LMDPCjZASDwGc+PbVhWeQpoIKARv/twuvK3rq+r2ya6ZAD6VlEhWCoYETAnSyWo/nT3YYlvgJ85+db+h9/BzsOK3vhl/jlJGEJscJaBKnSLkRGEHqZHAFxJaBl9nK987mdH+3GOk4m/hgQTwI02yUCXuIEnUeWzuMSQZ6d2dTIqWQsf+J30TY74EihNpWDiPjB7uk9vkHwc4Useq3i+VqGQg/IMnP+nA9/v9yDw98hi6fSOvFWJ3a9OdtjClzR82LFYm9NEbSvZw2YgK/BBVrZAlEhKEgdClmgl/WuvBmsu+sh9UcbS/ImvN57p6vzlHAoX5TrmujDGgq4W8bGZgk1NCekLFQ==;HOmZ1FAdcjIwCZJn27+/Hw=="
 ---

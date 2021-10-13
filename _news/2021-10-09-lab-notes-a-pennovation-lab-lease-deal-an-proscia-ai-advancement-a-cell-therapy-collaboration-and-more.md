@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Dozen PSUs on the block after AI privatisation"
-    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
-    publishedDateTime: 2021-10-10T19:44:00Z
-    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
+  - title: "Proscia Announces Artificial Intelligence Breakthrough in Melanoma Detection"
+    excerpt: "Proscia®, a leading provider of digital and computational pathology solutions, has released study results on new technology that leverages artificial intelligence (AI) to automatically detect melanoma,"
+    publishedDateTime: 2021-10-10T11:01:00Z
+    webUrl: "https://insidebigdata.com/2021/10/10/proscia-announces-artificial-intelligence-breakthrough-in-melanoma-detection/"
     type: article
     provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 37
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
     images:
-      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
-        width: 600
-        height: 350
+      - url: "https://insidebigdata.com/wp-content/uploads/2018/11/shutterstock_527544358-e1542396272432.jpg"
+        width: 743
+        height: 409
         isCached: true
 
 secured: "hf6mh0R+d22KugkbofyqNPCWouOAo4sVUPPP4yGEls4lGQVy5t6P0Kc0XJ2v7xBDpkz3ylDkxvlB7fwoVhTuKPO5EVdUR+P0+PWSNyYgATLsyc9laxNP4KcnwkpR7xkrOlDxCoDhmFmVu05fv0cq4qSU67mOv406BCM9Zo8BBHCVxiWYdN1XPXImQSqqKdOrtJSHfeaU66ZkwZilZW7+fvG22SB0Xmk6Xx1jOrE6hTleWawKmrM3sGxOwUXNP7x6XupIwf2a0kbpKZK64z2mHdSQv5cRxodAginwY8UM+lNAPJ0iwf0dzxPzLFh6dvfbyqPe/RMVq+YpNOuFjL1Q9S0bTcrZTGeHmUbmZDQlIznGZa8krTYIoi+h6gxhvnpjwgHSCXZNkg+5VJTTFEliTzMldv5CYlPndk4h5JSvYoo4scY8Jfk7jC7qvIC79os0mcgTCp67+doC7TVZIKOIWxGXg68JfQkQRwLFEsQaieSZ5bXsa/TrkLXztbbMMRyek8hYLvf0vXUKrOSKcuP46A==;BZWlgb6pISVaCv75Sv9oNw=="

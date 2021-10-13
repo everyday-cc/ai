@@ -40,20 +40,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
-    publishedDateTime: 2021-10-11T11:42:00Z
-    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
-        width: 357
-        height: 250
-        isCached: true
 
 secured: "jO9IVnduXEimzuMOlgcgPeN6YkugoOdisxz1JuU5oqSdkCtr/BIz5FleQXLgXwBzbYTT6dQ2xl/0wxZm7T8Qma8COwwb/OPdFO6fnVQmFltLsezP9o+WSOuz7l1UK8QeD7mCRqgNegtQe5EGXqFfrUo4ub4MnPPk+jYrt65ajyD3B2Mp52msnen4vCvmrH3BKsBZiRzSu/MCe1aP4R1oX13bEFQo9kufZxpGQ6MEVHoXLEwXrDsvZyjrJ6/q9UQyyN9dG7g9ykqNELi6ONWKNFGsWaJk9/tAhoHweXMAymp+pkZU0iVZZr35cgRDfPmE8aWY+Ao7LzFmnEEMQ6YvfgAFaKQ779JzIb252cbmPNLZa5NO1aLHfkCP0haHN2rjps9Y1MqlYDWhPz7qnCh5zfbbnl6xsddcVA6uqipoE30+QgFkFK+0ZCWMbiLSdVJiGyBReuPyEhbQz/SPhEN2b//igAbhX1/0aNYgFsNkWxiuI0e5KcQ10JDkadE15O0KI1CNvrzpIOmWdhA3VM7ERA==;NMvKH/Bmq6gtEU58LBp2xw=="
 ---

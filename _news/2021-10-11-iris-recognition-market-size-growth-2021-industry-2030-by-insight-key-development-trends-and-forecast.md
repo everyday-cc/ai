@@ -25,33 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
-    publishedDateTime: 2021-10-11T11:44:00Z
-    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
-        width: 357
-        height: 250
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
         isCached: true
-  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
-    publishedDateTime: 2021-10-09T19:10:00Z
-    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
+  - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
+    excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
+    publishedDateTime: 2021-10-11T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2424632/mobile-speech-recognition-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
-        width: 445
-        height: 250
+      - url: "https://cdn.openpr.com/U/a/Ua11553029_g.jpg"
+        width: 626
+        height: 333
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "hkcjgasyMyDLL8d/prqkwWVHstvNotGpgwwKG9jIc2mJEEHbSILQWsIVDG2/wjbC+CWnvBerVjL6+9iumCOnO0mV4wwgnc+MXy0WB2rCI2UP02peifsIUV9P3zonopCPjGWSvowqWsQ+iIp04lpKKJ2fNu7N1IoT/5AyRwcNn4HEpAiIL+mknIHO1X2rLHdloR5CJdgApxWZJjX2PHa/4CAFoeMPMJ5hvYAroJ+ZpcHV/F3OYpJec3NV7VaV79aUNbM0cEeYvNQ6BffE49FrEIAsQzG2ky2MwLnsmqOJeEv8RMidQQBc1kufzIEDGihFqdkvJIHzbxgKiE5DfNKyN4APkcwcouYfYAtl9gdI4kVfT8UYQ9k/GupfXbbU1RVG5BCUclhiEi2EUG36yk/zlb2Xr5b9dmL4sgzv1526/8ctlTjJDdE9tT9ghqsxD//tTdwVC7oNsc67YqP5qc6DyQfDIX0gvhU5i8yvnXckSsRKiJPjVwkTWqaZcM4JicI3BuNVRNKbSpi80sfktuwytQ==;EiZPd9+9GmeDaNCMIYdVgw=="

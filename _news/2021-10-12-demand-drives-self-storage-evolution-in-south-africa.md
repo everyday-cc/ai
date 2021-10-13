@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Artificial intelligence suggests a new narrative for the Out of Africa process"
-    excerpt: "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought."
-    publishedDateTime: 2021-10-08T16:24:00Z
-    webUrl: "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html"
-    ampWebUrl: "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg"
-        width: 2880
-        height: 2872
-        isCached: true
-  - title: "Artificial intelligence suggests a new narrative for the Out of Africa process"
     excerpt: "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the “Out of Africa” scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought."
     publishedDateTime: 2021-10-08T22:07:00Z
     webUrl: "https://www.eurekalert.org/news-releases/930860"

@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "African FinTech Finclusion Raises $20M for Enterprise Development"
-    excerpt: "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development."
-    publishedDateTime: 2021-10-08T16:07:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/"
+  - title: "Chennai-based M2P Fintech raises $35 million in Series C funding led by Tiger Global Management"
+    excerpt: "Chennai-based M2P Fintech, previously known as Yap, today announced that it has raised $35 million in Series C funding led by Tiger Global Management. The funding round also saw the participation of existing investors BEENEXT,"
+    publishedDateTime: 2021-10-12T06:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 47
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://www.thehindubusinessline.com/info-tech/iuh09y/article36957845.ece/ALTERNATES/LANDSCAPE_615/bl13M2P-Fintech"
+        width: 615
+        height: 384
         isCached: true
   - title: "Alviere, a Global Fintech Startup, Raises $70 Million Driven by Company’s Rapid Traction in Embedded Finance"
     excerpt: "Alviere, the leading embedded finance platform enabling any brand to deliver financial products and services to its customers and employees, today ann"

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
+        isCached: true
   - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
     excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
     publishedDateTime: 2021-10-11T13:28:00Z
@@ -43,17 +59,20 @@ related:
         width: 626
         height: 333
         isCached: true
-  - title: "Speech Recognition Market 2021 Global Insights and Business Scenario – Nuance, Microsoft, Agnitio, VoiceVault, VoiceBox Technologies, Google"
-    excerpt: "The Global Speech Recognition Market 2021 provides an inclusive estimation of the business vertical and offers a complete outline of the industry along with its key segments The report offers important insight into key elements of the market such as"
-    publishedDateTime: 2021-10-12T10:04:00Z
-    webUrl: "https://www.openpr.com/news/2425754/speech-recognition-market-2021-global-insights-and-business"
-    ampWebUrl: "https://www.openpr.com/amp/2425754/speech-recognition-market-2021-global-insights-and-business"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2425754/speech-recognition-market-2021-global-insights-and-business"
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
+        isCached: true
 
 secured: "J8x5v6DzA0J5E5Uhq4dcGQOb/f/nIdYhjaMHO+84vI7vdTH2prd3ZWMQLsGv7m6Iv9CTZEXGm12hyoOqVzD7y7w31I8gfH/402HF94/GI9lunsMFlX7T3V0UAvX62mmRYjMR/aLbPudWmJTsSq7PfJrHcDvt38w68Elyq3whPFmcNpr22jPnn+XD0+cMwKsfrAfZ/rH/9Wo7nUFp2DRa08xynYpdQhfMAuiNBGySQ9ykzkdd4GP3wXtksoFL7Y4frYrGFrwnPJdVPCe8vaWz2DNwiQqulrcQZjSVqh+i8ywTwFLJ5gJP4SZKKpDNsJ3FN3VGE/+0iD+Og7NXddN7xQ6c77TQKGRzTKWPuajT5ljYb44qX7ucg+eWxxWXeKb9Fj2H4OFaZ/ccvkCBLewZ0znrENX6NI2PM3YTsb897M7otZHOUQprqpQOIO1dT5OxTHsGuzBfLtVYXAISXyjzDbGvzfSZ1OAZ3g5vAOJjdYLILvTYZa79bXEnxz4mg9k7YERR6HygNEKWN0ZaWjAMWg==;fDKbdlpKdAHgjaP6yFvD7g=="
 ---
