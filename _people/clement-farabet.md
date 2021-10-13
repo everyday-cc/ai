@@ -14,7 +14,7 @@ website: http://www.clement.farabet.net/
 twitter:
   username: clmt
   url: https://twitter.com/clmt
-  followers: 11021
+  followers: 11020
 
 linkedin:
   url: https://www.linkedin.com/in/clementfarabet
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Clément Farabet"
 
-secured: "3VpDE3L7j7SWwzfRdpusHkfrukRSgjV8okBr8ffxoENmiUhkJhVKa2y72l0AkrEN9DoYDRz/4m+p5oCvzrgt1J846VVtnyS1tpeXXn3MlxFrrGHB9CEX5KL12164eIHVJ2mZgiIAZOGfSk+texcoBhsTYUKx2BTarVRqaVLj/cOLuInPbzUeCbzZy0VzQuTpvbHrcDM8jfbhMjZCl7JPODFhaFKrgMbhKVNF2uy1/eJ3YyYCPkBP4UggVghb9TfbaVx2G/DMUJfrVgU171paapmkqTjPtWR0DbR/T7MDg+6wzVyI/SZ6TM+2mY5/KTCZlfneFGP2brT8ffieAHPqx+UbUaRNAQhFsjlrdBvMhiToK0o9ZeLaLWIatp7Y/epqrgEis5WEFPrZ2Z4CImjWS8EdXVQrMuelhg9sq/fAhe8=;hzi6AUNEP7mgJTqdNB+Bog=="
+secured: "XaKK4ic8uoL66eXZ3ungY6Lftva54SStUdcBo6nAfiHLthVWOHmi3MIwkcViEEnBDhrg8QbbBocOZcABwtsgjNu/fdHlyq2fV1hJZBrLhoHNfh3KKSksHrB06LCvQ51dT/7b1NCHTvM41LEcIduz8CfDffqOOZkqtiBlBtO3tECAFE2rN1LQpDRLdAxhEhGrui6vHjs7LSFPSu1/AOxxHZ3+tRxacrcERQpmlafiZUc27Of6KjRCppXMijic4/1BSgmVlW/D2e9SEUL9yQrqZzhx1luAsiywku1Mkmy6fi5sQB54qxz5dzJ9E0v7mdSboqXrSgR831781oeD0g7gp8Dcs8FZa/DBJry4FP83aLf1+skmoaQNNZJTDPKfT8EkGyZfnQmkoVZiOorwMNNvcvGkVQfO82MAIh7Mq3G51bA=;nryo0+V/6OnYPsqegNhk0Q=="
 ---
 
