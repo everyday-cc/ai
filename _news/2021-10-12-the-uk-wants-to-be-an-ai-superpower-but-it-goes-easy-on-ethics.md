@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-et
 webUrl: "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: LinkedIn
@@ -42,6 +42,20 @@ related:
       - url: "https://businessnewswales.com/wp-content/uploads/Chris_Philp_AI_summit-uk-gov.jpg"
         width: 580
         height: 385
+        isCached: true
+  - title: "A new Artificial Intelligence strategy for the UK"
+    excerpt: "In this report, Chris Eastham, Technology, Outsourcing and Privacy partner takes an in-depth look at the new, 10-year plan for Artificial Intelligence."
+    publishedDateTime: 2021-10-14T00:52:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/a-new-artificial-intelligence-strategy-for-the-uk"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 37
+    images:
+      - url: "http://res-2.cloudinary.com/fieldfisher/image/upload/c_lpad,g_center,h_1080,w_1080/f_jpg,q_auto/v1/sectors/technology/artificial_intelligence_technology_ai_brain_machine_learning_computer_futuristic_-1223301957_ki6t6o"
+        width: 1080
+        height: 1080
         isCached: true
 
 secured: "cjivcVg0DBHNx/DtxWjbaXFibSKAV+mPUsDNGOvV+KjjYi/aeZXKMPyfYJOKZ1jd7VbNgOsjDpF9n0rjyI9V5hNVLjWganANAnTMRCNYhIfQXJbjGZS9SH80+Z0s6ehPzKn1uV+hiYwuGRjZSTMA3aJqWV/w2I/iYMxILGofm8DTZ5SmF+K6DXFhspXDgTkqg66lSOTAnOMx8zWkX8TYzVSpvSVqs8/5dCSRaC6jjbje/dEbRF2SuwWi/otiRaIx78XyddKm3qTY8ZU/VDVFZuUVBEuhgCiH0kZialLGIikB/ngW3wGuQT32hhSkSq0dSDfLmV3waXHZSOG/i6Q8obkCurQTOT/JlGcNlyap6SLNktVHdpYKIOW0I/EZWWxZuzT00Csl7FPqq5blUAKBgal3B69DXMlTIW3tcvyt4PFUkWoZPeuVZx7320EbywgfBB6x/QpLDioRnDQd1Lmne2UFGthG3jV9hsSQtK5YHiPcQUuNo8wEFSiS7dKxTCPFcLxJTa+SrbtDin2yARWSag==;erGeIgAhPXdosIRuObjFrQ=="

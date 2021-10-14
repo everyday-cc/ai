@@ -2,6 +2,205 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-09-23-mitsubishi-heavy-industries-engineering-partners-in-new-concession-of-dubai-metro-and-dubai-tram-in-joint-venture-with-keolis-and-mitsubishi.md",
+      "title": "Mitsubishi Heavy Industries Engineering partners in new concession of Dubai Metro and Dubai Tram in joint venture with Keolis and Mitsubishi Corp.",
+      "excerpt": "Billed as the longest driverless metro project worldwide ... diverse technology solutions that incorporate digital and artificial intelligence advancements in the transportation field.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102846970/Mitsubishi-Heavy-Industries-Engineering-partners-in-new-concession-of-Dubai-Metro-and-Dubai-Tram-in-joint-venture-with-Keolis-and-Mitsubishi-Corp&source=28",
+      "originalUrl": "https://menafn.com/1102846970/Mitsubishi-Heavy-Industries-Engineering-partners-in-new-concession-of-Dubai-Metro-and-Dubai-Tram-in-joint-venture-with-Keolis-and-Mitsubishi-Corp&source=28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/22/M_fb87eimage_story.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-facebooks-chief-technology-officer-to-step-down-in-2022.md",
+      "title": "Facebook’s Chief Technology Officer to Step Down in 2022",
+      "excerpt": "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
+      "originalUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
+      "publishedDateTime": "2021-09-22T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-the-state-of-mlops-in-2021-is-dominated-by-startups.md",
+      "title": "The state of MLOps in 2021 is dominated by startups",
+      "excerpt": "Closing the gaps in MLOps is a lucrative new opportunity for startups, one that Dr. Ori Cohen says has seen $3.8 billion in funding already.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
+      "originalUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
+      "publishedDateTime": "2021-09-22T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-mit-developed-a-toolkit-used-to-create-3d-printed-muscle-sensing-wearables.md",
+      "title": "MIT developed a toolkit used to create 3D-printed muscle-sensing wearables",
+      "excerpt": "MIT's Science and Artificial Intelligence Laboratory (CSAIL) will present its research at the upcoming ACM Symposium on User Interface Software and Technology (UIST) next month, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "originalUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-22-image-49.jpg",
+          "width": 2230,
+          "height": 1212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "publishedDateTime": "2021-09-22T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-fintech-zest-ai-becomes-a-cuso.md",
       "title": "Fintech Zest AI Becomes a CUSO",
       "excerpt": "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday.",
@@ -949,202 +1148,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-how-are-you-planning-to-take-your-ai-experiment-to-production.md",
-      "title": "How Are You Planning To Take Your AI Experiment To Production?",
-      "excerpt": "We hear a lot of buzz about enterprises deploying AI aggressively. However, a 2020 NewVantage Partners survey (via Forbes) found that only 14.6% out of 70 leading enterprises were seen deploying AI capabilities into widespread production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
-      "publishedDateTime": "2021-09-22T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-maicon-2021-marketer-machine-what-assessing-the-impact-of-ai-on-marketing.md",
-      "title": "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing",
-      "excerpt": "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing",
-      "originalUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-08/woman-and-algorithm.jpg",
-          "width": 1277,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp",
-      "publishedDateTime": "2021-09-22T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-osano-a-risk-and-compliance-startup-raises-11m.md",
-      "title": "Osano, a risk and compliance startup, raises $11M",
-      "excerpt": "Osano, a risk and compliance startup, has confirmed it has raised $11 million in new funding. The round was led by Jump Capital and with participation from existing investors LiveOak Venture Partners and Next Coast Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-488979113.jpg?w=1024",
-          "width": 1024,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
-      "publishedDateTime": "2021-09-22T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-flyr-labs-maker-of-airline-software-raises-150-mln.md",
-      "title": "FLYR Labs, maker of airline software, raises $150 mln",
-      "excerpt": "FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights, said on Wednesday it raised $150 million in equity financing. Sept 22 (Reuters) - FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/aerospace-defense/flyr-labs-maker-airline-software-raises-150-mln-2021-09-22/",
-      "originalUrl": "https://www.nasdaq.com/articles/flyr-labs-maker-of-airline-software-raises-%24150-mln-2021-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

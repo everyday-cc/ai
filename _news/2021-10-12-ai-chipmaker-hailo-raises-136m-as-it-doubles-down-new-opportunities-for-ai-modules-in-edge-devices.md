@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/"
 type: article
 quality: 190
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Hailo Raises $136M to Expand Edge AI Solutions"
+    excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo on Tuesday announced it has raised $136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round brings Hailo’s total funding to $224 million."
+    publishedDateTime: 2021-10-14T01:05:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/21068-hailo-raises-136m-to-expand-edge-ai-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/deb4023b036509a17e96082ab1816b2d.jpg?t=20211014_010302"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "QRD3eIq7S2g3UCNfzJocqviokrBe8GFDjr3/9adwv7aSl8dW6MEcL373BSHh4+IpRler+XodmZw7j21xnbPRVpPKDVVjg3GPb48j6Bq+/gO2vsEO/egB5MHO+jm9JR6nxyFwkWnnpltMFYEtJcStXTdBsm6JlXsuFjkg8v3TNc9dj5SIs3ikg0nxngM6gZAxhAZ4FzgUv4imUflGX94fe/xM50ZT0/oknbfDOe7I2q0CmGkTj76IQ6IzmJyiO5rdpmPrh1DjKqeRobACMcwbuG8dPNEmJyNQSAmEPKYTTTk8D4e7p8IgJfUGXAIYERksQb4putF1jRlF/CD6YrLYwgr6LaFQ63lKzCZv41ZGN9RLO645Utm/GH3Wzgpmw62B1I0ckig1LRyxEjjQ5jAUB433m0pvX92dLhBU6BmJfshVRWsxQiq+2NeZgW28aPks+nNIt5d8icP+g1lMieALclolDIhJ+pkWrx30OzZZ5cvvF5+UVk7Wrwf1Fukl+BZhS0PC2MlU9MU47Ql3rldH1BNF+G2nsLCa3/35+N4YXAE=;h9jYCBdzZfH8fP0npcYZHA=="
 ---

@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
+      "title": "Robotics transforming knee replacement surgeries",
+      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
+      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
+      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
+      "publishedDateTime": "2021-10-04T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsX",
+        "domain": "newsx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product",
@@ -1002,8 +1088,8 @@
       "title": "The 7 Biggest Artificial Intelligence (AI) Trends In 2022",
       "excerpt": "In 2022, we will see artificial intelligence continue along the path to becoming the most transformative technology humanity has ever developed. According to Google CEO Sundar Pichai, its impact will be even greater than that of fire or electricity on our development as a species.",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
-      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr/?midToken=AQGgi4xj0oeN-Q&fromEmail=fromEmail",
+      "webUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
+      "originalUrl": "https://www.linkedin.com/pulse/7-biggest-artificial-intelligence-ai-trends-2022-bernard-marr",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1081,93 +1167,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders.md",
-      "title": "Explained: Why Amazon’s Astro ‘robot on wheels’ has rankled privacy crusaders",
-      "excerpt": "The robot is designed to move around the home and keep a check on pets, and detect something unusual in the absence of the owner.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/10/227f04f9c0bc4cceaed880176ef570e9-227f04f9c0bc4cceaed880176ef570e9-2793bc1d66804cf08f75439792eebdc0.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-why-amazons-astro-robot-on-wheels-has-rankled-privacy-crusaders-7549238/lite/",
-      "publishedDateTime": "2021-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijings-goal-of-reining-in-big-tech.md",
-      "title": "Chinese AI gets ethical guidelines for the first time, aligning with Beijing’s goal of reining in Big Tech",
-      "excerpt": "China has revealed its first set of ethical ... Beijing's goals of reining in Big Tech's influence and becoming the global AI leader by 2030. Humans should have full decision-making power, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-ai-gets-ethical-guidelines-for-the-first-time-aligning-with-beijing-s-goal-of-reining-in-big-tech/ar-AAP4O4N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/30/a076ab7c-21ed-11ec-83d0-b8338c7f9150_image_hires_224915.jpg?itok=wPPO-EZd&v=1633013362",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-      "publishedDateTime": "2021-10-02T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "domain": "scmp.com/tech/big-tech/article/3150789/chinese-ai-gets-ethical-guidelines-first-time-aligning-beijings-goal",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

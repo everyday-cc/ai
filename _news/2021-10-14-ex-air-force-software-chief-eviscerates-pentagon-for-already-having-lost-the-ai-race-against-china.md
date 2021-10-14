@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-13T22:25:00Z
 originalUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
 webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
@@ -191,6 +192,6 @@ related:
         height: 382
         isCached: true
 
-secured: "7Ft4u+TyScthlYxYuopNYPkBsaJWqC+Gs4apbhG43hLnVucn564GcWOfADGCBuqQP5NrPhIlab4XjcNtDQny4cMkd79JjvHztqAR3D5BtKkrV8S4Uj9qQ8g27NBMllXi7J/8vPyOm+BbNuk8E9/xG4JYTiH/1INY+/TlBmTWVq+basYqCj6jJY5ucWhZyAA1eJENB2rK10hyYmjJKjmd+DOgZUmtCuYUdw0NHjtVlSXGBZOZD51qntVcE9jiMsCO10OnUxR3iz9ApvkuYFmdibUudCGnFas50H06WlaI4J2F+EvrSlnxbp4FfSVUVJOXvZSiLlVgJvdZ5ua/PB6DPS8fheDepyzTb6uVhhaEORs=;Nc02xfbo02yCSani2RfT/Q=="
+secured: "gpNSByj++2xBTo/YoCrTDbwBWChGdt4cCFR4BcoVB7hXFJRuWxaKHONDTwO1cDxtxITtvQr3DJ51SgsBVlqopngP2dHXxlBFJ9JduhZMJaxhWc33k6kae+A2DvaYNzyA/fsfKOMi9R5ItB0Kvg/NyWVxURKzY8DogZSbjMRWoyFPoZzR2Ld/34cUsKEKe+hK5ac+zS7UCpCSsXKiCoivGj9NbGn4zCauZF2zO2f0VcFsEIKudzNhp+JcVEvoOxPOqBQoBS21QAs4kEUqDpiczrJ3SeHxZflXeMNMZyqqB2N+QSXdJA4rQD3ba3ELzliZ3+SnzsQft5R/SZq/NUpCCx2xtAUWRbHbys5QMXd2C9/z/ux4RyUHZZ2zFPGPKB7QkSVrwt0opLJ8WlhIaMMX4BngNWesmvPfI1m72Nd/rxUdeMaohdC9QY7yI/ljnb3A16dpjiQQWVsrshA37RiCGzH+cKSphxz8RdJfTzeLdWWIzygQi6fKxT8tIWV4TBiBNx8Fzs/22MWDiBUtRsKkZw==;fhsXitGNrMsXbXZC4JM6Qw=="
 ---
 

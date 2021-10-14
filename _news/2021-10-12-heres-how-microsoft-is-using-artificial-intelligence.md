@@ -3,8 +3,8 @@ category: news
 title: "Here's How Microsoft Is Using Artificial Intelligence"
 excerpt: "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
 publishedDateTime: 2021-10-12T16:09:00Z
-originalUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?time=1634054701"
-webUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?time=1634054701"
+originalUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12"
+webUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12"
 ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
 type: article
@@ -270,6 +270,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "qxA/kb+NNho8AhXI2C0XxV7uoq+u81R6fVRn1ssMikLt/AOUc8phWJhr3udEMvgKhxoDeuI4vQkp6HA8LNFk+VG8AumMDIPEhjyo2XVLIc3Ci0i0FtvZ6twY1jVGitXYmBPIAEdADyAYOldlJ+uvb/UtLOVCYSNvRcTcG2TUyX1ELiyM4ld6sDJ0CB/EYAC1ODrLkS+AXAMzDf3wt8bymZUAZTz5Rw3bXpPW4HIwbR3bhbcOpOnJ7kcyWXhZf972c3CUd/CT7NuMoupv/r7f70yMaNmdYyi/kYQZwdsdmWhGMcaKQofj0RW2Z8TD8ZvMT12gJtsKjdNXnQSE4iAILctGAaMZi4Y65ppKdGMp4Tg=;RjXpHcQyZ7OcuzqNh4drAA=="
+secured: "g2kThxTW2oQnhlcvEBhQgL/4cXQ5Dr0IVyRdnSBwhsXUBei4xx+/L85zxxAs0vtX5DLidcPEMqAf7Z8gwxYb9KiIrJJTsMK5VDBWGdMboksMqKL6t/diLhVH/VUkeW3A46N1CWz52C7m0buWicXAiwF6Z8zWJL6zLCm3XyYODZez6hu57fGQyglVVLRzDmVzFpkV+Gi8Y8HjDk4a/num8SEnkpP7yQiy5+0f38eLWEQE7RuU9thUsFP5nregqTUWe/rNXLihl5NICPT3Keb8ekX6BHG1EfB2/GA1zWFBKyn5KQl8H7jfj7Ec9WePCNLgkls9RzumUslE0rxzXiaNaFWRvKItjZn5tQUrb9cl/II=;TM9cduwrdHCKzJbKQPlmQQ=="
 ---
 

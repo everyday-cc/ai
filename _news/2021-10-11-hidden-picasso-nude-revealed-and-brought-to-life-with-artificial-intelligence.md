@@ -3,14 +3,14 @@ category: news
 title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
 excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
 publishedDateTime: 2021-10-11T16:02:00Z
-originalUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
-webUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+originalUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Lost' Picasso nude re-created, with help from AI"
+    excerpt: "Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists, he'd paint over existing canvases to create new works, thus concealing the earlier images."
+    publishedDateTime: 2021-10-14T00:04:00Z
+    webUrl: "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
+        width: 1454
+        height: 818
+        isCached: true
   - title: "Scientists use AI, X-rays, and 3D printing to reveal a hidden Picasso"
     excerpt: "Researchers from University College London used AI to recreate a Picasso painting that had been hidden under another artwork for 118 years."
     publishedDateTime: 2021-10-12T17:33:00Z
@@ -77,6 +93,6 @@ related:
         height: 480
         isCached: true
 
-secured: "lUjEIwGc8VvZTK7Vj7TWegoOAT10zDxJGu40MImSYZL+Uay5nGRbwB1pYxrrhe4H6S+ksHh5lEhVALNkPbbIhrH2FhUL+6d59Q3tFZihP6KFgKSoL66af5/kmBq7Gq7NJLwvI8MnAO72dPKYOW3rOesAuCfT7N2ox1K0vhPbObA/9SwUIB0gkFow4JUxlMysYjOpDm5HpMwE9Mn+kmBCXmHf0bOEzHmpdPg/KLfSD3BZs+mLHMO2EVlIuMD44eFMnsV+hJTj3/PP2gACMwZaP5GfND6+3MoEzRSmeRcqrA76nSV32n8fkmrR2g9YtJCXDu+b9EUhp/dwAdD3JvAIhRfLLRGc7jqsXZy6XRfP4xtuXA6NY8Usu1NOX9zqAwR/8+r9NiNwzWtYAysRnQCxNKdWh0CmqtLpIrhZM+9+wV8/GahptJwwMWsTWnH+hIPzufZrMdfk/3k3IOb64VYyIH/s2rDMsOOk3KM0/nVnx229PtO18MDBXKYo28g5l0/vuhMhegBYCJkiinsqw/2klQ==;K5Dp+7DkG8+eSL3N9Qvtig=="
+secured: "KtUmr+IlBK2e30p4vsbA6etTwUXEok0IbSuQK/H/ay9kIc4ZY3Qfyq4047pxATbFpbZ0H6Z5cuvTXFJMgY/qrRq3T2iMgyUvfZeBvrQRn1PnQYlgKpvmNiAFdNhGGEJ2LOUPCz6Xc4pTu6TcNLTm0oUgMxDn2JHJaI6zu48mGmoqdHOuY1lMjwjlOB+PaUMhA9GXaARqeU8hHFoL4cBy0jwpzkHySDpuJNhQXzj9qQDvpnyfbIOcTRd2QzWHdO6VT/yC6JS6H8aQyv0eYej+587laaUtABnM9BuyvjOaEoIk5ALpXL5pbxPL18WWRreINaF/AOv/8hUNAKWGR8TpEUa3EVti4fwXXm9+OEoxXsY=;DdPOPlPexA62x5+8A1I5ew=="
 ---
 

@@ -64,7 +64,7 @@ related:
   - title: "Here's How Microsoft Is Using Artificial Intelligence"
     excerpt: "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
     publishedDateTime: 2021-10-12T16:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?time=1634054701"
+    webUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12"
     ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
     type: article

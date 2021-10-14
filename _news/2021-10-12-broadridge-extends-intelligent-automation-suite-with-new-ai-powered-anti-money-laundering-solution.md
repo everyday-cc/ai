@@ -1,59 +1,43 @@
 ---
 category: news
 title: "Broadridge Extends Intelligent Automation Suite with New AI-powered Anti-Money Laundering Solution"
-excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced the launch of the Broadridge Anti-Money Laundering Solution (AMLS),"
-publishedDateTime: 2021-10-12T16:01:00Z
-originalUrl: "https://financialit.net/news/compliance/broadridge-extends-intelligent-automation-suite-new-ai-powered-anti-money-laundering"
-webUrl: "https://financialit.net/news/compliance/broadridge-extends-intelligent-automation-suite-new-ai-powered-anti-money-laundering"
+excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, today announced the launch of the Broadridge Anti-Money Laundering Solution (AMLS),"
+publishedDateTime: 2021-10-12T06:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/broadridge-extends-intelligent-automation-suite-with-new-ai-powered-anti-money-laundering-solution-1030857935"
+webUrl: "https://markets.businessinsider.com/news/stocks/broadridge-extends-intelligent-automation-suite-with-new-ai-powered-anti-money-laundering-solution-1030857935"
 type: article
-quality: 25
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://financialit.net/sites/default/files/broadridge_11_0.png"
-    width: 3442
-    height: 1485
-    isCached: true
-
 related:
-  - title: "Broadridge releases AI-powered AML package"
-    excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced the launch of the Broadridge Anti-Money Laundering Solution (AMLS),"
-    publishedDateTime: 2021-10-12T09:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/89697/broadridge-releases-ai-powered-aml-package"
+  - title: "IBM and Deloitte Launch New AI Offering to Unlock Business Insights in Hybrid Cloud Environments"
+    excerpt: "IBM (NYSE: IBM) and Deloitte today announced a new offering—DAPPER, an AI-enabled managed analytics solution. The solution reinforces the two organizations' 21-year global alliance —which helps organizations accelerate the adoption of hybrid cloud and AI across the enterprise—and 10 years of experience implementing the Deloitte Analytics Platform."
+    publishedDateTime: 2021-10-11T12:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-and-deloitte-launch-new-ai-offering-to-unlock-business-insights-in-hybrid-cloud-environments-1030855945"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Broadridge extends Intelligent Automation Suite with new AI-powered Anti-Money Laundering Solution"
-    excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc., recently announced Broadridge AML Solution"
-    publishedDateTime: 2021-10-13T09:52:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/broadridge-extends-intelligent-automation-suite-with-new-ai-powered-anti-money-laundering-solution/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 25
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/WK_Sep2021@2x.png"
-        width: 401
-        height: 401
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
-secured: "lfy//5mtvh0IEGb3pYiXKk+Q+vhCgTuzGNujG5cn5p8eCAKGj0zA6IuI3NAnQr5GuFQffOtsu3YUW4AgW4l9jhMcs/ZsCEaxDRLHmx+E3+mhUyLWCZedeRtJVJeoV28xAKzFvhz5G+SNmhkkk+awmXKu7oJoWaMfyVct8haNpsa6fXclIC6OwWzSAv2Vof3GGioQCvJ42nBVeODRv75hkcx1HX1V4UeI4CAYzxYSTj7+rocFDF0U7g5Ue4zympOvUTgzUR0ZMeMvyCJPt45BJ/3mBNGO1cCeipc26jk04UHQkJPbY7Gk2qGw9F6d4YG+gj9NssNevvKXNO2OqyL/jtu8i6Sps4fLX+p6du66/7yXikMKDzGLrHnuq+tfljcSAvsbXNNxHbT5as0VPMdBuO6QlYouKrQpIEV8ld5zDrMVch1fH1nkL/yC/iMcKABntstXRu5pD83pUQBrAYWZHsMT4YloFdEX+LNfPLiGmrn16qNxnpjAnE8BjTDX7QDJW0RsO+3uBqKumOLzAdfY6w==;ZoVlJJ51/3/29/h8uPJXMQ=="
+secured: "ymg3bpO6PqqojAvcySg+m4hYmqX7/OdCykaaApTH7570R0etOwrbYXvAthSx0WEg8iw6O632HdHp0AWPbcT10wx+Zn81MWKEsT6pAflg7Dzx0930a3Ws9Hra8yzMkea/jUqldfF/oghbWRb61SNJgbzqBksBZPYyeLnRhdzqgQ9ZrPPZ9lM9D0us3+SH7QEcE2898Y25SEK8yOBK2TVg/A/qm+rL4i2hhb8NR0zRGsMgebtqrpB7RYmDG2BzOT2zWIHwNIqn0JgfKB6k5sw+jfN4wqkNIfUxyjxpRvU6Mwv77692juVbD0jozoYPD0whf8Swl/wI27urBlaxNT7yK5m5tofUz4fCxtpo350wa4E=;JM/lCvcSm6wQU+rDFmyEQA=="
 ---
 

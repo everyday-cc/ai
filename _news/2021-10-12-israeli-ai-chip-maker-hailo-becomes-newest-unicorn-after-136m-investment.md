@@ -108,6 +108,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Hailo Raises $136M to Expand Edge AI Solutions"
+    excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo on Tuesday announced it has raised $136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round brings Hailo’s total funding to $224 million."
+    publishedDateTime: 2021-10-14T01:05:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/21068-hailo-raises-136m-to-expand-edge-ai-solutions"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/deb4023b036509a17e96082ab1816b2d.jpg?t=20211014_010302"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "9QuK8Yo90uJWWdyWYcXx1cLLBSyS0QgTwEwQlyBVkDHmCHAUSZ+yLH7zr4CSpa7feSEQdWEE1dgq/hlbKNsjzOdpUI5AqRVrawA9OlwnMTXdVruxxs9Lgc1iBVlGjcykGSz0rW9XHPAjgKocJjlQcjYTUW8tEmbZ0fJXgSCccEykpZVPzInezcj+e034uJvcqHR5JMAfCELCmMh0nY8YYYhrea0kbfYIvf5BAqA/oCJmI52xfvzXhGmR8GwzTCtzVZf9c7BqzbK6ZBIXorJ6e5URSUnGMKFXIXDUuE/JxifE7byIMnqX1eY1TpXeELr1BGZofCN6fBDPu/LESFTi+BU77LFjnjtrYS3INmi8zm00le7mDbXvFggAHyBbW4pmribBditCuTKQj0UhntvCC9vPJv33yIfdE6eWyCaO0E7s32HPSUBnXULbhsIYLxLj1goTRMULCWqyFcpF7VuSHCOpYmEMKisY+zlqG8ujq+g3vM0pbUEWpTJFidpD2IsB39HMs/6sZQfljUjK3Wgq/g==;4j+tWU/CDF/hr8GEdWkvyg=="
 ---

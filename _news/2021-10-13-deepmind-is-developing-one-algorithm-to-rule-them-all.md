@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-    excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-    publishedDateTime: 2021-10-11T04:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
+    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
+    publishedDateTime: 2021-10-11T18:25:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 107
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
+        width: 1198
+        height: 670
         isCached: true
+  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+    publishedDateTime: 2021-10-11T04:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
@@ -90,6 +99,6 @@ related:
         height: 300
         isCached: true
 
-secured: "27503LHsxl8PIw8sQwi6KKllr7ySzmWmTRK5NCdC1tzjJ1FxWUkgOqN+prG83Hey4VmsRI+9QK8bzya3rrvLEKJlqA0+a0UkGEnvv3XQeDYWxN39mg1UZ3bGf0V5Sxnv0UOP9ICrH9XsJKZKmpNcDG2cpN2AgrqPNe7kuF0AaMwWGUMgp6avx3G/h5h882P9KvsOMZvfUx+hf4EWn6Xn4zDsWY/iBYkBPYYVNKV+uaV6bwQZu5pYYnQea/j2TVzT/6SDaTviJ0WbUZlJ4DeS39vXD/wUAZbMm0DKoHSFfvnLE2uig1pLOt3FGkzH5sim1JhgwdxekaLc/yESO8aGchSlEWw6ptHM90uWC7LlUzw=;6PakWA1DmvUnjP52Z8ZI+w=="
+secured: "E5b8kUgs3NqoILTLPB/lbaSLopSj1pHQkw27dhKPDFCvA/k6c2/uWRGmCSzgYH+BLozuv9tW2vnwQgemd/8kxQC1YNU1hYx+WJF9t4Sk7znIfWz0zkbypXc5xsj1lnytujrRXg1pOzDp54C8i2inKlw0HJFUU2+xEYmQOdxgdF/EdnwjafhTw1oTHGPVOkw5mgB2ZAMuWMxMZUQt854a1GeGisK3Gl2eHAjpZ4ovk/wrJlzof/9XB8QLuc4PAAe+o4R129NrJe4kxtVEesy+N+EBMZhhPi6GzAgveqS9Ggt/02KdkF+HM8Q9LALkhoWtfu/8vPqfYNWf0pdMlwV8bu69QENY2s1T+FNXT+mWKY9mVXK8/Jlm+QimG2PBghx+MX/WXHTOC4b8fqgPSF0t+h+Ged9rqAS4GlrIDu6KOHaLDr7xzYkXCsbqNpOyKZKD6m3s5M0BzCpXuX57FbFIFn0k2ngpTbFHF3TtSTB+zoHU4h5WvobiZrSTk7GQxWy6rsFIE5cE+LTkuoNEK8/QMw==;Q71Extq8kkTA4SnZLhmrDg=="
 ---
 

@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
+      "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
+      "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/online-4275963_1920.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
+      "publishedDateTime": "2021-10-12T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
+      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T14:43:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
+      "title": "Deep learning helps predict traffic crashes before they happen",
+      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
+      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-google-pixel-watch-delayed-again-the-reason-is-chip-shortage.md",
       "title": "Google Pixel Watch Delayed Again: The Reason Is Chip Shortage",
       "excerpt": "The Google Pixel 6 has been making furor even not actually appearing on the market. We mean this handset will be unleashed in a week,",
@@ -724,6 +880,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-12-the-uk-wants-to-be-an-ai-superpower-but-it-goes-easy-on-ethics.md",
+      "title": "The UK wants to be an AI superpower, but it goes easy on ethics",
+      "excerpt": "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "originalUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
       "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
       "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
@@ -932,7 +1140,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -1025,200 +1233,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning.md",
-      "title": "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning",
-      "excerpt": "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
-      "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg",
-          "width": 800,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EURACTIV",
-        "domain": "euractiv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-is-shining-star-in-fight-against-healthcare-fraud.md",
-      "title": "Artificial Intelligence Is ‘Shining Star’ in Fight Against Healthcare Fraud",
-      "excerpt": "Beth Griffin of Mastercard says AI has been an effective tool that is only beginning to see the level of adoption in healthcare that exists in other industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/amp/",
-      "publishedDateTime": "2021-10-12T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
-      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
-      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "publishedDateTime": "2021-10-11T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-build-conversational-experiences-for-credit-card-services-using-amazon-lex.md",
-      "title": "Build conversational experiences for credit card services using Amazon Lex",
-      "excerpt": "New trends are shaping the credit card industry as shopping habits have rapidly evolved over the last 18 months. The pandemic has accelerated the move away from cash towards cards. Card issuers are transforming their products to better serve cardmembers through innovations such as contactless payments",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/1-6097-Architecture.jpg",
-          "width": 800,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:04:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-singapore-must-take-caution-with-ai-use-review-approach-to-public-trust.md",
+      "title": "Singapore must take caution with AI use, review approach to public trust",
+      "excerpt": "Multi-ethnic Asian country needs to take special care navigating its use of artificial intelligence in some areas, specifically, law enforcement, as well as recognise that fostering confidence in AI requires establishing public trust in different aspects of its society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "publishedDateTime": "2021-10-13T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-lost-picasso-nude-re-created-with-help-from-ai.md",
+      "title": "'Lost' Picasso nude re-created, with help from AI",
+      "excerpt": "Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists, he'd paint over existing canvases to create new works, thus concealing the earlier images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/",
+      "originalUrl": "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
+          "width": 1454,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/",
+      "publishedDateTime": "2021-10-13T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-one-army-corps-sees-data-education-as-the-foundation-of-ai-enabled-targeting.md",
       "title": "One Army corps sees data education as the foundation of AI-enabled targeting",
       "excerpt": "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps.",
@@ -536,7 +631,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -984,6 +1079,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
+      "title": "DeepMind is developing one algorithm to rule them all",
+      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "publishedDateTime": "2021-10-12T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
       "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
       "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
@@ -1060,162 +1207,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
-      "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
-      "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/online-4275963_1920.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
-      "publishedDateTime": "2021-10-12T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
-      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T14:43:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
-      "title": "Deep learning helps predict traffic crashes before they happen",
-      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

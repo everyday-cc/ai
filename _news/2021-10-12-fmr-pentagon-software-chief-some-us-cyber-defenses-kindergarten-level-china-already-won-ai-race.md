@@ -169,7 +169,7 @@ related:
     provider:
       name: The Drive
       domain: thedrive.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
         width: 1920

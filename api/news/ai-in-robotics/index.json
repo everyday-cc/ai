@@ -754,49 +754,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
-      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
-      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "publishedDateTime": "2021-10-08T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-08-is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics.md",
       "title": "Is Neuromorphic Computing The Answer For Autonomous Driving And Personal Robotics?",
       "excerpt": "Applications like autonomous driving and personal robotics are proving to be challenging for traditional computing architectures, but a relatively unknown, biology-inspired technology called neuromorphic computing could hold the key to new killer applications.",
@@ -836,6 +793,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0eacc915ea814eb4bd2477d4255b3c82_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/smart-robots-work-nissans-intelligent-plant-80473171",
+      "publishedDateTime": "2021-10-08T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1230,6 +1230,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "It brings to mind a \"dystopian world of robots... I'm just a bit hesitant ... and Singaporeans have little control over what happens to the data collected. \"There are no privacy law constraints ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "publishedDateTime": "2021-10-06T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
       "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
       "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
@@ -1366,58 +1409,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
-      "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
-      "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "publishedDateTime": "2021-10-05T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

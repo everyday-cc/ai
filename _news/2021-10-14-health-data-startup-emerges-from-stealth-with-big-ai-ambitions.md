@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 1228
         isCached: true
+  - title: "Naveen Rao’s startup MosaicML exits stealth with a mission to improve ML training"
+    excerpt: "Naveen Rao and Hanlin Tang have gotten back into the startup game, announcing the launch of a new company called MosaicML today that promises to optimize machine learning. MosaicML is exiting stealth armed with $37 million in funding round led by Lux Capital DCVC,"
+    publishedDateTime: 2021-10-14T00:04:00Z
+    webUrl: "https://siliconangle.com/2021/10/13/naveen-raos-startup-mosaicml-exits-stealth-mission-improve-ml-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/959a81cc-48c8-497d-a215-b6bcf7588362_Edit-137.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "1jVbeEkA0+e1olI6zRUtBL3HNRoF373ASA7Fc6/Mg2ycS3KCU1ByB2wjfCTsDqnWawzrNkkeRH7q3VpcutleSdivezOp3IMCMZgeElDw3Wx1ecfjbBIbFqDG+6n4FTw0Q5QNGXvV1daUX2IYriFjjrAnvCQWuyeTvkyYzcDBwlH2tNu+kKByIiaCPUwdWVCSf1yesOgTXYjhM5i2SrCnuF6+2eOVlk1KSe1uMM7Dzo3MlmBQsZiQx+c2SwE9xDBFbANvRdxOY3QwIAb6G3xMdjKygqzjeuIzT9SYGVeZipq5kmw5+T0p6TyYhKfddW/gfpFVjNYM0C2cZUCyNWBuH6pYE6oz5s0fadlsba3W0/E=;YM2RlpXxY6jGpcHjqqJ2xA=="
 ---

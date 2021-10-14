@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-06-will-the-cloud-eat-your-ai.md",
+      "title": "Will the cloud eat your AI?",
+      "excerpt": "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "publishedDateTime": "2021-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk.md",
       "title": "Here’s How Artifcial Intelligence Can Help Predict Breast Cancer Risk",
       "excerpt": "Researchers from MIT say they have developed a new AI algorithms which can better predict breast cancer risk based on radiology images",
@@ -955,6 +1007,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "It brings to mind a \"dystopian world of robots... I'm just a bit hesitant ... and Singaporeans have little control over what happens to the data collected. \"There are no privacy law constraints ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577",
+      "publishedDateTime": "2021-10-06T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
       "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
       "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
@@ -1097,109 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a.md",
-      "title": "Autify advances no-code AI-powered software testing automation platform with $10M Series A",
-      "excerpt": "While working as a software engineer in Japan, Singapore and San Francisco for the past 10 years, Ryo Chikazawa, CEO and co-founder of Autify, came to realize that there’s one common problem in the software development industry;",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/autify-board-members-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "publishedDateTime": "2021-10-05T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
-      "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
-      "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "publishedDateTime": "2021-10-05T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

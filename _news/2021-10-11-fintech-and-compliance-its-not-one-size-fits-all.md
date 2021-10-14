@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech stays on the march as ASX non-bank lenders and financial wellness apps build market share"
+    excerpt: "ASX fintech stocks are rising rapidly as non bank lenders are gaining market share from banks. Stocks like HMY, PLT and DOU are growing"
+    publishedDateTime: 2021-10-13T14:45:00Z
+    webUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/"
+    ampWebUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 46
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/10/ASX-fintech.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Latest Fintech Trends That are Transforming the Finance Sector"
     excerpt: "During the last few years, the financial sector has made huge transitions, coming up with new ways of serving its clients. What has streamlined these transitions is the rapid development and deployment of technology."
     publishedDateTime: 2021-10-11T13:13:00Z

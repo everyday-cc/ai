@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Fintech stays on the march as ASX non-bank lenders and financial wellness apps build market share"
+    excerpt: "ASX fintech stocks are rising rapidly as non bank lenders are gaining market share from banks. Stocks like HMY, PLT and DOU are growing"
+    publishedDateTime: 2021-10-13T14:45:00Z
+    webUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/"
+    ampWebUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 46
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/10/ASX-fintech.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "FinTech & InsurTech LIVE: The changing landscape of FinTech"
     excerpt: "With only one day to go until our debut FinTech & InsurTech live, we take a look at the changing landscape of FinTech"
     publishedDateTime: 2021-10-11T15:49:00Z

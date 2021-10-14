@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-singapore-must-take-caution-with-ai-use-review-approach-to-public-trust.md",
+      "title": "Singapore must take caution with AI use, review approach to public trust",
+      "excerpt": "Multi-ethnic Asian country needs to take special care navigating its use of artificial intelligence in some areas, specifically, law enforcement, as well as recognise that fostering confidence in AI requires establishing public trust in different aspects of its society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/",
+      "publishedDateTime": "2021-10-13T18:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so.md",
       "title": "Will automation and AI actually improve customer service calls? Salesforce thinks so",
       "excerpt": "Clara Shih, CEO of Service Cloud at Salesforce, explains Salesforce Service Cloud's three-pillar approach to automation and AI and how the technology is transforming customer service.",
@@ -34,6 +78,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-the-uk-wants-to-be-an-ai-superpower-but-it-goes-easy-on-ethics.md",
+      "title": "The UK wants to be an AI superpower, but it goes easy on ethics",
+      "excerpt": "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "originalUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1332,92 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds.md",
-      "title": "Pentagon Shapes Future War: Advanced AI Enables Integrated Attacks in Matter of Seconds",
-      "excerpt": "By Security Television Network, Author: by Kris Osborn, Warrior Maven Click here for updates on this story September 18, 2021 (Security Television Network) — (Washington, D.C.) The Army’s “Project Convergence,",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
-      "originalUrl": "https://localnews8.com/cnn-regional/2021/09/18/pentagon-shapes-future-war-advanced-ai-enables-integrated-attacks-in-matter-of-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2021/06/US-World-logo-new_KIFIMIFI.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-19T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-19-should-we-care-about-philosophy-of-ai-in-the-mena-region.md",
-      "title": "Should we care about Philosophy of AI in the Mena region?",
-      "excerpt": "Aliah Yacoub is an AI philosopher and head of techQualia at Egypt-based Synapse Analytics, a data science and AI company",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
-      "originalUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/thumbnails/d25799fc6c04f7e.png",
-          "width": 686,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-18T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda.com",
-        "domain": "wamda.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

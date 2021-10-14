@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-09-artificial-intelligence-in-marketing-market-demand-during-2021-2027-persado-albert-technologies-appier-samsung-electronics.md",
+      "title": "Artificial Intelligence in Marketing Market Demand during 2021-2027 | Persado, Albert Technologies, Appier, Samsung Electronics",
+      "excerpt": "Artificial Intelligence in Marketing Market is growing at a 26 CAGR during the forecast period 2020 2026 The increasing interest of the individuals in this industry is that the major reason for the expansion of this market AI is often",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketing-market-demand-during",
+      "originalUrl": "https://www.openpr.com/news/2388026/artificial-intelligence-in-marketing-market-demand-during",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U909431026_g.jpg",
+          "width": 577,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2388026/artificial-intelligence-in-marketing-market-demand-during",
+      "publishedDateTime": "2021-09-09T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-aws-startup-webinar-recap-applying-ai-and-ml-to-healthcare-data.md",
       "title": "AWS StartUP Webinar Recap - Applying AI and ML to Healthcare data",
       "excerpt": "The mid-layer is Amazon SageMaker, which provides developers and data scientists with the ability to build, train and deploy ML models at scale. The bottom layer – of ML frameworks and ...",
@@ -1305,49 +1350,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-rightway-introduces-artificial-intelligence-to-improve-care-navigation-for-persons-with-chronic-conditions.md",
-      "title": "Rightway Introduces Artificial Intelligence to Improve Care Navigation for Persons with Chronic Conditions",
-      "excerpt": "Rightway, a healthcare company revolutionizing care navigation and pharmacy benefits, today announced enhancements to its risk-scoring technology to more precisely identify \"rising-risk\" and \"high-risk\" members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19967778.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

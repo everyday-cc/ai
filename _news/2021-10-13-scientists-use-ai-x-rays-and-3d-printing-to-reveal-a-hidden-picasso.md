@@ -28,10 +28,26 @@ images:
     isCached: true
 
 related:
+  - title: "'Lost' Picasso nude re-created, with help from AI"
+    excerpt: "Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists, he'd paint over existing canvases to create new works, thus concealing the earlier images."
+    publishedDateTime: 2021-10-14T00:04:00Z
+    webUrl: "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
+        width: 1454
+        height: 818
+        isCached: true
   - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
     excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
     publishedDateTime: 2021-10-11T16:02:00Z
-    webUrl: "https://edition.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
+    webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
     ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
     cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
     type: article
