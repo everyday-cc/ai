@@ -23,7 +23,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 720464
+        "followers": 720478
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -40,7 +40,7 @@
       "heat": 300,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1412866365162020865/zaWIpruc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1448529595741863939/_XuVBAIS_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Cisco",
@@ -69,7 +69,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 77036
+        "followers": 77040
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -709,7 +709,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 7604
+        "followers": 7605
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
