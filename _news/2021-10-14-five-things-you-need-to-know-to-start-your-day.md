@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-10-13/five-things-
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-10-13/five-things-you-need-to-know-to-start-your-day-kuq53uhj"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "50 women in robotics you need to know about 2021"
+    excerpt: "It’s Ada Lovelace Day and once again we’re delighted to introduce you to “50 women in robotics you need to know about”! From the Afghanistan Girls Robotics Team to K.G.Eng"
+    publishedDateTime: 2021-10-12T00:00:00Z
+    webUrl: "https://robohub.org/50-women-in-robotics-you-need-to-know-about-2021/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 54
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2021/10/ALD2021-Banner-B-1-e1634047635274-1-425x283.jpg"
+        width: 425
+        height: 283
+        isCached: true
 
 secured: "dQ+QlIvbasg7KTiQCa5yvBrLhdOTVupi7EyKAhZkjOgCIO2QJMdLrOw7oCIynfHG1V7eyPog7JURqL/+FR6FNX6SgjbQQMZ8DceJFxDeEWWHIRuxacIBp69E3FPT8UQwRkUpL7f21cChn1x2yaLxWnSvQIeaeF489TQfpv8LHCJNG6xsOesEAoT+dIuC/ztL6tBhrXxkkoDD7xYahkbnZThXCcN7UVhlKdxqEbG3baP6g1e5QJJ6GCLII4T84YhP8FEcv6GWKLd7yofsDGjopGTgEbLkCb5Fr8vJaQEFSlOvbk62ckH4EfDZ2OnWx2bDwp1qjrLjkM4Lhf+d1s5uP5MnBCCYFv7yQMqNZIYdY4A=;L3oAQl2vuUcMJjyFOvLLrA=="
 ---

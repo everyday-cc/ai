@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
+    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
+    publishedDateTime: 2021-10-14T21:14:00Z
+    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
+    type: article
+    provider:
+      name: 512 Pixels
+      domain: 512pixels.net
+    quality: 39
+    images:
+      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
     excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
     publishedDateTime: 2021-10-14T13:57:00Z

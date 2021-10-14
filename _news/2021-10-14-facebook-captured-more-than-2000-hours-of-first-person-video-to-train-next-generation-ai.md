@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
         width: 640
         height: 380
+        isCached: true
+  - title: "Facebook is creating AI that can view and interact with the world from a human's point of view: Over 2,200 hours of first-person footage captured in nine countries could teach ..."
+    excerpt: "Facebook is creating an artificial intelligence capable of viewing and interacting with the outside world the same way a person can, letting the AI learn from 'videos from the center of action.'"
+    publishedDateTime: 2021-10-14T19:33:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10093241/Facebook-creating-AI-view-world-interact-like-human.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10093241/amp/Facebook-creating-AI-view-world-interact-like-human.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10093241/amp/Facebook-creating-AI-view-world-interact-like-human.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/14/19/49181575-0-image-a-48_1634236509921.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "txsIEq+MdPmM/Q11ck5pvu0QnKX+rZL6IghmoGnFZ1KKsIzt/VZwF5qIJG4yv112ELwpmJ1UkZ17UAhiSjR1CyMjQvQcA8Gtd9s0hwh295u0Kkrt121y3aWmYPzivDHst4OXi5HWoMpYqTKcEkIn0WC42ZbVULGuApW/4UAmsLMEy/T782P/9B+HbZh3rU6Drom2bWJHjlAwdGKGrdUdv7uWBzjnZuOooqTZ6hZ/MdTvEu9d0xZXizm14yy9XK1U/WVkVye+mIx3/npX44UTcLMxkW2OoVUAwpfsTtQ1xpo1GAYty/3IjLn1Cyl9dUFFW52IiFz0NMvEexVYVHi+fAE+iCHX8CVchOwW8uM05jw=;fTDFQm67XM3PH8wVa/FMHQ=="

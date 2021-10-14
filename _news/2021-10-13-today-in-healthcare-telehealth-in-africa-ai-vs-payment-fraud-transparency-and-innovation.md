@@ -41,22 +41,6 @@ related:
         width: 823
         height: 400
         isCached: true
-  - title: "Here Are The Benefits Of A Digital Transformation In Healthcare"
-    excerpt: "Source Technological advancements have not only revolutionized the way people navigate their daily lives, but the way businesses operate and"
-    publishedDateTime: 2021-10-13T05:00:00Z
-    webUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/"
-    ampWebUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/10/healthcare-and-digital-transformation.png?fit=1000%2C500&ssl=1"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Mount Sinai launches department of artificial intelligence and human health"
     excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
     publishedDateTime: 2021-10-11T19:44:00Z
@@ -72,13 +56,13 @@ related:
         height: 312
         isCached: true
   - title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that uses real-time provider, practice, and industry data to optimize providers’ days."
-    publishedDateTime: 2021-10-14T07:01:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
+    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
+    publishedDateTime: 2021-10-14T16:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "vkgshCK4+D/erR2LvHsc8vEyuR8lpYgI4TZ+pIDN9C+VcMw7655UjJxKrJURv7A4cLW+jMRhVvv4eiUnUIRrNx1I1Ke8RLBzp+a3CoNUKG95YpwvL64WfaeTrM7qvKqGpSFIpi5QvODjisGWW4wlJ9YaGgKFpreWPLWy00LoYb1w7Y41XVP91a8dnbFCsGOKSeTkRSTRH/ZC9ytW34rFCrOz3fiNhFKtn3mgPOxl07n0yzsqQ9Nde8j8GvXq4wdxVs//MkJ8tK4Vv1apCURr5s+3xDz72xMDnjalhrj5rnwcR7KflQEjsEprxWJir+muBMT+iq4uX3Duv+8Z8H/dR21jOqUqC+HHzruGNuYzK2Fb2rlfMeXH5/cQKSqVzP7kY35UEyWBj+W4Qt5OU1ynyIPSi9D1q1Rsll7n9izxHrejSqUXeh/dYuQpv1xo7dmc9bxIHnRPpV3U1MIL0ru/YPygyqQZ00p8g10yv8TirbLxH3vQX8QtVcOL6lzzAUXa3x8r+5hhBQUp9CaA0UXVcw==;QbQj+umT+gtj94ZoVlHaCw=="

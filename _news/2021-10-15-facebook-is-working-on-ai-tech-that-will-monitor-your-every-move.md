@@ -109,6 +109,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook is researching AR/VR AI systems that record your activities"
+    excerpt: "Facebook has been putting research into systems that will see, hear, and remember everyday activities and interactions on AR/VR devices."
+    publishedDateTime: 2021-10-14T21:05:00Z
+    webUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities"
+    ampWebUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/14/facebook-is-researching-arvr-ai-systems-that-record-your-activities_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
     excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
     publishedDateTime: 2021-10-14T17:23:00Z
@@ -171,6 +187,20 @@ related:
         width: 620
         height: 501
         isCached: true
+  - title: "Facebook’s AI research might one day teach you how to play drums"
+    excerpt: "A new research project lead by Facebook's AI team envisions future AI tech to continually analyze people's life using first-person video by capturing everything they see, hear and do to assist them with daily tasks,"
+    publishedDateTime: 2021-10-14T19:58:00Z
+    webUrl: "https://mobilesyrup.com/2021/10/14/facebooks-ai-research-might-one-day-teach-you-how-to-play-drums/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 39
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/10/facebook-header-1-2.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "6 Models of Artificial Intelligence that Facebook use"
     excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
     publishedDateTime: 2021-10-10T12:51:00Z
@@ -184,6 +214,20 @@ related:
       - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
         width: 1400
         height: 800
+        isCached: true
+  - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
+    excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"
+    publishedDateTime: 2021-10-14T14:15:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/facebook-wants-ai-understand-world-first-person-perspective/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/ar-habanjero-pepper.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Facebook Loves Self-Supervised Learning. Period."
     excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"

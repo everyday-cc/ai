@@ -54,6 +54,20 @@ related:
         width: 760
         height: 500
         isCached: true
+  - title: "Mine robotics forum hears about pot of gold at the end of iron ore rainbow"
+    excerpt: "Western Australia has so far failed to convert advantages of having the world’s biggest robotic mine truck fleet in its backyard into a stronger position in the burgeoning global autonomous mobility market,"
+    publishedDateTime: 2021-10-13T08:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/mine-robotics-forum-hears-pot-gold-end-iron-ore-rainbow-roberts"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 67
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwepd-cofaKw/article-cover_image-shrink_720_1280/0/1634112270005?e=1639612800&v=beta&t=BN7ZBijNbgTYQugD5GvojR9PGbA_apFhIWoEWI07wWE"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "3D-printed swabs to disinfectant robots: How these 9 S’pore firms are helping to fight Covid-19"
     excerpt: "The onset of Covid-19 has rocked healthcare systems worldwide and left governments all over the world scrambling to combat the pandemic. It’s been tough, and there is still a long road ahead of us. If there is any positive outcome out of this,"
     publishedDateTime: 2021-10-14T05:21:00Z

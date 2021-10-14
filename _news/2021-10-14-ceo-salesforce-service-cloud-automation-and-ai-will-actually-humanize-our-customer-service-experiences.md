@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "CallMiner & Azure Combine AI to Improve Customer Conversations"
+    excerpt: "To help improve the conversations businesses are having with customers, CallMiner has announced it is now providing its CallMiner Eureka Platform for use with Microsoft Azure Speech to Text."
+    publishedDateTime: 2021-10-14T20:30:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/450322-callminer-azure-combine-ai-improve-customer-conversations.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-oct/1194613252-AdobeStock_275896580_contact_center_dashbaord_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "CEO Salesforce Service Cloud: Automation and AI will actually humanize our customer service experiences"
     excerpt: "Clara Shih, CEO Salesforce Service Cloud, talks with TechRepublic's Bill Detwiler about how automation and AI will \"humanize\" customer service."
     publishedDateTime: 2021-10-13T15:00:00Z

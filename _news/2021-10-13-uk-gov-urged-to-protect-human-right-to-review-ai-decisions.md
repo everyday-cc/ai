@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1260
     height: 710
     isCached: true
-
-related:
-  - title: "Technology firms urged to produce AI engineers"
-    excerpt: "Technology firms in Vietnam complain that they find it difficult to recruit workers, especially highly qualified ones."
-    publishedDateTime: 2021-10-10T03:28:00Z
-    webUrl: "https://vietnamnet.vn/en/sci-tech-environment/technology-firms-urged-to-produce-ai-engineers-781372.html"
-    type: article
-    provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 37
-    images:
-      - url: "https://vnn-res.vgcloud.vn/ResV9/images/vietnamnet-bridge.png"
-        width: 738
-        height: 273
-        isCached: true
 
 secured: "ywPHvWr5m64emJ1wnNrobzqYiCiGLew3kQ+IErbsANxv6XsvbQh3Wya2wW6l41HqoQlBJ0ebToNhGQi7yYu5JIjyx4d+2s+w7DQM1trYADzg3/VuZgcBxZx0sjVK+HnmpBFxpYfc0z4XEieCpx8a5APkweNIvLZfvS3JDrzaWztd6o+DIOMHyAgoyx+uGit7Ec0TN7TfgLzfHYBvA1VYWFKxH3v53ZMXqWk1A4X+Kk8fJDPZMJYrYDN4tPskE+wRnCO6KkX84FDJjNmji76odpNQe3aVOh3tDhWo6ozCYtZ+8Bwv/P3p1Icwu9aU+N4d3o7s9fxeSHqs3O6tL/YXYQCO5xWeDeGZGLnQA1mO83E=;pP28hbG+AO6Is/q3JI6ZmQ=="
 ---

@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Mine robotics forum hears about pot of gold at the end of iron ore rainbow"
+    excerpt: "Western Australia has so far failed to convert advantages of having the world’s biggest robotic mine truck fleet in its backyard into a stronger position in the burgeoning global autonomous mobility market,"
+    publishedDateTime: 2021-10-13T08:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/mine-robotics-forum-hears-pot-gold-end-iron-ore-rainbow-roberts"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 67
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEwepd-cofaKw/article-cover_image-shrink_720_1280/0/1634112270005?e=1639612800&v=beta&t=BN7ZBijNbgTYQugD5GvojR9PGbA_apFhIWoEWI07wWE"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
     excerpt: "Company names Michael Brown as CEO & chairman and Ross Blum as COO ahead of first Ozmo deployment in North America Skyline Robotics today announced the appointment"
     publishedDateTime: 2021-10-12T13:02:00Z

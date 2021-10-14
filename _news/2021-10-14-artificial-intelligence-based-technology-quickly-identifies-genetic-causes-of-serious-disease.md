@@ -54,6 +54,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
+    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
+    publishedDateTime: 2021-10-14T21:17:00Z
+    webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
+    type: article
+    provider:
+      name: UUHC Health Feed
+      domain: utah.edu
+    quality: 28
+    images:
+      - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
     excerpt: "Fabric Genomics & Rady Children's Institute for Genomic Medicine study says artificial intelligence enables rapid diagnosis of critically ill newborns"
     publishedDateTime: 2021-10-14T12:00:00Z

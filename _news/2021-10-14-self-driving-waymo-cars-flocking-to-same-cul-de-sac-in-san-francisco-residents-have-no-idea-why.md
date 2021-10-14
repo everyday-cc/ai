@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
+    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
+    publishedDateTime: 2021-10-14T21:14:00Z
+    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
+    type: article
+    provider:
+      name: 512 Pixels
+      domain: 512pixels.net
+    quality: 39
+    images:
+      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "nmKrQObg8BSG8h4mGsmZ2WOQ2Gdmsm2rlbBEasZXsyUEerUrRJkb3GkWPCXrxGNK32iEvK4eYdRInM2HpJUs5Jf4g4JfhqcC7BDHB+rQ1jLteneHJ1u+yixaHLQa8CW5TR4ZATFPd3pqXhYC29l8GoKwu8hB5qL9hocYXHQdnc5w8xYbv6x/CenxDWyjOwT6RCA2CrGE0hMb3pVAkn5/a8681o9qOYz29pIkuwYHfpRNS9JPzN7gH+6N9pTFL9v54kuZRJMBuPXG5mGeJl4qnXUYrTVa7607mnwgn3YwIGWIHEn61vHPXtdkRgy3/f9abGeAJM0N2Bu662l+4A/qQuqMjDwrk/hMbnqlS4vje1M=;qtmZTupS9SscgfJHsNelRA=="
 ---

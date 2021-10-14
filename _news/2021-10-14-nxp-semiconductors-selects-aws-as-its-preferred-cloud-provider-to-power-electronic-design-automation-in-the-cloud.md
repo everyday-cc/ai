@@ -1,18 +1,18 @@
 ---
 category: news
 title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
-excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
-publishedDateTime: 2021-10-14T04:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
+excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred"
+publishedDateTime: 2021-10-14T08:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211013006195/en/NXP-Semiconductors-Selects-AWS-as-Its-Preferred-Cloud-Provider-to-Power-Electronic-Design-Automation-in-the-Cloud"
+webUrl: "https://www.businesswire.com/news/home/20211013006195/en/NXP-Semiconductors-Selects-AWS-as-Its-Preferred-Cloud-Provider-to-Power-Electronic-Design-Automation-in-the-Cloud"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -52,6 +52,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "ToNI5xRsQV3N3EcsyLg97hRLdMesyZr7fUSsw/6TQpu2CEHiAREdiONw4Le7vIhq9jqWpfU6s+VsqR9tq7HtwRzXxDd8lk4lgehVSl6u9w6vYp90tVupS7u8Dt0fx/kjUTEVtdwiEHroRFMFsGLpQ/GQ39w5QmMdAdw1PkUZbEamuhxcinouEc2A4BuXaBZHQ6rI28bjGOV94e1j5jSw6rIH+SITGPbNzz/KKbpwaVo2XJpuGXEWsLUt7hGT+g8s4wP8kVjJuuX7V6841KJkPRpQFI1wMu2u6OL6hWI/u8ZSWV7DfY7YC3DcLEcJ8ShliWW7CYInuwZYl1trYd7r3vJXsF/GdVjBQ8nTzLKSo88=;i1G5PGC4257985PP7dTEWg=="
+secured: "cAEGsoXXqGwwQyottTuknoACUBlA6l5MLFUidzTT5LBOC6NLRnMAMKSe2oN7y1KuFS1hxgDXTKszScBoGluiZ18LjpwMvj2K9fBt3JeQMJigoq6VxxZ2QF/+YRfuWys4sqqIQoYqzVHyXOQRxwXkJKdBxQop+eVZ1hDACeZCgtr4EEh70uPfGA3m3K2Xs6srodLQgpsp1dZNoLO6k9pUNYWgIjQg9XzugMQaEYF+0iJ+DhmExaB8op/G0k8xMHTcZp238jOTcdIHDghHUN+bVq+2ZLWYGyvSisRrWRYOl6XVo4El0uYw+FcF1Hv86KXpje8JG79vZ2VjFvhpJ5eQ17sauOVKeLWU+3e1AICI+u4=;vkjbDiB37aDtoXG3PP+9jg=="
 ---
 

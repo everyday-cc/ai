@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-    excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine"
-    publishedDateTime: 2021-10-14T17:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/seeq-expands-machine-learning-support-to-democratize-data-science-innovation/article_b7187c17-415f-5611-be95-b1292d7fb1cb.html"
+  - title: "Cellebrite to Acquire Digital Clues, Strengthening Its Market Leading Position as the End-To-End Investigative Digital Intelligence Platform Provider"
+    excerpt: "Adding an open-source intelligence solution to its DI offering strategically positions Cellebrite to expand its work within law enforcement"
+    publishedDateTime: 2021-10-11T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cellebrite-to-acquire-digital-clues-strengthening-its-market-leading-position-as-the-end-to-end-investigative-digital-intelligence-platform-provider-1030855739"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/9c/09c3ef1b-9c90-562b-9d09-c03b91998b4b/6168713154cc9.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1656528/CELLBRITE_DIGITAL_CLUES.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Cellebrite Seeks to Expand Law Enforcement Intelligence Work With Digital Clues Acquisition"
+    excerpt: "Cellebrite (Nasdaq: CLBT) has agreed to buy the assets of Digital Clues, an open-source intelligence firm, to expand its footprint as an end-to-end digital intelligence platforms provider within law enforcement investigation and intelligence markets."
+    publishedDateTime: 2021-10-12T09:31:00Z
+    webUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-enforcement-intelligence-work-with-digital-clues/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 12
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2021/10/Cellebrite-Seeks-to-Expand-Law-Enforcement-Intelligence-Work-With-Digital-Clues-Acquisition.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Outreach Expands Platform to Now Include Revenue Intelligence Capabilities with Latest Acquisition"
+    excerpt: "\"These are leaders who had to adapt and evolve their mindset to embrace automation and machine learning as the keys to driving predictable ... capabilities coupled with Outreach's artificial intelligence-powered buyer sentiment capabilities and the ..."
+    publishedDateTime: 2021-10-12T17:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467957.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "tCmn5lBs7jCd7kd1Ej4hW1kL1Aew/TYjzE1w8fATGXX7cqwR2d3MUIfNmWHjXMMs/XxQQL36HSKsVH5Q24EcAjmmRsZ0FvTaBojFqcZM+p5B5Rx5Swscv8pN/ms1pQqF/bkHXgz8LZ5kzd9XCPIvgTIB5Odxlzr9Wu8vCNloQVfiEYkqSkb5niHbC2wfBw2rS1AcuF4JnLt1WB2IDYRBcT2GwOZGfBrQ8dcJZl4qOBL/qhicm65LrxDuuE4dsgxRn9617GjUJOqpYXH926wVwZ/JwMzfisMIsuCGuC3cUef9NM6qpMRPeU3TxBXcZWln/yKoixk+UXtCDZBWRHu5fULfQpwVl8LtMx2azqjWm18=;2QQijUF+mQQ8tf+cLWVBIg=="
 ---

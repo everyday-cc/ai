@@ -41,6 +41,34 @@ related:
         width: 750
         height: 492
         isCached: true
+  - title: "Spice AI Raises $1M in Pre-Seed Funding"
+    excerpt: "Spice AI, a Seattle, WA-based startup enabling developers to integrate AI into their applications, raised $1m in pre-seed funding"
+    publishedDateTime: 2021-10-14T21:06:00Z
+    webUrl: "https://www.finsmes.com/2021/10/spice-ai-raises-1m-in-pre-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/spice-ai.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
+    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
+    publishedDateTime: 2021-10-14T20:31:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Rendered.ai raises $6M round, aims to open its platform to more users"
     excerpt: "Bellevue-based synthetic data startup Rendered.ai announced it has raised a $6 million seed round. According to Rendered.ai founder and CEO Nathan Kundtz, the money will help the startup open up its platform,"
     publishedDateTime: 2021-10-11T17:44:00Z

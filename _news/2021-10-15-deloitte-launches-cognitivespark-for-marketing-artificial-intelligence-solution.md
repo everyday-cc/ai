@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution"
-    excerpt: "Deloitte today announced the launch of its ConvergeHEALTH CognitiveSpark™ for Marketing artificial intelligence (AI) precision engagement solution, a module of the CognitiveSpark suite. CognitiveSpark for Marketing harnesses the power of AI to boost digital marketing return on investment (ROI) for life sciences companies,"
-    publishedDateTime: 2021-10-14T14:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-business-artificial-intelligence-ba8b38ac6d3cf5e1fedd042e7792e774"
+    excerpt: "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement"
+    publishedDateTime: 2021-10-14T13:00:00Z
+    webUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WSAW
+      domain: wsaw.com
     quality: 51
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
+        width: 980
+        height: 735
         isCached: true
   - title: "Deloitte Launches CognitiveSparktm for Marketing Artificial Intelligence Solution"
     excerpt: "Deloitte today announced the launch of its ConvergeHEALTH CognitiveSparktm for Marketing artificial intelligence (AI) precision engagement solution, a module of the CognitiveSpark suite. CognitiveSpark for Marketing harnesses the power of AI to"

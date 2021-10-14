@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that uses real-time provider, practice, and industry data to optimize providers’ days."
-publishedDateTime: 2021-10-14T07:01:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
-webUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
+excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
+publishedDateTime: 2021-10-14T16:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
+webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
@@ -49,22 +49,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Here Are The Benefits Of A Digital Transformation In Healthcare"
-    excerpt: "Source Technological advancements have not only revolutionized the way people navigate their daily lives, but the way businesses operate and"
-    publishedDateTime: 2021-10-13T05:00:00Z
-    webUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/"
-    ampWebUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/10/healthcare-and-digital-transformation.png?fit=1000%2C500&ssl=1"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Mount Sinai launches department of artificial intelligence and human health"
     excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
     publishedDateTime: 2021-10-11T19:44:00Z
@@ -80,6 +64,6 @@ related:
         height: 312
         isCached: true
 
-secured: "V6z4Sg4c5LUit8fYNgnhylnID2JUmyWQJwJyxBIZ3NQtUVp2FgMHZ687KPShwzbfpzuj4RS4+dFTC8/TG52ruyseGPQILVBhmTp91LltUzNts3y2qEbJzqfPOuOmmtqNkz7SsMrK/+fd35HmM3mGdsD92Bgf3VM8VQ5CD08qP33zpJxDCAvRJGAgBXeJ25x4S9djTvLg208Rbb3MNlnfFRkBek2sn048aF6jhv7YnegnBjOyxRasFa/+OK+l7KeGL7puYE16pXB5y4L2JVtA7konBrZqctqtBR0Jero84jqwCOf5echFHCS3fDIAv7T/QCEZWk7Ua5iexyYt3Bl8XGBBlSCwWGn/tSavVhSlyL8=;/MD9Je+fZaXTl2vkF2oo3g=="
+secured: "MsmvJuqc76JQu5UxPxK0rx1GaGgmJNSyJlwuBk9kmSrzTEhbaJEzYsm6t39VYHIymnX2k8xIuJHV6tkiGVylL8/Ny3Ju85QObEsQVxeRN+HWc0x1w4ke4QFZBhMSo1uaZIEYsAynvutR2XmUcFf6mLul8EF6rB/FqBkexSKP2M9/q4rWP/F/daWJIS8ysoKET+MRdvWj213CSiLThs9CUdhF6Yn31pcnCYt8P8klQEGWBYMaM1zyS+D7P1tsGlZFQ1qP6Hi8uUVoThLf1gLVsVCrhiL+YwIzo+OEZ2Xy4pgpU7dBTzI5e1kAO4WJjyk0FVRQI3JS9CxFo+Tum4E64gh92jda9YmbxE9A/cHM3WU=;fRU3/rJLI8BKUkWF4tdMmA=="
 ---
 

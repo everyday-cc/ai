@@ -43,6 +43,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "How Imperva expedites ML development and collaboration via Amazon SageMaker notebooks"
+    excerpt: "This is a guest post by Imperva, a solutions provider for cybersecurity.&nbsp; Imperva is a cybersecurity leader, headquartered in California, USA, whose mission is to protect data and all paths to it. In the last few years, we’ve been working on integrating machine learning (ML) into our products. This"
+    publishedDateTime: 2021-10-14T21:59:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-imperva-expedites-ml-development-and-collaboration-via-amazon-sagemaker-notebooks/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4841-image009.png"
+        width: 866
+        height: 436
+        isCached: true
   - title: "Organize product data to your taxonomy with Amazon SageMaker"
     excerpt: "When companies deal with data that comes from various sources or the collection of this data has changed over time, the data often becomes difficult to organize. Perhaps you have product category names that are similar but don’t match, and on your website you want to surface these products as a group."
     publishedDateTime: 2021-10-13T19:27:44Z

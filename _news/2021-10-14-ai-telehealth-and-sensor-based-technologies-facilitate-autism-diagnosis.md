@@ -55,6 +55,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
+    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
+    publishedDateTime: 2021-10-14T21:17:00Z
+    webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
+    type: article
+    provider:
+      name: UUHC Health Feed
+      domain: utah.edu
+    quality: 28
+    images:
+      - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
+        width: 420
+        height: 280
+        isCached: true
   - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
     excerpt: "Fabric Genomics & Rady Children's Institute for Genomic Medicine study says artificial intelligence enables rapid diagnosis of critically ill newborns"
     publishedDateTime: 2021-10-14T12:00:00Z
@@ -65,6 +79,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VrUrk60PU9HRdVuzjQ+3xdJcdOIWo3ILYi/ZQcjJ4CbbKDwUMjR4GYIIWCsSiC64KGMECjFkMjj9UFsmOkot0mO0S8LIs5ySkMTsqivvRa3VAP1zyfiReQfVcvtwKgk9hPwGIg0q3fIcaAtOXRBa5WB9rKN97kI0fYBCfYIdtR92kszCLvbl5e4pSAXvkcmq84e8K1DEsgTd0w1vLBzfYhprjLR8KUHubYBmlOm6mIzVV0dFqbytx0RmC0SlySECpGkbQYFL3CoVU4xEqUusSClgKuRTb2bC2R+lb/8XoxBHjIXaNfsJHLu/1Jd/ulBPrnQuuzNZFozKhFXP2lTaoXyX0OBtU2CAykTHj282pcU=;epFGd9Xo8XDJ+s4SdzKVlw=="
+secured: "5mtGjPy0t2vD9QQ7WG71eSImdAqn8YwVlibEu3lQOvd//TKRqjBZU0cCXL27rMimy3vHTp9l0Zqpq4SxKXLg7e8K8qrsWmfCTtH6v3XRPMZEjCFc7KyjGHgMupYfUFwe/fx51goDykGvb3UhyakdqgTksQSlApc77rSkkz1epFyj+fCqGMk8DZXIJyFAyVqAaf0uiaCc9JuQHQXtJ0IN2rc9KFFuqRktZ6NWhaOsiSglFo8aqIx1SMZrpHCumm0Mcs4BxVaxIvMT4/77dK1PSuG36QK7rCcFll4fPO4QNnl5CLQ8mpb6olNhXuoP1QyxycpIK9V6OHWICEkRuGp2anIWgPC80+m9JpnqASlCT4r1GZ8ZU7JKpi+1k3O7hZ3CQdfsMAq33/yj2b8ANwGnNJBD0IyGPyqSSwkjc8qcwAEYRlw5ICgI/GxNlUcnTyR3EpcXnYkZpp8rE4a9BfAoJMAUaQ1ZuqKz+o0lQimy2772ak3/G1jw+SWriKVI4D8QUAJhy69zwRutLiMwTAMJCw==;OLPtKwwA09K/m3W1KpCMBw=="
 ---
 

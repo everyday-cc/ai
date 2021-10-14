@@ -36,6 +36,20 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 110
+  - title: "Amazon and Big Pharma Unite to Propel AI Innovation in Therapeutics"
+    excerpt: "Four leading pharmaceutical companies partnered with Amazon Web Services and Israel Biotech Fund to launch AION Labs, an innovative space that will allow drug developers to harness artificial intelligence technologies and computational science to solve therapeutic challenges."
+    publishedDateTime: 2021-10-14T16:07:00Z
+    webUrl: "https://www.pharmalive.com/amazon-and-big-pharma-unite-to-propel-ai-innovation-in-therapeutics/"
+    type: article
+    provider:
+      name: PharmaLive
+      domain: pharmalive.com
+    quality: 37
+    images:
+      - url: "https://www.pharmalive.com/wp-content/uploads/2021/10/Amazon-and-Big-Pharma-Unite-to-Propel-AI-Innovation-in-Therapeutics-BioSpace-10-14-21.jpeg"
+        width: 625
+        height: 350
+        isCached: true
 
 secured: "xs4baUMPsFYw4tjOk/GTqFh7D1m8KWT2sC/9QnfwzxoaQHTZ2/alUm96n3x58e5wCKd2n/RWKL9sl1q8S1VosGjWj6IrCz0aIiEGMjjTN+GCGdsE7h9RoEn8dZ5nK8LKfhS8r30xgItPAGtv7Oa9Uj7lFH5KnSpSkiEywpT3If5ojXk12KlkcH4cVU0iDnay/BqeAA1mIvPL3v480HRS56yR+koQ9RJK6oA7FsonqKBiXVrwEj+IUKjf/q8wFDLNYpN7spcsMGH8LmD935gfltCgHyDBds3xIxD0Aqa4XSL4Qykykurw6Yspg7ddTU3M/EBtwqfOM8T4egm2VRuGS6MZBwCpxJ07usLQRyVArgQ=;jikeMywV4CoAuWHBtSnsSg=="
 ---
