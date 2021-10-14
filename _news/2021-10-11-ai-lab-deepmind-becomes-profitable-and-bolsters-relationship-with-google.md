@@ -1,35 +1,26 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-publishedDateTime: 2021-10-11T04:20:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+publishedDateTime: 2021-10-11T13:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
 type: article
-quality: 105
-heat: 145
-published: true
+quality: 63
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
-  - AI
   - Google AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
+  - AI
 
 related:
   - title: "DeepMind is developing one algorithm to rule them all"
@@ -48,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
+    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
+    publishedDateTime: 2021-10-11T18:25:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
+        width: 1198
+        height: 670
+        isCached: true
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
@@ -61,6 +68,20 @@ related:
       - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
         width: 768
         height: 576
+        isCached: true
+  - title: "All Hail The King of Reinforcement Learning, DeepMind"
+    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
+    publishedDateTime: 2021-10-14T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
     excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
@@ -91,6 +112,6 @@ related:
         height: 300
         isCached: true
 
-secured: "QJhuyJBsoHe9A2TCUXyKTEoQXBQGroGnOJm01657SWvqBbJ7LW7gqHoD9Y2/UbNo+jXuXRkZ/DviakPpFAKXRSQd2KgVGy1KPR1JCydEQ1AMuva9iON3CYdO2FUaWwGJTy36t88p6BZk0h+McVC45PPqpWtWLuRRmpf6sUll8wji2PZ+FAYtveJ3XfWL1mVn038gu02lW16xkccrd4GXOPYJOcYAfZFO3coSs5Y8/8H2vaVxCQY5ZDKyyJBRsNizuNhqTtA+C5wJaY8H1DzVOOo2R88WnodP19jr9YRYSBp4Ly5bKjQ4RkA7r/obw3sceWkWDHZhp/l/CoqS7N8wSPqVOiPX7jUTv5QgrrBX+do=;wuP6r/2WrP0dXpJBdxv/HA=="
+secured: "ZOqqbwugx8zkn/ohHQ6D+NY6YmWj95qZnp/NlUjVqBbns7/d4a6MURYzMtJxN+U8avViqTXF8PEZK2ntJUDldquf3a+gqrhvH90QSQO39/MP2VTriFjlyXfUypC5TIRNhgD8jhsEAFL9sFIlOgUkQcO1c3Q7r8R8+sOIaSMFLYSuFFeCQMOo0Mun28aFw2Yi1POjJS9VdapW5iTWCUudnAxFimH+MHYohLu95Rs5W39HyP1ybzmfJZlvny/H1tvOYwG8RJCkStoRIhoKeKDRNvpxBtbmA3LBozZsIJvYcxCzkTj4S/gSIMM9ftKhC3Htrjdlv0bWEPvK5PJVCqRu9m17lWyE/LcjyJGPN2oEqdE=;i3hI4w0JD1mqS0RGlzp91Q=="
 ---
 

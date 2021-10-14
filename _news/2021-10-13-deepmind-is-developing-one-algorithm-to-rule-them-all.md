@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-    excerpt: "While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's financial reports are also notably vague."
-    publishedDateTime: 2021-10-11T04:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
+    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
+    publishedDateTime: 2021-10-11T18:25:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
+        width: 1198
+        height: 670
         isCached: true
+  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+    publishedDateTime: 2021-10-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
@@ -60,6 +69,20 @@ related:
       - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
         width: 768
         height: 576
+        isCached: true
+  - title: "All Hail The King of Reinforcement Learning, DeepMind"
+    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
+    publishedDateTime: 2021-10-14T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
     excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"

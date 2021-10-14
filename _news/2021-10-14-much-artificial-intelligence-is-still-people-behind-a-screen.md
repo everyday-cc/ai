@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Much ‘Artificial Intelligence’ Is Still People Behind a Screen"
-excerpt: "The nifty app CamFind has come a long way with its artificial intelligence. It uses image recognition to identify an object when you point your smartphone camera at it. But back in 2015 its algorithms"
-publishedDateTime: 2021-10-14T04:45:00Z
-originalUrl: "https://english.aawsat.com/home/article/3245036/parmy-olson/much-‘artificial-intelligence’-still-people-behind-screen"
-webUrl: "https://english.aawsat.com/home/article/3245036/parmy-olson/much-‘artificial-intelligence’-still-people-behind-screen"
+title: "Much 'Artificial Intelligence' Is Still People Behind A Screen"
+excerpt: "For AI companies, hiring people to prop up algorithms can become a stopgap, which on occasion becomes permanent. Humans have been discovered secretly transcribing receipts, setting up calendar appointments or carrying out bookkeeping services on behalf of “AI systems” that got all the credit."
+publishedDateTime: 2021-10-13T21:22:00Z
+originalUrl: "https://www.fa-mag.com/news/much--artificial-intelligence--is-still-people-behind-a-screen-64377.html"
+webUrl: "https://www.fa-mag.com/news/much--artificial-intelligence--is-still-people-behind-a-screen-64377.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: الشرق الأوسط
-  domain: aawsat.com
+  name: Financial Advisor
+  domain: fa-mag.com
 
 topics:
   - AI
 
 images:
-  - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-    width: 400
-    height: 400
+  - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+    width: 1200
+    height: 1200
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 817
         isCached: true
 
-secured: "uLK2igPDcVQ+rnzRoVi319jl3l8BWcdcfvzn6Qcwk16vebSIFGIsdqE4tZVzFN6B+yatEgJOF19wizrDEKRelzNRG8X7NqSX5OAoyo2FWeGnwFDDUPUPwNI1Xy9U/MHDDMxRsER+NxeNj+h241uvJPgu0sl3Xky+iQAwmSvWwZY7bVH7VEAJPVZcjhZeKEVazvpKig35QhGnl7LwiCbcMadafesHGOt/YK3eIldHW9CjKsZV+9I58jUxuwZtUpedCCq3ikGEj7EHe1DEoiNjo+IiK2ETWo8v2evHQbJ54Py02gYiPi4SQCbV8PCMVKhdxiwF4so3QPegxv4bbzTgZvY1tr1qeGknqrbpUsN0uFM=;XzmSPQJ/SvYMDXpcU3Rtng=="
+secured: "i4Wp3FtEYkIZ5Mu1RKOn0HwPoxSRowpsTemJ/PQcaoM01RvyntcNX/+SNpwbnCPLmmRqw0jEu02YGcSF6QTGI42Sk0ehzv6154tU1gImYbiSM0uCDhEsdmiJFshz+e9N2ANJwnPDx9wF3Qx5JiduOTfvTg6CwRIsnnhsIn/KuNArPaSArPR5Dy+ohhDzLyzl93HQJUJEZkX0Xe0NPQfnp0F/bxLOiqRUf6PwI+OO5+1ogKrcLGrtI6LZJFRZU822dxMPSnNZdJsNoqb2NFayDoRglZAbzOqtLbZxApQ1uSuWFEh4yzQCf39bPXzNniEI5XUPyITSEkeHQWZ0Hyb3ijvC2Pdfa0aZ2bOlaRqnE60=;EmjCVSbOwarjHoXUVwFkzw=="
 ---
 

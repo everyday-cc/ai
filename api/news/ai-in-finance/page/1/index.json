@@ -290,6 +290,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
+      "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
+      "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
+      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vertassets.blob.core.windows.net/sites/contentbribes/FTO-nl-popup.png",
+          "width": 800,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-onfido-named-to-2021-cb-insights-fintech-250-list-of-top-fintech-startups-for-fourth-year-running.md",
       "title": "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running",
       "excerpt": "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private companies working on groundbreaking financial technology.",
@@ -1306,59 +1350,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-16-valuable-benefits-machine-learning-can-bring-to-small-businesses.md",
-      "title": "16 Valuable Benefits Machine Learning Can Bring To Small Businesses",
-      "excerpt": "There are plenty of tangible benefits small businesses can receive from leveraging the latest ML tools—in many cases with minimal cost and effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/16-valuable-benefits-machine-learning-can-bring-to-small-businesses/amp/",
-      "publishedDateTime": "2021-09-22T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

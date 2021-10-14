@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-deep-learning-market-valuations-and-expected-future-returns-by-2027.md",
+      "title": "Deep Learning Market Valuations and Expected Future Returns by 2027",
+      "excerpt": "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns",
+      "originalUrl": "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua14260801_g.jpg",
+          "width": 761,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns",
+      "publishedDateTime": "2021-10-14T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
       "title": "Applying The Power Of Deep Learning To Cybersecurity",
       "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
@@ -272,7 +315,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1388,58 +1431,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-neutons-blair-newman-on-machine-learning-for-edge-computing.md",
-      "title": "Neuton’s Blair Newman on Machine Learning for Edge Computing",
-      "excerpt": "Blair Newman, CTO at Neuton, explains how “TinyML” is used to deploy machine learning on tiny microcontrollers at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "originalUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-3.21.07-PM.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

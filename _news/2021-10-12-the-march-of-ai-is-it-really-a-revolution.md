@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wi
 webUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wills-mba-fcips"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1068
     height: 601
     isCached: true
+
+related:
+  - title: "Will AI Revolutionize Regtech? Part 4: If You Do the Right Thing"
+    excerpt: "Recent articles and research papers have shown AI biases exist in Facebook’s ad-serving algorithm, facial recognition software (including Amazon’s Rekognition), and other AI applications."
+    publishedDateTime: 2021-10-12T19:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "SVBTgimN8PB602+BLY43PVRClBJ0uo9fmm3DzPj2mjKEtcPhCvNTS8fgKZpvmy7EbTrNmdz5i/zmamovdjjsA86XFceb9MqjwFsd7YlgH4+KZoD0VrsfVKXf5iFs28cZLKfVdpytL3pb/+i3Y6hFQj/xFIMQrkME5TG7nnjpBkP3UcjV0KQOTdE0ASH9oUEi2Qxa3+8mUXFVBrp/3QkotSUWkIuY4/HFr+GnAX/Hi6eXTobop/eSZyNveXBLh2rewaxzrTvehdFnWUhMXMg/yBZrhaTCcSkC8H8OMHGS6J3YkX7y5atd96Ju2WXoecB6OU/WyL6OXG2UmAhsJiy+b1n6v6vw+iN2mp3iD8Qd7A/GYfGp5G3GP7Lkq+h0t/aWJVHcWh1SuNhI/SPvwfPVta+ML1DRdglA+NdcuyMP9HhVyxq9zOXpg6ZbNa4uRzJ6sPVG7nsFemeSLavsS5D5XghjFEqCdugbyGAcF4bij0KPlW0ZDtsgIm1K9hNuIv6HY3pUqtHxUcp2t3feMkIEBw==;RlTlzZVQJ95lQOH7AuBgfw=="
 ---

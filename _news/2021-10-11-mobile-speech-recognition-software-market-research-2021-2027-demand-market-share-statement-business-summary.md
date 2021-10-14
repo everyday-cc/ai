@@ -43,36 +43,6 @@ related:
         width: 657
         height: 400
         isCached: true
-  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-10-13T10:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-20043451.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 40
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
-    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
-    publishedDateTime: 2021-10-11T07:42:00Z
-    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
-    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
     publishedDateTime: 2021-10-11T11:42:00Z

@@ -26,32 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Market Analysis Report, Share, Trends, Overview 2021-2027"
-    excerpt: "The global deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition. As the amount of data generated in various end-use industries continues to grow at an alarming rate, the ..."
-    publishedDateTime: 2021-10-13T11:40:00Z
-    webUrl: "https://www.openpr.com/news/2427652/global-deep-learning-market-analysis-report-share-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
+  - title: "Deep Learning Market Valuations and Expected Future Returns by 2027"
+    excerpt: "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This"
+    publishedDateTime: 2021-10-14T07:07:00Z
+    webUrl: "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns"
+    ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua14260801_g.jpg"
+        width: 761
+        height: 400
+        isCached: true
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043451.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Learn about the industry’s leading players and emerging trends in the Self-Driving Cars Market 2021 Research Report and Industry Forecast to 2026"
+    excerpt: "Global Self-Driving Cars Market Study Analyzes Market Valuation, Industry Analysis, Competitive Landscape, And Future Trends. The global Self-Driving Cars market study published b"
+    publishedDateTime: 2021-10-12T08:01:00Z
+    webUrl: "https://manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/"
+    ampWebUrl: "https://manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://extentnews.com/wp-content/uploads/2021/09/market-research-store5.jpg"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "jO9IVnduXEimzuMOlgcgPeN6YkugoOdisxz1JuU5oqSdkCtr/BIz5FleQXLgXwBzbYTT6dQ2xl/0wxZm7T8Qma8COwwb/OPdFO6fnVQmFltLsezP9o+WSOuz7l1UK8QeD7mCRqgNegtQe5EGXqFfrUo4ub4MnPPk+jYrt65ajyD3B2Mp52msnen4vCvmrH3BKsBZiRzSu/MCe1aP4R1oX13bEFQo9kufZxpGQ6MEVHoXLEwXrDsvZyjrJ6/q9UQyyN9dG7g9ykqNELi6ONWKNFGsWaJk9/tAhoHweXMAymp+pkZU0iVZZr35cgRDfPmE8aWY+Ao7LzFmnEEMQ6YvfgAFaKQ779JzIb252cbmPNLZa5NO1aLHfkCP0haHN2rjps9Y1MqlYDWhPz7qnCh5zfbbnl6xsddcVA6uqipoE30+QgFkFK+0ZCWMbiLSdVJiGyBReuPyEhbQz/SPhEN2b//igAbhX1/0aNYgFsNkWxiuI0e5KcQ10JDkadE15O0KI1CNvrzpIOmWdhA3VM7ERA==;NMvKH/Bmq6gtEU58LBp2xw=="

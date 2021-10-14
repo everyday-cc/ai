@@ -158,6 +158,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-will-ai-revolutionize-regtech-part-4-if-you-do-the-right-thing.md",
+      "title": "Will AI Revolutionize Regtech? Part 4: If You Do the Right Thing",
+      "excerpt": "Recent articles and research papers have shown AI biases exist in Facebook’s ad-serving algorithm, facial recognition software (including Amazon’s Rekognition), and other AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12",
+      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp",
+      "publishedDateTime": "2021-10-12T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
       "title": "Deep learning helps predict traffic crashes before they happen",
       "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
@@ -613,7 +647,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1214,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
-      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
-      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "publishedDateTime": "2021-10-12T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

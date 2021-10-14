@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/931383"
 webUrl: "https://www.eurekalert.org/news-releases/931383"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 467
     isCached: true
+
+related:
+  - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
+    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics,"
+    publishedDateTime: 2021-10-14T07:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-40.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
 
 secured: "7MgaqGJZvWW4knyzopNv9XuHO+/3F3vgyDnKLI3Kd+Vrr1PREZH3sjOoQtzCDI6tndmre40q7vjm/eQ2+9Tf72NVljkAluNMws409F45kOWTDZzQOy5nlC2eFa0gpypglpOnliChWFwkzS7qS0apID7MZSLuXZk1ENBpS0jf2QLTSvzzri8ZEulwbL7OwVGTYRUFVatVF7oNoUCcWHh1Zw1lZuI5Ljs/T1jwWGFY13wTOe98wl24WFAnB8fUTMLbP+apyZGnwgCtYC8nW8hZhGHycTFMBINy16ORJN+ZzxJuT7YDeqgjzxfI+xW18kCzzxpKM1n07fu8+j6ehuG8mT59yHZ0ckLk1mhwyjoziABvEoCKTZJ1hg2NVg0P+8pCtIKNJi7BCB8E8Gr4zZGK2021VMiCoZ/5J3AfLWPFlSSZDMVeURy0xJ+5ocIleQ9GWV+4rKs9fNGxsbR4+9dV4fQnzpqlDCqvnBArqh/MjAvzYSHMxBMK5/6YRjPAvuNEqPCRp1FsztiN0FTU/iIPUQ==;e3RrJfd0fjSe3WCkmkfVHg=="
 ---
