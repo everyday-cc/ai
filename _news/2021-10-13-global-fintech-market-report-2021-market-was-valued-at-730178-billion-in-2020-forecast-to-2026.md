@@ -25,42 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size by Technology: Market Analysis Report, Forecast 2020-2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 12, 2021, 11:08 /Comserve / -- The global Artificial Intelligence market is segregated on the basis of Technology as Natural Language Processing, Context-Aware Computing,"
-    publishedDateTime: 2021-10-13T05:19:00Z
-    webUrl: "https://menafn.com/1102960492/Artificial-Intelligence-Market-Size-by-Technology-Market-Analysis-Report-Forecast-2020-2030"
+  - title: "Artificial Intelligence In Insurtech Market 2021 | Detailed Report"
+    excerpt: "A fresh report titled Artificial Intelligence In Insurtech Market has been presented by It evaluates the key market trends advantages and factors that are pushing the overall growth of the market Global Artificial Intelligence In Insurtech market to grow"
+    publishedDateTime: 2021-10-14T04:53:00Z
+    webUrl: "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+  - title: "Descartes adds AI, ML capability to routing platform | Koffie Labs inks two more states to Insurtech platform"
+    excerpt: "Descartes' enhancements help customers achieve outstanding optimization results and learn from real-world outcomes to maximize fleet performance. Also: Insurtech startup Koffie Labs has signed on with distribution partners in Georgia and Pennsylvania."
+    publishedDateTime: 2021-10-11T15:10:00Z
+    webUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-adds-ai-ml-capability"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 35
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?831406"
-        width: 362
-        height: 250
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1266950968.615d83d1dd4c1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
-    publishedDateTime: 2021-10-09T19:10:00Z
-    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
+  - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
+    excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
+    publishedDateTime: 2021-10-13T13:50:00Z
+    webUrl: "https://www.insuranceinsider.com/article/296ju1oqm1h9txz429gxs/insurtech-start-up-humn-secures-10mn-to-fuel-expansion"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
-        width: 445
-        height: 250
-        isCached: true
-  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
-    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
-    publishedDateTime: 2021-10-13T17:52:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
+      name: Insurance Insider
+      domain: insuranceinsider.com
+    quality: 2
+  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
+    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
+    publishedDateTime: 2021-10-11T12:47:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "PJH6lwetJn7XKV7FYLugHwjxcIqNpg5qUtgf4Uam7RLubqXdKFBUEO7bFu+wHvIzYSCQkxnfdt7rENr8pcudvwd8smOlicG8GL3psZPlcahiXMWFWm4gC3uZnAD7YHHgy2bkviafXI7eotdZSzAjAuxk8syRUSVysrZAhTDxIWj2j7AfdZhBoHS2AHigngNlyDmjDWgISC1QvXXjwEvMKFRZRdO/VUK6DfBhxgmaHRRgTuvzyhdZnCVOWQRSVc5lDI6aAKcB75Ci7KE6pUtGUmp5N88OFwd5gY2hHvWUm6Vqo1RkT2ueyQ1IoBXeJmEb+BRJ8JSqZIka3cS0wd2QdYG0AwIgrAEgpb1fi9aEouk=;xikvHKb5hobQ9EP7sm9gfg=="

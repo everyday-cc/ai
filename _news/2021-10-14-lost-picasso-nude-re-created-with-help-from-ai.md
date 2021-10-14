@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-wi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
 type: article
 quality: 87
-heat: 129
+heat: 130
 published: true
 
 provider:

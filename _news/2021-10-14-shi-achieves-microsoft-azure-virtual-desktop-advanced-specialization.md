@@ -247,6 +247,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial Intelligence Products Market 2021 Competitive Insights and Outlook- Open AI, IBM, NEC, Google, Microsoft Corp, Ipsoft, Google"
+    excerpt: "In December 2020, IBM enhanced the capabilities of Watson to help businesses scale the use of AI. The new capabilities of the Watson are designed to improve the automation of AI and enhance the ..."
+    publishedDateTime: 2021-10-12T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2425983/artificial-intelligence-products-market-2021-competitive"
+    ampWebUrl: "https://www.openpr.com/amp/2425983/artificial-intelligence-products-market-2021-competitive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2425983/artificial-intelligence-products-market-2021-competitive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
   - title: "Azure AI empowers organizations to serve users in more than 100 languages"
     excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making information in text and documents accessible to 5."
     publishedDateTime: 2021-10-11T17:20:00Z

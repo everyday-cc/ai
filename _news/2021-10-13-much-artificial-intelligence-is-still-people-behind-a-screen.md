@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Much 'Artificial Intelligence' Is Still People Behind A Screen"
-    excerpt: "For AI companies, hiring people to prop up algorithms can become a stopgap, which on occasion becomes permanent. Humans have been discovered secretly transcribing receipts, setting up calendar appointments or carrying out bookkeeping services on behalf of “AI systems” that got all the credit."
-    publishedDateTime: 2021-10-13T21:22:00Z
-    webUrl: "https://www.fa-mag.com/news/much--artificial-intelligence--is-still-people-behind-a-screen-64377.html"
+  - title: "Much ‘Artificial Intelligence’ Is Still People Behind a Screen"
+    excerpt: "The nifty app CamFind has come a long way with its artificial intelligence. It uses image recognition to identify an object when you point your smartphone camera at it. But back in 2015 its algorithms"
+    publishedDateTime: 2021-10-14T04:45:00Z
+    webUrl: "https://english.aawsat.com/home/article/3245036/parmy-olson/much-‘artificial-intelligence’-still-people-behind-screen"
     type: article
     provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 39
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 37
     images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "uhLkwvbOKCAy2mwiEwHT+uta8JSAYURkEG6hYLTK/s90e0GFWOHKfCBLQ1jjy1EwM6bXQ0yX0NctysOTZtdpp1ut6Ggw/dzPb7BEeyEGjO5MB6nrLgTZFJDSL25MKqdp/lwKHQh+/Rmdv2BViooDWzauSfQKkvIJkvRWIoLF2zpV+q+658Ar8T00evk4kMtcHatwF+rx9euEEblgh/QvwKwp7HqV/M85c7qig1vdFJNOgoda9RBB/4LwmDEKOblDKpH9+7ln1EV7T02CThtTo6k3tbjxmR6tgvQPBYq9+vBXry+9KsmeiBaz2CLExd7nUUMJzwl2HdqSuse2jI7v+8bFz00Mvl1YJAV5mrF/nwPlI1Uc+AEwJb+8FWi2ec3is/wPn2riC9x0lPll4yPdJybOLpLwVD/RPl1beZad1EZd2kCYtwSiJNrr0nuJ6JA7rqdh2WIQ7sk7pc8ez+qC+x9EOPOJtb2CdZyZ+REPuKcJRzv2rljN3JfgbwK+IVK37ytTGwGS0VWJGSDg6Ya+4g==;r8R2bynOg9d5SXAnSB+mqA=="

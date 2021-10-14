@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Streaming Asia: Would you hop in a self-driving taxi?"
-    excerpt: "Would you trust a robot taxi? Residents of Shanghai are being offered the opportunity to hail a cab with no driver. AutoX is the latest company to offer free taxi services using self-driving cars in a small area of Shanghai as part of a trial to see if driverless cars can become a part of everyday life."
-    publishedDateTime: 2021-10-09T12:28:00Z
-    webUrl: "https://news.cgtn.com/news/2021-10-09/Streaming-Asia-Would-you-hop-in-a-self-driving-taxi--14dQ3YwBsis/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 24
-    images:
-      - url: "https://video.cgtn.com/news/2021-10-09/Streaming-Asia-Would-you-hop-in-a-self-driving-taxi--14dQ3YwBsis/video/e234f3d2f5a644a0b2834a393a066859/e234f3d2f5a644a0b2834a393a066859-1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Self-driving cars coming to Scottsdale - some day"
     excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
     publishedDateTime: 2021-10-11T11:55:00Z

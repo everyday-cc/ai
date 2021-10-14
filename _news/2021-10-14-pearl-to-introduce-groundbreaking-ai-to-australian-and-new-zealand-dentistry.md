@@ -20,15 +20,15 @@ topics:
 related:
   - title: "Overjet and New England Family Dentistry Partner to Bring Artificial Intelligence to over 50 Dental Practices"
     excerpt: "New England Family Dentistry and Overjet (  today announced a partnership to bring Overjet's industry-leading dental artificial intelligence (AI) software to the dental support organization's network of over 50 dental clinics in New England."
-    publishedDateTime: 2021-10-13T15:30:00Z
-    webUrl: "https://www.kswo.com/prnewswire/2021/10/13/overjet-new-england-family-dentistry-partner-bring-artificial-intelligence-over-50-dental-practices/"
+    publishedDateTime: 2021-10-13T16:30:00Z
+    webUrl: "https://www.ky3.com/prnewswire/2021/10/13/overjet-new-england-family-dentistry-partner-bring-artificial-intelligence-over-50-dental-practices/"
     type: article
     provider:
-      name: KSWO ABC 7 News
-      domain: kswo.com
+      name: KY3
+      domain: ky3.com
     quality: 18
     images:
-      - url: "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/XWZG2YfIxPVybKQLge4XVuKV7M4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/65IJQJBOXZ74O7Z22AFJ2LEFME.jpg"
+      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/XWZG2YfIxPVybKQLge4XVuKV7M4=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/65IJQJBOXZ74O7Z22AFJ2LEFME.jpg"
         width: 980
         height: 551
         isCached: true

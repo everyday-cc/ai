@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Executives show bias, question AI-based decisions"
+    excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."
+    publishedDateTime: 2021-10-14T04:43:00Z
+    webUrl: "https://www.ciodive.com/news/executive-bias-AI-decisions/608188/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/c9/85/c985934d602a45efdfa85951634e9f62.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "cMA38JxuHH6fGyrvSkcZE8w9HAhM769fFJGp6F2uZ1ovuI1V+MhUgYFbf1vy4ZMQ6Q7Qw9ZiM11UkAVrGrttSvIpkpNpFwOmWIybqerMVAnbKv7PhX5jboc8gOYl+z1JGPZmwItgeXz+Z8TrJyOGgqayMpKdJpl3tKjxMCla89zsoNNq/y8CEllV/hiFgOGxJF20YDv9EZJ91hviOKcRpQ88TydMO+yloMvT3ByU29LEmIe7RKQPTgOnHLg+d9y1YmhJsBYPEI7tck9nEG3lvMYbAQc9smXwIcnEl5N9pSQDeBLPZSWuj9HzJlO0JDmo+WKS8ioVs8lyV4YRxdOe5tTTtcGS1DdipJl5oGfoEck=;MQ7wR8gRUhXLm6h4v/UagA=="
 ---

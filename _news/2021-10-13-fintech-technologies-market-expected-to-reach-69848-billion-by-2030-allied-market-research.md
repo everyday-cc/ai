@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Madeline Bailey"
-    excerpt: "Meet Madeline Bailey, Co-Head of Technology Consulting. Madeline Bailey is Co-Head of Technology Consulting - the practice arm of the global law firm Norton Rose Fulbright. She is"
-    publishedDateTime: 2021-10-09T11:58:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-meet-speakers-madeline-bailey"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_6.jpg.png?itok=AFLJgqU4"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zht5Z2ZQWXdNpY4TGknYmoGVEFBryrWNnptfE8wr61h3l+BsjQfappUlFnzvnbBQh65M8RBg6vPy2iluS+VL+li/XcNHAbeqihqadH0e4+/m3oFq46qADNlkAi0giFXeTBY+UgBdbylPXoixIjSoyWsPz4ZIvqMCgoNxmY1ov+pmUDNhiBTe3QLlL3B/Bcv1eTNUA4gmK+qaVX/gxzudi1DS4PxfTQUuTij7RjZi+DhEfrO6sN8z5Ua3u7WTHYiRO1gAhemdiKbQG6vn/4vuS5DOZI47YP58FwZRBklOr5Fru1lBuKpkBa52EilIUD5qxuXB1+fWvbojcgf+qkZAhpOsn87fBUhILZlKZXO/ErI=;l6BH9qiv/9mWclSZkI+cOw=="
 ---

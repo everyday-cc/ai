@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "3D-printed swabs to disinfectant robots: How these 9 S’pore firms are helping to fight Covid-19"
+    excerpt: "The onset of Covid-19 has rocked healthcare systems worldwide and left governments all over the world scrambling to combat the pandemic. It’s been tough, and there is still a long road ahead of us. If there is any positive outcome out of this,"
+    publishedDateTime: 2021-10-14T05:21:00Z
+    webUrl: "https://vulcanpost.com/765864/medtech-innovations-covid-19-singapore/"
+    ampWebUrl: "https://vulcanpost.com/765864/medtech-innovations-covid-19-singapore/amp/"
+    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/765864/medtech-innovations-covid-19-singapore/amp/"
+    type: article
+    provider:
+      name: Vulcan Post
+      domain: vulcanpost.com
+    quality: 47
+    images:
+      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/10/Collage-of-medtech-innovations.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Skyline Robotics Secures Funding, Solidifies Leadership Team to Meet Global Demand for Automated Robots"
     excerpt: "Skyline Robotics today announced the appointment of Michael Brown as chief executive officer and chairman of the board, and Ross Blum as chief operating officer to solidify its world-class executive leadership team."
     publishedDateTime: 2021-10-12T17:02:00Z

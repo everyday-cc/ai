@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

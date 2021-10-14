@@ -256,6 +256,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial Intelligence Products Market 2021 Competitive Insights and Outlook- Open AI, IBM, NEC, Google, Microsoft Corp, Ipsoft, Google"
+    excerpt: "In December 2020, IBM enhanced the capabilities of Watson to help businesses scale the use of AI. The new capabilities of the Watson are designed to improve the automation of AI and enhance the ..."
+    publishedDateTime: 2021-10-12T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2425983/artificial-intelligence-products-market-2021-competitive"
+    ampWebUrl: "https://www.openpr.com/amp/2425983/artificial-intelligence-products-market-2021-competitive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2425983/artificial-intelligence-products-market-2021-competitive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
   - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
     excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
     publishedDateTime: 2021-10-13T07:30:00Z

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "FinTech & InsurTech Live: Meet the Speakers, Madeline Bailey"
-    excerpt: "Meet Madeline Bailey, Co-Head of Technology Consulting. Madeline Bailey is Co-Head of Technology Consulting - the practice arm of the global law firm Norton Rose Fulbright. She is"
-    publishedDateTime: 2021-10-09T11:58:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-meet-speakers-madeline-bailey"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/page_1%20%281%29_6.jpg.png?itok=AFLJgqU4"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."
     publishedDateTime: 2021-10-13T11:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "3D-printed swabs to disinfectant robots: How these 9 S’pore firms are helping to fight Covid-19"
+    excerpt: "The onset of Covid-19 has rocked healthcare systems worldwide and left governments all over the world scrambling to combat the pandemic. It’s been tough, and there is still a long road ahead of us. If there is any positive outcome out of this,"
+    publishedDateTime: 2021-10-14T05:21:00Z
+    webUrl: "https://vulcanpost.com/765864/medtech-innovations-covid-19-singapore/"
+    ampWebUrl: "https://vulcanpost.com/765864/medtech-innovations-covid-19-singapore/amp/"
+    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/765864/medtech-innovations-covid-19-singapore/amp/"
+    type: article
+    provider:
+      name: Vulcan Post
+      domain: vulcanpost.com
+    quality: 47
+    images:
+      - url: "https://cdn01.vulcanpost.com/wp-uploads/2021/10/Collage-of-medtech-innovations.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Twilight of the Robots? Androids in Contemporary Cinema"
     excerpt: "Elon Musk announced that his company is prototyping a humanoid robot called the “Tesla Bot.” He shared the stage with an ecstatically dancing figure that was obviously a human in a robot costume. Musk assured the audience that eventually the robot “will be real” and will derive from the AI system used in Tesla vehicles."

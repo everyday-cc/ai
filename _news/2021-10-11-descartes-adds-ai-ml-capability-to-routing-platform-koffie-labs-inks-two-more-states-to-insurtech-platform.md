@@ -7,7 +7,7 @@ originalUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-a
 webUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-adds-ai-ml-capability"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,51 @@ images:
     width: 1200
     height: 720
     isCached: true
+
+related:
+  - title: "Artificial Intelligence In Insurtech Market 2021 | Detailed Report"
+    excerpt: "A fresh report titled Artificial Intelligence In Insurtech Market has been presented by It evaluates the key market trends advantages and factors that are pushing the overall growth of the market Global Artificial Intelligence In Insurtech market to grow"
+    publishedDateTime: 2021-10-14T04:53:00Z
+    webUrl: "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+  - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
+    excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
+    publishedDateTime: 2021-10-13T14:44:00Z
+    webUrl: "https://menafn.com/1102964906/Global-FinTech-Market-Report-2021-Market-was-Valued-at-730178-Billion-in-2020-Forecast-to-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?434243"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
+    excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
+    publishedDateTime: 2021-10-13T13:50:00Z
+    webUrl: "https://www.insuranceinsider.com/article/296ju1oqm1h9txz429gxs/insurtech-start-up-humn-secures-10mn-to-fuel-expansion"
+    type: article
+    provider:
+      name: Insurance Insider
+      domain: insuranceinsider.com
+    quality: 2
+  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
+    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
+    publishedDateTime: 2021-10-11T12:47:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "kzHiq5KMb5DVa2tSHH8K+zXTjPG3F8h2MVIaf6/77JqPDxEl4JCI+v+a0iJlfhT7rhmRoZ8s5oPeJYzb+v4aVzDO9vWIgdeZxS84LzhmKfG9SGaW7LT73vAFLk9+SOCLYB3xNcq2GC+9N6LnmF+FeP20NkEO0dcuaB4jDT3MKZVJJFUbmVNU/j5ZdzpUm0qjXRqBP0R9AB/1hghji/dm+iPbU8Iug1OAUVJfeBPnCLtlGTtHCpmio+/yv7NhHhRL5uewvoYNMQebjpzUj/uV3uK3pTIQkMJn6DiObjCnF60x839/xUmVX6OCmFRG5KvMBfLTrhLMJGCv+jgWpwJTFJ7aS+Kxb2Hj2oQdqAgnTMJEyUmfC6N2EO3M63WiOng8DyMX18OMZjtFElB0X1kocZtHDPuTMSZSPDKNJWdWX0CRCXor81UoGoCzBdn4niO9T5qMX8QTKYw/u/uwlWHpZ08Mkkj5YNXWGtRY2yPMjw9o8FJNS/OlmCmliT7IfaQGHiXzKI5UsqaZRoaIWxFg1g==;Nex97zGNvw5yD0u2NHDFMw=="
 ---
