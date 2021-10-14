@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
-    excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
-    publishedDateTime: 2021-10-11T08:37:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/european-proposal-to-ban-facial-recognition-is-misguided-and-harmful-says-itif"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 35
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633941009/widgetdocs/facial-recognition_f8jukk_yutkw7_hxcfoj.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "More than 2 lakh verified with Aadhaar-based facial recognition for vaccination, RTI reveals"
     excerpt: "A facial recognition-based vaccination process rolled out for testing in Jharkhand had around 2.6 lakh \"successful\" facial authentications."
     publishedDateTime: 2021-10-14T07:20:00Z

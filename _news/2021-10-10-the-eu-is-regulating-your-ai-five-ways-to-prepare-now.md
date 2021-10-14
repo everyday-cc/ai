@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulatin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 512
     height: 256
     isCached: true
-
-related:
-  - title: "Counting down to our AI rapture"
-    excerpt: "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?"
-    publishedDateTime: 2021-10-09T17:06:00Z
-    webUrl: "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/"
-    ampWebUrl: "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "zhGUsQ6aXGfR8m8pwPzNi6hgegCkIugjbpwlPu0vKRQcEMVH2QBxFYX1WHrX14NBRPshtKlLJVHXlljZzIIhpQwwSJeUHdjI6pgOPb84I44Xg0tRnuEUFP8nPzUNeVFc+vwJ8nVdJTqE6cVa5ByMC1WIhi4hKDIMK+7/eYTUTxeca4BZyxxb2Ef3W8OpigPhsZaWz4yrIbj/ORmKC0uC621ILEvttAEOiS/3z4aadL/lAEHdDxHh3BqfXlTN315WWngjR45dtRF3hnAju3CQtJxc3aj/5e3K0jMTD+D7DKA2yVnh8HnS8z7SqrRPqpRNdEYMUTDP7fSDCMYywhqJX03ZxkpvnWzhpLDq8Ylvs+mcQWsQaLRSMUHnOvmLm3vicbZn2eyMlxAw8or314kkL9c9pAuDveQNbPTrxI9deiGmXeIRJReSdeW/tpg+f7n8jx49+Q8Uqf+RmNawNmCbOZ54dvrBzC4CkfOpT64FIWiBNKX9N5WEZNMD3cNhhru/rjVD/2F9gCj/AR59MIUBXQ==;1JMcpwmPDL6q04JBuuqIEA=="
 ---

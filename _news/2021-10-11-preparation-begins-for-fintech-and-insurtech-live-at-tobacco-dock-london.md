@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
+    excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
+    publishedDateTime: 2021-10-14T07:57:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-2-fintech-industry-insights"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."
     publishedDateTime: 2021-10-13T11:24:00Z

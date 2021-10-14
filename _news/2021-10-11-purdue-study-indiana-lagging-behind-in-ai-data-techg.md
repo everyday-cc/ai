@@ -7,7 +7,7 @@ originalUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-la
 webUrl: "https://www.tribstar.com/news/indiana_news/purdue-study-indiana-lagging-behind-in-ai-data-techg/article_999968c7-5dd6-5e48-a09e-6840f3124bd4.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Purdue study finds manufacturers lagging behind in AI, data tech"
-    excerpt: "A lack of awareness and a need for a qualified workforce to use the technology are the main reasons why Indiana manufacturers are lagging behind implementation of"
-    publishedDateTime: 2021-10-09T16:00:00Z
-    webUrl: "https://www.newsandtribune.com/news/purdue-study-finds-manufacturers-lagging-behind-in-ai-data-tech/article_68360b4a-2850-11ec-9725-dbd59b120e8a.html"
-    type: article
-    provider:
-      name: News and Tribune
-      domain: newsandtribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/newsandtribune.com/content/tncms/assets/v3/editorial/c/62/c62fa560-27b7-11ec-88ff-c7421dd7bf83/615f6adfef3c7.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Purdue study: Indiana lagging behind in AI, data tech"
     excerpt: "A lack of awareness and a need for a qualified workforce to utilize the technology are the main reasons why Indiana manufacturers are lagging behind implementation of data-driven approaches and"
     publishedDateTime: 2021-10-11T02:07:00Z

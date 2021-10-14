@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/31C28D63212B76B05406340A0E47F391E5F
 webUrl: "https://www.publicnow.com/view/31C28D63212B76B05406340A0E47F391E5FC33D2"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "OAIC finds against 7-Eleven over facial recognition usage"
+    excerpt: "OAIC: The convenience store group interfered with customers' privacy by collecting sensitive biometric information that was without necessity or reasonable consent. Between June 2020 and August 2021,"
+    publishedDateTime: 2021-10-14T08:15:00Z
+    webUrl: "https://itwire.com/security/oaic-finds-against-7-eleven-over-facial-recognition-usage.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/b337d4fdb28413bf86fa06c97563de6e_M.jpg"
+        width: 375
+        height: 320
+        isCached: true
 
 secured: "XorWUHdcINe40HzzppB4QsiOAKA2HwS4NupUJb4rS6Lu7u3yDW1z6wFSDH4jX894+vvH9gKEsO09SYohgVesRL59LmGsf2VjNddvrsxWjxeviHws+ycWv3K+rmq8Fo1CrcA+jQrRNf1VQCkX4P5I8/leVFHnX+/BGKU9kIIeLI9q/ALDu7s0IyK19Jd76MQJpzRC+RddlfTD3hetQy+58nbJZyPVGtrrKU7DWcg1BKHkq60oQrR7HBJ72XBLN75MLY/bN/xSLjwC13qzmKkPHCSy8O8SjYvEPg9FZNMzMqmSWs+3lx5Fj1+vQAsfM/G3mRA0CZ7L3xjPVv7Wd409yInueOLhL951gmRLdOQBdoU=;nP3v8gyGDMJju6kHSXyIKw=="
 ---

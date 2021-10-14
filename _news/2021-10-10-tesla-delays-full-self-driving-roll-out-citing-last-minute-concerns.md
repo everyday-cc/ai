@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.cnet.com/a/img/AlelQuTQnwIvVeJhumirT_nwxJ8=/2021/08/20/3aa8af46-9168-4930-8ff1-d6d502ab3378/ogi-tesla-ai-day-fsd-demo.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Elon Musk Says Tesla Full Self Driving Update Delayed."
-    excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
-    publishedDateTime: 2021-10-09T15:37:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-403553/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla ‘Full Self Driving’ Is Delayed. Here’s When Musk Says It Will Be Ready."
     excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."

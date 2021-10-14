@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/exploring-role-dignity-government-a
 webUrl: "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: LinkedIn
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The essential human element of AI in education"
+    excerpt: "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education."
+    publishedDateTime: 2021-10-14T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/2/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 54
+    images:
+      - url: "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Analytics Insight explores some of the top Indian AI companies offering remote working in 2021"
     excerpt: "This article explores some of the top Indian AI companies offering remote working in 2021 with utmost flexibility. AI companies are leveraging smart functionalities of artificial intelligence through remote working efficiently and effectively."
     publishedDateTime: 2021-10-11T09:02:00Z

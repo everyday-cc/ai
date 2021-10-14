@@ -1,23 +1,28 @@
 ---
 category: news
 title: "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO"
-excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community."
+excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks’ patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community."
 publishedDateTime: 2021-10-13T11:00:00Z
-originalUrl: "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/"
-webUrl: "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a"
 type: article
-quality: 5
-heat: 5
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: WTVY
-  domain: wtvy.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "QuQtMcusnDIT8xEvzhSalzvhlJ2x5hiOIA5njfhmreKdSHFupcsr+/ai50YBwAVIxgLCxLv6Qy0lF39NB/shhQ/mXPUFSH6cyQq3MGG5qqRR41AdSr6L+jUtDGhO2sPKu5DouS6u0q8PHOja78rYXhDmHjLnGMl0181VaFUXdSfALshN9FyB4sa/1YdciQByOAuFqoCAu4claOwLOQIUC9MFWClpcEIazkByg11udezPgKJ6PGsE3FFWM81ULSE5SuDQSPCWiJocSXATeKPzhhBPieFUY68dJUSHxQ5gvG/rWO3drIb1l2rOhglkPCAHoXeRejIL5MD23GiXrJ6ul3BFxXIji2/l43vRcoIu3w0=;f/PeTz0WbIfl+ORI/mbeag=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "BYswOwooTWgnIeIYU6uenvpmZK7+B5HbasVHtMHF2hR0dcYBBXh55eWd4sA/+h2ZvbVEl1CtllRm5UpHd9/n0A+4gB+iTmsPOsRVbHEevLNkfgf1qhHvlwMXV9RVd8mb4ljhQPorQ1HJXwuHJDOPboVZa83UOYsCBwyocA0xCStT64xzC1/DDUIH8yrCOqXpZReL+U2IuXNfEr7wcvJNypCV+yBXZsqas80noFHOPguitF2ZfxU+rAs/BzFoICdj0mnUIFlSy7gvlFISd8KeOaM1XXZA+h0+QSL5uz1CM6A8EBwC5T3wJ+7MOySlkV/c0adPYfTY6ZsKiwfB6cReNHZqeASRcfj4sbGZ6SU8iuo=;ManHC5rmLfRuC6X06yvswA=="
 ---
 

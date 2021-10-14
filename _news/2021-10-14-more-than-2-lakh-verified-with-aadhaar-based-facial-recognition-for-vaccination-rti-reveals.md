@@ -39,21 +39,7 @@ related:
         width: 750
         height: 445
         isCached: true
-  - title: "European proposal to ban facial recognition is misguided and harmful, says ITIF"
-    excerpt: "A European proposal to ban facial recognition is misguided says the ITIF (Information Technology and Innovation Foundation). In response to the European Parliament adopting a non-binding resolution calling for a ban on facial recognition,"
-    publishedDateTime: 2021-10-11T08:37:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/european-proposal-to-ban-facial-recognition-is-misguided-and-harmful-says-itif"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 35
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1633941009/widgetdocs/facial-recognition_f8jukk_yutkw7_hxcfoj.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "FbF8nIDKjAwm6hFUU64/0irmyX/ijKURyp0ihEoc2/K/0cnR8+DorsR2IZcyWD0HX31/p4RK08mepktXhKeIng6oQL6Tb4itwNjYC2maRFpEtz5qLY3VOVmr4q3Udtz4pmDJ6qE4/lC6ymiXXm6vzA5ZDOSBkV1n9l0ZMGxzd/VKQYurpKTmMK9ZYgEnjmtU/7/2+yZ1OA+xSDYBcIMV/wU1ro5nVfz69e5G8scz1af9ndfRp1+XGiuAJJZ/nv2WcYvxOAjedXr1R3oCtgKGVXhw0L7vL8ruH93F7jvrq7exPM1ZCjm783B2lMZffTBAxXAfr5/e2Z+mUfFoe750xUMTsj5sJJelGLuCH7Y/1yg=;exanusBD0GzYOoBCeuaW4A=="
+secured: "GBy89C9N3wnU50abR0G6pArPQpdyLLKGkWNaWsLK+kLB79soYGyZ2xQILsRBQgrn0fyRWy8AU+EPBPcaZJgLIRvudI8Yj1imWW5F/A/RcOc5zQiNMT0SHbXtVo0I1v4d8AHx85tak0pujnu8iFGIv2fqrep5So0k3/9ih2qoNU3syZcmPW7OzCWv6S7BX55HjwBDJimvdZC84D299PO2BglYsyES6bMkyRZhkc90Hh7gBIuCln8D4Yy/IiAZljqMj03cLutakHf3aifK3ceJ2QtCmf86k9C2I0i7dRjj+ba9GENub23Jhh9wYeeR/MHweiHp0vE3p++dUTFiZOtuRFFivlaJTq/9CqNI/3qixL42EkujU52jveizdjcUnNtn8t19CLW1tNOUr6c0a/btKi9E217p1UAPZKzMzFePmp4z+2VvTr/jqjhb2XFKWVyw+6JFHbdY08i8eHlXNrgviqPKFnGqcvBRsfQYq6mfVHnWlPzaqic9jYdhEPviCMjjXW1T6UeoR70DjtE8O5UGRQ==;RsrLmuBcfec0S5w3cuQP3Q=="
 ---
 

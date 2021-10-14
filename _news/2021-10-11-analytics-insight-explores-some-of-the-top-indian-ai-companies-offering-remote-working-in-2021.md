@@ -38,6 +38,20 @@ related:
         width: 453
         height: 244
         isCached: true
+  - title: "The essential human element of AI in education"
+    excerpt: "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education."
+    publishedDateTime: 2021-10-14T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/2/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 54
+    images:
+      - url: "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "lhpC5ak8pKja6t3DYejcon/upWDgRgw5OB8V7ZGektTmiiJpe1K/P3mVT+yQmJYRP2c1Mfl15FCztDpXN86Q26OTgGrD2txI28l6yelXyeIAR1GmRoLIdAE+j9YBrXNvOTwTqGsIauD9lDuZExRw5he9gVlsxflH5x8iZA85dfDDHQfq6hPwGXVEzeXQQFOs1zB6iaACzcmN8a5gIPoV3zwNPySkf6RRajelKEQV6vvpiFX1MFjFbi10qCgwz6hbhJWySNBcAf9D26U8sftsRmsFyusm+W1rYg99QI8lu9x/Urpz1v21N8TAc5opWbuauuBpG2dFVFCjC4qgZiWBQHuNzGdYmeVOpFU2C02zUFc=;XHPVZ8n39LaWTJ9Rrjyk4Q=="
 ---

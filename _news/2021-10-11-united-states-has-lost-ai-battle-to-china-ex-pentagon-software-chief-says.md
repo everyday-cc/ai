@@ -252,6 +252,20 @@ related:
         width: 1860
         height: 1008
         isCached: true
+  - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
+    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
+    publishedDateTime: 2021-10-13T22:25:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 30
+    images:
+      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3njGR/rYRMrHqHh4dgw1Uib262jwKkGmH7FF5JDa0uKgrVvlo+muHEmNFFCmCqVLp3bWuxGj6W376/1Z+GKq67QFo7GApOnflD42DoNsE9iL51pGP1cK1n9SJzSBUi3aJosCL2Eg1aY5i0ut33LszDw0sauwLJypYVY5fO8jTypk48XJF3TDcpiD/nSnVsdHiB2/qfkuccKhzHDb9oF/ygSI7Ias9b0rX3C8u7IdomEoGBZf+Z1tUuEFIaFzik0zSMvppsH9FK4U5660gwH4dXJu1wFSeGWS+5vJQOFt/Agi+krBBR+DotqC+B9xMLp4gfPnLCGzn/yMGHPxvtyU+XFZ929GSvLhg6cRFB7XX1RTInQXpDGnzqY56/KOgFXIigOscQ3pq8MOuJKUPEMBpErIg3eRcobCh/YFbWDGt6MYJ32RvbOhyziBzZfb9c25SuPG8il4vDm9tqrKHWizQeMl828flJx7q8ZZGwrUB7H013TpUC3dgTnBOg/qP4jK7fcyijJHySchkqSxBhAuiw==;XHznW5AKVBLPN0PtDDTiYw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/former-senior-pentagon-official-says-china-is-ki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp"
 type: article
 quality: 82
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -256,6 +256,20 @@ related:
       - url: "https://dmxvlyap9srmn.cloudfront.net/production/articles/129/large_large_large_theinformation.png"
         width: 1860
         height: 1008
+        isCached: true
+  - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
+    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
+    publishedDateTime: 2021-10-13T22:25:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 30
+    images:
+      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "klmK2KQohpD6eo9zdPD7Xx6EcXSO4xp+fdO/6VG0L6BuuP5ra+BZtMaWjzH3ahnrDl5yYv4R7VwZeZGnkoZmqdAppXRrGQKE+3vs0GAzzxOSTpH70xrpoEoDf99tMCzKySmrxAhKsOFQBFyJRKNvu4PBjGZ7+nwzz0aa9MOg3Wy+acBG93lQ1X+Rx4FoRErOCGjJVWo7GzERhmJ+/6fA/PG1AIV67bIYdGArDipbXW34QxLQBXoWJgympOX3SzRhEyfZsbibRlwfr1a0EqNj+8scipnmoxR+h81ug8rJOuxxSMmmVVms0Pt0EbJFdnB1DuCq4qrJvUbly1xE3ZqVYOZmnPHFQ0NPH0BL+/vg7fvuhh63gpHPw15VH63sSMcQId7uYDSvXbtMDCtCj+DHeiRhqdaa6LRbd6gcpG+NiiUVG7B32eRoVwv0ILU0/LOtL8wtCGHO5/SLbohNnXbWNGD6ioAUA4Yyhz+JpdCeYJ8KvgZgTz3xUqdGZjNO4XJTd5dwe8+v2SZthFYiG+Ktcg==;I77A7UZRnJKX8yyvZ8eSFw=="

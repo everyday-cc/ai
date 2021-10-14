@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
+    excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
+    publishedDateTime: 2021-10-14T07:57:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-2-fintech-industry-insights"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zht5Z2ZQWXdNpY4TGknYmoGVEFBryrWNnptfE8wr61h3l+BsjQfappUlFnzvnbBQh65M8RBg6vPy2iluS+VL+li/XcNHAbeqihqadH0e4+/m3oFq46qADNlkAi0giFXeTBY+UgBdbylPXoixIjSoyWsPz4ZIvqMCgoNxmY1ov+pmUDNhiBTe3QLlL3B/Bcv1eTNUA4gmK+qaVX/gxzudi1DS4PxfTQUuTij7RjZi+DhEfrO6sN8z5Ua3u7WTHYiRO1gAhemdiKbQG6vn/4vuS5DOZI47YP58FwZRBklOr5Fru1lBuKpkBa52EilIUD5qxuXB1+fWvbojcgf+qkZAhpOsn87fBUhILZlKZXO/ErI=;l6BH9qiv/9mWclSZkI+cOw=="
 ---
