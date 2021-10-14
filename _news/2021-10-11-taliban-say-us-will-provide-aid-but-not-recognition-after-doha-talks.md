@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/international/576150-taliban-says-us-will
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/YqArZOGb3ZHg9Hc165Je3CtdSe0=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ISWKQXZLMRCOBHW7UFBJZY2GWY.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Taliban Warns US Not To 'Destabilise' Regime In Face-to-face Talks"
-    excerpt: "As mourners in northern Afghanistan buried their dead from an attack on a Shiite mosque that killed 62, a Taliban delegation told US officials in Doha that any weakening of their government could cause \"problems for the people\"."
-    publishedDateTime: 2021-10-09T18:33:00Z
-    webUrl: "https://www.ibtimes.com/taliban-warns-us-not-destabilise-regime-face-face-talks-3312467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/08/the-bomb-blast-hit-a-shiite-mosque-during.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "79uoYklrcftXJB0aKJckelrVSzA2LLYOuKpP66sV4KpMyIjvaY/Fy8P1HcLL8jlkrMbstoIHVWOn8Ei8ZBQ4cfPCN5XptzACsHw0XIE3oaDCQ5glN7zpqHfItnLcH017e50dmiCxGvAOOmYRar/8mRjJEYOh6rhGD1+KIAmBZZ9PXTyzs4p2LynZPcS4lc5sWCH/Vh6N1st4xrWsjH2EAJTNAZsDKS0XLMqWGdlDlUANlXg1IvyViS4JM6WnOl5dUFgdePoNeuTxa9kp3+Ex0UuWwusgIWSesNd1ywuAV+piohXLtpBT2TI3kfR41nv0h03oo/vHABr9dUd5Iplg5BYQ//+q5bVDUhGXI8RwZu0M2Xyfwc2nCxXBkuJMWMgm3ukJnA40Jw3ifNZ//2zstoGOjK3Np5XTdxvEh5usy/3A30DuMP+XGdP1TwMRmlZyc9x+QmxvjSOINcKmrIjzdwp6Va9OJ/uTstB+Uv/OwZuaHAryEguIU5B5L6rxEwkPrqS3HgdSRqTgBLDCr7I2fg==;XbuMaci2MgOAbeYSPLMyoA=="

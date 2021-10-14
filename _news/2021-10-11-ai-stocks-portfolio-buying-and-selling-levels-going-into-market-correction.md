@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding Bias In AI-Enabled Hiring"
+    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
+    publishedDateTime: 2021-10-14T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
     excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
     publishedDateTime: 2021-10-12T15:30:00Z
@@ -74,20 +90,18 @@ related:
         height: 630
         isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-    publishedDateTime: 2021-10-11T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
+    publishedDateTime: 2021-10-11T15:47:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 86
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 66
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
     excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
@@ -116,6 +130,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
+    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
+    publishedDateTime: 2021-10-14T11:39:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"

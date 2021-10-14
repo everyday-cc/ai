@@ -41,7 +41,7 @@ related:
   - title: "The essential human element of AI in education"
     excerpt: "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education."
     publishedDateTime: 2021-10-14T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/2/"
+    webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/"
     type: article
     provider:
       name: ecampusnews.com

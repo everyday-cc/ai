@@ -2,17 +2,17 @@
 category: news
 title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
 excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
-publishedDateTime: 2021-10-14T04:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
+publishedDateTime: 2021-10-14T10:27:00Z
+originalUrl: "https://www.afp.com/en/news/1315/nxp-semiconductors-selects-aws-its-preferred-cloud-provider-power-electronic-design-automation-cloud-202110130061951"
+webUrl: "https://www.afp.com/en/news/1315/nxp-semiconductors-selects-aws-its-preferred-cloud-provider-power-electronic-design-automation-cloud-202110130061951"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: AFP
+  domain: afp.com
 
 topics:
   - AWS AI
@@ -33,7 +33,16 @@ related:
         width: 960
         height: 629
         isCached: true
+  - title: "NXP Semiconductor makes AWS its preferred cloud provider"
+    excerpt: "NXP Semiconductors has selected Amazon Web Services (AWS) as its preferred cloud provider and is migrating most of its electronic design automation (EDA) workloads from NXP data centres to AWS. The company will use the AWS global infrastructure and capabilities in high performance computing (HPC),"
+    publishedDateTime: 2021-10-14T10:13:00Z
+    webUrl: "https://www.telecompaper.com/news/nxp-semiconductor-makes-aws-its-preferred-cloud-provider--1400513"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "DkVw6XyukvP+qCab+cEveGN/OfKK3v7G2/v0Tat8IAKT/gIM18WPyqOd652xwy99n7GJ8x/xMCrB+HvV1AA/HEzrkYd5ux9djV0LvkdGXLbe6MD6U6ltm3WTuG3BhsRBZRqJcvRcfzuRae20CjEqPxEuAgiXGAEfG9AUlZYQ1gvnjkcNAFbAKsKNMd67rhWLUYujYeCiWUap4hqCdou/cKFPzyvf3ug96hIt3kyE8M7aCvSdkXCppcZODuBuj/jHAJt44YHplDB5ZG8Be71J7m5IkC19oRD0VMWR12odn41Hhne/X0MVziG8myia8eMXJPXbYXDq8K5SyYVB41eCFef7ge+MXp1sy/W8nnF96sk=;5AwkHKAvlzG/H97OTOMtfw=="
+secured: "oDhoGN+aSGZ6csWgfuf0RT/OqjH49MdElxdRaE0sRz63jp9BIYmZ2nRYos4FNhTtKHbW48G9XsWClOfUlN7UqDWV1CHeho+ClGxVzT8GPZSMnT6Em6hnLxuGI5cBc1Sc39TYSXwwjphG9ibwS1BiMI3awtaMtGaMHDoO2qFcy5s9VNEdxFbBrYc8iBU4kRpfQPjf2lGPqAWL9plVtGl1dlRfe/zr4FsnSk0L8SLj29Xnguubja5+DeYSUuZFMog52NGcI7aKtZUetf0U5IEZKa/ZVX6enOcw2FGNzsf/EWpqhuVzie2dka/DQcvtt++LhUYHpwrnt+jNR+X0dMdycrhfZu3Zw7vfvXc6JHM+UUc=;i/NkB6UbAOOPNrr4erQ3vg=="
 ---
 

@@ -1,28 +1,23 @@
 ---
 category: news
 title: "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO"
-excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks’ patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community."
+excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community."
 publishedDateTime: 2021-10-13T11:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a"
+originalUrl: "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/"
+webUrl: "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/"
 type: article
-quality: 23
-heat: 23
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WTVY
+  domain: wtvy.com
 
 topics:
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BYswOwooTWgnIeIYU6uenvpmZK7+B5HbasVHtMHF2hR0dcYBBXh55eWd4sA/+h2ZvbVEl1CtllRm5UpHd9/n0A+4gB+iTmsPOsRVbHEevLNkfgf1qhHvlwMXV9RVd8mb4ljhQPorQ1HJXwuHJDOPboVZa83UOYsCBwyocA0xCStT64xzC1/DDUIH8yrCOqXpZReL+U2IuXNfEr7wcvJNypCV+yBXZsqas80noFHOPguitF2ZfxU+rAs/BzFoICdj0mnUIFlSy7gvlFISd8KeOaM1XXZA+h0+QSL5uz1CM6A8EBwC5T3wJ+7MOySlkV/c0adPYfTY6ZsKiwfB6cReNHZqeASRcfj4sbGZ6SU8iuo=;ManHC5rmLfRuC6X06yvswA=="
+secured: "s34ENlxb24TQYMtxsNxppCzzIMZ8E3wr9OeBShH32zIRxIB+WOkA9HLT1r5G3GNhd4Tlq2ZsKFS9DR/vHa0LPUVGogAUWjHF7j5FoVw78Xq9WD10Rwfph9B0slU26L/WEcu6gqgUb0nxs851d9Vh3HdTytnANUh2tslJlCRxTBDcZ8iue5nBIMpqdgtKuWP2KJ6od7eIH94iOqj2ymcf1pUVguOAb2B36Jvo00Tr1uHO+b2jN8luZKoj8o1tZVrd6UVQr623WyWIg2vV5PHHGMD1UjAGD0mZ+QAO9BH4fkZ9r1MorMHN3Yw2kqz98SiJ/7SitQuzt0U9XWK3/eHg4hHBgfyFLHaEeVsdVMOPOT4=;wiG0oDZfAjlwWXJj/rrACg=="
 ---
 

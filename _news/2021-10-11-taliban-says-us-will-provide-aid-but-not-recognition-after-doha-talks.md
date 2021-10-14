@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Taliban Warns US Not To 'Destabilise' Regime In Face-to-face Talks"
-    excerpt: "As mourners in northern Afghanistan buried their dead from an attack on a Shiite mosque that killed 62, a Taliban delegation told US officials in Doha that any weakening of their government could cause \"problems for the people\"."
-    publishedDateTime: 2021-10-09T18:33:00Z
-    webUrl: "https://www.ibtimes.com/taliban-warns-us-not-destabilise-regime-face-face-talks-3312467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/08/the-bomb-blast-hit-a-shiite-mosque-during.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "kEBGXOZSu1KJSlbfC4t4X0tOv3/RvfYpjR4N0KRhLHNRm0dZm5D7CMfwYJTOVsLfA/3F/EKw/YOn9eWVq0HaTlVUF/F36HMf1LiJJen0hZHzG9oWO5JG3ODuDrDprppvxPDcm8vdvfeIZzxnMX/x5J9wFGjN67lXRz9G7b92f80Rrrpb0aapWTr5QLeGw+vfwIstuY+kOLOC4m0/AAvdHqZQTLY3coOTa+y5fEiHnRrsrUe0IjBGlpC1Hfm5bSZMuFhRE/eDXFZ0x3xOVXvg1WONMMIUrZXCqTT2YM6QYtCen89urNxa3ugAozdT2+IxGsuyXA9PVywaigDqCuH5+1LhCrUjeo2KuQPtTR22zK4=;ZOq7csZOKGQ7JB2autoqCA=="
 ---

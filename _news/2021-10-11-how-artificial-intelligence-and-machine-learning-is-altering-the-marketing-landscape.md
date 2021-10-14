@@ -1,20 +1,18 @@
 ---
 category: news
 title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-publishedDateTime: 2021-10-11T14:30:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
+publishedDateTime: 2021-10-11T15:47:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
 type: article
-quality: 86
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Autos
@@ -23,9 +21,9 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-    width: 600
-    height: 450
+  - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -44,6 +42,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Understanding Bias In AI-Enabled Hiring"
+    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
+    publishedDateTime: 2021-10-14T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
     excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
@@ -119,6 +133,20 @@ related:
         width: 700
         height: 530
         isCached: true
+  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
+    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
+    publishedDateTime: 2021-10-14T11:39:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
     publishedDateTime: 2021-10-13T16:12:00Z
@@ -129,6 +157,6 @@ related:
       domain: c-span.org
     quality: 19
 
-secured: "7fFlC8JbU3diqn30o7EpOvfsIldqZdycYKpl7qvp4AsQoHpQiVkJqPPCB/Wq7C2r3vfYPVLlV8Kmo87AMRyXFrDbZnkgz3UUdrNtVTrR6N/UFOU8w5Gb+0J+ryyyz2hOeabwixpLOwy1y1wHEflYBmiv0EmMhzrXMTz6hquzXpVKWsvTcySqkwuVe8U0IKstVb3vDtpyFLtF4TNGa6a/vKCoyUwcV+QNWIt6JNcbuJEr6KzfA47ugIc+v79yjlkCkk1uYSujUOybA4LlkpEpBut+fpX3x8n4o9mPKZAn8btP75Lje9lAlSQT7YT+/PjvzZbprYApHzOfSBFmXMha28ZUiVAOWlaQg7vK3gZh/gRXfMNFm4D4P+2dNElFI5O0pbol1+1dRYBxOxg3mRpbwuYvxtvXzkltfqqhokK+odVliGN4/1uE5jPXiaDpkoeWT2jH8EB4J1MEcbyKysmV1LtcUMnvQOFHmuKvLSfPyO/WRAU61jax/yhdjvGFC/38uIrCoOZVVpcMaDGtUj02VQ==;OdWcjp+hj+40oCmBmXsfMw=="
+secured: "3LfMsEqA5vvM21ZHTuono2jeTNZgMfPKHkq4I+To556qcYp5+ai+Elhmi74FcwHQmhssU4raEE6UEpGbymaruzRGZyMx7KVblueAtYC5afatnbX2L7JIBTZF1585Sf6Y949YTeGjWXoX6T4t+vo3xecRzTGJkx0xJ5C1rljS2UQqgqE4f3UGeWQVtWjXZCIbYuHaHHG1zZgZAmT4NvH4U7TMJz/FLJ/XOckQT5DK0K/c0CZIhcmre5EQmvoY+uqk3/QE6RdDGv1hEHjlLyWOBN2wPp17zn4ryRkm5OJH9HcbkHaWME8nANZaridQDrkbsfH9RUKD3w1ql/e4AH7wD9CMcqJg5pemyERQfXdVKbc=;urFsXREIMKp7IyFzQPNKhA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-priv
 webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing blockchain, AI and privacy-preserving computation together is the 2.0 version of this network’s white paper"
-    excerpt: "There may only be one thing standing in the way of advanced artificial intelligence, a decentralized privacy-preserving computation network"
-    publishedDateTime: 2021-10-13T10:00:00Z
-    webUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper"
-    ampWebUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
+  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
+    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
+    publishedDateTime: 2021-10-13T09:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
+      name: inc42.com
+      domain: inc42.com
+    quality: 49
     images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNDgwYjMwZTY3ZjZiZTNmZDFlNDNlMDFhODUxMjgyNS5qcGc=.jpg"
-        width: 740
-        height: 493
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Pathway Raises $1.3 Million to Scale its AI-Powered Medical Knowledge Platform"
+    excerpt: "In a context where the COVID pandemic has generated an unprecedented volume of evolving clinical guidelines and revealed vulnerabilities within information dissemination systems, medical knowledge startup Pathway Medical has announced it raised $1."
+    publishedDateTime: 2021-10-14T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pathway-raises-13-million-scale-its-ai-powered-/2021/10/14/9469457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "5lSDtOeQHoSd7J/q8a0+5U18rHcl2Wb2JpvtID7iCUMXjW8/XvqI0r06b8ZdrqS/Kh7eCgT0YdlXDP8NaoCA2Xa/IulJIswxXQJcHvIjSDf5EX3RYueLkLvCspNoyUut4e8C4Xi7RlT1bq+4o3hzGMDcpfJ1wNeiEdfkngEskLQJ58/+EHz1FSOcIEViFte7NxBe/Se9D3JQJ1/wujrrKnu+vYAnSKIq/H6VcRQ2Yl0PzBgrjjg5nII+G3aVZ4TH4ipNUftcVcx86y40vqt4jINMqkamHS8vieiNJuEGflKNLmDVRX9y145aDqFZYg/z8NTGFNRlOWJ6BBNt7apUnOeCeoSz+OdSnSAGyXOOGo8qxXicwH2hSb/7L35UPUVV7kf/yF7IKutt+eFansBqS4+Diz07yjcls7gwx2q2MHiegDKn5T9gzuoL5AhA5F6leypyhTRYInAZ/8dTNaxavyi/taGnc/2bVBpBxh+JM1KeLooTQugvYAUocNsvcuDbAgPtiLqBRxo3crO+1Wyjzg==;aKiHIwmiiR3f37LzlzruIw=="
 ---

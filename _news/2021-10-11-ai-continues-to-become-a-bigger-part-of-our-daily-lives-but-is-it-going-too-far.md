@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is now part of our everyday lives, and its growing power is a double-edged sword"
-    excerpt: "A major new report on the state of artificial intelligence (AI) has just been released. Think of it as the AI equivalent of an Intergovernmental Panel on Climate Change report, in that it identifies where AI is at today,"
-    publishedDateTime: 2021-10-11T12:38:00Z
-    webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
+  - title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
+    excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
+    publishedDateTime: 2021-10-10T19:10:00Z
+    webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 42
+      name: The Conversation
+      domain: theconversation.com
+    quality: 40
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg"
-        width: 1356
-        height: 668
+      - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
+        width: 320
+        height: 385
         isCached: true
 
 secured: "75sqmtflTtHEQF29YP0loaHDWsQ6K5gSyq8ILkCz8tgjQyLvXt2I8PIqN1hEwoqqMqWt3eh+esOJ6+iwphJxqNDdQ8D2xGN5baM9YyRS2h5vaS5VssGepoDiINXofstLLOrcJ0SJLMSMewSzKIRKTi5e8veMBxu7i9iH9pBD+m32BQa5hyg62JgRbBF1RsG9M/gbCgiodAJeREsB6nBzpOue6K3n9Z/aG79FLqDm3V7l+GzYaj+YqJxZrVfJscMX46znCg16agNxbgyCgjJphnSXQe/ko9z04ia39jJGR+1rDgsxecOqpfdDDOxt/qtwFHLj+t1IQKB1lS1Yx1vzS681gee0fgAH9MrxsEY3Nhs=;on6rPD84i7Jt38bN0QX2TA=="

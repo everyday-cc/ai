@@ -43,6 +43,22 @@ related:
         width: 724
         height: 543
         isCached: true
+  - title: "Artificial Intelligence helps complete Beethoven Symphony"
+    excerpt: "Before his death, Ludwig van Beethoven had started writing the 10th symphony. But only a few notes and musical sketches were left. Watch video on Zee News"
+    publishedDateTime: 2021-10-14T11:20:00Z
+    webUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html"
+    ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/10/14/00000003_23.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
     excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
     publishedDateTime: 2021-10-12T17:49:00Z

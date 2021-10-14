@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face biometrics roll out at airports on three continents amid ethics, oversight debates"
-    excerpt: "Airport deployments of face biometrics were the focus of two of the most widely-read stories on Biometric Update over the past week."
-    publishedDateTime: 2021-10-09T17:25:00Z
-    webUrl: "https://www.biometricupdate.com/202110/face-biometrics-roll-out-at-airports-on-three-continents-amid-ethics-oversight-debates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/08135040/biometrics-phone-mask-airport.jpg"
-        width: 929
-        height: 380
-        isCached: true
   - title: "White House Wants to Know How Biometrics Like Facial Recognition Are Being Used"
     excerpt: "A request for comments is polling governments and the private sector on the full breadth of uses, whether it’s IDing faces or predicting malintent."
     publishedDateTime: 2021-10-12T17:58:00Z

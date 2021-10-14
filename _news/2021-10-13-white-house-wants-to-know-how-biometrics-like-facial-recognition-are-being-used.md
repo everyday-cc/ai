@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-kn
 webUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-know-how-biometrics-facial-recognition-are-being-used/186033/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face biometrics roll out at airports on three continents amid ethics, oversight debates"
-    excerpt: "Airport deployments of face biometrics were the focus of two of the most widely-read stories on Biometric Update over the past week."
-    publishedDateTime: 2021-10-09T17:25:00Z
-    webUrl: "https://www.biometricupdate.com/202110/face-biometrics-roll-out-at-airports-on-three-continents-amid-ethics-oversight-debates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/08135040/biometrics-phone-mask-airport.jpg"
-        width: 929
-        height: 380
-        isCached: true
   - title: "Samsung, Google renew mobile face and fingerprint biometrics efforts"
     excerpt: "Samsung recently filed a new patent application with WIPO for a foldable phone with a double-sided in-display fingerprint biometrics sensor."
     publishedDateTime: 2021-10-13T17:30:00Z

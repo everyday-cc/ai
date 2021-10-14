@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/390891"
 webUrl: "https://www.entrepreneur.com/article/390891"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,21 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
-    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
-    publishedDateTime: 2021-10-13T09:34:00Z
-    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
-    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+  - title: "AI shopping assistant Karma raises $25 million in Series A funding led by Target Global"
+    excerpt: "AI shopping assistant and shopping network Karma announced that it has raised $25 million in Series A funding led by Target Global followed by MoreTech Ventures, with participation from existing investors including NFX and Altair Capital."
+    publishedDateTime: 2021-10-14T11:00:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 49
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
-        width: 1200
-        height: 628
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/karma-desktop.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Chennai-based M2P Fintech raises $35 million in Series C funding led by Tiger Global Management"
+    excerpt: "Chennai-based M2P Fintech, previously known as Yap, today announced that it has raised $35 million in Series C funding led by Tiger Global Management. The funding round also saw the participation of existing investors BEENEXT,"
+    publishedDateTime: 2021-10-12T06:39:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 47
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/iuh09y/article36957845.ece/ALTERNATES/LANDSCAPE_615/bl13M2P-Fintech"
+        width: 615
+        height: 384
         isCached: true
   - title: "Cast AI Closes $10M Series A Funding"
     excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
@@ -58,20 +74,43 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "London fintech firm raises £8M in Series A fund to expand to the US"
-    excerpt: "A London-based fintech company specialising in debt capital markets has announced an £8m Series A round fund fuelling its expansion… | London | Recruitment | Finance | Finance | Investment | USA | Bus"
-    publishedDateTime: 2021-10-13T10:20:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/10/13/london-fintech-firm-raises-8m-in-series-a-fund-to-expand-to-the-us"
+  - title: "AI firm targeting ultrasound with 100 times greater sensitivity raises $25M"
+    excerpt: "An artificial intelligence firm working to create novel ultrasound technology, which it claims is vastly more sensitive that traditional equipment, just raised $25 million. Healthcare investment firm Deerfield Management Co."
+    publishedDateTime: 2021-10-11T22:54:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ai-ultrasound-greater-sensitivity-25m-deepsight"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 35
     images:
-      - url: "https://bdaily.co.uk/images/uploads/xIqSu1kc2buPg4yv2qQDg3PmjK1ExFZUWEgnLoji.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=e55f3b2453c8e49a33adf322a3d45633"
-        width: 940
-        height: 430
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-09/money.jpg?h=e2f6c173&itok=TDllxyp4"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AI-based job skills analysis startup Reejig raises $6 million series A for US push"
+    excerpt: "Reejig, the workforce intelligence platform that uses audited ethical AI to allow enterprise businesses to make smart and informed decisions around talent, has raised $6 million in a series A . The round was led by Kim Jackson’s Skip Capital,"
+    publishedDateTime: 2021-10-11T05:40:00Z
+    webUrl: "https://www.startupdaily.net/2021/10/ai-based-job-skills-analysis-startup-reejig-raises-6-million-series-a-for-us-push/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 31
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2020/03/Reejig-Founders_2-scaled-e1633930718530.jpg"
+        width: 768
+        height: 498
+        isCached: true
+  - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
+    excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
+    publishedDateTime: 2021-10-14T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/karma-the-browser-based-ai-shopping-assistant-closes-25m-series-a-funding-round-led-by-target-global-and-moretech-ventures-1030866082"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
 
 secured: "r1Esj/QqY4RvbU+CZlwgVH0Px/IqM3LRtH5M6TzDHMWwW4QnWcqOiun0FHUhFn/ikAmBvmsJiAFuRgBy5oNBR+CpqJzB5YvpgtcB9ZOnzVuZIfxz0x0MoA1zKuQhQWXPh2RgFx/yl2x0qb3SPbqiZVwnawdQSVaZ6Ea1osMNTZNbqckEtgal2M0qDw06yaa5GQHFqtgYs2zX8i1jNzOl1EmoBDnLMSKoGLv3/+6cLRZs5KMlWs23cGjOFCMx9PzpDsG8wmudYEaCCHuWxcHK7znnHSwzJhV8NZwgAkefbPrpBUrNTXCYEPRRCV1PnVUztVC83Mmob7fhzlLv1SDYmPDqZJFLiOGrhHCs5Cyj2yw=;Pz4iCt5oRY4uztlK16AICA=="
 ---

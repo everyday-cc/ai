@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -324,20 +324,6 @@ related:
       - url: "https://www.thedrive.com/content/2020/02/autopilot_0.jpg?quality=85"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
-    excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
-    publishedDateTime: 2021-10-09T18:54:00Z
-    webUrl: "https://mobilesyrup.com/2021/10/09/tesla-full-self-driving-delay-last-minute-concerns/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 36
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/09/tesla-header-2021-scaled.jpg"
-        width: 2560
-        height: 1439
         isCached: true
   - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
     excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."

@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "Co2GYpuAUbfMlIPr3JgBjcia4YLoQErnsETP5D6gioLLfjKCc7yDYFZknIXk7E7n7qXD9OpMsYzjtrikKwHUegHVK/p00Rv2Fnyu1aGFk0wMUfmuNQOfvFgy9JJW8Vd0FRcz9HUPGLX+y9phQYP196ynIQ3mVI7mHeICgZCqUy/HPqCov4nFyU2lIut7RcUzAY4WAUN4cjYzq7rpeo44MqLS5R2tZWH4pK8u7hL+kGuaW3nXkv7eJ8DOOHHlVOyPtzl/xxmJDrcQLjl1F7IYYpBsLWx5ZE2xjERWTfZHvfO1jdy6xk5WEH7gmHaHcTV4bSSUJd4fv05gemUw73igcYXniCTsmPQcM3pnS2wYzkg=;FkCmgy6OTXI4WdfXAWd1kQ=="
+images:
+  - url: "https://bdaily.co.uk/images/uploads/lH9QZdH6kUupgbgaaE6DDrJPmKzrqSuvEU2YWhmR.jpeg?w=940&h=430&fm=jpg&fit=crop-2-39&s=e3b83a4adab4eb45bee02e4e0bf27200"
+    width: 940
+    height: 430
+    isCached: true
+
+secured: "yw4miY6s8FQO5g13gly2caG3UF0nkpY6c3oXpn2Z2W35j4Aze0z6W3ntQb0HgynEvV7/kev4+wQdateSaw4iSvivG2C0dN2yN+wC12AqpR8d2bfQ7/6F20yCiXepXPBpv/TPF40MTObc609P9BaOybnf8t8o8Py4V49O8LR0Glc7WkEx6huCLXDqanLGntzfOVXhw+y3kF+zrTNN7Q6Mh/MCTfOsF20bl8g9eW26MVj9QiaWMYR0tLmcJgQ1jRalsYcwwGCMrE2AlGEo6YjlCWoeyDOXq5mi1Pe6YR+TW1RDfh0+dPbJR15Q04rssb+Hz5UL+ompXWB4whIdg+OIcNScwdhbCIF/XdXj06ZUp7Y=;oedq19fCevaupcYFGFbr/g=="
 ---
 

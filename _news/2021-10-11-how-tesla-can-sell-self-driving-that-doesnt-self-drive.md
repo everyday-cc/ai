@@ -329,20 +329,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Musk delays Tesla Full Self-Driving beta release over ‘last minute concerns’"
-    excerpt: "Elon Musk took to Twitter to explain Tesla delayed Friday's limited release of the Full Self-Driving beta over \"last minute concerns.\""
-    publishedDateTime: 2021-10-09T18:54:00Z
-    webUrl: "https://mobilesyrup.com/2021/10/09/tesla-full-self-driving-delay-last-minute-concerns/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 36
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/09/tesla-header-2021-scaled.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last-minute concerns\"."
     publishedDateTime: 2021-10-11T17:27:00Z

@@ -18,15 +18,36 @@ topics:
   - AI
 
 related:
-  - title: "Rendered.ai raises $6M round, aims to open its platform to more users"
-    excerpt: "Bellevue-based synthetic data startup Rendered.ai announced it has raised a $6 million seed round. According to Rendered.ai founder and CEO Nathan Kundtz, the money will help the startup open up its platform,"
-    publishedDateTime: 2021-10-11T17:44:00Z
-    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2021/10/11/renderedai-raises-6m-seed-round.html"
+  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
+    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
+    publishedDateTime: 2021-10-13T09:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: inc42.com
+      domain: inc42.com
+    quality: 49
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Dozen PSUs on the block after AI privatisation"
+    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
+    publishedDateTime: 2021-10-10T19:44:00Z
+    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 37
+    images:
+      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
+        width: 600
+        height: 350
+        isCached: true
 
 secured: "pbuzZ5B6AsGocNwX9DHINpbBoYuKTWELXQjr34gMJn+gDtikCJvKp9Z7OEXlc/s5IYKor7nSCXldMVL5pWyBMmqThKJ8FbY0NOx+D3Y4XRG+s0FzBKJFAXWxuImDtbuOc802lmS9oZOSQh0mXoa4TU6uDsEFQmx8q4D0wtBvVTx8GfcCTMIBIG+a43vnR4oHsiB/dFSHzKbpEU3XuQI5feyB0JVJUnmRJebs9HUpfiVzU9T+hht/ouvbQK6g7J6kSwO8So22aTZH0MSw0L856JEqo5KjltDuzFhR7JQauR6+p2Vobmwn+Ses6aqKXjHi7pdXBVtfuEBmrVji80ZbDbYKdQ1ZHkw9pSKTAJ5NrB4=;RzK0fFW6cOdhVFgebOgFbA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/phoenix/news/2021/10/13/circle-k-opens
 webUrl: "https://www.bizjournals.com/phoenix/news/2021/10/13/circle-k-opens-automated-store-in-tempe.html"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,19 +19,14 @@ topics:
 
 related:
   - title: "Standard AI Launches New Autonomous Checkout Experience at Existing Arizona Circle K Location"
-    excerpt: "New frictionless checkout system powered by the Standard AI platform debuts at Tempe, Ariz., Circle K location, delivering a leading standard for convenience, customer serviceSAN FRANCISCO & TEMPE, Ariz."
+    excerpt: "Standard AI, one of the world’s leading computer vision platforms for retail, today announced it has worked with Circle K to open its AI-powered checkout-free experience in a retrofitted store in Arizona."
     publishedDateTime: 2021-10-13T16:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=546386"
+    webUrl: "https://www.financialbuzz.com/standard-ai-launches-new-autonomous-checkout-experience-at-existing-arizona-circle-k-location/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 26
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 6
 
 secured: "E3u8bZZBQYIUwY0pKMU78x+rwCZA48J8dcY1jhrVR0GjRCpMHwP1/YP1AF4WYPMMgq2XFYIRGCLccHn5apgr8C4QJRIPLoR3iNCgWhhsBuOSN8fTLo/ZUMXtD3oZfPvEiPpu7Eg6/2e0QIZVKjXDVOP6gtxRilHXEEw5tqJ8dAG6akYsvjyvUVhJ3YWzPap21VxOfuF1muQyF4PJj+LqyiLmXGl3kZAhdJ5Ra2jQa5vGP2gwihX2ILq6mAwg+FyU4QvOazEg/LibGy9Ao4pIAfhDUvv8yGfoK0kGutBdhtAAeKe90Rp60vbPRJjvuf4XT7iOu7By9iEVe8tEvn72h/OFHJ7ugvIDn76N4h0nCVGlDcV/xBjDHd3HW5bO402wa+VgXWiAdGjU4FzdHwOuQrV8W+roYU3ayLomibsHYv7RRKo+doMnVmimcc2FuGGY4iYfi7foylL4N3lSh/FrlHA40D4YTr5/On0JS2wHjVYuq804wPhweu+Lb5rg56x4gOdOS+jcynlF8Yt3wIj0NA==;KEx105TaSr+eKmf1WPjBPQ=="
 ---

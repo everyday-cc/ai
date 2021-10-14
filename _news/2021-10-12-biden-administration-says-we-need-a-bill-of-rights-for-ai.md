@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 webUrl: "https://mashable.com/article/biden-ai-bill-of-rights"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House proposes tech ‘bill of rights’ to limit AI harms"
-    excerpt: "Top science advisers to President Joe Biden are calling for a new “bill of rights” to guard against powerful new artificial intelligence technology. The White House’s Office of Science"
-    publishedDateTime: 2021-10-09T17:11:00Z
-    webUrl: "https://www.wearecentralpa.com/news/national-news/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/"
-    ampWebUrl: "https://www.wearecentralpa.com/news/national-news/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
-    cdnAmpWebUrl: "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/news/national-news/white-house-proposes-tech-bill-of-rights-to-limit-ai-harms/amp/"
-    type: article
-    provider:
-      name: WEARECENTRALPA
-      domain: wearecentralpa.com
-    quality: 57
-    images:
-      - url: "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/10/AP21281627613223.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "A global AI bill of rights is desperately needed"
     excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
     publishedDateTime: 2021-10-11T16:35:00Z

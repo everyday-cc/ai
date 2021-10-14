@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-09-11-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy.md",
+      "title": "Low-Code Platform Mendix Reveals Platform Enhancements for Digital Economy",
+      "excerpt": "At Mendix World 2021, a virtual assembly of low-coders, Mendix, a Siemens business and industry leader in low-code app development for the enterprise, reveal their “robust” platform enhancements that will “accelerate delivery of high-value solutions for the digital-first economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Computer-Code-Develop-Work-Software-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/09/180106-low-code-platform-mendix-reveals-platform-enhancements-for-digital-economy/amp/",
+      "publishedDateTime": "2021-09-11T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-weekly-bytes-nasa-to-launch-most-powerful-space-telescope-ibm-watson-gets-new-ai-capabilities-and-more.md",
       "title": "Weekly Bytes | NASA to launch most powerful space telescope, IBM Watson gets new AI capabilities, and more",
       "excerpt": "NASA on Wednesday said it plans to launch the James Webb Space Telescope (JWST) into orbit on December 18, 2021, to serve as the premier deep space observatory for the next decade. “The Webb telescope’s revolutionary technology will explore every phase of cosmic history – from within our solar system to the most distant observable galaxies in the early universe,",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-green-robotics-start-up-raises-16m.md",
-      "title": "Green robotics start-up raises £1.6m",
-      "excerpt": "A green robotics company slashing the cost of maintaining wind turbines is flying high after securing £1.6million in its latest funding round. Perceptual Robotics uses autonomous drones to map turbines,",
-      "sourceUrl": null,
-      "webUrl": "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/",
-      "originalUrl": "https://www.angelnews.co.uk/blog/venture-capital/green-robotics-start-up-raises-16m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.angelnews.co.uk/an2017/images/Perceptual_Robotics_.png",
-          "width": 920,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "angelnews.co.uk",
-        "domain": "angelnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
