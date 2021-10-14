@@ -493,51 +493,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning.md",
-      "title": "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning",
-      "excerpt": "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
-      "originalUrl": "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg",
-          "width": 800,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EURACTIV",
-        "domain": "euractiv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study.md",
       "title": "Artificial neural network promising tool in pain prediction after RCT: Study",
       "excerpt": "With the development of endodontic treatment, the incidence of pain and swelling during RCT is only approximately 10%. However, patients frequently report of postoperative pain.",
@@ -953,6 +908,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-ai-for-asset-tracking-using-only-machine-learning-core-in-sensors.md",
+      "title": "AI for asset tracking using only machine learning core in sensors",
+      "excerpt": "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code. We explore the machine learning core engine in the LSM6DSOX 6-axis inertial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
+      "originalUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-09T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

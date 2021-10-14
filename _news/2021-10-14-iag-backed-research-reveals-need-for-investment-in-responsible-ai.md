@@ -19,33 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "How leaders can help everyone take responsibility for AI"
-    excerpt: "There are few, if any, large businesses and organisations around the world that are not investing heavily in AI as a key component of their future growth strategies. In fact, Accenture research reveals that 84% of executives say they won't achieve their business objectives without scaling AI."
-    publishedDateTime: 2021-10-11T10:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-leaders-can-help-everyone-take-responsibility-ai-ray-eitel-porter"
+  - title: "Building better startups with responsible AI"
+    excerpt: "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ..."
+    publishedDateTime: 2021-10-14T15:57:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning"
+    excerpt: "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications."
+    publishedDateTime: 2021-10-12T10:00:00Z
+    webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 57
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
+        width: 800
+        height: 446
+        isCached: true
+  - title: "Addressing Bias in AI"
+    excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
+    publishedDateTime: 2021-10-11T08:48:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/bias-in-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
     quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGuPnsjMIEWkg/article-cover_image-shrink_720_1280/0/1633949891638?e=1639612800&v=beta&t=o-xZv9x--sfT90ZcaFxBqTsA9F6WWu-jK9jeQdUpxdw"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Why No-Code Artificial Intelligence Can Help You and Your Business Thrive"
-    excerpt: "The best AI projects are the ones where people aren't afraid of messing things up or wasting valuable time reinventing processes."
-    publishedDateTime: 2021-10-11T09:30:00Z
-    webUrl: "https://www.inc.com/young-entrepreneur-council/why-no-code-artificial-intelligence-can-help-you-your-business-thrive.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 38
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1324590321_483891_dr3lab.jpg"
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
         width: 1024
-        height: 576
+        height: 393
         isCached: true
 
 secured: "rOIrgCKMIBLYR4ukixaWRXAbFYDajM/RjHpyuxWLV3JA2QbMJT6gOfPRgC8G02PPlUDLntVnXBK6fqg8SGrbj3fCO8gJw4ZsJRYRZAWsjjdhaOTqnG7exBS5q/6dBiH6BJcBFP5wKsSnpNLZk1VTSO+rJijhn7+JCvaWp+3rA2SZp8fzaKv+UD8/4uzkx49CQesC25cqK9DeWqHuqRu0CtaX4Va15ksOTQav2MuBbDip222KPdiVKKsaj7Z9nSQO8QSPrsNB6/bdU6ffi5xCn7Xye+7XBeTZd/O3gxmvnsXAuG1FIn583Aa3eN0tkpqENIJ2GDxSdnvf2/TlCmmG7U/wHsyUH0Pn4o3F5mInZz8=;ORcMoMlTzSBr03dpvKkcsA=="

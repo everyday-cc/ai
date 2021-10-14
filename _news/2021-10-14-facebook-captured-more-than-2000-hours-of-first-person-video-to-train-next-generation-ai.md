@@ -1,0 +1,53 @@
+---
+category: news
+title: "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I."
+excerpt: "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models."
+publishedDateTime: 2021-10-14T16:00:00Z
+originalUrl: "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
+webUrl: "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
+type: article
+quality: 79
+heat: 89
+published: true
+
+provider:
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958"
+    width: 5000
+    height: 3334
+    isCached: true
+
+related:
+  - title: "Facebook's success was built on algorithms. Can they also fix it?"
+    excerpt: "For billions of people around the world, Facebook can be a source for cute baby pictures, vaccine misinformation and everything in between — and all of it surfaces in our feeds with the help of algorithms."
+    publishedDateTime: 2021-10-10T15:30:00Z
+    webUrl: "https://www.waaytv.com/content/national/575497992.html"
+    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575497992"
+    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575497992"
+    type: article
+    provider:
+      name: WAAY-TV
+      domain: waaytv.com
+    quality: 44
+    images:
+      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
+        width: 640
+        height: 380
+        isCached: true
+
+secured: "txsIEq+MdPmM/Q11ck5pvu0QnKX+rZL6IghmoGnFZ1KKsIzt/VZwF5qIJG4yv112ELwpmJ1UkZ17UAhiSjR1CyMjQvQcA8Gtd9s0hwh295u0Kkrt121y3aWmYPzivDHst4OXi5HWoMpYqTKcEkIn0WC42ZbVULGuApW/4UAmsLMEy/T782P/9B+HbZh3rU6Drom2bWJHjlAwdGKGrdUdv7uWBzjnZuOooqTZ6hZ/MdTvEu9d0xZXizm14yy9XK1U/WVkVye+mIx3/npX44UTcLMxkW2OoVUAwpfsTtQ1xpo1GAYty/3IjLn1Cyl9dUFFW52IiFz0NMvEexVYVHi+fAE+iCHX8CVchOwW8uM05jw=;fTDFQm67XM3PH8wVa/FMHQ=="
+---
+

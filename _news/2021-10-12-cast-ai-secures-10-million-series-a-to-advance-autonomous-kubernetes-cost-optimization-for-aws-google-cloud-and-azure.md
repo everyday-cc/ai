@@ -1,23 +1,23 @@
 ---
 category: news
 title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft"
+excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
 publishedDateTime: 2021-10-12T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
-webUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
+originalUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
+webUrl: "https://www.kktv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KKTV11
+  domain: kktv.com
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
 related:
   - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
@@ -30,6 +30,6 @@ related:
       domain: tmcnet.com
     quality: 26
 
-secured: "EXS6NJoeakYO+aVCP3DxTQ37VO7iKYJC9eGRZq/ovj/1IsK/3S50m9xO1LutLwFeQ3pfjkP8A/IXZRGFkwMrHgBcim+3/QzXu+y26Zsz24rMthKIX0ODZYc/uBagNbTZ1DcXldhLIbNNAoQ8RRNp2k6Tac55IjeYsT5KJg+RBej0X8g2Uk/U+CGrK9eiEWghRjECiK3FGwwLPLtMbcNKV2XoLmqMGoA7CyPFlKknlQ+n8Lu7SPZIRUhtOL5mN+AE4wIfeA9OrN4EBCtaKzgevA+cLQ/C3UIBJo6mgRJD61fivz2lgy5Y6XFdtZL8pbdI7hb+xlRWDHkZtKRqc8ZszYcOwtYZQLe5g5ROexNfaao=;llonmMQu+Insx+DDB87R1A=="
+secured: "ybyf9JARDpuQYiUTGsqLU/3x0L2E+/CwvOJwNke2aDhg4SUmNg3a9tpc8JC5csPXOZ2dfShDjuWfiABzvHbwEuPYKvfrkgrh8gpz2OPOsWwjo/IcL9a2u7EN4+eySqFCzW7mwioozkRKXA3xnqVAjCbFZWWKi72etyElYs3kB5Wlqj65jSAJUs7JeVTVmGfhKDI02vMaWtmGGmbG1Lu6PegOj47bfq+UcyYkUCrdLUnKOB4xL088rDltPGvyYI8vWPgI6fntue/uLLnS9SWxjqh5aggDkNJQjnDuY76KbiHGo29Ukf7Xf95ejlLG6y/FbCkYC34ezIXCRQnVMqc7ziBj16xNkrDdhknaTaSSP8g=;nG/dDahrgZHEuNYP7yI7AQ=="
 ---
 

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the"
-    publishedDateTime: 2021-10-14T13:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-20047079.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Leveraging AI & analytics to build the shoppers of future"
     excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
     publishedDateTime: 2021-10-11T06:46:00Z
@@ -71,6 +57,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 37
+  - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
+    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
+    publishedDateTime: 2021-10-14T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "71xOgffq78G1msK1MGTkNr1bNhXO9f2FasrvjhiyKHXWS2Yr2fsx7HdK45WUprs5ISRKdrISOrQ+WRV/MbHUyirCh9MA1XLO3Xo3oJ/qkmPhio3RflpP9KzvjM1J/UckYL7q0HwBQdAW9K2eyrI8H95aXn9tGWcz8V6tx6wEeoAvwOBLEZma+oJ4RQQIJVRmGgw1WFaIHBk6LUtCgMdKM2oCS1pxCssuh1DBjuJXuMybQcvvFzYtLawPR/l5z7BxRIC7OwQaRiO2oPLrjwuyw552Rgp3zwqM9Mafn//jN+7EmNnUIBhsH6DoYiHjS5mTxIIKjhYpv5xgyl2DikSIDXZB3N9kEk+idhw74M8c+FDX8JYOqH6quLB2ZexCcs9DtIss+vQhLh3tK0yu3GzP3B23Mo9wCpB8eZeG+jia6a7nLeW+VOCJBn/287ZX4Q2yqe0pCxHqgzlq/JQkyR62fYF9nm+GP7nz7AQRMB5vywhuYO0y7j8jGFOon0/Hjx8fM7wgj+Sy447eltLLiLUt+Q==;+w8CbvdZCwDK/m1e4RzPcQ=="
 ---

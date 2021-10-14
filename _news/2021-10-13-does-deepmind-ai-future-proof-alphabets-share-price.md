@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-    excerpt: "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company."
-    publishedDateTime: 2021-10-10T22:16:00Z
-    webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-    ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind is developing one algorithm to rule them all"
     excerpt: "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains."
     publishedDateTime: 2021-10-13T04:20:00Z
@@ -59,6 +43,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
+    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
+    publishedDateTime: 2021-10-11T18:25:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
+        width: 1198
+        height: 670
+        isCached: true
+  - title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+    publishedDateTime: 2021-10-11T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "All Hail The King of Reinforcement Learning, DeepMind"
     excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
     publishedDateTime: 2021-10-14T06:30:00Z

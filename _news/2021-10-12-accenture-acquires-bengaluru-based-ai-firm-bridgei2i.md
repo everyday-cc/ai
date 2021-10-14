@@ -51,6 +51,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 54
+  - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
+    excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
+    publishedDateTime: 2021-10-14T15:22:00Z
+    webUrl: "https://www.alteryx.com/resources/webinar/the-bleeding-edge-healthcare-data-analytics-ai-innovation"
+    type: article
+    provider:
+      name: Alteryx
+      domain: alteryx.com
+    quality: 54
+    images:
+      - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/automigration/ebooklogoimage/universal_webinar_432x432.jpg?h=432&iar=0&w=432&rev=40b23c67059744a48c46e69276833aab&hash=C44E3EF00A8056C1B237BDA0AE3208B1"
+        width: 432
+        height: 432
+        isCached: true
   - title: "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights"
     excerpt: "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia."
     publishedDateTime: 2021-10-12T03:44:00Z

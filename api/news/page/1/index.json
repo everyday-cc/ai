@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
+      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
+      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
+          "width": 5000,
+          "height": 3334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-building-better-startups-with-responsible-ai.md",
+      "title": "Building better startups with responsible AI",
+      "excerpt": "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
+      "publishedDateTime": "2021-10-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-artificial-intelligence-ai-bots-market-trends-top-manufactures-industry-growth-analysis-and-forecast-2030.md",
+      "title": "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030",
+      "excerpt": "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "originalUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua14817079_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "publishedDateTime": "2021-10-14T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-waymos-self-driving-cars-are-mysteriously-flocking-to-a-dead-end-street-in-san-francisco.md",
+      "title": "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco",
+      "excerpt": "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
+      "originalUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
+      "publishedDateTime": "2021-10-14T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
       "title": "Writing helper Copy.ai closes on its second funding round this year",
       "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
@@ -161,8 +360,8 @@
       "title": "Google AI department sued for using the health data of 1.6 million NHS patients",
       "excerpt": "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,",
       "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
-      "originalUrl": "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "webUrl": "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "originalUrl": "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
@@ -179,8 +378,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "ampWebUrl": "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
       "publishedDateTime": "2021-10-14T04:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -555,49 +754,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-one-army-corps-sees-data-education-as-the-foundation-of-ai-enabled-targeting.md",
-      "title": "One Army corps sees data education as the foundation of AI-enabled targeting",
-      "excerpt": "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps.",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/10/13/ausa-ai-data-training-solsbury.aspx",
-      "originalUrl": "https://fcw.com/articles/2021/10/13/ausa-ai-data-training-solsbury.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Federal Computer Week",
-        "domain": "fcw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     },
     {
@@ -1017,144 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
-      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
-      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
-          "width": 1200,
-          "height": 1228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
-      "publishedDateTime": "2021-10-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022.md",
-      "title": "1 Explosive Artificial Intelligence Stock Set to Grow Sales 359% by 2022",
-      "excerpt": "A combination of factors, including low interest rates and aggressive government spending, has put the stock market in a great position to move higher. It's a particularly good environment for technology stocks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
-      "originalUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
-      "publishedDateTime": "2021-10-13T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-why-ai-and-human-intelligence-must-work-together-in-medicine.md",
-      "title": "Why AI And Human Intelligence Must Work Together In Medicine",
-      "excerpt": "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165945d620e135d8e246734%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/",
-      "publishedDateTime": "2021-10-13T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that uses real-time provider, practice, and industry data to optimize providers’ days."
-publishedDateTime: 2021-10-14T07:01:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
-webUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
+excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
+publishedDateTime: 2021-10-14T12:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
+webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
@@ -80,6 +80,6 @@ related:
         height: 312
         isCached: true
 
-secured: "bxY2zAYpRsXweyA1gx75EBCHxnuSbUfCXM7ioaF/imSgWk6H3AwGQvpPUVqPG/q3uvrW9mCGyLDrfVRDwCOXNF0YTwrS1bhjiaKHRjmdqYaCvILGuRljgqzx53Pos85NMlHS6Iaed7NiRa7ATmX/bPAhkLG8MVZpQ+6rYEI/40dJg3iZ83vxdYMdupzdgXGTUb/HVLWyOMd3EgdcGmlZ237+Xssp5d9B+mmgZ/vM2e34osM1LY1YDbaoiPeeKwPtlkyPctLWDBogedJwa3SqJdZyXBLGoV2PVJkiKceX0ieb3xkI0P7PBvtXEYWsIkvUrxU7qKiYe5A6z6g8SqHlOgnyLxY2042JWisdpE4J/rA=;FCjlFDY1PR1GtGTPUYXUrQ=="
+secured: "m10QO/g8jRv7LrOFv7R5EVS/R8uUP3yF60yUoT2uEom6sEUWuzD4SyueJUOp0l/2HCY6ZF67HQHECsubX+Ckvh/fl48p7/AUfvm/rNYnxtfkqLzpjtGThs+nHEaOv55HGOZZJK8cr6We4Tq60n3k9tlmrHE5C7m/BZJxkI1XZXUr3MB49aZBekSX4+BvjrZZQc2BL1mLf3bhPW1zEO8+uDXj2gMidgzr6HHIm8QQp+eSfTncoIPPdm38cCrNJnPsWAhzcGImedPyfcyJPWWuZQ7ZG93XnfP2LerbpwGAZmzQaeva4FT6H9NAPBMFVhI+0ldRDWidpUI6gwxu+XjscsE0JaA3mJ4/HwWcAYQtOHo=;bxTcT0oF+il1MgFOxMm9aw=="
 ---
 

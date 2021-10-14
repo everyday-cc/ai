@@ -43,22 +43,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "U.S., Taliban hold first face-to-face talks since American withdrawl from Afghanistan"
-    excerpt: "The Taliban and the United States are talking again. U.S. representatives and top Taliban figures kicked off two days of meetings in Doha, the capital of Qatar, on Saturday. A Taliban official said the group that now effectively runs Afghanistan would not seek U."
-    publishedDateTime: 2021-10-09T21:32:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/ny-taliban-united-states-meeting-20211009-oe6aghxpfne3ph7fgi5iiqbfky-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/ny-taliban-united-states-meeting-20211009-oe6aghxpfne3ph7fgi5iiqbfky-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/ny-taliban-united-states-meeting-20211009-oe6aghxpfne3ph7fgi5iiqbfky-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 37
-    images:
-      - url: "https://www.nydailynews.com/resizer/YqArZOGb3ZHg9Hc165Je3CtdSe0=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ISWKQXZLMRCOBHW7UFBJZY2GWY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "kEBGXOZSu1KJSlbfC4t4X0tOv3/RvfYpjR4N0KRhLHNRm0dZm5D7CMfwYJTOVsLfA/3F/EKw/YOn9eWVq0HaTlVUF/F36HMf1LiJJen0hZHzG9oWO5JG3ODuDrDprppvxPDcm8vdvfeIZzxnMX/x5J9wFGjN67lXRz9G7b92f80Rrrpb0aapWTr5QLeGw+vfwIstuY+kOLOC4m0/AAvdHqZQTLY3coOTa+y5fEiHnRrsrUe0IjBGlpC1Hfm5bSZMuFhRE/eDXFZ0x3xOVXvg1WONMMIUrZXCqTT2YM6QYtCen89urNxa3ugAozdT2+IxGsuyXA9PVywaigDqCuH5+1LhCrUjeo2KuQPtTR22zK4=;ZOq7csZOKGQ7JB2autoqCA=="
 ---

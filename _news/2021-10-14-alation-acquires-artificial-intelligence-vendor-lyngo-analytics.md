@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
-excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the"
-publishedDateTime: 2021-10-14T13:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-20047079.html"
-webUrl: "https://www.lelezard.com/en/news-20047079.html"
+excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
+publishedDateTime: 2021-10-14T13:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "AI-powered customer service analytics platform SupportLogic nabs $50M"
@@ -69,6 +62,6 @@ related:
       domain: ciol.com
     quality: 37
 
-secured: "LGlXw+Nz07UzSFc+E3CdfXR9wstSVOnHzTQOYvp8v/NVwk/Zfp7+0NkZjYhmO0pXGldVPne0YD//B5UO5WijJz+wBMKHYiyjwXkiXtlg7CJhCWGyXAo19m8sBUz0qeERGsSnt4q8Lv05UJPdIfdu21MLg/sHfxhRYcrd9GnhZ1IIpqxM/Gjmn6d/KaLoLhDkVCTRr3ppb8mW653WMuINrILRQutJDd547IwN9iVg6DqxU/FpNck6CVv+11cpCARZJqKHV7Nh6zq0sF66QbVT9hqDBOn/Gzc69qnK1AeQNy1jrN+wa/pe0yavk60V5tQ35kS5Cc6fJf6RwiiXwvzkVAiJwsbShKmAjkFSaZ4Qg+o=;m/rni8sVulRPHD/koofiGA=="
+secured: "2wSaIvfeSoRDGvSZhDoyxxZ4zJtSwj8XNqtEWMdNKk3Q5+19xC/phQ94ehGf+NnI+7Xwdgfftt1CzAOy1ADRCWzs4VY/Oxo0+6e2tGDM0mQyRGTh92QeDIImc/vjtXfXACQZIGz73exPduwKTkvxbOVzlpG2hjSoSiYvugVuvgCnt0ARbNzPDGOFbb9JTspB1PaxGpwBfzEk2h7+CHLahoGpZfuLaWNk8l0Qe6oPnZf8/OkiIiKdv5aLb56OCf9vi5+AEKE4cKoHJnt8CHYZ7QJoHAfJVcl1YmyiXh8av/IpP7oAfI3bjPfqUD1o3mbuonDwCzfKgNK4pL7XofihFbrPtZ+JPBmta4+rW8tqXvI=;sdexz9xsclqMbr15ST7g0w=="
 ---
 

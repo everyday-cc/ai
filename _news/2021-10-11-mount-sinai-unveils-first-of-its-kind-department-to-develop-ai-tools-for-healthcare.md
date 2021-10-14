@@ -28,9 +28,9 @@ related:
   - title: "Google AI department sued for using the health data of 1.6 million NHS patients"
     excerpt: "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,"
     publishedDateTime: 2021-10-14T11:45:00Z
-    webUrl: "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-    ampWebUrl: "https://www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    webUrl: "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
     type: article
     provider:
       name: PC Gamer

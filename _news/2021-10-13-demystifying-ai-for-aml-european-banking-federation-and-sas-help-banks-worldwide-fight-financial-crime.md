@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "EBF and SAS join forces to fight financial crime"
+    excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP."
+    publishedDateTime: 2021-10-14T14:38:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89770/ebf-and-sas-join-forces-to-fight-financial-crime"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "6NrodOhwAQVT6eFWBL9Mq4kmRw4sQ0+Q8k5rWzJXaBFNALu3xD3AAXt+QmJbcFLGD+PaAjrDrAxhzBhhcyan9WcAmuKAqO66u1NUEtbskbyJlqd38yn4n1k7KIL97o9hrfGJt5beY/6hg5k+dzRowLnWTCpFXKlIv7LT9q2qtl1nL8dM5cYbMUNBf898BB5G/qxCz1q4eTGjj0BQcEXY/jk379JxjMlyP3VOt7EJNZlEzoSVUnt3+9IMQ9gwfBwdIC+4HnQ0+RaXMl5cYPzUUwMSO2QSOoXb02BTsBK+jfzM6UqXIwnp+uNCsMUlDUeCBLFbCaqi1iuDXqaINvJnHePAp6bq9iYmKzkltIaIEUn6QtsbuUpU7lxuDH+o4TDHZ0RzIIuFe4afG/qY0lzpSOYOjWIt468oURWyF0rZpz4fhusJBD4B6+nc47E7w3DnBMWRB75kqLN2Nbb0DKb9HTXzEgK7O9EjImYY4gazneiLcKTLp1U4uDD4xRXM+Y0bBv+0MU8GaT+/MOKJ+PcizA==;y7x3xWcx91FbUz7Q6ZHuBg=="
 ---
 

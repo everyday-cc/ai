@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning"
-    excerpt: "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications."
-    publishedDateTime: 2021-10-12T10:00:00Z
-    webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
+  - title: "Operationalize AI and Machine Learning Through RPA"
+    excerpt: "For too many organizations, the intertwined technologies of artificial intelligence (AI) and machine learning (ML) have been long on promise but short on delivery. Increasingly, however, the fault lies not in these advanced technologies themselves,"
+    publishedDateTime: 2021-10-12T14:53:00Z
+    webUrl: "https://www.cio.com/article/3636341/operationalize-ai-and-machine-learning-through-rpa.html"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 57
+      name: CIO
+      domain: cio.com
+    quality: 56
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
-        width: 800
-        height: 446
-        isCached: true
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://images.idgesg.net/images/article/2021/10/istock-1295900106-100906586-large.jpg?auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BGlIcu1gEJ+x8uhNq95VKnqA9UHMay70EfbwA1OaCYmKTE5uIpsyf1LGnyJ0PlQKaweSo5RvuW+ReH0CkyJvXg4qgzXhFllRJmENa5+0Ns685k7oARQ+35dbjnpBn/f42qxOQytw/NlrkJxh6o2TTryM5TJ+wjjDvP4uZBunLdwic/SnkWlZKo/HC7Zb4obk5ZI2XBp2O5XxyfzUOlsJPlGZhSDkvup6NfpArA+HMMUKlsaSZTU6NM4P12KVCr0388RZmky3bTS6kd5IlRrlpFrag0ZT2NkrOYyPrmfgZZFUQP+pP4V199aCR3jr+dof7MpQiqLPxb8AwaYU0nHi8BoogewP+0mT3f1p4+lF7UcKIX6zhjm1Vdi31CeE0tD0Sd2btzbKaWfsZ42g67MBFeb6z7NpbaAYBKLW7KQsR4eR39Rpcwtb66k7brPVEObY65WYEiubHSvI0xGm0I0gBNwyJtMLgN4+zuK336EJ8FV8rZGgnsW9eCMqwdejgq+j+CUWb7O9X5xcRy5tC60vkw==;1pTmuONmk+k+0vBudPgt2Q=="

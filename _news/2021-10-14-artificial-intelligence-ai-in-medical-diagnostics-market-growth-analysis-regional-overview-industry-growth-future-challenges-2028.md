@@ -21,32 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Global Deep Learning Market Analysis Report, Share, Trends, Overview 2021-2027"
-    excerpt: "The global deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition. As the amount of data generated in various end-use industries continues to grow at an alarming rate, the ..."
-    publishedDateTime: 2021-10-13T11:40:00Z
-    webUrl: "https://www.openpr.com/news/2427652/global-deep-learning-market-analysis-report-share-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427652/global-deep-learning-market-analysis-report-share-trends"
+  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
+    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
+    publishedDateTime: 2021-10-14T14:36:00Z
+    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 35
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
         isCached: true
 
 secured: "QxBsNtggX4MtQS3hWcklhCs0tLrfgyw0kWTnsB7DDqoDIcca2VtvVCIwx72iJkMBIjmfTouY9EZDTFv19vVSn3ftRWnKnhRBqBLkq0+o0bgzGU7TWYZ6uzf70vE4vwRjlOslu4cBaSu6gJWWw81u1eguBLO568GKTcC2Hod5eWmlpPEfINh1cZ+QiU+/ZV6vjDel+fZhPsRM/Nxp3HPMO13BBvstDNEXshE96VRFqpFgDwz7RN4ipg83ry7M2GOcpwC/CYshQJK72UIshis9m3l6O3Ma/ej/bQlzLCEug197Q6thLRf8IK+3dWFCRbxfyIXbtDCvD9pMo4oUB4isnKrsDyn/yJsRm+oYp4YnyP8=;UH0bE5EuFIe6sVuW5b5j8g=="

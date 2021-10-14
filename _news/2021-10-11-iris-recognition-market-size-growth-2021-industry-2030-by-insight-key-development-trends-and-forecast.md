@@ -25,38 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
-    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
-    publishedDateTime: 2021-10-11T07:42:00Z
-    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
+    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
+    publishedDateTime: 2021-10-14T14:36:00Z
+    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 41
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
-        width: 657
+      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
+        width: 800
         height: 400
         isCached: true
-  - title: "Mobile Speech Recognition Software Market Research 2021-2027 Demand, Market Share, Statement, Business Summary"
-    excerpt: "The constantly evolving landscape of the world economy along with emergence of new and promising technologies pertaining to manufacturing product development and design and packaging has created ample opportunities for the stakeholders in Global Mobile Speech Recognition Software Market Participants"
-    publishedDateTime: 2021-10-11T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2424632/mobile-speech-recognition-software-market"
-    ampWebUrl: "https://www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424632/mobile-speech-recognition-software-market"
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
+    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
+    publishedDateTime: 2021-10-14T06:13:00Z
+    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua11553029_g.jpg"
-        width: 626
-        height: 333
-        isCached: true
+    quality: 22
 
 secured: "hkcjgasyMyDLL8d/prqkwWVHstvNotGpgwwKG9jIc2mJEEHbSILQWsIVDG2/wjbC+CWnvBerVjL6+9iumCOnO0mV4wwgnc+MXy0WB2rCI2UP02peifsIUV9P3zonopCPjGWSvowqWsQ+iIp04lpKKJ2fNu7N1IoT/5AyRwcNn4HEpAiIL+mknIHO1X2rLHdloR5CJdgApxWZJjX2PHa/4CAFoeMPMJ5hvYAroJ+ZpcHV/F3OYpJec3NV7VaV79aUNbM0cEeYvNQ6BffE49FrEIAsQzG2ky2MwLnsmqOJeEv8RMidQQBc1kufzIEDGihFqdkvJIHzbxgKiE5DfNKyN4APkcwcouYfYAtl9gdI4kVfT8UYQ9k/GupfXbbU1RVG5BCUclhiEi2EUG36yk/zlb2Xr5b9dmL4sgzv1526/8ctlTjJDdE9tT9ghqsxD//tTdwVC7oNsc67YqP5qc6DyQfDIX0gvhU5i8yvnXckSsRKiJPjVwkTWqaZcM4JicI3BuNVRNKbSpi80sfktuwytQ==;EiZPd9+9GmeDaNCMIYdVgw=="
 ---

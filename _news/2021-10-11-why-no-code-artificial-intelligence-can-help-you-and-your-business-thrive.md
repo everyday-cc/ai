@@ -39,15 +39,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "IAG-backed research reveals need for investment in Responsible AI"
-    excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
-    publishedDateTime: 2021-10-14T03:15:00Z
-    webUrl: "https://www.publicnow.com/view/7B3EA7A84BDCFC07700902FE98DC0DD6C154C57E"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "AApjkhxs98xjXE7fuTyc3yC1FXrHtb5K29cRZdL/85cEXKNTYc2e/CFrcXDNiC3ck+TIm3/yjL4H8EL3gcfJywZ232iq18JkxFEnguyJ0J4cDestV/i/D3FwTk8PS+rNzro7h6kGQmJCSPUWYitMZs9SF8RVx74UMiYg4DvPi5WWRJk8DaxOmHhsrMC6JfZWlMxCZYZ9DARwAVhh+BrtxwV9zMBHKfa4DtdFe1q798LScMhsharvSFLKQae3LJC1aJx88jEYNI0xPCYNwwn0IaYj3LJHJmhWAJZMpeCLw8nVbbf8pYh+N0nwnWf8tGBAHFQ0tQ8op9u9CtzQewkAIJGAmIwDK+7oLQ4CgjAPYDQ=;xzQIbVCV28R2z1mZS4f8Lw=="
 ---

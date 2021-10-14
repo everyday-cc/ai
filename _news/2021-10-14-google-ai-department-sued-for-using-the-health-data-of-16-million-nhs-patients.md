@@ -3,10 +3,10 @@ category: news
 title: "Google AI department sued for using the health data of 1.6 million NHS patients"
 excerpt: "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,"
 publishedDateTime: 2021-10-14T11:45:00Z
-originalUrl: "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-webUrl: "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+originalUrl: "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+webUrl: "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
 type: article
 quality: 55
 heat: 75
@@ -56,6 +56,6 @@ related:
         height: 545
         isCached: true
 
-secured: "d0rQYW3GTQ6sj7DMp/2SVrUHq01Ow8spD3Fe9nvpip5fL/mppqP8EJiDguLlKSz0iDi5QH8fT3UKVlVD6HM1UqsJYIN7wG7tXP5A1QArmJ8/2mHOMbDexu+hPhUe6KtSCMYpG5M5/B5Ccp6PZysfrS3GeeR+ttlqp+rnK0llF45XZH6BvBLwV3quAcsbUhU5KOFb1DpWU9ObnKibsLd7UqKq220FewFtRLSTI72Py9k7bQHepgE13Oqgor2hGE8WLXBiDY41+xmIi4owAnzwcqdJ4gDyWa1X9FyZQ5EmVOfEuukd1GvdT6evya9ClzYvE02GZ9srILeRez8IF1FA4T9Ja4dltA5U84EffVP5+Ps=;26KDCbG0jBmHVdB5tAsx8g=="
+secured: "g1OfYDZ1XVxj5D+tjbHKujgBv/ekoG96Yi6H1V/7E9BnKh5N26Ug0MD9db9RVS7Nt6dezMviPRwwWU/yA0bGWYF9qwMQoblA8a/bwbE/mfDDBUJMu4jT5eyoYPsdRw9kBLjScd3IOK2kNcbRqm3H0xzFaQHn1rE2nEAIUNHwsJlid9HI44LAMIr3Onh9NYnJl/xvrbKS0Yr1ZNwkYRF4XlBixpJwEeplGvRA1EbVxDs/9DialTlFLXryDrkNf7D237uKxXVNh4ZesBBPsKgNtccpGA6DM/piaTBDEcDwz5RADXYXXDksMcEdedeitizjOz53xoIjNfj0V8VmJ54n+IQ+EyTZr1cLnACldN7E0Y4=;29GWDVWBUBOM57f8Ml7MMw=="
 ---
 

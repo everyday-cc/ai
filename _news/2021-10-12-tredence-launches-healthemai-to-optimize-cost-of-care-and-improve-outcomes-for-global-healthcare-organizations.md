@@ -76,13 +76,13 @@ related:
         height: 312
         isCached: true
   - title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that uses real-time provider, practice, and industry data to optimize providers’ days."
-    publishedDateTime: 2021-10-14T07:01:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20211014005324/allscripts-launches-guided-scheduling-leveraging-artificial-intelligence-to-improve-patient-care-and-increase-healthcare-operational-efficiencies"
+    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
+    publishedDateTime: 2021-10-14T12:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "iknCUS/BJqk9oNP7TSvCoYrHi7ITbK46o5iuQJK/5ZRJXtmTo7BtiBgQx7X+0xPs0cN/Gy0AZHxhvmA9q++OP6nifKt+CvxocwBDjICs4LPFnfmE14Pl3JXnNbaDWBCsHS9+jtsoX9ReUhxrvr8YNp9dyeGUI8PfrAWM6WD/g0RyfPVlEooO28Ltl9sN4hsi4YtfeIuAbrBSGvY5z0OfBgNS8AEWNQtcz8viP39bKOtBLi+V4OhybDpMcIyUZpx/jVMxCu5IGSIBdppPre6VGWiJJkn/h8+9kKMYJT+zxhU6SpOxUonNpclVWZoORW7GgGpwnAwuRR7RVJzmtHohF7XLFcPabcoVFdKbMyGK8hG0KEluGjEjnY9xnC4D8MhNUg0FYq40PAwnRnTrIpIBx6zlIrkJDgL11rBJm9oKAjm72zCXuvMR1tQqbQWTXTw6VYXiUj2clotTDL+jRvTPUx/Nj/4f2S/q/Di7ySFgSnAdpEXdik1JUVvqPbR3XaCdrB8VLP69kTE2H5MYVEP6LQ==;7PoHjbX8pl0VcVMqXb3E7Q=="

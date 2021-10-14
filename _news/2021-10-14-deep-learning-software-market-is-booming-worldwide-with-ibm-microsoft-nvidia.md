@@ -90,6 +90,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 84
+  - title: "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models"
+    excerpt: "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test."
+    publishedDateTime: 2021-10-14T08:00:08Z
+    webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3"
     excerpt: "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger."
     publishedDateTime: 2021-10-13T16:19:00Z
@@ -150,6 +159,17 @@ related:
         width: 1040
         height: 585
         isCached: true
+  - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
+    excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
+    publishedDateTime: 2021-10-14T14:51:00Z
+    webUrl: "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    ampWebUrl: "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
   - title: "Microsoft Translator now works with over 100 languages and dialects"
     excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."
     publishedDateTime: 2021-10-11T18:07:00Z

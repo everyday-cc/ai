@@ -26,21 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is changing the narrative in forex and crypto trading"
-    excerpt: "Artificial intelligence is to trading what fire was to the cavemen.” That’s how one industry player described the impact of"
-    publishedDateTime: 2021-10-13T08:44:00Z
-    webUrl: "https://nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
-    ampWebUrl: "https://nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp=1"
-    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp=1"
+  - title: "How AI is Being Used in Education"
+    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
+    publishedDateTime: 2021-10-11T05:46:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
     type: article
     provider:
-      name: Nairametrics
-      domain: nairametrics.com
+      name: Datamation
+      domain: datamation.com
     quality: 54
     images:
-      - url: "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/08/08105236/AI.jpeg"
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
+    excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
+    publishedDateTime: 2021-10-14T14:14:00Z
+    webUrl: "https://defensesystems.com/articles/2021/10/14/ausa-ai-data-training-solsbury.aspx"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 51
+    images:
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "Executives show bias, question AI-based decisions"
+    excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."
+    publishedDateTime: 2021-10-14T04:43:00Z
+    webUrl: "https://www.ciodive.com/news/executive-bias-AI-decisions/608188/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/c9/85/c985934d602a45efdfa85951634e9f62.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "How Artificial Intelligence Can Be Used In Medical Triage Centers During A Pandemic-Ridden Phase"
+    excerpt: "The involvement of AI in healthcare allows triage centers to use the limited medical resources available to save as many lives as possible during a widespread public health emergency like a pandemic."
+    publishedDateTime: 2021-10-14T13:51:00Z
+    webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-in-medical-triage-centers-during-a-pandemic-ridden-phase"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 26
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_Can_Be_Used_In_Medical_Triage_Centers_During_A_Pandemic-Ridden_Phase.jpeg"
         width: 1000
-        height: 555
+        height: 667
         isCached: true
 
 secured: "NLmm8Z3MJlZ8W3GpW/GYh1R7ifaWEsl2uMxqtlBZM8SfHEEeNAFk3GRz5Zgz74v+gYWZh/S5U5Mmr9trlQ0uQdJUsLFKy6X64C4602tXbC5LkuzHAdS9BgsDpx+aid6e06PvG07X9du6uSn0A+1/LGgLSjEhpHuRI+L9ra3JfPJWgtrJzxWTBwQtenMk0RrjpHlbuK8f7RnYVsmoKx3dgGoQsaQD8OSB3iBL7Gdt2Q20juT+et99N8jdUZrCAVVFd+k61ySJ647o2QyZblvBXftGU9miGpO7reyJ9oHiRTns7q0nFUStTaLSUiv9awi1VLSHdZoK4A+qW8lVjfxsPyUeB/o5YJ6xUS3Ke2VORQqkIQB1A/20He4T96qdqpgI/1k9ytyT0Xp9e2NDsh/X5srI9BQmaeIkZyV5jpVL3K7lerQN20bTJc2SW9KR5uiG95Xkt4V1kcDzAfRJrhVCFvnSzVdKO0EaevM3KRlwb9LX2pXUFCPQqgnL9huzWn2jXg+rRtMRfoA8RbMUkUfkCA==;xuypJ9ABP7oOR7NG3U1UEw=="

@@ -51,6 +51,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
+  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
+    publishedDateTime: 2021-10-14T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
 
 secured: "a9M99osgOAk0qIQeZFfogiepzzlzTwbZniSt6KS19nwv+2O3i+9oXzjWqHdZ2eaNV6GKql8v3wDoBfMyZwhLaphft9A1qtgWJSmHjC2R/93Rgb497Qx9HQED74AWPkqHVPcTS0mJykm7eC8f1DwOSeCUZVELO3GILTZ3PBO+UL1dATk7jQp/97HsyKYdZi5FyjeEggpCyiNeLs/OUSgg1v/vy713fd8vzgI5T2SBe/1qnzbEFg3MDqvJpGHPIQ4NKbj7HNbW5AU6+bgr/Kt/NW1DDwMkWwctvqwVdZqpZ3dGsWbvfGgRgebSNXbJTJ/0qVGDOHZAMyEs28toufj/NURvFa+YfBonVxGJLVzfu40=;lqCUwR31PEv0mQpGl2iEcg=="
 ---

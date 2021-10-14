@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
+      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
+      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 1228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
+      "publishedDateTime": "2021-10-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022.md",
+      "title": "1 Explosive Artificial Intelligence Stock Set to Grow Sales 359% by 2022",
+      "excerpt": "A combination of factors, including low interest rates and aggressive government spending, has put the stock market in a great position to move higher. It's a particularly good environment for technology stocks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "originalUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "publishedDateTime": "2021-10-13T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-why-ai-and-human-intelligence-must-work-together-in-medicine.md",
+      "title": "Why AI And Human Intelligence Must Work Together In Medicine",
+      "excerpt": "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165945d620e135d8e246734%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/",
+      "publishedDateTime": "2021-10-13T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement.md",
       "title": "Shareef O’Neal Lands New NIL Deal Using AI-Based Product Placement",
       "excerpt": "Influential, an influencer marketing company, has partnered with Mirriad, an AI-based digital advertising platform specializing in product placement, to launch the first-ever superimposed image and video capability on social media.",
@@ -299,6 +437,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
+      "title": "DeepMind is developing one algorithm to rule them all",
+      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "publishedDateTime": "2021-10-12T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1020,192 +1210,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-accenture-snaps-up-ai-and-analytics-firm-bridgei2i.md",
-      "title": "Accenture Snaps Up AI and Analytics Firm BRIDGEi2i",
-      "excerpt": "Accenture (ACN) inked a deal to acquire artificial intelligence (AI) and analytics firm BRIDGEi2i. The financial terms of the deal have been kept under",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/",
-      "originalUrl": "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smarteranalyst.com/wp-content/uploads/2021/06/ACN.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/",
-      "publishedDateTime": "2021-10-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence.md",
-      "title": "Five Ways Legal Teams Can Begin To Leverage Artificial Intelligence",
-      "excerpt": "While law firms would need to rethink their strategies to incorporate AI platforms into their culture in the coming years, the long-term potential for growth is a win.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61658dcbd8731e4b93246734%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-10-12T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-wendys-to-improve-data-driven-insights-with-google-cloud-partnership.md",
-      "title": "Wendy's to Improve Data-Driven Insights with Google Cloud Partnership",
-      "excerpt": "Wendy's and Google Cloud today announced a partnership to enhance the Wendy's restaurant experience and unlock new customer, restaurant, and employee experiences through data-driven insights. Wendy's intends to leverage Google Cloud's data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chainstoreage.com/wendys-enhance-mobile-drive-thru-ordering-ai",
-      "originalUrl": "https://www.qsrmagazine.com/news/wendys-improve-data-driven-insights-google-cloud-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.chainstoreage.com/styles/primary_articles_short/s3/2021-10/Wendys_drive_thru.jpg?itok=x4JZQFNo",
-          "width": 655,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m.md",
-      "title": "AI-powered customer service analytics platform SupportLogic nabs $50M",
-      "excerpt": "SupportLogic, a customer service analytics platform powered by AI, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
-      "publishedDateTime": "2021-10-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

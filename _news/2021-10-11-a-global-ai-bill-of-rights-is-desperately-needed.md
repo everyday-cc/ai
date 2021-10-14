@@ -3,8 +3,8 @@ category: news
 title: "A global AI bill of rights is desperately needed"
 excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
 publishedDateTime: 2021-10-11T16:35:00Z
-originalUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366?sharetype=blocked"
-webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366?sharetype=blocked"
+originalUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
+webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
 ampWebUrl: "https://amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
 type: article
@@ -55,6 +55,6 @@ related:
         height: 1708
         isCached: true
 
-secured: "swyYMw8GfoX6BKn8LUPXAtZ4LpzUBqd6yt3twY4VdD0OyGwHfcgaY5hrFgAmC0BC3RsIiSgd1U5+YFQTVj9b5Fdp5FOVqcezbKs45ART3Rd5ddfFGpS/5UYJxkehKreWubrvNkrvrJI2bxynsSyCamhXLp+N3GNPZVg5zVns04bHkxoHEovH+QBA+Aib7aHTlgtMYkPOhmH05jwKCoTfAckmtEITtXsAd8gx8qouxm7F7UjvhLHB/wTs6dOYGU1suMK0gDwX8OnIa4MgmsC4s89actChDMMV0sfyADIU+0DeS8fwUrbmo1AjX/mzxaqhNQlKHf9HOWRbtO5uI4LHSa5yG8x2WaD4Gvi6QOcOwsBwZL1U6u5A/8ZMMB/DZiaUx2xyzE3MZRIRUfT5jdmBwRMifnHwOghJ/bZsQigqchbOb5q1gCEKwO4HXAr5AEq2VlfCoioTXGt3+e3lyaxsDQ7+W/VQm1HnpI2KYs1fYQIFxWLqM+Zrf6xz+m0gqmyqi58qSUkq/4aFKTvwGBDTnQ==;gL+yR7GehF5y4/zj/TumVQ=="
+secured: "/aG3nedgjowd0rWhperVFuKRK/SmGBiE041hhybOVVDJ/AHIECjk496jbpB89L26lL1Bh+GEKI1TsSdwo7buT4S/lV2wKII0cVZzbnpUJwa+ysXVv8erzI641R6SceeRmSDyD5V9I8BY7Fz6SDQqSAfUjbJ836T6ndWChCUyT4SDJfFy2juSrz9jWInRY7/4qCwEorYa/2LfVsLKsjK1BHRitCRfWoa45WKFB41TPkkEF+Nt81k7dUChTwFRVrE7aMri7Fsskb3pYPY8Jo/QL5biJxc61/6OuokbmqUSPMNXmJa0Jao7tthvA/2KWU9tMWzozDQ9rJHDXhDmHV5Mmp6T8fm4xA2Hd+ApR7ORywQ=;pObgbChYGNrjXHL/xUQxFA=="
 ---
 

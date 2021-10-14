@@ -7,8 +7,8 @@ originalUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intell
 webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: EURACTIV
@@ -27,34 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+  - title: "Building better startups with responsible AI"
+    excerpt: "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ..."
+    publishedDateTime: 2021-10-14T15:57:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "Addressing Bias in AI"
+    excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
+    publishedDateTime: 2021-10-11T08:48:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/bias-in-ai/"
     type: article
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 54
+    quality: 39
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
+        width: 1024
+        height: 393
         isCached: true
-  - title: "Driving AI innovation through a National Research Cloud"
-    excerpt: "The NRC will provide affordable access to high-end computational resources, large-scale government datasets in a secure cloud environment and a close partnership between academia, government and industry."
-    publishedDateTime: 2021-10-12T16:32:00Z
-    webUrl: "https://gcn.com/articles/2021/10/12/national-research-cloud.aspx"
+  - title: "IAG-backed research reveals need for investment in Responsible AI"
+    excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
+    publishedDateTime: 2021-10-14T03:15:00Z
+    webUrl: "https://www.publicnow.com/view/7B3EA7A84BDCFC07700902FE98DC0DD6C154C57E"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
-        width: 760
-        height: 368
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "RecWPvrMCXpg35gvzxBju8be20qsrK5QFqCGrQ+jSYquQHoUOLIt+lXXua2xxOe9D0wbLe3IlgVQzPfRsxbKyedUFeJEEJjzZg/J7SQ5Cy9h8ZUus1GLU6hPkOD91C0riWyb1DabQt0rh2ck+cEEaq8198kJq1egSEEHjYiXJ7bu5ik6Wc/B9psq1Mz2Iybo99UyCIWcQZMsUrSRDW9bpi3wVi6fzAyNv92V668et2omvuGBsxZjtQNiBYFDE4nqlzf4DH6u0vLmJSvauentNo8aeGMmeJpIMOtvZrlsLSiFLQLU3JXRzzYDWAxcnSf8j0DDrvHTheZQHu2suMGWmvqGA41kCZpIhYIkCkcg+YO+ji/GJgN5xF013FKLPFlEceoMT0f6UyZ1yx41BP6stTAN0LLD0+UwCB4+ETadGfBzhOrAxB3P1G0Ykv+40GuYz2KRylBOeNdQERZdE3o/62Kr5wA2/bn+htD4gjTHhH2Y6nMI5VrMwy3GodIcdiLI0CImt1ggc2ZhAoJOeoLsPw==;yf6YxytfRmA2FQexjQipgw=="
 ---

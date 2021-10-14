@@ -53,19 +53,14 @@ related:
         height: 598
         isCached: true
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the"
-    publishedDateTime: 2021-10-14T13:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-20047079.html"
+    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
+    publishedDateTime: 2021-10-14T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "VeQBlfO8fhivlqjnJxHarmWH7Y53MJ9KrWDXEvjarBbRN/WrYZqAIBB/Qw++64G/YzWt90TIq+iVjw2Ii8Ec7BI4sp0eAfkDJUiAmWjuz6GNS6LeN7avaP++oEP0blxKsE7rH00quMA9FtU6iXrSkfMobEg7U1ObkrKTxtgQZjXHUpgGDa4UuKQzL2wcahG9FcpUAieoQ5wkjBMpyh84edvg1TPr//DRRVV1slWbBO6o2qSoaVtxuZzMylxqiB9XIN368l2yvQ/Hy2sSQ2aTnoWROmd3smBWrKdUcrgPj+mulAwyzTSlL6YOgeFW7bDe6xmqqJ/gWWFi7v88PneMgYoj/05/QiQBW+VQPoXuptQ/iEK4r6VI0b5Aw/Jpkvb9ySvBQxJLQg6iuQOJHtqwgMgV+0HYkOU/1YcWy0yvPpbD9iYz+/M6EoHeoCJ1ASUUGnlZLkmfxcH7m7mZk3j/zq5mO3rauNDHUvEvpiKgiEAgrbAE+Gvgo9NMQ3GTmIOEAGyzvxfY4C3phwqkR4FJug==;S1IIXE8x+9/WSKRuF8rCtA=="
 ---
