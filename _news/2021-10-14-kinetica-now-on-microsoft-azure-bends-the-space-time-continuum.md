@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
-excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and"
-publishedDateTime: 2021-10-14T16:22:00Z
-originalUrl: "https://www.lelezard.com/en/news-20047675.html"
-webUrl: "https://www.lelezard.com/en/news-20047675.html"
+excerpt: "First Fully Vectorized Database Optimized for Geospatial and Time-Series Applications, Now Available as-a-Service in the Public Cloud, Starting with Microsoft AzureARLINGTON, Va.--(BUSINESS WIRE)--Kinetica,"
+publishedDateTime: 2021-10-14T16:13:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=547277"
+webUrl: "https://us.acrofan.com/detail.php?number=547277"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "K25qzY0WqzV2ldeBq/Wp5y2QY8dJypfTK/uT//8F4klnI8PnrlJFz0MKA5hvXhndjMXhSRjoD4TvAzb7oVMUMoLuWKrwmAmgaxnElE1TEzLBfMZhb55zKuUQqFa7OWPV8Ga6a4EXRVZsz7UdU/zWMtf0MtgiO4Db7axaj++j+lY3BgBwbK4DB+8JsGcVBO7xhqaqGl6OMAR25930HBeY9A2Xq/SNPc3VHLSdgI2d2lzYyY3RtykV3VRGpkaGKw7JNSyrROG2q1Pe219Z5ZxcLMlfuKPMiW8mVgStm1cqZ9lhhtsoawnw9ovlpxSCOka5DM5mE9mGt9cXAVPxWPSvvmnLH0F7wHO6zx/baYrVe1M=;PbRWTl4wN5A6+TI04QNWZQ=="
+secured: "0uLkLjww6WXv/MS8PBO74StEQJoTOylj7dRKKAPIWCE2fvBqwfCf6EsEQ3XGMwa9ku0bPoAIUoAR43/DEAVzCRpYMMGaOeBMYRIrN0A1vLHYhEVtL91xDMWdHb3X8zWloN6ILyEb0EkywwDdosSN5NfAyQjjoEXlA+ZymUVaTkxG9wRdN74gobJ96un25E70uqXco+mpjXCmw6XZTnelu+ywHBJ9B3Sx/Ig2U0dumg22vzCjTOqEeeh1A+3LarTdTGgVvQfgHAsF0qbPd6PFAFmBUI77BZJH51k93GnccvbJZGQkKQoTrK80A/32nA/ljBxxi9O5Yra0163Yp4Qm26Sxl9HXEtPBxAJN2dzrK+c=;/yK5WEUCOmJq3F1CmtoZyQ=="
 ---
 

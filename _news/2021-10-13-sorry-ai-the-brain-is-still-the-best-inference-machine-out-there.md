@@ -76,6 +76,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial intelligence and the human-machine interface (podcast)"
+    excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"
+    publishedDateTime: 2021-10-14T19:04:00Z
+    webUrl: "https://www.shephardmedia.com/news/digital-battlespace/artificial-intelligence-and-the-human-machine-inte/"
+    type: article
+    provider:
+      name: Shephard Media
+      domain: shephardmedia.com
+    quality: 37
+    images:
+      - url: "https://www.shephardmedia.com/media/cache/images/images/article/Systel_creative_800x533_vQDZCZe/177b34cd3bded933a2bbe54a85ae3c53.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Embracing AI in the World of Auto Insurance"
     excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
     publishedDateTime: 2021-10-10T13:00:00Z

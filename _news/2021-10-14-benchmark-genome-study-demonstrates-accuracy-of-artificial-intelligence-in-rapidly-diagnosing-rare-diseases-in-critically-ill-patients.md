@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
-excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"
-publishedDateTime: 2021-10-14T12:36:00Z
-originalUrl: "https://www.lelezard.com/en/news-20046508.html"
-webUrl: "https://www.lelezard.com/en/news-20046508.html"
+excerpt: "Fabric Genomics & Rady Children's Institute for Genomic Medicine study says artificial intelligence enables rapid diagnosis of critically ill newborns"
+publishedDateTime: 2021-10-14T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211014005391/en/Benchmark-Genome-Study-Demonstrates-Accuracy-of-Artificial-Intelligence-in-Rapidly-Diagnosing-Rare-Diseases-in-Critically-Ill-Patients"
+webUrl: "https://www.businesswire.com/news/home/20211014005391/en/Benchmark-Genome-Study-Demonstrates-Accuracy-of-Artificial-Intelligence-in-Rapidly-Diagnosing-Rare-Diseases-in-Critically-Ill-Patients"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
@@ -41,6 +34,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "AI, telehealth, and sensor-based technologies facilitate autism diagnosis"
+    excerpt: "New technology-based tools can help pediatricians to make an accurate diagnosis of autism spectrum disorder. Although pediatricians screen for autism spectrum disorder (ASD) in children aged 18 to 24 months during routine health maintenance exams,"
+    publishedDateTime: 2021-10-14T12:38:00Z
+    webUrl: "https://www.contemporarypediatrics.com/view/ai-telehealth-and-sensor-based-technologies-facilitate-autism-diagnosis"
+    type: article
+    provider:
+      name: contemporarypediatrics
+      domain: contemporarypediatrics.com
+    quality: 38
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/contpeds/f87f95148dc3b5df11d328937ad08de99b702758-1200x800.jpg?fit=crop&auto=format"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
     excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding, published in Genomic Medicine, foreshadows the next phase of medicine,"
     publishedDateTime: 2021-10-13T00:00:00Z
@@ -56,6 +63,6 @@ related:
         height: 467
         isCached: true
 
-secured: "meYtYtStMYAfcpNKDkyalM5YnibOxi8JeFEl4LSn0TZ7WjKqAe8bJTjmOR4yeOpyqbHKIfOT4h/CechyRbemdTiLoUKylWHz/DO8q6pvChAEj6+87aZf1wXdBxm6WcEjLSnU7aqG0R9rN9iw6nPMfRWTVmnDL8O5Jfw2e/Heew6GfAE25eLz6KvpqEoKV5y/uagfjoRcjlFfjarl/KjETSyJR/ZSmkHP+0L3wSgTwQ/nC0u3hfLAa9VnV6IHTyC1xAyqRswKpxUDftk2a6nfFLSdRhzgxjG4aNWvgS3h52/NNVxlXxcvZIwWERgTek68sC35+LkwfVyTZ6TuloJqoaP9hE785cy+1qXzlhkDyQU=;KvzZWyrXSqULQ2kTFFksyg=="
+secured: "rqK6fUhOuJsWOcVqRTaexKLmehyYiu0im4DO2EctLtVs14oSexF2MvZ8e8EaKbTR/MjS4rz6qv4m4epxWt/H+CKi1PLegn/bNaWKJJpVKtK5tPihCmwwMoF1zO3aY8R1sD5eRkwIr9C3EnbwRhbe+WeTQ2l8B0spx5/cxGdxw1/SqIFYl8owvV5Z8qKLz15F2X91BlUyscxt4QhG1qNqa3Cgnlu/fC80cdEPtGlLTT4bEsQ26LwXmpmOFr/NRWvbeuxsiexm2Hb5q+Kejp66pISUUJM1YYSU2dM2WCpdFsc0pTRKJV0dyN+NB7Q5pBMJFc6l0Myw7yiQRSJpgtcpF5/Nw7Mf2fUYJfFzMRh0dBs=;wDWBEpd2iX82IU8LX6NjKg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being
 webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
         width: 760
         height: 368
-        isCached: true
-  - title: "How AI is helping the natural sciences"
-    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
-    publishedDateTime: 2021-10-13T13:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Executives show bias, question AI-based decisions"
     excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."

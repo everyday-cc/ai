@@ -91,6 +91,36 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Facebook is working on AI tech that will monitor your every move"
+    excerpt: "In order to teach AI to see the world like humans, Facebook is working on software to track people's lived experience in the world."
+    publishedDateTime: 2021-10-14T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-tech-that-watches-your-every-move-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/56cb396bdd089505668b45eb?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "Facebook helps AI take a first-person view of life"
+    excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
+    publishedDateTime: 2021-10-14T17:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13FE0/production/_121088818_searching2gettyimages-78718769.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook’s moment of no return"
     excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
     publishedDateTime: 2021-10-12T17:07:00Z
@@ -166,6 +196,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "N9whCcq9/vXsjmY1ExeUKaJwVLGb1xH8pra7Jt6608wUinFQZqvMzYUNiFMShTnpAkfpgLmntmB3dQZKPU9RssW4eqee6dKe19RSED98Xx5+8McRnZWmaC8l/jbgprm6KUhF/v02yuT4W/hu1a0xbYo1o3r2iC/ZALl9+fj0VMCW2F+Kxp8PGmtrGgCuxbhLmZnkfrNn2ZNj6rQITiZgMRXrAiWd815N8jeBTWL3Pk5z4brt7qGEVBdoxkRwhF2ZrCM8DzLN789g9z77MPjJ/7Mw/TUKle1Eu3+fpETUyal1Un42mYvLpq1VTuWg0YbZBz098BHrH7qmZBWGXGFFO/pS+zEt8NYYL78T1DZJE4g=;H1rk2RyE1ogwYvMZ2sbJbA=="
+secured: "NRbIepftTo29Fm64RAHnZ3u8A6CQSHQgWJUsFv2Plf4sVv5+Jy9Yc87wcBlGwhw+kJz4OT9dqU2uMLAida//+7vRNpC3DHd9RRvuGIwvEDpOnTMh010UwZqykrJ1nSNyZFeAf92L+uecKHVisfWjga6A6jxMtNLIGDuob3NNUtzeIEzRAvQhcE0Y2GQa3RyC2E91ok+2WarXG7NzuoCOMBxhBXkWr7HCSckIlau4Xxze71EVIXXh2NMpWXlNyOHfhUej4d1MtEWijaej4JRgZ47MY22pI0flFy3cv9x5Laooq0Lhx0Xtcpl3k5bNLXlBOvHQXpbRc7qRjXkf8LqEoKi9LYjf5+TbHMRgFSOUxfAF6LdTkwxgxBu2mhhRgvyURbLrxEVTULmbuzs1QXC4LvOEE/8yQ0WVz4haf4b73+2Lw4e6CuICJVUu7If+ih98nBBXxi3Gy9NRa+t5/d2JlAptL5U56MANPjg0SXyVqE0y+83Q27pX1sfgWw6w7A6TuDxyay73TxxQLzDo3Xo47w==;1+K/Kj2X1hiqgGymRrmfMg=="
 ---
 

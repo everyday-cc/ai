@@ -58,6 +58,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Mashreq NEO to become first digital bank in UAE to use facial recognition"
+    excerpt: "Mashreq NEO, the full-service digital bank from Mashreq Bank, has announced that it will enable residents to conveniently open a bank account using"
+    publishedDateTime: 2021-10-14T18:52:00Z
+    webUrl: "https://menafn.com/1102972273/Mashreq-NEO-to-become-first-digital-bank-in-UAE-to-use-facial-recognition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 55
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/14/KT_95381image_story.jpg"
+        width: 888
+        height: 592
+        isCached: true
 
 secured: "BXCxmG9GcuI5gizbUfUHgGi9RWgmzCaLwukTiUc5dBcmw9XufpWMJmOesKe75oGoy+bBa7hnEvtkIwDpp+c/rpqaMxsBhDlyOCafPnf0nuPr+Jdsxw8QgiHlv5JB/ItZxBJYs5BI1xHV5p/q6DLr6d2pJv9ycwcF0Mt2374yyUNWl136d1UiGojBGSAsh+qxfJvOT1l5FpEYkiazt/qG9ry5jnZXUnTboq9SX4WZ7jDEWsgCbW4M/yG853zvN6K6ydXGoLcdK9GVl/H7WyuSxEOvjxK5os3JWbdlVA/Bv1mRN4ePzlZlTISZVuYNR+uVzz0ekJarw/wlbZ6R9JbRNEGd2Vy1E2yubH23aig9Y2k=;qI7XJHDBAhyODDQUm3/Glw=="
 ---

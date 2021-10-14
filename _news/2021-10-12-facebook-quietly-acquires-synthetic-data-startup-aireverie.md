@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
 quality: 193
-heat: 283
+heat: 303
 published: true
 
 provider:
@@ -80,6 +80,36 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/facebook-ego4d.jpg?w=1024"
         width: 1024
         height: 652
+        isCached: true
+  - title: "Facebook is working on AI tech that will monitor your every move"
+    excerpt: "In order to teach AI to see the world like humans, Facebook is working on software to track people's lived experience in the world."
+    publishedDateTime: 2021-10-14T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-tech-that-watches-your-every-move-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/56cb396bdd089505668b45eb?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "Facebook helps AI take a first-person view of life"
+    excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
+    publishedDateTime: 2021-10-14T17:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13FE0/production/_121088818_searching2gettyimages-78718769.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
     excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."

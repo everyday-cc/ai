@@ -23,6 +23,17 @@ images:
     height: 357
     isCached: true
 
+related:
+  - title: "Expert.ai Named Winner in 2021 API Awards"
+    excerpt: "Expert.ai is excited to announce that the expert.ai Natural Language (NL) API has won a 2021 API Award in the Best API Debut category. The 2021 API Awards celebrate the incredible technical innovation,"
+    publishedDateTime: 2021-10-14T18:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469753.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "0YK/OE4/up4zm7uw742JfkzGt5FjK5SlxG6f1wgH/bxFvFfHRX3jBnds7WLY2gHzaEqx9yLFk003M1k3uSTKwfqmfyFjyBcY2/TVwRfI43RjUGQSMIYYCsWLDm3zVlaO3Ogk3Vsscz/eRw4xSI+tAjQXIuyKgbk/kB6pIxaZ0xjpqozicVxYDINDdkpxg1TIqnW1yHpNogrH+7NGIcLpemwz2yhhhC/EpfZHq5UgtFNyfTV9iYXHFRvTxPtDgBVyX2aPUf/6l1QXv2UTchPSS+A6JTCZN6QzCmMWiQJO8VrzZznP2BSEQ/0veuub2NMec798tJ7uhLMdjWuob+RcAQtsHP3wxIRnKsTmMqfMCNU=;Mb1aWE8GIzBzUwUD8ORy/w=="
 ---
 
