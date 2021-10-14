@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Singapore patrol robots stoke fears of surveillance state"
-excerpt: "It brings to mind a \"dystopian world of robots... I'm just a bit hesitant ... and Singaporeans have little control over what happens to the data collected. \"There are no privacy law constraints ..."
-publishedDateTime: 2021-10-06T08:02:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html"
-webUrl: "https://www.koreatimes.co.kr/www/world/2021/10/501_316577.html"
-ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
-cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=316577"
+title: "Singapore Patrol Robots Stoke Fears Of Surveillance State"
+excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+publishedDateTime: 2021-10-06T02:39:00Z
+originalUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
+webUrl: "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221"
 type: article
 
 provider:
-  name: koreatimes.co.kr
-  domain: koreatimes.co.kr
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202110/0fe80a9f59bd48d6a2f4efe4b5b2b5be.jpg"
-    width: 980
-    height: 653
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
-secured: "zV9lWlmBRX+GDEYJ1wGORLhUd+Y8SY+QJbizCOYThY6KG/Bz3TPEbpfkA40VOQWda0gj0P+WNFhUsSI2nlU0m2Uhdko7JYZRGSlPeludPgQdxEkunb1JDSnpTLn8qwmZGp7/vd/fmzmLkq5sOsgMejxHqO1yRu4gNE7Rv2eieyJGH8QfeeoS9b3A2FstlsSKBWGPlkhrNKtgF1YbIjY2eNTVkVDef6vz//5pYb/bxsT1crweCdcBkMsGK9WaNp7z5Azw/jQ++QdZz7l5sXuUQqRUlmoJGTzsSuVP9oBrah+HGfITMFnmBVnNYR+V+a9fyy/Zan7D1D8CQZMFHe7CuBVhU63q/xBpC72eDwPQjAA=;lB5HOclvM6hAI/5ZS5We/Q=="
+secured: "MmJFIkjFuM0MwL1rj7h8dTKHND8v/h7mYiy5AW4fcgydULK7T0H2IBRpnC+U+MMHYtPjxAysSYGMYS5ibhUJAuyXAftCQWQuvDkTa5EGZkjOkFfmJx3U8as6IXVn+yLDsDSZPlLDjNCPAwiwgYIL0JamWfQwTRMiM9wSfqyuH5RavdMdkcA89HlFr5dKO2VxGn+BI+sgJqb54z9eyQtC+OC2PRGtmUSy9qcWzMOmOMkCXbwFwxl1FOV4clZG80mwLd2X85ajLuLmawTAyhzHKfZA4I9eNYo5LCZ659tEkJtsKHv9d/B7EW0eCubOreRPyZTuHsrjIYji4JhDkOkPGFOTEoDMrQrfPTgmwmvi8ug=;b1vHpk5c8MZ3DWjdhkU6fA=="
 ---
 

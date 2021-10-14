@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finish
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How an AI finished Beethoven’s last symphony and what that means for the future of music"
+    excerpt: "Computer scientists have teamed up with historians, musicologists and composers to teach an artificial intelligence to compose like Beethoven."
+    publishedDateTime: 2021-10-14T03:00:00Z
+    webUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/"
+    ampWebUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 50
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/10/bi-210806-beethovens-unvollendete-crop-f789cac.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
         isCached: true
   - title: "Artificial Intelligence helps complete Beethoven Symphony"
     excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."

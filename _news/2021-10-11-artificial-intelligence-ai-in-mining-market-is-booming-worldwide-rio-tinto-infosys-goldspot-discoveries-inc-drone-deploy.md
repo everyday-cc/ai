@@ -31,17 +31,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
-  - title: "Wearable AI Market Size, Growth and Key Manufacturers – Fitbit Inc., Apple Inc., Sony, Google LLC, Samsung, Microsoft Corporation"
-    excerpt: "The Wearable AI Market is expected to surge at a steady CAGR in the coming years, states the latest Verified Market Research® report. The publication offers an insightful take on the historical data of the market and the milestones it has achieved."
-    publishedDateTime: 2021-10-09T10:28:00Z
-    webUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/"
-    ampWebUrl: "https://manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/wearable-ai-market-size-trends-and-growth/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 25
 
 secured: "DAUATCXG36QyBFR1Js4YIOkjOvdL4zcxw+Myh6vvAZp0qWg1IG9MllXPQQlUdJ6o+zSV6sJD9yOv3X30BIIzMgNPRBmUBnubsEnK5rzIhLGqjW58TRbMhoncIsVMq97U4oLD9WbAu1hUs0FYTKsY9hstYgkPxrSUyHBjeNqH5HJ5neemf2LadUn/OMK28zlllaRKnPMumKrVVooy5YpaYfudpnevGoRvOrq1DMQC+qpFQKVSz41WVbawBtyEDf80WCCvXVQZ2R+dNjES9WmpJ79Ijc76+7KkijKoxZaRx+taMNMfhMR90fXISnbHjtipBeKiabYgOekvgwW0UsDzTZT+UzjzfG03bh2JZ8paIs0=;5Zz8udHuP7JcX4rT5zYB6g=="
 ---

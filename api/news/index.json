@@ -54,7 +54,7 @@
       "originalUrl": "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -284,57 +284,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-despite-disappointing-earnings-ai-stock-is-still-a-long-term-buy.md",
-      "title": "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391046",
-      "originalUrl": "https://www.entrepreneur.com/article/391046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -581,6 +530,57 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-c3ai-is-a-solid-buy-opportunity-despite-the-rough-road-it-has-traveled.md",
+      "title": "C3.ai Is a Solid Buy Opportunity Despite the Rough Road It Has Traveled",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) stock came to market with a lot of hope on Wall Street. At",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-ai-stock-solid-buy-despite-rough-road-traveled-1030863528",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3-ai-ai-stock-solid-buy-despite-rough-road-traveled-1030863528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2021/10/ai.png",
+          "width": 1532,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai.md",
       "title": "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI",
       "excerpt": "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry.",
@@ -589,7 +589,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",

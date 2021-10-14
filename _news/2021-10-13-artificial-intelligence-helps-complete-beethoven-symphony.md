@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How an AI finished Beethoven’s last symphony and what that means for the future of music"
+    excerpt: "Computer scientists have teamed up with historians, musicologists and composers to teach an artificial intelligence to compose like Beethoven."
+    publishedDateTime: 2021-10-14T03:00:00Z
+    webUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/"
+    ampWebUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 50
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/10/bi-210806-beethovens-unvollendete-crop-f789cac.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
     excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."
     publishedDateTime: 2021-10-10T19:51:00Z

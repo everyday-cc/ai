@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/international/576150-taliban-says-us-will
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/576150-taliban-says-us-will-provide-aid-but-not-recognition-after-doha-talks?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "U.S. Sets First Face-To-Face Talks With Taliban Since Takeover"
-    excerpt: "U.S. officials will hold their first face-to-face talks with Taliban representatives since the U.S. withdrawal from Afghanistan and the hard-line Islamist group's takeover of the war-torn country in August."
-    publishedDateTime: 2021-10-09T09:07:00Z
-    webUrl: "https://gandhara.rferl.org/a/us-talks-taliban/31500794.html"
-    ampWebUrl: "https://gandhara.rferl.org/amp/us-talks-taliban/31500794.html"
-    cdnAmpWebUrl: "https://gandhara-rferl-org.cdn.ampproject.org/c/s/gandhara.rferl.org/amp/us-talks-taliban/31500794.html"
-    type: article
-    provider:
-      name: Radio Free Europe/Radio Liberty
-      domain: rferl.org
-    quality: 24
   - title: "Taliban Warns US Not To 'Destabilise' Regime In Face-to-face Talks"
     excerpt: "As mourners in northern Afghanistan buried their dead from an attack on a Shiite mosque that killed 62, a Taliban delegation told US officials in Doha that any weakening of their government could cause \"problems for the people\"."
     publishedDateTime: 2021-10-09T18:33:00Z
