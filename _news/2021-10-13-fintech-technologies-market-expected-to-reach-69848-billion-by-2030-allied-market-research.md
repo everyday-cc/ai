@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "With company executives coming from across the globe, FinTech & InsurTech Live offers a packed schedule of speakers from the banking sector and payment solutions to insurance technology and artificial intelligence."
-    publishedDateTime: 2021-10-11T12:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23316777/preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23316777"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23316777"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
     excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
     publishedDateTime: 2021-10-14T07:57:00Z
@@ -86,6 +70,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
         width: 1200
         height: 630
+        isCached: true
+  - title: "SAVVYY welcomes fintech expert as new director"
+    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
+    publishedDateTime: 2021-10-14T12:10:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "zht5Z2ZQWXdNpY4TGknYmoGVEFBryrWNnptfE8wr61h3l+BsjQfappUlFnzvnbBQh65M8RBg6vPy2iluS+VL+li/XcNHAbeqihqadH0e4+/m3oFq46qADNlkAi0giFXeTBY+UgBdbylPXoixIjSoyWsPz4ZIvqMCgoNxmY1ov+pmUDNhiBTe3QLlL3B/Bcv1eTNUA4gmK+qaVX/gxzudi1DS4PxfTQUuTij7RjZi+DhEfrO6sN8z5Ua3u7WTHYiRO1gAhemdiKbQG6vn/4vuS5DOZI47YP58FwZRBklOr5Fru1lBuKpkBa52EilIUD5qxuXB1+fWvbojcgf+qkZAhpOsn87fBUhILZlKZXO/ErI=;l6BH9qiv/9mWclSZkI+cOw=="

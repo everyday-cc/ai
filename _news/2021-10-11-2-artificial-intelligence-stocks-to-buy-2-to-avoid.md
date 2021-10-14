@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/390452"
 webUrl: "https://www.entrepreneur.com/article/390452"
 type: article
 quality: 69
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "11 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
-    excerpt: "In this article, we discuss the 11 best artificial intelligence and robotics stocks to buy according to hedge funds."
-    publishedDateTime: 2021-10-13T16:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989022/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 67
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/13070035/andy-kelly-0E_vhMVqL9g-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter."
     publishedDateTime: 2021-10-13T17:07:00Z
@@ -56,20 +42,6 @@ related:
       - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
         width: 675
         height: 380
-        isCached: true
-  - title: "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
-    excerpt: "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts"
-    publishedDateTime: 2021-10-13T16:26:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 63
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png"
-        width: 1240
-        height: 1280
         isCached: true
   - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) stock has been quite a disappointment for many investors."

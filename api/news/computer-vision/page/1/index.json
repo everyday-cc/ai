@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-the-evolution-of-computer-vision-and-its-impact-on-real-world-applications.md",
+      "title": "The Evolution Of Computer Vision And Its Impact On Real-World Applications",
+      "excerpt": "Present-day capabilities and applications are only scratching the surface of this technology's potential, which is nearly limitless.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166dee76a8d72827012fd29%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/",
+      "publishedDateTime": "2021-10-14T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-oaic-finds-against-7-eleven-over-facial-recognition-usage.md",
       "title": "OAIC finds against 7-Eleven over facial recognition usage",
       "excerpt": "OAIC: The convenience store group interfered with customers' privacy by collecting sensitive biometric information that was without necessity or reasonable consent. Between June 2020 and August 2021,",
@@ -1329,49 +1381,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
-      "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
-      "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "originalUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
         "images": null,
         "publishers": null,
         "authors": null

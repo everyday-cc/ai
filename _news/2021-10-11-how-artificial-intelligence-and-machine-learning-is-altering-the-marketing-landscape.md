@@ -1,18 +1,20 @@
 ---
 category: news
 title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
-publishedDateTime: 2021-10-11T15:47:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
-webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+publishedDateTime: 2021-10-11T14:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
 type: article
-quality: 66
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Autos
@@ -21,9 +23,9 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
-    width: 630
-    height: 420
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -133,6 +135,20 @@ related:
         width: 700
         height: 530
         isCached: true
+  - title: "Predicting and preventing production losses with AI"
+    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
+    publishedDateTime: 2021-10-14T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
     excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
     publishedDateTime: 2021-10-14T11:39:00Z
@@ -157,6 +173,6 @@ related:
       domain: c-span.org
     quality: 19
 
-secured: "3LfMsEqA5vvM21ZHTuono2jeTNZgMfPKHkq4I+To556qcYp5+ai+Elhmi74FcwHQmhssU4raEE6UEpGbymaruzRGZyMx7KVblueAtYC5afatnbX2L7JIBTZF1585Sf6Y949YTeGjWXoX6T4t+vo3xecRzTGJkx0xJ5C1rljS2UQqgqE4f3UGeWQVtWjXZCIbYuHaHHG1zZgZAmT4NvH4U7TMJz/FLJ/XOckQT5DK0K/c0CZIhcmre5EQmvoY+uqk3/QE6RdDGv1hEHjlLyWOBN2wPp17zn4ryRkm5OJH9HcbkHaWME8nANZaridQDrkbsfH9RUKD3w1ql/e4AH7wD9CMcqJg5pemyERQfXdVKbc=;urFsXREIMKp7IyFzQPNKhA=="
+secured: "xP/K6wu2zy2hjTgOvbNP4i67qKKreeIFIAnl0UUR7T2MWLfQJsBiJSnp0lTX0OQPZ/UDJs07TOFjGwe+sL9wmlApsNzoPsbUBe17RnsszXP5g5v+3khj2WghvRRxU4F5nkRNPOsxpbONR30YVaxfxtn0Jep4GCB6n1q7sazuKq8EqUwLqz+0j11sSI67NiOW0gNuEpDHd/YyHCvb1gB/6OLthvWiy8DEywDXEyE4E1rAIL19sMy3LY8OHm4m3eRpciOTVaEQiLMpWjpIB9oRJRIjqu9uWzi63nDEi+148LdiJp5+x0/uwiG/4pRj8dRLygK9l5aU9LSBkqPN5oSd7V3k277wkhUfvbuUYZw+eMQ=;ZM1LXjxMK3qrsaXNIZ4xqw=="
 ---
 

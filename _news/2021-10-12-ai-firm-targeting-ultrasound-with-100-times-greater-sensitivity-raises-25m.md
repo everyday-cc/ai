@@ -70,20 +70,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Cast AI Closes $10M Series A Funding"
-    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 41
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI-based job skills analysis startup Reejig raises $6 million series A for US push"
     excerpt: "Reejig, the workforce intelligence platform that uses audited ethical AI to allow enterprise businesses to make smart and informed decisions around talent, has raised $6 million in a series A . The round was led by Kim Jackson’s Skip Capital,"
     publishedDateTime: 2021-10-11T05:40:00Z
@@ -98,15 +84,6 @@ related:
         width: 768
         height: 498
         isCached: true
-  - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
-    excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
-    publishedDateTime: 2021-10-14T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/karma-the-browser-based-ai-shopping-assistant-closes-25m-series-a-funding-round-led-by-target-global-and-moretech-ventures-1030866082"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
 
 secured: "hGQeJMb/tWhgyMEpyxHz0UveBWWFBiWNYmT/0PU/dwkn1DdudHsSwRj3C9UEGW1R+4CuVI4bZPfLp28pTQGQ3ZmCKAvm8AewcZzlRJg7NRCy2CG9yhW89NFa+lBBooLP7KGOF7sdEeUWV/Z7wjIQ9BLtOgWW70LTPfY6KaEZz5WvG41FWt4r6pM0NekwTQeSw74nv5DELM+V229zlvyeyGpiVbcXjX51Bxc4i5ac3dPxFBB+VJqGE2TqR+nWSPc+zjPA2KJXP7FizDKqOKDMB0RF5+Kyibyt8gtIx8FiScEHLwbn4z+/g2PT4QkF2plFafL40TB9PEiO4i9mP1VV8Fa9okzpVVLpU49VUCnYPJwldLV0sFWYYbfYBSaM2S4K2/Gi6ojDa9DaTELcVf0wZf33PoYF5TxMpX9ai6jpy4g3o2Osj+dtLlD/qb3LNV69Oasb/x1ddYppgWmlA80yZvKrCEtErwE+BuBV+iANsGPSYPFOpkqprPVCZI2r6PlF6JS5UttElnCcTgBRNF8uxg==;5Bnbjg7D+bTVbcB9FW3oAw=="
 ---

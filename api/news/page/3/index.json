@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-12-the-uk-wants-to-be-an-ai-superpower-but-it-goes-easy-on-ethics.md",
+      "title": "The UK wants to be an AI superpower, but it goes easy on ethics",
+      "excerpt": "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "originalUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
+      "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
+      "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg",
+          "width": 2001,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-dynamics-and-importance-of-ai-and-machine-learning.md",
+      "title": "Dynamics and importance of AI and Machine Learning",
+      "excerpt": "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-10-12T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-and-pr-how-tech-adoption-could-impact-your-job.md",
+      "title": "AI And PR: How Tech Adoption Could Impact Your Job",
+      "excerpt": "The technological revolution continues to impact public relations (PR) at an impressive speed. Not long ago, many in the PR industry steered away from adopting PR tech powered by artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
       "title": "Fintech Ecosystems — Some Assembly Required",
       "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
@@ -254,7 +454,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -645,6 +845,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-12-deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities.md",
+      "title": "DeepMind proposes new benchmark to improve robots’ object-stacking abilities",
+      "excerpt": "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
+      "publishedDateTime": "2021-10-11T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
       "title": "Biden administration says we need a Bill of Rights for AI",
       "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
@@ -977,258 +1229,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-2-artificial-intelligence-stocks-to-buy-2-to-avoid.md",
-      "title": "2 Artificial Intelligence Stocks to Buy, 2 to Avoid",
-      "excerpt": "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390452",
-      "originalUrl": "https://www.entrepreneur.com/article/390452",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-estimates-85-of-worlds-population-is-affected-by-climate-change.md",
-      "title": "AI estimates 85% of world's population is affected by climate change",
-      "excerpt": "A team of researchers in Germany used machine learning to crunch at least 60,000 studies related to climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/xhSpkTmhDuqAlahdqvYTA7t3MJ4=/1200x630/2021/10/11/29fa3084-59a6-447e-b90c-5d4aa8fa774b/gettyimages-1235419694.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "publishedDateTime": "2021-10-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ondas-dynamai-collaborate-over-ai-ml-capabilities.md",
-      "title": "Ondas, Dynam.AI Collaborate Over AI, ML Capabilities",
-      "excerpt": "We believe partnering with Dynam will allow us to integrate advanced AI/ML capabilities faster and more deeply as we scale with customers,\" Ondas Chair and CEO Eric Brock said. American Robotics has agreed to utilize Dynam.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2160.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
-      "title": "Fintech And Compliance: It’s Not One Size Fits All",
-      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "publishedDateTime": "2021-10-11T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
-      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
-      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "publishedDateTime": "2021-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

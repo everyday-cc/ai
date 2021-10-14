@@ -33,20 +33,6 @@ related:
         width: 362
         height: 250
         isCached: true
-  - title: "Self Driving Trucks Market By End-User Type: Regional Analysis - Global Forecast by 2020 - 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 09, 2021, 07:32 /Comserve / -- The self-driving trucks market is expected to exceed more than US$ 1650 Million by 2025 at a CAGR of 10% in the given forecast period."
-    publishedDateTime: 2021-10-09T19:10:00Z
-    webUrl: "https://menafn.com/1102944950/Self-Driving-Trucks-Market-By-End-User-Type-Regional-Analysis-Global-Forecast-by-2020-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?509564"
-        width: 445
-        height: 250
-        isCached: true
 
 secured: "QNonqJFze9dE+O2MAnM+LfMsDkNLpKJNifpcWBxMp5yHMJ/1xeFuEoPDb/O55UHdS33bsZWbmiio6m4/SnpTxHXGxmeUaSYbfDWLCO1bk5/DfTHXhyOJhj7IAmtjZTG7SCR/j3SX9GU/Ob7zqu8aLdInB/YIBoUY32uixxNPUhF/dBKsZWOIbet97KMS6MeFnO5wYxBiu7KmOUH0js+7IThh3lI4i10+NtjaB5sGXZwQ/bxF//TRbxEQabxhKRv1vksv3yWpzg4k/XbcvZ4F7hl2+SWN7t5K78I489qoiPeOqCM8rJ1apk5sFGjWcz7pcap12zN0Yq/+pBzpMoTgy5SRNU8LR3cOhIu2225YvEQ=;k+s7p1JiWi/+1ipuqVhKYA=="
 ---

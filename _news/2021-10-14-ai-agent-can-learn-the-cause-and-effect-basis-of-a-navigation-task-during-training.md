@@ -89,18 +89,20 @@ related:
         height: 630
         isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
-    publishedDateTime: 2021-10-11T15:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+    publishedDateTime: 2021-10-11T14:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 66
+      name: Business Standard
+      domain: business-standard.com
+    quality: 86
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
-        width: 630
-        height: 420
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
     excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
@@ -143,6 +145,20 @@ related:
       - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
         width: 700
         height: 530
+        isCached: true
+  - title: "Predicting and preventing production losses with AI"
+    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
+    publishedDateTime: 2021-10-14T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"

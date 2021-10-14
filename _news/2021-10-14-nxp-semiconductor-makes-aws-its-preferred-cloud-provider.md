@@ -35,12 +35,12 @@ related:
         isCached: true
   - title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
     excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
-    publishedDateTime: 2021-10-14T10:27:00Z
-    webUrl: "https://www.afp.com/en/news/1315/nxp-semiconductors-selects-aws-its-preferred-cloud-provider-power-electronic-design-automation-cloud-202110130061951"
+    publishedDateTime: 2021-10-14T04:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "417033wTvUsQTAwGrFVha3D99V2jTv6svv9eP010zhXtMfYqi3BxzOefLNszySo5C1ZekAAWOUA6ceIkY9CKfz75UIuQIQnHOLTfW+KCKtuQOl/zY078GS2ADN9We0JScfuCZS+00VoCh+QOcfXBxynkg+73e+8ikShVYMsO/C+Ih/iVAsf7VtYBMolUUDvhut/KH1YoSS/SlC+4hXgDoi++1EuMKsrxEXvxbpQMaLcM3v6bm0oAqd8Q3RoPs85c2oE1o1ZOvRh8V2SzvB9PsmCgWafioIttQc08lP4KRfXhNTr6dYMQrBau0vGPVhyQi6VYJz2TrVVJP7rYP2rA7rZ0T/0wJAGFh2FtGE1zVFA=;c+P0DaB5nlKAAdYFKVMj8g=="

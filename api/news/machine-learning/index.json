@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai.md",
+      "title": "The state of AI in 2021: Machine learning in production, MLOps and data-centric AI",
+      "excerpt": "With lessons learned from operationalizing AI, the emphasis is shifting from shiny new models to perhaps more mundane, but practical aspects such as data quality and data pipeline management",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5584082bdb757e39890090a19b6bac63d69c1a1a/2021/10/14/88c23a9f-31d8-48ab-beba-5638f912d9e6/datacentricai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/",
+      "publishedDateTime": "2021-10-14T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-deep-learning-market-valuations-and-expected-future-returns-by-2027.md",
       "title": "Deep Learning Market Valuations and Expected Future Returns by 2027",
       "excerpt": "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This",
@@ -1388,49 +1440,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
-      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
-      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finish
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Beethoven’s 10th Symphony completed using artificial intelligence"
+    excerpt: "Roughly 200 years after Ludwig van Beethoven started working on a 10 th Symphony, it has finally been completed with the assistance of artificial intelligence (AI). Before his death, Beethoven began working on his 10 th Symphony and it remained unfinished until now."
+    publishedDateTime: 2021-10-14T12:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17303/beethoven-s-10th-symphony-completed-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/303/17303/beethoven-gea7b820e9_1920.jpg"
+        width: 752
+        height: 501
         isCached: true
   - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
     excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."

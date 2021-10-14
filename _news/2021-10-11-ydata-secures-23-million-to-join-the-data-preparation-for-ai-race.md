@@ -24,61 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
-    excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
-    publishedDateTime: 2021-10-13T20:43:00Z
-    webUrl: "https://fcw.com/articles/2021/10/13/ausa-ai-data-training-solsbury.aspx"
+  - title: "Google AI department sued for using the health data of 1.6 million NHS patients"
+    excerpt: "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,"
+    publishedDateTime: 2021-10-14T11:45:00Z
+    webUrl: "https://www.pcgamer.com/au/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
     type: article
     provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 51
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 55
     images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
-        width: 760
-        height: 368
+      - url: "https://cdn.mos.cms.futurecdn.net/NXU3c8zfKAfbFuEGzPnBeE-1200-80.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
-    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
-    publishedDateTime: 2021-10-12T13:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
+  - title: "Mount Sinai unveils first-of-its-kind department to develop AI tools for healthcare"
+    excerpt: "Many hospitals and health systems talk a big game about integrating artificial intelligence into nearly every aspect of clinical care, but Mount Sinai, for one, is actually putting its money where its mouth is."
+    publishedDateTime: 2021-10-11T14:09:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/mount-sinai-unveils-first-its-kind-department-to-develop-ai-tools-for-healthcare"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 34
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 48
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Beiersdorf files patent on AI skin profiling and product recommendation method"
-    excerpt: "International skin care major Beiersdorf has developed a method to profile skin based on moisture levels and geographical location, providing an accurate picture of overall skin condition and enabling personalised product recommendations."
-    publishedDateTime: 2021-10-13T10:47:00Z
-    webUrl: "https://www.cosmeticsdesign-europe.com/Article/2021/10/13/Beiersdorf-patents-AI-skin-profiling-and-personalised-product-recommendation-method"
-    type: article
-    provider:
-      name: CosmeticsDesign-Euro
-      domain: cosmeticsdesign-europe.com
-    quality: 33
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/cosmetics/cosmeticsdesign-europe.com/headlines/brand-innovation/beiersdorf-patents-ai-skin-profiling-and-personalised-product-recommendation-method/12921746-1-eng-GB/Beiersdorf-patents-AI-skin-profiling-and-personalised-product-recommendation-method.jpg"
-        width: 702
-        height: 498
-        isCached: true
-  - title: "One particular aspect of the digital transformation that relies almost entirely on access to data is Artificial Intelligence"
-    excerpt: "Artificial Intelligence (AI) relies on data both to make its decisions and to learn how to improve them; the higher the quality - and quantity - of data that AI applications can access, theoretically the better the outputs."
-    publishedDateTime: 2021-10-11T15:31:00Z
-    webUrl: "https://www.theparliamentmagazine.eu/news/article/intelligent-data"
-    type: article
-    provider:
-      name: The Parliament Magazine
-      domain: theparliamentmagazine.eu
-    quality: 12
-    images:
-      - url: "https://www.theparliamentmagazine.eu/siteimg/share/ugc-1/fullnews/news/23518/22897_original.jpg"
-        width: 1200
-        height: 800
+      - url: "https://qtxasset.com/fiercebiotech/1633960225/aerial.jpg/aerial.jpg?VersionId=lAdwLN7U6o6ptOSscwVUmJ_ZiRQ_wA_y"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "m6EEIEtO2MY3bXLZujSggEHmFDwTPBQ3/gNEJ9NEaFaYw6sEBmpIxsv4yMzowrZzQET9rd0DZpy4OKZysllhDjSmMuEBeKRrNWBuEnGk2iIYGoN8HSqn1jKiOz0Ii4ISaYQVJ998nGxlYnTg05kIyPKXAXYy5cpIs3RBAh+UT7Spui1LxZgc+P3Qu88dpMV4jHPPYnAne/1xsbGDqZQmEsQ43zcVavG3XDEm2LkpHQbU3o4Qoa4C4uCNBRGzldju5HVB6/3ON5Y7GfX/BvyTOyRPzAo/OmVwZjcQnzFGysLoUwuuXjZwlAdAa1epg2Vc0yLurE8EkziCc+BuVEqkEuHWneq+YsaYp0boT/Wi80VDvU25csmjtc/lSNDfw43+oycYQ1eBBZbXnDTyCxkeQtKx0J6rjM6F1J0AUIU65tDkLppXpSN5Fl+DSnMZXF7ykgVHp9j2ECKHf6/O2o3HIVpst7PdbcQMfPGZ43JFvlYu5UFFhalEzLCdvvv+h4FlWB1M+txCdUVFkUWMnA7ISA==;wLKuB8sbrx0OfgoTIjZotQ=="

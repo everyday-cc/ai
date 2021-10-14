@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-06-writing-a-training-loop-from-scratch.md",
+      "title": "Writing a training loop from scratch",
+      "excerpt": "Pre-trained models and datasets built by Google and the community Tools Ecosystem of tools to help you use TensorFlow",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=bg&skip_cache=false",
+      "originalUrl": "https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=bg&skip_cache=false",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=bg&skip_cache=false",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-05T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-googlers-team-is-making-shopping-more-inclusive.md",
       "title": "This Googler’s team is making shopping more inclusive",
       "excerpt": "There’s a lot to love about online shopping: It’s fast, it’s easy and there are a ton of options to choose from. But there’s one obvious challenge — you can’t try anything on. This is something Google product manager Debbie Biswas noticed, as a tech industry veteran and startup founder herself. “Historically,",
@@ -1333,111 +1428,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai.md",
-      "title": "Is DeepMind’s new reinforcement learning system a step toward general AI?",
-      "excerpt": "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
-      "publishedDateTime": "2021-08-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
-      "title": "Building architectures that can handle the world’s data",
-      "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
-      "originalUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/1n_yePOWxc4Hkbu9VGKwp9vPA8csYODFddaa3hmB7hWu0ln1sz6s6w_xHVluAqsO7-zEYo5xt6C3b1ACrlCve1sOYAG7w2R8mSM2nwnsU2DARM8y9fY",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

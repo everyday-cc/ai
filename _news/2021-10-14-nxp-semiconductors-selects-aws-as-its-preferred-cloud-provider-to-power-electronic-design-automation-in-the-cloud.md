@@ -2,17 +2,17 @@
 category: news
 title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
 excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
-publishedDateTime: 2021-10-14T10:27:00Z
-originalUrl: "https://www.afp.com/en/news/1315/nxp-semiconductors-selects-aws-its-preferred-cloud-provider-power-electronic-design-automation-cloud-202110130061951"
-webUrl: "https://www.afp.com/en/news/1315/nxp-semiconductors-selects-aws-its-preferred-cloud-provider-power-electronic-design-automation-cloud-202110130061951"
+publishedDateTime: 2021-10-14T04:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -43,6 +43,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "oDhoGN+aSGZ6csWgfuf0RT/OqjH49MdElxdRaE0sRz63jp9BIYmZ2nRYos4FNhTtKHbW48G9XsWClOfUlN7UqDWV1CHeho+ClGxVzT8GPZSMnT6Em6hnLxuGI5cBc1Sc39TYSXwwjphG9ibwS1BiMI3awtaMtGaMHDoO2qFcy5s9VNEdxFbBrYc8iBU4kRpfQPjf2lGPqAWL9plVtGl1dlRfe/zr4FsnSk0L8SLj29Xnguubja5+DeYSUuZFMog52NGcI7aKtZUetf0U5IEZKa/ZVX6enOcw2FGNzsf/EWpqhuVzie2dka/DQcvtt++LhUYHpwrnt+jNR+X0dMdycrhfZu3Zw7vfvXc6JHM+UUc=;i/NkB6UbAOOPNrr4erQ3vg=="
+secured: "SMYYuJLgd+PHImJ/x0cKT5sjwYbzWc0klc6BjeJYlluOmVnjwhHMGlMqPLWim5mIkj9oO08QvBNO8OhrqbPHCYTj0JVqmi+pFn08jNkkIiju3PDyNRLE3avJSPFPNPXvorHWZkl6ftes12ddtnNgwEU1vIkgCpLaFTWg5euRQjDvbpeRHBzBEsho1OI13J7Vul84sLGNUt4vjKBzd7mAYyNUTpzqsNRAqAwMEzXKY2pGz1kEC1TsKLPxE//BqyS+pksdDuAMRmV7EkhAwUXTsMEe4zBuuEB5W7Grmimq91QKhNoQM6R0DzD1u0rbn8ZgM8kVXwS6Nan2THWQWIOY4DfvefN0UlSYTE+j+hmsdTU=;yFVOx3g1uMT2RDRyBL7IQg=="
 ---
 

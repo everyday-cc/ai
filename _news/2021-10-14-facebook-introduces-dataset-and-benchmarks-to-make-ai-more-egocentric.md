@@ -1,0 +1,159 @@
+---
+category: news
+title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
+excerpt: "Facebook's latest long-term research project, Ego4D, focuses on developing AI with an 'egocentric,' first-person perspective."
+publishedDateTime: 2021-10-14T12:00:00Z
+originalUrl: "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/"
+webUrl: "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/"
+ampWebUrl: "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Facebook quietly acquires synthetic data startup AI.Reverie"
+    excerpt: "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation."
+    publishedDateTime: 2021-10-12T05:46:00Z
+    webUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/"
+    ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 193
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Facebook: Here comes the AI of the Metaverse"
+    excerpt: "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view."
+    publishedDateTime: 2021-10-14T12:07:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook researchers collect thousands of hours of first-person video to train AI"
+    excerpt: "If the AIs of the future are, as many tech companies seem to hope, going to look through our eyes in the form of AR glasses and other wearables, they’ll need to learn how to make sense of the human perspective."
+    publishedDateTime: 2021-10-14T12:01:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/facebook-ego4d.jpg?w=1024"
+        width: 1024
+        height: 652
+        isCached: true
+  - title: "Facebook’s moment of no return"
+    excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
+    publishedDateTime: 2021-10-12T17:07:00Z
+    webUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/"
+    ampWebUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/amp/"
+    cdnAmpWebUrl: "https://psuvanguard-com.cdn.ampproject.org/c/s/psuvanguard.com/facebooks-moment-of-no-return/amp/"
+    type: article
+    provider:
+      name: PSU Vanguard
+      domain: psuvanguard.com
+    quality: 44
+    images:
+      - url: "https://psuvanguard.com/wp-content/uploads/2021/10/AP_21278523584186.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook wants machines to see the world through our eyes"
+    excerpt: "A massive new video dataset will help train smart assistants and robots—but there are obvious concerns about how the tech will be used."
+    publishedDateTime: 2021-10-14T12:04:00Z
+    webUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/"
+    ampWebUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/Before-After-Detectron_ModelFINAL.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facebook launches Ego4D AI research project"
+    excerpt: "Facebook’s AI division has launched Ego4D, a long-term project that aims to solve research challenges around egocentric perception: the ability for AI to understand and interact with the world like we do,"
+    publishedDateTime: 2021-10-14T13:20:00Z
+    webUrl: "https://mobilemarketingmagazine.com/facebook-launches-ego4d-ai-research-project"
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.mobilemarketingmagazine.com/wp-content/uploads/posts/2021-10-14-14-17-32-Facebook.jpg"
+        width: 620
+        height: 501
+        isCached: true
+  - title: "6 Models of Artificial Intelligence that Facebook use"
+    excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
+    publishedDateTime: 2021-10-10T12:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/6-models-artificial-intelligence-facebook-use-rejwan-bin-sulaiman"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "Facebook Loves Self-Supervised Learning. Period."
+    excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
+    publishedDateTime: 2021-10-11T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-loves-self-supervised-learning-period/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Facebook-Self-supervised-learning-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+
+secured: "NOH49oiOhe5SKL478Fc1aAJyJfaKF3mYw7tA9rWdpQaKbuA0/ZBMexTGFYTFBaWHsTkJswWuVdckDtw/M/LKObvMUg5OQmqIXbUPMP9uzbiGbsVEQwtvzQrHtyAGnFBRgPpW7//Cf/NaGXdQVbXvCTOi0EDxuvIumita40Du7DMBCTw5W+e8TXVYFjKYSh926lD0JaEq7EcBCHA3dW4dSENxiW22wOC/VIX5lqR+hUIZnn8tX2wTzvE3knBu3nzbioza9EIMkHLzEv333r8ZqVu71agvGfHvtvf7TDMYJd2MqyuZchDnQDsCaL2IQzicjMyXDfLz4miC5uLLFn22U87ExqwoTbsmwPhteRn4Hdk=;ilr/g6dyYxzPnQa9Tof7tA=="
+---
+

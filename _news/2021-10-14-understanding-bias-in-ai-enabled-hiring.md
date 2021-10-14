@@ -80,18 +80,20 @@ related:
         height: 630
         isCached: true
   - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era new technologies are being introduced in the market now and then Businesses are no more using the traditional marketing methods to g"
-    publishedDateTime: 2021-10-11T15:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271458994/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape"
+    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+    publishedDateTime: 2021-10-11T14:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 66
+      name: Business Standard
+      domain: business-standard.com
+    quality: 86
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1633964478.jpg"
-        width: 630
-        height: 420
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
     excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
@@ -135,6 +137,20 @@ related:
         width: 700
         height: 530
         isCached: true
+  - title: "Predicting and preventing production losses with AI"
+    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
+    publishedDateTime: 2021-10-14T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
     excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
     publishedDateTime: 2021-10-14T11:39:00Z
@@ -159,6 +175,6 @@ related:
       domain: c-span.org
     quality: 19
 
-secured: "6DdMarrZ+P5yX51rJZWk/ZsuV2uzqjxrJ7OC4tsRhTtHKncXLS5FCMAjIUOpJdkz/iS/6lUbtu2C81JgbUlN1xrSN9OK2pMCI0UIXARlbtXgiPgA1k09d2I5XhjigIaaJfKxNq6l6UQGodgTBxOZYSd5R/i7KTGM682yZte7sV0+IUkk6Pv8yFuPceDsV9kMFfSWNUihxQupQmHtRuDrmy71b4nd5Uq0uzbUCLx2WX+iNMe5tyJFjJceNvmgUBl6ljTXyHPfihLUykqu1MGpMsRJisYXu8KSvIjUNZCc/KyUuX8uUs4F3tDj3SNzFIA6X/B3poVnIqyE7+Yx/7Mp9+ENGJn4Usalrs/nyDDOQps=;LuJl3VsYksjn1EDG/x3d4w=="
+secured: "hm5xt+tqHMRHf0J1H0HitvyqeABVZGnIIouyOZJUVMH5FNKPwiF8DEGDf4Jd8EQi3XEEeI+FZ0ReTv4ZnPuUjawUD2Iu0Q8dvw0fgA6r/YQi5Fr4ZqmsQENsnuA3LRL9ElsP5vCP723SxpM0mItBJREbDw5DSzryxQHR7zqAvgC2MLDY3ZpG013o8rNPHHljOztPHtP/ycZr+jYGC9RrchlJCM1b5W4APjzgVwZrbsJ98L5QfLhaDujJeMcT4ddrPJTcAGK7IM1LpmN4zve2x5M8rhweUHTx9+zoztRqOo9abBDJWaPmvUDZDfVUnDiVp8XUD65GNFWvE0dxWh8GGZUSIwfUmhQitVAg+ESHDg6DWUUJHX2zDWJmjAy/1oC/yg98cP3cvhiPHS/M/xQWjNTkzCbl53icm9Oj7S5JNeOBfD3xc1FFWFwnaHgz7aqIh5VA9ExUpsfqPfteLSmgv49w8recMRhL9HP2iEHqVxoHaOS7y54ZnGpiXMeMI8L9cYxT8TmmvtA4rHJvbltaaw==;V+obXbDExUgB3YcaMvrHXg=="
 ---
 

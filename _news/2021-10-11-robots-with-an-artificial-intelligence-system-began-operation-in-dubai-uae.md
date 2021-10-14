@@ -43,20 +43,6 @@ related:
         width: 920
         height: 533
         isCached: true
-  - title: "Robots galore as artificial intelligence amuses Dubai Expo visitors"
-    excerpt: "Visitors to Dubai Expo are being entertained by the omnipresence of robots at the massive world fair, as artificial intelligence is proving to be nearly as adept at hosting an event of such magnitude as its human counterpart."
-    publishedDateTime: 2021-10-09T19:49:00Z
-    webUrl: "https://menafn.com/1102945102/Robots-galore-as-artificial-intelligence-amuses-Dubai-Expo-visitors"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/09/KNA(_061f9image_story.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "pFpCe2cRhM8KoW5A5rnVAySJYTriN4dvO8FZwRP2eYwF9NdBzMIlvyJbf9fnVxLNMPRThD05eVPiKM49VlLnmeEsY2vAo4U5al7VLQoLe456xZLHRNkYxJRHqKe0NzYUF14tmaKJe038T5vAlusWW1rxnEKM9voeK2wCdZZi9NJ74YYfI0p+NMmam3nu6nuoyXt0qQgq+Ouhpgt6XD3bgPnLJ+AqNGmxXu15bXsi6buKFe1znJrmfMvzz73sDtwOe+HRtFK18k/6Zsw6ryoOSRd/0113TpZUAv0vlemNhd7NxdhT2Px2uUmUDPDE1y8vliQz01huO075WeB6YXleknuWsCU1CcD4diUfX684u9w=;Kkmov1491uhM6bZRotu98g=="
 ---

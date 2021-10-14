@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Cast AI Closes $10M Series A Funding"
-    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 41
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI firm targeting ultrasound with 100 times greater sensitivity raises $25M"
     excerpt: "An artificial intelligence firm working to create novel ultrasound technology, which it claims is vastly more sensitive that traditional equipment, just raised $25 million. Healthcare investment firm Deerfield Management Co."
     publishedDateTime: 2021-10-11T22:54:00Z
@@ -99,15 +85,6 @@ related:
         width: 768
         height: 498
         isCached: true
-  - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
-    excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
-    publishedDateTime: 2021-10-14T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/karma-the-browser-based-ai-shopping-assistant-closes-25m-series-a-funding-round-led-by-target-global-and-moretech-ventures-1030866082"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
 
 secured: "ZtPGifZ+NBgUyRfYLOaaAaio7zjE3TAIAK9hgS1n/EIgkrTc+5XRnB9SFuGq+zvHe8QfQ6G+5kBz4E8mh9+/OiOb7iesfqRquOHTDIAGE7c6lb8QjWRHIxn0mH/LQEJriPBiHzdppJyQ9ArSuGS909lvOAhULGLbz24rHzwnC6Z6ZLSzoV9vMoXqeiMhrAA7QvCgz/8SGYbTREKWmK1R6JooXqTpBBgSZ1qBN4etMbbniFxrXkkgadPBVYlhOotGxnyU6Dp7wtEcWkEzEV/kADKX6swSkOj2sllDzYvTM5vIii9TSQomwnjuhXOq8wkvim6zj5hJ0CmuTG4FoPg6Oqn3hrlYM6aDrY+nqxxWTHM=;C9G+Iiiy8SGhxABWaSOWiQ=="
 ---

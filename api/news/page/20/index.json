@@ -2,6 +2,362 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-28-best-cheap-robot-vacuums.md",
+      "title": "Best cheap robot vacuums",
+      "excerpt": "This bump-and-clean robot is controlled via the onboard buttons or ... If you’ve got a budget in mind, this is obviously the first thing you should consider before you buy a robot vacuum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/uk/best-picks/best-cheap-robot-vacuums",
+      "originalUrl": "https://www.tomsguide.com/uk/best-picks/best-cheap-robot-vacuums",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E8mSKJALNJ6bUCQx2ukhnT-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-competition-chips-ai-on-table-at-first-us-eu-trade-and-tech-meet.md",
+      "title": "Competition, chips, AI on table at first US-EU trade and tech meet",
+      "excerpt": "The United States and the European Union hope to discuss chip shortages, artificial intelligence (AI) and tech competition issues during the first Trade and Tech Council (TTC) meeting this week, senior U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/competition-chips-ai-table-first-us-eu-trade-and-tech-meet-2205976",
+      "originalUrl": "https://www.channelnewsasia.com/business/competition-chips-ai-table-first-us-eu-trade-and-tech-meet-2205976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--z0YjmaeV--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-09-27t190835z_2_lynxmpeh8q0z1_rtroptp_3_usa-trump-pence.jpg?itok=eXIJ_GmE",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
+      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
+      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia-pacific-region.md",
+      "title": "Speech Processing Solutions (SPS) becomes a Nuance Dragon Medical One Distributor in Europe and Asia Pacific Region",
+      "excerpt": "Speech Processing Solutions (SPS), a leader in professional dictation, has announced they are joining forces with Nuance Communications as an official distributor of Nuance Dragon Medical One, the leading cloud-based speech recognition solution for clinical documentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html",
+      "originalUrl": "https://www.fltimes.com/business/national/speech-processing-solutions-sps-becomes-a-nuance-dragon-medical-one-distributor-in-europe-and-asia/article_339cb7b4-c942-5e55-9529-dc9747b27fc8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/e/43/e4305dae-7d56-5911-9c31-673fb3f58c9d/6152c1705fa0e.image.jpg?crop=1662%2C1247%2C0%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-artificial-intelligence-robotics-market-size-analysis-and-key-manufacturers-with-outlook-2021-2027-softbank-hanson-robotics.md",
+      "title": "Artificial Intelligence Robotics Market Size, Analysis, and Key Manufacturers With outlook 2021-2027 | Softbank, Hanson Robotics",
+      "excerpt": "This Global Artificial Intelligence Robotics Market report provides an all-inclusive environment analysis and market estimates. Similarly, the report provides the result of in-depth secondary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2408879/artificial-intelligence-robotics-market-size-analysis",
+      "originalUrl": "https://www.openpr.com/news/2408879/artificial-intelligence-robotics-market-size-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2408879/artificial-intelligence-robotics-market-size-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2408879/artificial-intelligence-robotics-market-size-analysis",
+      "publishedDateTime": "2021-09-27T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24.md",
+      "title": "Cardano Blockchain Selected to Run AI Modules of Humanoid Robot Grace | Blockchain24",
+      "excerpt": "It was officially announced that the Cardano blockchain plans to use the AI ​​modules of a humanoid robot named Grace. Well, the demand for this robot is not even an issue since robotics for aged care has seen tremendous growth due to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
+      "originalUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegoaspotlight.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
+      "cdnAmpWebUrl": "https://thegoaspotlight-com.cdn.ampproject.org/c/s/thegoaspotlight.com/2021/09/28/cardano-blockchain-selected-to-run-ai-modules-of-humanoid-robot-grace-blockchain24/amp/",
+      "publishedDateTime": "2021-09-27T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thegoaspotlight",
+        "domain": "thegoaspotlight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size Outlook, Opportunity and Demand Analysis Report by 2026",
+      "excerpt": "The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms. The increasing use of social media and ecommerce platforms has further led to strong growth in data volume,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-outlook-opportunity-and-demand-analysis-report-by-2026-2021-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027.md",
+      "title": "Global Face Recognition Software Market 2021 Industry Statistics, Emerging Opportunities, Revenue and Volume Analysis by 2027",
+      "excerpt": "MarketQuest.biz have issued a global study report titled Global Face Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 that contains an accurate simulation of industry insight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-software-market-2021-industry-statistics-emerging-opportunities-revenue-and-volume-analysis-by-2027-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-global-artificial-intelligence-ai-speakers-market-report-2021-prominent-key-players-exploring-sales-volume-revenue-and-forecast-by-2027.md",
       "title": "Global Artificial Intelligence (AI) Speakers Market Report 2021 Prominent Key Players, Exploring Sales Volume Revenue and Forecast by 2027",
       "excerpt": "The research study on Global Artificial Intelligence (AI) Speakers Market 2021 by Manufacturers, Regions, Type",
@@ -775,388 +1131,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
-      "title": "Google is trying to make its cloud more attractive to app developers",
-      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "publishedDateTime": "2021-09-27T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
-      "title": "Are AI and Robotics Good Investments?",
-      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
-          "width": 739,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-an-ultralow-power-artificial-synapse-for-next-generation-ai-systems.md",
-      "title": "An ultralow power artificial synapse for next-generation AI systems",
-      "excerpt": "Brain-inspired computing is a promising candidate for next-generation computing technologies. Developing next-generation advanced artificial intelligence (AI) systems that can be as energy-efficient,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-09-ultralow-power-artificial-synapse-next-generation.html",
-      "originalUrl": "https://techxplore.com/news/2021-09-ultralow-power-artificial-synapse-next-generation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/sutd-researchers-desig.jpg",
-          "width": 745,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-09-ultralow-power-artificial-synapse-next-generation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-09-ultralow-power-artificial-synapse-next-generation.amp",
-      "publishedDateTime": "2021-09-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs.md",
-      "title": "Fabless semiconductor company Astera Labs raises $50M for AI hardware designs",
-      "excerpt": "Astera Labs, a company developing infrastructure for AI and machine learning workloads, has raised $50 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/n2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/fabless-semiconductor-company-astera-labs-raises-50m-for-ai-hardware-designs/amp/",
-      "publishedDateTime": "2021-09-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-edge-computings-applications-in-autonomous-driving-and-business-at-large.md",
-      "title": "Edge Computing’s Applications In Autonomous Driving And Business At Large",
-      "excerpt": "Now is the time to start thinking about how you and your organization — whether you’re part of the automotive industry or not — can make use of the future of edge computing and 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/edge-computings-applications-in-autonomous-driving-and-business-at-large/amp/",
-      "publishedDateTime": "2021-09-27T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years.md",
-      "title": "Artificial intelligence (AI) Chips Market Analysis by Size, Drivers and Insights for next 5 years",
-      "excerpt": "Chips Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Artificial intelligence (AI) Chips. The study is a mix of quantitative market stats and qualitative analytical information to uncover market size revenue breakdown by key business segments and end use applications.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Online-Laundry-Service-Market-390x220.jpeg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-chips-market-analysis-by-size-drivers-and-insights-for-next-5-years/?amp=1",
-      "publishedDateTime": "2021-09-27T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-the-limitations-of-ai-safety-tools.md",
-      "title": "The limitations of AI safety tools",
-      "excerpt": "Firms including OpenAI have developed safety tools to constrain AI decision-making. But there's a limit to what these tools can accomplish.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "originalUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/the-limitations-of-ai-safety-tools/amp/",
-      "publishedDateTime": "2021-09-27T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-will-ai-revolutionize-regtech-part-1-faster-easier-richer.md",
-      "title": "Will AI Revolutionize Regtech? Part 1: Faster, Easier, Richer",
-      "excerpt": "Later this year at the NSCP National Conference, I’ll be speaking on a panel with Jane Stabile and Andrew Siegel on the topic “Will AI Revolutionize the Financial Services Industry?” To help promote the event,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-1%3A-faster-easier-richer-2021-09-27?amp",
-      "publishedDateTime": "2021-09-27T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

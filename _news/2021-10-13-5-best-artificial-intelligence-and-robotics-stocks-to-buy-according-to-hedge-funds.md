@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "2 Artificial Intelligence Stocks to Buy, 2 to Avoid"
-    excerpt: "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and"
-    publishedDateTime: 2021-10-11T15:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/390452"
+  - title: "Writing helper Copy.ai closes on its second funding round this year"
+    excerpt: "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto."
+    publishedDateTime: 2021-10-14T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024"
+        width: 1024
+        height: 581
         isCached: true
   - title: "11 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
     excerpt: "In this article, we discuss the 11 best artificial intelligence and robotics stocks to buy according to hedge funds."
@@ -53,42 +55,47 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter."
-    publishedDateTime: 2021-10-13T17:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/391046"
+  - title: "Cast AI Closes $10M Series A Funding"
+    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
+    publishedDateTime: 2021-10-12T14:51:00Z
+    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 41
     images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) stock has been quite a disappointment for many investors."
-    publishedDateTime: 2021-10-12T16:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/despite-disappointing-earnings-ai-stock-is-still-a-long-term-buy-1030859967"
+  - title: "Ultrasound AI firm completes financing round"
+    excerpt: "Ultrasound artificial intelligence (AI) technology startup DeepSight Technology has received $25 million in a series A funding round."
+    publishedDateTime: 2021-10-12T15:36:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133747"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "12 Best Software Stocks To Buy According To Hedge Funds"
-    excerpt: "In this article, we discuss the 12 best software stocks to buy according to hedge funds. If you want to skip our detailed analysis of these stocks, go directly to the 5 Best Software Stocks To Buy According To Hedge Funds."
-    publishedDateTime: 2021-10-11T13:33:00Z
-    webUrl: "https://www.insidermonkey.com/blog/12-best-software-stocks-to-buy-according-to-hedge-funds-986505/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 22
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/10/11065919/hack-capital-uv5_bsypFUM-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.auntminnie.com/user/images/content_images/sup_imc/2017_04_20_14_33_37_718_money_hundred_bills_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
+    excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
+    publishedDateTime: 2021-10-14T11:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-shopping-38da9185d00f5a4e3a8b5daa1c5f5654"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "NSstENE9IBPL7slIqXVib7cB86u+0I/uYxJGxZgvOT1sdFX/HbRp6Jk1FvSKtw+o1jIAJBBjBLYcj/XKpBJ6QMQmovuFb0U+I6+yxV1BPSC11R44w/hATYMVg4U/YgwlOUFuI0ILAMEk35gRrQeoQeZtIQgr+3QnURRlD+9GSyw+/LdAKQ/nJtXO+uzyo+EktZmvDw5s2oQZGjtbrR9ogWiRAv2Ey8lu/oH68ZbYa24rNNcXUn6+/Wi6V/RNwx9rRR7SH8goMMt0gL8z7mWPPmXrzQar7dUfVSBZUvYYAx9OOi4NTrH8O8GRBG+6U/2Ik634+rdyfiupWywcDC9oRZKibKWuKKQ2erS89EyKyuI=;Y+b7/p1n8xftvJTj3sJtQw=="

@@ -55,40 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-will-ai-revolutionize-regtech-part-4-if-you-do-the-right-thing.md",
-      "title": "Will AI Revolutionize Regtech? Part 4: If You Do the Right Thing",
-      "excerpt": "Recent articles and research papers have shown AI biases exist in Facebook’s ad-serving algorithm, facial recognition software (including Amazon’s Rekognition), and other AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12",
-      "originalUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-revolutionize-regtech-part-4%3A-if-you-do-the-right-thing-2021-10-12?amp",
-      "publishedDateTime": "2021-10-12T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-how-to-approach-conversation-design-getting-started-with-amazon-lex-part-2.md",
       "title": "How to approach conversation design: Getting started with Amazon Lex (Part 2)",
       "excerpt": "As you plan your new Amazon Lex application, the following conversation design best practices can help your team succeed in creating a great customer experience. In our previous post, we discussed how to create the foundation for good conversation design. We explored the business value of good conversational",
@@ -1473,6 +1439,49 @@
         "AWS AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-26-3-ways-to-get-into-reinforcement-learning.md",
+      "title": "3 ways to get into reinforcement learning",
+      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-26T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

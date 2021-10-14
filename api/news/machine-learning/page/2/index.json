@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
+      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
+      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
       "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
       "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
@@ -437,6 +480,40 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-adult-neurogenesis-and-cellular-brain-repair-with-neural-progenitors-precursors-and-stem-cells.md",
+      "title": "Adult neurogenesis and cellular brain repair with neural progenitors, precursors and stem cells",
+      "excerpt": "Recent work in neuroscience has shown that the adult central nervous system (CNS) contains neural progenitors, precursors and stem cells that are capable of generating new neurons, astrocytes and oligodendrocytes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ncbi.nlm.nih.gov/sites/ppmc/articles/PMC1664671/",
+      "originalUrl": "https://www.ncbi.nlm.nih.gov/sites/ppmc/articles/PMC1664671/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-02T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Institutes of Health",
+        "domain": "nih.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1354,111 +1431,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
-      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
-      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange (MLX) as a one stop shop for trusted data and AI artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
-          "width": 954,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-battery-ventures-leads-arize-ais-19m-round-for-ml-observability.md",
-      "title": "Battery Ventures leads Arize AI’s $19M round for ML observability",
-      "excerpt": "Companies use data to build models that they use to automate decisions, but without visibility, it’s difficult to determine if the models are accountable, fair and responsible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "originalUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/28/battery-ventures-leads-arize-ais-19m-round-for-ml-observability/amp/",
-      "publishedDateTime": "2021-09-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

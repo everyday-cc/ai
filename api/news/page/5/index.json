@@ -2,6 +2,340 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-11-government-to-begin-work-on-monetising-ai-subsidiaries.md",
+      "title": "Government to begin work on monetising AI subsidiaries",
+      "excerpt": "The govt on October 8 had announced that salt-to-software conglomerate Tatas have won the bid to acquire Air India for ₹ 18,000 crore",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157",
+      "originalUrl": "https://www.telegraphindia.com/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2021/Oct/1633121821_air-india.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157",
+      "publishedDateTime": "2021-10-10T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-bothering-and-even-spying-on-your-neighbors-via-an-ai-self-driving-car.md",
+      "title": "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car",
+      "excerpt": "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/",
+      "publishedDateTime": "2021-10-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-tesla-delays-full-self-driving-roll-out-citing-last-minute-concerns.md",
+      "title": "Tesla delays full self-driving roll out citing last minute concerns",
+      "excerpt": "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "originalUrl": "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "publishedDateTime": "2021-10-10T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-the-eu-is-regulating-your-ai-five-ways-to-prepare-now.md",
+      "title": "The EU Is Regulating Your AI. Five Ways To Prepare Now.",
+      "excerpt": "EU regulations of this type apply to all companies that seek to do business in the EU or with EU-based businesses or EU-based consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615e6368c32bb1fa05b71b54%2F0x0.jpg",
+          "width": 512,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/",
+      "publishedDateTime": "2021-10-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-beethovens-last-symphony-finished-by-ai.md",
+      "title": "Beethoven's last symphony finished by AI",
+      "excerpt": "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
+      "originalUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/ludwig_van_beethoven1633846240-0/ludwig_van_beethoven1633846240-0.jpg  ",
+          "width": 724,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
+      "publishedDateTime": "2021-10-10T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-ai-ml-big-data-use-in-travel-hospitality-sector.md",
+      "title": "AI, ML & Big Data use in travel, hospitality sector",
+      "excerpt": "The travel and hospitality industry in India has been on a rise and has been one of the main factors of growth. AI, machine learning and big data analytics have brought a revolution in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "originalUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/10/09/1116344-data.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "publishedDateTime": "2021-10-09T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
+      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
+      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-414056/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
+      "publishedDateTime": "2021-10-09T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-counting-down-to-our-ai-rapture.md",
       "title": "Counting down to our AI rapture",
       "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?",
@@ -633,6 +967,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "publishedDateTime": "2021-10-08T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
       "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
       "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
@@ -810,408 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-algolia-only-26-of-retailers-use-ai-optimized-search.md",
-      "title": "Algolia: Only 26% of retailers use AI-optimized search",
-      "excerpt": "AI is a lesser used tool for generating personalized recommendations, yet companies that embrace AI-driven search are reaping the benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/ecommerce-3688436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "publishedDateTime": "2021-10-08T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-is-baidus-stock-cheap-at-150.md",
-      "title": "Is Baidu’s Stock Cheap At 150?",
-      "excerpt": "Baidu’s stock (NASDAQ: BIDU) has fallen by 30% from $216 to $150 since the end of 2020. In comparison, the broader S&P500 rose by 16% in the same period. Trefis analysis of Baidu’s Valuation is $224,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1061811420%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "publishedDateTime": "2021-10-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics.md",
-      "title": "Is Neuromorphic Computing The Answer For Autonomous Driving And Personal Robotics?",
-      "excerpt": "Applications like autonomous driving and personal robotics are proving to be challenging for traditional computing architectures, but a relatively unknown, biology-inspired technology called neuromorphic computing could hold the key to new killer applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615fc4df8dafbfcf054d1798%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
-      "publishedDateTime": "2021-10-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-11-examples-of-ai-climate-change-solutions-for-zero-carbon.md",
-      "title": "11 Examples Of AI Climate Change Solutions For Zero Carbon",
-      "excerpt": "Achieving net-zero by 2050 is nothing short of a momentous endeavor, and the energy sector is playing a key role in reaching it. No AI solutions that matter more to humanity than decarbonizing the atmosphere and winning the war on climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616035ab1537a36957a3fe32%2F0x0.jpg",
-          "width": 1171,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
-      "publishedDateTime": "2021-10-08T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai.md",
-      "title": "How Zowie Diagnostics aims to refresh customer service chatbots with AI",
-      "excerpt": "Zowie is evangelizing on behalf of the power of AI-powered customer service automation both to reach customers and to promote the market.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/image3-e1633575180595.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai/amp/",
-      "publishedDateTime": "2021-10-08T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain.md",
-      "title": "The Wizard Of CX AI: Why Businesses Need The Human ‘Behind The Curtain’",
-      "excerpt": "To optimize the customer journey, brands should balance automation with logical controls based on strong business strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
-      "publishedDateTime": "2021-10-08T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried.md",
-      "title": "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried",
-      "excerpt": "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283",
-      "originalUrl": "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenewsminute.com/sites/default/files/facial_recognition_illegal_1200_0.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp",
-      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried-156283?amp",
-      "publishedDateTime": "2021-10-08T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News Minute",
-        "domain": "thenewsminute.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-fiserv-improved-a-cumbersome-client-service-experience-with-a-watson-enabled-virtual-agent.md",
-      "title": "How Fiserv improved a cumbersome client service experience with a Watson-enabled virtual agent",
-      "excerpt": "The IT team at Fiserv uses AI to streamline customer and agent interactions Watson Assistant efficiently handling Fiserv’s unique acoustical challenges With an AI solution already in place, reacting to market disruption is a snap Promise and pitfalls Fiserv is an exciting example of AI’s power to increase",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/fiserv-client-service-watson-virtual-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/ACDC_140-WA-WD-Fiserv-Blog-Post_Large-1-copy-2.jpg",
-          "width": 2000,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T05:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

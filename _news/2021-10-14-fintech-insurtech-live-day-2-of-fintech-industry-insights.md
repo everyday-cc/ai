@@ -57,20 +57,18 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "With company executives coming from across the globe, FinTech & InsurTech Live offers a packed schedule of speakers from the banking sector and payment solutions to insurance technology and artificial intelligence."
-    publishedDateTime: 2021-10-11T12:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23316777/preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23316777"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23316777"
+  - title: "SAVVYY welcomes fintech expert as new director"
+    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
+    publishedDateTime: 2021-10-14T12:10:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
     images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
+        width: 1000
         height: 600
         isCached: true
   - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"

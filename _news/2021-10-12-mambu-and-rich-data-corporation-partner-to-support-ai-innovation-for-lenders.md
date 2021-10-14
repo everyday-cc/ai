@@ -38,20 +38,6 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "YData secures €2.3 million to join the data preparation for AI race"
-    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
-    publishedDateTime: 2021-10-11T11:03:00Z
-    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
-        width: 960
-        height: 545
-        isCached: true
   - title: "Beiersdorf files patent on AI skin profiling and product recommendation method"
     excerpt: "International skin care major Beiersdorf has developed a method to profile skin based on moisture levels and geographical location, providing an accurate picture of overall skin condition and enabling personalised product recommendations."
     publishedDateTime: 2021-10-13T10:47:00Z

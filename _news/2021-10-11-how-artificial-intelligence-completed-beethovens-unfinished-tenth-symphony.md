@@ -102,6 +102,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Beethoven’s 10th Symphony completed using artificial intelligence"
+    excerpt: "Roughly 200 years after Ludwig van Beethoven started working on a 10 th Symphony, it has finally been completed with the assistance of artificial intelligence (AI). Before his death, Beethoven began working on his 10 th Symphony and it remained unfinished until now."
+    publishedDateTime: 2021-10-14T12:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17303/beethoven-s-10th-symphony-completed-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/303/17303/beethoven-gea7b820e9_1920.jpg"
+        width: 752
+        height: 501
+        isCached: true
 
 secured: "eOq8rL6uS5Lb+6wCS/S6bU1Zp6ZFLv1IdieR5HJuoickjICqA1KajopTgdk0Ju9ZL2NCoTX7Tizc09rmLJ67Y5RC6884kPPRMzLKcRw1FAitWIeFTei5R7Ht9yFe5cVBg/JjsGPaX3JZR3UBT/R1UdSntDobcOYflQzhd2hTIb/4JGuefx3lPhAvhHvu9o+b68acUa13NzsjwLE45N8+RGdBdVtRxndSseg3qRHkTQf3AtVDcmDjvHfdk+bkEEJFA5mlATAENs0s7lQEPhN6MJB+qSFYL94yH5kNK7VSNO5K1S1tHhIF1w9KKXGF0o74r7kTzpn5Zh25EMJZ2ryuiSCwD5GN/dC7NaZ6CwU7Fsg=;EGG+9gvYhuK8Mv3WYFJC2w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Cast AI Closes $10M Series A Funding"
-    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 41
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI firm targeting ultrasound with 100 times greater sensitivity raises $25M"
     excerpt: "An artificial intelligence firm working to create novel ultrasound technology, which it claims is vastly more sensitive that traditional equipment, just raised $25 million. Healthcare investment firm Deerfield Management Co."
     publishedDateTime: 2021-10-11T22:54:00Z
@@ -102,15 +88,6 @@ related:
         width: 768
         height: 498
         isCached: true
-  - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
-    excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
-    publishedDateTime: 2021-10-14T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/karma-the-browser-based-ai-shopping-assistant-closes-25m-series-a-funding-round-led-by-target-global-and-moretech-ventures-1030866082"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
 
 secured: "lG+8Ph0KFIkRWLi07U2uANcEgbMXPp9nIU2p25DldVENRJdEaMIHBHnlK16219OpX6EeVydBnVxw+sKF5GTzU1/U9iKJKGg32pZzmoIpZkdW4cbgcovA4EuafiiBInqubMzJKnuTF4sW21C8+sN7tLjniJ8zedukSi10sFu8VgBA0sa/JBDa2w4tXuNe0r6K1WkRBOqfQJUlwbAjtVFZjqpctbdI/AloHVViYC9QY6pj9G9484gHgK+2ty128pokT0f4Pqv6xjXVDI2KHnRDw3xmy4HW522XmqtPXNjwF9aIx5/PpWqHrHp39viaijBFfhAjOmly88jueE9K/gGvbLuCv4wAxLvYpClwiaEIBLA=;ZMDS2ua85HYpvqUjKgEfWA=="
 ---

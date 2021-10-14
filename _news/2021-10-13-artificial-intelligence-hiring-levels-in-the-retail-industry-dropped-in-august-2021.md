@@ -38,6 +38,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Geek+ launches highest logistic robot in the industry to revolutionize warehouse storage"
+    excerpt: "The highest in the industry, the new robot will enable customers to maximize the use of their warehouses. Things to Consider When Exploring Offline Robot Programming Software Solutions The Mini Series Takes a Taxi How to Find the Right Damper for Your Application Important Considerations When Implementing AMR Solutions RoboShuttle is a safe,"
+    publishedDateTime: 2021-10-14T12:56:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17614"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 10
 
 secured: "OcOOVV0rn9olsNqof2bioczyQNQOraOujSQf/dyXDQbgCXC8N3q7srO97A9KYHZ8VY6uAMAiVjWfb054M/BA+SosJunKYoSP+6pWjFf9GtRenP/v8hRnRQIJBw4fBRAF2qUQSP08wze1JZsnF2FmS5dFBJXi2DOEAPwG/L88YOV1m95GxsXupIflJSZXzuKfPOH1w7Ccvs5OVZwQlC/n7Hlt7t9v83hO3fcyu8gs/6xyR1m4gUBjjT2Vo8YnfbOTm/Q2kO1ljrI9wHllkP8hx7vJJu4Rqxemc+DLWIIf6Bc8g4dJ1eOQ/RZsbYQ1qwAUKisG+Kv+BbcdiHuCXV81Ys/afkiyKJnVGJJuys64he3GPIUJAjtXuYryH2p3Pg4ksXxVHVHodvTHXrt9CKUu6kR//sDSN9W7EvR3fceWlZt08tZ68u9u0pSBrLTUJIvK9P0voCFl+rBqHFEd33FwsFYNMtRTLCOEnfYLB4QO27sxgdrFsmeic1I/d1YMqzTQrUqInuidndXlekkWTdr9bg==;yXbN96PhkT1aPdkNUJj7qg=="
 ---
