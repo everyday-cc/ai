@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-13T21:29:00Z
 originalUrl: "https://dailyreporter.com/2021/10/13/dsps-introduces-artificial-intelligence-system-to-review-occupational-licenses/"
 webUrl: "https://dailyreporter.com/2021/10/13/dsps-introduces-artificial-intelligence-system-to-review-occupational-licenses/"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dailyreporter.com/files/2020/01/TDR-DEFAULT-FACEBOOK.jpg"

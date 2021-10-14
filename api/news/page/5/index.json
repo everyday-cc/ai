@@ -296,6 +296,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
+      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
+      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
+      "publishedDateTime": "2021-10-08T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
       "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
       "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
@@ -472,49 +515,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-smart-robots-do-all-the-work-at-nissans-intelligent-plant.md",
-      "title": "Smart robots do all the work at Nissan's 'intelligent' plant",
-      "excerpt": "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fairfieldcitizenonline.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "originalUrl": "https://www.fairfieldcitizenonline.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fairfieldcitizenonline.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "cdnAmpWebUrl": "https://www-fairfieldcitizenonline-com.cdn.ampproject.org/c/s/www.fairfieldcitizenonline.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php",
-      "publishedDateTime": "2021-10-08T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fairfield Citizen",
-        "domain": "fairfieldcitizenonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

@@ -1054,41 +1054,6 @@
       ]
     },
     {
-      "path": "_news/2021-09-23-correcting-and-replacing-ionq-and-fidelity-center-for-applied-technology-demonstrate-quantum-machine-learning-for-finance-on-ionq-quantum-computers.md",
-      "title": "CORRECTING and REPLACING IonQ and Fidelity Center for Applied Technology Demonstrate Quantum Machine Learning for Finance on IonQ Quantum Computers",
-      "excerpt": "The application of quantum machine learning to other industries ... “Classical computing enabled breakthroughs in the financial services space, and we expect quantum computing’s impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210922005347/en/CORRECTING-and-REPLACING-IonQ-and-Fidelity-Center-for-Applied-Technology-Demonstrate-Quantum-Machine-Learning-for-Finance-on-IonQ-Quantum-Computers",
-      "originalUrl": "https://www.businesswire.com/news/home/20210922005347/en/CORRECTING-and-REPLACING-IonQ-and-Fidelity-Center-for-Applied-Technology-Demonstrate-Quantum-Machine-Learning-for-Finance-on-IonQ-Quantum-Computers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-09-23-the-state-of-mlops-in-2021-is-dominated-by-startups.md",
       "title": "The state of MLOps in 2021 is dominated by startups",
       "excerpt": "Closing the gaps in MLOps is a lucrative new opportunity for startups, one that Dr. Ori Cohen says has seen $3.8 billion in funding already.",
@@ -1139,6 +1104,58 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-mit-developed-a-toolkit-used-to-create-3d-printed-muscle-sensing-wearables.md",
+      "title": "MIT developed a toolkit used to create 3D-printed muscle-sensing wearables",
+      "excerpt": "MIT's Science and Artificial Intelligence Laboratory (CSAIL) will present its research at the upcoming ACM Symposium on User Interface Software and Technology (UIST) next month, with",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "originalUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-22-image-49.jpg",
+          "width": 2230,
+          "height": 1212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
+      "publishedDateTime": "2021-09-22T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

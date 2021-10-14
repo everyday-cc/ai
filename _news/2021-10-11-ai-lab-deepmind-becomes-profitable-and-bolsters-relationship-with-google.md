@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-a
 ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 105
-heat: 135
+quality: 107
+heat: 147
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - Google AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
@@ -32,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind is developing one algorithm to rule them all"
+    excerpt: "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains."
+    publishedDateTime: 2021-10-13T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
     publishedDateTime: 2021-10-13T12:45:00Z
@@ -75,6 +92,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ygC+ZShxN1ombUVWmSX63tuO6101kkEXogECaFZk32WaZ0h2W1rAYv7kZk90MQDRCAit1lj4qaxET868aTvKIe2FB4cgi2jT82ZU55lGqsW7Jfy0FI/M6MPh1HXMGveE3aNGqNrAWEoXEgyqLWGGLjrKEVpNhAc4D55wcPWGUnQIFr1V01JR+m02RuxQyJJsnmid6HIzyMl9ZjMZidhh+xl04zt0b0QxXOVsV0CglyudLOyH9RhxBoh+bspkQdLgK7EcRT9/86/qe4VCtx8nJjgYJejaksz4l3fnC0F7mdUpF7lxJMpFlzVRe6Bj9nEaQfe8PsPVuxlqRVBf/HJInjysh6MFYYpkEQI/gNd+pSE=;PUclAIWtInUjmjDNqNpJrQ=="
+secured: "Yqct2kEpzf8IWY8qHoHPFY90kV+wQXPSfQ08K3+0wBCcPH9RumpFus3YlLvYhkfhsW1cenVFE83BJRIIWbBicnkB/OxoVBRYhrThcrO24+cqRh9ok4864RHwU9MnmDhVJWXdcvzQ3RFa9qcj1U1eDj23Z3LvMpQT738L4jfxq0YIUjuTjwyJhxEJsbfnaS0k+1pV8c0FJ8PSOaSFaPqH1kDZ9eg4NnpVeqgSsW5Aa3jZAMh5i08d3wYzTXAYnLcHfMcwuP247wNIE1Bc/tHx5hTMpO2h/qAH8zDpteIwkSJsyv0JWCw3t+p/E/cw9L4JWVIZR1ebmRmtAgl348XoEiRERiKKDpoS9VlYRp3z9zNud33cYpxW70fKgY8aNORQZZz9/zAEGVqSWp2cRtoQjBve6Yd4z5FvV3URV9EHqgav2okKshI/VaTAFLmwGxogWJ8xgoWjb7jUUAEZ9rYWqTP6zCIOQBm1A6DiXogkFvsEMIRwiJd1eyXMeYzBf/nr4EkI+GIdU99idmRUp/Vedg==;GscvOy1sHj2z2QBIwPQc4g=="
 ---
 

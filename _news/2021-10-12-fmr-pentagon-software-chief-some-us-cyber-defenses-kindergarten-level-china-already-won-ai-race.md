@@ -161,6 +161,20 @@ related:
         width: 697
         height: 367
         isCached: true
+  - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
+    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
+    publishedDateTime: 2021-10-13T22:25:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Pentagon's first software chief RESIGNS in protest because the US has 'already lost' the AI war with China and is '20 years behind its technology'"
     excerpt: "The Pentagon's first ever chief software officer resigned last month in protest of the slow pace of technological advances in the military, claiming China is winning the Artificial Intelligence battle."
     publishedDateTime: 2021-10-11T15:10:00Z

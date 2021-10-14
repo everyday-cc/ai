@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-le
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 127
 published: true
 
 provider:

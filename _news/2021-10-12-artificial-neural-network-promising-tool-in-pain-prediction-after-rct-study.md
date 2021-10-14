@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/dentistry/cases/artificial-neural-ne
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

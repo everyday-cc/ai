@@ -37,11 +37,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 105
+    quality: 107
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeepMind is developing one algorithm to rule them all"
+    excerpt: "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains."
+    publishedDateTime: 2021-10-13T04:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
     excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"

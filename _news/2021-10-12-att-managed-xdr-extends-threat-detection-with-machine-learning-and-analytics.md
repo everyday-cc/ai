@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F
 webUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F24F95"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The Healthcare Clinical Analytics Market To Make A Beeline To Technological Advancements Between 2022"
-    excerpt: "The Healthcare Clinical Analytics Market is expected to be worth US$ 28,000 Million at a CAGR of 15% between 2022 . Healthcare is going the“digital” way. In other words, artificial intelligence (AI)-enabled medical devices and telemedicine are the concrete instances of the proliferation of the digital wave in the healthcare industry."
-    publishedDateTime: 2021-10-09T05:43:00Z
-    webUrl: "https://menafn.com/1102942611/The-Healthcare-Clinical-Analytics-Market-To-Make-A-Beeline-To-Technological-Advancements-Between-2022"
+  - title: "Department of State Expands the Use of AI-driven Global Threat and Risk Assessments through a Four-Year Contract with Geospark Analytics"
+    excerpt: "Geospark Analytics, the world class leader in applied artificial intelligence solutions for risk and threat assessment, has been awarded a new four-year contract from the Department of"
+    publishedDateTime: 2021-10-13T13:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20044394.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 6
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?618537"
-        width: 375
-        height: 250
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "dv89iWGzd/7S33x4QyvufhdaEO/x2V627TqGSky0nw/ot1CtPpi5gSsGZlEiYqGAOV3qaw6kB8ZJPghmMtprt5fEBWuVHpv5hpW0+iyxTvso+AV4A22ZB71xJi5ru8GdbwJz6l3tH43cthPPa6wIj5Zxu4gRZyYuhhoc/IYwL/VODyflIqiZJmac1tTG3lN3gMzM/6pxELFFIvivrdWutAXVvliF600W1Pky5n7j/kaeAxXUpu8w91mKc/Ts8+0wul/eq6o9gHD4zkT/HOumvXnaCpUXwbUZY4GZ2dkXdUctOJs0EqqGyetyRpk/dJXMaBjlzBDqOb/KMa8xSE73G+Lm72lC8hh4ge5M3oWEK/Y=;Dp/wnG/Gi/C9pIp5JR1qIQ=="

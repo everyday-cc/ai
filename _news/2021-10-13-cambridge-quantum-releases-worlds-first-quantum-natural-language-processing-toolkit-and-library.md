@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing"
-publishedDateTime: 2021-10-13T12:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-876173068.html"
+excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
+publishedDateTime: 2021-10-13T07:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
 type: article
-quality: 6
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -36,6 +40,6 @@ related:
         height: 540
         isCached: true
 
-secured: "hxMA7uEjjg+wJT0M1QCchnQXsNEps1rFwiwd4kIGE4y22EbdMgAlX/qP4DHq8uPlrOiVQJs8WORkXBQwBny9X6WnzTs7zgTjFU7IXL+lXFcnu/dOMJNDJvpuYr4keVMeuMdK3UFXDp8wUui97RWxV2B/dIlX/sNivGh8be1lD9nBu4afMjzqQUQBjDmuiGo84dDeGqtTt2ku7ZC8cJv+8+L00om4zNe6nMY2/90SNKRQE0l4Bjb2jXao3wSaVHtBtcpRzHGu785y74h4IQVsH6VQPtVZJk39S2UbQIoeyXUZI0q2UremydXGEc96SGtPMjvChksoSoSuTi+RvBNGlcxNFWsC/ZbxUgAIaGMKnW4=;9ljyZskOFpC0akPxAYrsUA=="
+secured: "qm9ZkcNd0HCCE9RT6qluA2bsPYxfkaRs+17dXeEpetnUkLvHMGhBAU6/SGOByTS08mB2opTXxIr6s70COGtgOGPZSuEbmWfEgM6gJWJfOlwcZyqKW7RO0ELHMmNN2Ej9b3Bh3WhcttmeqDG5BPX21wOuiiqKdWxItKh53dwa5eygKfX6tPhfIs711YIsrEDx6yXDVhyw12JQW7kHuHGQtbKIugWupIMGopJ31Cm0Vnj0ycJpwOXoKFNHbxGEtdIm3TdpE1CLhsNOfHxPBSJBMLGHpcLlSQNQjXRBoagbtV0GHQvJoRvPoT+gYQp88Kmrr4PxBPAZZf0fAl6yp7oytvR/5Qj34TZHFmvhPp2Cyi8=;a2hBHd/kY8lYzfdlktYVNA=="
 ---
 

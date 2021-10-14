@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
 quality: 193
-heat: 226
+heat: 223
 published: true
 
 provider:

@@ -119,20 +119,6 @@ related:
         width: 700
         height: 530
         isCached: true
-  - title: "Apple Admits It’s Working on Self-Driving Car Technology"
-    excerpt: "It’s been a while since we last heard something about the Apple Car, but this doesn’t necessarily mean the Cupertino-based tech giant has abandoned plans for its own self-driving car."
-    publishedDateTime: 2021-10-09T06:41:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-admits-its-working-on-self-driving-car-technology-171342.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 24
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-admits-its-working-on-self-driving-car-technology-171342-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
     publishedDateTime: 2021-10-13T16:12:00Z
