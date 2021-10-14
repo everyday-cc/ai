@@ -43,19 +43,14 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company , announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from"
-    publishedDateTime: 2021-10-14T04:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-20045828.html"
+    excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
+    publishedDateTime: 2021-10-14T04:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 18
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "AyUehEQ8mqAnOsuCbq9YJCl0vwHqOmusYyNtKrTa9ZHXeTWL9SDBmtT9WbkIA5w43AmJZiSs7XaWRCLi8W8vEdSjrh94xMfRYxP17bAwxwmOSh5POUAainVMv/ErRVR7z8UJTJkGksoqoCVxEHEo9oH254n/puTIRETqcWQcAvBajJOUJwl8Zfo0zN6sl/RscElLHhTqZE+4dXL70zp54HHBuHllyfh18azMjKSwsZvas9DmramGviYYLnVUIACh77uctrSiV7UF0KelZnQ5AA8wkM7m/D5+xGwopA9VCkGkQgs7gJjxS5bpYmYT9NQTbNxyoCSM3wwywLFdI6amUZkzcHgRE628Ya38cWRUTG0=;UQG1vIBpuvax8hFVDeij4A=="
 ---

@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
+      "title": "Google Cloud extends its reach with new Distributed Cloud options",
+      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "publishedDateTime": "2021-10-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so.md",
+      "title": "Will automation and AI actually improve customer service calls? Salesforce thinks so",
+      "excerpt": "Clara Shih, CEO of Service Cloud at Salesforce, explains Salesforce Service Cloud's three-pillar approach to automation and AI and how the technology is transforming customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
+      "originalUrl": "https://www.techrepublic.com/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/11/b9ba7c75-14aa-422b-bf21-561b1b2ab65a/thumbnail/1200x675/f4a3f19a6f01a68590b537662091f6c8/20210924-einsteinautomate-bill.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
+      "publishedDateTime": "2021-10-13T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai.md",
+      "title": "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI",
+      "excerpt": "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp",
+      "publishedDateTime": "2021-10-13T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
       "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
       "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
@@ -234,6 +380,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-microsoft-has-crushed-the-worst-ddos-attack-its-azure-servers-have-ever-encountered.md",
+      "title": "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered",
+      "excerpt": "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/uk/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "originalUrl": "https://www.pcgamer.com/uk/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "publishedDateTime": "2021-10-13T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-uk-gov-urged-to-protect-human-right-to-review-ai-decisions.md",
       "title": "UK gov urged to protect human right to review AI decisions",
       "excerpt": "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'",
@@ -437,58 +626,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
-      "title": "DeepMind is developing one algorithm to rule them all",
-      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "publishedDateTime": "2021-10-12T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -1084,147 +1221,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: Best AI Companies",
-      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "IBM AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
-      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
-      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
-          "width": 650,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-mechanics-methods-and-mentality-of-successful-ai-initiatives.md",
-      "title": "The Mechanics, Methods And Mentality Of Successful AI Initiatives",
-      "excerpt": "Even when the mechanics of the initiative are successful, and the processes for the solution’s deployment have been cleared and optimized, the team’s mentality can fully arrest the initiative’s progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7f03915c55badeba28838%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/amp/",
-      "publishedDateTime": "2021-10-12T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

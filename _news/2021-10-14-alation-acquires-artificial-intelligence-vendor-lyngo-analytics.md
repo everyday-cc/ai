@@ -3,8 +3,8 @@ category: news
 title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
 excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
 publishedDateTime: 2021-10-14T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
 type: article
 quality: 17
 heat: -1
@@ -62,6 +62,6 @@ related:
       domain: ciol.com
     quality: 37
 
-secured: "2wSaIvfeSoRDGvSZhDoyxxZ4zJtSwj8XNqtEWMdNKk3Q5+19xC/phQ94ehGf+NnI+7Xwdgfftt1CzAOy1ADRCWzs4VY/Oxo0+6e2tGDM0mQyRGTh92QeDIImc/vjtXfXACQZIGz73exPduwKTkvxbOVzlpG2hjSoSiYvugVuvgCnt0ARbNzPDGOFbb9JTspB1PaxGpwBfzEk2h7+CHLahoGpZfuLaWNk8l0Qe6oPnZf8/OkiIiKdv5aLb56OCf9vi5+AEKE4cKoHJnt8CHYZ7QJoHAfJVcl1YmyiXh8av/IpP7oAfI3bjPfqUD1o3mbuonDwCzfKgNK4pL7XofihFbrPtZ+JPBmta4+rW8tqXvI=;sdexz9xsclqMbr15ST7g0w=="
+secured: "qKBSYr4RaUC5N6Mh6asn87y/jCCV5U9KwIKYI7QNsFpPR1LoUMYGA3R7bbBg/TUdpyHUURja0OFKiM5ZswPcW5cP5Bgrf7Ka2TH7w+HNu2ACf0XmaOubPehLi7PXW9xbJSgWWCxgL04k3Xa6zcZXAXH/NgQqkZMHqbm/kDdJ8/TCtPUaJJXpasMbbMvoj5TGWlCO4OkOnBQQ54hyrQ0tXFXGib1JVf6gGTjVE1GqptNq+YBI8LtCXMetgMQkXhl/vE/SP6XypGdwiroe7DUYGKnQkxC6utsk+TRgJw42klsYcA5lO7qbVJy1Vt/ks3HP/phSG2sXfdy5fDQLnh/sThSnDetoH4PFFo9C0QRsv9A=;fe7J+SjqrU4V4VcyfzlU8w=="
 ---
 

@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
-      "title": "DeepMind is developing one algorithm to rule them all",
-      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
+      "path": "_news/2021-10-12-deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities.md",
+      "title": "DeepMind proposes new benchmark to improve robots’ object-stacking abilities",
+      "excerpt": "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "webUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "publishedDateTime": "2021-10-12T21:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
+      "publishedDateTime": "2021-10-11T11:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -144,6 +144,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
+      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
+      "excerpt": "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
+      "publishedDateTime": "2021-10-10T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI",
         "Google AI"
       ]
@@ -1416,49 +1469,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

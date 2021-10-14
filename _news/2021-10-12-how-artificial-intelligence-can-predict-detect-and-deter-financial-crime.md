@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-artificial-intelligence-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-predict-detect-and-deter-financial-crime/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Energy-efficient AI detects heart defects"
+    excerpt: "Mathematical breakthrough by Centrum Wiskunde & Informatica (CWI) allows neuromorphic chip to recognise heart defects, speech and hand gestures up to a thousand times more energy efficient. Such low-energy AI chips are ideal for wearable and mobile applications."
+    publishedDateTime: 2021-10-14T17:37:00Z
+    webUrl: "https://www.cwi.nl/news/2021/energy-efficient-ai-detects-heart-defects"
+    type: article
+    provider:
+      name: CWI
+      domain: www.cwi.nl
+    quality: 39
+    images:
+      - url: "https://www.cwi.nl/news/2021/energy-efficient-ai-detects-heart-defects/@@download/image/shutterstock_1393074329.jpg"
+        width: 5760
+        height: 3840
+        isCached: true
 
 secured: "wDuCM210Uqd7jlAzHGEx1vf1J1C+InW1qchQHWbBVewMr76Xxe9KwIfLF+QatF3vI5h81qsD92ngDRkb45n6YY3KZy4b4QVz7p8wiGikS6qILElW3EkGqg8Afj5Besx1zYvhp7HHe8SH0uNLJ9mXf5T2ehBPepGbmOUUrBoE5vYBmCJEngX8mVgk3luuF5qPVI6oVtAAC3o7JkS0Eq534eiNE1vXRiTtX5eH9X4EHqezLhJ1HUx5v71FJAKQ7/tS8rCaPzW5N5VvnWSyw7cMhPKcyQw80zZFpiulLCZbJme1hfYwX03cRPXKyMlWnROqifM3Pk9c6H7oaa+3L5ShHkR5k6XsFgEzQKCT81Hs5FGjxAcU01Y1u7Gf6vCs1S3mdwsw74QTIBK76brp+ypKUYoXGICbnGHG/wRstNMvCAOdlplnPkTf6lSUlAuSblaghXFysuvJzu9a1BVqGb5dm57O6ufrdzoMe5NTdjEQCHWVj3pJyRcOMNnOE+eROvf3ov5LFYD6UbguuPWf0/UQVA==;Ca7MM/kB+LvoujHFPRqgkQ=="
 ---

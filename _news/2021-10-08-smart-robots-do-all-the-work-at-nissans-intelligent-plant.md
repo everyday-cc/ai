@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Smart robots do all the work at Nissan's 'intelligent' plant"
-excerpt: "The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience, but now robots with artificial intelligence,"
-publishedDateTime: 2021-10-08T16:50:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-webUrl: "https://www.seattlepi.com/news/article/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Smart-robots-do-all-the-work-at-Nissan-s-16518460.php"
+title: "Smart Robots Do All the Work at Nissan's 'Intelligent' Plant"
+excerpt: "Nissan’s “intelligent factory” hardly has any human workers. The robots do the work, including welding and mounting. They do the paint jobs and inspect their own paint jobs. “Up to now, people had to make production adjustments through experience,"
+publishedDateTime: 2021-10-08T10:56:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-10-08/smart-robots-do-all-the-work-at-nissans-intelligent-plant"
+webUrl: "https://www.usnews.com/news/business/articles/2021-10-08/smart-robots-do-all-the-work-at-nissans-intelligent-plant"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2021-10-08/smart-robots-do-all-the-work-at-nissans-intelligent-plant?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-10-08/smart-robots-do-all-the-work-at-nissans-intelligent-plant?context=amp"
 type: article
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "fO2wp2uErw47MIS4YwpmpDdif+pDw270yU0eXmLhhAE0eSmXzZa4HM4Ntmj1YCdXteV8kAz4gpGz2AWxowKjbKnz6Y8Km3se3ys9fnzvIfR0/p9iFBqwrefJ6sX6sQRfeAC3kP/6C68idPkkg55K6GuEg2Ds15Qqej9XaMsAmrKSE2lBXg2gidDgBlsXVPlVQOrP/HhTfx3wZcWGiAfatpp/EBLQZSZYW2f5NaSMw6Y/amwZsIg0WIGw9LplOn386jnJEp1ONl9TZzaNW1SESVNEUYtQTBTUrCjUMHN/xaQFmYllXjUPGcxqmznjaKX5GUP7nejMIHKnlADGhenpDQzFOhC6IeOpWagCM5R7sSiECvy6rX+hT78rz1EZYr3zPrT1/aGAocbxWZM/yRLEodbwAGxZARDqE1HYEI38lCfoFenpE50Heq3RX99ZFUnRqoBrCFRtELKewYluU+wBgxAynmkHYM/zdpoEW8F7aF9E6F4qZhgSRmIG8TrvGvNNPV0g8ybCmBKkjnNKftyZtg==;CpW2wREZ6BOGLPrfT1sduA=="
+secured: "j83dyGHvZb7AdJ++K2Yf9P8mYkifKlXpOw7AJDRKU2+Xh9zywE1epbYz2UxwWS0mneGPvyUCHMXJeoRoloNh15DuqwHaYrpGogWvMN7v9wmatAGawX2D198MwqIAYYtCtMw4qordpkWo4hXEcbBsB7e+DRLy7isC8iCQtwoo4IFzu3gK8ZcU0IAFcCMKbmi+9GX8IDBOfnl1dUbNZ+gQT9MwFCJm27FZpn7FlFPvoQor7Oa1u3zzBQb6UjGSC8OSpzLZ5+uRfPIjJ0kQS42INDhj1GwjSdPOQ9pDcEj+5RvrSDigXUHaL2/jahUu8lZwy01DU4fzaQonHnZDd4hKmrbWWSVZ0UVuTPuVZf6cqW+Z+Ui1KVFhXt7HuGQL4+KGZ5PcXyxGg4iL2cLnNuXQa+6bG3zflKSxWxmHlYNJoAyZB/6/c8R5GIKvYz8Yu3F5URbjeq8Q7BR0Dos7z13blUE1xE1ulQZnKh/eY+295UQO2XZCp6bgVEDycWI4I2aLTfL5R3QPfNPMUvjGlgI6oA==;JoZmD1XhifRLV70zpvMhsw=="
 ---
 

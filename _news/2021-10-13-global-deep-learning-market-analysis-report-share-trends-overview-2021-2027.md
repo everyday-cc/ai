@@ -20,24 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-
 secured: "+rgLuU+BelRwGnfC4YQL3XERBw7+5+acI2nieN5exm8o+7r9CLHZMfHoMAdqVPLa8+2wPTqMa/wWupt8oOTCXTGKK5zBgr+uE4NlVapsc7DOBuGFNUo40LSbHivUB0R12JlAERB38e4uBXqr6QnOI/sl+D+UE4lopkPWEpbYTZ3r9pwnJXbbG3ARrJXUuSHQEyaN5Q8mGZCPgYjutHos2wKIyrKlg3VjjvGMHQlRR3xWkf45m9IEIXgF2g+Nu/mFfgDH5GbnNp+247l0DmlxQrdt5KJQnzdWMULozbsMRnyPXVHjdAQy1WSgkOOBefXu5/snuD9qq1P2QUry8YdhC8mf6SLg+tu7t3iNAUTpFls=;SxX0Gy+WFQ7Da7J21PvtcQ=="
 ---
 

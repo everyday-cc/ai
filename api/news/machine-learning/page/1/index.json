@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member.md",
+      "title": "Machine learning, analytics should be used to settle claim faster and detect frauds: IRDAI Member",
+      "excerpt": "The insurance company should start making more use of technology to complete the claim settlement process faster and even fraud detection can be easily done, an IRDAI member distribution SN Rajeshwari said during National Insurance Academy’s insurance summit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882",
+      "originalUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/10/13/162343-tm-2.jpg?itok=7N3zDsR8",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp",
+      "publishedDateTime": "2021-10-14T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai.md",
       "title": "The state of AI in 2021: Machine learning in production, MLOps and data-centric AI",
       "excerpt": "With lessons learned from operationalizing AI, the emphasis is shifting from shiny new models to perhaps more mundane, but practical aspects such as data quality and data pipeline management",
@@ -1379,58 +1422,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
-      "title": "Box taps deep learning to detect sophisticated malware",
-      "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Malware-Deep-Scan.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "publishedDateTime": "2021-10-06T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-microsoft-has-crushed-the-worst-ddos-attack-its-azure-servers-have-ever-encountered.md",
+      "title": "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered",
+      "excerpt": "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/uk/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "originalUrl": "https://www.pcgamer.com/uk/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "publishedDateTime": "2021-10-13T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
       "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
       "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
@@ -994,6 +1037,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
+      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
+      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
       "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
       "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
@@ -1293,103 +1379,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
-      "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
-      "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
-      "originalUrl": "https://www.arnnet.com.au/article/691588/comparing-aws-microsoft-google-cloud-cyber-security-public-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_updated_2.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
-      "title": "Google is trying to make its cloud more attractive to app developers",
-      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
-      "publishedDateTime": "2021-09-27T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

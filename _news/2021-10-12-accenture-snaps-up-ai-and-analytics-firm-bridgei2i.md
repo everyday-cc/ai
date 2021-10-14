@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analy
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -26,31 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud, General Mills expand cloud, analytics partnership"
-    excerpt: "Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Google Cloud's deal with General Mills illustrates how that company has been targeting industries and leveraging its analytics, machine learning and artificial intelligence ..."
-    publishedDateTime: 2021-10-12T13:46:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-  - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
-    excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
-    publishedDateTime: 2021-10-14T15:22:00Z
-    webUrl: "https://www.alteryx.com/resources/webinar/the-bleeding-edge-healthcare-data-analytics-ai-innovation"
-    type: article
-    provider:
-      name: Alteryx
-      domain: alteryx.com
-    quality: 54
-    images:
-      - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/automigration/ebooklogoimage/universal_webinar_432x432.jpg?h=432&iar=0&w=432&rev=40b23c67059744a48c46e69276833aab&hash=C44E3EF00A8056C1B237BDA0AE3208B1"
-        width: 432
-        height: 432
-        isCached: true
   - title: "Accenture acquires Bengaluru-based AI firm BRIDGEi2i"
     excerpt: "Global professional services company Accenture on Tuesday announced to acquire BRIDGEi2i, a Bengaluru-headquartered artificial intelligence (AI) and"
     publishedDateTime: 2021-10-12T05:57:00Z

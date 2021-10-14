@@ -55,7 +55,7 @@ related:
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
     publishedDateTime: 2021-10-14T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469966.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
     type: article
     provider:
       name: TMCnet

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Salt Security Named a Forbes 2021 Next Billion-Dollar Startup"
-excerpt: "Salt Security, the leading API security company, announced today that it was named to the Forbes Next Billion Dollar Startup List for 2021. This prestigious list of 25 startups, compiled by the Forbes editorial team in partnership with TrueBridge Capital Partners,"
+excerpt: "Salt Security, the leading API security company, announced today that it was named to the Forbes Next Billion Dollar Startup List for"
 publishedDateTime: 2021-10-14T15:03:00Z
-originalUrl: "https://www.wowt.com/prnewswire/2021/10/14/salt-security-named-forbes-2021-next-billion-dollar-startup/"
-webUrl: "https://www.wowt.com/prnewswire/2021/10/14/salt-security-named-forbes-2021-next-billion-dollar-startup/"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/salt-security-named-a-forbes-2021-next-billion-dollar-startup/article_0ba5c7f7-ded6-5683-a00a-2c68df9dcd9a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/salt-security-named-a-forbes-2021-next-billion-dollar-startup/article_0ba5c7f7-ded6-5683-a00a-2c68df9dcd9a.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WOWT.com
-  domain: wowt.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/suX9SolP85kL_wbJrtl_3kk-3pg=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/PZCX4WHOH3UNUXLSLXP4AICY7M.jpg"
-    width: 980
-    height: 327
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/53/e53b6083-8e0a-57f1-a77b-3ef97e391471/6045717b48e58.image.jpg?resize=1200%2C400"
+    width: 1200
+    height: 400
     isCached: true
 
-secured: "192zmfVjKGMBeBvrJNH3kjDLTtouE8ffEQ8jwYPGdnhvKIjzl1umFLf6YeQ7cv41A2x00TED9UJ/0SdJRv7w3H1JhLVzzk62Io0baKBT2Z0eTo6RdlUeG1UazcxxFtp4earmsG27O7LRzGQ8RGbWydwRjsT1nGLzPw7yWfVA9XaZsj+PQ0joBYyEyJKalLyz56r9AggOVPA7M3VRGDsjBpTn8U3188PwhqIh8H7pXYrvFvSYvuepc0900ETFwn2Zjs4M19bs5ty6Cf74Hr+UKPVJde1+qwgJmal15SM2f6UKGhe9NGI8DIBAzkZkp9KymayX+Oogd0/J2aR+iH+ziw85tksOSAE5Mo3p06199as=;/OyalflYdo5zhcPZ2+b1Pg=="
+secured: "AemEL6zXCD9XPGCEBPD06YsXiN2hQKdmhDSL3shyeMEG0hE7ZFxTC7Awj1HWn9W9B62ORf8VXyt5/2bvhdQqgJBV+M3XJNbKTF46VAq1W6z5L5G8qzYGNRV9xh5e3tifN91CghkvrleiMAbAm5ixg5hGl/yvrkvZ4F1NgIAUyyGI693kh6EZTuDSbi3mP0TYlefL/KIsTSgLTdqxixUqQMT6EyIvQt9+oOVPhLCQyq04yvfGYhjMQPrKv9qcjV3/N/q2Brl05gie5lN2MomPt1N8WNjSdmlqLwPnaKhk2H1tacyVicpeYrBB81wZ/ZdgGsssFCAkGOwkBLw7ah7Cflstac4G2Bo9pSdOG5pSpck=;dJmGOmUva09saBsYtlo6Dg=="
 ---
 

@@ -147,6 +147,20 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Is China Winning AI Competition?"
+    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times following his resignation."
+    publishedDateTime: 2021-10-14T16:00:00Z
+    webUrl: "https://i-hls.com/archives/111099"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 39
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
+        width: 1280
+        height: 905
+        isCached: true
   - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
     publishedDateTime: 2021-10-13T22:25:00Z

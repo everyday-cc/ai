@@ -6,9 +6,6 @@ publishedDateTime: 2021-09-28T15:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252"
 webUrl: "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
   name: Business Insider
@@ -23,24 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Sumo Logic enhances observability suite for app, infrastructure performance"
-    excerpt: "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications."
-    publishedDateTime: 2021-10-01T19:42:00Z
-    webUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html"
-    ampWebUrl: "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 72
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "m7BWBjfpvn3AL+SXUvXY4dPDwYetb/hVw/V6LUVcm49ECkewQvHdre83jNFDgWnsK340ca/oBEV89GMi7N8R+ov9p6H5o/gSW9ItpnR9F8pEEH9IbtELQD/bKCcza3OMPaJg9ItfiQDTGzz1sM6hrQqjPIhh6OkZKhsEV1zlfkKd19TBWifUwX5Kdar7RqOQruKMRb555nCiSaaDdqvmDM7P0wy/2lNQ7b9RWFDojA7N22nlNXr3HM1hmUBXa2LJ4GZPVvNqn243dDUOTwfI0mjgJ7TbvRaJArAHfJ9ZvLvj7saxepIZAhGSy2rhGE/XLPQcAWX5No+ToT3fEabUU3bPGgIiA7YL9VH/ENwICzg=;ZKwSilDW3jwC6J4fJGqUDA=="
+secured: "H+4D+rrmZ6euT3H5CU+FNV3w1h4vxCcueRsWhIUh9NvlWEa1fdWqvwvFNee2dy9SFGIvIPW+ZW5Viw+Z76eSbqr9hZVTg93/nx5eff3VeNLpNnAWkI+2APBdZTC41sQxsYAWoohjFoi75NLE6zfDZEzsLtouRPO+722Q4cb44RrEief35fh6U2AHJSSvjJNIToGYFVnamhFEjhhSOeCnE4+Lhg+oH9NBInbdkxdOGGMr0s2d63ihVCLoMnbL8dVEhcElDRv5TXoZbrbv4ItHRGWggxvDvC5zjHOP1id8YQ4q3GFhOxYEzwKHaMvIGnF0oB1Iyz9O/MxpavtEbNx76asCEbfm0RGHkw1fGOsc7N4=;if+vEu+ny9xJcl0Rf/oKjg=="
 ---
 

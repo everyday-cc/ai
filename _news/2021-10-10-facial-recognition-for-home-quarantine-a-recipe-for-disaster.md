@@ -20,22 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Facial Recognition for Home Quarantine is a Recipe for Privacy Disaster"
-    excerpt: "State governments trialling home quarantine need to take active steps to ensure they are not crossing a new frontier in the surveillance of citizens by using Facial Recognition Technology, warns the Australia Institute’s Centre for Responsible Technology ."
-    publishedDateTime: 2021-10-10T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/facial-recognition-home-quarantine-recipe-privacy-disaster"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 39
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
-
 secured: "UONNn8x9/6PTHJ4oippehaaOZ4vLZDGTWWbq6Swff/0cQm5313mk3q0wbdJbc1fFVYGs4cHhindCETNgXZlJmkpGzN1YQF89AiTgWW9+u970TWSEePrKA7bZ+GVam6PgDQsW+4lDzBiit/F16AGzqG+1p2XpRvEocrkEDI+iqyZpefQGa3urC3HMx0Jt1aVnjX+CGngx9UwO5Ch9vXMTLhfvD2Yp1LXW8uJojspepaIX+i6q29/r7QWycFAoRYDYzUwheW14Gnhr27pWfIrraTZkD22Hk7wzgFadDk0Nga9x5+amJAuErNVLyycwVYN/hba7f0KXie+z53i4shOV1vwA718vCCDUItDFOuChL+WS+JzBRY7FSC57+7sy8fPzxZdLc3bbQ3hYDDePZp41s6hi49qkx49JanmWpkUX3cSiJuMXYHhDl5jPI1EnZtfEFowSjOAnm+EHN7JgPXLszPZaprTyg0fF8cCW9ydQtwaaCJf+zi5QU3Pb08yP5OnMKzKahUJl9rfi2HzlJ6RpcA==;Pkhnp2QAi8z7CVjBSr6JnQ=="
 ---
 

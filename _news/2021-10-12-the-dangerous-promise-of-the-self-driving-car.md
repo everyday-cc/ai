@@ -123,6 +123,22 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
+    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
+    publishedDateTime: 2021-10-14T16:42:00Z
+    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
+    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
     excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
     publishedDateTime: 2021-10-11T11:25:00Z

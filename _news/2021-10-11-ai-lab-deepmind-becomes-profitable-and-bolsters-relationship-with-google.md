@@ -1,26 +1,35 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-publishedDateTime: 2021-10-11T13:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+excerpt: "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company."
+publishedDateTime: 2021-10-10T22:16:00Z
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 105
+heat: 155
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
+  - AI in Autos
   - AI
+  - Google AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "DeepMind is developing one algorithm to rule them all"
@@ -38,22 +47,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
-    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
-    publishedDateTime: 2021-10-11T18:25:00Z
-    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
-    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
-        width: 1198
-        height: 670
         isCached: true
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
@@ -112,6 +105,6 @@ related:
         height: 300
         isCached: true
 
-secured: "OmqIdJ/4uyk6qbjCbBPYQKgDTs/fZhjgeP9jLDs0aRW4+fN/GLzNgXmFfv4r8UeQ2cw/FXA4vTL8lLASBO+VFymlwqUVFus+Kg4KMnBDA2pJ4Y17PS1MfUDl8nmzGvBrY2Puj5lmREBv7w7ZAnczUg4TAyl4Ty0qdFvWVUh49xk/kW4T3R3z6F6OzjS+6LdE0lpPHGaWEjBM9/5HB43Icpxk9Za6gLS3ieDH0+quA3CPqICJbKYkGXqh15U8ElrluheHhqWeU+OShJDWGvszkuvquIq9Ri7dM9TE/ucOCp00WT7z0VWx167ZhFhLoptVeQl06tDTVoE5nPgdUozAZKcBE7+v/VH+UhMWPmOqWYM=;4yW3E6/5qR47qDkI4XTfoA=="
+secured: "/yPjHO3J4jY6/HSwYy3W/lVKISf0nOZSuDJr5EyBypJ9P5iYFr0ZkaEzdBwWC2+wBvL7ze/Bi28kpnFuecE/x/NMgRipNMA6kniXZs895PvEK9EPPyKNU7qvpWfVhJjnX9ocJ8cSUT7JJSr8kY+Aw1GzM7jRTY0LzBk8P8DYP549AKISdG6pM1IMdS0r0Vz1af1WS/mmBQVLWqoXD+to9cu8HpzHjwauW8wI3nVPPlsNfORLw/vGXAMIUScwjUVX2uwQilkJDY27e7dMcaoMVCT17bgGWwIzGeCf2CcRgIETzgHtnJYyWs7RvInDg2B6Cvs51AtDiWcnmpYo5DnLfMNLdkiVZqg3nK17LVuhzLE=;WJHjf8VsrWM63QhezVEGgQ=="
 ---
 

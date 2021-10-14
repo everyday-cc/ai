@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 120
 published: true
 
 provider:

@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
+    excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
+    publishedDateTime: 2021-10-14T17:23:00Z
+    webUrl: "https://hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    ampWebUrl: "https://amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56510/content/Facebook.jpg"
+        width: 708
+        height: 425
+        isCached: true
   - title: "Facebook’s moment of no return"
     excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
     publishedDateTime: 2021-10-12T17:07:00Z

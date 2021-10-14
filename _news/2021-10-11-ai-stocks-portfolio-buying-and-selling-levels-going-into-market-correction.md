@@ -133,6 +133,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
+    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
+    publishedDateTime: 2021-10-14T16:42:00Z
+    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
+    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Predicting and preventing production losses with AI"
     excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
     publishedDateTime: 2021-10-14T13:30:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "NXP Semiconductors Selects AWS as Its Preferred Cloud Provider to Power Electronic Design Automation in the Cloud"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company , announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from"
-publishedDateTime: 2021-10-14T04:08:00Z
-originalUrl: "https://www.lelezard.com/en/news-20045828.html"
-webUrl: "https://www.lelezard.com/en/news-20045828.html"
+excerpt: "(NASDAQ: AMZN), announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
+publishedDateTime: 2021-10-14T04:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nxp-semiconductors-selects-aws-as-its-preferred-cloud-/2021/10/14/9469386.htm"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "NXP Semiconductors moves all of its chip design workloads to Amazon’s cloud"
@@ -58,6 +52,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "xnvwG59hqJz591pRLeCkBGmUhUpdHgjyc0RQmfCOSWJQhnRQO8ZZKpD/lxq6syhu6+qUTvdrumq8ARhKVYg8xvZadHi1cnbtCukIswG5j9qK85fnS97wHnOACTqFOp9AbYfmxSlh85cLq56wvfZU7jDG6D8KO4+cfUlQiL1Uqg1je0clo+XHVnWeIPWOCxAKue65k9JvQDGa8vz/arZ+14Um+mi+NG0RKvvpJic6cMRHhPqpVWPCL35IN+GqFKxxP6vG73liCtPXi8s9Jkb8TthkO0YcVEd9dOpBMuyf5V2253yxdrKYb5XaALuqIr0ISbJR/aGyylkwKnmrYe34ybwtio4dwcN1rV3idHg6x2o=;Z0Xeb3sYC/NWt23hMJ0WsQ=="
+secured: "d3+R3ySJgLaxsFv+Q8B4PikmjvLUpBeOKq/zHY049tmdbkbvQZKnR90n4P/ur18s+tzWBD/9V47ysQP5t7UQmG9reiahDlA04M91Bd0++rzJ8x1JtBM8ubW2F0dEDaWDIzzXOZW4gp9aBYzFFefOSgZEw7yHtjyN01XT3Q11MqqL6+eKNcJoFcgkqHTw4KbsU6xq5rKRu0+rfo1ONZ2BzKcu4NRVb1xkeDExsDL2jZOoPCxnzI08kHVEUuSP+62RccWWfgZd6LdTFqdt8/Bff/IYuDMkID2sSrZbMjiX4yGIiOTY4oSlRLzUGM2GQr3H3IY/maUHfUhZydsNNLkiXUHkjkn35+FmHmdbr2Cxc3A=;NGIBn8931RQwkiug+ZLW1w=="
 ---
 

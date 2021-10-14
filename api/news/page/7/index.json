@@ -2,6 +2,256 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-08-ai-technologies-are-being-used-to-localize-the-bob-ross-channel.md",
+      "title": "AI Technologies Are Being Used to Localize the Bob Ross Channel",
+      "excerpt": "Cinedigm is working with the AI-voice startup Papercup to dub the entire catalog of Bob Ross’s iconic painting show for linear AVOD and SVOD platforms",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
+      "originalUrl": "https://www.tvtechnology.com/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZQ9Dc8gp5tbh7xLtmLTG67-1200-80.jpg",
+          "width": 959,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/ai-technologies-are-being-used-to-localize-the-bob-ross-channel",
+      "publishedDateTime": "2021-10-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-wild-images-show-scientists-training-robots-to-clean-up-chernobyls-waste.md",
+      "title": "Wild Images Show Scientists Training Robots to Clean Up Chernobyl’s Waste",
+      "excerpt": "Now, the scientists are hoping that the site of the disaster can help train robots to help humans stay safe in the decommissioning process. 2 / 8 The team worked largely in what’s known as the New Safe Confinement (NSC),",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874",
+      "originalUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/098423da31c5aff80afdd3a62ba78ddc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/wild-images-show-scientists-training-robots-to-clean-up-1847817874/amp",
+      "publishedDateTime": "2021-10-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-part-2-training-and.md",
+      "title": "Build your own brand detection and visibility using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels – Part 2: Training and analysis workflows",
+      "excerpt": "In Part 1 of this series, we showed how to build a brand detection solution using Amazon SageMaker Ground Truth and Amazon Rekognition Custom Labels. The solution was built on a serverless architecture with a custom user interface to identify a company brand or logo from video content and get an in-depth",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-build-your-own-brand-detection-and-visibility-using-amazon-sagemaker-ground-truth-and-amazon-rekognition-custom-labels-training-and-analysis-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-895-image001.jpg",
+          "width": 1510,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T12:12:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-the-internet-archives-wayforward-machine-paints-a-grim-future-for-the-web.md",
+      "title": "The Internet Archive's 'Wayforward Machine' paints a grim future for the web",
+      "excerpt": "The Internet Archive is marking its 25th anniversary by peering into the future to predict what the web might look like a quarter of a century from now. The non-profit took the opportunity to rail against internet regulation by offering a grim vision of what lies ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eff.org/issues/cda230",
+      "originalUrl": "https://www.engadget.com/internet-archive-wayforward-machine-web-future-wayback-175936050.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eff.org/files/issues/cda-230.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-scale-ai-launches-rapid-data-labeling-service.md",
+      "title": "Scale AI launches rapid data-labeling service",
+      "excerpt": "Scale has launched a data-labeling service it says enables rapid and accurate results for companies building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/scale-rapid-promises-quality-data-labeling-for-ai-in-as-little-as-an-hour/amp/",
+      "publishedDateTime": "2021-10-07T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-face-recognition-software-launched.md",
       "title": "Face Recognition Software launched",
       "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
@@ -961,266 +1211,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027.md",
-      "title": "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027",
-      "excerpt": "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
-      "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
-      "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T15:52:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gm-ultra-cruise-pushes-closer-to-door-to-door-self-driving-cars.md",
-      "title": "GM Ultra Cruise pushes closer to door-to-door self-driving cars",
-      "excerpt": "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "originalUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "publishedDateTime": "2021-10-06T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together.md",
-      "title": "Simulated AI creatures demonstrate how mind and body evolve and succeed together",
-      "excerpt": "Artificial intelligence is often thought of as disembodied: a mind like a program, floating in a digital void. But human minds are deeply intertwined with our bodies — and an experiment with virtual creatures performing tasks in simulated environments suggests that AI may benefit from having a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/unimals-hed.jpg?w=1024",
-          "width": 1024,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/simulated-ai-creatures-demonstrate-how-mind-and-body-evolve-and-succeed-together/amp/",
-      "publishedDateTime": "2021-10-06T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-ecommerce-accelerator-patterns-machine-learning-and-ai-raises-225m.md",
-      "title": "Ecommerce accelerator Pattern’s machine learning and AI raises $225M",
-      "excerpt": "Today, ecommerce accelerator Pattern announced its $225 million growth equity investment for its machine learning and AI-driven logistics ... of impressive.” VentureBeat's mission is to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Online-shopping.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
-      "publishedDateTime": "2021-10-06T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

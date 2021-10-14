@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
+    excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
+    publishedDateTime: 2021-10-14T17:23:00Z
+    webUrl: "https://hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    ampWebUrl: "https://amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56510/content/Facebook.jpg"
+        width: 708
+        height: 425
+        isCached: true
   - title: "Facebook’s moment of no return"
     excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
     publishedDateTime: 2021-10-12T17:07:00Z
@@ -150,6 +166,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "s3EPzX9F8Rib5+da8I6zFEiROuJhx6P+9dN05CLLDR1ep5+FVFRDHI8iSyZBhQmjqZNKo+KLRAdGLGYA7MqXowWgPmHFgugSB0NR3176vlQ9JrYOsz2Rnu88QDD5h732X7ub1yoM7D80E4oki7zJzxZevgepKGp5lU+yozB5cKRQlgR9iSyeDJv84dQAqOxdJ/wHDVIpu8dyyxNki/rHVhwQxSsnR+UstN9xEUv0IpC2ecqXcmypnxIy+ECTcFPQK20+G4FzuK22XcGasVnQHyQoFTdj7ptMwjqGBazmlF1FDgL5Mwb/XdMbtvh9YtRdC+nlI/LRwxHLmVcrJPOZCmnYAPB+WxxSPqouznyWuWI=;jKGVvLblTxmS7GGk5Wpfhg=="
+secured: "X07W2n4UlIB0B/daKOa+cGOVY2psEMltY1m8tANizw7JJIYn/ZpGR0fxB2kgf+Xt81OyGpsW9YnjzzxMRKvFB7KllGbYYR/G6bluKgB/lAbl/xaNUuEZD9iAVYzXQI39z+HGIUJ5MAmJqUdxqCJENdHoJ9BrNS+WpIoyH70NKHRGt0H0qq1s+/BwO2Z0a2VQqXek98CZmZ+ImtE3CHlUeHYgCSg3hmx/MxjYLTZWBh4Fc58Ky22PpOBYQISqzy6xcQwnHh5Z/Prh6r/QEOL52/6wKZEvusSEofNcDR4fY7DevoVj+zvNyHmlyBzVqdE1ggU39X6ot+qr+1tTuq157IpnsBXiBarqSTe1PcJotehnit+jKmCWj4ffqOydzIh9uL8jbJsckw+FbcSDUP24ZUaqZZETXLTQ3M4f2AS3z3+HT86rsFqEpzURg1uDRUkp39YbcMrJ4QlKKlZR7Tainq7oHPHmVNGiFTfxMNtCxXkqOPGesVid84H4qEVW/kHKd2Xq+jhCaYOOpUbRg11npA==;EubGrCmTSbagNQ305lYCkQ=="
 ---
 

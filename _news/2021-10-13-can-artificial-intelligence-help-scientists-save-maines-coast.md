@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/can-artificial-intelligence-help-scient
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast?_amp=true"
 type: article
 quality: 72
-heat: 83
+heat: 82
 published: true
 
 provider:

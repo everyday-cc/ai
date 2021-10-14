@@ -959,6 +959,50 @@
       ]
     },
     {
+      "path": "_news/2021-09-28-arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability.md",
+      "title": "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability",
+      "excerpt": "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round was led by Battery Ventures with participation from previous investors Foundation Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-machine-learning-as-a-service-mlaas-market-to-rise-cagr-of-3840-by-2025-tmr.md",
       "title": "Machine Learning as a Service (MLaaS) Market to rise CAGR of 38.40% by 2025 – TMR",
       "excerpt": "Request a brochure @  The analyst of the TMR publication has notified for a fairly consolidated competitive landscape in the global machine learning as a service market, with leading three companies,",
@@ -1307,49 +1351,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-a-machine-learning-algorithm-to-target-covid-testing-of-travellers.md",
-      "title": "A machine-learning algorithm to target COVID testing of travellers",
-      "excerpt": "A machine-learning algorithm for targeted testing has been implemented at the Greek border. Automated system allocates COVID tests to people arriving in Greece. Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

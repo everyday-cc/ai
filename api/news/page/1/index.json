@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-14-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member.md",
+      "title": "Machine learning, analytics should be used to settle claim faster and detect frauds: IRDAI Member",
+      "excerpt": "The insurance company should start making more use of technology to complete the claim settlement process faster and even fraud detection can be easily done, an IRDAI member distribution SN Rajeshwari said during National Insurance Academy’s insurance summit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882",
+      "originalUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/10/13/162343-tm-2.jpg?itok=7N3zDsR8",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp",
+      "publishedDateTime": "2021-10-14T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
+      "title": "AI paints a Picasso nude, just like Pablo did",
+      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
+          "width": 1454,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "publishedDateTime": "2021-10-14T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
       "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
       "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
@@ -50,6 +144,57 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-spice-ai-wants-to-help-developers-build-smarter-applications.md",
+      "title": "Spice AI wants to help developers build smarter applications",
+      "excerpt": "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png",
+          "width": 750,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
+      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -197,6 +342,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
+      "title": "Mozilla artists question whether AI could predict police killings",
+      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "publishedDateTime": "2021-10-14T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -458,7 +654,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -694,57 +890,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-lost-picasso-nude-re-created-with-help-from-ai.md",
-      "title": "'Lost' Picasso nude re-created, with help from AI",
-      "excerpt": "Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists, he'd paint over existing canvases to create new works, thus concealing the earlier images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/",
-      "originalUrl": "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
-          "width": 1454,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/",
-      "publishedDateTime": "2021-10-13T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -997,7 +1142,7 @@
       "originalUrl": "https://www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1019,152 +1164,6 @@
         "name": "Government Technology",
         "domain": "govtech.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
-      "title": "Google Cloud extends its reach with new Distributed Cloud options",
-      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
-      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
-      "publishedDateTime": "2021-10-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so.md",
-      "title": "Will automation and AI actually improve customer service calls? Salesforce thinks so",
-      "excerpt": "Clara Shih, CEO of Service Cloud at Salesforce, explains Salesforce Service Cloud's three-pillar approach to automation and AI and how the technology is transforming customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
-      "originalUrl": "https://www.techrepublic.com/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/11/b9ba7c75-14aa-422b-bf21-561b1b2ab65a/thumbnail/1200x675/f4a3f19a6f01a68590b537662091f6c8/20210924-einsteinautomate-bill.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so/",
-      "publishedDateTime": "2021-10-13T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai.md",
-      "title": "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI",
-      "excerpt": "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp",
-      "publishedDateTime": "2021-10-13T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
