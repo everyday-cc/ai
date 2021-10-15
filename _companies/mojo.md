@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/mojofertility"
 
-twitter:
-  username: "mojofertility"
-  url: "https://twitter.com/mojofertility"
-  followers: 392
-
 size: 11-50 employees
 yearFounded: 2017
 locations:
