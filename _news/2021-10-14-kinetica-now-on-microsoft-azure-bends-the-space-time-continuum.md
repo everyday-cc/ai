@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
+    publishedDateTime: 2021-10-14T20:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005880/en/Kinetica-Now-on-Microsoft-Azure-Bends-the-Space-Time-Continuum"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "DmN3m8S0GZsUyagQeOUmojHzSRS3Yy9HsZHxqd2seQO2z2NqW8cKWrXGXx+HMb++z8A6DvsHvXG2VqCoipZuZqjMM2lTuGfhpQ4sarEkgC1uWzyVdVQJwro7PNN7lc1E0TRBVIMhBGwUqZDzZAUlHSygyVwYzsyyvrTtRX1rJrm8juaIJ1WWzIX1TfLyDJI7VXrzdQXIBwJ68FJLe8oKxJdQIjf6WXRC7maXBLHvq/31JKYOGLN44BK5FMZU6BIDO/J1mMCmPprh+oGox8jZ+eToVq8yhfN8Lvv1fXLR2BlXzYKAw8CuWD9JhQYajkpKOvkUGvCHAbC3RgNBjR+32zy4qMobAZHA+wssNJmz8rs=;LDGkHLvwDW93dOCtkwHG3A=="
 ---

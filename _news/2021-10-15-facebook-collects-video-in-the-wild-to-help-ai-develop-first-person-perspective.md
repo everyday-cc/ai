@@ -103,22 +103,6 @@ related:
         width: 701
         height: 526
         isCached: true
-  - title: "Facebook developing AI that can see, hear, remember whatever you do"
-    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
-    publishedDateTime: 2021-10-15T07:17:00Z
-    webUrl: "https://www.freepressjournal.in/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-    ampWebUrl: "https://www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-10/96be85aa-95e9-4332-8921-2ba50beda0f0/Untitled_design___2021_10_15T124556_294.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook helps AI take a first-person view of life"
     excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
     publishedDateTime: 2021-10-14T17:12:00Z
@@ -229,6 +213,20 @@ related:
         width: 620
         height: 501
         isCached: true
+  - title: "Facebook developing AI that can see, hear, remember whatever you do"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
+    publishedDateTime: 2021-10-15T06:42:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do-324968"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1884503493.jpg"
+        width: 660
+        height: 439
+        isCached: true
   - title: "Facebook’s AI research might one day teach you how to play drums"
     excerpt: "A new research project lead by Facebook's AI team envisions future AI tech to continually analyze people's life using first-person video by capturing everything they see, hear and do to assist them with daily tasks,"
     publishedDateTime: 2021-10-14T19:58:00Z
@@ -242,6 +240,20 @@ related:
       - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/10/facebook-header-1-2.jpg"
         width: 2560
         height: 1439
+        isCached: true
+  - title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
+    excerpt: "Facebook has announced Ego4D, a long-term project aimed at solving AI research challenges in “egocentric perception,” or first-person views. The goal is to"
+    publishedDateTime: 2021-10-15T14:52:00Z
+    webUrl: "https://dataconomy.com/2021/10/facebook-dataset-benchmarks-ai-egocentric/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/10/facebook-dataset-benchmarks-ai-egocentric.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
     excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"

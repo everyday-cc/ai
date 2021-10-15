@@ -3,24 +3,26 @@ category: news
 title: "Bold Insight co-sponsors DePaul University grant program that bridges AI and UX"
 excerpt: "Bold Insight provided students with opportunities to plan and execute projects that bridge the artificial intelligence (AI) and user experience design (UX) fields by funding a summer grant at DePaul University."
 publishedDateTime: 2021-10-15T13:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bold-insight-co-sponsors-depaul-university-grant-program-that-bridges-ai-and-ux-1030869657"
-webUrl: "https://markets.businessinsider.com/news/stocks/bold-insight-co-sponsors-depaul-university-grant-program-that-bridges-ai-and-ux-1030869657"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-depaul-university-d83f96be379279deeec92a443b813a99"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-depaul-university-d83f96be379279deeec92a443b813a99"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "Y4MtQtBD0H2R0XYeuoS89tUpWo5VJcxzVFnlkmfzO1TThJAnJidY7DgUs6u44A70TvU6XQESfJ3Py4EhtIFJXKoBKjipnXYX71euY6qPmH0Kn80041xoYK/gLTCtmWQTDZ/Kqnm/XuCE9sNiPjeOTxIHvRFcIRDOIYXE5gR/e4vUyCZz8FGfcSKzuWUE/8Si81MYqm1vMTJIxvA2ytA/rWshuQZYONXsMxWgJ9t7N6i+sFLDq3j52xeHQV1Mls2PE77bExfToViEFKwI2QN2s8L7o3PZtXbXTFJ17tIKcfSszjzgF2BDWfrOI5V2nSQDUWeeF/4Scmnq+awC01W6lQ/TGOV++HPytwT8tKO/3Uk=;Ui1idj3Bcl5XFFvVUNNsjQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "2jxKReL/eFrUoYoc+Gbq5J3OQVtgJewXavyLHs0M0IwO7GTXb/8gvjS1iR9qrWHjkwyqei6JXtHd22jGP4F3jhY70sD2vFyryjsGBB81ufmc6SsCY4ZLEM7RYhTIlLPdCb9kxYXu5kvzHKEyI1Okf/vVXu6irF5fcyzlDREzNQo3EC/GzqH9V+EF8OplA85fUSMrpgmh8QjSu6Ucz36T6pj3g4UqQUOio/W365ANFv1dDcB1qPZw/V35GgLZj0FFGphoOQSYZFhBqAT5X5GEMeOOKHQK4VmhpYohKrcI7i3d7whzCDhvXY4vv91VaZhIKLNyKs/MAl/xSpU5HqR4DlatHI9wDPfWMkJPNFiY47o=;pcODyLQfCuV1PMhhpgqGrg=="
 ---
 

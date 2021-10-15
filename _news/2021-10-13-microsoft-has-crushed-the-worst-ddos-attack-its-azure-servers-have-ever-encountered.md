@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-res
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
+    publishedDateTime: 2021-10-14T20:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005880/en/Kinetica-Now-on-Microsoft-Azure-Bends-the-Space-Time-Continuum"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "EkGdBAZitSsb996/HZNseTqZMEZwCNLSAM7sKzr4cEs7zGEpVZ7LhwPLATXACKnT5hbzkzl+twqvq33wTVeDRtHGoPOnBjVAhNOq8u+70DigBOEGVF0RvSEBC+TlzmOfIxbwKR+3x+WeEW+HENuCdQhDDSszYJVPsl60ElWVyyKWJ+aqPa0gzV647RDqFqk/STsGUfq7iux3YUZBaFj/md+fZ6P9CtMijKW55Yh3yTlkSqOILDiwR5cgS4/4ITO6o/A0ylRzhQ6sYPHCnpZgBDDbqGMypv7Xryi7B0pVZzw8rGgqf08Errf4Q33vlEC7hRp4rY9Zc1t3ou961SRg5SCDI9zt6gWqZJ4Lme/BSdc=;JBm45ZMVMsl2h02uuyW/OQ=="
 ---

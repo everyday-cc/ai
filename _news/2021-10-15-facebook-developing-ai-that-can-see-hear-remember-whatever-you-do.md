@@ -2,28 +2,26 @@
 category: news
 title: "Facebook developing AI that can see, hear, remember whatever you do"
 excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
-publishedDateTime: 2021-10-15T07:17:00Z
-originalUrl: "https://www.freepressjournal.in/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-webUrl: "https://www.freepressjournal.in/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-ampWebUrl: "https://www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
-cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
+publishedDateTime: 2021-10-15T06:42:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do-324968"
+webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do-324968"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://images.assettype.com/freepressjournal/2021-10/96be85aa-95e9-4332-8921-2ba50beda0f0/Untitled_design___2021_10_15T124556_294.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 675
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1884503493.jpg"
+    width: 660
+    height: 439
     isCached: true
 
 related:
@@ -229,6 +227,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
+    excerpt: "Facebook has announced Ego4D, a long-term project aimed at solving AI research challenges in “egocentric perception,” or first-person views. The goal is to"
+    publishedDateTime: 2021-10-15T14:52:00Z
+    webUrl: "https://dataconomy.com/2021/10/facebook-dataset-benchmarks-ai-egocentric/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/10/facebook-dataset-benchmarks-ai-egocentric.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
     excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
     publishedDateTime: 2021-10-15T01:36:00Z
@@ -272,6 +284,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "5nIySqHQmWOUAL7PIzPxHkb3x7B7RjRh9HwrQsgYmlG2q19MzB1or9AfI6KjG8KP85+TSVJ4D48fwNIK6NxTGkYWauOIJXc1iulKh5zPCNo6TxaBDMLQWid17Vvbps92dPSXkpRqCOKfhROcinsg8Ow9T8Lfe0SQxk0qwOdWc/0d32J483iOLu8GvkYyGzAMh3Db+5z8bZRfGN3SrtefwwMdZLjVVCBXd2m7RyExcfYhj8cApsAo5HKudueKN3qtq0X91DLsgTHoWnSOn9ueg426sk4nNYz3c1Ig/RVZTSgWO82AAI51zGeEj5OCqA3G45QEb8alPG67t/li/GmBdWUUQpR3xue7YnAhWGuVoQLJE+ztnEgzlDqUQpHFbzQ98H8jzVvPndtLU/jd4A6WXhQdjL1y5AZrETFVFBomNjHGOOlkG65EDqZ/s7nIopDbs3vp+JtB7RHaiXrIdLmsLSEUyFTT2IdvPRmCVwB7ZyVjwkA/3XUmNpA/7UoamI+0ye2aIdmiPNhAx4AEp6W0qw==;2iX7wiw15Sl0G31Wca4JTA=="
+secured: "aWiff/yyl92oo4kpPzQDfmevC7kqbhY6qMw//utfzcFAqouDLZ+YqgoYPtCDB9lAXgHvd0nmiRgqJGLnlko5gOdEIWKgmPpIsgYZaOhYG2PKRjBdk53iyEyrLQ4X9VaxxqWmkDU18MkAc2/vPQeSQ+FStP+nVvCR/jMr+mCJJHpYloOjaNZVbriTRjaHBQSVbhpF38YiQsbCeUJjx6r/13e1iD279Ozgqh1UTKcbjnSahmwDLN047qtKOPXVj9yE0BAT0zX79wQVLA1IHOP6YMfL+vSSSzAnWdkpYyIf7bZnBZ5K8nxhCpyaH0jMSfNt3ioR80Mkfprn7frfQ9+ub4/e5y1gyIveidw8+apfWSs=;oCLXVttNhENFBV7hOP9Idg=="
 ---
 

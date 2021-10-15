@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Waymo cars clog up dead-end San Francisco street"
+    excerpt: "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\","
+    publishedDateTime: 2021-10-15T13:18:00Z
+    webUrl: "https://www.bbc.com/news/technology-58928706"
+    ampWebUrl: "https://www.bbc.com/news/technology-58928706.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58928706.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
     excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
     publishedDateTime: 2021-10-14T14:24:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
-    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
-    publishedDateTime: 2021-10-14T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
-        width: 1200
-        height: 929
         isCached: true
   - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
     excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
@@ -102,6 +102,22 @@ related:
       - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
+    excerpt: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
+    publishedDateTime: 2021-10-12T18:50:00Z
+    webUrl: "https://www.wthitv.com/content/national/575511382.html"
+    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575511382"
+    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575511382"
+    type: article
+    provider:
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 38
+    images:
+      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
     excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"

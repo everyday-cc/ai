@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Finding The Data: How To Avoid AI And Analytics Project Failures"
+    excerpt: "Overall, I see that success stories in this industry all have one common theme: a well-thought-out data strategy with robust data governance systems."
+    publishedDateTime: 2021-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376e18d56f9b933149f140%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2396%26cropY1%3D0%26cropY2%3D1348"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
     publishedDateTime: 2021-10-14T13:15:00Z

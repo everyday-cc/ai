@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 37
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
     excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
     publishedDateTime: 2021-10-12T16:32:00Z

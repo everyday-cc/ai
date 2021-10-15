@@ -26,19 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Ouster Lidar Starts Automotive Division, Challenges Argo.AI and Waymo"
-    excerpt: "Competition in the American autonomous vehicle sector is starting to heat up in a big way. The San Francisco-based LiDAR manufacturer Ouster announced it would begin developing systems for autonomous vehicles,"
-    publishedDateTime: 2021-10-13T19:00:00Z
-    webUrl: "https://www.autoevolution.com/news/ouster-lidar-starts-automotive-division-challenges-argoai-and-waymo-171666.html"
+  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
+    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
+    publishedDateTime: 2021-10-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 59
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/start-up-lidar-manufacturer-starts-automotive-division-challenges-waymo-and-argoai-171666_1.jpg"
-        width: 1390
-        height: 940
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
+        width: 1200
+        height: 929
+        isCached: true
+  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
+    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
+    publishedDateTime: 2021-10-12T17:52:00Z
+    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
+    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
+        isCached: true
+  - title: "Self-driving cars coming to Scottsdale - some day"
+    excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
+    publishedDateTime: 2021-10-11T11:55:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale---some-day/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
+    type: article
+    provider:
+      name: scottsdale
+      domain: scottsdale.org
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
+        height: 630
         isCached: true
 
 secured: "76cBoF/q2LF8AOKAUvprX4ZGmykiveOUEI6EVarFhaH8XfBSe4kdy2evmQ5poKRUiQgxodaD5rVi/eRCoJhsj0oBKEOEcpaFGd377Ice4E3RBQnyY8TIdpTUw76AIitPkOmrUXcoTCoFzYNgaaS1iWwDbuid/YTAQ2CChxZ8wvq6xJ0E/LtQYB837kRvPFkvExNf9AQ7LueiNKhQn+wGYw6dpFY8mi1OlwL+4d5PJvWw7PrxtVk2dFFUxLsl9oh34lD1rywRI3LO4YxOm/xw1IL0BMNP3x7pQvuCcsnplUPte2QhCl+YC0DwVnkJK3f0z/FTXpDFOlQKfplD+CgYa0mlhlr7bN5oZ3iN7osLtzcG5mRbHW3fSWgOCc3ekCbKF/Oxpzrtk2sQ/QTFEDWRktPBtheBe1Q1co7y9tE+Zvue9zJzK+hSTi6700f+nhL34vhoEK099pkEfbegSE5c7Ut9j3CYNCnvxleIJPgvbH1A0/QrmB1B4E+5DhOvghfm3PZNa/mon1K0O7POJXaJ6w==;3Wwh4rvqNnbpEqjFskYu7w=="

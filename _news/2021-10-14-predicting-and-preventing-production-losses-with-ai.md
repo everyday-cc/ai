@@ -24,35 +24,109 @@ images:
     isCached: true
 
 related:
-  - title: "How SaaS Companies Can Prevent Churn And Drive Growth Using AI"
-    excerpt: "Not only can AI consume and organize data, but it is also the key to unlocking insights that help prevent churn, stopping loss before it starts."
-    publishedDateTime: 2021-10-12T18:30:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/"
+  - title: "Embrace The Era Of Change And Evolution With Self-Learning AI"
+    excerpt: "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI."
+    publishedDateTime: 2021-10-15T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165cee8c9c9bc394a1e3a1e%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg"
         width: 1200
-        height: 960
+        height: 900
         isCached: true
-  - title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
-    excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
-    publishedDateTime: 2021-10-12T16:32:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and/article_5cda56c0-18e9-5097-b52a-62a2c3c5a832.html"
+  - title: "Dynamics and importance of AI and Machine Learning"
+    excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
+    publishedDateTime: 2021-10-12T11:56:00Z
+    webUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 24
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/88/f8824e6b-d04b-5d0f-aa36-9561c3cbce1b/6165bc1076ef0.image.jpg?resize=420%2C630"
-        width: 420
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Self-Supervised Learning's Impact on AI and NLP"
+    excerpt: "Although humans can learn from observing a few examples of a given task, ML algorithms cannot. They can, however, learn through self-supervised learning. We explain how self-supervised learning works."
+    publishedDateTime: 2021-10-12T11:11:00Z
+    webUrl: "https://tdwi.org/articles/2021/10/12/adv-all-self-supervised-learning-ai-nlp.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 58
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI1.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "Learning AI With Boys and Girls Club of Western PA"
+    excerpt: "Welcome to Stem Fest 2021! Amazon is working with the Boys and Girls Club of Western PA to give local students a fast start in understanding artificial intelligence."
+    publishedDateTime: 2021-10-11T13:43:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/6086302-learning-ai-with-boys-and-girls-club-of-western-pa/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 57
+    images:
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/471/A3B/471A3B6F7E5E8E5DE461526B51E73EC4.jpg?Expires=1728604800&KeyName=mcpkey1&Signature=zlErye3XyFJwRY0DA9X6nqBnImI"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
+    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
+    publishedDateTime: 2021-10-14T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The march of AI - is it really a revolution"
+    excerpt: "The future is science fiction with machines replacing people . Whilst this has potential do you agree that some hurdles still stand in the way of the march of the robots ? Recent news stories of disruption and supply chain failure seem to be caused by a shortage of skills ."
+    publishedDateTime: 2021-10-12T13:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wills-mba-fcips"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEK50gTx75V4A/article-cover_image-shrink_720_1280/0/1634045619163?e=1639612800&v=beta&t=WLFhYOFXMwh6vrwbvZaxbHKN00plIVDLLeajttuiu-I"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
+    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
+    publishedDateTime: 2021-10-14T11:39:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "NpEVwDRekSbYQIjwhXNfeFnAk2uWf27QOC55mBT7F7h4LQxZs2rmYn+24dAOt3R+MwmlyFYFpQ84sViISOyy9VSp79TabDVyDJg4OPJ37Mq752D6S5MPoesfbU/ZskDBbZoCIYJzcgMaoi7s4ETAH+RHLF8JCY7aYwDSvMZPig9VUgBxjkyI8RiokIQhmFmtY0XtPg7qk4PEn72eaW7aCZ0nxji7L1EUlhLnZzqDwiZU0AmdWjlSyDADmkzyZ0z5AZ0oqsu3fL8VZNBvDs1zRWt/UleL/ciEpG01DeoLDFEEt8deNAb5SY4OkGGHCi+wqYtH9s2Co7LLa9Piijis2iQbpuLTVgJEiWYFvroEpnpsfZ2ejCb5wwfqJZyTRc5lGFcJYzbNH9i8fMP4Oxq5o8aAKeUP4rp0AAvidxjRV7j0FZhl748Tp2prRl1LP/Au8K6SMl3D5YIgPEdwQVfhIUxBGpgfLwffgDDb8GMSd/Q7g1fpRQ0mt8ucwcHPLP1Z1vfR/v5SqOVuHMLoNz8cpg==;zir8vRd3U433Wvbg0cY/Rg=="

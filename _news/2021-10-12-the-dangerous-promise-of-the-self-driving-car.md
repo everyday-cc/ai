@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-p
 webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Bloomberg
@@ -44,22 +44,6 @@ related:
       - url: "https://images.barrons.com/im-415499/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
-    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
-    publishedDateTime: 2021-10-12T17:52:00Z
-    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
-    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
-        width: 1600
-        height: 1022
         isCached: true
 
 secured: "pMSmA93eMBJEFWbueoJrEKe8emqR7L+v8OfKu8g9J+5idr10icdNU5pQ8/V6rJr4I/hCXPU5midya+1pAi1wOtGEj8Ul1Hr1/ihTSvpsgwIxjQS4NF4GYME9++Y4DWLkBJsC1+bHVdG01ANudSUaLF9uVdxdAF6B6d78/a03yqazVQTKmAzIDD7ajrlBQtKTHRutncN8CCsqM4CfO/q86PPpGObCjDR6rI0at33XKFcpx5LpgaV1R0BB22bJWJCXIOvNSXWp4GRM+MuVQ4GTFa/3rw8XkscHSHKG6EmBGXefksIezodOZl30TmsxD9Qkag27oJi+KF898+JBibfWam5oxnzAEh49pIuj0sCQpk2NnAMgNL7SdSNF57zl45aTjZu/bJuc1eVR+NSA8bgNL5TY0xrwmL2FSoU8eh9hLpuaDY+UncLtqk9g+puSWmVTDMAE44LiSDXV6PTjlS/t6k+Khc5XgM/a+MTcum6dKRKzt8fP8or9EtFV4VHUx3MCRtQlEDV8X/g9ifkgyrBgWg==;0AaEOKxTO5xw+DaKxOaASw=="

@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg"
         width: 1200
@@ -99,6 +99,34 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The march of AI - is it really a revolution"
+    excerpt: "The future is science fiction with machines replacing people . Whilst this has potential do you agree that some hurdles still stand in the way of the march of the robots ? Recent news stories of disruption and supply chain failure seem to be caused by a shortage of skills ."
+    publishedDateTime: 2021-10-12T13:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wills-mba-fcips"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEK50gTx75V4A/article-cover_image-shrink_720_1280/0/1634045619163?e=1639612800&v=beta&t=WLFhYOFXMwh6vrwbvZaxbHKN00plIVDLLeajttuiu-I"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "Predicting and preventing production losses with AI"
+    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
+    publishedDateTime: 2021-10-14T13:30:00Z
+    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 37
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "RHV347+8cB6UBOBZX5uU7V3wmBDerGPVEgtmiYr0x+zswq7KkNPgbaes4bPuc7KC91JTr5didKrQ0dKmhZjJxUt8t5NfnjifVMnAeW/yqp0DAbvIJVwNZtn3iionsf6yZoNPq9S9Gpp6cYZqKE2ffaTU6lhzCA0aK0nTxTUX2Njtk/Df301ecb7AxnpBnhg4FuG7CfikhsYWnBNxoIfaJo89gynSUUTohVWsYBUZR/HLIo3f9FiJ/Uyh5QwliG9OpUqJpCr4FUNZZTPIwyR4IyeI20JX9IixisTsL/HPRE0BIU32fq8eXBKHyyHevN1CWgqeH5c3qw0bOFziSgIGH90PUcdpcHDApwHBjE31WsI=;cjP/iXR1IsHFekoLoAKSgA=="

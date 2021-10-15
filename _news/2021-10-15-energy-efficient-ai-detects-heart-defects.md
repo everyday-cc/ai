@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Energy-efficient AI detects heart defects"
-excerpt: "Mathematical breakthrough by Centrum Wiskunde & Informatica (CWI) allows neuromorphic chip to recognise heart defects, speech and hand gestures up to a thousand times more energy efficient. Such low-energy AI chips are ideal for wearable and mobile applications."
-publishedDateTime: 2021-10-14T17:37:00Z
-originalUrl: "https://www.cwi.nl/news/2021/energy-efficient-ai-detects-heart-defects"
-webUrl: "https://www.cwi.nl/news/2021/energy-efficient-ai-detects-heart-defects"
+excerpt: "CWI researchers Bojian Yin and Sander Bohté, together with their colleague Federico Corradi of Stichting Interuniversitair Micro-Elektronica Centrum (IMEC) in Eindhoven, have achieved a mathematical breakthrough in the computation of so-called spiking neural networks."
+publishedDateTime: 2021-10-15T14:54:00Z
+originalUrl: "https://medicalxpress.com/news/2021-10-energy-efficient-ai-heart-defects.html"
+webUrl: "https://medicalxpress.com/news/2021-10-energy-efficient-ai-heart-defects.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-10-energy-efficient-ai-heart-defects.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-energy-efficient-ai-heart-defects.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: CWI
-  domain: www.cwi.nl
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.cwi.nl/news/2021/energy-efficient-ai-detects-heart-defects/@@download/image/shutterstock_1393074329.jpg"
-    width: 5760
-    height: 3840
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/energy-efficient-ai-de.jpg"
+    width: 768
+    height: 384
     isCached: true
 
 related:
@@ -37,6 +39,6 @@ related:
       domain: globalbankingandfinance.com
     quality: 36
 
-secured: "Wpwg71Wnxla5XosXIYEDi1SSHdUSaZBC7Nc23JIc5IfhqDJ6NoaOWz2+NAbaviZJtogGs4ae50LtagTmPDUjkpsnfdgfdGXeCFgj1xRUPS+WpUhbkMt4j+jSZvUIF6Kpb2vtq6jTQ+w9R2Idk0KO20Ev1H9RWwGMIbuBHEXg2Ch2MeUViQJJqmTz1QpLDazTTKSrPQwUmv7DYL8FCsiaOYsnsiRLYw++jqcxi3bXURTIygZDfRFhiR4jlUVQTA3edZvHsTxmblMxPjnO+KkN8WKsICYc7AR7iqa9NGtdlp2koCMMtp4ASUuaMo+4NUZSBzCeTEPoglbh3b0mOsVkb+HByWLTDMOKt0U+f6wrF2dhEHWN0vzxQQ3CFHP/hfZhXNxlL6LNUCQH6ou6S6JUvKrKSUlb9lF8qOj5WnUtLyOtvbsZvifrnpQ80gNammMwFQjH0d+ajj669c6MSYpHKUDHTa92v6yuGyPOYeNClgiJUa1XcxstBLduRPz9rr1A8leY0pG3w0lzDYnbpUvYFQ==;pRPHv2uKg7D/yDIwBiBR9Q=="
+secured: "RK1/fK4yi2o3mJkML7j1R+eBZaQ4+scl+gEuiCxrJ/PBR1f2JdPPuccZE0WMKNQ19L9qcjxSJNuaVe6a2bhaDtmOnOM3bTJQ4g17dnMmPbVRqmT8ny/VRHjUING7kdZoahBAlDEXjaVkUnND2n2oYZowRwcNrQlFfcEa4JAPfdEGVRbMg6KERCwTLHyv01bRLN0omiaNyxyVjqOpCQoDjk1VL1p8TFX/nrD5IPB6bHDRqg3ad/AaKiZ/EsN2tFpktzUCjtf4vb9P2XQ/nU638u8qI99teyJ7xmTTPe5S/lLHtI0X0Z5f0jdUX6e1bNGDsYECZZdbAqcOp70hMPgcfPJTthZO/SDhTrLAdKvQcQc=;giZ0iOF5LiT8TR0ReOEaHA=="
 ---
 

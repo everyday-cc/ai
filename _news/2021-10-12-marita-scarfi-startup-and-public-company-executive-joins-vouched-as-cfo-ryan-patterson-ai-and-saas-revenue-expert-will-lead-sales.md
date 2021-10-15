@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 37
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "D/JE56HoJ5G1FUcAov2dQEkOMmCnPkeYH5jTdCGpu2H25xrvSwvezp+i5RwlZt974M6pCQ3Qzl75JM5mwB05BgLnz6glczDigr5tedXjgtG7u3RkMeac0eW7vugHFfASHvJ5is9jofgY0Jf2fLMjLuzZK4ZDgZHaU1/pl8DiCbHCtQhfDbUaK0gtovETXDsKixsyTiLKYUR328mgN0MQADBmjQAsQW0dj94gDQYHhqFyjkq0L6hcQEolpr5zS7qSfNe3XWv3+cAdURFQwIGM/A/oLvGQxQCdhAP3EE/1Ety8rWuG+6CKCNsy8Fx515wy/oPPRA/2Wb5BnvOiJn5UzOR+OUsxLSiTcKg95qbhz9Q=;1+jEzdWp0GIsX2D9XYmOpg=="
 ---

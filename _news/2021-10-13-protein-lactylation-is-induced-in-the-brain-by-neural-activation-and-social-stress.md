@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The march of AI - is it really a revolution"
-    excerpt: "The future is science fiction with machines replacing people . Whilst this has potential do you agree that some hurdles still stand in the way of the march of the robots ? Recent news stories of disruption and supply chain failure seem to be caused by a shortage of skills ."
-    publishedDateTime: 2021-10-12T13:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wills-mba-fcips"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEK50gTx75V4A/article-cover_image-shrink_720_1280/0/1634045619163?e=1639612800&v=beta&t=WLFhYOFXMwh6vrwbvZaxbHKN00plIVDLLeajttuiu-I"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "fXukmlLJLIh6jVULOmEbV1CntlFHVrh4J1nOlJTTDFmK020pNy292doXmwSiVez5+T7X45CTxVQi/h7X6B1JFBjUB8KyBhVM00jvbUXHo6UTT14i+occqP/809faFKL+d8XT+8adSP02iNFUF4uzAJxeWC3wu+zmRBHNwd/OiVk4++yyBjD60nm4ap1RnbZXkGERdEJlPorMnDy+Rp++YUBNi2/B5001qeoYUPThW4ynxkGVHgtLCXKeEEfcbJ74wbVd0GgmW5dcKZHvgC2UmtIeAHqYLLZU5DdK+c5wgn3a/ZjdrGFaSG5yFUgaoaipD3umE1VqUBbjLz8TQQMB2iTL7TKJG3MjIhgnvyu42DVsbgE1osFLuRfi1ctp1yrTuaWH4eyvC1XOMqXY/d/VqTzvnw9QSJkCo9acdpTPe5aVXKwfAPnAV4Es17kz1RpBzjVySHsXYinM3a0Xi6lmxbB/uTUyDOmuhkiiTMKbpeKj5iv4nAYGLyQ6h06q6RNlIx8lh2EWo29XBvbZ6da79Q==;GTwJ2gfRmlHHV9p93qL3xQ=="
 ---

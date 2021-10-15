@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Deepbrain AI to supply AI Human Technology to Two Major Media Companies, including BRTV"
-excerpt: "Deepbrain AI, a company specializing in artificial intelligence (AI) and a member of Born2Global Centre, has successfully entered the global broadcasting industry with its AI Human technology (  ). The company recently signed a contract to supply its AI Announcer Technology to the major Chinese broadcasting companies Beijing Radio & Television Station (BRTV) and Qinghai Television."
-publishedDateTime: 2021-10-15T12:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
+excerpt: "Deepbrain AI, a company specializing in artificial intelligence (AI) and a member of Born2Global Centre, has successfully entered the global broadcasting industry with its AI Human technology ("
+publishedDateTime: 2021-10-15T12:42:00Z
+originalUrl: "https://www.lelezard.com/en/news-20048904.html"
+webUrl: "https://www.lelezard.com/en/news-20048904.html"
 type: article
-quality: 59
-heat: 59
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1654907/image_819222_19118958.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "1NuPY/b/sX9yDvIR7r3BcUkmq8W6cfGEkD+MZkDf+kKq1oOziRebyn00+bql4gTRAsTGJEsTZfT/lDJ9S02pshKjgv43KGb6nBAeBA64UE4pLPxxAsCLJVZ2cNYEVTws+C36fdQm+sLcIkx6BwryLAMVmso7zuVc9tkSZIWSCFHmBsfOqNm3KIz2V+p+HAu60dh7QGhV+LqulLvbkRyBNqMEuCcn1B4NVYg0i534sy33VXR9urCJ4v9+5ZW28F5LVTtDvnJU0p7vBSURD4HJI5ynt0BsWXoA16aLlXXfL4MIP0bARQ+79rIIEg3NMcFasknaqB3Z4R/vRVs71sROCaAezym1fJI+w5gk89+FnCg=;y0MWqXgLmbecIZZEAltVyQ=="
+secured: "isyXMMSi2pGGAJH65T9C/SBaa650O6eYnlxmmYFaI/JRonoMRDjYtX6sNHfYlR5T9ypCAQTj4GyVNp8D2ZG/rOmOa8VHMiAlkW5X1/P5RoprUV/zu3eJ4HeAoeqvVT2qH0zvRlryfaFDITmHUDU3GPrGoMBdN50w6JOmjx1mssJCd0AvY18g7unOUbR4j4K/2LsfeTjm4P9fJX8U/vkG3xf0JNJ2wzpxlopy55BJn/DM/DKZOuq1AkEgeArYTeSesUkOrDhrHvzAbb6tsQMWqJGF+GaJFcGE8oR1K9aRMR1YaxQke2wUzQutI6iuqfleORGC+KujXK8pFA7TJHjImSH0qRuADC5g49dcVgtDht8=;toqqmQs6rSwS2F8AbhFAYw=="
 ---
 

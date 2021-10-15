@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Ganymed Robotics awarded a €2.5M grant from the European Commission through the EIC Accelerator Program"
-excerpt: "Ganymed Robotics, a developer of advanced software and robotics technologies for orthopedic surgeons, today announces it has secured a €2,5 M grant through the European Innovation Council (EIC) Accelerator program."
-publishedDateTime: 2021-10-15T05:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ganymed-robotics-awarded-25m-grant-from-european-commission-/2021/10/15/9470512.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ganymed-robotics-awarded-25m-grant-from-european-commission-/2021/10/15/9470512.htm"
+excerpt: "Ganymed Robotics awarded a €2.5M grant by the EIC Accelerator. Funds will allow to accelerate the development of its surgical robot for orthopedics"
+publishedDateTime: 2021-10-15T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211014006089/en/Ganymed-Robotics-awarded-a-€2.5M-grant-from-the-European-Commission-through-the-EIC-Accelerator-Program"
+webUrl: "https://www.businesswire.com/news/home/20211014006089/en/Ganymed-Robotics-awarded-a-€2.5M-grant-from-the-European-Commission-through-the-EIC-Accelerator-Program"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "abTwHJylyCTC48hXV92kWzBCkYjZPdS8SuwvUiar2ETRQMZBIOIrEIItfN5lziPlejhuVTw/vw7NrGQjQvnyuu9J0Usv8c+rP//IAXEeHgAvzQrYAbF0dxtlFJbpSio0hGggFR8RLp+Qg34bJZXMj0k8C5b/RbeCB7/PQ/TJfemjFgc2rxVinMtZqRUujcuBWHgdqoSQQ1g7BX0efKkez3+I0kZ3T8V3sQB6X7o93Vk7Y1+q90gyVZ/+wYy0U+lGmLtYVn5RKN33mpMLFtzcPgI8QZUjbUMLKTvezRzxdtRL9gcsDJ8mtEObvVZbNiMzMOZj0mQSfRREaTM6fVEi9OZ6Cr46ptdZdKGNKhE0eYw=;gTbgp8G72YQKLem2HP7NSA=="
+secured: "5z+rKMQxYUKj7dHv0dim1r5bQJHtAhTMjPh9jLPjIoxebqOPfV547cgrz55saetMSEZZcKjlkhXugmnnI1QJgfeB2ScFAWqDi1wcrJSWXoSyXl8UnUHXltlpmxeonjo+06e6kyrIl4O1nANhJhg1Qfa+dre3ca83eN+D++rtRm0l6h9AJUhpnjBHiErWqk7TjIrR0UrQ7XY0fKk31ef5gFHZr1vZPWtTtIbx4eXYQfgwNYugp2TAsuMs92YZ1D65qgKuA4piq5X9Kyw2SuCQqJDVkzo2Cd5/tfdBm3bCeJO2MghGNtrDE5N7gK41kyHjag6aSpWGGp+Ewv4YkoJOfdDJDX4DxhrNadJa5ddVpXk=;+pSlgWl9q3WJtXGcYIh6tA=="
 ---
 

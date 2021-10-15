@@ -7,7 +7,7 @@ originalUrl: "https://www.mhc.ie/latest/news/white-paper-on-artificial-intellige
 webUrl: "https://www.mhc.ie/latest/news/white-paper-on-artificial-intelligence-medical-devices-a-new-regulatory-frontier"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Improving Hospital Care through Smarter Medical Devices"
-    excerpt: "Hoping to increase competitiveness and improve patient outcomes, Taiwan’s hospitals are investing in high-value medical devices and artificial"
-    publishedDateTime: 2021-10-14T01:00:00Z
-    webUrl: "https://topics.amcham.com.tw/2021/10/improving-hospital-care-through-smarter-medical-devices/"
+  - title: "Medtechs need strategy to prevent bias in AI-machine learning-based devices: FDA"
+    excerpt: "The agency is mulling the types of information medtechs might include in labeling for such devices to support transparency. A Philips rep worried about the pitfalls of \"information overload.\""
+    publishedDateTime: 2021-10-15T14:52:00Z
+    webUrl: "https://www.medtechdive.com/news/fda-panel-ai-machine-learning-bias-algorithms/608283/"
     type: article
     provider:
-      name: topics.amcham
-      domain: amcham.com.tw
-    quality: 24
+      name: medtechdive.com
+      domain: medtechdive.com
+    quality: 49
     images:
-      - url: "https://topics.amcham.com.tw/wp-content/uploads/2021/10/10_2021_topics-IF-medical-devices.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.medtechdive.com/user_media/cache/57/1e/571e10cc9be649bfd5f13da28cb2b817.jpg"
+        width: 770
+        height: 363
         isCached: true
 
 secured: "HdGPcfiHPI0LArCllGVOVYa6T8ZeO1axriB5UlFLAYDUKCUMWIu5JCUT2YSKIiyvN5TANm8hT6/DlIcuEtjshO5B6oay6SjtVWe3mCoo9NMiTt/xV2w7L1X8mQo7prSrztyJhLtJV2hExxUV+3TTyMj1JmppDXqKeZ5wtFTh3Udapt2SsS5/AaYDpAopI7VjeV0pEMY2FvVrwFyiAOkZkP6XCQZz4N9jeq8z4G2nC3wrwQhpz9YEYOFSG2UeDGadIH2ao542+qzRgKPM8w/I5gO19icsgYvyVr9rIR4DlMwdYPKbVdcMFnzhOa+FJoxnc4rg/w6nWiKAlI+SkJBh1opQ32lCA4no2TJe5+f2nzA=;a2XAegU1Sf2G1Wtk9aHK7g=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -31,125 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
-    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
-    publishedDateTime: 2021-10-14T14:24:00Z
-    webUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042"
-    ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
+  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
+    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
+    publishedDateTime: 2021-10-12T17:52:00Z
+    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
+    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
-    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
-    publishedDateTime: 2021-10-14T16:42:00Z
-    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
-    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "'Confused' Self-Driving Cars Keep Driving Into A Quiet Dead-end SF Street"
-    excerpt: "Waymo cars use \"lidar\" sensors that create a picture of the vehicle’s surroundings and command the car to stop when it encounters dead-ends."
-    publishedDateTime: 2021-10-14T12:36:00Z
-    webUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194"
-    ampWebUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 43
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/17/waymo-is-owned-by-google-parent-alphabet.jpg"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
-    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
-    publishedDateTime: 2021-10-14T21:14:00Z
-    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
-    type: article
-    provider:
-      name: 512 Pixels
-      domain: 512pixels.net
-    quality: 39
-    images:
-      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
-    excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
-    publishedDateTime: 2021-10-15T01:28:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/waymo-self-driving-cars-keep-flocking-san-francisco-dead-end-street/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 38
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/waymosf.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
         isCached: true
-  - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
-    excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
-    publishedDateTime: 2021-10-14T13:57:00Z
-    webUrl: "https://www.businessinsider.co.za/trending/self-driving-cars-waymo-google-stuck-end-street-san-francisco-2021-10"
+  - title: "LiDAR-Less Self-Driving Car Startup Wayve Gets $13.6 Million Investment"
+    excerpt: "Wayve, a start-up company that is developing self-driving car technology, has recently received a significant investment. We are referring to GBP 10 million, which is about $13.6 million. The investment comes from Ocado,"
+    publishedDateTime: 2021-10-11T11:24:00Z
+    webUrl: "https://www.autoevolution.com/news/lidar-less-self-driving-car-startup-wayve-gets-136-million-investment-171443.html"
     type: article
     provider:
-      name: BusinessInsider
-      domain: businessinsider.co.za
+      name: autoevolution.com
+      domain: autoevolution.com
     quality: 26
     images:
-      - url: "http://cdn.24.co.za/files/Cms/General/d/11683/ad8913e06e5c47dfb8ea7bd8856d74be.jpg"
-        width: 1668
-        height: 1080
+      - url: "https://s1.cdn.autoevolution.com/images/news/lidar-less-self-driving-car-startup-wayve-gets-136-million-investment-171443-7.jpg"
+        width: 728
+        height: 300
         isCached: true
-  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
-    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
-    publishedDateTime: 2021-10-14T22:12:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+  - title: "Self-driving cars coming to Scottsdale - some day"
+    excerpt: "A  Ortega last week said General Motors will roll out its Cruise brand of electric, self-driving vehicles as part of a ride-hailing service in the coming months, stating, “I’m told they are coming off the production line right now"
+    publishedDateTime: 2021-10-11T11:55:00Z
+    webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale---some-day/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: scottsdale
+      domain: scottsdale.org
     quality: 24
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
-        width: 1200
+      - url: "https://bloximages.newyork1.vip.townnews.com/scottsdale.org/content/tncms/assets/v3/editorial/5/6c/56c93cb0-2940-11ec-a8b8-1bc46b9dbd0d/6161ffacd84fa.image.png?resize=759%2C630"
+        width: 759
         height: 630
-        isCached: true
-  - title: "Streets of San Francisco stump Google self-driving cars"
-    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
-    publishedDateTime: 2021-10-14T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "rdP2pOOLGnYRp9vEfeqjf8hVPRaX2OqThxQq4IcUh1bFRTQy7K50TmtBdDtXQn0WT6qWTNAqIK85gUnekWNKpMFGPI8U6RASTx7XRiTjXKuZ2iWDijllaZAxusSAYxDTzsNO2sXF6YDu/tB3mHXylTueNgnxYJSrWutILoyW4Il4qvcMTymYZaAbxDrDB0W46+2s7JJl0PADQICKoNQkP09qM9m7NG0NM/tV7/pMvYVn0HX8FmGGp/6Gsad01kieLkzzyNyE7j4d7pILYJ/DRo6xIcfSor7FpUU+ge+DYJkkxgCTWAveUxi0yKHtwC632ev1FNIfkVazai2Yu+NX90EAQdv8ybhbLK+hIXlyiZYN48I4ogxE5m0jQqSqH85Dc9wrsWyUgHAgALKHd6D45mrXOaeBKM2FEHm+16219QkFfrM0a9TzJiHguA9KPg6qQFhQew+oq6r2nHiWSBNoo+KdqLlvUZyhGa5csWVwhT30NcWKEnr9XuTi/Iv+Ln00o9yoq0aIR4abaHNQy1nszQ==;p7EUYpqkfGNTS1CIYgsWjQ=="

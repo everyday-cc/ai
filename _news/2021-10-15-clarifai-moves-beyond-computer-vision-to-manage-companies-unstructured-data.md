@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vis
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 682
     isCached: true
 
-secured: "0gJAtFF+nvco2FAK/5wyAKzeRgFHbHasr8IMnkrQyZMiuddN6oVGXJRkjY6sJx+bz2bzJUGcZhzVkv1OWU7pjCtM0Hd4oYabEYI3jE3rzwtmf8wS2Co8katinFxGang34yPeYOz7RrLDZ19+FOucLbHAd2tMWyck2MLTsA9FlbjcXZ0QMfs8AKlC9c+khnGnu+yA8pL7C1zZjOJ8Cjlm3S1IXy2fHfZ/xI3zqkD+VJoD7q4O73+ky6gILuQfHRCCof3T/ZON8P9vm01pWRBNyrk8xDBOjs9Cd4oYqZJRRvwjMfVE0PMb2UDE3PcBJYrl8WvHYCERYE5QuSSU/GeWX6J+Q5N5cziYXaJkFGFiM9Y=;j9/0Bq8YwsLFpuZFmo2d+Q=="
+related:
+  - title: "Clarifai gets $60M in funding to simplify AI development on unstructured data"
+    excerpt: "Another day and another artificial intelligence startup is raising money — and today it’s Clarifai Inc., which closed on a $60 million round led by New Enterprise Associates. Menlo Ventures, Union Square Ventures,"
+    publishedDateTime: 2021-10-15T14:24:00Z
+    webUrl: "https://siliconangle.com/2021/10/15/clarifai-gets-60m-funding-simplify-ai-development-unstructured-data/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "6neSZvnvQ6uLj6TAJ3+xiXt+X7zkM41Np0jYbAyCMz5wi13GWrVro7DafyLVWRClBxXF2l7YVXP52ZfX69mkSq0415uKEsGd71Xs6QGomcenss/mj9VHVfuKhqLmdOC3vmNBFno/ESP6A1CGBbGo7PDcqo/QUhBDf7zCmMwA/MuL3fsj/bpb7WqxwLTabr177tO89yPNcVoangCbPa35A5vkN00Sl8/AD3yYux5EpRiNdMhDQQAXKAYaVg46z2hRY79JX1yhfGzVqca+z6Np4+3j5VSObh7enTCrT2ZZDLNSyGzdcKt3uIo7Gcq3TsGyuDP7CExFwxSJkln9YyNeTMX2qiPyhll8k7x2m/aSwEv3fSzmEPJH+qQCCSiGRV1Or/ROy0/b0ZEMFhSsyy7UZwCZKr64WW0JbB3hrHY4tDCoMahbF1tSDFJBBItmHsdZNoV0QXlCIuXyO7YAC1wdwvSabgoDlnXFL2V+0mPCMoDlYDLepEY55V7jvsdY2S1IEjBWrTUks9zOKgzABsnSiA==;lP9cjLl7YTMSZdsRa0XyNg=="
 ---
 
