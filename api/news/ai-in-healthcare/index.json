@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-bots-market-trends-top-manufactures-industry-growth-analysis-and-forecast-2030.md",
-      "title": "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030",
-      "excerpt": "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "originalUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua14817079_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "publishedDateTime": "2021-10-14T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
       "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
       "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
@@ -141,7 +98,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1392,6 +1349,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-scientists-develop-artificial-intelligence-method-to-predict-anti-cancer-immunity.md",
+      "title": "Scientists develop artificial intelligence method to predict anti-cancer immunity",
+      "excerpt": "Researchers and data scientists at UT Southwestern Medical Center and MD Anderson Cancer Center have developed an artificial intelligence technique that can identify which cell surface peptides produced by cancer cells called neoantigens are recognized by the immune system.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/simmons-cancer-center.jpg",
+          "width": 1100,
+          "height": 1100,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-scientists-artificial-intelligence-method-anti-cancer.amp",
+      "publishedDateTime": "2021-09-23T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

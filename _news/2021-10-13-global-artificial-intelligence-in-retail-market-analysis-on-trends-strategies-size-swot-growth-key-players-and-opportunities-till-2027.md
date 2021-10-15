@@ -52,6 +52,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
+    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
+    publishedDateTime: 2021-10-15T03:21:00Z
+    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
+        width: 800
+        height: 490
+        isCached: true
 
 secured: "ju5pZv8hHWQcp81IMKXfrgW4Ba5hJkwg7+E0EWxgR00d0zq16cPaJjksTQ1DzVxfRathp+k1u67Dv57IsWn8z7bSIp9pnj2oAxj/dU659frOq3nuWPw31/dpDmTH/8uBCS6hCpfr6+g/11vMu4x315ChTtAv99zAUrje8H/HizUlzVYT67MaHBRW/KtB439f/zCRZArd0Y1zCtHz0kagkY/1ljJOmGy2/TXqxc1APQgfyRCekq/xuaqagwVhHizfVBMGE/DiiExm/uY8oJhKNcedN6J6/lmMdNnsnLnajn5knzSBnyp9zBD+4TxZvh97utRHERgYl0z5B7koLAqDYWp1h2Vn/tw4pRqTjLr15DQ=;6HRejNwSH0jVQ7sKs7LD7Q=="
 ---

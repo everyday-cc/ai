@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-09-artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor.md",
+      "title": "Artificial Intelligence and robotics are game-changing courses of future markets: AP government advisor",
+      "excerpt": "The state government advisor said Andhra Pradesh was the first state to include skill development as part of the curriculum at the graduation level.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-86890895,width-1070,height-580,imgsize-86670,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
+      "publishedDateTime": "2021-10-09T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
+      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
+      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
+      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
+      "publishedDateTime": "2021-10-08T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-09-cloud-optimization-startup-cast-ai-raises-10m.md",
       "title": "Cloud optimization startup Cast AI raises $10M",
       "excerpt": "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital.",
@@ -1108,91 +1195,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures.md",
-      "title": "Robotics start-up Ishitva raises over $1 mn in Pre-Series A led by Inflection Point Ventures",
-      "excerpt": "Ahmedabad-based robotics start-up, Ishitva has raised a Pre-Series A round of over $1 million led by Inflection Point Ventures. Ishitva Robotic Systems (IRS) is an OEM operating in the space of dry waste sorting technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
-      "publishedDateTime": "2021-10-08T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-ai-incubator-makes-understanding-practical-applications-as-easy-as-p-ai.md",
-      "title": "AI incubator makes understanding practical applications as easy as P-ai",
-      "excerpt": "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://tsl.news/p-ai-incubator/",
-      "originalUrl": "https://tsl.news/p-ai-incubator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg",
-          "width": 3177,
-          "height": 2037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tsl.news/p-ai-incubator/amp/",
-      "cdnAmpWebUrl": "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/",
-      "publishedDateTime": "2021-10-08T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tsl.news",
-        "domain": "tsl.news",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

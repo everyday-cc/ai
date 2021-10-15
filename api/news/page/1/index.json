@@ -201,6 +201,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-15-embark-says-it-has-14200-reservations-for-self-driving-truck-software-slated-for-launch-in-2024.md",
+      "title": "Embark Says It Has 14,200 Reservations For Self-Driving Truck Software, Slated For Launch In 2024",
+      "excerpt": "The reservations are non-binding, but they reflect a vote of confidence by a range of trucking fleets who want to deploy the Embark Driver software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61686cfd8870de0631994825%2F0x0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/",
+      "publishedDateTime": "2021-10-14T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member.md",
       "title": "Machine learning, analytics should be used to settle claim faster and detect frauds: IRDAI Member",
       "excerpt": "The insurance company should start making more use of technology to complete the claim settlement process faster and even fraud detection can be easily done, an IRDAI member distribution SN Rajeshwari said during National Insurance Academy’s insurance summit.",
@@ -450,49 +502,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-bots-market-trends-top-manufactures-industry-growth-analysis-and-forecast-2030.md",
-      "title": "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030",
-      "excerpt": "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "originalUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua14817079_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
-      "publishedDateTime": "2021-10-14T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-10-14-waymos-self-driving-cars-are-mysteriously-flocking-to-a-dead-end-street-in-san-francisco.md",
       "title": "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco",
       "excerpt": "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,",
@@ -648,7 +657,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1085,7 @@
       "originalUrl": "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 71,
       "tags": null,
       "images": [
         {

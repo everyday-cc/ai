@@ -1,40 +1,46 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
-publishedDateTime: 2021-10-14T21:55:00Z
-originalUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
-webUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
+publishedDateTime: 2021-10-14T17:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634232585&width=1200"
-    width: 600
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
+    width: 2513
+    height: 1414
     isCached: true
 
 related:
-  - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
-    publishedDateTime: 2021-10-11T20:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
+  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
+    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
+    publishedDateTime: 2021-10-12T13:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 34
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
-secured: "QXXGTxu083QgNJ8ys7Z0KD+0ydCCgrqn8twonB2HflxmTtdN3dDNwAEf8j2UCI+zt7/6Mr98TZwSeW/i1XFg8bLwQjZ2P6qnbTvnbVccEYBlvtI4IE+0av3Me1lUp6+TjVrYnzussbFuOnILMjhyb5wQHMSXQI8pRrRjCCPyaIkMflXI/BRMeIHJTH4T1DCUw/0cYEDRJ5qIBeRp4f+m1deO8KSZ/89HtEmlzOsVJXyuEuNhA4jnJ9FaCAcYpmIDEKdiBhCrR4q1GCNdFxVb7itqYIzeO0peE3Ia8rLSR66+YYZUgDznm69EnS5Qp8mPLl2xnmgSQfJL8XzzPjAzCithNuIOA/3AkvK/E2f1tV4=;IUjiTb0H6k+TMT+oNbND8A=="
+secured: "G8leVPw/DqV1G/NP6vWudyMclf/JhvJ/mO11QI5wrPQUy3RHR+iUN+LeAcU/La6DW3Z5Vfz52gsfw3WFsHrO14Nzki48dAXGSn0pxs6PIvlVU4xKUxaH+2VNxmXAVjsuApVqQPwSeQTt/e4GSQw8HCOzhpvokEoZtTtdvY6rW6+ewKA0DfJfHfNOw3BtCLbqnj4zTy04T281ADRq2p7hLI6EDRK8DdjUPslZKlJJsdITpTqnZODT8OLRflvzLxzWIfUa7B2wDeT1nv1kioVS/KZmY5NeBXmFsnc0/fFrh3iRa0mPjuN565nJEZKH4XEETWcZ9/gQfhZ5dZntgjdNDIzA99M0mrNxraAVYKcTdvs=;t64oveMRc/1XxS0cONGHJw=="
 ---
 

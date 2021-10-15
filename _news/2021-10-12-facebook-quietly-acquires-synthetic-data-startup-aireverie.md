@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthet
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/"
 type: article
 quality: 193
-heat: 333
+heat: 343
 published: true
 
 provider:
@@ -216,6 +216,20 @@ related:
       - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
         width: 1400
         height: 800
+        isCached: true
+  - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
+    excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
+    publishedDateTime: 2021-10-15T01:36:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/facebook-collects-video-wild-to-help-ai-develop-first-person-perspective"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1634262817/woman-506322_1280.jpg/woman-506322_1280.jpg?VersionId=HzRwo7bO5w509NlalQHdXy3HmummGvAs"
+        width: 1280
+        height: 905
         isCached: true
   - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
     excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"

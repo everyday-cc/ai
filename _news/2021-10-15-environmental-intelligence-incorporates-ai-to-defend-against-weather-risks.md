@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries"
-    excerpt: "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group."
-    publishedDateTime: 2021-10-10T09:33:00Z
-    webUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/"
-    ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 50
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial intelligence and the human-machine interface (podcast)"
     excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"
     publishedDateTime: 2021-10-14T19:04:00Z
@@ -96,6 +80,6 @@ related:
       domain: insidebigdata.com
     quality: 17
 
-secured: "FHkk4N2sp/P1hNK1gf1X+DWITCQWrLZIKaFaHX9e7NMS6dZDwwmt1s0ovLfTkr52T/wqCvxhLuvKV0VDwRhUgHD+y/4PAU9FifB4gHQhXnAx5ltmrOb73uj0XWHOdjRUrRDzKxTPz/tkvi3Ot8pQLXnRgwec4CsgZZl9xz/yMBTkeMSDcHPOFWr7Ey48678zfqsPP1kCRVlqwwlDwc9nKXCCBL3q4mez9opGXU1SlQ7UEBKmKEp3pXFX0OMsMZ62Qenp+EHw/zDP4QA0T9QX0gDjcz3c2SkPJsS4sZ6fqhtqE1II74ZVef6eCBlS+wilVH9qzGhsO9ZtEWHQ4PymJ+EMU1gW7Td/78boOyYPILg=;Pf3j/TQn4MsdvLbFBeZ0bA=="
+secured: "2vFBCJXmnjkAdnVuuRioGNo4IoA9/54dqSBS7jlPPAP3BKs9uH3laB2ZkjBxL0riPAEkkR4BD0O2CMPzI6fbYJaoup3vxXfIZqeUyojCcFc64mfSOY0yD+n6BY51OuXyHhkcn6HTF4Odtxch+CWpzJm3cyA6sbPwuDkM4KPJSzDFgg4CNMTNYATpG7PipHREYfU5gmqBk4/+Ivc8Ej7jWJdAYMOqe8Tn99lB3aqfX4YjtHz7eJKaOW/vqMH7DBFEHMRHj+tN2wikaNikpZTDkdo0ALWi39+qGwdtENFfspR95e85vlyVDJxjML68Yzj8oUj3EA1vMVG22a/BoZMQi1753YiGXoeqMUanZ0Xf8TjtgeTlz5KoW4E3r9L+wqeVuAIqhkcpyKjb2GWdfiIrk4NVMiEJ8c/onJCbi2wI/MdySiTCtKEZ2GQ2zWSm1vF7j6L2z1IqGexXWO/gqX8viTLHp9Yt8QTn151ApmIvv67v6Bzd0nHJ7IOLicd8kZ3bEIXB5PAQJmct99oHjID/4w==;02AH0HDu2gK5FDPxgeAsyg=="
 ---
 

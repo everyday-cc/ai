@@ -205,6 +205,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-conversational-artificial-intelligence-ai-market-2021.md",
+      "title": "Conversational Artificial Intelligence (AI) Market 2021",
+      "excerpt": "Conversational AI can be used to answer simple questions ... review of Google Dialogflow at Gartner Peer Insights. “I have been using Watson for about three years now; it’s very flexible, stable, and versatile. On the whole, IBM is a great partner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/conversational-artificial-intelligence-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_232601963.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference-transcript.md",
       "title": "International Business Machines Corporation's (IBM) IBM Investor Briefing 2021 Conference (Transcript)",
       "excerpt": "as is the deep alliance we can create with the rest of IBM software around assets such as Maximo, TRIRIGA and of course, the whole Watson AI suite. So, a huge amount of power and differentiation ...",
@@ -1299,49 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-dish-to-use-ibms-ai-powered-automation-software.md",
-      "title": "Dish to use IBM's AI-powered automation software",
-      "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lightreading.com/aiautomation/dish-to-use-ibms-ai-powered-automation-software/d/d-id/772073",
-      "originalUrl": "https://www.lightreading.com/aiautomation/dish-to-use-ibms-ai-powered-automation-software/d/d-id/772073",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries"
-    excerpt: "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group."
-    publishedDateTime: 2021-10-10T09:33:00Z
-    webUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/"
-    ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 50
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial intelligence and the human-machine interface (podcast)"
     excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"

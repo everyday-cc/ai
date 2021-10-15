@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "After Air India, Govt to Now Start Work to Sell Alliance Air, 3 Other AI Subsidiaries"
-    excerpt: "As a precursor to Air India sale, the government in 2019 had set up a special purpose vehicle — Air India Assets Holding Ltd (AIAHL) — for holding debt and non-core assets of the Air India group."
-    publishedDateTime: 2021-10-10T09:33:00Z
-    webUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/"
-    ampWebUrl: "https://www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/after-air-india-govt-to-now-start-work-to-sell-alliance-air-3-other-ai-subsidiaries-5048275/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 50
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial intelligence and the human-machine interface (podcast)"
     excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"
     publishedDateTime: 2021-10-14T19:04:00Z

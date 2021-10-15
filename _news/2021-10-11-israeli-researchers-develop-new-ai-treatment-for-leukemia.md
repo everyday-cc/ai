@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Attention-based deep neural network increases detection capability in sonar systems"
+    excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
+    publishedDateTime: 2021-10-12T16:33:00Z
+    webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Researchers aim to make identifying autism easier via artificial intelligence"
     excerpt: "Characterizing an autism patient’s behavior can be challenging, but West Virginia University researchers aim to make identification easier by conducting the first systematicYou have reached […]"
     publishedDateTime: 2021-10-10T21:35:00Z
@@ -63,20 +79,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
-    publishedDateTime: 2021-10-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931330"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "deYZeui5ZTTzjukEgtsvUpgEC0NZDPfcZ5s9CAZOhPa6y5cSrl7M4AHP6KEFYEg7HhREwR3uwZbC0q9oVUsQX03zz4YslN8I03L9TH0t9FkIgF3tTZTg3rF4SQamNFSb/FeqiV/3DYIJDxgYl0tlBcQiig/gQ76R3ukqZgoH3Kur0lq6sfqIwPONkljgo4oxF/oDDEqgD6tjRz+dLOWYVUKP/94Z4M/+G9hsfGHWb3+xQ78YEUr9sQYynVGChiJmCz+ytBkTmnwkJFDsxPlJr8WwrOgHjCE3qWlBCla5BWjGEzWxs5AEr27H5o4iQVGsXk3W1QS3PiF02zkFUUGSQrYRe2o0GMPYolTz2SCxav4=;GnAEy13KhYrpC+5uqw/Icw=="
 ---

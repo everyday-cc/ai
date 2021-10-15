@@ -26,45 +26,135 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Assistant Application Market worth $11.2 billion by 2026"
-    excerpt: "According to a new market research report Voice Assistant Application Market with COVID 19 Impact by Component Deployment Mode Organization Size Channel Integration Websites Mobile Applications Application Area Smart Banking Connected Healthcare and Region Global Forecast to 2026 published by"
-    publishedDateTime: 2021-10-14T17:17:00Z
-    webUrl: "https://www.openpr.com/news/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027"
+    excerpt: "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates."
+    publishedDateTime: 2021-10-11T20:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
+    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
+    publishedDateTime: 2021-10-14T14:36:00Z
+    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 44
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14488154_g.jpg"
-        width: 650
-        height: 373
+      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Clinical Trial Biorepository & Archiving Solutions Market Size Worth $6.0 Billion By 2028: Grand View Research, Inc."
-    excerpt: "The global clinical trial biorepository and archiving solutions market size is expected to reach USD 6.0 billion by 2028, according to a"
-    publishedDateTime: 2021-10-12T08:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/clinical-trial-biorepository--archiving-solutions-market-size-worth-6-0-billion-by-2028-grand-view-research-inc-301397720.html"
+  - title: "Embedded AI Market Size & Landscape Outlook, Revenue Growth Analysis to 2026 Says – Big Market Research"
+    excerpt: "United States OR Portland Global Embedded AI Market 2021 exploration report including the central issues impacting the development of the market market elements and Major players of industry Likewise Embedded AI Market By significant vital participants By Types By Applications"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423841/embedded-ai-market-size-landscape-outlook-revenue-growth"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
+      - url: "https://cdn.openpr.com/U/a/Ua11992451_g.jpg"
+        width: 657
+        height: 400
         isCached: true
-  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,"
-    publishedDateTime: 2021-10-14T14:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043451.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
+    excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"
+    publishedDateTime: 2021-10-11T07:42:00Z
+    webUrl: "https://www.openpr.com/news/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    ampWebUrl: "https://www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2423909/face-recognition-systems-market-2021-global-industry-forecasts"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua11564619_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Global Machine Learning as a Service Market 2021: Global Size and Regional Share Forecast to 2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Repo"
+    publishedDateTime: 2021-10-11T11:44:00Z
+    webUrl: "https://menafn.com/1102950565/Global-Machine-Learning-as-a-Service-Market-2021-Global-Size-and-Regional-Share-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
+    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
+    publishedDateTime: 2021-10-14T06:13:00Z
+    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+  - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-14T15:54:00Z
+    webUrl: "https://www.lelezard.com/en/news-20047544.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 16
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
+    publishedDateTime: 2021-10-11T11:42:00Z
+    webUrl: "https://menafn.com/1102950585/Iris-Recognition-Market-Size-Growth-2021-Industry-2030-by-Insight-Key-Development-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942717"
+        width: 357
+        height: 250
+        isCached: true
   - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
     excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
     publishedDateTime: 2021-10-13T17:52:00Z

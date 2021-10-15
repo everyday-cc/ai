@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-25-hot-chips-concludes-an-amazing-lineup-of-ai-chip-companies.md",
+      "title": "Hot Chips Concludes An Amazing Lineup of AI Chip Companies.",
+      "excerpt": "I can deal with it: some technology is just beyond my pay grade. My masters in CS is decades old, and the deep technology underneath blindingly fast AI chips is often beyond my comprehension. But when I saw the lineup of companies presenting at this years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611d8d46a45079d06316ca62%2F0x0.jpg",
+          "width": 800,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/08/24/and--thats-a-wrap-hot-chips-concludes-an-amazing-lineup-of-ai-chip-announcements/amp/",
+      "publishedDateTime": "2021-08-24T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-cerebras-systems-connects-its-huge-chips-to-make-ai-more-power-efficient.md",
       "title": "Cerebras Systems Connects Its Huge Chips to Make AI More Power-Efficient",
       "excerpt": "Cerebras Systems, the Silicon Valley startup making the world's largest computer chip, said on Tuesday it can now weave together almost 200 of the chips to drastically reduce the power consumed by artificial-intelligence work.",
@@ -1399,59 +1451,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -40,22 +40,6 @@ related:
         width: 848
         height: 963
         isCached: true
-  - title: "Artificial Intelligence Is Changing The Condo Industry"
-    excerpt: "Technology has changed our lives for the better in many ways, from employment to retail services. Now, AI technology has started to make inroads in the real estate and housing markets due to more people being indoors due to the coronavirus pandemic."
-    publishedDateTime: 2021-10-10T09:43:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/Depositphotos_212660524_S.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "IgtZM/My94C+gd3JN3OPH2vjXceqEjoc4NTW/L0y0gn/j/Dc4PPHw5RcBz3IUbOvyOBWlAZfjXHgYPEfncks2nAX39HwKojLUuE3WzdwTjID9XOm2+h+JhWm+uVwbemORemcmzKXMnwlNaaf6x2whvIfAq6P9HAh2+GCFHrKXhDLR+eZJwjQ4A0dgAiawmL9eQYwK8QuLHNqi9AHxDbsVIltjk/HkVATkuYmml2amBzFU8FrJfUfLGs9iLeZGiVjktNKUbu3iS+NCSViQAyJ/6IlFCzO4hSxqKGAM1CEfnQyjvpSNiA4eeTPxMEzkbx3BqMqtEC9KmguYo5lW+z7zpdvpIxE8NlBVlFcpWvVmowLAcxPUB+C6xCQD7kfSOtbti1L5xJgNtqiWlssEHpfCv4neG9sJAeQh3PQJ5lC7UXS2WHDTyoqVQs0RPPhIQ0CogfWkCG7Gmr1n5R1x2gTMm/ZHmqf5mwpc5hgFbkjNHfpppqZjBYnumMMFKDPWTo5yLg+SR5MzVid5n3+BU+Q/Q==;kP3xTCf4iTVkrN96vHiw3Q=="
 ---

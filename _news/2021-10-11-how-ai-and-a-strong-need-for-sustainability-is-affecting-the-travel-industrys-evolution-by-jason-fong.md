@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-stro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Changing The Condo Industry"
-    excerpt: "Technology has changed our lives for the better in many ways, from employment to retail services. Now, AI technology has started to make inroads in the real estate and housing markets due to more people being indoors due to the coronavirus pandemic."
-    publishedDateTime: 2021-10-10T09:43:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-changing-the-condo-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/Depositphotos_212660524_S.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "How the Agriculture Industry is Using AI"
     excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"
     publishedDateTime: 2021-10-11T05:00:00Z

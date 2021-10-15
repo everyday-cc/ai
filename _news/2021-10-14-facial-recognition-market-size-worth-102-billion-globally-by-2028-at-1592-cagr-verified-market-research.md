@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,"
-publishedDateTime: 2021-10-14T14:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
+excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
+publishedDateTime: 2021-10-14T14:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
+    isCached: true
 
 related:
   - title: "Voice Assistant Application Market worth $11.2 billion by 2026"
@@ -36,22 +41,6 @@ related:
         width: 650
         height: 373
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Clinical Trial Biorepository & Archiving Solutions Market Size Worth $6.0 Billion By 2028: Grand View Research, Inc."
     excerpt: "The global clinical trial biorepository and archiving solutions market size is expected to reach USD 6.0 billion by 2028, according to a"
     publishedDateTime: 2021-10-12T08:35:00Z
@@ -66,16 +55,7 @@ related:
         width: 1400
         height: 733
         isCached: true
-  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
-    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
-    publishedDateTime: 2021-10-13T17:52:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 0
 
-secured: "YIPEV0ZD65zqilL7OAEc0hk5ZyjMHpbNxg0CGUqeJqpOMDmfqcd9iqWI4WccjUvP/cp4LHfvAvK0GL6ZWFmi2eFaUVGsK5dx3DcYgW8a8H6LeBR9w3Hx1hcFyO3QnpUV8Wm3f2TryFFbMATEB6YO0WUmjzZHai1yGafYhf+n7+QOewXYvYM7GMw5ox5ej1xNtk2yw5t2aNc5F2kh+Gp1rMOCfzpgfS5Fjl9Dui7Nyejpgmq4+jp2xnkVqYaHl5lGZ5J6pjIUDFNMbqhUXGsDDTMMyqvCCupkgcNpHaZOFv1YMLx28llQgflYCoWa3wzNR2QPLreMNNFr8osLjZV65vmd0sIcgohtwZ8Dny/sj70=;wjNrltSDhKjBZzNK+NQoFA=="
+secured: "ReAwAIDQwEvvJpjKtNx4nLKEu7VA4ifzlK1HlrkJ6ptfujW/Sy06SEO7FflQyt2C3F0id2xF822OLPBrMmQfPptnhU1svd6T3/seQwhqrtiDEvoWqvybDLVcLeI8GdPsg4fwkLpuSRfBm9n4ea3w38vmU3WDTZgfUrmDrmAJWHt/Q2UPM9niDbtfwjOqud3Ga9ITNJ3noRmC9gzt1c64wR2uL8CyvyoaTipfxzWzempcK7mF92YopLgCGA4p0l2XyxLoZqXruW/lG4An2ByFCrHvSWHQ6wVly98F1XDdnTb+F5muemIxf04d+RzW65FNqu6mZ8Te2LnE5GNIZAhjJbr5pr6ZfmT0m6u2eBiXPrU=;T+34koDaHq49zrTk+dO8Bg=="
 ---
 

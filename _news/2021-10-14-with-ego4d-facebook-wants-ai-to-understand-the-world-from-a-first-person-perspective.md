@@ -225,6 +225,20 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
+    excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
+    publishedDateTime: 2021-10-15T01:36:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/facebook-collects-video-wild-to-help-ai-develop-first-person-perspective"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1634262817/woman-506322_1280.jpg/woman-506322_1280.jpg?VersionId=HzRwo7bO5w509NlalQHdXy3HmummGvAs"
+        width: 1280
+        height: 905
+        isCached: true
   - title: "Facebook Loves Self-Supervised Learning. Period."
     excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
     publishedDateTime: 2021-10-11T05:30:00Z
