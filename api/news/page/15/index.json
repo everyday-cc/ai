@@ -2,6 +2,125 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid.md",
+      "title": "Qlik acquires Big Squid",
+      "excerpt": "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/channel-news/qlik-acquires-big-squid.html",
+      "originalUrl": "https://technuter.com/channel-news/qlik-acquires-big-squid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg",
+          "width": 333,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
+      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
+      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/80112-2/",
+      "originalUrl": "https://www.dqindia.com/80112-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
+          "width": 540,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
+      "publishedDateTime": "2021-10-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others.md",
+      "title": "AlphaSense raises $180 mn Series C funding from Viking Global, Goldman Sachs, others",
+      "excerpt": "AlphaSense, a market intelligence and search platform, on Friday said it has raised $180 million (about Rs 1,336.5 crore) in funding led by Viking Global Investors and the Growth Equity business within Goldman Sachs Asset Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/alphasense-raises-180-million-series-c-led-by-viking-global-and-goldman-sachs-joined-by-morgan-stanley-citi-bank-of-america-barclays-wells-fargo-cowen-alliancebernstein-866205418.html",
+      "originalUrl": "https://www.freepressjournal.in/business/alphasense-raises-180-mn-series-c-funding-from-viking-global-goldman-sachs-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
       "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
       "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
@@ -1059,161 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed.md",
-      "title": "Yes, robots are coming for your job, but you might like the new one more (if you're still employed)",
-      "excerpt": "For decades, a speculated wave of job-stealing technologies has stirred debate about the role of humans in the labor force alongside automation and AI adds a new wrinkle to the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "originalUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/30/7a07b8cb-59d6-437e-8545-6e201f357d11/resize/1200x/4118c23f5db2dbd1621784b3792dbad2/gettyimages-gremlin.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "publishedDateTime": "2021-09-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030.md",
-      "title": "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030",
-      "excerpt": "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "originalUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "publishedDateTime": "2021-09-30T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

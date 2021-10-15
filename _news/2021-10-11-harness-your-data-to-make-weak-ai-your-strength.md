@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 593
     isCached: true
+
+related:
+  - title: "Five Steps To Successfully Leverage AI In Your Business"
+    excerpt: "What exactly does the adoption of AI mean in concrete terms — for the management team, for an employee in a call center, for a doctor or for a research assistant?"
+    publishedDateTime: 2021-10-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bc51ba8299062b3b9581b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RsSEOsthnWnFsdEipBgi2V9iRHO8M5Qn+UDz548OGRoy5haY5ZC9+tGk5HxYlLE4DjF77JXCCZk5hB5q2GdbO69s2b9vsFb7oFnRlYWtGPgvgjXQAOpdO3FRNesL6rAwOYGVQojVpd2n68FFfCnNGfWWI92ScMnI3f5bJVYGXJa978+yog/OWjdITf87LHprrO0alQcUaFlYPbD/n3gk5tXnM2JF1nXNGUtCy43IdzjAItTtIlxliT1q84bz0iilK/DTzoazckWRpXgwm0EDUHWmX+fm/xN1zpEHETRBhA1w/pzs1HvOxyv+ktUHSiyoSwK+emWc4aMZx3aJfJO+wCzJfoazLDYoJBo/Y0RCuTBT9B9cWV9pYnAFb0esnOYr6dyEzV1Vmu4rseQ8Bw0hfXelAEN9q3WXGHzQVsX7cys+KiB+pHpF7+pglWNNZcbCewZQwxjGzp/xAJWZqeHLUxjbQQ90U1socYfJ6Lj7MiInVrnPKyUMywdCmn1zyXlbMzV7enQKmApT0boSqpRmTQ==;wO26orNwoZYdSdFdMLiY6g=="
 ---

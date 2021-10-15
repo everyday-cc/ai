@@ -89,17 +89,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
-    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
-    publishedDateTime: 2021-10-12T21:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\"."
     publishedDateTime: 2021-10-13T04:02:00Z
@@ -175,22 +164,6 @@ related:
       - url: "https://img.futurecar.com/202110/11/l_616456935de63.jpeg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla Faces Regulatory Tension Over Self-Driving Builds. The Market Doesn’t Care."
-    excerpt: "U.S. automotive-safety regulators want some answers from Tesla over its recall practices. It’s another example of the tension building between Tesla and the traditional auto industry as cars become smarter and start to drive themselves."
-    publishedDateTime: 2021-10-13T14:24:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51634135014"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-416197/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla Has Halted Its Full Self-Driving Beta Rollout At The Last Moment – This Is Why"
     excerpt: "Advertisement On Saturday, the most anticipated release of Tesla’s full self-driving beta 10.2 to approximately 1,000 Tesla owners with “perfect” safety scores was postponed. Elon Musk blamed the delay on “a few last-minute construction concerns."

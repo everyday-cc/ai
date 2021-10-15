@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Government to begin work on monetising AI subsidiaries"
-    excerpt: "The govt on October 8 had announced that salt-to-software conglomerate Tatas have won the bid to acquire Air India for ₹ 18,000 crore"
-    publishedDateTime: 2021-10-10T17:24:00Z
-    webUrl: "https://www.telegraphindia.com/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
+  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
+    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
+    publishedDateTime: 2021-10-13T09:34:00Z
+    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
+    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 57
+      name: inc42.com
+      domain: inc42.com
+    quality: 49
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2021/Oct/1633121821_air-india.jpg"
-        width: 900
-        height: 500
+      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Dozen PSUs on the block after AI privatisation"
+    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
+    publishedDateTime: 2021-10-10T19:44:00Z
+    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
+    type: article
+    provider:
+      name: Nagaland Post
+      domain: nagalandpost.com
+    quality: 37
+    images:
+      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Pathway Raises $1.3 Million to Scale its AI-Powered Medical Knowledge Platform"
+    excerpt: "In a context where the COVID pandemic has generated an unprecedented volume of evolving clinical guidelines and revealed vulnerabilities within information dissemination systems, medical knowledge startup Pathway Medical has announced it raised $1."
+    publishedDateTime: 2021-10-14T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pathway-raises-13-million-scale-its-ai-powered-/2021/10/14/9469457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "e5mTttfsdh9SUQiBwIXpZyjMNZSON7YMV4m3pmB4XvKFBx9JINFAdlTy9tEASgQIunqioi5sCSQyHrPnU0rGkMN+J+swABKtHMMqXZCPn/1h+4jqWhkb6ubQQS42ryl25+TXRP4rX1hOXa9mIIQoLA0brYOFziFMPlT4c1cHbfiHq+m4U0wemPEj3bHG7BE8k5NzKmWT3mrwlt07SDYPwVBBalmYpowTlqWYzDZRAUvfM6SBCMXp6cC53CMnnMCN9bPQF+33QWOi6XIxcAwZaF0g/ERpOKKz8iiLqfANgsUkhpqL5qnLAFEOYnS1EzJVfQCTlar93ccRHt31csS3GU3P/XKh3dkXQfaMHKa/kmY1kqW1w127G1E29XFspxVI1WJu1CtVfT4tr+Rwe32YQpd6vismEDKkEX6TNwTOgW7LUBrUnKCGDM835iBYj28BaDrylEb31p0GPiCu+RnWTvLIxM+MvfxyaDzB3An9lNgwja/R6ZScXWkf43vL/HgfrfWxWDeuS1gIKxML1J35CQ==;Ue/N1iaREf2j6GxKHAjLvA=="
 ---

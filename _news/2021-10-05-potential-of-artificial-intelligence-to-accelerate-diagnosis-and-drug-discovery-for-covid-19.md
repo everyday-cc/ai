@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg"
@@ -21,6 +22,6 @@ images:
     height: 524
     isCached: true
 
-secured: "cSHWoaLQKdVr2Icr8wMUqk4+KAqoixqX2UzvOu2uQj5Lt9a43DsAi+MEGLUr1BpBKMviGSkeseMEOtBrsAClsiDz9y/BimLtGBBK9Q53eQUzqjBqxUorcaU2h+vZGJLPI/gp8OKrLbidlTaXsgdeaZacnC4F5BJda57fam7iRoSag7MJE8H59DaZ/MITPJ4pAN4Ix5oE+svlMsaV69KsO6LOCoa/8JUSUb7wvxiW2U8sQUCBqpGTdjRTc3veBjSYrMZ/ter+fTz86dTLznEp6tWbvDsQ1D7JMeUvkbM+LCGgZLQ4gwAj59xqukF4xp7oM7awVEje/P6iaqzd+cTMXkEetNJnsQglB7KqUb1QI08=;tGSxrePD6t1RiiuZU9iUDw=="
+secured: "7PB2yU7NNTHcqzcioLBYHm9lQ/gqaRdI5RFI9PPJb4MBOW/+V0PEBrfgl1+IA13jrECnKx7mi0Lewmo+tU+tOZWGF1xYnC+wXLF2tIVZq1Qgk9Mswr5w0/7GkC2FLvvf2ScFI5tLedskTVIqyov7UY1eprUnoc+RmWa3/KyE/idsroqkAmywDxuZeBoXiB03BA3RjCA9RNBnkDn8jggKAranuH6AR19ajsm6uoYooQtV2EZw8OKxrrdgBC1xbw+VONc5SMf+oFl7OfaekF61rv5VNp7NXNi8eg3pwLO3LxoFfcfViydYBCZ9cvsklawVuSF7tpcMREZHZHVzqwTjJy1e7MsazNp392ODIS3Z+nwglJ2qdFqcuytpp//8sqlr8M34mVSEcnpvEQD7qr0dubEUILjOKUsIQTY/yIlqRXaGpZQVK9CfIhoiOTuLw+iZzE/oMTw2og6CAEhH+P4oehHbQuh/VUu3XSjnVDJzqoBB1xWQJQ7z1/3xw8eKCyiqpX3qiXnlFcxvohPqXJ5WeA==;FLuR19SU3H9VHR6X85NUkw=="
 ---
 

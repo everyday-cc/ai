@@ -9,7 +9,7 @@ ampWebUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-aut
 cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 479
         isCached: true
-  - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
-    excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/10/11/how_tesla_can_sell_self-driving_that_doesnt_self-drive_798234.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
 
 secured: "iQG43IYykP/bh2saUpb5rVD/wDvx8u4cdRzey6CgbSb6LtbePArpmkaGh8H8TxODgWv/keOQMXN/mjLjwVrqsCQT1FY33ZDO26uYlQYoO5QczE0TI/cE5fOenl0hXpc8R8kPqeOOMSi1IBJeo31ytK+burgXBlShnC3EzLa9JVDIbF3WD41S4wK3F8KXXUIV7BbLbAIVChJKatkZW85JLoSJ5DSfcDEU20Q51bXr3cHKhHadnOiiG3AMDrugeNzEJITHQMRrOzMbMVcsFmXYVIvMWeT/h1Jpe1YHPDE8GDEJ0l5iUQxXYM9dUSUlTte1lrhv8hAc7gIoj/BnvHqee28BezuWXNJEft5Yjb0L6M4=;4r4P0EKH5qSg8YvNtA30Yw=="
 ---

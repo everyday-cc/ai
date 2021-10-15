@@ -19,67 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a"
-    publishedDateTime: 2021-10-13T11:56:00Z
-    webUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/"
-    ampWebUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
+  - title: "Tesla debuts new car insurance that uses Texans' real-time driving behavior"
+    excerpt: "Tesla now offers insurance in Texas, and it calculates for premiums based on owners' real-time driving behavior.."
+    publishedDateTime: 2021-10-15T11:09:00Z
+    webUrl: "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg"
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/1039dff0-2d98-11ec-bfff-3e825fd294c3"
+        width: 1600
+        height: 1023
+        isCached: true
+  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
+    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
+    publishedDateTime: 2021-10-12T21:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Tesla Faces Regulatory Tension Over Self-Driving Builds. The Market Doesn’t Care."
+    excerpt: "U.S. automotive-safety regulators want some answers from Tesla over its recall practices. It’s another example of the tension building between Tesla and the traditional auto industry as cars become smarter and start to drive themselves."
+    publishedDateTime: 2021-10-13T14:24:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51634135014"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-416197/social"
         width: 1280
-        height: 852
-        isCached: true
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
-    publishedDateTime: 2021-10-13T17:56:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 59
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
-        width: 320
-        height: 214
-        isCached: true
-  - title: "Hardcore Tesla Fans Did A Lot Of Weird, Joyless-Seeming Driving So They Can Get The New FSD Beta"
-    excerpt: "I have to give Tesla credit where credit is due: it manages to keep creating strange, fascinating situations that never really occurred in the automotive industry before. T his past weekend, thanks to some tweets from Tesla big chief Elon Musk,"
-    publishedDateTime: 2021-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347"
-    ampWebUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tesla under fresh scrutiny over assisted driving features"
-    excerpt: "The US highway safety watchdog has pushed Tesla for details about its driver-assistance systems, specifically whether it has barred some people testing the features from reporting possible safety concerns."
-    publishedDateTime: 2021-10-13T19:32:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/tesla-under-fresh-scrutiny-over-assisted-driving-features/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-AFP-1K.jpg"
-        width: 1024
-        height: 479
+        height: 640
         isCached: true
 
 secured: "vTc/bVga/KqT2YcIvQ2d19NwW6hcFTqleDagJnG6g66560hB3J1x+uudy/0OqqQRbyFQgL3IxR/RC3tvw8bNYl1JD2f6A7LD+1dVStlL2mEY9JLuuKKpQZFmahZdicjvo6SFAn/AzYASciITv4QU213WpoUiJYGBeB2vNS6VeZ/q50r9VWXtSlzgItRq2ZyUSFAdsfzDxH0cvmsxwtGHG3G4WkuMS4Oghre1npE4ipGlr1FcXJlxhgKA6viJzYNFVl6UKNFrJ96FcrwJaKiGCdHqG4A5zMo26arYGv36Awp/VezEsJJmkxp7dApWxsaQoSDhMRLkOQNHyrGlFdRnR9XBDK2PQQ8DI1ZFC4TCbRac4rfFQTbYrwAG9NmaZd9E2t+jILc2Tmp1F2+FqQVj5Lw9LPh2NgVruX7fti3LkQ8SLW8yjsnAmO7LvKHVkq981qsFGZhEk34WkHlz0MMjgOaRhb+5COdhv5SUVdatIUT418YopprMFHc/t2ECt/mSENbsAlkXHUZuh4w6139PgA==;NSOwC4BK3mSBAFKUcphwgQ=="

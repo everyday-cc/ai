@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
+excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems scale Cambridge Quantum (\"CQ\") today announced the release"
 publishedDateTime: 2021-10-15T01:00:00Z
-originalUrl: "https://www.newswit.com/en/LLme"
-webUrl: "https://www.newswit.com/en/LLme"
+originalUrl: "https://www.ryt9.com/en/anpi/253189"
+webUrl: "https://www.ryt9.com/en/anpi/253189"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: academy
-  domain: newswit.com
+  name: RYT9
+  domain: ryt9.com
 
 topics:
   - Natural Language Processing
@@ -44,7 +44,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Cambridge Quantum toolkit converts natural language to quantum circuits"
+    excerpt: "Open-source software toolkit, lambeq, turns sentences into quantum circuits, ready to be implemented on existing quantum hardware, hence enabling both professionals and enthusiasts to linguistically interact with quantum computers."
+    publishedDateTime: 2021-10-15T10:16:00Z
+    webUrl: "https://www.embedded.com/cambridge-quantum-toolkit-converts-natural-language-to-quantum-circuits/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 24
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/10/Cambridge-Quantum-lambeq-quantum-circuit.jpg"
+        width: 602
+        height: 346
+        isCached: true
 
-secured: "XR1B2y7YDHNg1YuvZci0EsOuhzX8UfedVWQ0uiMQ/dyhh4kBuIDDfNRUkBhRDgLNOlXFxUSwY4jdni33nNQFHbZQc/Mn/VBBCPNCGYztSOSnyMoqM7YFKkwdkwPxeFqcyyoFQAsKTdDONQwL7GQPRm0NFnuL95bf/tRHIi6fZD+QxzWBNXb2hZbJyxqxj8PPU5dDxFVWfuvFoG0yWvF6PcFnSwx9d0HuSDThCVdKBkfRri2nriO2gg8jL6ZiRIoxVGM6QtkDzZCqh2BqqU3OMzzpnEMAFvdBkDwkIh/5UR3dKlP7uDSMtXWJW+9mOz71+IqPizE+4bXWE6i/7adliGs1QysGnthBJKxH4O/Giyg=;cCVFzHFPZ04SHIbrfsJD6w=="
+secured: "Mtz0GSc1FITkVg+NfNTqsAxNJJKdK0u7INWOL6YNURCT8FZNSI4+321A1N1K4DS6tg9U8aA3K8QHfzOSrrDvKAmhMr1hqnIeYZou6t9KKHbEI0v+6gTrliov3xv9W8MWccJi/HuX3QWYshRKAaznavI/vCv40ufN76H3NEZEu/6KKxHiI8Glo6SttY8tLscFJuT9kqspp41e+roDyZurC/rpXP2iRmwYnnmpHJPPI35B5wkKy5zwNI+SJ6M/dzQH+HFR1TQKPPBFvecS7oGDSYi6G0vq9OgiO4YQcxJ7oRlHhSBkHzygTTlTA/CjKNgX5RuSvHOBGuFusAKWbjmCMUKDsVEpU/j5QUV+jgTqVQs=;xz6/axFWFADFLfO56WwmYg=="
 ---
 

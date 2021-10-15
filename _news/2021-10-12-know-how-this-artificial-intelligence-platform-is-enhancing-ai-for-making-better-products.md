@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/how-is-micro-technology-using-art
 webUrl: "https://www.analyticsinsight.net/how-is-micro-technology-using-artificial-intelligence-to-innovate/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
+    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
+    publishedDateTime: 2021-10-14T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "VoKSIPNs9sDgVFKMerO79hK20EHoBaNcYyWc9i4vRhdvDN/1FuZeAQz00/rylX+rWOp8xP3XnoNUxaiEP9Gw7Ukf8vQOB2NRi/5wkCZUh3o+IcBfLoUXDyXtokS6vyE1kQFtkmiLISijBkRe5BCf0wGJkr9cjhBDFqYj5U8M9TwTZRyjEyq/tLeg5fc+wDOxcVg/Wj2rIVojNNMnaCHd2nVNlcUfXrXtqj/VjqkQStKw3RcgsXC7K1xGGazqXdk6LFnbMpiIOWO5DiksxtLV1QRYWnhDoov1KhROXDQ27LdG4xHoJyaTNBg9NxurNz9ZrpSJ5vG6pZpmbJPGYUhji2xXKq8HxzdoO/pXkJi8X0SAndDnimMvczVwOTWA04sp7sQJzfAdUdlYAvVIiuIQNTgMTf8NHHm0qbTMwZx9PSB/6eMdAqIUKXatYhAHmX1PzcvW+ATa/rxVNohYS5kZQ/bEoaZ543UmdhdV/sV2TSQOXR3yIksWoJZ32UAsI1izH/7lrJ/HJ+9rfDvpZh6ejQ==;knBd1oTBcM/343zR8EfUwQ=="
 ---

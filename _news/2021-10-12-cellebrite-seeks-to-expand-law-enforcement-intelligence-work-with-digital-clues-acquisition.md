@@ -48,13 +48,15 @@ related:
       domain: tmcnet.com
     quality: 0
   - title: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
-    excerpt: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
-    publishedDateTime: 2021-10-15T09:31:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/10/15/philips-introduces-next-generation-digital-pathology-suite-intellisite-to"
+    excerpt: "Solution offers high quality imaging with multi-site, multi-disciplinary interoperability, artificial intelligence and Laboratory Information System"
+    publishedDateTime: 2021-10-15T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/tr23389855/philips-introduces-next-generation-digital-pathology-suite-intellisite-to-enhance-diagnostic-conf"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23389855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23389855"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "53T3ClOimDQhBp5n8B4ZHG/eqQdIVHapbZ/SQnWGo1JgoxAgnxNBNdjTXt2qoTHwf6afFdTrRwm0IZYsLBF+Klcv+wDNAo9TYvW76QfnMvQIWxZJS87lh5MatYuPJkEPkulaHz2lVPDvZCdZlSIuX8JMLcLTC6CcF1ZrExV5ojmJk9s31LQELg6DPn5W1gNniRGxtBZQ5WWdVX0Lb4GqhzO9SxSKDT888B7Ti0MGHaoPXIDGyH9SBk8QcdaaLjdCuq/LS83GPSOaAiiTkFHENDNE9kBs7MYjbLrptZIoAqMw5al0RRDhI8aVOApW0d32AuSdsErZovaxtFHvjlzE6RiVmShGSC1oYiypR+BeLTG2eFziVC6BA2DoqukYGZ3HeVs5aygL7JDR+nk4WNJ30BIEXhf410ahjH7zvjpluTwin0wMTTjOw4eaAuqY0+6Zl9G5JGpHtEZlmwilEt3nCLR2i1mrxIzVtJwHJTv0/SfMteo5olyFijr+/jOoTE/nLc6nkCTOAR/8gNEh8ExgRQ==;k11V2n2VUINvP7/VKva8gg=="

@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
+      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
+      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "publishedDateTime": "2021-10-12T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare.md",
+      "title": "Create And Scale Complex Artificial Intelligence And Machine Learning Pipelines Anywhere With IBM CodeFlare",
+      "excerpt": "Goodson, dives in to discuss the deal with the extraordinary growth of AI and its ever-increasing complexity, IBM created an open-source framework called CodeFlare to deal with AI’s complex pipeline requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61661d47f90be4daae1bb28a%2F0x0.jpg",
+          "width": 936,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
+      "publishedDateTime": "2021-10-12T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
+      "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
+      "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/online-4275963_1920.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/",
+      "publishedDateTime": "2021-10-12T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
+      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T14:43:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
       "title": "Deep learning helps predict traffic crashes before they happen",
       "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
@@ -1033,213 +1233,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
-      "title": "Fintech Ecosystems — Some Assembly Required",
-      "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
-      "publishedDateTime": "2021-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
-      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
-      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "publishedDateTime": "2021-10-12T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
-      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
-      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
-          "width": 4000,
-          "height": 2693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "publishedDateTime": "2021-10-12T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-your-next-training-session-might-be-taught-by-an-ai.md",
-      "title": "Your Next Training Session Might be Taught by an AI",
-      "excerpt": "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
-      "originalUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
-      "publishedDateTime": "2021-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

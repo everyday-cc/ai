@@ -246,6 +246,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-05-potential-of-artificial-intelligence-to-accelerate-diagnosis-and-drug-discovery-for-covid-19.md",
+      "title": "Potential of artificial intelligence to accelerate diagnosis and drug discovery for COVID-19",
+      "excerpt": "The tests currently used to diagnose COVID-19 are based on real time reverse transcription polymerase chain reaction (RT-PCR), computed tomography medical imaging techniques and immunoassays. It takes 2 days to obtain results from the RT-PCR test and also shortage of test kits creating a requirement for alternate and rapid methods to accurately diagnose COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/12073/",
+      "originalUrl": "https://peerj.com/articles/12073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg",
+          "width": 600,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
       "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
       "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
@@ -1378,59 +1422,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-a-developers-guide-to-machine-learning-security.md",
-      "title": "A developer’s guide to machine learning security",
-      "excerpt": "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/machine-learning-security-for-developers-1-e1632767450503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "publishedDateTime": "2021-09-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

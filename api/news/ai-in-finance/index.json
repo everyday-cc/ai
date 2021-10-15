@@ -410,6 +410,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-04-oracle-promotes-responsible-use-of-ai-in-financial-institutions.md",
+      "title": "Oracle Promotes Responsible Use of AI in Financial Institutions",
+      "excerpt": "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-03-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
       "title": "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration",
       "excerpt": "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”",
@@ -1307,49 +1350,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-a-machine-learning-algorithm-to-target-covid-testing-of-travellers.md",
-      "title": "A machine-learning algorithm to target COVID testing of travellers",
-      "excerpt": "A machine-learning algorithm for targeted testing has been implemented at the Greek border. Automated system allocates COVID tests to people arriving in Greece. Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

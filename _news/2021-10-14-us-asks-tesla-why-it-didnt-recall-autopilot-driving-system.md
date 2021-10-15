@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 479
         isCached: true
-  - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
-    excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/10/11/how_tesla_can_sell_self-driving_that_doesnt_self-drive_798234.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
 
 secured: "JvWwgdH/8DvzBUhPeCO9EogM6VqPzHrLcAf/wny8YP8X3DLpJNsM5qeZEuhgRj2+YckNJSt+ZigIbLzqyYaGMapHR2KrZV31EnMRR/j3aczjrxKYtjRMN+BF6DXMe7MXcmTN0y4t1lLj0XWjfBCiNKRnPhYGlVXfGi1c0RduorivKoC2UCz2blBc8P0BuDuzFBBQ60bQMWlGPZiBE4o/kouN3cg2W6JZsaj4ogJMM2425pvlrTfTwkY8PiqbT6oL9rnfXutURbbYt1uguD5bp7zLMRCyHpO9pBmMnJYkdLeSBxt3QU3rq2mVxNlgFkW1HcYZns13QrovrklBJ9cjyox7BT8La7hUukP8sZbUR3s=;86fS99uWwC2PgrTfa79How=="
 ---

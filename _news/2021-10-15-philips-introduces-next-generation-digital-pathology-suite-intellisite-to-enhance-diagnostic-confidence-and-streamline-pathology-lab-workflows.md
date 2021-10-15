@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
-excerpt: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
-publishedDateTime: 2021-10-15T09:31:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/10/15/philips-introduces-next-generation-digital-pathology-suite-intellisite-to"
-webUrl: "https://stockhouse.com/news/press-releases/2021/10/15/philips-introduces-next-generation-digital-pathology-suite-intellisite-to"
+excerpt: "Solution offers high quality imaging with multi-site, multi-disciplinary interoperability, artificial intelligence and Laboratory Information System"
+publishedDateTime: 2021-10-15T08:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/tr23389855/philips-introduces-next-generation-digital-pathology-suite-intellisite-to-enhance-diagnostic-conf"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/tr23389855/philips-introduces-next-generation-digital-pathology-suite-intellisite-to-enhance-diagnostic-conf"
+ampWebUrl: "https://www.benzinga.com/amp/content/23389855"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23389855"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
@@ -57,6 +59,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "PWXvdV4nmBRmiu8KuaAdR/rlKPhidXFsPLI4wEY78FcpzL3gQFiv9H+BUzuRjBGW/axRw5GDDpbXTLKqZd+pQ4NTiHI8fB55c3evsqjqUpBi5mSmy8pAA3Gtm+Sv66OPqbE9C/ytljFt0TgXLN/X2V0Mrmnvq7SBi+oVPwtv06RyPlB4BInTnjFd6h7V6RXD6jRATHOBIDXaR8Mqx4gp6pKN8J+VeNWdB6I9PIRKj/LSTCrt7PpX8Q/ct5cVWjH+8ZQ5fXX24fbIFdzDilF1RD0C3W0v+Nq29KSLSMXpMNwDwz8yAUlngbzcWAnPg3k3/pTvlaodX1YfgC6b0bsgFu+4ptAuAUun9ojR77Hb4oU=;Pg/iwXilZMmRM5PHowRJxw=="
+secured: "LO05+n45TzN6MDkA/k+rLLnGajqaKOecNV3utCjw6AM+VW+YXYw75GTVW6O4pXqDRTcDSSVFfGWd6vUNLNf32g7MZnD7mKUZt0hVEZXBWqyX+5gsqjbuK4mxZWbfwYqnXhZgVC/ph4W9nyaU2+AwFWaOlgpGZa8CkMJWu8ohC6Kk7LbZz5+32bsFilB+CZAp0wWCjfheivFAwI/lfM1jYrndCjD+6r2X8NaTuFDx+iep3yhFNpMj6H5Tb1pQla6kw+xFbNtYzvyusShC3IJUfJWCwjHVOiSoqfsVUictlQhFCmdqWY96cK4lXWV/rkwMLa7S4Q0ViPeud2IV+BavjHdlgyFl3M6QPj6o25CTIAg=;R+26m6fXtQWE+nGK5QkQYA=="
 ---
 

@@ -2,6 +2,213 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
+      "title": "Fintech Ecosystems — Some Assembly Required",
+      "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
+      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
+      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
+      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
+      "publishedDateTime": "2021-10-12T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
+      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
+      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
+          "width": 4000,
+          "height": 2693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "publishedDateTime": "2021-10-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-your-next-training-session-might-be-taught-by-an-ai.md",
+      "title": "Your Next Training Session Might be Taught by an AI",
+      "excerpt": "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
+      "originalUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
+      "publishedDateTime": "2021-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-artificial-intelligence-is-shining-star-in-fight-against-healthcare-fraud.md",
       "title": "Artificial Intelligence Is ‘Shining Star’ in Fight Against Healthcare Fraud",
       "excerpt": "Beth Griffin of Mastercard says AI has been an effective tool that is only beginning to see the level of adoption in healthcare that exists in other industries.",
@@ -547,58 +754,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities.md",
-      "title": "DeepMind proposes new benchmark to improve robots’ object-stacking abilities",
-      "excerpt": "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/",
-      "publishedDateTime": "2021-10-11T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
       "title": "Biden administration says we need a Bill of Rights for AI",
       "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
@@ -1086,148 +1241,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
-      "title": "Fintech And Compliance: It’s Not One Size Fits All",
-      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "publishedDateTime": "2021-10-11T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
-      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
-      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "publishedDateTime": "2021-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

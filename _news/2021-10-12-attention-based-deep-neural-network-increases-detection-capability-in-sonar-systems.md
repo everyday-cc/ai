@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Attention-based deep neural network increases detection capability in sonar systems"
-excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
-publishedDateTime: 2021-10-12T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/931330"
-webUrl: "https://www.eurekalert.org/news-releases/931330"
+excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
+publishedDateTime: 2021-10-12T16:33:00Z
+originalUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -78,7 +80,21 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Researchers develop a tool to quantify the beauty of a landscape using artificial intelligence"
+    excerpt: "Evaluating and quantifying the beauty of a landscape, an ecosystem and its effects on a person’s well-being has become a central issue for public authorities. With this in mind, scientists from the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland and Wageningen University in the Netherlands have developed a new indicator based on deep learning"
+    publishedDateTime: 2021-10-15T11:19:00Z
+    webUrl: "https://www.actuia.com/english/researchers-develop-a-tool-to-quantify-the-beauty-of-a-landscape-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 25
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/10/EPFL-wageningen-paysage-deep-learning.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
-secured: "Fqemh3lH9dYBCrOraWx/qnz+0/Ul85DfCjeaFkV+XmYwLV2cEKv2bSinral3cktCKpD+YTtael2JJg9BXwFzA9Ux+aS8unc5T3AenDkl1VkvEkl68ecRmQB6vbCcBjvG8wzEKh8Y0UE5YL0z8xyOXZBA3XWcgzVtuhnXhAHN16YdTKJ0oeaVWGmQd1GQH/KLzfY243ihS7M3SUhQr8FtxzVpatBDvLHCZIzmjIkZ1i05PDGlJWLkR09c8vQuvmRRRUrvwRaXHy566c9FSWmzg1k3HeU/WLJbanlk//ry4OPgDdSDZBBScyvEWdAbckZkCx8QfzWBe76V4aHiRHsGml1CP6iMeZQ2BuVDp1u5B0w=;LvLuKB/TC0SuPkEqqyvkTw=="
+secured: "HsK2stsubutG0upRftD2LR//B6ktuN9uISXFK0Cf1zo2ncbQLZNZzXZQEMfdklbmAX/Zqg1exswHGrJzHUdgky2o/8nY4B3sfJBFVVGdXdJTg4JnOi4F3KuS1Zzh050TyXTMeUo33s8+Q65aExmIuPe0XGU9eeOGDxdpQMszEBgiHvkNOFvKlzAwTENliRVxlOuSrxtSDAdqjbb8KeOBMfAZOnK4vrOKtfjheqG4vF7QrKyZgUMbJR9KJxIOq7oAbk2JrJifioJ1O4WqlKUJEJ9+sCAYxn0YpSTAUwgEKt/AkNDzTCIGPhbuMjGdbfC3B3di9LqorQFDBC8OlSlfR4hQDy3OzXHD7mWikpQPJwY=;AnQrZmJo8qfMc4SFHwKbPg=="
 ---
 
