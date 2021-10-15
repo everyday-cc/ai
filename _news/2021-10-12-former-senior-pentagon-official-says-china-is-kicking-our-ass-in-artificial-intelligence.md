@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/former-senior-pentagon-official-says-china-is-ki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp"
 type: article
 quality: 82
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sorry former Pentagon expert, but China is nowhere near winning the AI race"
+    excerpt: "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI."
+    publishedDateTime: 2021-10-15T21:04:00Z
+    webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fairace.jpg&signature=37c2b19155b74d84da568e4687d78e76"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
     excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T05:21:00Z

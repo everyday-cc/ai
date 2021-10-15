@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
         width: 700
         height: 530
-        isCached: true
-  - title: "How the Agriculture Industry is Using AI"
-    excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-agriculture/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
         isCached: true
   - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
     excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."

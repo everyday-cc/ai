@@ -54,15 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
-    excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/10/11/how_tesla_can_sell_self-driving_that_doesnt_self-drive_798234.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
 
 secured: "ioQYnsjMYZX0hahBTEmdTm9c6SQZsz49Xj7rE/HHS/lMuZ0S9ZKn2Jhd0HTYh2CIkuyM61BvaIpupIjAeOulFeoBYYWGmuZ7d9qZ21IaEd80S16MXx+Uo6ZreJ+5RVrS6u5hlEKsQiQj5jD30zG+nkuu37FPJX3oj/B7unkkg3QI5jrHs+WYFCNu8VRQMwOn4dgNdceRxcuCDGm7Q9EE9IhGXNS2gJWyC2Xj1yJmn+QXzMdMgAtRcewfuTksADz1HAsfLvqNsqJSVA4hDycc5yTdaL8MXfSQqT+JOMZQudZFBpk+s+76klpbIPQYZkrc8EcZRWEbUPZ+VI0t50tyw3yRA9SBlu9+qHtnsATBod6LQcXa7eDq0TVmiRlGBWrkSVQHO1GwmupaR7Nx89iRz5jYqQ4PdCfBRukwssoXoDrDYS4UX0xNg0eaFP/fglOn0CNurcTbVC4Rz9RhbD6QAtVCaUfcVDHKlRUfUWaXiLvi6IEkn8PANCeAo2raM3sxYJa5J6RNykEV4mmue0dN+Q==;smjOJ5N8IjqepbxeujWmEA=="
 ---

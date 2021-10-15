@@ -2,9 +2,9 @@
 category: news
 title: "Privacy fears as Moscow metro rolls out facial recognition pay system"
 excerpt: "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population"
-publishedDateTime: 2021-10-15T12:40:00Z
-originalUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system?source=techstories.org"
-webUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system?source=techstories.org"
+publishedDateTime: 2021-10-15T10:00:00Z
+originalUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
+webUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
 ampWebUrl: "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 1281
         isCached: true
 
-secured: "yttwlYN4m5XbcpWiUFBj5i0lUbUMI+bJJ6gn30siZnGdZwzmcddgDovXhyLt9BRHpwbgqe2XljiDovvBTGqV77UHN2WQ5ueHBzlKUxC+iTWnGVH72lDbpHMAohYujdUepVTNE4yVBC2uptQJ/8uNCE7X+ecJKSj4G/IYQ1M2fA7ijI/UnkqF4KW/d5GTGYV5+US5CGEQqnftgTVBJJX1SIG2WRJ7J8Y9toIj5q3s7hxJro5Vw79zwZzOvrc5Ff5poavWcqUAW4S2Zz3xBC8acDTwQ2v60AZ0R67xnRwjRSMaWRKzyFGVpZykKOvQ3uPwqZumxxoWgbJZy0jFpdlcoVuistWFd6JLAMt9dZ3mx42BzaNy5DtHwwzV6aA6U1dHJsrf4E1PxWPYoqzC7Ns3yBpyMVYFtv/Xj/vlD0TxTCXT1RMtHXrLE+wvr07JlAj14qxGkkeC7PHD9hHzWUo7b/f/A5vKsIqce9tm5PKpKWPHLVjMKGeeZ4URcjcW3AcyfpPeYxoTPQYXWhlUoXQylw==;q2CqKemFL8aG1KLfjB2VeA=="
+secured: "w6CjHzSGHu9rjXVEYnG8EswJJudtHi/Q4IqjXB8LfQqGY2RsH4lKcfK8w1U5DqRyGvgNn8JByQY3awto5S4TtdTbRTQN1AWg/E1B3CZbTf73x9MjMZFjw2TJNv66GlvwwGCeK7i7xDWE1WZH5E6ASayeOCNE3sJN/4VesCLCOuVQpcPcXEYHTDofYNLbKZz4pZWkEWfIaEOfWS6oQUsqke6jjWjvz88QK1j7hvC2++3mZKqoltMgcWjwMZUEVvX+mwfL92m5k+asTkyUrvmP6Ber+kSMkjoUql+jXUQ2LLsbDON2LQ+JFAwVbg5XLGQzPvFGBeFNPXoLivFdGRyGO9evI1icYAJrkSamBkBpHBA=;2nRpFS+mzh3h6lPxchDooA=="
 ---
 

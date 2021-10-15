@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

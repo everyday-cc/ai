@@ -27,8 +27,8 @@ images:
 related:
   - title: "Privacy fears as Moscow metro rolls out facial recognition pay system"
     excerpt: "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population"
-    publishedDateTime: 2021-10-15T12:40:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system?source=techstories.org"
+    publishedDateTime: 2021-10-15T10:00:00Z
+    webUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
     ampWebUrl: "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
     type: article

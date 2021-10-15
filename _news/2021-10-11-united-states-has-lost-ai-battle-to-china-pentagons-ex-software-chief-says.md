@@ -37,6 +37,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Sorry former Pentagon expert, but China is nowhere near winning the AI race"
+    excerpt: "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI."
+    publishedDateTime: 2021-10-15T21:04:00Z
+    webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fairace.jpg&signature=37c2b19155b74d84da568e4687d78e76"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "China up for global domination in AI, ML; US stands no chance: Pentagon's former software chief"
     excerpt: "Nicolas Chaillan told the FT that he resigned in protest at the slow pace of technological transformation in the US military"
     publishedDateTime: 2021-10-11T06:11:00Z

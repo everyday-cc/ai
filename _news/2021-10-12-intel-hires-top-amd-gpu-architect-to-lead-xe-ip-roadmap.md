@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/intel-hires-top-am
 webUrl: "https://www.crn.com/news/components-peripherals/intel-hires-top-amd-gpu-architect-to-lead-xe-ip-roadmap"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Intel Hires Top AMD GPU Architect To Lead Xe IP Road Map"
-    excerpt: "Intel confirmed to CRN that it has hired former top AMD GPU architect Vineet Goel as vice president and general manager of the Xe Architecture and IP Engineering Group."
-    publishedDateTime: 2021-10-11T04:28:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/intel-hires-top-amd-gpu-architect-to-lead-xe-ip-roadmap"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026e-13748d83ad4d-011aa66ab72f-1000/vineet-goel-intel.jpg"
-        width: 610
-        height: 458
-        isCached: true
 
 secured: "J6j0gKz2llkDMmbrlP57jERnTnByDeBlJoCPeQxk2vU6pvK4OgpF5q7Zs3IWwkcpiNUtUPu3Xl1yPhI19d50WJdmT6xz70grvDx5mb+GiNuZaddv/EuuC5UBD7m41v4P2pgWwKTYZinjO6qn5HDZIIRUUyxnwmQmv/bvaDcbTgCP8rXWnoIiVnHDuGkZlD5RFMNVBjCN425q9/fOCD16yUPhS3x7hQcQuLShF5TRDziSkqvr/BJQuozNEcBGk/PnU2efiqfY+dhdHzj59Uq0fij2NaspIFSAzM7MZVKq5NZM/+6dEMcv50wpZHGWyGdAyKPr3hmAb5MOUmuk3F4co31oBqRzaWZ0wGAjRv4x5rg=;9UdwFzu9N3JS067s4fqoYA=="
 ---

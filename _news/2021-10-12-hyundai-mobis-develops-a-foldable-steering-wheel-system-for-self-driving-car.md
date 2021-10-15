@@ -41,6 +41,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Google’s Self-Driving Car Gyre"
+    excerpt: "Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google's self-driving ca"
+    publishedDateTime: 2021-10-15T20:38:00Z
+    webUrl: "https://kottke.org/21/10/googles-self-driving-car-gyre"
+    type: article
+    provider:
+      name: kottke.org
+      domain: kottke.org
+    quality: 4
 
 secured: "SrRZL04eyATBfEi/Qb52kYy08tx/xe0S6a1/tHGS39IJao6Bep35/LdsJaI4PweQnsAx+NG+bn70R1rpDltImepbdAEBHFqwRPzODtmzlgQCEPhXLgmxUNDH/uJzI9uAxAz0Jewip7it4EwJRDR5nFTxdND0sxaVF8AYGACGlk+gjqq85rwt0wiqqXNF1wTBk1r46H83vn4E7wUWsCd0EpG5J9NaPyOGq+Nm10zefAKa6+TlTZD8V2cEaKmPFCeS17khanyQF2gG4brWeK3TD8gRj7x2dxbiCLx4t+FaDQ/WHO3HuXyE7/IdGoBeuln8VfmEDT/ZFy3qEO+8+oZa5ZbgMMypQ4CtHr4o1RED5nA=;QyZ/RrXEQihz1KNj6US6Dg=="
 ---

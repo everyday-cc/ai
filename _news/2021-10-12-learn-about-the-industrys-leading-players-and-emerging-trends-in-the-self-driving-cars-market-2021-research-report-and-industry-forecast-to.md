@@ -59,6 +59,20 @@ related:
         width: 300
         height: 220
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market Report Till 2026 | Industry Analysis & Forecast"
+    excerpt: "The research document on Artificial Intelligence and Machine Learning market comprises of key trends that define the industry growth in terms of the regional landscape"
+    publishedDateTime: 2021-10-12T15:59:00Z
+    webUrl: "https://www.reportsgo.com/artificial-intelligence-and-machine-learning-market-176932"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 40
+    images:
+      - url: "https://www.reportsgo.com/img/img-10.png"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
     excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
     publishedDateTime: 2021-10-12T20:43:00Z

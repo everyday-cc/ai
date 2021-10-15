@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-dri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
-    excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/10/11/how_tesla_can_sell_self-driving_that_doesnt_self-drive_798234.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
 
 secured: "9SlOLWw1qWSjxCL65bV9E3ONCQ9dmouKA191QgCoRgBqH9Ehv6n+2q62oAU8/snXtWs5ASyaEWRkM4JnmRb//UCzRmWWfdnjjWk886tYQsyRTNj4zxsQC5A+4EaoJmUvDg+RG1FRpoGoqDfei4AhWpz9dsnKwfPnve2oB9CkStspXMQtNW+VEKZkNvwtcPPtgkJsUFIEXIn7qKHAjcJ+IOUzn8MQzVKmoHqbH8c0b/mREnws+ZXH2HTAwc2H8zKZ3i9YvMKmPIBK25cCTyoAEXx7VcYklz3gvZtT9pRvqev5Dwn6tx+5uurSvqZ4ECXXM460DuMwR3C+58+mG0WAU09PaLH6WLuO95c+2BdrIew=;3zq3Mg1YICThxOZWEC6hQg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Mint
@@ -41,6 +41,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Google’s Self-Driving Car Gyre"
+    excerpt: "Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google's self-driving ca"
+    publishedDateTime: 2021-10-15T20:38:00Z
+    webUrl: "https://kottke.org/21/10/googles-self-driving-car-gyre"
+    type: article
+    provider:
+      name: kottke.org
+      domain: kottke.org
+    quality: 4
 
 secured: "kIRfSKvxYH6BuRg+l6+2Mgf9HG8zgho4m6gxoZt31byGdxLi05lQHUnfznlWwbPfGtH9al1XKJPcqivWeePYyHDwcGAwQcaf4jZdcVEt19/mUEhXPlzuWgMcgQt6S5VZpWM3bY+vv2uDhYDRsEXIkNSprceR6y5erP8EV+lLFAymvbDLHeOLa1ZtOdztiCZDV5OP4mskD7PqCTjk5s5O4daUzu4kjvZjk70pntGO2YUdnz3p9qNzqR5+7a5kqU2LdtTX9dwQwKg/XxdkqbdrQa/UeanqgAPrH/rCybn4ad9cbGxlvPZJY+HDNwIhfdRLGSzSZgVUi2OB8/529dMDpi91Epw35YhpmjFppxwQc+s=;86Q92U3HsYs8QaHabNJCWA=="
 ---
