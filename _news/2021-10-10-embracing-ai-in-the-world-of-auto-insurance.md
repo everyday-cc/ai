@@ -80,6 +80,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Environmental Intelligence Incorporates AI to Defend Against Weather Risks"
+    excerpt: "AI is being incorporated into growing environmental intelligence services brought on by climate change and extreme weather events."
+    publishedDateTime: 2021-10-15T00:22:00Z
+    webUrl: "https://www.aitrends.com/ai-in-science/environmental-intelligence-incorporates-ai-to-defend-against-weather-risks/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 35
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-15WeatherPrediction-2-1.jpeg"
+        width: 550
+        height: 366
+        isCached: true
 
 secured: "qlna3leBCBGsNzFnW9Pp9CbA6DaVwWntjv9WBLKy2fFtDr55bIsSMVHWld6urpYYQEIz8bZzJwJ2F6uxujdBT9B9hqnTqF9KbnwHRHmtAiCzd381VJx3dyfgJCeNhlDJB+w5b0bl41N3HEy/kVLQCLN1sXaVcVFWfvm6wpBmv+AOxf1q42CuNeruC1W1MXRo93s9jdinqoyD7VfmY8eS56bmKfpGfMXzm3/2tGuFvefpTXRyuhSIzG2Dpwry40Xyi8O5GAVh8m4/1Rtsfnw5zw5y4dStSJzSREd4DGfK4kFEk6MH3rTp9BpH92txc6XtR3sJjPWoj81jXea1ytLPcNKN6ZtHj2lRcbNPq7m8tUa5NMxftYjO1qowHL6f2s5Kqb3sx2Xto44AYuqy3I8b+XhmuWO387+HpN1MGebB2XkGzhMYx0vG7Xh2JdwMzK1G771EjjTOFAu75AInmf3RAvZ9bFInvT/RWGlv5UmYOSTB/6JVJGUP4QniMplIPadvRMcy9ktTZpw/j/QLZES9tQ==;Mor5fspYdHU8c3X7A02/kQ=="
 ---

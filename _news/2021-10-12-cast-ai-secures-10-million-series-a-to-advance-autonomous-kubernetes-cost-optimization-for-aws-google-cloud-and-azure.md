@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
 related:
   - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
@@ -30,6 +30,6 @@ related:
       domain: tmcnet.com
     quality: 26
 
-secured: "kKIEn+MG/6nU9Qk2GLGqynnpO4moTjvSAiDqpuP738AbAhhw1S55A1yC6b0YCT4/DjNEmRGks1dmpO9apEFmuLgvwpwyENjOisdryHsSvOtmwmGt0xeL/w/722fL7rQyBzJWIAwVa4UxsG4GBzCYjlOpGXSj0LeLTMKGcC0higEo9/0jvdm3ST0T0/4N5UPSTZBsp/gKA+HpSoH4NK30HV0Ge7BzRBhmd3e7EBuffOeOczPOSnKvh0MWWUE0lvYwFo56xIJjv23Eskqa223MvXENbIwywANqhoZKA03KcGKZfKAdSTUouQBhvfa9itrAMSWZxWSeSOJ6KaVGu/T3uyDUzFycvAq20OTHFoOIQqk=;cY2pc7SRxdem5V7sd4oqtg=="
+secured: "ojNwhxfgGIrSfOFqbjJKi03PsQw39B8px0oHxiSrExiqF+wDJzfV2usuj4Sy8ajh5HNQW+NyOtBOR5aIj2RxEuy016HVI3jk9JmyaO8oAAWBbY7rWyrLq4A0rMK4jjSBfMiIDmCtt+uBILPG5R4KxjxxnvYwl1NVcU0BY5ePut58cx5A650Skhcnj3AA0hDYrEcLSoRGbOjC3wh2gwU0E7E0Ia/9/Yg7P+bghOiR5l8h6hWjDxfHPzvLaaX+PrtvIcjmclZ98JaGODgA4V1DK8ha7dBjfz3YoxV4uSIqi+nn+QbrhqzYeJSSw+s4kluWTPKY/o1pEJ06rLPVTIsUKhIgn/kNgeR51odGEcPIyxc=;rqHzvB2mRYJwBsHC9ZBUUw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/government-to-begin-work
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.livemint.com/img/2021/10/10/600x338/INDIA-AVIATION-PRIVATISATION-1_1633856112889_1633856123518.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Work to monetise Alliance Air, 3 other AI subsidiaries to start: DIPAM Secy"
-    excerpt: "After AI privatisation, government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets DIPAM Secy Tuhin Kanta Pandey"
-    publishedDateTime: 2021-10-10T08:28:00Z
-    webUrl: "https://www.business-standard.com/article/companies/work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-dipam-secy-121101000373_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1632946056-2472.jpg"
-        width: 620
-        height: 464
         isCached: true
 
 secured: "oypgUe/lpzF+WKdMqk0Izvnw4aaMGGnBYr9a9jol90vcW4pXPQWPVfvHcqPqbrS4WbomQFQGN47mYnDYtYj7Lx+cVke8ksbnkV4pcMz8MiaHPR7WZHILMOM+XGI32tAwU+CqE6mnr1xyxbfodFmUv5GZvUZl7IOkqPgsFrylcNZUBgrTIWL7c72nWjdR586qT2yoAk5orZGEbBp+CHSukCtXo05BqqdHWy7APjA+GF3v9VZi20re9O3Z+/OwDA2N8zt9atU131pq0f9gLGB7ViRnZwvyo2t5di/Qny0qM5hzkYtb7vVa6AQumsociurzFiI0CWP0viLyaQsdY7vdR4eEU7Sg26IMHHMwEMDFFAM=;Nz7A3TaAG/NMz6gYa2dfcA=="

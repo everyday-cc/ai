@@ -58,20 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Work to monetise Alliance Air, 3 other AI subsidiaries to start: DIPAM Secy"
-    excerpt: "After AI privatisation, government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets DIPAM Secy Tuhin Kanta Pandey"
-    publishedDateTime: 2021-10-10T08:28:00Z
-    webUrl: "https://www.business-standard.com/article/companies/work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-dipam-secy-121101000373_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1632946056-2472.jpg"
-        width: 620
-        height: 464
-        isCached: true
 
 secured: "7yk1wZ3ICsna6GwxN33mlfth1YtsHaYM+hdtl4Lac+raRTuBl6eLOwbeyJehAx42gA02eAK+ead7ReyO1Bncs9Fq13oywkF8veBCvNwjI90TFpM2BTkBUjZrxbyiXu4/nV8l61ZY6fR+Vkqi1GuGS9zVJhQZJjB2Kpxkedh2UQauS8+/QQoJe7rQUzWeTZ0nhoeMD0HnCy/gduNUhEk5iOxCsj0KzxnNGpchuuXgX1vydZSJvce6BXm6hz+nSU+er6u2UHuMBBgRuEoaiIOJAS77VpMDovRis/FIUVRj0Kq0isM/Qid/Df4lWjvAzn3smDQm6fJl1ZYfwDX4dmB6/FnsJOQecEk/hoFeiW8Vls5hxc2BWK8x/VfqiQk3d3HYMP16IPaO//Wc9MvDRgpqcBhzUUj/4MfE80RiKuLgBrMTmuMcteXc3zANgsixqf4ili6QCFtOwYeWv3+SeWFliGUQkJ89fcwIOzaXuI1T/qAd6kztcCkNWTyh+QQWgi/XNW9kOQKyL/tPZdpc9swTuA==;+XjRGVb+EhmqTCRep6Syww=="
 ---

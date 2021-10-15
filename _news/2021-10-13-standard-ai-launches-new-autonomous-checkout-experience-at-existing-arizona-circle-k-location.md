@@ -27,6 +27,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
+  - title: "No lines, no scanning items: Circle K store in Tempe uses artificial intelligence for checkout"
+    excerpt: "A system of cameras in the store keeps track of what customers take from shelves, and a tap of a cell phone to a kiosk is all that's needed to finish"
+    publishedDateTime: 2021-10-14T23:53:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/consumers/2021/10/14/circle-k-testing-frictionless-checkout-system-tempe-store/8439355002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 5
 
 secured: "MU9PwpVN8GBEEyZwRhKiqe1/8f6NjtqnE4iaNhHJSuk0K26IFUWT295iSg/Z4cRSxHpCvso5+ZhnRmDYTBO7GaGE74eSoO7tmmeURJGwb8VCnxzE9anwDKu6o98l/oLSGKXDzuari4waH8NnnRVZHJD9+MxQZZR+LtykrKYvPL6BqL/pVLTa8c1eeLg6paDbEXYWbra5uTBqh6QhWvGS1Sok/aAkAdk+Ri44LbNkRnVmXFgoJNcRzo5WijacL+PrBfqDgtC+tnpemEDup/fTf9WPgO1sQDv4b2hTmcbw/IvMI4U/LU26WCLObYt0+wRVRUcltChF84Z/GGgTTHedKC+qFOgYKsk+0mlchFZ25gk=;1LgqZ4ich208apsqsJLLBg=="
 ---

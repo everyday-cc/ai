@@ -58,19 +58,14 @@ related:
         height: 300
         isCached: true
   - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
-    publishedDateTime: 2021-10-14T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+    excerpt: "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,"
+    publishedDateTime: 2021-10-14T14:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
     excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
     publishedDateTime: 2021-10-13T17:52:00Z

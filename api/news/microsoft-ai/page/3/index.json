@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
       "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
       "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
@@ -1306,59 +1340,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions.md",
-      "title": "4 ways AI, computer vision, and related technologies expand IoT solutions",
-      "excerpt": "Intel and Microsoft Azure are working together to help enterprises deploy intelligent IoT technologies and services, including AI’s deep learning abilities, computer vision, and audio or speech capabilities. Adding these capabilities enables solutions to solve more business challenges, uniting two or",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
-      "originalUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/78188434-45f7-41be-84e7-601065122b43.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

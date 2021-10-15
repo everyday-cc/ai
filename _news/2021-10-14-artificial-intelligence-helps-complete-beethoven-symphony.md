@@ -9,8 +9,8 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: India.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beethoven's last symphony finished by AI"
-    excerpt: "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived."
-    publishedDateTime: 2021-10-10T07:05:00Z
-    webUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: " https://i.tribune.com.pk/media/images/ludwig_van_beethoven1633846240-0/ludwig_van_beethoven1633846240-0.jpg  "
-        width: 724
-        height: 543
-        isCached: true
   - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
     excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
     publishedDateTime: 2021-10-12T17:49:00Z

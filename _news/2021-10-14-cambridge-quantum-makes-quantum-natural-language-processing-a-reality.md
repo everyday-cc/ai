@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
+    excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems scale Cambridge Quantum (\"CQ\") today announced the release"
+    publishedDateTime: 2021-10-15T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/253189"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 6
 
 secured: "fnc5a8Jx5tuR2bkdjtfhy4f+v1NHWkpiWG3Lvn7QaAmkVrFLE8NJji5cbFmHuiJ3CbDj/7dEnDXlTi3cOahcz9Ezz0JsTfmqV9oQfwnHTQ8qCGLvF3MXY9hKIuClkgTNMfwlHF+fcAPor7Zor8XIHahnonwALwi+FHfiYnBPCDQEbVVKkVNXRyCzf3Wyv2Dv2FG+YtykA2kV06M5UILkdY4dPHxIwD0MeHdN8AFH3jHYnQhO/1nxhMpTwClaZqAI+c6IMPiTP8kMbFi9SW0zS5r76ARcqiJhIG+LPTO6sKrUD2DvjtP+Ka6545hXTOBO04GYkVqwdrnR//yKcm8vUYmVYl/AUrIjpIUXT2d/ly08omi3eWMN0V60MKiR3ws1X0o6uoQs4ezlI3Zh+9bTCFiFMjdxjda186Y60kqGiBsXZv2b+G9UJiVdBX0DhUOgMw1BPVr1T/9qN4Y3b6I7zN2ebk6Rf76GZsm3m9RWC1Wmoe+iosNz+0QpLtIPowLj7p6wOS7q4lb0vIMKmkzsGQ==;7Z9Wzynv0hEx/XLlduzG2g=="
 ---

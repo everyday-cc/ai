@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-28-callminer-combines-conversation-analytics-platform-with-microsoft-azure-speech-to-text.md",
+      "title": "CallMiner Combines Conversation Analytics Platform With Microsoft Azure Speech to Text",
+      "excerpt": "CallMiner, a leading provider of conversation analytics to drive business improvement, today announced it is enabling organizations to use the power of the CallMiner Eureka Platform with Microsoft ( News - Alert) Azure Speech to Text as a powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-callminer-combines-conversation-analytics-platform-with-microsoft-azure-/2021/09/28/9457714.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
       "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
@@ -1307,40 +1341,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
-      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
-      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "legalitprofessionals.com",
-        "domain": "legalitprofessionals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

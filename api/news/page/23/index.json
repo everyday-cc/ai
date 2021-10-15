@@ -2,6 +2,100 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-09-26-the-lse-alumni-turning-their-university-into-a-startup-powerhouse.md",
+      "title": "The LSE Alumni Turning Their University Into A Startup Powerhouse",
+      "excerpt": "A Google-backed student Lead, a CEO of a unicorn, and a college VC fund are joining forces to create a startup powerhouse in one of London’s most iconic universities, the London School of Economics (LSE),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
+      "originalUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6150287d385a514f31a2a155%2F0x0.jpg",
+          "width": 1200,
+          "height": 758,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
+      "publishedDateTime": "2021-09-26T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
+      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
+      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
+      "publishedDateTime": "2021-09-25T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
       "title": "We are sleepwalking into AI-augmented work",
       "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
@@ -1081,101 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars.md",
-      "title": "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars",
-      "excerpt": "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
-      "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
-      "excerpt": "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "originalUrl": "https://www.itproportal.com/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BfraXjVhuhkKsL99SHZDmL-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business/",
-      "publishedDateTime": "2021-09-24T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -76,6 +76,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Environmental Intelligence Incorporates AI to Defend Against Weather Risks"
+    excerpt: "AI is being incorporated into growing environmental intelligence services brought on by climate change and extreme weather events."
+    publishedDateTime: 2021-10-15T00:22:00Z
+    webUrl: "https://www.aitrends.com/ai-in-science/environmental-intelligence-incorporates-ai-to-defend-against-weather-risks/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 35
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-15WeatherPrediction-2-1.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "Embracing AI in the World of Auto Insurance"
     excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
     publishedDateTime: 2021-10-10T13:00:00Z

@@ -89,6 +89,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
+    excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
+    publishedDateTime: 2021-10-15T01:28:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/waymo-self-driving-cars-keep-flocking-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/waymosf.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
     excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
     publishedDateTime: 2021-10-14T13:57:00Z
@@ -118,6 +132,6 @@ related:
         height: 675
         isCached: true
 
-secured: "SPqpIOPPPTUXKn2MceeKun1fPP0kIPArljOEbPA0mg9ITo96uQuM/bJm4YaQJ77gDZsebKVhB5Vv5gNmkpc+reGYQwZ7dDX7V1jpot/JFub+WMnG6zoSV/VBGo8AgGuZyZ1cHpw0cfwHtE0dk1OOfyZAfL3mpY7Vfnotg4ctSxJPNLUGqxbb2Wkj9ru2uKnnzADYZdNZKmTjbjr52GFSYju3o9GQ0N8dClsklJ0Ygt60Ss1ur8R6bqsTBZ0WDOgMygJA3ZqYnQ9z/HL1RxMPaWi+Utaf5bzLNfpR4zqTLERCT8WIDLf6KAZKg9rNtOxmtusJJfNHorUoAZCW6x+hvootDOnPrtNupmq1693If2k=;B/toXUPDtLcxJMEKQGcgIw=="
+secured: "pfkx5nZI7qMBJf07kX3AHZoRBtU+zr+erySg0A71SyjUJH4m2aGqtungHaTzgebtvItmXqAy5bO4RIKxGgs+Ul14J2//l1xY28kof33S2PYSihG2N6W7uXvMBRgbuerVSjCtljJbUkgGmV3Xq3B8EUqbhSLr2UMkXX7VkkUo19jrvOtIpcsDQvJP/TtdswSJchmYY9l59bLrP2jYozG34em1ignvEgEbOVbPnOjffiK00dxmK6KRX0PFF9hfWxcMqtcH5+mneCVoxe7MGnXEssCNnfEbpNIIkuu9Y26i5d5FARgjHPrCWO+C6Z/w8s9wVN4v3BSkStw3vGl0uPA3dxl7f0uKqI0gjG2rqMjyrg+KscrUEXt1pTbXTsFjmaNx3OYnRcdcx/mjeaZptdjXVLepg8EMIe91IwBQ6H4zwD/iRtH9P4SSuThvCqDkeWSCCqRIEqld9sX/IrMN9sVToBxEhKbfG57B18WBvT+Dlp2CyZjz6UDr1knyL7nKk4bb4pFqahXnhFAIbjpQuewYcQ==;dDPJELelY2TtXwmLV/XUtQ=="
 ---
 

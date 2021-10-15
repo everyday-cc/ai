@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
+    excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
+    publishedDateTime: 2021-10-15T01:28:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/waymo-self-driving-cars-keep-flocking-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/waymosf.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
     excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
