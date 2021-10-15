@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Powering the Next Revolution: Artificial Intelligence"
+    excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
+    publishedDateTime: 2021-10-14T20:54:00Z
+    webUrl: "https://www.datacenterknowledge.com/design/powering-next-revolution-artificial-intelligence-0"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
     excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
     publishedDateTime: 2021-10-14T11:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.dhakatribune.com/business/2021/10/14/uk-fintech-agam-h
 webUrl: "https://www.dhakatribune.com/business/2021/10/14/uk-fintech-agam-helping-banks-facilitate-ai-based-digital-loans-in-real-time"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Temenos Selected by Green Dot to Help Build and Power the Digital Bank and Fintech’s Cloud-Based Processing Platform"
-    excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that Green Dot Corporation (NYSE: GDOT) has enlisted The Temenos Banking Cloud as i"
-    publishedDateTime: 2021-10-13T10:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211012005847/en/Temenos-Selected-by-Green-Dot-to-Help-Build-and-Power-the-Digital-Bank-and-Fintech’s-Cloud-Based-Processing-Platform"
+  - title: "Toronto’s Bardya Ziaian on 3 ways fintech is revolutionizing banking"
+    excerpt: "Fintech News reported that the emerging financial technology industry is also booming in Argentina, which now has more than 300 companies employing nearly 15,000 people, according to data from Cámara Argentina de Fintech."
+    publishedDateTime: 2021-10-15T19:14:00Z
+    webUrl: "https://knowtechie.com/torontos-bardya-ziaian-on-3-ways-fintech-is-revolutionizing-banking/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 54
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2017/08/fintech-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "0oURm9yyf8N0x9LZW3cV2WHQc7LCleq+BLQA7NQVqhx+Km0oYJX5vr2eJuvYKJovvQ+bAwCDYb7WWGFH1o9cCUtYIdepHvY4e6yx8c1TWtXPNyyxLlBGyPlfUwJ2SyHeLt93comnCD9fE4H6al+MEiNYEXIs6ZmeVEwHwFwG2hkhrP3RUJyCrbyLfAwRpgrBlmBSJv4fQ4TkKxrf8NTe/EWqq4KLHzVkQIYmwuwYRqLFjtD2YVkFlN3EpWcK4Sh0SFOmRaooEJGfpdqAWD7AlxZBId+JhCwhQNAzNXwZrykc2U/utBS9YAVDHCbc1MzG8AhemPADqMFh/83l3nJZrkNMs7AD93qAZdHzRZ8ngZoUAiWFszL4Z0I0yeN5HpPFKzpZoha4TFZ1dUC0hJ7xsccTNrhz8uhx3NkAHq2QGjtxNjJHbcRzDPtxE6QsegcRi1vBUydMEUBnjCAWpyRGntuHLNtOaNSwQGndFp9bybxH/+GP1aVV/ieNjsKOIEgxUK/pvp3viSzz/bAhPBqNww==;j9CdVRiu+RKsKyj5cYED8w=="
 ---

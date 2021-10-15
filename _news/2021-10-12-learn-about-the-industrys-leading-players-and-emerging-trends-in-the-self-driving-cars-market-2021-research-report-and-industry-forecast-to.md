@@ -59,6 +59,20 @@ related:
         width: 300
         height: 220
         isCached: true
+  - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
+    excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-12T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-future-prospects-industry-specific-challenges-industry-projections-sizes-and-shares-by-2027-2021-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zcf7PDOJ1zqMR2Othsz4hPOf0BF2oimKE3kfPFeq572+LZ5+YKTvYN2aHv6rT0aK1uDGXIpqmHiFvSVfNBkDbOIeQjt9J8gXfUWv3QOS7Jm7d7z4Sa7+aE52o4VmkgkPIA7ydrLeEJy+hJbsxH4770HQyesiwlfChB9PQDacsKLvsB37Kj4a/MXmGZM5BI7WlcY70oF2nRKKa0E+b1H6V+luC9mqNgbOoR1BDeHP44KSsS2H0oehLkhOFklDjAIl6Sj3nBhpPoaHIKd4qrUZU0Q6vUtzWLSv8KhI5ifa4nm0soDU5xisCCdDQT0UUGl2JxqxqR/VAoDRNmLIwVdvT3gohuDpc561E5PYlNzvuY0=;GWzZA4W4ib0p7QJWfxJOAQ=="
 ---

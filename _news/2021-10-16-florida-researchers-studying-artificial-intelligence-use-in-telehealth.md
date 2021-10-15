@@ -8,8 +8,8 @@ webUrl: "https://mhealthintelligence.com/news/florida-researchers-studying-artif
 ampWebUrl: "https://mhealthintelligence.com/news/amp/florida-researchers-studying-artificial-intelligence-use-in-telehealth"
 cdnAmpWebUrl: "https://mhealthintelligence-com.cdn.ampproject.org/c/s/mhealthintelligence.com/news/amp/florida-researchers-studying-artificial-intelligence-use-in-telehealth"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mhealthintelligence.com/images/sized/GettyImages-1210917316-c65229a7f68414dbdbe51ff312b05f89.jpg"
@@ -41,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5dLoeaFpflO0Nfvc6iM3k9otFk8R17db+8RPIioZJLjSryHCnaqY3SN/Qxb1Ucl/zVNnj0RQG+39gIvwYsZql7HVCsLYWL2bQgV+KV2EK+UQ0GDeoHoywkistnNq7M3sYTKv/Sl+uzLAy4hqaRZR/35SM0WfjQl71prB6x+oxYNMGgkLoB0u9Fz1bshaY6/2vak64bVNKwkwF7nOtkDS3pMzqDiMZSwVmUwUZFURNKS1UH9RAMJITbbLuwSEUKp2vcMmhX5fxogp0DKvejitkDOkA9IFf+9I6XY8tIwQqzomTnxBkmdm04VGITsXjxi6y8l00cZg+FVZx+CubYbt/IysHDNPo6K4sr8DJOphQk4=;N6p8ht+RqA1FPzCEOb2PRw=="
+secured: "flfekGJw6LBbcob9JXiv9YiKvp0ba8c46fPP6/f7OWWlP8bbASveqJlCRVBNrMAkhntapiVXTkPYhArQoChPm+12D/fTLUF1FMSs0EY/gesxFS2MXY16saEdDEsdcceq/+YRpaiZx9cOwe6Cd/+OZO/s0TvTdKH9vojd4kQrGTLGOzpGybdZtCmtu+xsvPiZUJZhn3LqRlxIGrV8IL878QlZG0lQH8mZZpuh+b5yKlfqciKMMPYQ8qdKdWT8ivAlumxoAVpO5Kh5etvCr8HKsdVIpKTpCfFSPtMEp7TQdf79XyE6qtAEn0EKL92bVuDgThiuuvOCPxGF3ScFVePjtpTUHnZ8lKNLXrYsLCkc2o2c5ohy7dWD0IzBjeox8cJwuhaALBKFvqyGguox51sZAheMRJXh8vGHv9rCiVU0eRTh1Ctd4nH8z2o5n8ip/0UpDwpMdnABgZIkpAOi9vKiWyWjm2WL44Jbbj3EeCkWR0DxQdfUzuXQXmN/fJBNMosnfOimLUBnk/UzZa39vnvilw==;6SALON+pKRWUsKW2Fq1Hpg=="
 ---
 

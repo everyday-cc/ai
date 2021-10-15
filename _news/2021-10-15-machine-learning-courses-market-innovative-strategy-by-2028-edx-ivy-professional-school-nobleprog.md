@@ -43,6 +43,20 @@ related:
         width: 761
         height: 400
         isCached: true
+  - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
+    excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-12T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-future-prospects-industry-specific-challenges-industry-projections-sizes-and-shares-by-2027-2021-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Learn about the industry’s leading players and emerging trends in the Self-Driving Cars Market 2021 Research Report and Industry Forecast to 2026"
     excerpt: "Global Self-Driving Cars Market Study Analyzes Market Valuation, Industry Analysis, Competitive Landscape, And Future Trends. The global Self-Driving Cars market study published b"
     publishedDateTime: 2021-10-12T08:01:00Z

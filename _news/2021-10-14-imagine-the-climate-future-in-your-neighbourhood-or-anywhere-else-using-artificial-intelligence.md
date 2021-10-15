@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Imagine the Climate Future in your Neighbourhood (or anywhere else) Using Artificial Intelligence"
-excerpt: "PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,"
-publishedDateTime: 2021-10-14T11:00:00Z
-originalUrl: "https://www.ky3.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/"
-webUrl: "https://www.ky3.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/"
+excerpt: "The website This Climate Does Not Exist offers users a unique experience in empathy MONTREAL, Oct. 14, 2021 /PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,"
+publishedDateTime: 2021-10-14T11:17:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/climate-change-technology-artificial-intelligence-environment-27736759a5185ff7deca001ce4def20a"
+webUrl: "https://apnews.com/press-release/pr-newswire/climate-change-technology-artificial-intelligence-environment-27736759a5185ff7deca001ce4def20a"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: KY3
-  domain: ky3.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "Em4xlfrKCNkI7FYb86bX+JOUbWLrtDe/UB5jSRwmS4tbOB8vlexGm8T8Mb06O0NitQxaG8X8nGQrPyoF4SbAbmf6crm9W7DEiTo8zEyAayKGUmyNVQNne+htukVNfPLVY5J3ospeAg1g2O30PpvgmrHl2czqZzlfNrJophS0WB+DdqV4wAZgV8OE9q0UUi1LDQGgc6uLPNxHkE3+2PIyNUvtDV7UvvbEuVWE1yfPIPqTIYqrDq6+E8Xl3m5saEO2QkQc+vje2C9KdGQYe7Xznu0eV+Cr3iXXOyOxT0FLPnNl+9d1K24Lrh8fDPfsE6B23SpvMFSNfTEjQqGIbWc1FDDo/HuXDLwEniJ1xox3AsI=;lp1zhDoMXpgyQ5ROrgE5CA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "JCnoK38H3POGB/p6VyCvnuqKdY5nJp6Yjj74jRblmTebfvO9TydLxMzWQLdeoRms5nnk+9/tVLTVu64VUO6vAZiqqQqoVtQ6n7on1+ErFCMJJOwTFjPX0FwBNs9GrqHTMz7rnqgjfsaJ3XplnquyGh6O34gkq/BgWYZBZ1vEfWWLaVJSNkhsxB7exIDAtngTGsKNnVr9kG02NAZBmUHhFFhUNSr/sc/W+ejgTWsXayURl93nfxUfrwVdzMuNRs/z5QnLmGh3Fz7ZM7IrqXdrhDPIcSjG/bAbBzLukDe9C+LAlTwJne82Gq7xsMqdSF8sBXCL0Vc5M57Q26+bebWgO/ME4klJIh1gh6+tZnxrVZo=;bDFHvnXMj+xdcH9r31yXLA=="
 ---
 

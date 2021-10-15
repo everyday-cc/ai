@@ -3,18 +3,18 @@ category: news
 title: "Facebook collected more than 2,200 hours of first-person video to train AI"
 excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
 publishedDateTime: 2021-10-15T16:30:00Z
-originalUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+originalUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Facebook AI
@@ -325,7 +325,21 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Through Another's Eyes: University Researchers, Facebook Release Massive Dataset to Expand Innovation in AI"
+    excerpt: "A consortium of universities brought together by Facebook AI, including Georgia Tech, have collaborated to compile the largest dataset ever collected on egocentric computer vision -- or computer vision from the first-person point of view."
+    publishedDateTime: 2021-10-14T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/through-anothers-eyes-university-researchers-facebook-release-massive-dataset-expand"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 21
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/styles/thumbnail_262_x_148_/public/images/main/2021/annie-anton1_0_4.jpeg?itok=OhvUuvX1"
+        width: 850
+        height: 478
+        isCached: true
 
-secured: "EkS4n8KrlTu2SHw3ZWTpofbde6mKqsxznzDzivAKQ7pramy4XLWAjivbNsC4HZ9LJ0nx8dEGERlOdQXFfK0PuJpw+QW2JVrVwYwAqyMhwAqsBsctUukVOuIuhPwIUTTyIFVwpfa365Ysd4B4ozyjaRNuK+5gAB/zCyEq1+4nuUvFzw5fBecYdA1lkX7IZgiG495QP6KBdDKefjN4rH9UpRSeDbKhfc3NnyCo5HsqePo0tUk0Ss+QE9Wmxxsusk5yr02ZVpXv1ZmVbaD08boME4T+nQ4iLGASPT4+SiM9mhDXWgRScvFZJVblpd3H1wjtLtAl8BpyfXy6rwKaSqpkQnBiLVvTVbQpQYk7HqR+oRrPeuxof9VCC5dV3q2xhqAw17H40a3s5TfVsSMQz87Eb/3IJmydk1V0Drqg+9+sGrpGTVCSh82nxHN+Isb/C1tWCEA2hzCve5RAS28m9JdvbvXeC+NupbnA2qyjn7wAM4Hhsq2eoDuCezZSiyTBb3RedE1un+5wpWAWvgB1Wde/Aw==;xtlrWM20D9Z1AjiECSmJtg=="
+secured: "1c6MsH1KqaicOYgPyEv6ENce6tHnFK+87qMBsvlyqFKbQzGhkYoNb6JypobNdiFPurb7mcJV4+WSZyvAL9KUsLtLRAG0zAFVEjfzW9X8TwAVcMlTHzP28E/+EJ3u+JqwchZXJ2/MrUPlwfFivOBtpb0lVBUKbIKO/2RzBB6dAu18HemfO7KUGgOX97kXfOqUp+MQuLaMJ8nONuEvJvHGJ/VXyQJiGEyCUjpKY0KWpZu8sS3enHxs+DcB0JoFYDA3Etxx6ywK/mTb0vyjdIUCl+gXpGqnfZJ/xtLK7767EyDZTSEtbDDwpHMU7scvSOKKjL6a2CQ7Gtunq5RKoWYSkRryWQkg+0lQBHWIU/mdMoEg587v2zbowDvG9ORK+zfvC21sXPi/aYLxC03Zy3r49Eif+mZ35AoQTExv9Z+l2/eCq/AB8onkoSWHqorbtLT52MYEzhpnRr4AQD1lGIVsjIfoYDVcdEYUTXN/xGRCypk3lDV9G1jA9vwNKxfDHmJLlJ0BhXgDB8cJ6yOcwzXE4g==;Gh7HXbgeBgn7umX32VSxLw=="
 ---
 

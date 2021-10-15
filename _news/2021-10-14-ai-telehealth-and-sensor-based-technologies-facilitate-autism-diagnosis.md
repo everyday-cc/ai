@@ -35,7 +35,7 @@ related:
     provider:
       name: mhealthintelligence.com
       domain: mhealthintelligence.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://mhealthintelligence.com/images/sized/GettyImages-1210917316-c65229a7f68414dbdbe51ff312b05f89.jpg"
         width: 480

@@ -24,58 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop AI system to improve eye disease detection"
-    excerpt: "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale."
-    publishedDateTime: 2021-10-11T01:21:00Z
-    webUrl: "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
+  - title: "Researchers develop a cervical myelopathy screening tool using non-contact sensor and machine learning"
+    excerpt: "Cervical myelopathy (CM) results from compression of the spinal cord in the neck and causes difficulty moving the fingers and unsteady gait."
+    publishedDateTime: 2021-10-14T03:17:00Z
+    webUrl: "https://www.news-medical.net/news/20211013/Researchers-develop-a-cervical-myelopathy-screening-tool-using-non-contact-sensor-and-machine-learning.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211013/Researchers-develop-a-cervical-myelopathy-screening-tool-using-non-contact-sensor-and-machine-learning.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211013/Researchers-develop-a-cervical-myelopathy-screening-tool-using-non-contact-sensor-and-machine-learning.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. Researchers now explore an attention-based deep neural network to tackle this problem."
-    publishedDateTime: 2021-10-13T14:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
+      name: News Medical
+      domain: news-medical.net
     quality: 43
-  - title: "Israeli researchers develop new AI treatment for leukemia"
-    excerpt: "Israeli researchers have developed a new method combining biology and artificial intelligence to treat leukemia, Bar Ilan University (BIU) in c"
-    publishedDateTime: 2021-10-11T04:41:00Z
-    webUrl: "https://menafn.com/1102949088/Israeli-researchers-develop-new-AI-treatment-for-leukemia"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/11/TNA_40e07image_story.jpg"
-        width: 660
-        height: 440
-        isCached: true
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
-    publishedDateTime: 2021-10-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931330"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/7/91ddc6498ae046de959ddcfb662105d8-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "e91EhbxC3FtDK7DZQlYGF99AP45/mU90Ccng54jYnN2Nq48mcahn6QJXU1qyK/SEP91BihSkSNMu779/Bw98FxzFXImA5MTZ53e6lj8F/EVC1MlO9h+zLKR8tdinP1NBBFPJLkOi9CeGkG4+zfRwIYSRiBYs87J1HQXW7YFYqyYmDHqyoMpJ91NxZdKEtHjLPETgh+B71Kfk7jGU4yXyMxcQEusL7gDpT4E1cH5htouVqpWjlJSYKxCuYTIhGYO77BkNWG1oiv2bRdeNC4PF6PcC1qZ/i2pEwA04jgxt7N1BTK7FSGjyx4MP6W7XfpUVY86Rmw+UswFNkGotWNRIfeu4pIbZ6MBsVUwLbi7AvME=;dHmpytxHUz/eMMazBWOiVg=="

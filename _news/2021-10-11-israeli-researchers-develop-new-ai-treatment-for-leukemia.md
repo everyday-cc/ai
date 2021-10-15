@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102949088/Israeli-researchers-develop-new-AI-t
 webUrl: "https://menafn.com/1102949088/Israeli-researchers-develop-new-AI-treatment-for-leukemia"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,58 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop AI system to improve eye disease detection"
-    excerpt: "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale."
-    publishedDateTime: 2021-10-11T01:21:00Z
-    webUrl: "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/"
+  - title: "Israeli researchers improve method combining biology, artificial intelligence to treat leukemia"
+    excerpt: "According to Bar Ilan University (BIU) in central Israel, Israeli researchers improved a new method joining biology and artificial intelligence to cur"
+    publishedDateTime: 2021-10-11T10:43:00Z
+    webUrl: "https://menafn.com/1102950200/Israeli-researchers-improve-method-combining-biology-artificial-intelligence-to-treat-leukemia"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. Researchers now explore an attention-based deep neural network to tackle this problem."
-    publishedDateTime: 2021-10-13T14:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
-    publishedDateTime: 2021-10-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931330"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Researchers develop a tool to quantify the beauty of a landscape using artificial intelligence"
-    excerpt: "Evaluating and quantifying the beauty of a landscape, an ecosystem and its effects on a person’s well-being has become a central issue for public authorities. With this in mind, scientists from the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland and Wageningen University in the Netherlands have developed a new indicator based on deep learning"
-    publishedDateTime: 2021-10-15T11:19:00Z
-    webUrl: "https://www.actuia.com/english/researchers-develop-a-tool-to-quantify-the-beauty-of-a-landscape-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 25
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/10/EPFL-wageningen-paysage-deep-learning.jpg"
-        width: 800
-        height: 400
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_PharmaHealth_12_menafn.jpg"
+        width: 512
+        height: 341
         isCached: true
 
 secured: "deYZeui5ZTTzjukEgtsvUpgEC0NZDPfcZ5s9CAZOhPa6y5cSrl7M4AHP6KEFYEg7HhREwR3uwZbC0q9oVUsQX03zz4YslN8I03L9TH0t9FkIgF3tTZTg3rF4SQamNFSb/FeqiV/3DYIJDxgYl0tlBcQiig/gQ76R3ukqZgoH3Kur0lq6sfqIwPONkljgo4oxF/oDDEqgD6tjRz+dLOWYVUKP/94Z4M/+G9hsfGHWb3+xQ78YEUr9sQYynVGChiJmCz+ytBkTmnwkJFDsxPlJr8WwrOgHjCE3qWlBCla5BWjGEzWxs5AEr27H5o4iQVGsXk3W1QS3PiF02zkFUUGSQrYRe2o0GMPYolTz2SCxav4=;GnAEy13KhYrpC+5uqw/Icw=="

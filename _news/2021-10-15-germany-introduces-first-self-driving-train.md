@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Germany introduces first self-driving train"
-excerpt: "Germany is set to begin using the world's first fully-automated, driverless train. Tags. Dcc; Wire; Lvs; Nation-world; Technology; Videoelephant"
+excerpt: "Germany is set to begin using the world's first fully-automated, driverless train.  Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
 publishedDateTime: 2021-10-15T16:15:00Z
-originalUrl: "https://www.stltoday.com/news/world/germany-introduces-first-self-driving-train/video_74c91d0f-5a17-586b-92a0-19e44b32be1b.html"
-webUrl: "https://www.stltoday.com/news/world/germany-introduces-first-self-driving-train/video_74c91d0f-5a17-586b-92a0-19e44b32be1b.html"
+originalUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.html"
+webUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.html"
+ampWebUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/4c/74c91d0f-5a17-586b-92a0-19e44b32be1b/61699b0dc2c55.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Germany unveils first self-driving train"
@@ -131,6 +127,6 @@ related:
       domain: omaha.com
     quality: 39
 
-secured: "XErbtB3iqwVM0Si2onS0IM9fRKDF2hQuEMDre9swAB5cs8IQ51N2Wrx12dZHHMpaFUJCKsIEURpDfBangkICbTfERnaZnXV1vJWw5LDgAYQiWxMyzIJuyN2Oof3zlpwBDC6TPhg6eLGAT6oi7Pn8J2/39LiBEdO9rlNkdQaKWkzC1gdIIs1zAbQAY1aLG4A2HWa8R5ZBXR+JKOHHPI2FQl+9mo6ZILz8n0DTwZ8G9qQjtDohuJmnsB6MMzMwD9xOHe97GZaxMzD4OAYHSPuvOsrnWUegFNbybexisVH/maM5Iekk+d873FZ2nJ9Ght/Z6KPZqHavfTIEltjc19axDeCPBxsR4GjU6FqIkGKIy2s=;VKELybubTm7A3euvKRX8dg=="
+secured: "ITCWc6uASYnCY2t2Jz12cDpVGZIzqDlHgAFDQu4Hj2kQ94K4HSDUDVtNZQQQZpgEBO9i4jTZzgP/Y16XZmukt0S8U/EIrvJYXE3M5zhqdsCZv0GiWEiB2gUjiXoSOO3PmYhmLXxg11KR97BqVgUnCgMDiG+wpDpVXlduI+VAG9puX1cEsfIUCazA1s8cfF0wsAJc7blDQrvvtIpZw2N5o56hZxEP0t/ZZYE6OCxaFeNCS3DKi4rbNh9s1/pWElP/PMHYFpe6jYSya3R1fAbRKB9W9pToCWtfbCDWzVGoH3Ln+CQwph0GUuE9T1nIgKUEGi98Z5L6QuSjiCCdVHRXycWJYfh31cvfdWtjnM5xWwp+2JIjM6bzD/F28Q0ZYt00tbsPau43YOaMDX801D4y5KYKJuSTJ55rG94E1J4R0yvhwk6Nt119iEnan0P9ydy6DacrYmgcAe7T+9MQ32G+rCPnj8/8JRl288br9h2MAxmlje1QqwK7LCxlGhFOT2CuFLkU8+OuWlECnxuGHhDXhg==;HzykeEyYllvMAsrFU6jwfA=="
 ---
 

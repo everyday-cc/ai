@@ -135,6 +135,22 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Several Autonomous Cars Keep Driving Into And Getting Stuck In This Dead-End Street"
+    excerpt: "Advertisement Waymo is a Google offshoot that makes usually impressive self-driving cars. Recently, it had been reported that the cars made by the company are getting stuck on the same dead-end street."
+    publishedDateTime: 2021-10-15T18:50:00Z
+    webUrl: "https://wonderfulengineering.com/several-autonomous-cars-keep-driving-into-and-getting-stuck-in-this-dead-end-street/"
+    ampWebUrl: "https://wonderfulengineering.com/several-autonomous-cars-keep-driving-into-and-getting-stuck-in-this-dead-end-street/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/several-autonomous-cars-keep-driving-into-and-getting-stuck-in-this-dead-end-street/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 38
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Waymos-autonomous-vehicles-keep-getting-stuck-in-a-dead-end-street-750x375-1.jpg"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
     excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
     publishedDateTime: 2021-10-14T13:57:00Z

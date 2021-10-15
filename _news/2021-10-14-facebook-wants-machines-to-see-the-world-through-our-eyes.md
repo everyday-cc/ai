@@ -246,13 +246,13 @@ related:
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 37
   - title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
     excerpt: "Facebook has announced Ego4D, a long-term project aimed at solving AI research challenges in “egocentric perception,” or first-person views. The goal is to"
@@ -325,6 +325,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Facebook-Self-supervised-learning-2.jpg"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "Through Another's Eyes: University Researchers, Facebook Release Massive Dataset to Expand Innovation in AI"
+    excerpt: "A consortium of universities brought together by Facebook AI, including Georgia Tech, have collaborated to compile the largest dataset ever collected on egocentric computer vision -- or computer vision from the first-person point of view."
+    publishedDateTime: 2021-10-14T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/through-anothers-eyes-university-researchers-facebook-release-massive-dataset-expand"
+    type: article
+    provider:
+      name: Georgia Tech News Center
+      domain: gatech.edu
+    quality: 21
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/styles/thumbnail_262_x_148_/public/images/main/2021/annie-anton1_0_4.jpeg?itok=OhvUuvX1"
+        width: 850
+        height: 478
         isCached: true
 
 secured: "X07W2n4UlIB0B/daKOa+cGOVY2psEMltY1m8tANizw7JJIYn/ZpGR0fxB2kgf+Xt81OyGpsW9YnjzzxMRKvFB7KllGbYYR/G6bluKgB/lAbl/xaNUuEZD9iAVYzXQI39z+HGIUJ5MAmJqUdxqCJENdHoJ9BrNS+WpIoyH70NKHRGt0H0qq1s+/BwO2Z0a2VQqXek98CZmZ+ImtE3CHlUeHYgCSg3hmx/MxjYLTZWBh4Fc58Ky22PpOBYQISqzy6xcQwnHh5Z/Prh6r/QEOL52/6wKZEvusSEofNcDR4fY7DevoVj+zvNyHmlyBzVqdE1ggU39X6ot+qr+1tTuq157IpnsBXiBarqSTe1PcJotehnit+jKmCWj4ffqOydzIh9uL8jbJsckw+FbcSDUP24ZUaqZZETXLTQ3M4f2AS3z3+HT86rsFqEpzURg1uDRUkp39YbcMrJ4QlKKlZR7Tainq7oHPHmVNGiFTfxMNtCxXkqOPGesVid84H4qEVW/kHKd2Xq+jhCaYOOpUbRg11npA==;EubGrCmTSbagNQ305lYCkQ=="

@@ -128,6 +128,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Powering the Next Revolution: Artificial Intelligence"
+    excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
+    publishedDateTime: 2021-10-14T20:54:00Z
+    webUrl: "https://www.datacenterknowledge.com/design/powering-next-revolution-artificial-intelligence-0"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "RHV347+8cB6UBOBZX5uU7V3wmBDerGPVEgtmiYr0x+zswq7KkNPgbaes4bPuc7KC91JTr5didKrQ0dKmhZjJxUt8t5NfnjifVMnAeW/yqp0DAbvIJVwNZtn3iionsf6yZoNPq9S9Gpp6cYZqKE2ffaTU6lhzCA0aK0nTxTUX2Njtk/Df301ecb7AxnpBnhg4FuG7CfikhsYWnBNxoIfaJo89gynSUUTohVWsYBUZR/HLIo3f9FiJ/Uyh5QwliG9OpUqJpCr4FUNZZTPIwyR4IyeI20JX9IixisTsL/HPRE0BIU32fq8eXBKHyyHevN1CWgqeH5c3qw0bOFziSgIGH90PUcdpcHDApwHBjE31WsI=;cjP/iXR1IsHFekoLoAKSgA=="
 ---

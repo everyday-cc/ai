@@ -26,6 +26,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Researchers develop a tool to quantify the beauty of a landscape using artificial intelligence"
+    excerpt: "Evaluating and quantifying the beauty of a landscape, an ecosystem and its effects on a person’s well-being has become a central issue for public authorities. With this in mind, scientists from the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland and Wageningen University in the Netherlands have developed a new indicator based on deep learning"
+    publishedDateTime: 2021-10-15T11:19:00Z
+    webUrl: "https://www.actuia.com/english/researchers-develop-a-tool-to-quantify-the-beauty-of-a-landscape-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 25
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/10/EPFL-wageningen-paysage-deep-learning.jpg"
+        width: 800
+        height: 400
+        isCached: true
+
 secured: "bE6ediO2ev8V4GzaOANrB14JeA3KfcCqevusjP26oBNWnm4I5U0peH7SVQOxTDR9fwQgPYltorvfRhgEVAFmfM5BfUYLQKaQCU5fJYOdfkToty0yQIUmzA1A99mtcB13DwSURu4tJRkK82YvXAVTmFLsJ9NmvupKN1tNGfXc8WX0Vn4sT+b1qXvag0uS4susVUKRRGoITeghoSYr/KT/mDCKKSgdLIl5Pm22a6VOfFyVkAfiO+X+Qb5qWvvvE9S0C1Dw3Z9zUlVqa9EfZCeg+VaDeutBGIgUEEMaYR6x1WPW2MMfSk2jUBCphmoIxVkxexmoo2lhu+Tp3Z/edy7k3zlmm7rkhD2DGUUJdKIIrdg=;aFzSuv8QsVPUybpZrOqfyQ=="
 ---
 
