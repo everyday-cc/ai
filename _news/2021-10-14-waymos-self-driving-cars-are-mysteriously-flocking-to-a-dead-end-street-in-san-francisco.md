@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -90,6 +90,36 @@ related:
       - url: "http://cdn.24.co.za/files/Cms/General/d/11683/ad8913e06e5c47dfb8ea7bd8856d74be.jpg"
         width: 1668
         height: 1080
+        isCached: true
+  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
+    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
+    publishedDateTime: 2021-10-14T22:12:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 24
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Streets of San Francisco stump Google self-driving cars"
+    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
+    publishedDateTime: 2021-10-14T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "M0AOKI/NwiWXGFMai/4VYhHCBdAIBAYdl0mpOT4k5XNh8rFIKK21psWZbKOm06ZSuOpKf1cjjWDPglp8dTRoFki0woXUEleZKoIPARwMc4Or0seAzvHYztJLGCWCafuY7HhjKVLPquu1xRKb5nsaAd0G5D/AFIjneJtG3i03eQDxITcokAkNnG+SOFmGGeDbpirwEVEJQO3PrMcpB/wlvZ+PeD02IrP4us3FE53mTa6HwtYjsceltP7ibWOdVakBJ00A5STtWaN/xwazdnVL7Dt4KewRWNCOUvA037fQmwl+FYmBjVI65/HkJux0CyY4zcOSBwofewJ7850sAq07ciYSlvJGfX5fD4ZgSsXWX6I9kQ3UY7WgTyMO1/oiTnSKE4oTicLk2zdoACuZz6d7cW5CBuJBWjtwsqWqGx8Fl2W///i4+UMwLafWmxVWjLlgTcgfnAWvTgv1otE+VWyhx9PqCuyEdlqrJ/2aSnYWsKPhJ7qURugyoH4Whw5LZp4yzpKMRA8ZOT9wX0e4iujwuA==;l2s8kWFJSErPMb7lGqwf3g=="

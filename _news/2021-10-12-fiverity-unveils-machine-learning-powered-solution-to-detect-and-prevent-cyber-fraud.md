@@ -88,6 +88,20 @@ related:
         width: 820
         height: 479
         isCached: true
+  - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
+    excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
+    publishedDateTime: 2021-10-14T21:37:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/q3-s-biggest-healthcare-deals-mrna-digital-care-and-cybersecurity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Elisity Rolls Out AI-Driven Cybersecurity Solution ‘Elisity Cognitive Trust’ to Provide Identity-Based Access"
     excerpt: "California’s cybersecurity startup Elisity has rolled out the first combined zero-trust network and software-defined perimeter solution Elisity Cognitive Trust (ECT) to provide identity-based network access."
     publishedDateTime: 2021-10-12T05:08:00Z

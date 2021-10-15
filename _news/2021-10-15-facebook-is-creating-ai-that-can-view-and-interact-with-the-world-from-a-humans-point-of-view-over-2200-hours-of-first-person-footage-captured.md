@@ -59,7 +59,16 @@ related:
         width: 640
         height: 380
         isCached: true
+  - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
+    excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
+    publishedDateTime: 2021-10-14T23:24:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005982/en/BrainChip-Returns-to-the-Linley-Processor-Conference-with-Discussion-of-Next-Generation-AI-Enabled-IoT-Devices"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
-secured: "DLplBmVGPpoM/efq342Ihoe6da4VvKXF3AM6cbad9g8S0ghk96YZbDgonELm+jAzlqI4z76WU7mBtH89K/pF4iTK+BAJfCxLK0BhLvYLmTVmwwkjN+2flEc4R2aMavZ6mqMv3pX1zsgVd95GVlaj549nT9opgnNW/cUCX5NqF4SojJoyKW0acY1/3fEqbeSH4XbTvoGIeSwCJYFYsW0YOWYFOpwV3MvKoWJYcLrzB4+w397A426OLJ4k/uf19xuxw8Knwttv3FMhYoAelye4dh1/kxfKXB0aw6aLvkHMKzPZk4GSQH1bdO3r4tP/5f5UWa0bc1vPrj8OfzcHAsIWgY+/RxTwP253c6SnXf6PFf4=;pfd9u5UA2t60sCJ92+hzaA=="
+secured: "cblDjttA1ao1OwzxaCjh9Vpt5RoaLSGgdl9cIHWLVdMq/ASIHvLSKvJHFEaKDLL08pMt0jNdwI5XV6R06gxIgzg6C0jUHK3avyev7TpqCUlF7821hm1Ojd+5tGElABVbjAyTpk6ZGJQnFj4mzkYech3VILOoRSpVjDUO3GWDerdhe1hl+A3s0iYJ3G+VE4/1xCd8furoIEv+cjKdJKl2sKI8JzYUvcDha0r4j+iTkanVyTYkX5dsJP8hEBmWZHoD19xyImz1avnmr1eJbNx7sMbIR4Vqrh4j8j3VFJyEGmMffwetfgb7+BLZG2pDTRvSyn+tEUSLPrg+7yMVPcOL8RjLNokSS67NQubW/h1OYKFvalct9NT9BbUTK6nv3Us6sPNKip5MWcarwIAusCdWZW156t+FSx7la0aPpcMl13K19vYaRuBP1tMK1mqpq5EjnW7P0iHC3ps4gROiy4aTGLUqm8mOaM2fUJeawqXRveaYlc9X1Eh/jmtEwMNLJvM6A0VXJgV49GCFedFyEmxo4Q==;8f+MtnXp7ATjl9F4zmGbMw=="
 ---
 

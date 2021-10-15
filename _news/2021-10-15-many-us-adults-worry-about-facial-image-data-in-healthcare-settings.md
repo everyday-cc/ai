@@ -72,15 +72,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Facial recognition, cameras, other tools police use raise questions about accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies are increasingly used by police departments, municipalities and even gated communities, but these tools manufactured by private companies raise the specter of unchecked surveillance,"
-    publishedDateTime: 2021-10-14T21:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931656"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
 
 secured: "2JBlPm9aBSGC6ng7VjcQGvNQcfm80s9CGIIHjrFrMz5coIEABwLBZ4n3NIFCTIzEcBlvR2Ga2TLUpQaA72M4we/WG0dDbDQLyYnIGuCJAN/hjnrwoxpNKfxRyLSO2NPNv2HLWAtKexJYPba7hRML9Tn46WA0PSMEJ2UciEymrXeEBUUKztsvtzGJK2pKNIUFkk5xlGt/g9WLrAbowtdXiTIgVgCqYCceU9+6XxI/ZqloygCuxGhgesD2ZvxZnQ0UlasN1pwTPgoAnBcas5A6BIl2zHiZckrxntCExLpxhJwgq/rbcrGoyhxys4WlLhTox2taphh558NDPuhzBTbBy40IlmTxAHK/6Ud2d3+xLSc=;Nnc51DYmhTSXfWWnJpi3Eg=="
 ---

@@ -28,9 +28,9 @@ related:
   - title: "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered"
     excerpt: "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected."
     publishedDateTime: 2021-10-13T12:06:00Z
-    webUrl: "https://www.pcgamer.com/uk/huge-microsoft-azure-ddos-udp-attack-resisted/"
-    ampWebUrl: "https://www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    webUrl: "https://www.pcgamer.com/au/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    ampWebUrl: "https://www.pcgamer.com/au/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
     type: article
     provider:
       name: PC Gamer

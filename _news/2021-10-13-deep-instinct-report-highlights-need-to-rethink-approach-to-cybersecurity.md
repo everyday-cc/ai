@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
+    excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
+    publishedDateTime: 2021-10-14T21:37:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/q3-s-biggest-healthcare-deals-mrna-digital-care-and-cybersecurity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
     excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"
     publishedDateTime: 2021-10-12T05:23:00Z

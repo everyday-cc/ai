@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deployi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS’s Bratin Saha on How SageMaker is Advancing Machine Learning"
+    excerpt: "I spoke with Bratin Saha, VP and General Manager, Machine Learning Services, AWS, about how the cloud has enabled machine learning, and SageMaker’s ability to ease ML deployment."
+    publishedDateTime: 2021-10-14T23:07:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 101
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-1.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Imperva expedites ML development and collaboration via Amazon SageMaker notebooks"
     excerpt: "This is a guest post by Imperva, a solutions provider for cybersecurity.&nbsp; Imperva is a cybersecurity leader, headquartered in California, USA, whose mission is to protect data and all paths to it. In the last few years, we’ve been working on integrating machine learning (ML) into our products. This"
     publishedDateTime: 2021-10-14T21:59:23Z
@@ -71,6 +85,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/05/Architecture.png"
         width: 1027
         height: 529
+        isCached: true
+  - title: "How NSF’s iHARP researchers are enabling active learning for polar ice analysis using Amazon SageMaker and Amazon A2I"
+    excerpt: "The University of Maryland, Baltimore County’s Bina lab is a multidisciplinary research lab for employing advanced computer vision, machine learning (ML), and remote sensing techniques to discover new knowledge of our environment, especially in the Arctic and Antarctic regions. The lab’s work is supported"
+    publishedDateTime: 2021-10-14T22:58:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nsfs-iharp-researchers-are-enabling-active-learning-for-polar-ice-analysis-using-amazon-sagemaker-and-amazon-a2i/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 66
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/14/ML-5731-archdiag-783x630.png"
+        width: 783
+        height: 630
         isCached: true
 
 secured: "TimCe52qlwKNufDwpnEXwIOEB3JUCMgPVZPMvBODjwcgFcFoR88MhSgMyF90YtcL/7zdpnjJ9D1m8IKenj/GUIPkaANkwyvN39Z2t/3PndRpSt18eFs5Nfxi6PZ1fXn1SG0fS3Kqlc/9g04WdcbKkfQQQ68QSSGQe+2XeXDWQiHNmf8IgNpbaWjzmlaejfYY+p87v4l7B9H/10bu4+1n/Zq0bEBkd+zTw8W9QPqsUFaWtuQIcA6rdbi9mWcJxgp2Z0S7Q3rN99jQq3NZ2HWYAgk3lhhYc4pDadxMj987DwNsrV5XtUzRxKyzvvDCbSjZR+t4bL6O33OAKHPWLWYzSgDodOuMPzrBrS1NwVe7Kfo=;YTpr+kLgcADq4gFTG9fGgA=="

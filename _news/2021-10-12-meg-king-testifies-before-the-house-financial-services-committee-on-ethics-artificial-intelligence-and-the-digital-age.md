@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meg King Testifies Before the House Financial Services Committee on Ethics, Artificial Intelligence, and the Digital Age"
-excerpt: "Meg King, Director of the Wilson Center's Science and Technology Innovation Program (STIP), testified before the House Financial Services Committee's Taskforce on Artificial Intelligence on \"Ethics, Artificial Intelligence,"
+excerpt: "Meg King, Director of the Wilson Center's (STIP), testified before the House Financial Services Committee's Taskforce on Artificial Intelligence on \"Ethics, Artificial Intelligence, and the Digital Age."
 publishedDateTime: 2021-10-12T00:00:00Z
-originalUrl: "https://www.wilsoncenter.org/video/meg-king-testifies-house-financial-services-committee-ethics-artificial-intelligence-and"
-webUrl: "https://www.wilsoncenter.org/video/meg-king-testifies-house-financial-services-committee-ethics-artificial-intelligence-and"
+originalUrl: "https://www.wilsoncenter.org/microsite/3/node/108161"
+webUrl: "https://www.wilsoncenter.org/microsite/3/node/108161"
 type: article
 quality: 31
 heat: -1
@@ -15,12 +15,12 @@ provider:
   domain: wilsoncenter.org
 
 topics:
-  - AI in Finance
-  - AI
   - AI Ethics
+  - AI
+  - AI in Finance
 
 images:
-  - url: "https://www.wilsoncenter.org/sites/default/files/styles/og_image/public/media/uploads/images/Meg%20King%20Testimony%20Pic.jpeg"
+  - url: "https://www.wilsoncenter.org/themes/custom/wilson/assets/images/og-image-wilson-center.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QHfE51eMt87e2lo/C66UE3SB2SWZPJInmLWCaGod9+7fWPydRSkRAkwhguHldfK7pu/rytRGfHaSoxFUZZ6Rxjyh9dmj/p3bqbd5REs/5ZG11zLx7vKa5V88HSW1eWOmsh7f/OaDj+q4Pmy9SQURANHP1V7jckEjkTPauR9tVpI7PpYwwOu9gT0iV9NqsbIlz2QF3XEGFbtcdIuW6DaUM8LbSVb1IMdFjB/5dct/+GEq/hDaJ/lfJEbCLmhYzUUEy/H0KZOu1b6M/+qoB83j95fMt2xoq4mJdNQUQvLvZFjPU0BVROrN9Z+2OZYNOXSddNYCfRF9LCXYflfSeskukWd6MNbOJrjUkNAyzkhiL5tMVXqw/fKSt48xxt290X3mH/VrMO7ERGOI+cZzS8xER4l5yEm2B2aIIAMxwbmzVq1Zj7jPEY6x8Ab06MKk+k54YG8479Rr1CMorH7VG7E6YvkfotKoCYeIS7Jl+ziclM1aO+vNsmOEsHjFOL7tqw8AUsKLMja2mVbHQMVVoW0fGA==;z0KgWCYoPEq6WYDiK+M3hg=="
+secured: "+/JI/HF9w9kYxKAfbmMFhBE94qtV1PXHeFSI9NovDoz1rI5rWpHPsjy3noH9iZFwnxSr8VstxoS4BTwCouaJtk99WsPkh37VTUX3QzhBtYfb9aBhz6mGcy5Lyz4xQHxWW/1ZFfjTyVScZfk5WFFyubDsAtsgBwQfDXXI2T5OH0dJEvBq06F7EkH3TFmXQg7ZED86vwDRgkS6Jl5u5pbgaD6U5+oORL9XEj47oHBfr/m8nXZaI3rJFzLQND7AKllslzdJUBoqAEWS03Rlub7ia1/hslArC5/8VqT+jjMYh/HoKJ4HYqy6v9WS4/EDtkRqV23PR/VzJ3chz61K4vL3qylI0EujHaTM9Wn550DFgxo=;bMH5ogogimcHyg/Oabxd9g=="
 ---
 

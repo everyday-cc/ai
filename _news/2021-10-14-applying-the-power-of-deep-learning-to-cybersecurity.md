@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://techspective.net/wp-content/uploads/2021/10/deep.png"
         width: 820
         height: 479
+        isCached: true
+  - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
+    excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
+    publishedDateTime: 2021-10-14T21:37:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/q3-s-biggest-healthcare-deals-mrna-digital-care-and-cybersecurity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
     excerpt: "Concept: US-based tech startup FiVerity has launched a new machine learning solution,  Collaborative AI platform, to detect and prevent cybercrime….Read"

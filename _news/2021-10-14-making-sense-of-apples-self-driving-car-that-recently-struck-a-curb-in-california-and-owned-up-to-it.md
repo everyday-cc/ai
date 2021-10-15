@@ -91,6 +91,36 @@ related:
         width: 1668
         height: 1080
         isCached: true
+  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
+    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
+    publishedDateTime: 2021-10-14T22:12:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 24
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Streets of San Francisco stump Google self-driving cars"
+    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
+    publishedDateTime: 2021-10-14T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "rdP2pOOLGnYRp9vEfeqjf8hVPRaX2OqThxQq4IcUh1bFRTQy7K50TmtBdDtXQn0WT6qWTNAqIK85gUnekWNKpMFGPI8U6RASTx7XRiTjXKuZ2iWDijllaZAxusSAYxDTzsNO2sXF6YDu/tB3mHXylTueNgnxYJSrWutILoyW4Il4qvcMTymYZaAbxDrDB0W46+2s7JJl0PADQICKoNQkP09qM9m7NG0NM/tV7/pMvYVn0HX8FmGGp/6Gsad01kieLkzzyNyE7j4d7pILYJ/DRo6xIcfSor7FpUU+ge+DYJkkxgCTWAveUxi0yKHtwC632ev1FNIfkVazai2Yu+NX90EAQdv8ybhbLK+hIXlyiZYN48I4ogxE5m0jQqSqH85Dc9wrsWyUgHAgALKHd6D45mrXOaeBKM2FEHm+16219QkFfrM0a9TzJiHguA9KPg6qQFhQew+oq6r2nHiWSBNoo+KdqLlvUZyhGa5csWVwhT30NcWKEnr9XuTi/Iv+Ln00o9yoq0aIR4abaHNQy1nszQ==;p7EUYpqkfGNTS1CIYgsWjQ=="
 ---

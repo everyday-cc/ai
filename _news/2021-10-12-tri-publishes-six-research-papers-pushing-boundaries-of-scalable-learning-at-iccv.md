@@ -54,19 +54,14 @@ related:
         height: 630
         isCached: true
   - title: "Enova Announces Date of Third Quarter 2021 Financial Results Conference Call"
-    excerpt: "Enova International , a leading financial technology company powered by machine learning and artificial intelligence, today announced the company's third quarter 2021 financial results will be released after the market close on Thursday,"
-    publishedDateTime: 2021-10-14T20:33:00Z
-    webUrl: "https://www.lelezard.com/en/news-20048140.html"
+    excerpt: "Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the company's third quarter 2021 financial results will be released after the market close on Thursday,"
+    publishedDateTime: 2021-10-14T22:16:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/10/14/enova-announces-date-of-third-quarter-2021-financial-results-conference-call"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 1
 
 secured: "ziccvPkI0qdd/G3NAxopQez7jJt2vfpPV6jm4Oq5rMjRFG9E5RoR9C4EAj/aS1uPZejkY4jgkh0bWCbO8GaYiS6odrkv72q/hgP2CWxOcab7nQchvdoJ7JgbN3A3SqbR9Fk+i1wPKFbDfC5SNKQKQQq9GptFRg9999Fk2XOaLUT41rwJXcjf2s9gJT5tsx5/rmUscUgkDTR52/e5w/qFPQXjZ0TK0RJAvULa+joJdtu4k6J7UUWjOKRvYEzPKtd4wIIwzf+83rlqX1Ycns+IuPNgJIkPKVIHCO5sDJtXRamJ9ypysn+O6BcrC3Ar28VloqMRlWC6hMLsVIBVjScTUwZmI/okUm1T9DPlSDVf96vKmpcqOj0sPtE68E9lOju9FN+YEdZU5g/2Ctmzey+Ti/9DWv2R2BnSBWHD7CvGRoSRbxphA3fWP3pLyd5t0QYZcZkHXPp04iNcdAl0DD1yoqYrIFGxBu9eYqg0Bz+5q7pBoRy/qxSEKLxDX9Hlygrjq4mLNJj/FLS/y0pGBcAgTA==;yBRpCYzDfC3b5uoSsDFRzg=="
 ---

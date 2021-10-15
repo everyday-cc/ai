@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
-    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
-    publishedDateTime: 2021-10-10T06:42:00Z
-    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial intelligence and the human-machine interface (podcast)"
     excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"
     publishedDateTime: 2021-10-14T19:04:00Z

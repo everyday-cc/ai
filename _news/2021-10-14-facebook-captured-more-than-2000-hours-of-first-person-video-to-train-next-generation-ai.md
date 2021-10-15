@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 640
         height: 380
         isCached: true
+  - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
+    excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
+    publishedDateTime: 2021-10-14T23:24:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005982/en/BrainChip-Returns-to-the-Linley-Processor-Conference-with-Discussion-of-Next-Generation-AI-Enabled-IoT-Devices"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
   - title: "Facebook is creating AI that can view and interact with the world from a human's point of view: Over 2,200 hours of first-person footage captured in nine countries could teach ..."
     excerpt: "Facebook is creating an artificial intelligence capable of viewing and interacting with the outside world the same way a person can, letting the AI learn from 'videos from the center of action.'"
     publishedDateTime: 2021-10-14T19:33:00Z

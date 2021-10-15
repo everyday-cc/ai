@@ -68,15 +68,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Facial recognition, cameras, other tools police use raise questions about accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies are increasingly used by police departments, municipalities and even gated communities, but these tools manufactured by private companies raise the specter of unchecked surveillance,"
-    publishedDateTime: 2021-10-14T21:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931656"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
 
 secured: "koQb4/C2btSlDtD9go5uNnNRza5TBWueLOMkKexpXvlgLIXaIDwzarwts2bNtBETk65w5V5cXCwYAa1yH5xGR3UvPqzCEetx1go5+K4fMRxzqPmUCFxuJKMN2lbTwvbkxtAEwCyWrobhkqOMCWaXrhYdGE8EK60jrhvrcav9kr4pr7h26dSqx58RXfM/DZkt8xxyrh4EqRrzBPHr2eg5rfScE50jUUDKQklxES3P0DtWADBJuXgg3tVnNA7qaqOrBq6PbTSSESJ+AtWJuFJPDDemyeoUIpmg102tjfelOg725/vNGL7nKtSJj3Q/RJAN1VsgeZeKBfCZflcqdUif61KVqL+baLijCo/nHVU5B7Q=;8ONXTOJ0bTFO7Wqx8CSFMw=="
 ---

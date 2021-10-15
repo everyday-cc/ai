@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
 type: article
 quality: 89
-heat: 141
+heat: 129
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2021/09/Air-India.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
-    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
-    publishedDateTime: 2021-10-10T06:42:00Z
-    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
-        width: 375
-        height: 250
         isCached: true
   - title: "Artificial intelligence and the human-machine interface (podcast)"
     excerpt: "The third episode of Shephard Studio’s Artificial Intelligence on the Battlefield podcast, sponsored by our partner Systel, looks more closely at the future of the human-machine interface. While Artificial Intelligence offers great potential for militaries,"

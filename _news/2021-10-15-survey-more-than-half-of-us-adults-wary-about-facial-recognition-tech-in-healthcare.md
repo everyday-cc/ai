@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-h
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -69,16 +69,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Facial recognition, cameras, other tools police use raise questions about accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies are increasingly used by police departments, municipalities and even gated communities, but these tools manufactured by private companies raise the specter of unchecked surveillance,"
-    publishedDateTime: 2021-10-14T21:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931656"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
 
-secured: "guZ698b8kqJaxOKvNwLuOTuhfn2hH6moPnZ7IQjnVCUFjjUCDKlmE8Os2mHORmk9DubvqMEok8bSx+YKqLnKm8akdbyV6wfdbm2oPorrELFlP1zdIENBRFo9zzEti7/+3C2xzjEC8aaQCEpBWkcrJPuljE/qfRkb1XR3WWchd0uQrBkcVEV8sKXOqhnS1fxaw2U3bJ4uqqwte8ILwErwV+YXl9NIHj3LRXCb9yG6Lxud1rq5uxQbdpnmKGYOyhhLRlunLeVkdvhd3LZg/9mOG2RsWdTDuGcAPEZF8eFeo1zMpAnsS9oNK1N5tSB2pyEz11qgglvw4HK/2LKulfB2g7s1cNBhCz0J1vKZKTJRXbU=;dBMcnawQdrNqMgNZgKlT6Q=="
+secured: "LWIPfy8LoKDUx8TrmGXDwElYj2Hz0SF6ILWAwx5vqfSCmYDE+7uwMnn12jA7QnZN4qxmUNetBU4CSanZ239Y5ixfHJLUM7fInuJgSfk3G1rlswx1k+22aQSAUMhM4mcoFmNu7MBNiTGuIbrKpGyBIy7upU0JgdP1kVmof1GalqB4N4JgKOMqoycfZyv0wcthyqvTRvWKGXBYxJ2RsUFaBXrGUz1Fr7TcS6gKHjd8Ix178ocQef1qYEOD8lmrMoK9eMj0tEg4dpm68Kt3SlSWI2oh4gnXQFAFsLrtWLXuFO+SN2/NwCxXczFppJIdUDgVIROUT5tweDJ/dl0doejFAuyZAnF2XDzu+WMwi4fd7/tKLqF4nJwlo4EuFxjw7CMsJ38Vl0BJ08JBn/88EWWCcWgq8bRxr132LBLuaDOHreh6DfN/Ba4QO0Q4ureAea0rqSy4UMYDajDyBiE+vrkyDKvj9NvM7G+bfMpujfqpe9ABtcV8ET3fldvC9sukVPzTD2iIGEq8twOWSBShKKSvfQ==;5EJ9RZjXKGDYi3gnnGNdDQ=="
 ---
 

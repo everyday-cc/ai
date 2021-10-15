@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-drivi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
 type: article
 quality: 89
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Halts Rollout of Full Self-Driving Beta to Drivers With ‘Perfect’ Safety Scores"
-    excerpt: "Tesla planned to release beta version 10.2 to roughly 1,000 drivers on Friday, but it didn't happen. Musk cited \"last-minute concerns about the build.\""
-    publishedDateTime: 2021-10-10T05:30:00Z
-    webUrl: "https://gizmodo.com/tesla-halts-rollout-of-full-self-driving-beta-to-driver-1847834080"
-    ampWebUrl: "https://gizmodo.com/tesla-halts-rollout-of-full-self-driving-beta-to-driver-1847834080/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-halts-rollout-of-full-self-driving-beta-to-driver-1847834080/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 82
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/57923da03ab5164f3a1a8176a2f60c65.jpg"
-        width: 800
-        height: 449
         isCached: true
   - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
     excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"

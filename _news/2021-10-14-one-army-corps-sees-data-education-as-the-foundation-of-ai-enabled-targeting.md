@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "How AI is helping the natural sciences"
+    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
+    publishedDateTime: 2021-10-13T13:40:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 41
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A Role for Artificial Intelligence in Educational Futures?"
     excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
     publishedDateTime: 2021-10-14T02:54:00Z

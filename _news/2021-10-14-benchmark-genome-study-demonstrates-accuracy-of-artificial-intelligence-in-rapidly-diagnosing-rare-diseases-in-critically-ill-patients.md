@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
-excerpt: "Fabric Genomics & Rady Children's Institute for Genomic Medicine study says artificial intelligence enables rapid diagnosis of critically ill newborns"
-publishedDateTime: 2021-10-14T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211014005391/en/Benchmark-Genome-Study-Demonstrates-Accuracy-of-Artificial-Intelligence-in-Rapidly-Diagnosing-Rare-Diseases-in-Critically-Ill-Patients"
-webUrl: "https://www.businesswire.com/news/home/20211014005391/en/Benchmark-Genome-Study-Demonstrates-Accuracy-of-Artificial-Intelligence-in-Rapidly-Diagnosing-Rare-Diseases-in-Critically-Ill-Patients"
+excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"
+publishedDateTime: 2021-10-14T12:36:00Z
+originalUrl: "https://www.lelezard.com/en/news-20046508.html"
+webUrl: "https://www.lelezard.com/en/news-20046508.html"
 type: article
-quality: 0
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
@@ -77,6 +84,6 @@ related:
         height: 280
         isCached: true
 
-secured: "jfNIErFRfV/7Ol1IcS3IPIh25sLMgkaRVLThXAzmuA9paVxWT5VUXMXyDQr0qbTuFSvjFHMj2yn3t+I1gO/oMkM74kLaSiL5D5qGR5wgwSFmMkb/2B2hJuG5ApTaPchBtCdmErbHXkcZz4DwoA6FFI4TTw33SFCSdCWbcV7uLvsQRyyLJLeduDbF0K5rF7ZMhsNff3A71WUlQ+WjFBZLW79rkTioHOkZHHRZKMzcSjVbJR4n9Joedq3mGxgBhP4Mx1sF/5nHDCZxhs7dnFnBEo3xvNzNGWb9N63cnAwBWpxN9WEDm1Ewwt4+aPnKIptQlQzQII8BQgVFmN31SXkff4DGimxlLZFIHUYmeJ1AgPY=;tW/m4GEFrq8bGbtoBOADLQ=="
+secured: "rw5UirtT20V5DS4VKrVZk3w/r2lwAoMMUC4PCJ6c1+cW7P/QVBc4GAHBYoYXgHgJ6wnO61vRPKmj1AUr4BKhuoUAmw8LcYUnlw0Sy/SBrq4p5V6M1kIGns9eynHArUZN5oP3D+go0XD3hcEsAYz7pLjBVb37RFh6+nhIjriDADee2tsb3xvhOfEvyJE4ooc3VAxeJ6ZYHKrUA7uH6O/b8q5MjTCMzuDF26gQxHbyG2k51GlsUgnB+ZV6jAAc4XN3NZ6cAlKCAmtl47s3M68ThX9ixibJnrNLB66PXyFMAxFRdvbC6/T9Z6rkICm0v599vgjukWdnsIn/Fpz/JpTNLrlgZvZt6mFO1iOod4ppig8=;0/BrLOwBHXM/XtKU0O9x1w=="
 ---
 

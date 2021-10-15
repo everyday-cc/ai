@@ -70,15 +70,20 @@ related:
         height: 467
         isCached: true
   - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
-    excerpt: "Fabric Genomics & Rady Children's Institute for Genomic Medicine study says artificial intelligence enables rapid diagnosis of critically ill newborns"
-    publishedDateTime: 2021-10-14T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211014005391/en/Benchmark-Genome-Study-Demonstrates-Accuracy-of-Artificial-Intelligence-in-Rapidly-Diagnosing-Rare-Diseases-in-Critically-Ill-Patients"
+    excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"
+    publishedDateTime: 2021-10-14T12:36:00Z
+    webUrl: "https://www.lelezard.com/en/news-20046508.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 7
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "GJX/s87+VlSa+XIcHV+piWRLKP6Hr2HH9bjPfm9r6cXlNWn3MhU7+qoDZd2/l/LRksc3gWyDGUPkkT3Om21vZaHs0Wlwx32MoD346TfRoF7BD7aP2dGb5Tsa3kS2T9cqzFR2N5Yjn/eccPMUuGxrqurvK8gp0uOFVTKrFZwQSWwL9FRd/Q8CinZcAh7iMt5fGJy+p0U6V5YIXzRnn5J5ruawBNlDUA5ObZCyBGjqRa1NWAQE1vYo1Z7bA7PJ3fBNaDfA+ZkfFBxFqLqehzxlEIs6NblVSPfJv2OQkgUDv9uGqFxVVCaKH5E2mgbpa+i3yibZK3PDYSTGvFN+8WxciN0ZepKwsOjUuxdMWheheOw=;UW94PqW3TWdXwtME8rNCHw=="
+secured: "8oNS6D67py4Vo+7sp9adtbgPLjQ8UhmJHcv3+uhX7WnsUdfVomyEtS2ULiTS0sP1XpKAscH5TLUJGw0827YJM/S6zFI0J8iw3nTqTwy8ZZrDOGPIV3cBDj/6Bp0QVa6eRRfnsEy2t8WzR1JW1D+CAeTNb62ussW8UV5vhmDqiVd0ofLIt5yTpfsEHgdHhAp033N3cyah5xVqPF1xGj9Ilyq8GIme/Nq+SzdZ3UCjUdAKDtHqrF7+Au1rt59eQe/8Ixsrora0RZQGiMyKBLBFXoTszqbqIF3FKRZtLPAC97/KVrGzEbNfL1QWmpMw2CCxERUmqB6KOTx4+g/7ZUtcP6TEJXscaUvi9PpL2TMGBCkHOs29ay+bwetlg+f4jef8DxAHKt2inAdv/T7B2TBU8D9kgSOLfjX1+4TLDeccH4MDB+5MlUaW1uKmEjvuuN6L2Py+RxN7Nsq33yZNKMPkmQiurPiTeBnhrGuy6/aKgIJFxqplJqYYcchI0EivfSjsAy3V1F2/aWf6TxxfPldceg==;tXQ1StHeEGcqgUqt8Ob8Vg=="
 ---
 

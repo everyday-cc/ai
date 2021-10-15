@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CMU-Q panel: AI should augment human intelligence, not replace it"
-    excerpt: "Doha: An international panel discussion hosted by Carnegie Mellon University in Qatar (CMU-Q), a Qatar Foundation partner university, delved into th"
-    publishedDateTime: 2021-10-10T06:42:00Z
-    webUrl: "https://menafn.com/1102946110/CMU-Q-panel-AI-should-augment-human-intelligence-not-replace-it"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?654366"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Embracing AI in the World of Auto Insurance"
     excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
     publishedDateTime: 2021-10-10T13:00:00Z
