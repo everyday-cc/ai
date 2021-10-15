@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
+      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
+      "excerpt": "Robotics stocks have been gaining significant traction among buy-and-hold investors lately. This is not surprising, as we’re seeing rising demand for robotics from a variety of segments — from electric vehicles (EV) and e-commerce groups to electronics names and the oil industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "originalUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "publishedDateTime": "2021-09-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-is-what-happens-when-you-honk-your-horn-at-an-ai-self-driving-car.md",
       "title": "This Is What Happens When You Honk Your Horn At An AI Self-Driving Car",
       "excerpt": "Honking a car horn is a dicey proposition, oftentimes illegal, and yet we all still do have and use our car horns. Consider what will happen if you honk your horn at an AI self-driving car. Be in the know,",
@@ -1343,50 +1378,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-joondalup-supports-push-to-become-centre-for-artificial-intelligence-and-robotics.md",
-      "title": "Joondalup supports push to become centre for artificial intelligence and robotics",
-      "excerpt": "A major Perth council wants to become Australia’s first urban centre for artificial intelligence and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "originalUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.perthnow.com.au/publication/C-3759113/76e2e6c6694853bac73137e934cad47d6de4a2db-16x9-x0y198w2756h1550.jpg?imwidth=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/local-news/perthnow-joondalup/pn-council-joon-robotics-c-3759113.amp",
-      "publishedDateTime": "2021-08-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

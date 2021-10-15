@@ -190,6 +190,22 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Microsoft Translator surpasses the 100 mark for its language milestone"
+    excerpt: "Microsoft reaches a new milestone with its translator as it surpasses the 100 mark with the addition of 12 new languages."
+    publishedDateTime: 2021-10-11T22:00:00Z
+    webUrl: "https://windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/"
+    ampWebUrl: "https://windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 61
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/10/screen-11.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Microsoft thwarts mega-DDoS attack on Azure platform"
     excerpt: "Tbps DDoS attack on an undisclosed Microsoft Azure customer may have been the largest ever attempted against a single target."
     publishedDateTime: 2021-10-12T07:14:00Z

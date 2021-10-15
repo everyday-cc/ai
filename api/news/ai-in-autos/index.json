@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-tesla-is-under-pressure-from-nhtsa-over-full-self-driving-beta-nda-and-stealth-recall.md",
-      "title": "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’",
-      "excerpt": "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot.",
+      "path": "_news/2021-10-13-us-asks-tesla-why-it-didnt-recall-autopilot-driving-system.md",
+      "title": "US asks Tesla why it didn’t recall Autopilot driving system",
+      "excerpt": "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "originalUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
+      "webUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/",
+      "originalUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg",
+          "width": 1280,
+          "height": 852,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,23 +128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "publishedDateTime": "2021-10-13T09:46:00-07:00",
+      "ampWebUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/",
+      "publishedDateTime": "2021-10-13T04:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -235,6 +226,58 @@
         "name": "techxplore.com",
         "domain": "techxplore.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
+      "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
+      "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "publishedDateTime": "2021-10-11T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1400,58 +1443,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-gms-cruise-alphabets-waymo-win-permits-to-offer-self-driving-rides-to-passengers-in-california.md",
-      "title": "GM's Cruise, Alphabet's Waymo win permits to offer self-driving rides to passengers in California",
-      "excerpt": "General Motors Co's Cruise and Alphabet Inc's Waymo self-driving car subsidiaries on Thursday became the first companies to receive autonomous vehicle permits to offer rides to passengers in California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
-      "originalUrl": "https://www.reuters.com/technology/gms-cruise-gets-permit-give-driverless-rides-passengers-san-francisco-2021-09-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/onS7SUrJwaZORG20XaAFkrVAaLY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DC26PQB6JLU3LAHXWIEHJOJ3U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

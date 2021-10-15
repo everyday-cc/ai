@@ -42,22 +42,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "After Air India Privatisation, Work to Monetise Alliance Air, 3 Other AI subsidiaries to Start Now: DIPAM Secy"
-    excerpt: "After the historic Air India privatisation, the government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets like land and building,"
-    publishedDateTime: 2021-10-10T13:09:00Z
-    webUrl: "https://www.news18.com/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    ampWebUrl: "https://www.news18.com/amp/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 37
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/10/untitled-design-37-163386789516x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "e5mTttfsdh9SUQiBwIXpZyjMNZSON7YMV4m3pmB4XvKFBx9JINFAdlTy9tEASgQIunqioi5sCSQyHrPnU0rGkMN+J+swABKtHMMqXZCPn/1h+4jqWhkb6ubQQS42ryl25+TXRP4rX1hOXa9mIIQoLA0brYOFziFMPlT4c1cHbfiHq+m4U0wemPEj3bHG7BE8k5NzKmWT3mrwlt07SDYPwVBBalmYpowTlqWYzDZRAUvfM6SBCMXp6cC53CMnnMCN9bPQF+33QWOi6XIxcAwZaF0g/ERpOKKz8iiLqfANgsUkhpqL5qnLAFEOYnS1EzJVfQCTlar93ccRHt31csS3GU3P/XKh3dkXQfaMHKa/kmY1kqW1w127G1E29XFspxVI1WJu1CtVfT4tr+Rwe32YQpd6vismEDKkEX6TNwTOgW7LUBrUnKCGDM835iBYj28BaDrylEb31p0GPiCu+RnWTvLIxM+MvfxyaDzB3An9lNgwja/R6ZScXWkf43vL/HgfrfWxWDeuS1gIKxML1J35CQ==;Ue/N1iaREf2j6GxKHAjLvA=="
 ---

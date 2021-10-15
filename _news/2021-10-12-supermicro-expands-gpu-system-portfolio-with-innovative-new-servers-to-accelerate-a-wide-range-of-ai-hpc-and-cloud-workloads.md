@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
-excerpt: "NVIDIA HGX A100 4-GPU Platform and Resource-saving 2U 2-Node GPU System with 3rd Gen Intel Xeon Scalable Processors SAN JOSE, Calif., Oct. 12, 2021 /PRNewswire/ -- Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing,"
-publishedDateTime: 2021-10-12T15:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467508.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467508.htm"
+excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, announces new systems based on NVIDIA® Ampere architecture GPUs and 3 rd Gen Intel Xeon Scalable processors with built-in AI accelerators (Supermicro X12 series)."
+publishedDateTime: 2021-10-12T15:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
+webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1657653/Supermicro_Expands_GPU_System_Portfolio.jpg"
@@ -49,6 +53,6 @@ related:
         height: 749
         isCached: true
 
-secured: "SvNTWCMiB9CF0GPzOOndSzWhJHCBNUgTo7gnicD20eLRS2Ze1yoIOUuDBOwtc52VhyWiUsMuxAMPNn8LsMYrui/iuiIAZ4G3FU4x5gDUFkP3y5AYPX6GAVDzd3BZEerbhj5CyDnkoGYnbfNRRzo7h0C+iQq+XQdfJjtouEqS6aWlwBD/K5le0adNfiqSb9bYBHvHCMSb9c0Rxljbli4t3eGobSsU2QdH1t93qapTqm3jBB6OrfURAJ6b2WOOniNO3qTF0AJbHXeJ4cEBjFus/FkB1ECcyqd+G52Il8AA/Snr7DHVvlJo/SjpC/d2+LBh84t7l/TKXDRADYN5sm68qAGZlPscwEKr0qeca8UuPhFfydwq7JCyPRRrRzsmPamY6LcwiM/iDvg0qF3Ma50tR/UC0JnsbdrEen7SGDJEASEy+VG1ozcxSy131vWtc/Q8pb0j1xrFoVuMgyI1tvcz6OrnRQgBtMbrx9qzcrrAEUQSqmxQKAyBAGk71IfyJEjXqG/E7NiVLTWjZZbf+94s6w==;eiQsgQX6UOwgTQvroNCkUg=="
+secured: "CosU3rOTnTgHUGG/ZSsoxc/Ro1UPNaj/4UG2MI+T8YI0fRnOJ/2XULmaFIJgZv5AVoMIpcekKpdHGzoBZ0GvFyJCN8giNP9HD+DExzb9/mtPDFgkGUPXjHvWqA5/6qm72Y/4vv673PflpL7LJnWKjGqcd17YJxR6Fdz4OzmXZS3BNzA4jHRJEBgylPKqLjGH4uSg4P5bw5+4qUcys5tUu9bpIHGbUml6qmL6kPLn/j6CQFFh9y3Aozb8mD1McD0P9NwxeH9giA9QiPlKJU8ALbsa8cmnbFmC7WCjEPOvYFEgzthoQllHNHbNjJghB4E9QP7J26EU/l9grL8wwcILECE+8wRqmOIbzKQOLmFOYJI=;DwFcjUUkwsPoSZrYpQn6Tw=="
 ---
 

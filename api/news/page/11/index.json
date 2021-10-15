@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-05-facebook-whistleblower-testifies-in-congress.md",
+      "title": "Facebook whistleblower testifies in Congress",
+      "excerpt": "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "originalUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "publishedDateTime": "2021-10-05T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-self-driving-cars-have-brain-wave.md",
+      "title": "Self-driving cars have brain wave",
+      "excerpt": "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "originalUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "publishedDateTime": "2021-10-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "innovatorsmag.com",
+        "domain": "innovatorsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
       "title": "AI helps rule out cancer in dense breasts",
       "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
@@ -1056,92 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-coverage-of-fdas-aiml-medical-devices-workshop-part-1-the-history-of-fda-software-regulation.md",
-      "title": "Coverage of FDA’s AI/ML Medical Devices Workshop - Part 1: The History of FDA Software Regulation",
-      "excerpt": "In anticipation of FDA’s virtual public workshop on transparency of artificial intelligence/machine learning (AI/ML)-enabled medical devices scheduled for October 14, 2021, we will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "originalUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "publishedDateTime": "2021-10-04T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference-transcript.md",
-      "title": "International Business Machines Corporation's (IBM) IBM Investor Briefing 2021 Conference (Transcript)",
-      "excerpt": "as is the deep alliance we can create with the rest of IBM software around assets such as Maximo, TRIRIGA and of course, the whole Watson AI suite. So, a huge amount of power and differentiation ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "originalUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "publishedDateTime": "2021-10-04T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

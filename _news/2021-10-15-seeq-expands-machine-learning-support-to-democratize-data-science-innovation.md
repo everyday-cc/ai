@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634232585&width=1200"
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634280660&width=1200"
     width: 600
     height: 338
     isCached: true
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "pMYpC5yYig9DDAlcgqcaDbyJYX+9ltgTGO6duIUMK2hc5eo5uTiJXn84+CIOxtOz0HqJxu3cUovXopsBhzGYowUKeoHg0w5Dg9sNiITBcFl5K4vR1pQBMOfGOPQw08Sxh9+KiulwOHGQ/Ugm0ZSHv7ojYR3xyk5ayGfrdaY552K3xegueGaEuUd93nIF6dhtM6PNuiJzvSXGcN17JAsJmlp5SrAH6M3osLxPu8hpx6/akiL1hV7i5VW+lzMV8sqn7FIpUcQP6aHQGT5UJ2e1kUNhJ6DObM6pvZMC6g4LsbrD4Nug94CR9AMpYdpXp7rKf13De6FWn4V/xAPGQl54WK7UKoIsV8ZDSFE4z7b6kVI=;b2zlA+ARfnpU42zHmSOFNA=="
+secured: "sVgyAQJjYoSSJYq6BqywEmgzv0gNkjFQFUUD8gh1eZ5UINinmNnWJnJEqlemLuPCTqzeJ7AbWbwCm2Ftnrio5jHB2zPMLpYjf9+Zt96jBVs8il6thpu4mpFBGFVFLFu1PvbuUz5mg869DGV0l3FKKzf5n1u8sPC9/XP82xl5XGhoTK+mpPYiPMAoKmPQbWXwEDjVJYCqoGIDk2ZNZuD6EkeXhQgzttrHXvVUpdVbv9a6srcvT0By8QHmXY/FLno94L5m40OVoFixw0yaZPjxolhMMSnnYwawECG57N2xbBeZdlkTvEZKWhHT8kzvN+IFPn5e1jTfGWMVNIMlGGKe41gmg21pun72e8aznz/6dYk=;3HWgVu8wrLKGsjDFXly4kQ=="
 ---
 

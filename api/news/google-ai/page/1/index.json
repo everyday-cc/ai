@@ -900,6 +900,111 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-migrating-feature_columns-to-tf2s-keras-preprocessing-layers.md",
+      "title": "Migrating feature_columns to TF2's Keras Preprocessing Layers",
+      "excerpt": "Training a model will usually come with some amount of feature preprocessing, particularly when dealing with structured data. When training a tf.estimator.Estimator in TF1, this feature preprocessing is usually done with the tf.feature_column API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migrating_feature_columns?hl=nl",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migrating_feature_columns?hl=nl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nl",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-migrate-multi-worker-cpugpu-training.md",
+      "title": "Migrate multi-worker CPU/GPU training",
+      "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=de",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-googler-marian-croak-is-now-in-the-inventors-hall-of-fame.md",
       "title": "Googler Marian Croak is now in the Inventors Hall of Fame",
       "excerpt": "Look around you right now and consider everything that was created by an inventor. The computer you’re reading this article on, the internet necessary to load this article, the electricity that powers the screen, even the coffee maker you used this morning. To recognize the incredible contributions of",
@@ -1372,101 +1477,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-sparsity-and-cluster-preserving-quantization-aware-training-pcqat-keras-example.md",
-      "title": "Sparsity and cluster preserving quantization aware training (PCQAT) Keras example",
-      "excerpt": "This is an end to end example showing the usage of the sparsity and cluster preserving quantization aware training (PCQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. # Load MNIST dataset mnist = tf.keras ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pcqat_example",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pcqat_example",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind.md",
-      "title": "Six Masters, two PhD scholarships available at SU courtesy of DeepMind",
-      "excerpt": "The DeepMind scholarship programme gives talented students from groups currently underrepresented in machine learning, including women, the support they need to study at leading universities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
-      "originalUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

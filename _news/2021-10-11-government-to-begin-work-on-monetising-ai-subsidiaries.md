@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/government-to-begin-work
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/government-to-begin-work-on-monetising-ai-subsidiaries/cid/1834157"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Telegraph
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "After Air India Privatisation, Work to Monetise Alliance Air, 3 Other AI subsidiaries to Start Now: DIPAM Secy"
-    excerpt: "After the historic Air India privatisation, the government will now start work on monetising its four other subsidiaries, including Alliance Air, and over Rs 14,700 crore worth non-core assets like land and building,"
-    publishedDateTime: 2021-10-10T13:09:00Z
-    webUrl: "https://www.news18.com/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    ampWebUrl: "https://www.news18.com/amp/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/business/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-4307942.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 37
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/10/untitled-design-37-163386789516x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "After Air India privatisation, work to monetise Alliance Air, 3 other AI subsidiaries to start now: DIPAM Secy"
     excerpt: "Air India Air Transport Services Ltd, Airline Allied Services Ltd, Air India Engineering Services Ltd and Hotel Corporation of India Ltd -- along with non-core assets, painting and artefacts, and other non-operational assets,"
     publishedDateTime: 2021-10-10T20:25:00Z

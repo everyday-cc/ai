@@ -103,6 +103,22 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "Facebook developing AI that can see, hear, remember whatever you do"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
+    publishedDateTime: 2021-10-15T07:17:00Z
+    webUrl: "https://www.freepressjournal.in/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
+    ampWebUrl: "https://www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/96be85aa-95e9-4332-8921-2ba50beda0f0/Untitled_design___2021_10_15T124556_294.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook helps AI take a first-person view of life"
     excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
     publishedDateTime: 2021-10-14T17:12:00Z

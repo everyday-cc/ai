@@ -29,7 +29,7 @@ related:
       domain: dcvelocity.com
     quality: 36
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634232585&width=1200"
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634280660&width=1200"
         width: 600
         height: 338
         isCached: true

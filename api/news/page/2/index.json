@@ -2,6 +2,39 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-14-artificial-intelligence-in-insurtech-market-2021-detailed-report.md",
+      "title": "Artificial Intelligence In Insurtech Market 2021 | Detailed Report",
+      "excerpt": "A fresh report titled Artificial Intelligence In Insurtech Market has been presented by It evaluates the key market trends advantages and factors that are pushing the overall growth of the market Global Artificial Intelligence In Insurtech market to grow",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
+      "originalUrl": "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
+      "publishedDateTime": "2021-10-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
       "title": "Applying The Power Of Deep Learning To Cybersecurity",
       "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
@@ -178,58 +211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-tesla-is-under-pressure-from-nhtsa-over-full-self-driving-beta-nda-and-stealth-recall.md",
-      "title": "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’",
-      "excerpt": "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "originalUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "publishedDateTime": "2021-10-13T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -697,6 +678,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-us-asks-tesla-why-it-didnt-recall-autopilot-driving-system.md",
+      "title": "US asks Tesla why it didn’t recall Autopilot driving system",
+      "excerpt": "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/",
+      "originalUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg",
+          "width": 1280,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/",
+      "publishedDateTime": "2021-10-13T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-uk-gov-urged-to-protect-human-right-to-review-ai-decisions.md",
       "title": "UK gov urged to protect human right to review AI decisions",
       "excerpt": "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'",
@@ -1152,49 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-google-pixel-watch-delayed-again-the-reason-is-chip-shortage.md",
-      "title": "Google Pixel Watch Delayed Again: The Reason Is Chip Shortage",
-      "excerpt": "The Google Pixel 6 has been making furor even not actually appearing on the market. We mean this handset will be unleashed in a week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "originalUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/Google-Pixel-Watch-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "publishedDateTime": "2021-10-12T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

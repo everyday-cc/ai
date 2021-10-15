@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 255
+published: true
 
 provider:
   name: Electrek
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla delays full self-driving roll out citing last minute concerns"
-    excerpt: "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would"
-    publishedDateTime: 2021-10-10T13:56:00Z
-    webUrl: "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html"
+  - title: "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’"
+    excerpt: "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot."
+    publishedDateTime: 2021-10-13T16:46:00Z
+    webUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/"
+    ampWebUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
+      name: Electrek
+      domain: electrek.co
+    quality: 81
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
     excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
@@ -106,37 +106,21 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a"
-    publishedDateTime: 2021-10-13T11:56:00Z
-    webUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/"
-    ampWebUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
+  - title: "Tesla pushes ‘Full Self-Driving Beta’ to investor with poor ‘safety score’ while requiring perfect score from others"
+    excerpt: "Tesla has pushed its “Full Self-Driving Beta” to an investor who had a terrible “safety driving score” based on the automaker’s own scoring system. It comes as Tesla says that it is only pushing the software to owners who scored 100 out of 100."
+    publishedDateTime: 2021-10-14T21:05:00Z
+    webUrl: "https://electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-investor-without-perfect-safety-score/"
+    ampWebUrl: "https://electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-investor-without-perfect-safety-score/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-investor-without-perfect-safety-score/amp/"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Electrek
+      domain: electrek.co
+    quality: 66
     images:
-      - url: "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg"
-        width: 1280
-        height: 852
-        isCached: true
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
-    publishedDateTime: 2021-10-13T17:56:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 59
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
-        width: 320
-        height: 214
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-FSD-beta-Model-S-Plaid.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
     excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
@@ -230,15 +214,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla: ‘full self-driving’ is self-defeating hype"
-    excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-10-11T15:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
     publishedDateTime: 2021-10-11T14:05:00Z
@@ -281,20 +256,6 @@ related:
         width: 700
         height: 351
         isCached: true
-  - title: "Tesla under fresh scrutiny over assisted driving features"
-    excerpt: "The US highway safety watchdog has pushed Tesla for details about its driver-assistance systems, specifically whether it has barred some people testing the features from reporting possible safety concerns."
-    publishedDateTime: 2021-10-13T19:32:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/tesla-under-fresh-scrutiny-over-assisted-driving-features/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-AFP-1K.jpg"
-        width: 1024
-        height: 479
-        isCached: true
   - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
     excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
     publishedDateTime: 2021-10-12T23:58:00Z
@@ -309,15 +270,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How Tesla Can Sell 'Self-Driving' That Doesn't 'Self-Drive'"
-    excerpt: "Tesla CEO Elon Musk has said the company will roll out the latest beta version of its 'full self-driving' software to 1,000 owners this weekend."
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.realclearmarkets.com/2021/10/11/how_tesla_can_sell_self-driving_that_doesnt_self-drive_798234.html"
-    type: article
-    provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last-minute concerns\"."
     publishedDateTime: 2021-10-11T17:27:00Z
@@ -327,22 +279,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
-    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
-    publishedDateTime: 2021-10-12T15:20:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "vpX5nZUso/0fhSr5BjTLkC+NmUL9EdyWuUTni3RUS8rkIj4OYS4sPxNMpzwBc1QIH3B8KOqH/lZwLkfPh4Ks8OyHbxZ7mEp36E1EW9S06xSE78ldlHxdxDO+8jaemaAGXAl9Y0Mbx7Av+aXsOHmws7MXwlVlYGy6jC0KEvOSo28GalJmnIgvtM+BYRQDCZbWM1ZcgCM4HeLqqBsOp+IAcic6KAexvBbqb5vKV7Ofcoj21+STpNsjg5pfi9T6SzpErmF3IbyDQ0Oc9ct+gR+21yZU/AOIrMV5abNkFD0ZDne5a5lxVZ1ip1b05hOiwRB6jiiwzVUpx4F84AWTQ+zTevBa98PoIGnKv5ZWUvUM5tBU4sBcmrgRXlQBCMSWZYLFY53yuvuzSIjz+kcLnDb6RRwdBcmbSnPsqg5Esp7Ictlb3GBlZMoBNaaXi33n9Zy9V5qDzGMuddeNihGieXMjJtHhPLEHeLJKAJZaFNRCGlkHyc861OBk9cTYb7h2/rwCVuvXxbAxLPR/2eTxYwYD+A==;k6HgJIFjTqdSsgOrNatefQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/10/supermicro-expands-gpu-system-portfo
 webUrl: "https://insidehpc.com/2021/10/supermicro-expands-gpu-system-portfolio-for-ai-hpc-cloud-workloads/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -20,14 +20,14 @@ topics:
 
 related:
   - title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
-    excerpt: "NVIDIA HGX A100 4-GPU Platform and Resource-saving 2U 2-Node GPU System with 3rd Gen Intel Xeon Scalable Processors SAN JOSE, Calif., Oct. 12, 2021 /PRNewswire/ -- Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing,"
-    publishedDateTime: 2021-10-12T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467508.htm"
+    excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, announces new systems based on NVIDIA® Ampere architecture GPUs and 3 rd Gen Intel Xeon Scalable processors with built-in AI accelerators (Supermicro X12 series)."
+    publishedDateTime: 2021-10-12T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/1657653/Supermicro_Expands_GPU_System_Portfolio.jpg"
         width: 1000
