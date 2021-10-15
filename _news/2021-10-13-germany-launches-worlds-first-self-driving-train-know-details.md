@@ -105,6 +105,31 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Germany introduces first self-driving train"
+    excerpt: "Germany is set to begin using the world's first fully-automated, driverless train. Tags. Dcc; Wire; Lvs; Nation-world; Technology; Videoelephant"
+    publishedDateTime: 2021-10-15T16:15:00Z
+    webUrl: "https://www.stltoday.com/news/world/germany-introduces-first-self-driving-train/video_74c91d0f-5a17-586b-92a0-19e44b32be1b.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/4c/74c91d0f-5a17-586b-92a0-19e44b32be1b/61699b0dc2c55.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Germany Introduces World’s First Self-Driving Train"
+    excerpt: "Germany is set to begin using the world's first fully-automated, driverless train.  Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-10-15T16:15:00Z
+    webUrl: "https://omaha.com/news/world/germany-introduces-world-s-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.html"
+    ampWebUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
 
 secured: "8k6NrM8iqtp1J4YcblbA29yAPP2wckzxbcQ+kd27VhoXSbg9GJZkaF+UXjLHoCIMjMiNJoKEZZwPZZMhg8OqQaLYr3rgfGsfoBGnHb5bwNEWuMLCdmZEoZuxcEwDxWyRymkHgUAzyIeGHGEvl5pHc2pXlPbrqyAcSvjqtSKwwsDOEcThO/Qy/L7CYJ2UblhkVrmlGcEAzARCneB5H3fOYUJf1icPSjnzJSJzLZDicFrWIeHE1oRV//ipnUUz+DMzlkcoRhpfbsY7Iwj5KdTr59dhfQNpfPkZHAX60nDXUIn+9B8RbNKaYQYY4YSxZhSFAD2wYud1SDtILPN9kPdBvsRB2JR9c1KVxJU1svsjDE0=;A8BcotBOItCSMEYvQYPBcg=="
 ---

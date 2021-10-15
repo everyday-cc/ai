@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-15-self-driving-waymo-cars-clog-up-dead-end-san-francisco-street.md",
-      "title": "Self-driving Waymo cars clog up dead-end San Francisco street",
-      "excerpt": "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-58928706",
-      "originalUrl": "https://www.bbc.com/news/technology-58928706",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-58928706.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58928706.amp",
-      "publishedDateTime": "2021-10-15T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-15-tesla-debuts-new-car-insurance-that-uses-texans-real-time-driving-behavior.md",
       "title": "Tesla debuts new car insurance that uses Texans' real-time driving behavior",
       "excerpt": "Tesla now offers insurance in Texas, and it calculates for premiums based on owners' real-time driving behavior..",
@@ -158,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-14-making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it.md",
-      "title": "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It",
-      "excerpt": "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles.",
+      "path": "_news/2021-10-14-waymos-self-driving-cars-are-mysteriously-flocking-to-a-dead-end-street-in-san-francisco.md",
+      "title": "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco",
+      "excerpt": "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
+      "webUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
+      "originalUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 170,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644",
-          "width": 1200,
-          "height": 929,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -180,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
-      "publishedDateTime": "2021-10-14T08:30:00-07:00",
+      "ampWebUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
+      "publishedDateTime": "2021-10-14T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -352,6 +300,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-12-the-dangerous-promise-of-the-self-driving-car.md",
+      "title": "The Dangerous Promise of the Self-Driving Car",
+      "excerpt": "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-germany-unveils-first-self-driving-train.md",
       "title": "Germany unveils first self-driving train",
       "excerpt": "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains.",
@@ -360,7 +360,7 @@
       "originalUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -448,7 +448,7 @@
       "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {

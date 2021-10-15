@@ -51,20 +51,6 @@ related:
         width: 990
         height: 660
         isCached: true
-  - title: "Defence unveils funding for AI research"
-    excerpt: "The Department of Defence has launched a request for proposal to find technology and research partners to develop new artificial intelligence solutions."
-    publishedDateTime: 2021-10-10T23:09:00Z
-    webUrl: "https://www.arnnet.com.au/article/691956/defence-unveils-funding-for-ai-research/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ANU%20solar%20panel%20soldier.jpg"
-        width: 472
-        height: 315
-        isCached: true
 
 secured: "ebrYyJZUJ3SfIfzZetRI+ql+gvYz14c5mJTFWoR6NxbWvnDQhTlR2wwpHYpCKqPGh4cVZ2VmP2xwbEA0aSjxoxYXySuBo25D6Gk2Ca7HOZq2tyKfnv079MLwrD9KFPLH4z1mQUOE0kgy4wFCLOqDVFz8m796X56WRlcVZZcS074x80EMxbfAbTSsE1iTh0AIkPS8PIPHzvsyz7OT28t429XQYd2MwP3MXORNRzAWqAJSVVeP63DLN46UlAdwelmyaFVt5MTR6QewnJQWZKcMTUfORXsIyS+G4DjUwyj5ynJkuQsodKhbcGpYoOHn+XMSM5PtaX5I9jayeUSd6+u9mrdzsNs46yRsQVOTtP5M0WywYCCwimnnd5lmlfemeVfmfVmThkHu13b7GzOuElQvScwtmLJKCbygmQ52f9hxjeoH370S+p4U0+DtHXsLHuciLdaZFPVh9jLIU2zIT22OWMajQ/E0cPKsI+/GRxbHCWO7QkGJl/3na0bLC9PnPNdHlNbCq6WMZYrGM+GG33+8mA==;H05QO2JTv+19cQ4gpQUgDA=="
 ---

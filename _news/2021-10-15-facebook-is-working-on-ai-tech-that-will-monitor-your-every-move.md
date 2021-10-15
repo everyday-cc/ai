@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Researchers show Facebook’s ad tools can target a single user"
+    excerpt: "A new research paper written by a team of academics and computer scientists from Spain and Austria has demonstrated that it’s possible to use Facebook’s targeting tools to deliver an ad exclusively to a single individual if you know enough about the interests Facebook’s platform"
+    publishedDateTime: 2021-10-15T17:18:00Z
+    webUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/"
+    ampWebUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228003986.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facebook helps AI take a first-person view of life"
     excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
     publishedDateTime: 2021-10-14T17:12:00Z
@@ -231,6 +247,17 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
+    excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
+    publishedDateTime: 2021-10-15T16:30:00Z
+    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 37
   - title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
     excerpt: "Facebook has announced Ego4D, a long-term project aimed at solving AI research challenges in “egocentric perception,” or first-person views. The goal is to"
     publishedDateTime: 2021-10-15T14:52:00Z
@@ -244,6 +271,22 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/10/facebook-dataset-benchmarks-ai-egocentric.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
+    excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
+    publishedDateTime: 2021-10-15T11:18:00Z
+    webUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    ampWebUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 36
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
   - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
     excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."

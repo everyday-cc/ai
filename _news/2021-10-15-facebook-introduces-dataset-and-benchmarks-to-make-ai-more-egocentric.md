@@ -88,6 +88,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Researchers show Facebook’s ad tools can target a single user"
+    excerpt: "A new research paper written by a team of academics and computer scientists from Spain and Austria has demonstrated that it’s possible to use Facebook’s targeting tools to deliver an ad exclusively to a single individual if you know enough about the interests Facebook’s platform"
+    publishedDateTime: 2021-10-15T17:18:00Z
+    webUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/"
+    ampWebUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228003986.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facebook is working on AI tech that will monitor your every move"
     excerpt: "In order to teach AI to see the world like humans, Facebook is working on software to track people's lived experience in the world."
     publishedDateTime: 2021-10-14T18:48:00Z
@@ -240,6 +256,33 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
+    excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
+    publishedDateTime: 2021-10-15T16:30:00Z
+    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 37
+  - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
+    excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
+    publishedDateTime: 2021-10-15T11:18:00Z
+    webUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    ampWebUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 36
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
     excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
     publishedDateTime: 2021-10-15T01:36:00Z
@@ -283,6 +326,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "u91QRmt9Rx1RknLV749VIMdfKHYpTOVsP9uIlZfWGe56fkaEbgVL8OxwOel3lC1uEEulrFGKRBS24k7HqVaDv4QCsY61G8zIMAVKFeQCGAVRBQsikdHd/bNY8cjCVa2Nqv7WgpHew2aq74TGBjtvkF6lxKWxjTT+ZMQZymHZW4DC4ZF0+JSV6ECR02Cu9nBaOK45WUAhgTlLa4+yMNhgap4Hp1j3x2O1PwCdvzybJrZ9CVFIPTACDF5NnbT3KI9ABFTnc7teN7U+FyYF7Wn1TZDpchn9jnatJ6Ptz231HzNndyelO0ZFNtEhSUOV6voxtlMINf5YEfcIrk7G/SLdM5m0o8Gqejta97Dh+uwJFas=;sRS3NNaWMjwWiVzlqCLoow=="
+secured: "M/W/Xusz2aLIFkcztEp+ZSfqUSgZvXoLpzLHdTGezFidW2K2beV3Bw4k22aw7a4psYt0NJmdwQOQJsb6r6QmQJmpK0gImtNS6H/+uiXbwoE85U1Cw3EAvz6Rw5LcFxW1SxFMEbSKdcBuU1e7qODAjuxdx5GT6UcjyHibYXd4z5x2F7t0tWj4+8TyxPhPj+bLvsVgjV8GvueWWCZ4EweQJGqskKZKyGfZRpeyJ8/bUdOVoiggnDQCbrnir0Gn0gBz1daJj38NDtyZTG7OrwlSzZ5PoCDx879C9o88NJQqVzr5K32+Wp8Lv1TmOJxLYnHd5Ko3PR+oQ0xfk6x4UAWtDd5jZo65hD19PMuvgddXPbCcrKmOfvMfc9r4aqiyRIxyjcq5xh/4Hph0kHOKE68qAZ8mrrOtkuvW3qP3mnbJuqztX3xPVZ2DJZ6XBJjRFURE29/908G6TjmlroGrQ3JmRIClFCWXfcsjP6j793BFQXADxMDw1wDTVddrIfAlQKHg7WQWenGYKsneHgVeCeXO0g==;naTtvy0TEiknCsiXJM/5cQ=="
 ---
 

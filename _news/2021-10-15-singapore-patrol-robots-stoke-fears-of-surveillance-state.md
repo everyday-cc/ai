@@ -47,20 +47,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 70
-  - title: "Defence unveils funding for AI research"
-    excerpt: "The Department of Defence has launched a request for proposal to find technology and research partners to develop new artificial intelligence solutions."
-    publishedDateTime: 2021-10-10T23:09:00Z
-    webUrl: "https://www.arnnet.com.au/article/691956/defence-unveils-funding-for-ai-research/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ANU%20solar%20panel%20soldier.jpg"
-        width: 472
-        height: 315
-        isCached: true
 
 secured: "uVyXSqxOOY+2CHzXPfWQDUnEN/I/kwndxsLBBD0ThtDfom4vvuF2LQ6oAzsAFwDrZmFvqWQvzVjpHAkloF+wxIBjTYGehva7x+fnlFsDuzArBq0Knag3p3OWkJOOO0q6DK2fXZSfawB0l7phfPg4m3JljrEu0TBBJcyUfLNtOAQe4ger1eyOJpvg0owWY9YmuNjkZ1Y3KW+97JGMlsUwRxj2+0lx1k+7ZNQF0OgyCUJftkVdY0ug22VihOg368zfMsMv6ucSjG5RUFY3vUulq70TF6RkiLL6dFJRwMe5jTuiAgEGHq6iWPUBYJrrw6sKEAsn3zzpQTGGeYIIyUh++0psELwRIHyQWGHt9YLBjPE=;9xcTYPCzdm/QV/j2XVHu0g=="
 ---

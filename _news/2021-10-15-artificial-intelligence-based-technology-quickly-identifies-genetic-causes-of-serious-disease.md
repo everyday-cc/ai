@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
-excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding foreshadows the next phase of medicine, where technology helps clinicians quickly determine the root cause of disease so they can give patients the right treatment sooner."
-publishedDateTime: 2021-10-15T15:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
+title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
+excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
+publishedDateTime: 2021-10-14T21:17:00Z
+originalUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
+webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
 type: article
-quality: 36
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UUHC Health Feed
+  domain: utah.edu
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
+    width: 420
+    height: 280
+    isCached: true
 
 related:
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
@@ -37,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-40.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "AI, telehealth, and sensor-based technologies facilitate autism diagnosis"
-    excerpt: "New technology-based tools can help pediatricians to make an accurate diagnosis of autism spectrum disorder. Although pediatricians screen for autism spectrum disorder (ASD) in children aged 18 to 24 months during routine health maintenance exams,"
-    publishedDateTime: 2021-10-14T12:38:00Z
-    webUrl: "https://www.contemporarypediatrics.com/view/ai-telehealth-and-sensor-based-technologies-facilitate-autism-diagnosis"
-    type: article
-    provider:
-      name: contemporarypediatrics
-      domain: contemporarypediatrics.com
-    quality: 38
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/contpeds/f87f95148dc3b5df11d328937ad08de99b702758-1200x800.jpg?fit=crop&auto=format"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
     excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding, published in Genomic Medicine, foreshadows the next phase of medicine,"
@@ -81,6 +70,6 @@ related:
         height: 480
         isCached: true
 
-secured: "SM39NiXL4QS80DzKJooRpr1lmMQfBdS34P83ysJ3HuBiNsQFaOPOM2FnqiFYxwdlN3Np1qmhHE2MgaZCK230u4c+WYck74VgNfBlubuzG+Tkg8JNfCVXnQq6PVEk1saP0OHG2CMsfWNc/NjOOqjAhFMa09gSa0X53uTsvGgtDSOeTR92zAVYhKFxPP/7+DeexoznHkpDIVA4GpjLnZcIcHef+QsA5kKuFTHtutPNtvArpowThUir6bCZEnowTfTPBnfPmTAsxAbgaW96mGvCeZ0X101MLgHe2I04t5CHkTeYzYaDKssZlaIATOtiC6jQu66x8NwowcY75peGqf+Qi4GCjzetLCysBdQjdrd9NQ4=;newiNqf/K4XS2PEiq3ytiw=="
+secured: "+dC9WfEsaa1PHV4UBJvpF/WVUczboU6hX4lGyhPj3k4EC3n2Oh7Z7MCltN4GpDCd2o9y9aVC6gar/s1ZvOA6g8wnWfagReDuI8qAa+exQ0zSzAdytaoc2xG1ha9ytWU6ZPXjn50m122XvdsMr9yQrzZ8CiQPgb24wkmMiqvb0QLJSWY5RIkc6K7GJjRGGoxR8nlrR5hm+oeJba3EFJD+VXuMXVQttUqhB7u4OneZaiwutHwpmRvXko6BPBVSHaJ6CUGdrlPEQ129NZGUy0BPkIU5g+f8vTDfe5VHzDDec8+YTKNKbRxoS3s/86rMOfOT92zPumpveS5qVSSxkL5z7QQXHNnkNB03X09kq5EePTs=;xt6siNqoaMupjFUYP4JDgQ=="
 ---
 

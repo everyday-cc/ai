@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla ‘Full Self Driving’ Is Delayed. Here’s When Musk Says It Will Be Ready."
-    excerpt: "Tesla owners aren't getting the newest version of the electric vehicle pioneer's autonomous driving software just yet."
-    publishedDateTime: 2021-10-11T00:33:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-elon-musk-fsd-update-delayed-51633793644"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://images.barrons.com/im-403553/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla pushes ‘Full Self-Driving Beta’ to investor with poor ‘safety score’ while requiring perfect score from others"
     excerpt: "Tesla has pushed its “Full Self-Driving Beta” to an investor who had a terrible “safety driving score” based on the automaker’s own scoring system. It comes as Tesla says that it is only pushing the software to owners who scored 100 out of 100."
     publishedDateTime: 2021-10-14T21:05:00Z
@@ -122,20 +106,6 @@ related:
       - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
         width: 550
         height: 372
-        isCached: true
-  - title: "Tesla Readies Monday Night Launch of Full Self Driving Tech"
-    excerpt: "Tesla is facing more competition of late with the likes of General Motors looking to take a bigger piece of the electric vehicle (EV) pie. Nonetheless, Tesla CEO Elon Musk is cool as a cucumber and is in no rush to release the latest technology update that customers are anxiously awaiting until it’s ready."
-    publishedDateTime: 2021-10-10T23:39:00Z
-    webUrl: "https://www.fxempire.com/forecasts/article/tesla-readies-monday-night-launch-of-full-self-driving-tech-785995"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 54
-    images:
-      - url: "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/10/Depositphotos_61615681_s-2019.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
     excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."

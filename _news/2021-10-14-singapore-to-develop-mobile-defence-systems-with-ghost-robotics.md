@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-to-develop-mobile
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/"
 type: article
 quality: 184
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://www.phnompenhpost.com/sites/default/files/field/image/equipped_with_seven_cameras_the_robots_on_wheels_detect_undesirable_social_behaviour_and_issue_warnings_to_the_public._afp.jpg"
         width: 990
         height: 660
-        isCached: true
-  - title: "Defence unveils funding for AI research"
-    excerpt: "The Department of Defence has launched a request for proposal to find technology and research partners to develop new artificial intelligence solutions."
-    publishedDateTime: 2021-10-10T23:09:00Z
-    webUrl: "https://www.arnnet.com.au/article/691956/defence-unveils-funding-for-ai-research/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ANU%20solar%20panel%20soldier.jpg"
-        width: 472
-        height: 315
         isCached: true
 
 secured: "vhgtLRyf+z9ftpMLeQtIy3Dj4eluCHWlNS2ZF7yUVUfqDnUSOFe6ooVziGmIuRIVAL4UG71YbWt0JOMzxbDJNHP7n/rTwMMOJBgjfJrCLEWVDB5gK/Yl0b5Od2Cv8VMp6Oa69HesqeiE/RBo/y7BVBdw3NYvWQrW/YxeKuIVaY1EikDcv0jUpT3ZdiymBzW1X7JimXurGm5ufHskIe62t5kvBvzE+KPT6cqIa29ypKyV8e1eXRWPZKi4KuXIceQtIKBeB16EJCfOctuloiBArW65KbCdJtSEAs/g8Suaqp5nfQOTgs80yOqMLILUq9gBnNIq+Zsn/w/t2bural92Ce49gOGkXyTdd++AyzY8VdgBkU33I8w5fLFz2THtXe4LBKB1yXkm7RZufV7xAVGlg0h5bwUUxU9CvlW92AqYK0UqYPWBOBI326VOsBBCZ6BZtcSCQEQRR6cX88u8TLZGTHPrc+v4keqUFPsEI1H/PoLlPwU0csUn18/Cgn6jbEXdqELr0qcaNh6XUifLxr2IHVtZZFP347ozWhPK/CIU3a4=;qKwfzWv+zhNIRcTwsCLSlw=="

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Waymo cars clog up dead-end San Francisco street"
-    excerpt: "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\","
-    publishedDateTime: 2021-10-15T13:18:00Z
-    webUrl: "https://www.bbc.com/news/technology-58928706"
-    ampWebUrl: "https://www.bbc.com/news/technology-58928706.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-58928706.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
     excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
     publishedDateTime: 2021-10-14T14:24:00Z
@@ -56,6 +40,38 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
+    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
+    publishedDateTime: 2021-10-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
+        width: 1200
+        height: 929
+        isCached: true
+  - title: "Self-driving Waymo cars clog up dead-end San Francisco street"
+    excerpt: "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\","
+    publishedDateTime: 2021-10-15T13:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58928706?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58928706.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58928706.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
     excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
@@ -103,22 +119,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
-    excerpt: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
-    publishedDateTime: 2021-10-12T18:50:00Z
-    webUrl: "https://www.wthitv.com/content/national/575511382.html"
-    ampWebUrl: "http://www.wthitv.com/templates/AMP?contentID=575511382"
-    cdnAmpWebUrl: "https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=575511382"
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 38
-    images:
-      - url: "http://media.heartlandtv.com/designimages/wthi-story-default-image-640x380.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
     excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
     publishedDateTime: 2021-10-15T01:28:00Z
@@ -164,6 +164,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BECYd/nJW153ApOwur4065ISCpiZ6WWDofnjJ5xdeHz6hQtNgpFzflXB0h1tk9fempfcCdTKISmNzMyA+eaGuSeVN2nAoibulC0JUDga9gwZ/SWEIsfhqGznRBqwPgeKdF3gBeBTOhTMsm4AAWWh1dqCPg0IQc3yIPveXwWQ1bJuuCmnugEFV46DBlxvjSSTgpT0wK3kNW+/0PtfrIuMrgOhMBFkQLL55R+LsdCmw2WqansuVuTIbnoXyrtQhMUo/ciEpn9gFtbY23YtPYWehU7iidcXV/yuKTzGpFA2miNFqb/2LQc/R9RAXSyRBCTfS+wmacmSl/e+6e4gb/M8rIefQSUKRDr+OfJ4g+3QKxI=;Qk37cWh/Yjmt+pSKUFoUxA=="
+secured: "jU7dqa/ogH4YfECbDfmYsJlLgM8eAThjqweJNudGD2A053hCiyLqOLuVwcRGwzsKLGMjNYnKKntBOfjLxZMp4/bsETzNwYrwxx1Q5AinEjuMSALc4Ez6YWocrIKJ+USNHeHmUUWlhYjpCz2fQTPACNrKqi1Cu7gotjzWvvzBBHbnZXKlAFvu8NdkGLYickG7OSzGmWVhavEVR4QTwff/FdiU3OQYfviBJ9K2QPSbAPJ42eZivT3xcNHVz6d1D5r8Edx+j7gud0wvGFJaC56QTaQUYrbw8xTFPiZWI9JhGd+AQ13lxEkuF+Agz3j0Ivrrb+2wYaep9Wwn1gnk/2q5KiNOxcuYXY3g08dbjpbSnQXs8DQ211qvykTmuar0USivvLV8aDEmM8hhMVUoTdjhuU5ASciZVxaV5YAzgoGxLWvaldja4DnGV05jvJJn7Pa6G8hYfW9WPLKYJIXJVveaiWEedaX5nouIbUkPfYsPB14CqQhGIvYQ12GSdxTl6wKBKw8vuNFaCBjqt65Lvw6oDg==;1RfYXksrshzK3xFi85s6ug=="
 ---
 
