@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 184
   - title: "Singapore patrol robots stoke fears of surveillance state"
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behaviour”, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
     publishedDateTime: 2021-10-15T05:04:00Z

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-    publishedDateTime: 2021-10-11T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+  - title: "Embrace The Era Of Change And Evolution With Self-Learning AI"
+    excerpt: "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI."
+    publishedDateTime: 2021-10-15T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-        width: 600
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Dynamics and importance of AI and Machine Learning"
     excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
@@ -56,57 +56,50 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "How AI is helping the natural sciences"
-    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
-    publishedDateTime: 2021-10-13T13:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
+  - title: "Self-Supervised Learning's Impact on AI and NLP"
+    excerpt: "Although humans can learn from observing a few examples of a given task, ML algorithms cannot. They can, however, learn through self-supervised learning. We explain how self-supervised learning works."
+    publishedDateTime: 2021-10-12T11:11:00Z
+    webUrl: "https://tdwi.org/articles/2021/10/12/adv-all-self-supervised-learning-ai-nlp.aspx"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
+      name: TDWI
+      domain: tdwi.org
+    quality: 58
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
-        width: 1024
-        height: 576
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI1.jpg"
+        width: 976
+        height: 400
         isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
+  - title: "Learning AI With Boys and Girls Club of Western PA"
+    excerpt: "Welcome to Stem Fest 2021! Amazon is working with the Boys and Girls Club of Western PA to give local students a fast start in understanding artificial intelligence."
+    publishedDateTime: 2021-10-11T13:43:00Z
+    webUrl: "https://pittsburgh.cbslocal.com/video/6086302-learning-ai-with-boys-and-girls-club-of-western-pa/"
+    ampWebUrl: "https://pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
     type: article
     provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 57
     images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
+      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/471/A3B/471A3B6F7E5E8E5DE461526B51E73EC4.jpg?Expires=1728604800&KeyName=mcpkey1&Signature=zlErye3XyFJwRY0DA9X6nqBnImI"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How the Agriculture Industry is Using AI"
-    excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"
-    publishedDateTime: 2021-10-11T05:00:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-agriculture/"
+  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
+    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
+    publishedDateTime: 2021-10-14T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 56
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
-    publishedDateTime: 2021-10-11T20:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "RHV347+8cB6UBOBZX5uU7V3wmBDerGPVEgtmiYr0x+zswq7KkNPgbaes4bPuc7KC91JTr5didKrQ0dKmhZjJxUt8t5NfnjifVMnAeW/yqp0DAbvIJVwNZtn3iionsf6yZoNPq9S9Gpp6cYZqKE2ffaTU6lhzCA0aK0nTxTUX2Njtk/Df301ecb7AxnpBnhg4FuG7CfikhsYWnBNxoIfaJo89gynSUUTohVWsYBUZR/HLIo3f9FiJ/Uyh5QwliG9OpUqJpCr4FUNZZTPIwyR4IyeI20JX9IixisTsL/HPRE0BIU32fq8eXBKHyyHevN1CWgqeH5c3qw0bOFziSgIGH90PUcdpcHDApwHBjE31WsI=;cjP/iXR1IsHFekoLoAKSgA=="
 ---

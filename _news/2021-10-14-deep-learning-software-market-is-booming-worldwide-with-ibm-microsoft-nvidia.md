@@ -255,6 +255,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
+    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
+    publishedDateTime: 2021-10-15T13:00:00Z
+    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
+    images:
+      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
+        width: 884
+        height: 637
+        isCached: true
   - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
     excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
     publishedDateTime: 2021-10-11T20:44:00Z

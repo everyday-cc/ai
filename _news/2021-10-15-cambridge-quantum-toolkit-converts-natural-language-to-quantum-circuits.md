@@ -51,15 +51,15 @@ related:
       domain: businessinsider.com
     quality: 36
   - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems scale Cambridge Quantum (\"CQ\") today announced the release"
+    excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
     publishedDateTime: 2021-10-15T01:00:00Z
-    webUrl: "https://www.ryt9.com/en/anpi/253189"
+    webUrl: "https://www.newswit.com/en/LLme"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: academy
+      domain: newswit.com
     quality: 6
 
-secured: "llAT2OGH+wBsGAQlY+sSEglkMXeV9imqRw8umVERwAkjJKivyX2hnHdtGGCWdT8kBZAlhWwCZBsZJrRmeETWslwjadMhQ4sw0BqHHwtVcerIo9N9Xl131RmcikkH30VWmCeFCfq6DArZsGIUGtDyHUUiaTJGEJRrFphfSSJGzAleh/kraR2F43qg+P9HGS32k04YFwMBNYdDkSc5QdAJRatpeG94JYNP30M+oTBthmDS4k3tagWXa2k1vWic1c0GuvO345lnIgKcVS0rI2dwQ8iYJov2BHHlcSXItKqLnJdpSE6qCvT9Qcibntn7fqFuiAr/kSCh+hG+9szTpmxA7QLKEhWXKOfg4xBr08qC/G8=;FguFvi2T57n/Tk72RhNxgg=="
+secured: "zGbDvtzewUqhA/lBGRlHqG4WYoxO0+dUt3o2KpSrD7M3pGAaymr6kbCrGMbAv9kYWQ0LPxPH0xfj0IdRan13PQyaiHLD+2lScdHY5kaFMLI9lzv46hK3t2sO5ms/xarCE5PwVFpqKI5rKW+Wxju9Cb/uAF2TjjWAPfcyNgupsoa0Ff/JY6U/7vwrx/cO88vq8K4wBGOD7w96jk441pDbiGTDqLS/flLdiuFBjK7CzryUfMAUkrnXmeKNI0MkD6UrADqG2+gEZhsEV7uLfCcBnSwZcykXKFQQzzYs/wPkptsr9k6cZaxbam4ljfrBFLaBuuLtS7kZaM9VFHrnkkZqZg04AdKXzW63rugvNk9AU5+kPqncCA+9XWEyue0uIX0L3DDJylBHvjoP0JcHqauSWboQaRLHROa1H7hg67iFj37/cf12ceJsQewpRozyS+SB5XEohB93TN5R3ZqIvZID1aDJncHTol0e8TlIjy38Qs3wsGMLtODou86iiVIlhDQ/8vEPqpSmolBfBF4KfOOYEA==;AG97uUwqrV3lXCmAqJZxdA=="
 ---
 

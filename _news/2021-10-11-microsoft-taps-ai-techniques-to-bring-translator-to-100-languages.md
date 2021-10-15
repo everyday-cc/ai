@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 376
+heat: 386
 published: true
 
 provider:
@@ -248,6 +248,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
+    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
+    publishedDateTime: 2021-10-15T13:00:00Z
+    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
+    images:
+      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
+        width: 884
+        height: 637
         isCached: true
   - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
     excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"

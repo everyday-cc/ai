@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 372
     isCached: true
 
-secured: "i3PopqTaZUO858Z9qTiyFc9ORj+l7IM3mz5FCPuJlZIYthFAtWJqmplBW86Ox6O8vVxREpmkzFctDv6t/ghHAP2osR2zjpOlDxom9szQHyrstItWa/oOOHC83zhOukDsWPb9EoqRriPonHMcVvunOh83U1AHXaX7zPxrkj2P2g8tylUuf7RVGz8hXJlxZtRc2ckxyaFmikMCcZzboDPEAMTGj85+wRX4+INwhiYU8i07yufK+GK5l3ciVR9NIWznkd83ww4egQA9zSCoSV79TgUwZ3pRlwsAMLmPTIa1IjUeevmrp436V7yhIF6QR2t2bqvAsN+GWJz0oli0jZb7pf97E1PtS1htLlRuvymp6ME=;lJJduZTL7ljCQQ4HEFEBHA=="
+related:
+  - title: "Moscow Metro and VTB launched fare payment using facial recognition in the subway"
+    excerpt: "VTB and the Moscow Metro have launched a joint project to pay for travel using biometric data at all stations. This is stated in the bank's message. Now residents of Moscow will be able to pay with a \"glance\" for metro travel without using a smartphone or a card."
+    publishedDateTime: 2021-10-15T13:14:00Z
+    webUrl: "https://www.akm.ru/eng/news/moscow-metro-and-vtb-launched-fare-payment-using-facial-recognition-in-the-subway/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 34
+    images:
+      - url: "https://www.akm.ru/upload/iblock/d2d/VTB_AKM.JPG"
+        width: 1920
+        height: 1281
+        isCached: true
+
+secured: "Vv5HWrNCsKRarnazhT96JonZg7Nzl4CynNmChg/c/UHwmNK9bCl/jS+GjvN3ek04uVtEPQevqu3/NSsomv9qrSl+ci1nneZ99UjTOkUH8iVXg41b7R9+IrnKxxXn3A4aX9pF+PJnvqxT6AzAz/FtIY0dojOfPIyhN2MxnfeVxpzrxJQV2PfRn0gguGktuCITsslLYw0dbLWir5Vuu0nOes/4KuaJrfhDCb892nFucsrka26D+nNnJ6vgs/1ZxYItq8pAjnw0mA8lpgnTigdt6ceBI5+JnBChT08z0AOC3NQyC6or8uj2wY+PlSbOzucIw8m5aEgOfhYOYGgdcFDW+fxrRIQrGwfULww+oMLtrVdtLDQEZjuxIEO/Q3lQ3Mz9AlMQHlgvEtFj/XhZdFgmkuRMVTUFXtPtNVtsu/ay62eX5wevG7w2rIFdNT2l4Tutr8F178R4Shyfq8XRdRLRnRnebAtCj2v8IXIylj9VGR27JKNZDLvhSSuB/EyARkxopuI1kcitLnWq1hm9N13zVw==;+1871hcrmmtWX6p642Sd8w=="
 ---
 

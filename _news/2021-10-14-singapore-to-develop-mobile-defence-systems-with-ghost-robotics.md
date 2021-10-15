@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/singapore-to-develop-mobile-defence-syste
 ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/"
 type: article
-quality: 84
-heat: 114
+quality: 184
+heat: 214
 published: true
 
 provider:
@@ -65,6 +65,6 @@ related:
         height: 315
         isCached: true
 
-secured: "BddJikI6LM3OXZvrwGFJNUy8mV5TA+pGr1oEhydcmDV0NEZDjzRNDpzK3zNXJKy/EBekkoinN5qzQCQtTYS6ZUjiIOynfvMBz7cjKCfeCbok8pNCkr9IcSlOYfC4PytHQ+n2G1T88tEoIkaeJ94Es54WRNBVvZZxPOlR4g+o8+lW8qj+4oSqcxuJgcZrAIGcHUqwT1QdEZ2Fn52NblT9wmpnB6kV+vx5UCDOFQ2G1RwnMFfgOpOtnEx/qXlxlvQDFF0TuaK/vwNfZ8VjugCD67V6Q7Toq21X3QXN5XEZ8LW5HgaEk7HEpe0RqWR962rWAS07N5hIH+PPbj5AnpCGO5eT1KcDSEVJFm1geq39400=;smygJFPsGaJznJmjGPIKPg=="
+secured: "vhgtLRyf+z9ftpMLeQtIy3Dj4eluCHWlNS2ZF7yUVUfqDnUSOFe6ooVziGmIuRIVAL4UG71YbWt0JOMzxbDJNHP7n/rTwMMOJBgjfJrCLEWVDB5gK/Yl0b5Od2Cv8VMp6Oa69HesqeiE/RBo/y7BVBdw3NYvWQrW/YxeKuIVaY1EikDcv0jUpT3ZdiymBzW1X7JimXurGm5ufHskIe62t5kvBvzE+KPT6cqIa29ypKyV8e1eXRWPZKi4KuXIceQtIKBeB16EJCfOctuloiBArW65KbCdJtSEAs/g8Suaqp5nfQOTgs80yOqMLILUq9gBnNIq+Zsn/w/t2bural92Ce49gOGkXyTdd++AyzY8VdgBkU33I8w5fLFz2THtXe4LBKB1yXkm7RZufV7xAVGlg0h5bwUUxU9CvlW92AqYK0UqYPWBOBI326VOsBBCZ6BZtcSCQEQRR6cX88u8TLZGTHPrc+v4keqUFPsEI1H/PoLlPwU0csUn18/Cgn6jbEXdqELr0qcaNh6XUifLxr2IHVtZZFP347ozWhPK/CIU3a4=;qKwfzWv+zhNIRcTwsCLSlw=="
 ---
 

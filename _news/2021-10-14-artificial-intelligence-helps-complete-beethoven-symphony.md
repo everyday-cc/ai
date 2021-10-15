@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/303/17303/beethoven-gea7b820e9_1920.jpg"
         width: 752
         height: 501
-        isCached: true
-  - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
-    excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."
-    publishedDateTime: 2021-10-10T19:51:00Z
-    webUrl: "https://www.3aw.com.au/how-artificial-intelligence-completed-beethovens-unfinished-tenth-symphony/"
-    type: article
-    provider:
-      name: 3AW
-      domain: 3aw.com.au
-    quality: 35
-    images:
-      - url: "https://www.3aw.com.au/wp-content/uploads/sites/12/2021/10/3aw-image-istock-beethoven.jpg"
-        width: 1195
-        height: 800
         isCached: true
 
 secured: "EF93ddRXoU4vJyd8KyjAm4OhKHR0Jj1CPufIlt4RXwmOVghymH8fFyS5jWERLWomEStAulf4KE9fWJNJW5gu2PySaySBF3+DkXjzQOcubWd05riP/mh/vPX4kn222hVp+ZRBm8P84IgzPAxX+kFjRFY4KP+irNHFwtdp/8fOEzxGWEhWMI4p+gB8OQf6GXCjvw35rHeMCx8W7RKIXT74RHKvdJLcayAVRcoyWOVWL4KH0yqGcpbq7j7iBe8ERRw+88G1ZcKNoU8GT/7iOsTc6QZ6WzWnHK489OchR2fFQHTQ/BshC2k+caGZ/eyCaoWrOfXeKfyzHZi7Qdv56dBzOHuO9nV0Q5iy7tOV9psqSos=;FLQtYaxYj3I39FDLrSst3A=="

@@ -1,26 +1,34 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-publishedDateTime: 2021-10-11T13:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+excerpt: "Register now! DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence, has finally become profitable, according to the company’s latest financial report."
+publishedDateTime: 2021-10-10T22:16:00Z
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 103
+heat: 153
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "DeepMind is developing one algorithm to rule them all"
@@ -38,38 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind proposes new benchmark to improve robots’ object-stacking abilities"
-    excerpt: "Researchers at DeepMind have proposed a new benchmark to improve the capabilities of robotic stacking systems."
-    publishedDateTime: 2021-10-11T18:25:00Z
-    webUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/"
-    ampWebUrl: "https://venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/deepmind-proposes-new-benchmark-to-improve-robots-object-stacking-abilities/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/Screenshot-27-e1633976468876.png?w=1200&strip=all"
-        width: 1198
-        height: 670
-        isCached: true
-  - title: "Google’s DeepMind Facing Suit Over UK Health Data"
-    excerpt: "A Google-owned artificial intelligence (AI) research firm is facing a class-action lawsuit over its use of the health records of 1.6 million patients in the U.K."
-    publishedDateTime: 2021-10-14T20:39:00Z
-    webUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/"
-    ampWebUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Does DeepMind AI future proof Alphabet’s share price?"
     excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
@@ -128,6 +104,6 @@ related:
         height: 300
         isCached: true
 
-secured: "KeUsEILPGkZYKU7p7cMWzMsfvZNwsLml8rsG3Q90huowu5OEs+GMZ4PJO7vY/+iV03YSGfcD/RJ9sroBBzYP1fzPHN4GNPIUD/P/l5w96GgU84+7HrJZ4d+F1REAuhigWyc/Y1cgGOPs773fb58nf+Ckz2+5mIukp0N74jbn3mNVfjr5Waz1gGpgUEMilKiAFIZlRAmWWdj/XldfUmRR8R5ko9VWWpG34X2ZwRorpEqJLdvyMNgzP2jdhckL9O1mGx0b69SbZFmqQpga2WV5QfyZXCSsTHBX6hbvf0zZ+G2D67ycB6Y+9TNJK84E3UX8NOIxzSt1/3aX0pZ49g6Q++/uJaa1AAumwGdYXaLg6RE=;lyw91zpgOHn8tFzhnpzV+A=="
+secured: "PeCyeps2gPculXrBg8CNZ61yV7Zjo9Py2GQFPykuHOPujUmwE5B35uk5rFtsa3VcZdHF/EwWPC77A45uHRLyCezGG2mr6Ic/82UfBDumyubi7TJb39p09Vm+Z/XDNsMIsgQHO+ufa/d8VYZ3Itxl5gbCN4Fjcm8FBtD5JmAtLxiMBCWz7LGczvgVs18yijSkZoIDzEXFWSN4DQUXKHYI2UVzcXItakrrpb4wlAjOjgc2XoZ9Ynwxr9oBJc5Ss9vp0L77jWB6vZjdUX4JfMZ9u//OnlKRp1dZ0OZrb706IQyRkZouPKnct5C1pnpCHHeOFdkkyLxw/qqJ/hOwnCkfbpjPMjshzeRcWRsK001vAv4=;6FnnRqVBTeXgeBY+KukcuA=="
 ---
 

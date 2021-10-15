@@ -35,22 +35,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Dynamics and importance of AI and Machine Learning"
-    excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
-    publishedDateTime: 2021-10-12T11:56:00Z
-    webUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "How AI is helping the natural sciences"
     excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
     publishedDateTime: 2021-10-13T13:40:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
         width: 1024
         height: 389
-        isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "tCmn5lBs7jCd7kd1Ej4hW1kL1Aew/TYjzE1w8fATGXX7cqwR2d3MUIfNmWHjXMMs/XxQQL36HSKsVH5Q24EcAjmmRsZ0FvTaBojFqcZM+p5B5Rx5Swscv8pN/ms1pQqF/bkHXgz8LZ5kzd9XCPIvgTIB5Odxlzr9Wu8vCNloQVfiEYkqSkb5niHbC2wfBw2rS1AcuF4JnLt1WB2IDYRBcT2GwOZGfBrQ8dcJZl4qOBL/qhicm65LrxDuuE4dsgxRn9617GjUJOqpYXH926wVwZ/JwMzfisMIsuCGuC3cUef9NM6qpMRPeU3TxBXcZWln/yKoixk+UXtCDZBWRHu5fULfQpwVl8LtMx2azqjWm18=;2QQijUF+mQQ8tf+cLWVBIg=="

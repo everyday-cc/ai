@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-
 webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Mount Sinai launches department of artificial intelligence and human health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
-    publishedDateTime: 2021-10-11T19:44:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/mount-sinai-launches-department-artificial-intelligence-and-human-health"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 52
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
         isCached: true
   - title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
     excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"

@@ -25,45 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
-    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,"
-    publishedDateTime: 2021-10-12T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
+  - title: "Google AI department sued for using the health data of 1.6 million NHS patients"
+    excerpt: "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,"
+    publishedDateTime: 2021-10-14T11:45:00Z
+    webUrl: "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 155
     images:
-      - url: "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg "
-        width: 823
-        height: 400
+      - url: "https://cdn.mos.cms.futurecdn.net/NXU3c8zfKAfbFuEGzPnBeE-1200-80.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation"
-    excerpt: "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments."
-    publishedDateTime: 2021-10-12T17:35:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
+  - title: "Google’s DeepMind Facing Suit Over UK Health Data"
+    excerpt: "A Google-owned artificial intelligence (AI) research firm is facing a class-action lawsuit over its use of the health records of 1.6 million patients in the U.K."
+    publishedDateTime: 2021-10-14T20:39:00Z
+    webUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/"
+    ampWebUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 63
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
         width: 457
         height: 274
         isCached: true
-  - title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
-    publishedDateTime: 2021-10-14T16:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
+  - title: "Mount Sinai unveils first-of-its-kind department to develop AI tools for healthcare"
+    excerpt: "Many hospitals and health systems talk a big game about integrating artificial intelligence into nearly every aspect of clinical care, but Mount Sinai, for one, is actually putting its money where its mouth is."
+    publishedDateTime: 2021-10-11T14:09:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/mount-sinai-unveils-first-its-kind-department-to-develop-ai-tools-for-healthcare"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 48
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1633960225/aerial.jpg/aerial.jpg?VersionId=lAdwLN7U6o6ptOSscwVUmJ_ZiRQ_wA_y"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "YData secures €2.3 million to join the data preparation for AI race"
+    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
+    publishedDateTime: 2021-10-11T11:03:00Z
+    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
+        width: 960
+        height: 545
+        isCached: true
 
 secured: "qU4rT7kBg43zZTvOdaCuuNV87+izMioIrjNtAnqEBQcJzQ5peIIBSKLQs5X6ZRyBqTlVmT3QQJIGlKEdBM4IS9MJuHfuznC8yF4go5TtgWQgXqhDQHmzHy/6LaKvr0sSmZ0k6gSOSavOtzOfFDrvpTCtgr3tizoM4Yc8BiEwPHIzNQ8QagrIpXyW80IHcsR6j6Ij6xBpkjNXSxTab2OTUZ7XHN+BV7GHifQtbqBVXKJGRhtUhWUGyvHebuzGZrF0yvYt120KroEduZb/5BaNXIughbKcBo/G2IYpPqk9CSw9UDo5glTSkAuRtos3CphDhmqfu97/c6vTJdmb45aI14qBDdMNRhXVrFgqpnqWh1M=;SRW92SuKNe92/uEeX/jFJA=="
 ---

@@ -34,11 +34,41 @@ related:
     provider:
       name: PC Gamer
       domain: pcgamer.com
-    quality: 55
+    quality: 155
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/NXU3c8zfKAfbFuEGzPnBeE-1200-80.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Google’s DeepMind Facing Suit Over UK Health Data"
+    excerpt: "A Google-owned artificial intelligence (AI) research firm is facing a class-action lawsuit over its use of the health records of 1.6 million patients in the U.K."
+    publishedDateTime: 2021-10-14T20:39:00Z
+    webUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/"
+    ampWebUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Mount Sinai launches department of artificial intelligence and human health"
+    excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
+    publishedDateTime: 2021-10-11T19:44:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/mount-sinai-launches-department-artificial-intelligence-and-human-health"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 52
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
         isCached: true
   - title: "Mount Sinai unveils first-of-its-kind department to develop AI tools for healthcare"
     excerpt: "Many hospitals and health systems talk a big game about integrating artificial intelligence into nearly every aspect of clinical care, but Mount Sinai, for one, is actually putting its money where its mouth is."

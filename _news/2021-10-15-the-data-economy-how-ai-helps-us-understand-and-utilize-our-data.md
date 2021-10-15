@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 612
     isCached: true
 
-secured: "EB+e7/k+UGojbJyJc8fmoRAh5d4TTgy7kgbQNjkHiLaXp72ilvKNx5bByOxpXe7sLRFv3kLCArE39poJvf+D4fdYEJcRVWjH3pkmpMnVbzDWvr7qEE0nmhecezhdJXgi+hnmtsWc03cNXk5kXhHm1fhHa15cAGOAcUQfx9r7KzqebQGLfj+/fYTRoCZMpjXcv/prUJtkFOLweAuaL8T0XRtC48NGymkLVi6N0J6ZEnLFXvRZssteajDFetYDLaa+N3S30+w0SlorZ3nOKe7GUCy9AI3kLfEzp37Nyx0I7Zwt0QVmYnZxl5t/WiU35DeFL3++D6EJLDFom+YQHctFMF6ZQbB8Eh+cmCSBDQy4oF4=;KfrH5sqW801dFQl4QpR/Vw=="
+secured: "T2bEEay+ZnEs7Z1IStYG5msHni7l8nO3C3mgnPy1d7/dakR5R0gbGA8icZoALsYojb1crIXGJJL96tRtV1aLILn5AblGpOMrSFHYmceewgJRP4OfVSu9sIlSLjHjSMkm5O4O65b+y+8spRKnFXxn+BbBw5DEIPNrXtJKuw5Deg3o6r+QimL5o9UWTFiw2g2DcKxo5f1qHL7l7mbWyWB2Evp1wNa7SnHfAdy0T2xSiXyI4okSgBj+yj6Pjx+I1yakAKIiOPntG+Ix6epLtBRkCRhTv2NbLu3HmleC0v3g7cJidXqzO0vgCItvRfRlNAQ2OFOcSv2guNbR3teDEhL96WUdBk09DKtJbAZwFoTqC/zNtOhvTe8TtrS5Crwd9G/HuXIEAVzf4/2F0D01hiXdVH97dbxrsOQBNGiv2hllUhX8uVFVaOAidQ6NRr7eCG6ysu5T3TjNTI6c4o0KDTJDWWVIN97pCn765oegJeWJNlKYCfScvpN9nGr1SZVtIjKGwHVgflvK8+8Vo7R/s68Wxw==;xFBV7+FT0q4UZejqHlrelg=="
 ---
 

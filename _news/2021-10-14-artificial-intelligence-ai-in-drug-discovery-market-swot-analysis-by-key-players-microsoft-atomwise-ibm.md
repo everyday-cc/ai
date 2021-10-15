@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
 type: article
 quality: 71
-heat: 103
+heat: 101
 published: true
 
 provider:

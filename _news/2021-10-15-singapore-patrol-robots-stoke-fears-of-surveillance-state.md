@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 184
   - title: "Singapore must take caution with AI use, review approach to public trust"
     excerpt: "Multi-ethnic Asian country needs to take special care navigating its use of artificial intelligence in some areas, specifically, law enforcement, as well as recognise that fostering confidence in AI requires establishing public trust in different aspects of its society."
     publishedDateTime: 2021-10-14T01:18:00Z

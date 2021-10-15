@@ -2,28 +2,22 @@
 category: news
 title: "Ganymed Robotics awarded a €2.5M grant from the European Commission through the EIC Accelerator Program"
 excerpt: "Ganymed Robotics, a developer of advanced software and robotics technologies for orthopedic surgeons, today announces it has secured a €2,5 M grant through the European Innovation Council (EIC) Accelerator program."
-publishedDateTime: 2021-10-15T04:02:00Z
-originalUrl: "https://www.heraldstandard.com/business_ap/ganymed-robotics-awarded-a-2-5m-grant-from-the-european-commission-through-the-eic-accelerator/article_2f4982d1-e1e1-5edf-86e4-d7a0527c268c.html"
-webUrl: "https://www.heraldstandard.com/business_ap/ganymed-robotics-awarded-a-2-5m-grant-from-the-european-commission-through-the-eic-accelerator/article_2f4982d1-e1e1-5edf-86e4-d7a0527c268c.html"
+publishedDateTime: 2021-10-15T05:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ganymed-robotics-awarded-25m-grant-from-european-commission-/2021/10/15/9470512.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ganymed-robotics-awarded-25m-grant-from-european-commission-/2021/10/15/9470512.htm"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: The Herald-Standard
-  domain: heraldstandard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "nRtAXC9bUQj8Uz2Epgj7VIFZ7u/RQr55pTgPOn1FVNK5s3FEx02DZE1SEk3XDpvopCFzbYJABy1U21vApoGX0LPT964RNdvpCwJOyL6buDc6D7J2lfzVtA9oU0C/pXdJ8blbcy1Xmdk0iqEAc6elcn/aqUe4WaLTMRcNsPzp0DkrXI7U68krPjS7KD8tD87/VLub90+uBzjEUJ4bb0k7CqIvvKaulf7Y35K/GAMbmfc6i1+vdCwRM2uYGOBo8OCwzF1XAhEZ6wuudBK1AzikZNwNeZg/Cov25JFf1PQ/TX+Ia3l36UXXwzBs35Ak3uAt53/P58U+Y9NUQ3RlqT/niKH6jbquF5jQdgRu/buYOd4=;AVr3HlUO3TagiiE69psFig=="
+secured: "abTwHJylyCTC48hXV92kWzBCkYjZPdS8SuwvUiar2ETRQMZBIOIrEIItfN5lziPlejhuVTw/vw7NrGQjQvnyuu9J0Usv8c+rP//IAXEeHgAvzQrYAbF0dxtlFJbpSio0hGggFR8RLp+Qg34bJZXMj0k8C5b/RbeCB7/PQ/TJfemjFgc2rxVinMtZqRUujcuBWHgdqoSQQ1g7BX0efKkez3+I0kZ3T8V3sQB6X7o93Vk7Y1+q90gyVZ/+wYy0U+lGmLtYVn5RKN33mpMLFtzcPgI8QZUjbUMLKTvezRzxdtRL9gcsDJ8mtEObvVZbNiMzMOZj0mQSfRREaTM6fVEi9OZ6Cr46ptdZdKGNKhE0eYw=;gTbgp8G72YQKLem2HP7NSA=="
 ---
 

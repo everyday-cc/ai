@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-ha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

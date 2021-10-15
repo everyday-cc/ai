@@ -34,36 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "After Air India privatisation, work to monetise Alliance Air, 3 other AI subsidiaries to start now: DIPAM Secy"
-    excerpt: "Air India Air Transport Services Ltd, Airline Allied Services Ltd, Air India Engineering Services Ltd and Hotel Corporation of India Ltd -- along with non-core assets, painting and artefacts, and other non-operational assets,"
-    publishedDateTime: 2021-10-10T20:25:00Z
-    webUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy-11633855896028.html"
-    ampWebUrl: "https://www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/after-air-india-privatisation-work-to-monetise-alliance-air-3-other-ai-subsidiaries-to-start-now-dipam-secy/amp-11633855896028.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 37
-    images:
-      - url: "https://images.livemint.com/img/2021/10/10/600x338/INDIA-AVIATION-PRIVATISATION-1_1633856112889_1633856123518.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Dozen PSUs on the block after AI privatisation"
-    excerpt: "The Department of Investment and Public Asset Management (DIPAM), which oversees the disinvestment policy, is now planning to cede management control over a dozen public sector enterprises in the next six months."
-    publishedDateTime: 2021-10-10T19:44:00Z
-    webUrl: "https://www.nagalandpost.com/dozen-psus-on-the-block-after-ai-privatisation/242070.html"
-    type: article
-    provider:
-      name: Nagaland Post
-      domain: nagalandpost.com
-    quality: 37
-    images:
-      - url: "http://www.nagalandpost.com/cms/gall_content/2021/10/2021_10$large_air_india_disinvestment_bid_2020.jpg"
-        width: 600
-        height: 350
-        isCached: true
 
 secured: "pbuzZ5B6AsGocNwX9DHINpbBoYuKTWELXQjr34gMJn+gDtikCJvKp9Z7OEXlc/s5IYKor7nSCXldMVL5pWyBMmqThKJ8FbY0NOx+D3Y4XRG+s0FzBKJFAXWxuImDtbuOc802lmS9oZOSQh0mXoa4TU6uDsEFQmx8q4D0wtBvVTx8GfcCTMIBIG+a43vnR4oHsiB/dFSHzKbpEU3XuQI5feyB0JVJUnmRJebs9HUpfiVzU9T+hht/ouvbQK6g7J6kSwO8So22aTZH0MSw0L856JEqo5KjltDuzFhR7JQauR6+p2Vobmwn+Ses6aqKXjHi7pdXBVtfuEBmrVji80ZbDbYKdQ1ZHkw9pSKTAJ5NrB4=;RzK0fFW6cOdhVFgebOgFbA=="
 ---

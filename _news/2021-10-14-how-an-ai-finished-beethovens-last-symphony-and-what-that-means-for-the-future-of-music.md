@@ -87,20 +87,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "How artificial intelligence completed Beethoven’s unfinished tenth symphony"
-    excerpt: "Artificial Intelligence has been used to finish Beethoven’s tenth symphony more than 200 years after is death. Music and technology strategist and CEO of the Karajan Institute, Dr Matthias Röder, came up with the idea."
-    publishedDateTime: 2021-10-10T19:51:00Z
-    webUrl: "https://www.3aw.com.au/how-artificial-intelligence-completed-beethovens-unfinished-tenth-symphony/"
-    type: article
-    provider:
-      name: 3AW
-      domain: 3aw.com.au
-    quality: 35
-    images:
-      - url: "https://www.3aw.com.au/wp-content/uploads/sites/12/2021/10/3aw-image-istock-beethoven.jpg"
-        width: 1195
-        height: 800
-        isCached: true
 
 secured: "+gUVjFAzl8w/lC7mhHEhfrTsGjbovirXXpT02YdTCB1RMuvuSM6HZRFa71b97jpMemwK0zMNSNCeLOWWKJWJih/ogAa+WhCx/nmbDznOlyxWNMemrTD+oXCfsvBO4XncTb77VcEjjP+QO5YoYyY6FdTYb6tBHfl7oQcxHpFv1eTTadq+974eGNwfagktUTQ1jVahA/OufoG3+n/l7nQ4caOWt8Np1KSE1Ts37wBUohH9NlgiF+Fvu8XHjFJFgd0IS8hu5FIkVyZFPt10r1ldP4O5fVHDvOi1h+RDX90x1wjNEb3xEiz8bFmwlILbB47KPNyW6dWncf0f1VqFb4Ox4o4tO4intCVL4X1EjQjyS3vxBnFdFklLjzixvEUZ1IqRlOgTMZx0RB7MMtpiU8rkdFcQffnNL3jTX6g8NtJHX9UCKSzZoEVGX+1zeWbjyZTtwehukThrWcwkqbwaOM/7ZGwxW5mNqrc8B9GVixYYLMmdrfU2aPumiIGZ6EJktT0m2ovgPfgG//xIlddquPKMkw==;SeZ2yUsFb5DqEUbh2EH3UQ=="
 ---
