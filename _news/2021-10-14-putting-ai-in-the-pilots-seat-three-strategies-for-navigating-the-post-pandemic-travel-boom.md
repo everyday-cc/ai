@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "These strategies can help in driving innovation at the AI start-ups"
-    excerpt: "We all have heard about many big tech companies of AI and also take inspiration from them many times, right? For all the AI start-up’s looking for strategies to improve your business, here you go!"
-    publishedDateTime: 2021-10-10T11:30:00Z
-    webUrl: "https://www.analyticsinsight.net/10-strategies-ai-start-ups-should-follow-to-become-big-tech-companies/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-Strategies-AI-Startups-Should-Follow-to-Become-Big-Tech-Companies.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "ZN6RbbF1W1wmHKd2cX1tkPq59TcNLGsfKW7CJ7OdF6O7tS/gxAhnPiX61HQz+bJHDaph4uOOcJFbrwAbQ/LlGDTyx3shtFT5w50W+Rtw4XGHOiGdzzBL9xWc22HSqpV9s/FXnNDaznRnS5l8gMphpv4pkaq5K5l6ym1G100ZKwQ9nxBEYU7Z0pqw3gXT2+5ugE02K9/Wuvka0a3okBcPgB3OULRp6eK0jSqcjOU6U1U4YV9xQTmaaehUL7cSgaT3XHSR++QtOD4lCXApRmKukeEmDEK9gl/FxeV9h7FtsOcdozxf5qUwVgUcyXWpoB+ncu5uiPS2j8t8XkEeUICfeo1AY8RUxw3o43C+GCTuXDoqlJPVAQ2zIdiTE9jF4ZG0UIxpuRSdEHIsIMmBXEsuAzxk0yrIatZ2BCBSYiFEsRESkKiYwlWC0gGjN/zFgvPzSbEaMRobU/zOXI0WVH39eZL0qFcYO6HJYidjmJQerlob1jnbtTH54Uiv0R2Ce04+WPBsnyuwEaz4rvzBytbp+w==;1Ht34yJrGjsdq8BYNxBUtA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-resp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

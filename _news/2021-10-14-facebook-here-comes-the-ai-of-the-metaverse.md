@@ -201,20 +201,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "6 Models of Artificial Intelligence that Facebook use"
-    excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
-    publishedDateTime: 2021-10-10T12:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/6-models-artificial-intelligence-facebook-use-rejwan-bin-sulaiman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
     excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
     publishedDateTime: 2021-10-15T01:36:00Z

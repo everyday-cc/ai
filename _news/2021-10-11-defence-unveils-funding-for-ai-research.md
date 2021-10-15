@@ -46,6 +46,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 70
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behaviour”, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+    publishedDateTime: 2021-10-15T05:04:00Z
+    webUrl: "https://www.phnompenhpost.com/lifestyle-creativity-innovation/singapore-patrol-robots-stoke-fears-surveillance-state"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/equipped_with_seven_cameras_the_robots_on_wheels_detect_undesirable_social_behaviour_and_issue_warnings_to_the_public._afp.jpg"
+        width: 990
+        height: 660
+        isCached: true
 
 secured: "BbJZj53mmWJEr/mC69ms8bO75RJxdDxqJlsnx9NcARrIv1B4SO44yIPOFutoWlC3qm4+n0OMiM9jMqNRT5VMyu8IhIkx9YtGOCG5iqxRzF4d26XS/H1xOTWz3WvOBlitcI++Z/AivEmanBsqJo16QCuYk9bcofG9D16xOHUd2cQq89I8Q2ihpa2UYWr+zcQ2A9EgenlivOvz6X8kNVekxV/1HG0iD7JcoOoY2HWFN96h/DgOJIp1AaF4tYGijN/zmWl6Fl7t2XyCsxTugCXQVYJxBoZOQwhpuLFdY7sBStw2/FrJhBE8qECOETVdzrwPQzHePcppn5XY1Oo/23hdo3YSLJaXJ09EMfr16WnPqeA=;G1OmfRGkXnH/j/38q5P+nQ=="
 ---

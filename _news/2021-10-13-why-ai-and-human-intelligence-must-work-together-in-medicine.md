@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 550
         height: 366
         isCached: true
-  - title: "Embracing AI in the World of Auto Insurance"
-    excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
-    publishedDateTime: 2021-10-10T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/10/10/embracing-ai-in-the-world-of-auto-insurance/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "BWXJ7GwmJVYblvxbmT9GGGtlqsnpuMXNuDuJWW9z/5KOZ5ln/nClhOcIA2QwnkskRgghJycJVQE88TOIAhedf68UVjCIOu48EFGGlFlkZ2XzmkO8LCaKzQ03KcgfFJJbP3p5G7tUzw1sfHxEy4/NWkjQdPEcuCnxlAYec0OtE8Ff4lfztl/CwidBOzEhpIgD5BpSRRRf7tkMlfJRQpX6ILmzd0xKy9oHKcAaVPuL7lYn/gIeGvbX3Ka3afrNq4nBmFKpXBrN9qX1BpDvD0n+mm+yBa7a+XTJy35bWjLCDls8jbV84dljGfq/hL9EvsVJwD1we2zbCjx5ONizwwO+RB/cGSpSI/5M1cH1hp+a4gLmIkNmnuIfBfiR3FyFThzC6MIexwM2nOm9ScjUjzf5kvzyLNJ9lR0ITYZhwA2usk2Cw0HTemRQTSO86RK0Fq9gDecpsh3F2sLZKN7mQpPuMMQg4Ugt5mFaNIe0zawBcayo2lq7lwGqOTM2JRVNlg/ELY7+/VcorZoXjNjhGQVFKg==;OhuKYs1kuZQcsoSwsq0uvw=="
 ---

@@ -211,20 +211,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "6 Models of Artificial Intelligence that Facebook use"
-    excerpt: "Mark Zuckerberg, who created great innovations by which the people of this whole world is connected to each other digitally. In a month, about millions of users are active nowadays."
-    publishedDateTime: 2021-10-10T12:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/6-models-artificial-intelligence-facebook-use-rejwan-bin-sulaiman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
     excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"
     publishedDateTime: 2021-10-14T14:15:00Z
@@ -254,6 +240,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "U8S5RQGaCYyWVyJpQHVlLlAThoG7U+9/54HjAOv0jxHUsNr6/8UheAkTWf72iTtFl3QQX0M5SZ1XWxwM1eBiIrip5c3JbB4wTOrJWsVcptci2uvWkNNmLc0OtdE6/56nr4Bu2lpgRaZDLXJ4oq/ZABxI8i4il04j4frKc0csxBIg5FYoQcTE1tQqGvMhZK7lJtodplLd3+Qb9rjkX5qJ1mZIa3Y8D68RqqX1pO4SIVfh4vC2D2ZkKxY0sJHpytfqED8/wzdWmYzy8HOTqsq3hwBWF+CKIXsrSeacwLTCc4N6HwMys/rbrFNOXJGdkyPkd6cCp2skFdm49LRJ5Q56NbUfLiLK5r+OLdcf9s8DLAQ=;YTQuGfZatsQqg96FzH99wQ=="
+secured: "LIJq0cPszc0lZWxDVMMuq+KuIiJ+x4vG4iRtyAmDuv6s37eB6DfOiA/8jV0lbjF6Rjkn+SEDB3F1bbK0TTiqg+/H7/fV0C1rfNb39CtjNYr+FKzsHAhAS/Q643isPPCdpBxFLpG1SlVchllE7WpafUHIy2FtcFWObckOXKMJMsbXNWnwXCu84lAJq7gawIYiX050PUpJCxVWQqFJrpwZuxbA50LLtGc/P5FPD0ZsNSgrID+mmb5hwJm/HahonJ5hRaGURSOpFID5aJJMQP5cTqy/kh62JQgXF3OJGJOe5b3bUy/dX30CO9ALDd/OIU4V4aSVB0tgcTAB9Sf1EgmWOna0JfPbT7WnkRS4sCEa7YcTxtyOugRqlHMFgdLo0G/bBE9AiClUcFrPBC5TY93YIdb8hXU4uy8uaNMI0Ze4QeYSDZFLTk8ri99toRXVxds/YFXqslAV5WfZbWcz2sqb5Sh+uYhsJ/EVlUkTewOUclGFqtPULH20mykm7ONOUUL7fCboiugAJ91sJYk7gX86hA==;Nc18g5uE79P2giDDdf5hJg=="
 ---
 

@@ -128,6 +128,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
+    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
+    publishedDateTime: 2021-10-14T05:22:00Z
+    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 22
+    images:
+      - url: "https://www.reportsgo.com/img/img-4.png"
+        width: 502
+        height: 300
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
     excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-10-14T15:54:00Z

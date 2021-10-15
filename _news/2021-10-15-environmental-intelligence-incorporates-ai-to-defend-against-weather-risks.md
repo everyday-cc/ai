@@ -70,15 +70,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Embracing AI in the World of Auto Insurance"
-    excerpt: "In this special guest feature, John Goodson, Senior Vice President Product Development and Technology for CCC Intelligent Solutions, discusses how in the world of auto insurance, AI provides unprecedented clarity to reduce risk and elevate the customer experience by enabling faster decision-making than ever before – helping to keep people’s lives moving forward when it matters most."
-    publishedDateTime: 2021-10-10T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/10/10/embracing-ai-in-the-world-of-auto-insurance/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "2vFBCJXmnjkAdnVuuRioGNo4IoA9/54dqSBS7jlPPAP3BKs9uH3laB2ZkjBxL0riPAEkkR4BD0O2CMPzI6fbYJaoup3vxXfIZqeUyojCcFc64mfSOY0yD+n6BY51OuXyHhkcn6HTF4Odtxch+CWpzJm3cyA6sbPwuDkM4KPJSzDFgg4CNMTNYATpG7PipHREYfU5gmqBk4/+Ivc8Ej7jWJdAYMOqe8Tn99lB3aqfX4YjtHz7eJKaOW/vqMH7DBFEHMRHj+tN2wikaNikpZTDkdo0ALWi39+qGwdtENFfspR95e85vlyVDJxjML68Yzj8oUj3EA1vMVG22a/BoZMQi1753YiGXoeqMUanZ0Xf8TjtgeTlz5KoW4E3r9L+wqeVuAIqhkcpyKjb2GWdfiIrk4NVMiEJ8c/onJCbi2wI/MdySiTCtKEZ2GQ2zWSm1vF7j6L2z1IqGexXWO/gqX8viTLHp9Yt8QTn151ApmIvv67v6Bzd0nHJ7IOLicd8kZ3bEIXB5PAQJmct99oHjID/4w==;02AH0HDu2gK5FDPxgeAsyg=="
 ---

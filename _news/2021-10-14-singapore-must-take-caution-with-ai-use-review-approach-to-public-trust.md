@@ -37,6 +37,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Singapore patrol robots stoke fears of surveillance state"
+    excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behaviour”, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
+    publishedDateTime: 2021-10-15T05:04:00Z
+    webUrl: "https://www.phnompenhpost.com/lifestyle-creativity-innovation/singapore-patrol-robots-stoke-fears-surveillance-state"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/equipped_with_seven_cameras_the_robots_on_wheels_detect_undesirable_social_behaviour_and_issue_warnings_to_the_public._afp.jpg"
+        width: 990
+        height: 660
+        isCached: true
   - title: "Defence unveils funding for AI research"
     excerpt: "The Department of Defence has launched a request for proposal to find technology and research partners to develop new artificial intelligence solutions."
     publishedDateTime: 2021-10-10T23:09:00Z

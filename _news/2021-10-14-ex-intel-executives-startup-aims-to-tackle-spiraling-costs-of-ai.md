@@ -36,22 +36,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
-  - title: "Intel imparts training in AI to over 2 lakh students in India"
-    excerpt: "As of today, the company has already trained over 2 lakh students between 8th standard and 12th standard in AI and has upskilled 5,000 government officials. “In July this year, Intel launched ‘AI for All’ programme with a target of enabling over one million citizens with knowledge and know-how of AI,"
-    publishedDateTime: 2021-10-10T12:33:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/intel-imparts-training-in-ai-to-over-2-lakh-students-in-india/article36927598.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/60pd5t/article36927597.ece/ALTERNATES/LANDSCAPE_615/Nivruti-Rai"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "d2oHGHYl86HAl+okmEe1QmFK5ZRUbCgUADSij3QLtTUq+Ncngd65VVf/qzL2pvzcKgW7me2nPHIs+SCSH1yI9yCaPO+vKhtuF36vklzhi4uFIpNbF2UR4UhwVVr534/WYK4WFPvcYp+HurbEAEEuwYMsM1Himl7Y9SI2grFBTsAmklPKx6/M1+A6pThKLP5Dm7ritoCh7jajIZGJTUL3Z7qwQNPdg+vo6aVtpX6L604Su3N4VR+sAm186pygoOabmmXcv2fWKaKaOOXBZG+rIiP/eYskizQoG9z/TJflkSI68Kj+ty8K1ZFwp6ENNB6eAuUzABpAelK5gWK9gXuY5pSQuE1OqNq0lf3sew0p7S4=;TEn6hvgXAvm7/pOIPaZIsg=="
 ---

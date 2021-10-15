@@ -142,6 +142,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 22
+  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
+    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
+    publishedDateTime: 2021-10-14T05:22:00Z
+    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 22
+    images:
+      - url: "https://www.reportsgo.com/img/img-4.png"
+        width: 502
+        height: 300
+        isCached: true
   - title: "Iris Recognition Market Size, Growth 2021 Industry, 2030 by Insight, Key Development, Trends and Forecast"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Iris Recognition Market for 2021 till 2030. Report further now discu"
     publishedDateTime: 2021-10-11T11:42:00Z

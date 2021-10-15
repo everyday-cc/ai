@@ -41,22 +41,6 @@ related:
         height: 900
         isCached: true
   - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
-    publishedDateTime: 2021-10-12T16:33:00Z
-    webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
     excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. Researchers now explore an attention-based deep neural network to tackle this problem."
     publishedDateTime: 2021-10-13T14:23:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
@@ -78,6 +62,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-10/11/TNA_40e07image_story.jpg"
         width: 660
         height: 440
+        isCached: true
+  - title: "Attention-based deep neural network increases detection capability in sonar systems"
+    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
+    publishedDateTime: 2021-10-12T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/931330"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "Q1eXf8RfQne8OF/oNvCB5ykxBRef4z5E4k7dg9Pel/BKw9BwgEI/czVRKdgrGq4wxm8ENKlxedfq7P+PIPbhRs0Y8yQ7bZYNPGCT9kqA86YJ6uo1HOdaW7sjCP3LVQZfcxfEBLImfZkBPYqNUtQZ59DrH++QgeFA9OcU+nGm0hSJPyIz5YI4WOXaWTIC16CgBhr/YzIPRtAvoBuSENdXLOkMBX/paem2ohxSovlVI39yjw2PYc4L62C/YTCa7CoiPY5ElxBDBFcuOyzaEXZHJiJbKic9z0G57dTTraL+Z+ZriX87tc8cZoBRaoecr0JPZUlFQqJJNcHV8hSuiXGZv+MD+V1hoCrlbu3FpAV7O8fSyn5OoydWEOYJjVFpejZhi6yyxQ+OWfuw0rk9RA4t6eMrfP1knw0bo0URXpUo2UQJMerEi0tYoQL0g8k3a0sm9LisY6juQ/AbC2JRADaY6+quccvLc7p1DYWpwpHB8mkxid/PUtsttt/9Hl4DsiHp4cmj2bMzaDcmMYSV0in0kg==;ajeaqwMMprh//cJNUvDtUw=="
