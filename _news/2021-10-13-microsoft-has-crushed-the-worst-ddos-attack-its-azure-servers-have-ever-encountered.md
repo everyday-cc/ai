@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
-    excerpt: "First Fully Vectorized Database Optimized for Geospatial and Time-Series Applications, Now Available as-a-Service in the Public Cloud, Starting with Microsoft AzureARLINGTON, Va.--(BUSINESS WIRE)--Kinetica,"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
     publishedDateTime: 2021-10-14T16:13:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=547277"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 54
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "EkGdBAZitSsb996/HZNseTqZMEZwCNLSAM7sKzr4cEs7zGEpVZ7LhwPLATXACKnT5hbzkzl+twqvq33wTVeDRtHGoPOnBjVAhNOq8u+70DigBOEGVF0RvSEBC+TlzmOfIxbwKR+3x+WeEW+HENuCdQhDDSszYJVPsl60ElWVyyKWJ+aqPa0gzV647RDqFqk/STsGUfq7iux3YUZBaFj/md+fZ6P9CtMijKW55Yh3yTlkSqOILDiwR5cgS4/4ITO6o/A0ylRzhQ6sYPHCnpZgBDDbqGMypv7Xryi7B0pVZzw8rGgqf08Errf4Q33vlEC7hRp4rY9Zc1t3ou961SRg5SCDI9zt6gWqZJ4Lme/BSdc=;JBm45ZMVMsl2h02uuyW/OQ=="

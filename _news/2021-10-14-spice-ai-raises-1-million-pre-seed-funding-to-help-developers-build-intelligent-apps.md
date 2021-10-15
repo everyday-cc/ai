@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Spice AI Raises $1 Million Pre-Seed Funding to Help Developers Build Intelligent Apps"
-excerpt: "The AI-powered, developer-first platform streamlines the use of machine learning in software applications, enabling front line developers to get started in minutes vs. monthsInvestors in the round include Madrona Venture Group,"
-publishedDateTime: 2021-10-14T16:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=547235"
-webUrl: "https://us.acrofan.com/detail.php?number=547235"
+excerpt: "Spice AI, a startup enabling developers to easily integrate AI into their applications, today announced funding of $1 million from leading AI-focused venture and angel investors. Founders Luke Kim and Phillip LeBlanc have spent years building cloud applications from the ground up and witnessed firsthand the inefficiencies in building AI applications that required teams of data scientists and extensive cross-team collaboration."
+publishedDateTime: 2021-10-14T16:01:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-adb0723b0c5e4c528b6fcf75bc379022"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-adb0723b0c5e4c528b6fcf75bc379022"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "nim5rVt7Nc9dh2RR/j7YdBzJRpIFuIJ+upY1cqOjG0V8EUwopjZiCJmS+ovgpDFK+i3/ESIrHXDRbnzI7INdhJXiWzpD5a5nXUYWQHkBW6bpt0NNswnHkeD5ICwKXOuqp2GydLdJ3lHv4ML5X5L1kSSpjfiFyc5KOyFeSvVtXgU3ScE7bC7szCAgnQK1pJrhocH7w8bwvr838d7k5r3gnwDYuOCBdlfycsMDphyInPmqX9scQRGNO00KNXMf9TGCIJeJKTg7BzeP2D9twVEikSkmiGgogHxlGzrN+1ZL98hOapmUSD21iCqn9SgvAX48OEN55JxIDv21aYa1m5SHHmFZ+elJhAPD4oQKfoU4yvE=;KVqJg9ztGMlaag8KIdMSxQ=="
+secured: "1irPnx3iEVuZWEDwmfYS1bLjdpPQeFtsseUGIkbbMlc1Gw7qJZ5J4WDNKbuNbBpd4qOrIMi5cKDTQD4fceYjWCcL1PhnWC+xKDQQfhtVh5lRbgWSiLIVNZ7VsEWRod5NTBCMSDgfktRgBJTeEdJBdpPm2DgOJ9LSTKXFU7aOWzlkmpsw6WdoepBLqt17ebZ6ZYiiFf9IxOjFQH5BUUhIaPu7dT1+H1r5s86g7cxm6CEa3u/VyX9bdIbvUsSAD/xZk61cHXip/4SIx3LcP0czvYz6qa6KJtLAQvaN7hEBNcF7RzfCO6Pw0ZjNemUzc7iogpcs9jsWRCUs0paeNIbUted91QyYQ+Jvky6blWXzEYo=;x3kMQCVi7sjcelWGmrt33A=="
 ---
 

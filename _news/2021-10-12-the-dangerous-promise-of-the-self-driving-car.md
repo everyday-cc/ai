@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-p
 webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg
@@ -29,167 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
-    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+  - title: "Lucid Shows Off Its Self-Driving Prowess. The Stock Isn’t Moving."
+    excerpt: "Electric vehicle maker Lucid announced details of its \"DreamDrive,\" which the company calls the most technically sophisticated driver assistance system out there."
+    publishedDateTime: 2021-10-12T17:16:00Z
+    webUrl: "https://www.barrons.com/articles/lucid-ev-stock-lcid-51634058746"
+    ampWebUrl: "https://www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Understanding Bias In AI-Enabled Hiring"
-    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
-    publishedDateTime: 2021-10-14T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
-    excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
-    publishedDateTime: 2021-10-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Your Next Training Session Might be Taught by an AI"
-    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
-    publishedDateTime: 2021-10-12T09:00:00Z
-    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
-    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-    publishedDateTime: 2021-10-11T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 86
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
-    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
-    publishedDateTime: 2021-10-11T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 60
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
-    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
-    publishedDateTime: 2021-10-14T16:42:00Z
-    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
-    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
+      name: Barron's
+      domain: barrons.com
     quality: 44
     images:
-      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.barrons.com/im-415499/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
+  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
+    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
+    publishedDateTime: 2021-10-12T17:52:00Z
+    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
+    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
     type: article
     provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
     images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
+      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
+        width: 1600
+        height: 1022
         isCached: true
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 37
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Hearing on Artificial Intelligence"
-    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 19
 
 secured: "pMSmA93eMBJEFWbueoJrEKe8emqR7L+v8OfKu8g9J+5idr10icdNU5pQ8/V6rJr4I/hCXPU5midya+1pAi1wOtGEj8Ul1Hr1/ihTSvpsgwIxjQS4NF4GYME9++Y4DWLkBJsC1+bHVdG01ANudSUaLF9uVdxdAF6B6d78/a03yqazVQTKmAzIDD7ajrlBQtKTHRutncN8CCsqM4CfO/q86PPpGObCjDR6rI0at33XKFcpx5LpgaV1R0BB22bJWJCXIOvNSXWp4GRM+MuVQ4GTFa/3rw8XkscHSHKG6EmBGXefksIezodOZl30TmsxD9Qkag27oJi+KF898+JBibfWam5oxnzAEh49pIuj0sCQpk2NnAMgNL7SdSNF57zl45aTjZu/bJuc1eVR+NSA8bgNL5TY0xrwmL2FSoU8eh9hLpuaDY+UncLtqk9g+puSWmVTDMAE44LiSDXV6PTjlS/t6k+Khc5XgM/a+MTcum6dKRKzt8fP8or9EtFV4VHUx3MCRtQlEDV8X/g9ifkgyrBgWg==;0AaEOKxTO5xw+DaKxOaASw=="
 ---

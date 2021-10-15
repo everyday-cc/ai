@@ -87,6 +87,20 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
+    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
+    publishedDateTime: 2021-10-14T11:44:00Z
+    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
+        width: 450
+        height: 249
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
     excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
     publishedDateTime: 2021-10-12T12:09:00Z

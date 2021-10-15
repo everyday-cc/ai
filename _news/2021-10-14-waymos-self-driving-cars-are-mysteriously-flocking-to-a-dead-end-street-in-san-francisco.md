@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
         width: 1200
         height: 929
+        isCached: true
+  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
+    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
+    publishedDateTime: 2021-10-14T16:42:00Z
+    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
+    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "'Confused' Self-Driving Cars Keep Driving Into A Quiet Dead-end SF Street"
     excerpt: "Waymo cars use \"lidar\" sensors that create a picture of the vehicle’s surroundings and command the car to stop when it encounters dead-ends."

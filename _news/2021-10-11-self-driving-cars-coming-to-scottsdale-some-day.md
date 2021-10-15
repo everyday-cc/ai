@@ -7,7 +7,7 @@ originalUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scotts
 webUrl: "https://www.scottsdale.org/news/self-driving-cars-coming-to-scottsdale---some-day/article_95303ac2-293a-11ec-9e88-cb2088c6dac6.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 759
     height: 630
     isCached: true
-
-related:
-  - title: "Apple Self-Driving Car Needed a Realignment After Clipping Curb in Autonomous Mode"
-    excerpt: "One of Apple's self-driving test vehicles was involved in a minor incident on September 27, according to a filing made with the California"
-    publishedDateTime: 2021-10-12T17:52:00Z
-    webUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/"
-    ampWebUrl: "https://www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/10/12/apple-self-driving-car-clips-curb/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/v37EqCtIXW-crw3Cc70o2qPJWqY=/1600x/http://images.macrumors.com/article-new/2017/08/lexussuvselfdriving2.jpg"
-        width: 1600
-        height: 1022
-        isCached: true
 
 secured: "A3nkpmCAz89+Vtc6mGDs6sxSv5Wn2FQ0e/JfidCA3A+5aLL2jfrwnVhPYx/2DK/Yp1nZtlY9ylSzR3HgbmG66n5TFZ83ZSPatnwCZ+cg1wS5oZQVxci0ShdZnQZP1P04vAE4cLrdwj/6LoWCpofGqHFQ4p0S5jsYPUYU9oXJjQgT8Pt5a2rK5IdlO3BscOBkBEvGXEf/CuT1ZVmADokZLNF0jgfaKmVTM0hmDf0pC5gEJgUJ4kZU/baYvNKZd/bd3rQT0Csvz4+B2uB/rj9nlTbxV4cJpPaN7eLD8q5VPLhM6rKE4Kn9gKRELFDYAFNqj0vSpFXl1rhSbp3fcN+RWBGWBVauVmowEvgwOm83FNiMxO7eBqupOJSDidxhGW+k2ZCJQXaUqfgClFy0yPnmmWzDuCmK+xE3Mq1e17SQ8vbjYvO16Og8W64g6duislcvsYVgMxo/NLQ1sfj55ZRgSHlGZj0SxTWk29xIViTk9g9+sijWK64d0SdES816hSL6sQL3oqsifTVv8WNdnp0hUQ==;9/xTryBp1rwq+2N/kqKzEA=="
 ---

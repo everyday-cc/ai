@@ -27,165 +27,126 @@ images:
     isCached: true
 
 related:
-  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
-    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+  - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
+    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
+    publishedDateTime: 2021-10-14T14:24:00Z
+    webUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042"
+    ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 80
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
+    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
+    publishedDateTime: 2021-10-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
+        width: 1200
+        height: 929
+        isCached: true
+  - title: "'Confused' Self-Driving Cars Keep Driving Into A Quiet Dead-end SF Street"
+    excerpt: "Waymo cars use \"lidar\" sensors that create a picture of the vehicle’s surroundings and command the car to stop when it encounters dead-ends."
+    publishedDateTime: 2021-10-14T12:36:00Z
+    webUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194"
+    ampWebUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 43
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/17/waymo-is-owned-by-google-parent-alphabet.jpg"
+        width: 1024
+        height: 640
+        isCached: true
+  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
+    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
+    publishedDateTime: 2021-10-14T21:14:00Z
+    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
+    type: article
+    provider:
+      name: 512 Pixels
+      domain: 512pixels.net
+    quality: 39
+    images:
+      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
+    excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
+    publishedDateTime: 2021-10-15T01:28:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/waymo-self-driving-cars-keep-flocking-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/waymosf.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
+    excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
+    publishedDateTime: 2021-10-14T13:57:00Z
+    webUrl: "https://www.businessinsider.co.za/trending/self-driving-cars-waymo-google-stuck-end-street-san-francisco-2021-10"
+    type: article
+    provider:
+      name: BusinessInsider
+      domain: businessinsider.co.za
+    quality: 26
+    images:
+      - url: "http://cdn.24.co.za/files/Cms/General/d/11683/ad8913e06e5c47dfb8ea7bd8856d74be.jpg"
+        width: 1668
+        height: 1080
+        isCached: true
+  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
+    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
+    publishedDateTime: 2021-10-14T22:12:00Z
+    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 24
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Streets of San Francisco stump Google self-driving cars"
+    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
+    publishedDateTime: 2021-10-14T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Understanding Bias In AI-Enabled Hiring"
-    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
-    publishedDateTime: 2021-10-14T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
-    excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
-    publishedDateTime: 2021-10-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Your Next Training Session Might be Taught by an AI"
-    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
-    publishedDateTime: 2021-10-12T09:00:00Z
-    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
-    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-    publishedDateTime: 2021-10-11T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 86
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
-    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
-    publishedDateTime: 2021-10-11T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 60
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "The Dangerous Promise of the Self-Driving Car"
-    excerpt: "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created."
-    publishedDateTime: 2021-10-12T14:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
-    images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
-        isCached: true
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 37
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Hearing on Artificial Intelligence"
-    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 19
 
 secured: "5w1mcpv+/NL3LLDTjoy0UrgebKE7tUdSEYVq3A1sQF0RLh0ifh99QP6fX9T3KWDG6NYQGSNQ3vieiqrbPyDoCzmyOdXezq+yXB52HnsTb8G5SiM3X5E22wWyq2ORcOSj+V468pUE4ZLmCYRaCyK8+O0Py/9SdPpaZueKq1q7QXozZHNeZMXiav/CbwDS0iknFhYu1miAccyQi4VMqjQf3HJrAneY4tCsD5zTU9TDDFqajOkUY7aj5AYFCibik20CdJlVkgrgh8PJPXJIo6L+yYqdyDbZgr4uQWR9yf9UTfoDROe/HD+/XuLENq4LRQ8FQN44vNZW9wrVU74JrF3OCZPtcwFaxguR1306aF+onRGRga1uAWZ3LQLDaKb2HBbV6JWLn0dQuj6GJ8REhlKWL6AIWS8PBflgGhtuJqNMT+xpMJc1FYzh73dj/OTbLnhGvQcVTfhhoB2JwN5B2jHun8XWKrNGzdfOTRCdWeQt+IkdM6GL1IsnE0KIvNQGNltG7eqI12R8dLGP8nzuNbJgjw==;j+8OazYT2qFmJRW8zV4q/Q=="
 ---

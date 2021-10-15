@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-20-ai-ethics-and-governance.md",
+      "title": "AI Ethics and Governance",
+      "excerpt": "In the year 2020, the global AI community – spanning across several alliances and borders – started accelerating discussion and agreements on how to envision and enforce them in existing and future AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/",
+      "originalUrl": "https://www.softwaretestingnews.co.uk/ai-ethics-and-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/08/Website-1024x585.jpg",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "softwaretestingnews.co.uk",
+        "domain": "softwaretestingnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
       "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
       "excerpt": "Timnit Gebru says regulators need to provide whistleblowers working on artificial intelligence with fresh protections backed up by tough enforcement.",
@@ -1332,51 +1375,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-fired-google-ai-ethics-lead-joins-natural-language-processing-start-up.md",
-      "title": "Fired Google AI ethics lead joins natural language processing start-up",
-      "excerpt": "A researcher fired from Google during a tumultuous period for the company’s AI division has announced her next move in business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
-      "originalUrl": "https://www.siliconrepublic.com/start-ups/margaret-mitchell-hugging-face-google-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/08/AdobeStock_448737185.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

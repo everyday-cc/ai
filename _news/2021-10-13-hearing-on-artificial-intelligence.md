@@ -19,172 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
-    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+  - title: "Building better startups with responsible AI"
+    excerpt: "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ..."
+    publishedDateTime: 2021-10-14T15:57:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Understanding Bias In AI-Enabled Hiring"
-    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
-    publishedDateTime: 2021-10-14T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
-    excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
-    publishedDateTime: 2021-10-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Your Next Training Session Might be Taught by an AI"
-    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
-    publishedDateTime: 2021-10-12T09:00:00Z
-    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
-    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
-    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
-    publishedDateTime: 2021-10-11T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 86
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
-    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
-    publishedDateTime: 2021-10-11T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 60
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "The Dangerous Promise of the Self-Driving Car"
-    excerpt: "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created."
-    publishedDateTime: 2021-10-12T14:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
-    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
-    publishedDateTime: 2021-10-14T16:42:00Z
-    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
-    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
-    images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
-        isCached: true
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
-    type: article
-    provider:
-      name: Chemistry World
-      domain: chemistryworld.com
-    quality: 37
-    images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024"
         width: 1024
-        height: 536
+        height: 716
         isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
+  - title: "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning"
+    excerpt: "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications."
+    publishedDateTime: 2021-10-12T10:00:00Z
+    webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
+        width: 800
+        height: 446
         isCached: true
+  - title: "Addressing Bias in AI"
+    excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
+    publishedDateTime: 2021-10-11T08:48:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/bias-in-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
+        width: 1024
+        height: 393
+        isCached: true
+  - title: "IAG-backed research reveals need for investment in Responsible AI"
+    excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
+    publishedDateTime: 2021-10-14T03:15:00Z
+    webUrl: "https://www.publicnow.com/view/7B3EA7A84BDCFC07700902FE98DC0DD6C154C57E"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "kTtpVs+lsBIFpn83ePjcftx/uTf/ncCfA+Y9HwMXpPUbm6OYDSs7ij31iTVcesdFyHPwv/EzfY6alY0p9Q3YkC5tfkq6IzCjyHIptDGIbLV4fB5I4c5WKytBQSgSxdlsWHDc3l4h8zCaVbMCcJzA+8SSKRvbbG0CxXS5798JCDLWIcoUB1t9Akkcb4cu9t2QwY7YCp4DyoOCkGYc2j2ZGDu0x55TGFXBPa7g8PJXggtgqIYPXeaScIXdPzGgaHShWvai8A7tG5/rAG5zvxviDtK9ohPA8naQGRUJx/6dW78yZ0VacfRCTskA/DW7UXs3fcugclIi44oj66/92XoxIOC/fXTVHlJnpKaZsLoJ499RdDLyrCr+E03UdsKjCZWTV9SsjtT4wJom8maqRpE/L9b3EfqWL7Um6npfGZxHbfKtZF0/JwLwLWH/y4XlbtjJRSWrbmC3zaLphOSjCxP4u8uP9sCt8381HfZERwocrzO8PYs6pDAigZPe7apMUOMk4d0O5Y5zuyIQZX3O7q8n+w==;7Ivl5ZNvpS+dvOeczNy/QQ=="
 ---

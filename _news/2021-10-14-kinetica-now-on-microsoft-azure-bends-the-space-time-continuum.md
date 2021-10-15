@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
-excerpt: "First Fully Vectorized Database Optimized for Geospatial and Time-Series Applications, Now Available as-a-Service in the Public Cloud, Starting with Microsoft AzureARLINGTON, Va.--(BUSINESS WIRE)--Kinetica,"
+excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
 publishedDateTime: 2021-10-14T16:13:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=547277"
-webUrl: "https://us.acrofan.com/detail.php?number=547277"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "5ZVNRXjTMzl2QpjrNVZ9wvvva9MuDUofdBNOB+47xOMKo4EZYOGoA8ciMKqPtkFtBcaDu5QGlSY9qXIYp+ZFEBfMNkwlOFBBUFnjYlFhoInuXr9BdjiQ6UvuFGIe32WLmymIZCBDna/K7eaplRJPrfMvSrbo/Agj9l2x1o2qBPCXPmqc8qh1dL11A4SPwBkRrQDp4egMsgaY3rfJpz4kR7itQ29/fPpzpgIM3+VWSz0mqdLTBtt5rql8M2M7g+ragT766NBC/4SC0ZpO8wFuu4j2SJg4mawA/4jJyn3JJ9rjbYL67bKUU/C2wWLgpksSpDQlA4Z+7GEt0jItISPmZb8lO3LHviIt/IXka2x7jh7dZaJJI7Qv2JJOhkqsLXNHroqOwOYD313nvUJMfI6G3fc3QxNP5YzEKFvTvvfCAJGLggdAi2cma6WrUM2a5F7FUbOibGjlSVW+LJxILGNlzWkILPXIsrK13HVnFimKkARZ0M3wQHPLRPS8V0gs9yQui5Or/6WjwfZceRAxHepsTg==;rrNm7en50Nkn1qyKV64lug=="
+secured: "DmN3m8S0GZsUyagQeOUmojHzSRS3Yy9HsZHxqd2seQO2z2NqW8cKWrXGXx+HMb++z8A6DvsHvXG2VqCoipZuZqjMM2lTuGfhpQ4sarEkgC1uWzyVdVQJwro7PNN7lc1E0TRBVIMhBGwUqZDzZAUlHSygyVwYzsyyvrTtRX1rJrm8juaIJ1WWzIX1TfLyDJI7VXrzdQXIBwJ68FJLe8oKxJdQIjf6WXRC7maXBLHvq/31JKYOGLN44BK5FMZU6BIDO/J1mMCmPprh+oGox8jZ+eToVq8yhfN8Lvv1fXLR2BlXzYKAw8CuWD9JhQYajkpKOvkUGvCHAbC3RgNBjR+32zy4qMobAZHA+wssNJmz8rs=;LDGkHLvwDW93dOCtkwHG3A=="
 ---
 

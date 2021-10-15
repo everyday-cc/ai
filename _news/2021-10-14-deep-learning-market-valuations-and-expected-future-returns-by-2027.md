@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
 type: article
 quality: 59
-heat: 81
+heat: 82
 published: true
 
 provider:

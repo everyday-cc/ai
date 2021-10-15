@@ -56,18 +56,18 @@ related:
         height: 400
         isCached: true
   - title: "Spice AI Raises $1 Million Pre-Seed Funding to Help Developers Build Intelligent Apps"
-    excerpt: "The AI-powered, developer-first platform streamlines the use of machine learning in software applications, enabling front line developers to get started in minutes vs. monthsInvestors in the round include Madrona Venture Group,"
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=547235"
+    excerpt: "Spice AI, a startup enabling developers to easily integrate AI into their applications, today announced funding of $1 million from leading AI-focused venture and angel investors. Founders Luke Kim and Phillip LeBlanc have spent years building cloud applications from the ground up and witnessed firsthand the inefficiencies in building AI applications that required teams of data scientists and extensive cross-team collaboration."
+    publishedDateTime: 2021-10-14T16:01:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-adb0723b0c5e4c528b6fcf75bc379022"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Rendered.ai raises $6M round, aims to open its platform to more users"
     excerpt: "Bellevue-based synthetic data startup Rendered.ai announced it has raised a $6 million seed round. According to Rendered.ai founder and CEO Nathan Kundtz, the money will help the startup open up its platform,"

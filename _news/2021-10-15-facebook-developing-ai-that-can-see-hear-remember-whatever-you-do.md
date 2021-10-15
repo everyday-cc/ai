@@ -137,6 +137,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook develops AI that can analyze human lives, record what they see, do"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse people's lives using first-person videos -- recording what they see, do and hear in order to help people with daily tasks."
+    publishedDateTime: 2021-10-15T09:26:00Z
+    webUrl: "https://www.freepressjournal.in/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/a4c2aa76-389f-4a14-ba09-af4b79c42793/facebook.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 1343
+        isCached: true
   - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
     excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
     publishedDateTime: 2021-10-14T17:23:00Z
@@ -256,6 +272,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "zUmBtuGv8UFyoXIF6jlAPhFq9leCacc8FVsttp/nbUYYcf7Zd+1PCyzLoUfeZhjv/DStPunXXgvQsXFw9BtcWjENRSRx1VLm92nIhdETONxHvZGUhP7kq4HKQ62YuADoEs5meDlrQnUaWOnwBYOA10RBy7DRGXvzgcj9palsmxm9yoXNjYngTHDMcOKcX4apC1vzcnt+WJ1KFHBPImDde2tR+UqahQSr0YaTZQekpdmeWjz5nwmAYfPk0o7ADMRstLiP5axLk6C0t+OqMYqkfwQWU9rqZ71/uG8NWz/ap8BIBcXQUBTEahi6SVewAp9zUlKbRDh05wkCQCTTaLje45Q7E45zketL6MjvyMvFJ7w=;Q1ftkxlxx/sZsz9bz+6Ssg=="
+secured: "5nIySqHQmWOUAL7PIzPxHkb3x7B7RjRh9HwrQsgYmlG2q19MzB1or9AfI6KjG8KP85+TSVJ4D48fwNIK6NxTGkYWauOIJXc1iulKh5zPCNo6TxaBDMLQWid17Vvbps92dPSXkpRqCOKfhROcinsg8Ow9T8Lfe0SQxk0qwOdWc/0d32J483iOLu8GvkYyGzAMh3Db+5z8bZRfGN3SrtefwwMdZLjVVCBXd2m7RyExcfYhj8cApsAo5HKudueKN3qtq0X91DLsgTHoWnSOn9ueg426sk4nNYz3c1Ig/RVZTSgWO82AAI51zGeEj5OCqA3G45QEb8alPG67t/li/GmBdWUUQpR3xue7YnAhWGuVoQLJE+ztnEgzlDqUQpHFbzQ98H8jzVvPndtLU/jd4A6WXhQdjL1y5AZrETFVFBomNjHGOOlkG65EDqZ/s7nIopDbs3vp+JtB7RHaiXrIdLmsLSEUyFTT2IdvPRmCVwB7ZyVjwkA/3XUmNpA/7UoamI+0ye2aIdmiPNhAx4AEp6W0qw==;2iX7wiw15Sl0G31Wca4JTA=="
 ---
 

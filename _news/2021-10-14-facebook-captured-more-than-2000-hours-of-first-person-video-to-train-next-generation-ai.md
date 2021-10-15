@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's success was built on algorithms. Can they also fix it?"
-    excerpt: "For billions of people around the world, Facebook can be a source for cute baby pictures, vaccine misinformation and everything in between — and all of it surfaces in our feeds with the help of algorithms."
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.waaytv.com/content/national/575497992.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575497992"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575497992"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 44
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
     excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
     publishedDateTime: 2021-10-14T23:24:00Z
@@ -56,6 +40,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 14
+  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
+    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
+    publishedDateTime: 2021-10-14T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
   - title: "Facebook is creating AI that can view and interact with the world from a human's point of view: Over 2,200 hours of first-person footage captured in nine countries could teach ..."
     excerpt: "Facebook is creating an artificial intelligence capable of viewing and interacting with the outside world the same way a person can, letting the AI learn from 'videos from the center of action.'"
     publishedDateTime: 2021-10-14T19:33:00Z

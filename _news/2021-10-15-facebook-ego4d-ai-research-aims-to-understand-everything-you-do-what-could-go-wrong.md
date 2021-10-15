@@ -153,6 +153,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook develops AI that can analyze human lives, record what they see, do"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse people's lives using first-person videos -- recording what they see, do and hear in order to help people with daily tasks."
+    publishedDateTime: 2021-10-15T09:26:00Z
+    webUrl: "https://www.freepressjournal.in/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/a4c2aa76-389f-4a14-ba09-af4b79c42793/facebook.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 1343
+        isCached: true
   - title: "Facebook’s moment of no return"
     excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
     publishedDateTime: 2021-10-12T17:07:00Z

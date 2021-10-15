@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-b
 webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-in-medical-triage-centers-during-a-pandemic-ridden-phase"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,64 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
-    excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
-    publishedDateTime: 2021-10-14T14:14:00Z
-    webUrl: "https://defensesystems.com/articles/2021/10/14/ausa-ai-data-training-solsbury.aspx"
-    type: article
-    provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 51
-    images:
-      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
-        isCached: true
-  - title: "Executives show bias, question AI-based decisions"
-    excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."
-    publishedDateTime: 2021-10-14T04:43:00Z
-    webUrl: "https://www.ciodive.com/news/executive-bias-AI-decisions/608188/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/c9/85/c985934d602a45efdfa85951634e9f62.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "hDn/nbo3yCpqLbG2XatkMh4iexyU+b940Y/JX8vRlxwcuwsLF+PlyovR4bH54tshBJisIbR0ifVvajZl0Ecq+m7et6RbLEAtnMe2FbNpfWBd5eMx2eZdlIPtGBZyHfPPRqHUZLxjV5nne3HXKZFAD0c/RZXbw+MBAP07X6wQY1jUXCr4t4gcEaQmzFLor2SQmRypVwcaVR/I8IM3tqm1+lhaPN4H8RxZ1aePD+bRfMrzhx7UTTnaDcDq2yLIqt/FP9ciAPgFYynG5LgS563POqtjYrBXFiHydxkrePcLxR1ywA0/UWqXttbapKqTRsPd2o/6f7xtjWRiIhJSO1w5Ch7NGLxOfPDwyj+9D34xJb8GKuRYQmIOioGPrZR5+9ivy45gydePBGX8onxpO+GIorAKgPFBy/QYGZYzP3PWlbnd/FaAZ/EgcA4NZCjelT4MFDHx+cjzMrVUhWmj/lKORRkYbeDXpajqpkiZnZ0zGauQjyFOShOWtpQRU7uldrt986UJq/sWjdc9WzjkJkVTqQ==;lkMy0l7a3V68qA5vKsckWQ=="
 ---

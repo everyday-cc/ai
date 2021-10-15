@@ -51,6 +51,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
+    excerpt: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
+    publishedDateTime: 2021-10-15T09:31:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/10/15/philips-introduces-next-generation-digital-pathology-suite-intellisite-to"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "PLaPsHznJAUgCO0hgM+ibJr7sXRbvG1TzB7WcPmmlcwfegSdd3r/p4ernwAGsgTisevOhjbWsoqrtSRd6SJwaws92Z0qJWALsoGtSvjAv+j5HSmxzIs0cN5J8zBgXy5lv8+84EsE10SbQOzhjqLYsNqwG4a9LXqU1tAwyJsHObUmu9gCURvk99JcddlTvXHSBEryAk+LvcbgPp375d1QGJ0GQmix1E+Hl8vuROJxZdvYakhSX3dCsBx5SjGgp9vztoJ1F7wFPJk6Adn8H36vwPxzcWzfINZGqFqTqu2mEDstU2QIzUyq6m66iT6ukra7PR8rmVwPcBGI7FdmE/FoWYzZdoDOyAwqGILM66jL3Ic=;2F9A3kq/N1tWZnmkYpDbRg=="
 ---

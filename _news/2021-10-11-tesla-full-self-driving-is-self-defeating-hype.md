@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Lucid Shows Off Its Self-Driving Prowess. The Stock Isn’t Moving."
-    excerpt: "Electric vehicle maker Lucid announced details of its \"DreamDrive,\" which the company calls the most technically sophisticated driver assistance system out there."
-    publishedDateTime: 2021-10-12T17:16:00Z
-    webUrl: "https://www.barrons.com/articles/lucid-ev-stock-lcid-51634058746"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-415499/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
     excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
     publishedDateTime: 2021-10-12T15:20:00Z

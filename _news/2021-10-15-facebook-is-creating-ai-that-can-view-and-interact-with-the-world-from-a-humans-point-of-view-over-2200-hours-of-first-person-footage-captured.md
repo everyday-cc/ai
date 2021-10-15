@@ -43,22 +43,6 @@ related:
         width: 5000
         height: 3334
         isCached: true
-  - title: "Facebook's success was built on algorithms. Can they also fix it?"
-    excerpt: "For billions of people around the world, Facebook can be a source for cute baby pictures, vaccine misinformation and everything in between — and all of it surfaces in our feeds with the help of algorithms."
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.waaytv.com/content/national/575497992.html"
-    ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575497992"
-    cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575497992"
-    type: article
-    provider:
-      name: WAAY-TV
-      domain: waaytv.com
-    quality: 44
-    images:
-      - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-        width: 640
-        height: 380
-        isCached: true
   - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
     excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
     publishedDateTime: 2021-10-14T23:24:00Z
@@ -68,6 +52,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 14
+  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
+    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
+    publishedDateTime: 2021-10-14T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "cblDjttA1ao1OwzxaCjh9Vpt5RoaLSGgdl9cIHWLVdMq/ASIHvLSKvJHFEaKDLL08pMt0jNdwI5XV6R06gxIgzg6C0jUHK3avyev7TpqCUlF7821hm1Ojd+5tGElABVbjAyTpk6ZGJQnFj4mzkYech3VILOoRSpVjDUO3GWDerdhe1hl+A3s0iYJ3G+VE4/1xCd8furoIEv+cjKdJKl2sKI8JzYUvcDha0r4j+iTkanVyTYkX5dsJP8hEBmWZHoD19xyImz1avnmr1eJbNx7sMbIR4Vqrh4j8j3VFJyEGmMffwetfgb7+BLZG2pDTRvSyn+tEUSLPrg+7yMVPcOL8RjLNokSS67NQubW/h1OYKFvalct9NT9BbUTK6nv3Us6sPNKip5MWcarwIAusCdWZW156t+FSx7la0aPpcMl13K19vYaRuBP1tMK1mqpq5EjnW7P0iHC3ps4gROiy4aTGLUqm8mOaM2fUJeawqXRveaYlc9X1Eh/jmtEwMNLJvM6A0VXJgV49GCFedFyEmxo4Q==;8f+MtnXp7ATjl9F4zmGbMw=="
 ---

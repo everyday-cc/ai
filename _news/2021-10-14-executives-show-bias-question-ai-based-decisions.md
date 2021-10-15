@@ -24,61 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
+  - title: "Same AI Advice Prompts Executives to Make Entirely Different Choices"
+    excerpt: "There is no single universal human response to artificial intelligence (AI), and individuals make completely different choices based on identical AI inputs, according to new research released in an article today by MIT Sloan Management Review."
+    publishedDateTime: 2021-10-12T14:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/same-ai-advice-prompts-executives-to-make-entirely-different-choices-1030859673"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
-    excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
-    publishedDateTime: 2021-10-14T14:14:00Z
-    webUrl: "https://defensesystems.com/articles/2021/10/14/ausa-ai-data-training-solsbury.aspx"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "AI accurately identifies artifacts on diffusion MRI"
+    excerpt: "Artifacts on diffusion MRI can be accurately identified by an artificial intelligence (AI) algorithm, according to a presentation at the recent Conference on Machine Intelligence in Medical Imaging."
+    publishedDateTime: 2021-10-11T07:38:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133730"
     type: article
     provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 51
-    images:
-      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Military/scarlet_dragon_2021.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: AuntMinnie
+      domain: auntminnie.com
     quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
-        isCached: true
-  - title: "How Artificial Intelligence Can Be Used In Medical Triage Centers During A Pandemic-Ridden Phase"
-    excerpt: "The involvement of AI in healthcare allows triage centers to use the limited medical resources available to save as many lives as possible during a widespread public health emergency like a pandemic."
-    publishedDateTime: 2021-10-14T13:51:00Z
-    webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-be-used-in-medical-triage-centers-during-a-pandemic-ridden-phase"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 26
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_Can_Be_Used_In_Medical_Triage_Centers_During_A_Pandemic-Ridden_Phase.jpeg"
-        width: 1000
-        height: 667
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_29_22_25_5579_artificial_intelligence_AI_data_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "oSKVsPlIHvqwtlCmvK4W8s2ratLb6o0T2pIyK8Jj2SEyVCvbFqVHeYiucU5lZ9VL+fegXe8PXMKYqapzDskbCvUnEn2y2GvORqim7dv8f4DbrHt7b5bkGhnrExx7kCBy4lcb14jc178h4fNH57tNvSqueRkhxCrT3VhPljYImuSw9PUl3CS8a+em9Xxp/Q3CQJN661KZb8A4hF27EBp7zj7weF2Ceq+mLaWOhCJBesAu1t8VqoDmPBl1Ig7fWSXJp+medjkIdtJH+hkXB+fz44II6IZ1cZHYS5QILkB0BH3TtVzkxCpWfxtQMaSp0uXy1fJIgn1j+wInrwIgRDMOgia87tNgKliaDWfXmXG9jFA=;uN4Nu88cawlvZtClV27eMw=="

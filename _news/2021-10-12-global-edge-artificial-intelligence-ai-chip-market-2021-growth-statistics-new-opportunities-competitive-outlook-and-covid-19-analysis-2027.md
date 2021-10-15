@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11"
 type: article
 quality: 63
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
         width: 421
         height: 421
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
+    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
+    publishedDateTime: 2021-10-14T11:44:00Z
+    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
+        width: 450
+        height: 249
         isCached: true
   - title: "Face Recognition Systems Market 2021 Global Industry Forecasts Analysis, Competitive Landscape and Key Regions Analysis"
     excerpt: "United States OR Poland The Face Recognition Systems Market report is composed of major as well as secondary players describing their geographic footprint products and services business strategies sales and market share and recent developments among others Furthermore the Face"

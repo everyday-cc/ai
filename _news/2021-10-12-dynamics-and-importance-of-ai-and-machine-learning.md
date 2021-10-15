@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-le
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
 type: article
 quality: 76
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dataquest
@@ -28,73 +28,87 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Supervised Learning's Impact on AI and NLP"
-    excerpt: "Although humans can learn from observing a few examples of a given task, ML algorithms cannot. They can, however, learn through self-supervised learning. We explain how self-supervised learning works."
-    publishedDateTime: 2021-10-12T11:11:00Z
-    webUrl: "https://tdwi.org/articles/2021/10/12/adv-all-self-supervised-learning-ai-nlp.aspx"
+  - title: "How Artificial Intelligence and Machine Learning is altering the marketing landscape?"
+    excerpt: "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi"
+    publishedDateTime: 2021-10-11T14:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
     type: article
     provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 58
+      name: Business Standard
+      domain: business-standard.com
+    quality: 86
     images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI1.jpg"
-        width: 976
-        height: 400
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Learning AI With Boys and Girls Club of Western PA"
-    excerpt: "Welcome to Stem Fest 2021! Amazon is working with the Boys and Girls Club of Western PA to give local students a fast start in understanding artificial intelligence."
-    publishedDateTime: 2021-10-11T13:43:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/6086302-learning-ai-with-boys-and-girls-club-of-western-pa/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
+  - title: "How AI is helping the natural sciences"
+    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
+    publishedDateTime: 2021-10-13T13:40:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 57
+      name: Nature
+      domain: nature.com
+    quality: 41
     images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/471/A3B/471A3B6F7E5E8E5DE461526B51E73EC4.jpg?Expires=1728604800&KeyName=mcpkey1&Signature=zlErye3XyFJwRY0DA9X6nqBnImI"
-        width: 1920
-        height: 1080
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Know how this artificial intelligence platform is enhancing AI for making better products"
-    excerpt: "Micro technology is strengthening a new generation of intelligent, faster, global infrastructures. Micron’s Artificial intelligence improves business and lives beyond what we can imagine with regard to AI."
-    publishedDateTime: 2021-10-12T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-micro-technology-using-artificial-intelligence-to-innovate/"
+  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
+    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
+    publishedDateTime: 2021-10-11T11:25:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 37
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/How-is-Micro-Technology-Using-Artificial-Intelligence-to-Innovate.jpg"
+      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
+        width: 700
+        height: 530
+        isCached: true
+  - title: "How the Agriculture Industry is Using AI"
+    excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"
+    publishedDateTime: 2021-10-11T05:00:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-agriculture/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
+        isCached: true
+  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
+    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
+    publishedDateTime: 2021-10-14T11:39:00Z
+    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
         width: 900
-        height: 500
+        height: 600
         isCached: true
-  - title: "Upcoming AI Conferences And Events To Look Forward To"
-    excerpt: "AIM brings you a curated list of top AI conferences and events happening in the next month. Conferences and events are a great place to connect, share knowledge and learn. They provide a platform for tech enthusiasts to keep up with the fast-changing trends and developments in the tech and analytics industries."
-    publishedDateTime: 2021-10-12T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/upcoming-ai-conferences-and-events-to-look-forward-to/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Upcoming-AI-Conferences-And-Events.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial Intelligence Key to Business Continuity and Security Finds New Masergy State of AIOps Study"
-    excerpt: "Businesses are embracing artificial intelligence (AI) technologies to improve network performance and security, according to a new State of AIOps Study, conducted by ZK Research and Masergy, the software-defined network and cloud platform for the digital enterprise."
-    publishedDateTime: 2021-10-12T13:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-key-business-continuity-security-finds-new-/2021/10/12/9467501.htm"
+  - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
+    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
+    publishedDateTime: 2021-10-11T20:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 33
+    quality: 9
 
 secured: "VmNLwFGJFkLYJDISu1yfGu+V6271l85koiXwU9DrRKK77NmAKE3xptDqyGqoYxv51LpIl4LVcPnnsHRQFf1WcJX4XPNsehqvFvRZOjSnfJg2Rli6DRNrlWa3uz7M1by+7FeNfW3jd9FFawl4/QkxnN7lh1xAhOOVCcmeAo5Rpyu3r8oL4f8BUg8QCcerSqBW6xikIwsC4ycbbAjnixL9I5yvQyd2/DtHi5fcTwnolH+CXqBp/toafuTGz1GlVLpbzVcNvvzkhKkwqaUXsYdPhF7OkptKejqi9sJrhiDI++gLV4yyJZCrF4zzsfYRc29Ipfj5SEdUZl82QZNlNEavEkP6ixYTQXgW3ztxrvLX7mDRO0KfJrLWNH+lxMxC+lUohTv6QNRJ2n6ayxhp5BXxyN+WxyOX7JpY6UUuiYDATKYeHglwovgynQzy+x1cRADqs9v15jXweEDYFpb+zMbq2PThsgbzZXT3FlDX53zRQFRJT00fQmKGjfTkH/0ErOP/xSrTz9zlj9lzNtAZwPqLIg==;hUIUdM2542ADJNL8VrJdkg=="
 ---

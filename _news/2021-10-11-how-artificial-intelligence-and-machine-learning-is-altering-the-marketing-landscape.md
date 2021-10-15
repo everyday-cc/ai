@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/how
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: Business Standard
@@ -29,113 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car"
-    excerpt: "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!"
-    publishedDateTime: 2021-10-10T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/"
+  - title: "Dynamics and importance of AI and Machine Learning"
+    excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
+    publishedDateTime: 2021-10-12T11:56:00Z
+    webUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Dataquest
+      domain: dqindia.com
+    quality: 76
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444"
-        width: 1200
-        height: 675
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Understanding Bias In AI-Enabled Hiring"
-    excerpt: "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it."
-    publishedDateTime: 2021-10-14T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
+  - title: "How AI is helping the natural sciences"
+    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
+    publishedDateTime: 2021-10-13T13:40:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Nature
+      domain: nature.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048dc531c59789da537ae0c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices"
-    excerpt: "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand."
-    publishedDateTime: 2021-10-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Your Next Training Session Might be Taught by an AI"
-    excerpt: "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence."
-    publishedDateTime: 2021-10-12T09:00:00Z
-    webUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai"
-    ampWebUrl: "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
-    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
-    publishedDateTime: 2021-10-11T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 60
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "The Dangerous Promise of the Self-Driving Car"
-    excerpt: "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created."
-    publishedDateTime: 2021-10-12T14:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
-    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
-    publishedDateTime: 2021-10-14T16:42:00Z
-    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
-    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
     excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
@@ -151,19 +73,19 @@ related:
         width: 700
         height: 530
         isCached: true
-  - title: "Predicting and preventing production losses with AI"
-    excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
-    publishedDateTime: 2021-10-14T13:30:00Z
-    webUrl: "https://www.chemistryworld.com/news/predicting-and-preventing-production-losses-with-ai/4014571.article"
+  - title: "How the Agriculture Industry is Using AI"
+    excerpt: "The AI revolution is starting to transform farming & agriculture processes. Learn about precision farming & other AI in agriculture technologies now:"
+    publishedDateTime: 2021-10-11T05:00:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-agriculture/"
     type: article
     provider:
-      name: Chemistry World
-      domain: chemistryworld.com
+      name: Datamation
+      domain: datamation.com
     quality: 37
     images:
-      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/7/8/516478_seebo_pic_2_72932.jpg"
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
         width: 1024
-        height: 536
+        height: 389
         isCached: true
   - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
     excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
@@ -179,15 +101,15 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Hearing on Artificial Intelligence"
-    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
+  - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
+    excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
+    publishedDateTime: 2021-10-11T20:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "Gw3BLVCkS8i7y1mEAdy25KPJ/L9XamF9Mo8UgJvjpqq5aMaRuQFSyy5TrQNsBNiXBEF8X9OE2pQUg2L5GULDSApGgjVVZRZKKtTG3uDtKANUdDCxHQrbov/28zQcWwDwmPmPV0SWO9px4A1sjQ7qan3smctLmk4zeBLsTRMZsIaN3OUb6wwcOG75NjNN9BkAqx3RJTl5M3ekX/EUXSbzC2gHxqK86VsX1IgRpcruGBKE3ee8qEbLooebVOQNg+qCKqt1qo4D7OT+PBmVQsZ+OfCYwkOaulNj2ZRp3JRHtDq/sYBHczYwQvBsukCoqr7XAhIIe7ysDWL4i7p/SH3TgiHVIzndXr7efbYac6nPwZA0WUYOcicB8PzLZm7hKydwfCezxZq+MaH+/4P2GAatZTl/9LeUzzezeoV/8TI74OpranUOtw3awyXxdEi/o6jvnCqfBRctEJcGVIwO2ry5XpDLTpmicqOnH3chyPa5gf6fttMTuw9wbYyMt6hOL+8JH68yTvSGKBG2C8Jd8U0nDQ==;uAx0cMGPIckTBtRU7IOo9w=="
 ---

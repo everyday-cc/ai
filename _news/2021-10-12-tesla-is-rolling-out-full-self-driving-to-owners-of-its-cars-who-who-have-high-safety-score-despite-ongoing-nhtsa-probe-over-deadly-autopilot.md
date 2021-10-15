@@ -36,22 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Lucid Shows Off Its Self-Driving Prowess. The Stock Isn’t Moving."
-    excerpt: "Electric vehicle maker Lucid announced details of its \"DreamDrive,\" which the company calls the most technically sophisticated driver assistance system out there."
-    publishedDateTime: 2021-10-12T17:16:00Z
-    webUrl: "https://www.barrons.com/articles/lucid-ev-stock-lcid-51634058746"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-415499/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "DwkqeBB8kLRPPVOqwUj3Fk9hZ4ezTS7TR0f3F6Xjt2oRjV7V7Jd/YJfVww7tHuyIUEqDeBuGClRJ1yG5XH6r6NMLyxdl3G2a+j5hvCpPPXcFDt+Xgrkz7akBo6dCPlOkfjS2KZ75tzGUbXeTrrJNuXhpWOQ5FshJIOJ4pNEZ00anLZyOcS2JFGN/J219McfT9yfaSi12h0lYfTAJVDjnWolN+sjrX253lkEKWYr8DJLz6HfFZo/JjUZTdZRWEHnSUkjT7IEF9lQ7ABtaBqc0baBJTzLPsUaAQgQa558WvtXPdHVp7r0MP63Wazy7uRDsUohXjT/7OfM6Z6xlVCsiJwDNIsmNBYIZZyedfE47LrFB9EH/tDJidfy46W6mFoVh6wFS28gex5nT8z+chXClUu+fSG9TwrFj6AxSeJylGGpzj15uR2/lJQRqP8pSjMLInfQRhZAauuOuiEaUOvxIVCll0HzNvSdmHkuJ6z07/IfDsJsk8xUoPwL4F8qib+Eba/7VdXxX1Eikd4NcpcL++A==;fN6LL+8FGHY6HLOAEttslA=="
 ---
