@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cisco"
   url: "https://twitter.com/cisco"
-  followers: 720520
+  followers: 720524
 
 size: 10,001+ employees
 yearFounded: 1984
@@ -31,7 +31,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1448529595741863939/_XuVBAIS_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1449015588492234758/TLUXoeBt_400x400.jpg"
     width: 400
     height: 400
     isCached: true
