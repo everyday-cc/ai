@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-
 ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 type: article
-quality: 87
-heat: 137
+quality: 187
+heat: 247
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Hearing on Artificial Intelligence"
+    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
+    publishedDateTime: 2021-10-13T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 19
   - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
     excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
     publishedDateTime: 2021-10-14T11:20:00Z
@@ -101,6 +110,6 @@ related:
         height: 450
         isCached: true
 
-secured: "51dwyFu3A3BELMXByTZkfXPjrIlgzBtZ5M/XhABbabFjwpzEI1uhZVx9ijEuuUzHfuYK7iAfhe5nkGDfmFFsjUSAhFcOvB7yCG8R6jTjVqoLcKO3GFFRPDatptiiqWLHXEwfBS6JX213gPKZVol8ntKjBg4o5wVdx326IZ3MDwWvkm7TXXe1/ePDK34XmwpULImvO0MZrORKlBDfUWTLKkprpC5cB3/zdDaoR6zJhgfRezDVXnQtnmhm00b2jjZ/5ZhcOAuq3bfk7LTnIwYz5dYnpzW6Bow+i23RhPFc8yF56mnY/QV8aMcHDj9k+YtJLO8A2pwua+uH2A/U1Y+XB1Cnl2UFVXyUr6Oq/yz+/gbRammONTDJ5Q0z2b+C3ybJHTiRtRI5XOIpma4smM6Ryjq3eFl0REZgQsQ+bBc/nYtSE3gQzNW+yyWYz2ZfWy+3WoC8H/nmBO0D9w8n0BklrGQ15TphcC6GCNsYWlApja65sUubrbix+rJE4PntFfySwsaDSbqZWW4yyd7PA1lKTw==;IvRtslwiyiCGLCutvF0Lrg=="
+secured: "etSgEC4Qck4WHMMDFC2oPqTRYMTmH5geh+SmKmoEk35VX1KbqGYcEYzvnT4i4XS1usWI0EGd5WzWMdVllTN3D1nDgXbtyHDFzJLKOkVVoebYb8gT3VZqz/VgLmR3mc07KxP2hARFQsH/6xQUA2KAXgG81LDL929vFCi0KPFU86SvDLMOnBN+lCixrv7IPN+36Vnb97rhSSIkdLjNQqGRE2v/8zAVi0F9vHdWaBgF3lHPb+1DvVR14wwGY53REORI9R0H3jyaMAqjumatlOC7MURLkGWcBiqlUM9svbWhXRRo0tCXPcSVo1XgYWhUraSUwklkCbJH4uZb9428EoGKZgLTZ56QR6zwyBXU4Ut9nXKN4sUVlS1RNVFC9cjfkmDeCY4grtbAx/hhQIRaMJBmvR4R+msFatJh3+GmXtRjS2D3QsZp5CnyvPrl/NNvFn5uoYOsPeI5ZNNZGh3OSfjt5rUUoTmaseN5wi1iVpVzK0Bzib4lDVgrX7tOkb/+XHa3z5TYD6gTVaTpvutUXRIXquJKJMXxGd7YnuTIB9kLtXg=;2MoHQ+/hAn7rnrT6MWc3xQ=="
 ---
 

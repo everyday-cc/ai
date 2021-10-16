@@ -25,49 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027"
-    excerpt: "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates."
-    publishedDateTime: 2021-10-11T20:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
-    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
-    publishedDateTime: 2021-10-14T14:36:00Z
-    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+  - title: "Deep Learning Market Valuations and Expected Future Returns by 2027"
+    excerpt: "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This"
+    publishedDateTime: 2021-10-14T07:07:00Z
+    webUrl: "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns"
+    ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 55
+    quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
-        width: 800
+      - url: "https://cdn.openpr.com/U/a/Ua14260801_g.jpg"
+        width: 761
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
-    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
-    publishedDateTime: 2021-10-15T03:21:00Z
-    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
+  - title: "Machine Learning Courses Market Innovative Strategy by 2028 | EdX, Ivy Professional School, NobleProg"
+    excerpt: "Los Angeles, United States, North America including Q1-2021 analysis The report named, Global Machine Learning Courses Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Machine Learning Courses in view of numerous aspects such as growth factors,"
+    publishedDateTime: 2021-10-14T18:54:00Z
+    webUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/"
+    ampWebUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
-        width: 800
-        height: 490
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Meat-Free-Foods-Market-300x220.jpg"
+        width: 300
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market Report Till 2026 | Industry Analysis & Forecast"
+    excerpt: "The research document on Artificial Intelligence and Machine Learning market comprises of key trends that define the industry growth in terms of the regional landscape"
+    publishedDateTime: 2021-10-12T15:59:00Z
+    webUrl: "https://www.reportsgo.com/artificial-intelligence-and-machine-learning-market-176932"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 40
+    images:
+      - url: "https://www.reportsgo.com/img/img-10.png"
+        width: 500
+        height: 300
         isCached: true
   - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
     excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
@@ -83,33 +85,20 @@ related:
         width: 450
         height: 249
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+  - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
+    excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-12T20:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-future-prospects-industry-specific-challenges-industry-projections-sizes-and-shares-by-2027-2021-10-12"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
-    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
-    publishedDateTime: 2021-10-14T06:13:00Z
-    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
   - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
     excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
     publishedDateTime: 2021-10-14T05:22:00Z
@@ -124,39 +113,14 @@ related:
         width: 502
         height: 300
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
+  - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://www.wboc.com/story/44974027/artificial-intelligence-in-drug-discovery-market-is-expected-to-reach-the-market-valuation-of-us-69968-million-by-2027"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
-    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-10-14T15:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20047544.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 16
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
-    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
-    publishedDateTime: 2021-10-13T17:52:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: WBOC
+      domain: wboc.com
     quality: 0
 
 secured: "PCO4nocXgTD/V3LvXm19ldyaBMnp5GpvsBnCc63GxqFfTYjW0QGLH70YnJeIRmH9ee3qhtw5gIvFCSZwXyanMxylxaEQJHT1CxA8gNmjdvD9PT2y9zz2IhRnDsBJzZJbN9qhb1XO3MHl/Z67enr1LBn0pwKRATEK6ytWxDk4vYSTNQOdN2cDtemAaJUPe9mdHys2iAFDSPy2HrA6maUlFcQuqk2Uz7jgHnW9/85SC7tCx5ZY6iike8fOwH6yrPQxts18a8qi1K/vzWqsaExyEojoSN428/LhGFpPWARmfC29y57VVmYabLXlWvrl3QfUbktdjjMYajaOqshbt7z1rQpO1mcue8a1z0gL97hzN+Y=;YxR9zuRz37tNWlLIadi0Qw=="

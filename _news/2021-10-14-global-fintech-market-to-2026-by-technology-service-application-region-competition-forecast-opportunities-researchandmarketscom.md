@@ -19,143 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027"
-    excerpt: "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates."
-    publishedDateTime: 2021-10-11T20:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11"
+  - title: "Fintech stays on the march as ASX non-bank lenders and financial wellness apps build market share"
+    excerpt: "ASX fintech stocks are rising rapidly as non bank lenders are gaining market share from banks. Stocks like HMY, PLT and DOU are growing"
+    publishedDateTime: 2021-10-13T14:45:00Z
+    webUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/"
+    ampWebUrl: "https://stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/fintech-stays-on-the-march-as-asx-non-bank-lenders-and-financial-wellness-apps-build-market-share/?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/10/ASX-fintech.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
-    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
-    publishedDateTime: 2021-10-14T14:36:00Z
-    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+  - title: "London fintech firm raises £8M in Series A fund to expand to the US"
+    excerpt: "A London-based fintech company specialising in debt capital markets has announced an £8m Series A round fund fuelling its expansion… | London | Recruitment | Finance | Finance | Investment | USA | Bus"
+    publishedDateTime: 2021-10-13T10:20:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/10/13/london-fintech-firm-raises-8m-in-series-a-fund-to-expand-to-the-us"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-10-13T10:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-20043451.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 40
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
-    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
-    publishedDateTime: 2021-10-15T03:21:00Z
-    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
-        width: 800
-        height: 490
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
-    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
-    publishedDateTime: 2021-10-14T11:44:00Z
-    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
-        width: 450
-        height: 249
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
-    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
-    publishedDateTime: 2021-10-12T12:09:00Z
-    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
-    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
-    publishedDateTime: 2021-10-14T06:13:00Z
-    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
-  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
-    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
-    publishedDateTime: 2021-10-14T05:22:00Z
-    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 22
-    images:
-      - url: "https://www.reportsgo.com/img/img-4.png"
-        width: 502
-        height: 300
-        isCached: true
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
-    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-10-14T15:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20047544.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 16
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://bdaily.co.uk/images/uploads/xIqSu1kc2buPg4yv2qQDg3PmjK1ExFZUWEgnLoji.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=e55f3b2453c8e49a33adf322a3d45633"
+        width: 940
+        height: 430
         isCached: true
 
 secured: "QNonqJFze9dE+O2MAnM+LfMsDkNLpKJNifpcWBxMp5yHMJ/1xeFuEoPDb/O55UHdS33bsZWbmiio6m4/SnpTxHXGxmeUaSYbfDWLCO1bk5/DfTHXhyOJhj7IAmtjZTG7SCR/j3SX9GU/Ob7zqu8aLdInB/YIBoUY32uixxNPUhF/dBKsZWOIbet97KMS6MeFnO5wYxBiu7KmOUH0js+7IThh3lI4i10+NtjaB5sGXZwQ/bxF//TRbxEQabxhKRv1vksv3yWpzg4k/XbcvZ4F7hl2+SWN7t5K78I489qoiPeOqCM8rJ1apk5sFGjWcz7pcap12zN0Yq/+pBzpMoTgy5SRNU8LR3cOhIu2225YvEQ=;k+s7p1JiWi/+1ipuqVhKYA=="

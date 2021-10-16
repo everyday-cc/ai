@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/veritone-shares-po
 webUrl: "https://markets.businessinsider.com/news/stocks/veritone-shares-pop-on-becoming-us-sole-doj-approved-multi-cloud-ai-platform-provider-1030866873"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Veritone Multi Cloud AI Platform Provider Approved for Use Across the Entire US Department of Justice"
+    excerpt: "Veritone, Inc. (NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, announced the expanded availability of aiWARE Government for all components of the U.S. Department of Justice (DOJ)."
+    publishedDateTime: 2021-10-16T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/10/16/veritone-multi-cloud-ai-platform-provider-approved-for-use-across-the-entire-us-department-of-justice/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 2
 
 secured: "vUSRuizFcJUosAHe9d++lUlbQCSnuT3Mv1nxVnNtmmS/0dSDvN/mIkCVTOLC042iasyPZf/dJ/zV+ttBdzY1nZwksedQaWbIKsBJ+Q5bOMQj6z3nszu2UQ+cuNgTYYzvLjaOIKah8C/b6cXO+SCRCzgo++DaGn0XR3tpx6JPapc5jld7QYeEGZQ1mT8yuc/VaxfXTgbG3ScunPVyRaPUr4qtWQ1wzOsXOZDwip2a7eMsB8OzideqpVWGvQFLVk+kElgB8sBRJRs/ixhgkykiMsV5pOl0gojJqQtUoaLJCCOt63b2hqdlo5AF84An2inwi/+Mev7BH8qGDi+KfiRdx8Iij+PAchO3zMn8GFkpEPcyKcYsDLtbHhVreRwf360UsF1uAmeYmUOXHt5wVn2wZaAxeSXiYoHKjoHVhPHHQDN8nWTR40p2hM4VNug3DinvnDdTxxxBsDP6fOb+/lXCOQNUaC1Xtd1yWhbZtrZW7TmdWq0TGy36Epr9rPXERA8ADUFmX1F5AT1F8xleFOOcVw==;JCRlEb/YsTZmvrYwnI2b6g=="
 ---

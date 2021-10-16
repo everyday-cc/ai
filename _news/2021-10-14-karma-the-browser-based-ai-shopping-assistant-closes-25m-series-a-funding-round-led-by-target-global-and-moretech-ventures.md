@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-930041786.jpg?w=1024"
         width: 1024
@@ -96,6 +96,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Hearing on Artificial Intelligence"
+    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
+    publishedDateTime: 2021-10-13T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 19
 
 secured: "eTO73usGjBfVUTGNH2KOGmXezg/TQr0GIA1GbVzqTtf/kLozj3fsi+IWNg7sysUSna+hg5K4RaqygeqfeviiISQKRFrBALHtjteQ3QdR6lvU4vOJ5t/ZxmjLKYg+VAUWeIyNE7O6C02Anw7YzjujeFMkXAJzLsCUKrBsF9MFD8JNQkKmrTYCG1E4mzsuvnDfWKuQw0ZLQP/4c2pe5woj/D2Q/7YibWKbnLSumTd/5KAOlysZ+Z2/M5/+CG3nQBmBqJh3e3WGbPL0hhZarBHFivjT0TtTu1ZeAvu3NS+stCWDq19EC7xZSsocwWNXzsqfgLCGC+thJdif/IqfAMQavYOuP2DRp/JDLRBYEP4Yvqs=;6slUh5pjdcrRil2HMmb0mA=="
 ---

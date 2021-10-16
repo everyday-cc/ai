@@ -6,9 +6,6 @@ publishedDateTime: 2021-10-11T16:02:00Z
 originalUrl: "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers"
 webUrl: "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Business Wire
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "O58bfNgb/nhsri360Ius2bS3myl2X02r3HjrsNS/epP9shMIuc/10aISv8qwYKun/ALvB6PrZqMX0+XgBkVQct7320fIHlJJnAGSSGkZ2OnYCHSN2OHy+MjOLQIBzdRPyqUJCogCov1OmDUJLOS2PXgF5ckzkqzctTJN/FgJHtIMd3wGVe8UZ34OownnI/xcHCNrHq5+7whDX2TQEp8f+LYQOLUpcImFfCiWNoBZuH8cNuOFgGJVPb1YgcY52SbRROhHO1cwMGqP9wP7Dq+2DgQCXHnQIq973g01XUTi3W35bjh5eVwPRavlUfOqfwrM6C7OfeoFpLLoQnEXjr1NI7rkq+Uezxejga0FZRAoD00=;vTpEMoUnou/VGz2jCdslOQ=="
+secured: "/yy9bZPmbFT22BA1bIn5O54o1cTwyf0v76+vXY502h2dwN01MOPclO1pyFH2t2QIKTkStG0xQNEo49RnBCOra6h5wYBvqC9VcW/ksAawYNjeLdMHvS3kB3f9X4OKtBVX+PtRiMNgHOIWRqU7S6lbavgYgF8TIGVXzwJaXtVHd5hOK6qeMGfQtU88yYoqiyeUtAVduxg52CWc+4iBTTiLhALkN/sHkUHGHnVNGq3VLcMEnMKbPKrKZ6gxTUUii970qlNbD0zVwBDFOxAeoKpY/5M2tO6RX2lYpjiXXRX7FJ8PAEaMhDt7j1ZlCOMCSpR/SwFHCZ5ovS4dxsDht11Szuw+ndV7P4TgrxaxnfxLkYM=;3eiGPV+ShCyd3BX74Cl2TQ=="
 ---
 

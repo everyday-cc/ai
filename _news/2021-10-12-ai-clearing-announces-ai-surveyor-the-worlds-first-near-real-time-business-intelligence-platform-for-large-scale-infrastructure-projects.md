@@ -40,15 +40,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Windward Launches Online Portal to Widen Access to AI-Powered Insights in the Maritime Industry"
-    excerpt: "Windward, the Predictive Intelligence company applying AI to transform global maritime trade, announced today the launch of the Windward Online Portal. The online portal provides on-demand services for shipowners and all maritime stakeholders,"
-    publishedDateTime: 2021-10-13T07:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/13/9468224.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "PLKija8nAFxYgmH6zV1BqX7iSZA5Qw2t15867+tjjssjfJriULcyvczRkG7DBgyKHdaQZb66Y2Zkc68i/KJi2xfK3mQW1UwVl4qJ+oYfqlrnrN8+ZWqoUfHRdHoKm4Thd9CKZO1WmKbDERyjHCKxJ/J0pRUCeN62EKnsmce7r9B9FHJJv3heUzWJ0J3NJBZUGy85RlMr6lxzFIrBqcs0VepkUbGDmgXxv6Gc9C8aJUp5XPBGedl8TTBH7L9PzQECNQOQrMI0KYr7U8FeM9Zbq1U7DiX2jRJajSLaX/4hw1oBg+FS4Xi/K1DUjAKKHsY+u0i5gapRiG2VczmMoOXmuj3xqHfan4hEEsHL7BO7xR8=;Ft6mGVjIREGZUwasexNteg=="
 ---

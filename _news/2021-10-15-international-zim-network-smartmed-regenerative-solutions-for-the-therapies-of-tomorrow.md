@@ -1,29 +1,29 @@
 ---
 category: news
 title: "International ZIM Network: SmartMed - Regenerative Solutions for the Therapies of Tomorrow"
-excerpt: "The kick-off for the first SmartMed network meeting (digital) took place on Thursday, October 14th. Almost all network partners were able to attend the 2.5-hour event and exchanged ideas on current and potential projects."
+excerpt: "The kick-off for the first SmartMed network meeting (digital) took place on Thursday, October 14 th. Almost all network partners were able to attend the 2.5-hour event and exchanged ideas on current and potential projects."
 publishedDateTime: 2021-10-15T10:32:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=547633"
-webUrl: "https://us.acrofan.com/detail.php?number=547633"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-germany-artificial-intelligence-9b62892ebcca4f13961d29ae7c4e3b2f"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-germany-artificial-intelligence-9b62892ebcca4f13961d29ae7c4e3b2f"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Ej26m/s5FvMBAAlFPcgmGrkrmfRM3YNb44HfVS1TieNWkP7QhS/fb892VCsri2Q6LGyTFJalEGm6fTM1kyz2In2/G2fOKTCauMcKbjYwcfobuzRhpz/3VFX+wDi1rEmP9B9gfzIJEBmz7792L2goDwuP9r9Uej+1QGMcewkbl9PjAypUCKzPD00liq+Fu05RMj88E2asno0boeQMSaPgVJhUYFal0hRox4Ycwmd54rIUdK/x3IYHpdgdzwO+YaMeCo8ien9D3Sc0R6aqtSM1uyoGEjzJX2TmeXWnI2fnoCilgcjABNnsLxrkY2v0DxilrnR48f5uhplX0Grd0sqEOD2zthhE64c3W4Ufz+Fi7OM=;sVLptCKxxorD0E9EWLFijQ=="
+secured: "okQeYm4ceWuinsFWrkmQGjgv4B9sVxsRgC4te/0b8+I4mFK/RgQDVA9xYEb3n4Nk1YUwXvTf1W3zyV6TEXs1csfOvfXBe5qjTkhnp4ri5KgnByQFOXqAMSiHEQo0Z5ycqpL68vCbOeO/iRhmuJAxb5O5zQ3kJx+/+4rjr/1iJrB/2yXJwyL3ZljP1eG2+Rl1yZur1TSNsvWmqMXPpn8gjq6iUCjYDhCBRNEFpKz4RyVIjpdFdM1giHRojQFFAKDVrj/CFB5QjMmAAa5nL+kED3ii4DaQ5/uk+y1RqRBI1rIsR/6JwN4r5f3A/EhGKdojnL+fev8Vb9xJQKPYlcxjp8nIwbdJKTbJAkZ0N+/77pc=;CT2Ttp56Dq8zl2/la/ZWvg=="
 ---
 

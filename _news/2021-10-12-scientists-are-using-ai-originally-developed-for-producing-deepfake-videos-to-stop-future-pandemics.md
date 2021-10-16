@@ -23,24 +23,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "AI-generated deepfake voices can fool both smart devices and humans with only five seconds of training and are better at imitating women and non-native English speakers"
-    excerpt: "Time Voice Cloning Toolbox,' SV2TTS was able to trick both WeChat and Amazon Alexa almost two-thirds of the time. Humans were fooled about half the time by the deepfake audio."
-    publishedDateTime: 2021-10-11T19:52:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10081007/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10081007/amp/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10081007/amp/AI-generated-deepfake-voices-fool-smart-assistants-humans-5-seconds-training.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 12
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/11/20/49041205-0-image-a-8_1633979906457.jpg"
-        width: 636
-        height: 382
-        isCached: true
-
 secured: "iybJZsDyB9g7x9jkwBdaAE6Se3p6DXUtEjp5l+GKItQSEJzmwjlB6LxKmZHG9rYqCccMkii8KYYracxnEHKBzrex4waslqrW+IIJTA+JWs7JgyBFB0shAv5I2mOcYCNKf/pnXajswwJYzQ1uUrUz89vnYi/Zn5yQlYN3p3IXykC2qwyI5EOV4katWrjmuOnJfW8bTwUT02QVpHDL+lf9ql0M/PRkatTcXIceUPtO/T5qH+vKBo3ckfPJxIaXJLj7P6dS7f9oqqo+lNGEBSX7kphUqra8M3hnhlhgdfMalEKhqMr0AVQYkh9HoiPkpv2WPl7rs9/qLHNWKl3YPm3ueA6GI4IovRfV+7jNewFdpwI=;lrXPdQOxACKaVcRhwS3/Lw=="
 ---
 

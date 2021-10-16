@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-resp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 800
         height: 446
         isCached: true
-  - title: "Hearing on Artificial Intelligence"
-    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 19
   - title: "IAG-backed research reveals need for investment in Responsible AI"
     excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
     publishedDateTime: 2021-10-14T03:15:00Z

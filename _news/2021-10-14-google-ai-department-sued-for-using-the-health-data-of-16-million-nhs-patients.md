@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-he
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
 type: article
 quality: 155
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Mount Sinai launches department of artificial intelligence and human health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
-    publishedDateTime: 2021-10-11T19:44:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/mount-sinai-launches-department-artificial-intelligence-and-human-health"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 52
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
         isCached: true
 
 secured: "XLGqyfjbs4bxNGIi7axC7XKRGgKfCF5KnmVhbXKswGAIe31OsfumHlp3EXFjzDG7xpFUwNDnpsIJ+ThQGxgjdKie5/N57rpnYl9L9bUaDnZryrQCiuiH/2R6ZIPmOxIjq5IZCQHbMJeQXjVXqcP9N4dBJFccZT4C00pmaLBfMAZSlncmU8IhkZ3bbDHbvjuI0CM7m8ePjVboaxTl6eoWGHYWTdnHRl/xcjSmumamNp/LWvuYHMWMsrb87F9y76Lk3uXzXEMqrPClycFoZM2E0bnuSUmS1VNzy82XvUCyAtHmvRqtCLNP3TBCA3SRsYtWxiCchgpiCPMp2aWGacm6UKi0qfJLX6AKTdfi7ybi5zXaaWmq0yksCWVGcCho4dmJkvuwp4q6V0W4cH3Gt/UeRYRaXve8zYb4SuOqM2oJB8KPn4CMQ8sPC288w9AzIGlZkzFTcXbsPYEiGB7afcSEjR/8CynoTTZG8kJAOkwmZzZab66EoVLnoKsISjekWQYBCG3bMnG4sRElxnxREDaL7LjSUZHipvdvfMK7rYrpNwE=;qujp5gfN+ORzKlfC4b/2yw=="

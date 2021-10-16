@@ -71,22 +71,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "China Has Won AI Battle With U.S., Says Ex-Pentagon Software Chief"
-    excerpt: "According to Reuters, the Pentagon’s former software chief Nicolas Chaillan told the Financial Times on Sunday that “We have no competing fighting chance against China in 15 to 20 years. Right now, it’s already a done deal;"
-    publishedDateTime: 2021-10-11T20:43:00Z
-    webUrl: "https://syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/"
-    ampWebUrl: "https://syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/11/china-has-won-ai-battle-with-u-s-says-ex-pentagon-software-chief/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/10/US-China.webp?fit=950%2C634&ssl=1"
-        width: 950
-        height: 633
-        isCached: true
   - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
     excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
     publishedDateTime: 2021-10-12T15:41:00Z

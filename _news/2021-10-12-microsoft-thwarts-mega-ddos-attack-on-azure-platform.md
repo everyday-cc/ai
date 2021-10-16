@@ -281,20 +281,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
-  - title: "Microsoft’s AI-powered Translator service now supports 100+ languages and dialects"
-    excerpt: "Translator service in its Azure public cloud, which uses artificial intelligence to automatically translate text. The languages and dialects that Microsoft has added are Bashkir, Dhivehi, Georgian, Kyrgyz,"
-    publishedDateTime: 2021-10-11T20:44:00Z
-    webUrl: "https://siliconangle.com/2021/10/11/microsofts-ai-powered-translator-service-now-supports-100-languages-dialects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/microsoft-1.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Content Analytics Discovery And Cognitive Systems Market May See Big Move | Microsoft, Google, SAP"
     excerpt: "Latest Report Available at Advance Market Analytics, “Content Analytics Discovery And Cognitive Systems Market” provides pin-point analysis for changing competitive dynamics and a forward looking perspective on different factors driving or restraining industry growth."
     publishedDateTime: 2021-10-12T10:01:00Z

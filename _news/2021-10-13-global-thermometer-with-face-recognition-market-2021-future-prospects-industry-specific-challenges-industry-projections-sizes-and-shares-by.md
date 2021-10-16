@@ -75,6 +75,48 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043451.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
+    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
+    publishedDateTime: 2021-10-14T11:44:00Z
+    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
+        width: 450
+        height: 249
+        isCached: true
+  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
+    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
+    publishedDateTime: 2021-10-14T05:22:00Z
+    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
+    type: article
+    provider:
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 22
+    images:
+      - url: "https://www.reportsgo.com/img/img-4.png"
+        width: 502
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
     excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
     publishedDateTime: 2021-10-16T07:03:00Z

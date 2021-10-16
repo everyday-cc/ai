@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Mount Sinai launches department of artificial intelligence and human health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai has launched a new department dedicated to advancing artificial intelligence (AI) to transform health care, further positioning the Mount Sinai Health System as a leader in providing patient care through pioneering innovations and technologies."
-    publishedDateTime: 2021-10-11T19:44:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/mount-sinai-launches-department-artificial-intelligence-and-human-health"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 52
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
 
 secured: "Z9krjrSFNCUCosxUIPD6T0Ub/PEl9M2feIk82D4Rfdyxn1xdgb57QGH7Aw/GF4Xckcgmw3YLxIQ9YLHcpgnp0dRwyJT/smQXXVURuVAFfhPe5A+WH0obNSwV14TgSkKyd+MA2n3//rp9mhWXrwubNLamvxKmPM976wcIL2BU6oK/uZ98+1pMDfw5V7FyWk7BISGLg0K/jJYVatwPnSmZNRuJOvtXFQn4IDD4EkFeJ8eNOkjf2tDfWYAm66rT/ai3dxiMTDj8h7FBhlq3pO9cq3OzxCAvJl1j713j+VDXOSFiv/988qlPgbxOg7dGpCItzW8fRHoUS+oCMrRLx2acaxa1Y8EGae+fgvZNIT+LEqNDprCfvhxkHpaxfl9J82MOz+4CmE3xR55Y6zBcrI9u/B6x+AuD+hXy43oKNxjidhHJ/2+Hk7kibkR0l4UplH4cQDaUpZEZtHIegbMh2iuXSk0k2uHGECDvQNwbkronXWMhM7PPrVtd15SXXjIEgnfdnYNVzXFBLFckftJGdnNYRA==;1sbhdM4AVEnZRqIUfaudsg=="
 ---
