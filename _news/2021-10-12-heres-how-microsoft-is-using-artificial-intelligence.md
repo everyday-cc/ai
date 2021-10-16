@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artific
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
 type: article
 quality: 84
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
         width: 1040
         height: 585
+        isCached: true
+  - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
+    excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
+    publishedDateTime: 2021-10-16T19:10:00Z
+    webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 70
+    images:
+      - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered"
     excerpt: "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected."

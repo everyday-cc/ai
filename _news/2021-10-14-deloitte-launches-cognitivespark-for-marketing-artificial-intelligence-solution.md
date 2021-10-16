@@ -3,16 +3,16 @@ category: news
 title: "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution"
 excerpt: "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement"
 publishedDateTime: 2021-10-14T13:00:00Z
-originalUrl: "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
-webUrl: "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+originalUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+webUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
 type: article
 quality: 51
 heat: 71
 published: true
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: WSAW
+  domain: wsaw.com
 
 topics:
   - AI in Healthcare
@@ -20,7 +20,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
+  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
     width: 980
     height: 735
     isCached: true
@@ -50,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 31
 
-secured: "Y0bzgxSaZFy0+RLLhP9/eVwRUPKjvOubJVQ0AZDoA4C1hSfcg1OEQmhXkZGG8iC8TX2RM6Nm6K+rvynp6EBda9hH26qibcnTRdN8rkhliP3LIUnGoKuMxTz5C80hqPQ/BQTLHoQDo0n7a5BVxyzi/VntuXsvYajXmy4dbP8gKr+39K8r+7LMVxiMQMBZ2cwLWGkdFKb3c4y7K9Ca9rB9UZFOmPvSkh6njBod/KVkJv+Uy6bl5XM+hiWGLatA0Xb/mXDwlkiN/ZsdyquKyjud5wNiWAioSdynJ5WpaOTXn3EAylWR53r+khJ9DV41wVNaFBoLGR57BzxViH2egCuMS+FIqY7m7/p5XI9+MlW70xE=;1x7dN0qBmphJfcLCcsKSFg=="
+secured: "7s2vhuVhr0RebSfYtGzad/TUG6NvE6ReB1dzcfiIBorvehiUAXPqSRNRahP6Cg8l6DA+44K3jRPwwmKz/deTVQQZ6rLpSdXrdB4TcDn255F0rUCvK7cIAasYRzeP0PU/7eSvhiG6Zqi7WQGImIR/NCYfhssqFcwW9weVulyjWecZMZqKxFjsUIR5IMxGptZ7bkmgEXJGBhdKMhsRXyfbLBhUADkVbyFr7N2JvcU/xZGh+nY8y2WvizQs9z16sPipl6ntDhMtXBNbblWw6Gfu0DWNX2XIOkRs7LHDOdIW04NJ3EZAJtHUqJwcS8G5OyTH5UxtgECazQDT6yEoYHrmN+gpP08PyE6u+NI0e1XlU94=;IERuECZWRxDGPL+c0cG7rw=="
 ---
 

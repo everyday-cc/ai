@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jason Landry: Crews use artificial intelligence to help search for missing Texas State student"
+    excerpt: "Another major search takes place Saturday since the last one in February, but this time search crews will be using newly derived maps."
+    publishedDateTime: 2021-10-16T18:21:00Z
+    webUrl: "https://abc13.com/jason-landry-missing-texas-state-student-luling-man-search-college/11133563/"
+    ampWebUrl: "https://abc13.com/amp/jason-landry-missing-texas-state-student-luling-man-search-college/11133563/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/jason-landry-missing-texas-state-student-luling-man-search-college/11133563/"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 45
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/9525848_011021-ktrk-missing-texas-state-student-folo-ext-haldeman-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TEXSAR volunteers will use artificial intelligence in search for Jason Landry Saturday near Luling"
     excerpt: "The 21-year-old Texas State student from Missouri City vanished last December after crashing on his drive home for Christmas break."
     publishedDateTime: 2021-10-16T03:22:00Z

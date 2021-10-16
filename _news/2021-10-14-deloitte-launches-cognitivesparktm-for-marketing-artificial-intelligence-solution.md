@@ -29,14 +29,14 @@ related:
   - title: "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution"
     excerpt: "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement"
     publishedDateTime: 2021-10-14T13:00:00Z
-    webUrl: "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+    webUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: WSAW
+      domain: wsaw.com
     quality: 51
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
+      - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
         width: 980
         height: 735
         isCached: true

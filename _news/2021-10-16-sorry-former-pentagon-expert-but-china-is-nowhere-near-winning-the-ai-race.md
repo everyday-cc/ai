@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china
 webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "China has won AI battle with US: Pentagon's former software chief"
-    excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
-    publishedDateTime: 2021-10-12T02:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/articleshow/86955326.cms"
-    ampWebUrl: "https://m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47488,msid-86955452/untitled-11.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Air Force embraces former software chief who quit, warned China is winning AI competition"
     excerpt: "The Air Force says it sought the input of Nicolas Chaillan, its former chief software officer, after he quit and publicly warned that China is winning the artificial intelligence race. Air Force Secretary Frank Kendall is said to have personally thanked Mr."
     publishedDateTime: 2021-10-13T19:44:00Z

@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "China has won AI battle with US: Pentagon's former software chief"
-    excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
-    publishedDateTime: 2021-10-12T02:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/articleshow/86955326.cms"
-    ampWebUrl: "https://m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47488,msid-86955452/untitled-11.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
     excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
     publishedDateTime: 2021-10-12T15:41:00Z

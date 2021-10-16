@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Waymos-autonomous-vehicles-keep-getting-stuck-in-a-dead-end-street-750x375-1.jpg"
         width: 750
         height: 375
+        isCached: true
+  - title: "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents"
+    excerpt: "In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week. Most would drive to the dead-end on 15th Avenue,"
+    publishedDateTime: 2021-10-16T19:51:00Z
+    webUrl: "https://knpr.org/npr/2021-10/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents"
+    type: article
+    provider:
+      name: KNPR
+      domain: knpr.org
+    quality: 33
+    images:
+      - url: "https://knpr.org/sites/default/themes/siteskin/inc/images/ogimg.png"
+        width: 600
+        height: 600
         isCached: true
   - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
     excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."

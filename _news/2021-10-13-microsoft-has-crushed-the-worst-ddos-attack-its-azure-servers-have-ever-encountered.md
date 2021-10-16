@@ -120,6 +120,20 @@ related:
         width: 1040
         height: 585
         isCached: true
+  - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
+    excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
+    publishedDateTime: 2021-10-16T19:10:00Z
+    webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 70
+    images:
+      - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
     excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
     publishedDateTime: 2021-10-14T14:51:00Z

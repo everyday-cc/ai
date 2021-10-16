@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-moving-today-4-biotech-s
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-moving-today-4-biotech-stocks-for-your-list-2021-10-15?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,19 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "What To Invest In Right Now? 4 Fintech Stocks For Your Watchlist"
+    excerpt: "If you believe so, it may not be the worst idea to look at fintech stocks right now. With that in mind, here are four top names in the stock market today. First, let us look at the popular fintech company,"
+    publishedDateTime: 2021-10-16T18:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "gHvzywOj42Nhb6x2kTEoKeK5rFSV1NuscFPnvY4wI3ZznZan6LYqFXx1QmDHy+VgYUzSqeCzTM3XVfAUt0FAOdpCspAEG4Smlq8qDZEd2x/gVSTMBbolMXCDA13mGTz9GtqWsYPZqyDTU0hCR8s3zeY14BSphDoVrMnnNMQLpGow1U393Gn4Ls+MTQCKmd3RcV19j3QqmmQ/RRJuA6xWhup0xz6L12tcTvYvyEPerDtDc7fDBtkqe5XCUAe3gjolGdFHCH6/teb5wPa3lSp88HSI5VzBdSYEMTV1zdFwpRf/ZnnUVW+rNh+IKNsZzRQCWcWlnEMj3vI5ORHJdpckhkmbr71RfS8/hzGkFvaysfo=;u2FBZioUn9Aov9Fs/s+Jpw=="
 ---

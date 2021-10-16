@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "IIM Lucknow invites applications for executive programme in Artificial Intelligence for business"
-    excerpt: "The ‘Executive Program in AI for Business’ is a six-month intensive learning program with live online classes. It is suitable for data and techno-functional practitioners like product and project managers along with business department heads."
-    publishedDateTime: 2021-10-14T13:04:00Z
-    webUrl: "https://indianexpress.com/article/education/iim-lucknow-invites-applications-for-executive-programme-in-ai-for-business-7571896/"
-    ampWebUrl: "https://indianexpress.com/article/education/iim-lucknow-invites-applications-for-executive-programme-in-ai-for-business-7571896/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-lucknow-invites-applications-for-executive-programme-in-ai-for-business-7571896/lite/"
+  - title: "NALSAR, CHSS to empower security agencies with AI course"
+    excerpt: "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country."
+    publishedDateTime: 2021-10-16T18:55:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
     images:
-      - url: "https://images.indianexpress.com/2017/02/iim_lucknow1200.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.thehansindia.com/h-upload/2021/10/16/1117482-nalsr.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "vhXyz1sUSdu7iEWkSOKC0P7RZDDpt5SiJlyjZ8I8Kou91/cHJTegp4Xmxv6zamY9CkWn8jBk1nncGfSCjmpUJ+1R06ykJmaOs47g90iK2z+ShFpLFquSkNGMfWMPGjmrhIXozPzRKghkuCEEueppzj/Gxbc58d3Py4QbgwkzC5r0H1grevxPoL64XYKmJNORMhb3YH+6iwKErs/MMlcX6W52MNPIPmgme8Sjn/1IV3wFKSsKVVKBDKkTfch4NKfb9LWxvwtg7c+iVmaJUOtWiokxGE49cCPiVEHeDHdIy3zSJaRcXoJBz+pfa6kYxkUk53/WgFnswkjjQeHar9yiveZ6nb8pY1AUw6ZJeA8g6i4=;QZ2jNVmOQi5gTx1XdsWVtg=="
