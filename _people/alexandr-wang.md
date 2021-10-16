@@ -3,7 +3,7 @@ name: "Alexandr Wang"
 bio: "Founder and CEO at Scale AI - a data platform for AI."
 location: San Francisco, CA
 type: "profile"
-heat: 89
+heat: 65
 
 affiliation:
   name: Scale
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Alexandr Wang"
 
-secured: "yTMAseYmj4pdwDs46ZftFLMmizu4QBOxTsSbvOkjVERSK2Okq6OLgB5DI2RfOQ/MVZ+zMcPVDEGPpmrX2RrGWP+bWr9ddtCsZ9vRKCqXTerld5WIESD4fH+BicZl4A/OUYV4BNvfuW5e6PP4Buwg9YtxBmMmAyGZB5Jgk+esitXw1+6yXqwik/hZiM0DKADLTUsa0MbQU/UQERbnbIg7ewJ0CNZuP4Vks4Db77DEXrGKO7B3IRmCrviICrsA+GcltGah9FWSF2pKhtvAMoxFWflMK68nPmtZYivjyLvQoeDUjXDG1Io+eVmU4qtkKaQ066uqHZqT11C85y1SL10Zf8KC8To1FnHSuz0hFS2FKWz0NuGVGK4KGnCjrk956b1AtOHlNp40M3yTHnxnvvns++19aXJuzASxXV6TZuqmXeQ=;U7osmU/bjFA4/ys8k3R4lg=="
+secured: "N9LMC1Oi+xYWICeHcp4kn23+4oj7koU59Kc0RIH4VVC4rUUeE4aKF/gMj8RB7zFXJ2yW+O9opDy9IMyWuVTVESGZ8zkYkSEH03QlMcnQ5dm97HLt2EfMouw4EZM0cz/n0fTASkuMj8F+Ea11onGD0Mn1BEPaH4es0xixAQXas9LDyIleiDKwTajQIo1aDZISUES1z1hAAkP9z0PSWiZI9D0GL66Goi3neU4zTRJ6GDe10zuqszrcwamJ6iXn7TPUBftjjRAQTiqVCH5P1/XqKD9x/sCubJgqPmqw7qJmrLpN4yqeVl/qnaQ5882IiVszjY9JKpdmq4ZfsxK5MM7bmkQKllLTBn4cWm4FhSy8cndtuabLMH5INkLXccibka1gQSMCywFpTLKr1sMGkmmgu7FGBPNNHlSoP0G3vLCDyic=;BQMKyNqBBX68J/Hk4jeZ8g=="
 ---
 
