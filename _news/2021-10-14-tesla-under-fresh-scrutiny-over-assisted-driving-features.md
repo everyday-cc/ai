@@ -25,53 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn't file recall paperwork when it updated Autopilot software so it would do a"
-    publishedDateTime: 2021-10-13T11:56:00Z
-    webUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/"
-    ampWebUrl: "https://ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4725265/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system/amp/"
+  - title: "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’"
+    excerpt: "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot."
+    publishedDateTime: 2021-10-13T16:46:00Z
+    webUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/"
+    ampWebUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Electrek
+      domain: electrek.co
+    quality: 81
     images:
-      - url: "https://ktar.com/wp-content/uploads/2021/10/ap_92ae0afc22f9486aad28c3ec1dc762bb.jpg"
-        width: 1280
-        height: 852
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
-    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
-    publishedDateTime: 2021-10-13T17:56:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+  - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
+    excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
+    publishedDateTime: 2021-10-11T13:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-owners-safety-score/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 79
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
-        width: 320
-        height: 214
+      - url: "https://www.cnet.com/a/img/AlelQuTQnwIvVeJhumirT_nwxJ8=/2021/08/20/3aa8af46-9168-4930-8ff1-d6d502ab3378/ogi-tesla-ai-day-fsd-demo.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Hardcore Tesla Fans Did A Lot Of Weird, Joyless-Seeming Driving So They Can Get The New FSD Beta"
-    excerpt: "I have to give Tesla credit where credit is due: it manages to keep creating strange, fascinating situations that never really occurred in the automotive industry before. T his past weekend, thanks to some tweets from Tesla big chief Elon Musk,"
-    publishedDateTime: 2021-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347"
-    ampWebUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
+  - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
+    excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
+    publishedDateTime: 2021-10-13T11:53:00Z
+    webUrl: "https://www.outlookindia.com/website/story/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 46
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 55
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
-        width: 800
-        height: 450
+      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
+        width: 550
+        height: 372
+        isCached: true
+  - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
+    excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
+    publishedDateTime: 2021-10-13T19:00:00Z
+    webUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/"
+    ampWebUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 52
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
+    excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
+    publishedDateTime: 2021-10-13T17:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/samsung-potentially-takes-the-lead-on-teslas-self-driving-chips/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 39
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
+        width: 700
+        height: 351
+        isCached: true
+  - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
+    excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
+    publishedDateTime: 2021-10-12T23:58:00Z
+    webUrl: "https://www.thedrive.com/tech/42710/tesla-full-self-driving-but-not-really-beta-is-now-live-on-the-streets"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 38
+    images:
+      - url: "https://www.thedrive.com/content/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "JR+c4U3waY4QFpgf0JYYb6O8lxRLhd1EyC1mAp41QNSHWzFu3c/d91z3M1Pf43tW9GthzwU0W+1Wec8UdTmUjo7HAHVwPd/exv5Zyn7eVadRzj0YIMKebqv05Rfm8MZotwz5wzARSFsDqIMl5dYGoPMRHX7NHRwfkSXAaTrzQ6Pq7dgoqI7u4NujIk5H8vOrlvAF4YExyb2s3nh5pD+icxC5fZPYLzwTogJp/G/qQrDzjBQsUQs7bk4B7SYtg2EFxfygwU6QPt8t37bnvOu/JHrnhV8OTK6CBJqeC3JFn0esjFf+bS8bXgkO6eqIm+fp73k+k62Uhb/iyjzxPtUaN6NvPn0tSGV5ESmr5qhFy2I=;Gra8DofELgr3JEUyt2CL0A=="

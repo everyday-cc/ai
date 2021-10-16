@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "United States has lost AI battle to China"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief said."
-    publishedDateTime: 2021-10-11T09:02:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDuEq2x0ZPLReFmZA03SXyeE%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 39
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/7-eac85750-2f5d-4647-8619-ee3a0b614b10.jpeg"
-        width: 740
-        height: 453
-        isCached: true
   - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
     excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
     publishedDateTime: 2021-10-12T11:16:00Z

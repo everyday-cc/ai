@@ -41,18 +41,18 @@ related:
         height: 579
         isCached: true
   - title: "Ex-Intel executives' startup aims to tackle spiraling costs of AI"
-    excerpt: "After Intel bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
-    publishedDateTime: 2021-10-14T02:34:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2242426"
+    excerpt: "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
+    publishedDateTime: 2021-10-13T19:19:00Z
+    webUrl: "https://www.reuters.com/technology/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2021-10-13/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--oau83d8p--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-10-13t143304z_1_lynxmpeh9c0qu_rtroptp_3_mosaicml-tech.jpg?itok=4GZq8cRE"
+      - url: "https://www.reuters.com/resizer/ih6YXlR1PhCM0rEdJ6bwV2S_AxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ABYR4EEJPBMCPO3GDKWN5JHVIM.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
 
 secured: "CTLUkwRHSJgtfNy+nddzXqzGht+Jb+kxoyZi4hxov8wYxuVQ3b73lqWTFnKHEiiaGFsU/LOaDBTYM3feaduS0DCQFmR+nybwDxL0rcXxCAWfcM4dDJ526DekX5B55/S+b/bnO5zS35PB58YtIV/nsOKCDzZerzQe8boZ4E/z7M+RFwC2VRn/3mEl1bftf0IZRaHR8tjlYz4Zt17ISCZpbnTmzUH7nvAwjqsXSk4VCZJH/HzftmfU0la57Viywmq0q7kFbf4lJk+Jv2zDLZW17GFKyrqZ60IKGVktQAA1Za8tA6/dfUZqASa1+nm30KJ5N6sB4aaITlQ0QExbq5sZWpax+7pIBZXVA3v5igRAVUpHyj4K7YZxlDH9a4VCg9ggtYcwfs1YSFXQjcDxAABOQhj2ZNidk8Y34HuycRI2Qa9IWLdi/+F2Tz85pd5K8nls6DKl0DzKs//iysZnuLSZHAAvNmnNwvb5+fDzWYuU30c84coW5NdxSf/8lPXePyri+9asAAIVG47Owtl+e+qRgw==;zo/AZy4KhzWEc6IKyi16dw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
 type: article
 quality: 156
-heat: 386
+heat: 376
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "Nexer Insight Has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Nexer Insight has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep"
-    publishedDateTime: 2021-10-11T09:20:00Z
-    webUrl: "https://www.mynewsdesk.com/se/nexer/pressreleases/nexer-insight-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-3135077"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 74
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/wjyzng6kmbq3pbld9vu9.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Microsoft and Nvidia created the world's largest, most powerful language model to date, but it's still biased"
     excerpt: "Nvidia and Microsoft on Monday revealed they have been working together on something called the “Megatron-Turing Natural Language Generation model.” The two companies claim they’ve created"

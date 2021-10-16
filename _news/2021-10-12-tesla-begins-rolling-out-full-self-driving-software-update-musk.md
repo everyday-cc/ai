@@ -19,54 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US"
-    excerpt: "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location"
-    publishedDateTime: 2021-10-11T10:21:00Z
-    webUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/"
-    ampWebUrl: "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’"
-    excerpt: "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot."
-    publishedDateTime: 2021-10-13T16:46:00Z
-    webUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/"
-    ampWebUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 81
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla Full Self-Driving beta 10.2 rolls out to more owners -- perfect safety score required"
-    excerpt: "Tesla's Full Self-Driving beta is now rolling out to more owners than ever after CEO Elon Musk confirmed early Monday morning beta 10.2 is ready for download. This latest update will be available to the current group of beta testers,"
-    publishedDateTime: 2021-10-11T13:25:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-owners-safety-score/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-owners-safety-score/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 79
-    images:
-      - url: "https://www.cnet.com/a/img/AlelQuTQnwIvVeJhumirT_nwxJ8=/2021/08/20/3aa8af46-9168-4930-8ff1-d6d502ab3378/ogi-tesla-ai-day-fsd-demo.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\"."
     publishedDateTime: 2021-10-13T04:02:00Z
@@ -99,22 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
-    excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
-    publishedDateTime: 2021-10-13T11:53:00Z
-    webUrl: "https://www.outlookindia.com/website/story/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 55
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
-        width: 550
-        height: 372
-        isCached: true
   - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
     excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."
     publishedDateTime: 2021-10-11T15:26:00Z
@@ -145,21 +81,30 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
-    excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
-    publishedDateTime: 2021-10-13T19:00:00Z
-    webUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/"
-    ampWebUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+  - title: "Tesla: ‘full self-driving’ is self-defeating hype"
+    excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
+    publishedDateTime: 2021-10-11T15:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Hardcore Tesla Fans Did A Lot Of Weird, Joyless-Seeming Driving So They Can Get The New FSD Beta"
+    excerpt: "I have to give Tesla credit where credit is due: it manages to keep creating strange, fascinating situations that never really occurred in the automotive industry before. T his past weekend, thanks to some tweets from Tesla big chief Elon Musk,"
+    publishedDateTime: 2021-10-11T17:00:00Z
+    webUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347"
+    ampWebUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 46
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
@@ -189,33 +134,30 @@ related:
         width: 690
         height: 758
         isCached: true
-  - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
-    excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
-    publishedDateTime: 2021-10-13T17:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/samsung-potentially-takes-the-lead-on-teslas-self-driving-chips/"
+  - title: "TSLA Stock: What Really Matters About the Full Self-Driving Rollout"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) is reportedly expanding access to its Full Self-Driving"
+    publishedDateTime: 2021-10-15T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tsla-stock-what-really-matters-about-the-full-self-driving-rollout-1030869045"
     type: article
     provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 39
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
-        width: 700
-        height: 351
-        isCached: true
-  - title: "Tesla Full Self-Driving (But Not Really) Beta Is Now Live on the Streets"
-    excerpt: "Tesla's controversially named Full Self-Driving beta is officially rolling out to more beta testers on the road. Drivers who purchased the $10,000 add-on are eligible to receive the update, so as long as they also achieve a perfect Tesla-ranked \"safety score."
-    publishedDateTime: 2021-10-12T23:58:00Z
-    webUrl: "https://www.thedrive.com/tech/42710/tesla-full-self-driving-but-not-really-beta-is-now-live-on-the-streets"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
+    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
+    publishedDateTime: 2021-10-12T15:20:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 38
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
     images:
-      - url: "https://www.thedrive.com/content/2020/02/autopilot_0.jpg?quality=85"
-        width: 1920
-        height: 1080
+      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "y+zIYxtVZHmWYSjGqlYapW9K8pRPGyv0njh7x76vJ4q5SSuiYZKSX4ijQNfWOW0yDFiqi6OAmDgs32dkDE+q12AvfO330YhN5ry/PSEAcSCBYxHC7YAvSfI/r3/YATP/nSbIjqnoL7iiNjk/cfVHs3yFLPYVIQBXgnbShYq0lsfKpqRXgTxXKD1txAQ0tDKs+cPFq9Ie8ZKe6gjaL2pvv4tBg6qzyvN3ne51HxqrL+mquytmIGeSRdXu6hmPgTmLOZyHB/OcZLjSUXyb+tsS1W+ZFq0oKixQSU7sINqsu5juf6R9xc55zSJEvVI2hqV6THCvzSdk4OOw1gthlSztsUnc++DcLMAuqp+hwlZqiqE=;m6OotevRRbnhVKue7OGqRQ=="

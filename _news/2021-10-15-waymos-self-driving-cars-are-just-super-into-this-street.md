@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Waymo self-driving cars bizarre behavior on a dead-end street"
+    excerpt: "Waymo self-driving cars in San Francisco are behaving weirdly when it comes to a dead-end street named, Richmond dead-end street."
+    publishedDateTime: 2021-10-16T02:19:00Z
+    webUrl: "https://techstory.in/waymo-self-driving-cars-bizarre-behavior-on-a-dead-end-street/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/1014-cbsnewspath-cars-815700-640x360-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
     excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
     publishedDateTime: 2021-10-15T01:28:00Z

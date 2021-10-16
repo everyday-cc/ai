@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "China Has Won AI Battle With US, Pentagon's Ex-Software Chief Says"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T10:16:00Z
-    webUrl: "https://www.news18.com/news/tech/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says-4310954.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says-4310954.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/china-has-won-ai-battle-with-us-pentagons-ex-software-chief-says-4310954.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 59
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/10/ai_reuters-163394733316x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "China has won AI battle with US: Pentagon's former software chief"
     excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
     publishedDateTime: 2021-10-12T02:11:00Z
@@ -132,20 +116,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/3abcc90/2ccfb016-ef72-4da5-a40a-efc07801e5c5/6/ai-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Pentagon’s ex-software chief says China has won AI battle with US"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon s former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T10:52:00Z
-    webUrl: "https://thefrontierpost.com/pentagons-ex-software-chief-says-china-has-won-ai-battle-with-us/"
-    type: article
-    provider:
-      name: The Frontier Post
-      domain: thefrontierpost.com
-    quality: 39
-    images:
-      - url: "https://thefrontierpost.com/wp-content/uploads/2020/09/FP-Logo-scaled.jpg"
-        width: 1920
-        height: 886
         isCached: true
   - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."

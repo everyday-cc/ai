@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-p
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
 type: article
 quality: 57
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/26/Biden_Air_Force_Nominee_55039.jpg-11814_c0-280-5000-3196_s1200x700.jpg?d4e91f06fc102cbc877d1177e2fe00769277f6fd"
         width: 1200
         height: 700
-        isCached: true
-  - title: "United States has lost AI battle to China"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief said."
-    publishedDateTime: 2021-10-11T09:02:00Z
-    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDuEq2x0ZPLReFmZA03SXyeE%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 39
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/7-eac85750-2f5d-4647-8619-ee3a0b614b10.jpeg"
-        width: 740
-        height: 453
         isCached: true
   - title: "China has won AI battle with US"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."

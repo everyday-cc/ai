@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Ex-Intel executives' startup aims to tackle spiraling costs of AI"
-excerpt: "After Intel bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
-publishedDateTime: 2021-10-14T02:34:00Z
-originalUrl: "https://www.channelnewsasia.com/business/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2242426"
-webUrl: "https://www.channelnewsasia.com/business/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2242426"
+excerpt: "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
+publishedDateTime: 2021-10-13T19:19:00Z
+originalUrl: "https://www.reuters.com/technology/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2021-10-13/"
+webUrl: "https://www.reuters.com/technology/ex-intel-executives-startup-aims-tackle-spiraling-costs-ai-2021-10-13/"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--oau83d8p--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-10-13t143304z_1_lynxmpeh9c0qu_rtroptp_3_mosaicml-tech.jpg?itok=4GZq8cRE"
+  - url: "https://www.reuters.com/resizer/ih6YXlR1PhCM0rEdJ6bwV2S_AxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ABYR4EEJPBMCPO3GDKWN5JHVIM.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -53,6 +57,6 @@ related:
       domain: usnews.com
     quality: 67
 
-secured: "d2oHGHYl86HAl+okmEe1QmFK5ZRUbCgUADSij3QLtTUq+Ncngd65VVf/qzL2pvzcKgW7me2nPHIs+SCSH1yI9yCaPO+vKhtuF36vklzhi4uFIpNbF2UR4UhwVVr534/WYK4WFPvcYp+HurbEAEEuwYMsM1Himl7Y9SI2grFBTsAmklPKx6/M1+A6pThKLP5Dm7ritoCh7jajIZGJTUL3Z7qwQNPdg+vo6aVtpX6L604Su3N4VR+sAm186pygoOabmmXcv2fWKaKaOOXBZG+rIiP/eYskizQoG9z/TJflkSI68Kj+ty8K1ZFwp6ENNB6eAuUzABpAelK5gWK9gXuY5pSQuE1OqNq0lf3sew0p7S4=;TEn6hvgXAvm7/pOIPaZIsg=="
+secured: "7fdbWMRAVPRWg6pLV4T1vUwvF4V1fSWWPTGPd3YhqU+wVhTZAyLIhTrDeZSTdEWfy/4aigvxhzb2nHaAXa7djgm+76NoUJy+ZCAJITa31k4qSPiYIyPM9s182YLXk3INAP/QAtWVcEuwe2/UtMVlwBSKR2NvIHf0OAgCDg+TLkb8uHaPqxHjKXnL3Prs0YMh9BzasVJM2C/O9GNdYdv13w2nfuKeo4As2/VpSs5bL+/G+OHfSwui1uEg2Yz4x61boExjd1nFHy1e8mAKpnM4Y8LHOOy/TWQp60sU9+t8xJDK2nBw4O7vNOpL6m2GPlp9xivcJMEnLpYSjDbr/lJYkMk4BatzmGgsyKjinDX86wk=;yKfcu93r2UJiUVn7F35KCw=="
 ---
 

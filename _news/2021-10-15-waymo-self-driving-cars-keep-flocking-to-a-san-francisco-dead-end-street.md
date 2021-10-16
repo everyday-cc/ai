@@ -119,6 +119,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Waymo self-driving cars bizarre behavior on a dead-end street"
+    excerpt: "Waymo self-driving cars in San Francisco are behaving weirdly when it comes to a dead-end street named, Richmond dead-end street."
+    publishedDateTime: 2021-10-16T02:19:00Z
+    webUrl: "https://techstory.in/waymo-self-driving-cars-bizarre-behavior-on-a-dead-end-street/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/1014-cbsnewspath-cars-815700-640x360-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Several Autonomous Cars Keep Driving Into And Getting Stuck In This Dead-End Street"
     excerpt: "Advertisement Waymo is a Google offshoot that makes usually impressive self-driving cars. Recently, it had been reported that the cars made by the company are getting stuck on the same dead-end street."
     publishedDateTime: 2021-10-15T18:50:00Z

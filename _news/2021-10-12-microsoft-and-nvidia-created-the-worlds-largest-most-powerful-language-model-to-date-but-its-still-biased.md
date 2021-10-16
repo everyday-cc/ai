@@ -125,20 +125,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Nexer Insight Has Earned the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Nexer Insight has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep"
-    publishedDateTime: 2021-10-11T09:20:00Z
-    webUrl: "https://www.mynewsdesk.com/se/nexer/pressreleases/nexer-insight-has-earned-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-3135077"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 74
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/wjyzng6kmbq3pbld9vu9.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft and Nvidia partner up on speech recognition model training"
     excerpt: "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models."
     publishedDateTime: 2021-10-13T17:19:00Z
