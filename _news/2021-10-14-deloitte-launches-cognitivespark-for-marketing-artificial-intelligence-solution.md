@@ -3,16 +3,16 @@ category: news
 title: "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution"
 excerpt: "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement"
 publishedDateTime: 2021-10-14T13:00:00Z
-originalUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
-webUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
 type: article
 quality: 51
 heat: 71
 published: true
 
 provider:
-  name: WSAW
-  domain: wsaw.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - AI in Healthcare
@@ -20,7 +20,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
+  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
     width: 980
     height: 735
     isCached: true
@@ -50,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 31
 
-secured: "p/kMzHuqeJCcL7UCBroMHC64LKCIVQYMklq4U5JDqwbOCH3zgaU0S/2aSYa1QCK9vXTQppYuxadmvz0++Jzr5j5MTqBmmz/fnPdw4c2NZWpYFXTY4fAWOR13PiupGO0Kya40B/XeP8EShnFHLEi6TRFuxg2LmNLvmVX9JLD0SOy/bnjmoQTtb5LS67HjCJopLnIpsWbxUGDvcympQqAKOYePafTotYjfTow3GIQcHSGmkSko1QS+xEqfZ5gHXQKX9IqFwLMjcKY/pBDLkiQ+/lJl/Wkm1u0zrDx5ou3MVtKKCUsIk55EQhi9pDto+HJhRMMg5jLX1dybGvd7rdGiBn9DiJV9QU7eOSvDNm1kHOlH+uhGQLjUB7tpluCuNxe7mUotvpTEe2azhvJmMmZlVRkgbQhee0CjGp90cpt7vPkiH3rxMGSf0fI2vHXKO9WJPNgIpA5mCCVHGEiakWYIOq/RK6I1Ks/vE/oatMQUbmERtnA93YbDnmhiN62K/3OaM3QlubVdgc1W1YJz76dEFA==;b6XEd7Eb9/9tbzdOhmX7oA=="
+secured: "Y0bzgxSaZFy0+RLLhP9/eVwRUPKjvOubJVQ0AZDoA4C1hSfcg1OEQmhXkZGG8iC8TX2RM6Nm6K+rvynp6EBda9hH26qibcnTRdN8rkhliP3LIUnGoKuMxTz5C80hqPQ/BQTLHoQDo0n7a5BVxyzi/VntuXsvYajXmy4dbP8gKr+39K8r+7LMVxiMQMBZ2cwLWGkdFKb3c4y7K9Ca9rB9UZFOmPvSkh6njBod/KVkJv+Uy6bl5XM+hiWGLatA0Xb/mXDwlkiN/ZsdyquKyjud5wNiWAioSdynJ5WpaOTXn3EAylWR53r+khJ9DV41wVNaFBoLGR57BzxViH2egCuMS+FIqY7m7/p5XI9+MlW70xE=;1x7dN0qBmphJfcLCcsKSFg=="
 ---
 

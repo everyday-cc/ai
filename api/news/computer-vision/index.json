@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-17-moscow-metro-introduces-facial-recognition-based-payments.md",
+      "title": "Moscow Metro Introduces Facial Recognition-Based Payments",
+      "excerpt": "Moscow has equipped more than 240 of its metro stations with a new system called Face Pay that uses facial recognition to charge passengers for their fare, which is said to be more convenient than swiping a card or paying with a smartphone,",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments",
+      "originalUrl": "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/m/moscow-met/moscow-metro-introduces-facial-recognition-based-payments_59gg.1200.jpg",
+          "width": 810,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-16T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-facial-recognition-is-finally-raising-questions-about-government-accountability.md",
       "title": "Facial Recognition Is Finally Raising Questions About Government Accountability",
       "excerpt": "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,",
@@ -77,58 +129,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-privacy-fears-as-moscow-metro-rolls-out-facial-recognition-pay-system.md",
-      "title": "Privacy fears as Moscow metro rolls out facial recognition pay system",
-      "excerpt": "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/13d517cc7ec035116d60ec0e4c1ce37ecd9a7dd4/0_42_4386_2632/master/4386.jpg?width=620&quality=85&auto=format&fit=max&s=50b61a504c79b5a3b4aa3e26d6198092",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
-      "publishedDateTime": "2021-10-15T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

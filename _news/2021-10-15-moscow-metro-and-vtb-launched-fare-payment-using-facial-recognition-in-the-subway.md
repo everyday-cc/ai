@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Moscow Metro Introduces Facial Recognition-Based Payments"
+    excerpt: "Moscow has equipped more than 240 of its metro stations with a new system called Face Pay that uses facial recognition to charge passengers for their fare, which is said to be more convenient than swiping a card or paying with a smartphone,"
+    publishedDateTime: 2021-10-16T17:14:00Z
+    webUrl: "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/m/moscow-met/moscow-metro-introduces-facial-recognition-based-payments_59gg.1200.jpg"
+        width: 810
+        height: 456
+        isCached: true
   - title: "Privacy fears as Moscow metro rolls out facial recognition pay system"
     excerpt: "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population"
     publishedDateTime: 2021-10-15T10:00:00Z
@@ -54,6 +68,34 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "White House Wants to Know How Biometrics Like Facial Recognition Are Being Used"
+    excerpt: "A request for comments is polling governments and the private sector on the full breadth of uses, whether it’s IDing faces or predicting malintent."
+    publishedDateTime: 2021-10-12T17:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-know-how-biometrics-facial-recognition-are-being-used/186033/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/12/NGbiometrics20211012/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "AI-Based Facial Recognition Temperature Measurement Access Solution Effectively Controls Infectious Diseases"
+    excerpt: "Nine Technology Korea Co., Ltd, a technology company in Korea, is pleased to announce that its Facial Recognition Body Temperature Measurement PDA solution is now available on the market. In the year 2020,"
+    publishedDateTime: 2021-10-16T12:44:00Z
+    webUrl: "https://menafn.com/1102979612/AI-Based-Facial-Recognition-Temperature-Measurement-Access-Solution-Effectively-Controls-Infectious-Diseases"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?567024"
+        width: 436
+        height: 249
         isCached: true
 
 secured: "003aDxJuuthOezK/4lGrZrXObck9SCsvUvC+6mYTHmZ0QY4DN+ZnWd2QECHfGV690MGHPsiA1xyREbIX05OSmra9KX7dUmBmKOh5A9KgWSQ02J7JISH3V1MUIQ1hOuIkKbZcEyQk8NDvKMnzedj4E176XpOWPVT9BdpzYVdNgLXXbpB+gBs9NWiszmGEUSqeMhbX1k4zPdrpG7USdegN/IAq4UDiRHE1Du4Zr8N+VQM9Wtnw3ICA9QgZzRk55FOn7UBlUVTWQQ7ZWMDlY4fcgg+qntwZn1LuOHhTfD//RX20gQWYNlDy8kcCPnmRNT6dvBZmM9hLWUhFFAENoX1DBCVGAdIaW6LRyX1AUCjhfMDjiPPnE1R7ijRZlGGvCIs6GMhHf2BLXZnUsJ3s9L1HAedtR7jmsyEDFWLH0gISQtx1lZLSzPyHpOSpJzbmH1zpsj4PMwCVIHSQNngoQUAojBtHmIKOk1NVEMOOabmMYMyztf3/vD89/3WYNDwPwnheBcjmtTkjxBwmgl8nEAg5Bg==;GPflIHjOigYpoLmoKPrduw=="

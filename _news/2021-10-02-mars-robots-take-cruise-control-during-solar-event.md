@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Mars robots take cruise control during solar event"
-excerpt: "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years."
-publishedDateTime: 2021-10-02T16:50:00Z
-originalUrl: "https://www.waaytv.com/content/national/575445912.html"
-webUrl: "https://www.waaytv.com/content/national/575445912.html"
-ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575445912"
-cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575445912"
+excerpt: "The words of John Denver's \"Take Me Home, Country Roads\" came to mind ... on simplified cruise control. Consider it a two-week Martian summer break for the unsupervised robots, and a bit of ..."
+publishedDateTime: 2021-10-02T16:33:00Z
+originalUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
+webUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
 type: article
 
 provider:
-  name: WAAY-TV
-  domain: waaytv.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-    width: 640
-    height: 380
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210929173358-01-nasa-mars-solar-conjunction-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "XyX/AhzSgxgT49Gm2//IXVSptSZTgG2wqrL9peliVN/akn2Sr+3062+Nw2KyRXdJZeye8UGlEce7l4lhYv7z9OFOBnA3B3GzY2ZmwVIS2KOgn3yq8xpZvxQt8bR4CDPqw6N4v9lwu9p0AfsxZg+u/Op/yA/+64DijDOU6hyrq1o0ESnztXXprK10k0uAXR+KNs+fjF97n+Es1MjvkWO07M5PR8UV6heZCAmhRUsEB0ZZvkwGddb/4gTIATAtUxtP+yLUsmgvjDUf6Aus8H56Y2L0YpU+PpQCsuoa5JWxv2aB7wJ7+pjwT9ICnBat7ER9MHYNllex0HwmfXwNMlqVjKlPvbgaJBaVTJF6P3pM7dU=;wrvCSesF4zufC7FR26F21w=="
+secured: "f4d7qFY8y5ZCs+eIeE8sct3Kae3te/t78KzbPbcWQ6iTBPR4X3LrX/NUaqPoC69WlCbq4U3WuAaK315Vt40hRTc/44TL06kX/z4eFzEs8Pyjiu0hkMhgq342M4s0Aqlqvizit9iXpI/tO9wrKaHa7D5peGf/V1GFbSNJJB9wNL3jMsxF1OYpsFQCBIUVkyfkUJvgiQYG3eKsDzPcOUJHhAAx1/IhvAe6bzgg8nKZdObjhhph2lCKCcK/CQw8icF8nuZ6jf+P6ZB1vUL1ABy9JiA0NwkvsQTfxi077ydzZRTAQsftMJOyuBTKVm2/GZ5pp+WC7zYY230IPitExlNN7OOjIV5S6Jo0Ui/NfqtlNdg=;zL5CVY+01R57yf2f5/Frfg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://americanmilitarynews.com/2021/10/fmr-pentagon-software-chi
 webUrl: "https://americanmilitarynews.com/2021/10/fmr-pentagon-software-chief-some-us-cyber-defenses-kindergarten-level-china-already-won-ai-race/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,66 +23,6 @@ images:
     width: 1048
     height: 614
     isCached: true
-
-related:
-  - title: "Air Force embraces former software chief who quit, warned China is winning AI competition"
-    excerpt: "The Air Force says it sought the input of Nicolas Chaillan, its former chief software officer, after he quit and publicly warned that China is winning the artificial intelligence race. Air Force Secretary Frank Kendall is said to have personally thanked Mr."
-    publishedDateTime: 2021-10-13T19:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 48
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/26/Biden_Air_Force_Nominee_55039.jpg-11814_c0-280-5000-3196_s1200x700.jpg?d4e91f06fc102cbc877d1177e2fe00769277f6fd"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Is China Winning AI Competition?"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times following his resignation."
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://i-hls.com/archives/111099"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 39
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
-        width: 1280
-        height: 905
-        isCached: true
-  - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
-    excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
-    publishedDateTime: 2021-10-12T11:16:00Z
-    webUrl: "https://www.ibtimes.sg/pentagon-software-chief-resigns-saying-us-has-lost-china-cyber-warfare-ai-60697"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 32
-    images:
-      - url: "https://data.ibtimes.sg/en/full/52465/nicolas-chaillan.jpg"
-        width: 697
-        height: 367
-        isCached: true
-  - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
-    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
-    publishedDateTime: 2021-10-13T22:25:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 25
-    images:
-      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "FXUAhvMha2PfIR9vU8q7RgaaBUlcHej48x7N5t6uImj4Tjo6x9z3ZvsgYGve18K1WtDOk8MFn3DU1onW7PmLEh/SaciXJ5Xkl1nGueUNs79OxfSP9ZHWy6aUUuyILjBmDUW25CharwIg5OTmGZ3/NJ5L7JAEaO9+738VbFzrmTkMtL0FXheM8Gwl9nevNdfU1nXJTm2klb9DSoaAasjO3kh1h15Cksw+TCXvZ9RHPVv/oDDHPByyRCq1YB4j37kRUMoaaZwAFHqnLxmXh31gg59mLTaOY1CTQWTgsJo+THMszz3rq8O4U1BqdzTAvMALn5fQlxHICksJcCByupXnH++2HVpSyg8tgPDQSR7ayFczmldUrZ+NTrw5q49XkedY2vvJL1fVfV0DGT07+VXmou2InONVdtLL26rWrqZwvYqi+fwG5GaYNm7YlWmA2R/91EtuMzEN5cQIrRCAuERQeCej0q1u+TMK5n8ZZLaRUfoD5gKVr/Rs1/kOWzsYt9Mh9dL5psnRsH0EokQ8zM+1dg==;ukTSzyql6Xby/2iqYhOwzw=="
 ---

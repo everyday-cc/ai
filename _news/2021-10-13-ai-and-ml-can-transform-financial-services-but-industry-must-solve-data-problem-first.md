@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meg King Testifies Before the House Financial Services Committee on Ethics, Artificial Intelligence, and the Digital Age"
-    excerpt: "Meg King, Director of the Wilson Center's (STIP), testified before the House Financial Services Committee's Taskforce on Artificial Intelligence on \"Ethics, Artificial Intelligence, and the Digital Age."
-    publishedDateTime: 2021-10-12T00:00:00Z
-    webUrl: "https://www.wilsoncenter.org/microsite/3/node/108161"
+  - title: "How Artificial Intelligence Will Transform the Film Industry"
+    excerpt: "How Artificial Intelligence Will Transform the Film Industry. Movies have always acted as a medium to bring people’s imaginations to life since their inception in the late 1880s"
+    publishedDateTime: 2021-10-16T16:23:00Z
+    webUrl: "https://filmdaily.co/tech/artificial-intelligence-film-industry/"
     type: article
     provider:
-      name: Wilson Center
-      domain: wilsoncenter.org
-    quality: 31
+      name: filmdaily
+      domain: filmdaily.co
+    quality: 37
     images:
-      - url: "https://www.wilsoncenter.org/themes/custom/wilson/assets/images/og-image-wilson-center.jpg"
-        width: 1200
-        height: 630
+      - url: "https://filmdaily.co/wp-content/uploads/2021/08/motus-nova-1-800x600.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "R3j1aR7y3r1/c1+oy4kGlnJdGG81YVhfdccI44BTFqOjlrfbue1lLOs31OiAqXL6awUSBbRCnwt6okn0a1HjpYVsz1q0JJ/SjvSNi1xcYGXqJotDwGE10GoJuCOZdsUrLVWlXz5kKP1plbvjG1IUgQpAOZ5b+BA8dLmuZzeRcsdTsgRlXJzFhm9un/kmHAJ30+GOwDAC2sTlKikgcaE3jfImW4WHtrESU4blSlUXzii30JMS43g/rdfgI7BBjIYnQ5gys9L9qlU1NYzzdK/VatzGfKLcOcABo77BLD64kvBZOjp2t3tug/No7uVBEecrTaUBA6W36600c4laUE+2P+pe6ljqTqnQQj5xm2RG1NLs3hGUB4pTmuBFpGeVuj1zvNyrpyme9n/f/qXLUgX0LlbQzP0JX5UcO7/VoMprgGnb5C5kUZa0DALQa4GkItuCjg6liOo4x0LN2dz6ShTXFNAK2RnrnVT740km6DBlfiDR/ucip2QCAHbEwdQSJYPiN3TAc9Q1rSvSOCtIUdPbmg==;HBt36sQH30fAusJD+uA7MQ=="

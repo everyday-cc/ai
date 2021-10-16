@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Is China Winning AI Competition?"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times following his resignation."
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://i-hls.com/archives/111099"
+  - title: "Sorry former Pentagon expert, but China is nowhere near winning the AI race"
+    excerpt: "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI."
+    publishedDateTime: 2021-10-15T21:04:00Z
+    webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fairace.jpg&signature=37c2b19155b74d84da568e4687d78e76"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "China has won AI battle with US: Pentagon's former software chief"
+    excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
+    publishedDateTime: 2021-10-12T02:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/articleshow/86955326.cms"
+    ampWebUrl: "https://m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/china-has-won-ai-battle-with-us-pentagons-former-software-chief/amp_articleshow/86955326.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47488,msid-86955452/untitled-11.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
+    excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
+    publishedDateTime: 2021-10-12T15:41:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
     quality: 39
     images:
-      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
-        width: 1280
-        height: 905
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
+        width: 1024
+        height: 691
         isCached: true
   - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
     excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
@@ -54,6 +84,20 @@ related:
         width: 697
         height: 367
         isCached: true
+  - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
+    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
+    publishedDateTime: 2021-10-13T22:25:00Z
+    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 30
+    images:
+      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
     publishedDateTime: 2021-10-13T22:25:00Z
@@ -67,20 +111,6 @@ related:
       - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Fmr. Pentagon software chief: Some US cyber defenses “kindergarten level;’ China already won AI race"
-    excerpt: "Nicolas Chaillan, the Pentagon's first chief software officer who resigned in protest of the U.S. military's IT strategy, said China has already beaten the U.S. in the race for artificial intelligence,"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://americanmilitarynews.com/2021/10/fmr-pentagon-software-chief-some-us-cyber-defenses-kindergarten-level-china-already-won-ai-race/"
-    type: article
-    provider:
-      name: American Military News
-      domain: americanmilitarynews.com
-    quality: 24
-    images:
-      - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-09-07-12.24.10-PM-e1631044688698.png"
-        width: 1048
-        height: 614
         isCached: true
 
 secured: "AyVo9yqlQjtaCq8iOCIBOuQuD3M2QeZLcd6n676pufoCS72i3A7N01Ge5KpISJISJMIxc5qGqb96dKQQ3MpN1dtoePRnxa15/LSCPiC+uhM1y56ulYcfp05XSrRqQdEjfW5MLIgGUp03YcgD76LQpLEAFGqvAXqlnij2li8NmtTHtVOQMLuF6KtGbWUzigaUOn73CmUzAD2CpknwwLeeXbhcSDIRIB9n58W5YObKGKBtiz+0TdYHDQ5KRaYsyzJrE2ciDz+TDd2Uoc2iJdI9R6vFBvCO90LfOuJFohsQpKdZ0QtHcS+Vdvtc0L6IRBtlVZKSNm0I1ebHx7eV9uJK/BV5JkCoINQ5BX7gBiLQ8vU=;gPvFdUHNOzhL6qNYG+OyPQ=="

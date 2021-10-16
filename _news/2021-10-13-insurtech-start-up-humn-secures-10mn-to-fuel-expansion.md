@@ -29,20 +29,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
-  - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
-    excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
-    publishedDateTime: 2021-10-13T14:44:00Z
-    webUrl: "https://menafn.com/1102964906/Global-FinTech-Market-Report-2021-Market-was-Valued-at-730178-Billion-in-2020-Forecast-to-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?434243"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "rZuSNE2mZnhJtFdSztaeyUEjHc6d5kRggYIem7+bvxE1vomwyvrgrGBiRMjSG4kPwC5EPHAmvCcCWm1XaWgIuihkbziXJ8ARpXuypXKsRbDgJIKXOX0PR47sE3ucHXViwj3hREoOb3D+c7vNPa44RWsH3zjDZ2rA7xYYzKqjxzbGhjMhCxWEhPI/TO+S6vDzhWl37Z47CjyIrHa4ZYGRQI4PXyz7BeFDB7hH9fXVpKS4Gv2pfWOXh1yXcirO7mn1N/NVtDaaUPvOC+6jd9WgkVy8sjQOkRR6aWiPW+R1/CV0CppSQeeGkUBBK4Bzwi+Vlm4JAentR2AyXwegIq8RNwmcznPWKgtDSknygI5mS7w=;chmQkG+YKfF/hfl3W0/5kg=="
 ---
