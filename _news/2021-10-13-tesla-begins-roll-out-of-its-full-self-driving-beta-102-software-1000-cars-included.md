@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-fu
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
-    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last-minute concerns\"."
-    publishedDateTime: 2021-10-11T17:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211011/3835503.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
     excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
     publishedDateTime: 2021-10-12T15:20:00Z

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-healing robots, using artificial intelligence, are leading to a new era in robotics."
-    excerpt: "Robots with artificial intelligence will be able to identify when they need to be repaired shortly. While robotics has long been used in businesses, self-healing robots are expected to become more common in the coming years."
-    publishedDateTime: 2021-10-11T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/self-healing-robots-are-ushering-in-a-new-era-in-robotics/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 60
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "m9pR+jI7h9Y9AMXKR65IPgILOMZqTqLtvevOSzeXDyo4V13GSAYbCuwuJd33dvSp52MDb2JuN/Sar6IcczCYHevIOvD3AOGBwpofHWp6DYZIJ10KsUi5/BIqa5Y5xfNeQhvw3K4ORe7QSxHjiiI0mEjVbstP1vEkjdmw7+sl6+EtMlbzjiX8cuWmNCw9hPIUgBR4y1ynYpXR1XTXafpesn0/e434dVNid/+IJZmpw+DBr+vdr/GGDokNQWPS/L7gkQPP9wtFZGOuW5eSuUI/Rs/k2pLKePkwuoRWop5+LCT6b2zS+NTP8k3RiD99JzDFxr/R5Ho0XobqRFvC2ImSUp+rscQxpKtCrLBtJcn547Y=;HWTyjoPuxGlMfFxxvOi6HA=="
 ---

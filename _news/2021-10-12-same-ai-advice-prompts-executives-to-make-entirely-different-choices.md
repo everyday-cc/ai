@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "How machine learning and AI can make all difference when it comes to data center optimization"
+    excerpt: "AI and machine learning have been used as buzzwords to signal the vision of an automated data center that’s more resilient and costs less to run. But the reality as we have shown is that most data cen"
+    publishedDateTime: 2021-10-15T04:09:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-machine-learning-ai-can-make-all-difference-when-comes-yong"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 43
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHGj61Uz5RxnQ/article-cover_image-shrink_720_1280/0/1634270478643?e=1639612800&v=beta&t=oHrlDREET9-eFekL_eQPhSJdnvUC-jFb5WRD9CdHVCc"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Executives show bias, question AI-based decisions"
     excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."
     publishedDateTime: 2021-10-14T04:43:00Z

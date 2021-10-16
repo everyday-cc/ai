@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Germany unveils first self-driving train"
-    excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."
-    publishedDateTime: 2021-10-11T17:07:00Z
-    webUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/german-train.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Germany Unveils The First Self-Driving Train"
     excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
     publishedDateTime: 2021-10-12T09:23:00Z
@@ -127,6 +111,22 @@ related:
       name: Omaha.com
       domain: omaha.com
     quality: 39
+  - title: "Learn about the industry’s leading players and emerging trends in the Self-Driving Cars Market 2021 Research Report and Industry Forecast to 2026"
+    excerpt: "Global Self-Driving Cars Market Study Analyzes Market Valuation, Industry Analysis, Competitive Landscape, And Future Trends. The global Self-Driving Cars market study published b"
+    publishedDateTime: 2021-10-12T08:01:00Z
+    webUrl: "https://manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/"
+    ampWebUrl: "https://manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/learn-about-the-industrys-leading-players-and-emerging-trends-in-the-self-driving-cars-market-2021-research-report-and-industry-forecast-to-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
+    images:
+      - url: "https://extentnews.com/wp-content/uploads/2021/09/market-research-store5.jpg"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "S+TkK6xBLIfDKrNZq6dC/3rV5OnqgXJP4MrLYGTKBQ+WguPKtDKn4YiD7nAvdI/fokPiONU5ILuPHb7BVMFl2PaIPChQ3JCXHGznV6fHdI5iIQOfrZ49xqf7fTXrvoCivLEhAVfJmeUJdJVSGgKiBHTB3fciGX6lGz0p0TvEqWMT8Yd7aCkjPsaOgE1VUQqSthnP8Qb4el/TQavBQN9Ch1VL/6wrL7J0haY1Ud21MIFqRXf41Ilgv+FIdhkey8ND6l5iIYoyMO7egbjX6s83wIeaT0kkAyoIOtVUMFtdP40g/qCl38CT8afcUtGCraEzWzU4KZqzrLFqywa+QjHWhB1To/46DxpCHb3WvePc68+a1LXFZGx74DZ10n2/Pc3+1ar1bNxPDbyFnYZh1VUiERvsq7OA/X40CwFS/qBIe6Lo1giIRav/OusWg5t5KMBGYouBp+hNVjq8wLTpGDUhzvRs6KFOwnQDv4nIEUiG7TW3cIGMkJVX7DuNWj3eQ7psUtNGkbB0pwfIIXBes3YTDQ==;iXcpjIMMVhlXM0tbcb6+CA=="
 ---

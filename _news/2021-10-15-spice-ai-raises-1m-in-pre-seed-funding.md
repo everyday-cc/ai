@@ -69,15 +69,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Rendered.ai raises $6M round, aims to open its platform to more users"
-    excerpt: "Bellevue-based synthetic data startup Rendered.ai announced it has raised a $6 million seed round. According to Rendered.ai founder and CEO Nathan Kundtz, the money will help the startup open up its platform,"
-    publishedDateTime: 2021-10-11T17:44:00Z
-    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2021/10/11/renderedai-raises-6m-seed-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "lpx+Py+o4U9GCgsBNGhdwGygxmOzMzK3z4t+c9l76e4lPnTBkrxjUT9P2XaJn+mbJslKXWvdWuBK/hHNArxOUOmhcjkP43vW/FFHv6Bh/x/SMmMpmvwxuM381dPY5HrlKlQ8mmNsc9KqcJmO2D2ofTAYRt3PxIRwIIEIFlm2+2dg2JzVtdeoBiLG7Tssna2ge1zFZHPT82F8XDCQUlXNcg9EbaFuffGuKclxf2YO0PwgMOfxgkHlqChnfpNFdMK1SRS+JKr+qL3IXs4ALDY4v70Kp9Q/AgXRO+qNtU6F9SVcenV26Xp2dQUkWsermDVCkqVGGO42H6eXvUUROrto7AnPqY9+R1qFfgqEGmxzqk8=;WHDJCrY/LxV6pyBKthpfPQ=="
 ---

@@ -27,75 +27,106 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Valuations and Expected Future Returns by 2027"
-    excerpt: "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This"
-    publishedDateTime: 2021-10-14T07:07:00Z
-    webUrl: "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns"
-    ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
+  - title: "Germany Unveils The First Self-Driving Train"
+    excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
+    publishedDateTime: 2021-10-12T09:23:00Z
+    webUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
     quality: 59
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14260801_g.jpg"
-        width: 761
-        height: 400
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg"
+        width: 705
+        height: 352
         isCached: true
-  - title: "Machine Learning Courses Market Innovative Strategy by 2028 | EdX, Ivy Professional School, NobleProg"
-    excerpt: "Los Angeles, United States, North America including Q1-2021 analysis The report named, Global Machine Learning Courses Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Machine Learning Courses in view of numerous aspects such as growth factors,"
-    publishedDateTime: 2021-10-14T18:54:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
+  - title: "Germany Unveils the World's First Fully Automated Train in Hamburg"
+    excerpt: "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB)."
+    publishedDateTime: 2021-10-12T12:03:00Z
+    webUrl: "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
+    ampWebUrl: "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 44
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 59
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Meat-Free-Foods-Market-300x220.jpg"
-        width: 300
-        height: 220
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg"
+        width: 744
+        height: 419
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Report Till 2026 | Industry Analysis & Forecast"
-    excerpt: "The research document on Artificial Intelligence and Machine Learning market comprises of key trends that define the industry growth in terms of the regional landscape"
-    publishedDateTime: 2021-10-12T15:59:00Z
-    webUrl: "https://www.reportsgo.com/artificial-intelligence-and-machine-learning-market-176932"
+  - title: "Germany unveils world's first self-driving train. See photos"
+    excerpt: "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December"
+    publishedDateTime: 2021-10-12T13:30:00Z
+    webUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html"
+    ampWebUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
     type: article
     provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 40
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.reportsgo.com/img/img-10.png"
-        width: 500
-        height: 300
+      - url: "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
-    excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
-    publishedDateTime: 2021-10-12T20:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-future-prospects-industry-specific-challenges-industry-projections-sizes-and-shares-by-2027-2021-10-12"
+  - title: "Germany launches world’s first self-driving train – Know details"
+    excerpt: "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,"
+    publishedDateTime: 2021-10-13T04:44:00Z
+    webUrl: "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
+    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
-    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
-    publishedDateTime: 2021-10-16T07:03:00Z
-    webUrl: "https://www.wboc.com/story/44974027/artificial-intelligence-in-drug-discovery-market-is-expected-to-reach-the-market-valuation-of-us-69968-million-by-2027"
+  - title: "Germany to have first self-driving train in the world"
+    excerpt: "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains."
+    publishedDateTime: 2021-10-12T07:10:00Z
+    webUrl: "https://www.dhakatribune.com/world/europe/2021/10/12/germany-to-have-first-self-driving-train-in-the-world"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2021/10/watermarked/381775/1634022627037germany-train-1634022578419.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Germany introduces first self-driving train"
+    excerpt: "Germany is set to begin using the world's first fully-automated, driverless train.  Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-10-15T16:15:00Z
+    webUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.html"
+    ampWebUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+  - title: "Germany Introduces World’s First Self-Driving Train"
+    excerpt: "Germany is set to begin using the world's first fully-automated, driverless train.  Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
+    publishedDateTime: 2021-10-15T16:15:00Z
+    webUrl: "https://omaha.com/news/world/germany-introduces-world-s-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.html"
+    ampWebUrl: "https://omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/world/germany-introduces-first-self-driving-train/video_dc372144-6d66-5f2d-9028-90b88be6414d.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
 
 secured: "zcf7PDOJ1zqMR2Othsz4hPOf0BF2oimKE3kfPFeq572+LZ5+YKTvYN2aHv6rT0aK1uDGXIpqmHiFvSVfNBkDbOIeQjt9J8gXfUWv3QOS7Jm7d7z4Sa7+aE52o4VmkgkPIA7ydrLeEJy+hJbsxH4770HQyesiwlfChB9PQDacsKLvsB37Kj4a/MXmGZM5BI7WlcY70oF2nRKKa0E+b1H6V+luC9mqNgbOoR1BDeHP44KSsS2H0oehLkhOFklDjAIl6Sj3nBhpPoaHIKd4qrUZU0Q6vUtzWLSv8KhI5ifa4nm0soDU5xisCCdDQT0UUGl2JxqxqR/VAoDRNmLIwVdvT3gohuDpc561E5PYlNzvuY0=;GWzZA4W4ib0p7QJWfxJOAQ=="
 ---

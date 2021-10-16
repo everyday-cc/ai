@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/10/increasing-demand-for-facial-re
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/increasing-demand-for-facial-recognition-system-technology-in-malaysia/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "Expo 2020 Dubai: Russia pavilion uses facial recognition technology to control crowds"
-    excerpt: "The Russia pavilion at Expo 2020 Dubai is using the latest facial recognition technology to control crowds at the pavilion and analyse visitors' gen"
-    publishedDateTime: 2021-10-11T18:33:00Z
-    webUrl: "https://menafn.com/1102951912/Expo-2020-Dubai-Russia-pavilion-uses-facial-recognition-technology-to-control-crowds"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/11/KT_df54bimage_story.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "eRbTNZmDAifjtTpEHra/Ck1beyybUVb4URCBZ9kF3MbKdFFolmTmf8Cxz/3yQ7qlwaE7HpyERXLVYmtKre/4UXmcuRLqh8C8YNe1Pvp+dum7NsKOLj2QI7F/14CFSnWpAw9etpoOySpT2/dCjmPmZjhR4Un2vt/YH3d17STZN+iy6tHQZfyEPLtncGvlBIBOzUihJDqr7Ek/p9XJ3cwsUlrJUv7gkRmFZMHgVr25zgr6fRtPAUvz74gzLaWEgSJM8tP2RmH06GE3BQ1gq+j5YF3jWCSk99tL8g+8ph95+mIWWwed2CoKU6SLrhhsOc3tnL2lVZnXurjbisXZRGzW7jFJwscJhs7u8EYo5MJb0aYXeigAslKUk3KTpzCMripgX32BQHg9nVPXp8ScZqcomRuJFzUtWnD/H9u3iR3FBpRvEQBrxQ+MBZj/ZjmjGHNJ9A2mcg5J88g9hXc6FHRPVGdAltqn1/wB+Xp1bOueDd9ClwnNpp6CjLgTBtDAxGutqwJWyRDwURAiQGWM83cqow==;FdBF2gEsEHK9/9d2vAmmpQ=="
 ---

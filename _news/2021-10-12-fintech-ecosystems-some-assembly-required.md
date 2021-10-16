@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Fintech firm to boost financial inclusion with $620,000 fund"
-    excerpt: "To improve financial inclusion in Nigeria and other emerging markets through automated credit assessment tools, Canadian Fintech startup, Periculum has raised a $620,000 pre-seed funding round to improve product development and scale up operations."
-    publishedDateTime: 2021-10-11T17:33:00Z
-    webUrl: "https://guardian.ng/infrastructure/fintech-firm-to-boost-financial-inclusion-with-620000-fund/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 24
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2020/06/fintech.jpg"
-        width: 960
-        height: 634
         isCached: true
   - title: "FinTech & InsurTech LIVE: Diversity in the sector"
     excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"

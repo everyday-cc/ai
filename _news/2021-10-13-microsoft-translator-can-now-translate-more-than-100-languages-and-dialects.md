@@ -162,22 +162,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Translator now works with over 100 languages and dialects"
-    excerpt: "Microsoft Translator gained support for 12 new languages and dialects. The service now supports over 100 dialects and languages."
-    publishedDateTime: 2021-10-11T18:07:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-now-works-over-100-languages-and-dialects?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 61
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
-        width: 800
-        height: 598
-        isCached: true
   - title: "Microsoft Translator surpasses the 100 mark for its language milestone"
     excerpt: "Microsoft reaches a new milestone with its translator as it surpasses the 100 mark with the addition of 12 new languages."
     publishedDateTime: 2021-10-11T22:00:00Z
@@ -328,20 +312,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Logistics-Services-3PL-4PL-Market-390x220.jpeg"
         width: 390
         height: 220
-        isCached: true
-  - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
-    excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
-    publishedDateTime: 2021-10-11T17:27:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-translator-hits-100-languages"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/07/microsofttranslator.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Artificial Intelligence Products Market 2021 Competitive Insights and Outlook- Open AI, IBM, NEC, Google, Microsoft Corp, Ipsoft, Google"
     excerpt: "In December 2020, IBM enhanced the capabilities of Watson to help businesses scale the use of AI. The new capabilities of the Watson are designed to improve the automation of AI and enhance the ..."
