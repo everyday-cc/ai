@@ -113,6 +113,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "FinTech trends for Year 2022"
+    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
+    publishedDateTime: 2021-10-16T05:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
+        width: 1276
+        height: 542
+        isCached: true
 
 secured: "zht5Z2ZQWXdNpY4TGknYmoGVEFBryrWNnptfE8wr61h3l+BsjQfappUlFnzvnbBQh65M8RBg6vPy2iluS+VL+li/XcNHAbeqihqadH0e4+/m3oFq46qADNlkAi0giFXeTBY+UgBdbylPXoixIjSoyWsPz4ZIvqMCgoNxmY1ov+pmUDNhiBTe3QLlL3B/Bcv1eTNUA4gmK+qaVX/gxzudi1DS4PxfTQUuTij7RjZi+DhEfrO6sN8z5Ua3u7WTHYiRO1gAhemdiKbQG6vn/4vuS5DOZI47YP58FwZRBklOr5Fru1lBuKpkBa52EilIUD5qxuXB1+fWvbojcgf+qkZAhpOsn87fBUhILZlKZXO/ErI=;l6BH9qiv/9mWclSZkI+cOw=="
 ---

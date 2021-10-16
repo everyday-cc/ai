@@ -133,6 +133,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving Waymo cars gather in a San Francisco..."
+    excerpt: "In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week. Most would drive to the dead-end on 15th Avenue,"
+    publishedDateTime: 2021-10-16T19:54:00Z
+    webUrl: "https://wfuv.org/content/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 39
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Several Autonomous Cars Keep Driving Into And Getting Stuck In This Dead-End Street"
     excerpt: "Advertisement Waymo is a Google offshoot that makes usually impressive self-driving cars. Recently, it had been reported that the cars made by the company are getting stuck on the same dead-end street."
     publishedDateTime: 2021-10-15T18:50:00Z

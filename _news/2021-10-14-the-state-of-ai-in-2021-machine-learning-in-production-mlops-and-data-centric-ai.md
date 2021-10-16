@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-mac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/"
 type: article
 quality: 113
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 1648
     isCached: true
-
-related:
-  - title: "What’s AI's Role In A Privacy-Centric Ad Landscape?"
-    excerpt: "\"Data-Driven Thinking\" is written by members of the media community and contains fresh ideas on the digital revolution in media. Today’s column is written by Melinda Han Williams, Chief Data Scientist,"
-    publishedDateTime: 2021-10-12T04:05:00Z
-    webUrl: "https://www.adexchanger.com/data-driven-thinking/whats-ais-role-in-a-privacy-centric-ad-landscape/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 17
 
 secured: "/H0Ir5HclV1K+39QuHDqHbrTfXINR3+12N9awKMkY0jDYcZZstmYOMKI/YrE8tYwpQ2ydrcby5R5QreEPUf9x25wrZbPUx8ch7PoxvPkd699Nsmm3ibIUIa8/7T3oRbws4THkNjClWkp/lKXYNYmcDmXQSaO4RjmMT4wqTXAIIvleRXc/+erYdHQRtv4ysSjo0E5Op2dOj0pDYJ18jLjidY/t3jzkP/p9ta8yPxF9B/kPXajGvZC8mpRueY96bf9m5TJgzWIXIoKduoiItp/hMloK1Me/N1vKAzqlkzLyf7aL4PgK9WcNfBfp207VNBMnYEuIUqKBO0sWtIDXSDsCH7sGA9zhGx9BmKDj6EM43cYvd6FnDEwuTTordxzzNJWmO7auNOAj5yExggqrwb9AiPyGO13mH9YHzzEwEfHVnJY1J5S3MnOMCa1hu8bDnzvVXy70iLj6T0S9mnZSJBajoEURSPyX5+jXLKfuuoIWo1F5inzpY+dIC8kZ+OeCaBzKGDAVW7FzA0xjDpapKdVZQ==;0ZraW1xzRMXHilTkpExp+A=="
 ---

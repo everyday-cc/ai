@@ -7,7 +7,7 @@ originalUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_fina
 webUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
         width: 1920
         height: 1005
-        isCached: true
-  - title: "Labor's pokies card, facial recognition suggestion to be considered by government as debate nears"
-    excerpt: "Debate on the long-awaited 20-year policy - which ends Federal Group's monopoly on pokies in Tasmania, and provides individual licences to venues - will take place on Thursday. Labor promised to focus on harm minimisation and released its policy on Tuesday morning,"
-    publishedDateTime: 2021-10-12T03:20:00Z
-    webUrl: "https://www.examiner.com.au/story/7466092/labor-liberals-move-closer-to-locking-in-pokies-deal/"
-    type: article
-    provider:
-      name: The Examiner
-      domain: examiner.com.au
-    quality: 26
-    images:
-      - url: "https://www.examiner.com.au/images/transform/v1/crop/frm/39DXPJ6bfYBT8JmDyHFbVdB/76f771a5-7034-4f24-837c-9d2419c24093.jpg/r524_288_4621_2603_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
         isCached: true
 
 secured: "Uswj5A7rOqFiPxCmBnYt4tc5sLo0k0cqolL1pf/62/c4n1WEAg9oy8FpZR/M6vZFtQEav/X1V2zBeE1thh8P5O8BKr3WQEF9FQHPO/bCMbrfhv1c4O9Qy9uj4jiTBgiPucATPB3YUV6Pc7rcx362VQRVommbHT3jgkqQCNvBzXoh5vTej/9cSwbh+5PQoleWF9bDde+71aVeEBl/CGdTQF1GycPZPz8T0DWTvGoj8+TLKE15mk3QicjpXm8jB3+3ZLIoNLexoPXtnjWFltz4hdLvjDWFro4P/2LaeK3yGrnZpaA/qpzdKtU69KxD7hhVuarvGNb5ZJowcjD4UH/fQCdKZxtmcW2OYtZ55KOz0rILcQIDWsdj2Yo0JPIaBRYPhPvNzyQQXemgcbZ6ehwmpi9CIBJ2hbSQNIE7aXb8tWGKkMd1uJA/i0v4oT+y3lrUMfIPV/PAv6xBmcxOKaO0QDk20Jb+UxcZjX8Tex+kezkUXoQqsnUozXbzv+OOfVeb9IztO2MH7A6m9+Wm7sEiww==;J1W1IfG4YD7nVO3QC5Fy0A=="

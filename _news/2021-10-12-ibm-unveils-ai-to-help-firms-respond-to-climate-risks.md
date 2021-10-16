@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-hel
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
 type: article
 quality: 157
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SD0pWAt1/w:888/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/10/hands-68918_1280.jpg"
         width: 848
         height: 600
-        isCached: true
-  - title: "IBM Unveils AI-Driven Software for Environmental Intelligence, Helping Businesses Address Sustainability Objectives and Climate Risk"
-    excerpt: "IBM Environmental Intelligence Suite combines weather, climate, and operational data and environmental performance management into a single"
-    publishedDateTime: 2021-10-12T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-unveils-ai-driven-software-for-environmental-intelligence-helping-businesses-address-sustainability-objectives-and-climate-risk-1030857212"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1657676/eis_flood.jpg"
-        width: 711
-        height: 400
         isCached: true
 
 secured: "9MdG4zbmJpE5RTG3p3Fn4SmiJ6ggFQxzKyBIRJhgdYjVQ1DQCAzSPLXA0CyTOSDWvAP3ScZe8YuV7A7LeCngzeYTAj2hNhY7yjGeZaUuWfT7O4OhblyWQ0gOriKw5fUuvYvAxWvPHdRFp0nGZmxaZFEVuIQeA5K0xpqkl5kliKEpAEo2vo+8B+cz+0EE2pDJK7vcLLNbKhS/BCIupfEu40ZDnEaEtRzej1RC0kHIrbLEjKg93bTCi3lkdvnRJLPwyv8ViE4vuwZGGlbBBObXg7NgT5iFP8NJmqgXmU9jMX/MEqlUlXSJjimoQVkajBzfqcoU5C8hNUDRY0lSD3DnZiNl1wD+NOK8w+SiJ+Rri3OA/vbZE7+5pR2fQ0qo5RxLD/zjqml0U5SHDygEEcQcBXZMPBxPYBC5evZnhkWySB5aA34nQeY2SHvLIEayc4qJsYy/IwiS6aIlvzZsKwsilrx3l090kVYk2O8DM0g99NMkvH85S5sjt2mNBGyfTvvE1JsBb0MEMNCVku1xv0VfETexMLM4hMSasrR7VxvW8g4=;e4Uy9IaQLhAfQm2/9g+K5Q=="

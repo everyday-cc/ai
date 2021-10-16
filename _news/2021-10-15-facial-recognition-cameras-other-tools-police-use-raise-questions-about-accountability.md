@@ -53,20 +53,6 @@ related:
         width: 1920
         height: 1005
         isCached: true
-  - title: "Labor's pokies card, facial recognition suggestion to be considered by government as debate nears"
-    excerpt: "Debate on the long-awaited 20-year policy - which ends Federal Group's monopoly on pokies in Tasmania, and provides individual licences to venues - will take place on Thursday. Labor promised to focus on harm minimisation and released its policy on Tuesday morning,"
-    publishedDateTime: 2021-10-12T03:20:00Z
-    webUrl: "https://www.examiner.com.au/story/7466092/labor-liberals-move-closer-to-locking-in-pokies-deal/"
-    type: article
-    provider:
-      name: The Examiner
-      domain: examiner.com.au
-    quality: 26
-    images:
-      - url: "https://www.examiner.com.au/images/transform/v1/crop/frm/39DXPJ6bfYBT8JmDyHFbVdB/76f771a5-7034-4f24-837c-9d2419c24093.jpg/r524_288_4621_2603_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "99cllAr8dwwpCSW5ymKGTIvJw2GpzS2DISAXUUowcf/UcfUCM2OCqq8k1BtFRbi8arSyCNOcQLoGWLL7fxAFPstjB2F5HQKVWcatrGjP2BDTMjJwexTMLr1Fe5YNgN5prcG8ziX5mt/uADapeceqG0TbANsWaRu1RNY2PHwf727rtcZt2uyQeVzBT6S46Rriyca3WLGQ49aKFbA1SuyGR2392nTIYlj2plxKHTU08N+a/CvrGMOTaLqVfOIA2sz5D0d2CNITuUgSALDP3Um7hzDutcn7P6phF7Spn6oHuLhIkzO6AyaYYgQKaGBcJkpX09Aft8MWj+nM5OF0/SvlMoo5oNb2giml58/hu3DyVdGw0Z73yU4J3pJj5+7QG6n5G6EqIc3XnUynG3lCTzU37wW9fBPS5JVj+IMLnxIc9fm0BPKzLgcful66vi+ZXvOZ0/RuB5dtr+8Ye7jnsLElsic3AEoyGmGVg2QhbgLmaEa4G2pPHqzRMqAgbbHEB2hM6Kf7BPln+1siZv0g9lB2qQ==;mWrm8zPP6ZRFtc+8bLBXGQ=="
 ---

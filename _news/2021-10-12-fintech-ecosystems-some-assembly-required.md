@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "FinTech trends for Year 2022"
+    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
+    publishedDateTime: 2021-10-16T05:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
+        width: 1276
+        height: 542
         isCached: true
   - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."

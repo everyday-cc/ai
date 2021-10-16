@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-he
 webUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F165286859%2F552078170409%2F1%2Foriginal.20211011-235735?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1604%2C802&s=c4d1aca427b74d41838e487406d28c8c"
         width: 1000
         height: 500
-        isCached: true
-  - title: "DaylaCare: Here's an AI Tool that Helps Caregivers Manage a Senior's Health Conditions"
-    excerpt: "DaylaCare is an AI-integrated care manager that enhances the lives of seniors and keeps them connected with their"
-    publishedDateTime: 2021-10-12T04:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23327203/daylacare-heres-an-ai-tool-that-helps-caregivers-manage-a-seniors-health-conditions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23327203"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23327203"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
         isCached: true
   - title: "UCF researchers studying AI to help with Telehealth"
     excerpt: "Could eye tracking and reading facial expressions be the future of virtual doctor appointments? Researcher and University of Central Florida professor Roger Azevedo thinks so."

@@ -48,22 +48,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "DaylaCare: Here's an AI Tool that Helps Caregivers Manage a Senior's Health Conditions"
-    excerpt: "DaylaCare is an AI-integrated care manager that enhances the lives of seniors and keeps them connected with their"
-    publishedDateTime: 2021-10-12T04:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23327203/daylacare-heres-an-ai-tool-that-helps-caregivers-manage-a-seniors-health-conditions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23327203"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23327203"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "6Zp2QzyVPVRMvVV5hNA+1dEb0fEsi7zQABlukIYCdT1rbPBRHKcDDAzcNAaW+ubkW2cNVxaAGmGuCGqrBX6OFurlnTtiuszj8Spl4r3jPcJ5uD1cOcz5266FLIO9CEbMaYuW6jY0YlorgYRzyZVa9HUkuA++Rm7/SVw6OLt8e7By9SuWVBJkH46fuEWPdHKPhvVCKTVO8YW1EYEasNmXv5Kzs4ZKynmal+tYu1qZeQ5Zhghv0axWZLWxOwjyYs8/+CvektMr2LFcJkNO3pPkguaFHUdPHpQsTASsECjSWQIdN8mrJbASPjuZJUnWNNuSa+fpWZTGYLsJx5qIq4EM4YZm8+qQAqodqJY+xX6Cdz+dVo3J2JZYcOH1/GnUOEOV5CB4gM6mkKxp6Y3dCjmfF+kwNbqoRikHcrJm7jQpHbXDp5lOtfh4fNOCnuyrf6rgHYssSUvJZEmJDAbXo34qX9MyJ9/NbEPCJK9VzZb2HCj3tWhg5aOmIrtpou5jsc/AH7DWQQZK2V29bsF2FojQgA==;OzOPjX8DrlJtKAZijz6eKA=="
 ---

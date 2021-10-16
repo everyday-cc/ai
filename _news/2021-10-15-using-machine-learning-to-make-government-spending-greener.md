@@ -24,17 +24,6 @@ images:
     height: 299
     isCached: true
 
-related:
-  - title: "Cracking the Mystery of Deep Learning"
-    excerpt: "In the machine learning world, the sizes of artificial neural networks — and their outsize successes — are creating conceptual conundrums. When a network named AlexNet won an annual image"
-    publishedDateTime: 2021-10-12T05:00:00Z
-    webUrl: "https://www.realclearscience.com/2021/10/12/cracking_the_mystery_of_deep_learning_798499.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 19
-
 secured: "THTVgmMrUaqhr2JrDX++qtqtiBIZRFoEV1cK5//2dDnE9kMq2ZvHi+lxSur4ClqZ8qxUyR4NlFv940gC1zwauJ6k5FaQ+e2WhGOhwO1rXkuUXcukdctc+zHh6uUBypSb6Eom9ILKWSiM97Zckjm7AVf14oQg3AH/iYVQitD3SVaG/vOQhdhiJRis8xDAM7khdWxGSTaihXz+pkT9iY3wEoTXTh2faOgQ/kZRdbR37rdz+5qqERID6f6RODNaKXYX5EAdCJf3CgIl7P3U2GXXnxanMnsIwODcJESZsfi7nqynUSoRxN5Ce4ipQr/hZWHPY9lPYQwI8QLeGfMMv+Ts3WuasUD5t5vUkoud3gxIPOacO866pk2UlUDWuT3JkuvZVXMIeC/p9XNaLnDoa7zLSKICgEeN1jFXnWHpWRtmISXgWUey+YFqFtuZF8CM6ulAP/z/WmD4ZeKe82/MHtRKC/OFa6Zvjdv1cOcb0bvKLen+H/WIQYNFLvnmjnwnCE8hmUqIcNuVpfh+fDfZCw3EpQ==;RSR5jszYPEnzxzyJzO7Dkw=="
 ---
 
