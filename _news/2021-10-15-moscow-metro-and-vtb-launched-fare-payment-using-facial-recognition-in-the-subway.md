@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Moscow launches large-scale facial recognition tech on subway"
+    excerpt: "Passengers on one of the world’s largest subway systems can now enter using facial recognition technology. City officials in Moscow say going cardless, cashless and phoneless will be much more convenient for travelers and that their data will be safe."
+    publishedDateTime: 2021-10-15T20:42:00Z
+    webUrl: "https://www.pri.org/file/moscow-launches-large-scale-facial-recognition-tech-subway"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 39
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "003aDxJuuthOezK/4lGrZrXObck9SCsvUvC+6mYTHmZ0QY4DN+ZnWd2QECHfGV690MGHPsiA1xyREbIX05OSmra9KX7dUmBmKOh5A9KgWSQ02J7JISH3V1MUIQ1hOuIkKbZcEyQk8NDvKMnzedj4E176XpOWPVT9BdpzYVdNgLXXbpB+gBs9NWiszmGEUSqeMhbX1k4zPdrpG7USdegN/IAq4UDiRHE1Du4Zr8N+VQM9Wtnw3ICA9QgZzRk55FOn7UBlUVTWQQ7ZWMDlY4fcgg+qntwZn1LuOHhTfD//RX20gQWYNlDy8kcCPnmRNT6dvBZmM9hLWUhFFAENoX1DBCVGAdIaW6LRyX1AUCjhfMDjiPPnE1R7ijRZlGGvCIs6GMhHf2BLXZnUsJ3s9L1HAedtR7jmsyEDFWLH0gISQtx1lZLSzPyHpOSpJzbmH1zpsj4PMwCVIHSQNngoQUAojBtHmIKOk1NVEMOOabmMYMyztf3/vD89/3WYNDwPwnheBcjmtTkjxBwmgl8nEAg5Bg==;GPflIHjOigYpoLmoKPrduw=="
 ---

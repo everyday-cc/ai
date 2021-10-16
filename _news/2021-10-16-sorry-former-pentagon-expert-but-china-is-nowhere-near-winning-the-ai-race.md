@@ -45,33 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "United States has lost AI battle to China, Pentagon's ex-software chief says"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T05:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/united-states-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says-2021-10-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
-  - title: "China up for global domination in AI, ML; US stands no chance: Pentagon's former software chief"
-    excerpt: "Nicolas Chaillan told the FT that he resigned in protest at the slow pace of technological transformation in the US military"
-    publishedDateTime: 2021-10-11T06:11:00Z
-    webUrl: "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief-11633929471511.html"
-    ampWebUrl: "https://www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/china-up-for-global-domination-in-ai-ml-us-stands-no-chance-pentagon-s-former-software-chief/amp-11633929471511.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 64
-    images:
-      - url: "https://images.livemint.com/img/2021/10/11/600x338/084cced672fc4c9298778d2c38c17dbb-084cced672fc4c9298778d2c38c17dbb-1_1575394011772_1633931650931.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "China Has Won AI Battle With US, Pentagon's Ex-Software Chief Says"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-11T10:16:00Z
@@ -87,22 +60,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/10/ai_reuters-163394733316x9.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "US loses to China in AI battle - Pentagon ex-software chief"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T05:43:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/us-loses-to-china-in-ai-battle-pentagon-ex-software-chief-681624"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/us-loses-to-china-in-ai-battle-pentagon-ex-software-chief-681624/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-loses-to-china-in-ai-battle-pentagon-ex-software-chief-681624/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
         isCached: true
   - title: "China has won AI battle with US: Pentagon's former software chief"
     excerpt: "China, the world's second largest economy, is likely to dominate many of the key emerging technologies, particularly artificial intelligence, synthetic biology and genetics within a decade or so, according to Western intelligence assessments."
@@ -168,22 +125,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "US has lost AI battle to China, Pentagon's ex-software chief says"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advanc."
-    publishedDateTime: 2021-10-11T05:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/world/us/us-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says/articleshow/86929866.cms"
-    ampWebUrl: "https://m.timesofindia.com/world/us/us-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says/amp_articleshow/86929866.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/world/us/us-has-lost-ai-battle-to-china-pentagons-ex-software-chief-says/amp_articleshow/86929866.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-86929896,width-1070,height-580,imgsize-564808,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "China is beating USA in AI race, says ex-Pentagon software chief"
     excerpt: "Some US government departments' cyber defences are at 'kindergarten level' compared to China's advancement, Nicolas Chaillan thinks"
     publishedDateTime: 2021-10-11T11:16:00Z
@@ -226,20 +167,6 @@ related:
         width: 1024
         height: 691
         isCached: true
-  - title: "United States has lost AI battle to China, ex-Pentagon software chief says"
-    excerpt: "He said US cyber defences in some government departments were at \"kindergarten level\".. Read more at straitstimes.com."
-    publishedDateTime: 2021-10-11T05:48:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/united-states-has-lost-ai-battle-to-china-ex-pentagon-software-chief-says"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/11/ak_chcar_111021.jpg?itok=d1G1Tg8s"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Former Pentagon Software Chief Says U.S. Lags Behind China in Artificial Intelligence"
     excerpt: "The U.S has already lost the race against China to develop artificial intelligence, the Pentagon’s first chief software officer told the Financial Times. Nicolas Chaillan said he  he resigned from the U."
     publishedDateTime: 2021-10-11T08:28:00Z
@@ -269,6 +196,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "mXd18nbvfre1oHkxngIbjcXKXsCj22s4vYfcKKbeV9Ll35HXAb0S4Xj1I6qTGYUGx1k6HNmc8kdMc4VSyj9QcM2c32+2uoun3uYQq5rswRSeCq4RZ9YFHKhuXuoNb1WYtQ3g4Mqa7JqxQ6LWHD6+XCgDkBsON2RGVlzvPcssLZFm2S0XllUfLpn1mSKlMOceSDMQD/C9rQHzcbxJAObYxn2psdosv+M0xDh8l3JAYwrB8xiihvhe+7xeiNGI1BxwPaZg8P/fiOXnkCbiiXePKfreXIZqG10KfRakkXZ64g0+gCfANVGlL93xunPgWlD1w3JS/n1rTJQXA5ss8p12nXQId66RbTfwtPgRp/R78A0=;JaKkB8TQMvmgRNi6Qt7JWw=="
+secured: "96Yt4DKBwN64UWg72GXTPcTkHwrCAIrd48X58KeaUu6lxQPIHA0fbE+RR3OlzG1IpMKxEfDTwMh0QATkZmkjUJ7h+B1S9u3psoql6gXu9TCyRh4WW/YohJjyjbdWFIlR2rUC8pJPJg3zauaRROw9bK2uZuqm/5ywaQqrJBcxxKL525tEGG3/plfAU1m5YIAp4cPfKEEfOGUggtbsmmevWHPg1gTqnGlds9aYt+Tb+q8mIqv6vKyiyHSfa5VWEtEDa9p55CocDzqJdMmo/LvPhG5t02E1jtXThiHOeDXXSeTlWi+j56wCXtcup0yDngJs7e0xupbuV3HDZVV5dYVOaHh+L4J4rnKxeQWRvjtd3agGFMtDLIF2Tk8RJuc4s6pEds3OMhhBRyk73kAHcz0zCDKlCD6irI4cxm2LdKix4KXJzbnNeYXKbqk9eigJ22L1EdHCDdUJeg6q6IWlZ6gxWJF4UC8xbuMzSPIZ8FslgHY4F/l9w0xCVA/KmecVpId15s9qdY7euhybWrGZm9HNXA==;bXXPS8ZmFox+xabdnTgVhw=="
 ---
 

@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leveraging AI & analytics to build the shoppers of future"
-    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
-    publishedDateTime: 2021-10-11T06:46:00Z
-    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
-    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
     publishedDateTime: 2021-10-14T13:15:00Z

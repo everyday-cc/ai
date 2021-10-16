@@ -2,6 +2,109 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-09-08-drone-delivery-startup-techeagle-raises-500000-in-seed-round.md",
+      "title": "Drone Delivery Startup TechEagle Raises $500,000 In Seed Round",
+      "excerpt": "The startup will use the funding to further launch new indigenous products, scale its operations in India, and hire across functions. With its on-demand drone delivery airline, the startup aims to imp",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/384202",
+      "originalUrl": "https://www.entrepreneur.com/article/384202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1631081209-TechEagleTeamwithAquilaX211.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/384202",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/384202",
+      "publishedDateTime": "2021-09-07T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-08-destigmatization-through-digitization-abu-dhabis-mindtales-aims-to-promote-mental-health-wellness-with-its-artificial-intelligence-powered.md",
+      "title": "Destigmatization Through Digitization: Abu Dhabi's MindTales Aims To Promote Mental Health Wellness With Its Artificial Intelligence-Powered Platform",
+      "excerpt": "More than 70% of people with mental health issues across the globe are unable to receive the help they require due to a lack of access to therapy and counselling. And this explains the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/381116",
+      "originalUrl": "https://www.entrepreneur.com/article/381116",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629809831-Untitleddesign37.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/381116",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/381116",
+      "publishedDateTime": "2021-09-07T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
       "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
       "excerpt": "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics.",
@@ -1089,99 +1192,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-vw-will-deploy-argo-ai-powered-autonomous-idbuzz-vans.md",
-      "title": "VW will deploy Argo AI-powered autonomous ID.Buzz vans",
-      "excerpt": "Volkswagen announced it will begin testing self-driving, ID.Buzz-based electric shuttles in 2025. Powered by Argo AI, a Pittsburgh-based company the firm holds a stake in, the vans will begin carrying users in Hamburg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/vw-will-deploy-argo-ai-powered-autonomous-id-buzz-vans/ar-AAObKqM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/09/06001634/volkswagen-argo-ai-id-buzz-4.jpg",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-      "publishedDateTime": "2021-09-07T07:12:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "domain": "autoblog.com/2021/09/07/vw-id-buzz-argo-ai-automomous-vans/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-personalizing-price-with-ai-how-walmart-kroger-do-it.md",
-      "title": "Personalizing Price With AI: How Walmart, Kroger Do It",
-      "excerpt": "In 2020, nearly 60% of retailers said they planned to use artificial intelligence for their pricing strategies by the end of 2021. The results of these efforts, in terms of pricing at the individual level,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "originalUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb1dc40ef6a756615be55%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2021/09/07/personalizing-price-with-ai-how-walmart-kroger-do-it/amp/",
-      "publishedDateTime": "2021-09-07T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

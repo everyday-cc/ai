@@ -2,6 +2,84 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-08-25-agritech-robotics-startup-tartansense-raises-5-mn-in-series-a-funding.md",
+      "title": "Agritech robotics startup TartanSense raises $5 mn in Series-A funding",
+      "excerpt": "TartanSense builds small agricultural robots, equipped with AI-assisted computer vision, to help small farms prune expenses and improve incomes",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/25/full/1629891980-9154.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/agritech-robotics-startup-tartansense-raises-5mn-in-series-a-funding-121082501000_1.html",
+      "publishedDateTime": "2021-08-25T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-25-south-america-ai-in-computer-vision-market-advancements-with-373-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation.md",
+      "title": "South America AI in Computer Vision Market Advancements with 37.3% of CAGR by 2027 – Intel Corporation,Microsoft Corporation,Nvidia Corporation",
+      "excerpt": "The AI in computer vision market in SAM is expected to grow from US$ 201.59 million in 2019 to US$ 2,443.57 million by 2027; it is estimated to grow at a CAGR of 37.3% from 2020 to 2027. A report added on the Business Market Insights, titled “South ...",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
+      "originalUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
+      "publishedDateTime": "2021-08-25T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-25-healthtech-startup-neodocs-raises-pre-seed-from-y-combinator-9unicorns-and-titan-capital.md",
       "title": "Healthtech Startup Neodocs Raises Pre-Seed From Y Combinator, 9Unicorns And Titan Capital",
       "excerpt": "The AI-based platform will be utilizing the proceeds from the fundraise to strengthen its core technology framework, increase presence and expand its team.",
@@ -1128,110 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-can-robots-evolve-into-machines-of-loving-grace.md",
-      "title": "Can Robots Evolve Into Machines of Loving Grace?",
-      "excerpt": "Brautigan’s poem had been on my mind for some time before the robots arrived ... and enabled it to saccade from one place to another. Like the insect robots, Cog lacked central control and was instead programmed with a series of basic drives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
-      "originalUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6124188e1dbee11ab8eb98cb/master/pass/(Final)%20WIRED_Cybernetic%20Meadow.jpg",
-          "width": 4950,
-          "height": 3350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/can-robots-evolve-into-machines-of-loving-grace/amp",
-      "publishedDateTime": "2021-08-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-intel-arc-gpu-drivers-will-include-built-in-overclocking-tools.md",
-      "title": "Intel Arc GPU drivers will include built-in overclocking tools",
-      "excerpt": "Intel plans to release gaming-oriented Xe HPG \"Alchemist\" GPUs in Q1 2022. The Intel Arc brand was announced this month with upcoming GPUs that will span",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "originalUrl": "https://www.techspot.com/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-24-image-26.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90925-intel-arc-gpu-drivers-include-built-overclocking-tools.html",
-      "publishedDateTime": "2021-08-24T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

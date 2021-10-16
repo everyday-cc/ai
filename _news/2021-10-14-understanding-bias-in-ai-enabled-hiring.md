@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/10/14/understanding-bias-in-ai-enabled-hiring/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Self-healing-Robots-are-Ushering-in-a-New-Era-in-Robotics-1-1.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
     excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."

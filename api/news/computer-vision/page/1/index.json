@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-15-privacy-fears-as-moscow-metro-rolls-out-facial-recognition-pay-system.md",
+      "title": "Privacy fears as Moscow metro rolls out facial recognition pay system",
+      "excerpt": "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/13d517cc7ec035116d60ec0e4c1ce37ecd9a7dd4/0_42_4386_2632/master/4386.jpg?width=620&quality=85&auto=format&fit=max&s=50b61a504c79b5a3b4aa3e26d6198092",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "publishedDateTime": "2021-10-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-survey-more-than-half-of-us-adults-wary-about-facial-recognition-tech-in-healthcare.md",
       "title": "Survey: More than half of U.S. adults wary about facial recognition tech in healthcare",
       "excerpt": "Many adults in the United States are concerned about the use of facial recognition technology in hospitals, medical practices and other healthcare settings, a survey published Thursday by PLOS ONE found.",
@@ -1313,58 +1365,6 @@
         "name": "DNA India",
         "domain": "dnaindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027.md",
-      "title": "At 26.3% CAGR, AI in Computer Vision Market Size is Expected to Exhibit 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

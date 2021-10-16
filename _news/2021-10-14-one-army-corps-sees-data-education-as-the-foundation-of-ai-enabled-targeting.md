@@ -55,20 +55,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "m9pR+jI7h9Y9AMXKR65IPgILOMZqTqLtvevOSzeXDyo4V13GSAYbCuwuJd33dvSp52MDb2JuN/Sar6IcczCYHevIOvD3AOGBwpofHWp6DYZIJ10KsUi5/BIqa5Y5xfNeQhvw3K4ORe7QSxHjiiI0mEjVbstP1vEkjdmw7+sl6+EtMlbzjiX8cuWmNCw9hPIUgBR4y1ynYpXR1XTXafpesn0/e434dVNid/+IJZmpw+DBr+vdr/GGDokNQWPS/L7gkQPP9wtFZGOuW5eSuUI/Rs/k2pLKePkwuoRWop5+LCT6b2zS+NTP8k3RiD99JzDFxr/R5Ho0XobqRFvC2ImSUp+rscQxpKtCrLBtJcn547Y=;HWTyjoPuxGlMfFxxvOi6HA=="
 ---

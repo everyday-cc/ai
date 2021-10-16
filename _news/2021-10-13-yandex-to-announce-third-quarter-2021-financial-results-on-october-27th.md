@@ -62,15 +62,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 8
-  - title: "Extreme Networks Schedules First Quarter Fiscal 2022 Financial Results Conference Call"
-    excerpt: "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its first fiscal quarter, ended September 30, 2021. The company will announce before market open on Tuesday,"
-    publishedDateTime: 2021-10-11T06:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211011sf34338/extreme-networks-schedules-first-quarter-fiscal-2022-financial-results-conference-call"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
 
 secured: "RK5q/6hRp3D7BvmYCztf1fslR7/cKqVGVi0NAQPMkNW6axP7Uy6gaLyl3unLb5MI7jCim7OF6V7YBVlHbPJV+mqWvv00dqGtYy2sJTOKbiuUA60YkdLrFeNRlseLR2gTnm3aA0K7ZzHvy4AXIaDRMXLsMXOOEMM/y0GA+6n9aiih4s5hTNLiz7q3GYKwMOoGHsKxmC3e4pDisICSuyzaTu2QpTQ72KWFkVhg5itBrQ6bfaIBvvvkO5TiQ34T1SWIM+MVkn/wIbvAi7HQjCnW5a0H++xQC46d1JORDHzXGcX+UheZ8D9A1ZJhJmJxQSk8TSpIhAKZCXs3yxM7lZ/mBr26O+cednakSc0ZEKwWq4s=;hs1fEzxLAq+zkMiruXIyzw=="
 ---

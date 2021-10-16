@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-09/money.jpg?h=e2f6c173&itok=TDllxyp4"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI-based job skills analysis startup Reejig raises $6 million series A for US push"
-    excerpt: "Reejig, the workforce intelligence platform that uses audited ethical AI to allow enterprise businesses to make smart and informed decisions around talent, has raised $6 million in a series A . The round was led by Kim Jackson’s Skip Capital,"
-    publishedDateTime: 2021-10-11T05:40:00Z
-    webUrl: "https://www.startupdaily.net/2021/10/ai-based-job-skills-analysis-startup-reejig-raises-6-million-series-a-for-us-push/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 31
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2020/03/Reejig-Founders_2-scaled-e1633930718530.jpg"
-        width: 768
-        height: 498
         isCached: true
 
 secured: "S5obtJaSNczG9ndbTkRiATRB/A3kZeNzuRsQcFxBCCbrXRRzgz3rMxhnkh+JJIjW+9ifM4/GP1mpY0FMSJ5rkkaCS2dGRlklncrS4pkIqWTL0geIi957R1KOFn/LJQr2H3z4JV6KZ5+r3LRAQYaDrjFwd03dv4o42vJOn0vzjvt4o0TYd0VRshtVWpK9OTQ3NJSOCIkRX+juEqR+BbSmX0Se2fJavgO9YasFOP5VB4wTTqvFpF5DF3Uj4XUjDEVlVl/7fnJR713UXyh5+Or+3gKPFRHQ2rV9yQOolZxa6xXbOdE7Rucxd+aOJRfmqBFtr5plLJgjZTlVha1B1/qgr0GY7Qzj3jTQPfegKeQFB5nRg2zJ8M8ILX1EWAjoEcjfCIhDZnYWqtD9aaXQ1E9w3BvGM2mmrR3L0zSYBQhIKUZJVRv6MDJO5JIr7HuLoWqUEourJGl9VhkgxvPfx0qZ0ccqYnLgCyMWiCGlMCDOANgN9j25zZ4hMRnQRiGjoBe78YfWBOsgRXwhZFwTdEjo4w==;y2Q9z2ybD7hPOugiJJd/yA=="

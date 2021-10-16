@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-m
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Moscow launches large-scale facial recognition tech on subway"
+    excerpt: "Passengers on one of the world’s largest subway systems can now enter using facial recognition technology. City officials in Moscow say going cardless, cashless and phoneless will be much more convenient for travelers and that their data will be safe."
+    publishedDateTime: 2021-10-15T20:42:00Z
+    webUrl: "https://www.pri.org/file/moscow-launches-large-scale-facial-recognition-tech-subway"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 39
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
   - title: "Moscow Metro and VTB launched fare payment using facial recognition in the subway"
     excerpt: "VTB and the Moscow Metro have launched a joint project to pay for travel using biometric data at all stations. This is stated in the bank's message. Now residents of Moscow will be able to pay with a \"glance\" for metro travel without using a smartphone or a card."
     publishedDateTime: 2021-10-15T13:14:00Z
@@ -46,6 +60,6 @@ related:
         height: 1281
         isCached: true
 
-secured: "w6CjHzSGHu9rjXVEYnG8EswJJudtHi/Q4IqjXB8LfQqGY2RsH4lKcfK8w1U5DqRyGvgNn8JByQY3awto5S4TtdTbRTQN1AWg/E1B3CZbTf73x9MjMZFjw2TJNv66GlvwwGCeK7i7xDWE1WZH5E6ASayeOCNE3sJN/4VesCLCOuVQpcPcXEYHTDofYNLbKZz4pZWkEWfIaEOfWS6oQUsqke6jjWjvz88QK1j7hvC2++3mZKqoltMgcWjwMZUEVvX+mwfL92m5k+asTkyUrvmP6Ber+kSMkjoUql+jXUQ2LLsbDON2LQ+JFAwVbg5XLGQzPvFGBeFNPXoLivFdGRyGO9evI1icYAJrkSamBkBpHBA=;2nRpFS+mzh3h6lPxchDooA=="
+secured: "ESLjSMO7lh6APjFeqL0M+t4qT7Ew5W7R6lHdKyBgFiuNZwJF9XLeIM9bAPqsAl8qWFKF1vc+wvve35HcjYn1PqxUsOvpuT99gsgAAf4ZDKfwRpK7+qosU/9Gpe1jjNu5U/8rHPMgkg9Wef5Kxq0takwWUcFbppajkUN7QyQdkQGr3gMWxwqlmsIKEoF8h3KhEdWTeBDJ86455G4GpDaO4yS3SBzJsb/V+N2726g+M7Q2w4da53OzaOz8xLxcKY0cV9xzsrJa06eGvBRfjDFehXlCKtBCByJ7T2bCVzMsMg5X1BiGJ4xR8jQCG4WE95yt9XDsefdFPIcdugjGqKgvcIQFvSCw8dya5TfKONV/fBForgFc9yk+LvCsv+rPEaz+XpsyWcEjn+/Lmp8nluHKwt95qE7fneDF/Nd0jqcGzE+pfju8DLHccbuy7rRigOkbeeZT/kTYFCC24xXcnKAdSTDfPhe62sb7K5qCOrlkmnoENL++9oGTmCWXm+2rIBd31mW34XMmKsybjLh+I0mXXQ==;BrxPcDl/BkgOVhoSmg+ioA=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-08-27-cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai.md",
+      "title": "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI",
+      "excerpt": "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
+      "originalUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
+      "publishedDateTime": "2021-08-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-27-improve-your-marketing-content-with-ai-generated-copy-from-writesonic.md",
+      "title": "Improve your marketing content with AI-generated copy from Writesonic",
+      "excerpt": "Let your computer do the work of a copywriter with this AI-generated copywriter. Save time and money to get the marketing copy your business needs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/improve-your-marketing-content-with-ai-generated-copy-from-writesonic",
+      "originalUrl": "https://thenextweb.com/news/improve-your-marketing-content-with-ai-generated-copy-from-writesonic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FTNW-Writesonic.jpeg&signature=c66ccfd2aff5105969f50164bea79ab2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-edtech-language-platform-duolingo-ups-the-ai-ante.md",
       "title": "EdTech language platform Duolingo ups the AI ante",
       "excerpt": "In the wake of a noted IPO, EdTech player Duolingo showed off AI-infused updates to its language lesson platform.",
@@ -1038,103 +1133,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-recognize-celebrities-in-images-and-videos-using-amazon-rekognition.md",
-      "title": "Recognize celebrities in images and videos using Amazon Rekognition",
-      "excerpt": "The celebrity recognition feature in Amazon Rekognition automatically recognizes tens of thousands of well-known personalities in images and videos using machine learning (ML). Celebrity recognition significantly reduces the repetitive manual effort required to tag produced media content and make it",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/easily-recognize-celebrities-in-images-and-videos-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/26/ML-5386-IMG1.jpg",
-          "width": 1645,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T15:13:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says.md",
-      "title": "US federal agencies plan to increase facial recognition use, GAO report says",
-      "excerpt": "Three-quarters of U.S. federal agencies surveyed for a Government Accountability Office (GAO) report are already using facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gao.gov/products/gao-21-526",
-      "originalUrl": "https://www.biometricupdate.com/202108/us-federal-agencies-plan-to-increase-facial-recognition-use-gao-report-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gao.gov/assets/styles/hero_l/public/extracts/c1917b8fbd51f63d6fde064a0ffb86f1/d21526-FF-Image.png?itok=U7z95JiA",
-          "width": 1400,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

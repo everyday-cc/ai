@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI is Being Used in Education"
-    excerpt: "Artificial intelligence in education can help automate & customize tasks. Learn how AI is supporting high-quality instruction now:"
-    publishedDateTime: 2021-10-11T05:46:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/how-ai-is-being-used-in-education/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/pexels-kindel-media-7979418-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "One Army corps sees data education as the foundation of AI-enabled targeting"
     excerpt: "Expanding data education has proven to be foundational and a defining metric as the Army tests artificial intelligence to improve weapons targeting for the 18th Airborne Corps."
     publishedDateTime: 2021-10-14T14:14:00Z

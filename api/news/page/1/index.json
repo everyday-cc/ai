@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-16-intel-chooses-dahod-to-train-students-in-artificial-intelligence.md",
+      "title": "Intel chooses Dahod to train students in artificial intelligence",
+      "excerpt": "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
+      "publishedDateTime": "2021-10-15T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-can-nyc-build-an-ethical-artificial-intelligence-ecosystem.md",
+      "title": "Can NYC Build an Ethical Artificial Intelligence Ecosystem?",
+      "excerpt": "As detailed in a 116-page newly released strategy, city officials in New York City are looking to proactively build ethics into machine learning and AI usage as the technologies become vital pieces of everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "originalUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf9b0e3/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ffb%2F9b%2Fd1bfffa9e925b1e6ed00ce145b24%2Fshutterstock-6188871351.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
+      "publishedDateTime": "2021-10-15T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-facial-recognition-is-finally-raising-questions-about-government-accountability.md",
       "title": "Facial Recognition Is Finally Raising Questions About Government Accountability",
       "excerpt": "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,",
@@ -148,7 +233,7 @@
       "originalUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -305,7 +390,7 @@
       "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -552,6 +637,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-privacy-fears-as-moscow-metro-rolls-out-facial-recognition-pay-system.md",
+      "title": "Privacy fears as Moscow metro rolls out facial recognition pay system",
+      "excerpt": "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/13d517cc7ec035116d60ec0e4c1ce37ecd9a7dd4/0_42_4386_2632/master/4386.jpg?width=620&quality=85&auto=format&fit=max&s=50b61a504c79b5a3b4aa3e26d6198092",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system",
+      "publishedDateTime": "2021-10-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -960,7 +1097,7 @@
       "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1104,153 +1241,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-waymos-self-driving-cars-are-mysteriously-flocking-to-a-dead-end-street-in-san-francisco.md",
-      "title": "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco",
-      "excerpt": "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
-      "originalUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp",
-      "publishedDateTime": "2021-10-14T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
-      "title": "Mozilla artists question whether AI could predict police killings",
-      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "publishedDateTime": "2021-10-14T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
-      "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
-      "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
-          "width": 980,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

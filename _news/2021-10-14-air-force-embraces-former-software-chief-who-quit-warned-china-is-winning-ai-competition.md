@@ -104,20 +104,6 @@ related:
         width: 740
         height: 453
         isCached: true
-  - title: "US loses AI battle to China, expert says"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon’s former software chief says."
-    publishedDateTime: 2021-10-11T06:03:00Z
-    webUrl: "https://thebull.com.au/us-loses-ai-battle-to-china-expert-says/"
-    type: article
-    provider:
-      name: The bull
-      domain: thebull.com.au
-    quality: 39
-    images:
-      - url: "https://thebull.com.au/wp-content/uploads/2020/05/china-us-flag.jpg"
-        width: 512
-        height: 337
-        isCached: true
   - title: "China has won AI battle with US"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-12T01:07:00Z

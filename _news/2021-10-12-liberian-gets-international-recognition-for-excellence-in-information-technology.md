@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
-        isCached: true
 
 secured: "uwNPlLMxvgzPIRw4E3d2ZEmHONBzlHveUc0XWV6i+phmIuQlM5fwzH9lerxDUISWAxiSwY8Pk4tHzF0DoXc5Pkza6RJsQ9/pOudEtWeCNvJfPkQigisiH0BkuFaeOvR+0StNOO/3J7DChrUmMmGQD+cFwMXLUg6DDxDWGyK04XE6OpvjpAVenT/mKAMGzKRgsVmJ5y8Y4m4TAzyJGUMkQvrEPNFYD/vjKBiX/Cqbmo6hSlHGM+Rf91sDyVy98kzLBGb+7ffV9CqsHMCC0KuQc3t5QSKXYJWhb7UutBkstPFFrZZFjD1VjvscYD/nIyCmwdDzO5EWUJcl1JZFWHuBymDaI1e540kltxtb5/hBDpM=;qlfGyG/gRS8O3Pn1SFnkCg=="
 ---

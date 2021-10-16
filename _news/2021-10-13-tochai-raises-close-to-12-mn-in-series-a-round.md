@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based job skills analysis startup Reejig raises $6 million series A for US push"
-    excerpt: "Reejig, the workforce intelligence platform that uses audited ethical AI to allow enterprise businesses to make smart and informed decisions around talent, has raised $6 million in a series A . The round was led by Kim Jackson’s Skip Capital,"
-    publishedDateTime: 2021-10-11T05:40:00Z
-    webUrl: "https://www.startupdaily.net/2021/10/ai-based-job-skills-analysis-startup-reejig-raises-6-million-series-a-for-us-push/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 31
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2020/03/Reejig-Founders_2-scaled-e1633930718530.jpg"
-        width: 768
-        height: 498
-        isCached: true
 
 secured: "r1Esj/QqY4RvbU+CZlwgVH0Px/IqM3LRtH5M6TzDHMWwW4QnWcqOiun0FHUhFn/ikAmBvmsJiAFuRgBy5oNBR+CpqJzB5YvpgtcB9ZOnzVuZIfxz0x0MoA1zKuQhQWXPh2RgFx/yl2x0qb3SPbqiZVwnawdQSVaZ6Ea1osMNTZNbqckEtgal2M0qDw06yaa5GQHFqtgYs2zX8i1jNzOl1EmoBDnLMSKoGLv3/+6cLRZs5KMlWs23cGjOFCMx9PzpDsG8wmudYEaCCHuWxcHK7znnHSwzJhV8NZwgAkefbPrpBUrNTXCYEPRRCV1PnVUztVC83Mmob7fhzlLv1SDYmPDqZJFLiOGrhHCs5Cyj2yw=;Pz4iCt5oRY4uztlK16AICA=="
 ---

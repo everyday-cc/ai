@@ -2,6 +2,101 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-09-29-nowcasting-the-next-hour-of-rain.md",
+      "title": "Nowcasting the Next Hour of Rain",
+      "excerpt": "Our latest research and state-of-the-art model advances the science of Precipitation Nowcasting.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/nowcasting",
+      "originalUrl": "https://deepmind.com/blog/article/nowcasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tPtvqnIoqRR2CtHpVYwurl5HNRtQ8lXfcNVxRmuOSSihah1Ocz2SwC3elaT49gSy6u0ozVr2VT_RgxPRCUGYFdbrRDFgQkVGIqx7EX-ZvofXV68acg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-programming-artificial-intelligence-for-object-recognition-made-easy-by-the-bmw-group.md",
+      "title": "Programming artificial intelligence for object recognition made easy – by the BMW Group",
+      "excerpt": "Munich. The BMW Group is releasing another software package that makes light work of creating artificial intelligence (AI) applications for object recognition. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
+      "originalUrl": "https://www.press.bmwgroup.com/global/article/detail/T0317790EN/programming-artificial-intelligence-for-object-recognition-made-easy-–-by-the-bmw-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediapool.bmwgroup.com/cache/P9/202009/P90401410/P90401410-an-associate-labels-photos-from-door-sill-strips-of-the-bmw-3-series-creating-an-ai-object-recogniti-2250px.jpg",
+          "width": 2250,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "www.press.bmwgroup.com",
+        "domain": "bmwgroup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazon-echo-show-astro-event-live-blog-follow-our-coverage-now.md",
       "title": "Amazon Echo Show, Astro event live blog: Follow our coverage now",
       "excerpt": "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa.",
@@ -1104,101 +1199,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-amid-rapid-adoption-paravision-unveils-new-computer-vision-capabilities-making-face.md",
-      "title": "Amid Rapid Adoption, Paravision Unveils New Computer Vision Capabilities, Making Face ...",
-      "excerpt": "Paravision, the U.S.-based leader in mission-critical face recognition and computer vision, today announced an array of new and updated products that make face recognition solutions faster, more accurate and secure,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/business-lifestyle-technology-161b6001f56065607c74c8de977ff6a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-microsoft-launches-data-governance-service-azure-purview-in-general-availability.md",
-      "title": "Microsoft launches data governance service Azure Purview in general availability",
-      "excerpt": "Microsoft announced the launch of Azure Purview, a unified data governance solution for on-premises, cloud, and app-based systems. Today marks the broadened availab",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/microsoft-launches-data-governance-service-azure-purview-in-general-availability/amp/",
-      "publishedDateTime": "2021-09-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

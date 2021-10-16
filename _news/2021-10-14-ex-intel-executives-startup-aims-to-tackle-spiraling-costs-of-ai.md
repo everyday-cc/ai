@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel chooses Dahod to train students in artificial intelligence"
+    excerpt: "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp."
+    publishedDateTime: 2021-10-15T23:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI"
     excerpt: "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
     publishedDateTime: 2021-10-13T14:33:00Z

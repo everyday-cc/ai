@@ -27,6 +27,15 @@ images:
 
 related:
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
+    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding foreshadows the next phase of medicine, where technology helps clinicians quickly determine the root cause of disease so they can give patients the right treatment sooner."
+    publishedDateTime: 2021-10-15T15:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 36
+  - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
     excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding, published in Genomic Medicine, foreshadows the next phase of medicine,"
     publishedDateTime: 2021-10-13T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/931383"
@@ -39,20 +48,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b7ddf3ea-30b2-4754-9c29-8befeb251fa9/Rendition/low-res/Content/Public"
         width: 700
         height: 467
-        isCached: true
-  - title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
-    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
-    publishedDateTime: 2021-10-14T21:17:00Z
-    webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
-    type: article
-    provider:
-      name: UUHC Health Feed
-      domain: utah.edu
-    quality: 28
-    images:
-      - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
-        width: 420
-        height: 280
         isCached: true
   - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
     excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"

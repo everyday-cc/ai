@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-12-global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027.md",
+      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027",
+      "excerpt": "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
+      "title": "Biden administration says we need a Bill of Rights for AI",
+      "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
+      "originalUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-germany-unveils-first-self-driving-train.md",
       "title": "Germany unveils first self-driving train",
       "excerpt": "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains.",
@@ -1109,93 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
-      "title": "The Ethics of Artificial Intelligence (AI)",
-      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
-      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
-      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
-      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
-      "publishedDateTime": "2021-10-11T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

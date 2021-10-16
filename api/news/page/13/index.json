@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-04-ai-and-machine-learning-where-are-the-checks-and-balances.md",
+      "title": "AI and machine learning: Where are the checks and balances?",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, Joe McKendrick says oversight of AI-generated decisions is lagging. Read more: https://zd ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
+      "originalUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad02a2eaf68e6ca543a36eb682720d480e35a9db/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=770&height=578&fit=crop&auto=webp",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
+      "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
+      "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "originalUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "publishedDateTime": "2021-10-04T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
       "title": "Robotics transforming knee replacement surgeries",
       "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
@@ -1064,100 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-have-you-spotted-these-robots-around-expo-2020-dubai.md",
-      "title": "Have you spotted these robots around Expo 2020 Dubai?",
-      "excerpt": "The one-metre-tall orange-coloured robot is the official mascot and guardian of Mission Possible — The Opportunity Pavilion — you can find him around the walkways of Expo 2020 Dubai, dancing with his buddies and cracking a few jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "originalUrl": "https://gulfnews.com/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/10/03/RDS-ROBOT-EXPO-1633277737978_17c46f07c05_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/experience-the-uae/have-you-spotted-these-robots-around-expo-2020-dubai-1.82706158",
-      "publishedDateTime": "2021-10-03T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-what-we-can-learn-from-chinas-proposed-ai-regulations.md",
-      "title": "What we can learn from China’s proposed AI regulations",
-      "excerpt": "China's guidelines are the most comprehensive effort to date to regulate recommendation systems. They embody both best and worst practices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
-      "originalUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/China.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/03/what-we-can-learn-from-chinas-proposed-ai-regulations/amp/",
-      "publishedDateTime": "2021-10-03T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

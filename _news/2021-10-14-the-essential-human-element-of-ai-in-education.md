@@ -7,7 +7,7 @@ originalUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element
 webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the role of dignity in government AI Ethics instruments"
-    excerpt: "Originally published with Centre for Public Impact. There is so much focus on the harms that technologies of the future can and do bring."
-    publishedDateTime: 2021-10-11T05:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster"
+  - title: "A Role for Artificial Intelligence in Educational Futures?"
+    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
+    publishedDateTime: 2021-10-14T02:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGPZnuaDU7SnQ/article-cover_image-shrink_600_2000/0/1520130833100?e=1639612800&v=beta&t=n1kkk6k8x5EVfIP7q0dQB6O4XMMTh1aXsX7qK6Xubyo"
-        width: 453
-        height: 244
-        isCached: true
-  - title: "Analytics Insight explores some of the top Indian AI companies offering remote working in 2021"
-    excerpt: "This article explores some of the top Indian AI companies offering remote working in 2021 with utmost flexibility. AI companies are leveraging smart functionalities of artificial intelligence through remote working efficiently and effectively."
-    publishedDateTime: 2021-10-11T09:02:00Z
-    webUrl: "https://www.analyticsinsight.net/top-indian-ai-companies-offering-remote-working-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Top-Indian-AI-Companies-Offering-Remote-Working-in-2021.jpg"
-        width: 900
-        height: 500
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
+        width: 612
+        height: 326
         isCached: true
 
 secured: "sM/7FD8VQPUZePWmx8ek+4m10PX9SXHjcdhodY8NmlCMzHoeYiuOxpYGGQIgUviFMa25i7ECE3Se+EZebKMqWsbIJmVrtuTJxB2m60uOWitm4njXsK954rv0p8UY8I+7UYxG02X36DET/MSQDHagSyfLegQAoJ0m0nmE6OAHVAvMIQo2M9PlT8dy35wAF8kVuTFqAL6E3cP8ePBXorlD7bmE/wZlGBDgJOIdGpjSAadSPpnPhuHqMMaHVAXhnVodebmhDfASLrOZpnZA0+0lYYhS+CyO+LvohkIxiPU2psFwPJTDdOhcR8RaV+IeL2DZ5SU5eFcQIr8uMVYoMoaDDV8hnpfq4cvR1VRcNPNZOjI=;bEJmWoPJgAEhsPhuYwLdPw=="

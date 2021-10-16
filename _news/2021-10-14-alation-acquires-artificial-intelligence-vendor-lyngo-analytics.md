@@ -66,17 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leveraging AI & analytics to build the shoppers of future"
-    excerpt: "Imagine a traditional retail outlet not too long ago. Even in the age of modern retail organizations, shopping used to be an uncomplicated thing just a few decades back. There"
-    publishedDateTime: 2021-10-11T06:46:00Z
-    webUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/"
-    ampWebUrl: "https://www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/leveraging-ai-analytics-build-shoppers-future/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
 
 secured: "qKBSYr4RaUC5N6Mh6asn87y/jCCV5U9KwIKYI7QNsFpPR1LoUMYGA3R7bbBg/TUdpyHUURja0OFKiM5ZswPcW5cP5Bgrf7Ka2TH7w+HNu2ACf0XmaOubPehLi7PXW9xbJSgWWCxgL04k3Xa6zcZXAXH/NgQqkZMHqbm/kDdJ8/TCtPUaJJXpasMbbMvoj5TGWlCO4OkOnBQQ54hyrQ0tXFXGib1JVf6gGTjVE1GqptNq+YBI8LtCXMetgMQkXhl/vE/SP6XypGdwiroe7DUYGKnQkxC6utsk+TRgJw42klsYcA5lO7qbVJy1Vt/ks3HP/phSG2sXfdy5fDQLnh/sThSnDetoH4PFFo9C0QRsv9A=;fe7J+SjqrU4V4VcyfzlU8w=="
 ---

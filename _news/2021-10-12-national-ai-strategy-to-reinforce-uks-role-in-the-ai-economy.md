@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
-        isCached: true
   - title: "Liberian Gets International Recognition for Excellence in Information Technology"
     excerpt: "US based Liberian, Abraham P. Detrench Kallon has been included in 'Marquis Who's Who', the world's leading biographical publisher, dedicated to chronicling the lives of the most accomplished individuals and innovators from every significant field of endeavor,"
     publishedDateTime: 2021-10-12T07:24:00Z

@@ -316,20 +316,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Facebook Loves Self-Supervised Learning. Period."
-    excerpt: "Facebook's chief AI scientist Yann LeCun's influence seems to have rubbed off on the team, taking a path less travelled – a journey towards self-supervision. This path/method does not rely on data that's been labelled for training purposes by humans – or even on weakly-supervised data like images and videos with public hashtags – instead,"
-    publishedDateTime: 2021-10-11T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-loves-self-supervised-learning-period/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Facebook-Self-supervised-learning-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Through Another's Eyes: University Researchers, Facebook Release Massive Dataset to Expand Innovation in AI"
     excerpt: "A consortium of universities brought together by Facebook AI, including Georgia Tech, have collaborated to compile the largest dataset ever collected on egocentric computer vision -- or computer vision from the first-person point of view."
     publishedDateTime: 2021-10-14T12:00:00Z

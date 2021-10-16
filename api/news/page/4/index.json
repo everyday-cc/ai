@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
+      "title": "Why graph DB + AI may be the future of data management",
+      "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "originalUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f0372ad25c6804126f901cb8d3c2fdf422b8b1e6/2021/10/12/224e2aaf-3631-43ec-ba47-39756282a739/alindeutsch-tigergraph1-copy.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
+      "publishedDateTime": "2021-10-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-artificial-intelligence-stocks-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: Best AI Companies",
+      "excerpt": "Artificial intelligence (AI) can be the most prominent new industry in the 21st century. Artificial intelligence (AI), once the stuff of science fiction, is now a reality. Machine learning and neural networks are already being used daily by the finest artificial intellegence stocks to invest in.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-stocks-best-ai-companies/amp/",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "IBM AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
       "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
       "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
@@ -291,7 +390,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -748,7 +847,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 403,
+      "heat": 393,
       "tags": null,
       "images": [
         {
@@ -940,7 +1039,7 @@
       "originalUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1136,100 +1235,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027.md",
-      "title": "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027",
-      "excerpt": "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-biden-administration-says-we-need-a-bill-of-rights-for-ai.md",
-      "title": "Biden administration says we need a Bill of Rights for AI",
-      "excerpt": "The Biden administration is aware of the impact these evolving technologies are having. In fact, in a recent op-ed published in Wired, the White House made mention of those examples and more while calling for a \"Bill of Rights for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
-      "originalUrl": "https://mashable.com/article/biden-ai-bill-of-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06bIkOwEwXcX6Cpw8wlqnKa/hero-image.fill.size_1200x675.v1633976109.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
