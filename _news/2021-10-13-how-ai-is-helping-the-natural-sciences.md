@@ -42,20 +42,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
-    images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
-        isCached: true
   - title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
     excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
     publishedDateTime: 2021-10-11T20:21:00Z

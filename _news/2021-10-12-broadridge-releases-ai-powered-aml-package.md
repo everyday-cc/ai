@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Broadridge Extends Intelligent Automation Suite with New AI-powered Anti-Money Laundering Solution"
+    excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc. (NYSE: BR), a global Fintech leader, today announced the launch of the Broadridge Anti-Money Laundering Solution (AMLS),"
+    publishedDateTime: 2021-10-12T06:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/broadridge-extends-intelligent-automation-suite-with-new-ai-powered-anti-money-laundering-solution-1030857935"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Broadridge extends Intelligent Automation Suite with new AI-powered Anti-Money Laundering Solution"
     excerpt: "To better serve clients and the financial services industry, Broadridge Financial Solutions, Inc., recently announced Broadridge AML Solution"
     publishedDateTime: 2021-10-13T09:52:00Z

@@ -54,6 +54,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "UCF researchers studying AI to help with Telehealth"
+    excerpt: "Could eye tracking and reading facial expressions be the future of virtual doctor appointments? Researcher and University of Central Florida professor Roger Azevedo thinks so."
+    publishedDateTime: 2021-10-16T05:29:00Z
+    webUrl: "https://www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth"
+    ampWebUrl: "https://www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 37
 
 secured: "SrgVxXsHDyr1AhOSZmlnd84kC8CC1Cz6+hhCnJ4W1hTSvp9l++4rukbb4Oa8/8PBwZ/bTdorBevXoCenL4J/fDFuRwAIAtnNbKN1+aZyMMVDhqkqt+IGrPWqXMU1Umg+k1zs4m/MNKFrmOtOepbQM1DklTy1o3mZEfeJstFL7bQ2sqafnfdqLZ2Mv69r7QzfC7hRP7cYyD30vQwxlCaMZRsI+5497egVyUPDtuqnjAoFI+lflm241/BNsDPC9laFWVMpgWt4RF2ZYMaSOVBTDKP1PDwnazt7eXN7NT73pe9iGI0bz+Ckz0jCc3F+Mh5025GON4nXzRpA0vmoCwbahoSpcIZ/IaQFAUhV9aUlqiw=;8SKwkLK+yYLWsPaStCiCbQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: Insurance Insider
       domain: insuranceinsider.com
     quality: 2
-  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
-    publishedDateTime: 2021-10-11T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "GXknnlcKAWYiVp23UA6GUtV8ND+NPLjVVsYTTfvrrotuYRNQcFxdoff3RkVujjt6QmK02MH/FR/hrYAG/G928cmMZFXynBVq453rYWMcrZcdpyxrRAeYbymszOrPRmoGPm9jRFxHS0b5pMPOhaFr2yH6323sPsBGW+tvRjKFWmYMq9XyVQ2xqVTztoxuH+9lpUNIMpAaGiVXJWDopIjVLQf/gJImxPq8ICsn27OPGMh1ZkcJ5rb44pPX2KTB+CKS/3pyU1cCMN0zAg2h+m1Ij2OTMgcjczTdYARXME5MN2SULrMJv0KCBX+kgnV+eC73G2/Zm/ALEU/wDpqCStvqbcvlKKQKjEihlACCrMRxJpM=;paGDbR7f+GCYN7psT6LbLg=="
 ---

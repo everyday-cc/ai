@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Five Steps To Successfully Leverage AI In Your Business"
+    excerpt: "What exactly does the adoption of AI mean in concrete terms — for the management team, for an employee in a call center, for a doctor or for a research assistant?"
+    publishedDateTime: 2021-10-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bc51ba8299062b3b9581b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Data quality, AI and how ethics can be a competitive advantage"
     excerpt: "AI can be misused, but how can businesses differentiate themselves from less ethical ones to gain competitive advantage?"
     publishedDateTime: 2021-10-13T19:59:00Z

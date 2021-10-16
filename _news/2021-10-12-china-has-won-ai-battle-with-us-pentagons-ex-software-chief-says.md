@@ -103,20 +103,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "China is beating USA in AI race, says ex-Pentagon software chief"
-    excerpt: "Some US government departments' cyber defences are at 'kindergarten level' compared to China's advancement, Nicolas Chaillan thinks"
-    publishedDateTime: 2021-10-11T11:16:00Z
-    webUrl: "https://www.computing.co.uk/news/4038435/china-beating-usa-ai-race-pentagon-software-chief"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/3abcc90/2ccfb016-ef72-4da5-a40a-efc07801e5c5/6/ai-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
     publishedDateTime: 2021-10-13T22:25:00Z

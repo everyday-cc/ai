@@ -42,20 +42,6 @@ related:
         width: 1191
         height: 692
         isCached: true
-  - title: "Using data to connect the dots: How automation and artificial intelligence are redefining financial services"
-    excerpt: "What is the goal for automation? How are you using data to connect the dots?  Welcome to the age of artificial intelligence (AI), where new technologies hold the promise to both improve the relationship between financial services institutions and their customers,"
-    publishedDateTime: 2021-10-11T12:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/using-data-connect-dots-how-automation-artificial-intelligence-lau/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 18
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHqvYSb776Ajw/article-cover_image-shrink_720_1280/0/1633955569079?e=1639612800&v=beta&t=Z09Ap1xCzT6ytjATZWsgDdilCGWYbx3IkQIemp6fl38"
-        width: 1134
-        height: 720
-        isCached: true
 
 secured: "+/JI/HF9w9kYxKAfbmMFhBE94qtV1PXHeFSI9NovDoz1rI5rWpHPsjy3noH9iZFwnxSr8VstxoS4BTwCouaJtk99WsPkh37VTUX3QzhBtYfb9aBhz6mGcy5Lyz4xQHxWW/1ZFfjTyVScZfk5WFFyubDsAtsgBwQfDXXI2T5OH0dJEvBq06F7EkH3TFmXQg7ZED86vwDRgkS6Jl5u5pbgaD6U5+oORL9XEj47oHBfr/m8nXZaI3rJFzLQND7AKllslzdJUBoqAEWS03Rlub7ia1/hslArC5/8VqT+jjMYh/HoKJ4HYqy6v9WS4/EDtkRqV23PR/VzJ3chz61K4vL3qylI0EujHaTM9Wn550DFgxo=;bMH5ogogimcHyg/Oabxd9g=="
 ---

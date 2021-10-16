@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-he
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
 type: article
 quality: 155
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1633960225/aerial.jpg/aerial.jpg?VersionId=lAdwLN7U6o6ptOSscwVUmJ_ZiRQ_wA_y"
         width: 1280
         height: 719
-        isCached: true
-  - title: "YData secures €2.3 million to join the data preparation for AI race"
-    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
-    publishedDateTime: 2021-10-11T11:03:00Z
-    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
-        width: 960
-        height: 545
         isCached: true
 
 secured: "XLGqyfjbs4bxNGIi7axC7XKRGgKfCF5KnmVhbXKswGAIe31OsfumHlp3EXFjzDG7xpFUwNDnpsIJ+ThQGxgjdKie5/N57rpnYl9L9bUaDnZryrQCiuiH/2R6ZIPmOxIjq5IZCQHbMJeQXjVXqcP9N4dBJFccZT4C00pmaLBfMAZSlncmU8IhkZ3bbDHbvjuI0CM7m8ePjVboaxTl6eoWGHYWTdnHRl/xcjSmumamNp/LWvuYHMWMsrb87F9y76Lk3uXzXEMqrPClycFoZM2E0bnuSUmS1VNzy82XvUCyAtHmvRqtCLNP3TBCA3SRsYtWxiCchgpiCPMp2aWGacm6UKi0qfJLX6AKTdfi7ybi5zXaaWmq0yksCWVGcCho4dmJkvuwp4q6V0W4cH3Gt/UeRYRaXve8zYb4SuOqM2oJB8KPn4CMQ8sPC288w9AzIGlZkzFTcXbsPYEiGB7afcSEjR/8CynoTTZG8kJAOkwmZzZab66EoVLnoKsISjekWQYBCG3bMnG4sRElxnxREDaL7LjSUZHipvdvfMK7rYrpNwE=;qujp5gfN+ORzKlfC4b/2yw=="

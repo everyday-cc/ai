@@ -59,15 +59,6 @@ related:
       name: Insurance Insider
       domain: insuranceinsider.com
     quality: 2
-  - title: "BizClik Media: Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "Technology, AI & Cyber Live and Procurement & Supply Chain Live-BizClik Media Group prepares for its third hybrid event of 2021, FinTech and InsurTech Live. With company executives coming from across the globe,"
-    publishedDateTime: 2021-10-11T12:47:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54167856-bizclik-media-preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "PJH6lwetJn7XKV7FYLugHwjxcIqNpg5qUtgf4Uam7RLubqXdKFBUEO7bFu+wHvIzYSCQkxnfdt7rENr8pcudvwd8smOlicG8GL3psZPlcahiXMWFWm4gC3uZnAD7YHHgy2bkviafXI7eotdZSzAjAuxk8syRUSVysrZAhTDxIWj2j7AfdZhBoHS2AHigngNlyDmjDWgISC1QvXXjwEvMKFRZRdO/VUK6DfBhxgmaHRRgTuvzyhdZnCVOWQRSVc5lDI6aAKcB75Ci7KE6pUtGUmp5N88OFwd5gY2hHvWUm6Vqo1RkT2ueyQ1IoBXeJmEb+BRJ8JSqZIka3cS0wd2QdYG0AwIgrAEgpb1fi9aEouk=;xikvHKb5hobQ9EP7sm9gfg=="
 ---

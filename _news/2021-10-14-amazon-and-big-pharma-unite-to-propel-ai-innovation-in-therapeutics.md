@@ -33,22 +33,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 110
-  - title: "Preparation begins for FinTech and InsurTech Live at Tobacco Dock, London"
-    excerpt: "With company executives coming from across the globe, FinTech & InsurTech Live offers a packed schedule of speakers from the banking sector and payment solutions to insurance technology and artificial intelligence."
-    publishedDateTime: 2021-10-11T12:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23316777/preparation-begins-for-fintech-and-insurtech-live-at-tobacco-dock-london"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23316777"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23316777"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "iETxfrleGC1XWf2glZstUvdLHDxj1ySuWXN+FQFRnP1rPHeVovWNSZc4qTcF2N/0xKsxLkD9CjchAygz23hEGjVFBRSkIH32S6MDjdpMJTZoQ1b2sl5YnSUFdGNAxs+x958jTnQ+XxxMf02ark5RlDxjnttljiF085NCsbg8HbxXG95oQXwg2kTFFhw3C+taWomA4e9fMDWdQr8PabMY+PBLoAb78q7CvnL8nvvHYfu94ak80SUq+A0nddVh0ceGEGI6E/zWQoJU5T+yjrVplApv5Rw4j3avIQLArQdJYbDSJJJRlCknTAfgNoSE1eDRNzwL2+0/qPjBs2HnzpE+6Wckh9lE1AeeqOSj62C+cuM=;tu1xlrn5w1fTkvEcq44oQA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-
 webUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-enforcement-intelligence-work-with-digital-clues/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cellebrite to Acquire Digital Clues, Strengthening Its Market Leading Position as the End-To-End Investigative Digital Intelligence Platform Provider"
-    excerpt: "Adding an open-source intelligence solution to its DI offering strategically positions Cellebrite to expand its work within law enforcement"
-    publishedDateTime: 2021-10-11T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cellebrite-to-acquire-digital-clues-strengthening-its-market-leading-position-as-the-end-to-end-investigative-digital-intelligence-platform-provider-1030855739"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1656528/CELLBRITE_DIGITAL_CLUES.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Outreach Expands Platform to Now Include Revenue Intelligence Capabilities with Latest Acquisition"
     excerpt: "\"These are leaders who had to adapt and evolve their mindset to embrace automation and machine learning as the keys to driving predictable ... capabilities coupled with Outreach's artificial intelligence-powered buyer sentiment capabilities and the ..."
     publishedDateTime: 2021-10-12T17:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-he
 webUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UCF researchers studying AI to help with Telehealth"
+    excerpt: "Could eye tracking and reading facial expressions be the future of virtual doctor appointments? Researcher and University of Central Florida professor Roger Azevedo thinks so."
+    publishedDateTime: 2021-10-16T05:29:00Z
+    webUrl: "https://www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth"
+    ampWebUrl: "https://www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/ucf-researchers-studying-ai-to-help-with-telehealth.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 37
 
 secured: "RGao7yvbH3OIE0IKRz7PxjNUXFtDQyP29F8OdeyOTuTEbx9jc/h+ImhRAIhj6oSmkSymzOIkT1UxkiJ4BPWjVz0HvLm8rwZSqCJzcyVMqLFurb9jsxLSyG//5lDihzwbtQLK7Mn+kLeylA0Z6TH/iE5Le+odOnUtwKt/NxoYN3XIEW93/HGpk+069lRpHcE5lCHd6wEva1hEuOO1kaz/8yCeVbySyJJGXgqQBse2VXppcBZuKqyZ/8mLbIMZd2c+C+qUXaBfoa5FdJLhvxi0P/4Z5+A8oFIreuzv5+4CuiIkgVaQzkkjBJ6cAEHUCZp3LeZEXl1El23rqMnwFXzyRK22jn1742/MxAQdRqsq540=;UpXunRIDq6cMSv5K7H24kQ=="
 ---

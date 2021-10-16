@@ -39,20 +39,6 @@ related:
         width: 679
         height: 400
         isCached: true
-  - title: "Military researchers to use gaming concepts and artificial intelligence (AI) for nuanced communications"
-    excerpt: "Diplomatic negotiation is complex and requires an in-depth understanding of the interactions of many potentially untrustworthy allies and adversaries."
-    publishedDateTime: 2021-10-11T11:50:00Z
-    webUrl: "https://www.intelligent-aerospace.com/military/article/14211880/military-researchers-to-use-gaming-concepts-and-artificial-intelligence-ai-for-nuanced-communications"
-    type: article
-    provider:
-      name: Intelligent Aerospace
-      domain: intelligent-aerospace.com
-    quality: 36
-    images:
-      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/10/Diplomacy_8_Oct_2021.615f4a150593b.61609f2843123.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enova Announces Date of Third Quarter 2021 Financial Results Conference Call"
     excerpt: "Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the company's third quarter 2021 financial results will be released after the market close on Thursday,"
     publishedDateTime: 2021-10-14T15:16:00Z

@@ -49,20 +49,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI Stocks Portfolio Buying and Selling Levels Going Into Market Correction"
-    excerpt: "The US stock market has been content to rally to new highs with many stocks going to the Moon including most of our AI tech giants, a rally that I have been distributing into to the extent that I have now sold 80% of my holdings in the Top 6 AI stocks in my portfolio some of which I have been accumulating for over a decade (Microsoft)."
-    publishedDateTime: 2021-10-11T11:25:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article69498.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 37
-    images:
-      - url: "http://www.marketoracle.co.uk/images/2021/Sep/Silver-price-crash-warning.jpg"
-        width: 700
-        height: 530
-        isCached: true
 
 secured: "tCmn5lBs7jCd7kd1Ej4hW1kL1Aew/TYjzE1w8fATGXX7cqwR2d3MUIfNmWHjXMMs/XxQQL36HSKsVH5Q24EcAjmmRsZ0FvTaBojFqcZM+p5B5Rx5Swscv8pN/ms1pQqF/bkHXgz8LZ5kzd9XCPIvgTIB5Odxlzr9Wu8vCNloQVfiEYkqSkb5niHbC2wfBw2rS1AcuF4JnLt1WB2IDYRBcT2GwOZGfBrQ8dcJZl4qOBL/qhicm65LrxDuuE4dsgxRn9617GjUJOqpYXH926wVwZ/JwMzfisMIsuCGuC3cUef9NM6qpMRPeU3TxBXcZWln/yKoixk+UXtCDZBWRHu5fULfQpwVl8LtMx2azqjWm18=;2QQijUF+mQQ8tf+cLWVBIg=="
 ---

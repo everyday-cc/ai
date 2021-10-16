@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "YData secures €2.3 million to join the data preparation for AI race"
-    excerpt: "Lisbon’s YData has secured €2.3 million in seed funding. The company joins the ranks of startups that use a data-centric approach in preparing data to be fed to help train […]"
-    publishedDateTime: 2021-10-11T11:03:00Z
-    webUrl: "https://tech.eu/brief/ydata-secures-e2-3-million-to-join-the-data-preparation-for-ai-race/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 37
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2021/10/y-1.png"
-        width: 960
-        height: 545
-        isCached: true
 
 secured: "Z9krjrSFNCUCosxUIPD6T0Ub/PEl9M2feIk82D4Rfdyxn1xdgb57QGH7Aw/GF4Xckcgmw3YLxIQ9YLHcpgnp0dRwyJT/smQXXVURuVAFfhPe5A+WH0obNSwV14TgSkKyd+MA2n3//rp9mhWXrwubNLamvxKmPM976wcIL2BU6oK/uZ98+1pMDfw5V7FyWk7BISGLg0K/jJYVatwPnSmZNRuJOvtXFQn4IDD4EkFeJ8eNOkjf2tDfWYAm66rT/ai3dxiMTDj8h7FBhlq3pO9cq3OzxCAvJl1j713j+VDXOSFiv/988qlPgbxOg7dGpCItzW8fRHoUS+oCMrRLx2acaxa1Y8EGae+fgvZNIT+LEqNDprCfvhxkHpaxfl9J82MOz+4CmE3xR55Y6zBcrI9u/B6x+AuD+hXy43oKNxjidhHJ/2+Hk7kibkR0l4UplH4cQDaUpZEZtHIegbMh2iuXSk0k2uHGECDvQNwbkronXWMhM7PPrVtd15SXXjIEgnfdnYNVzXFBLFckftJGdnNYRA==;1sbhdM4AVEnZRqIUfaudsg=="
 ---

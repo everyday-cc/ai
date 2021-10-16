@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12540"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Developing an AI that 'thinks' like humans"
-    excerpt: "Creating human-like AI is about more than mimicking human behavior—technology must also be able to process information, or \"think\" like humans if it is to be fully relied upon."
-    publishedDateTime: 2021-10-11T11:16:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-humans.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-ai-humans.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-ai-humans.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/developing-an-ai-that.jpg"
-        width: 375
-        height: 375
-        isCached: true
   - title: "Developing an AI that ‘Thinks’ Like Humans"
     excerpt: "Creating human-like AI is about more than mimicking human behaviour – technology must also be able to process information, or ‘think’, like humans too if it is to be fully relied upon, According to University of Glasgow."
     publishedDateTime: 2021-10-11T21:06:00Z
