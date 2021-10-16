@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
-      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "publishedDateTime": "2021-10-13T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
       "title": "Google Cloud extends its reach with new Distributed Cloud options",
       "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
@@ -97,35 +54,26 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-microsoft-has-crushed-the-worst-ddos-attack-its-azure-servers-have-ever-encountered.md",
-      "title": "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered",
-      "excerpt": "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected.",
+      "path": "_news/2021-10-12-heres-how-microsoft-is-using-artificial-intelligence.md",
+      "title": "Here's How Microsoft Is Using Artificial Intelligence",
+      "excerpt": "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI).",
       "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "originalUrl": "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/",
+      "webUrl": "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 344,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "publishedDateTime": "2021-10-13T05:06:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp",
+      "publishedDateTime": "2021-10-12T09:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,8 +83,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1398,6 +1346,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
+      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
+      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "publishedDateTime": "2021-09-28T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

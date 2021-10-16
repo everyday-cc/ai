@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "A New Link to an Old Model Could Crack the Mystery of Deep Learning"
-    excerpt: "To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning."
-    publishedDateTime: 2021-10-11T15:36:00Z
-    webUrl: "https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/"
+  - title: "Using Machine Learning to Make Government Spending Greener"
+    excerpt: "During the COVID crisis especially, government spending priorities have been stretched thin by rescue and recovery stimulus efforts. Our project seeks to show how ML models can help policy makers and researchers design data-driven policies that allocate precious government resources at home and abroad."
+    publishedDateTime: 2021-10-14T20:25:00Z
+    webUrl: "https://unstats.un.org/unsd/undataforum/blog/using-machine-learning-to-make-government-spending-greener/"
     type: article
     provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
+      name: UN News Centre
+      domain: un.org
     quality: 39
     images:
-      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/10/Bowl_1200_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://unstats.un.org/unsd/undataforum/assets/img/photos/people/Himanshu_Sharma.jpg"
+        width: 300
+        height: 299
         isCached: true
 
 secured: "WXWi2kJGMeIfSOtcTIqlCDlB8fPe3Ntig4FchTGPNVAZJlOT6EdB+n4OD0R4i7g4kl0WeFoTEw1g81ETT7dXUywNqJj+6EVVKw3fO2Bp5bpSf1rL4XZ75OETU7CFQQ7O3jM6ENnc9nMTXrl0LvwQ1bhVdUmzqbS/3mwwkYQnwQfs2kUKzGaiGZ6astymjj60otYJNi6f3oqMfJWxaBYWtSEFpAcjCWxPC14LZC2+HG5xK7hwD8muRyuMxgUNfwvXdw1zzaT8zdJi29QBeoJtndo6FKSZdsn0+NqDwHMkuy4nuU9kWGvA4Mtnln/xg0y/5WKriVYMg7gyBlkWeg4JgiGFyDEARdPfz4jlPlw7yrlR68fNsQoJvc3aWd81hrWRzyHZXJrxwXec6wBq56bKjfAt+MIsDGeWi1AOTUHDbTzCokn1J4+eV9Z1cY7910ZKGLYjL3ApgWJRSgw3WlpsMzbfn1/31E6MOAfjEp+CZ0FXZDppPxD/tDCXIPcR4whTBzbIChMR+dgT3Q+9iOeZUg==;QxlVcwglmgQmeyp/p3C+4A=="

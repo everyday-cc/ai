@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,35 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "China has won AI battle with US: Pentagon's ex-software chief"
-    excerpt: "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,"
-    publishedDateTime: 2021-10-11T15:54:00Z
-    webUrl: "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562"
+  - title: "Is China Winning AI Competition?"
+    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times following his resignation."
+    publishedDateTime: 2021-10-14T16:00:00Z
+    webUrl: "https://i-hls.com/archives/111099"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/11_mon/img_1633964411381_404.jpg?"
-        width: 728
-        height: 485
-        isCached: true
-  - title: "China has won AI battle with US"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-12T01:07:00Z
-    webUrl: "https://www.itnews.com.au/news/china-has-won-ai-battle-with-us-571102"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: AUS&R
+      domain: i-hls.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg"
-        width: 690
-        height: 428
+      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
+        width: 1280
+        height: 905
         isCached: true
   - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
     excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."
@@ -97,22 +81,6 @@ related:
       - url: "https://americanmilitarynews.com/wp-content/uploads/Screenshot-2021-09-07-12.24.10-PM-e1631044688698.png"
         width: 1048
         height: 614
-        isCached: true
-  - title: "The Pentagon's first software chief RESIGNS in protest because the US has 'already lost' the AI war with China and is '20 years behind its technology'"
-    excerpt: "The Pentagon's first ever chief software officer resigned last month in protest of the slow pace of technological advances in the military, claiming China is winning the Artificial Intelligence battle."
-    publishedDateTime: 2021-10-11T15:10:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10079319/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10079319/amp/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10079319/amp/China-won-AI-battle-U-S-Pentagons-ex-software-chief-says.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 19
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/11/16/49029765-0-image-a-7_1633965039015.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "AyVo9yqlQjtaCq8iOCIBOuQuD3M2QeZLcd6n676pufoCS72i3A7N01Ge5KpISJISJMIxc5qGqb96dKQQ3MpN1dtoePRnxa15/LSCPiC+uhM1y56ulYcfp05XSrRqQdEjfW5MLIgGUp03YcgD76LQpLEAFGqvAXqlnij2li8NmtTHtVOQMLuF6KtGbWUzigaUOn73CmUzAD2CpknwwLeeXbhcSDIRIB9n58W5YObKGKBtiz+0TdYHDQ5KRaYsyzJrE2ciDz+TDd2Uoc2iJdI9R6vFBvCO90LfOuJFohsQpKdZ0QtHcS+Vdvtc0L6IRBtlVZKSNm0I1ebHx7eV9uJK/BV5JkCoINQ5BX7gBiLQ8vU=;gPvFdUHNOzhL6qNYG+OyPQ=="

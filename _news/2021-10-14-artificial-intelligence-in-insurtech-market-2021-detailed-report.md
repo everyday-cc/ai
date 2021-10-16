@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Descartes adds AI, ML capability to routing platform | Koffie Labs inks two more states to Insurtech platform"
-    excerpt: "Descartes' enhancements help customers achieve outstanding optimization results and learn from real-world outcomes to maximize fleet performance. Also: Insurtech startup Koffie Labs has signed on with distribution partners in Georgia and Pennsylvania."
-    publishedDateTime: 2021-10-11T15:10:00Z
-    webUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-adds-ai-ml-capability"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 35
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1266950968.615d83d1dd4c1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
     excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
     publishedDateTime: 2021-10-13T14:44:00Z

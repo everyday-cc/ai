@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-10-13-can-artificial-intelligence-help-scientists-save-maines-coast.md",
-      "title": "Can Artificial Intelligence Help Scientists Save Maine’s Coast?",
-      "excerpt": "A new center is using cutting-edge artificial intelligence algorithms to forecast ocean activity, from toxic algal blooms to right whale migration, with hopes of benefitting both coastal industries and the environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast",
-      "originalUrl": "https://www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/1825a6b/2147483647/strip/true/crop/450x235+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F97%2F93307efc0531bdf0c5b79f1d8e42%2F081012maine.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast?_amp=true",
-      "publishedDateTime": "2021-10-13T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-13-ai-study-climate-crisis-already-impacts-at-least-85-of-people.md",
       "title": "AI study: Climate crisis already impacts at least 85% of people",
       "excerpt": "The study authors suspect that their figure is an underestimate, as there's a disturbing lack of climate change research on lower-income countries.",
@@ -482,49 +440,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-microsoft-has-crushed-the-worst-ddos-attack-its-azure-servers-have-ever-encountered.md",
-      "title": "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered",
-      "excerpt": "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "originalUrl": "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/",
-      "publishedDateTime": "2021-10-13T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-13-uk-gov-urged-to-protect-human-right-to-review-ai-decisions.md",
       "title": "UK gov urged to protect human right to review AI decisions",
       "excerpt": "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'",
@@ -792,7 +707,7 @@
       "originalUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -982,7 +897,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1129,108 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-how-saas-companies-can-prevent-churn-and-drive-growth-using-ai.md",
+      "title": "How SaaS Companies Can Prevent Churn And Drive Growth Using AI",
+      "excerpt": "Not only can AI consume and organize data, but it is also the key to unlocking insights that help prevent churn, stopping loss before it starts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165cee8c9c9bc394a1e3a1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
+      "publishedDateTime": "2021-10-12T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-dreamdrive-lucids-proprietary-advanced-driver-assistance-platform-thats-user-friendly-and-future-ready.md",
+      "title": "DreamDrive: Lucid's Proprietary Advanced Driver Assistance Platform That's User-Friendly and Future-Ready",
+      "excerpt": "Lucid Group, which is setting new standards with its advanced luxury EVs, announced today the details of DreamDrive™, the most technically sophisticated advanced driver-assistance system (ADAS). All versions of DreamDrive employ 32 on-board sensors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lucidmotors.com/media-room/dreamdrive-advanced-driver-assistance-platform/",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dreamdrive-lucid-s-proprietary-advanced-driver-assistance-platform-that-s-user-friendly-and-future-ready-1030859943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lucidmotors.com/static/lucid-air-pure-touring-grand-touring-1200x630-e638642943942ed7bb3845892e57cceb.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

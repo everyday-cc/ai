@@ -74,22 +74,6 @@ related:
         width: 1454
         height: 818
         isCached: true
-  - title: "Hidden Picasso nude revealed and brought to life with artificial intelligence"
-    excerpt: "A nude portrait of a crouching woman, hidden beneath the surface of a Pablo Picasso painting, has been revealed using artificial intelligence, advanced imaging technology and 3D printing."
-    publishedDateTime: 2021-10-11T16:02:00Z
-    webUrl: "https://www.cnn.com/style/article/hidden-picasso-nude-scli-intl-gbr/index.html"
-    ampWebUrl: "https://www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
-    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/hidden-picasso-nude-scli-intl-gbr/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 84
-    images:
-      - url: "http://cdn.cnn.com/cnnnext/dam/assets/211011063106-04-hidden-picasso-painting-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Scientists use AI, X-rays, and 3D printing to reveal a hidden Picasso"
     excerpt: "Researchers from University College London used AI to recreate a Picasso painting that had been hidden under another artwork for 118 years."
     publishedDateTime: 2021-10-12T17:33:00Z

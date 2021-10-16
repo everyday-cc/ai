@@ -87,22 +87,6 @@ related:
         width: 950
         height: 633
         isCached: true
-  - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
-    excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
-    publishedDateTime: 2021-10-11T15:56:00Z
-    webUrl: "https://www.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
-    ampWebUrl: "https://amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/china-has-already-beaten-the-us-to-be-ai-superpower-says-expentagon-chief/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 57
-    images:
-      - url: "https://cdn.iflscience.com/images/583f3980-cc99-5515-81a3-01cb04439181/default-1633959012-big-data.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
     publishedDateTime: 2021-10-13T22:25:00Z

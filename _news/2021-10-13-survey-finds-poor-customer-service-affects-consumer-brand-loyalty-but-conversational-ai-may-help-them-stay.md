@@ -53,15 +53,6 @@ related:
         width: 698
         height: 360
         isCached: true
-  - title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with its Conversational AI"
-    excerpt: "Based on its recent analysis of the Middle Eastern and South Asian conversational AI market, Frost & Sullivan bestows Yellow.ai with the 2021 Technology Innovation Leadership Award for delivering a highly differentiated conversational artificial intelligence (AI)-powered customer experience (CX) and employee experience (EX) automation platform."
-    publishedDateTime: 2021-10-11T15:57:00Z
-    webUrl: "https://www.newswiretoday.com/news/176394/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "diPyRPPxJ/OIHd8HHEQx4Ti93oLLhiB/ByuONfXaAADzUnEe1HZbaazfggnOy0jadf76GeIl98YC1aawW4ON9zdKRkTyy/Bxxyq7xEoFmboliSKEazcfL/Va40PUxf7+CLq2htDdiZnjdGMm0sXszIztruS3LQbB4ZqCbHOOdePE493DCi12deHUw0Dixm/sNukKOh5nOtOgqcXCz8DeycfLc6HdcBKe6zGxHjv966b+MVFoUKLeWn/EIEWu8tMbEfV4NB7yRTYhmSwZeGbdwq43h0NOGk2Pvq7kumPLgluxNSJZcOG27S/+KL2EoBAKKM0j8luPCwbvZx+u9QMtN2fHlmp5VZE7mIErVDQpz08=;AOMr6IcdbT48iCrP8aMfdA=="
 ---

@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-09-29-paravision-enhances-video-facial-recognition-with-streaming-container-update.md",
-      "title": "Paravision enhances video facial recognition with Streaming Container update",
-      "excerpt": "The Paravision Streaming Container is fully modular and is designed to be deployed alongside Paravision’s other cloud-ready, Docker container-based products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "originalUrl": "https://www.biometricupdate.com/202109/paravision-enhances-video-facial-recognition-with-streaming-container-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-ai-may-predict-the-next-virus-to-jump-from-animals-to-humans.md",
       "title": "AI may predict the next virus to jump from animals to humans",
       "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic—caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
@@ -1178,6 +1135,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-aiml-innovations-tech2heal-readies-its-remote-patient-monitoring-platform-for-deployment.md",
+      "title": "AI/ML Innovations’ Tech2Heal Readies Its Remote Patient Monitoring Platform For Deployment",
+      "excerpt": "Product roll out and pilot studies planned for the fourth quarter 2021 TORONTO, ON / ACCESSWIRE / September 28, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FSE:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81",
+      "originalUrl": "https://apnews.com/press-release/Accesswire/business-lifestyle-technology-health-artificial-intelligence-3f41066c118695d81c863123926e8d81",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

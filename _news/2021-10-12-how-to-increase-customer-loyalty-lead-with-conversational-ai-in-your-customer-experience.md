@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty
 webUrl: "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/"
 type: article
 quality: 109
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 698
         height: 360
         isCached: true
-  - title: "Yellow.ai Commended by Frost & Sullivan for Enhancing Customer and Employee Experiences with its Conversational AI"
-    excerpt: "Based on its recent analysis of the Middle Eastern and South Asian conversational AI market, Frost & Sullivan bestows Yellow.ai with the 2021 Technology Innovation Leadership Award for delivering a highly differentiated conversational artificial intelligence (AI)-powered customer experience (CX) and employee experience (EX) automation platform."
-    publishedDateTime: 2021-10-11T15:57:00Z
-    webUrl: "https://www.newswiretoday.com/news/176394/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "SNScVyr1TDLfI5muSTM5aH7URGLe8XEqOU5qLz9caS3gjC1sgwKONZZHDlKguFBMgjC9u8a3J+3iiRcg4qCozo8m+4SxiuZCI2peC+vB7DQ/hAdHDRkD4YDgP6TuPfn8WRV2QzSdaNwU/w4Qrd/x6Z0h6Ywft07XxDs1DchKc2Xp5W+RuT1hzU0UKTLvbZ7EqxJesiW2bhNr2CLE+g7XUKGCjHXbhpHt3c0oU99RnxsjplCmJm1zu9O8G3ST/puab1mr8zpVgLaDREwpc4eynpRpOn1xmCCoEQoQsUayvQ5kDjxfx86KLFsbj03GxZEXBiLmXmuKwycofjMTPigrJ7qGYSR0tmvoV+4VIqaESIo=;2RmU6yWYZqT0GatB1Ya99w=="
 ---

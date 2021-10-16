@@ -2,50 +2,6 @@
   "page": 67,
   "value": [
     {
-      "path": "_news/2021-08-24-is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy.md",
-      "title": "Is the ‘D1’ AI chip speeding Tesla towards full autonomy?",
-      "excerpt": "Tesla on its AI day, unveiled a custom chip for training artificial intelligence networks in data centers The D1 chip is part of Tesla’s Dojo",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "originalUrl": "https://techhq.com/2021/08/is-the-d1-ai-chip-speeding-tesla-towards-full-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.techhq.com/wp-content/uploads/2021/08/Tesla-AI-Day-2021-15-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-looking-beyond-automation-and-efficiency-ai-for-social-good.md",
       "title": "Looking Beyond Automation And Efficiency: AI For Social Good",
       "excerpt": "What's often missing from the AI dialogue is a crucial component of AI and its future: the social good that it can (and has) done.",
@@ -1144,6 +1100,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-24-mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles.md",
+      "title": "Mi Mix 4 brings a new-gen Xiaoai Translation with AI subtitles",
+      "excerpt": "Xiaomi launched its latest Mix smartphone, Mi Mix 4. But did you know that Xiaomi’s latest smartphones come with an upgraded Xiaoai Translation offering a live AI subtitles feature? According to a recent post on Weibo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "originalUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Xiaomi-MIX-4-all-colors.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-23T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

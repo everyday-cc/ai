@@ -40,34 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Synaptics integration could enable voice biometrics in low-power edge devices"
-    excerpt: "Synaptics and Edge Impulse partner to facilitate the development of embedded machine learning models in power-sensitive intelligent IoT applications."
-    publishedDateTime: 2021-10-11T15:58:00Z
-    webUrl: "https://www.biometricupdate.com/202110/synaptics-integration-could-enable-voice-biometrics-in-low-power-edge-devices"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/31175356/Synaptics.jpg"
-        width: 1200
-        height: 810
-        isCached: true
-  - title: "Canada issues tender notice to improve face biometrics for immigration applications"
-    excerpt: "The Government of Canada has issued a tender notice inviting industry engagement to improve its biometric immigration system."
-    publishedDateTime: 2021-10-11T16:30:00Z
-    webUrl: "https://www.biometricupdate.com/202110/canada-issues-tender-notice-to-improve-face-biometrics-for-immigration-applications"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
 
 secured: "xDEkkhBTpCkpov0Cehb8WdXfS60J3qSxbCajI6fbwjQ3TX+mbKN4Xf19wizYjTTp2d34pc5YiViMEZbOJmHjYYGwulFQrNAalKsGnbEFQKaRvYQAxDtyuFI8/+9ETbkvfTVUywhKmHHnBVMWexS8m4o7RhIk2gyXeapqtbD60oTDEDz0Td0nABTSE0w3WbNfPicCC+7BXO/JOi8079UBfDgNOgJE+nNm+maogpPiXyyzhcYZJbyrMaO0aC6zwyz8kNe7a3QdGnPteoU4IK6yhBiSHqXVVns/B5LFcr/9S2rdE7V25tFpgs2Am0VuoSFCOau9unUYAIlgFn+pk0x+o4uElQ9lt1WuQNypNzSt0uV0oRgQK7qRQz7yNMk3hm2fa0Yxf/p+Jzyrr5ez2IAtP0J7MvafbsibUQbniFftQFX/UPnsVS4Ob8UI84EnWTlcfN+luyFGXsZwA/rwJn1xHeSownk951nv7s2It2PkqaGoYNo516LFIF7gyBJU+YtlPZcQSvbVLnoT8ST/Ka/JXg==;J9X0iQV0GeYtGbm7KytaUQ=="
 ---

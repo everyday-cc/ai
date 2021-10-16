@@ -32,7 +32,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
         width: 2513

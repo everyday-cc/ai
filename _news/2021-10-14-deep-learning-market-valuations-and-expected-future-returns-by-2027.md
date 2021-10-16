@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://www.wboc.com/story/44974027/artificial-intelligence-in-drug-discovery-market-is-expected-to-reach-the-market-valuation-of-us-69968-million-by-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "S3uPu5NMlxW0swy570qtePyaEsDI3qMbDoUv9UOvrZzuHvrQzoIZTaAqJ2rhXMsuFkKz6lTMImERKKNWNym+JlBEpO1Fa1tGatqRTHlHdym7H3hThUEq877Jo0zS6hf6uRHWPoFqi30uoWPb+3W4cuLEh+D+9JCVeH68GTdudLdvUFAICflJ1lJFrROHaBksJH/HwTLykmIuiYFW5B5rE0ep3U+Izeams33R/GQqFm5nudqwYPrjnXtkjPl3jx5PZ7nUKfPNcsy70of7ndGN7TcfIL8QU+taauyJ+IAv9MbvazqRCENjWy3t8IjAuXKoxVkdCYQBLB5iV8dwidVYU7T/ANU1bbORgamK42ver0Y=;g8vyq+/IIoGLhu1FHiQACA=="
 ---

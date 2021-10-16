@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
-excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding foreshadows the next phase of medicine, where technology helps clinicians quickly determine the root cause of disease so they can give patients the right treatment sooner."
-publishedDateTime: 2021-10-15T15:29:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
+title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
+excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
+publishedDateTime: 2021-10-14T21:17:00Z
+originalUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
+webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
 type: article
-quality: 36
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UUHC Health Feed
+  domain: utah.edu
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
+    width: 420
+    height: 280
+    isCached: true
 
 related:
   - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
@@ -67,6 +70,6 @@ related:
         height: 480
         isCached: true
 
-secured: "zNNF7/zX+p5lmtRfr7LDfezv7YdQDeDnJPAPt/gsLviMbhPqObwcvsuKfjwv/DxjqBoTVHfu7TJ4PnhSEWaapN1VfgVn+TyoX0Lsd0bqsFFcoaHQKrh9+pDF6LIeOBT5WAdyowJSIu2qbewH9usc9mY8483wTrM8Zbdd//AGMPn1J82w7K1iIhhVlOgM1qf6CXdbE2UXXfZ3Y9Py/i1z0GsTjL4XjYhCiGdvGeEu83vbEaHKlemiT8May+vkT8A/jIdPyMRDNk8Cw5jSFfhK1AXDS6WiMq7kLjYddiH1R3vT8TePtyLlcfQ2XEtyUWE5z8D5MC+1anl9qCP0+rO/lNNXVA+8tihZgM3+dfpagGQ=;EmufSO7iI1V0i1d6sMSOtA=="
+secured: "cLe3GypM1nMqG9TqCqELPNMihlhS5P0guYfM9rbfdsyjXfIqen1ygLOGptdzfNmeEl5qWXXa930QVRv99xHUJXA3v33IarpiIh90z1xDj7PzRrAwpqmidWv3URE5okHEc5VkCl7/lOoW5hV2eNDEvQhKWqVioEhdv8Q+7Ak2QIGodfiWdXtHaErRkDlwDNZHXKd10I0GvBFhUqXrPJ4Bnr321xPef0wGUvLSG43BIy9ZJAcsmfJtE5fjjLShSR4stGWvFhFyBA91vqa4dBC8Dlo6zaymzJnMDFGvycKI3SyorsZ4aYzgjw6NVuv5mnQvaoX1PjPvqzaGqcBpqrxmx3ZVDf0udMwA+QXdpD0R0hM=;iidlto+zW1vUC/EIfdJICg=="
 ---
 

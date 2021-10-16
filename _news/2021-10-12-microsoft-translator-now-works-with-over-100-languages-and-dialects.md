@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft taps AI techniques to bring Translator to 100 languages"
-    excerpt: "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator."
-    publishedDateTime: 2021-10-11T16:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/"
-    ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 156
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Here's How Microsoft Is Using Artificial Intelligence"
     excerpt: "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
     publishedDateTime: 2021-10-12T16:09:00Z
@@ -107,6 +91,22 @@ related:
         width: 3840
         height: 2880
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM"
+    excerpt: "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"
+    publishedDateTime: 2021-10-13T17:25:00Z
+    webUrl: "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
+    ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua13702630_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Microsoft and Nvidia partner up on speech recognition model training"
     excerpt: "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models."
     publishedDateTime: 2021-10-13T17:19:00Z
@@ -121,6 +121,22 @@ related:
         width: 1040
         height: 585
         isCached: true
+  - title: "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered"
+    excerpt: "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected."
+    publishedDateTime: 2021-10-13T12:06:00Z
+    webUrl: "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    ampWebUrl: "https://www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
     excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
     publishedDateTime: 2021-10-14T14:51:00Z
@@ -132,6 +148,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 64
+  - title: "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM"
+    excerpt: "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These"
+    publishedDateTime: 2021-10-16T09:47:00Z
+    webUrl: "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities"
+    ampWebUrl: "https://www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua16579177_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft Translator surpasses the 100 mark for its language milestone"
     excerpt: "Microsoft reaches a new milestone with its translator as it surpasses the 100 mark with the addition of 12 new languages."
     publishedDateTime: 2021-10-11T22:00:00Z
@@ -162,6 +194,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Supervised Learning Market Trending factors and Growth Drivers Influencing Globally | Microsoft, Fair Isaac, IBM"
+    excerpt: "In this research report we have tried to determine market size revenue breakdown by key business segments and end use applications the report uses a combination of quantitative market statistics and qualitative analytical information The research covers historical data and"
+    publishedDateTime: 2021-10-16T09:40:00Z
+    webUrl: "https://www.openpr.com/news/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
+    ampWebUrl: "https://www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua16781743_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Microsoft thwarts mega-DDoS attack on Azure platform"
     excerpt: "Tbps DDoS attack on an undisclosed Microsoft Azure customer may have been the largest ever attempted against a single target."
     publishedDateTime: 2021-10-12T07:14:00Z
@@ -187,6 +235,31 @@ related:
         width: 1739
         height: 831
         isCached: true
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
+    publishedDateTime: 2021-10-14T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Natural Language Processing Market Report 2021 by Top Key Players: Google, IBM, Microsoft, Intel, Apple, AWS"
+    excerpt: "Adroit Market Research in its latest Global Natural Language Processing Market 2021 report reveals the impact of COVID-19 on the world Natural Language Processing industry. The Global Natural Language Processing Market report offers extensive insights such as company profiles,"
+    publishedDateTime: 2021-10-14T15:44:00Z
+    webUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
+    ampWebUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 54
   - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
     excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
     publishedDateTime: 2021-10-13T17:32:00Z
@@ -240,6 +313,22 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Content Analytics Discovery And Cognitive Systems Market May See Big Move | Microsoft, Google, SAP"
+    excerpt: "Latest Report Available at Advance Market Analytics, “Content Analytics Discovery And Cognitive Systems Market” provides pin-point analysis for changing competitive dynamics and a forward looking perspective on different factors driving or restraining industry growth."
+    publishedDateTime: 2021-10-12T10:01:00Z
+    webUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
+    ampWebUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Logistics-Services-3PL-4PL-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Microsoft Translator hits 100-language milestone, reaches 5.6 billion users"
     excerpt: "Microsoft Translator has received a new update that brings support for 12 new languages and dialects. Microsoft has announced that its AI-based text translation service can now offer real-time translation in more than 100 languages,"
     publishedDateTime: 2021-10-11T17:27:00Z
@@ -265,15 +354,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 38
-  - title: "Azure AI empowers organizations to serve users in more than 100 languages"
-    excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making information in text and documents accessible to 5."
-    publishedDateTime: 2021-10-11T17:20:00Z
-    webUrl: "https://www.publicnow.com/view/6EB9431A21BC8304CEEFEF31E72566743EB9F467"
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
+    publishedDateTime: 2021-10-14T20:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005880/en/Kinetica-Now-on-Microsoft-Azure-Bends-the-Space-Time-Continuum"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 35
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
     excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
     publishedDateTime: 2021-10-13T07:30:00Z

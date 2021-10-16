@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-14T17:44:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
 webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
@@ -41,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "MHX9o3BH7RTm8yFWP26tHFZrlnvxyGvnIebZ1U/aA/VqLbVhyD9SaQRHQD8rFNAugp0H0gtGUBEWPHEFTTVzRvTjNd16euceiWZO37Bh+n80sjueHLy+hgjBbNWQ2UMqJjx949yGEiR28c0+e/b1UL8vctsM8OIjuIBMk/KrzPWllLOZ9bc2XQ9en6NaCrVAnv8SF2hyMIp6y+WjU3SqMpQxQPQ1y2agMy2xBjymC0BlaiUJOjwDcrNBH6toKnCsDc0dhEaAvjtQirNuHo/T6bxTLyUNfQ2WK0X+8eAuCrWC2H5VjeO3OqZCASHFL52MDOTLMLfGxyMCA0+3EdCOvM+DuIwbavIMRTW5rJD3XRI=;K1mPRSqixGkBDAc73HOaOQ=="
+secured: "a85l6B6sZ86czRhk40mfZO48zXfz+GRYNCwqX3x7I1jg2J0XuGMQvTyf3PVwYui00JxVeV3koxtFrUsWrgh5L0GSKegfJxRoxzU+s7HzLSknnTjbpv4SGn0gSoGKoXgDCfCtUi6h1GRdBSqlOHH7TD8uBPZgTn/EuD4Gdba8tZzgqc+vsZnS7jxBlVbuM055dB99/vTgYkJF8lAE6yEo7SkV0W43Ztnzd9S6VeQAPL0b6Sj217drnRJzPOAqrOC+LA9+AqBkw0CHgQTYmFermtX/kArlwjQkTjYBZvLqvHN73vTmqiNVrskXM4Cwb8MWMPf//O0Fu0TbAh9CAncSyJpGQdn4BN+IbNSc0EOvXEvsINyoZP3382Mk3JlHSoDwoituWtX/r6C9V2Vy8wn69SonOF6AWaE6iiwMj5jKtGEJtSx+YwpfsPDBAoFC1xL8JWSpDsc8+U5vsmO3bLBcgjmkl1SKdgQHXJYUx7NInL9qEvnzbhqDQyVVDs1BQCRw9dzkZRTPWt/6egk5kSvQHQ==;dTYyGhuI65KWxxOnk8d3gg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Tag \"Self-driving car trends\""
-    excerpt: "Top Self-Driving Car Trends that will Surely Rev Up in 2022. These self-driving car trends are going to change 2022 to a great extent The popularity of self-driving cars or autono"
-    publishedDateTime: 2021-10-11T15:40:00Z
-    webUrl: "https://www.analyticsinsight.net/tag/self-driving-car-trends/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 24
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/top-self-driving-car-trends-that-will-surly-rev-up-in-2022-1-817x404_c.jpg"
-        width: 817
-        height: 404
-        isCached: true
 
 secured: "eQ+QcOe09T4IQ/Yr61sMSx1hoOPHdqNHzKo8DspnxlYs7nNdvcDaRRG8sa7btVEcn47Vm35XxpClOqFqzhSINDQLX3LVKXqyiYk/ZQNBUijzEfgmUwxNuPbzFxjEW+JUxXLV9U5vp4eGSQt42j+aY41bI94PqxRvFnUs6GL2qPYqgQvcI5+H2fWaQoZxXF+m/0AySWtjyrAyXDEn6gjq+qH+gYu/MXyRYkpb+W+egaHsjzvUpZI1xa29oRyQCMKP2vfAcxJ/PQs2tbqwV9zv9wEbVt8rdKoP6t5bD+MOzURlEjtB3JytWZO2k5fx0cU2wWSedwTcNfBh1UQiyRoYactFgI55ksuVcenMCcPzZj6QxodDOPcFwzzXp8HVBjtjQYvuScxt+oRO+1xMxqjZ7JB9f8gfTb04NYdEmoB9f6VXvvI0QdCRlcYpVqfkzeI7pIxKcbPiJ+tjVHllu2Iuwz7hyRwK3/rlTOeD4pyr3B5tVaBnldpTaRFI53ZXl5AxSsLnQIJ76+dUvfyzok6hXg==;ys4od8XNG/7NsEcyu4RcHw=="
 ---

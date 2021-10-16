@@ -55,6 +55,20 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
+    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
+    publishedDateTime: 2021-10-15T03:21:00Z
+    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
+        width: 800
+        height: 490
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
     excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
     publishedDateTime: 2021-10-14T11:44:00Z
@@ -110,6 +124,17 @@ related:
         width: 502
         height: 300
         isCached: true
+  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
+    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
+    publishedDateTime: 2021-10-13T11:13:00Z
+    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
   - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
     excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-10-14T15:54:00Z

@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Windward Launches Online Portal to Widen Access to AI-Powered Insights in the Maritime Industry"
+    excerpt: "Windward, the Predictive Intelligence company applying AI to transform global maritime trade, announced today the launch of the Windward Online Portal. The online portal provides on-demand services for shipowners and all maritime stakeholders,"
+    publishedDateTime: 2021-10-13T07:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/13/9468224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
   - title: "AI Clearing Announces AI Surveyor™, the World’s First Near Real-Time Business Intelligence Platform for Large Scale Infrastructure Projects"
     excerpt: "Construction teams and key stakeholders now have access to business intelligence within a 24-hour timescale based on AI-powered predictive analyticsFull portfolio management platform empowers project managers with interactive dashboards and custom metrics,"
     publishedDateTime: 2021-10-12T11:00:00Z

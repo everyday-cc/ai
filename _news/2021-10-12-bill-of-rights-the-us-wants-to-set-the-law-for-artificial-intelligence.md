@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A global AI bill of rights is desperately needed"
-    excerpt: "A new bill could ensure, for example, a person’s right to know if and how AI is making decisions about them; freedom from algorithms that replicate biased real world decision-making; and, importantly,"
-    publishedDateTime: 2021-10-11T16:35:00Z
-    webUrl: "https://www.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
-    ampWebUrl: "https://amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e42c58e-b3d4-4db5-9ddf-7e6c4b853366"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d8761a0-5a61-4efc-8283-ca64ab31c333.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "tJ00Yz5qwLK1bDduCKtkEx3wKkcwdncyxNik9Pm23P+MLUyNgzE+TYV6iPT5Jk1YUA/Kyjtb4/S18hMvPPeozwXuBeKv3/LBYqEXqyQeuizrN0Dmu2/hgefD4XSWpaFVgHRnUTHl59TdnvahNSF7gPaX1IN7kkDnPfxOBqJrvVyU843TFVYipqGzLqyfmLYiHTi65/44WEKOOoJyrT3fSvOtq26F7mYgKMHws9wEF0Wsn1BKDrWpHmBHVM8BfDdTrEfJ8FAzbtz3ILGQriGpWGd1Huu3CDoqjGNPzu9idZ8svhJl5UcTtXLDYxQR8b0ZrA84Yy5SdEk04Az5SqhUwoPVaZqvpKF7E3hu4COnBtAeAjeST2q/Bvvwg8ZbZbS9LhnKDK8fPM2RYtu77pE0J+wIqR7lCmv6UcRVee/WyAnSLYd00XKWWWQim7tatspAbiXqmDMNEch/ELgIqJXTj+ITTDknUua6hwvOuKHaxFIhnKa1GEG2D1/QIyycJHpl9GU25ejLIE5knb0EWpFvvg==;JvOKqJlXpcSF8DgbvXqhLA=="
 ---

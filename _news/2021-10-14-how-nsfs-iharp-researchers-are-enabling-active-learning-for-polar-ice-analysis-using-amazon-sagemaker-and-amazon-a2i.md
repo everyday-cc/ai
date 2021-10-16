@@ -85,20 +85,6 @@ related:
         width: 529
         height: 351
         isCached: true
-  - title: "Build, tune, and deploy an end-to-end churn prediction model using Amazon SageMaker Pipelines"
-    excerpt: "The ability to predict that a particular customer is at a high risk of churning, while there is still time to do something about it, represents a huge potential revenue source for every online business. Depending on the industry and business objective, the problem statement can be multi-layered. The"
-    publishedDateTime: 2021-10-11T17:03:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-tune-and-deploy-an-end-to-end-churn-prediction-model-using-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/05/Architecture.png"
-        width: 1027
-        height: 529
-        isCached: true
 
 secured: "EGPZXa6B4EzR406/8cEvO0D2dkHwL2Bm/3M4KT1+HUpPVgAuWydBjs/YlJ2D5UqIe4nIteMoRAD4HD+OGau8KdjISYKtCUZXxnveuzipn0g1osrgyz5pQu3dfri8JscgdIkQMdzX5jGP6sblQ2nRSAK1AZ9SU1EpT24rw7R/7bpWN7JhW61T6+o0v7KJW61lgCzVHy0NiEI82y6uXFYT5TwDzyCxGD6Iz680QReauwwHCef0Exo3nQ6dgAuZ7Jauvw9zvw4+7aYMWqUL/2xbFplw8bX2rpj2+TzwYfx33ULcXVtvZzASN+j2KUJ1Fk1yWfzq+wu9uKY8pQaDtgzDNSPT/mMMNTWdlmZq8uVelX4=;GMLKJ6mW9MnqWdbHAqaW6A=="
 ---

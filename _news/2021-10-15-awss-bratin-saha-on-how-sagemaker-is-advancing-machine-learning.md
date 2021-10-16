@@ -72,20 +72,6 @@ related:
         width: 529
         height: 351
         isCached: true
-  - title: "Build, tune, and deploy an end-to-end churn prediction model using Amazon SageMaker Pipelines"
-    excerpt: "The ability to predict that a particular customer is at a high risk of churning, while there is still time to do something about it, represents a huge potential revenue source for every online business. Depending on the industry and business objective, the problem statement can be multi-layered. The"
-    publishedDateTime: 2021-10-11T17:03:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-tune-and-deploy-an-end-to-end-churn-prediction-model-using-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/05/Architecture.png"
-        width: 1027
-        height: 529
-        isCached: true
   - title: "How NSF’s iHARP researchers are enabling active learning for polar ice analysis using Amazon SageMaker and Amazon A2I"
     excerpt: "The University of Maryland, Baltimore County’s Bina lab is a multidisciplinary research lab for employing advanced computer vision, machine learning (ML), and remote sensing techniques to discover new knowledge of our environment, especially in the Arctic and Antarctic regions. The lab’s work is supported"
     publishedDateTime: 2021-10-14T22:58:14Z

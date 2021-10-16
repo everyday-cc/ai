@@ -26,48 +26,104 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM"
-    excerpt: "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"
-    publishedDateTime: 2021-10-13T17:25:00Z
-    webUrl: "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
+  - title: "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027"
+    excerpt: "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates."
+    publishedDateTime: 2021-10-11T20:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027-2021-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
+    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
+    publishedDateTime: 2021-10-14T14:36:00Z
+    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 71
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua13702630_g.jpg"
+      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-13T10:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-20043451.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 40
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
+    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
+    publishedDateTime: 2021-10-14T11:44:00Z
+    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
         width: 450
+        height: 249
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Innovations, Trends, Technology and Applications Market Report To 2021-2027"
+    excerpt: "Intelligencemarketreport com Publish a New Market Research Report on Artificial Intelligence in Drug Discovery Market Global Research Report 2021 2027 The Artificial Intelligence in Drug Discovery research study assesses market value volume production factors opportunities competition and current strategic initiatives"
+    publishedDateTime: 2021-10-12T12:09:00Z
+    webUrl: "https://www.openpr.com/news/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+    ampWebUrl: "https://www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2426157/artificial-intelligence-in-drug-discovery-market-innovations"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua12392340_g.jpg"
+        width: 400
         height: 300
         isCached: true
-  - title: "Natural Language Processing Market Report 2021 by Top Key Players: Google, IBM, Microsoft, Intel, Apple, AWS"
-    excerpt: "Adroit Market Research in its latest Global Natural Language Processing Market 2021 report reveals the impact of COVID-19 on the world Natural Language Processing industry. The Global Natural Language Processing Market report offers extensive insights such as company profiles,"
-    publishedDateTime: 2021-10-14T15:44:00Z
-    webUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
-    ampWebUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
+    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
+    publishedDateTime: 2021-10-14T06:13:00Z
+    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 54
-  - title: "Content Analytics Discovery And Cognitive Systems Market May See Big Move | Microsoft, Google, SAP"
-    excerpt: "Latest Report Available at Advance Market Analytics, “Content Analytics Discovery And Cognitive Systems Market” provides pin-point analysis for changing competitive dynamics and a forward looking perspective on different factors driving or restraining industry growth."
-    publishedDateTime: 2021-10-12T10:01:00Z
-    webUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
-    ampWebUrl: "https://manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/content-analytics-discovery-and-cognitive-systems-market-may-see-big-move-microsoft-google-sap/"
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
+    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
+    publishedDateTime: 2021-10-14T05:22:00Z
+    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
+      name: reportsgo
+      domain: reportsgo.com
+    quality: 22
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/Logistics-Services-3PL-4PL-Market-390x220.jpeg"
-        width: 390
-        height: 220
+      - url: "https://www.reportsgo.com/img/img-4.png"
+        width: 502
+        height: 300
         isCached: true
   - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
     excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
@@ -80,6 +136,29 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-14T15:54:00Z
+    webUrl: "https://www.lelezard.com/en/news-20047544.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 16
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
+    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
+    publishedDateTime: 2021-10-13T17:52:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "b6r5kdSKoBCCZHzyVaKl5ftZ3CDPIyhpNM5jegVf3A/TgYDwt1IZ85EAyltrLXzAc87S6EruaNqJdI/RHIkiOPJfdvsKt+nUdvmg+4VIefaSCgw4gIGxX52wSjrIV5I1JotNt6sFNjg7UN0T1M06ZsBs8rPcrng9ut+9sgcln+Ueqf3Iw66wO75DhAtpXrQXEvXYhPoPcq5Lpl3I7AcojbYVDs0Gdlstpd9J6CkMFhbCCjai1BQW4Eq82W+N4w0NCFA/pVh3ko/mmTysGAtedq0nbuNnI5E3R/CM/xH3PZZs+8Clk3MTIlvQhNVDPfFzD+niiz7L2QGsBNBtwCWGO8plepurVUCl4wVWuKphrmiL78AzaJnhqbL2E77OC5XDr6eq1kT5GqXOJLqUjt6DcMZC2wbZ2wyrJ2j7m7yZThYn4+H4473w2BRVjR7I42cupusvXkyEwxfjx/uSpw1paU5tiZW1XWig/KbfV2IYrxnHPyVDnfXD7KPPCZo8dG/hUW+4BbR1nk1OXI4dQ4rIvw==;dzxDuNHsFVis/axAZFDQ4A=="
 ---

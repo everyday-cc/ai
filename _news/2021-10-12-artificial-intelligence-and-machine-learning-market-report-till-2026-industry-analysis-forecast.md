@@ -87,6 +87,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://www.wboc.com/story/44974027/artificial-intelligence-in-drug-discovery-market-is-expected-to-reach-the-market-valuation-of-us-69968-million-by-2027"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "pHPx2PfMEc5JYNH9Cn1hzNFBfOH/YDru1JYnrwx42g89ldultaye9pi+JSlmQIQoUnRhwZsX5g/ErZEUT0UcLIxVdyLFG4yOWD197cT7oCAyv562JPnm8OvQIUTPpBsxI0RaKI983sMw1QrrAEyTEp1sIHli4Z+qAPkC7k0NlfQ++KdYPj3H/hllXfCILH0QZVgXvmodc9MM7HyytOUdC948fV3qHiQgo059+Eo0djHfbLPAXPvm99sW3Yp2KXknno+qhaCeKUL5yHp3RCKR9wgkzsv3TaD7GNddoiXckgafvk2DeEMpRuXzoEOlBhWlxuwp1x91egg4QPMMQ3cjbflNPz6smVAn7jAeBY1YJSSgwq6f6rbShVCwSJf+tMu3T4LDvg+0YhrDRiHgCTwLUSkkqPn9VMZGdYi0Mbn67NDUJoJ25kJAHs1cXh0/dcTxlezcQR4+lO2A/4IwbigBOLRKgPysKPrtLlxUarwczic3qNXJxaKjmnevTd9yhRwM1WmkKeskzX8xqMzulewbfQ==;m82fZ1rjG0IdkA+dxoznag=="
 ---

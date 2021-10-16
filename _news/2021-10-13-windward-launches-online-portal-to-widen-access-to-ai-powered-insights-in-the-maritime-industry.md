@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Amazon AWS's AI team seeks the profound in the industrial"
-    excerpt: "In what's called \"Graceful AI,\" Amazon AWS AI lead Stephan Soatto and colleagues work to solve industrial problems that in turn may produce new insights into the fundamentals of deep learning and information theory."
-    publishedDateTime: 2021-10-11T15:47:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/"
+  - title: "AI Clearing Announces AI SurveyorTM, the world’s first near-real-time business intelligence platform for large scale infrastructure projects"
+    excerpt: "Construction teams and key stakeholders now have access to business intelligence within a 24-hour timescale based on AI-powered predictive analytics Full portfolio management platform empowers project managers with interactive dashboards and custom metrics,"
+    publishedDateTime: 2021-10-12T06:31:00Z
+    webUrl: "https://www.suasnews.com/2021/10/ai-clearing-announces-ai-surveyortm-the-worlds-first-near-real-time-business-intelligence-platform-for-large-scale-infrastructure-projects/"
+    ampWebUrl: "https://www.suasnews.com/2021/10/ai-clearing-announces-ai-surveyortm-the-worlds-first-near-real-time-business-intelligence-platform-for-large-scale-infrastructure-projects/?amp"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/10/ai-clearing-announces-ai-surveyortm-the-worlds-first-near-real-time-business-intelligence-platform-for-large-scale-infrastructure-projects/?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: SUAS News
+      domain: suasnews.com
+    quality: 22
     images:
-      - url: "https://www.zdnet.com/a/img/resize/53056df0e801ec62e2c0b045f9ec78a478910e4c/2021/10/11/4a05eedc-7dfa-4f68-994f-c3b0170c3a4c/stefano-soatto-amazon-aws-applied-ai-2021.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 1086
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/10/AI-clearing.jpg?fit=700%2C500&ssl=1"
+        width: 700
+        height: 500
+        isCached: true
+  - title: "AI Clearing Announces AI Surveyor™, the World’s First Near Real-Time Business Intelligence Platform for Large Scale Infrastructure Projects"
+    excerpt: "Construction teams and key stakeholders now have access to business intelligence within a 24-hour timescale based on AI-powered predictive analyticsFull portfolio management platform empowers project managers with interactive dashboards and custom metrics,"
+    publishedDateTime: 2021-10-12T11:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=545060"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 3
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "EvUu8bfnhQ7c82Jr/wRkwH8i7g3vumUiA8SQgU3cL3XLq3/8BmcAp2q29LV2uVHeCAiOMDmN4SqK37qv0YaTERhvIp5qI1Iad8jMa+PVco4LMT2wSigzt34KOiKoV1LkCMkZt/WAcixLHkTqPWs7pzPsQ96ARtOBhBGRTxt2O5fwRhkCZiECmMEr6PHuazG62LyD4zBZ7qxa3vAGu3GN3BrLvNI4lsrCxv5Lu7NlX54QfZ7h9AF7kNYJHZFGJjJmkemXdEswbX1Tdobo0uq411PJk+WshMzFWdP5BXNWcrWUhcrOczsHjy79pr2lsVylTceue4hG8R3Py28w3vqusoEyE1pmoGRowdfux/CzZgI=;+dwjPbRcV8IW/+vRkMJdxA=="

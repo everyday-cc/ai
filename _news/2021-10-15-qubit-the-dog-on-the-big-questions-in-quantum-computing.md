@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-co
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/amp/"
 type: article
 quality: 94
-heat: 95
+heat: 96
 published: true
 
 provider:

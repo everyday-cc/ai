@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "FinTech & InsurTech LIVE: The changing landscape of FinTech"
-    excerpt: "With only one day to go until our debut FinTech & InsurTech live, we take a look at the changing landscape of FinTech"
-    publishedDateTime: 2021-10-11T15:49:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/fintech-and-insurtech-live-changing-landscape-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Fintech%20and%20Insurtech%20LIVE_10.jpg.png?itok=ixcNrQUr"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3 promising FinTech companies in Florida"
     excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
     publishedDateTime: 2021-10-12T13:09:00Z

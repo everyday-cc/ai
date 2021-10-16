@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/how-health-systems-implement-et
 webUrl: "https://healthitanalytics.com/news/how-health-systems-implement-ethical-artificial-intelligence"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 690
     height: 400
     isCached: true
+
+related:
+  - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
+    excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisio"
+    publishedDateTime: 2021-10-15T19:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211015005475/en/Spot-AI-Launches-AI-Powered-Camera-System-to-Change-How-Businesses-Use-Video"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "LYd9Q+jfA8WFeMlKceuZdBPYdIZK6XJXsA4zFpOKhEYUJG4MKHNh0jiknBMGmlNcgP32IBzlT3BiAsITWyKs+J20L5pKA0W94K5qzTcTbcqWjIBZSbVCXzmf7lg8DfzQqdeaE6OIphy1S3VImowS3m3gfUbEYdSHTg6dCjHf3rGYilSUiYHum4Ube49nKQsZ2GJQtBvozwWX7Qe9ugBAxFn1RMhdwRSFV4Dzh58AUeHtuXxNHh/j4oNVtvw9YvGllkXbYx9otthu+LMzWx9fy789P0WVSJlKZoAxryjTkHCZEeuYHEfDUuouIcGF1o8NtRWmcnw8X6+UahEfBlEqAluQpSfDIzK7cVni66h+zb/azagfKR3DNqEjizlXkyS+wzSjIzjnylzAebZQn1TEaZ3SrAxpNalYMBfR1E+xAzrVOTCxQ9XdW7+jR0llSLeGa1dbIWUa3QdthWOXfQ2CtsPMZe1DuokDxFH+aaKiEpXWyeLSL8go/5qJkjqEaaKtikzkY2TL64919otIJGi0yQ==;tByWmWPFss7GdIO1eUVP2A=="
 ---

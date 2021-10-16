@@ -2,58 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2021-08-24-mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles.md",
-      "title": "Mi Mix 4 brings a new-gen Xiaoai Translation with AI subtitles",
-      "excerpt": "Xiaomi launched its latest Mix smartphone, Mi Mix 4. But did you know that Xiaomi’s latest smartphones come with an upgraded Xiaoai Translation offering a live AI subtitles feature? According to a recent post on Weibo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
-      "originalUrl": "https://www.gizmochina.com/2021/08/23/mi-mix-4-brings-a-new-gen-xiaoai-translation-with-ai-subtitles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Xiaomi-MIX-4-all-colors.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-24-2-big-revelations-from-teslas-ai-day-event.md",
       "title": "2 Big Revelations From Tesla's AI Day Event",
       "excerpt": "Tesla management says it will extend its AI expertise to autonomous humanoid robots. Last Thursday, Tesla (NASDAQ:TSLA) hosted its AI Day event. Elon Musk has branded these presentations as a recruiting opportunity,",
@@ -1224,6 +1172,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-civil-liberties-groups-demand-government-bans-facial-recognition-cameras.md",
+      "title": "Civil liberties groups demand government bans facial recognition cameras",
+      "excerpt": "Police and Home Office are accused of bypassing parliament over guidance allowing officers, local councils and enforcement agencies to use facial recognition across England and Wales in defiance of court rulings against invasive filming.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "originalUrl": "https://news.sky.com/story/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/08/1600x900/skynews-facial-recognition-camera_5487585.jpg?20210823094951",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/civil-liberties-groups-demand-government-bans-facial-recognition-cameras-12388513",
+      "publishedDateTime": "2021-08-23T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

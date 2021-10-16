@@ -55,59 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Full Self Driving Beta Rolling Out to More ‘Good Drivers'"
-    excerpt: "Tesla continues to expand access to the beta version of its new Full Self Driving (FSD) autonomous driving feature. Chief Executive Elon Musk confirmed a tweet early Monday that FSD version 10.2 is ready for download."
-    publishedDateTime: 2021-10-11T15:26:00Z
-    webUrl: "https://www.futurecar.com/4921/Tesla’s-Full-Self-Driving-Beta-Rolling-Out-to-More-‘Good-Drivers’"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 54
-    images:
-      - url: "https://img.futurecar.com/202110/11/l_616456935de63.jpeg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tesla: ‘full self-driving’ is self-defeating hype"
-    excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
-    publishedDateTime: 2021-10-11T15:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla--‘full-self-driving-is-self-defeating-hype-10611755"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Hardcore Tesla Fans Did A Lot Of Weird, Joyless-Seeming Driving So They Can Get The New FSD Beta"
-    excerpt: "I have to give Tesla credit where credit is due: it manages to keep creating strange, fascinating situations that never really occurred in the automotive industry before. T his past weekend, thanks to some tweets from Tesla big chief Elon Musk,"
-    publishedDateTime: 2021-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347"
-    ampWebUrl: "https://jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/hardcore-tesla-fans-did-a-lot-of-weird-joyless-seeming-1847839347/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 46
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tesla Rolls Out Full Self-Driving (FSD) Software Update"
-    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software."
-    publishedDateTime: 2021-10-11T15:35:00Z
-    webUrl: "https://www.techshout.com/tesla-rolls-out-full-self-driving-fsd-software-update/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/08/tesla-logo.jpg"
-        width: 690
-        height: 758
-        isCached: true
   - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to \"last-minute concerns\"."
     publishedDateTime: 2021-10-11T17:27:00Z

@@ -36,20 +36,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
-  - title: "Descartes adds AI, ML capability to routing platform | Koffie Labs inks two more states to Insurtech platform"
-    excerpt: "Descartes' enhancements help customers achieve outstanding optimization results and learn from real-world outcomes to maximize fleet performance. Also: Insurtech startup Koffie Labs has signed on with distribution partners in Georgia and Pennsylvania."
-    publishedDateTime: 2021-10-11T15:10:00Z
-    webUrl: "https://www.ccjdigital.com/technology/article/15279465/descartes-adds-ai-ml-capability"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 35
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/10/GettyImages_1266950968.615d83d1dd4c1.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
     excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
     publishedDateTime: 2021-10-13T13:50:00Z

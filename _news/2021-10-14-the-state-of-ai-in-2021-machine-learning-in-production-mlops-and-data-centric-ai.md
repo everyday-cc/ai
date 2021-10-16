@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-mac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/"
 type: article
 quality: 113
-heat: 124
+heat: 123
 published: true
 
 provider:
