@@ -273,6 +273,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook plans to developspecial AI"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://newstodaynet.com/index.php/2021/10/16/facebook-plans-to-developspecial-ai/"
+    type: article
+    provider:
+      name: The News Today
+      domain: newstodaynet.com
+    quality: 39
+    images:
+      - url: "https://newstodaynet.com/wp-content/uploads/2019/12/FACEBOOK-Copy.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z

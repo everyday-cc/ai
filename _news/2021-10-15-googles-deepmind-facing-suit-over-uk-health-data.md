@@ -57,20 +57,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Mount Sinai unveils first-of-its-kind department to develop AI tools for healthcare"
-    excerpt: "Many hospitals and health systems talk a big game about integrating artificial intelligence into nearly every aspect of clinical care, but Mount Sinai, for one, is actually putting its money where its mouth is."
-    publishedDateTime: 2021-10-11T14:09:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/mount-sinai-unveils-first-its-kind-department-to-develop-ai-tools-for-healthcare"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 48
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1633960225/aerial.jpg/aerial.jpg?VersionId=lAdwLN7U6o6ptOSscwVUmJ_ZiRQ_wA_y"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "Z9krjrSFNCUCosxUIPD6T0Ub/PEl9M2feIk82D4Rfdyxn1xdgb57QGH7Aw/GF4Xckcgmw3YLxIQ9YLHcpgnp0dRwyJT/smQXXVURuVAFfhPe5A+WH0obNSwV14TgSkKyd+MA2n3//rp9mhWXrwubNLamvxKmPM976wcIL2BU6oK/uZ98+1pMDfw5V7FyWk7BISGLg0K/jJYVatwPnSmZNRuJOvtXFQn4IDD4EkFeJ8eNOkjf2tDfWYAm66rT/ai3dxiMTDj8h7FBhlq3pO9cq3OzxCAvJl1j713j+VDXOSFiv/988qlPgbxOg7dGpCItzW8fRHoUS+oCMrRLx2acaxa1Y8EGae+fgvZNIT+LEqNDprCfvhxkHpaxfl9J82MOz+4CmE3xR55Y6zBcrI9u/B6x+AuD+hXy43oKNxjidhHJ/2+Hk7kibkR0l4UplH4cQDaUpZEZtHIegbMh2iuXSk0k2uHGECDvQNwbkronXWMhM7PPrVtd15SXXjIEgnfdnYNVzXFBLFckftJGdnNYRA==;1sbhdM4AVEnZRqIUfaudsg=="
 ---

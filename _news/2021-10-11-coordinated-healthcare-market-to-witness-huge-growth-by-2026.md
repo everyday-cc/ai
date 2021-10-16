@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2424828/coordinated-healthcare-market-to-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424828/coordinated-healthcare-market-to-witness-huge-growth-by-2026"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 621
     isCached: true
-
-related:
-  - title: "Machine Learning in Healthcare Market to Witness Huge Growth by 2028 | Hewlett Packard Enterprise Development, Google Inc."
-    excerpt: "Global Machine Learning in Healthcare Market was valued at USD XXX million in 2021 and is expected to grow at a compound annual growth rate (CAGR) of XX percent to reach USD XXX million by 2029 including key companies- Hewlett Packard Enterprise Development,"
-    publishedDateTime: 2021-10-11T13:48:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-in-healthcare-market-to-witness-huge-growth-by-2028-hewlett-packard-enterprise-development-google-inc/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 52
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Machine-Learning-in-Healthcare-Market-Including-Key-Players-Market-Share.jpg"
-        width: 1125
-        height: 750
-        isCached: true
 
 secured: "cwEIV/n0eidN7eZvwipEEHmwdnNdpKc3bhSCF0n1ZftKEv0l3iVWisem24TvZg0pH5oCcuaqKos3DOaQVRRT717KgfvcHiC7uU1x9bLwNZkQ2DsxBVWO3QK2NdN6lREjbcvNdYoMp56bDJQvZwVS5UrA+CADT0G9GUmcFdruSORzvi7qbNrAzxZr+kw9eaWJtTgzW+hnCPMh6OhPKzJIXKYuUGFkIbqNE1TFxJiIBj9bxgdkLTXc4AgW+VAZ6aEf4HfA38cVoHiSKFD4Zk0ps3t0fmpB/CBhOwhDFznZTM0NI7uJtT74y4dclR8q0D2vPKWNE2UOWwG1XrPUQUWK7CFiWR0cOmF2vtgSOxwQEB+K0jfPIa3V8q6/8QRC+W2g6RFY+RHBSoEZPh3ONsefhBHswQhI3de+So8h9wMQV5EaVlz5D6CVyCkfUStiW8Pg+ZvRwLmnIodnsX133PXJXnvkvm2xcH1ohS4CAlhEdM0284Q3e+grSuNhwQb+LCY0HxJNhShOYAQfvT1zDhJfGw==;5R5q/TqWWbqhyKaz+Z+IlA=="
 ---

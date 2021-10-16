@@ -65,22 +65,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Has Halted Its Full Self-Driving Beta Rollout At The Last Moment – This Is Why"
-    excerpt: "Advertisement On Saturday, the most anticipated release of Tesla’s full self-driving beta 10.2 to approximately 1,000 Tesla owners with “perfect” safety scores was postponed. Elon Musk blamed the delay on “a few last-minute construction concerns."
-    publishedDateTime: 2021-10-11T13:38:00Z
-    webUrl: "https://wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/"
-    ampWebUrl: "https://wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/tesla-has-halted-its-full-self-driving-beta-rollout-at-the-last-moment-this-is-why/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 52
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/2_e2e40fb6-2cc5-4583-babd-758c14e96cae_1024x1024.jpg"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Tesla: ‘full self-driving’ is self-defeating hype"
     excerpt: "Autopilot can steer, brake and accelerate — but real autonomy remains a work in progressRead more on 'Financial Times Companies'"
     publishedDateTime: 2021-10-11T15:56:00Z
@@ -105,20 +89,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/940ff8098f2f9fa44e0cf13e4180d010.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla begins rolling out 'full self-driving' software update: Musk"
-    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software.<"
-    publishedDateTime: 2021-10-11T14:05:00Z
-    webUrl: "https://menafn.com/1102951196/Tesla-begins-rolling-out-full-self-driving-software-update-Musk"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/11/I_d5aaaimage_story.jpg"
-        width: 400
-        height: 271
         isCached: true
   - title: "Tesla Rolls Out Full Self-Driving (FSD) Software Update"
     excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software."

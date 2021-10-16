@@ -41,20 +41,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
-    excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
-    publishedDateTime: 2021-10-15T14:14:00Z
-    webUrl: "https://www.pharmacytimes.com/view/study-artificial-intelligence-can-predict-risk-of-recurrence-for-women-with-common-breast-cancer"
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 26
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/f74413be01350210ff20fad35d830f6b4e6f2677-1080x675.jpg?fit=crop&auto=format"
-        width: 1080
-        height: 675
-        isCached: true
 
 secured: "qKwN4/xHh7pkiILI1bCwO9VA305IMcKrrTcd9qjCAF/7CCv+ZIEqV3ELpO/aGx706vHy3WfAWgEMhIwGTqai0a2DW1Nu1SgQNqOuMorSsPoQWKHLwjmmXWr6QYwiKgf8pQAuz21i62Kp7y9IDKaENaHeYeVSFUTbWY/ofsyIrxQqtog9mJMGNu8f/5oUew10YNcSjlT1c+6jcG9VqaHs5Xb1m77H6gXvbjzAfolkpiY5C+fgRS2usKozjBZSAv0cHPODlE+vVUEFa5l4DhqxfTExtOhSR8RF1s6Pc1p3esSYUYNhGYvsxNFNyiGaRt9mjee579LCQJPjJ7FgUdO6E6UuXDbixsgdWN6G2L0RKJoIwb40jyxj4iZhMt72AwzfxSdi58CEU770wl7d7nVxnVoNFAn7xUUupgH+GabHAjXX82bHXhJG2IKTSwUT6IZ5uGGYbzD9JH9LxSr5vHtrI1hMbCNJM3Gt1By05vDzm0BhunUoQrZt2GeGyDZwB2cAOrnAJarf8M5b8ayIT24hOA==;NcbMUj0nIG8RNXvUn5PhCg=="
 ---

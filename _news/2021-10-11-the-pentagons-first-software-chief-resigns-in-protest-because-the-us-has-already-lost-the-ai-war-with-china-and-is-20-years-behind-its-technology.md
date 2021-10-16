@@ -43,22 +43,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Chinese firms have won AI battle with US, Pentagon's ex-software chief says"
-    excerpt: "Chinese firms, Chaillan said, were obliged to work with their government and were making 'massive investment' in AI without regard to ethics."
-    publishedDateTime: 2021-10-11T14:36:00Z
-    webUrl: "https://www.standardmedia.co.ke/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    ampWebUrl: "https://www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 57
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/monday/chinese_firms_have_w61644d182012a.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Air Force embraces former software chief who quit, warned China is winning AI competition"
     excerpt: "The Air Force says it sought the input of Nicolas Chaillan, its former chief software officer, after he quit and publicly warned that China is winning the artificial intelligence race. Air Force Secretary Frank Kendall is said to have personally thanked Mr."
     publishedDateTime: 2021-10-13T19:44:00Z

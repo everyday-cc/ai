@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 type: article
 quality: 87
-heat: 139
+heat: 137
 published: true
 
 provider:

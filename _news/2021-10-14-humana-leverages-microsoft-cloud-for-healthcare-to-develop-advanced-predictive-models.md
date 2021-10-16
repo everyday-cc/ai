@@ -39,36 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Azure AI empowers organizations to serve users in more than 100 languages"
-    excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making information in text and documents accessible to 5.66 billion people worldwide. “One hundred languages"
-    publishedDateTime: 2021-10-11T13:55:39Z
-    webUrl: "https://blogs.microsoft.com/ai/microsoft-translator-100-language-milestone/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 103
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/10/microsoft-translator-uzbekistan_1200x630-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
-  - title: "Microsoft and Nvidia team up to train one of the world’s largest language models"
-    excerpt: "Microsoft and Nvidia claim to have trained one of the world's largest natural language models, containing 530 billion parameters."
-    publishedDateTime: 2021-10-11T14:39:00Z
-    webUrl: "https://venturebeat.com/2021/10/11/microsoft-and-nvidia-team-up-to-train-one-of-the-worlds-largest-language-models/"
-    ampWebUrl: "https://venturebeat.com/2021/10/11/microsoft-and-nvidia-team-up-to-train-one-of-the-worlds-largest-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-and-nvidia-team-up-to-train-one-of-the-worlds-largest-language-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Here's How Microsoft Is Using Artificial Intelligence"
     excerpt: "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
     publishedDateTime: 2021-10-12T16:09:00Z

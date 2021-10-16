@@ -42,22 +42,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Chinese firms have won AI battle with US, Pentagon's ex-software chief says"
-    excerpt: "Chinese firms, Chaillan said, were obliged to work with their government and were making 'massive investment' in AI without regard to ethics."
-    publishedDateTime: 2021-10-11T14:36:00Z
-    webUrl: "https://www.standardmedia.co.ke/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    ampWebUrl: "https://www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/amp/sci-tech/article/2001425915/chinese-firms-have-won-ai-battle-with-us-pentagons-ex-software-chief-says"
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 57
-    images:
-      - url: "https://cdn.standardmedia.co.ke/images/monday/chinese_firms_have_w61644d182012a.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "China has won AI battle with US"
     excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
     publishedDateTime: 2021-10-12T01:07:00Z

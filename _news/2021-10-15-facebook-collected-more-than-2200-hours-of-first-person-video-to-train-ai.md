@@ -269,6 +269,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook plans to developspecial AI"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://newstodaynet.com/index.php/2021/10/16/facebook-plans-to-developspecial-ai/"
+    type: article
+    provider:
+      name: The News Today
+      domain: newstodaynet.com
+    quality: 39
+    images:
+      - url: "https://newstodaynet.com/wp-content/uploads/2019/12/FACEBOOK-Copy.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’"
     excerpt: "Facebook has announced Ego4D, a long-term project aimed at solving AI research challenges in “egocentric perception,” or first-person views. The goal is to"
     publishedDateTime: 2021-10-15T14:52:00Z

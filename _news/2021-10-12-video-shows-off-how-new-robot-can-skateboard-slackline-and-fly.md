@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/video-shows-off-how-new-robot-ca
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/video-shows-off-how-new-robot-can-skateboard-slackline-and-fly/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 619
     isCached: true
-
-related:
-  - title: "Now Scientists Have Created A Flying Robot That Can Ride A Skateboard, Balance On A Slackline"
-    excerpt: "Caltech and Northeastern Univ. have created LEO, a human-like robot that can walk, fly, ride a skateboard and balance on a slackline. (VIDEO)"
-    publishedDateTime: 2021-10-11T13:28:00Z
-    webUrl: "https://brobible.com/culture/article/new-flying-robot-leo-ride-skateboard/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 28
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2021/10/New-Flying-Robot-LEO-Can-Ride-A-Skateboard-Balance-On-A-Slackline.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Wnk3TC1ANIRuAfiNWtQRX9RgWWMeJfB+bdDcnhJ9VMVwp+Lk1lRVD9gAGCaz21CgHmfzNvpM2pf3bB5tXh9FBlRoqfonZziB4XxaAmnibkqjFkkRZl32fcvz4J1TCCv4Ptv0ezkplIL3yyXfXcBdFbS17/dyOqHm5T+9asRDXhMH0fokHopuqxCtunlp6dXxeDOXuozm7a6NaY5wloSLgfy1zKEh+X06AO64MYaI8OrB0akcNf0EYYQbh7qaNxv9XxooDE2HmJ1Q4kc06BUemEQG0zLNE1oxXfmQk2mfzaYQIhjHIGQsh8Wj4yHgvtJS4q5HeBGPFYzWDOKRItFFwrmXrJXU7JqihBUnn/VasvGd2+zDBCLcTBOOU4q+aqpqPcykTc8ANbGwjYWLa0pYQbVbKzmG2Sm5JM3d1PCUX3tpbyzcPtPzP7CKxpK4yHwWXm8U/6jzHcDto5VPEz70dtcaDDviKywR99RefGaiJwHuxJ9WSTf9DrrgZhPH4cx+E53Qy/P8lopjiXPb9YZsVA==;JfXTitb8zMpFK+h8CtGWlA=="
 ---

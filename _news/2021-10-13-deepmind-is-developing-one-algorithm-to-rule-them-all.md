@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
     quality: 54
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
-    excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
-    publishedDateTime: 2021-10-11T14:04:00Z
-    webUrl: "https://menafn.com/1102951102/Google-DeepMind-AI-Heres-how-its-better-than-regular-weather-forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/11/B_c2127image_story.jpeg"
         width: 2048
         height: 1152
         isCached: true

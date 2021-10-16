@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,62 @@ related:
       - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "FinTech & InsurTech LIVE: The changing landscape of FinTech"
+    excerpt: "With only one day to go until our debut FinTech & InsurTech live, we take a look at the changing landscape of FinTech"
+    publishedDateTime: 2021-10-11T15:49:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/fintech-and-insurtech-live-changing-landscape-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Fintech%20and%20Insurtech%20LIVE_10.jpg.png?itok=ixcNrQUr"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "3 promising FinTech companies in Florida"
+    excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
+    publishedDateTime: 2021-10-12T13:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-promising-fintech-companies-in-florida/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fintech firm to boost financial inclusion with $620,000 fund"
+    excerpt: "To improve financial inclusion in Nigeria and other emerging markets through automated credit assessment tools, Canadian Fintech startup, Periculum has raised a $620,000 pre-seed funding round to improve product development and scale up operations."
+    publishedDateTime: 2021-10-11T17:33:00Z
+    webUrl: "https://guardian.ng/infrastructure/fintech-firm-to-boost-financial-inclusion-with-620000-fund/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 24
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/06/fintech.jpg"
+        width: 960
+        height: 634
+        isCached: true
+  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
+    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
+    publishedDateTime: 2021-10-13T11:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
+        width: 1200
+        height: 630
         isCached: true
   - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
     excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-finds-climate-change-already-impact
 webUrl: "https://thenextweb.com/news/ai-finds-climate-change-already-impacts-at-least-85-percent-of-people"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Next Web
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI estimates 85% of world's population is affected by climate change"
-    excerpt: "A team of researchers in Germany used machine learning to crunch at least 60,000 studies related to climate change."
-    publishedDateTime: 2021-10-11T15:00:00Z
-    webUrl: "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/"
+  - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
+    excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
+    publishedDateTime: 2021-10-15T14:14:00Z
+    webUrl: "https://www.pharmacytimes.com/view/study-artificial-intelligence-can-predict-risk-of-recurrence-for-women-with-common-breast-cancer"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Pharmacy Times
+      domain: pharmacytimes.com
+    quality: 26
     images:
-      - url: "https://www.cnet.com/a/img/xhSpkTmhDuqAlahdqvYTA7t3MJ4=/1200x630/2021/10/11/29fa3084-59a6-447e-b90c-5d4aa8fa774b/gettyimages-1235419694.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/f74413be01350210ff20fad35d830f6b4e6f2677-1080x675.jpg?fit=crop&auto=format"
+        width: 1080
+        height: 675
         isCached: true
 
 secured: "PJoqvteg7A+1/2Wf4XeiDtYuEyJFijsT6ehr0jjSasoV/H0ViucpL32a7/mHISFtpXg3+lQgTBJjI1vPel9PyqTPVGWTh6XqcmSEZhXN4MDMglzhIRmlZ61JtTpkioxu/yeAIealO9sJrRkS1YZMPUTIYRNLCi9Wcb0BOfP3p8IxbE8B8TVBCirVM5I5ZjhnRFZcE3Y72k2dLzXaT8/47KtkkKhgsImg8uCPt9JrnF2SOamJPTQrHkttt5dKw6GDlDBfN6naMRWblGNLBjq1fx/cBWD4urxSAyzQOf/OpJS8EL5Hc08AP3Up04Sg6LfBsX7nSjxlHdTEnZieicikTvTEGwvoOlQji21/16qZOk/AhzanbMWrs2RBTKdnV0ea1Op/tYSEiX+jE0fw6bTlGGT3CWuA/7jQNAzdg635kAZcqyD0WBLu1PJFK04MBKDpiVeta/1qKRma5PWCR+dSh7XnqouB+ZzG14xp5VSXpwo7IozCuSgI/F4IB38BbPDJJT7j5i2xbXPIuHkQJXy0RQ==;Quu0ZaPmkvZKgoVgT+UnYg=="

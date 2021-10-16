@@ -70,22 +70,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Learning AI With Boys and Girls Club of Western PA"
-    excerpt: "Welcome to Stem Fest 2021! Amazon is working with the Boys and Girls Club of Western PA to give local students a fast start in understanding artificial intelligence."
-    publishedDateTime: 2021-10-11T13:43:00Z
-    webUrl: "https://pittsburgh.cbslocal.com/video/6086302-learning-ai-with-boys-and-girls-club-of-western-pa/"
-    ampWebUrl: "https://pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
-    cdnAmpWebUrl: "https://pittsburgh-cbslocal-com.cdn.ampproject.org/c/s/pittsburgh.cbslocal.com/video/6086302-welcome-to-stem-fest-2021/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 57
-    images:
-      - url: "https://m101675-ucdn.mp.lura.live/anv-iupl/471/A3B/471A3B6F7E5E8E5DE461526B51E73EC4.jpg?Expires=1728604800&KeyName=mcpkey1&Signature=zlErye3XyFJwRY0DA9X6nqBnImI"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
     publishedDateTime: 2021-10-14T22:52:00Z
