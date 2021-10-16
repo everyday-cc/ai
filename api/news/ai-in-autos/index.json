@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-15-embark-says-it-has-14200-reservations-for-self-driving-truck-software-slated-for-launch-in-2024.md",
+      "title": "Embark Says It Has 14,200 Reservations For Self-Driving Truck Software, Slated For Launch In 2024",
+      "excerpt": "The reservations are non-binding, but they reflect a vote of confidence by a range of trucking fleets who want to deploy the Embark Driver software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/?__twitter_impression=true",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61686cfd8870de0631994825%2F0x0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-waymos-self-driving-cars-are-mysteriously-flocking-to-a-dead-end-street-in-san-francisco.md",
       "title": "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco",
       "excerpt": "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,",
@@ -1410,49 +1462,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
-      "title": "Tesla gears up to launch self-driving software but with a catch",
-      "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
-      "originalUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
-      "publishedDateTime": "2021-10-05T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

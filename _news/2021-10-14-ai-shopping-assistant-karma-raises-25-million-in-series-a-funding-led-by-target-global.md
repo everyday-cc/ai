@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/iuh09y/article36957845.ece/ALTERNATES/LANDSCAPE_615/bl13M2P-Fintech"
         width: 615
         height: 384
-        isCached: true
-  - title: "AI firm targeting ultrasound with 100 times greater sensitivity raises $25M"
-    excerpt: "An artificial intelligence firm working to create novel ultrasound technology, which it claims is vastly more sensitive that traditional equipment, just raised $25 million. Healthcare investment firm Deerfield Management Co."
-    publishedDateTime: 2021-10-11T22:54:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ai-ultrasound-greater-sensitivity-25m-deepsight"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 35
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-09/money.jpg?h=e2f6c173&itok=TDllxyp4"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "S5obtJaSNczG9ndbTkRiATRB/A3kZeNzuRsQcFxBCCbrXRRzgz3rMxhnkh+JJIjW+9ifM4/GP1mpY0FMSJ5rkkaCS2dGRlklncrS4pkIqWTL0geIi957R1KOFn/LJQr2H3z4JV6KZ5+r3LRAQYaDrjFwd03dv4o42vJOn0vzjvt4o0TYd0VRshtVWpK9OTQ3NJSOCIkRX+juEqR+BbSmX0Se2fJavgO9YasFOP5VB4wTTqvFpF5DF3Uj4XUjDEVlVl/7fnJR713UXyh5+Or+3gKPFRHQ2rV9yQOolZxa6xXbOdE7Rucxd+aOJRfmqBFtr5plLJgjZTlVha1B1/qgr0GY7Qzj3jTQPfegKeQFB5nRg2zJ8M8ILX1EWAjoEcjfCIhDZnYWqtD9aaXQ1E9w3BvGM2mmrR3L0zSYBQhIKUZJVRv6MDJO5JIr7HuLoWqUEourJGl9VhkgxvPfx0qZ0ccqYnLgCyMWiCGlMCDOANgN9j25zZ4hMRnQRiGjoBe78YfWBOsgRXwhZFwTdEjo4w==;y2Q9z2ybD7hPOugiJJd/yA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-l
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
 type: article
 quality: 87
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-1-2.jpg&signature=84a51c953aacda69e7e9ffc672013840"
         width: 1280
         height: 640
-        isCached: true
-  - title: "A Nude Portrait Hidden in a Picasso Painting Was Just Was Just Revealed by Artificial Intelligence"
-    excerpt: "A nude figure has been found hiding beneath the oil paint of the Spanish artist’s The Blind Man’s Meal (1903). And we don’t have to wonder what the original work would have looked like thanks to the magic of AI technology."
-    publishedDateTime: 2021-10-11T22:30:00Z
-    webUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/"
-    ampWebUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 58
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/10/picassolonesome.jpg?w=1000"
-        width: 1000
-        height: 562
         isCached: true
   - title: "AI used to reproduce 'lost' Picasso nude"
     excerpt: "A painting of a naked woman by Pablo Picasso that has been hidden beneath one of his \"Blue Period' masterpieces for more than a century has been recreated by UCL scientists using a combination of X-rays,"

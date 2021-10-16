@@ -6,20 +6,21 @@ publishedDateTime: 2021-10-14T17:49:00Z
 originalUrl: "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/"
 webUrl: "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/?__twitter_impression=true"
 type: article
-quality: 139
-heat: 149
+quality: 141
+heat: 151
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61686cfd8870de0631994825%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "qC4dIUdcwL8JfDPqL6EZq5xp4xs3SZNouok1m+HkIrajZc+DRDE49OYuzYnKZvxHxIyWCPcOvUA+DjLefcN/T5uJrGviMBysSmiiHFEmVC8BY/Yjd4k2EqnKaGkPIz22gXENK7RDNGATeHdNfcZDqkDsE7oyhgJtWZ3r7ikLk6RGTMoLY6kmzRhqqFT2cP6+1ctnmkGnSin5+Ipxg9K93ofLmW8APaQV3RZ3b3qydvWQlEgICiMmynhc+OU0gLNtyF7tD6PibQizI68/MiRdVO6qqas3zrdP97iEsWbf39nSIuOV1CgTJ00LXwE1tyBmbp32HD26cQV/yrTI+4wqm0puAap/G+nWLD/099J9g20=;lPfELCjkYH2P2DJ49mqyzQ=="
+secured: "AoCFu2gy1BkhUrOOM+eVrm0fRGRdQEjPCe9qQCz6S4zO6KkPHH29Bm2Tv2+KqyQAqotnyqQvS53jDcVi73vuB/24tUrYL2F3jk/6xvfudMf3KiGx83H7vmfUwhd4w5xDUpNH2cVXTwIgVJmW7GMKZK65+NEN4EjN7FSaAfNJdDdu+yFhe9NLMQag/TQp2S/vmBZ1YaX8WGJ2wMAxrAXr42Hrk6YV6drkLB4AfETMHloKn4zKU9CgGQTGvSWNGxNjur1Msg0MZN5ORBgPIBIqmf06pvIAefTy29is2pIRQqVH3L4fJAu/T3rSg6ONv/InwE0COKgGLFseV9IpL3gt7wXzREvdUbr2nHUUUSco2mr91yXyZ9P+mlpcBE1Ud7qy5IElTL5N3TqbeuIf0dIVcbSDBnLRBJ47zAaYBbzves5bibUk6HYwHCMY0/bTSvKO0yCa+YhuRrOMQiaEmAliInuot1NUyhZoprioRmcdLGIJGoj3gAdBX6dcc/qUgOef5yWC9+xZEK7D2K38GK9VTFkqCjHbZe4bNuteaV0PKI4=;UGVIpV8BlwTRfwkCGg0L9Q=="
 ---
 

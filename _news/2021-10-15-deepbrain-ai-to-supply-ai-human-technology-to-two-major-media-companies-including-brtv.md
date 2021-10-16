@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Deepbrain AI to supply AI Human Technology to Two Major Media Companies, including BRTV"
-excerpt: "Deepbrain AI, a company specializing in artificial intelligence (AI) and a member of Born2Global Centre, has successfully entered the global broadcasting industry with its AI Human technology (  The company recently signed a contract to supply its AI Announcer Technology to the major Chinese broadcasting companies Beijing Radio & Television Station (BRTV) and Qinghai Television."
-publishedDateTime: 2021-10-15T12:31:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-beijing-radio-artificial-intelligence-2e21146b36cef646fa923b4dfbee9e40"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-beijing-radio-artificial-intelligence-2e21146b36cef646fa923b4dfbee9e40"
+excerpt: "Deepbrain AI, a company specializing in artificial intelligence (AI) and a member of Born2Global Centre, has successfully entered the global broadcasting industry with its AI Human technology (  ). The company recently signed a contract to supply its AI Announcer Technology to the major Chinese broadcasting companies Beijing Radio & Television Station (BRTV) and Qinghai Television."
+publishedDateTime: 2021-10-15T14:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
 type: article
-quality: 29
-heat: 29
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1654907/image_819222_19118958.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "hbsiQa0mQX9+ZBOfQfW2kpCH4AoIza0S1ywtEsfgvWpgzJtPILe8Xuw/MO12xq4tdLfaoLHOWJSi5T/BqQgaIIWJWHwEiFtRJUBi3kH28TyTmcF8li0XGfff5NAkwFgaV7Ctjcck6yxtwg/9GE72cJaovHRo+bDixLjQ7AT/LDcNLMtGiQjKi6IzBxUIH8MLlLqLOXHM8tWg9nHK2f5M+6cNS2TOWXyRnWKz9f6z0oc7YnnPFUTmAtrum1UB3kjvhfIwk3Dr8Bp6WA1xpxN7nT0fY8842kZygJTAIgeSRm6SVvJxt4szXjrdc5o1AN26yb/D88a2RePCytrPV0J+EALpcn7rPNLSkPxaKSstTH0=;9bP7QRbRQOPKKei7fo5JzA=="
+secured: "cnvRNvsc9+4JY10wd9C/FJQd/snPmI7EsDh9MizQ/E4PdshiPIP32WGb4C60qQ/KhtkqdF6Wr4F7TKTwwJtuYwfHngx+fL0JlzHBQ29XNMv0GDi3MzjUWVe5/23Bs/drSJ1zBV/NZhp/rXiGBEhWhVQHEw6KAy7O/bzzCdmdswkRs35x9HPLGsSr3InE9FOdfw4Mfoo8TdfNCTBcWZek0u8XF5UCJpGgDXoOtGogDhctPg5JIRftp7i7FDo32+wtxolWvKqU7jiAr8BFF3aoTaSBahwsLZePVMdrXx2jsa8LHiUfPBPogmn8JImL8asa79F+SHHeL6FpbKvbt2YaDUdbrz/TDnO1ZKZ6W3gWRFc=;6zfrJ3t7LASlGFk+L4qR5g=="
 ---
 

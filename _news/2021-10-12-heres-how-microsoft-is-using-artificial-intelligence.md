@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artific
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
 type: article
 quality: 84
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -145,22 +145,6 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua16579177_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft Translator surpasses the 100 mark for its language milestone"
-    excerpt: "Microsoft reaches a new milestone with its translator as it surpasses the 100 mark with the addition of 12 new languages."
-    publishedDateTime: 2021-10-11T22:00:00Z
-    webUrl: "https://windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/"
-    ampWebUrl: "https://windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-translator-surpasses-the-100-mark-for-its-language-milestone/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 61
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/10/screen-11.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "Microsoft and Nvidia join up to train massive AI-powered language model"
     excerpt: "The new model has 105 layers and 530bn parameters, but Microsoft and Nvidia said that bias is still a problem for the system."

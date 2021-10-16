@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-16T13:00:00Z
 originalUrl: "https://insidebigdata.com/2021/10/16/veritone-multi-cloud-ai-platform-provider-approved-for-use-across-the-entire-us-department-of-justice/"
 webUrl: "https://insidebigdata.com/2021/10/16/veritone-multi-cloud-ai-platform-provider-approved-for-use-across-the-entire-us-department-of-justice/"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "Veritone Shares Pop On Becoming US' Sole DOJ Approved Multi Cloud AI Platform Provider"

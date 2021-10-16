@@ -76,22 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "A Nude Portrait Hidden in a Picasso Painting Was Just Was Just Revealed by Artificial Intelligence"
-    excerpt: "A nude figure has been found hiding beneath the oil paint of the Spanish artist’s The Blind Man’s Meal (1903). And we don’t have to wonder what the original work would have looked like thanks to the magic of AI technology."
-    publishedDateTime: 2021-10-11T22:30:00Z
-    webUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/"
-    ampWebUrl: "https://robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/ai-generated-pablo-picasso-painting-the-blind-mans-meal-1234641065/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 58
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2021/10/picassolonesome.jpg?w=1000"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "AI used to reproduce 'lost' Picasso nude"
     excerpt: "A painting of a naked woman by Pablo Picasso that has been hidden beneath one of his \"Blue Period' masterpieces for more than a century has been recreated by UCL scientists using a combination of X-rays,"
     publishedDateTime: 2021-10-12T19:08:00Z

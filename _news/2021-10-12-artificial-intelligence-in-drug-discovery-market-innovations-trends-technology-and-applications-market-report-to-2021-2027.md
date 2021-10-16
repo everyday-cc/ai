@@ -42,20 +42,6 @@ related:
         width: 650
         height: 373
         isCached: true
-  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
-    publishedDateTime: 2021-10-14T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
   - title: "Clinical Trial Biorepository & Archiving Solutions Market Size Worth $6.0 Billion By 2028: Grand View Research, Inc."
     excerpt: "The global clinical trial biorepository and archiving solutions market size is expected to reach USD 6.0 billion by 2028, according to a"
     publishedDateTime: 2021-10-12T08:35:00Z
@@ -70,6 +56,15 @@ related:
         width: 1400
         height: 733
         isCached: true
+  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,"
+    publishedDateTime: 2021-10-14T14:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "2QhKxlY9QdTNnJ8lumiaNqvJ5EZ6OKG/kde67Nbp7Wsc+OWyuhAbm3/qByg5gDegD8TPKY4AROeaN7SI7KEjT7fYPRwN0sttviCjXlHMBufRMReo+2bgv7aoEO5g4oBAfHYMfqJFhqeUnQ+Tlwpt1LNTJSYJvOZJ+56bI+VvXVZzOdDNckxrYe9kLgKTVcDecUtcucizMADNiV4DQTgHrjzu3V+9F3wSI7tAXZiu7Nhxbn6zD/CNcbMK7HFaxlCgsFo6J9t5UdlkpLphk2WArXAFScJRghz6Yfrkw1O/CruHkd1822VTgV5qfNht1ucDrjmjJPlEyMYDyl9honzXGf5jgD+usr78jatjT1kEnQkZN9a4T7a9h81ES+BvQEBEC+yfF6tXJSqGjgcZFL5ZSGJDXDc7kZeINZ2Zis2F3xRLafQUkVzuvONFtOy9PtYOOxpL8EjXO+AmLA6Vz+iA/9KFMC0XQRvsNJSUD4QiRvP39mDKDCCq2XlN6/dOuf5t1ktqdFb3W4ZZXvmj83hX6Q==;vEUIg8atm8E0SJ/AXqFMEg=="
 ---

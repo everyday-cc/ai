@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI firm targeting ultrasound with 100 times greater sensitivity raises $25M"
-    excerpt: "An artificial intelligence firm working to create novel ultrasound technology, which it claims is vastly more sensitive that traditional equipment, just raised $25 million. Healthcare investment firm Deerfield Management Co."
-    publishedDateTime: 2021-10-11T22:54:00Z
-    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ai-ultrasound-greater-sensitivity-25m-deepsight"
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 35
-    images:
-      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-09/money.jpg?h=e2f6c173&itok=TDllxyp4"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZtPGifZ+NBgUyRfYLOaaAaio7zjE3TAIAK9hgS1n/EIgkrTc+5XRnB9SFuGq+zvHe8QfQ6G+5kBz4E8mh9+/OiOb7iesfqRquOHTDIAGE7c6lb8QjWRHIxn0mH/LQEJriPBiHzdppJyQ9ArSuGS909lvOAhULGLbz24rHzwnC6Z6ZLSzoV9vMoXqeiMhrAA7QvCgz/8SGYbTREKWmK1R6JooXqTpBBgSZ1qBN4etMbbniFxrXkkgadPBVYlhOotGxnyU6Dp7wtEcWkEzEV/kADKX6swSkOj2sllDzYvTM5vIii9TSQomwnjuhXOq8wkvim6zj5hJ0CmuTG4FoPg6Oqn3hrlYM6aDrY+nqxxWTHM=;C9G+Iiiy8SGhxABWaSOWiQ=="
 ---

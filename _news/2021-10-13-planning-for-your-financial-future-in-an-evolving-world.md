@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/planning-for-your-
 webUrl: "https://markets.businessinsider.com/news/stocks/planning-for-your-financial-future-in-an-evolving-world-1030860190"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,48 @@ topics:
   - AI
 
 related:
-  - title: "Planning for Your Financial Future in an Evolving World"
-    excerpt: "Planning for Your Financial Future in an Evolving World Register for the Oct. 19 Webinar.. FAIRFAX, Va., Oct. 1"
-    publishedDateTime: 2021-10-12T13:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20211012ny34406/planning-for-your-financial-future-in-an-evolving-world"
+  - title: "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime"
+    excerpt: "The AML Masterclass will explore how AI and machine learning technology can help boost banks' AML compliance efforts. \"Rapidly evolving business and technology render conventional methods for anti-money laundering (AML) inefficient and call for a more innovative approach for fighting financial crime,"
+    publishedDateTime: 2021-10-13T18:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime-1030863817"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1659549/SAS_EBF_AML_Compliance.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime"
+    excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year."
+    publishedDateTime: 2021-10-13T16:12:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime/article_70db34f4-188e-50a3-a74d-87901e66c81b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/4a/34a3b91f-451a-5bde-87ae-5fb6308c7d79/6167071ed671d.image.jpg?resize=800%2C533"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "EBF and SAS join forces to fight financial crime"
+    excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP."
+    publishedDateTime: 2021-10-14T14:38:00Z
+    webUrl: "https://www.finextra.com/pressarticle/89770/ebf-and-sas-join-forces-to-fight-financial-crime"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "/GX09vPQC3QTcDRp7vAKpd5xTK1fOYUf0LQ0AD7M28a+CJTnGUcCYa9odzp5xeM05a82ZCRpmZvzGwio2FpgbxSTR99RkO7V8Go3faLNdXJPBExSl9H0Gse4Vo0WU/EllMo5JofhvCF6usDM+VA/DQ5Dj/BuQPUpTXIVQ0ziNo/M0tnECxZlOdBR5v2HUUJv4fghd6BdrymOyd1d/obKYIfF2lldnbYgOzuGyVCrZyFD7tgs1qGs5ziPLI/cp8O2xx7BuFgOORSI7Mjbv/uZuR1ufWXtMr/kyslbeYDrAeg1dAHK5WYMVILWOKfs7WHB8a+rQQt2X+7CQrBHAVvzquU5dDEKclHwbQMEZgAkXnYj5wLXgEK0O3iU47eVPjc/fQHvzONYNjvDZZ1rfMBjt5xLRZZr5RqTVcnVzUzont4RviY3uKsRAduU1G1IiyHk6ecFTKImsajrxUyDSicHLGrssLj7/ovmC7oLe3wFVGjq3VZQLLNPK29151n3CC1ZaWZJO3ant52YmSXUgKpZeg==;udldjhHFpyrq4VbCzJ1yyg=="
 ---
