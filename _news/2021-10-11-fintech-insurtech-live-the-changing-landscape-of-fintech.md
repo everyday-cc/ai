@@ -71,20 +71,6 @@ related:
         width: 778
         height: 518
         isCached: true
-  - title: "Talk about fintech and you’re in danger of turning people off"
-    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
-    publishedDateTime: 2021-10-11T08:30:00Z
-    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
-    type: article
-    provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 24
-    images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
-        width: 1868
-        height: 1189
-        isCached: true
   - title: "3 promising FinTech companies in Florida"
     excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
     publishedDateTime: 2021-10-12T13:09:00Z

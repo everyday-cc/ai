@@ -49,20 +49,6 @@ related:
         width: 800
         height: 446
         isCached: true
-  - title: "Addressing Bias in AI"
-    excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
-    publishedDateTime: 2021-10-11T08:48:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/bias-in-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
-        width: 1024
-        height: 393
-        isCached: true
   - title: "IAG-backed research reveals need for investment in Responsible AI"
     excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
     publishedDateTime: 2021-10-14T03:15:00Z

@@ -1,46 +1,29 @@
 ---
 category: news
-title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
-publishedDateTime: 2021-10-14T17:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
-webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+title: "Seeq Expands Machine Learning Support To Democratize Data Science Innovation"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
+publishedDateTime: 2021-10-14T17:00:00Z
+originalUrl: "https://www.chemicalonline.com/doc/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-0001"
+webUrl: "https://www.chemicalonline.com/doc/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-0001"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: chemicalonline.com
+  domain: chemicalonline.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
-    width: 2513
-    height: 1414
+  - url: "https://vertassets.blob.core.windows.net/image/dd2a8ea4/dd2a8ea4-7205-4a6a-9518-434c1baf847c/seeq_expanded_ml_support_release_image.jpg"
+    width: 450
+    height: 300
     isCached: true
 
-related:
-  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
-    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
-    publishedDateTime: 2021-10-12T13:50:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 34
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "doTVtyzAOyCBFD5UVIf7Ad0v/meZoQ8fM62aiYfwODTkfRF3ylI7/0SUOp9w/yF7Hp6wZat5vSMkeCzNWhl23I+00fdSnxs5gwaG9FL9azCpr1kHQrLte/80g+cURLiTp+uXNoskKwujNUfElLeEA1F1Lsj9iMbZWmB3YABXVsFGjXrIXPNhyDaySBrwLeczW3DlisDqR5NSVAjfg/bBoY1JpKI9q/GFyOMdJQhdyrkuS9qzqwGVVAcDY8d45g7ozXPefGPrXEVCF1N3fdnmu3o+nfkEF+zV1ZnY7u++Y+iPYCl+0Pe5vYSZgzDvoId4cEwIpp6D9sK4aD9Wewi7Zl8W5QyAYWkeGxa2OxzPgAM=;qy+kYz9NPiFVA0K2eKR4ww=="
+secured: "rA1IciZvoUrW94VZDR3Fad3uPqxPXX7VUOHGT6vldq3fbZtdGyLHvu08krltygu0+niFFp0RODB2FfidCf9zO459KqJmS/rkskZC5yhg2Mg/6x8i2NT5AST2Qeii8QayTZKxJT5mNRkT83bmsnbJeZMccnY5cB7EhFpaMdUxigaFfjPdJCJS8f+5LkZWxemIbfUnGCO6XRZA7OYwy+Lli2E12aY55hr72x1ZHZxGFAZSlQAsh2yoXzjtweZyK42HzUclbzC3pafkalT1R1RiAaWPKVC7U8QRJiwAniblEzFrqUFGgmnodG6z9RSFUGyqzixw87849qkYHIKq8JhP0g04WpuDpsmuegbJtjMDG9Q=;U5XDRbkBgQMNje/f6lLIWw=="
 ---
 

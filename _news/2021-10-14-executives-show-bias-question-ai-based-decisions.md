@@ -33,20 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "AI accurately identifies artifacts on diffusion MRI"
-    excerpt: "Artifacts on diffusion MRI can be accurately identified by an artificial intelligence (AI) algorithm, according to a presentation at the recent Conference on Machine Intelligence in Medical Imaging."
-    publishedDateTime: 2021-10-11T07:38:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133730"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_29_22_25_5579_artificial_intelligence_AI_data_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oSKVsPlIHvqwtlCmvK4W8s2ratLb6o0T2pIyK8Jj2SEyVCvbFqVHeYiucU5lZ9VL+fegXe8PXMKYqapzDskbCvUnEn2y2GvORqim7dv8f4DbrHt7b5bkGhnrExx7kCBy4lcb14jc178h4fNH57tNvSqueRkhxCrT3VhPljYImuSw9PUl3CS8a+em9Xxp/Q3CQJN661KZb8A4hF27EBp7zj7weF2Ceq+mLaWOhCJBesAu1t8VqoDmPBl1Ig7fWSXJp+medjkIdtJH+hkXB+fz44II6IZ1cZHYS5QILkB0BH3TtVzkxCpWfxtQMaSp0uXy1fJIgn1j+wInrwIgRDMOgia87tNgKliaDWfXmXG9jFA=;uN4Nu88cawlvZtClV27eMw=="
 ---

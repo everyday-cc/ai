@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US already lost AI battle to China: Pentagon's ex-software chief"
-    excerpt: "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances"
-    publishedDateTime: 2021-10-11T07:15:00Z
-    webUrl: "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief"
-    ampWebUrl: "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
-  - title: "US lost AI battle to China: Pentagon ex-software chief"
-    excerpt: "The United States has already lost the artificial intelligence battle to China which is heading towards global dominance because of its advances in emerging cyber capabilities, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T07:36:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/us-lost-ai-battle-china-pentagon-ex-software-chief-2195751?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://img.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/10/11/ai.jpg?itok=scTHWYB6"
-        width: 750
-        height: 393
-        isCached: true
   - title: "China has won AI battle with US: Pentagon's ex-software chief"
     excerpt: "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,"
     publishedDateTime: 2021-10-11T15:54:00Z
@@ -117,20 +85,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_iStock-801051578.jpg"
         width: 690
         height: 428
-        isCached: true
-  - title: "Is China Winning AI Competition?"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief told the Financial Times following his resignation."
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://i-hls.com/archives/111099"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 39
-    images:
-      - url: "https://i-hls.com/wp-content/uploads/2020/04/artificial-intelligence-503593_1280.jpg"
-        width: 1280
-        height: 905
         isCached: true
   - title: "Pentagon Software Chief Resigns Saying the US has Lost to China in Cyber Warfare, AI"
     excerpt: "\"We have no competing fighting chance against China in 15 to 20 years. Right now, it's already a done deal,\" says Nicolas Chaillan."

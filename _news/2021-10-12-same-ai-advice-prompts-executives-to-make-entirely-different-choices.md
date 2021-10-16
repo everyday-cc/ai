@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI accurately identifies artifacts on diffusion MRI"
-    excerpt: "Artifacts on diffusion MRI can be accurately identified by an artificial intelligence (AI) algorithm, according to a presentation at the recent Conference on Machine Intelligence in Medical Imaging."
-    publishedDateTime: 2021-10-11T07:38:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133730"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_29_22_25_5579_artificial_intelligence_AI_data_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Executives show bias, question AI-based decisions"
     excerpt: "Enterprises must address bias toward AI inputs in decision-making, according to The MIT Sloan Management Review research."
     publishedDateTime: 2021-10-14T04:43:00Z

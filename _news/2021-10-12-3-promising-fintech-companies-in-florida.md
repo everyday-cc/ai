@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Talk about fintech and you’re in danger of turning people off"
-    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
-    publishedDateTime: 2021-10-11T08:30:00Z
-    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
-    type: article
-    provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 24
-    images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
-        width: 1868
-        height: 1189
-        isCached: true
   - title: "Fintech firm to boost financial inclusion with $620,000 fund"
     excerpt: "To improve financial inclusion in Nigeria and other emerging markets through automated credit assessment tools, Canadian Fintech startup, Periculum has raised a $620,000 pre-seed funding round to improve product development and scale up operations."
     publishedDateTime: 2021-10-11T17:33:00Z

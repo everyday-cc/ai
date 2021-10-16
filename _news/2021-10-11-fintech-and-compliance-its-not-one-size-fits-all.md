@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/Fintech%20and%20Insurtech%20LIVE_10.jpg.png?itok=ixcNrQUr"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Talk about fintech and you’re in danger of turning people off"
-    excerpt: "Talk about ‘fintech’ and you’re always in danger of turning large numbers of people off, particularly those who carry out their job in a certain way and have no intention of changing that, unless forced into it."
-    publishedDateTime: 2021-10-11T08:30:00Z
-    webUrl: "https://www.mortgageintroducer.com/talk-about-fintech-and-youre-in-danger-of-turning-people-off/"
-    type: article
-    provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 24
-    images:
-      - url: "https://www.mortgageintroducer.com/wp-content/uploads/2021/09/Matt-Meecham.jpg"
-        width: 1868
-        height: 1189
         isCached: true
   - title: "3 promising FinTech companies in Florida"
     excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"

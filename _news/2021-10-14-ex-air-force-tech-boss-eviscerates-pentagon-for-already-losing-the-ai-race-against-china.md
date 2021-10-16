@@ -103,22 +103,6 @@ related:
         width: 950
         height: 633
         isCached: true
-  - title: "US Has Lost AI Battle To China, Pentagon's Ex-Software Chief Says: Report"
-    excerpt: "China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon's former software chief told the Financial Times."
-    publishedDateTime: 2021-10-11T07:18:00Z
-    webUrl: "https://www.ndtv.com/world-news/us-has-lost-artificial-intelligence-battle-to-china-pentagons-ex-software-chief-nicolas-chaillan-says-report-2571370"
-    ampWebUrl: "https://www.ndtv.com/world-news/us-has-lost-artificial-intelligence-battle-to-china-pentagons-ex-software-chief-nicolas-chaillan-says-report-2571370?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-has-lost-artificial-intelligence-battle-to-china-pentagons-ex-software-chief-nicolas-chaillan-says-report-2571370?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://c.ndtvimg.com/2021-10/31a2482g_-china-artificial-intelligence_625x300_11_October_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "China Has Already Beaten The US To Be AI Superpower, Says Ex-Pentagon Chief"
     excerpt: "China has already beaten the US in the artificial intelligence (AI) arms race and is blazing towards global dominance because of its technological advancem"
     publishedDateTime: 2021-10-11T15:56:00Z
@@ -176,20 +160,6 @@ related:
       - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
         width: 1024
         height: 691
-        isCached: true
-  - title: "Former Pentagon Software Chief Says U.S. Lags Behind China in Artificial Intelligence"
-    excerpt: "The U.S has already lost the race against China to develop artificial intelligence, the Pentagon’s first chief software officer told the Financial Times. Nicolas Chaillan said he  he resigned from the U."
-    publishedDateTime: 2021-10-11T08:28:00Z
-    webUrl: "https://www.theinformation.com/briefings/0e9cd3"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 30
-    images:
-      - url: "https://dmxvlyap9srmn.cloudfront.net/production/articles/129/large_large_large_theinformation.png"
-        width: 1860
-        height: 1008
         isCached: true
 
 secured: "mpiTTcX70GnEe/5knJY6TWJ6mB6VfzROuDfFqIjAp1tZ53Gx7VaGBD4RRE467hIC0z4AgxzRH8tkhCnHJKSDO8dWxAK2GSV8mjZl/t1Eb7DnX+GDzLuw9f4m0iFSSRbvq3VHY8HBgjH4wR6tkzTIQx0GZm5f9XpfQDIPbEmMSFmRch49oOsGBAr1IiRGW+bNrF9Ui16PFhJiCmMWVcZ/sWElwfbLxSyq4Qbgxf8CQQgKc8a8jK4e6u0iEy7RWPjL2sgcBeePDwv1iJgxc9rjLcoDG7ZS1crokOZ4NaLRf07sUkxU+vQNcHXGStUuo1GyVJOdB0uGrTl+dag/GtGuwdSw4w2AjWrxcq5IPxM4oWA=;LSvTyymXccQGzx9CsRRwCg=="

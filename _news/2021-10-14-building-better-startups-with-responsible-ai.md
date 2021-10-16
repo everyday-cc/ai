@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-resp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
         width: 800
         height: 446
-        isCached: true
-  - title: "Addressing Bias in AI"
-    excerpt: "Shaped by human developer influence, AI bias can take several forms. Learn more about the common types of AI bias that could affect your business today."
-    publishedDateTime: 2021-10-11T08:48:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/bias-in-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
-        width: 1024
-        height: 393
         isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
