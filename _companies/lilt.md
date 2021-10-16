@@ -2,7 +2,7 @@
 name: "Lilt"
 overview: "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost."
 type: "profile"
-heat: 31
+heat: 50
 
 website: https://lilt.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lilthq"
   url: "https://twitter.com/lilthq"
-  followers: 5764
+  followers: 5765
 
 size: 2-10 employees
 yearFounded: 2015
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "6JKKefCFpT81o4Ys7xWZr4o1yiktkXzP+B3dElK3IPF3ijc5znt2PgPxAJ/XUz97/bbdGGc/nBxPu2z96moNQkYNdETvti4rhqRlhevCHLjzBYHxJhwI7lwsS2uhYx5i7iF+xOewgRRwQ9+t7aw1cQkO/kbMDOD5OksX+a5Mtlb8gunb4SKGjEmzWJ89IOSeFx+nBx77wJygecJ1gLsESD3rZphQcEiaXvTq04ubqR7wM7eXU13/sRk5+iiSxXQPjluW2U9jBplcJ4arpaYo+0bhya/QPHt2vjGs8F8mkgZvemKAY0UDkjHOgRrFIteVMAL36QWRG8svnTTy8vg8bXWGedLp1ORWg7ynACY3XrK0hnn06Ep7NdjvpbtdqYScHhbrNgUEBwwwwz5eezS4I+jIAFovDX7pSAmSTee7HwI=;uis+FNjjfcUfFsWZ1hUgZQ=="
+secured: "MOllYMTdC6Z5i8qVTUGHMMTxVM2d14DX7jcRa62W8rBdKcher8eMOusmqu21TdRX3h0q1qorDP97/vKto+zXjB9lZ8HaK4JDRH6tYGaiD7LVTXaZO6qlNtYzPQDWBIw2pimCeGKzJ/w/o97bsiJuLlwmblqvgvzalt3I7pTFrUCzoKfGveViqLYr/3gg8Tw9UDwn7odmw6mdgSBsogFP6t4shbEh6IQcpeILDPJIKcBjQxoyRapf1+1RfDbGNzdETMnsVMNy+j/0xiwkhUxAzcN7QCXOqBYlevK/LJgArTvCH+zQBnb1mu9NJlAmBP/Is0ksBK+qOdXcz5oUsW9FrqBG6xmpqPVxUHouY+kAzwCTcUJmZgp+qTndVZN0OFio/NuUgZ1us4Xq48bgWYZwOFuc5WOnfbxiaaLHEw1/adI=;yzeo7vfFh8/sj3x3dMhkjA=="
 ---
 
