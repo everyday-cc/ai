@@ -2,6 +2,344 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
+      "title": "Attention-based deep neural network increases detection capability in sonar systems",
+      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/931330",
+      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
+      "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
+      "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
+      "originalUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/IMG_1746.jpg.png?itok=QInUkdFr",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
+      "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
+      "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "originalUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19894cca4b0468a528607c83b4f597e6.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-korean-robo-advisor-fount-bags-334m-to-advance-its-ai-based-platform.md",
+      "title": "Korean robo-advisor Fount bags $33.4M to advance its AI-based platform",
+      "excerpt": "Fount, a robo-advisor startup in South Korea, has raised a $33.4 million Series C round to beef up its machine learning-based platform development and hire staff.   The latest round was led by Hana Financial Investment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "originalUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Fount_logo.jpg?w=892",
+          "width": 892,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "publishedDateTime": "2021-10-11T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-aris-robotics-on-a-mission-to-reduce-waste-in-the-world.md",
+      "title": "ARIS Robotics: On a mission to reduce waste in the world",
+      "excerpt": "The founders of the startup, ARIS Robotics, are on a mission to reduce waste in the world. Read about their journey right here!",
+      "sourceUrl": null,
+      "webUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
+      "originalUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco",
+          "width": 760,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
+      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
+      "publishedDateTime": "2021-10-11T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Red Bull",
+        "domain": "redbull.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
+      "title": "A beginners guide to Artificial Intelligence",
+      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
+          "width": 1060,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
+      "title": "AI technology could reshape the U.S. government, but should it?",
+      "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/government_funding-e1633966248930.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "publishedDateTime": "2021-10-11T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
       "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
       "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
@@ -845,343 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
-      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
-      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
-          "width": 679,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-smp-robotics-s51-robot-deployed-at-logistic-centre-to-enhance-security-and-intelligent-monitoring.md",
-      "title": "SMP Robotics S5.1 robot deployed at logistic centre to enhance security and intelligent monitoring",
-      "excerpt": "SMP Robotics announces that jointly with its US-Canada Master distributor company Robotics Assistance Device (RAD), carried out an deployment of autonomous security robot S5.1 on the territory of",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/fingerprint-scanner.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
-      "publishedDateTime": "2021-10-11T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey.md",
-      "title": "Five Questions To Ask Before Embarking On An Enterprise AI Journey",
-      "excerpt": "The opportunities and challenges in enterprise AI are unique, and it is important to pressure-test your readiness before you embark on an enterprise AI journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcece35bc8e10006c95e36%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
-      "publishedDateTime": "2021-10-11T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more.md",
-      "title": "Is Airbnb Safe? New Report Exposes Scams, Bug Infestations And More",
-      "excerpt": "According to a new report that analyzed Twitter complaints about Airbnb stays, a lot can go wrong on your vacation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6164214ac56137c3172194f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
-      "publishedDateTime": "2021-10-11T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword.md",
-      "title": "Artificial intelligence is now part of our everyday lives, and its growing power is a double-edged sword",
-      "excerpt": "A major new report on the state of artificial intelligence (AI) has just been released. Think of it as the AI equivalent of an Intergovernmental Panel on Climate Change report, in that it identifies where AI is at today,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp",
-      "publishedDateTime": "2021-10-11T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-deep-learning-system-software-market-to-witness-stunning-growth-intel-google-ibm.md",
-      "title": "Deep Learning System Software Market to Witness Stunning Growth | Intel, Google, IBM",
-      "excerpt": "Advance Market Analytics published a new research publication on Deep Learning System Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "originalUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua11135678_g.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
-      "publishedDateTime": "2021-10-11T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-why-simple-machine-learning-models-are-key-to-driving-business-decisions.md",
-      "title": "Why Simple Machine Learning Models Are Key To Driving Business Decisions",
-      "excerpt": "Despite the breakthroughs in data science and machine learning (ML), despite the development of several data management softwares and despite hundreds of articles and videos online, why is it that production-ready ML models are just not hitting the mark?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61606638fba0b1336be54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
-      "publishedDateTime": "2021-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

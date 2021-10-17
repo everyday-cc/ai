@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-14-robotics-hiring-in-the-power-industry-rose-in-august-2021.md",
+      "title": "Robotics hiring in the power industry rose in August 2021",
+      "excerpt": "The percentage of power industry companies hiring for robotics-related positions rose to 15.9% of companies in August 2021. The proportion of power industry operations and technologies companies hiring for robotics related positions rose in August 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
+      "originalUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/main-2339.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Power Technology",
+        "domain": "power-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-the-essential-human-element-of-ai-in-education.md",
+      "title": "The essential human element of AI in education",
+      "excerpt": "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
+      "originalUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ecampusnews.com",
+        "domain": "ecampusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-oaic-finds-against-7-eleven-over-facial-recognition-usage.md",
       "title": "OAIC finds against 7-Eleven over facial recognition usage",
       "excerpt": "OAIC: The convenience store group interfered with customers' privacy by collecting sensitive biometric information that was without necessity or reasonable consent. Between June 2020 and August 2021,",
@@ -42,6 +128,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models.md",
+      "title": "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models",
+      "excerpt": "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
+      "originalUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T01:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -129,7 +258,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -223,7 +352,7 @@
       "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -370,6 +499,93 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
+      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "publishedDateTime": "2021-10-13T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-microsoft-and-nvidia-partner-up-on-speech-recognition-model-training.md",
+      "title": "Microsoft and Nvidia partner up on speech recognition model training",
+      "excerpt": "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
+      "originalUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg",
+          "width": 1040,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders.md",
       "title": "AION Labs, Biotech Innovation Lab Launched by Top Pharma, Tech and Investment Leaders",
       "excerpt": "AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve",
@@ -452,6 +668,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3.md",
+      "title": "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3",
+      "excerpt": "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
+      "originalUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
+      "publishedDateTime": "2021-10-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -789,6 +1049,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-deep-learning-helps-to-predict-traffic-crashes-before-they-happen.md",
+      "title": "Deep learning helps to predict traffic crashes before they happen",
+      "excerpt": "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-deep-traffic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-deep-traffic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp",
+      "publishedDateTime": "2021-10-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-why-ai-and-human-intelligence-must-work-together-in-medicine.md",
       "title": "Why AI And Human Intelligence Must Work Together In Medicine",
       "excerpt": "By marrying AI with human expertise and intuition, we can significantly improve the way we provide medical care.",
@@ -837,350 +1140,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement.md",
-      "title": "Shareef O’Neal Lands New NIL Deal Using AI-Based Product Placement",
-      "excerpt": "Influential, an influencer marketing company, has partnered with Mirriad, an AI-based digital advertising platform specializing in product placement, to launch the first-ever superimposed image and video capability on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "originalUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616666cc49248193aa9e94f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "publishedDateTime": "2021-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer.md",
-      "title": "The USB-C iPhone Becomes A Reality Thanks To A Robotics Engineer",
-      "excerpt": "Recall when we brought to your attention plans by the European Commission to propose legal measures that would force phone",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "originalUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/77972c1fdb2ec0e1057ad6778dbf7fcb.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "publishedDateTime": "2021-10-13T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-uk-gov-urged-to-protect-human-right-to-review-ai-decisions.md",
-      "title": "UK gov urged to protect human right to review AI decisions",
-      "excerpt": "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp",
-      "publishedDateTime": "2021-10-13T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-robotics-edtech-startup-wiingy-raises-400000-angel-funding.md",
-      "title": "Robotics Edtech Startup Wiingy Raises $400,000 Angel Funding",
-      "excerpt": "The company will deploy its first fundraise to develop, scale their robotics kits supply chain and build a strong early team with technology, product, teaching and design skills",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390902",
-      "originalUrl": "https://www.entrepreneur.com/article/390902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634123416-TeamWiingy111.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
-      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
-      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
-          "width": 1191,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-much-artificial-intelligence-is-still-people-behind-a-screen.md",
-      "title": "Much ‘Artificial Intelligence’ Is Still People Behind a Screen",
-      "excerpt": "AI startups can rake in investment by hiding how their systems are powered by humans. But such secrecy can be exploitative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idsWZAmr_z7s/v1/1200x817.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-germany-launches-worlds-first-self-driving-train-know-details.md",
-      "title": "Germany launches world’s first self-driving train – Know details",
-      "excerpt": "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "originalUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
-      "publishedDateTime": "2021-10-12T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rojgar Samachar",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

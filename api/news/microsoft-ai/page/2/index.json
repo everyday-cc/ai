@@ -2,6 +2,231 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-01-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
+      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
+      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
+      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
+      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
+      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
+      "publishedDateTime": "2021-09-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-immuniweb-launches-free-cloud-security-test-to-detect-unprotected-storage.md",
+      "title": "ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage",
+      "excerpt": "The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months. Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
+      "originalUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-md3YVJjBNZY/YVSuqolg06I/AAAAAAAABRA/69R-lwGKrmURHClMyTIQ7NDOS3eUN0b_QCLcBGAsYHQ/s728-e1000/cloud-security-test.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
+      "publishedDateTime": "2021-09-30T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari.md",
+      "title": "MS cloud is helping cos innovate, reimagine biz: Anant Maheshwari",
+      "excerpt": "For example, in e-commerce, Myntra scaled up to meet demand spikes during the pandemic and used Azure Machine Learning to understand customer needs better. We have a huge opportunity to position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
+      "originalUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/09/29/600x338/Anant_1632937406939_1632937413502.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
+      "publishedDateTime": "2021-09-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-ai-powered-tool-to-predict-cardiac-risk-in-indians-more-accurately.md",
       "title": "AI-Powered Tool To Predict Cardiac Risk In Indians More Accurately",
       "excerpt": "An Artificial Intelligence-powered tool to more accurately predict heart disease risk among Indians and recommend modifiable changes to prevent heart attacks has been launched by Apollo Hospitals in partnership with Microsoft.",
@@ -1114,241 +1339,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
-      "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
-      "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
-      "originalUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/09/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
-      "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
-      "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/3bd9b1bf/3bd9b1bf-9772-4cf3-a258-630396eff499/istock_1215247403.jpg",
-          "width": 1042,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-wells-fargo-to-use-google-microsoft-azure-cloud-services-to-support-new-digital-strategy.md",
-      "title": "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy",
-      "excerpt": "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "originalUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "publishedDateTime": "2021-09-15T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
-      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
-      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
-      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
-      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

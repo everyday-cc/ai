@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "No-code AI analytics may soon automate data science jobs"
-    excerpt: "Exclusive SparkBeyond Discovery lets analysts use AI to auto generate new answers to business problems without requiring coding."
-    publishedDateTime: 2021-10-12T20:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
+  - title: "Machine learning, analytics should be used to settle claim faster and detect frauds: IRDAI Member"
+    excerpt: "The insurance company should start making more use of technology to complete the claim settlement process faster and even fraud detection can be easily done, an IRDAI member distribution SN Rajeshwari said during National Insurance Academy’s insurance summit."
+    publishedDateTime: 2021-10-14T16:47:00Z
+    webUrl: "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882"
+    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/10/13/162343-tm-2.jpg?itok=7N3zDsR8"
+        width: 700
+        height: 394
         isCached: true
   - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
     excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/automigration/ebooklogoimage/universal_webinar_432x432.jpg?h=432&iar=0&w=432&rev=40b23c67059744a48c46e69276833aab&hash=C44E3EF00A8056C1B237BDA0AE3208B1"
         width: 432
         height: 432
-        isCached: true
-  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
-    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
-    publishedDateTime: 2021-10-14T20:31:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"

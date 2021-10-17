@@ -2,6 +2,224 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-17-udacitys-machine-learning-engineer-with-microsoft-azure-capstone-project.md",
+      "title": "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project",
+      "excerpt": "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
+      "originalUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-16T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models.md",
+      "title": "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models",
+      "excerpt": "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
+      "originalUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T01:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
+      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
+      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
+      "publishedDateTime": "2021-10-13T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-microsoft-and-nvidia-partner-up-on-speech-recognition-model-training.md",
+      "title": "Microsoft and Nvidia partner up on speech recognition model training",
+      "excerpt": "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
+      "originalUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg",
+          "width": 1040,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3.md",
+      "title": "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3",
+      "excerpt": "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
+      "originalUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
+      "publishedDateTime": "2021-10-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
       "title": "Google Cloud extends its reach with new Distributed Cloud options",
       "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
@@ -133,10 +351,10 @@
     {
       "path": "_news/2021-10-12-cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure.md",
       "title": "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure",
-      "excerpt": "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft",
+      "excerpt": "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html",
+      "webUrl": "https://www.kfyrtv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
+      "originalUrl": "https://www.kfyrtv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -149,8 +367,8 @@
       "publishedDateTime": "2021-10-12T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "KFYR TV",
+        "domain": "kfyrtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1146,231 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 806,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-microsoft-announces-preview-of-on-demand-capacity-reservations-for-azure-virtual-machines.md",
-      "title": "Microsoft Announces Preview of On-Demand Capacity Reservations for Azure Virtual Machines",
-      "excerpt": "AI tools are slowly replacing the role of the ... Recently, Microsoft announced the preview of on-demand capacity reservations for Azure Virtual Machines (VMs). With this new feature for VMs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "originalUrl": "https://www.infoq.com/news/2021/09/azure-vm-ondemand-capacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/09/azure-vm-ondemand-capacity/en/headerimage/generatedHeaderImage-1632562426442.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
-      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
-      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "publishedDateTime": "2021-09-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-immuniweb-launches-free-cloud-security-test-to-detect-unprotected-storage.md",
-      "title": "ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage",
-      "excerpt": "The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months. Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "originalUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/images/-md3YVJjBNZY/YVSuqolg06I/AAAAAAAABRA/69R-lwGKrmURHClMyTIQ7NDOS3eUN0b_QCLcBGAsYHQ/s728-e1000/cloud-security-test.jpg",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "publishedDateTime": "2021-09-30T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari.md",
-      "title": "MS cloud is helping cos innovate, reimagine biz: Anant Maheshwari",
-      "excerpt": "For example, in e-commerce, Myntra scaled up to meet demand spikes during the pandemic and used Azure Machine Learning to understand customer needs better. We have a huge opportunity to position ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
-      "originalUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari-11632937289933.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/09/29/600x338/Anant_1632937406939_1632937413502.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/people/ms-cloud-is-helping-cos-innovate-reimagine-biz-anant-maheshwari/amp-11632937289933.html",
-      "publishedDateTime": "2021-09-29T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

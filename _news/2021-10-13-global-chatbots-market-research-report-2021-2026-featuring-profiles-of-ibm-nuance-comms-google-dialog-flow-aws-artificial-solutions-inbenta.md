@@ -124,20 +124,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Global Thermometer with Face Recognition Market 2021 Future Prospects, Industry-specific Challenges, Industry Projections, Sizes and Shares by 2027"
-    excerpt: "Global Thermometer with Face Recognition Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
-    publishedDateTime: 2021-10-12T20:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-thermometer-with-face-recognition-market-2021-future-prospects-industry-specific-challenges-industry-projections-sizes-and-shares-by-2027-2021-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size by Technology: Market Analysis Report, Forecast 2020-2030"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 12, 2021, 11:08 /Comserve / -- The global Artificial Intelligence market is segregated on the basis of Technology as Natural Language Processing, Context-Aware Computing,"
     publishedDateTime: 2021-10-13T05:19:00Z
@@ -186,17 +172,6 @@ related:
         width: 502
         height: 300
         isCached: true
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
   - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
     excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
     publishedDateTime: 2021-10-13T14:44:00Z

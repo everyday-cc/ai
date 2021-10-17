@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partne
 webUrl: "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,145 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's How Microsoft Is Using Artificial Intelligence"
-    excerpt: "Microsoft (NASDAQ:MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
-    publishedDateTime: 2021-10-12T20:09:00Z
-    webUrl: "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-  - title: "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models"
-    excerpt: "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test."
-    publishedDateTime: 2021-10-14T08:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3"
-    excerpt: "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger."
-    publishedDateTime: 2021-10-13T16:19:00Z
-    webUrl: "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/"
-    ampWebUrl: "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 75
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM"
-    excerpt: "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"
-    publishedDateTime: 2021-10-13T17:25:00Z
-    webUrl: "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 71
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua13702630_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
-    excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
-    publishedDateTime: 2021-10-16T19:10:00Z
-    webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 70
-    images:
-      - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft has crushed the worst DDoS attack its Azure servers have ever encountered"
-    excerpt: "An unnamed Microsoft Azure customer has recently been targeted by a profoun DDoS attack. Thankfully the cloud service was able to fend off the onslaught and, despite its intensity, the customer's site remains unaffected."
-    publishedDateTime: 2021-10-13T12:06:00Z
-    webUrl: "https://www.pcgamer.com/huge-microsoft-azure-ddos-udp-attack-resisted/"
-    ampWebUrl: "https://www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/huge-microsoft-azure-ddos-udp-attack-resisted/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/6MbZYG5ZUGEBqMuA3bEXUA-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
-    excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
-    publishedDateTime: 2021-10-14T14:51:00Z
-    webUrl: "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    ampWebUrl: "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 64
-  - title: "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM"
-    excerpt: "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These"
-    publishedDateTime: 2021-10-16T09:47:00Z
-    webUrl: "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    ampWebUrl: "https://www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua16579177_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Supervised Learning Market Trending factors and Growth Drivers Influencing Globally | Microsoft, Fair Isaac, IBM"
-    excerpt: "In this research report we have tried to determine market size revenue breakdown by key business segments and end use applications the report uses a combination of quantitative market statistics and qualitative analytical information The research covers historical data and"
-    publishedDateTime: 2021-10-16T09:40:00Z
-    webUrl: "https://www.openpr.com/news/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua16781743_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Microsoft Translator Can Now Translate More Than 100 Languages And Dialects"
-    excerpt: "Microsoft says that its Translator can now make text and information in documents accessible to 5.66 billion people worldwide."
-    publishedDateTime: 2021-10-13T05:46:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-translator-can-now-translate-more-than-100-languages-and-dialects/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Microsofttt.png"
-        width: 1739
-        height: 831
-        isCached: true
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
     publishedDateTime: 2021-10-14T16:13:00Z
@@ -179,56 +40,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Natural Language Processing Market Report 2021 by Top Key Players: Google, IBM, Microsoft, Intel, Apple, AWS"
-    excerpt: "Adroit Market Research in its latest Global Natural Language Processing Market 2021 report reveals the impact of COVID-19 on the world Natural Language Processing industry. The Global Natural Language Processing Market report offers extensive insights such as company profiles,"
-    publishedDateTime: 2021-10-14T15:44:00Z
-    webUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
-    ampWebUrl: "https://manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-market-report-2021-by-top-key-players-google-ibm-microsoft-intel-apple-aws/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 54
-  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
-    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
-    publishedDateTime: 2021-10-13T17:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=546459"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
-    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
-    publishedDateTime: 2021-10-15T13:00:00Z
-    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 54
-    images:
-      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
-        width: 884
-        height: 637
-        isCached: true
-  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
-    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
-    publishedDateTime: 2021-10-13T20:34:00Z
-    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
     publishedDateTime: 2021-10-14T20:13:00Z
@@ -238,20 +49,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
-    excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
-    publishedDateTime: 2021-10-13T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-microsoft-introduce-new-language-model-mt-nlg-with-530-billion-parameters-leaves-gpt-3-behind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 25
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/NVIDIA-Microsoft-Megatron-Turing-NLG-1.jpeg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "xJYwxX2RsGX/UYmvEwn2cqPvxr2bDDWi4tEPgMwU/mMjB6OgJRTU6uV6UqBlgMMt9aNKeQLUI8PmUitHWXVmpGv0X+aE1T7es0YHj63pYMLbNG8rkNxEP67Io7CvnsaUn6wdDalxKyROpSdiiCuNBSEr/w7/0Rn9Nr8QOsqM+G0ruVG8HR9iDNnHV+MUjo77XeEXuzPFY5iiGFz/Yifa6ixcXixGfhItV4TxBuFfxWtz+9NjXzliSo5VPf+NuWeLD6V2lPhK/JduKYPSo48lD7/gr15cvjUhrcPfwkjrqEidKGEZXxAvGwRTnZqKc/ZimeF9VOoSd0M1RwKyn8OrFfteFs3sU9hASrdQc9C7mpFdRHq5ZmqL2j7kN2UqBpuWp39zBVI6GnW9dRD0am5GTMdsmG2a6S4q43GrYEOncJr/GUtmWPtwv3yTgsm1nnTjZF3QJ7GI9/YCF4B6vu4k3r+emCJwiM4USACjKRIlduTtBUDZGT4G3vkwr7DChYGad0GAcixrKTwRmcu1d+cg9w==;2dzxgTkNPnpTN2WEMh2/Wg=="
 ---

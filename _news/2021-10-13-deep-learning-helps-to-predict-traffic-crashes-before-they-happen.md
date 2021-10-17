@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-10-deep-traffic.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps predict traffic crashes before they happen"
-    excerpt: "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence."
-    publishedDateTime: 2021-10-12T19:52:00Z
-    webUrl: "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Predicting Traffic Crashes Before They Happen With Artificial Intelligence"
     excerpt: "A deep model was trained on historical crash data, road maps, satellite imagery, and GPS to enable high-resolution crash maps that could lead to safer roads. Today’s world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle."
     publishedDateTime: 2021-10-16T12:01:00Z

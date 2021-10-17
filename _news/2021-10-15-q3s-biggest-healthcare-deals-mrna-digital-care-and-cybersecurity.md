@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Big Data, Blockchain & Artificial Intelligence Can Enhance Your Cybersecurity"
-    excerpt: "Big data, blockchain and artificial intelligence can take your cybersecurity strategy to the next level. When we go online, we leave traces of our data. We would never want our data falling into the wrong hands."
-    publishedDateTime: 2021-10-12T21:01:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-big-data-blockchain-artificial-intelligence-can-enhance-your-cybersecurity"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 47
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/HOW_BIG_DATA_BLOCKCHAIN__ARTIFICIAL_INTELLIGENCE_CAN_ENHANCE_YOUR_CYBERSECURITY.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Deep Instinct Report Highlights Need to Rethink Approach to Cybersecurity"
     excerpt: "The Voice of SecOps Report from Deep Instinct contains a variety of interesting insights and shows why we need a new approach to security."
     publishedDateTime: 2021-10-13T11:03:00Z

@@ -3,12 +3,12 @@ category: news
 title: "Facebook helps AI take a first-person view of life"
 excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
 publishedDateTime: 2021-10-14T17:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/technology-58896551"
+webUrl: "https://www.bbc.co.uk/news/technology-58896551"
 ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: bbc.co.uk
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -58,6 +57,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/facebook-ego4d.jpg?w=1024"
         width: 1024
         height: 652
+        isCached: true
+  - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
+    excerpt: "Facebook’s AI can’t consistently identify first-person shooting videos, racist rants and even, in one notable episode that puzzled internal researchers for weeks, the difference between cockfighting and car crashes. On hate speech, the documents show ..."
+    publishedDateTime: 2021-10-17T13:26:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 80
+    images:
+      - url: "https://images.wsj.net/im-418418/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I."
     excerpt: "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models."
@@ -147,6 +162,6 @@ related:
         height: 382
         isCached: true
 
-secured: "xWL6MnEoObBQumHGaQQVoQqd0l15EFtpWygyoTry1xhlboDfZExFlb1G+A+3KETS2bcT81Mv8yM3AIhri5sbhjbkhKnpD/FOXt833HghcfI6HQ3o6YCV5k/4WN+fP0QOHUWwgF6g5IOASaibt4Jk67tk2w78Yxcs9f2sEG6SLGLnWxBWWrSzVNa3KH6qqXx08tAe/DGUGPWEVopA3csMppj2EFcI+dE7EiLd7ynYrAkS6+RTW03D0GDVamoVYpz4MVjcp3nrQKxnox66ZjAYJSwhlPCdJqEKF6XE/hh8YQfsQUbtepSRTT+jZSBqYfMVF35sElmWIXjuRNzhf5wd94YbqUukQuWiJzzHEMbMfLrmjiU3wd2NDgcdbKjzPi8HIVC+bWN6e8kGIZVm/BZIFGCNSef+cCd3dNsGeRyfqRqByIATMLoHFdbgO2LsVe50oSfXAkgfIROwuLlyACCBMcA6aoYV1fB/Rkb4xvLwpntxQJkFtClaYwYGKVK5MjuVAwVDQ4Tn3SW6y21wD37ZTg==;fs3/DUGPnP4vXIKt7LL2fA=="
+secured: "yjIkk1lm6ydhD75tlKoXv7y0JWiHq1JGQgQHMgUIFb0DVDrOiOfpVPwHnSy6Co/s7EgGW4+55nsOpStwGL+Pmu3g/XMcJmRnwd31WMwqdDvBh3CAz/GIPnRqIYXgS7sv43b+ZGDs3rRJq1PgBw5LupQb12SCZXX7UyAvUga7w0/HrAnKBr2dzGEYWOGuvYBIjCYgcOVmO2wnDtnhcKdApbwxa+ER1HfMJa5PMrlaLQoNcGuixiw/I1Ve2Pc1LrsSVaVK2aSgmq6WUEd/ROY7jFCmotK+akJUgl4IXW2vpGnSfNjaOYfmiE+y8KPwLzzwVvielcedqrIk/A2YHOSijG+T65QPiUeiUklzk1yDHEk=;t7L+Jv8RFJiY+wy5sr+nPQ=="
 ---
 

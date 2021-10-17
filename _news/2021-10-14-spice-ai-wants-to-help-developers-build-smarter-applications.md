@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/10/spice-ai.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
+    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
+    publishedDateTime: 2021-10-14T20:31:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Spice AI Raises $1 Million Pre-Seed Funding to Help Developers Build Intelligent Apps"
     excerpt: "Spice AI, a startup enabling developers to easily integrate AI into their applications, today announced funding of $1 million from leading AI-focused venture and angel investors. Founders Luke Kim and Phillip LeBlanc have spent years building cloud applications from the ground up and witnessed firsthand the inefficiencies in building AI applications that required teams of data scientists and extensive cross-team collaboration."

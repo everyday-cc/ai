@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Hyundai Mobis develops a foldable steering wheel system for self-driving car"
-    excerpt: "A foldable steering wheel system for self-driving cars has been developed by Hyundai Mobis. Hyundai Mobis announced on Monday that it has developed the 'foldable steering system' that can store the steering wheel of the driver's seat invisible by folding it."
-    publishedDateTime: 2021-10-12T20:33:00Z
-    webUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car-11634028683973.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
+  - title: "Apple Self-Driving Car Hits a Curb, Not as Tragic as It Sounds"
+    excerpt: "Apple is believed to be working on its very own self-driving car, and while the company isn’t saying a single thing about this ambitious project, what everybody knows is the iPhone maker is currently testing autonomous driving technology with the help of a fleet already on American roads."
+    publishedDateTime: 2021-10-16T20:40:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-self-driving-car-hits-a-curb-not-as-tragic-as-it-sounds-171893.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
     images:
-      - url: "https://images.livemint.com/img/2021/10/12/600x338/foldable_steering_system_1634029216103_1634029237547.jpg"
-        width: 600
-        height: 337
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-self-driving-car-hits-a-curb-not-as-tragic-as-it-sounds-171893-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "moENnRwv+xE0Ev1CFZRgHN1Wb99Mr4bz6FrQ+xbP+sQAtBNvr2jmrcj0MECE4swJ14UdkCGGleGXIWMEouEteU5X6Suf6j/uxZ2nfM8qI39SVdwp2uW5tKNMygH9VG3WRexRN05GdO8AMZIFxJevFbKoIn/6jm/c5AEpyHPQkzVgdHcOtG/IaiI2sJHEyWEoEwW2VkK+pHiC4Vb5SIaW4ZJn8B5dYBVDymrV9X03uRFbVf7di5jQFY23IUvXPmzPoVft/CPmDDRVaz8E1Rk+WAMwEawGCtn4axONf/rbo6QOtW60AgJpdY+M6cnSQupgchLy9dYEEKXFTs5ANMdP/j/peI4my9vM2QmnP6uSV5k=;IQkpef3CA4pKh260judFxA=="

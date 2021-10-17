@@ -2,6 +2,241 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
+      "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
+      "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
+      "originalUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/09/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
+      "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
+      "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
+      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vertassets.blob.core.windows.net/image/3bd9b1bf/3bd9b1bf-9772-4cf3-a258-630396eff499/istock_1215247403.jpg",
+          "width": 1042,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-wells-fargo-to-use-google-microsoft-azure-cloud-services-to-support-new-digital-strategy.md",
+      "title": "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy",
+      "excerpt": "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
+      "originalUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
+      "publishedDateTime": "2021-09-15T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
+      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
+      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
+      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
+      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-spark-new-zealand-implements-agile-work-practices-to-embrace-business-change.md",
       "title": "Spark New Zealand Implements Agile Work Practices To Embrace Business Change",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper into Spark New Zealand’s which is the largest telecommunications and digital services. Patrick Moorhead interviews Kallol Dutta, Tribe Lead- Data & Automation of Spark New Zealand.",
@@ -1089,240 +1324,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft.md",
-      "title": "Ethics panels reject and delay biometrics, AI projects for Google, IBM, Microsoft",
-      "excerpt": "Companies are waiting for regulation from govts and blocs, and also to improve their own tech to avoid issues such as perpetuating biases around race and gender",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "originalUrl": "https://www.biometricupdate.com/202109/ethics-panels-reject-and-delay-biometrics-ai-projects-for-google-ibm-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg",
-          "width": 1080,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-buy-rated-big-data-stocks-to-add-to-your-portfolio.md",
-      "title": "4 Buy-Rated Big Data Stocks to Add to Your Portfolio",
-      "excerpt": "The demand for analytics and automation is rising together with the artificial intelligence and cloud computing mega-trends. And because this backdrop makes the prospects bright for the big-data industry,",
-      "sourceUrl": null,
-      "webUrl": "https://stocknews.com/news/orcl-ibm-vmw-tdc-4-buy-rated-big-data-stocks-to-add-to-your-portfolio/",
-      "originalUrl": "https://stocknews.com/news/orcl-ibm-vmw-tdc-4-buy-rated-big-data-stocks-to-add-to-your-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
-      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
-      "publishedDateTime": "2021-09-09T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stock News",
-        "domain": "stocknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation.md",
-      "title": "Amazon, Microsoft Help Lift Cloud Startup Databricks to Sky-High Valuation",
-      "excerpt": "Amid an unprecedented flood of private money flowing into startups from electric trucks to rockets, one of the hottest is a relatively little-known cloud-software vendor, Databricks Inc., which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
-      "originalUrl": "https://www.wsj.com/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-397693/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
-      "publishedDateTime": "2021-09-09T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Microsoft's Azure cloud, Azure Edge, Azure Orbital, and emerging Azure Space, AI, and machine learning technologies, plus Nokia's 5G Digital Automation Cloud platform will be leveraged to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/resize/1200xauto/8670fd1bf10e22c9014e1c0252ab198d/azure-satellite-diagram-1000x563.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-09T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
-      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

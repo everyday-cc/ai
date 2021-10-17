@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
+    excerpt: "Facebook’s AI can’t consistently identify first-person shooting videos, racist rants and even, in one notable episode that puzzled internal researchers for weeks, the difference between cockfighting and car crashes. On hate speech, the documents show ..."
+    publishedDateTime: 2021-10-17T13:26:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 80
+    images:
+      - url: "https://images.wsj.net/im-418418/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I."
     excerpt: "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models."
     publishedDateTime: 2021-10-14T16:00:00Z
@@ -78,14 +94,14 @@ related:
   - title: "Facebook helps AI take a first-person view of life"
     excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
     publishedDateTime: 2021-10-14T17:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/technology-58896551"
     ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
     type: article
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 59
+    quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13FE0/production/_121088818_searching2gettyimages-78718769.jpg"
         width: 1024

@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-15-tesla-debuts-new-car-insurance-that-uses-texans-real-time-driving-behavior.md",
+      "title": "Tesla debuts new car insurance that uses Texans' real-time driving behavior",
+      "excerpt": "Tesla now offers insurance in Texas, and it calculates for premiums based on owners' real-time driving behavior..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
+      "originalUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/1039dff0-2d98-11ec-bfff-3e825fd294c3",
+          "width": 1600,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
+      "publishedDateTime": "2021-10-15T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
+      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
+      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "publishedDateTime": "2021-10-15T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items.md",
       "title": "Amazon Personalize can now unlock intrinsic signals in your catalog to recommend similar items",
       "excerpt": "Today, we’re excited to announce a new similar items recommendation recipe (aws-similar-items) in Amazon Personalize that helps you leverage your users’ interaction histories and what you know about the items in your catalog to deliver relevant recommendations. Across Amazon, we provide personalized",
@@ -261,7 +364,7 @@
       "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -312,7 +415,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -604,7 +707,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -759,7 +862,7 @@
       "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -863,7 +966,7 @@
       "originalUrl": "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1143,92 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-robotics-hiring-in-the-power-industry-rose-in-august-2021.md",
-      "title": "Robotics hiring in the power industry rose in August 2021",
-      "excerpt": "The percentage of power industry companies hiring for robotics-related positions rose to 15.9% of companies in August 2021. The proportion of power industry operations and technologies companies hiring for robotics related positions rose in August 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
-      "originalUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/main-2339.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Power Technology",
-        "domain": "power-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-the-essential-human-element-of-ai-in-education.md",
-      "title": "The essential human element of AI in education",
-      "excerpt": "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
-      "originalUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ecampusnews.com",
-        "domain": "ecampusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

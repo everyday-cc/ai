@@ -178,19 +178,16 @@ related:
         height: 375
         isCached: true
   - title: "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents"
-    excerpt: "In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week. Most would drive to the dead-end on 15th Avenue,"
-    publishedDateTime: 2021-10-16T18:06:00Z
-    webUrl: "https://www.wgbh.org/news/science-and-technology/2021/10/16/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents"
+    excerpt: "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week."
+    publishedDateTime: 2021-10-17T12:09:00Z
+    webUrl: "https://wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/"
+    ampWebUrl: "https://wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/amp/"
+    cdnAmpWebUrl: "https://wskg-org.cdn.ampproject.org/c/s/wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/amp/"
     type: article
     provider:
-      name: WGBH
-      domain: wgbh.org
+      name: WSKG
+      domain: wskg.org
     quality: 33
-    images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/9d9d76e/2147483647/strip/true/crop/1024x633+0+0/resize/1024x633!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fc7%2Fa2%2F7639a61b4d92b58650a0d049a153%2Fgettyimages-631235572.jpg"
-        width: 1024
-        height: 633
-        isCached: true
   - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
     excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
     publishedDateTime: 2021-10-14T22:12:00Z

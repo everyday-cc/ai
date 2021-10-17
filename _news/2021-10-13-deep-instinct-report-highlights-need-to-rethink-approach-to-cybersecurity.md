@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Big Data, Blockchain & Artificial Intelligence Can Enhance Your Cybersecurity"
-    excerpt: "Big data, blockchain and artificial intelligence can take your cybersecurity strategy to the next level. When we go online, we leave traces of our data. We would never want our data falling into the wrong hands."
-    publishedDateTime: 2021-10-12T21:01:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-big-data-blockchain-artificial-intelligence-can-enhance-your-cybersecurity"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 47
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/HOW_BIG_DATA_BLOCKCHAIN__ARTIFICIAL_INTELLIGENCE_CAN_ENHANCE_YOUR_CYBERSECURITY.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
     excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
     publishedDateTime: 2021-10-14T21:37:00Z
