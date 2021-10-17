@@ -78,7 +78,7 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 29
+    quality: 33
     images:
       - url: "https://www.bbntimes.com/images/articles/global-economy/The_Fundamental_Flaw_in_Artificial_Intelligence__Who_Is_Leading_the_AI_Race_Artificial_Human_Intelligence_vs._Real_Machine_Intelligence.jpg"
         width: 1200

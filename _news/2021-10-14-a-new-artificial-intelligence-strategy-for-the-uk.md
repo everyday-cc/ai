@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The UK wants to be an AI superpower, but it goes easy on ethics"
-    excerpt: "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,"
-    publishedDateTime: 2021-10-12T12:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "New Ten-year Plan to Make the UK a Global AI Superpower"
     excerpt: "A National AI Strategy to boost business use of AI, attract international investment and develop next generation of tech talent has launched. The UK"
     publishedDateTime: 2021-10-13T04:30:00Z

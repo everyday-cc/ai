@@ -39,20 +39,6 @@ related:
         width: 990
         height: 555
         isCached: true
-  - title: "Israeli AI Edge Chipmaker Hailo Raises $136M"
-    excerpt: "The company said the funding will be used to address 'surging interest' in the Hailo-8 AI Processor for edge devices."
-    publishedDateTime: 2021-10-12T11:21:00Z
-    webUrl: "https://nocamels.com/2021/10/israel-ai-edge-chip-hailo/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/Hailo-8-Chip-hand_in_circle-.png"
-        width: 1446
-        height: 1449
-        isCached: true
   - title: "Hailo Raises $136M to Expand Edge AI Solutions"
     excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo on Tuesday announced it has raised $136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round brings Hailo’s total funding to $224 million."
     publishedDateTime: 2021-10-14T01:05:00Z

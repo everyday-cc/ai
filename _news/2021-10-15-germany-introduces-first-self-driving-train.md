@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Germany Unveils the World's First Fully Automated Train in Hamburg"
-    excerpt: "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB)."
-    publishedDateTime: 2021-10-12T12:03:00Z
-    webUrl: "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    ampWebUrl: "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Germany unveils world's first self-driving train. See photos"
     excerpt: "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December"
     publishedDateTime: 2021-10-12T13:30:00Z

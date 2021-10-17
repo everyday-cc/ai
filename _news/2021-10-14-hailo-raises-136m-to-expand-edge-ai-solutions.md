@@ -53,20 +53,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Israeli AI Edge Chipmaker Hailo Raises $136M"
-    excerpt: "The company said the funding will be used to address 'surging interest' in the Hailo-8 AI Processor for edge devices."
-    publishedDateTime: 2021-10-12T11:21:00Z
-    webUrl: "https://nocamels.com/2021/10/israel-ai-edge-chip-hailo/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/Hailo-8-Chip-hand_in_circle-.png"
-        width: 1446
-        height: 1449
-        isCached: true
 
 secured: "7EKSGZ8B3VUvYeKUkbGnJ9e0h+Du/XKEaShN7r3RuuBf8aSq5XNwTcBpmzy9/vjnK9wIY83ZzA4xaqg6FIZSA73gYWjivA3chBsPfVeNHQgf0wg8MzpfuivIsddLAOvnuFYsj8Vkb0Cq7s7rXfCNLwCaorN+W475plLZYmxZ55Qskz72T01Q48tIslr/LkXI4+rffjQRG1pT9N6fauypzY2dEUEiAePYyDPPuM5jYRm5T6IkKG8EfTTK1REgTdrvtQq02aJxKebwsaZLxrL7beymOhZTVjOtaAkmI1k+OAhUNziTGKQMcpXibJDfYWSsu82oe/rZ/c7a/KWezXeUVECj52T/0Fvw6jyeBAazySXrW4DI5j6MWYbCQYHuLi2lEWyzL9TCHbYpr7JjXc0Tt/uLHGefJ5NZTEjdBu4tcZJkrURrvlhsIx/Sgvid8s23M7YCJ0l7w/4tmpymSoRq8UaXEsgYrn3lsPWSRHC3sgh7Hjm7NS8jknliAOU43rhBRSvtjTMz/tcWNNJ2Bp8fng==;uj2RaAHygsTNBYkrj/iEJQ=="
 ---

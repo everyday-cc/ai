@@ -25,50 +25,120 @@ images:
     isCached: true
 
 related:
-  - title: "Spice AI wants to help developers build smarter applications"
-    excerpt: "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,"
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/"
-    ampWebUrl: "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/"
+  - title: "No-code AI analytics may soon automate data science jobs"
+    excerpt: "Exclusive SparkBeyond Discovery lets analysts use AI to auto generate new answers to business problems without requiring coding."
+    publishedDateTime: 2021-10-12T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/"
+    ampWebUrl: "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png"
-        width: 750
-        height: 492
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
         isCached: true
-  - title: "Spice AI Raises $1M in Pre-Seed Funding"
-    excerpt: "Spice AI, a Seattle, WA-based startup enabling developers to integrate AI into their applications, raised $1m in pre-seed funding"
-    publishedDateTime: 2021-10-14T21:06:00Z
-    webUrl: "https://www.finsmes.com/2021/10/spice-ai-raises-1m-in-pre-seed-funding.html"
+  - title: "Finding The Data: How To Avoid AI And Analytics Project Failures"
+    excerpt: "Overall, I see that success stories in this industry all have one common theme: a well-thought-out data strategy with robust data governance systems."
+    publishedDateTime: 2021-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/spice-ai.jpg"
-        width: 400
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376e18d56f9b933149f140%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2396%26cropY1%3D0%26cropY2%3D1348"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Spice AI Raises $1 Million Pre-Seed Funding to Help Developers Build Intelligent Apps"
-    excerpt: "Spice AI, a startup enabling developers to easily integrate AI into their applications, today announced funding of $1 million from leading AI-focused venture and angel investors. Founders Luke Kim and Phillip LeBlanc have spent years building cloud applications from the ground up and witnessed firsthand the inefficiencies in building AI applications that required teams of data scientists and extensive cross-team collaboration."
-    publishedDateTime: 2021-10-14T16:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-adb0723b0c5e4c528b6fcf75bc379022"
+  - title: "Accenture Snaps Up AI and Analytics Firm BRIDGEi2i"
+    excerpt: "Accenture (ACN) inked a deal to acquire artificial intelligence (AI) and analytics firm BRIDGEi2i. The financial terms of the deal have been kept under"
+    publishedDateTime: 2021-10-12T13:43:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 57
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/ACN.jpg"
+        width: 1000
+        height: 667
         isCached: true
+  - title: "Google Cloud, General Mills expand cloud, analytics partnership"
+    excerpt: "Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Google Cloud's deal with General Mills illustrates how that company has been targeting industries and leveraging its analytics, machine learning and artificial intelligence ..."
+    publishedDateTime: 2021-10-12T13:46:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
+  - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
+    excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
+    publishedDateTime: 2021-10-14T15:22:00Z
+    webUrl: "https://www.alteryx.com/resources/webinar/the-bleeding-edge-healthcare-data-analytics-ai-innovation"
+    type: article
+    provider:
+      name: Alteryx
+      domain: alteryx.com
+    quality: 54
+    images:
+      - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/automigration/ebooklogoimage/universal_webinar_432x432.jpg?h=432&iar=0&w=432&rev=40b23c67059744a48c46e69276833aab&hash=C44E3EF00A8056C1B237BDA0AE3208B1"
+        width: 432
+        height: 432
+        isCached: true
+  - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
+    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
+    publishedDateTime: 2021-10-14T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "AT&T Managed XDR Extends Threat Detection with Machine Learning and Analytics"
+    excerpt: "AT&T * is launching a managed Extended Detection and Response (XDR) offering. The AT&T Managed XDR solution features a cloud-based security platform with security threat analytics, machine learning, and third-party connectors to protect endpoint,"
+    publishedDateTime: 2021-10-12T13:17:00Z
+    webUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F24F95"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 16
+  - title: "Department of State Expands the Use of AI-driven Global Threat and Risk Assessments through a Four-Year Contract with Geospark Analytics"
+    excerpt: "Geospark Analytics, the world class leader in applied artificial intelligence solutions for risk and threat assessment, has been awarded a new four-year contract from the Department of"
+    publishedDateTime: 2021-10-13T13:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20044394.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 6
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Datumcon to Showcase the Power of Video Analytics in Transforming Businesses at its Ai Everything x GITEX Debut"
+    excerpt: "At Ai Everything x GITEX Global, Datumcon, a specialized artificial intelligence (AI) and data science company based out of the UAE and Saudi Arabia, aims to highlight the benefits of AI-enabled video analytics to governments and businesses across the region."
+    publishedDateTime: 2021-10-14T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datumcon-showcase-power-video-analytics-transforming-businesses-its-/2021/10/14/9469605.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "v4qywLqzm4t2XeLGuCzfsDt/dDMTuV+R0cjd95OOVIgHRuJhtCfUQjiC4R50IsuvkWVFBpzYnnDcH/Yy0faeykrNmPBXwaDPuV/ygtsSrfxtSibm8rVy4MGYNwOPqXC5TfcYnKuRBYdaWa63+3yKBG2TJ91eMmEauFcDz+4qFgNkuHhBPbv1BA6K1aFoH+q+iFVi5SNPPmlkwrp+D+M0aXXMvAtTRdsZpl5h8JM8571fXWBwhsWYGR+10zFZgbltyFY8URTpARa78/zodQqjLVuhwCU+YqqhChlcdUIcR9JYvo9uQNlJQDYe94euzd8LjqsGj+Hy3on+kppV3H9qVyNdCzykUHnU/2xoPSRiReDEoNvxmAXh+p+pZA6lxODHMcPaqRuDqm4NePj8CnC2QZrWUotvny65G6Q2HmG3yvP9IiwJgCiMT7PyHsDXICAeXc1firc4+Sdy+o/WyKLMoy8seL55w8m+V0u62zf62Agx8Lkfjf1hEPAFw6z1pKQrs8dgbhSLtmSzEawEmAdN+w==;A0arugj9YuooTZLFMkxCww=="
 ---

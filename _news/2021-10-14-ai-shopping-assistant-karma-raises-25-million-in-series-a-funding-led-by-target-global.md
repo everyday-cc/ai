@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Leading AI Chipmaker Hailo Raises $136 Million to Expand Edge AI Solutions as Global Demand Surges"
-    excerpt: "Leading AI (Artificial Intelligence) chipmaker Hailo today announced it has raised $ 136 million in a Series C funding round led by Poalim Equity and Gil Agmon. The round was joined by existing investors,"
-    publishedDateTime: 2021-10-12T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/leading-ai-chipmaker-hailo-raises-136-million-to-expand-edge-ai-solutions-as-global-demand-surges-1030858583"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
 
 secured: "S5obtJaSNczG9ndbTkRiATRB/A3kZeNzuRsQcFxBCCbrXRRzgz3rMxhnkh+JJIjW+9ifM4/GP1mpY0FMSJ5rkkaCS2dGRlklncrS4pkIqWTL0geIi957R1KOFn/LJQr2H3z4JV6KZ5+r3LRAQYaDrjFwd03dv4o42vJOn0vzjvt4o0TYd0VRshtVWpK9OTQ3NJSOCIkRX+juEqR+BbSmX0Se2fJavgO9YasFOP5VB4wTTqvFpF5DF3Uj4XUjDEVlVl/7fnJR713UXyh5+Or+3gKPFRHQ2rV9yQOolZxa6xXbOdE7Rucxd+aOJRfmqBFtr5plLJgjZTlVha1B1/qgr0GY7Qzj3jTQPfegKeQFB5nRg2zJ8M8ILX1EWAjoEcjfCIhDZnYWqtD9aaXQ1E9w3BvGM2mmrR3L0zSYBQhIKUZJVRv6MDJO5JIr7HuLoWqUEourJGl9VhkgxvPfx0qZ0ccqYnLgCyMWiCGlMCDOANgN9j25zZ4hMRnQRiGjoBe78YfWBOsgRXwhZFwTdEjo4w==;y2Q9z2ybD7hPOugiJJd/yA=="
 ---

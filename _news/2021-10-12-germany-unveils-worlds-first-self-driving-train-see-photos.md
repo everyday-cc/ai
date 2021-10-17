@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-se
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Mint
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Germany Unveils the World's First Fully Automated Train in Hamburg"
-    excerpt: "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB)."
-    publishedDateTime: 2021-10-12T12:03:00Z
-    webUrl: "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    ampWebUrl: "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Germany launches world’s first self-driving train – Know details"
     excerpt: "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,"
     publishedDateTime: 2021-10-13T04:44:00Z

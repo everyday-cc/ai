@@ -71,6 +71,20 @@ related:
         width: 420
         height: 280
         isCached: true
+  - title: "AI-based technology rapidly identifies genetic causes of rare disorders with high accuracy"
+    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics,"
+    publishedDateTime: 2021-10-17T01:21:00Z
+    webUrl: "https://www.news-medical.net/news/20211015/AI-based-technology-rapidly-identifies-genetic-causes-of-rare-disorders-with-high-accuracy.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 27
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
     excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"
     publishedDateTime: 2021-10-14T12:36:00Z

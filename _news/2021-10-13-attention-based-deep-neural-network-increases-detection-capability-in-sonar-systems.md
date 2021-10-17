@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
-    publishedDateTime: 2021-10-12T16:33:00Z
-    webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Attention-Based Deep Learning Networks Could Improve Sonar Systems"
     excerpt: "Researchers in China and the United States recently explored how an attention-based deep neural network (ABNN) could help improve sonar systems.  The research was published in the Journal of the Acoustical Society of America by the Acoustical Society of America through AIP Publishing."
     publishedDateTime: 2021-10-16T23:12:00Z

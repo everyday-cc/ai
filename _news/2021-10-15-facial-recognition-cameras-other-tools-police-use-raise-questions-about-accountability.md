@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Is Finally Raising Questions About Government Accountability"
-    excerpt: "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,"
-    publishedDateTime: 2021-10-15T21:44:00Z
-    webUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715"
+  - title: "Facial recognition cameras arrive in UK school canteens"
+    excerpt: "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,"
+    publishedDateTime: 2021-10-17T04:00:00Z
+    webUrl: "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
+    ampWebUrl: "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
     type: article
     provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 50
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
     images:
-      - url: "https://www.science20.com/files/images/police_cameras.jpg"
-        width: 494
-        height: 322
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98774f15-08c3-4a94-8627-5a8929df882d.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
     excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."

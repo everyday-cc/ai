@@ -178,20 +178,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft and Nvidia join up to train massive AI-powered language model"
-    excerpt: "The new model has 105 layers and 530bn parameters, but Microsoft and Nvidia said that bias is still a problem for the system."
-    publishedDateTime: 2021-10-12T11:21:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-nvidia-language-model-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/10/natural-language-processor.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Translator Can Now Translate More Than 100 Languages And Dialects"
     excerpt: "Microsoft says that its Translator can now make text and information in documents accessible to 5.66 billion people worldwide."
     publishedDateTime: 2021-10-13T05:46:00Z

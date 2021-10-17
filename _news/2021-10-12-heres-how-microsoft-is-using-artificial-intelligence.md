@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artific
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
 type: article
 quality: 84
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -159,20 +159,6 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua16579177_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft and Nvidia join up to train massive AI-powered language model"
-    excerpt: "The new model has 105 layers and 530bn parameters, but Microsoft and Nvidia said that bias is still a problem for the system."
-    publishedDateTime: 2021-10-12T11:21:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-nvidia-language-model-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/10/natural-language-processor.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Supervised Learning Market Trending factors and Growth Drivers Influencing Globally | Microsoft, Fair Isaac, IBM"
     excerpt: "In this research report we have tried to determine market size revenue breakdown by key business segments and end use applications the report uses a combination of quantitative market statistics and qualitative analytical information The research covers historical data and"

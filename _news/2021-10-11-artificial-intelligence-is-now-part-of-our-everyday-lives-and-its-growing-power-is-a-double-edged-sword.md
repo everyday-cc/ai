@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Artificial intelligence is now part of our everyday lives, and its growing power is a double-edged sword"
-excerpt: "A major new report on the state of artificial intelligence (AI) has just been released. Think of it as the AI equivalent of an Intergovernmental Panel on Climate Change report, in that it identifies where AI is at today,"
-publishedDateTime: 2021-10-11T12:38:00Z
-originalUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html"
-webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html"
-ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
+title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
+excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
+publishedDateTime: 2021-10-10T19:10:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
+    width: 320
+    height: 385
     isCached: true
 
-secured: "6op0H7TICH7xlrkV1xnKvG8WuPrj6c9VpJYlCpsHC4YPhINgKMQQi+CWj9HVR+2dZq8CyLxUyoCscPm1hbZtxQnFsJ6vUJe6RpqJ/AMqeai2xbx93tbhRaK6fvGalCasMAvgrTTKG1S2vUNUeBbWAA1w+0QI8+bP/bkfdrF9EO8umwVTxeJAhKLVF/1p+XON0csz3RbCW+E3QFv0rcjgLM+Pku2irgTvklWfLR9Z9FGF8P/Qi/aqYX3YQf4A/L2ZD/nk4NqWf5sMEpT0nETTKEocnS9HIE/Lp5ywweyI3tg6+KlaGdSbSM5mlrYSQKJKxBLgVnLPrdgcVuUIgIQoSkitr46sOZwB++0VN0SHdvVgvbdOizKmGYZGWaErqS1DR9vP4bd+8H/c+oIKdm29ZfcC+fPSn8Vr5gsZl0D9ZalP4l+pA4Adn6tJQd84QVPoln15GLjUgCV05iWV6GajHJ2Eqtm9O+440pFbKLObw9QiV37wPaK0WiR19BTOtE8Oq13ttOfaaee7aVGC8IUnnQ==;t1K4Gf3aH4oDIdcIYOXBag=="
+secured: "GrSeI3qqxWSK5WY3dRg+aGPv0fkj65HQehNMn6iKnbW4AVU94HvJsySwI43wMveHVptcICx/JFuRB5+31a7RyesaP9xE99ztgRxNLQg7mZ57ox1hB9cG3uyoXQJQttZ7d3xwLvc8rMZ/vAnNukCpdpQg8yqCL8I3r/GU22urGLi5iQRDyP5YfTYHGpzpF2gMemFq64b0h33917mRYIZOUsWfD7yumZ8GzRbEgGeQZKID1WYRNgzuVesljZKSVkqpxJKn8Mu94EOkYCxn1HZnjxZ3ilz/xQkdJyn7BqUgUSzRIfq65EXPsYd6Hgut/gllZICwnpBOoPde2YbcijW+Znx6GhITjVD/zRE9LML0nfY=;Si9bSq5WtYqVNoy9brm+og=="
 ---
 

@@ -42,36 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dynamics and importance of AI and Machine Learning"
-    excerpt: "Artificial Intelligence and Machine Learning are game-changing technologies that are transforming the world around us. With businesses leveraging them to improve performance and productivity, there is an urgent need"
-    publishedDateTime: 2021-10-12T11:56:00Z
-    webUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dynamics-and-importance-of-ai-and-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 76
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Self-Supervised Learning's Impact on AI and NLP"
-    excerpt: "Although humans can learn from observing a few examples of a given task, ML algorithms cannot. They can, however, learn through self-supervised learning. We explain how self-supervised learning works."
-    publishedDateTime: 2021-10-12T11:11:00Z
-    webUrl: "https://tdwi.org/articles/2021/10/12/adv-all-self-supervised-learning-ai-nlp.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 58
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI1.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "The march of AI - is it really a revolution"
     excerpt: "The future is science fiction with machines replacing people . Whilst this has potential do you agree that some hurdles still stand in the way of the march of the robots ? Recent news stories of disruption and supply chain failure seem to be caused by a shortage of skills ."
     publishedDateTime: 2021-10-12T13:36:00Z

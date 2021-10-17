@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/duke-professor-recognized-for-bringin
 webUrl: "https://www.wsj.com/articles/duke-professor-recognized-for-bringing-more-clarity-to-ai-decision-making-11634229889"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Wall Street Journal
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Know how this artificial intelligence platform is enhancing AI for making better products"
-    excerpt: "Micro technology is strengthening a new generation of intelligent, faster, global infrastructures. Micron’s Artificial intelligence improves business and lives beyond what we can imagine with regard to AI."
-    publishedDateTime: 2021-10-12T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/how-is-micro-technology-using-artificial-intelligence-to-innovate/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/How-is-Micro-Technology-Using-Artificial-Intelligence-to-Innovate.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "gIwMlDab0rPPaMo9eu1XTLRf/r1BCwWM8b6NO+elpVmI0+cHIn4UxSe0PdI35fPMH0LVuooIccVoUO6L1ufksvaSCl8AfEMD7iGphIkpLa9Z0bPPcKxNap89/RKY5nBh70p7QTT9MV6MHDKfqgn7diP/xU0lJEeaDGw0xwHQ6YGJON5jzU8qPV3M5JEQCVry3ro606Aaxa0rzPfz44J+06S1he7zSzXxqGaA6H2373IQBFMLo13Ed+ydyraVOGWg6HYM0VTNCvMNE2IQiVXTbYVMlLKQKlJu+eRjMevTS5rj17jiY21J3YarU471bG6ISP4uIh7E3AIb1nI4bK/JMdoH4TMa5kwbOVdFgITC61O3R/SUkyigq/hYFD5iwENapxYWPXLgjD+TJlWueebG+ckYQc1oceBANb2o6bYSizzDqSjGaZdTac6ghUjOh1pbRcZPEuXy/e7MCMFXdZSA2ReaGhJGCJsZ7PBWSzq+VadX7Knl9AgJs1pdMX17qxTt9ruhH7XFdQGnmsZQTuQzaQ==;990ZqKKUL+L9fXHwA02aRQ=="
 ---

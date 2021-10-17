@@ -7,7 +7,7 @@ originalUrl: "https://businessnewswales.com/new-ten-year-plan-to-make-the-uk-a-g
 webUrl: "https://businessnewswales.com/new-ten-year-plan-to-make-the-uk-a-global-ai-superpower/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The UK wants to be an AI superpower, but it goes easy on ethics"
-    excerpt: "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,"
-    publishedDateTime: 2021-10-12T12:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "A new Artificial Intelligence strategy for the UK"
     excerpt: "In this report, Chris Eastham, Technology, Outsourcing and Privacy partner takes an in-depth look at the new, 10-year plan for Artificial Intelligence."
     publishedDateTime: 2021-10-14T00:52:00Z
