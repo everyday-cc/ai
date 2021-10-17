@@ -46,33 +46,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Accenture Snaps Up AI and Analytics Firm BRIDGEi2i"
-    excerpt: "Accenture (ACN) inked a deal to acquire artificial intelligence (AI) and analytics firm BRIDGEi2i. The financial terms of the deal have been kept under"
-    publishedDateTime: 2021-10-12T13:43:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 57
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/06/ACN.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Google Cloud, General Mills expand cloud, analytics partnership"
-    excerpt: "Top cloud providers: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players Google Cloud's deal with General Mills illustrates how that company has been targeting industries and leveraging its analytics, machine learning and artificial intelligence ..."
-    publishedDateTime: 2021-10-12T13:46:00Z
-    webUrl: "https://www.zdnet.com/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-general-mills-expand-cloud-analytics-partnership/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
     excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
     publishedDateTime: 2021-10-14T15:22:00Z
@@ -110,15 +83,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "AT&T Managed XDR Extends Threat Detection with Machine Learning and Analytics"
-    excerpt: "AT&T * is launching a managed Extended Detection and Response (XDR) offering. The AT&T Managed XDR solution features a cloud-based security platform with security threat analytics, machine learning, and third-party connectors to protect endpoint,"
-    publishedDateTime: 2021-10-12T13:17:00Z
-    webUrl: "https://www.publicnow.com/view/B3A009E4FF8750B17158B33A681FF7C321F24F95"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 16
   - title: "Department of State Expands the Use of AI-driven Global Threat and Risk Assessments through a Four-Year Contract with Geospark Analytics"
     excerpt: "Geospark Analytics, the world class leader in applied artificial intelligence solutions for risk and threat assessment, has been awarded a new four-year contract from the Department of"
     publishedDateTime: 2021-10-13T13:15:00Z

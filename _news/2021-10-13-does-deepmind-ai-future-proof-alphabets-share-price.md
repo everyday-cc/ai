@@ -57,20 +57,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
-    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
-    publishedDateTime: 2021-10-12T13:20:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "c9LrULpB4zQLZidoutgeiJf2NsFGpV3zLl/RcGBIs+T+lEX3+z93cl5nLlt6/6Cj+peDh+NYoU4BJc8FsZpM2jE8G3LaHCUNVux04kcC2v+HHxa2pPm8h/Zix3G7QWD4wRaGHirWW42N3qxw4LXWeMIp3KfZCtb14wchWBTG3uMZrVy5+TkUn4esk+JBNSHqUKOQxePr4aTtl8lpxqtC2WmU1/+zHOpibrTXvwu6li5pzFM8kCvUwDm4RmbejDc7jA4D/BWUM0z2uxoXfEAQp71Og4OT97LV3a7Yfy6cwmtOcRp6SuKFbBYgJA1rjR0+74jXZ/qkPVu6Z+MpmLzmyi7YDaALP++tvrslKSd2tW2aHKiw1rZp9uGoKCTbjWY0+TmbE3KQfRVZGjj+eXU+lxGhR9JhDklPAGaomf1gMqNst9jThQPQtCdnad/VgTG4V4r2rzzoTlq6lADnyG9MTfXGhHVLQ9zUVkuLL+j6XADKgufdZ1R4Vor/P6fAkeAU3DNH8/J4+eOpbJbsYs4dcA==;V+SCWUQXtllI6OB1s4gYWw=="
 ---

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alviere, a Global Fintech Startup, Raises $70 Million Driven by Company's Rapid Traction in Embedded Finance"
-    excerpt: "Alviere closed a $20 million Series A led by Viola Ventures and Viola Fintech, with the participation of CommerzVentures, Mitsubishi ( News - Alert) Capital Corporation, Wix.com Capital (NYSE: WIX), Draper Triangle Ventures,"
-    publishedDateTime: 2021-10-12T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-alviere-global-fintech-startup-raises-70-million-driven-/2021/10/12/9467586.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
   - title: "Alviere, a Global Fintech Startup, Raises $70 Million Driven by Company’s Rapid Traction in Embedded Finance"
     excerpt: "Alviere, the leading embedded finance platform enabling any brand to deliver financial products and services to its customers and employees, today ann"
     publishedDateTime: 2021-10-12T17:12:00Z

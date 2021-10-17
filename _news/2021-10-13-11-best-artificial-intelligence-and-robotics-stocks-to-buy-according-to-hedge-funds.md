@@ -57,20 +57,6 @@ related:
         width: 1240
         height: 1280
         isCached: true
-  - title: "Cast AI Closes $10M Series A Funding"
-    excerpt: "CAST AI™, a Miami, Fla.-based SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, completed a $10m Series A funding"
-    publishedDateTime: 2021-10-12T14:51:00Z
-    webUrl: "https://www.finsmes.com/2021/10/cast-ai-closes-10m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 41
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/10/cast-ai.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Ultrasound AI firm completes financing round"
     excerpt: "Ultrasound artificial intelligence (AI) technology startup DeepSight Technology has received $25 million in a series A funding round."
     publishedDateTime: 2021-10-12T15:36:00Z

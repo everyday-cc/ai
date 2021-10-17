@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Germany unveils world's first self-driving train. See photos"
-    excerpt: "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December"
-    publishedDateTime: 2021-10-12T13:30:00Z
-    webUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html"
-    ampWebUrl: "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Germany launches world’s first self-driving train – Know details"
     excerpt: "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,"
     publishedDateTime: 2021-10-13T04:44:00Z

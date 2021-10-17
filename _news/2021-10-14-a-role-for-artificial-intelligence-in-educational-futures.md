@@ -42,6 +42,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "The Future of Artificial Intelligence"
+    excerpt: "Federal agencies aim to advance their use of artificial intelligence and accompanying emerging technologies, like machine learning, in the coming years. While there are some examples of nascent uses of AI across government already,"
+    publishedDateTime: 2021-10-15T14:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/future-artificial-intelligence/186123/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/14/NGAI20211014/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "y6bbNqSkbNjC9+wjOJH8OP2g4Et53vM+OGCPSt2MhyXKJknplwcuz3B4DPVMQ7r9gZhOFweJHcTXqAUOVjskat4mQXcUrmu6jKzIzb6e5myYnPdo/bcuT1gyzxlY24s+Rtj1k8p2Ih2RUxGvxo6ZBeANjT0YqDt6CTfFcauRFye89W0u1l7IW67cwgjDQaQ5DfY71+S1Y7xi7+u1CsGzM0jPi3krb92rxTbY4XGctGkumuX874bDC9dd0tlA/fV5MMiKWssn9t6mggs3K5gCxc6pyYhqI2hlyazMwHQDCi4n7Yln3aI82pkP+Uc3j4ucNcj5d6hf+iibYIqw2phPHa9Yu5RIfjEsk26v4yX70hWp/Lem12PQkImnd0EY7oaPzFVlR7R87rlgifJNFfVdIoo0Q5OdqFUfJQasIVx4QlyCa3Ie+vtJ0pe9yWtaBgvKUdN+A286pFEFMMaJqA4+xtpXJlMI6asiUHKMnnUf6Hqow9uXfVJIV/l6PyhC9cjvYOMt+2Jy+l/mB01aUhxxaQ==;MlVeLJr6GpYpbIZLHQrCTg=="
 ---

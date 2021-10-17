@@ -46,22 +46,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "IBM brings weather data and AI to help with sustainability goals"
-    excerpt: "The topics related to CSR and ESG aren’t at all new, but they have certainly received a great deal more attention and focus as the result"
-    publishedDateTime: 2021-10-12T14:36:00Z
-    webUrl: "https://www.techspot.com/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91706-ibm-brings-weather-data-ai-help-sustainability-goals.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-10.jpg"
-        width: 2160
-        height: 1266
-        isCached: true
   - title: "IBM turns to AI to predict and mitigate climate risk"
     excerpt: "IBM has launched a new AI-based tool to help companies assess and mitigate climate risks and their carbon footprint. Dubbed the Environmental Intelligence Suite (EIS), the SaaS tool brings together artificial intelligence,"
     publishedDateTime: 2021-10-13T08:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-dig
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mashreq NEO to become first digital bank in UAE to use facial recognition"
-    excerpt: "Mashreq NEO, the full-service digital bank from Mashreq Bank, has announced that it will enable residents to conveniently open a bank account using"
-    publishedDateTime: 2021-10-12T13:08:00Z
-    webUrl: "https://www.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition"
-    ampWebUrl: "https://amp.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/finance/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 75
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20211012/ARTICLE/211019701/AR/0/AR-211019701.jpg&NCS_modified=20211012145946&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Mashreq NEO to become first digital bank in UAE to use facial recognition"
     excerpt: "Mashreq NEO, the full-service digital bank from Mashreq Bank, has announced that it will enable residents to conveniently open a bank account using"
     publishedDateTime: 2021-10-14T18:52:00Z

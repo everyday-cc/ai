@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "The march of AI - is it really a revolution"
-    excerpt: "The future is science fiction with machines replacing people . Whilst this has potential do you agree that some hurdles still stand in the way of the march of the robots ? Recent news stories of disruption and supply chain failure seem to be caused by a shortage of skills ."
-    publishedDateTime: 2021-10-12T13:36:00Z
-    webUrl: "https://www.linkedin.com/pulse/march-ai-really-revolution-steve-wills-mba-fcips"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEK50gTx75V4A/article-cover_image-shrink_720_1280/0/1634045619163?e=1639612800&v=beta&t=WLFhYOFXMwh6vrwbvZaxbHKN00plIVDLLeajttuiu-I"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Predicting and preventing production losses with AI"
     excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"

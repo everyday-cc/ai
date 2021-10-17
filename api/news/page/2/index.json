@@ -556,15 +556,15 @@
       "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
       "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
       "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "webUrl": "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
       "featuredContent": null,
       "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
+          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
           "width": 980,
           "height": 735,
           "title": null,
@@ -579,8 +579,8 @@
       "publishedDateTime": "2021-10-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
+        "name": "WCAX3",
+        "domain": "wcax.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -604,7 +604,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1189,21 +1189,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-14-oaic-finds-against-7-eleven-over-facial-recognition-usage.md",
-      "title": "OAIC finds against 7-Eleven over facial recognition usage",
-      "excerpt": "OAIC: The convenience store group interfered with customers' privacy by collecting sensitive biometric information that was without necessity or reasonable consent. Between June 2020 and August 2021,",
+      "path": "_news/2021-10-14-the-essential-human-element-of-ai-in-education.md",
+      "title": "The essential human element of AI in education",
+      "excerpt": "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education.",
       "sourceUrl": null,
-      "webUrl": "https://itwire.com/security/oaic-finds-against-7-eleven-over-facial-recognition-usage.html",
-      "originalUrl": "https://itwire.com/security/oaic-finds-against-7-eleven-over-facial-recognition-usage.html",
+      "webUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
+      "originalUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://itwire.com/media/k2/items/cache/b337d4fdb28413bf86fa06c97563de6e_M.jpg",
-          "width": 375,
-          "height": 320,
+          "url": "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg",
+          "width": 500,
+          "height": 281,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1213,11 +1213,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T01:15:00-07:00",
+      "publishedDateTime": "2021-10-14T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "ecampusnews.com",
+        "domain": "ecampusnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1227,8 +1227,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Education"
       ]
     }
   ],

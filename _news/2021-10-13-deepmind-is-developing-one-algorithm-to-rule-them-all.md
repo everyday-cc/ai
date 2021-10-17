@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algori
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
-    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
-    publishedDateTime: 2021-10-12T13:20:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "E5b8kUgs3NqoILTLPB/lbaSLopSj1pHQkw27dhKPDFCvA/k6c2/uWRGmCSzgYH+BLozuv9tW2vnwQgemd/8kxQC1YNU1hYx+WJF9t4Sk7znIfWz0zkbypXc5xsj1lnytujrRXg1pOzDp54C8i2inKlw0HJFUU2+xEYmQOdxgdF/EdnwjafhTw1oTHGPVOkw5mgB2ZAMuWMxMZUQt854a1GeGisK3Gl2eHAjpZ4ovk/wrJlzof/9XB8QLuc4PAAe+o4R129NrJe4kxtVEesy+N+EBMZhhPi6GzAgveqS9Ggt/02KdkF+HM8Q9LALkhoWtfu/8vPqfYNWf0pdMlwV8bu69QENY2s1T+FNXT+mWKY9mVXK8/Jlm+QimG2PBghx+MX/WXHTOC4b8fqgPSF0t+h+Ged9rqAS4GlrIDu6KOHaLDr7xzYkXCsbqNpOyKZKD6m3s5M0BzCpXuX57FbFIFn0k2ngpTbFHF3TtSTB+zoHU4h5WvobiZrSTk7GQxWy6rsFIE5cE+LTkuoNEK8/QMw==;Q71Extq8kkTA4SnZLhmrDg=="

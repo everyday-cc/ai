@@ -7,7 +7,7 @@ originalUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
 webUrl: "https://cloud-computing.tmcnet.com/news/2021/10/12/9467661.htm"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
-
-related:
-  - title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-    excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft"
-    publishedDateTime: 2021-10-12T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
 
 secured: "m76uAFGgPjmSJnLIvv5HVbEpqC+9TbThYvSnCBXrgqKn7aXXBhGBdOMTyeRd95UUoEWvZBKdOOLBx73zHmAInPVYDIb5nborFDi10vSVDKWU4qLfI5g3NmJLMAvKEUrXPpEO+8Ynxet2ZAZ9myOtXlQMxgIgzld/Rznlu4/pXiA5XkOfVXGY7/2iCqEFEHSPM5Xp54ZtDA6U0iRc7q+/bjBXIq+bWsmGniSrtPpMwaNy/PZwbHvxd0wbjQEX757sa9zr2fFFc687aAS+gLRjiGaf7tXrAb1JuIaZ3S2LOPCs7ntKVJwMNM0a1Y6Bh5bZhzYdVTSZWDD51RINBGCw/nLfwquvMaEv8aTnlfmIFQU=;bwOp9yCl4KO2YRnraDmAFQ=="
 ---
