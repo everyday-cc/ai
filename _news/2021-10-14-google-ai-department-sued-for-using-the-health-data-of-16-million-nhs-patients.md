@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-he
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
 type: article
 quality: 155
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Artificial Intelligence for Mental Health Assessment"
+    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
+    publishedDateTime: 2021-10-17T15:36:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 37
 
 secured: "XLGqyfjbs4bxNGIi7axC7XKRGgKfCF5KnmVhbXKswGAIe31OsfumHlp3EXFjzDG7xpFUwNDnpsIJ+ThQGxgjdKie5/N57rpnYl9L9bUaDnZryrQCiuiH/2R6ZIPmOxIjq5IZCQHbMJeQXjVXqcP9N4dBJFccZT4C00pmaLBfMAZSlncmU8IhkZ3bbDHbvjuI0CM7m8ePjVboaxTl6eoWGHYWTdnHRl/xcjSmumamNp/LWvuYHMWMsrb87F9y76Lk3uXzXEMqrPClycFoZM2E0bnuSUmS1VNzy82XvUCyAtHmvRqtCLNP3TBCA3SRsYtWxiCchgpiCPMp2aWGacm6UKi0qfJLX6AKTdfi7ybi5zXaaWmq0yksCWVGcCho4dmJkvuwp4q6V0W4cH3Gt/UeRYRaXve8zYb4SuOqM2oJB8KPn4CMQ8sPC288w9AzIGlZkzFTcXbsPYEiGB7afcSEjR/8CynoTTZG8kJAOkwmZzZab66EoVLnoKsISjekWQYBCG3bMnG4sRElxnxREDaL7LjSUZHipvdvfMK7rYrpNwE=;qujp5gfN+ORzKlfC4b/2yw=="
 ---

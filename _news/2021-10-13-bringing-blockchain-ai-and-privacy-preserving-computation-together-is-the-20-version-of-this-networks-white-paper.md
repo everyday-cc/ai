@@ -43,6 +43,17 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Gitex 2021: AI tech in cycling tracks to detect if riders are wearing helmets"
+    excerpt: "New artificial intelligence technology in Dubai’s cycling tracks can detect if riders are wearing helmets, Dubai’s Roads and Transport Authority ( RTA) said on Sunday. The smart technology is being displayed at the ongoing Gitex technology week,"
+    publishedDateTime: 2021-10-17T14:18:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Gitex_2021_AI_tech_in_cycling_tracks_to_detect_if_riders_are_wearing_helmets-SNG_252780138/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_252780138/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_252780138/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 34
 
 secured: "nCQFADPLLpUtvVr/WvuMb0oDY3rDhMc9LBX/rmU9iA/r1egzzjSdYQ2yWIM5HJbmJnh/bXQAZZ699033CuqGuIuJMHIBAgroCG7X7bQNfNe1XpFvyoMKk9qC6CeTWzoND4KPfWu7ZBgYgQNbbnYRI4w1IDq7Mp45iHTGM7yq0eJRgFA64ET/HrSRdmg8dewAlMfKuCbOHdC3yD5gZ3t/HCxrtC3Jxe9uRVWpSFvKUo9kLIIWbl3uIYTI+hQaQPEKpXfvt/TTPsO3rUuPJt1JA9MYTU/9qgBUwpwoX0soDH7bBam4S/hQfod80+W1TWdsUkDmSU+J4MZyXrVbNnUwYMz0h9ds5UYKGoZtTBtsc7GC0WHGK64OD6fC8fpbJ0xfaQsQHWEXhsTk9DaysnAAeTffH05+dr/MFFQo20Ou4MtoEC/OrZGWqMvSoLfi+KDcwCTA0M33rVTr6ejUm06vP+FMaUYykj4yz37IMrdh8UxCcorLbDzKqh/7ISQjZ23f1CE3wpXDn97BCxGZbNzXFA==;pl7G/EzoXT0Z1Trdr4ahqg=="
 ---

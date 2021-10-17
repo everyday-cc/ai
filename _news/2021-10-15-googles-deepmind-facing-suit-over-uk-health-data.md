@@ -43,6 +43,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Artificial Intelligence for Mental Health Assessment"
+    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
+    publishedDateTime: 2021-10-17T15:36:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 37
 
 secured: "Z9krjrSFNCUCosxUIPD6T0Ub/PEl9M2feIk82D4Rfdyxn1xdgb57QGH7Aw/GF4Xckcgmw3YLxIQ9YLHcpgnp0dRwyJT/smQXXVURuVAFfhPe5A+WH0obNSwV14TgSkKyd+MA2n3//rp9mhWXrwubNLamvxKmPM976wcIL2BU6oK/uZ98+1pMDfw5V7FyWk7BISGLg0K/jJYVatwPnSmZNRuJOvtXFQn4IDD4EkFeJ8eNOkjf2tDfWYAm66rT/ai3dxiMTDj8h7FBhlq3pO9cq3OzxCAvJl1j713j+VDXOSFiv/988qlPgbxOg7dGpCItzW8fRHoUS+oCMrRLx2acaxa1Y8EGae+fgvZNIT+LEqNDprCfvhxkHpaxfl9J82MOz+4CmE3xR55Y6zBcrI9u/B6x+AuD+hXy43oKNxjidhHJ/2+Hk7kibkR0l4UplH4cQDaUpZEZtHIegbMh2iuXSk0k2uHGECDvQNwbkronXWMhM7PPrVtd15SXXjIEgnfdnYNVzXFBLFckftJGdnNYRA==;1sbhdM4AVEnZRqIUfaudsg=="
 ---

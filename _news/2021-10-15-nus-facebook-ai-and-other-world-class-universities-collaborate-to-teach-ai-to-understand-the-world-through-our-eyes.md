@@ -60,16 +60,16 @@ related:
         height: 652
         isCached: true
   - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
-    excerpt: "Facebook’s AI can’t consistently identify first-person shooting videos, racist rants and even, in one notable episode that puzzled internal researchers for weeks, the difference between cockfighting and car crashes. On hate speech, the documents show ..."
-    publishedDateTime: 2021-10-17T13:26:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
+    excerpt: "AI has only minimal success in removing hate speech, violent images and other chronic problems from the platform, according to internal company reports. It can’t consistently identify first-person shooting videos,"
+    publishedDateTime: 2021-10-17T12:17:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://images.wsj.net/im-418418/social"
         width: 1280

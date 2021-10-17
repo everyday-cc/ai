@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is changing the narrative in forex and crypto trading"
-    excerpt: "Artificial intelligence is to trading what fire was to the cavemen.” That’s how one industry player described the impact of"
-    publishedDateTime: 2021-10-13T08:44:00Z
-    webUrl: "https://nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/"
-    ampWebUrl: "https://nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp=1"
-    cdnAmpWebUrl: "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/13/how-artificial-intelligence-is-changing-the-narrative-in-forex-and-crypto-trading-2/?amp=1"
+  - title: "How AI is helping to make breast cancer history"
+    excerpt: "With AI helping to diagnose patients earlier and enabling the rapid development of treatments, it is possible that in a few decades, we may no longer have the need for Breast Cancer Awareness Month."
+    publishedDateTime: 2021-10-17T14:05:00Z
+    webUrl: "https://techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/"
+    ampWebUrl: "https://techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/amp/"
     type: article
     provider:
-      name: Nairametrics
-      domain: nairametrics.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/08/08105236/AI.jpeg"
-        width: 1000
-        height: 555
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-687908580.jpg?w=1024"
+        width: 1024
+        height: 735
         isCached: true
 
 secured: "NLmm8Z3MJlZ8W3GpW/GYh1R7ifaWEsl2uMxqtlBZM8SfHEEeNAFk3GRz5Zgz74v+gYWZh/S5U5Mmr9trlQ0uQdJUsLFKy6X64C4602tXbC5LkuzHAdS9BgsDpx+aid6e06PvG07X9du6uSn0A+1/LGgLSjEhpHuRI+L9ra3JfPJWgtrJzxWTBwQtenMk0RrjpHlbuK8f7RnYVsmoKx3dgGoQsaQD8OSB3iBL7Gdt2Q20juT+et99N8jdUZrCAVVFd+k61ySJ647o2QyZblvBXftGU9miGpO7reyJ9oHiRTns7q0nFUStTaLSUiv9awi1VLSHdZoK4A+qW8lVjfxsPyUeB/o5YJ6xUS3Ke2VORQqkIQB1A/20He4T96qdqpgI/1k9ytyT0Xp9e2NDsh/X5srI9BQmaeIkZyV5jpVL3K7lerQN20bTJc2SW9KR5uiG95Xkt4V1kcDzAfRJrhVCFvnSzVdKO0EaevM3KRlwb9LX2pXUFCPQqgnL9huzWn2jXg+rRtMRfoA8RbMUkUfkCA==;xuypJ9ABP7oOR7NG3U1UEw=="

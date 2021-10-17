@@ -43,17 +43,6 @@ related:
         width: 1600
         height: 1023
         isCached: true
-  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
-    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
-    publishedDateTime: 2021-10-12T21:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "ioQYnsjMYZX0hahBTEmdTm9c6SQZsz49Xj7rE/HHS/lMuZ0S9ZKn2Jhd0HTYh2CIkuyM61BvaIpupIjAeOulFeoBYYWGmuZ7d9qZ21IaEd80S16MXx+Uo6ZreJ+5RVrS6u5hlEKsQiQj5jD30zG+nkuu37FPJX3oj/B7unkkg3QI5jrHs+WYFCNu8VRQMwOn4dgNdceRxcuCDGm7Q9EE9IhGXNS2gJWyC2Xj1yJmn+QXzMdMgAtRcewfuTksADz1HAsfLvqNsqJSVA4hDycc5yTdaL8MXfSQqT+JOMZQudZFBpk+s+76klpbIPQYZkrc8EcZRWEbUPZ+VI0t50tyw3yRA9SBlu9+qHtnsATBod6LQcXa7eDq0TVmiRlGBWrkSVQHO1GwmupaR7Nx89iRz5jYqQ4PdCfBRukwssoXoDrDYS4UX0xNg0eaFP/fglOn0CNurcTbVC4Rz9RhbD6QAtVCaUfcVDHKlRUfUWaXiLvi6IEkn8PANCeAo2raM3sxYJa5J6RNykEV4mmue0dN+Q==;smjOJ5N8IjqepbxeujWmEA=="
 ---

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Train and deploy deep learning models using JAX with Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware."
-    publishedDateTime: 2021-10-12T21:43:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "AWS’s Bratin Saha on How SageMaker is Advancing Machine Learning"
     excerpt: "I spoke with Bratin Saha, VP and General Manager, Machine Learning Services, AWS, about how the cloud has enabled machine learning, and SageMaker’s ability to ease ML deployment."
     publishedDateTime: 2021-10-14T23:07:00Z

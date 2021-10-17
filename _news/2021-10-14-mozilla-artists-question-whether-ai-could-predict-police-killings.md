@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mozilla-artists-question-wh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:

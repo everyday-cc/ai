@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Your Deep Dive Into Those Waymo Self-Driving Cars In San Francisco That Went Headstrong Up A Dead-End Street Like Floundering Fish Going Upstream"
+    excerpt: "Taking a deep dive into the Waymo self-driving cars that went up a dead-end in San Francisco and became a big news item of the week."
+    publishedDateTime: 2021-10-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/17/your-deep-dive-into-those-waymo-self-driving-cars-in-san-francisco-that-went-headstrong-up-a-dead-end-street-like-floundering-fish-going-upstream/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/17/your-deep-dive-into-those-waymo-self-driving-cars-in-san-francisco-that-went-headstrong-up-a-dead-end-street-like-floundering-fish-going-upstream/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/17/your-deep-dive-into-those-waymo-self-driving-cars-in-san-francisco-that-went-headstrong-up-a-dead-end-street-like-floundering-fish-going-upstream/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616bbb9863b1257e1ea1f91f%2F0x0.jpg%3FcropX1%3D248%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1549"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
     excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"

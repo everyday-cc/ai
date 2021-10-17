@@ -7,7 +7,7 @@ originalUrl: "https://gulfnews.com/uae/watch-dubais-self-driving-delivery-vehicl
 webUrl: "https://gulfnews.com/uae/watch-dubais-self-driving-delivery-vehicle-to-be-first-deployed-in-downtown-to-deliver-goods-1.83008263"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 405
     isCached: true
 
-secured: "flsL24XBWMW4+tbIV++uCjbSnzAMKlY5y2EzWj9Fy/XlGN0eAQePNptVPZbbV6FSiyg27X8UdWPJYAycmRsINjWUoUl6sMn9J+rlwp36RPKAj5P85zGmUvGoXcie5twtCn4oIaEDuBxrdc3atbmgvGcaL+YjoXyvr13Bb8xXagUkechC+4XFaMCtRreMPJyBt3ZjlAaQu+2eUEAw4yX4v6vRa//GoJFx3m3SUIiafZTFcJ6jOxgzLtq4TvKOr7fMypi12NMi7GrEAFGF/89D4lD2JVnc9ZRndho/GtKrl8dGAPzuzu7fhAFEJpWYdzV1l7o5T30eETiPTMLwrdQorqQRGkaoJGvcoJdnfp+ZofY=;FWTU0dtst/2jA9o8M0JpLQ=="
+related:
+  - title: "Dubai: Autonomous self-driving delivery vehicles to hit the roads soon"
+    excerpt: "Autonomous self-driving delivery vehicles will soon hit the roads of Dubai. While speaking on the sidelines of Gitex Global, Khalid Al Awadhi, director of transportation systems for self-driving transport and integrated services for bus stations,"
+    publishedDateTime: 2021-10-17T15:38:00Z
+    webUrl: "https://www.khaleejtimes.com/news/dubai-autonomous-self-driving-delivery-vehicles-to-hit-the-roads-soon"
+    ampWebUrl: "https://amp.khaleejtimes.com/news/dubai-autonomous-self-driving-delivery-vehicles-to-hit-the-roads-soon"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/dubai-autonomous-self-driving-delivery-vehicles-to-hit-the-roads-soon"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://amp.khaleejtimes.com/storyimage/KT/20211017/ARTICLE/211019194/AR/0/AR-211019194.jpg&NCS_modified=20211017175305&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "zdX8Aq2F5iWJYEEC915k3GC23zKQ0LSOz5sbgR2uOPvTwe8dH+rbARHfNOLsD/XtIqVn2OYzS45HPaZI8JjrbanS5UkqllsndyWgngVZ2qhLRwmcsXpXbYE4zBeUfDie+tkRpZq8ewmQJ2DxnermYCw7aOEyZhJcItT78un1RUO9J9apFHBz0KG3Gtu8GtGegqOm0IZetoLGs4DGQxBDc5RDaSVHX9KZShkkJvgRMhrh6T4BsxfmLHn0fdfMUq5VtmcCzYQ3lQyX+IbqUtGpDKEaMEXFmnynoaJZtiPrZmBVObiLhLvOnydNcb6Z7USweTCusSnBIlDd/bWUiovS0aJs+xfpFUGevf+3jQVcvrH2+sudV/IBF/VA04oQB8c/HGJlhX/NFo74yuoTUdvXpOx4VWa6N7ABykpGyyqEfry72CWZE4CBdhRvA6XwKzEvkgoe1tW+dFMcyzk3fgNyyGclzQUXagcruUmxWpx0AULxTTIobznpmjkDSLyq7Jl2mp6iKOtNYcHEqUYIv9envQ==;rPteEdC2mSL5kIC6LlACFA=="
 ---
 

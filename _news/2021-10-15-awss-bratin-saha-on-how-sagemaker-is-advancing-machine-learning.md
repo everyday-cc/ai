@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-h
 webUrl: "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: eWeek
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Train and deploy deep learning models using JAX with Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware."
-    publishedDateTime: 2021-10-12T21:43:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "How Imperva expedites ML development and collaboration via Amazon SageMaker notebooks"
     excerpt: "This is a guest post by Imperva, a solutions provider for cybersecurity.&nbsp; Imperva is a cybersecurity leader, headquartered in California, USA, whose mission is to protect data and all paths to it. In the last few years, we’ve been working on integrating machine learning (ML) into our products. This"
     publishedDateTime: 2021-10-14T21:59:23Z

@@ -59,16 +59,16 @@ related:
         height: 652
         isCached: true
   - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
-    excerpt: "Facebook’s AI can’t consistently identify first-person shooting videos, racist rants and even, in one notable episode that puzzled internal researchers for weeks, the difference between cockfighting and car crashes. On hate speech, the documents show ..."
-    publishedDateTime: 2021-10-17T13:26:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
+    excerpt: "AI has only minimal success in removing hate speech, violent images and other chronic problems from the platform, according to internal company reports. It can’t consistently identify first-person shooting videos,"
+    publishedDateTime: 2021-10-17T12:17:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://images.wsj.net/im-418418/social"
         width: 1280
@@ -162,6 +162,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yjIkk1lm6ydhD75tlKoXv7y0JWiHq1JGQgQHMgUIFb0DVDrOiOfpVPwHnSy6Co/s7EgGW4+55nsOpStwGL+Pmu3g/XMcJmRnwd31WMwqdDvBh3CAz/GIPnRqIYXgS7sv43b+ZGDs3rRJq1PgBw5LupQb12SCZXX7UyAvUga7w0/HrAnKBr2dzGEYWOGuvYBIjCYgcOVmO2wnDtnhcKdApbwxa+ER1HfMJa5PMrlaLQoNcGuixiw/I1Ve2Pc1LrsSVaVK2aSgmq6WUEd/ROY7jFCmotK+akJUgl4IXW2vpGnSfNjaOYfmiE+y8KPwLzzwVvielcedqrIk/A2YHOSijG+T65QPiUeiUklzk1yDHEk=;t7L+Jv8RFJiY+wy5sr+nPQ=="
+secured: "buDrtUzxq1qFtqZRU8cOba0YzmnnptokUNIiKofM4Eqogc69mBvbqZWwJtiY36lRUxWemz4NPNHAxodoXoEuBO52GHTZrslPKLUnI7QDKD/O41ZYZNWK4X3vU6TvqHexpE3TGEUVZtep1AwamJZhDhDtYVRn66OpoIcLOoHVRsDhq9iYppdkraTedlOXXGFsmulDM6uyIm8zdXyeFnDnF1nzYlEHegpzZtBlYOXyTeDmNFnptnUqFX61rdmxoqN7QZPcZRwX17Y5fyIHU3y16dPwHMaLW+uTDEYsjayLQa+0WXPyCZToGRNQ9xlnnkoS8i0DESt/QMiF3NQCIQuYXBy3+2hdGVwsKOrkgX8H2uxtl/46RwvEK7MQ6vNNp3UlDEDw3XL+nZxO3V+aRPTADO6s2iLeforC+HLHiN4uX65nqmhygATM2dhMFNTLHB/tC5WYFMItqiLgFtRDnhOA8qOTueuKbZfGaLKqT9ea8n6N3ACa7/8z/kNdY1+RYSjamISAZ9DNGBcBG7L4+PRZxQ==;VVBkj3NnNIheawwovg/2Eg=="
 ---
 

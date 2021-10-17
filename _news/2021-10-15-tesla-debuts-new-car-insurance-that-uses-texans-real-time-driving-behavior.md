@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-dri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Rolls Out New Full Self-Driving Beta, Sends Invites To Owners"
-    excerpt: "Luxury electric vehicle maker Tesla Inc. (TSLA) is ready to test the newest beta version of its advanced but controversial autonomous driving software, Full Self-Driving (FSD). The company has sent out invites to try the FSD Bet 10."
-    publishedDateTime: 2021-10-12T21:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-rolls-out-new-full-self-driving-beta-sends-invites-to-owners-2021-10-12?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Tesla Faces Regulatory Tension Over Self-Driving Builds. The Market Doesn’t Care."
     excerpt: "U.S. automotive-safety regulators want some answers from Tesla over its recall practices. It’s another example of the tension building between Tesla and the traditional auto industry as cars become smarter and start to drive themselves."
     publishedDateTime: 2021-10-13T14:24:00Z
