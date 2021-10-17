@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-07-global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027.md",
+      "title": "Global AI based Edge Computing Chip Market 2021 Industry Growth, Top Players, Segmentation and Forecast to 2027",
+      "excerpt": "MarketsandResearch.biz has recently published a report titled Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-industry-growth-top-players-segmentation-and-forecast-to-2027-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker.md",
+      "title": "Bring structure to diverse documents with Amazon Textract and transformer-based models on Amazon SageMaker",
+      "excerpt": "From application forms, to identity documents, recent utility bills, and bank statements, many business processes today still rely on exchanging and analyzing human-readable documents—particularly in industries like financial services and law. In this post, we show how you can use Amazon SageMaker, an",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structure-to-diverse-documents-with-amazon-textract-and-transformer-based-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T15:52:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-gm-ultra-cruise-pushes-closer-to-door-to-door-self-driving-cars.md",
       "title": "GM Ultra Cruise pushes closer to door-to-door self-driving cars",
       "excerpt": "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios.",
@@ -1077,110 +1182,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
-      "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
-      "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "publishedDateTime": "2021-10-06T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
-      "title": "Box taps deep learning to detect sophisticated malware",
-      "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Malware-Deep-Scan.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "publishedDateTime": "2021-10-06T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

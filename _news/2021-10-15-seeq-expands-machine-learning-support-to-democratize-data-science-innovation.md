@@ -1,29 +1,46 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
-publishedDateTime: 2021-10-14T21:55:00Z
-originalUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
-webUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
+publishedDateTime: 2021-10-14T17:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634280660&width=1200"
-    width: 600
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
+    width: 2513
+    height: 1414
     isCached: true
 
-secured: "GfBlzvmXbXPhZIwYiWOzJX8iqzCmozFq2b7iyOXoFg667JA/8ezq37e2wuST5xAvSz/u9Yq8j/NBxhp5sUUJGxcFHW1fBPRe7NVuswAZG2ui6VzJ68b3hn4vCgGS/5y99VPhT4zmsYWNid7KCH8YxjdxQ98DrkVAfaH0pH/4+vHrDHKovj+KB7f5t+KmMPGwkCxaTeq33BY4C3bxuFQ1L+GldZpNvzHqfijyosNmzb/J328VRmaNdFZm581H6/jRcfLdHxom2ZgVIxl7Nadr3spmZ0GLMTTXk0sfbmLlBHeWJA+/SRPH5cf13plJ1lA46MOC2NT9Ey6jz4rp8Kegb9yjCGnHRNaX+GFrW+SiEws=;rzCgJ1MqIMoJKzVdiFGbxw=="
+related:
+  - title: "Mambu and Rich Data Corporation partner to support AI innovation for lenders"
+    excerpt: "Mambu, the market-leading cloud-native SaaS banking platform, combined with Rich Data Corporation's (RDC) cutting edge AI-powered decisioning"
+    publishedDateTime: 2021-10-12T13:50:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/mambu-and-rich-data-corporation-partner-to-support-ai-innovation-for-lenders/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 34
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/mambu-2.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
+secured: "J+4cGLR4g5hNybIzaAzgwYTtvd/vh02LYhuxsNrJ+Va/FzdpTUb02BPVABKuAmaaym9cyA34Yl9zpNV0KY4FWoHzbu6K+cMYwzqD3sXbXc6pdS30yGknKoRiyftpj6Xd4Q21/tkqeFviUR8a1gFQiwWu8j7rrX1SzdB0QVTQeHy3BISgIiK0ereE/jfl2sDFXlwlOv0ihrrXJncAYdvTRvypaqZ8qOQ+8lczraaETkpB7ADHTDyUj3jnzjNqT53i9+to5QAtBzi7HwUxJbmjF/GQKzA9xiG4mT/S16EYEeFveHyVyZ3UoJZP7grseythJdOx0IfguwL+TpL4k3oSNeCiCZJ979Ko2pE5bhNDNfM=;Xvp4yZsWFtAuyAlg7h/KDA=="
 ---
 

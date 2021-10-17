@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Spot.ai - The Future of Video Intelligence"
+    excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
+    publishedDateTime: 2021-10-15T16:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/spotai-future-video-intelligence-tomasz-tunguz"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFgcp6z0Dz4jA/article-cover_image-shrink_720_1280/0/1634315378399?e=1640217600&v=beta&t=yL1pXi9v1rhR52oSgSPyg1yXMTIyYbnSNxYsZGCtTq0"
+        width: 1191
+        height: 720
+        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Federal agencies aim to advance their use of artificial intelligence and accompanying emerging technologies, like machine learning, in the coming years. While there are some examples of nascent uses of AI across government already,"
     publishedDateTime: 2021-10-15T14:00:00Z

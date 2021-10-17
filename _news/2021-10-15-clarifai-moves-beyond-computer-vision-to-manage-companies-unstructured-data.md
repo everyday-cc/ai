@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vis
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/"
 type: article
 quality: 101
-heat: 112
+heat: 111
 published: true
 
 provider:

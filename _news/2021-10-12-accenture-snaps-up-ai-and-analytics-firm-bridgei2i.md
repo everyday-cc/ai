@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analy
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/accenture-snaps-up-ai-and-analytics-firm-bridgei2i/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Accenture acquires Bengaluru-based AI firm BRIDGEi2i"
-    excerpt: "Global professional services company Accenture on Tuesday announced to acquire BRIDGEi2i, a Bengaluru-headquartered artificial intelligence (AI) and"
-    publishedDateTime: 2021-10-12T05:57:00Z
-    webUrl: "https://www.canindia.com/accenture-acquires-bengaluru-based-ai-firm-bridgei2i/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 37
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2021/08/CIPLACEHOLDER.png"
-        width: 586
-        height: 390
-        isCached: true
 
 secured: "bFwcph0y5GlD37sPW73j0kq2p7SZrAJJE/5KVipKUAcnPChdat8jVHonNpZ/xH6Ffuey2sZiY6uAfnjGFeQWRUcL2Ggogfq/eT93e4Hh/oLvnL9l99Ufhb2fk9kZ9qUqTPNdj6dyHT2TVdS50idS7V37UdpHgEvQ21lqkuYEeRSxPq5GPiBHd2C5WjlAIA2Y5nk9ixWrfy48gWiyfdverwfzygKC47GeYDEn2rL5K3MRy/fr5q1t+SCOtN4K986cuFXocmsYvu3y5iybdmtUPlnX3Mt4JiSa5aybVzV2VKYIyy065P3uzgIiC9lXJKmjqu1agbvdTG1foz2Ha9I0Yl9IrTupPsZ0sTQvy1ORvUU=;ihJyVKa+yKfrdpaLqu1dCw=="
 ---

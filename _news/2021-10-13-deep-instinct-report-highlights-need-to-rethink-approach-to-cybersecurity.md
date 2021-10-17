@@ -87,34 +87,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-    excerpt: "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime."
-    publishedDateTime: 2021-10-12T05:20:00Z
-    webUrl: "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 34
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1602197377.jpg"
-        width: 500
-        height: 286
-        isCached: true
-  - title: "Elisity Rolls Out AI-Driven Cybersecurity Solution ‘Elisity Cognitive Trust’ to Provide Identity-Based Access"
-    excerpt: "California’s cybersecurity startup Elisity has rolled out the first combined zero-trust network and software-defined perimeter solution Elisity Cognitive Trust (ECT) to provide identity-based network access."
-    publishedDateTime: 2021-10-12T05:08:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/elisity-rolls-out-ai-driven-cybersecurity-solution-elisity-cognitive-trust-to-provide-identity-based-access/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 18
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/shutterstock_1142761847.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "Query.AI Launches Partner Program to Meet Market Demand for Enterprise Solution that Drives Efficiencies in Cybersecurity Investigations"
     excerpt: "Query.AI, the provider of the market's only security investigations control plane for modern enterprises, today announced the launch of its Query.AI Partner Alliance Program to help more enterprises access,"
     publishedDateTime: 2021-10-13T13:13:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents"
 excerpt: "In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week. Most would drive to the dead-end on 15th Avenue,"
-publishedDateTime: 2021-10-16T19:51:00Z
-originalUrl: "https://knpr.org/npr/2021-10/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents"
-webUrl: "https://knpr.org/npr/2021-10/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents"
+publishedDateTime: 2021-10-16T18:06:00Z
+originalUrl: "https://www.wgbh.org/news/science-and-technology/2021/10/16/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents"
+webUrl: "https://www.wgbh.org/news/science-and-technology/2021/10/16/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KNPR
-  domain: knpr.org
+  name: WGBH
+  domain: wgbh.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://knpr.org/sites/default/themes/siteskin/inc/images/ogimg.png"
-    width: 600
-    height: 600
+  - url: "https://wgbh.brightspotcdn.com/dims4/default/9d9d76e/2147483647/strip/true/crop/1024x633+0+0/resize/1024x633!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fc7%2Fa2%2F7639a61b4d92b58650a0d049a153%2Fgettyimages-631235572.jpg"
+    width: 1024
+    height: 633
     isCached: true
 
 related:
@@ -222,6 +222,6 @@ related:
         height: 675
         isCached: true
 
-secured: "oKLA3BEsd7oM4nGYNV+nSCM//7iVtrITsUknRfLnROK7Rcq7VFQ642Ts+NNRu39clGNLp9gaX0x3tLr+T+jv0YEsIEUbsVTUv9rCsB9/MwVuxyQfc3LRayKmJNvRgTNYsEG0icC080nptmuALrpI9O1q9XRyFAFgGmqstRmPcRRJJNXEStjEUnJXtgBmSMmGXocm6xPyTToVGY5gDvm3CD5pphnT2C/wSRdlqqjhNgnw3BVLECgnE4Mf58RPAC5y1BSMNspO8YCVLvwS6V8D3p+DOH5IGcOKPZWJtl4IG7wf3cyh8s3zSDkSD/wzDmQoujXVTlnUVBz8YHZIxndPy2/lny+iZCHlGqnhF10tgmw=;dcAx6E33ZOlgEBaMzomWPg=="
+secured: "Vv5miBoDo+h1sVpHMF8GCNdv8HMC0VejPlVS0Va7BwkajEZ+TlzdVPqSRibZfYUPfMFs/Uh3Vh+80TLtvtR7J49ZdO3hzMAauIXtq3ebXB8MVnmZzSlI9mLrERaZA8CCWvGtnQcoBneoPUMmB7y6RCcDObR9MIuiwUn+ge7TB2lAr/N90JhLvFRIu0I/j0UiHHSnginsyuont/b22iGPULAPCFDqMU5Y4h1smYx3wnZxUvffdTl94oE06w2lhnKtO9yeVfxp8NAvh9ei27B8V2xDsoSt8fCu4z6kOF4csLoxVH6mO+sYOscU0LJ+k5ubUZ1kKCbGlOAn+ntmbYUOL5RCmSRoAwalIgsa4nZXm58=;QB/oOGmZRj/qWS4ziep5ZQ=="
 ---
 

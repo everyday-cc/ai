@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Deepbrain AI to supply AI Human Technology to Two Major Media Companies, including BRTV"
-excerpt: "Deepbrain AI, a company specializing in artificial intelligence (AI) and a member of Born2Global Centre, has successfully entered the global broadcasting industry with its AI Human technology (  ). The company recently signed a contract to supply its AI Announcer Technology to the major Chinese broadcasting companies Beijing Radio & Television Station (BRTV) and Qinghai Television."
-publishedDateTime: 2021-10-15T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-to-supply-ai-human-technology-to-two-major-media-companies-including-brtv-1030869483"
+excerpt: "Deepbrain AI signs contract to provide AI Announcer Technology to China's BMN and Qinghai Television, marking the company's successful entry into the global broadcasting industry"
+publishedDateTime: 2021-10-15T12:30:00Z
+originalUrl: "https://www.wsaw.com/prnewswire/2021/10/15/deepbrain-ai-supply-ai-human-technology-two-major-media-companies-including-brtv/"
+webUrl: "https://www.wsaw.com/prnewswire/2021/10/15/deepbrain-ai-supply-ai-human-technology-two-major-media-companies-including-brtv/"
 type: article
-quality: 59
-heat: 59
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WSAW
+  domain: wsaw.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1654907/image_819222_19118958.jpg"
-    width: 400
-    height: 400
+  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/jyM2_YpCW_P5kEaE_xPgeEXNYjs=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MNVXQIH7F6BDSYPAMRNEYY5RDU.jpg"
+    width: 980
+    height: 980
     isCached: true
 
-secured: "5sswADZ1LfAdM6fSCZtHmTfbqICQFbYEZ9tNkz8HgY2Go4+lt2nnoGsOB86FlYQm1Wb8hrr4B7whzy+yiMjtlXsOthlxHbYOu35nJdxMIiXFiDeEnUQbCgLJQvmDb06TSZXfRUlA/c6CtEU/pv7Em8vbHkNPbzYLzV23J4yKqHo5+MfWAkBpEkEKs0ddE/cRLeDoZLOY29u3fKiJWtV27xHOR+chAGGcGwBMOVDhutRJpxrhyK0LKR1lJp0HEr5yMRBK4KA3vp2j6I9t7aDk8nyZaFJF5vokCgplzT8adxP90dEUaFI+VnK/rb5Y2IrKxinC6JsFMK0l3NXDZxX0x9Z524Ih5Kk+cFeQ1zmX4cXAoK6TVxic90vA0AJxK4NVQhtT7A7olKURWwPb+gyMmbE9PC02hHAHUDsrtbFwAGRlsyWAyBNAsiTPPbAOle7WZjq2jM9NsPeLBI9qrnWll8O5evxOltuMgzEUc9BG3gnp63f5Ye3OLDHyx0oOvOE+zsngjcc71FPcKx+/vQvbeQ==;ENY8GStAwziruzezaw/Jug=="
+secured: "L6f+qoJ2HiHc8LpEPpJG+xBLQok5m5kGKJQv+kg3WHJmxwjRKOKqp4Ezb3Nl1Ee6fpeeUKxHlBldlgO5PLjCDG2MBg/BR4gkv+GXj3aUcyKWRzw0mBlHhY+1OCRP8zLjPpPPc7aBDn8dYUFe8mQHkAHDSlGj5erfUG0Y2Heb6/PK+X7MgllMXI6TCAMszg/u+9dlPEXZIegHnEPoVmTsVSfCHU3RVYUpgBIoBlyvHBSinYK68PFxi2xpvCkPQDzDwoa7f7h0RRq020q4oFjagor5sJgYzZEyLsWJQ2pAAFg8zFaIyj+Jb9XeOwNQzomVQC84txr50uUbk/72og9mMXg4qt5ZSYO0a6POxDG31jQ=;5RxYOAPrw/Sw+oiD/XpM1Q=="
 ---
 

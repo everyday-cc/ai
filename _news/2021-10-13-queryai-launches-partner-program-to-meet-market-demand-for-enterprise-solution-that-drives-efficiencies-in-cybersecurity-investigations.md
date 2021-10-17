@@ -101,34 +101,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud"
-    excerpt: "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime."
-    publishedDateTime: 2021-10-12T05:20:00Z
-    webUrl: "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 34
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1602197377.jpg"
-        width: 500
-        height: 286
-        isCached: true
-  - title: "Elisity Rolls Out AI-Driven Cybersecurity Solution ‘Elisity Cognitive Trust’ to Provide Identity-Based Access"
-    excerpt: "California’s cybersecurity startup Elisity has rolled out the first combined zero-trust network and software-defined perimeter solution Elisity Cognitive Trust (ECT) to provide identity-based network access."
-    publishedDateTime: 2021-10-12T05:08:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/elisity-rolls-out-ai-driven-cybersecurity-solution-elisity-cognitive-trust-to-provide-identity-based-access/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 18
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/10/shutterstock_1142761847.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "hP0LzAI13HcDE+1FSpCzF+T0bWO9bnIu9HzEpx9vTlnIwSNe2S09P4+/7DLOFO2lqmYgCCbb1KFSO1ARyWGl/VoJYx9eJcEcXTH7I0qhluaZRygoER+R+aSHx/InlMj/xHAGhbMcSo9fbTsuteukRWwHRufhMB3ENDHW5Whr+fSBj9nSwbL6vwMLelPKxnj73/8XRh4UW0yN0HWeHt66dn2qLnzEagve/pfxTpy/EyhTThWXuY1UhF3PAyExfkDJaHGmJd1dPrTbc0m8Eyp3Wi/MwisM44UPH4JwZoT2FMndl+w2dhCBs1LCYddwyy9hgLpGqIDAMdYk1xuLHe/CSCMHmE873jTnIyZMhH8c0l0=;7UeLCrd7Xzw+Qf9Fd4rQ8w=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 1678
         isCached: true
+  - title: "Spot.ai - The Future of Video Intelligence"
+    excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
+    publishedDateTime: 2021-10-15T16:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/spotai-future-video-intelligence-tomasz-tunguz"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFgcp6z0Dz4jA/article-cover_image-shrink_720_1280/0/1634315378399?e=1640217600&v=beta&t=yL1pXi9v1rhR52oSgSPyg1yXMTIyYbnSNxYsZGCtTq0"
+        width: 1191
+        height: 720
+        isCached: true
 
 secured: "yFe4B+3Xz7Q+peLjFyKwdwT7XigF6KN/vhuvY4iB/bbsUwoOxqTaVN+dN2dCPnJ0p5mIruTaNW+VlVUzhK3o5qzzWhQ1Z2zpXKCox+aNNM1qEauLFhqZ6giDvn5oKRJNWSWbsF0by7eYjOkAdqWDPB4pS+a/9YQ1nDPMRmXNGl+s+pdcteV5VrlMZjkyTiSwhg0ISL8qF0nIlktUiuBlU4xX+hY4R/ePF7KsiXtGBhS4XcaTfROH+U5uUrP5XoNC6QLbPWsSwOZLn6OIJSC6V/x7PGar5WOwjNmX5Zmm3LMH3fvmbfvNNE6kcA+MWujShBVLWZ2qjaxH3H2yqPuLBrgx6Tz+mKuHE9dnjX0Crw9v1Bpm/IbsmKymYcmmE9dcvZvgs9Ln5NpN6C2Tsl0NxYlAWT4itYYyQJAS7sKojMDDMzlwYUPOs2ao0tZpGdIOB90CYreO80+vTCTIrsnN0TsgfLVbaCphYN+DdKo3KPnKOCqb3roiUPYY/NR7hgYd3t3ihLGOlZTQRLIACKSCEw==;G3T2cT8JDnMjFd9bM+pyxQ=="
 ---

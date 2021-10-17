@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

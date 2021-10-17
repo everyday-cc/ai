@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-16T18:31:00Z
 originalUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat-abdoullaev"
 webUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat-abdoullaev"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHqHD9eMBnUlw/article-cover_image-shrink_600_2000/0/1634408843448?e=1639612800&v=beta&t=zBL1wNh3UmdLHOzb2jh7Ns6wZYcULOQ6erRe2jX8lPY"
@@ -46,6 +48,6 @@ related:
         height: 480
         isCached: true
 
-secured: "415wjXl3OaeO6DZhSNR2DQmI3Y8PiKNQ/itNffVvCQrSjpVEfQcvcIUdDqnuDlm5MQc+YtsxxubSQIF+X5YfkV1Tr2Yi8fyTiXaXnM2Lm0+xTBNVnUR3fuhEezDoanuippMXHMniHz1HKLIuTMvL4h8iebZSU6zQ61VLfg2ETy3g50YE6AQQHT8nRdtfemKOlLnPSFlXxpCBzwwVhOdpWSKW4mqOxcBhTw4X3QXVzHL4EcIn4XUoTN7TcSPtdvKBj37ER0xFOSqXwoIlOgCiSGAC3Hx8IN/FZt2J6hkgpAiZsuOx4ZBfx+1xKdiWrzcx7+gMdXiF3JG5TuCFp0jh4zNulsX3BUiLBL1DNz3HJyU=;PrHxYyubnz79YvQWH0bpBQ=="
+secured: "DdZjf3kpkSWEW/q8J9wXYptvXCkYm9ESZ0mO+DDSQLsW8kjC4Xu9U8PhMMcSjKWFF+Ek5e7TYXPGUGdccb9a0o37qRDws6gwjK5tEupQh4TggOt6+Tm8hfJuMHzs+LULMsZFjhZlbwq14FgPv+O6W+xXMorPaAJXUHmqhb96a3A3YtGNWYLr353iiwrC9F1i4j05bi6Ce0JFbRGvoW68/zllY0pt/NP9UIysFepkE90tMWywvh89LZlABg0P6PZb8t89EpOOzStRZYyLf2yYSUaw8Y1EYRbaTUTjoPBmhhXQc7rZyx5vHqmdQTPGF5vjXc6dPxx9onw5gAMN+/1qTNmzuk+r/bIkBgWuIhcwQBOPYRD4oEYJHmvsPTrY836DPG0OOV4YdGeprL2omvG0OGMZ5GfZjnJtRxgynbTKybI894JIF1wy3KJi72jUkSI5zXtg37zjvgh6XCblqsYqmvcM2mOWW0iF6Wiz5c/1K8UeJ+butJ6iRbfBbhZt4GtDCz53VPoE+GY2Wok4rbQ3aQ==;g3HPGJxYDta5YNY3xVJYFA=="
 ---
 

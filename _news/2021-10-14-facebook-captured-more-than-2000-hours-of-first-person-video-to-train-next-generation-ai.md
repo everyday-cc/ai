@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-p
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
 type: article
 quality: 79
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -31,24 +31,109 @@ images:
     isCached: true
 
 related:
-  - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
-    excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
-    publishedDateTime: 2021-10-14T23:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211014005982/en/BrainChip-Returns-to-the-Linley-Processor-Conference-with-Discussion-of-Next-Generation-AI-Enabled-IoT-Devices"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
-    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
+  - title: "Facebook: Here comes the AI of the Metaverse"
+    excerpt: "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view."
     publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
+    webUrl: "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook researchers collect thousands of hours of first-person video to train AI"
+    excerpt: "If the AIs of the future are, as many tech companies seem to hope, going to look through our eyes in the form of AR glasses and other wearables, they’ll need to learn how to make sense of the human perspective."
+    publishedDateTime: 2021-10-14T12:01:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/facebook-researchers-collect-thousands-of-hours-of-first-person-video-to-train-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/facebook-ego4d.jpg?w=1024"
+        width: 1024
+        height: 652
+        isCached: true
+  - title: "Facebook helps AI take a first-person view of life"
+    excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
+    publishedDateTime: 2021-10-14T17:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58896551?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13FE0/production/_121088818_searching2gettyimages-78718769.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Facebook plans to developspecial AI"
+    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."
+    publishedDateTime: 2021-10-16T07:03:00Z
+    webUrl: "https://newstodaynet.com/index.php/2021/10/16/facebook-plans-to-developspecial-ai/"
+    type: article
+    provider:
+      name: The News Today
+      domain: newstodaynet.com
+    quality: 39
+    images:
+      - url: "https://newstodaynet.com/wp-content/uploads/2019/12/FACEBOOK-Copy.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
+    excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
+    publishedDateTime: 2021-10-15T16:30:00Z
+    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 37
+  - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
+    excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
+    publishedDateTime: 2021-10-15T11:18:00Z
+    webUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    ampWebUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 36
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
+    excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
+    publishedDateTime: 2021-10-15T01:36:00Z
+    webUrl: "https://www.fierceelectronics.com/electronics/facebook-collects-video-wild-to-help-ai-develop-first-person-perspective"
+    type: article
+    provider:
+      name: fierceelectronics
+      domain: fierceelectronics.com
+    quality: 34
+    images:
+      - url: "https://qtxasset.com/fierceelectronics/1634262817/woman-506322_1280.jpg/woman-506322_1280.jpg?VersionId=HzRwo7bO5w509NlalQHdXy3HmummGvAs"
+        width: 1280
+        height: 905
+        isCached: true
   - title: "Facebook is creating AI that can view and interact with the world from a human's point of view: Over 2,200 hours of first-person footage captured in nine countries could teach ..."
     excerpt: "Facebook is creating an artificial intelligence capable of viewing and interacting with the outside world the same way a person can, letting the AI learn from 'videos from the center of action.'"
     publishedDateTime: 2021-10-14T19:33:00Z

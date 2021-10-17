@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times/amp/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

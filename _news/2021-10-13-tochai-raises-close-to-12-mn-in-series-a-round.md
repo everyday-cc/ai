@@ -44,22 +44,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Chennai-based M2P Fintech raises $35 million in Series C funding led by Tiger Global Management"
-    excerpt: "Chennai-based M2P Fintech, previously known as Yap, today announced that it has raised $35 million in Series C funding led by Tiger Global Management. The funding round also saw the participation of existing investors BEENEXT,"
-    publishedDateTime: 2021-10-12T06:39:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/chennai-based-m2p-fintech-raises-35-million-in-series-c-funding-led-by-tiger-global-management/article36957846.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 47
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/iuh09y/article36957845.ece/ALTERNATES/LANDSCAPE_615/bl13M2P-Fintech"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "r1Esj/QqY4RvbU+CZlwgVH0Px/IqM3LRtH5M6TzDHMWwW4QnWcqOiun0FHUhFn/ikAmBvmsJiAFuRgBy5oNBR+CpqJzB5YvpgtcB9ZOnzVuZIfxz0x0MoA1zKuQhQWXPh2RgFx/yl2x0qb3SPbqiZVwnawdQSVaZ6Ea1osMNTZNbqckEtgal2M0qDw06yaa5GQHFqtgYs2zX8i1jNzOl1EmoBDnLMSKoGLv3/+6cLRZs5KMlWs23cGjOFCMx9PzpDsG8wmudYEaCCHuWxcHK7znnHSwzJhV8NZwgAkefbPrpBUrNTXCYEPRRCV1PnVUztVC83Mmob7fhzlLv1SDYmPDqZJFLiOGrhHCs5Cyj2yw=;Pz4iCt5oRY4uztlK16AICA=="
 ---

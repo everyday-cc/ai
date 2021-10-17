@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: openpr.com
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
+    excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
+    publishedDateTime: 2021-10-16T23:34:00Z
+    webUrl: "https://maxwellgunterdispatch.com/news/1849/fintech-in-insurance-market-to-witness-huge-growth-by-2021-2027/"
+    type: article
+    provider:
+      name: maxwellgunterdispatch.com
+      domain: maxwellgunterdispatch.com
+    quality: 24
+    images:
+      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-16T192409.110-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
     excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
     publishedDateTime: 2021-10-13T13:50:00Z

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
+      "title": "Announcing the Amazon S3 plugin for PyTorch",
+      "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T10:24:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-tech-giants-are-rushing-to-develop-their-own-chips-heres-why.md",
       "title": "Tech giants are rushing to develop their own chips — here’s why",
       "excerpt": "The ongoing global chip shortage is another reason why big tech firms are thinking twice about where they get their chips from, Glenn O'Donnell, research ... Facebook's chief AI scientist told ...",
@@ -1313,49 +1366,6 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-facebook-chatbots-werent-shut-down-for-creating-language.md",
-      "title": "Facebook – Facebook chatbots weren’t shut down for creating language",
-      "excerpt": "Facebook discontinued two “AI robots” after they developed their own language . It’s hard to escape artificial intelligence. From algorithms curating social media",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/13/USAT/81ade0d0-9048-4d9d-ad7c-d6cfdd50eec8-479c7ac2-491a-4c7a-bb0a-9c8f956a2665_thumbnail.png?width=660&height=371&fit=crop&format=pjpg&auto=webp",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
         "images": null,
         "publishers": null,
         "authors": null

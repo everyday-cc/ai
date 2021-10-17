@@ -10,7 +10,7 @@
       "originalUrl": "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-what-and-who-14695225/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
-      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
-      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
+      "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
+      "title": "Facebook: Here comes the AI of the Metaverse",
+      "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "webUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
-          "width": 5000,
-          "height": 3334,
+          "url": "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
+      "publishedDateTime": "2021-10-14T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric.md",
+      "title": "Facebook introduces dataset and benchmarks to make AI more ‘egocentric’",
+      "excerpt": "Facebook's latest long-term research project, Ego4D, focuses on developing AI with an 'egocentric,' first-person perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/",
+      "originalUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/facebook-introduces-dataset-and-benchmarks-to-make-ai-more-egocentric/amp/",
+      "publishedDateTime": "2021-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1394,59 +1446,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-07-announcing-the-amazon-s3-plugin-for-pytorch.md",
-      "title": "Announcing the Amazon S3 plugin for PyTorch",
-      "excerpt": "Amazon S3 plugin for PyTorch is an open-source library which is built to be used with the deep learning framework PyTorch for streaming data from Amazon Simple Storage Service (Amazon S3). With this feature available in PyTorch Deep Learning Containers, you can take advantage of using data from S3 buckets",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T10:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],
