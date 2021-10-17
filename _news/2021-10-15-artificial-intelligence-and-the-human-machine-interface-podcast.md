@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sorry AI - The Brain Is Still The Best Inference Machine Out There"
-    excerpt: "Despite the continued progress in the state of the art in machine learning and artificial intelligence (AI), one thing that still sets the brain apart is its ability to infer information that supports problem solving in situations that are inherently uncertain."
-    publishedDateTime: 2021-10-13T00:27:00Z
-    webUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/"
-    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/10/12/sorry-aithe-brain-is-still-the-best-inference-machine-out-there/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6160673af8e65f321ce54839%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Spot.ai - The Future of Video Intelligence"
     excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
     publishedDateTime: 2021-10-15T16:32:00Z

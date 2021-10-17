@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-02-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations.md",
+      "title": "Western Railways to install 2,729 cameras with face recognition system across 30 stations",
+      "excerpt": "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "originalUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "publishedDateTime": "2021-10-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-at-263-cagr-ai-in-computer-vision-market-size-is-expected-to-exhibit-6459-billion-usd-by-2027.md",
       "title": "At 26.3% CAGR, AI in Computer Vision Market Size is Expected to Exhibit 64.59 billion USD by 2027",
       "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
@@ -1389,50 +1432,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-researchers-study-recurrent-neural-network-structure-in-the-brain.md",
-      "title": "Researchers study recurrent neural network structure in the brain",
-      "excerpt": "such as language translation and object recognition, by simulating the neural network in the mammalian brain. \"This paper provides a basic structure of neural networks in the mammalian brain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-study-recu.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-09-recurrent-neural-network-brain.amp",
-      "publishedDateTime": "2021-09-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

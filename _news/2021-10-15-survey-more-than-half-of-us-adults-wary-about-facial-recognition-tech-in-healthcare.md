@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-h
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "How Do People Feel About Facial Recognition Tools In Healthcare?"
+    excerpt: "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology"
+    publishedDateTime: 2021-10-17T16:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 56
   - title: "Many US adults worry about facial image data in healthcare settings"
     excerpt: "Uses of facial images and facial recognition technologies -- to unlock a phone or in airport security -- are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
     publishedDateTime: 2021-10-14T21:35:00Z

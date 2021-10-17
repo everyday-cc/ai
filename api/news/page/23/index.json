@@ -2,6 +2,101 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-09-28-arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability.md",
+      "title": "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability",
+      "excerpt": "Arize AI, the leader in ML observability and model monitoring, today announced it has raised $19 million in Series A financing. The round was led by Battery Ventures with participation from previous investors Foundation Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability-1030828252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-build-or-buy-ai-three-factors-that-can-determine-your-strategy.md",
+      "title": "Build Or Buy AI: Three Factors That Can Determine Your Strategy",
+      "excerpt": "To build the right ModelOps pipeline — one that can adapt to future needs — organizations must plan for shifting priorities and make insightful decisions that will stand the test of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ccae14f704a6c42d127c1d%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/28/build-or-buy-ai-three-factors-that-can-determine-your-strategy/amp/",
+      "publishedDateTime": "2021-09-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-over-2-billion-devices-will-be-shipped-with-a-dedicated-chipset-for-ambient-sound-or-natural-language-processing-by-2026.md",
       "title": "Over 2 Billion Devices Will be Shipped with a Dedicated Chipset for Ambient Sound or Natural Language Processing By 2026",
       "excerpt": "SINGAPORE, Sept. 21, 2021 /PRNewswire/ -- Natural Language Processing (NLP) and ambient sound processing are traditionally considered exclusive cloud technologies and this has restricted their ...",
@@ -1060,92 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-deep-learning-market-to-be-worth-72-billion-growing-application-of-deep-learning-to-boost-growth-technavio.md",
-      "title": "Deep Learning Market To Be Worth $ 7.2 Billion | Growing Application Of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "The deep learning market will be driven by the growing application of deep learning. In addition, growing emphasis on cloud-based deep learning will influence the deep learning market growth positively during the next few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23125791/deep-learning-market-to-be-worth-7-2-billion-growing-application-of-deep-learning-to-boost-growth-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23125791",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23125791",
-      "publishedDateTime": "2021-09-27T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain.md",
-      "title": "Samsung Wants To Make An AI Chip That Mimics The Human Brain",
-      "excerpt": "Samsung, together with researchers from Harvard University, have published a paper that puts forth their idea of making neuromorphic chips, semiconductor technology that mimics the human brain by \"copying and pasting\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "originalUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/09/Brain-computer-network.jpg",
-          "width": 1040,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/254168/samsung-wants-to-make-an-ai-chip-that-mimics-the-human-brain/amp/",
-      "publishedDateTime": "2021-09-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

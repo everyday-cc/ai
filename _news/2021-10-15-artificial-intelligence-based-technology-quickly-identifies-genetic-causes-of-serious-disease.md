@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
-excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
-publishedDateTime: 2021-10-14T21:17:00Z
-originalUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
-webUrl: "https://healthcare.utah.edu/publicaffairs/news/2021/10/artificial-intelligence.php"
+title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
+excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding foreshadows the next phase of medicine, where technology helps clinicians quickly determine the root cause of disease so they can give patients the right treatment sooner."
+publishedDateTime: 2021-10-15T15:29:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/10/211014100204.htm"
 type: article
-quality: 28
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: UUHC Health Feed
-  domain: utah.edu
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://healthcare.utah.edu/publicaffairs/news/2021/images/10-baby-hand.jpg"
-    width: 420
-    height: 280
-    isCached: true
 
 related:
   - title: "AI algorithm accurately detects disease-causing variants in infants with rare diseases"
@@ -57,20 +54,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
-    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy. The benchmark finding, published in Genomic Medicine, foreshadows the next phase of medicine,"
-    publishedDateTime: 2021-10-13T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/931383"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b7ddf3ea-30b2-4754-9c29-8befeb251fa9/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "AI-based technology rapidly identifies genetic causes of rare disorders with high accuracy"
     excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics,"
     publishedDateTime: 2021-10-17T01:21:00Z
@@ -100,6 +83,6 @@ related:
         height: 480
         isCached: true
 
-secured: "xUDTTDEaa/GH0OcnIoQL4N1Igx4cJyJIPNTYrQ4LKWIQCigR1aMaIUvrCpECCQflYBKDeW/Fh4SrZGEKZhPeqd+oRZCX2wqwquROkREiG6mziS+Qq8FHW7xlVJkhFEqvuhmPGscAJVbw9+0e20QBiGUi3yMGwLhL4lkXfOjG39RiY2GBlRSHgINj7deL0kzSWFfpE2868oDrKX2XF3Dr2QIM5f6fKiH1YEy+453nMBF/BnbE8kEzUJPzODFuB+rLJNzMkqz0TEFovh3Rvyq3ZrSPBPBzmR/z3qXAahj8qdNJGQy4JSLCGliASKBQjLEy6h8odDHyfcfXJ/ocUCKeno7oaFAzEWWJcJU/YzplMo8=;GArUaLDBcV8e5QDyHC+MuQ=="
+secured: "iNuyWnzLgb7lWXrUrd9OAN03kAMPo1otCbl3g3yToIgkkpdGWrFlfCZwvZ318p3IL7nERlr2o9upY0LSUqc0vptbQ0dlZMp5SiEJLGxuosixO137PPzxzPR3OJHEQRVM/mtZkZvmf/BWxcy+nSAoHpAm2PygrlcJ4fdBobYBCs0vWPY/T7lG4Kz+e3k7dKDjjNxck8F3WvdA7Gdt1l+8YLoFdy1C51qRvEuVOBOaILztp6H9J+8oT6JK1kmD+Mvrvs7lnTawehT68Y1SDfqs6UU0yrXfGgroW/FvCQxVun2Aaxf+Q88E3d43308HlNlO4ltaRvpEbZg4uOGsHYANOL7B7Xju1CKDtjn8BDSspJs=;PzetTZNFlJOlS/tTiIFJ3A=="
 ---
 

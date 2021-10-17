@@ -72,6 +72,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "How Do People Feel About Facial Recognition Tools In Healthcare?"
+    excerpt: "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology"
+    publishedDateTime: 2021-10-17T16:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 56
 
 secured: "2JBlPm9aBSGC6ng7VjcQGvNQcfm80s9CGIIHjrFrMz5coIEABwLBZ4n3NIFCTIzEcBlvR2Ga2TLUpQaA72M4we/WG0dDbDQLyYnIGuCJAN/hjnrwoxpNKfxRyLSO2NPNv2HLWAtKexJYPba7hRML9Tn46WA0PSMEJ2UciEymrXeEBUUKztsvtzGJK2pKNIUFkk5xlGt/g9WLrAbowtdXiTIgVgCqYCceU9+6XxI/ZqloygCuxGhgesD2ZvxZnQ0UlasN1pwTPgoAnBcas5A6BIl2zHiZckrxntCExLpxhJwgq/rbcrGoyhxys4WlLhTox2taphh558NDPuhzBTbBy40IlmTxAHK/6Ud2d3+xLSc=;Nnc51DYmhTSXfWWnJpi3Eg=="
 ---

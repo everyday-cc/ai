@@ -1,21 +1,21 @@
 ---
 category: news
 title: "CAST AI™ Secures $10 Million Series A To Advance Autonomous Kubernetes Cost Optimization For AWS, Google Cloud And Azure"
-excerpt: "CAST AI™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft"
+excerpt: "CAST AI ™, the leading SaaS company specializing in cost optimization for customers running cloud-native applications in AWS, Microsoft Azure and Google Cloud, has completed a $10 million Series A round led by Cota Capital,"
 publishedDateTime: 2021-10-12T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
-webUrl: "https://www.prnewswire.com/news-releases/cast-ai-secures-10-million-series-a-to-advance-autonomous-kubernetes-cost-optimization-for-aws-google-cloud-and-azure-301397109.html"
+originalUrl: "https://www.kfyrtv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
+webUrl: "https://www.kfyrtv.com/prnewswire/2021/10/12/cast-ai-secures-10-million-series-advance-autonomous-kubernetes-cost-optimization-aws-google-cloud-azure/"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: KFYR TV
+  domain: kfyrtv.com
 
 topics:
-  - AWS AI
-  - AI
   - Microsoft AI
+  - AI
+  - AWS AI
 
-secured: "n8uJfWVgoqIRkJ0rTHLBS8hRoFTsl/RgAk3zxMIILhRObiUY7H395jN/U4+aHUClGWDotZ2ssBtNL0aVTKAEPxuuN6vNCgfS4TpGWJsB4pfi7VXhGR+A9fq88Z90Zkk+5sZ73BrHZF6mes9AhhyQgo/BDagciLJzpV5Mb9oBgdEVh8wzFxTrcb1JdVsb8APEhJOo/BSMy8KEP8w++C6ED7hiL5f/ypcE36znla8fX+gX0xlyfYrh4FahTlmt/wvaFzTFtnlx/eSDd6Sm+ZhizUEdlCUJkA4kM5wwQ2b8ZVJejs33COM1ZCZZZipDZ1HFW4WBEQ9P+CjgsZkP1ctEkPFIrWDzVTdzKw0puEcRWGc=;VATplwUnQVQYXtccPNhqFQ=="
+secured: "EAt8BgZmjd3WIQ4a0mYxqDjDMpFTPR9BMxUSoHdiW8nYFob/XhfGrGQ4p0iF3bNH79L5jODNSVGYGrtd/yV9BJS+Z8a3l/Xf4s4MCp2nRhPp2V6hgyy24HfBhlaGlc8hGFjH6+paN0zQdamEAADIcHBES1VJSP7I9xH3Y5fwaeiFpHFfUKnB/RmJ3XAnV1gBMylcAu7+VCPIAYinpcr3BRpdDYORgVUNu1CCapIoUtjBTaS9OHHrbFm0eveZCEFD0DB/UtltGfFXnldJ+4NZdVeLWF9DeoypCOIwFSUCQAtqhNWGGG/31nCGTyxInvQumdwGQtfgqCuzuuOihDjWxC0ToHGfJq6/T2rYz/nYZhw=;yKtBm+y3Vp/aHU2+nIJdEw=="
 ---
 
