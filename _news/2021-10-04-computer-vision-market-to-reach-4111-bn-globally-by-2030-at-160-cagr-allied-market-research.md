@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. Faster processing, better accuracy, and economic ..."
-publishedDateTime: 2021-10-04T13:29:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-884918329.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-884918329.html"
+excerpt: "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. PORTLAND, Ore., Oct. 4, 2021 /PRNewswir"
+publishedDateTime: 2021-10-04T13:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-computer-vision-market-reach-4111-bn-globally-2030-/2021/10/04/9461739.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-computer-vision-market-reach-4111-bn-globally-2030-/2021/10/04/9461739.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "oOo1KGRaMksZBsQMC9yh62IlqoP0Y9LKsMJ8FTQVXUnZWBo3IxLT3r3Zfu1Vk+c4BDp7ucYDy8XCzCsudMTGBl4vkJg/eAGF8YvUJThTPsjRljV2k28o1u+N22BR71M1PWT8aaVXBb5B8qtry7RPEGTapgSPxxmk4qXwW5chlCBs5UeCgRNW9NYGJkKE017zY395avL9onTi4+MA+17nTriYXLFw0a3F/lJxk7w/xqXhrI9rnIyztWSDES5AFUMx/36iOZNvyIuv9RSx9h3L9uMyPfuUA3nPDhd0D0vnBc43jtYD7bBHeVdccUkLQhD+BEjAhFe3WZJgbS+5ByRaLJGr/HDFliv/jVYFulu3990=;FDARbIAFS5iK5SATpweh5g=="
+secured: "b2uq1YD3VQOBa+n2fB6mHMlK4oGjIZKnbftup+p5VZlNQAdF0snLP3TgXYFVJUz+IYAHffJlR2uZkDi/YGMOTwU17FLt7cNW+H3HZ9SkXN1WGLjD6V0zFMNu8Dk7SeCWuFnZiLLzjQIvRwyfG0KzmFWPfkjRb8RFQO+61V4kTM4vEy7duFTjolqmhnB+yY7hGiMUuFtu8luT8cwe5sUhV7nR6NgMqG/tNAdOY7y36zH14aD/nK81SCvt3EIaZ/Erd28GqcfNruwfovbkE65DAF0wDCLZQxeoNU8x8BPgn9nzK4d3LMdNht0FIUxqR1/r+UAu+egyy4U4UYEmhXSZw63XEM8ekUKXc+WlP3lsjYU=;JjpmJS4Zz/wUniCsINEh2A=="
 ---
 

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Germany launches world’s first self-driving train – Know details"
-    excerpt: "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,"
-    publishedDateTime: 2021-10-13T04:44:00Z
-    webUrl: "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
-    ampWebUrl: "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
-    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1"
-    type: article
-    provider:
-      name: Rojgar Samachar
-      domain: jagranjosh.com
-    quality: 59
-    images:
-      - url: "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Germany introduces first self-driving train"
     excerpt: "Germany is set to begin using the world's first fully-automated, driverless train.  Your comment has been submitted. Reported There was a problem reporting this. Log In Please keep it clean, turn off CAPS LOCK and don't threaten anyone."
     publishedDateTime: 2021-10-15T16:15:00Z

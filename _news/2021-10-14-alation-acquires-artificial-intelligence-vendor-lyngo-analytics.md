@@ -64,6 +64,15 @@ related:
         width: 432
         height: 432
         isCached: true
+  - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
+    excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
+    publishedDateTime: 2021-10-17T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nlp-or-machine-learning-which-one-is-more-suitable-for-chatbots/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 29
   - title: "Department of State Expands the Use of AI-driven Global Threat and Risk Assessments through a Four-Year Contract with Geospark Analytics"
     excerpt: "Geospark Analytics, the world class leader in applied artificial intelligence solutions for risk and threat assessment, has been awarded a new four-year contract from the Department of"
     publishedDateTime: 2021-10-13T13:15:00Z

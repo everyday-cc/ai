@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/can-artificial-intelligence-help-scient
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/can-artificial-intelligence-help-scientists-save-maines-coast?_amp=true"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Scientists want to use artificial intelligence to save Maine’s coast"
-    excerpt: "With artificial intelligence, forecasting ocean activity will be constantly improving in accuracy even as the climate changes."
-    publishedDateTime: 2021-10-13T05:00:00Z
-    webUrl: "https://bangordailynews.com/2021/10/13/homestead/scientists-want-to-use-artificial-intelligence-to-save-maines-coast/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 52
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/10/red.tide1-kc-1.jpg?fit=2000%2C1307&#038;ssl=1"
-        width: 2000
-        height: 1307
-        isCached: true
 
 secured: "JxBAQjQjc9wx0iqZwgOSAxK5K5TWe+J3ugbDNozMizrbSy8Wer7e+K2yKVk7mWLl3EKV2PlcwGc4/Hk2ffX32k1qqfn1GTe431Srawany9UkS5lTvdO6K4xZjibHykCtMRk+5o5ZJ0bI4EXgtjknX7nduYiy/I4mTspqGYo58kXeVhtVI+btYJbITS5OW0rV74gRI8CRo2NZi2p4P6xZrdi80cXu9FBP7WhI953Aa7HolKhV20NLyloIE8fuCjKlgYnpJxvr0Sv1eEplEgu8SYD/gxx3qMTAx1iqt2P3x7fn+ds9bP4VCkMePydH0v14GS7HIWByuLviVHhIf+e4EqJ+fnWg7szt4LZJ6ofKGOG1UQJmCLqv/mNlCzrPHtwcTygZHb7Dxmi9s1rR7ROUKTg5gu80Gt60xyDc1isBptgTFHh1FRHoFUb4mcx1wPobHhfeNFx+1UcBTfGFddAT8ZnSU6hcPyj3k9/nBOVvKlPrOS2j+mahFDVpZZ0bmOQwWq5vFR8t+rVZ09nHQX2ysA==;+Rqe1oSeU+iluEZ7kMpdgQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 800
         height: 531
         isCached: true
-  - title: "Here Are The Benefits Of A Digital Transformation In Healthcare"
-    excerpt: "Source Technological advancements have not only revolutionized the way people navigate their daily lives, but the way businesses operate and"
-    publishedDateTime: 2021-10-13T05:00:00Z
-    webUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/"
-    ampWebUrl: "https://techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/benefits-of-a-digital-transformation-in-healthcare/?amp=1"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/techbooky.com/wp-content/uploads/2021/10/healthcare-and-digital-transformation.png?fit=1000%2C500&ssl=1"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "How Do People Feel About Facial Recognition Tools In Healthcare?"
     excerpt: "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology"
     publishedDateTime: 2021-10-17T16:00:00Z

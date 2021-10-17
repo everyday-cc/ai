@@ -24,33 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "The essential human element of AI in education"
-    excerpt: "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education."
-    publishedDateTime: 2021-10-14T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/"
+  - title: "Does DeepMind AI future proof Alphabet’s share price?"
+    excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
+    publishedDateTime: 2021-10-13T12:45:00Z
+    webUrl: "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price"
     type: article
     provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 58
+    images:
+      - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
+  - title: "All Hail The King of Reinforcement Learning, DeepMind"
+    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
+    publishedDateTime: 2021-10-14T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg"
-        width: 500
-        height: 281
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
+  - title: "Deepmind Technologies announces first profits in 2020 after years of losses"
+    excerpt: "DeepMind Technologies is a British company specializing in artificial intelligence (AI). Founded in 2010 by Denis Hassabis, Mustafa Suleyman and Shane Legg, it was acquired by Google in 2014 for more than $628 million."
+    publishedDateTime: 2021-10-14T09:44:00Z
+    webUrl: "https://www.actuia.com/english/deepmind-technologies-announces-first-profits-in-2020-after-years-of-losses/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Actu IA
+      domain: actuia.com
     quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
+      - url: "https://www.actuia.com/wp-content/uploads/2021/10/DeepMind.png"
+        width: 800
+        height: 401
         isCached: true
 
 secured: "yFe4B+3Xz7Q+peLjFyKwdwT7XigF6KN/vhuvY4iB/bbsUwoOxqTaVN+dN2dCPnJ0p5mIruTaNW+VlVUzhK3o5qzzWhQ1Z2zpXKCox+aNNM1qEauLFhqZ6giDvn5oKRJNWSWbsF0by7eYjOkAdqWDPB4pS+a/9YQ1nDPMRmXNGl+s+pdcteV5VrlMZjkyTiSwhg0ISL8qF0nIlktUiuBlU4xX+hY4R/ePF7KsiXtGBhS4XcaTfROH+U5uUrP5XoNC6QLbPWsSwOZLn6OIJSC6V/x7PGar5WOwjNmX5Zmm3LMH3fvmbfvNNE6kcA+MWujShBVLWZ2qjaxH3H2yqPuLBrgx6Tz+mKuHE9dnjX0Crw9v1Bpm/IbsmKymYcmmE9dcvZvgs9Ln5NpN6C2Tsl0NxYlAWT4itYYyQJAS7sKojMDDMzlwYUPOs2ao0tZpGdIOB90CYreO80+vTCTIrsnN0TsgfLVbaCphYN+DdKo3KPnKOCqb3roiUPYY/NR7hgYd3t3ihLGOlZTQRLIACKSCEw==;G3T2cT8JDnMjFd9bM+pyxQ=="

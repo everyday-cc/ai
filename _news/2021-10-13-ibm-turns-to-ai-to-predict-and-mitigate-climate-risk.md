@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM launches AI service to assist companies with climate change analysis"
-    excerpt: "IBM's new Environmental Intelligence Suite leverages AI-powered tools and analytics technologies to help companies measure climate change."
-    publishedDateTime: 2021-10-13T04:01:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
+  - title: "AI project brings the climate crisis to your home"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Scientists have developed a novel way of making people care about climate change: flooding their homes."
+    publishedDateTime: 2021-10-15T19:07:00Z
+    webUrl: "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-home-this-climate-does-not-exist"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mortgage AI provider launches language tool"
-    excerpt: "Mortgage technology firm Meet Parker has launched a new multi-language translation tool to its ‘Parker’ chatbot."
-    publishedDateTime: 2021-10-13T09:40:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/news/2021/10/13/mortgage-ai-provider-launches-language-tool/"
-    type: article
-    provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
-    quality: 39
-    images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/03/phil-bailey.jpg"
-        width: 6000
-        height: 4200
-        isCached: true
-  - title: "IBM Announces AI-Driven Software for Environmental Intelligence"
-    excerpt: "IBM has unveiled a new suite of environmental intelligence software that uses AI to enable organizations to prepare for and respond to weather and climate risks. By doing this, these companies can avoid business disruption,"
-    publishedDateTime: 2021-10-13T13:13:00Z
-    webUrl: "https://www.unite.ai/ibm-announces-ai-driven-software-for-environmental-intelligence/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SD0pWAt1/w:888/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/10/hands-68918_1280.jpg"
-        width: 848
-        height: 600
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-1-3.jpg&signature=e32af5210407865b380c3847278a7141"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "6Jpq4BvYs2pxTZdkf6sj8YuluoDHhwVAxEmGh+EFXfW2ubGqMwnk+/qhIzomE4atjKtgxmNvjgmTA18aNKDgE+ZTv4ji3h6SsQmNrf7eIwaRN9z3Uo9hJLyevovihL8JZK82PiT7vXXCDIvOK0oteqyrQ7yj0Pw4YoEcVg44u++0iFFr5q2otZCsSx4oOFeOHYKRrsnLKFPewV6KDdsxMU3Aobir5Sgc3w+s9deE1OmSVeCTrRfvMfWQ7Hp4FHC5374WMpfUlZCs2Xm4vtpx74iYUgTPdaehJ0u9TDQvBtXavcdVDblvXObfwRAPhNtUpw3pNKI51iyeHeoLp/S0nwe7EQhDdLf1roIDggBmoTazX/CNXwma3uJhJYugtETZYcITUClfCClB1kVOm8Qct5nhnaI+Zd29JiVNvOhKe7r1PfOVntgOqJJ0gsHasE4yxRFn1+O1TTOc6SNKUBZsJQy6tAXX3zRlEjET9k0gF1BBdgzCknvTXgpzBfDt4Bj2+D7Auuqig1g6kivoZFsK/Q==;aO83icF2QECLI1kOiONHqQ=="

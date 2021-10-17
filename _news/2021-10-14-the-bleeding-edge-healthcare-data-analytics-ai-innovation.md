@@ -57,6 +57,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
+    excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
+    publishedDateTime: 2021-10-17T08:30:00Z
+    webUrl: "https://www.analyticsinsight.net/nlp-or-machine-learning-which-one-is-more-suitable-for-chatbots/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 29
   - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
     publishedDateTime: 2021-10-14T13:15:00Z

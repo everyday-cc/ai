@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-i
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-investor-without-perfect-safety-score/amp/"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -29,33 +29,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included"
-    excerpt: "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\"."
-    publishedDateTime: 2021-10-13T04:02:00Z
-    webUrl: "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
-    ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 66
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "TSLA Stock: What Really Matters About the Full Self-Driving Rollout"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) is reportedly expanding access to its Full Self-Driving"
-    publishedDateTime: 2021-10-15T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tsla-stock-what-really-matters-about-the-full-self-driving-rollout-1030869045"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "lO1bSOtdax3Qh6sAHJV60F93MnpSvkEUg7zC+SGsmCZh6KzTTq9raBQcIUGcCgNf+Uoq3bFxtq5h78dtZQmiXwCtYC5Z6Ecw41h1CqKcbK1zdvQ6Nknvlq3o7kGO4UrzzAKGMmWylyjwIN7f4ZuLbO9YJi/J1KFqP8pZ6R5bu8nn6uUvgvVhVxWKd6RVQhWH3P3PVW4Tro0PLlVRLEsxmY/jTsPN+Na2c4G6psZSc+op5qnw2ILs6FYgycnrlQVv+6IipzSAgncORPe5ljMVBhOBeBhlnFbRbMFrDr1xQC0R/LDW6KFm2opMZDzCs4wFfVay138P3ctwB/2Zt6D5InceR4/P+oPcc6UKXtqjBldl5zEtKqGUtgTsVeoNwF5nalba4mVdW4Kp3E73jdfJ1ljfuwim5ZVpGrKcY36pTiDok+DuRTjUoOwsxiPWCR0L/mx/QVKREC8jKJuINaCbY3f927jjsABChhpr0pDPTD8oPQIddmv+CLIO+F/ADakTlzDib2Nkwd6paseeHXg45Q==;DKkAv1tTOP4CzW3piGnCAw=="
 ---
