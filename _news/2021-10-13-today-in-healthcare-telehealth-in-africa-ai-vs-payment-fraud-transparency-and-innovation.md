@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payme
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: pymnts.com
@@ -27,29 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
-    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,"
-    publishedDateTime: 2021-10-12T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
+  - title: "Florida Researchers Studying Artificial Intelligence Use in Telehealth"
+    excerpt: "University of Central Florida researchers are working on a study to determine whether artificial intelligence integrated into telehealth visits can improve provider training and patient outcomes."
+    publishedDateTime: 2021-10-15T17:00:00Z
+    webUrl: "https://mhealthintelligence.com/news/florida-researchers-studying-artificial-intelligence-use-in-telehealth"
+    ampWebUrl: "https://mhealthintelligence.com/news/amp/florida-researchers-studying-artificial-intelligence-use-in-telehealth"
+    cdnAmpWebUrl: "https://mhealthintelligence-com.cdn.ampproject.org/c/s/mhealthintelligence.com/news/amp/florida-researchers-studying-artificial-intelligence-use-in-telehealth"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: mhealthintelligence.com
+      domain: mhealthintelligence.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg "
-        width: 823
-        height: 400
+      - url: "https://mhealthintelligence.com/images/sized/GettyImages-1210917316-c65229a7f68414dbdbe51ff312b05f89.jpg"
+        width: 480
+        height: 269
         isCached: true
-  - title: "Allscripts Launches Guided Scheduling, Leveraging Artificial Intelligence to Improve Patient Care and Increase Healthcare Operational Efficiencies"
-    excerpt: "Guided Scheduling, launching in Allscripts Practice Management, is an artificial intelligence scheduling application that use"
-    publishedDateTime: 2021-10-14T16:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
+  - title: "Today in Healthcare: UHC and Walgreens Make Digital Advancements, U.K. HC Records at Heart of Lawsuit"
+    excerpt: "Today in healthcare, DeepMind gets hit with class-action lawsuit by U.K. patients. Plus, Walgreens rolls out a healthcare-focused business segment."
+    publishedDateTime: 2021-10-15T18:08:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 46
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/walgreens-pharmacy-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "AI, telehealth, and sensor-based technologies facilitate autism diagnosis"
+    excerpt: "New technology-based tools can help pediatricians to make an accurate diagnosis of autism spectrum disorder. Although pediatricians screen for autism spectrum disorder (ASD) in children aged 18 to 24 months during routine health maintenance exams,"
+    publishedDateTime: 2021-10-14T12:38:00Z
+    webUrl: "https://www.contemporarypediatrics.com/view/ai-telehealth-and-sensor-based-technologies-facilitate-autism-diagnosis"
+    type: article
+    provider:
+      name: contemporarypediatrics
+      domain: contemporarypediatrics.com
+    quality: 38
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/contpeds/f87f95148dc3b5df11d328937ad08de99b702758-1200x800.jpg?fit=crop&auto=format"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "vkgshCK4+D/erR2LvHsc8vEyuR8lpYgI4TZ+pIDN9C+VcMw7655UjJxKrJURv7A4cLW+jMRhVvv4eiUnUIRrNx1I1Ke8RLBzp+a3CoNUKG95YpwvL64WfaeTrM7qvKqGpSFIpi5QvODjisGWW4wlJ9YaGgKFpreWPLWy00LoYb1w7Y41XVP91a8dnbFCsGOKSeTkRSTRH/ZC9ytW34rFCrOz3fiNhFKtn3mgPOxl07n0yzsqQ9Nde8j8GvXq4wdxVs//MkJ8tK4Vv1apCURr5s+3xDz72xMDnjalhrj5rnwcR7KflQEjsEprxWJir+muBMT+iq4uX3Duv+8Z8H/dR21jOqUqC+HHzruGNuYzK2Fb2rlfMeXH5/cQKSqVzP7kY35UEyWBj+W4Qt5OU1ynyIPSi9D1q1Rsll7n9izxHrejSqUXeh/dYuQpv1xo7dmc9bxIHnRPpV3U1MIL0ru/YPygyqQZ00p8g10yv8TirbLxH3vQX8QtVcOL6lzzAUXa3x8r+5hhBQUp9CaA0UXVcw==;QbQj+umT+gtj94ZoVlHaCw=="
 ---

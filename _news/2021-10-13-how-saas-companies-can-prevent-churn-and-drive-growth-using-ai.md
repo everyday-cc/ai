@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 960
     isCached: true
-
-related:
-  - title: "Marita Scarfi, Startup and Public Company Executive, Joins Vouched as CFO; Ryan Patterson, AI and SaaS Revenue Expert, Will Lead Sales"
-    excerpt: "The Company named Marita Scarfi, an experienced finance and operations executive, as Chief Financial Officer and Chief Business Operations Officer. Vouched also appointed Ryan Patterson, a proven SaaS and AI business development leader,"
-    publishedDateTime: 2021-10-12T16:32:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/marita-scarfi-startup-and-public-company-executive-joins-vouched-as-cfo-ryan-patterson-ai-and/article_5cda56c0-18e9-5097-b52a-62a2c3c5a832.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/88/f8824e6b-d04b-5d0f-aa36-9561c3cbce1b/6165bc1076ef0.image.jpg?resize=420%2C630"
-        width: 420
-        height: 630
-        isCached: true
 
 secured: "DYYZDf8PqNewBVAzKvPE5zVrLyBRLjPbf3BElEAGrfLcu2FeWZU7UGZ8/x+3eMhrjERXaR1r2D0sEuSKlKF2Vz0MchYuU7rDlHOGTtmRravz4Uj23sWRIoKS6afiUCT53BR2S+e79WrZ9EzjMIoNouKrkJdNlK4eDQvNjOJHbBIxK2Vs1bljCHCg0GfmnH0s1k1QmO6nfp3RAiuFCmXOtR72G2b2HZK1+ArKVY5DxS1zPNq/VDQrCuRussccYRU7ZsjbY8VzFPfwNo32s/ZNLhE5rG4KFEXA9Vz5XyngY3jNUWpTQEM2DL++C/cbW3ZjWTXeJzH+Lip4FyGVFUkd0+Pzffi3G1IoyNbx05vGFsJqEKhIKGRY+sVgusYfSX+zUqnnvr6QHiN+Fle4MO8xfJ0cnDTDdIsO9TH9QKsQ56lU2ZGY93MSluf24FDncGjplzgd9SxPbMotopRjj2WlexANUrO7nEqPYUNoJt3tizIXSGf7v11KXnZ0QFjAdASsS20VEp75xcaXNdheNUof9g==;izsLuhT/dm3JgHdeI8EHKA=="
 ---

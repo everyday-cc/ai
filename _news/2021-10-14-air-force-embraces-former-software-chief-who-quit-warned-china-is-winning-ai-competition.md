@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "China has won AI battle with U.S., Pentagon’s ex-software chief says"
-    excerpt: "LONDON: China has won the artificial intelligence battle with the United States and is heading towards global dominance because of its technological advances, the Pentagon’s former software chief st"
-    publishedDateTime: 2021-10-12T15:41:00Z
-    webUrl: "https://www.pakistantoday.com.pk/2021/10/12/china-has-won-ai-battle-with-u-s-pentagons-ex-software-chief-says/"
-    type: article
-    provider:
-      name: Pakistan Today
-      domain: pakistantoday.com.pk
-    quality: 39
-    images:
-      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2021/10/us-china.jpg"
-        width: 1024
-        height: 691
-        isCached: true
   - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
     publishedDateTime: 2021-10-13T22:25:00Z

@@ -56,22 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
-    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
-    publishedDateTime: 2021-10-12T15:20:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "lO1bSOtdax3Qh6sAHJV60F93MnpSvkEUg7zC+SGsmCZh6KzTTq9raBQcIUGcCgNf+Uoq3bFxtq5h78dtZQmiXwCtYC5Z6Ecw41h1CqKcbK1zdvQ6Nknvlq3o7kGO4UrzzAKGMmWylyjwIN7f4ZuLbO9YJi/J1KFqP8pZ6R5bu8nn6uUvgvVhVxWKd6RVQhWH3P3PVW4Tro0PLlVRLEsxmY/jTsPN+Na2c4G6psZSc+op5qnw2ILs6FYgycnrlQVv+6IipzSAgncORPe5ljMVBhOBeBhlnFbRbMFrDr1xQC0R/LDW6KFm2opMZDzCs4wFfVay138P3ctwB/2Zt6D5InceR4/P+oPcc6UKXtqjBldl5zEtKqGUtgTsVeoNwF5nalba4mVdW4Kp3E73jdfJ1ljfuwim5ZVpGrKcY36pTiDok+DuRTjUoOwsxiPWCR0L/mx/QVKREC8jKJuINaCbY3f927jjsABChhpr0pDPTD8oPQIddmv+CLIO+F/ADakTlzDib2Nkwd6paseeHXg45Q==;DKkAv1tTOP4CzW3piGnCAw=="
 ---

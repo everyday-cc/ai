@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, cyber security courses to be part of college curriculum in Karnataka"
-    excerpt: "They will be made available free of cost to non-Computer Science college students and faculty members of Higher Education Institutions of the state."
-    publishedDateTime: 2021-10-12T16:31:00Z
-    webUrl: "https://www.newindianexpress.com/states/karnataka/2021/oct/12/artificial-intelligence-cyber-security-courses-to-be-part-of-college-curriculum-in-karnataka-2370882.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2021/oct/12/artificial-intelligence-cyber-security-courses-to-be-part-of-college-curriculum-in-karnataka-2370882.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2021/oct/12/artificial-intelligence-cyber-security-courses-to-be-part-of-college-curriculum-in-karnataka-2370882.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 63
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/10/12/w600X390/Ashwath_Narayan_EPS11.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "How Big Data, Blockchain & Artificial Intelligence Can Enhance Your Cybersecurity"
     excerpt: "Big data, blockchain and artificial intelligence can take your cybersecurity strategy to the next level. When we go online, we leave traces of our data. We would never want our data falling into the wrong hands."
     publishedDateTime: 2021-10-12T21:01:00Z

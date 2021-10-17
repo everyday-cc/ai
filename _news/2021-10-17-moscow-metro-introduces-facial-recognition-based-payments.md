@@ -7,8 +7,8 @@ originalUrl: "https://in.pcmag.com/security/145530/moscow-metro-introduces-facia
 webUrl: "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face"
+    excerpt: "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool."
+    publishedDateTime: 2021-10-17T08:16:00Z
+    webUrl: "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989"
+    ampWebUrl: "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/578fa339d916724cb77388670d5ea274.jpg"
+        width: 800
+        height: 451
+        isCached: true
   - title: "Privacy fears as Moscow metro rolls out facial recognition pay system"
     excerpt: "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population"
     publishedDateTime: 2021-10-15T10:00:00Z
@@ -58,34 +74,6 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
-        isCached: true
-  - title: "White House Wants to Know How Biometrics Like Facial Recognition Are Being Used"
-    excerpt: "A request for comments is polling governments and the private sector on the full breadth of uses, whether it’s IDing faces or predicting malintent."
-    publishedDateTime: 2021-10-12T17:58:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/white-house-wants-know-how-biometrics-facial-recognition-are-being-used/186033/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/12/NGbiometrics20211012/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "AI-Based Facial Recognition Temperature Measurement Access Solution Effectively Controls Infectious Diseases"
-    excerpt: "Nine Technology Korea Co., Ltd, a technology company in Korea, is pleased to announce that its Facial Recognition Body Temperature Measurement PDA solution is now available on the market. In the year 2020,"
-    publishedDateTime: 2021-10-16T12:44:00Z
-    webUrl: "https://menafn.com/1102979612/AI-Based-Facial-Recognition-Temperature-Measurement-Access-Solution-Effectively-Controls-Infectious-Diseases"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?567024"
-        width: 436
-        height: 249
         isCached: true
   - title: "Moscow Metro and VTB launched fare payment using facial recognition in the subway"
     excerpt: "VTB and the Moscow Metro have launched a joint project to pay for travel using biometric data at all stations. This is stated in the bank's message. Now residents of Moscow will be able to pay with a \"glance\" for metro travel without using a smartphone or a card."

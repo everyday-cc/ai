@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscript
 webUrl: "https://www.businesswire.com/news/home/20211014005324/en/Allscripts-Launches-Guided-Scheduling-Leveraging-Artificial-Intelligence-to-Improve-Patient-Care-and-Increase-Healthcare-Operational-Efficiencies"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,36 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Tredence Launches HealthEM.AI to Optimize Cost of Care and Improve Outcomes for Global Healthcare Organizations"
-    excerpt: "Tredence Inc., a Forrester Wave Customer Analytics 2021 Leader and leading data science and AI engineering company, has launched a dedicated healthcare informatics subsidiary, HealthEM.AI Inc. Headquartered in San Jose,"
-    publishedDateTime: 2021-10-12T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tredence-launches-healthem-ai-to-optimize-cost-of-care-and-improve-outcomes-for-global-healthcare-organizations-1030859935"
+  - title: "Press Release: Roche announces PathAI collaboration for artificial intelligence-based digital pathology applications for improved patient care"
+    excerpt: "Artificial Intelligence technology shows promise in advancing pathology imaging, which can benefit cancer patients through more precise diagnosis"
+    publishedDateTime: 2021-10-15T10:43:00Z
+    webUrl: "https://www.finanztreff.de/news/press-release-roche-announces-pathai-collaboration-for-artificial-intelligence-based-digit/26431673"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/1657173/HealthEM_Logo.jpg "
-        width: 823
-        height: 400
-        isCached: true
-  - title: "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation"
-    excerpt: "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments."
-    publishedDateTime: 2021-10-12T17:35:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 63
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 0
 
 secured: "MsmvJuqc76JQu5UxPxK0rx1GaGgmJNSyJlwuBk9kmSrzTEhbaJEzYsm6t39VYHIymnX2k8xIuJHV6tkiGVylL8/Ny3Ju85QObEsQVxeRN+HWc0x1w4ke4QFZBhMSo1uaZIEYsAynvutR2XmUcFf6mLul8EF6rB/FqBkexSKP2M9/q4rWP/F/daWJIS8ysoKET+MRdvWj213CSiLThs9CUdhF6Yn31pcnCYt8P8klQEGWBYMaM1zyS+D7P1tsGlZFQ1qP6Hi8uUVoThLf1gLVsVCrhiL+YwIzo+OEZ2Xy4pgpU7dBTzI5e1kAO4WJjyk0FVRQI3JS9CxFo+Tum4E64gh92jda9YmbxE9A/cHM3WU=;fRU3/rJLI8BKUkWF4tdMmA=="
 ---

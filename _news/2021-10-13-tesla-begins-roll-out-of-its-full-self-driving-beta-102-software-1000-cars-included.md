@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-fu
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -52,22 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Tesla is rolling out 'Full Self-Driving' to owners of its cars who who have 'high safety score', despite ongoing NHTSA probe over deadly 'autopilot' crashes, with widow of one ..."
-    excerpt: "Tesla is making the update available to car owners who garner '100/100 safety scores' - but drivers say the criteria to obtain such a rating encourages them to violate widely accepted traffic laws."
-    publishedDateTime: 2021-10-12T15:20:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10083777/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10083777/amp/Tesla-rolling-Self-Driving-update-owners-high-safety-score.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/12/15/49076925-0-image-a-4_1634047424148.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "znrabNRb569s+DMjU52ML77EyjwMhh8e3063IkvH73MOqCCY5i81bubuWj9FdYYtAsCZxnDQedotHDcbHiOQ56cPxwhaaRRew5WCAHcrryTPGXjx75ppz5jHDSi2q5+sliL5i90aDcdH0vWYnDhY8KGs0lUul4WVrVuqOqbjTdYtaFUGu1BpyTmZtE/jF3rlN9y2zdIbV3ZirqI4pHvBOmgYuh4d0YeaHe75mnaZu3JGMB8DTqHbFXNbfKgBi7TPtz6d0SgtrSOx+IUC9LUgJ4DQwI2Y894UpGEj8jU3pfPlVb7dqo7DxGGlTh47bN742A2BMDybz+h4ufo3shBPTSjGoQHI9pi79jGyco2THoo=;OqkLNKGq4O95r46+cs3Gng=="
 ---

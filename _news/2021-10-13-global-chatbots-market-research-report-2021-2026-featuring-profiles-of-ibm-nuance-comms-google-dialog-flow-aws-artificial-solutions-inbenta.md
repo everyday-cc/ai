@@ -85,20 +85,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Report Till 2026 | Industry Analysis & Forecast"
-    excerpt: "The research document on Artificial Intelligence and Machine Learning market comprises of key trends that define the industry growth in terms of the regional landscape"
-    publishedDateTime: 2021-10-12T15:59:00Z
-    webUrl: "https://www.reportsgo.com/artificial-intelligence-and-machine-learning-market-176932"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 40
-    images:
-      - url: "https://www.reportsgo.com/img/img-10.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2021-10-13T10:58:00Z
@@ -211,6 +197,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
+    publishedDateTime: 2021-10-14T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
     excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
     publishedDateTime: 2021-10-13T14:44:00Z

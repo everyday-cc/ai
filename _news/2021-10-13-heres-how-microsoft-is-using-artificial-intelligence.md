@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-us
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 254
+published: true
 
 provider:
   name: The Motley Fool
@@ -25,17 +25,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Here's How Microsoft Is Using Artificial Intelligence"
-    excerpt: "Microsoft (NASDAQ: MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI)."
-    publishedDateTime: 2021-10-12T16:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12"
-    ampWebUrl: "https://www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-how-microsoft-is-using-artificial-intelligence-2021-10-12?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models"
     excerpt: "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test."
     publishedDateTime: 2021-10-14T08:00:08Z
@@ -60,22 +49,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "Microsoft and Nvidia created the world's largest, most powerful language model to date, but it's still biased"
-    excerpt: "Nvidia and Microsoft on Monday revealed they have been working together on something called the “Megatron-Turing Natural Language Generation model.” The two companies claim they’ve created"
-    publishedDateTime: 2021-10-12T15:05:00Z
-    webUrl: "https://www.techspot.com/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91699-microsoft-nvidia-created-world-largest-most-powerful-language.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 72
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-12-image-14.jpg"
-        width: 3840
-        height: 2880
         isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM"
     excerpt: "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"

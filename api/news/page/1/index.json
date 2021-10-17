@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
+      "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
+      "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/578fa339d916724cb77388670d5ea274.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "publishedDateTime": "2021-10-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-facial-recognition-cameras-arrive-in-uk-school-canteens.md",
       "title": "Facial recognition cameras arrive in UK school canteens",
       "excerpt": "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,",
@@ -88,58 +140,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-17-moscow-metro-introduces-facial-recognition-based-payments.md",
-      "title": "Moscow Metro Introduces Facial Recognition-Based Payments",
-      "excerpt": "Moscow has equipped more than 240 of its metro stations with a new system called Face Pay that uses facial recognition to charge passengers for their fare, which is said to be more convenient than swiping a card or paying with a smartphone,",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments",
-      "originalUrl": "https://in.pcmag.com/security/145530/moscow-metro-introduces-facial-recognition-based-payments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/m/moscow-met/moscow-metro-introduces-facial-recognition-based-payments_59gg.1200.jpg",
-          "width": 810,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-16-uncovering-the-importance-of-artificial-intelligence-ai-in-the-pharmaceutical-industry.md",
       "title": "Uncovering the Importance of Artificial Intelligence (AI) in the Pharmaceutical Industry",
       "excerpt": "The increase in AI-related job announcements showcases the industry’s expectations for this technology to transform and advance the pharmaceutical value chain.",
@@ -190,7 +190,7 @@
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -516,7 +516,7 @@
       "originalUrl": "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {

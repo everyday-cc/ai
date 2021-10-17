@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM unveils AI to help firms respond to climate risks"
-    excerpt: "IBM has released a suite of environmental intelligence software that leverages artificial intelligence to help organisations respond to weather and climate risks that may disrupt business and reduce the complexity of regulatory compliance and reporting."
-    publishedDateTime: 2021-10-12T16:28:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 157
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nwqkzm/article36972261.ece/ALTERNATES/LANDSCAPE_615/AI"
-        width: 615
-        height: 384
-        isCached: true
   - title: "IBM turns to AI to predict and mitigate climate risk"
     excerpt: "IBM has launched a new AI-based tool to help companies assess and mitigate climate risks and their carbon footprint. Dubbed the Environmental Intelligence Suite (EIS), the SaaS tool brings together artificial intelligence,"
     publishedDateTime: 2021-10-13T08:23:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/73520fc/8bd9349e-7189-4bd1-abb2-eee31f3fdea5/4/iw-climate-change-004-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Mortgage AI provider launches language tool"
+    excerpt: "Mortgage technology firm Meet Parker has launched a new multi-language translation tool to its ‘Parker’ chatbot."
+    publishedDateTime: 2021-10-13T09:40:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/news/2021/10/13/mortgage-ai-provider-launches-language-tool/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/03/phil-bailey.jpg"
+        width: 6000
+        height: 4200
         isCached: true
   - title: "IBM Announces AI-Driven Software for Environmental Intelligence"
     excerpt: "IBM has unveiled a new suite of environmental intelligence software that uses AI to enable organizations to prepare for and respond to weather and climate risks. By doing this, these companies can avoid business disruption,"

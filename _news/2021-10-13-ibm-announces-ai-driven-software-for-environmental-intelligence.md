@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM unveils AI to help firms respond to climate risks"
-    excerpt: "IBM has released a suite of environmental intelligence software that leverages artificial intelligence to help organisations respond to weather and climate risks that may disrupt business and reduce the complexity of regulatory compliance and reporting."
-    publishedDateTime: 2021-10-12T16:28:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-unveils-ai-to-help-firms-respond-to-climate-risks/article36972262.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 157
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/nwqkzm/article36972261.ece/ALTERNATES/LANDSCAPE_615/AI"
-        width: 615
-        height: 384
-        isCached: true
   - title: "IBM launches AI service to assist companies with climate change analysis"
     excerpt: "IBM's new Environmental Intelligence Suite leverages AI-powered tools and analytics technologies to help companies measure climate change."
     publishedDateTime: 2021-10-13T04:01:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/73520fc/8bd9349e-7189-4bd1-abb2-eee31f3fdea5/4/iw-climate-change-004-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Mortgage AI provider launches language tool"
+    excerpt: "Mortgage technology firm Meet Parker has launched a new multi-language translation tool to its ‘Parker’ chatbot."
+    publishedDateTime: 2021-10-13T09:40:00Z
+    webUrl: "https://www.mortgagesolutions.co.uk/news/2021/10/13/mortgage-ai-provider-launches-language-tool/"
+    type: article
+    provider:
+      name: mortgagesolutions.co.uk
+      domain: mortgagesolutions.co.uk
+    quality: 39
+    images:
+      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/03/phil-bailey.jpg"
+        width: 6000
+        height: 4200
         isCached: true
 
 secured: "riTkjH4tofnTPka+yPtlmShNkgi3yFjN/MzmiqigfSqdD8DtsM6oPKFlBx2a1ZEdepiMOFD6Qgt7ZJLBjxQ52knDLlm2Ohtv1fIAFkOhKcE/y0OXKOpXUS20zrjfpM94SHTEo8YIeGZUONfx0PmF9P7gpVgg6SFVJWQBMqaxAru3uQ9jWhtA0uHI45Zk/x8ALMr2fXgCV5T801aCM5svDoDXDEts/e1+vBTVUBgYmTjBpEYYELyNqMk7KsVk1QbeCn36dCQbYW5fH7f2qeG9x6nCA3QqMSOdWLEcfz3AJC+HfOXGGOnCQL71N/b43LsmJPe0LAvf1hP6v4DfsPYhceNF8tNA5YXF3U3pi3WN8co=;zhoGscEPiXMIuDKQSNaIxg=="

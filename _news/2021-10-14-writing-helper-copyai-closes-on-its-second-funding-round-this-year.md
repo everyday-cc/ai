@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 type: article
 quality: 187
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png"
         width: 1240
         height: 1280
-        isCached: true
-  - title: "Ultrasound AI firm completes financing round"
-    excerpt: "Ultrasound artificial intelligence (AI) technology startup DeepSight Technology has received $25 million in a series A funding round."
-    publishedDateTime: 2021-10-12T15:36:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133747"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/sup_imc/2017_04_20_14_33_37_718_money_hundred_bills_400.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"

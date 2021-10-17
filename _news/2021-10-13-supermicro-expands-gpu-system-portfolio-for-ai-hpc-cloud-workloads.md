@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/10/supermicro-expands-gpu-system-portfo
 webUrl: "https://insidehpc.com/2021/10/supermicro-expands-gpu-system-portfolio-for-ai-hpc-cloud-workloads/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
-    excerpt: "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, announces new systems based on NVIDIA® Ampere architecture GPUs and 3 rd Gen Intel Xeon Scalable processors with built-in AI accelerators (Supermicro X12 series)."
-    publishedDateTime: 2021-10-12T15:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workloads-1030859271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1657653/Supermicro_Expands_GPU_System_Portfolio.jpg"
-        width: 1000
-        height: 400
-        isCached: true
   - title: "Supermicro Expands GPU System Portfolio with Innovative New Servers to Accelerate a Wide Range of AI, HPC, and Cloud Workloads"
     excerpt: "Super Micro Computer, Inc. (SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing"
     publishedDateTime: 2021-10-12T22:35:00Z

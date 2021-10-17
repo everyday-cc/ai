@@ -63,20 +63,6 @@ related:
         width: 1240
         height: 1280
         isCached: true
-  - title: "Ultrasound AI firm completes financing round"
-    excerpt: "Ultrasound artificial intelligence (AI) technology startup DeepSight Technology has received $25 million in a series A funding round."
-    publishedDateTime: 2021-10-12T15:36:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133747"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/sup_imc/2017_04_20_14_33_37_718_money_hundred_bills_400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
     excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
     publishedDateTime: 2021-10-14T11:20:00Z
