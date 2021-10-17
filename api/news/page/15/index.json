@@ -368,19 +368,19 @@
     {
       "path": "_news/2021-10-02-mars-robots-take-cruise-control-during-solar-event.md",
       "title": "Mars robots take cruise control during solar event",
-      "excerpt": "The words of John Denver's \"Take Me Home, Country Roads\" came to mind ... on simplified cruise control. Consider it a two-week Martian summer break for the unsupervised robots, and a bit of ...",
+      "excerpt": "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html",
-      "originalUrl": "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html",
+      "webUrl": "https://www.waaytv.com/content/national/575445912.html",
+      "originalUrl": "https://www.waaytv.com/content/national/575445912.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210929173358-01-nasa-mars-solar-conjunction-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png",
+          "width": 640,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -388,23 +388,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html",
-      "publishedDateTime": "2021-10-02T09:33:00-07:00",
+      "ampWebUrl": "http://www.waaytv.com/templates/AMP?contentID=575445912",
+      "cdnAmpWebUrl": "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575445912",
+      "publishedDateTime": "2021-10-02T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WAAY-TV",
+        "domain": "waaytv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

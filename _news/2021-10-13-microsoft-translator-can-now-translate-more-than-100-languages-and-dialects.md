@@ -206,17 +206,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft thwarts mega-DDoS attack on Azure platform"
-    excerpt: "Tbps DDoS attack on an undisclosed Microsoft Azure customer may have been the largest ever attempted against a single target."
-    publishedDateTime: 2021-10-12T07:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform"
-    ampWebUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
     publishedDateTime: 2021-10-14T16:13:00Z

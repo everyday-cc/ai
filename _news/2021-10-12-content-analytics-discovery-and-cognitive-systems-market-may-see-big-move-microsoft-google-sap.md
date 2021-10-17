@@ -207,17 +207,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft thwarts mega-DDoS attack on Azure platform"
-    excerpt: "Tbps DDoS attack on an undisclosed Microsoft Azure customer may have been the largest ever attempted against a single target."
-    publishedDateTime: 2021-10-12T07:14:00Z
-    webUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform"
-    ampWebUrl: "https://www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252508026/Microsoft-thwarts-mega-DDoS-attack-on-Azure-platform?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Microsoft Translator Can Now Translate More Than 100 Languages And Dialects"
     excerpt: "Microsoft says that its Translator can now make text and information in documents accessible to 5.66 billion people worldwide."
     publishedDateTime: 2021-10-13T05:46:00Z
