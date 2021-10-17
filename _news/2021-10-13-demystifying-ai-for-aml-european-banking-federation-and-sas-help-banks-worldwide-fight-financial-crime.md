@@ -39,15 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Planning for Your Financial Future in an Evolving World"
-    excerpt: "We invite you to join Edelman Financial Engines for a special virtual event on planning your retirement income and financial future in a continually evolving world. You'll hear from Ric Edelman, who will provide his expert opinion on what's coming and how to build a financial plan that will anticipate developments in technology and help you prepare for them."
-    publishedDateTime: 2021-10-12T18:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/planning-for-your-financial-future-in-an-evolving-world-1030860190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "EBF and SAS join forces to fight financial crime"
     excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP."
     publishedDateTime: 2021-10-14T14:38:00Z

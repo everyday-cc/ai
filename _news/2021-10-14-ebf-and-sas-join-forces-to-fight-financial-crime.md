@@ -53,15 +53,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Planning for Your Financial Future in an Evolving World"
-    excerpt: "We invite you to join Edelman Financial Engines for a special virtual event on planning your retirement income and financial future in a continually evolving world. You'll hear from Ric Edelman, who will provide his expert opinion on what's coming and how to build a financial plan that will anticipate developments in technology and help you prepare for them."
-    publishedDateTime: 2021-10-12T18:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/planning-for-your-financial-future-in-an-evolving-world-1030860190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "/SdPntZD1mzoOu7+nSR8tt3dL1IlW9Ky9a/VFAmnBAVLlzzBWKKEKEQe0AMRxtmOHl1BsQbpuEP3HW4N2JEJS9tfMhcBd2lDVvSaDtHlMONNRL/Xm3110P3ics+qxE3KwCsudEcMwzbT8D0hCFCFVhhC5iFeVM6bWIfwPHxKuANTVs3wcC9y09DXGPrwtPmZlXZJUk1eWqKOYKcddyT3ry2UKHOoFVZkJpvQEjAuki57B8htijFLJZibJW4lrIdShoZfJ6OWLB65+vyCkzt6O4L503KRE15XypphYuXMBf5cddvJuGGq3aMf3X61iNEcNVi4Ybx1NBN+TVlq3oeCyk5oYoE8tfV6SV2/AHQ4+o0=;JYWiIEc1f/nTel785yRCzg=="
 ---

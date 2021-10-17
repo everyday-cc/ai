@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 type: article
 quality: 187
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png"
         width: 1240
         height: 1280
+        isCached: true
+  - title: "Clear the funding roadblock, AIIA urges on artificial intelligence"
+    excerpt: "More than $124 million in new funding for artificial intelligence research and industry development support allocated in the federal budget in May is still locked up inside the Industry department, with no clear signal on how and when it will be rolled out."
+    publishedDateTime: 2021-10-17T09:56:00Z
+    webUrl: "https://www.innovationaus.com/clear-the-funding-roadblock-aiia-urges-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 52
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2020/10/Abstract_Tunnel_1644528388_OP.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"

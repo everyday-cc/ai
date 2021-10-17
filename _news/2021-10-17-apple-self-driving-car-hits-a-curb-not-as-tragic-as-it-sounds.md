@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/apple-self-driving-car-hits-a-c
 webUrl: "https://www.autoevolution.com/news/apple-self-driving-car-hits-a-curb-not-as-tragic-as-it-sounds-171893.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 728
     height: 300
     isCached: true
-
-related:
-  - title: "Lucid Shows Off Its Self-Driving Prowess. The Stock Isn’t Moving."
-    excerpt: "Electric vehicle maker Lucid announced details of its \"DreamDrive,\" which the company calls the most technically sophisticated driver assistance system out there."
-    publishedDateTime: 2021-10-12T17:16:00Z
-    webUrl: "https://www.barrons.com/articles/lucid-ev-stock-lcid-51634058746"
-    ampWebUrl: "https://www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lucid-ev-stock-lcid-51634058746"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-415499/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "vvYQCH0Y4hTcOaQf0QljB/fr1IZT6268LgfhRQu4yFzY9f84h/zbQ0VoNdBZGLadTUjUu7Bm4x8RHfiL/O4EtU5Na+ndBp1Htr4vJrqSM3f4EflBoLl43hIuxxKtXqO81hs27YYd0WEIPs8CdrXrQyIFWRe7xwQJ/7aYM7LWmVqCrukTYbvYEbKkzXavprE16z7dYcu/x17c8KysHMa1Rk3Gm8jB6JqhYAw1Wyy6e2a9dPjo+kCVLDG+egbSJFDHnaPOnd6aou63HTdf+8YDJbHcdN84RRWV6VOGZ74UxaI1l66CGO260PSHNudxq8doMleNl1viklH43Ns+MYBUBiD/omsWP5f6D5EYCRIYxflygy/47ahS3I4x4oEjaziREyivsv3KoWE08TCNQlrrDmBgfNMoP+G6+/kdayuWRohrj2SSf3RB5rH6aqt1wsD24th5sDCFvkco/b6tmkH47tToTRkToj/3UEozT67PnbCzZokzICcdXX+xLcj+tRF2iN93lzU3Oa4Ffrrdesz6Tg==;c5SobBO/uaJ0QkXBabyrXg=="
 ---

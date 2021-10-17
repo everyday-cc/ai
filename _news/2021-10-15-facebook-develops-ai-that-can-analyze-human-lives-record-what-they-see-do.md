@@ -119,22 +119,6 @@ related:
         width: 708
         height: 425
         isCached: true
-  - title: "Facebook’s moment of no return"
-    excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
-    publishedDateTime: 2021-10-12T17:07:00Z
-    webUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/"
-    ampWebUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/amp/"
-    cdnAmpWebUrl: "https://psuvanguard-com.cdn.ampproject.org/c/s/psuvanguard.com/facebooks-moment-of-no-return/amp/"
-    type: article
-    provider:
-      name: PSU Vanguard
-      domain: psuvanguard.com
-    quality: 44
-    images:
-      - url: "https://psuvanguard.com/wp-content/uploads/2021/10/AP_21278523584186.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook wants machines to see the world through our eyes"
     excerpt: "A massive new video dataset will help train smart assistants and robots—but there are obvious concerns about how the tech will be used."
     publishedDateTime: 2021-10-14T12:04:00Z
@@ -192,6 +176,20 @@ related:
       - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/10/facebook-header-1-2.jpg"
         width: 2560
         height: 1439
+        isCached: true
+  - title: "Now Facebook’s AI Model Can Anticipate Your Future Actions"
+    excerpt: "AVT would be a strong candidate for tasks beyond anticipation, such as self-supervised learning, and general action recognition in tasks."
+    publishedDateTime: 2021-10-17T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/now-facebooks-ai-model-can-anticipate-your-future-actions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-6.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
     excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1920
     height: 1276
     isCached: true
-
-related:
-  - title: "Novel lighting system designed for machine vision module of agricultural robots"
-    excerpt: "A novel camera system using active lighting devised by Penn State researchers may be a crucial step in developing machine vision systems that allow robotic devices to more clearly \"see\" the agricultural targets with which they will react."
-    publishedDateTime: 2021-10-12T17:03:00Z
-    webUrl: "https://techxplore.com/news/2021-10-machine-vision-module-agricultural-robots.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-machine-vision-module-agricultural-robots.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-machine-vision-module-agricultural-robots.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/novel-lighting-system.jpg"
-        width: 730
-        height: 546
-        isCached: true
 
 secured: "lFcLxCdwFMhEo5PUaE2h5zdhTYV759oFmweva8v/4QXQpxErxHYLeaF+IFSvv9QBvay3bjx3UhHQcHHOB/zrzGGM0SJWU4fiXFq53YAsqnf9P8cJgQvUfG6pAJ4uVMu1ICh8X53Wkj3YTRuuz58qXvtvBPSpQE3SGQWKi5AhVAjWGteq3MbMdPmxuLQCI5UL2EvLC6eIRuXW8zyOFZLgOXfXoqbjmnG69xsm7qIsNZeA8+WqMmJKK5kcUjGje9Dc/J6ZkHTMBQtbQSBSe0VenQwrI5yP8wXeGkObUcbu4KVwVm35jn0FgnlQ394b+Hhaw2NSCI+OwA+2z3tMspWQCBcg9DmoPqHap68QD6fx60s7LDTteVhvOzXWDVZoWMKLRsWbLTP1dDEz+AWG0lK8S0X1Bb33YtwmLCionArY+R/FQzA9Rj9LADJGZsGBOB06i/QwBI/n9AO8zOmzPs32RQjBRWo1fOprPY3CgsiZHQ33Rf/fu0zzNHbx1JgiYl1ZvS5h/Jc6VFle/XXAfNWCoQ==;0GRKJ6xS9D/HYcyN3AyK7A=="
 ---

@@ -68,6 +68,20 @@ related:
         width: 1240
         height: 1280
         isCached: true
+  - title: "Clear the funding roadblock, AIIA urges on artificial intelligence"
+    excerpt: "More than $124 million in new funding for artificial intelligence research and industry development support allocated in the federal budget in May is still locked up inside the Industry department, with no clear signal on how and when it will be rolled out."
+    publishedDateTime: 2021-10-17T09:56:00Z
+    webUrl: "https://www.innovationaus.com/clear-the-funding-roadblock-aiia-urges-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 52
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2020/10/Abstract_Tunnel_1644528388_OP.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Hearing on Artificial Intelligence"
     excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
     publishedDateTime: 2021-10-13T16:12:00Z

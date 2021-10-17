@@ -62,20 +62,6 @@ related:
         width: 1454
         height: 818
         isCached: true
-  - title: "Scientists use AI, X-rays, and 3D printing to reveal a hidden Picasso"
-    excerpt: "Researchers from University College London used AI to recreate a Picasso painting that had been hidden under another artwork for 118 years."
-    publishedDateTime: 2021-10-12T17:33:00Z
-    webUrl: "https://thenextweb.com/news/ai-reveals-picasso-artwork-hidden-under-painting"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-1-2.jpg&signature=84a51c953aacda69e7e9ffc672013840"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI used to reproduce 'lost' Picasso nude"
     excerpt: "A painting of a naked woman by Pablo Picasso that has been hidden beneath one of his \"Blue Period' masterpieces for more than a century has been recreated by UCL scientists using a combination of X-rays,"
     publishedDateTime: 2021-10-12T19:08:00Z

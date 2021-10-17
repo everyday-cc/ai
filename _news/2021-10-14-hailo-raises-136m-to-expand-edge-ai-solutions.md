@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/investments-and-expansions/21068-hailo
 webUrl: "https://www.thefastmode.com/investments-and-expansions/21068-hailo-raises-136m-to-expand-edge-ai-solutions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "Hailo reels in $136M for its ultrafast edge AI chip"
-    excerpt: "Artificial intelligence chip startup Hailo Technologies Ltd. today announced that it has closed a $136 million funding round to expand go-to-market operations and improve its technology. The round was led by Poalim Equity and Gil Agmon."
-    publishedDateTime: 2021-10-12T17:38:00Z
-    webUrl: "https://siliconangle.com/2021/10/12/hailo-reels-136m-ultra-fast-edge-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Hailo.png"
-        width: 990
-        height: 555
-        isCached: true
 
 secured: "7EKSGZ8B3VUvYeKUkbGnJ9e0h+Du/XKEaShN7r3RuuBf8aSq5XNwTcBpmzy9/vjnK9wIY83ZzA4xaqg6FIZSA73gYWjivA3chBsPfVeNHQgf0wg8MzpfuivIsddLAOvnuFYsj8Vkb0Cq7s7rXfCNLwCaorN+W475plLZYmxZ55Qskz72T01Q48tIslr/LkXI4+rffjQRG1pT9N6fauypzY2dEUEiAePYyDPPuM5jYRm5T6IkKG8EfTTK1REgTdrvtQq02aJxKebwsaZLxrL7beymOhZTVjOtaAkmI1k+OAhUNziTGKQMcpXibJDfYWSsu82oe/rZ/c7a/KWezXeUVECj52T/0Fvw6jyeBAazySXrW4DI5j6MWYbCQYHuLi2lEWyzL9TCHbYpr7JjXc0Tt/uLHGefJ5NZTEjdBu4tcZJkrURrvlhsIx/Sgvid8s23M7YCJ0l7w/4tmpymSoRq8UaXEsgYrn3lsPWSRHC3sgh7Hjm7NS8jknliAOU43rhBRSvtjTMz/tcWNNJ2Bp8fng==;uj2RaAHygsTNBYkrj/iEJQ=="
 ---

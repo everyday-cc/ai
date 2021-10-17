@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beethoven's Last Symphony Has Been Completed, Thanks to Artificial Intelligence"
-    excerpt: "On the 250th anniversary of Beethoven's death, The Beethoven Project debuted a finished piece during a livestream."
-    publishedDateTime: 2021-10-12T17:49:00Z
-    webUrl: "https://www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492"
-    ampWebUrl: "https://www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/beethovens-last-symphony-has-been-completed-thanks-to-artificial-intelligence-70492?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 53
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The unfinished symphony: Beethoven’s 10th symphony gets completed with help of AI"
     excerpt: "The city, which the great composer made his home at the age of 22, paid special homage to music all though the year to mark its appreciation for the maestro."
     publishedDateTime: 2021-10-17T03:16:00Z

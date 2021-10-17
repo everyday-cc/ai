@@ -133,22 +133,6 @@ related:
         width: 708
         height: 425
         isCached: true
-  - title: "Facebook’s moment of no return"
-    excerpt: "Facebook Inc. has had quite a rough week during the first month of Oct.   On Oct. 4, 2021, from about 11:40 a.m. to 6:30 p.m. EST, Facebook encountered"
-    publishedDateTime: 2021-10-12T17:07:00Z
-    webUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/"
-    ampWebUrl: "https://psuvanguard.com/facebooks-moment-of-no-return/amp/"
-    cdnAmpWebUrl: "https://psuvanguard-com.cdn.ampproject.org/c/s/psuvanguard.com/facebooks-moment-of-no-return/amp/"
-    type: article
-    provider:
-      name: PSU Vanguard
-      domain: psuvanguard.com
-    quality: 44
-    images:
-      - url: "https://psuvanguard.com/wp-content/uploads/2021/10/AP_21278523584186.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook wants machines to see the world through our eyes"
     excerpt: "A massive new video dataset will help train smart assistants and robots—but there are obvious concerns about how the tech will be used."
     publishedDateTime: 2021-10-14T12:04:00Z
@@ -206,6 +190,20 @@ related:
       - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2021/10/facebook-header-1-2.jpg"
         width: 2560
         height: 1439
+        isCached: true
+  - title: "Now Facebook’s AI Model Can Anticipate Your Future Actions"
+    excerpt: "AVT would be a strong candidate for tasks beyond anticipation, such as self-supervised learning, and general action recognition in tasks."
+    publishedDateTime: 2021-10-17T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/now-facebooks-ai-model-can-anticipate-your-future-actions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-6.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "m8Wj7q3U5vrr7Y59o2U+T9gKJhs7bAJqjTj4Hnht8xEdJdqhVYd9CqTap2bJMwssCH6XqNHyMzgLRG/o6kq53JnRwC0E/ogP0ZMLRAlV5/Fl9qQmbovJn1SCv1gAKJJhoKEA5kMEcyc0//+pIgnKn0MnR/HaXswLwJTiBTYuWA6qtLyjvt9qel/i4WsddmKNg88TJh4nabQQ5OZOfRRu7FCD6ViLInaVmMUk0uxOU9IBL3oGzGS5fl3ryWAea2YJs1IWayWvhwwnVfxX41SxWUaaK9mBMB261xQoUNchOxaHSdy6J6NnFqrEzaXuc7K074gO35t6lhjXWv/QZx6hDmtgPgZdu8SWPEfL/lyfr+R3CbW+M2qwJGebdkFvZt2ZeB0/harpyeEuBie9y3pJaDRLvRYGMeQW4/ZVbSWZJWbzDjbUeQ47j6iyBVVJad+f+LS3Pbcp6caPTBTD2D+Pi0ZAQy0a+1XhqvdGfyOs9uJTJu4DgCNSNHE5pahaX27RNbMneoIzn1sEn6ndzkWBEA==;nCkrOeVD/cKk088Cdwsi7w=="

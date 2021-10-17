@@ -63,6 +63,20 @@ related:
         width: 1240
         height: 1280
         isCached: true
+  - title: "Clear the funding roadblock, AIIA urges on artificial intelligence"
+    excerpt: "More than $124 million in new funding for artificial intelligence research and industry development support allocated in the federal budget in May is still locked up inside the Industry department, with no clear signal on how and when it will be rolled out."
+    publishedDateTime: 2021-10-17T09:56:00Z
+    webUrl: "https://www.innovationaus.com/clear-the-funding-roadblock-aiia-urges-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: Innovation
+      domain: innovationaus.com
+    quality: 52
+    images:
+      - url: "https://www.innovationaus.com/wp-content/uploads/2020/10/Abstract_Tunnel_1644528388_OP.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
     excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
     publishedDateTime: 2021-10-14T11:20:00Z
