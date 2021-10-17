@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-14-robotics-hiring-in-the-power-industry-rose-in-august-2021.md",
+      "title": "Robotics hiring in the power industry rose in August 2021",
+      "excerpt": "The percentage of power industry companies hiring for robotics-related positions rose to 15.9% of companies in August 2021. The proportion of power industry operations and technologies companies hiring for robotics related positions rose in August 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
+      "originalUrl": "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/main-2339.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Power Technology",
+        "domain": "power-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-oaic-finds-against-7-eleven-over-facial-recognition-usage.md",
       "title": "OAIC finds against 7-Eleven over facial recognition usage",
       "excerpt": "OAIC: The convenience store group interfered with customers' privacy by collecting sensitive biometric information that was without necessity or reasonable consent. Between June 2020 and August 2021,",
@@ -96,7 +139,7 @@
       "originalUrl": "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -129,7 +172,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -797,7 +840,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1138,58 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
-      "title": "DeepMind is developing one algorithm to rule them all",
-      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
-      "publishedDateTime": "2021-10-12T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

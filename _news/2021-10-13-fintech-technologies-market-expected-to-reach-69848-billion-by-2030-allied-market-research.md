@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102961269/Fintech-Technologies-Market-Expected
 webUrl: "https://menafn.com/1102961269/Fintech-Technologies-Market-Expected-to-Reach-69848-Billion-By-2030-Allied-Market-Research"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,110 +23,6 @@ images:
     width: 400
     height: 250
     isCached: true
-
-related:
-  - title: "Fintech Ecosystems — Some Assembly Required"
-    excerpt: "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive."
-    publishedDateTime: 2021-10-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How fintech can bridge the credit gap for first-time borrowers"
-    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 promising FinTech companies in Florida"
-    excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
-    publishedDateTime: 2021-10-12T13:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-promising-fintech-companies-in-florida/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
-    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
-    publishedDateTime: 2021-10-13T11:17:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
-    excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
-    publishedDateTime: 2021-10-14T07:57:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-2-fintech-industry-insights"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAVVYY welcomes fintech expert as new director"
-    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
-    publishedDateTime: 2021-10-14T12:10:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "FinTech trends for Year 2022"
-    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
-    publishedDateTime: 2021-10-16T05:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
-        width: 1276
-        height: 542
-        isCached: true
 
 secured: "zht5Z2ZQWXdNpY4TGknYmoGVEFBryrWNnptfE8wr61h3l+BsjQfappUlFnzvnbBQh65M8RBg6vPy2iluS+VL+li/XcNHAbeqihqadH0e4+/m3oFq46qADNlkAi0giFXeTBY+UgBdbylPXoixIjSoyWsPz4ZIvqMCgoNxmY1ov+pmUDNhiBTe3QLlL3B/Bcv1eTNUA4gmK+qaVX/gxzudi1DS4PxfTQUuTij7RjZi+DhEfrO6sN8z5Ua3u7WTHYiRO1gAhemdiKbQG6vn/4vuS5DOZI47YP58FwZRBklOr5Fru1lBuKpkBa52EilIUD5qxuXB1+fWvbojcgf+qkZAhpOsn87fBUhILZlKZXO/ErI=;l6BH9qiv/9mWclSZkI+cOw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-10/101221_ai_beethoven_web.jpg?h=d1cb525d&width=1280&height=720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The unfinished symphony: Beethoven’s 10th symphony gets completed with help of AI"
+    excerpt: "The city, which the great composer made his home at the age of 22, paid special homage to music all though the year to mark its appreciation for the maestro."
+    publishedDateTime: 2021-10-17T03:16:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 52
+    images:
+      - url: "https://images.financialexpress.com/2021/10/Beethoven.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How an AI finished Beethoven’s last symphony and what that means for the future of music"
     excerpt: "Computer scientists have teamed up with historians, musicologists and composers to teach an artificial intelligence to compose like Beethoven."

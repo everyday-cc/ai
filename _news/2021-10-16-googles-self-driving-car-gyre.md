@@ -35,20 +35,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Hyundai Mobis develops a foldable steering wheel system for self-driving car"
-    excerpt: "The SBW is a high-tech control system that transmits steering power generated from the steering wheel to wheels through electronic signals"
-    publishedDateTime: 2021-10-12T10:13:00Z
-    webUrl: "https://asianage.com/business/autos/121021/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car.html"
-    type: article
-    provider:
-      name: The Asian Age
-      domain: asianage.com
-    quality: 36
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-q6ct4bbrrprps6bmslgibi1ik2-20211012154152.jpeg"
-        width: 400
-        height: 224
-        isCached: true
 
 secured: "moENnRwv+xE0Ev1CFZRgHN1Wb99Mr4bz6FrQ+xbP+sQAtBNvr2jmrcj0MECE4swJ14UdkCGGleGXIWMEouEteU5X6Suf6j/uxZ2nfM8qI39SVdwp2uW5tKNMygH9VG3WRexRN05GdO8AMZIFxJevFbKoIn/6jm/c5AEpyHPQkzVgdHcOtG/IaiI2sJHEyWEoEwW2VkK+pHiC4Vb5SIaW4ZJn8B5dYBVDymrV9X03uRFbVf7di5jQFY23IUvXPmzPoVft/CPmDDRVaz8E1Rk+WAMwEawGCtn4axONf/rbo6QOtW60AgJpdY+M6cnSQupgchLy9dYEEKXFTs5ANMdP/j/peI4my9vM2QmnP6uSV5k=;IQkpef3CA4pKh260judFxA=="
 ---

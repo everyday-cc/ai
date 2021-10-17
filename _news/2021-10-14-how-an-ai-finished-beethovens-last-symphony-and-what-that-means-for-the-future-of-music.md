@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The unfinished symphony: Beethoven’s 10th symphony gets completed with help of AI"
+    excerpt: "The city, which the great composer made his home at the age of 22, paid special homage to music all though the year to mark its appreciation for the maestro."
+    publishedDateTime: 2021-10-17T03:16:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/the-unfinished-symphony-beethovens-10th-symphony-gets-completed-with-help-of-ai/2350925/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 52
+    images:
+      - url: "https://images.financialexpress.com/2021/10/Beethoven.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence helps complete Beethoven Symphony"
     excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
     publishedDateTime: 2021-10-13T09:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/10/10-15WeatherPrediction-2-1.jpeg"
         width: 550
         height: 366
+        isCached: true
+  - title: "The Fundamental Flaw in Artificial Intelligence & Who Is Leading the AI Race? Artificial Human Intelligence vs. Real Machine Intelligence"
+    excerpt: "Artificial intelligence is impacting every single aspect of our future, but it has a fundamental flaw that needs to be addressed."
+    publishedDateTime: 2021-10-17T02:47:00Z
+    webUrl: "https://www.bbntimes.com/science/the-fundamental-flaw-in-artificial-intelligence-who-is-leading-the-ai-race-artificial-human-intelligence-vs-real-machine-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 29
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Fundamental_Flaw_in_Artificial_Intelligence__Who_Is_Leading_the_AI_Race_Artificial_Human_Intelligence_vs._Real_Machine_Intelligence.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BWXJ7GwmJVYblvxbmT9GGGtlqsnpuMXNuDuJWW9z/5KOZ5ln/nClhOcIA2QwnkskRgghJycJVQE88TOIAhedf68UVjCIOu48EFGGlFlkZ2XzmkO8LCaKzQ03KcgfFJJbP3p5G7tUzw1sfHxEy4/NWkjQdPEcuCnxlAYec0OtE8Ff4lfztl/CwidBOzEhpIgD5BpSRRRf7tkMlfJRQpX6ILmzd0xKy9oHKcAaVPuL7lYn/gIeGvbX3Ka3afrNq4nBmFKpXBrN9qX1BpDvD0n+mm+yBa7a+XTJy35bWjLCDls8jbV84dljGfq/hL9EvsVJwD1we2zbCjx5ONizwwO+RB/cGSpSI/5M1cH1hp+a4gLmIkNmnuIfBfiR3FyFThzC6MIexwM2nOm9ScjUjzf5kvzyLNJ9lR0ITYZhwA2usk2Cw0HTemRQTSO86RK0Fq9gDecpsh3F2sLZKN7mQpPuMMQg4Ugt5mFaNIe0zawBcayo2lq7lwGqOTM2JRVNlg/ELY7+/VcorZoXjNjhGQVFKg==;OhuKYs1kuZQcsoSwsq0uvw=="

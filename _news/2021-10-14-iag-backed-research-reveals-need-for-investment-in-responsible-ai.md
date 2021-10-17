@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 716
         isCached: true
-  - title: "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning"
-    excerpt: "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications."
-    publishedDateTime: 2021-10-12T10:00:00Z
-    webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 57
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
-        width: 800
-        height: 446
-        isCached: true
 
 secured: "rOIrgCKMIBLYR4ukixaWRXAbFYDajM/RjHpyuxWLV3JA2QbMJT6gOfPRgC8G02PPlUDLntVnXBK6fqg8SGrbj3fCO8gJw4ZsJRYRZAWsjjdhaOTqnG7exBS5q/6dBiH6BJcBFP5wKsSnpNLZk1VTSO+rJijhn7+JCvaWp+3rA2SZp8fzaKv+UD8/4uzkx49CQesC25cqK9DeWqHuqRu0CtaX4Va15ksOTQav2MuBbDip222KPdiVKKsaj7Z9nSQO8QSPrsNB6/bdU6ffi5xCn7Xye+7XBeTZd/O3gxmvnsXAuG1FIn583Aa3eN0tkpqENIJ2GDxSdnvf2/TlCmmG7U/wHsyUH0Pn4o3F5mInZz8=;ORcMoMlTzSBr03dpvKkcsA=="
 ---

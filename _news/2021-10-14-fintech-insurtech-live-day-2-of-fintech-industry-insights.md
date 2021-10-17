@@ -25,52 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Ecosystems — Some Assembly Required"
-    excerpt: "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive."
-    publishedDateTime: 2021-10-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/"
+  - title: "Artificial Intelligence In Insurtech Market 2021 | Detailed Report"
+    excerpt: "A fresh report titled Artificial Intelligence In Insurtech Market has been presented by It evaluates the key market trends advantages and factors that are pushing the overall growth of the market Global Artificial Intelligence In Insurtech market to grow"
+    publishedDateTime: 2021-10-14T04:53:00Z
+    webUrl: "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How fintech can bridge the credit gap for first-time borrowers"
-    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 promising FinTech companies in Florida"
-    excerpt: "There is so much evolution taking place around the world almost in every sector, this evolution has not left the financial sector"
-    publishedDateTime: 2021-10-12T13:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-promising-fintech-companies-in-florida/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
   - title: "FinTech & InsurTech LIVE: Diversity in the sector"
     excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
     publishedDateTime: 2021-10-13T11:17:00Z
@@ -85,48 +50,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SAVVYY welcomes fintech expert as new director"
-    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
-    publishedDateTime: 2021-10-14T12:10:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
+  - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
+    excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
+    publishedDateTime: 2021-10-16T23:34:00Z
+    webUrl: "https://maxwellgunterdispatch.com/news/1849/fintech-in-insurance-market-to-witness-huge-growth-by-2021-2027/"
     type: article
     provider:
-      name: Mortgage
-      domain: mpamag.com
+      name: maxwellgunterdispatch.com
+      domain: maxwellgunterdispatch.com
     quality: 24
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
-        width: 1000
-        height: 600
+      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-16T192409.110-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "FinTech trends for Year 2022"
-    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
-    publishedDateTime: 2021-10-16T05:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+  - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
+    excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
+    publishedDateTime: 2021-10-13T13:50:00Z
+    webUrl: "https://www.insuranceinsider.com/article/296ju1oqm1h9txz429gxs/insurtech-start-up-humn-secures-10mn-to-fuel-expansion"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
-        width: 1276
-        height: 542
-        isCached: true
-  - title: "Fintech Technologies Market Expected to Reach $698.48 Billion By 2030: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global fintech technologies market size was valued at $110.57 billion in 2020, and is projected to reach $698.48 billion by 2030, growing at a CAGR of 20."
-    publishedDateTime: 2021-10-13T11:24:00Z
-    webUrl: "https://menafn.com/1102961269/Fintech-Technologies-Market-Expected-to-Reach-69848-Billion-By-2030-Allied-Market-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?238679"
-        width: 400
-        height: 250
-        isCached: true
+      name: Insurance Insider
+      domain: insuranceinsider.com
+    quality: 2
 
 secured: "OUGDcX1qfFZQo8dN9BISUBWbBZoY6q5tAg82NpR1TIcKjYqnm8NAiGXnQuBQ1+s6LxFWBtRH6YZQ17UtraIcf07obLdniwRZTAJdTtPudIVg5R/1XzHZdR6o4aj1+v3O2dHEGdfdQMu/N3wTlQsJqGTD61bDQI/3nVVoDQNUf0L0+jJN5Djc/f7tCuiaAhx6uZFYRhwmGnvOIfndd7JwDmzFjnozwB6t90fesOWz8lsUBHzL2OdqRjKT/mzaGtbE80UZk3VE1bX+AB1Opei6Bk6kQpg9CrYKUjcGEU63owPCaNd5+nmVykOjbHakxuhUuSACxYe0H0pq3eb9UWyaWBJ7xoJDokRAZLwq+iRulhk=;NNXeVIB/+8+kIfLg84xf7g=="
 ---

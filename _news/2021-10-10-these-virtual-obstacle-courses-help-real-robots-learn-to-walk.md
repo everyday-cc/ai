@@ -1,14 +1,11 @@
 ---
 category: news
 title: "These virtual obstacle courses help real robots learn to walk"
-excerpt: "The virtual robot army was developed by researchers from ETH Zurich in Switzerland and chipmaker Nvidia. They used the wandering bots to train an algorithm that was then used to control the legs of a real-world robot."
+excerpt: "As a result, the researchers say they were able to train the robots in less than one-hundredth the time that’s normally required. Using the specialized chips also presented challenges. Nvidia’s chips excel at calculations that are crucial for rendering graphics and running neural networks,"
 publishedDateTime: 2021-10-10T10:34:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/"
-webUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/"
+originalUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/"
+webUrl: "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: Ars Technica
@@ -28,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "7qf7770PNVEL+7naF5j4KjxV2sRJq97HMALFI4Gov6xSNpqNRZwU2ffCf/vMmnafRseyy/nDxFwVAwf92+XAV6KkDyFVeQzOfs9f/CZzBAp+dvnoIGLeVBl1hErsxX/04SFK2qTZH/VdgszJlicGFvdsTgaqwh7G5+1pGZf98a+Bsuzf7eiQjlDLuajQMCOpxNO8bsp0oUkzsOQZqM+0k8Y73F7edU/dL45oL5tE+zb6s8xdADHFZuktgyLQk3CB763Cf6pUi7TtP4UgBs1g38i3OrmDRBlSLlAxawjAJzO72FYflP+wmaabEucpndAUAaLufqEd0qnmkx+TxRgDhEYDkUU6TEjLtM3ONHMNx7aPgHTPAyBeO5SftUmR0M6VcFWOJ2XA7oP8oMUFQILfxvg3QUFtTn3faDJLktz636n45bTtXUAHnieEGZ3Nboe03ju5WDev8IShv5HjEbrh3bKqts2GEl8L8o3OfBB9uKpmxqnCQeUCjj7R/zsbnch1d2uuHOa96aR6Smu5EsXUzw==;6r0QWK9vjad2A19lk/cfBA=="
+secured: "UWdtZYSpHB1xoCQxn4Zx0fO4twadkffFiXbCSjU6DEfprzUbwtkSgy1mgICTeuVGGYciMqfpEhEnApTkTMOxoDupFpJ+41Ny6tvhaImDn/WoyLQgNHNBFVbfHGuRr+7CXtnDwOLvpZmc0NA4Mxegzhe1hQsAZ093zq0aT17gYVdxjjbT2NGGN+nr2UFYfmhNEyWmlvrfLK62hViQgZyyQTuVYx/gzpKNAD0Yc4PJ7wlG7srrWBJphwXEmebTp0bAOX3Wy6NCKpIF2bPGm5jk4t0C3UaFlVGjnZbCuOco3vMfH7D5n0RV9bm2iF44Jn2mcouAuo9hEXhdvJkP+7/p2V6XHaRBS6v2xw8/L7IIZlA=;xlqXpEd7yD4+G0OWNIWOOA=="
 ---
 

@@ -253,49 +253,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-13-hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car.md",
-      "title": "Hyundai Mobis develops a foldable steering wheel system for self-driving car",
-      "excerpt": "A foldable steering wheel system for self-driving cars has been developed by Hyundai Mobis. Hyundai Mobis announced on Monday that it has developed the 'foldable steering system' that can store the steering wheel of the driver's seat invisible by folding it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car-11634028683973.html",
-      "originalUrl": "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car-11634028683973.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/12/600x338/foldable_steering_system_1634029216103_1634029237547.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html",
-      "publishedDateTime": "2021-10-12T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-12-worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices.md",
       "title": "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices",
       "excerpt": "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand.",
@@ -434,6 +391,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
+      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
+      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "publishedDateTime": "2021-10-12T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

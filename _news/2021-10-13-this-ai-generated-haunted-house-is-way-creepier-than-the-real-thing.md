@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90685564/this-ai-generated-haunted-hou
 webUrl: "https://www.fastcompany.com/90685564/this-ai-generated-haunted-house-is-way-creepier-than-the-real-thing"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "AI fake-face generators can be rewound to reveal the real faces they trained on"
-    excerpt: "Researchers are calling into doubt the popular idea that deep-learning models are “black boxes” that reveal nothing about what goes on inside"
-    publishedDateTime: 2021-10-12T09:15:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/12/1036844/ai-gan-fake-faces-data-privacy-security-leak/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/12/1036844/ai-gan-fake-faces-data-privacy-security-leak/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/12/1036844/ai-gan-fake-faces-data-privacy-security-leak/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 55
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/Cube_fake-to-real-2a-feed.gif?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "u6DenhXVPJ3R6bHaZjn8yJRAguZgyeg9ecOIEvzy9xuycFSryIGOsmHwLFZfMTBaiEJEJTM9tEckdhCNGhY1n5T4TQhnz8Xi0jQTbbOYDGyo+urnQuzJFFUnnd8QdkozOHzElI+R2vf5a+a6qE5gX1Irx5bvA5pQAUW+rxFIelKi0lKz9seE3uGTd5f/KcM8ji3FD/0IKmIrFJ0griddz3gLYnjRk9+yOeEZCpTkCXEGHqk5d770UIXjvaEfu084p+RBWKOOI3i1i7BQbGLnpTOx3myrJJlXkjzQ6NG33rZI1bVk/12xb2+o7IuZaHHcBBO9qj9riM7+RI6hfk3LY2WpmSOPv6Qj/P1mc5eSz9ju44BlJ4EIyQbpFKc11CqGXfQ8sAkK8FbBcuPRqvLSz3dal8+UarCK4pv6ybYd3hOXG4LbsWum/NZjt6l+g6zxRNbMXq13nRu3IUg6mVprGw/+GA6xhp6CnTyRqmcxGPusG/Ma43J3MT5GWGslYuOJYyxiifNhNf5D7fHzjQ7Azw==;aD50KginzKe808SesIkVBw=="
 ---

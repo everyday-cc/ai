@@ -74,6 +74,20 @@ related:
         width: 550
         height: 366
         isCached: true
+  - title: "The Fundamental Flaw in Artificial Intelligence & Who Is Leading the AI Race? Artificial Human Intelligence vs. Real Machine Intelligence"
+    excerpt: "Artificial intelligence is impacting every single aspect of our future, but it has a fundamental flaw that needs to be addressed."
+    publishedDateTime: 2021-10-17T02:47:00Z
+    webUrl: "https://www.bbntimes.com/science/the-fundamental-flaw-in-artificial-intelligence-who-is-leading-the-ai-race-artificial-human-intelligence-vs-real-machine-intelligence"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 29
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Fundamental_Flaw_in_Artificial_Intelligence__Who_Is_Leading_the_AI_Race_Artificial_Human_Intelligence_vs._Real_Machine_Intelligence.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qZ3oXW+sqNYF7r/u6caUkkVw2HB4XBNYc+QKLPyPmFx5b1fM5vNbsK8VW1yxJo5BRlzkCCI5yFMHT8/UOCDSwpyZg0sB5f3qvb920GnaiqnF2tSGJClGvSjCGmD8iDoQDLje8r38Loys92StZlgdxvd9Y0cAuxhpVQ7yVb0KOWnZzJLwDLLhBb81KL98dUzFir7w5EktCIQH7MNYqwHpb6UUpN/3NScHQtukMW4nlai8ANQE8HwDc2hVkIRFJRotVFcLUxzf/zvPeG+87l1771aMYZ3AHfk5lyvaojwYKkk7LhBTQ/VcD7Ny/5TwRkDqT/fwPTI2sjMxsyUKsIarlBpjT1pPuH6mYvdvQfbnBlrtfdpp9gmkrBk+S0gKaGEKFWH/lF9LBLgeW61LTTEqUx2ozOQ9QuAE5gTIMXHyPWIHFduoxPQ+ti830pRveB7jr0NzxpLYdLUvNK0xFSx9zX6snWgJLwJG8CDHkcFwQgbmIu8FnTxWAFFDregT3hIPf30Q+D9Fc52JbmcIJe/dHg==;+O3ZolhDhgEDvFcgiRwJ/g=="
 ---

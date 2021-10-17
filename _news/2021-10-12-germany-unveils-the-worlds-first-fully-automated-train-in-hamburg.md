@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/germany-unveils-the-worlds-fi
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Interesting Engineering
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Germany Unveils The First Self-Driving Train"
-    excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
-    publishedDateTime: 2021-10-12T09:23:00Z
-    webUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg"
-        width: 705
-        height: 352
-        isCached: true
   - title: "Germany unveils world's first self-driving train. See photos"
     excerpt: "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December"
     publishedDateTime: 2021-10-12T13:30:00Z

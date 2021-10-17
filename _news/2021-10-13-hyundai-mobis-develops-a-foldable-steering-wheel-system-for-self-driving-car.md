@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car/amp-11634028683973.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Mint
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Mobis develops a foldable steering wheel system for self-driving car"
-    excerpt: "The SBW is a high-tech control system that transmits steering power generated from the steering wheel to wheels through electronic signals"
-    publishedDateTime: 2021-10-12T10:13:00Z
-    webUrl: "https://asianage.com/business/autos/121021/hyundai-mobis-develops-a-foldable-steering-wheel-system-for-self-driving-car.html"
-    type: article
-    provider:
-      name: The Asian Age
-      domain: asianage.com
-    quality: 36
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-q6ct4bbrrprps6bmslgibi1ik2-20211012154152.jpeg"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Google’s Self-Driving Car Gyre"
     excerpt: "Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google's self-driving ca"
     publishedDateTime: 2021-10-15T20:38:00Z

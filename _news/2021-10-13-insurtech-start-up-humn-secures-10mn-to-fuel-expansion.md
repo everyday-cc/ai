@@ -29,6 +29,34 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
+  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
+    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
+    publishedDateTime: 2021-10-13T11:17:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
+    excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
+    publishedDateTime: 2021-10-14T07:57:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-2-fintech-industry-insights"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
     excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
     publishedDateTime: 2021-10-16T23:34:00Z

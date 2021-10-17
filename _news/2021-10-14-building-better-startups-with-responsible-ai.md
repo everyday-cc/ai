@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-resp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: How The EU AI Act Can Enable Responsible Innovation In AI And Machine Learning"
-    excerpt: "The proposed AI Act is the first of its kind globally. With the right balance, it can set a robust framework for innovation in trustworthy and rights-protective AI applications."
-    publishedDateTime: 2021-10-12T10:00:00Z
-    webUrl: "https://www.euractiv.com/section/digital/opinion/artificial-intelligence-how-the-eu-ai-act-can-enable-responsible-innovation-in-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 57
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/10/Option-4-800x446.jpg"
-        width: 800
-        height: 446
-        isCached: true
   - title: "IAG-backed research reveals need for investment in Responsible AI"
     excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
     publishedDateTime: 2021-10-14T03:15:00Z

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Germany Unveils The First Self-Driving Train"
-    excerpt: "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail"
-    publishedDateTime: 2021-10-12T09:23:00Z
-    webUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/"
-    ampWebUrl: "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg"
-        width: 705
-        height: 352
-        isCached: true
   - title: "Germany Unveils the World's First Fully Automated Train in Hamburg"
     excerpt: "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB)."
     publishedDateTime: 2021-10-12T12:03:00Z

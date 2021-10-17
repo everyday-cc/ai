@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467957.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2021/10/12/9467957.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Cellebrite Seeks to Expand Law Enforcement Intelligence Work With Digital Clues Acquisition"
-    excerpt: "Cellebrite (Nasdaq: CLBT) has agreed to buy the assets of Digital Clues, an open-source intelligence firm, to expand its footprint as an end-to-end digital intelligence platforms provider within law enforcement investigation and intelligence markets."
-    publishedDateTime: 2021-10-12T09:31:00Z
-    webUrl: "https://www.govconwire.com/2021/10/cellebrite-seeks-to-expand-law-enforcement-intelligence-work-with-digital-clues/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 12
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2021/10/Cellebrite-Seeks-to-Expand-Law-Enforcement-Intelligence-Work-With-Digital-Clues-Acquisition.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Philips introduces next-generation Digital Pathology Suite - IntelliSite - to enhance diagnostic confidence and streamline pathology lab workflows"
-    excerpt: "Solution offers high quality imaging with multi-site, multi-disciplinary interoperability, artificial intelligence and Laboratory Information System"
-    publishedDateTime: 2021-10-15T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/tr23389855/philips-introduces-next-generation-digital-pathology-suite-intellisite-to-enhance-diagnostic-conf"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23389855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23389855"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "y7x4fwIltIQKA6MnW4dL3rvc+syJWdqJz6LQcdEm+cRNBcTMdc4Oas6WAHlPc7qj073iAPfzlobryaYg8sk/cRxUnrFOPXJShaC/tTR0UZqG9atxwbl/LXJjom6PcE1I0WB9p9n72lIs+ouMG3JfZi09iCgK5FzWfwr0CPJG5XwwAfZCwLOH1+iAEYHGlQW6MZUX906lKKRVWWYE9VtJ+cn2J6Z3/NoOOFZZkb2ckzXtyUw1stKwkd24JZ2KvloqjC51oEszo1Db+m4gynId8qOm9wvxa+/9Hx6tc3nq+Fe/J9UpIBMcnMJYe3HIydN+n4Emghl2gUQrJmJDMdX88qLuQoR5d140tmUHvKk4+W8=;pJp4x12oulgSDSSj+eO/Ng=="
 ---

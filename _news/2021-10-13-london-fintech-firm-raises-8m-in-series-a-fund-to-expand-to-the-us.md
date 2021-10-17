@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How fintech can bridge the credit gap for first-time borrowers"
+    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
+    publishedDateTime: 2021-10-13T09:42:00Z
+    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
+    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "FinTech trends for Year 2022"
+    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
+    publishedDateTime: 2021-10-16T05:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
+        width: 1276
+        height: 542
+        isCached: true
 
 secured: "rMcBy89FKdunaCmLvckj38zX8RdRHGnNZdOhL29I8swleFGE+9zgHOX/4xMaOERUhVYb+dQ8yz45Kq7xuUmAMMsFVVVmwwJRH6LUWv1QaG40fCeuQAferPw++r2qd4IjGtUshg+DZGFvf0cykVg+ZXFMv93MN4Oqw65b2Jh7RyWXmBOV78MGh2yQmeeqYxuogOI+T+yLvuAsMpxdsMOw5+AKGjk+5vgow9dJkpgbI6Y5g28Ygp+/EX46ziuSe7ISZ/bBqByYO7glJN6nEDWFwnwtLR0G0bwfHzisdVtTy4loSlmVL7iWFNLoS5yThtcqHZCHfc8HXA+ufeK1A1qVXkBIkS1QqYyJI5q1iG2NG6I=;0GMP5xgpqP7bReleEYwEWQ=="
 ---
