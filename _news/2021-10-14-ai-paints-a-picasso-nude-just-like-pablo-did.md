@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-l
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
 type: article
 quality: 87
-heat: 109
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
         width: 1454
         height: 818
+        isCached: true
+  - title: "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting"
+    excerpt: "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s."
+    publishedDateTime: 2021-10-17T18:24:00Z
+    webUrl: "https://futurism.com/the-byte/scientists-ai-picasso-painting"
+    ampWebUrl: "https://futurism.com/scientists-ai-picasso-painting/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/MOSHED-2021-10-17-11-17-12-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "jG13AxvCUDDDOQeUZTZfaqtITlK6Znt3vrJe1FESiDD/xUcASJ71A9+3KDa/lZ7kOeCAJxbhQ4yEt0K/TX5I21wed4+yLbT9qyUNos4bBOH+EYHGx1DwSDGMvRp2hHG8vHCbroDPjgw8hqRRqAkR1UFi71GT3Cs75rEhl1Yxq3K+At5AYIyN6bOX/rdCIDR7123+HhLjbOzeEQhC3IPjozy+Qp8IvvIl4NFadngnjtAEtbgSE9o94All29qse1eGEclyQnrEWXaeOEEVQkSauHnszYBrkV5cQi+1De9+XrLeJe+bfCTU7PWZCRqwXKCW+XBBCYEzu4zJMm55aogafBL/ZKyb3NJY0LD+ccV4gC7qy+JjbaZUOVS6jlXlmyrulARVNZUpSy03zDTM2rtc7yZ9Os1Xz/AS/6lHTOy/salcaqvzaxlanBK+9sDzAGLvLe1g1HTXb4G4GXokWUmS8f+uzsIaOhwQZows7G4/cNEHaFDhbmIUH66K+rFca9dgZ9AY7METnJE6QZH5csOCPw==;lDPut5nD88v1B/4UN012/w=="

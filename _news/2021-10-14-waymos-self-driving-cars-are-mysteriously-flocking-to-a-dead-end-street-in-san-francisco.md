@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocki
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
 type: article
 quality: 80
-heat: 220
+heat: 221
 published: true
 
 provider:

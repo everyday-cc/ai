@@ -62,6 +62,22 @@ related:
         width: 1454
         height: 818
         isCached: true
+  - title: "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting"
+    excerpt: "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s."
+    publishedDateTime: 2021-10-17T18:24:00Z
+    webUrl: "https://futurism.com/the-byte/scientists-ai-picasso-painting"
+    ampWebUrl: "https://futurism.com/scientists-ai-picasso-painting/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/10/MOSHED-2021-10-17-11-17-12-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "I6sFBAi+WSFC1p32yH0qcrQAaIG7XS88SOIP05ovlRNmQqH5j5xvcKuq1PG/FI5ehAFpDIg3jSxoEplMTCwrohSN4bUZFaxwxLnDJ1AkmxCK4Ta9YD8uzMTLnNCud8qnbLPoLyF+9Sga2aXFdZLbg9nBrZvlLzKO7mI+hUcOoEB4Rp3aeGZMBufgPjSwd3pDTc6uAXGJvF1iv9rCd+UnPf7+XVKsz8JtgOL+Mmr80TlhzOzgH+jDA/omTtcALqQRYoXyl9wzpBwDT64x+VUxVkdcoSDp0wR6JNa9vnwmfJp6pXnNl8rwGOg80nKoT1xqFnw6kXC23pyX1xcBQRPS244+Nfjbsa1YgdCR+WbDgUPu1Od1PXgjD1a7KDyXOUoeVyXUZHW88vyFTF+aL9stXk5eKL6IaIWrA8mybWi1hhbiJDs2gf25g0AqWy85jIUJDsPTXEEdsuxhq7rfiF9iJQm3LfSjtS5Jv4opGfEmZzBiMbqMtsf7TbcsKRK8FwezbmBFaUVKCBIWGIInTFkX9A==;+VYOK2rd1Yxgg2g8kgKjzg=="
 ---

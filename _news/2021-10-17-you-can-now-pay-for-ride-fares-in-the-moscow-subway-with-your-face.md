@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-sub
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:

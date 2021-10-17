@@ -2,57 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-09-29-tonicai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets.md",
-      "title": "Tonic.ai raises $35M Series B to help engineers create synthetic data sets",
-      "excerpt": "When engineers are building software, they often run into issues around testing it without using actual customer data. Creating a meaningful test set can be time-consuming and challenging. Tonic.ai, a startup that helps engineers create synthetic data sets is trying to fix that,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/",
-      "originalUrl": "https://techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-805184148.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/29/tonic-ai-raises-35m-series-b-to-help-engineers-create-synthetic-data-sets/amp/",
-      "publishedDateTime": "2021-09-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
       "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
       "excerpt": "Amazon announced a new $1,000 home-patrolling robot called Astro. Two people who worked on Astro told Vice they believe the robot's release is premature. Amazon said the characterization of Astro ...",
@@ -1147,6 +1096,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazons-astro-is-a-robot-without-a-cause.md",
+      "title": "Amazon’s Astro Is a Robot Without a Cause",
+      "excerpt": "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-astro/",
+      "originalUrl": "https://www.wired.com/story/amazon-astro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-astro/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp",
+      "publishedDateTime": "2021-09-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

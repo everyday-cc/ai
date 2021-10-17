@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook disputes report its AI has little effect on hate speech"
+    excerpt: "Facebook exec says hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has little effect at curbing and removing violent content from the social network."
+    publishedDateTime: 2021-10-17T18:35:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook researchers collect thousands of hours of first-person video to train AI"
     excerpt: "If the AIs of the future are, as many tech companies seem to hope, going to look through our eyes in the form of AR glasses and other wearables, they’ll need to learn how to make sense of the human perspective."
     publishedDateTime: 2021-10-14T12:01:00Z

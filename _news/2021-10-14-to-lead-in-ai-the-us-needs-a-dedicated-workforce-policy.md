@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/politics/to-lead-in-ai-the-us-needs
 webUrl: "https://cset.georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/"
 type: article
 quality: 137
-heat: 148
+heat: 147
 published: true
 
 provider:

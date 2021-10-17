@@ -96,6 +96,17 @@ related:
         width: 800
         height: 490
         isCached: true
+  - title: "Global Artificial Neural Network Market Report Analysis 2025: Qualcomm, Starmind International, Google, Microsoft, IBM, Intel"
+    excerpt: "Adroit Market Research in its latest Global Artificial Neural Network Market 2021 report reveals the impact of COVID-19 on the world Artificial Neural Network industry. The Global Artificial Neural Network Market report offers extensive insights such as company profiles,"
+    publishedDateTime: 2021-10-14T15:45:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
   - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
     excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
     publishedDateTime: 2021-10-13T11:13:00Z

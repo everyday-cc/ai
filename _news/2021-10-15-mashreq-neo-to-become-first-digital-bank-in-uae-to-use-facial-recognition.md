@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102972273/Mashreq-NEO-to-become-first-digital-
 webUrl: "https://menafn.com/1102972273/Mashreq-NEO-to-become-first-digital-bank-in-UAE-to-use-facial-recognition"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition"
-    excerpt: "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology."
-    publishedDateTime: 2021-10-13T02:54:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/"
-    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 76
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Mashreq NEO To Become First Digital Bank In UAE To Use Facial Recognition For Bank Account Openings"
     excerpt: "Mashreq NEO collaborates with Ministry of Interior (MOI) to introduce an innovative face biometric based digital account opening process. As part of the efforts to implement the directives of the UAE government in enhancing the quality of life for the Emirati community and its quest to sustain scientific and digital excellence,"
     publishedDateTime: 2021-10-13T16:06:00Z

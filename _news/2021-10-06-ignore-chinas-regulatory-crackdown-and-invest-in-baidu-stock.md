@@ -3,22 +3,26 @@ category: news
 title: "Ignore China’s Regulatory Crackdown and Invest in Baidu Stock"
 excerpt: "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ..."
 publishedDateTime: 2021-10-06T14:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock-1030847488"
-webUrl: "https://markets.businessinsider.com/news/stocks/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock-1030847488"
+originalUrl: "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/"
+webUrl: "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/"
+ampWebUrl: "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ZrwE3FHhIZbOTTGM1h5Cy1sXIlRqFdC0g4Sag+NSzWnGbeDlBXOTYSt+TC3A+VqnI0QyFSeO3lb9y5znpq9qzXDfXyLgLslfAwOlCbFPslbJHoq1Y0YCpZmJt+Kr4Ryy4AFCHt4lAACFI4/WxmcyHCSOa8voBJfhRL+doUcUo+o2CTaxLFP7HP3X2Z4twRbiO41xyLbqIxr5qICv4mZdteqR2qBpupjcnh7KOTsH3c4iaTXksoSwmKZlKUtVT2oflBzwJMFTrhFxnDBB78h8LWz4B/Ks0WDx2XPhJKyisN8R5wvrQzFW1xQ2wSBBJLJubH7v4H9HOFLXkPpmmVW4TF0+eIr6KPDJD7+CNi1myxc=;nuHuEUeBX5vao0Cs6mxd3Q=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "psDSXqB1b/BTQ8xdbsh85IKNHyMJe2fZ2Ek5HbKWto8gwuq53wy/6Ld2TVDHQnZYcDkNzXeYyJNlhZKoy3d64tOxk9XBsoTbwwgOeXdCgsf1P6TqtgIbC/QVgPgHPjYVMC1jT3+rZBMhMvTRrd6DTuf0tj6YXP/AJUS0CJSN9eKqITFgKOG30nzmM+5tjfTbv9ff5KY6Z4SCwGJ7x4rncLIRqJkMBWVb/C91+fUWkSZumVjg9VCWQk8Cn/QJuzHi+e5/NF2tmKHePZgFPeMJ6uW0ssurFxNeoVOqCwkXoE1lGJGJ3r5fpdJbHdYuGZuthL3OE3dyP0xG6Jw5GIo2smReYuQLbCfo4wgawrjZmGM=;Fx6yS0XVEx8tEofCnmEy4A=="
 ---
 

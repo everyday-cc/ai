@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-he
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
 type: article
 quality: 155
-heat: 176
+heat: 175
 published: true
 
 provider:
