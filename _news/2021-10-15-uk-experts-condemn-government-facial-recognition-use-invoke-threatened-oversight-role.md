@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UK Schools to employ facial recognition for students"
+    excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
+    publishedDateTime: 2021-10-18T05:08:00Z
+    webUrl: "https://techstory.in/uk-schools-to-employ-facial-recognition-for-students/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
+        width: 1160
+        height: 691
+        isCached: true
 
 secured: "OhyGACJOBXa/M09Y2GaC/SmVIF+WEwiIUlTFCAFxJmA56bill5PXNmr5cCt+n349iEfuq1PjX4d/tA3FZpQE82XYhRwF1wHm+aiU17KuCTsKCGzom4U53yQmgfq2rZ44rp/u2SaSle7SgPZ2SGZ4+EAr37vOZw0WPX4cJAys+AS5FtrG0/m/t1MaZ8j1uuVQ9ZHehBKG3M6p0eoqSwhoQuBjwgVJHCrUk7nmMkIO3CIsfX5dn/NaVeR1uYqMrQPQAVd11fbfwWu4mqYg+zxVFjQJcA8jU82v/GYdWVpn5Ch5/pLFqAw22YAKGHQv2V53XOPj84rME8/3bLaKzStbaMK4fZpfdHE2ryrDHqdSWpwcerwjctrJJ8giSXN15bEIaLgIfSMM7n/XvP0l/k3EHvirGc2EuXwhUraWf9hrvAvBFqjMv/5i1fg7WNGB2a3xpMYWznx8MGLCDQRhDE8Z040J7o9JAHIrG+jv0uiXjfzijrS9I6tp0LdKtjjfWuej5f9KMF2CPiJuyoPDUb2R4A==;ayDm1XPe0Cjpc6CHqJsUsQ=="
 ---

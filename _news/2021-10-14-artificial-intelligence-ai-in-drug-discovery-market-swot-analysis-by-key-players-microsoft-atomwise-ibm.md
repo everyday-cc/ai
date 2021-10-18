@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-dru
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -117,17 +117,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "wprTqQzUybCfQTAiHj5xQhsb2uPQ/485X9xxZgcyYYBd4vtntCbeU0mCn2Zu6mypKuT6K2duj8tQ6DsC71l4F1rhHzA2YU7Tj4Or9qOwC/aonahxGZxhyC8lNUBkckqYaXC8ECeV3Y7ZQuqTPgB36pscy/eTfe+nX1f8wbHcCsRaEGYSJHqOqIQ/9DDTgzViOxDLZvCUoA8TUASoQWexQiQOh0BU0CWVeQe/KXtdC+OYb6Jz/L2B7MhYVpCcD5a7Uzqwm+lAbch5LT1Vio8ctBGFveE1xUta3xOZJqnMimPLG7s2rDhd+IzBvZiOVJ4WhD9CHNYiPNJ2dcUXlLCj9PoIVBq9d5DtZSkfuPfttV6BjwlugIO+llGhfHaYHIGvV2roxppevnH4gvaySJ4EJ7yfw5Tl8nIIHC/P2CwxPFnT623+OmQL5Tcv9sQ1+cckNBLKLQfqJa4CZkKtVOG1EdJ0S3DIDybnJwYpEKK7ST7UBtwejigZ4sO6Ar2H1VK0xPa9g63aa506PF/lMXo2gg==;RDZf4F3JEFoC1kqKtYoL0Q=="
 ---

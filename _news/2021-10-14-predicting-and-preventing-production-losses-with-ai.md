@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
-    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
-    publishedDateTime: 2021-10-14T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
     publishedDateTime: 2021-10-14T20:54:00Z
@@ -68,20 +54,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "The challenges of regulating AI"
-    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
-    publishedDateTime: 2021-10-17T23:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
-        width: 848
-        height: 565
-        isCached: true
   - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
     excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"
     publishedDateTime: 2021-10-17T22:06:00Z
@@ -95,20 +67,6 @@ related:
       - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26870/aImg/49310/scitara-data-istock-1800x900-m.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "NpEVwDRekSbYQIjwhXNfeFnAk2uWf27QOC55mBT7F7h4LQxZs2rmYn+24dAOt3R+MwmlyFYFpQ84sViISOyy9VSp79TabDVyDJg4OPJ37Mq752D6S5MPoesfbU/ZskDBbZoCIYJzcgMaoi7s4ETAH+RHLF8JCY7aYwDSvMZPig9VUgBxjkyI8RiokIQhmFmtY0XtPg7qk4PEn72eaW7aCZ0nxji7L1EUlhLnZzqDwiZU0AmdWjlSyDADmkzyZ0z5AZ0oqsu3fL8VZNBvDs1zRWt/UleL/ciEpG01DeoLDFEEt8deNAb5SY4OkGGHCi+wqYtH9s2Co7LLa9Piijis2iQbpuLTVgJEiWYFvroEpnpsfZ2ejCb5wwfqJZyTRc5lGFcJYzbNH9i8fMP4Oxq5o8aAKeUP4rp0AAvidxjRV7j0FZhl748Tp2prRl1LP/Au8K6SMl3D5YIgPEdwQVfhIUxBGpgfLwffgDDb8GMSd/Q7g1fpRQ0mt8ucwcHPLP1Z1vfR/v5SqOVuHMLoNz8cpg==;zir8vRd3U433Wvbg0cY/Rg=="

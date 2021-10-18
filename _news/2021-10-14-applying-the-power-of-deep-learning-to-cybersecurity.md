@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Instinct Report Highlights Need to Rethink Approach to Cybersecurity"
-    excerpt: "The Voice of SecOps Report from Deep Instinct contains a variety of interesting insights and shows why we need a new approach to security."
-    publishedDateTime: 2021-10-13T11:03:00Z
-    webUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/"
-    ampWebUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
-    type: article
-    provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 43
-    images:
-      - url: "https://techspective.net/wp-content/uploads/2021/10/deep.png"
-        width: 820
-        height: 479
-        isCached: true
   - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
     excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
     publishedDateTime: 2021-10-14T21:37:00Z

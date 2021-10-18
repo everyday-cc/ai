@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
         width: 1280
         height: 720
+        isCached: true
+  - title: "UK Schools to employ facial recognition for students"
+    excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
+    publishedDateTime: 2021-10-18T05:08:00Z
+    webUrl: "https://techstory.in/uk-schools-to-employ-facial-recognition-for-students/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
+        width: 1160
+        height: 691
         isCached: true
   - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
     excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."

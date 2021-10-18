@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Deep Instinct Report Highlights Need to Rethink Approach to Cybersecurity"
-    excerpt: "The Voice of SecOps Report from Deep Instinct contains a variety of interesting insights and shows why we need a new approach to security."
-    publishedDateTime: 2021-10-13T11:03:00Z
-    webUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/"
-    ampWebUrl: "https://techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/10/13/deep-instinct-voice-of-secops-report/amp/"
-    type: article
-    provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 43
-    images:
-      - url: "https://techspective.net/wp-content/uploads/2021/10/deep.png"
-        width: 820
-        height: 479
-        isCached: true
   - title: "Query.AI Launches Partner Program to Meet Market Demand for Enterprise Solution that Drives Efficiencies in Cybersecurity Investigations"
     excerpt: "Query.AI, the provider of the market's only security investigations control plane for modern enterprises, today announced the launch of its Query.AI Partner Alliance Program to help more enterprises access,"
     publishedDateTime: 2021-10-13T13:13:00Z

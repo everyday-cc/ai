@@ -41,6 +41,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "UK Schools to employ facial recognition for students"
+    excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
+    publishedDateTime: 2021-10-18T05:08:00Z
+    webUrl: "https://techstory.in/uk-schools-to-employ-facial-recognition-for-students/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
+        width: 1160
+        height: 691
+        isCached: true
   - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
     excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."
     publishedDateTime: 2021-10-14T17:33:00Z

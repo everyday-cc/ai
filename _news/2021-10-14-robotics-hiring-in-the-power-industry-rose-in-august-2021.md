@@ -7,8 +7,8 @@ originalUrl: "https://www.power-technology.com/features/robotics-hiring-levels-p
 webUrl: "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/"
 type: article
 quality: 54
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Power Technology
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence hiring levels in the retail industry dropped in August 2021"
-    excerpt: "The proportion of retail companies hiring for artificial intelligence related positions dropped in August 2021, with 36.6% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2021-10-13T12:58:00Z
-    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-hiring-levels-in-the-retail-industry-dropped-in-august-2021/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 46
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/10/shutterstock_611605280.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "Geek+ launches highest logistic robot in the industry to revolutionize warehouse storage"
     excerpt: "The highest in the industry, the new robot will enable customers to maximize the use of their warehouses. Things to Consider When Exploring Offline Robot Programming Software Solutions The Mini Series Takes a Taxi How to Find the Right Damper for Your Application Important Considerations When Implementing AMR Solutions RoboShuttle is a safe,"
     publishedDateTime: 2021-10-14T12:56:00Z

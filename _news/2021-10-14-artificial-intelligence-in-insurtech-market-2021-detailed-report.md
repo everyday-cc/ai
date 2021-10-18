@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "FinTech & InsurTech LIVE: Diversity in the sector"
-    excerpt: "FinTech & InsurTech LIVE Fintech Leader’s panel discussion looks at diversity in the workplace and applying those principles to the customer space"
-    publishedDateTime: 2021-10-13T11:17:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-and-insurtech-live-diversity-sector"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintch%20leaders%20panel%202.jpg.png?itok=2ZpdukN0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
     excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
     publishedDateTime: 2021-10-14T07:57:00Z

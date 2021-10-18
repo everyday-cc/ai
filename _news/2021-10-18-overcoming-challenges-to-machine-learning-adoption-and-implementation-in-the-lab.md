@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
-    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
-    publishedDateTime: 2021-10-14T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Predicting and preventing production losses with AI"
     excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
     publishedDateTime: 2021-10-14T13:30:00Z
@@ -82,34 +68,6 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
         width: 1200
         height: 400
-        isCached: true
-  - title: "The challenges of regulating AI"
-    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
-    publishedDateTime: 2021-10-17T23:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
-        width: 848
-        height: 565
-        isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "n1kD2x5/qo5r2srZjALhU+Lc6fePULldhczzbIczBiA8xVNPCg581l3ZDGCDNMsAo64/8bMy8nT2Jda/8S9dYscIzzqVRmMReuBWcptgsXJtAY6/CZN/8Qpy6xvnCSM30lTNIwij3IxBbflmCRfo/5zVX8q+4x3Z9sulnV1BEnIYuFUhjz5ES6JZNN+2JEJOeWQMG281FWF7qkzzLmMDrrPnN21qPyfK29o7iLYB+IX4iBLQin0vlQA/ugbwxsASzARPcQlQdOIygAS2ZTrXO8kWVeg7jIRs+16mqffPNQ9ryX1AgZDhwjUir9rIs2jCnuvstbEx050WhK3kxqBvcaIKwUVz1nwQtDd0rq2H2m/kh8KICyBWt8biJVLCFc3BGzq7tvwvNvQHjNfgnjbkmYMOhX59qtIhw+SRpGUf/n5UFYKGcBjdZ1hSlqT96RrMzRjlJNPiLh9hpsNPwqrLxisY/0C+dvHgwoa+PCbQ9PayAYiqqU6VOytN7UEISXNPZ1YsAg4vcuGi2UNWPHZnFw==;0Jm1IFIsooNsadKKNYCZFQ=="

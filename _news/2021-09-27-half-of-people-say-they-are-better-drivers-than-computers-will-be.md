@@ -2,19 +2,25 @@
 category: news
 title: "Half of people say they are better drivers than computers will be"
 excerpt: "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ..."
-publishedDateTime: 2021-09-27T11:32:00Z
-originalUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
-webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050"
+publishedDateTime: 2021-09-27T10:57:00Z
+originalUrl: "https://www.devonlive.com/news/uk-world-news/half-people-say-better-drivers-5974656"
+webUrl: "https://www.devonlive.com/news/uk-world-news/half-people-say-better-drivers-5974656"
 type: article
 
 provider:
-  name: Coventry Telegraph
-  domain: coventrytelegraph.net
+  name: Crime
+  domain: devonlive.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ejjzlUx8CFKSy14/vo1v1MuycDh58bs1xN8KRyXZJ9nYNsuPuOigFBMU/CnR4eNxDyKVbmukrLGOiYloAUw6vS7fiHZJrv71ZchBhHr3aBzPKPzqfWjR34YYaYJUMWEpIGAHajus7u7XRByR4KzorhkYTojMv0Yfond48JqbLEJJ22CdKlGU6Kx4udOt15TKkdLc/W4swuRUu1PZID+HvhAwz6bqiUvq5D2eVkcft2V2Ov1vVStW7gf/Qv7w9TC5I9gnTGFt7E8ES+mcOBua6DurJULIom0ms1Ouzez01x0Y2ZrLTh9uaLg9Ipd+VFoVt3yTagh3px5uY3BwvZbNLm04ikud5EGVzOLNdJSeQJs=;4MERj8SjvdRSklgYCIRWyA=="
+images:
+  - url: "https://i2-prod.hulldailymail.co.uk/incoming/article5974634.ece/ALTERNATES/s1200/0_samuele-errico-piccarini-MyjVReZ5GLQ-unsplash-1.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "SiM6l7wPcQKRjFJHUhUMkx2I4grURUarLqxlUMBi/tnvML3tVNOeGHtr/dwmH6WC+OZ7MFt7/4YL265oIcyT6wNePOEyDNRsYqfrnXFdXFB7ucbHyGXpN3EHkOzPaEjY03buYqrZXglzxT/KKrvOuK//k7S4R0YqhbG5Nxa0PBf3dZRYz69FdGOP4+OzdwhtHUt5l3Lu6/ubqbGS4zSbk/47FDx2GzKee1mYUjwfDRnXBUKq99MZTjuYq2ZkU5CmNMuq4oyI+am/ePMCSX2rvSn9h8MHGlYyTZZIKNsJ+RzSE78Ggsm2Q5r46gSl8IkAhTvm17WztReorwM/b2E7x63eqyFiUgELtOVX5uInsHU=;KBi6XlihRNRyjxrxLv9X6g=="
 ---
 

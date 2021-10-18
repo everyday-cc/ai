@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
-    excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
-    publishedDateTime: 2021-10-13T11:53:00Z
-    webUrl: "https://www.outlookindia.com/website/story/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 55
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
-        width: 550
-        height: 372
-        isCached: true
   - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
     excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
     publishedDateTime: 2021-10-13T19:00:00Z

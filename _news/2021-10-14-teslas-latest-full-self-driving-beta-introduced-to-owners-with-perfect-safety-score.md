@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Provide Information About “Full Self-Driving” Software: US Authorities To Tesla"
-    excerpt: "US Authorities recently opened an investigation into Tesla's Autopilot after getting multiple reports of vehicles crashing into emergency vehicles with warning lights flashing that were stopped on highways."
-    publishedDateTime: 2021-10-13T11:53:00Z
-    webUrl: "https://www.outlookindia.com/website/story/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/world-news-provide-information-about-full-self-driving-software-us-authorities-to-tesla/397564"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 55
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2021/10/13/Elon_550_550.JPG"
-        width: 550
-        height: 372
-        isCached: true
   - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
     excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
     publishedDateTime: 2021-10-13T17:00:00Z

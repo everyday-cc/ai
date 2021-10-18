@@ -118,17 +118,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 29
-  - title: "Global Artificial Intelligence in Retail Market Analysis on Trends, Strategies, Size, SWOT, Growth, Key Players And Opportunities till 2027"
-    excerpt: "The retail sector is more fragmented and competitive than it has ever been For years the retail industry has been undergoing digital transformation allowing it to progress with AI in the retail market Implementing AI in Retail has improved the"
-    publishedDateTime: 2021-10-13T11:13:00Z
-    webUrl: "https://www.openpr.com/news/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2427619/global-artificial-intelligence-in-retail-market-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "taLo8bh9haS6DZEf0Ez4GnNpuZkpSL8N78/w9kiNDHPZKNgLSnRloMM2yeuSrnlkS+PQrHW4WfhsUH1dAFiegrBrBJJot+qXCEge9C8zjkLXzEU4y26PnSQsUZasX0Aii3aW76HZ1zD8WqRrId2Cttq0EmTOliNBkA4CVwjKSJCgxQxhIKwceaNViyVT6vqsQEZW2DpsmT+DicdvHnwsYGZ4C0SmpLX2wVHw2xU5YNmjQ/g0yi8tnqjmgUR7i5oYQpRk3qNq+ohhEOvUVsxZTWAOkV1UAZShXk0ZL3XHxQc3VULnhR61ugr9l9Ceul2sanYkoIpN9HtDa9tkSRnBWyMCIK0tnWj5Y0XCDMF6L6I=;gbnVTCAqZzbk++rCxi0VJw=="
 ---

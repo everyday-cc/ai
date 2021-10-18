@@ -9,7 +9,7 @@ ampWebUrl: "https://ryortho.com/breaking/two-artificial-intelligence-ortho-firms
 cdnAmpWebUrl: "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/two-artificial-intelligence-ortho-firms-combine/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 850
     height: 425
     isCached: true
+
+related:
+  - title: "Combing AI, big data and CRM, Ai3 creates smart customer service solution"
+    excerpt: "The technology development team of Chainsea Information Group independently established Ai3 in 2018. It combined AI, data analysis, CTI communication, CRM and other technologies to create the QbiAI Cloud,"
+    publishedDateTime: 2021-10-18T01:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20211017VL200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://www.digitimes.com/newsshow/20211017VL200_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "kuS3J3DB3WwPwK+jm78MnGwofNOwGYzRa90iE9KwxngJ2ztGDv6h3qJoxT4PZPigmZ/0i7D0IOHXRsuUJwgoKAg1CSLIgq57AnQ+mn6mnTTdEGSlsm7aE6V8IfChRq3cPbpLZCP4hPLHaVAAotLG5790nPJzl79Ei2VA9M0TmIe/eFeUjThzs/4KkAaVoJ99ho2rGP01LkSdToT3o/w5+8Ew//Wp8JaGwuUkFrIoD8oDgUAQSYyo3iJFw5fj+Ec5lRdkuUCt3BtsBKzjxDuMJ2I/Th2EEk9gYrN/R+8pbS41n4qsrtB8SqEXDjx23ueQZEz7JXuHjS3cx+WlHzPErH4pA1WfmsxwLV380R3IhD2Xx4TOs8bzzm3ODnEwWgMotcjsahsE12vuqBF/Y2/s5VVEslV427+IUUmTaU834jnmzLOqpSE91YAp9wjWXAWBiPjEt5Ank/YQm3CbTlwaRt1I9wbCgzTG3hWwqg9HBlTKhltJplQaANdq6y9qmH4KGmF5Wf8028iGVmVA9b/QOw==;nKsWZI/p4G3ygyVr55DEXQ=="
 ---

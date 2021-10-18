@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/13/why-ai-and-human-intelligence-must-work-together-in-medicine/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.shephardmedia.com/media/cache/images/images/article/Systel_creative_800x533_vQDZCZe/177b34cd3bded933a2bbe54a85ae3c53.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Spot.ai - The Future of Video Intelligence"
-    excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
-    publishedDateTime: 2021-10-15T16:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/spotai-future-video-intelligence-tomasz-tunguz"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFgcp6z0Dz4jA/article-cover_image-shrink_720_1280/0/1634315378399?e=1640217600&v=beta&t=yL1pXi9v1rhR52oSgSPyg1yXMTIyYbnSNxYsZGCtTq0"
-        width: 1191
-        height: 720
         isCached: true
   - title: "Environmental Intelligence Incorporates AI to Defend Against Weather Risks"
     excerpt: "AI is being incorporated into growing environmental intelligence services brought on by climate change and extreme weather events."

@@ -7,7 +7,7 @@ originalUrl: "https://ieeexplore.ieee.org/document/9563954"
 webUrl: "https://ieeexplore.ieee.org/document/9563954"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "All Hail The King of Reinforcement Learning, DeepMind"
+    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
+    publishedDateTime: 2021-10-14T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Deepmind Technologies announces first profits in 2020 after years of losses"
+    excerpt: "DeepMind Technologies is a British company specializing in artificial intelligence (AI). Founded in 2010 by Denis Hassabis, Mustafa Suleyman and Shane Legg, it was acquired by Google in 2014 for more than $628 million."
+    publishedDateTime: 2021-10-14T09:44:00Z
+    webUrl: "https://www.actuia.com/english/deepmind-technologies-announces-first-profits-in-2020-after-years-of-losses/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 37
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/10/DeepMind.png"
+        width: 800
+        height: 401
+        isCached: true
 
 secured: "qpj5af+UbWHfE5pQqavh9D3Zf22B73jSvu8u5/+MXcbQB7Feap46elr2atsFmqqBZ0aLP0ijz7+GY1INKDbvaG8nGzk68EJr+cXdpXPJjTpEvKLzT6TzMDLyP+CWzGl+6oAjhvBqogAyrRdbZvC36MBvRb7eqht7UiqSAjQHR8C+P6reB0AoC2vmyOhW37L8wcPXooKyuIxL2WIHhtGBHpqJnCQ2ozuQYULNXPHXFn5k4dirjO4cTW0cJpzNrcJGtw4HYlfixzG8SFf3U58Hf0qGcmCZGJF9EAoeLDbiyYpIYmBU3jKyA1DRWOqDuBsgZl09XJx8MWQzBztRQslEu/6TyE9ifz+xRY89wdp0cjk=;PwZ1938atglnXjiDKcebnA=="
 ---

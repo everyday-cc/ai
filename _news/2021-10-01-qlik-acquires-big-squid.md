@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Qlik acquires Big Squid"
-excerpt: "Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and analytics teams’ ability to"
-publishedDateTime: 2021-10-01T11:03:00Z
-originalUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
-webUrl: "https://technuter.com/channel-news/qlik-acquires-big-squid.html"
+excerpt: "Data analytics and integration solutions company Qlik has acquired no-code automated machine learning (AutoML) provider Big Squid. Qlik announced the move as part of its move to expand its data ..."
+publishedDateTime: 2021-10-01T00:54:00Z
+originalUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
+webUrl: "https://itwire.com/strategy/qlik-acquires-big-squid.html"
 type: article
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
-    width: 333
-    height: 285
+  - url: "https://itwire.com/media/k2/items/cache/c47dbbac9debca97d35c612a099c13a0_M.jpg"
+    width: 375
+    height: 339
     isCached: true
 
-secured: "v2so0qI2JSKhMFd/sR2lCC6H2HuHX0BTUgOCkZbVXdU0wfsEX+mzdF1IsSiHVKo0dWOm4/naQDk7vIwYlxVAVVJyRGPeBfBG5cS6z6cxkvXhc4iuAL51AoTdadoIwRRX1pfbnAmvqkEcQKd5ji0TtBV54l7pQz6+bTczxRDuW5UwE71ulLLKcyr3c/UQF/wKfJg3EoOBCTMB+OJLSkakJIOJStvzTrqg2qazK+oc4/T+6O2IbJUd1wTR2vi/pGSwFYSkOP/4X4UgjNgvZuBs194M/GRIvl72eGhGCHkrJsa2I9EyR6ws2RUI5XL+MCbzxs8YtK4aE9LZDqDhZzfzUPAEolzl79wtuFIoU2s0ZTiVAElVojoTcVhDXeVT7RkgXc7ExV5mf2R1Ry+CnCiMyUFUDS4RGdTwdov737it5OTjvUnjMUWDNdVbRDflkAQP6QanBVjdOErUD0nDpBe2eGyZqUVq5Sr2P2lxGoy+dpesZ6RM13LiwXTmE0kOT1jkKi3NlKhFI4aXZvMDRB71yA==;iGqNw9DdIj+5GNVb1abauw=="
+secured: "0ylxi4dvFs58ZZmBZeIWkGm0afPpb30YZ/txa/pzk5TO8I4F8jvHx9Yiz3Mrx/x+akktx78SY2AmmLnOw0CLug1zGzJ5+H+PGLQUQD1TrMDiHFFps5EqZ9xxY1ISYEBsTIeFTejyGUROKZv0DARM8/vuT6rwwJkDkQSLqoPORw3vdeeaSxg8HPC0K4sWHc8EGcZ65CFN6POoKOxQBjOu4faN/xMP2ecF4hthTgACwnUXNGvaWQrsUsgGOBWKjZxGOJdiR3NrqbEA7MtL1Q6fuB6ZLYfpzmBXyVf0ycYkG5mq1RrKyVVp1pr/H0NujWzEwRqXkUZyCws0VbPl3VCFdeN+r7vftfz9WYPrmi8yy1k=;F1Khq9KabVe2XVuVoKwhTw=="
 ---
 
