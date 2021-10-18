@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: bschoelkopf
   url: https://twitter.com/bschoelkopf
-  followers: 7776
+  followers: 7777
 
 googleScholar:
   url: https://scholar.google.com/citations?user=DZ-fHPgAAAAJ
