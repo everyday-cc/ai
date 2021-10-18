@@ -33,13 +33,15 @@ images:
 related:
   - title: "Quris Closes Critical Drug Development Gaps With New Clinical Prediction AI Platform"
     excerpt: "Quris, an artificial intelligence (AI) innovator disrupting the pharmaceutical arena, today launched the first clinical prediction AI platform to predict which drug candidates will safely work in humans – dramatically improving efficacy and cutting drug development costs."
-    publishedDateTime: 2021-10-18T12:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-quris-closes-critical-drug-development-gaps-with-new-/2021/10/18/9471180.htm"
+    publishedDateTime: 2021-10-18T11:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/g23416292/quris-closes-critical-drug-development-gaps-with-new-clinical-prediction-ai-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23416292"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23416292"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
 
 secured: "Ys4dl5fM1Gjj/CBJbUAkWSySn8t6lHGxFMf39TV6ThwmjuH3U/TAPGlgsWdak9bTp/7FrSqk84ihBQVNfV3pT6CttrFNuAyxfXqmbbEH1jHAwuDdjgFvqpn/klnX+cm2KKbQ8yj7qJoVqILl8MmVwBbBAn2QKrq273+wYRBpaA5GJvRdXj2CwYCdiS8wuf0mAgjZ84XaYPTVtELc1NvqMZwxte6jD6Dyem0emWYYLV/04bW57gSHqGpV9mx/wYx5JoD/4GcpnSb8m9CtoermtGx61GqzCXjZoqr/gE2hbBAuxQ9tlbwM6JcCUx2iY+Z2B1i4kudUz6yR/Bhe0YgikOzSwFmHoENQaoi+45tfspBddJB136MBsBFjfpcjNiyft3joQ4h3hK1Rz8PEUq4vqHOjz6CiY70bBSIT/vbgx7Zw5k2ltTOxCNjTgHkKhW8A/EW9sFO4PbfX6bTGfDbTmSFy53bpecmbakuiuznV3RgqyXNcrte+yEAfmkn0b7qKGjk8hKEAPEYroyTVmKdYWQ==;967N2RQUVDhJWEIPjDlaPg=="
 ---

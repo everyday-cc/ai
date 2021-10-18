@@ -41,34 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
-    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
-    publishedDateTime: 2021-10-13T22:25:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 30
-    images:
-      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
-    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
-    publishedDateTime: 2021-10-13T22:25:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 25
-    images:
-      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "46q6AMI/Sl/tUsw1SvHsAwCydB2XaSKxgrEchfyhKX//WTzDYwrMkeBQnlx9pCqejsic6uMCU0Njvzhduwzo+cPHvffOSKhfwd8wlnh8SpDJftblwomU3w8CayJu79n3Ql/I0cod+gn+AW2Gryi77W+mTEePnX8ZC6ngG1gs9+tsmz7USSHfMr1aFV1tPi4Z93YGsEujrsY/TwTdoYSeASqnJ1v7HPibSXmzuuNYvf9Mnr7sUnBVWkuqxLLqpeQHCb+w7spseQUZnBk6zRFG2i/Axps2PF/minbPk2Io3oaCA0L3MoWUcYWqNyNxhgfCyf4nqaKNEkwPXMpt9UsV89bfQASVsFuZD7eUkCWxiTIrjHMbFeAjhXgjN5Zh1yHObw5GnRs2+24T0K4zzwo/KE+fDAhjbNKhrXDUzArAacpTBl8Yr2yU66lnXnySsTuNUn2ehDnQKOEqthKBBAM1iaZe0vtoxor7Kl7RituUEwVNnZBju127mdjh/k4lYos8Nga/SFMMcuPHnVB01QHn0Q==;zFBDh7CjWcIBclEWRxAAzg=="
 ---

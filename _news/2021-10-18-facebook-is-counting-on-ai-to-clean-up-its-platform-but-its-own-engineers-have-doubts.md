@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
 type: article
 quality: 59
 heat: -1
@@ -205,13 +205,13 @@ related:
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 37
   - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
     excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
@@ -260,6 +260,6 @@ related:
         height: 382
         isCached: true
 
-secured: "1oC3oNM1E54npIlhRxq/VJtkJMGjujY57Da2/9FS0xXIwanEZg8mVdCH0lyMohXpWTTOxzmeyKxe+SRmC2qu0ziRaermInbPB/XnSXJ2ON0dhRa8CVhFl6Utet6JuO23usMlaR1BR/lNV8Cos5/+UCeGnE3BK21pcd5z/O9b/2rHKQv/2B/LZdJNxFxWPTcJT2ZEXWUhXDSIkwRJt8j9cITLy2MyPgoY0pDEoiviVlkzkcFuJxMCNGsZNLW/vSjiJXM1DTi5wCS0awfcyJcOp1HUD+RmpzsSJQUCjj1O+VfSOcQn1obJWpAF5q0B+4CFuwAG50J/iSPfkTgqux2bg3UxWvZnrcZf55N2KPZWeZMBQKfJXYJtJGD5Jr/XAAjEfZrgbp1pHA3zScwmYxl1l3XXoOaYEkMV4/d8fk2wC4eTi6J4VeqOkmD1BT94UyEOO9zDUL6WCwL2/PjWpKTB/Qj7VTg9x+8spBKqzA/csciPuU4Ygl4dgJTjsTEiwTf3B/sHhmmUCioYYXgEmax1yw==;b2DQjSTPBSAIGa8Kw43MEQ=="
+secured: "W8Y36uM4FcRwgU2iAIu1tvXinLYvtqsXIvtkOwIXP6C66zArzyVa8Y5sIumfjk2BTO2kjjOozAryDsgT2sPN1obYNb1DuW8tSaYXNGqIG2kOT4OcAOo37Cs4TyOX0ekV/kwU8oW56wkrUJpKEShaeGTLF5fEyfL8PAcPZemIobT5FgqNaCnlP/6fzxb4xALw4MydLg3As4B51/lVEx0S9Q2vpHBjVqQNNS88fSbRpjDcAOXvM7Egk+12wiFsK09JGWljEEpG6NsSoQ1cHKeCMx0mywctGmTVxD9TwMUQpxlSRIwpAluqjGp/hK2DpgpyOUbJbrttpPWVvr0UgaxUjk8Zv7+9aQKtenY0dXp5NaA=;9LsQlCwI78win8ZlOr7XWA=="
 ---
 

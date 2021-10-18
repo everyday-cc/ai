@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-15T14:52:00Z
 originalUrl: "https://dataconomy.com/2021/10/facebook-dataset-benchmarks-ai-egocentric/"
 webUrl: "https://dataconomy.com/2021/10/facebook-dataset-benchmarks-ai-egocentric/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://dataconomy.com/wp-content/uploads/2021/10/facebook-dataset-benchmarks-ai-egocentric.jpg"

@@ -1,41 +1,42 @@
 ---
 category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
 publishedDateTime: 2021-10-18T07:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+ampWebUrl: "https://www.benzinga.com/amp/content/23411619"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411619"
 type: article
-quality: 20
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
-    width: 934
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
+    width: 593
+    height: 400
     isCached: true
 
 related:
-  - title: "AI Infrastructure Market is Going to Boom with Intel Corporation, NVIDIA Corporation, IBM, Xilinx"
-    excerpt: "Download Free Sample Copy of ‘ AI Infrastructure market’ Report @ Global AI Infrastructure Market to reach USD 100.8 billion by 2027. Global AI Infrastructure Market is valued approximately USD 18.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 27."
-    publishedDateTime: 2021-10-13T21:06:00Z
-    webUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/"
-    ampWebUrl: "https://ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/10/13/ai-infrastructure-market-is-going-to-boom-with-intel-corporation-nvidia-corporation-ibm-xilinx/?amp=1"
+  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions Finds Frost & Sullivan"
+    excerpt: "Frost & Sullivan’s recent analysis, Global Wound Care Solutions and New-age Technology Growth Opportunities, finds that participants in the wound care industry are investing hea"
+    publishedDateTime: 2021-10-18T15:55:00Z
+    webUrl: "https://www.newswiretoday.com/news/176446/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 24
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
-secured: "Z+pPZ2ZfgnsMaVjg2BfVskRbNUzrLpSYNnYST7cT7gJOViGGWdxHil5NihCBJ1evPn8aRNpHhhZP66mKq+3GWHxGBTO4E9SLICK6KrwHsyf0Q9KnSt4qTIkLJVM0/4ZJfq+Tq4rcIfWO+0bPeR7BxBxlI2M41ppWphsrLBvT1JwrTEdjxnPSOQs1QP5a/G7xWV1w2/UnCfWPne17OnOkVNd2gSBw2oj4jRng3tXXpZEnGArCF8j3F0c+XASOwznSCatOsoMIrSvGz230LrrOJc303pQ6BUSvtcyZPAhfW3FcvM8oBYS5aNwZ30l3CxoszoNXyUa2UAbXFQ9LsQLEUOCsHtqO3SzSzgGgEOm0EWA=;DXaabC9gj5bZoSu/tCdUug=="
+secured: "9HklKRISgBrHvwILOkOpkFFLb4HR9fk7LpHWphzbZDs/E1Q/qQxYyciG/b5mi7rf9UGP1oTH33jqNPy0vWmKlgKo8q6wnirN5tNzTkONaUqOCK3pyvHG5IlEdf/tnu/547AHQnwwPmQU1lW/St8Kjzz0KnLbAtRinrY2/2tCNaPzrz6DqvL/yfoKIu6i/NWK3xRhkKrUoSjQpuiqyWd6aDkIqADlT1wz0ObA3xr3z4tvcTj5VaEfBrmfUH/CHNIUwTeEQKdaHopfwcFNIGvajF3m1TlHLNVVTkQ3Bg3DysTsNMHxO5Ftge47QZmfuEpbGE93r1x3+mO8/OQnYxhzsIh5vqhrt2xkFXkdobzhr0o=;uEa9B6za8pjUq1ww8u4hkw=="
 ---
 

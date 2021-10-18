@@ -77,6 +77,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
+    excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
+    publishedDateTime: 2021-10-18T14:06:00Z
+    webUrl: "https://www.openpr.com/news/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
+    ampWebUrl: "https://www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18449376_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Global Artificial Neural Network Market Report Analysis 2025: Qualcomm, Starmind International, Google, Microsoft, IBM, Intel"
     excerpt: "Adroit Market Research in its latest Global Artificial Neural Network Market 2021 report reveals the impact of COVID-19 on the world Artificial Neural Network industry. The Global Artificial Neural Network Market report offers extensive insights such as company profiles,"
     publishedDateTime: 2021-10-14T15:45:00Z

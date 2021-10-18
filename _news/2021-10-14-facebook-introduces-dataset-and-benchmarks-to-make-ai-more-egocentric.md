@@ -39,7 +39,7 @@ related:
     provider:
       name: dataconomy.com
       domain: dataconomy.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://dataconomy.com/wp-content/uploads/2021/10/facebook-dataset-benchmarks-ai-egocentric.jpg"
         width: 1920

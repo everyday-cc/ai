@@ -89,6 +89,26 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Face Pay: Moscow Metro's Facial-Recognition Payment System Raises Surveillance Concerns"
+    excerpt: "The Moscow Metro has touted a new facial-recognition payment system as the first mass-scale use of a technology that will bring greater convenience to people's everyday lives. But its launch in Russia has raised concerns about the system's possible misuse for surveillance purposes."
+    publishedDateTime: 2021-10-18T15:03:00Z
+    webUrl: "https://www.rferl.org/a/russia-surveillance-metro-moscow/31517539.html"
+    ampWebUrl: "https://www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 31
+  - title: "Moscow metro starts facial recognition payment system"
+    excerpt: "Moscow metro has launched a system to take fare payments via facial recognition at over 240 stations across the Russian capital, according to Engaget, citing The Guardian. Passengers can now pay for their trip by looking at a camera."
+    publishedDateTime: 2021-10-18T15:41:00Z
+    webUrl: "https://www.telecompaper.com/news/moscow-metro-starts-facial-recognition-payment-system--1400908"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "NorWqo1zAXUB7c5ApBEHzOmgx3MsaOxaMNb4rhQSo+pa4a/iteoqo4UrlyXZLwdE0SPwvI51l3qH3wqXSsKG7WT5d1twsnq5exocPF141BIZjSkUcRA6FlFQeKnHpQieFECPWcRPQEQzoHz+83wUf0ckMXupUx1w4NrzUQ3xUJmr55RUOikWSTYyjems/dp7y7FiGs9KpE4YG/p8BhXpZcK7kYMQqAPbIf1PB9ykU1+AoTvupxyiXD77rwe3iMDDe//mU4LM5e6PXD2sYqXKmsW54M3mHKbIm82dilH/wKq/ZoAW9iWiDXK5XFic5Tp7O29Sy4T8YARioqEQIUnSHsFGQo3yl3A2CXp5AvA1cQODRE5/O7OdfcQcn4gp/px1ejisEJ0zlaqU2CEsMwvghYP1Eb+Q3wROWQexZZW7JaHbFdSezmrPc3mLZWh/2ju18jkzGnUMzyRRm8OdEV0HS3FCQO0gk/0YtMdjEZ8aMvu9GW8I4UoOxlPbu8xhAQSpfai3DeFaxpH5p1UMcfM3nQ==;8K4CDeLGw/N1Vbo/s8HzqQ=="
 ---

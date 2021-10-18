@@ -3,18 +3,18 @@ category: news
 title: "Facebook collected more than 2,200 hours of first-person video to train AI"
 excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
 publishedDateTime: 2021-10-15T16:30:00Z
-originalUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+originalUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Facebook AI
@@ -152,7 +152,7 @@ related:
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
     publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
     type: article
     provider:
       name: MarketWatch
@@ -256,6 +256,6 @@ related:
         height: 382
         isCached: true
 
-secured: "1c6MsH1KqaicOYgPyEv6ENce6tHnFK+87qMBsvlyqFKbQzGhkYoNb6JypobNdiFPurb7mcJV4+WSZyvAL9KUsLtLRAG0zAFVEjfzW9X8TwAVcMlTHzP28E/+EJ3u+JqwchZXJ2/MrUPlwfFivOBtpb0lVBUKbIKO/2RzBB6dAu18HemfO7KUGgOX97kXfOqUp+MQuLaMJ8nONuEvJvHGJ/VXyQJiGEyCUjpKY0KWpZu8sS3enHxs+DcB0JoFYDA3Etxx6ywK/mTb0vyjdIUCl+gXpGqnfZJ/xtLK7767EyDZTSEtbDDwpHMU7scvSOKKjL6a2CQ7Gtunq5RKoWYSkRryWQkg+0lQBHWIU/mdMoEg587v2zbowDvG9ORK+zfvC21sXPi/aYLxC03Zy3r49Eif+mZ35AoQTExv9Z+l2/eCq/AB8onkoSWHqorbtLT52MYEzhpnRr4AQD1lGIVsjIfoYDVcdEYUTXN/xGRCypk3lDV9G1jA9vwNKxfDHmJLlJ0BhXgDB8cJ6yOcwzXE4g==;Gh7HXbgeBgn7umX32VSxLw=="
+secured: "B3MfcbjGQ4LP4XNYKC2WvykUkOaubdXXqsfjqFI+aHKrdmDM5E3L+ol1ol7NsDOx/H7FYS4gDxMmbbURuN9FwCO7/6DlyT2QRllUZVIY5Qh2NxnFZMqOqhC7drJqbA213x6PEqJD6754WtMK8qkjRBGnIruhKUwARQCHPHkY0mBJjKo2nv6UzrHinblPeMTNVfk9HXQqLAnJpZpypEw8DA35GNSrHVcQo2u0N/peFc76rBNOkK9Rz1q3OMOe7KD9KX1YnD0GGFL20SB7l3/w/oQcd1zlE8gcU3A05k92yT+mn6vlpzpCkQT/iSeJZMdFRwfqWUJDce7+QP2a8vIozfey0D+W/bqm9hHtS3TC3CYIzAdLVnL2pV0gnm7TZz78IO1BKAYFT6/1Dre51teeB+fsDgwPp/2R3vMc2pQm5HP3b/Wz6Dy/CL3Z07Xrf6fif2DC891ND9+oMylzhgYOETEkQPYCbC/R2vIq7qhUY8CI2giotA2XYhMMXFFWMTOAVGznJ/0HJR9BebhMDb83Fw==;ueXbM9XQSe2wyRgbQ4Ndow=="
 ---
 

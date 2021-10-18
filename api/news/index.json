@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
+      "title": "Scottish schools serve up facial recognition for school dinners",
+      "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "publishedDateTime": "2021-10-18T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
       "title": "How IoT and AI are helping keep truck drivers safe",
       "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
@@ -61,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -196,6 +248,59 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem.md",
+      "title": "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem",
+      "excerpt": "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg",
+          "width": 686,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI Hardware"
       ]
     },
     {
@@ -345,7 +450,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -534,6 +639,59 @@
       ]
     },
     {
+      "path": "_news/2021-10-18-opening-up-a-physics-simulator-for-robotics.md",
+      "title": "Opening up a physics simulator for robotics",
+      "excerpt": "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/announcements/mujoco",
+      "originalUrl": "https://deepmind.com/blog/announcements/mujoco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-advancing-ai-telematics-in-the-transportation-and-logistics-industry-series-blog-2.md",
       "title": "Advancing AI Telematics In The Transportation And Logistics Industry Series : Blog #2",
       "excerpt": "This is the second blog in the AI Transportation and logistics industry. This blog focuses on advancing AI telematics and provides an overview of current state and future state developments. Key questions for CEOs and Board Directors on leading AI are highlighted for digital transformation.",
@@ -585,48 +743,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-17-conversational-ai-for-seamless-customer-experience.md",
-      "title": "Conversational AI for Seamless Customer Experience",
-      "excerpt": "Conversational AI is charting the path for more effective customer communication which helps brands keep consumers engaged and deliver a better custom..",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/conversational-ai-for-seamless-customer-experience/87081077",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/conversational-ai-for-seamless-customer-experience/87081077",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87081077,imgsize-13814,width-800,height-434,overlay-etbrandequity/conversational-ai-for-seamless-customer-experience.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/conversational-ai-for-seamless-customer-experience/87081077",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/conversational-ai-for-seamless-customer-experience/87081077",
-      "publishedDateTime": "2021-10-17T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
       "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
       "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
@@ -635,7 +751,7 @@
       "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -666,49 +782,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-facial-recognition-cameras-arrive-in-uk-school-canteens.md",
-      "title": "Facial recognition cameras arrive in UK school canteens",
-      "excerpt": "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "originalUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98774f15-08c3-4a94-8627-5a8929df882d.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "publishedDateTime": "2021-10-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1092,21 +1165,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-16-sorry-former-pentagon-expert-but-china-is-nowhere-near-winning-the-ai-race.md",
-      "title": "Sorry former Pentagon expert, but China is nowhere near winning the AI race",
-      "excerpt": "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI.",
+      "path": "_news/2021-10-16-facial-recognition-is-finally-raising-questions-about-government-accountability.md",
+      "title": "Facial Recognition Is Finally Raising Questions About Government Accountability",
+      "excerpt": "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race",
-      "originalUrl": "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race",
+      "webUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
+      "originalUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fairace.jpg&signature=37c2b19155b74d84da568e4687d78e76",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.science20.com/files/images/police_cameras.jpg",
+          "width": 494,
+          "height": 322,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1116,21 +1189,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T14:04:00-07:00",
+      "publishedDateTime": "2021-10-15T14:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Science 2.0",
+        "domain": "science20.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1139,59 +1203,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-putting-artificial-intelligence-at-the-heart-of-health-care-with-help-from-mit.md",
-      "title": "Putting artificial intelligence at the heart of health care — with help from MIT",
-      "excerpt": "Cardiologist Demilade Adedinsewo and her Mayo Clinic team are pioneering cutting-edge health care research that uses an artificial intelligence-enhanced method to analyze patient ECGs with help from MIT Professional Education.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015",
-      "originalUrl": "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/Demilade-adedinsewo_0.png",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
+        "Computer Vision",
         "AI"
       ]
     }

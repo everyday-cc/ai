@@ -1,0 +1,34 @@
+---
+category: news
+title: "Deep learning improves interpretation of tumors"
+excerpt: "NIBIB-funded engineers are using deep learning to differentiate tumor more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal."
+publishedDateTime: 2021-10-18T15:53:00Z
+originalUrl: "https://www.nibib.nih.gov/news-events/newsroom/deep-learning-improves-interpretation-tumors"
+webUrl: "https://www.nibib.nih.gov/news-events/newsroom/deep-learning-improves-interpretation-tumors"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: National Institutes of Health
+  domain: nih.gov
+
+topics:
+  - Machine Learning
+  - AI
+
+related:
+  - title: "15 Machine Learning Interview Questions"
+    excerpt: "Java Programming tutorials and Interview Questions, book and course recommendations from Udemy, Pluralsight, Coursera, edX etc"
+    publishedDateTime: 2021-10-15T00:00:00Z
+    webUrl: "https://www.java67.com/2021/10/15-machine-learning-interview-questions.html"
+    type: article
+    provider:
+      name: Java
+      domain: java67.com
+    quality: 19
+
+secured: "j19WWcZTpeyPwxfOvLR+WeyqO8YgxYLmUIBcAjPs+F973Os7iLFZExmp/CLt0NgH/jtvu5qDaQ6+O5fvI7/3gPY7Soo2gXfJmICh40ehRHXW0m9uwpKFLMtX9kT/Mnm6R2L7il46pQe1bYHo+YUsb39yQvHXeQWXiyvYdk/KYOQxx8YI117zM0gxlZWJzQoqQj1ph+2ak87l+aQsJvRQmEYDMZuMdl4egIeawiCWBfYiCQs1jQzeII3BKYWIDntD5P7F+bLjZmmanB0dNEc2zmTryjIfprvguyTwDDxwUP2HVrA+fg6ezw+SBrzoLT7Elei5R1WPlVzNkDYaatmB6lGZJSy/3aIF2TuvEw9hgkI=;JVlgCkxA3ZCOWtEmHk6QPg=="
+---
+

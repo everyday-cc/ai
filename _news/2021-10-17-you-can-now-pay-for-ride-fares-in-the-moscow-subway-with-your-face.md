@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-sub
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp"
 type: article
 quality: 74
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -89,6 +89,26 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Face Pay: Moscow Metro's Facial-Recognition Payment System Raises Surveillance Concerns"
+    excerpt: "The Moscow Metro has touted a new facial-recognition payment system as the first mass-scale use of a technology that will bring greater convenience to people's everyday lives. But its launch in Russia has raised concerns about the system's possible misuse for surveillance purposes."
+    publishedDateTime: 2021-10-18T15:03:00Z
+    webUrl: "https://www.rferl.org/a/russia-surveillance-metro-moscow/31517539.html"
+    ampWebUrl: "https://www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 31
+  - title: "Moscow metro starts facial recognition payment system"
+    excerpt: "Moscow metro has launched a system to take fare payments via facial recognition at over 240 stations across the Russian capital, according to Engaget, citing The Guardian. Passengers can now pay for their trip by looking at a camera."
+    publishedDateTime: 2021-10-18T15:41:00Z
+    webUrl: "https://www.telecompaper.com/news/moscow-metro-starts-facial-recognition-payment-system--1400908"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "4osoyrSCvK6/qlz8akZIr7458lRN9pnprZgwodCVB0nzffPLV22p1B3uORVA4joD3Kel4uSULMKC/OyRX74XNWRKoPjlu3ZfXfTk/SLj4773vpWNrlSxQGQ2ZcuWDemIhjpOM+Dov7e+J+5Qu4WcVQujm2RfpM2vgPJwLgFfbovVuJMfBYdC/aF3zysSDLgA46GqV8ySKGEobA+z6ZNOcjVz38D17oFC2y5ekAiYH+Bs7i5jG8ejpNqb12N2Dx1aN72AN7cSukdRTze9V5W58QOEnEqt5QYZGq2bqmh0jcNYTjWpAsYDBuie0JoHOonwwWBJCu96HgAdhr5QAE7fh6hb+NmXDXE4jIsqrnApclgINHxwltVkaz6fguUVWzoWZrZg0YVizV/zgL8STg45u6juAjQsrVTuJGJyMDLK+s768ZnXkmjJPlkdd0tHa03dxZ0LrP+GKDVrW1pkBVW3X6100DKZqpBvFc1vk8kLl7lBe4TNE6LfIN0frcfpTZ0dLw+kFEpuujMiTtx1blPVdA==;UKV5MUXio+CEBmfwRCPRCg=="
 ---

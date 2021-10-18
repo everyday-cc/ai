@@ -85,6 +85,26 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Face Pay: Moscow Metro's Facial-Recognition Payment System Raises Surveillance Concerns"
+    excerpt: "The Moscow Metro has touted a new facial-recognition payment system as the first mass-scale use of a technology that will bring greater convenience to people's everyday lives. But its launch in Russia has raised concerns about the system's possible misuse for surveillance purposes."
+    publishedDateTime: 2021-10-18T15:03:00Z
+    webUrl: "https://www.rferl.org/a/russia-surveillance-metro-moscow/31517539.html"
+    ampWebUrl: "https://www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/russia-surveillance-metro-moscow/31517539.html"
+    type: article
+    provider:
+      name: Radio Free Europe/Radio Liberty
+      domain: rferl.org
+    quality: 31
+  - title: "Moscow metro starts facial recognition payment system"
+    excerpt: "Moscow metro has launched a system to take fare payments via facial recognition at over 240 stations across the Russian capital, according to Engaget, citing The Guardian. Passengers can now pay for their trip by looking at a camera."
+    publishedDateTime: 2021-10-18T15:41:00Z
+    webUrl: "https://www.telecompaper.com/news/moscow-metro-starts-facial-recognition-payment-system--1400908"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "8WUbQy1wp2++CRs2oTzerniSd6rKsZ3mdVlaDKjKjFxti9RA//OJpUuG/+NYChElu7ZwPcSYtCFyBAnVSkfZHHacU+l3mBXgGqK1tYgJsoPMo/NZkQjg9v8uIu0/fDve5oWiDMfaYIF9y10pQRhjjIPePlXs3kmUMUuccCQRM/AwQWM2PkvJ5mZT9Fve2O0sM7p93ktkr7wzYcJUCNtOT5UHHnIZ4fdwMVxcGycg494lxewjrnSGPN0D+i3uIfY1IBeo78gOwt+EUQ/U9l+1WnpLKsfqLSnp6dmDbtGyObmPms/8xXHOLNeSrweY/trY26wXCitEGDCeNAwZJb9YmYrMMNDuTrijsn9ig57yO6Q=;7S7+ON28X0/UIDhD6nssbg=="
 ---

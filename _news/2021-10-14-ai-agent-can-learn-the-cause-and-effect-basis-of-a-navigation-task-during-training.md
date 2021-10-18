@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 735
         isCached: true
+  - title: "How AI-Powered Call Centers Can Help With Your Digital Transformation Efforts"
+    excerpt: "There is a huge opportunity for marketers to harness AI-driven insights using first-party data from phone calls that can connect the dots."
+    publishedDateTime: 2021-10-18T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/18/how-ai-powered-call-centers-can-help-with-your-digital-transformation-efforts/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616993c95f7a5281d84c7233%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
     publishedDateTime: 2021-10-14T22:52:00Z
@@ -83,6 +99,20 @@ related:
       - url: "https://opengraph.githubassets.com/a5d9a814ebc7eb10d76a6de8539013dc6cd614fcf1176f1bb45a764831f42e81/webclinic017/trading_bot-5"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How AI Will Affect The Future Of Work"
+    excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
+    publishedDateTime: 2021-10-18T15:42:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 39
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
+        width: 806
+        height: 500
         isCached: true
   - title: "A Role for Artificial Intelligence in Educational Futures?"
     excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."

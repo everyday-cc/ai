@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
-excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its platform. But documents show it is only two per cent efficient."
-publishedDateTime: 2021-10-18T01:01:00Z
-originalUrl: "https://www.dailymail.co.uk/news/article-10101895/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-webUrl: "https://www.dailymail.co.uk/news/article-10101895/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its"
+publishedDateTime: 2021-10-18T01:22:00Z
+originalUrl: "https://en.mogaznews.com/World-News/1847063/Facebooks-AI-is-removing-just-TWO-PER-CENT-of-hate-speech-posts.html"
+webUrl: "https://en.mogaznews.com/World-News/1847063/Facebooks-AI-is-removing-just-TWO-PER-CENT-of-hate-speech-posts.html"
+ampWebUrl: "https://en.mogaznews.com/World-News/amp/1847063"
+cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1847063"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: en.mogaznews.com
+  domain: mogaznews.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2021/10/18/01/49298613-0-image-a-16_1634517938656.jpg"
-    width: 636
-    height: 382
+  - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-18-8da1ebff49.jpg"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -259,6 +259,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "jROpRdTIT97+79ywAZfNO10SWLf/9ymI4wZ67IqJym5Pd65agw09V5S7jxvOP+Rx6gQLjM6cjFLRjIEGx0z6i3o5seW3765TFG6B4cGSAsptXoL0TgjwCL+f7yFf8B/9xzz0rYzVyZsK0j2eMCOJw80gQqsJ4EhsBDJKYmZMRNzZ0v8iuZ6imVPinr2hoXhaWWAOJDbPboSwStNX1VqT5ZHJwp92yNNn7HlYzBBCH/64Th2TWu0X81k5BHNJb/Tq/fokgEN6C1buKsDMvPDhlTlU3yyWrNO+LSQ7Ai/9auX9kX7uqfm7yPp2nxEUVNfFqjFDB0AI5CKx8A3JhSDT0tg/hiq46woOB1VWBFA7xqvW66Y0BBTSU5qEpiA8sEI5vm4dTvdT9FyHgfA3wxVT45tBbOzV18yYmpec4JOT+drKxd0imzpXKNxNWcF7GSaRltqtLDCbWhGU/Qh6vSA4Ju9jaKIsnlnSGisLZ2ii5R2NfURCgm9VPxWDywxDlalIz7sYEy+k9PFZPCfHk2nV1Q==;Bq2Ts4y80LmIAKTTe3pVYg=="
+secured: "7JiQ3X0bkl3elXOwua6TmhhdWJHeSKNV0/h1p8+PoX5QUx1n6QQthmasXhLlJPRV0iBA4RK2ngzFidIKjRuQkQETIl7ux0EiqJB1wMMLa83b0YOGRbH0ZdvxfkPi5Ro4bA13hIrHjNv6172aMEAZUifPNLJrr8S+s11cPQbCbAm90wsQm8PpzUL7j1Dxy68hxeAoMF1HSkuLBARK/4CO7Gghs0mrwsmt0Rzekqt7es0hh7lIodusHWRQQGRcj/Ta7+Os8naSMXmwWhMvWzmFFLMnSghv2fkiPkHj1nkrcRGmgKKZh/TQSV7jUO4JsnQ3oXho79oGw2jrhUmM4JYWPuaVxEBdbOSdxTY7A8+EN+s=;Norh351DhvBIOpS+QwkTXQ=="
 ---
 

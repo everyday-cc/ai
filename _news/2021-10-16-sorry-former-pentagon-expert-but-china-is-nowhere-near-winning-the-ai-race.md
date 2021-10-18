@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china
 webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
 type: article
 quality: 67
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -44,34 +44,6 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/Feb21_18_956056544-450x300.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
-    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
-    publishedDateTime: 2021-10-13T22:25:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 30
-    images:
-      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Ex-Air Force Software Chief Eviscerates Pentagon For Already Having Lost The AI Race Against China"
-    excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."
-    publishedDateTime: 2021-10-13T22:25:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/42733/ex-air-force-software-chief-eviscerates-pentagon-for-already-having-lost-the-ai-race-against-china"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 25
-    images:
-      - url: "https://www.thedrive.com/content/2021/10/Nicolas_Chaillan.jpg?quality=85"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "96Yt4DKBwN64UWg72GXTPcTkHwrCAIrd48X58KeaUu6lxQPIHA0fbE+RR3OlzG1IpMKxEfDTwMh0QATkZmkjUJ7h+B1S9u3psoql6gXu9TCyRh4WW/YohJjyjbdWFIlR2rUC8pJPJg3zauaRROw9bK2uZuqm/5ywaQqrJBcxxKL525tEGG3/plfAU1m5YIAp4cPfKEEfOGUggtbsmmevWHPg1gTqnGlds9aYt+Tb+q8mIqv6vKyiyHSfa5VWEtEDa9p55CocDzqJdMmo/LvPhG5t02E1jtXThiHOeDXXSeTlWi+j56wCXtcup0yDngJs7e0xupbuV3HDZVV5dYVOaHh+L4J4rnKxeQWRvjtd3agGFMtDLIF2Tk8RJuc4s6pEds3OMhhBRyk73kAHcz0zCDKlCD6irI4cxm2LdKix4KXJzbnNeYXKbqk9eigJ22L1EdHCDdUJeg6q6IWlZ6gxWJF4UC8xbuMzSPIZ8FslgHY4F/l9w0xCVA/KmecVpId15s9qdY7euhybWrGZm9HNXA==;bXXPS8ZmFox+xabdnTgVhw=="

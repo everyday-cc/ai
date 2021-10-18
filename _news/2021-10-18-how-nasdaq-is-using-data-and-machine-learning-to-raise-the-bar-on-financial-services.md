@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-18T13:05:00Z
 originalUrl: "https://www.cio.com/article/3637115/how-nasdaq-is-using-data-and-machine-learning-to-raise-the-bar-on-financial-services.html"
 webUrl: "https://www.cio.com/article/3637115/how-nasdaq-is-using-data-and-machine-learning-to-raise-the-bar-on-financial-services.html"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/10/istock-1202870693-100907148-large.jpg?auto=webp"

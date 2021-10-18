@@ -89,20 +89,20 @@ related:
         height: 720
         isCached: true
   - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
-    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its platform. But documents show it is only two per cent efficient."
-    publishedDateTime: 2021-10-18T01:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10101895/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its"
+    publishedDateTime: 2021-10-18T01:22:00Z
+    webUrl: "https://en.mogaznews.com/World-News/1847063/Facebooks-AI-is-removing-just-TWO-PER-CENT-of-hate-speech-posts.html"
+    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1847063"
+    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1847063"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: en.mogaznews.com
+      domain: mogaznews.com
     quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/18/01/49298613-0-image-a-16_1634517938656.jpg"
-        width: 636
-        height: 382
+      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-18-8da1ebff49.jpg"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facebook develops AI that can analyze human lives, record what they see, do"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse people's lives using first-person videos -- recording what they see, do and hear in order to help people with daily tasks."
@@ -262,6 +262,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "3NWDtira4WV4ts4NAkpzzvqK9UKFER4HBdBIRG9koA6NHqgXPC6+ROTx8991H/yTF6/3rLf+Pu7oy6Wu/SfiugNyOkc7femswtkJsHVI+++Xt6SC4C/jVR/t5D6QTcpi+2H7rHdrfhIxZe7aw0C5etsop0XrRmlrt1ZLk281KFJwCQG2AcHQMAkzSRcdgG7U8QFjv+Xsbo8k2uV4qBxgfAQ5yiBBVuvDiJff8K+Bsvj2mBf2MO2Q0Bt8VKnbX1b7GsCi2UaEcqfpzSZyeaQ5MIeXDu2ZOH9llrquBqtj9u6uZsYsCcQPRJi8gIipTwb0+YDwMf1Rjhdg64RwJD/wO8BpBsuJYs3tu0al2SzE8XQ=;yRCle98ujPFyVG2YXJdkWw=="
+secured: "b6da6f7eiInMa/ZLOx3FFkxOAnluVz9ef4cApWXM7U8w0D+gbYpIylJEM/cwGD7yOeP2BKjipv4vTf00WKJj/d2jBPZGI9V9M2Yj8H2TimrNAP+OVfY4gPMFfDTtWdeFR2VXZnpppx6IwDm4NMt6XBJP08zMz4O/lW8dTIAyAMTCdvUXML3R7IX2zxJGPsUHANXyScME0xwsCdtwwqJSoL7SBALHQ4OpbPhneZnHpkt/CzJOmCNsNFuVUE7gc3L0FmvCeRMcmUZcg//iu4W5uJEDw2k0ikCfbuo3KBqpkzBUZVObmHn0SXK8fw7Dbf0q+9nryOqYqNDJtR9hURyFE7e3EeD9V7zWihmMwhdJH8QkP1DaXeZFM6zqXWrjuXgdEjd9ffjdzFD41CM6euh7YxSKMDc3Q2FpYD+b2oLPzhRRwqoZ8HBzuQ8u+49FvV2ZLm2FWR+gCywsEOT3LvvKE3dI4TE4U+Xn8p4UwQK7eB97ef1K8JRL5wzdlrAtCTfKMg5oazxo47C8lctoMn6YDg==;SXwzjSq/S+C+Ey8s0OFenQ=="
 ---
 

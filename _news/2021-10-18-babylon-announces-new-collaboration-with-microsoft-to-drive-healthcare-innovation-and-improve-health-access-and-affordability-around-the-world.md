@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
-excerpt: "PALO ALTO, CA, Oct. 18, 2021 /PRNewswire/ -- Babylon, a world leading digital-first, value-based care company today announced a collaboration to explore opportunities to improve the accessibility, affordability and quality of healthcare for people across ..."
-publishedDateTime: 2021-10-18T13:55:00Z
-originalUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
-webUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
+publishedDateTime: 2021-10-18T13:42:00Z
+originalUrl: "https://www.kktv.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+webUrl: "https://www.kktv.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WWBT
-  domain: nbc12.com
+  name: KKTV11
+  domain: kktv.com
 
 topics:
   - AI in Healthcare
@@ -60,6 +60,6 @@ related:
         height: 637
         isCached: true
 
-secured: "KDCjDfC0PRWRr5sD0JheAvfuDKeMo4C0BtcNS19Q5O0sogH9GSL5utc03xGxWiu3rtkwoB+0BDpPVfWweUptxA7mHD5w271aqw2mLCAlalnDEt6SmIi0i7Bp0bGjdsf+OQ5R4YarezdHAZYHq5X3tnFy8H8Iy2GJ14kIicuIKeCVCXweymNoUp1KrUEcJgqsjqTsovQOzh4ptjeJGgdfjQO0J8eKo8FqS0X83hegcdZMftaMt46JUk67/Pz66QrnUzqgahZdB7Z+c2RVIzH8gijm0F3hzxQKf4gmGlmnMTgZJGs/u4ELdsfsKpHGJhW6XgQZd3frgtR8qggffCJ+0rASRNh6v1d2Lgk2ka7IWzg=;DYrk1V7I/DAVXK0YhKOmHw=="
+secured: "zVgb6Gsk4Eckf5F9jYEdwMQzTenXOfATlM/UAND9GF4gRLT2OZcz4PcDM1Fgh3z23ze1HjAQuHf4i5LP32wT0D/fcuBgc+2WBrRXBfcC2OgZBH0fFG0ruPOXaO1KXOL6XhVpuyIOxqkXrRlfIL8q8x8J3YEyVmgVBciiD2iDfYdO1pAWF2JF0V4DUo7U9LAdMMRUJGzafB195eW68JvM6M+UKwZkytfNiuuZtf/hDAf6QrAM6zv7VFHnf2CXrHWtBSKOZMRkjlscDFA+7ZTRaRktP5abu5I9SOOrm7LfmbMjmKh5RfteX02DPSImkvjFlbK4W3UjllBJYYBjl0JTjCe07AK0kwGVgefxUsBDv3w=;O0f2xOFTZCcQ8HNCrp2tHQ=="
 ---
 

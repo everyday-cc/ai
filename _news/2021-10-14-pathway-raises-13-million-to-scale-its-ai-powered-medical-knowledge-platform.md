@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Metrolink.ai Raises $22M in Seed Funding"
+    excerpt: "Metrolink.ai, a Tel Aviv, Israel-based data-management platform, completed a $22m seed funding round. The round was led by Grove Ventures, with participation from Eclipse Ventures. The company plans to use the funds to expand its R&D,"
+    publishedDateTime: 2021-10-18T12:48:00Z
+    webUrl: "https://www.finsmes.com/2021/10/metrolink-ai-raises-22m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
 
 secured: "pbuzZ5B6AsGocNwX9DHINpbBoYuKTWELXQjr34gMJn+gDtikCJvKp9Z7OEXlc/s5IYKor7nSCXldMVL5pWyBMmqThKJ8FbY0NOx+D3Y4XRG+s0FzBKJFAXWxuImDtbuOc802lmS9oZOSQh0mXoa4TU6uDsEFQmx8q4D0wtBvVTx8GfcCTMIBIG+a43vnR4oHsiB/dFSHzKbpEU3XuQI5feyB0JVJUnmRJebs9HUpfiVzU9T+hht/ouvbQK6g7J6kSwO8So22aTZH0MSw0L856JEqo5KjltDuzFhR7JQauR6+p2Vobmwn+Ses6aqKXjHi7pdXBVtfuEBmrVji80ZbDbYKdQ1ZHkw9pSKTAJ5NrB4=;RzK0fFW6cOdhVFgebOgFbA=="
 ---

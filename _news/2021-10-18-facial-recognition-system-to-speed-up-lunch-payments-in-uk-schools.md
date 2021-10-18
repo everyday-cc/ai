@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scottish schools serve up facial recognition for school dinners"
+    excerpt: "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system"
+    publishedDateTime: 2021-10-18T15:31:00Z
+    webUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners"
+    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Facial recognition cameras arrive in UK school canteens"
     excerpt: "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,"
     publishedDateTime: 2021-10-17T04:00:00Z
@@ -75,6 +91,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Privacy fears as schools use facial recognition to speed up lunch queue"
+    excerpt: "Nine schools in North Ayrshire begin using technology to take payments, with others in UK expected to follow"
+    publishedDateTime: 2021-10-18T13:53:00Z
+    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Schools in Scotland start using facial recognition on children paying for lunch"
     excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
     publishedDateTime: 2021-10-18T10:29:00Z
@@ -91,19 +123,19 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
-    publishedDateTime: 2021-10-14T18:09:00Z
-    webUrl: "https://www.ucdavis.edu/curiosity/news/facial-recognition-cameras-other-tools-used-police-raise-questions-about-accountability"
+  - title: "Privacy campaigners condemn rollout of facial recognition in school canteens"
+    excerpt: "PRIVACY campaigners have condemned the rollout of facial recognition in some of Scotland’s school canteens this week. As of today, nine schools in North Ayrshire had began taking payment for lunches by scanning the faces of children."
+    publishedDateTime: 2021-10-18T15:09:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/facial-recognition-software"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 45
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 53
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
-        width: 1280
-        height: 720
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UK schools bring in facial recognition for student lunch payments"
     excerpt: "The intent is to improve speed and safety, but privacy campaigners say it is trying to crack a nut with a sledgehammer"
@@ -147,21 +179,7 @@ related:
         width: 750
         height: 498
         isCached: true
-  - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
-    excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."
-    publishedDateTime: 2021-10-14T17:33:00Z
-    webUrl: "https://www.biometricupdate.com/202110/uk-experts-condemn-government-facial-recognition-use-invoke-threatened-oversight-role"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
 
-secured: "25toxKpno0m/e8ACdxqX7E9k45+PjMXDaNxrAqtbaiLeelwgXrqO5b9xvH/kDwg3SgwMIs0E6//jb0x5gMcJNhTsd88F7DRG2E0OnvQvFJl9VTuyaKPpVE/ArKmhIX4YgEcnnongqM+l5xTkCKO/R+HNaC2XMAbzOJdvnYPrBXjKiTJJttVKzGqPxM+KRfr8FK9IsRMOVU5eDuLg1PD6VeulaqHn+kCzlDoF51W6Ch1AqzzTKJqV6l8QqWMnfwqPmAVy3QUEEa/BuIVGryEs6tC1NwqjUtZT8zhLqlVTf+3Vkg6IfJQNBOPf/G2s1ZewjVkPXt2nXD7jdfez5gPOG9zVBM9NblzpGsPBDa17zv4=;QYq9F6JgN20XYz7HFAAbog=="
+secured: "wfg9YwiIf8bWCpk9njj05Gtue8/law1kjaAkth4x3olmgHk/Qs9/gKiyoCjLJWx5h1NywZOuIeIDca5WZXuMgKBGxd7Lj0ECctS1KFAf+lUbIBaX2LUURTOXAlsXluqWjOs9Ei1Q1qBrZIUY3Q6W52ZQni8sAKq/zAfgKtd2GIPVoycK8nn+TJh07jTLaUb5CTL4jUsHA6R2k1efEuwzgfC5rlLCOPfWeSO8a5PstAQk0dKJK2bwz3ntjY8TbgNqRcBqxK5DVdhL7Kg8mIyzFdvlNXmohsjZmSMu5YW2HLdKCM5buk4G8+8GYazCJa02YYYjIVvF/LGYOf8pq6xQ5gYIKUc83slvMkPE/yya9+dxc1WppX+F2xyChGK6KZQQ5hqsD33ZPzw47/8VAz+4DSSoM5QfTg2mLBgoOu/+vhOtllAvr9vzr1k3b15/Zg9rJNGWDrLnnABerLUY+yWl5VJu7jdF4jOwMjPhot2xY1l7UMcHalvOgCRt1K1WBMNS6rpdc+Cvo/aJtt9qi609sA==;E2dnvodo0AXbiqu8WqHUzw=="
 ---
 

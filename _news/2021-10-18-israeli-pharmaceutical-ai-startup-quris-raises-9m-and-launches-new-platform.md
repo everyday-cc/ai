@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-18T11:30:00Z
 originalUrl: "https://siliconangle.com/2021/10/18/israeli-pharmaceutical-artificial-intelligence-startup-quris-raises-9m-launches-new-platform/"
 webUrl: "https://siliconangle.com/2021/10/18/israeli-pharmaceutical-artificial-intelligence-startup-quris-raises-9m-launches-new-platform/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/artificial-intelligence-brain-think-control.jpg"
@@ -41,6 +42,6 @@ related:
         height: 402
         isCached: true
 
-secured: "e4dINXqhAPhXHs1s0FAsPeNWFdUB9UmKsjMKoYsEragzybKMbwbyBU0e04tVr117TviD5ZKLkalNOy6hxYwIjXJ/oFFhs90tHvkrbVz1+audNIqo7qGW8ddWozo/BhdKFIj4ZEsE6hUnnwJM+ly2Z5/ZItx71/fNQwZ8Wsjos6I5BdjkBwVTkm+UmKurPxsjAWycKWmRw3mBNGbRN9qy5qYYSz9l5TIvVtTEl8YkJ4FteOhO3sQDNFpSOLi1ZEFJyJMI1XhVZPRNpIR1rrd2/Z4HEAgxrnlsfA34HMjvPaXkyfaheTx6PUL4lRMuGZseQgVpmU7O4WqGLS4zamW4ojt6kZF3429qsXuI/CUjJhg=;QO7MDJv5sxviA9sjs8vY4Q=="
+secured: "qqxoa6ODJigRVzMLF9uVt6DO33SEN+iZ3u58yYHKpcPjWI1onIdQBF7QWYbD0ndj46SrQD4xSBX7bqG0iEnv1otTSodJ2CHmpIfyChcjN2bHkrbAZj00Sl0JKv/nwgXHbckq4RBHxXwqtSPfHz/cvL59BO7BT5zmN9cu02s0xOMc4q3aXZuxBrow+HWWgYteUUanm+xdMtkhALxwDNo/jI6FBRGdQ1sSaXpHnkaKcUwuHYIqXlF6E5MNBO9ctRBSZ3JmRiwY09LCgZH9rLE6QyoNHeSFl+mDhipXC6aKZmGaF4KR5E1hzIAZkNd/2oC/4CEXqYA7h0/Zn2Ip3Tuu+Zk2MkF7t0ireo8GW0LAvgHzzA4csNlcWg9h1khLJvZGvzPwvrlgDdpwUXHFfl7Ic6jD1K70sgHj55aCzhCff7Jbjm1u6PC/17K03JcSgzfLYpzDz8jBpsHVZfiixhiTdtRRAXHSQEX2J+syNs9GMcb2xT6sHvNzW+ewb+YZNRvWkmlrQK4EkQODrij8oDzvQg==;HDwUyhtmK4JNlC4n2BQzbw=="
 ---
 

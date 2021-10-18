@@ -26,16 +26,14 @@ images:
 
 related:
   - title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International"
-    publishedDateTime: 2021-10-18T07:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411717/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-pro"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23411717"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411717"
+    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+    publishedDateTime: 2021-10-18T07:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
       - url: "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
         width: 686

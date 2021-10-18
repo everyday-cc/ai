@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scottish schools serve up facial recognition for school dinners"
+    excerpt: "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system"
+    publishedDateTime: 2021-10-18T15:31:00Z
+    webUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners"
+    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Facial recognition cameras arrive in UK school canteens"
     excerpt: "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,"
     publishedDateTime: 2021-10-17T04:00:00Z
@@ -91,19 +107,35 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
-    publishedDateTime: 2021-10-14T18:09:00Z
-    webUrl: "https://www.ucdavis.edu/curiosity/news/facial-recognition-cameras-other-tools-used-police-raise-questions-about-accountability"
+  - title: "Privacy fears as schools use facial recognition to speed up lunch queue"
+    excerpt: "Nine schools in North Ayrshire begin using technology to take payments, with others in UK expected to follow"
+    publishedDateTime: 2021-10-18T13:53:00Z
+    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 45
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Privacy campaigners condemn rollout of facial recognition in school canteens"
+    excerpt: "PRIVACY campaigners have condemned the rollout of facial recognition in some of Scotland’s school canteens this week. As of today, nine schools in North Ayrshire had began taking payment for lunches by scanning the faces of children."
+    publishedDateTime: 2021-10-18T15:09:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/facial-recognition-software"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 53
+    images:
+      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UK schools bring in facial recognition for student lunch payments"
     excerpt: "The intent is to improve speed and safety, but privacy campaigners say it is trying to crack a nut with a sledgehammer"
@@ -146,20 +178,6 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1634549145/widgetdocs/shutterstock_432895576_owlxjf.jpg"
         width: 750
         height: 498
-        isCached: true
-  - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
-    excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."
-    publishedDateTime: 2021-10-14T17:33:00Z
-    webUrl: "https://www.biometricupdate.com/202110/uk-experts-condemn-government-facial-recognition-use-invoke-threatened-oversight-role"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
         isCached: true
 
 secured: "tRLxgs/4QBf6cjZNkU4WsMUGXTmIF3B04eCs3gXOaR/R9ZSjw/cZswwH9u9fB+2e1s1JmuSAE2wWG+VOgCyEJa5VMRtxwhZmRjV47pu+JQs7C1c9KMdmy51/WY8N9ga4JHpuWhaQolljupgt+oc/Td2ZffbCPZ5/gvPH2QifuRC3BV3G6STrM7JOjzzfRXPg601eU27Uk+tfEsZDRlvwtcb8p6dwCWd2BZE1u8hb0qY/FU4QdVN6PXz3U7W4GXpJEeg70/w8jX8DGMiYVhOenMHJKr7wm/QJCl8rrgHlq90mwNZZhNRJEH7DGp60CtSOxgiAqG4m8IjY4zrZJZ2udf8cHIY8cpG1hePPNsRQ41pm6iwxCv634L9rn1DWKFcuSggRrS2KKvWlGmg2hUgFER6SLdGuou9Zdiu48RyuwifbUu98eeRLW0pbhIAiKhJKDWZl0dhDi1BhR00SdqF5CgaPY0SywLkZ4/iPvIxJO9Eo2Tnuh76k6HGCeA1PUdKjo4LHxjFu6NcZF/wHYkgqqw==;e+MBc6QnZyQ10AheXa/5oQ=="

@@ -102,20 +102,20 @@ related:
         height: 720
         isCached: true
   - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
-    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its platform. But documents show it is only two per cent efficient."
-    publishedDateTime: 2021-10-18T01:01:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10101895/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its"
+    publishedDateTime: 2021-10-18T01:22:00Z
+    webUrl: "https://en.mogaznews.com/World-News/1847063/Facebooks-AI-is-removing-just-TWO-PER-CENT-of-hate-speech-posts.html"
+    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1847063"
+    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1847063"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: en.mogaznews.com
+      domain: mogaznews.com
     quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/10/18/01/49298613-0-image-a-16_1634517938656.jpg"
-        width: 636
-        height: 382
+      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-18-8da1ebff49.jpg"
+        width: 700
+        height: 450
         isCached: true
   - title: "Facebook Ego4D AI Research Wants To Learn Everything You Do, What Could Go Wrong?"
     excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."

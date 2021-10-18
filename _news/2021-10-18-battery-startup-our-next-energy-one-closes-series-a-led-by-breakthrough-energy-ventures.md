@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-bu
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-business-be17af84ee2822da7254df8cf326a733"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "BMW i Ventures Invests in Michigan-based EV Battery Startup ‘Our Next Energy Inc.'"
+    excerpt: "BMW i Ventures, the Silicon Valley-based venture capital arm of automaker BMW, announced an investment in Michigan-based battery startup Our Next Energy Inc. (“ONE”). The company is working to develop lower cost and longer range batteries for electric vehicles."
+    publishedDateTime: 2021-10-18T15:30:00Z
+    webUrl: "https://www.futurecar.com/4937/BMW-i-Ventures-Invests-in-Michigan-based-EV-Battery-Startup-‘Our-Next-Energy-Inc’"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 16
+    images:
+      - url: "https://img.futurecar.com/202110/18/l_616d949f0f1f8.jpeg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "XWPlF30xT9oDMBAGka2OzPoGQwEcfC5b4dz6PNgAy8SS+t2iHv3uKDugy4HNAShAY1EtP3BaUUWaxwrWfeMYWj0eHRjrzUN933Y7q/6d6WwtboGZxoPvTvYu4p5BGSAJi+kPVXhjdpgnzqb6MGCbKF4kUfuZVI+FiOTYZS0cdpeifpKbiZG9GF5VsR9kJ9TnGiobq10Nq359zETm9DgWH9emvTgXXE2jDO7kKSa9ApRzLesBLRvlp842BhgUMJHBgMiZRjxhLP3q9Y+v0J9z4KhrEL9qFmOOf58oYtP3bnzwjS0A6B8LCugLZQ/D+rh0ZW/2AjW4qW5YFV01xTscPySMrsEwvGfb9yzCsHVzvZY=;u52xxdEOMm9MlQO4Ru3bGg=="
 ---
