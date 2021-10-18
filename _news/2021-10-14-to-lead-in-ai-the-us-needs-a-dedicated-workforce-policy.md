@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/politics/to-lead-in-ai-the-us-needs
 webUrl: "https://cset.georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/"
 type: article
 quality: 137
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/Feb21_18_956056544-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Why the world needs a Bill of Rights on AI"
+    excerpt: "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created."
+    publishedDateTime: 2021-10-18T09:37:00Z
+    webUrl: "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+    ampWebUrl: "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "n0VHZJ7V22rX1EWI1AU8PZx9/p9UXO4g6YGzwJER5bDnBVm7BxWdmG9SI2RO84L7yq3CmS6JHeH6bR/f6mHNVjZYOgsvREKk9PANtFC+WgoxC4mcZ1VUmHR7eqYQwS+dblwBO1MHfAHuoxwEyrOBMhmvaX5c9XgxlF2vA+93sah/ZcWVtAzzBz6JkBla5BAzRm3TQznHjtiom7Iw5K8k57uWDJqvOv3RPGGlDlLjMDXhT1/ILSCvW82lN7lpFE4icR1TIvymHZRXhZtDu6lyEkqU8ulWZ61wh10Wa9JbFbLM6ks/xy5CH6YIJ52CrpAuVJwxU25PInUdwyvNIbssOZYL39axXa2p97OCbKLfThyrwFjKRUB2VCX1zOSG+37b6w5LixMn5SnGI+uRoL7VTzXq4XD3XrSQTam81uoWmUMr/vqi1JS8rfukrqYm5bREO9e7zc+U/3vHIKiETCJFi97RXSM6eyPzWeR7NIB4nfB4nJzUiQPumqo3XwQY93ULdRoDbqH0S2Pr45luDMVRJwRBQWYphVyCjBMHlYeke6s=;AyZOxpNRDav8dMQwCFPNEA=="

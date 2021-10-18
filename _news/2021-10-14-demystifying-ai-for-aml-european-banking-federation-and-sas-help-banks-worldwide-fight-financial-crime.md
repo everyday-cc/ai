@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/demystifying-ai-fo
 webUrl: "https://markets.businessinsider.com/news/stocks/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime-1030863817"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Business Insider
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime"
-    excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year."
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime/article_70db34f4-188e-50a3-a74d-87901e66c81b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/4a/34a3b91f-451a-5bde-87ae-5fb6308c7d79/6167071ed671d.image.jpg?resize=800%2C533"
-        width: 800
-        height: 533
-        isCached: true
   - title: "EBF and SAS join forces to fight financial crime"
     excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP."
     publishedDateTime: 2021-10-14T14:38:00Z

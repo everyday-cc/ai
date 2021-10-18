@@ -25,51 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’"
-    excerpt: "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot."
-    publishedDateTime: 2021-10-13T16:46:00Z
-    webUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/"
-    ampWebUrl: "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/"
+  - title: "US asks Tesla why it didn’t recall Autopilot driving system"
+    excerpt: "U.S. highway safety investigators want to know why Tesla didn’t file recall paperwork when it updated Autopilot software so it would do a better job spotting parked emergency vehicles"
+    publishedDateTime: 2021-10-13T17:56:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 81
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 59
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
-    excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
-    publishedDateTime: 2021-10-13T19:00:00Z
-    webUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/"
-    ampWebUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Samsung Potentially Takes the Lead on Tesla’s Self-driving Chips"
-    excerpt: "Following earlier rumors of TSMC’s involvement, new reports have pegged Samsung as Tesla’s supplier for next-generation self-driving chips. Industry sources claim that the duo is jointly designing and fabricating Tesla’s HW 4.0 chip, which will ..."
-    publishedDateTime: 2021-10-13T17:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/samsung-potentially-takes-the-lead-on-teslas-self-driving-chips/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 39
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Samsung_Tesla_talks.jpg"
-        width: 700
-        height: 351
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/602d504/2147483647/strip/true/crop/4458x2981+21+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2F92%2F86fcc4cab76b66125022fb0da967%2Fe49e8182431e4644a3bd750334e3e445"
+        width: 320
+        height: 214
         isCached: true
 
 secured: "JR+c4U3waY4QFpgf0JYYb6O8lxRLhd1EyC1mAp41QNSHWzFu3c/d91z3M1Pf43tW9GthzwU0W+1Wec8UdTmUjo7HAHVwPd/exv5Zyn7eVadRzj0YIMKebqv05Rfm8MZotwz5wzARSFsDqIMl5dYGoPMRHX7NHRwfkSXAaTrzQ6Pq7dgoqI7u4NujIk5H8vOrlvAF4YExyb2s3nh5pD+icxC5fZPYLzwTogJp/G/qQrDzjBQsUQs7bk4B7SYtg2EFxfygwU6QPt8t37bnvOu/JHrnhV8OTK6CBJqeC3JFn0esjFf+bS8bXgkO6eqIm+fp73k+k62Uhb/iyjzxPtUaN6NvPn0tSGV5ESmr5qhFy2I=;Gra8DofELgr3JEUyt2CL0A=="

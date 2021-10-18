@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-13-google-cloud-extends-its-reach-with-new-distributed-cloud-options.md",
+      "title": "Google Cloud extends its reach with new Distributed Cloud options",
+      "excerpt": "The third-placed cloud vendor has announced a new set of options for customers that need to keep certain workloads in self-hosted environments or out at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "originalUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/google_cloud_logo_via_google_stock_by_thinkstock_1200x800-100851731-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636517/google-cloud-extends-its-reach-with-new-distributed-cloud-options.amp.html",
+      "publishedDateTime": "2021-10-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-will-automation-and-ai-actually-improve-customer-service-calls-salesforce-thinks-so.md",
       "title": "Will automation and AI actually improve customer service calls? Salesforce thinks so",
       "excerpt": "Clara Shih, CEO of Service Cloud at Salesforce, explains Salesforce Service Cloud's three-pillar approach to automation and AI and how the technology is transforming customer service.",
@@ -532,24 +584,15 @@
     {
       "path": "_news/2021-10-13-edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto.md",
       "title": "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO",
-      "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks’ patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
+      "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-patents-intellectual-property-439d1b415d5bf44619924536ebbe103a",
+      "webUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
+      "originalUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -557,8 +600,8 @@
       "publishedDateTime": "2021-10-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WTVY",
+        "domain": "wtvy.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1145,49 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-google-pixel-watch-delayed-again-the-reason-is-chip-shortage.md",
-      "title": "Google Pixel Watch Delayed Again: The Reason Is Chip Shortage",
-      "excerpt": "The Google Pixel 6 has been making furor even not actually appearing on the market. We mean this handset will be unleashed in a week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "originalUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/Google-Pixel-Watch-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "publishedDateTime": "2021-10-12T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

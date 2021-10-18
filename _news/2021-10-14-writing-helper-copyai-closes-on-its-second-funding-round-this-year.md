@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/writing-helper-copy-ai-closes-on-its-second-funding-round-this-year/amp/"
 type: article
 quality: 187
-heat: 237
+heat: 207
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "11 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
-    excerpt: "In this article, we discuss the 11 best artificial intelligence and robotics stocks to buy according to hedge funds."
-    publishedDateTime: 2021-10-13T16:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989022/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 67
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/13070035/andy-kelly-0E_vhMVqL9g-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds"
-    excerpt: "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts"
-    publishedDateTime: 2021-10-13T16:26:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 63
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png"
-        width: 1240
-        height: 1280
-        isCached: true
   - title: "Clear the funding roadblock, AIIA urges on artificial intelligence"
     excerpt: "More than $124 million in new funding for artificial intelligence research and industry development support allocated in the federal budget in May is still locked up inside the Industry department, with no clear signal on how and when it will be rolled out."
     publishedDateTime: 2021-10-17T09:56:00Z
@@ -72,15 +44,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Hearing on Artificial Intelligence"
-    excerpt: "T12:01:02-04:00  The House Financial Services Task Force on Artificial Intelligence holds a hearing examining the ethic"
-    publishedDateTime: 2021-10-13T16:12:00Z
-    webUrl: "https://www.c-span.org/video/?515308-1/hearing-artificial-intelligence"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 19
   - title: "Karma - The Browser-Based AI Shopping Assistant - Closes $25M Series-A Funding Round Led By Target Global And Moretech Ventures"
     excerpt: "Karma, the browser-based AI shopping assistant and shopping network that created a whole new way to shop smarter for millions around the world, announced today the closing of $25M in Series-A funding led by Target Global followed by MoreTech Ventures,"
     publishedDateTime: 2021-10-14T11:20:00Z

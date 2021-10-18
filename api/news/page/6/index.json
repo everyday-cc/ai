@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
+      "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
+      "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg",
+          "width": 2001,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-ai-and-pr-how-tech-adoption-could-impact-your-job.md",
+      "title": "AI And PR: How Tech Adoption Could Impact Your Job",
+      "excerpt": "The technological revolution continues to impact public relations (PR) at an impressive speed. Not long ago, many in the PR industry steered away from adopting PR tech powered by artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
+      "title": "Fintech Ecosystems — Some Assembly Required",
+      "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
+      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
       "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
       "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
@@ -431,49 +587,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1079,93 +1192,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-kiromic-biopharma-announces-strategic-collaboration-with-gemelli-teaching-hospital-to-accelerate-the-analysis-of-allogeneic-car-t-clinical-trial.md",
-      "title": "Kiromic BioPharma Announces Strategic Collaboration with Gemelli Teaching Hospital to Accelerate the Analysis of Allogeneic CAR-T Clinical Trial Candidate Alexis ISO-1 in Solid ...",
-      "excerpt": "Alexis ISO-1 is Company’s First Artificial Intelligence-identified, Gamma Delta T Cell Engineered Iso-Mesothelin Candidate to Address Solid Tumor Cancers HOUSTON-- ( BUSINESS WIRE )--Kiromic BioPharma,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
-      "originalUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
-      "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
-      "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
-      "publishedDateTime": "2021-10-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

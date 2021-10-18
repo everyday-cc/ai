@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-wh
 webUrl: "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception"
 type: article
 quality: 154
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -225,6 +225,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
+    excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
+    publishedDateTime: 2021-10-18T08:20:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-researches-ai-systems-that-analyse-first-person-video-in-ego4d-project--1400813"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
 
 secured: "TKBreFBARqrKpjbO+aoaaKxJsEQtzS9wMd1mmBcjL4qI7AhA4de8cpwMbvmeUc34H2HECmsu7XS2Z/QM4Fw1FKVsGSen7sFcgUL8tKWvOojMtMlJbKv7NkoS65d2MrGID6zf8/hdUDyiaGfpNMUBt2phM/Xsu/ErxvkHI410tYEQZdjilV0Jo6aGUigpmP3v7jeBEO1H8pvZOM9+4qcmrRIAK6mSoV0YKor+7DGdgiaSzJV6qJJ/7KxFJQjkx7OPvvCdcYVplAgRt6cszvLqEiSm2jL49LIFK0omg88yuJCNijfLm11wOZgeO02Jh7ql+ztMapmFBy4mzN8/z9zk1tizBv+k1/TLjwss9c15OOoDUhdelHSrU7UmMsVz2DA/1x824IFlWYD33qWbO3UinKCfb8tr2njQR/uwzbXJTp4pcCS+YjXNwqWsiaYs8qtB+gOksOKgqgNsTtUEyjLW3Ox1DMg3lGTfPvT18ufg3aIGozRhWuoWz7SdfSXnLGREs6NFMkx6jnyZV2R0qkeHUb4+o39nvTHw6xdOLGiq6+w=;BNeVMeQKUyc9+5h3CUaskg=="
 ---

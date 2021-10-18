@@ -218,6 +218,49 @@
       ]
     },
     {
+      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu.md",
+      "title": "Artificial intelligence (AI) Chips Market Statistics 2021-Study with COVID-19 Impact | Qualcomm, Adapteva, Intel Corporation, Baidu",
+      "excerpt": "Pune, Maharashtra, India, September 27 2021 (Wiredrelease) Market.biz –:Market.biz added the Most up-to-date research on“Global Artificial intelligence (AI) Chips Market 2021-2026” to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
       "title": "We are sleepwalking into AI-augmented work",
       "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
@@ -1375,49 +1418,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone.md",
-      "title": "This invisible AI-powered keyboard used an NVIDIA GTX 1080 Ti to help you type faster on a smartphone",
-      "excerpt": "A group of South Korean researchers have developed the Invisible Mobile Keyboard, letting you type into your smartphone without needing an on-screen keyboard.",
-      "sourceUrl": null,
-      "webUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
-      "originalUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://soyacincau.com/wp-content/uploads/2021/09/210909-gtx-1080-ti.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SoyaCincau",
-        "domain": "soyacincau.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

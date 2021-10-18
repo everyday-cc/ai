@@ -8,7 +8,7 @@ webUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve
 ampWebUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"

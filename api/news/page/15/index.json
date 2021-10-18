@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-05-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference-transcript.md",
+      "title": "International Business Machines Corporation's (IBM) IBM Investor Briefing 2021 Conference (Transcript)",
+      "excerpt": "as is the deep alliance we can create with the rest of IBM software around assets such as Maximo, TRIRIGA and of course, the whole Watson AI suite. So, a huge amount of power and differentiation ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
+      "originalUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
+      "publishedDateTime": "2021-10-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-the-future-of-ai-driven-meeting-technology.md",
+      "title": "The Future Of AI-Driven Meeting Technology",
+      "excerpt": "AI technology is vital for organizations that want to increase cross-team information flow and drive results in an increasingly remote working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615b62d360ccb5a24706abcf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/",
+      "publishedDateTime": "2021-10-04T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-artificial-intelligence-is-smart-but-does-it-play-well-with-others.md",
       "title": "Artificial intelligence is smart, but does it play well with others?",
       "excerpt": "When it comes to games such as chess or Go, artificial intelligence (AI) programs have far surpassed the best players in the world. These \"superhuman\" AIs are unmatched competitors, but perhaps harder than competing against humans is collaborating with them.",
@@ -347,19 +441,19 @@
     {
       "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product",
+      "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer Vision Systems, Smart Cameras-Based",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr/article_d3b88704-ab88-567e-bf58-2126c8542ae0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr/article_d3b88704-ab88-567e-bf58-2126c8542ae0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
-          "width": 2000,
-          "height": 1046,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/6166e00cca6ab.image.jpg?resize=630%2C630",
+          "width": 630,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -372,8 +466,8 @@
       "publishedDateTime": "2021-10-04T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -794,6 +888,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-04-cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand.md",
+      "title": "Cognitive Operations Market Overview By Share, Size, Industry Players, Revenue and Product Demand",
+      "excerpt": "According to Microsoft Corporation ... consequently opening up new revenue streams in data-driven services such as Cognitive Operations. - The region of Asia-Pacific is projected to be the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities.md",
       "title": "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities",
       "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. Is there a problem with this press release?",
@@ -983,145 +1129,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-self-driving-citroen-skate-carries-swappable-pods-for-inner-city-travel.md",
-      "title": "Self-driving Citroën Skate carries swappable pods for inner-city travel",
-      "excerpt": "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "originalUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
-      "publishedDateTime": "2021-10-03T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
-      "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
-      "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "originalUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319657811/medium_image_1319657811.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
-      "publishedDateTime": "2021-10-03T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-the-economy-of-the-future.md",
-      "title": "The economy of the future",
-      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
-      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
-      "publishedDateTime": "2021-10-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

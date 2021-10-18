@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UK schools bring in facial recognition for student lunch payments"
+    excerpt: "The intent is to improve speed and safety, but privacy campaigners say it is trying to crack a nut with a sledgehammer"
+    publishedDateTime: 2021-10-18T07:15:00Z
+    webUrl: "https://www.computing.co.uk/news/4038781/uk-schools-bring-facial-recognition-student-lunch-payments"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/9ec452d/e25ba31c-3fa5-4002-93ec-fc1d6187420f/3/iStock-Face-recognition-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "UK Schools to employ facial recognition for students"
     excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
     publishedDateTime: 2021-10-18T05:08:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
         width: 1160
         height: 691
+        isCached: true
+  - title: "UK schools to trial facial recognition to speed up lunch queues"
+    excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"
+    publishedDateTime: 2021-10-18T09:29:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/uk-schools-to-trial-facial-recognition-to-speed-up-lunch-queues"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1634549145/widgetdocs/shutterstock_432895576_owlxjf.jpg"
+        width: 750
+        height: 498
         isCached: true
 
 secured: "OhyGACJOBXa/M09Y2GaC/SmVIF+WEwiIUlTFCAFxJmA56bill5PXNmr5cCt+n349iEfuq1PjX4d/tA3FZpQE82XYhRwF1wHm+aiU17KuCTsKCGzom4U53yQmgfq2rZ44rp/u2SaSle7SgPZ2SGZ4+EAr37vOZw0WPX4cJAys+AS5FtrG0/m/t1MaZ8j1uuVQ9ZHehBKG3M6p0eoqSwhoQuBjwgVJHCrUk7nmMkIO3CIsfX5dn/NaVeR1uYqMrQPQAVd11fbfwWu4mqYg+zxVFjQJcA8jU82v/GYdWVpn5Ch5/pLFqAw22YAKGHQv2V53XOPj84rME8/3bLaKzStbaMK4fZpfdHE2ryrDHqdSWpwcerwjctrJJ8giSXN15bEIaLgIfSMM7n/XvP0l/k3EHvirGc2EuXwhUraWf9hrvAvBFqjMv/5i1fg7WNGB2a3xpMYWznx8MGLCDQRhDE8Z040J7o9JAHIrG+jv0uiXjfzijrS9I6tp0LdKtjjfWuej5f9KMF2CPiJuyoPDUb2R4A==;ayDm1XPe0Cjpc6CHqJsUsQ=="

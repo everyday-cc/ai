@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-01-down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock.md",
+      "title": "Down 7% Over The Last Week, Is It Time To Buy Snowflake Stock?",
+      "excerpt": "Snowflake stock declined by roughly 7% over the last week (five trading days) compared to the S&P 500 which fell by around 1% over the same period. Although there hasn’t been any notable company-specific news from Snowflake over the last week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c4ec653d4ad7ead09bb0b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
+      "publishedDateTime": "2021-10-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
       "title": "How To Get Your Cloud Migration Strategy Right",
       "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
@@ -1293,49 +1345,6 @@
       "provider": {
         "name": "The Hans India",
         "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices.md",
-      "title": "Microsoft and Honor sign partnership to develop new AI, devices",
-      "excerpt": "According to the strategic cooperation memorandum signed by the two companies, Honor will adopt AI speech and AI translation services based on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "originalUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/09/22/159963-untitled-design-2021-09-22t115616143.jpg?itok=hh4Sia_8",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "publishedDateTime": "2021-09-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
         "images": null,
         "publishers": null,
         "authors": null

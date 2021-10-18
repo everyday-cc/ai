@@ -2,6 +2,100 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
+      "title": "AI helps rule out cancer in dense breasts",
+      "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg",
+          "width": 2400,
+          "height": 3747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "publishedDateTime": "2021-10-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-forget-about-cars-honda-wants-flying-vehicles-avatar-robots-and-rockets.md",
+      "title": "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets",
+      "excerpt": "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "originalUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us.md",
       "title": "Tortoise expands remote operated robotic delivery to convenience stores across the US",
       "excerpt": "Tortoise is expanding its remote controlled delivery robots to convenience store chains across the U.S. through ... you’re just telling us which robot and where to drive it to,” said Shevelenko.",
@@ -1050,100 +1144,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference-transcript.md",
-      "title": "International Business Machines Corporation's (IBM) IBM Investor Briefing 2021 Conference (Transcript)",
-      "excerpt": "as is the deep alliance we can create with the rest of IBM software around assets such as Maximo, TRIRIGA and of course, the whole Watson AI suite. So, a huge amount of power and differentiation ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "originalUrl": "https://seekingalpha.com/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458412-international-business-machines-corporations-ibm-ibm-investor-briefing-2021-conference",
-      "publishedDateTime": "2021-10-04T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-the-future-of-ai-driven-meeting-technology.md",
-      "title": "The Future Of AI-Driven Meeting Technology",
-      "excerpt": "AI technology is vital for organizations that want to increase cross-team information flow and drive results in an increasingly remote working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615b62d360ccb5a24706abcf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/04/the-future-of-ai-driven-meeting-technology/amp/",
-      "publishedDateTime": "2021-10-04T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

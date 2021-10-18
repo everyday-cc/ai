@@ -2,27 +2,27 @@
 category: news
 title: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
 excerpt: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
-publishedDateTime: 2021-10-13T15:01:00Z
-originalUrl: "https://www.kimt.com/content/national/575511382.html"
-webUrl: "https://www.kimt.com/content/national/575511382.html"
-ampWebUrl: "http://www.kimt.com/templates/AMP?contentID=575511382"
-cdnAmpWebUrl: "https://www-kimt-com.cdn.ampproject.org/c/www.kimt.com/templates/AMP?contentID=575511382"
+publishedDateTime: 2021-10-12T19:10:00Z
+originalUrl: "https://www.actionnewsnow.com/content/national/575511382.html"
+webUrl: "https://www.actionnewsnow.com/content/national/575511382.html"
+ampWebUrl: "http://www.actionnewsnow.com/templates/AMP?contentID=575511382"
+cdnAmpWebUrl: "https://www-actionnewsnow-com.cdn.ampproject.org/c/www.actionnewsnow.com/templates/AMP?contentID=575511382"
 type: article
 
 provider:
-  name: KIMT
-  domain: kimt.com
+  name: Action News Now
+  domain: actionnewsnow.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/STORY-IMAGE.jpg"
+  - url: "http://media.heartlandtv.com/designimages/Story+Default.jpg"
     width: 640
     height: 380
     isCached: true
 
-secured: "vKJPoYpP5yLcgnlQGFcssAVWYUty3/1nMBXp5NIr2gjoJwE5+nSg6YNTDIAIhe73Jfi9qQGvu9LocvE4/4J9I/InCj/IXEuo2gWcrqfPMpXvZVSRfYlNAVNNAidQjm8Xs8rZWpMgRE5R9t9QZo2g88vWHewQ2BA8kHJmbSHX/kaNPHYxns8f8jgz7g5C6Yq7a9jLqSrlb8NtXNjIAVnx9MTQK/JNU1v7gfZ2IHshKwXM5Jk0xeVKY0Nn9XLwxsZt5U+uINXTrFWY4UWVdGbZuAfYTaBwfvtyfH3jSp3+0zj1qscwFOZAAHAopNOfpFLL/84ZzB9dsrlf2myLD1/m+2rbJDuwauolb+hbgXvjLXo=;FWNy2kMMOUSz3nkrvYdgQQ=="
+secured: "u5tvy8PokWjJtgpNZdM/k4gJ4twIPEIMG0Yb2vmiBvCvwvPZanuPJb2LYTVvP7MKOpfS+KQbf1seA4xCgJsUFjqfiNc+Dh7V/eKFoWEHDQyqdCQ6Ex+rMvEOzrjWMI66lUZIzb8inU+IgUHv4ZtCikgeeJsE541MNU9PQm26Oq7aHSO7yPjaelJT4kjRiqtXGIS+yV9pZla8Q+GX4bowVWz5X+mCngwFt/IljbJ4Q6z6kI1m31uPH6tgOEnYtxp1eH3VBGd5igewxB19QNNJj4/f5TA4zYen2okm7ZxjDOM1GEficgeZjw1xYtu6tsblQtmR9AACgrKgk9OcONBXj6Wr3YZIicoB5r0e8GPA61U=;/8gu33mOzhrVctoxmLU1AA=="
 ---
 

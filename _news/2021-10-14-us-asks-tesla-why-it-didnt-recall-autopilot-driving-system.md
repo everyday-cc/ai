@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/news/california/story/2021-10-1
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/california/story/2021-10-13/us-asks-tesla-why-it-didnt-recall-autopilot-driving-system?_amp=true"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 320
     height: 214
     isCached: true
+
+related:
+  - title: "Tesla under fresh scrutiny over assisted driving features"
+    excerpt: "The US highway safety watchdog has pushed Tesla for details about its driver-assistance systems, specifically whether it has barred some people testing the features from reporting possible safety concerns."
+    publishedDateTime: 2021-10-13T19:32:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/tesla-under-fresh-scrutiny-over-assisted-driving-features/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/Tesla-AFP-1K.jpg"
+        width: 1024
+        height: 479
+        isCached: true
 
 secured: "JvWwgdH/8DvzBUhPeCO9EogM6VqPzHrLcAf/wny8YP8X3DLpJNsM5qeZEuhgRj2+YckNJSt+ZigIbLzqyYaGMapHR2KrZV31EnMRR/j3aczjrxKYtjRMN+BF6DXMe7MXcmTN0y4t1lLj0XWjfBCiNKRnPhYGlVXfGi1c0RduorivKoC2UCz2blBc8P0BuDuzFBBQ60bQMWlGPZiBE4o/kouN3cg2W6JZsaj4ogJMM2425pvlrTfTwkY8PiqbT6oL9rnfXutURbbYt1uguD5bp7zLMRCyHpO9pBmMnJYkdLeSBxt3QU3rq2mVxNlgFkW1HcYZns13QrovrklBJ9cjyox7BT8La7hUukP8sZbUR3s=;86fS99uWwC2PgrTfa79How=="
 ---

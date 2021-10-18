@@ -44,6 +44,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
+    excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
+    publishedDateTime: 2021-10-14T14:51:00Z
+    webUrl: "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    ampWebUrl: "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
   - title: "Deep Learning Market Size, Outlook and Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The report analyzes the major players of the Deep Learning Market by inspecting their market share, recent developments, new product launches, partnerships, mergers or acquisitions, and their target markets."
     publishedDateTime: 2021-10-17T22:23:00Z

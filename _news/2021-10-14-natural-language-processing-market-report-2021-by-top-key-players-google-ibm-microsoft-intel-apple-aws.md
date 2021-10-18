@@ -39,6 +39,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
+    excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
+    publishedDateTime: 2021-10-14T14:51:00Z
+    webUrl: "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    ampWebUrl: "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 64
   - title: "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM"
     excerpt: "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These"
     publishedDateTime: 2021-10-16T09:47:00Z

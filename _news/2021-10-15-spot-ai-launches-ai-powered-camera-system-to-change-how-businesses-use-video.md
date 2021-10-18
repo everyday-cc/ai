@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-15T15:37:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-a1c6b207c1974e6e9b75cb0295141139"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-a1c6b207c1974e6e9b75cb0295141139"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mashreq NEO To Become First Digital Bank In UAE To Use Facial Recognition For Bank Account Openings"
-    excerpt: "Mashreq NEO collaborates with Ministry of Interior (MOI) to introduce an innovative face biometric based digital account opening process. As part of the efforts to implement the directives of the UAE government in enhancing the quality of life for the Emirati community and its quest to sustain scientific and digital excellence,"
-    publishedDateTime: 2021-10-13T16:06:00Z
-    webUrl: "https://hubbis.com/news/mashreq-neo-to-become-first-digital-bank-in-uae-to-use-facial-recognition-for-bank-account-openings"
+  - title: "The EU called for a ban on police use of facial recognition but not commercial use. Why?"
+    excerpt: "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes"
+    publishedDateTime: 2021-10-18T09:38:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
     type: article
     provider:
-      name: Hubbis
-      domain: hubbis.com
-    quality: 42
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 52
     images:
-      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
-        width: 500
-        height: 500
+      - url: "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "LdO2vUI25pGf7MTn4JfxDsxuRUOt5c8XK9gq0G4rY6FuwJvARgTRHmjcD3FM5cvZ/v41hTObH40iMnNDn4bHRTZ6nx8eAppEFpfiCXu5+qOgsgAVj9cKMlnghh5sFCahO/8BuiSNGN6XckYQKoJmX/rwYp98f9qG5u4iZdISZM6ZmpWTstQmJe5aDEsZU2//jU0FdE+3NFKWobLefpPaB6JX8f0ri/YzZRww8flBbwSZjT8I+rIyRZf0aw6q/1ViRjaTsAkciu54Rc+v/+rS2gl37IUl86ZYdXOnaPSp1q+7tPo8XsmrgtJx4OFtW/KJXEb1OTZ5q0Pcbz5GV67eZi/Ra2iuI75fV5ZLKx6mcZYyR2xlw+tqNymZrB0c95zxmKxMT4I1EcDUFZTv3UCSvW0oNPgUJB7ZOq7iQJFi1lekOOZY2KNS50I2ADFJW9hpJnqWZaZ4A/leKT+qUQ8eXlMHUAMCAhN+d5BizJKXxVVngKQb2Jvcco72QxM2wW78U5KVJKK2PhNWSquAOhr6jg==;a+4pna21JhYs48OKfgAt1Q=="

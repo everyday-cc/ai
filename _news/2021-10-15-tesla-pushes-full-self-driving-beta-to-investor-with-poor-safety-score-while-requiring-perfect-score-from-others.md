@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-i
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/14/tesla-pushes-full-self-driving-beta-investor-without-perfect-safety-score/amp/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Electrek
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Tesla’s Latest Full Self-Driving Beta Introduced To Owners With Perfect Safety Score"
+    excerpt: "Tesla has started to introduce the latest beta version of its Full Self-Driving system to owners that have perfect safety scores. The car manufacturer determines safety scores for its owners be analyzing their driving behavior."
+    publishedDateTime: 2021-10-13T19:00:00Z
+    webUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/"
+    ampWebUrl: "https://www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/10/teslas-latest-full-self-driving-beta-introduced-to-owners-with-perfect-safety-score/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 52
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/10/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "lO1bSOtdax3Qh6sAHJV60F93MnpSvkEUg7zC+SGsmCZh6KzTTq9raBQcIUGcCgNf+Uoq3bFxtq5h78dtZQmiXwCtYC5Z6Ecw41h1CqKcbK1zdvQ6Nknvlq3o7kGO4UrzzAKGMmWylyjwIN7f4ZuLbO9YJi/J1KFqP8pZ6R5bu8nn6uUvgvVhVxWKd6RVQhWH3P3PVW4Tro0PLlVRLEsxmY/jTsPN+Na2c4G6psZSc+op5qnw2ILs6FYgycnrlQVv+6IipzSAgncORPe5ljMVBhOBeBhlnFbRbMFrDr1xQC0R/LDW6KFm2opMZDzCs4wFfVay138P3ctwB/2Zt6D5InceR4/P+oPcc6UKXtqjBldl5zEtKqGUtgTsVeoNwF5nalba4mVdW4Kp3E73jdfJ1ljfuwim5ZVpGrKcY36pTiDok+DuRTjUoOwsxiPWCR0L/mx/QVKREC8jKJuINaCbY3f927jjsABChhpr0pDPTD8oPQIddmv+CLIO+F/ADakTlzDib2Nkwd6paseeHXg45Q==;DKkAv1tTOP4CzW3piGnCAw=="
 ---

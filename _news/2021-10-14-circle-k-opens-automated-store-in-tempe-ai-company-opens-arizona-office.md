@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Standard AI Launches New Autonomous Checkout Experience at Existing Arizona Circle K Location"
-    excerpt: "Standard AI, one of the world’s leading computer vision platforms for retail, today announced it has worked with Circle K to open its AI-powered checkout-free experience in a retrofitted store in Arizona."
-    publishedDateTime: 2021-10-13T16:00:00Z
-    webUrl: "https://www.financialbuzz.com/standard-ai-launches-new-autonomous-checkout-experience-at-existing-arizona-circle-k-location/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 6
   - title: "No lines, no scanning items: Circle K store in Tempe uses artificial intelligence for checkout"
     excerpt: "A system of cameras in the store keeps track of what customers take from shelves, and a tap of a cell phone to a kiosk is all that's needed to finish"
     publishedDateTime: 2021-10-14T23:53:00Z

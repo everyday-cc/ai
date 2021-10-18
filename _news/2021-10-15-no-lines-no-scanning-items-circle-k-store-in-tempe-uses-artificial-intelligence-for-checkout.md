@@ -27,15 +27,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Standard AI Launches New Autonomous Checkout Experience at Existing Arizona Circle K Location"
-    excerpt: "Standard AI, one of the world’s leading computer vision platforms for retail, today announced it has worked with Circle K to open its AI-powered checkout-free experience in a retrofitted store in Arizona."
-    publishedDateTime: 2021-10-13T16:00:00Z
-    webUrl: "https://www.financialbuzz.com/standard-ai-launches-new-autonomous-checkout-experience-at-existing-arizona-circle-k-location/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 6
 
 secured: "zXiWTkqUyxgpvJ5C+cN9NGI1DaQigOBigx7s+omGnpfyHypBqqNe21eCU2QwKMzvIi9HgDRljZSuG17WyJ3rCtNvDZBaeY9sdOvh45SDC4l/3siyAEqiKuh+ueGgECTr5xJ+OnmgztRodcu4Y6mvMIvQwhL7xgg/voHKWPEM5HLibh8wrGUNch4aP/bn0Ykz8Sp9gNd3+0trOb5iwi/7Z8zXruIvT07PH5uWYlfOd95Zi4rfez7UVqTbdB+xN51mZhC7XGJAW0BFCPY5vu4/RIVHelbGMldNE4tsR5SR2ApzzW59Eas1lKGcG+f+zMK59+EFWuCgWyddJMgucYOi4tGTM3zQeWuK2MSRnJNPj1LQ+CxbjrvT0wBTddAGH624luHIwNSJ4V7tvE/25wG4xEFadTzPm2ffdL8KCNnZ5kxLan7iOX/TjRHTPLLdJw0ZX9u3ODWRvhgIocrq6X1Kg4cEEdKCTIBgbOJlprACvQ9Xwm+Ugr4FWhZEb+74FLoZDRdrLioVE4hISdRcGx3gHA==;0C0THu5g2p2m/NuM7yauXg=="
 ---

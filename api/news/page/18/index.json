@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
+      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
+      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
+      "publishedDateTime": "2021-10-01T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report.md",
+      "title": "GCC Artificial Intelligence Market 2021-26: Industry Trends, Size, Share, Analysis and Forecast Report",
+      "excerpt": "According to IMARC Group's latest report, titled \"GCC Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" the GCC artificial intelligence market grew at a CAGR of around 24% during 2015-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gcc-artificial-intelligence-market-2021-26-industry-trends-size-share-analysis-and-forecast-report-2021-10-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-intel-advances-neuromorphic-with-loihi-2-new-lava-software-framework.md",
+      "title": "Intel advances neuromorphic with Loihi 2, new Lava software framework",
+      "excerpt": "Intel has introduced Loihi 2, its second-generation neuromorphic research chip, and Lava, an open-source software framework for developing neuro-inspired applications. Their introduction signals Intel's ongoing progress in advancing neuromorphic technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intel.com/content/www/us/en/newsroom/news/intel-unveils-neuromorphic-loihi-2-lava-software.html",
+      "originalUrl": "https://www.digitimes.com/news/a20211001PR200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intel.com/content/dam/www/public/us/en/newsroom/posts/galleries/2021-09-30-loihi-2/intel-loihi-2-1-16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-honda-sets-its-sights-on-an-evtol-telepresence-robot-and-space-tech.md",
       "title": "Honda sets its sights on an eVTOL, telepresence robot and space tech",
       "excerpt": "Honda has laid out new technologies it plans to pursue in the coming decades. Building on current areas of expertise, the company will look to develop an eVTOL for inter-city transport, a robot that will act as an avatar for users to perform tasks remotely,",
@@ -1067,143 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030.md",
-      "title": "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030",
-      "excerpt": "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "originalUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "publishedDateTime": "2021-09-30T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amazon-amzn-bolsters-aws-portfolio-with-new-managed-service.md",
-      "title": "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service",
-      "excerpt": "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

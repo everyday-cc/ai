@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
+excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer Vision Systems, Smart Cameras-Based"
 publishedDateTime: 2021-10-04T13:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html"
-webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr/article_d3b88704-ab88-567e-bf58-2126c8542ae0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr/article_d3b88704-ab88-567e-bf58-2126c8542ae0.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/6166e00cca6ab.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
     isCached: true
 
-secured: "XtNKDv90yDqx4VEZy/MDnC0MPv0Ilw3/qoiPdtW1HyAPlabsEMKJxjF0+wOdSSmBG2ScjK8qcpkMA4skjxj5wqf6Fhy6QmnSiBuc3ggluMNM8OI7lAww+Cbh74U6ONrk/NGrVBt9f7vOc9Wh8uAu3uuU5+v2fLd+f0zH+c11ZiXYhtbuKfKx6lxXX3pq8xgZwh95YVg2TtwwBnNv6rm4J1Czf43aQh6LvGd5D5IHFQeoF371cdzat1Zh+6oF1C2wnz/wIDnkFaHiyl8Cyy1rgYe96DX0Ay1JyeexoxiZ0ghvhFdAcgNmi2Qw4u+bMeVytZYsTb9q9wCePe4LIfoAN58CV7OiMOZL3OMXdAnpIKw=;c8iJCFoDDJYOfQ4oe3ibrg=="
+secured: "Dwy3sj2ZG22sIoSVEMUXKB8xMiSzVnwXalN+02pkFyN6TGO2B61LIqSXfASyAU5RjqPo1w3qRDPXMgV1lg0VJS6HayrYYGR11wSRFFXM6wtawhkrPKl7FTdTvKW0AFK6gKo9wn8s/ylGIIFEl/CfRsdxKs/GPjzNyUg37JhTdKYg3lLpSwPJzFrXORt3IoSvpcwo3J5wMQ5e9g44v1e+7nZTJw6ZovDBKMscF1duVefdRN7PhlUz/VaYMtgAEGBwrVvbhiq2TG1ff12EYRUfAKAnWau6cVAcQOt+nsqT22K+bEGZjzFlTrS52lNGo21EqM8hOkvvd/OCHYCAE9umfYZLUQjI/rIgRQG61TZI/zo=;xQhib1uVDhPpvku8k4g6oQ=="
 ---
 

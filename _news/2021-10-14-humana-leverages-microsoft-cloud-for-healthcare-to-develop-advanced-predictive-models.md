@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-
 webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Microsoft and Nvidia build largest ever AI to mimic human language"
+    excerpt: "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language"
+    publishedDateTime: 2021-10-18T09:30:00Z
+    webUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/"
+    ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
+        width: 483
+        height: 320
+        isCached: true
   - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
     excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
     publishedDateTime: 2021-10-13T17:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmalive.com/amazon-and-big-pharma-unite-to-propel-a
 webUrl: "https://www.pharmalive.com/amazon-and-big-pharma-unite-to-propel-ai-innovation-in-therapeutics/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AION Labs, Biotech Innovation Lab Launched by Top Pharma, Tech and Investment Leaders"
-    excerpt: "AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve"
-    publishedDateTime: 2021-10-13T17:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders-301399164.html"
+  - title: "Four big pharma companies team up in AI initiative focused on drug R&D"
+    excerpt: "A new startup initiative in Israel aims to create and invest in startups that use artificial intelligence to address challenges in drug discovery and development. Called AION Labs, this innovation lab stems from an economic development effort from the Israeli government and will have contributions from AstraZeneca,"
+    publishedDateTime: 2021-10-17T14:05:00Z
+    webUrl: "https://medcitynews.com/2021/10/four-big-pharma-companies-team-up-in-ai-initiative-focused-on-drug-rd/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 110
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2017/02/GettyImages-170324009.jpg"
+        width: 594
+        height: 390
+        isCached: true
 
 secured: "iETxfrleGC1XWf2glZstUvdLHDxj1ySuWXN+FQFRnP1rPHeVovWNSZc4qTcF2N/0xKsxLkD9CjchAygz23hEGjVFBRSkIH32S6MDjdpMJTZoQ1b2sl5YnSUFdGNAxs+x958jTnQ+XxxMf02ark5RlDxjnttljiF085NCsbg8HbxXG95oQXwg2kTFFhw3C+taWomA4e9fMDWdQr8PabMY+PBLoAb78q7CvnL8nvvHYfu94ak80SUq+A0nddVh0ceGEGI6E/zWQoJU5T+yjrVplApv5Rw4j3avIQLArQdJYbDSJJJRlCknTAfgNoSE1eDRNzwL2+0/qPjBs2HnzpE+6Wckh9lE1AeeqOSj62C+cuM=;tu1xlrn5w1fTkvEcq44oQA=="
 ---

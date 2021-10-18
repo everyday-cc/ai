@@ -177,6 +177,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
+    excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
+    publishedDateTime: 2021-10-18T06:33:00Z
+    webUrl: "https://maxwellgunterdispatch.com/technology/10604/artificial-intelligence-in-manufacturing-market-worth-observing-growth-flutura-business-solutions-livnsense-technologies-universal-robots/"
+    type: article
+    provider:
+      name: maxwellgunterdispatch.com
+      domain: maxwellgunterdispatch.com
+    quality: 19
+    images:
+      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-18T150218.835-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
     excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
     publishedDateTime: 2021-10-14T12:07:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Imagine the Climate Future in your Neighbourhood (or anywhere else) Using Artificial Intelligence"
-excerpt: "The website This Climate Does Not Exist offers users a unique experience in empathy MONTREAL, Oct. 14, 2021 /PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,"
-publishedDateTime: 2021-10-14T11:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/climate-change-technology-artificial-intelligence-environment-27736759a5185ff7deca001ce4def20a"
-webUrl: "https://apnews.com/press-release/pr-newswire/climate-change-technology-artificial-intelligence-environment-27736759a5185ff7deca001ce4def20a"
+excerpt: "PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,"
+publishedDateTime: 2021-10-14T11:00:00Z
+originalUrl: "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/"
+webUrl: "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: NBC29
+  domain: nbc29.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "JCnoK38H3POGB/p6VyCvnuqKdY5nJp6Yjj74jRblmTebfvO9TydLxMzWQLdeoRms5nnk+9/tVLTVu64VUO6vAZiqqQqoVtQ6n7on1+ErFCMJJOwTFjPX0FwBNs9GrqHTMz7rnqgjfsaJ3XplnquyGh6O34gkq/BgWYZBZ1vEfWWLaVJSNkhsxB7exIDAtngTGsKNnVr9kG02NAZBmUHhFFhUNSr/sc/W+ejgTWsXayURl93nfxUfrwVdzMuNRs/z5QnLmGh3Fz7ZM7IrqXdrhDPIcSjG/bAbBzLukDe9C+LAlTwJne82Gq7xsMqdSF8sBXCL0Vc5M57Q26+bebWgO/ME4klJIh1gh6+tZnxrVZo=;bDFHvnXMj+xdcH9r31yXLA=="
+secured: "xhJvkIRYQ+4K6kNfY9ifC33gt+/Avd3M45UBIafSwvjzo5LkPQQNlmonWCQHPmmc/3QpmVOH8bUydg0tFpJsB1nXkGnixCT0+jgeIqErOkp8KUOK3hn2buBxz0rt+rfoLPqQF6bIkNSG5Fs9TOhsuFvV2vkCkytJaiuWSwTwkqQwp22TPuBvmjuFPiol9HOMdATaLzbEp6NhuDbACQQcI2SVdbpG/ChHP8k7rUoz4PL+DRo+b+iacA4bQ35SAhqrEKe7n7YzVUTjU2BY/7ndiWjbzUSkvFolomkGNtnct/ss9+3JFhV6IrYL7QXemGZWR2my4OvhCM20XfroaFzjAFaJmcy0C+RLoVecuoPpipw=;bSzR13p29JQF/mkCKRc6oQ=="
 ---
 

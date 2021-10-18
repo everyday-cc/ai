@@ -55,6 +55,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UK schools bring in facial recognition for student lunch payments"
+    excerpt: "The intent is to improve speed and safety, but privacy campaigners say it is trying to crack a nut with a sledgehammer"
+    publishedDateTime: 2021-10-18T07:15:00Z
+    webUrl: "https://www.computing.co.uk/news/4038781/uk-schools-bring-facial-recognition-student-lunch-payments"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/9ec452d/e25ba31c-3fa5-4002-93ec-fc1d6187420f/3/iStock-Face-recognition-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "UK schools to trial facial recognition to speed up lunch queues"
+    excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"
+    publishedDateTime: 2021-10-18T09:29:00Z
+    webUrl: "https://www.inavateonthenet.net/news/article/uk-schools-to-trial-facial-recognition-to-speed-up-lunch-queues"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1634549145/widgetdocs/shutterstock_432895576_owlxjf.jpg"
+        width: 750
+        height: 498
+        isCached: true
   - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
     excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."
     publishedDateTime: 2021-10-14T17:33:00Z

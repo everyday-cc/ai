@@ -2,6 +2,188 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-09-07-crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies.md",
+      "title": "Crediwatch named to list of 100 most innovative AI fintech companies",
+      "excerpt": "Crediwatch, a Bangalore-based ‘data-insights-as-a-service’ platform, has been selected to be part of the AIFinTech100, an annual list of 100 of the world’s most innovative AI solution providers for financial services selected by a panel of industry experts and analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
+      "originalUrl": "https://www.freepressjournal.in/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-09/7c7bd66a-1853-4e5f-9878-bf9af8cf76c8/Meghna_Suryakumar__Founder_and_CEO_Crediwatch.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/crediwatch-named-to-list-of-100-most-innovative-ai-fintech-companies",
+      "publishedDateTime": "2021-09-07T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-aws-helping-startups-small-businesses-scale-up-by-optimising-costs.md",
+      "title": "AWS helping startups, small businesses scale up by optimising costs",
+      "excerpt": "Hyderabad: In the last 18 months, many small businesses and startups have experienced disruption to their operations, budgets, and revenue, and Amazon Web",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/aws-helping-startups-small-businesses-scale-up-by-optimising-costs",
+      "originalUrl": "https://telanganatoday.com/aws-helping-startups-small-businesses-scale-up-by-optimising-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2021/09/AWS.jpg",
+          "width": 680,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-how-ai-can-help-transform-finance-professionals-into-strategic-influencers.md",
+      "title": "How AI can help transform finance professionals into strategic influencers",
+      "excerpt": "Finance teams using artificial intelligence (AI) are outperforming their peers — and many professionals look destined to become strategic 'influencers'. Gordon Stuart of Unit4 shares the new research revealing some intriguing shifts within businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers",
+      "originalUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-09/shutterstock_1941454657.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-can-help-transform-finance-professionals-strategic-influencers?amp",
+      "publishedDateTime": "2021-09-07T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions.md",
+      "title": "4 ways AI, computer vision, and related technologies expand IoT solutions",
+      "excerpt": "Intel and Microsoft Azure are working together to help enterprises deploy intelligent IoT technologies and services, including AI’s deep learning abilities, computer vision, and audio or speech capabilities. Adding these capabilities enables solutions to solve more business challenges, uniting two or",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
+      "originalUrl": "https://azure.microsoft.com/blog/4-ways-ai-computer-vision-and-related-technologies-expand-iot-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/78188434-45f7-41be-84e7-601065122b43.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-07T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-09-07-ai-focus-shifts-to-small-and-wide-data.md",
       "title": "AI focus shifts to ‘small and wide’ data",
       "excerpt": "A Gartner report finds that companies will increasingly embrace responsible AI while seeking ways to more efficiently deploy AI systems.",
@@ -1002,196 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-writing-a-training-loop-from-scratch.md",
-      "title": "Writing a training loop from scratch",
-      "excerpt": "Pre-trained models and datasets built by Google and the community Tools Ecosystem of tools to help you use TensorFlow",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=bg&skip_cache=false",
-      "originalUrl": "https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=bg&skip_cache=false",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=bg&skip_cache=false",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-europe-natural-language-processing-nlp-in-healthcare-market-analysis-2021-upcoming-threat-2028.md",
-      "title": "Europe Natural Language Processing (NLP) in Healthcare Market Analysis 2021 | Upcoming threat 2028",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare Market Size By Regional(Europe, North America, South America, Asia Pacific, Middle East And Africa), Industry Growth Opportunity, Price Trends, Competitive Shares, Market Statistics and Forecasts 2021 - 2028 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/162680/europe-natural-language-processing-nlp-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-the-rise-of-ai-in-the-transportation-and-logistics-industry.md",
-      "title": "The Rise Of AI In The Transportation And Logistics Industry",
-      "excerpt": "The Rise Of AI In The Transportation And Logistics Industry is discussed, and profiling Purolator for its AI and digital transformation leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613533df794a3c6a17add20a%2F0x0.jpg",
-          "width": 1200,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/05/the-rise-of-ai-in-the-transportation-and-logistics-industry/amp/",
-      "publishedDateTime": "2021-09-05T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-06-vws-self-driving-partner-closing-in-on-german-public-road-tests.md",
-      "title": "VW’s Self-Driving Partner Closing In on German Public Road Tests",
-      "excerpt": "Volkswagen AG’s partner developing self-driving technology is just a few months away from starting to test autonomous vehicles on public roads in Germany.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-05/vw-s-self-driving-partner-closing-in-on-german-public-road-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixMLqLHvG858/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-05T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

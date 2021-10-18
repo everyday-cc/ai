@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20211017VL200.html"
 webUrl: "https://www.digitimes.com/news/a20211017VL200.html"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Two Artificial Intelligence Ortho Firms Combine"
-    excerpt: "Clinic™ Hinge Health has announced its intention to combine with wrnch, the self-described ‘world’s most sophisticated computer vision technology’ for use in tracing human motion. Wrnch combines full-body movement motion sensors and innovative computer vision technology to create a comprehensive digital exercise therapy."
-    publishedDateTime: 2021-10-13T16:46:00Z
-    webUrl: "https://ryortho.com/breaking/two-artificial-intelligence-ortho-firms-combine/"
-    ampWebUrl: "https://ryortho.com/breaking/two-artificial-intelligence-ortho-firms-combine/amp/"
-    cdnAmpWebUrl: "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/two-artificial-intelligence-ortho-firms-combine/amp/"
-    type: article
-    provider:
-      name: Orthopedics This Week
-      domain: ryortho.com
-    quality: 59
-    images:
-      - url: "https://ryortho.com/wp-content/uploads/2021/10/twoartificial_logos_WEB.jpg"
-        width: 850
-        height: 425
-        isCached: true
 
 secured: "6axK1QpZ4OggssZOdZPCl5J5m9XESAXotAb7V2kFgaTZi0x1jYidzXrLdAfVYNL0kOWrQMDpAHtg2omDPFC3fXMPdRTp7O+g9YeYc4MsHvrvOZDla6g0ZUd4z9asKh/qyBwM+gfcr4rB5FrVJPAbrSlBc3bFZDNNC4h3AsRSJbRq2RTzCTwjlt+aexi77jcpqrXc72cxjgPQNaYiWi3gG/YyVp2GQBhFLJypCXJc+u12zaWMSTpz7mdqXiSVvCbdNo84moITkvBNUzS5sw4VqIlAuA/fKXVCb9EGhg4KudF5mlQtRTzYr4mAkbr3Ig1s3FgLINra9LKqvQVfKQ/1RYyZAqcOTNzdbnto7zgxPlU=;hb9kC3qmNso2viq6riItAg=="
 ---

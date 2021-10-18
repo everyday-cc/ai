@@ -2,6 +2,204 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-09-09-ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates.md",
+      "title": "IBM Watson Assistant aims to expand contact center footprint with AI, automation updates",
+      "excerpt": "What is AI? Here's everything you need to know about artificial intelligence IBM also said that Watson Assistant can connect with most contact center platforms without code in as little as an hour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-watson-assistant-aims-to-expand-contact-center-footprint-with-ai-automation-updates/",
+      "publishedDateTime": "2021-09-09T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation.md",
+      "title": "Amazon, Microsoft Help Lift Cloud Startup Databricks to Sky-High Valuation",
+      "excerpt": "Amid an unprecedented flood of private money flowing into startups from electric trucks to rockets, one of the hottest is a relatively little-known cloud-software vendor, Databricks Inc., which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
+      "originalUrl": "https://www.wsj.com/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-397693/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-microsoft-help-lift-cloud-startup-databricks-to-sky-high-valuation-11631188800",
+      "publishedDateTime": "2021-09-09T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
+      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
+      "excerpt": "Microsoft's Azure cloud, Azure Edge, Azure Orbital, and emerging Azure Space, AI, and machine learning technologies, plus Nokia's 5G Digital Automation Cloud platform will be leveraged to build ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/resize/1200xauto/8670fd1bf10e22c9014e1c0252ab198d/azure-satellite-diagram-1000x563.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
+      "publishedDateTime": "2021-09-09T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies.md",
+      "title": "Allianz backs AV8 Ventures’ second fund focused on AI technologies",
+      "excerpt": "AV8 supports entrepreneurs developing artificial intelligence-driven technologies in the areas of health, mobility, enterprise and deep-tech.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "originalUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/AV8-TEAM.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/09/allianz-backs-av8-ventures-second-fund-focused-on-ai-technologies/amp/",
+      "publishedDateTime": "2021-09-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-this-ai-makes-sure-your-data-center-is-always-up-and-running.md",
       "title": "This AI Makes Sure Your Data Center Is Always Up And Running",
       "excerpt": "CDS announced Nebula, a machine learning program for predictive maintenance, improving the management of data centers and IT infrastructure",
@@ -978,195 +1176,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-aws-extends-cloud-computing-curriculum-to-21-higher-education-institutions-in-india.md",
-      "title": "AWS extends cloud computing curriculum to 21 higher education institutions in India",
-      "excerpt": "Students in these institutions will learn about cloud architecture, data analytics, cybersecurity, artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/",
-      "originalUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Alternative-cloud-makes-better-sense-for-SMBs-1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-extends-cloud-computing-curriculum-21-higher-education-institutions-india/amp/",
-      "publishedDateTime": "2021-09-08T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-gates-foundation-pours-cash-into-british-firm-exscientia-to-fight-pandemics.md",
-      "title": "Gates Foundation pours cash into British firm Exscientia to fight pandemics",
-      "excerpt": "A British company using artificial intelligence for drug discovery has struck a $70 million collaboration with the Bill & Melinda Gates Foundation to develop therapeutics to tackle the current and future pandemics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/ai-drugs-company-exscientia-finds-a-friend-in-gates-foundation-26vqk0q20",
-      "originalUrl": "https://www.thetimes.co.uk/article/ai-drugs-company-exscientia-finds-a-friend-in-gates-foundation-26vqk0q20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F646ba09a-1083-11ec-86b8-9dcf48a101ba.jpg?crop=3016%2C1696%2C0%2C157&resize=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-jetbrains-previews-data-science-ide.md",
-      "title": "JetBrains previews data science IDE",
-      "excerpt": "JetBrains, maker of the IntelliJ Idea IDE and the Kotlin language, has launched a dedicated data science IDE, DataSpell, under an early access program. Accessible from jetbrains.com, the IDE was announced September 7 and provides a development environment for data science professionals involved in exploratory data analysis and prototyping of machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
-      "originalUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/06/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-orig-100893865-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3632873/jetbrains-previews-data-science-ide.amp.html",
-      "publishedDateTime": "2021-09-08T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures.md",
-      "title": "AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures",
-      "excerpt": "Conversational AI” startup PolyAI, based out of London, has raised $14 million in a funding round led by Silicon Valley’s Khosla Ventures, with participation from existing investors (Point72 Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
-      "originalUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tZTO_-nWRHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/amp/",
-      "publishedDateTime": "2021-09-08T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

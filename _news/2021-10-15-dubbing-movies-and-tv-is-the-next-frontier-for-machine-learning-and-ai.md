@@ -170,6 +170,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
+    excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
+    publishedDateTime: 2021-10-18T06:33:00Z
+    webUrl: "https://maxwellgunterdispatch.com/technology/10604/artificial-intelligence-in-manufacturing-market-worth-observing-growth-flutura-business-solutions-livnsense-technologies-universal-robots/"
+    type: article
+    provider:
+      name: maxwellgunterdispatch.com
+      domain: maxwellgunterdispatch.com
+    quality: 19
+    images:
+      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-18T150218.835-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Food for Thought: Startups Harness AI to Nurture the Future of Agriculture"
     excerpt: "From counting cows to detecting weeds to pollinating tomatoes, startups around the world are deploying AI technology to solve problems that farmers have struggled with since the dawn of time. Tomorrow's World Food Day comes as startups are mobilized to change how our food is grown - with potentially wide implications for the economy,"
     publishedDateTime: 2021-10-16T00:50:00Z

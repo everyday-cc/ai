@@ -42,7 +42,7 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
-    quality: 73
+    quality: 75
     images:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
