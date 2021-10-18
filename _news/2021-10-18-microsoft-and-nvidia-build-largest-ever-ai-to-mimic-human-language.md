@@ -36,20 +36,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
-  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
-    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
-    publishedDateTime: 2021-10-13T17:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=546459"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
     excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
     publishedDateTime: 2021-10-15T13:00:00Z
@@ -65,6 +51,6 @@ related:
         height: 637
         isCached: true
 
-secured: "2wp4ziYm/SwLkW5ZPKZZBOdWQ05KSueGuh+xd9458qkUeotA0C/CjH0KYjXK4zZOd+53cjxuJSsNg2FmRoZmWwVopUXRAaiiwj7gzCT3jR96xU/unhG5T+qpROhn95NNxbF9sFtQKU5u8Jcw415Tmzf6dUzhWkLq+523enyE57v7fF1DDRwKXdVWFwGL+svlKkKKaCG/diTqGmZl2Z3YDYk7hPSM2U6E7jJMRfv30r4hWNDRYCx21wngVRFJKXFNny/pyHc+/oQyN0JXSLdc61GvboaJ9d6lLqAa+dykv7HK4yOaSCfOnkuHQbPbzmRNg6qJ5WSF/N0CSOboeEPx6pHZLXE8jWKwK/VNwsHrO/4=;ye7r2wsofnINjxAvrAjwww=="
+secured: "wVdnWUblQmEDqdlX28zgNbgBTwIMzA4Ftf6HZPF42pasds57icmwL7WE9a7SDU7n6XfiaUfcH2K7pDeh28teeprf8O+P/XErnN63l3IOw/N2Nw0N1rMSkIbtqHq2Yf6XbF4SKYJxiSBV/KMYiuzFQp2CYYNmdTXvQVSzYH7pkIHXE8mmvaruvp1Zt7rk0tr2XUVByqadOzxiIaEwLK9s0QYsHiOkSpbQ/6qVSNK/uWJZwDfT7mESaJPxOcesCFXoyhIYJ8N5+Bv6eYMy0YY+uZTucuDAPfkjR38zuhHfamuhJlG37nrXjpaJV0bj+yshLNTuT+lhhTNyZ8beGfzd9fum82r6VVWEajrDW0Z/WO8/TdJ/85LMQVBTsrvgvBMWa+ELIFPt/7BN8q9YcwnCwbN2dwECDnMtaAN1AUN79LrSHYmXNEZCw8YetJwG/PfFkxmmmG8PO79xH/sPGBMrusA/nx2Svg9CYdHI//iXHc2NGhAp1cmS/BtKzJrggM0l0zq2+kgrWDdg4Jcm2jaf5Q==;jysc2CxRy7UKihqyI0gk1Q=="
 ---
 

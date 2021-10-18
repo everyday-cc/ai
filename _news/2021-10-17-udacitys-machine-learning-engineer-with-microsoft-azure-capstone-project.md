@@ -7,7 +7,7 @@ originalUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 type: article
 quality: 70
-heat: 70
+heat: 100
 published: true
 
 provider:
@@ -24,6 +24,42 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
+    publishedDateTime: 2021-10-14T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
+    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
+    publishedDateTime: 2021-10-13T20:34:00Z
+    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
+  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
+    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
+    publishedDateTime: 2021-10-14T20:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211014005880/en/Kinetica-Now-on-Microsoft-Azure-Bends-the-Space-Time-Continuum"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "s3b5H7Vut0FMzFOmQeiMMNzUFU+vBou1NOmbwzWoH0EqYLfbcc0gGWwsdlPEhxNUClbFvrz/xHh/CFr8d4/xusLQlOKka7ZitZ0tZc6sGR1jWp60mbqil4LUQfV4SesjRKei5l6p361zL/2pAmBjwfuwygwCzLQsOMjxZ41D7tgZm688mhe5Zzfxottl3V+d7JtmAj9RoCr//5kBB6RsRlAZGAiyXTCARCLOFuCKmS3Jx160vW77t9elnfnkdYXWfHqy7UO35xxPNgg/xkaHHyLT0oV2D5XCafIUFVmgwjFXpRx7+NhyeimpdESOVoX7Ob/YmMgSg7Ll5jzZxoei7fuhLJz1GYgW1koqP0e/+us=;lH2bq5Phfb2W/lSAWv5JCQ=="
 ---

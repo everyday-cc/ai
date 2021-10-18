@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-
 webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
         width: 483
         height: 320
-        isCached: true
-  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
-    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
-    publishedDateTime: 2021-10-13T17:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=546459"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
     excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."

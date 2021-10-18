@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
 type: article
 quality: 59
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition used to take payments from school children"
+    excerpt: "Schools in North Ayrshire say the system will speed up queues, but parents and campaigners have complained students aren't being adequately informed about the privacy risks."
+    publishedDateTime: 2021-10-18T09:52:00Z
+    webUrl: "https://news.sky.com/story/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/21/10/1600x900/skynews-school-children_5550343.png?20211018110647"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Schools in Scotland start using facial recognition on children paying for lunch"
+    excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
+    publishedDateTime: 2021-10-18T10:29:00Z
+    webUrl: "https://www.euronews.com/next/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 55
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/15/26/02/1000x563_cmsv2_a53f1609-9c9f-5b47-ad58-884408bf3772-6152602.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
     excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
     publishedDateTime: 2021-10-14T18:09:00Z

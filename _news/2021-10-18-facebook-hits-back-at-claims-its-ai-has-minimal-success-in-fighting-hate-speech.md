@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claim
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/736155132ae3c0c1277d2df54a5a4821.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Tech Bytes: Apple unveils new products, Facebook AI removes hate posts, Moscow Face Pay system"
+    excerpt: "Nearly 250 stations in Moscow’s subway system are now equipped with a facial recognition payment system. To sign up, riders need to submit a photo and connect payment accounts through an app. Privacy advocates probably think the system is going to be a ..."
+    publishedDateTime: 2021-10-18T11:25:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-unveils-new-products-facebook-ai-removes-hate-posts-moscow-face-pay-system/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-unveils-new-products-facebook-ai-removes-hate-posts-moscow-face-pay-system/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-unveils-new-products-facebook-ai-removes-hate-posts-moscow-face-pay-system/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 47
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
+        width: 1001
+        height: 563
         isCached: true
   - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"

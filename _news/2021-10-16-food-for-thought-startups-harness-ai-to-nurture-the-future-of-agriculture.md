@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 735
         isCached: true
-  - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter."
-    publishedDateTime: 2021-10-13T17:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/391046"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
     publishedDateTime: 2021-10-14T22:52:00Z

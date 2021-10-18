@@ -35,15 +35,6 @@ related:
         width: 1024
         height: 716
         isCached: true
-  - title: "Health data startup emerges from stealth with big AI ambitions"
-    excerpt: "A new healthcare data startup from two founders who met at genomics giant Foundation Medicine is launching today with the goal of using AI to take on some of the daunting challenges around medical data."
-    publishedDateTime: 2021-10-13T18:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/13/health-data-startup-emerges-from-stealth-with-big.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "rOIrgCKMIBLYR4ukixaWRXAbFYDajM/RjHpyuxWLV3JA2QbMJT6gOfPRgC8G02PPlUDLntVnXBK6fqg8SGrbj3fCO8gJw4ZsJRYRZAWsjjdhaOTqnG7exBS5q/6dBiH6BJcBFP5wKsSnpNLZk1VTSO+rJijhn7+JCvaWp+3rA2SZp8fzaKv+UD8/4uzkx49CQesC25cqK9DeWqHuqRu0CtaX4Va15ksOTQav2MuBbDip222KPdiVKKsaj7Z9nSQO8QSPrsNB6/bdU6ffi5xCn7Xye+7XBeTZd/O3gxmvnsXAuG1FIn583Aa3eN0tkpqENIJ2GDxSdnvf2/TlCmmG7U/wHsyUH0Pn4o3F5mInZz8=;ORcMoMlTzSBr03dpvKkcsA=="
 ---

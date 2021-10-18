@@ -50,20 +50,6 @@ related:
         width: 483
         height: 320
         isCached: true
-  - title: "SHI Achieves Microsoft Azure Virtual Desktop Advanced Specialization"
-    excerpt: "SHI International, one of the world’s largest technology solutions providers, recently achieved Advanced Specialization in Microsoft Azure Virtual Desktop. This achievement further validates SHI’s deep knowledge,"
-    publishedDateTime: 2021-10-13T17:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=546459"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Wv2eJ/hnw+ZCRo5uQI1frYY8mjV+JOinuVbcogXSclDdUNSqUg5uLguSSRmrxA88afm3mxX+lSy0YHCbFRZ/ZpUPfRjsAXpDiOR3rCfk2q3HyHPOPQ560gMt6GHRhlYHvCriaHtAhpBGyDMVuxKX/Gtzkom9yg6XKxhMJ3gTjTsm60iI1Pd8T/vQHdbuutQwI4xgXo3Wub7UUucaeZCswLfXgiPoodcmLMsZmqEOqQ//XTE/W8mCFApDROk+M08fGNTcncxo8LQn2CBlbWTNykt9lJ26kWpgzvWDRERgQ0ZwdLBthbRDA1b3pu2mEBgvW9LNCRaMLZSIs4iB8Tk0/U0KTldgzdsNDgePekg/axWRRVxinhpatgmIxMhHHlO2jVpck86NzfQSefmgqn9PN5JdpLg6Vtr3/SCeegktzAc0eFKheUo4eJ0LIdV/j+OGL2HKRZVskvilU4Hb2eHp9/WKuSggbrg8AtekaKIp/1U+6M3e2/fTbILjQS11VTYNWL13jJVx9DW9Fs8YGmgFkw==;t+r0V9yuYocM7gxaj0UTRA=="
 ---

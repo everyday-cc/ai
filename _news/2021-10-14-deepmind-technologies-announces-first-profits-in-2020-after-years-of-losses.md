@@ -42,7 +42,7 @@ related:
   - title: "Deep Learning's Diminishing Returns: The Cost of Improvement is Becoming Unsustainable"
     excerpt: "Deep learning is now being used to translate between languages, predict how proteins fold, analyze medical scans, and play games as complex as Go, to name just a few applications of a technique that is now becoming pervasive."
     publishedDateTime: 2021-10-14T23:07:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9563954"
+    webUrl: "https://ieeexplore.ieee.org/document/9563954/figures"
     type: article
     provider:
       name: IEEE

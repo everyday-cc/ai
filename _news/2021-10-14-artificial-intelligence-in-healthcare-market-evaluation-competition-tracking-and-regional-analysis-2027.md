@@ -71,6 +71,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Global Artificial Intelligence In Healthcare Service Market 2021 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2027"
+    excerpt: "MarketsandResearch.biz has declared a new report titled Global Artificial Intelligence In Healthcare Service Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which offers substantial information about market size and estimation,"
+    publishedDateTime: 2021-10-13T22:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2021-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to-2027-2021-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027 report by QYResearch Group. Artificial Intelligence (AI) Speakers market is segmented by region (country),"
     publishedDateTime: 2021-10-16T11:51:00Z
@@ -105,29 +119,6 @@ related:
         width: 502
         height: 300
         isCached: true
-  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
-    publishedDateTime: 2021-10-14T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
-        isCached: true
-  - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
-    excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
-    publishedDateTime: 2021-10-13T17:52:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/13/9469130.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 0
 
 secured: "sJMwkdIUSYctwwXiXxR9KGdb6qxsVvFxhyUYkhKrfUTFcdCBAZtkos2qEgBTGiH7v22D6s4zr/Pv8gd4FcPPgc57yp3buH2X4ew4WK5Xv1QCVfMr7bX8bssmvo3okOErw4mAHIUJNM9nNVhF6haaLq9XjYkFeZEZvq6Z3Utj1zqeijaw2ui1BnS+rD+PBlDWjg2vg/Akve340ypdEq3eAD7sF9oQq3nN33MT6c/ZBBcQHLRjmlwzc43znZGcGRAc8t52OSkZq4fIrhWjfCLkA6ZAJIKggfnc78ZV6gpwXNT7c6t0AhB/+nqr5E0BW6Zzh6ze2D8MIJsp2eTHZvdghLXF3JkovrABuQGK0QUqU3w=;8qE8V+aoSqKhUIlaiUhrkA=="
 ---

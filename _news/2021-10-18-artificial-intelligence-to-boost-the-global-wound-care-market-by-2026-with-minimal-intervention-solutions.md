@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
 publishedDateTime: 2021-10-18T07:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+ampWebUrl: "https://www.benzinga.com/amp/content/23411620"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411620"
 type: article
-quality: 20
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
-    width: 934
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
+    width: 593
+    height: 400
     isCached: true
 
 related:
@@ -36,6 +38,6 @@ related:
       domain: ipsnews.net
     quality: 24
 
-secured: "eo2ru0zL5QyZ9D9vdDs/zKx3cU3HH3T39BdA9KdAHgmyEsgK0+8syghm1SuixJViYC0fTG84o9EjjdR5syZ/gewfDg8DOzVs8O00Y5iEubpbHwlxSKaqoi5ERhL2MtImVk537v/NPh8GzCbbMtwp6/18pIAwGUPeeF+Bh80FlCehFKCH7NN1fmhbZlZrgiVW3jKdrc4xNkA5ZJo5e9OAxG1CU9KDa9PFXYvSa2yY5BGY8hfrWTbx9+Y7KE8RwdH3QHgYr/LHvVuF0HWandXxNJcZubAUB8d98hmzv8O/mEHAcxRSx03cUbLKJoo580w8v/ZO3PcquW3eOPB8y8im4/MxCkp8JsfOEGKP70o19Vc=;RZELMUIN9SMnR+EYWEZM+A=="
+secured: "M5txZKdXb/gv/8kRdaRcLW7nACwhnZgMtLybFsbymY+NouKoRRILsipHTgqfXGePN5UtnYkwMGimNRXaBgiUh6VhfpXLk0zh7c3+BnSrq4kkKO7V10LDKkQq5DUQ+z55Kggyp/VTE2tv3wgI1DLa2xSPmRvgL4ioc75LTtOdyK17pHBDpTNKDSUJNU4au30c5auxacsMLvEhaOaCcS6Vk3MOqU2n0ZBsyG7s5+K4d2hZBvUjMrDxGHHGlLlX9ya904WKDNqxNb3mvJvUsKbYSfhvXaMIyF/tQjEb0UjqzDOb6ldYcR21nlI5kXZh8Xvq5C6PFCoj4srOjMiCjMGZO0yEtdqgi9ddBOy3JWXPh8U=;lmFgdePpac16Hea4iW1jXg=="
 ---
 

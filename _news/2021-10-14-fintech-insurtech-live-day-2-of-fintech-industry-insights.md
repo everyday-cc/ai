@@ -36,19 +36,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 52
-  - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
-    excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
-    publishedDateTime: 2021-10-16T23:34:00Z
-    webUrl: "https://maxwellgunterdispatch.com/news/1849/fintech-in-insurance-market-to-witness-huge-growth-by-2021-2027/"
+  - title: "Event Recap: FinTech & InsurTech Live"
+    excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
+    publishedDateTime: 2021-10-18T11:10:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap-fintech-and-insurtech-live"
     type: article
     provider:
-      name: maxwellgunterdispatch.com
-      domain: maxwellgunterdispatch.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-16T192409.110-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/20211012BIZClik_Card3_328.jpg.png?itok=L16u0JrP"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OUGDcX1qfFZQo8dN9BISUBWbBZoY6q5tAg82NpR1TIcKjYqnm8NAiGXnQuBQ1+s6LxFWBtRH6YZQ17UtraIcf07obLdniwRZTAJdTtPudIVg5R/1XzHZdR6o4aj1+v3O2dHEGdfdQMu/N3wTlQsJqGTD61bDQI/3nVVoDQNUf0L0+jJN5Djc/f7tCuiaAhx6uZFYRhwmGnvOIfndd7JwDmzFjnozwB6t90fesOWz8lsUBHzL2OdqRjKT/mzaGtbE80UZk3VE1bX+AB1Opei6Bk6kQpg9CrYKUjcGEU63owPCaNd5+nmVykOjbHakxuhUuSACxYe0H0pq3eb9UWyaWBJ7xoJDokRAZLwq+iRulhk=;NNXeVIB/+8+kIfLg84xf7g=="

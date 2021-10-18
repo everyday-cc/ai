@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Nvidia partner up on speech recognition model training"
-    excerpt: "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models."
-    publishedDateTime: 2021-10-13T17:19:00Z
-    webUrl: "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training"
+  - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
+    excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
+    publishedDateTime: 2021-10-16T19:10:00Z
+    webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 71
+      name: GitHub
+      domain: github.com
+    quality: 70
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg"
-        width: 1040
-        height: 585
+      - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
+    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
+    publishedDateTime: 2021-10-13T20:34:00Z
+    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 52
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
     publishedDateTime: 2021-10-14T20:13:00Z

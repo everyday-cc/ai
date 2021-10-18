@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 735
         isCached: true
-  - title: "Despite Disappointing Earnings, AI Stock Is Still a Long-Term Buy"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stock took a beating as the company’s financial results disappointed impatient investors. However, the future looks much brighter."
-    publishedDateTime: 2021-10-13T17:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/391046"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Machine Learning Trading Bot"
     excerpt: "Looking at all three plots, and comparing the two machine learning algorithms, we can see that the Adaboost does better with the training data with 94% accuracy but when utilizing the testing data it seems to underperform the SVM algorithm. Permission is ..."
     publishedDateTime: 2021-10-16T13:57:00Z

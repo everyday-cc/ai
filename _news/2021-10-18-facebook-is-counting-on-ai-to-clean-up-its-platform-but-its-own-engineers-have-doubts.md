@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=entertainment"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=entertainment"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
 type: article
 quality: 59
 heat: -1
@@ -123,6 +123,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958"
         width: 5000
         height: 3334
+        isCached: true
+  - title: "Facebook: We want 10,000 new recruits to help build our VR metaverse"
+    excerpt: "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset."
+    publishedDateTime: 2021-10-18T09:47:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
     excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
@@ -244,6 +260,6 @@ related:
         height: 382
         isCached: true
 
-secured: "PAPjDFITOlWMCGllNQid3WSkwCMHkHeeH/uSideNhfaXIOWTG85loS1rAY5gyKfvAoFB+nH6SM+SdZeIlvx9DroIUcXd8N4WZFPUIeCGm814sy5gaSzdsuoztAKzGjjSSZ2rH93fybyOLiK2rAPUxf85SaTAoGNpqLDky7HYAW1OE8oZ95gGtUShY6SWbUAKI1Q9Duq/p8DHa29E1zOomQSL+nbgQS8cOe1It1NmM9O5jv+hOKvaKvNDlJ/VSxOq6qAaVRFeDk8e+WvJ4sWrlz79VlpQHnFy3Vxh5fGwSxQ51OtGiGvS6P+6aHihYQEkLHggn/pZslzG2M8ci4vl+ttJVinaide5K7tgoqFPmHCtJfFvAvJNgJvQb6SkRDwk9S1rYMkl1b1BR8sH0Ej7EJyASs9SrR5PWbaSsZ0kq+vXKmq8ytEuStd/z9tCRFZo1z9tVjbCVUbC3KmQ5gUsK0J5lrt5MAu1VPIJEaaa8jklmJ+hI4C/PBLqqSlb9s38nJ804NezU68pYn1t0Y1L6A==;/wVbPBA/4EurpUM14Pmsow=="
+secured: "vunoByavs0dvV/N1bILVLjMOApppzxlZ1ArHlL684OAPLV7pl3Mgr0PsJovlFUqSgVOPf6zdagT3iJkl23w+8a3gQS7sFioAkd42Oz/XFE9NFAax/EWTH6XIZMUcbJONHC6rgOPr0MMZ/B34KVrje05zD0QWNAGglL/AJCjFc+zUAYN+1btrRDuFVvrtB+larNY2h+m85ugueb9m5iz6DpoSmk87V+opRMoTKlxUQCr46WqpTpAVZPIXqHBShVzgzkF22N9wcloq2hYUoksXogpa2PnrCcvg3V3XVmTPo0ow4GKnDSsln0duiG+s5LcXIX817/g8FfGTmrcFqHBODxxRchxITR7pJjjl5nN4714=;eZkhD5gCqlcGlfQRuq7Zqw=="
 ---
 

@@ -41,6 +41,38 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition used to take payments from school children"
+    excerpt: "Schools in North Ayrshire say the system will speed up queues, but parents and campaigners have complained students aren't being adequately informed about the privacy risks."
+    publishedDateTime: 2021-10-18T09:52:00Z
+    webUrl: "https://news.sky.com/story/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/21/10/1600x900/skynews-school-children_5550343.png?20211018110647"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Schools in Scotland start using facial recognition on children paying for lunch"
+    excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
+    publishedDateTime: 2021-10-18T10:29:00Z
+    webUrl: "https://www.euronews.com/next/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 55
+    images:
+      - url: "https://static.euronews.com/articles/stories/06/15/26/02/1000x563_cmsv2_a53f1609-9c9f-5b47-ad58-884408bf3772-6152602.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
     excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
     publishedDateTime: 2021-10-14T18:09:00Z
@@ -98,6 +130,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "/rAwzVuumL1xMb8RE7OD/DLqA3GeLiAmhP2iFZxz6L7Wwixrn6S3Kv9INZ+45vlHECsV5c0FpAXaS47KgXfGNs5yvhYVvHKLBaR83I3oUWaRyCSW87rY4nLkS64NtpQnIEwvQJiYymQ4VWa7FTMeWRiP0c73gbcanZ8PEyx0Nnh+vAHJod/pcdGMhDpAGa+7ySI6MO/O8+MpyQ1/cpfUB+6LxHt5mrgPSRWAj7Iv752oYUdwHXsJx6O2yi+yYrQj5Mv1QMdbK5zhBMdk1XgIN+EVCZs+e78tz3sv12hBF9HXgUqjiS3VVLotSFxEEL5no6bvprqzJPh21Gh7LEaDOCBvS4pMU8rNlw49+PIr4fo=;9463ulNLaegSEdBS7QYYFA=="
+secured: "q4bWRsdJmORDx+nG/um/bkAaECCBUDmGB+VwVK2SnB/M8iEm1bpSQuelOFkwLZnIV3bwwPxof+Ei79VzCewlApy37dXbWLN+Us0s7E3SHFX4/bh6RHSYliX7dsNEyL9RlgI9Rwmzeeyrb3iLVE8+rArWU9e30CfLKxTe0Tk2RI2taDIKjb6WJOJS8wc5asJJTXmJSGcnJLBx+fVN7+3Qv06WZFg0VdVodZV8bEIum9uNHenOIsPwbP7a/WRuluACtAbWreEN5tjJimcC1qKeAymnRfj5K3q6DKvy1Wp7EkWDw1TwnLps4ZlN+SFC71eycrcBw9CV2SS0aeIFQYsLlYChBYSXA+ETd1LEWiINd31Q9684R/uXjj+CP7Qu+A6WhI1gJKmpqlQ3g1QSKVRKdYqhDQtBUTLEFYCRH9CyIDSfiFRJEZWY1i4Bx3Vm3sJidzL0Gvi1PbfE1O+kdUI1cBoea+ga0KP1wj8SyAvb/CJlRnqX2V2KAWyZ7OhtgF59fAXNaHY1/uZCT6w4HoSwng==;clgYczl2iVU9gEOYvgPLjg=="
 ---
 

@@ -22,22 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM"
-    excerpt: "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"
-    publishedDateTime: 2021-10-13T17:25:00Z
-    webUrl: "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    ampWebUrl: "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 71
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua13702630_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
     excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
     publishedDateTime: 2021-10-14T14:51:00Z
@@ -103,30 +87,19 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 54
-  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
-    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
-    publishedDateTime: 2021-10-13T20:34:00Z
-    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
+  - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
+    excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
+    publishedDateTime: 2021-10-16T23:34:00Z
+    webUrl: "https://maxwellgunterdispatch.com/news/1849/fintech-in-insurance-market-to-witness-huge-growth-by-2021-2027/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
-    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
-    publishedDateTime: 2021-10-15T03:21:00Z
-    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: maxwellgunterdispatch.com
+      domain: maxwellgunterdispatch.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
-        width: 800
-        height: 490
+      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-16T192409.110-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "TvBRljPDmiSDCaU+M6p/WFvBm8i3WpRk3vvPlAqsz2NzpCmTR99t9hASFARgPRk8iHyvEvnZOXm04umoYRwk7kdlk3tWefvnIQwAF4/oRGXweg8M4S+ZrNRCRzXw9SWxkiIAf+ZbC0ziYFXOcOiLlPYys/1f0A+53ixv2GGm/F2yMdViUXqZFN7D3ZFc3odMzmzQdyXkp4EEI4IKXwFB2tUl521XU43XXLItz9sQ7GCFmRE9TltPNJcO6qyoHb2wL61hXawZZ9P+QASoAYBce2vhQb4+fMSqcELFScb+/mWwgvF52SFUCJlEz/e3c+fklxZ0xvLyslht2FQCfoRnjlP9haj1IY745plkxGnYh40=;6oolnJma9XnFPD16ZHM3Cg=="

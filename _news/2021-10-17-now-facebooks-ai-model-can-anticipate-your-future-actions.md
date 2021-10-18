@@ -207,6 +207,20 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Facebook admits that AI can’t stop hate speech"
+    excerpt: "One in every 2000 posts still contain it Social notworking site Facebook’s Guy Rosen, who has the unfortunate title of head of integrity, admitted that one in every 2,000 content views on Facebook still contained hate speech from April to June of this year."
+    publishedDateTime: 2021-10-18T10:08:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/53710-facebook-admits-that-ai-can-t-stop-hate-speech"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1375887c2498cca0bcfd11504567915a_L.jpg"
+        width: 620
+        height: 482
+        isCached: true
   - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
     excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"
     publishedDateTime: 2021-10-14T14:15:00Z
