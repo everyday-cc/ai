@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-mac
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-machine-learning-in-production-mlops-and-data-centric-ai/"
 type: article
 quality: 113
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 1648
     isCached: true
+
+related:
+  - title: "The 2021 machine learning, AI, and data landscape"
+    excerpt: "The 2021 machine learning, AI, and data landscape is marked by explosive growth. Here are some key areas to watch.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-10-16T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-2021-machine-learning--ai--and-data-landscape-10632196"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "/H0Ir5HclV1K+39QuHDqHbrTfXINR3+12N9awKMkY0jDYcZZstmYOMKI/YrE8tYwpQ2ydrcby5R5QreEPUf9x25wrZbPUx8ch7PoxvPkd699Nsmm3ibIUIa8/7T3oRbws4THkNjClWkp/lKXYNYmcDmXQSaO4RjmMT4wqTXAIIvleRXc/+erYdHQRtv4ysSjo0E5Op2dOj0pDYJ18jLjidY/t3jzkP/p9ta8yPxF9B/kPXajGvZC8mpRueY96bf9m5TJgzWIXIoKduoiItp/hMloK1Me/N1vKAzqlkzLyf7aL4PgK9WcNfBfp207VNBMnYEuIUqKBO0sWtIDXSDsCH7sGA9zhGx9BmKDj6EM43cYvd6FnDEwuTTordxzzNJWmO7auNOAj5yExggqrwb9AiPyGO13mH9YHzzEwEfHVnJY1J5S3MnOMCa1hu8bDnzvVXy70iLj6T0S9mnZSJBajoEURSPyX5+jXLKfuuoIWo1F5inzpY+dIC8kZ+OeCaBzKGDAVW7FzA0xjDpapKdVZQ==;0ZraW1xzRMXHilTkpExp+A=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-18-facebook-pushes-back-against-report-that-claims-its-ai-sucks-at-detecting-hate-speech.md",
-      "title": "Facebook Pushes Back Against Report That Claims Its AI Sucks at Detecting Hate Speech",
-      "excerpt": "Facebook vice president of integrity Guy Rosen tooted the social media company’s own horn for moderating toxic content, writing in a blog post that the prevalence of hate speech on the platform has fallen by nearly half since July 2020.",
+      "path": "_news/2021-10-18-mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing.md",
+      "title": "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing",
+      "excerpt": "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567",
-      "originalUrl": "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567",
+      "webUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/",
+      "originalUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/736155132ae3c0c1277d2df54a5a4821.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg",
+          "width": 777,
+          "height": 518,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,58 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567/amp",
-      "publishedDateTime": "2021-10-17T14:06:00-07:00",
+      "ampWebUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/",
+      "publishedDateTime": "2021-10-17T18:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech.md",
+      "title": "Facebook hits back at claims its AI has minimal success in fighting hate speech",
+      "excerpt": "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
+      "publishedDateTime": "2021-10-17T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +91,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -195,6 +236,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-facial-recognition-cameras-arrive-in-uk-school-canteens.md",
+      "title": "Facial recognition cameras arrive in UK school canteens",
+      "excerpt": "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
+      "originalUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98774f15-08c3-4a94-8627-5a8929df882d.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
+      "publishedDateTime": "2021-10-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -354,7 +438,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/scarce-chips-may-pinch-apples-iphone-holiday-sales/articleshow/87056292.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -621,49 +705,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-16-facial-recognition-is-finally-raising-questions-about-government-accountability.md",
-      "title": "Facial Recognition Is Finally Raising Questions About Government Accountability",
-      "excerpt": "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
-      "originalUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.science20.com/files/images/police_cameras.jpg",
-          "width": 494,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science 2.0",
-        "domain": "science20.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-16-sorry-former-pentagon-expert-but-china-is-nowhere-near-winning-the-ai-race.md",
       "title": "Sorry former Pentagon expert, but China is nowhere near winning the AI race",
       "excerpt": "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI.",
@@ -764,57 +805,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-ai-project-brings-the-climate-crisis-to-your-home.md",
-      "title": "AI project brings the climate crisis to your home",
-      "excerpt": "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Scientists have developed a novel way of making people care about climate change: flooding their homes.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-home-this-climate-does-not-exist",
-      "originalUrl": "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-home-this-climate-does-not-exist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-1-3.jpg&signature=e32af5210407865b380c3847278a7141",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

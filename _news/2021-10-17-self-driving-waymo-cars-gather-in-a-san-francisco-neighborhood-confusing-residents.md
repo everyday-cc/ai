@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents"
-excerpt: "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week."
-publishedDateTime: 2021-10-17T12:09:00Z
-originalUrl: "https://wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/"
-webUrl: "https://wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/"
-ampWebUrl: "https://wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/amp/"
-cdnAmpWebUrl: "https://wskg-org.cdn.ampproject.org/c/s/wskg.org/npr_story_post/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents/amp/"
+excerpt: "In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the day and night, mystifying neighbors, KPIX reported earlier this week. Most would drive to the dead-end on 15th Avenue,"
+publishedDateTime: 2021-10-16T18:06:00Z
+originalUrl: "https://www.wgbh.org/news/science-and-technology/2021/10/16/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents"
+webUrl: "https://www.wgbh.org/news/science-and-technology/2021/10/16/self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WSKG
-  domain: wskg.org
+  name: WGBH
+  domain: wgbh.org
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://wgbh.brightspotcdn.com/dims4/default/9d9d76e/2147483647/strip/true/crop/1024x633+0+0/resize/1024x633!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fc7%2Fa2%2F7639a61b4d92b58650a0d049a153%2Fgettyimages-631235572.jpg"
+    width: 1024
+    height: 633
+    isCached: true
 
 related:
   - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
@@ -234,6 +238,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Ljz2dh+haNaWydFbcgZCf9+NkuON2Nx/iYKWQvZqRoSHyhmZPpu9oaTDd/zVTl1+XJQjdq1EDGls6eaWBgEU3P81nhY9BhLF7WXukMeXCl40dOkNE7SMYIhebEZM35oma7v+NqPcBwSqF6eRX48+XZBKEFxjr7l5+B3Ilf2m1xDy2UpD2925K1DcGYUO94xsG7Ec81jzMxudcG//Fd3JR7C1DkqlmYPRWoutrimiC7LK5om2JOzqtdqDRd1vgCsmEna8hX+ko87YXwa0H0VqMOUiCF6kU56GpqToOc80YGQvneu26RNASuiYpxzcC11Uhfe8gdrhyAtGSbKqTnAKI714iLtbL1kOMa5V4e7pVfQ=;TpYiNhk5fYEtYuhp4xoBtw=="
+secured: "d7ItyidkyGycb+Lu33ksSMT47EYmFSH+Mwpd+rPH8JeJpYJY3yteCAEXw5IyVlP+kLjWRoEKtAgVXKpN/EMsoreXVq5JZf2GUnO5IORyDU0otoBhblMUgQGoAKYcZ3qiF65QGRcv3NnVRMJ66HLuooa2q2QpQ+slgt4/cm7dMaKtOeiW1MUzvH0U35n6ZYEwLpCfmnxEc8LJgIsuaL0AhwZ20O24vxn1JygMiJB1FLC7UUKj/if6PztJwD5EZi/+TSeOuCuhPKW9i/w/ESUfXF4W5a48hXfovZgFpHAUmciQztAh04Kg8AMgvf9CIOV70AlkmiRIXUcBE3wREPwBrg5I8R8jSnhPsoHEN0dipHw=;npQRRX9wIQkKwdGXHxTw1A=="
 ---
 

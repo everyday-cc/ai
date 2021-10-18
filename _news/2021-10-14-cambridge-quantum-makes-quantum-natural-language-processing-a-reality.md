@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quant
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
-    publishedDateTime: 2021-10-13T07:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Cambridge Quantum toolkit converts natural language to quantum circuits"
     excerpt: "Open-source software toolkit, lambeq, turns sentences into quantum circuits, ready to be implemented on existing quantum hardware, hence enabling both professionals and enthusiasts to linguistically interact with quantum computers."
     publishedDateTime: 2021-10-15T10:16:00Z

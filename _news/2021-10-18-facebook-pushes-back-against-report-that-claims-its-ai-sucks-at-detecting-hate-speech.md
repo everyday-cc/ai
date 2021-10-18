@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567/amp"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -29,6 +29,33 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Facebook hits back at claims its AI has minimal success in fighting hate speech"
+    excerpt: "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,"
+    publishedDateTime: 2021-10-18T01:14:00Z
+    webUrl: "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 866
+        isCached: true
+  - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
+    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"
+    publishedDateTime: 2021-10-18T00:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-wall-street-journal--facebook-is-counting-on-ai-to-clean-up-its-platform--but-its-own-engineers-have-doubts-10633151"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "zv2jerbsiU86MXTUE9WL//yLYmXvSBdzw/sKaBTGPJeERWaKXl7d+2aMYyz1LrBh5KDGgAvuc9hlrSKHVjTSvHHIrW0fktopt1Er3IDSvbPMY9uY2M6pnzHfQV/WS2XkdqutqKubcBl7heJ11WqX+69+jp/CkJ7GB6wwcJrvlUv81t8NGxWHxjgcEBLiU5p2uPQjHbJ/QOKdAqR+qJuSNHOeFeKEnmYQozOiLyEIK9ds2KGurvh7z7hzB399ACh2H193RlfXTeUPsGB1BpEF+YazY9xryMToOCIliiKzKdXiLVcRg1Tzt/PDbLvkiQcxLCoUkdd5Fqii6DONl3TA7kHKSwPA0jO05BH1B6PqGVGhv5D/Tj5hW9gtv4bB6YR8NJXhie7JREsGFuki4yQZzezUhXOKIIau14I+pTVFuvzm18sczKk0/cbxRenRQk4vQ0PHihGl5KWIgr/3uzyqFoGGKskBf7L+q2A5XKGr8yGmuKueD78d+OpMN+wtKIlOWiyjG87/WIwkPpo+a7rnNg==;C4veMgxFq+DyxFYYHfBBFg=="
 ---

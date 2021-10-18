@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts."
+    excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes."
+    publishedDateTime: 2021-10-17T12:17:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 85
+    images:
+      - url: "https://images.wsj.net/im-418418/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook researchers collect thousands of hours of first-person video to train AI"
     excerpt: "If the AIs of the future are, as many tech companies seem to hope, going to look through our eyes in the form of AR glasses and other wearables, they’ll need to learn how to make sense of the human perspective."
     publishedDateTime: 2021-10-14T12:01:00Z
@@ -79,7 +95,7 @@ related:
   - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
     excerpt: "AI has only minimal success in removing hate speech, violent images and other chronic problems from the platform, according to internal company reports. It can’t consistently identify first-person shooting videos,"
     publishedDateTime: 2021-10-17T12:17:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     type: article
@@ -107,6 +123,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958"
         width: 5000
         height: 3334
+        isCached: true
+  - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
+    excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
+    publishedDateTime: 2021-10-18T00:26:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Facebook-artificial-intelligence-technology-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Facebook helps AI take a first-person view of life"
     excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
@@ -212,6 +244,6 @@ related:
         height: 382
         isCached: true
 
-secured: "YYKHV6MlsCC89Tx6tXcGeRUzRXoRCoHV2NwGg42g46YSdvwWLL1rfi1vL2luvo1ACN0RW4WA1uZxz4ikCCSWexNlNq696uFo922wTWq9GFUumasG9mklHOrrCTPdbQezmeJBV8SLbeCtM/FX0htMLsSnC98Kwihbw2XYPdHXjHXrM9AIYZClCXFgZrntu5Hm/xR9lOf9P+MkYNGlyaPnI/uQc+gBRRFig1W6CL68xTPvkcf/e4BBEDlK9KwaNiBelr4aUrOGmFW6P3mbbvFkq5OxBIYCpFQca9iP2kFkvnSKozQIK9N8wpmvqycXvgHmsAAlC7DYXRVANWS8T4NTMFKxdbgp6daaUv/pZHmaTYo=;kaxLBwilO2uu3sQzbnE38Q=="
+secured: "Y24qIgFXohq96rcSrg2+ndYwoRmNq2BuXOyu9okxmtwUkZWXcCRdxHXAbzbsIO3vzt155HDDoxU7sAa+W1iJlKC+ixqo1hHoJbGuzirZ1fx1YLCdumiQPQ54Aoys2A8KufgkB1tdwcxaqyOP+f14PcriW26AHIu00Q9HPJ0a0c+UWB176DVhEeTAnBSyXMlbtyjG+VH/6IEv6+nfXO6vBcL+cUN2ayKO8manJ4FJ35oWIWsiOGNsojUZES4k4YOEsbMMgT7VWHrJEcAPCh49GIhQ0p0NwzRKx5SkY050cuVyHBeHQdkh8gd0MFvUzdM0lpg1SaaJgjZc23pHUfpJGGfymGf6KTh046h30ImUdFM6I8OGqAaxFrk/6TLsYmgmPONsc6Z/wKQC75qV1LOZGqoowiPSXJeZZapbFB/KxVtPn3MFZ+VT/4mSW3cEAHCCjo90tAEy9MgScJKG3yzWxS71cLf6ZRtp3WtqcA5aOXIiayuLxzMF1srOHP+XlxjdhOyvTAOJhGH3546sNSIx1w==;Y6ye+o37PAMIfM3tBiTiRQ=="
 ---
 

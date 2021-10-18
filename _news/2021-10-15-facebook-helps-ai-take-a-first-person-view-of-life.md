@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts."
+    excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes."
+    publishedDateTime: 2021-10-17T12:17:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 85
+    images:
+      - url: "https://images.wsj.net/im-418418/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Facebook researchers collect thousands of hours of first-person video to train AI"
     excerpt: "If the AIs of the future are, as many tech companies seem to hope, going to look through our eyes in the form of AR glasses and other wearables, they’ll need to learn how to make sense of the human perspective."
     publishedDateTime: 2021-10-14T12:01:00Z
@@ -77,7 +93,7 @@ related:
   - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
     excerpt: "AI has only minimal success in removing hate speech, violent images and other chronic problems from the platform, according to internal company reports. It can’t consistently identify first-person shooting videos,"
     publishedDateTime: 2021-10-17T12:17:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
+    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
     type: article
@@ -105,6 +121,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958"
         width: 5000
         height: 3334
+        isCached: true
+  - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
+    excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
+    publishedDateTime: 2021-10-18T00:26:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Facebook-artificial-intelligence-technology-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"

@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-wh
 webUrl: "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception"
 type: article
 quality: 154
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/14/facebook-is-researching-arvr-ai-systems-that-record-your-activities_feature.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
+    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its platform. But documents show it is only two per cent efficient."
+    publishedDateTime: 2021-10-18T01:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10101895/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10101895/amp/Facebooks-AI-removing-just-TWO-CENT-hate-speech-posts.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/18/01/49298613-0-image-a-16_1634517938656.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Facebook develops AI that can analyze human lives, record what they see, do"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse people's lives using first-person videos -- recording what they see, do and hear in order to help people with daily tasks."

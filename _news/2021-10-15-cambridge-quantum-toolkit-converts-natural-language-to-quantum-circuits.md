@@ -42,15 +42,6 @@ related:
         height: 540
         isCached: true
   - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
-    publishedDateTime: 2021-10-13T07:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
     excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
     publishedDateTime: 2021-10-15T01:00:00Z
     webUrl: "https://www.newswit.com/en/LLme"

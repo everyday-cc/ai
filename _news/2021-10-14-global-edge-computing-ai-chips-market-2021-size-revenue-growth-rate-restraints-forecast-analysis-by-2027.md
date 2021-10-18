@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai
 webUrl: "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13"
 type: article
 quality: 65
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Robotics Market | Analysis By Top Countries Data | By Top Players and By Types, By Applications | Forecast Till 2026"
-    excerpt: "In 2021, “Artificial Intelligence Robotics Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and"
-    publishedDateTime: 2021-10-13T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-analysis-by-top-countries-data-by-top-players-and-by-types-by-applications-forecast-till-2026-2021-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Valuations and Expected Future Returns by 2027"
     excerpt: "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This"
     publishedDateTime: 2021-10-14T07:07:00Z
@@ -148,6 +134,20 @@ related:
         width: 502
         height: 300
         isCached: true
+  - title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
+    publishedDateTime: 2021-10-14T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Global FinTech Market Report 2021: Market was Valued at $7301.78 Billion in 2020 - Forecast to 2026"
     excerpt: "The \"Global FinTech Market, By Technology, By Service, By Application, By Region, Competition Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets.com's offering. The Global FinTech Market was valued at USD7301."
     publishedDateTime: 2021-10-13T14:44:00Z
@@ -161,20 +161,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?434243"
         width: 375
         height: 250
-        isCached: true
-  - title: "Global Chatbots Market Research Report 2021-2026 Featuring Profiles of IBM, Nuance Comms, Google (Dialog Flow), AWS, Artificial Solutions, Inbenta Tec"
-    excerpt: "The \"Global Chatbots Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. The Global Chatbots Market is likely to grow at a CAGR of around 24.1% during the forecast period of 2021-2026."
-    publishedDateTime: 2021-10-13T09:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=545869"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com"
     excerpt: "Global FinTech Market to 2026 By Technology, Service, Application, Region, Competition Forecast & Opportunities - ResearchAndMarkets.com. The \"Global FinTech Market, By Technology"
