@@ -2,7 +2,7 @@
 name: "UBTech Robotics"
 overview: "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube."
 type: "profile"
-heat: 87
+heat: 130
 
 website: https://ubtrobot.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gOpQlk8afzs"
 
-secured: "KgTYIiz4m7GzUgBkcc9F/ITrt+FYnihl70IdPOqsKqjEcondpS8/roCawcsVy+cYTftrwBw6QNpH/iw7Vz8JG1SRwctnXAWkoOBUSu5c4DOZ29opQsShb0B7l1/yUWmeOAMDfGq9O+Jz9FHR7ASjB/Ljop14kOclhzErPX2FIwkL+QtxDlC/dzOKKDzFrhA59tY3oK4FNi+1scGEblJBJzx+SUsRaM0TP45VsExIjpHUgsRPgyHcZUZp678laBFgt7o/NY2/pRfa3mOwcRM3LWO/Y6jjBN4gGvVWmSdO5/wvEHiGjJ3GAsf/iKLsd3hshSm6ukY9LNiUaJKSJqLULiiBHAwTE2d5jC0mGKgAIBDTCFxBM27MU6fOBuF7PLQHPhRXytmXh2hLtSo+JlFF2gJhJeeLTbjRJRdK4xjW4OU=;ew88BT8yLMJNCGRn8yiNWg=="
+secured: "g2KrSlec4C2GR+eBBGldoPTeUbmmOhZFkRZl16rgIqh7nicU6Qd5bglF0zCn+4cxDprMDutAGUJbE7Ar7HEXJeACuReQ/b9V4O/6VgsaOVZWqOtecICNNVbYinfaT8eYZwrSi7IZtFwxXMlkGEvu2iXLtuaSRboSF0XprLYHmYor6huUvEonHkYMM/YknBE7OXl82IAUneWQTLbKEnH6uEI1XXuOGAgiN1/cKv/Sj6nEyxNf9A/wdbxkmAoqtEaRs80P4hzcvkP1cxVANh8riwbC6dD0Bw3cYMR9fNLcgOuxmVFyYzz2P5Pz/jbKoEhoCUmGPtgsrI/IE/HPgUeSx37SkdbTJdPcF/S6w5+razyaJmvIuVlPpTqglXTr9hL9f94cl2yCYqpJt/FtcYBTkKk/Hjfj7Uu8JNrBcy2WmEk=;jFRM5jcstZSnpHTkYBshvg=="
 ---
 
