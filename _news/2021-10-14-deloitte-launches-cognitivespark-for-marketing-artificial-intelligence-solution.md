@@ -3,16 +3,16 @@ category: news
 title: "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution"
 excerpt: "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement"
 publishedDateTime: 2021-10-14T13:00:00Z
-originalUrl: "https://www.kcrg.com/prnewswire/2021/10/14/deloitte-launches-cognitivespark-marketing-artificial-intelligence-solution/"
-webUrl: "https://www.kcrg.com/prnewswire/2021/10/14/deloitte-launches-cognitivespark-marketing-artificial-intelligence-solution/"
+originalUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
+webUrl: "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/"
 type: article
 quality: 51
 heat: 71
 published: true
 
 provider:
-  name: ABC Kcrg  9
-  domain: kcrg.com
+  name: WSAW
+  domain: wsaw.com
 
 topics:
   - AI in Healthcare
@@ -20,7 +20,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
+  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg"
     width: 980
     height: 735
     isCached: true
@@ -50,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 31
 
-secured: "On5oE3pJiKJq+B1uGVd6ZI8j+Zp8WG4Rn9oG8aXU0oGVIIdPvDiYND9LksnnNp7kM0LezBfJmSHWC5KAyp2EozEFRR4O57+c3rJrdVT6R5uyQylQfJsl11TTc/24Qrefa9O7TdnJXALnlZ2gyFa5c9IUc/D+s3SzQrI462zWpBsWGqk/Ew8ol1cIlKz8QkxcAi7q+IxjiRflYdeNY4Rs7qGzSTuFD4F33nq91ZIuA9CaHSWzwQkM/yYSI55a99j+Op9Qp1U0/C4nWjRjAMYAd/LCBjixaWyUMzEMlNR8iXOKgVciw9xr/M75kikl5Aq5tam0SSWeFpQcNVbpyQMMSlTUTBjcSPnSZVVeQa4KG70=;K1zC+8D4NCqEze9j7A6omw=="
+secured: "I60WC7h4hQdR2yEsLyNOMpkToevc7SIkQEbemcUGB/DkoJCMMa6bA7DWyx++C7vARkHj96hwTO4+AHZ4nampE8COk0A0DbxxP0NkGKC9jPVIaBbiFz8KkzhrTFczVlJMzIbHgx9gSLyjmXUxDyhGF4gLc86OuHDIxkTD1T6RlV4LoU6EM/7eEDSYELA0ZnrPbg7Mn9wIYMSyI1/MV2RHjBgnUtnSFibsZpZZorRMZsUyI5KIV499MUet72MfFcELFkM2CEH0MG/fZIZyb2+9vTPrWFyT6YFwEUtTBf7kA1IIKB61xG0h5cYN75vObPZD4TjO3ynQLDYer9h7YpUXtolVfpGwUXeziZSrfwHxkug=;tXSNp8jB5UbdxxjpKZvc1w=="
 ---
 

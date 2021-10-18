@@ -41,15 +41,6 @@ related:
         width: 766
         height: 400
         isCached: true
-  - title: "Temenos Selected by Green Dot to Help Build and Power the Digital Bank and Fintech’s Cloud-Based Processing Platform"
-    excerpt: "Temenos (SIX: TEMN), the banking software company, today announced that Green Dot Corporation (NYSE: GDOT) has enlisted The Temenos Banking Cloud as i"
-    publishedDateTime: 2021-10-13T10:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211012005847/en/Temenos-Selected-by-Green-Dot-to-Help-Build-and-Power-the-Digital-Bank-and-Fintech’s-Cloud-Based-Processing-Platform"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "F0TSY7C8AZejcizHY45VTi88KkonVGn3ie8dvCO12ejp4NcWX9BFlOss3CNjS/jNzTzHS1uciD2QF/LSQO/wwulHUjtFyAtF7KgKEcn6CHP9FlIaXRx1uTkJgM7i/gJ0YEjs3gKjf1xJd/cM1R38VWigr3R9NCFk3v61eLtNertPX3/gMuz1om/qT83HZS27wZU1yJTEapGCTBwXZqSaslzWw//BDETufk9uaSJ++uVo5YKggQQC87e2gKfoYtYWn3C3QrggPNuj9QWxvogGnHHZ130WheQrqHluYOngNftZUn0dlXiPSKmR894xFTWK6SoOCZ/JzhGyoVpovWI22SERVRHx6rSUZ82QblCqp4A=;2kdMB0E52n+dX9d5U30rIQ=="
 ---

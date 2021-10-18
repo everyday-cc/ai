@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How fintech can bridge the credit gap for first-time borrowers"
-    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "London fintech firm raises £8M in Series A fund to expand to the US"
-    excerpt: "A London-based fintech company specialising in debt capital markets has announced an £8m Series A round fund fuelling its expansion… | London | Recruitment | Finance | Finance | Investment | USA | Bus"
-    publishedDateTime: 2021-10-13T10:20:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/10/13/london-fintech-firm-raises-8m-in-series-a-fund-to-expand-to-the-us"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/xIqSu1kc2buPg4yv2qQDg3PmjK1ExFZUWEgnLoji.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=e55f3b2453c8e49a33adf322a3d45633"
-        width: 940
-        height: 430
-        isCached: true
   - title: "FinTech trends for Year 2022"
     excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
     publishedDateTime: 2021-10-16T05:39:00Z

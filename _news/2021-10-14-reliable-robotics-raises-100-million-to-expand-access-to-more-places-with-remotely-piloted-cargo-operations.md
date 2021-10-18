@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Pathway Raises $1.3 Million to Scale its AI-Powered Medical Knowledge Platform"
+    excerpt: "In a context where the COVID pandemic has generated an unprecedented volume of evolving clinical guidelines and revealed vulnerabilities within information dissemination systems, medical knowledge startup Pathway Medical has announced it raised $1."
+    publishedDateTime: 2021-10-14T09:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pathway-raises-13-million-scale-its-ai-powered-/2021/10/14/9469457.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+
 secured: "arbwexvBFFQIh9mo14dfwH6gdbqTMMtCbuwbcs0AmmIbDroEc3U5DKf8DmQ+7WfgleXCjYBFxbWycYEU7A8YGk6M/02jGDwK/doNiZbL/ScxzScdqTyagRltxIrJemzDdeoDApSTz/je7wor7jItpHD8TlUlqoJe7pHdfGprae3ZGl/A+Xlt7aNh8a+GYfQbHfqQjgWP2s1p7rWEWAVnzXRIpkYLV7lrbwOAWnhhVNnZwD7NdyU0Bv93KYUv2rIgA3SB3TlbS0qvO5YCuludsqFc4Yxdmb5pVQvQbFgrXql2cQhMp8AIIqppBK55+ABRV1+CEwWowx78Ez+Nc5wHA3ZCwHyziT0cRdxdJ0yyNvU=;YMFXj/CtKTYClR1oiv8oig=="
 ---
 

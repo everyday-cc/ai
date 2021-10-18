@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing blockchain, AI and privacy-preserving computation together is the 2.0 version of this network’s white paper"
-    excerpt: "There may only be one thing standing in the way of advanced artificial intelligence, a decentralized privacy-preserving computation network"
-    publishedDateTime: 2021-10-13T10:00:00Z
-    webUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper"
-    ampWebUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNDgwYjMwZTY3ZjZiZTNmZDFlNDNlMDFhODUxMjgyNS5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Gitex 2021: AI tech in cycling tracks to detect if riders are wearing helmets"
     excerpt: "New artificial intelligence technology in Dubai’s cycling tracks can detect if riders are wearing helmets, Dubai’s Roads and Transport Authority ( RTA) said on Sunday. The smart technology is being displayed at the ongoing Gitex technology week,"
     publishedDateTime: 2021-10-17T14:18:00Z

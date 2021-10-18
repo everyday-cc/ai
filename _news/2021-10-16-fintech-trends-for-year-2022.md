@@ -45,36 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How fintech can bridge the credit gap for first-time borrowers"
-    excerpt: "Fintech firms are offering tailored credit services quickly with high client interaction, using novel ways to analyse data and assess borrowers needs and repayment abilities."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/"
-    ampWebUrl: "https://www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/how-fintech-can-bridge-the-credit-gap-for-first-time-borrowers/2349247/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://images.financialexpress.com/2021/10/cash-loan-100-big.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "London fintech firm raises £8M in Series A fund to expand to the US"
-    excerpt: "A London-based fintech company specialising in debt capital markets has announced an £8m Series A round fund fuelling its expansion… | London | Recruitment | Finance | Finance | Investment | USA | Bus"
-    publishedDateTime: 2021-10-13T10:20:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/10/13/london-fintech-firm-raises-8m-in-series-a-fund-to-expand-to-the-us"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/xIqSu1kc2buPg4yv2qQDg3PmjK1ExFZUWEgnLoji.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=e55f3b2453c8e49a33adf322a3d45633"
-        width: 940
-        height: 430
-        isCached: true
 
 secured: "Kq/aoomnp3uryI7ZSmvDPByvF3GvxDcYTU+3hkv86aSRtc2uQguoq+TtjcZE6+DMksQPojVaoXjZq1HU00+tYnFc2O8SFCQ+E3VeERthUY+zg/2NICRW829EH9JqZkGO3HuRehlwNXpbl1+SlMwL+pMVINQZj+TacyRuyggC51Zh9H+34ud6rKE3GtPLZnEZP7/t8wfJEcpU+ckloyuvc1mg6LeKJil2c0mpNlYsvK3jF296LLtMxUT5aGOIssNDaFRCvF3a1AcACr7PBTPVmEFfo0I1sXsWH2dxoZJYYTksT1TZ6rn50BqxE8vt/14r4xh5SQxuYu2oU1jI4QFnxUUDwuXDU/Vswf88WDbBNfo68WCNCMoOoQ0DEr9q5UnAlFyAs6wtouxCo3aNLFZnWBhyeCr0pRicFuRbNGWwia8+gKQOK8rOfHKAeKZVyrIYzd/3xf9WoVFXtoKMW+NttGPrLs4wYTOqYpcaLfABKt1hJczo9kaJskV3ZqLRbard15cmx9tlDtVZxRGcDN1R1Q==;8rYvMMJ9ugpZoiFr3dZdQw=="
 ---

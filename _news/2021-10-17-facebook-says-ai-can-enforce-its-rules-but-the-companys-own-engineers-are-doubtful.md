@@ -238,13 +238,13 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 5
+    quality: 7
     images:
       - url: "https://i.dailymail.co.uk/1s/2021/10/14/19/49181575-0-image-a-48_1634236509921.jpg"
         width: 636
         height: 382
         isCached: true
 
-secured: "ar6m3bj1olDzZYVYdbUSHp8s2+52mrYT9X/CnVopSSRgO4gwkiLbjXhG7HxsnhrAzHr5dzgix6wVrjuC5kZuP4lPX7jOaevwiWkkYocsGhHZdNOwVQZtMvCXwBSNSeFWtSqMs4Qm9k1jet4znQ3R0I74AkUZJR00rBekd97iEGaBgQ1ecNvvQlAa/vtcMDLFy2AexEWzVO3nzDM/ubmUXU9q08YG8LMTDWb4KJdATl5smKxyXmdO3AGFmmaJHru5rnpJyzN4szPo3vCSoadeFVpsPpuGaP1g1TZloj+f2o9yFJByT1z+Mks3mvHL0dvD7yuGmCEPLLcBfFydf4FJ/Hxb3OxxadYwWVfUaAr0hSM=;FPF2bn+LIB9WAIxPraAsnA=="
+secured: "mMxDv+kd1cXz9VmixZbBCZUgfX8AKylCm61EuoP9nA0QB6nJCN/WBfc3eIPIcN+6cqQO41BtL2aD2KUxhYezB50kgnfD2PwKjGys1pU6egpJj9/EVxXXrLt5KSwqjyiVx/6i1+kPnUo+J0bqtCAfR75kWGR1viacTRbxzTmYKuXrdpkMYUdu9s4fqK8tZL0rwA8WafX2nLdrrzByaip9xA0iIe0X6+n8YR4+suvvyEStxdTlRa0+TFbosPVt4wmvWNH23adQLW3tVrkbx8lv6rUEZJQMk8q9hFUq2paUmHG4aUyQc3pd3zTFA9S/vyG+hDi+ZL52ZuYiUywyXnMCr6Kr8wdt9ZTNb7KDiSmDv0rfmvlgKr71L0tNi3m01XOErOSzsrjXSPK8LFxp0cPoWLh4OTU2VMnPuds/DS3sy5l30en6fw99qMKLzmdZyqtZJv1hdRB/4a8pBqxbhDLZU8Bs7W3BlgD/QV9JZdW3e8fd85uc0UKAjP5fWeSKmThC6D7pnSn9CcW8IpVhIyBIzg==;IcUrZ/L9RYuiYir82QGBgA=="
 ---
 

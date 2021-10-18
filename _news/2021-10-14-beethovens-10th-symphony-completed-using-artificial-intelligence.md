@@ -72,20 +72,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "Artificial Intelligence helps complete Beethoven Symphony"
-    excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 37
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "sFCGFFy/3/EVW3eg1Hs/2buicfpZs0xIus3Pf7TRevRDNLtXEELQpDSXP6tKWN6reqJZWNaLkFrUC00pcOn+3LexRkMACQVsPzjrtaIU2pyz2MYLDcmCz2tJPTCowa8RLJWPzdrso9GGUE8Z7zYhXJKiuIspVkawyxCmyz9+mKWuev991ZKq8I5Zl2c1Ro0wztEU+YmwBrpleVWQiJt4TS+yk6zrdJKoInkoek4xYvj+HY8G4ys/geFJk6mcxaGaFZO9SCIpmR2mvf5AfgP/2T4IFVEzLScVeh5EC5FzaMRQNQKOaC/ezN4PMBzM5woB+G/WEwg9fhbaU5thzfs39ymjhH5GsBLI/N37c3gjnjJQ9JZFMSwXkcEiu6GZJ+RH2BXCdPDh4AuV/uZjVI3Tbj+zxL06ooVF5FRpuXYEOM7QcgaTKL1lXlTXy6G8NGWRY/rI0ckCa6vz22Cge4KjYmLwqM+aDo9fdfDnKwN7UYTweCHdBz2ZHyOl6/kpj8egch2dt+yGhhdtkNjOk8rkIA==;vuIUUQB1B/NI8gH0fr+hlg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Toch.ai Raises Close To $12 Mn In Series A Round"
-    excerpt: "The funding will be used to scale up technology infrastructure and venture expansion into global markets with specific focus on the foreign markets"
-    publishedDateTime: 2021-10-13T10:35:00Z
-    webUrl: "https://www.entrepreneur.com/article/390891"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634121270-Tochai-Co-Foundersv1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "S5obtJaSNczG9ndbTkRiATRB/A3kZeNzuRsQcFxBCCbrXRRzgz3rMxhnkh+JJIjW+9ifM4/GP1mpY0FMSJ5rkkaCS2dGRlklncrS4pkIqWTL0geIi957R1KOFn/LJQr2H3z4JV6KZ5+r3LRAQYaDrjFwd03dv4o42vJOn0vzjvt4o0TYd0VRshtVWpK9OTQ3NJSOCIkRX+juEqR+BbSmX0Se2fJavgO9YasFOP5VB4wTTqvFpF5DF3Uj4XUjDEVlVl/7fnJR713UXyh5+Or+3gKPFRHQ2rV9yQOolZxa6xXbOdE7Rucxd+aOJRfmqBFtr5plLJgjZTlVha1B1/qgr0GY7Qzj3jTQPfegKeQFB5nRg2zJ8M8ILX1EWAjoEcjfCIhDZnYWqtD9aaXQ1E9w3BvGM2mmrR3L0zSYBQhIKUZJVRv6MDJO5JIr7HuLoWqUEourJGl9VhkgxvPfx0qZ0ccqYnLgCyMWiCGlMCDOANgN9j25zZ4hMRnQRiGjoBe78YfWBOsgRXwhZFwTdEjo4w==;y2Q9z2ybD7hPOugiJJd/yA=="
 ---

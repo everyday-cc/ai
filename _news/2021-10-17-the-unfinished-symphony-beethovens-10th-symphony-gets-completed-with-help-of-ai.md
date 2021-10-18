@@ -58,20 +58,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "Artificial Intelligence helps complete Beethoven Symphony"
-    excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 37
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Beethoven’s 10th Symphony completed using artificial intelligence"
     excerpt: "Roughly 200 years after Ludwig van Beethoven started working on a 10 th Symphony, it has finally been completed with the assistance of artificial intelligence (AI). Before his death, Beethoven began working on his 10 th Symphony and it remained unfinished until now."
     publishedDateTime: 2021-10-14T12:44:00Z

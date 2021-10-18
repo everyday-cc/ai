@@ -36,22 +36,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Bringing blockchain, AI and privacy-preserving computation together is the 2.0 version of this network’s white paper"
-    excerpt: "There may only be one thing standing in the way of advanced artificial intelligence, a decentralized privacy-preserving computation network"
-    publishedDateTime: 2021-10-13T10:00:00Z
-    webUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper"
-    ampWebUrl: "https://cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/bringing-blockchain-ai-and-privacy-preserving-computation-together-is-the-20-version-of-this-networks-white-paper/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNDgwYjMwZTY3ZjZiZTNmZDFlNDNlMDFhODUxMjgyNS5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
 
 secured: "KX3PfBAdz08niOMSZaLJhwhCkT2c3IDAv8gdYxe46PQwaNM6Tvfo4H4T5oKuq6VoEs5ud+gGCw0sTv/Sfgrb4jXS1S6zj8b3uxtMCmri8Cp75t6GuzmVFb1UC7bEeeU+ByiQoeEIOIkqgMppuvYYlzgWuQNT+AmTfE/bmVSX3VxfdQIgFUdLl9mBI/6yCuQxSQzCSs/SvPGrx28w7lqcMy3khX1OudN2oxsxxU/bjaPMU7BTIxlLbz9VDmpBeFXup/kZzslF6yO3KyfBMSUb84APyoiVXpGLaTT6Yve0B+PqUkM2rynA9D3IU8Uj/deUqN0cXakAFdWE8z7gj52i05yAKA+rR8nkMOOmgp7FqzI=;iorpbzignVaMQQ9x51uJng=="
 ---

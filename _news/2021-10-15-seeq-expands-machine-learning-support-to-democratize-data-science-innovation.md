@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
-publishedDateTime: 2021-10-14T17:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
-webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
+publishedDateTime: 2021-10-14T21:55:00Z
+originalUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
+webUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
-    width: 2513
-    height: 1414
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634280660&width=1200"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "7K2ZbW0HFsI2/hehrJ7dL+ckLx4hXm+vHi/X1GEnthYIsVK6kRHt152dn/GCN/kUF7mo1r8ZT+ZqclbG9iLmEZX5youNcOO+auxiRCZ7L0bfYDq0Kv3et5DqxIw0hy2d+T1PZB4V99vsfvhOtFjYLOUGfxgWi6HaKJ+dNujn+uTcwTBTbxUJHVMhD5Roys6QgKBR5TUCp0jtJ9I4nHlJ4XMP1ofcCivt4/hU8KDnDo6XY37HGUn2U2e47MnT3J79d5GKjj22gcNnx4rhHJYXRgsodfSCAmC+go22o2rH7DUQIuEq1dFyBdkzkkZclTMWNoOSaUw9YpdFxiarHdByhE1SR0ZdOTm/ZJePKW4RsMQ=;Wsdt4ipY1Gt6W/Vmnbl+ig=="
+secured: "3cRcePn5tihWFfVTNhUO2Gm410GQgqKugaklg088sobXF3bTt5MwCLjiya7LVGxMsjk5W+IH9A5N4MXTmTXzczpNPMKqfaHRq6o90g3g/TeQSBeQ8608A7yv1w7MqTv3p9qrv5wkBbPWq2O0ONlreek6WJ5tr1extDrmqnxBLSXX1NM0OP/EonFXpsrqVXQODuHskTAwaIY5YAxX97jet87G9V7e7h2B3GtzE8omt/cJSxEsyjxIHoiYM6snzG6Ffw6NabrWrxjP8ZFAJPLm/kN8BLcaAU5f68/oCZ7I3MDbFfDXl3S4ODIQgQQsDhSd30BKh3R+IxVRSF1ib4LWFmU+aoG06Zp8hYX9uuZB2+8=;r4S3XNZjxy0IYw7YsstR5A=="
 ---
 

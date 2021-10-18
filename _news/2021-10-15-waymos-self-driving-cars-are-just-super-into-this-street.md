@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo’s self-driving cars can’t get enough of one dead-end street"
+    excerpt: "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on."
+    publishedDateTime: 2021-10-18T02:15:00Z
+    webUrl: "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/waymo-2.jpg"
+        width: 1346
+        height: 898
+        isCached: true
   - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
     excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
     publishedDateTime: 2021-10-14T14:24:00Z
@@ -41,22 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
-    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
-    publishedDateTime: 2021-10-14T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
-        width: 1200
-        height: 929
-        isCached: true
   - title: "Self-driving Waymo cars clog up dead-end San Francisco street"
     excerpt: "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\","
     publishedDateTime: 2021-10-15T13:18:00Z
@@ -72,6 +72,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4F9B/production/_121097302_gettyimages-1324922564.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Waymo self driving cars clog up San Francisco cul-de-sac"
+    excerpt: "Residents of a San Francisco cul-de-sac say their neighbourhood is regularly playing host to a gathering of Waymo self driving cars and they don't know why."
+    publishedDateTime: 2021-10-18T03:46:00Z
+    webUrl: "https://www.themanufacturer.com/articles/waymo-self-driving-cars-clog-up-san-francisco-cul-de-sac/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 54
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/10/18044408/shutterstock_2037370160.png"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Your Deep Dive Into Those Waymo Self-Driving Cars In San Francisco That Went Headstrong Up A Dead-End Street Like Floundering Fish Going Upstream"
     excerpt: "Taking a deep dive into the Waymo self-driving cars that went up a dead-end in San Francisco and became a big news item of the week."

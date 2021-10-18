@@ -8,7 +8,7 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-10093241/Facebook-creat
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10093241/amp/Facebook-creating-AI-view-world-interact-like-human.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10093241/amp/Facebook-creating-AI-view-world-interact-like-human.html"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2021/10/14/19/49181575-0-image-a-48_1634236509921.jpg"

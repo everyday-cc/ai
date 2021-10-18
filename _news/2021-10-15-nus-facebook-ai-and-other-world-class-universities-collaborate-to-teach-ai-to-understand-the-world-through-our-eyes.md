@@ -234,7 +234,7 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 5
+    quality: 7
     images:
       - url: "https://i.dailymail.co.uk/1s/2021/10/14/19/49181575-0-image-a-48_1634236509921.jpg"
         width: 636

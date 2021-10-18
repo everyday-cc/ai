@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Toch.ai Raises $11.75 Mn To Transform Digital Video Content Production And Monetisation"
-    excerpt: "Toch.ai, an SaaS platform for the video content industry, has raised $11.75 Mn in Series A funding from Moneta Ventures and others."
-    publishedDateTime: 2021-10-13T09:34:00Z
-    webUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/"
-    ampWebUrl: "https://inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/toch-ai-raises-11-75-mn-to-transform-the-digital-video-content-production-and-monetisation/amp/"
+  - title: "Reliable Robotics Raises $100 Million to Expand Access to More Places With Remotely Piloted Cargo Operations"
+    excerpt: "With its innovative airframe independent technology, Reliable’s Remotely Operated Aircraft System is designed to expand safe, flexible and efficient air transportation service to more locations. The capital raised enables the company to scale its team to support its first aircraft certification program and expedite the launch of commercial cargo operations."
+    publishedDateTime: 2021-10-14T14:51:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17616"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 49
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/toch-social.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 30
 
 secured: "pbuzZ5B6AsGocNwX9DHINpbBoYuKTWELXQjr34gMJn+gDtikCJvKp9Z7OEXlc/s5IYKor7nSCXldMVL5pWyBMmqThKJ8FbY0NOx+D3Y4XRG+s0FzBKJFAXWxuImDtbuOc802lmS9oZOSQh0mXoa4TU6uDsEFQmx8q4D0wtBvVTx8GfcCTMIBIG+a43vnR4oHsiB/dFSHzKbpEU3XuQI5feyB0JVJUnmRJebs9HUpfiVzU9T+hht/ouvbQK6g7J6kSwO8So22aTZH0MSw0L856JEqo5KjltDuzFhR7JQauR6+p2Vobmwn+Ses6aqKXjHi7pdXBVtfuEBmrVji80ZbDbYKdQ1ZHkw9pSKTAJ5NrB4=;RzK0fFW6cOdhVFgebOgFbA=="
 ---

@@ -2,7 +2,7 @@
 category: news
 title: "Mars robots take cruise control during solar event"
 excerpt: "The words of John Denver's \"Take Me Home, Country Roads\" came to mind ... on simplified cruise control. Consider it a two-week Martian summer break for the unsupervised robots, and a bit of ..."
-publishedDateTime: 2021-10-02T16:33:00Z
+publishedDateTime: 2021-10-02T16:22:00Z
 originalUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
 webUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "Cf1BvX2XrxTjaQ21h8w5BaATz1kXuTLMjVKxAf87nktZCQmbJpKQ3obiheTCCx9IndN3pX1HLJ83WEUZLwe5qwRYRDBUB7AVsW2lIFTWMiyUCMdJVX0rcvD6vkzyjKZ7+2Sa5rgWSWBk+oA8Z0vzilzdVY9Bl4KPQZVB9zkk0FSBxY+h0jImLtceQmgn655tpkmtNhXlwHTlOphdJgY41cG7gm2Z2SDCcPfVkAS8LjaT9hy8/g217sYdmD+xZD0F8bw/voOzc8HHayyeGJ1u6BrV//8aX5gJfvEorKQI+4W4IVLXGgC2NDPH2gfVfXQQO55uFbjRQbnKKszmPDT6xX+pEQNdYYKN7yAOP+fv1O8=;tkvLUU7UiI/y35yhcl/t2Q=="
+secured: "EVD1tH10ZqLqiXqlxlipfuxtqI4uxD14Jm3EP48uCZqhGTqqQPDsvtlXs3ZjmNlcAZclbr7GRUx+RNQM8v9eI/msJhqgUOamN+umd56jcsrEoY4b5Shlrp9nebegoGTxyqkXes5K/It44BYJzXuG4zamX8+Aj2dpzFldU/Blz5CGvSIeI2c4KBp263fdVi0IKwesGb6KmS6W6R0HVoprg9kLN7LqenL6XVoJs/oNNfzaNebVOYaqGsKq79kmYFk3XF7n5PT7CZdurX9QfyfAzg4ACwek5EAol4fzrFsZtEfvaDZ2ajRVZj7TiDIVKtSEzl5+cQxcU5GkOnZBqfbR3TOn4W6GfJJoQ5LxdtpcmJU=;DTUFZzmCdBzS8a40L+/Ovg=="
 ---
 

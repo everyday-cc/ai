@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/10/bi-210806-beethovens-unvollendete-crop-f789cac.jpg?quality=90&resize=960,413"
         width: 960
         height: 413
-        isCached: true
-  - title: "Artificial Intelligence helps complete Beethoven Symphony"
-    excerpt: "The world premiere was presented last Saturday (9 October) in Bonn, Germany, the birth city of the legendary composer. It took two years for an international team of experts to complete the work."
-    publishedDateTime: 2021-10-13T09:42:00Z
-    webUrl: "https://www.euronews.com/2021/10/13/artificial-intelligence-helps-complete-beethoven-symphony"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 37
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/14/37/84/1000x563_cmsv2_e75736e5-e67a-5f4f-b0fa-7b13dd33ba9d-6143784.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Beethoven’s 10th Symphony completed using artificial intelligence"
     excerpt: "Roughly 200 years after Ludwig van Beethoven started working on a 10 th Symphony, it has finally been completed with the assistance of artificial intelligence (AI). Before his death, Beethoven began working on his 10 th Symphony and it remained unfinished until now."
