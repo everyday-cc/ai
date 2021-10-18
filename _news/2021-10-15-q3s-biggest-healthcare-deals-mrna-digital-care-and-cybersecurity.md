@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Query.AI Launches Partner Program to Meet Market Demand for Enterprise Solution that Drives Efficiencies in Cybersecurity Investigations"
-    excerpt: "Query.AI, the provider of the market's only security investigations control plane for modern enterprises, today announced the launch of its Query.AI Partner Alliance Program to help more enterprises access,"
-    publishedDateTime: 2021-10-13T13:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20044343.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "AslBOOjeDW2jljVgix+H+4DICiePYV4P+g2GYo1hiKnR4rPbv6wLr7yPjg1fYevK1ZmpcquxGC5ahIwIiA/m719iQaHHicDYyAsuf8Q/MWJEN6Xxg4zU48L45LWSq4rYWat7esSeZ7a5poS47VdSUni5IUZPnZAzT1uJpaOqI2kBdFv/sBzEemg0Y/UTa32efOzVxDPsUAWsQa2R2onssMuJ5Ts13tF81Rboz8ptMlZFkCnfoMXapo/MB0Gf1zkHByUmQ0IXN6QxWwLWe6RsBwy42N4mTdI6pL+DM4gDGWQ1xD2jv41H8QevHS047LP95yp/NvKPssnl2TaqkNlJPxffKFNscKexWErFD7IvBPY=;GorlnUfe83DVuNHT0dFkmQ=="
 ---

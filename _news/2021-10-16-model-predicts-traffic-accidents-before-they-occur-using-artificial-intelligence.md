@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps to predict traffic crashes before they happen"
-    excerpt: "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,"
-    publishedDateTime: 2021-10-13T13:30:00Z
-    webUrl: "https://techxplore.com/news/2021-10-deep-traffic.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-deep-traffic.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Predicting Traffic Crashes Before They Happen With Artificial Intelligence"
     excerpt: "A deep model was trained on historical crash data, road maps, satellite imagery, and GPS to enable high-resolution crash maps that could lead to safer roads. Today’s world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle."
     publishedDateTime: 2021-10-16T12:01:00Z

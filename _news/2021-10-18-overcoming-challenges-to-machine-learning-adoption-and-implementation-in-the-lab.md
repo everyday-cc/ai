@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Remote authentication space expands with artificial intelligence"
+    excerpt: "Identities can be verified remotely without the need for face-to-face contact with the remote authentication service. E-signature holders will not waste time in subscription and application processes."
+    publishedDateTime: 2021-10-18T06:22:00Z
+    webUrl: "https://www.bthaber.com/remote-authentication-space-expands-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: bthaber.com
+      domain: bthaber.com
+    quality: 37
+    images:
+      - url: "https://www.bthaber.com/wp-content/uploads/2021/10/Bilgi-Teknolojileri-ve-Iletisim-Kurumu-BTK.jpg"
+        width: 800
+        height: 565
+        isCached: true
 
 secured: "n1kD2x5/qo5r2srZjALhU+Lc6fePULldhczzbIczBiA8xVNPCg581l3ZDGCDNMsAo64/8bMy8nT2Jda/8S9dYscIzzqVRmMReuBWcptgsXJtAY6/CZN/8Qpy6xvnCSM30lTNIwij3IxBbflmCRfo/5zVX8q+4x3Z9sulnV1BEnIYuFUhjz5ES6JZNN+2JEJOeWQMG281FWF7qkzzLmMDrrPnN21qPyfK29o7iLYB+IX4iBLQin0vlQA/ugbwxsASzARPcQlQdOIygAS2ZTrXO8kWVeg7jIRs+16mqffPNQ9ryX1AgZDhwjUir9rIs2jCnuvstbEx050WhK3kxqBvcaIKwUVz1nwQtDd0rq2H2m/kh8KICyBWt8biJVLCFc3BGzq7tvwvNvQHjNfgnjbkmYMOhX59qtIhw+SRpGUf/n5UFYKGcBjdZ1hSlqT96RrMzRjlJNPiLh9hpsNPwqrLxisY/0C+dvHgwoa+PCbQ9PayAYiqqU6VOytN7UEISXNPZ1YsAg4vcuGi2UNWPHZnFw==;0Jm1IFIsooNsadKKNYCZFQ=="
 ---

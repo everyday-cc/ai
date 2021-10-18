@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Query.AI Launches Partner Program to Meet Market Demand for Enterprise Solution that Drives Efficiencies in Cybersecurity Investigations"
-    excerpt: "Query.AI, the provider of the market's only security investigations control plane for modern enterprises, today announced the launch of its Query.AI Partner Alliance Program to help more enterprises access,"
-    publishedDateTime: 2021-10-13T13:13:00Z
-    webUrl: "https://www.lelezard.com/en/news-20044343.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "Wqjrb1J/1HXixfw0R54p13HxnMyjFE7mgJoUk/v0DFhYihJF7X9KeZuZ3/Xk/9JxZgFylhVgdWetMWYaS2ewtE30mNmyl1se6ZV3120HqI5nQcL9zmT4+v/HFyYChdx6RWaVWCdwCF2ySTcGUrzJeE9nVKWvOhFVDnZnCod86FPeJK8a0szy6vXl1irJrwL2yEtLcoz71/sFxbTrDy8jFfUeQr0Dq2n5FyyNaRocyzE3oqZChal1On76EVuXXSRJt8xqj3Iyz5Rzmk7iNttWEPjh34M1ASQ8A+hRV696X9a1BuRqpPZ8Ggg0NIuw3q0lLDZMkhY/1F/xdfGB0amAJbMmfYQTmq+HhAux+aNO+DbE6LnmYsoYygs2uhlyu3AR2ndjwEeYlPpzAnVJ1kPZTnkLz/Id2c7V1Tle4s+SSe38TbKlZzAiDr39bbcuV7whRASx5cQ/KTDcm334vyDLUIwjbLk94jMtNAYY4PdL2D1PQrFzu6pq2QPnpLZyZlCngBlga/L8oeQ+O3Hy0idkXg==;MkTW4YIMlRqn4YLntDdsRQ=="

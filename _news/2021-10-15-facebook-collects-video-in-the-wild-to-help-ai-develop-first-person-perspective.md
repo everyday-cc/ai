@@ -140,7 +140,7 @@ related:
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
     publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872"
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=entertainment"
     type: article
     provider:
       name: MarketWatch

@@ -23,22 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Tomorrow’s challenge of Ux design"
-    excerpt: "Today, the Ux design job market is flourishing. The offerings are mainly around desktop software and mobile applications. We can ask ourselves what will be the important themes of tomorrow’s Ux design and where will the Ux designer’s job go?"
-    publishedDateTime: 2021-10-13T13:55:00Z
-    webUrl: "https://uxplanet.org/tomorrows-challenge-of-ux-design-69c8bc5c31b1"
-    type: article
-    provider:
-      name: uxplanet.org
-      domain: uxplanet.org
-    quality: 24
-    images:
-      - url: "https://miro.medium.com/max/1200/0*wRkfnfbtEpNtBV_T"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "NwY5STT9H9rjnE1xFUo6J/6HYbevkko5gGnn+SpVHJPCk7YZ1g+nszka35GCevnF1U6vzeW1pbjQF6jbiXSqh1DUl1oxxNPFUe3oAMwCdTxotDBqFd2Jelz/aNpZPG918dqr8Z1fGdEF89R8bWsF2Qka0mM+4q/Jdu4LRzAQ9/alZC4RwB9M9WbPSOUOKrC/BasnnoCFOTBemKhN06qIqMENpV0qKbktTN3fMv0E9n9H29eIXbOckYBLgW2rQqVgFNywG9dVpLASoJKAlw36+4Qj9tS9u32P4ZJNW4g3Js5ofLM3YIS3xIwF3xo3xBra/xZx5jqVHFbOhkuf3fq738SDZXx/x4xZQCx4UQ4YGaE=;LH6UkhYWbw4rluicIYUXPw=="
 ---
 

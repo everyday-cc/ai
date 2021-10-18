@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-h
 webUrl: "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-home-this-climate-does-not-exist"
 type: article
 quality: 67
-heat: 68
+heat: 67
 published: false
 
 provider:

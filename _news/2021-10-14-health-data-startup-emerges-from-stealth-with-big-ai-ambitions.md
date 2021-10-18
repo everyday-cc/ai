@@ -18,36 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers"
-    excerpt: "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower."
-    publishedDateTime: 2021-10-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/"
+  - title: "Building better startups with responsible AI"
+    excerpt: "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ..."
+    publishedDateTime: 2021-10-14T15:57:00Z
+    webUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg"
-        width: 1200
-        height: 1228
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024"
+        width: 1024
+        height: 716
         isCached: true
-  - title: "Naveen Rao’s startup MosaicML exits stealth with a mission to improve ML training"
-    excerpt: "Naveen Rao and Hanlin Tang have gotten back into the startup game, announcing the launch of a new company called MosaicML today that promises to optimize machine learning. MosaicML is exiting stealth armed with $37 million in funding round led by Lux Capital DCVC,"
-    publishedDateTime: 2021-10-14T00:04:00Z
-    webUrl: "https://siliconangle.com/2021/10/13/naveen-raos-startup-mosaicml-exits-stealth-mission-improve-ml-training/"
+  - title: "IAG-backed research reveals need for investment in Responsible AI"
+    excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
+    publishedDateTime: 2021-10-14T03:15:00Z
+    webUrl: "https://www.publicnow.com/view/7B3EA7A84BDCFC07700902FE98DC0DD6C154C57E"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/959a81cc-48c8-497d-a215-b6bcf7588362_Edit-137.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "1jVbeEkA0+e1olI6zRUtBL3HNRoF373ASA7Fc6/Mg2ycS3KCU1ByB2wjfCTsDqnWawzrNkkeRH7q3VpcutleSdivezOp3IMCMZgeElDw3Wx1ecfjbBIbFqDG+6n4FTw0Q5QNGXvV1daUX2IYriFjjrAnvCQWuyeTvkyYzcDBwlH2tNu+kKByIiaCPUwdWVCSf1yesOgTXYjhM5i2SrCnuF6+2eOVlk1KSe1uMM7Dzo3MlmBQsZiQx+c2SwE9xDBFbANvRdxOY3QwIAb6G3xMdjKygqzjeuIzT9SYGVeZipq5kmw5+T0p6TyYhKfddW/gfpFVjNYM0C2cZUCyNWBuH6pYE6oz5s0fadlsba3W0/E=;YM2RlpXxY6jGpcHjqqJ2xA=="
 ---

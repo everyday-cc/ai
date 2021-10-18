@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/attention-based-deep-learning-networks-could-
 webUrl: "https://www.unite.ai/attention-based-deep-learning-networks-could-improve-sonar-systems/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 886
     height: 600
     isCached: true
-
-related:
-  - title: "Attention-based deep neural network increases detection capability in sonar systems"
-    excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. Researchers now explore an attention-based deep neural network to tackle this problem."
-    publishedDateTime: 2021-10-13T14:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211012154827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
 
 secured: "fUst/oiWyAAaCZFM25fkRc+9yQkd005LcvJjS+zutdX3NbRBVXl2CfkafMfGkKjJgaSYq/wv3dG8uC/DX242p+mBxygCjU8jZ3Cgjfz+vKI7SxJEawND8cKuKRwlw/9/faqxrtC1E4hVFUDuV6YU0wDzE3ThNKMBn5rBt+f2QuNCFNE6htRQj1cxko2RJA0R5oAAVAqUN/KtAQQCwyFY/uGELffkiw8JB8yDahYhwXOWNStJo+BjESrhWjJJ8asqQ8lYV4/Ia9IzlXmm73BuWFYHfsWgyNdhWlqubuaX9vs6UoqxvbBXbN6yMcVxFRNk9WZ7GyDsJBotNXvZ7xuKZx5JeamM8zYXg8PbnCCgSV4/Ta0y1TGKDyfUuU5+nCJLUIELZWkOE6TFp24vW5pbxeMUv96Uj1n9A+SC5UjpIhWzlk13bifV6lV3TvDQh8fzqH0ZFBGrPvsNMX0nZr5Xs0eWpNIZ/Qz2c0zc/zOFh0vN9RElacY1gcLNanIyCjCorz2pvfRvOnV2AfZQ9SWSpg==;zvUVamsPD5M30Gg3nylyBA=="
 ---

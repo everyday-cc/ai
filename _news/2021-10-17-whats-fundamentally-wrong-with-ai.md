@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat
 webUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat-abdoullaev"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -33,24 +33,6 @@ images:
     width: 525
     height: 382
     isCached: true
-
-related:
-  - title: "Can Enterprise Workers Really Work Well With AI?"
-    excerpt: "While there have been many papers and just as many discussions about the value that artificial intelligence can bring to the digital workplace, there has been less discussion about whether enterprises should use AI,"
-    publishedDateTime: 2021-10-13T14:05:00Z
-    webUrl: "https://www.cmswire.com/digital-workplace/can-enterprise-workers-really-work-well-with-ai/"
-    ampWebUrl: "https://www.cmswire.com/digital-workplace/can-enterprise-workers-really-work-well-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/can-enterprise-workers-really-work-well-with-ai/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
-    images:
-      - url: "https://www.cmswire.com/-/media/e6845a71d9114275a05c2fbbfe04d324.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "DdZjf3kpkSWEW/q8J9wXYptvXCkYm9ESZ0mO+DDSQLsW8kjC4Xu9U8PhMMcSjKWFF+Ek5e7TYXPGUGdccb9a0o37qRDws6gwjK5tEupQh4TggOt6+Tm8hfJuMHzs+LULMsZFjhZlbwq14FgPv+O6W+xXMorPaAJXUHmqhb96a3A3YtGNWYLr353iiwrC9F1i4j05bi6Ce0JFbRGvoW68/zllY0pt/NP9UIysFepkE90tMWywvh89LZlABg0P6PZb8t89EpOOzStRZYyLf2yYSUaw8Y1EYRbaTUTjoPBmhhXQc7rZyx5vHqmdQTPGF5vjXc6dPxx9onw5gAMN+/1qTNmzuk+r/bIkBgWuIhcwQBOPYRD4oEYJHmvsPTrY836DPG0OOV4YdGeprL2omvG0OGMZ5GfZjnJtRxgynbTKybI894JIF1wy3KJi72jUkSI5zXtg37zjvgh6XCblqsYqmvcM2mOWW0iF6Wiz5c/1K8UeJ+butJ6iRbfBbhZt4GtDCz53VPoE+GY2Wok4rbQ3aQ==;g3HPGJxYDta5YNY3xVJYFA=="
 ---

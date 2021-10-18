@@ -23,17 +23,6 @@ images:
     height: 390
     isCached: true
 
-related:
-  - title: "Big Phar­ma com­pa­nies join hands with Ama­zon on new Is­rael-based AI in­cu­ba­tor"
-    excerpt: "What do Merck, Pfizer, AstraZeneca and Teva have in common with Amazon? As of Wednesday, they’re all joining forces with the Israel Biotech Fund to launch a new incubator for startups walking the line between AI and drug development — and they’re gearing up to make some big investments."
-    publishedDateTime: 2021-10-13T14:45:00Z
-    webUrl: "https://endpts.com/big-pharma-companies-join-hands-with-amazon-on-new-israel-based-ai-incubator/"
-    type: article
-    provider:
-      name: ENDPOINTS NEWS
-      domain: endpts.com
-    quality: 10
-
 secured: "cNjXYggeNhEzFOXe9tV75chfgdvpNvt6P9albwRwJsZYwEmoyjpP4/gKT2Ybjkn6pCz0kvN2vmZwd3B8vFFz5oga3e/tD61htdUWJzneRqfwmz6JEW93zKoqad2dypZeoyhoKa0cYD/HTvQkcxTsr4XleJkNfEUGmEH3S8BUzI5wv1wZIcdwRxSun/5Nx1Suwix11f85XFaYeOEvHFdZOrinPBf3ySyQIEmPOrEU3sI7IEpqSr92W/uFMGp8qtCkwAy9Tqo+ztC9jjnialWCoP9WjOTmfN8eSoNCs4YJSxbfAKct5+5rHnssOsfhzVz4ifHJVFNkIO8nKQXDrO3BaqK8leYJ3kzal/CZYkMJ7GWhVCKHXKc4M2PX7T7ZEbO8TlfnWWWH/vNLEPjSboUckhPu4qP7Tirqe6bJ11JELQ6roPDheW7PESK6HpWaWibUU9hn+awxnHugpCfHF9vxl3N0XNdBH8h48e3bg0doDFQqSuv93pP46uAUmgnaYXWaNd22Dr0/19WJKqrdXbSr/w==;DK50f5JWesxdjAF/PfQliw=="
 ---
 

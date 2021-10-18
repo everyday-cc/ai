@@ -1,23 +1,20 @@
 ---
 category: news
 title: "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape"
-excerpt: "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings."
-publishedDateTime: 2021-10-11T20:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intento-2021-state-machine-translation-report-cheatsheet-the-/2021/10/11/9466842.htm"
+excerpt: "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ..."
+publishedDateTime: 2021-10-11T22:34:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54171095-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54171095-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape-008.htm"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tCmn5lBs7jCd7kd1Ej4hW1kL1Aew/TYjzE1w8fATGXX7cqwR2d3MUIfNmWHjXMMs/XxQQL36HSKsVH5Q24EcAjmmRsZ0FvTaBojFqcZM+p5B5Rx5Swscv8pN/ms1pQqF/bkHXgz8LZ5kzd9XCPIvgTIB5Odxlzr9Wu8vCNloQVfiEYkqSkb5niHbC2wfBw2rS1AcuF4JnLt1WB2IDYRBcT2GwOZGfBrQ8dcJZl4qOBL/qhicm65LrxDuuE4dsgxRn9617GjUJOqpYXH926wVwZ/JwMzfisMIsuCGuC3cUef9NM6qpMRPeU3TxBXcZWln/yKoixk+UXtCDZBWRHu5fULfQpwVl8LtMx2azqjWm18=;2QQijUF+mQQ8tf+cLWVBIg=="
+secured: "OZbIX4aACN2gE/AsuD863bzufDdCLyu4ZAxwEpG5W0RgooehwrydjkBmcA/J/y9cJ4QlIl4812Xv7PEgAWt2qAkktf5wuZGXCdTE9ZM4PoBOU4pf773LnMNrC+KPQ8lIOlRvbY9IVmWMINY+DlO+GaUadC2yr1nGwq7hBCM8vugViW+4InQNXFRALwjKFljK7AHucTWDwREPOr8vdnXWaJpDipdIsuMc1sa//2Gz/Eoy4UXz52IPlyPQgUg54ClR2MPuFsqoG5YIqZ+1UYb87EzyVO2bg1FjKyOan8Cq/jeLSdLVZgvx7YWr1P3Fb1LWE6074FMZ5e74fTY+A2IssygsY/m8/GdHuMg7+0TsU9M=;k84hkz0v6kuPAZQhfo9Qqw=="
 ---
 

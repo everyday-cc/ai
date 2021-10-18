@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/google-tensor-chip-explained"
 webUrl: "https://mashable.com/article/google-tensor-chip-explained"
 type: article
 quality: 84
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained"
+    excerpt: "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera."
+    publishedDateTime: 2021-10-18T06:50:00Z
+    webUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained"
+    ampWebUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 104
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg"
+        width: 619
+        height: 348
+        isCached: true
 
 secured: "653iCwsg5zEtbwPrLUT/XHtLzsfz862THxmqGMi0JPRYPnnx0b8iGI7i0vzw4RAFdpRq/GwXT6H+3JTDhb3s2MS/hV05+zyn/SF1UZSKBsOv40OYPRihmtg6F887IwY/mavHeMh0+VK1NGgpebZqG/Euft9hKPAoqxKLWq1iys1xWQajd6qAxCZw0MUrvNa1xOMHNlFDw3D5A0ARGfHEavBHl3n4kcKyDbtnbS0c1QXp8VHjt31SEoh0wLt3dmYq83+O2QEOZiLIXiquG7Si9fOfqaUF+MKD9JxEjYiaUIdtRjqoYANKDjGnyOqwYndo+R3z3jCIIvHkmH6wkTrmEu/1Qk78B6lm+s6Chvnt0cEqCopZTDD5I/pAScWhRfhZPC99uOhkmGA5ZWYxjd3dBZl5aCfAGyHyFdoPEOqne+2+mcffHE/eeaMkC5WnliE8qLyKaX1iPuJE6g11mmaQs+LrEaih6IYvdxZN41oYC7Z/ZgMVH/JuYdcsDPySSVeohHJC39yK642nc/P+lxzjzA==;plRpCsX17y+sZpLVnPO3DQ=="
 ---

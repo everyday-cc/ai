@@ -45,17 +45,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI"
-    excerpt: "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
-    publishedDateTime: 2021-10-13T14:33:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
 
 secured: "t6O7pigDlLxqOpG1XSUB2s2l7/usEXGAJvTA7N36sLy+HCfbAPuVOhfTc1HF4OE6RuRodQZDkFgil3G+K8vE+Do5FKlG3g7V3VyHnokPHOroUBT14eIkgzPACbZntq2vKZ4Obe8ulMRdrO+x9s9fby4bJvXH5oKFNfcqxRWuxO15BSEgLYpmF3acrvliDDDNWOdM1h8MzF41pdefn5nl1DlucWCV3R3Zp89c7PHAA3e85FhsOo1aQU09E+lKRsH9/QZlXb+wbnmqdUFNipJVbvR/dJRSsGYWB+6D/cdzTsh9ljWm3pQj1jUhx/WL9DalZ8LW5qmLCGX2seVCjKC8kUTmSc+fAjMPZqjYNSU05c/FS3mzGw1LYaikh3SAj0M2e+f61ZrFQiquJOtJdhL1YDzKSHcQF1n2wv2ZBJ9GnyGzxe8GusQtGAIbrGNHTuxu5N+m/gSYA9yPfxJ8hvWY/cOfBL7bIsDZD3tQYTPGOssRDssWdywM78mPOCDjBNBPeodgHgweAXt1y+K+D9zyng==;aUvh1WH1GdZd+NCNpbVEww=="
 ---

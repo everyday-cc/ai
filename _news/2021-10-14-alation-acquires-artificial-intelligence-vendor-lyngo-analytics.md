@@ -64,6 +64,22 @@ related:
         width: 432
         height: 432
         isCached: true
+  - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
+    excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
+    publishedDateTime: 2021-10-18T05:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
     excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
     publishedDateTime: 2021-10-17T08:30:00Z
@@ -73,20 +89,6 @@ related:
       name: Analytics Insight
       domain: analyticsinsight.net
     quality: 29
-  - title: "Department of State Expands the Use of AI-driven Global Threat and Risk Assessments through a Four-Year Contract with Geospark Analytics"
-    excerpt: "Geospark Analytics, the world class leader in applied artificial intelligence solutions for risk and threat assessment, has been awarded a new four-year contract from the Department of"
-    publishedDateTime: 2021-10-13T13:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20044394.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 6
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Datumcon to Showcase the Power of Video Analytics in Transforming Businesses at its Ai Everything x GITEX Debut"
     excerpt: "At Ai Everything x GITEX Global, Datumcon, a specialized artificial intelligence (AI) and data science company based out of the UAE and Saudi Arabia, aims to highlight the benefits of AI-enabled video analytics to governments and businesses across the region."
     publishedDateTime: 2021-10-14T12:07:00Z

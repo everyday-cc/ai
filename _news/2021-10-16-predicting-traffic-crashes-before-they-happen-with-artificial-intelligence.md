@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/predicting-traffic-crashes-before-they-happ
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/predicting-traffic-crashes-before-they-happen-with-artificial-intelligence/amp/"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps to predict traffic crashes before they happen"
-    excerpt: "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,"
-    publishedDateTime: 2021-10-13T13:30:00Z
-    webUrl: "https://techxplore.com/news/2021-10-deep-traffic.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-deep-traffic.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deep-traffic.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-helps-to.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Model Predicts Traffic Accidents Before They Occur Using Artificial Intelligence"
     excerpt: "Trained with historical crash data, road map inputs, satellite imagery and GPS location a sophisticated AI model can now prepare high-resolution crash mapping that researchers say will lead to safer roads."
     publishedDateTime: 2021-10-16T12:05:00Z

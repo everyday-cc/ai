@@ -50,15 +50,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "InsurTech start-up Humn secures £10mn to fuel expansion"
-    excerpt: "InsurTech MGA start-up Humn, which deploys data in real time for its motor fleet insurance offering, has raised £10.1mn ($13.7mn) in a Series A funding round from backers Shell Ventures, BXR Group, Hambro Perks Leaders Fund and Woodside Holdings."
-    publishedDateTime: 2021-10-13T13:50:00Z
-    webUrl: "https://www.insuranceinsider.com/article/296ju1oqm1h9txz429gxs/insurtech-start-up-humn-secures-10mn-to-fuel-expansion"
-    type: article
-    provider:
-      name: Insurance Insider
-      domain: insuranceinsider.com
-    quality: 2
 
 secured: "OUGDcX1qfFZQo8dN9BISUBWbBZoY6q5tAg82NpR1TIcKjYqnm8NAiGXnQuBQ1+s6LxFWBtRH6YZQ17UtraIcf07obLdniwRZTAJdTtPudIVg5R/1XzHZdR6o4aj1+v3O2dHEGdfdQMu/N3wTlQsJqGTD61bDQI/3nVVoDQNUf0L0+jJN5Djc/f7tCuiaAhx6uZFYRhwmGnvOIfndd7JwDmzFjnozwB6t90fesOWz8lsUBHzL2OdqRjKT/mzaGtbE80UZk3VE1bX+AB1Opei6Bk6kQpg9CrYKUjcGEU63owPCaNd5+nmVykOjbHakxuhUuSACxYe0H0pq3eb9UWyaWBJ7xoJDokRAZLwq+iRulhk=;NNXeVIB/+8+kIfLg84xf7g=="
 ---

@@ -88,20 +88,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "How AI is helping the natural sciences"
-    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
-    publishedDateTime: 2021-10-13T13:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Machine Learning Trading Bot"
     excerpt: "Looking at all three plots, and comparing the two machine learning algorithms, we can see that the Adaboost does better with the training data with 94% accuracy but when utilizing the testing data it seems to underperform the SVM algorithm. Permission is ..."
     publishedDateTime: 2021-10-16T13:57:00Z

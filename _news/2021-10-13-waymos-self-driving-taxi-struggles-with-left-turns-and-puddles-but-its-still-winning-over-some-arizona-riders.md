@@ -2,27 +2,27 @@
 category: news
 title: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
 excerpt: "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders"
-publishedDateTime: 2021-10-12T20:10:00Z
-originalUrl: "https://www.wtva.com/content/national/575511382.html"
-webUrl: "https://www.wtva.com/content/national/575511382.html"
-ampWebUrl: "http://www.wtva.com/templates/AMP?contentID=575511382"
-cdnAmpWebUrl: "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382"
+publishedDateTime: 2021-10-13T15:01:00Z
+originalUrl: "https://www.kimt.com/content/national/575511382.html"
+webUrl: "https://www.kimt.com/content/national/575511382.html"
+ampWebUrl: "http://www.kimt.com/templates/AMP?contentID=575511382"
+cdnAmpWebUrl: "https://www-kimt-com.cdn.ampproject.org/c/www.kimt.com/templates/AMP?contentID=575511382"
 type: article
 
 provider:
-  name: WTVA
-  domain: wtva.com
+  name: KIMT
+  domain: kimt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/WTVA_640x380.png"
+  - url: "http://media.heartlandtv.com/designimages/STORY-IMAGE.jpg"
     width: 640
     height: 380
     isCached: true
 
-secured: "90ODbLWZltmghFuRGwhUebNV2RJB91EzCsv3qtlWiXB5T+QWlzxQZh02pjNOo72ZQ1/hcbWu10OycAyeNBB2piHlV3zyyOMESOwBwmavaJ8jyYVOoLYsBDAn+RTMnFyR2QV0pmOZheimCjfORbIad4ZlRMI3HngrCYuQTOM+YSGPd+Qn8jfo7iBTveV69UnnY3/aoulfRRdHDNZT38x+5/Lpi9LqznFTZEYnHKM/v4++erPfunNKlaun9pDPN8XhQ17spzJfznOcBXXboaENqfb+0aXx0d2cLNoKtIjn/vZiPDFiRzX3bH1yXDkpO+U6eqy1KkwmYnPqwU5JQ9Lgxghz1k5A5NFtheb6etI4xY0=;bBQRkCp7RjJ3PvWaZqV8Jw=="
+secured: "vKJPoYpP5yLcgnlQGFcssAVWYUty3/1nMBXp5NIr2gjoJwE5+nSg6YNTDIAIhe73Jfi9qQGvu9LocvE4/4J9I/InCj/IXEuo2gWcrqfPMpXvZVSRfYlNAVNNAidQjm8Xs8rZWpMgRE5R9t9QZo2g88vWHewQ2BA8kHJmbSHX/kaNPHYxns8f8jgz7g5C6Yq7a9jLqSrlb8NtXNjIAVnx9MTQK/JNU1v7gfZ2IHshKwXM5Jk0xeVKY0Nn9XLwxsZt5U+uINXTrFWY4UWVdGbZuAfYTaBwfvtyfH3jSp3+0zj1qscwFOZAAHAopNOfpFLL/84ZzB9dsrlf2myLD1/m+2rbJDuwauolb+hbgXvjLXo=;FWNy2kMMOUSz3nkrvYdgQQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-dri
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1600
     height: 1023
     isCached: true
-
-related:
-  - title: "Tesla Faces Regulatory Tension Over Self-Driving Builds. The Market Doesn’t Care."
-    excerpt: "U.S. automotive-safety regulators want some answers from Tesla over its recall practices. It’s another example of the tension building between Tesla and the traditional auto industry as cars become smarter and start to drive themselves."
-    publishedDateTime: 2021-10-13T14:24:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51634135014"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51634135014"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-416197/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "9SlOLWw1qWSjxCL65bV9E3ONCQ9dmouKA191QgCoRgBqH9Ehv6n+2q62oAU8/snXtWs5ASyaEWRkM4JnmRb//UCzRmWWfdnjjWk886tYQsyRTNj4zxsQC5A+4EaoJmUvDg+RG1FRpoGoqDfei4AhWpz9dsnKwfPnve2oB9CkStspXMQtNW+VEKZkNvwtcPPtgkJsUFIEXIn7qKHAjcJ+IOUzn8MQzVKmoHqbH8c0b/mREnws+ZXH2HTAwc2H8zKZ3i9YvMKmPIBK25cCTyoAEXx7VcYklz3gvZtT9pRvqev5Dwn6tx+5uurSvqZ4ECXXM460DuMwR3C+58+mG0WAU09PaLH6WLuO95c+2BdrIew=;3zq3Mg1YICThxOZWEC6hQg=="
 ---

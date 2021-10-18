@@ -41,6 +41,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Cambridge firm targets medical robots boom – but will it stay British?"
+    excerpt: "CMR Surgical aims to get into the top tier of the global medical devices industry – if it’s not snapped up first"
+    publishedDateTime: 2021-10-18T05:00:00Z
+    webUrl: "https://www.theguardian.com/business/2021/oct/18/cambridge-firm-targets-medical-robots-boom-but-will-it-stay-british"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/oct/18/cambridge-firm-targets-medical-robots-boom-but-will-it-stay-british"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/oct/18/cambridge-firm-targets-medical-robots-boom-but-will-it-stay-british"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/bd687f789d5daa16f262c4cf285a8380943f21da/210_509_6510_3906/master/6510.jpg?width=620&quality=85&auto=format&fit=max&s=81294cdeb0a92934b2a3bfd184b2b637"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
     excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
     publishedDateTime: 2021-10-15T01:00:00Z

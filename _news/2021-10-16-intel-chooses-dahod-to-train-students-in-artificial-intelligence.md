@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-trai
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ex-Intel Executives' Startup Aims to Tackle Spiraling Costs of AI"
-    excerpt: "After Intel Corp bought Naveen Rao and Hanlin Tang's startup in 2016, their job was to help the chip giant make money off artificial intelligence, which requires vast computing power and had become lucrative for the chip industry."
-    publishedDateTime: 2021-10-13T14:33:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-13/ex-intel-executives-startup-aims-to-tackle-spiraling-costs-of-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
 
 secured: "lzFSAjQo5vxsMOeHMSyhivuvfNWibSCUPI4QjXcOxw1LyxXrQwyHJWVRjdHpY0dxl0EeCM/EzgjgzivLgTy15EVjnPg6/zq5SDCsGJ77ZgOmfrtfXBKo+w/g0Pc756H/wtpHlRsc1Yui6WQDTImw26blcEZ+sRhgy/t0D4VFx6yVqKUrcSdn1RXOA15LXyF5Pi/MZZUYGH5PfPadwvxMCwIe7XaINVQi9L4Tuyukbvj5mJIuaC07fC84L/BVUYtuVjNkAuGcTGQz9ncVg1r/2zQr6FOy27bynhpkvr5/MthQmLWdybbku7GgZoOnWGzwl/BpLHLu30S2g7GCdvlpNDrU7mEwOL/1EG9Co5zLNDU=;b5+qf7v+10dhzsT8MySJvQ=="
 ---

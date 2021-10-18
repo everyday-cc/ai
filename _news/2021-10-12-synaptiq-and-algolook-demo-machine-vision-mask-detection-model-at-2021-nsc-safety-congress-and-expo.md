@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Synaptiq and AlgoLook Demo Machine Vision Mask Detection Model at 2021 NSC Safety Congress and Expo"
-excerpt: "The novel machine vision model uses a deep neural network trained on thousands of images to detect the presence or absence of masks in milliseconds. “As businesses rebound from"
-publishedDateTime: 2021-10-11T20:17:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-artificial-intelligence-health-5d57f6af79ae75148174cea4ffaa17ac"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-artificial-intelligence-health-5d57f6af79ae75148174cea4ffaa17ac"
+excerpt: "Synaptiq, a full-scale artificial intelligence firm creating customized AI solutions, and AlgoLook, an AI product"
+publishedDateTime: 2021-10-11T20:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/g23324205/synaptiq-and-algolook-demo-machine-vision-mask-detection-model-at-2021-nsc-safety-congress-and-exp"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/g23324205/synaptiq-and-algolook-demo-machine-vision-mask-detection-model-at-2021-nsc-safety-congress-and-exp"
+ampWebUrl: "https://www.benzinga.com/amp/content/23324205"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23324205"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "RU+q/G2HePYi+e2yr1XRPMq+ZTkUyDZZmTMHKq1Yrep3CWrZLd8GaRM7lMU1SkutQU0Y76TgEX5uXI19cwF7IyPEhUA4chAGhzy+ThC099aQ7mo6c5zNFbQJmP+yI6gBVqEecDWSCbuScZUkGJYoiqeiXA9EfKU3O6rt/HDpJ3cLbSK4AOQQD7iXV7xF8qYgEnUPmz+qZNiciS9JwgytGayUxQ9VzGA4yAbON+/zDrzgOEIZCsYMvVJ+5+zJlYl/ueTw3+jnsy6fyT3fJLY7nAiWZApzkiCEkBt/yZE8fgjXknkGzpf6GQDVQpPmOy+BzXHqRC+LzL/DYygLJR1ltIoQThv5y4UBxh81BkUmQXY=;/JYzVzXHuQ7EwT6Gx3lzsA=="
+secured: "df98gH1B5NaVhNRTcl63RPafhETaGu5kWLH3n6l9+SDqK645OQuHe7giWJZTBxkmj2E7VpmUuNrge/jTiDu2WmWskKd6cf9mhcFXwR/rTwCEGZqMbxkupwBNHqEmobxPXDXCf2ZqqAt1fvPRs30nOPQKJKi+e/J/A8pRzbQj3Z8otV8Wq8r8RmqX39YoOcEnEHchz4y1gZ/aQSsvZPN+q7BdOw7kmrnj/jszbiJiRhBNV0ZA6kDCsR6vi1VU2oBXsUwfnsKqmUZVs47DzFWByua6TwAJcNyJfPuKjXunKxKZ3P6N3VxL5JJVQy99p9I1MDoFQx9Xt05MHUtO18+G7Pby/gyfe2DRWh0rK/fjsXU=;ECU28PLw89YqfHN/QfRHKA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Remote authentication space expands with artificial intelligence"
+    excerpt: "Identities can be verified remotely without the need for face-to-face contact with the remote authentication service. E-signature holders will not waste time in subscription and application processes."
+    publishedDateTime: 2021-10-18T06:22:00Z
+    webUrl: "https://www.bthaber.com/remote-authentication-space-expands-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: bthaber.com
+      domain: bthaber.com
+    quality: 37
+    images:
+      - url: "https://www.bthaber.com/wp-content/uploads/2021/10/Bilgi-Teknolojileri-ve-Iletisim-Kurumu-BTK.jpg"
+        width: 800
+        height: 565
         isCached: true
   - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
     excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"

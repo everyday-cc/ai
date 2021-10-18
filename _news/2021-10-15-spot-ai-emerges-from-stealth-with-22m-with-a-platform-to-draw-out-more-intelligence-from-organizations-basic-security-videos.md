@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1024
     height: 733
     isCached: true
+
+related:
+  - title: "Azure AI empowers organizations to serve users in more than 100 languages"
+    excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making"
+    publishedDateTime: 2021-10-18T01:29:00Z
+    webUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
+    ampWebUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 73
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
 
 secured: "z3ijvcVX4nznLaRRvXyiYCHEGBssJoW6YY1CCMGTuI7Pl9gtC9vGvqJ7e0v/G4OgRXTkE3zQZdtIkJvOFLBkPQAmRSwqjkoy3nWq5LRLuI7S5Bw85tw0z8mhSm+aPPe39lM2FPnVHjk+157kaBMD4DVIYZy4BSojqCqot64hHejMM9P3GZFZ0wLGVvt4jvrpneDUE9oVSrhJJWLxV2+t4pKpyAuN00bFSembRE9HPpXWpc0QUuJWLdHUbdr6eDbboXOLfyFUZjmfl4I3Sa2QuFR67d5RiPQZoWmJOM+Cz+CFhq990q+WARb/JQmc2lcZ7rSOpOcS+5lIiN1moS9NlvVSw8bloNrDX8tMXhccryqA8bWdfkNkn0gjL9d9R/vpJTY+9lu4sf4UCG1C4BmGrQFoTSfYwJFbjItOHQcDd0tXDROumtkkTNOxSiupf3A9VtK42fvEM8vrnyJnxWslKQU+C2zipVSxVcIgVuPji0R2rHz9U9ANJhNSOgpZKkkkZL7Uk0e71ye9DlOiRgQBng==;pWJG6fzaeS85MQ62TDWcNQ=="
 ---

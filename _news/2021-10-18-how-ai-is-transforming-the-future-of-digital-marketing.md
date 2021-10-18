@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "How AI is helping the natural sciences"
-    excerpt: "Collaborations across disciplines are growing, and artificial intelligence is helping to make joint working more effective."
-    publishedDateTime: 2021-10-13T13:40:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-02762-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-02762-6/d41586-021-02762-6_19745890.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Machine Learning Trading Bot"
     excerpt: "Looking at all three plots, and comparing the two machine learning algorithms, we can see that the Adaboost does better with the training data with 94% accuracy but when utilizing the testing data it seems to underperform the SVM algorithm. Permission is ..."
@@ -206,6 +192,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "NA3gFPf+KH6wJqelsLI5jibxXKn4Ab9CyZLbUDWcV9yuqEQFJaikwCTUMINx/kMs4iLiKOpgfihTjy6w/CEG/olFpXMCNCONS4d82I4fnw/vo4ld2qfgMXqpyvHB0lI+A7F2upOU9rcpwHOknKvHC3jX2eTtUi3B0vHembG4cfMEBJj9kIqNQ0iAp4ajBIR1dMfPV4uuSbdkHayLOby351CIZpLdNvqrBUo/mdvxuIFTPJZSQFcIj7Eu/dpDn6MyNYEBIbDDp6odRAksWoRuI8OKKwYvq32Jkx5thoBvPNvmtR57ADbpIbguDh6XChm/5dg49b02XFjj1PGUmHR8AZHLz6zEpdga2vqCm1yVN/I=;uju8WSk1tPmIb+o5mQxlUg=="
+secured: "sd/lPSebnMrZ9HQUM5a7a/MX2hqbC70hqznkw50V9UTIgFBRY5GztpkaNNGpkRx8kl+nTGRqOepqlDIiH4VZagdGrHa1DHddCap9A3U/AvEg19sVTOAFUshyZGvJGeoXwT3bcs0q59A/BfGmE5cx1rIRyvWMDb2aBkWvykK4WjocZWUWqsdgiQUyoboxbfUHdYM+HxE3777ixPHMlAPyJLE6JCK0G5u5mHqokqNM0B0QPW1zmVWXLSp2u/y8b06mARqfG36DyXQdampAP0Fcsb7LLpoXv3AR57q873IxFkd+r36GEIHtwhFhMFB6VRt7JAmAfjjpD2gGDrWmGyUs1kW72FLAqzGaDcGyWXCGUk5rAddrh2C8stlSJO6GuXBRSG1JQbUng7mlbHrLr6B4aHaRp5IV6B3OU+30uGeipVeMZCo/HAmmMFmIPzUVvh5JacHzHSFjMqavSEPpo2uvddETu1oMlkjkOLGM8D0RKqeqBZ1toMOamC6Fmg8g5hcou3hm91pLaTyTjPHGlMsteQ==;Yo1ArWWCLrhmvx4bpqnbDQ=="
 ---
 

@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fraud.net wins Platinum Juniper Research Award for Fintech Innovation, AI Platform of the Year"
-    excerpt: "Fraud.net, a leading fraud prevention and risk management platform, is proud to announce that it has won the 2021 Platinum Juniper Research Future Digital Award for \"AI Platform of the Year\" in Fintech Innovation."
-    publishedDateTime: 2021-10-13T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fraudnet-wins-platinum-juniper-research-award-fintech-innovation-/2021/10/13/9468824.htm"
+  - title: "FinTech trends for Year 2022"
+    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
+    publishedDateTime: 2021-10-16T05:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1658863/Fraud_net_FutureDigitalAwards2021.jpg"
-        width: 766
-        height: 400
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
+        width: 1276
+        height: 542
         isCached: true
 
 secured: "F0TSY7C8AZejcizHY45VTi88KkonVGn3ie8dvCO12ejp4NcWX9BFlOss3CNjS/jNzTzHS1uciD2QF/LSQO/wwulHUjtFyAtF7KgKEcn6CHP9FlIaXRx1uTkJgM7i/gJ0YEjs3gKjf1xJd/cM1R38VWigr3R9NCFk3v61eLtNertPX3/gMuz1om/qT83HZS27wZU1yJTEapGCTBwXZqSaslzWw//BDETufk9uaSJ++uVo5YKggQQC87e2gKfoYtYWn3C3QrggPNuj9QWxvogGnHHZ130WheQrqHluYOngNftZUn0dlXiPSKmR894xFTWK6SoOCZ/JzhGyoVpovWI22SERVRHx6rSUZ82QblCqp4A=;2kdMB0E52n+dX9d5U30rIQ=="

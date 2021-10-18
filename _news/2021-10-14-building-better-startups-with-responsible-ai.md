@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/14/building-better-startups-with-resp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 19
+  - title: "Health data startup emerges from stealth with big AI ambitions"
+    excerpt: "A new healthcare data startup from two founders who met at genomics giant Foundation Medicine is launching today with the goal of using AI to take on some of the daunting challenges around medical data."
+    publishedDateTime: 2021-10-13T18:18:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2021/10/13/health-data-startup-emerges-from-stealth-with-big.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "ACi3c1zIEC5DhIOcy831Or6+4oMlbhPEieDz3YsaQT5UPhwKl8uMAi4a70hLQJcZFD/10ZS31IBSvIGKWnHNnTP3+B1m2aXUwvv/o/fDYEweZQnShZBBBCtTXhXpTWcCR70aVsFdOw66FTpZOHDCWNBBojjks9VPyyV5tBEGO8lkVavA5+SeLCpELw2h5IhZTIu3yX2tXq+NBAUbZ9j38lG/e5GlqDQNdWOC/ykWWqnZokms+q9rRZo0iKPi5KJpVQxJcZW9wLUSjtnutKh+2KffDwgjwCsoBA3glhLRQsbrc7uAVqJFXxYLAV550NCYJHyQpb3c/uJCcno4ycNwqbre/LSIIS3/72rEc9znQMfUjD1KXqq5YKYeax07GnIbxJdSyx//MVYBVrPT+BAaRbvlHIjObWfCwhHoJjzcSUsnS+HxzWKGdFcwTYfOaIm1bVHXdd6lrjKHgXTAMZmmbAtsH6qH1c/58a8ghM5Xu1POKqljFnSdHXk3jn5rOd/z4TVwP/O5flTOsN8QttSo5A==;bLS9snnIedRuksw+Gpf3Qw=="
 ---
