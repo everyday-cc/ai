@@ -7,8 +7,8 @@ originalUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_fina
 webUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science 2.0
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
-    publishedDateTime: 2021-10-14T18:09:00Z
-    webUrl: "https://www.ucdavis.edu/curiosity/news/facial-recognition-cameras-other-tools-used-police-raise-questions-about-accountability"
+  - title: "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition"
+    excerpt: "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content"
+    publishedDateTime: 2021-10-18T19:53:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 45
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "UK experts condemn government facial recognition use, invoke threatened oversight role"
-    excerpt: "Their criticism included reference to the Biometrics Commissioner’s Office and trials the Surveillance Camera and Biometrics Commissioner oversees."
-    publishedDateTime: 2021-10-14T17:33:00Z
-    webUrl: "https://www.biometricupdate.com/202110/uk-experts-condemn-government-facial-recognition-use-invoke-threatened-oversight-role"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/ML-4838-image001.jpg"
+        width: 1230
+        height: 422
         isCached: true
 
 secured: "Uswj5A7rOqFiPxCmBnYt4tc5sLo0k0cqolL1pf/62/c4n1WEAg9oy8FpZR/M6vZFtQEav/X1V2zBeE1thh8P5O8BKr3WQEF9FQHPO/bCMbrfhv1c4O9Qy9uj4jiTBgiPucATPB3YUV6Pc7rcx362VQRVommbHT3jgkqQCNvBzXoh5vTej/9cSwbh+5PQoleWF9bDde+71aVeEBl/CGdTQF1GycPZPz8T0DWTvGoj8+TLKE15mk3QicjpXm8jB3+3ZLIoNLexoPXtnjWFltz4hdLvjDWFro4P/2LaeK3yGrnZpaA/qpzdKtU69KxD7hhVuarvGNb5ZJowcjD4UH/fQCdKZxtmcW2OYtZ55KOz0rILcQIDWsdj2Yo0JPIaBRYPhPvNzyQQXemgcbZ6ehwmpi9CIBJ2hbSQNIE7aXb8tWGKkMd1uJA/i0v4oT+y3lrUMfIPV/PAv6xBmcxOKaO0QDk20Jb+UxcZjX8Tex+kezkUXoQqsnUozXbzv+OOfVeb9IztO2MH7A6m9+Wm7sEiww==;J1W1IfG4YD7nVO3QC5Fy0A=="

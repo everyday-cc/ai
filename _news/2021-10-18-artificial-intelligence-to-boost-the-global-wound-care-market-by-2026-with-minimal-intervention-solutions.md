@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-excerpt: "Frost & Sullivan's recent analysis, Global Wound Care Solutions and New-age Technology Growth Opportunities, finds that participants in"
-publishedDateTime: 2021-10-18T16:33:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions-867200921.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions-867200921.html"
+excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
+publishedDateTime: 2021-10-18T07:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+ampWebUrl: "https://www.benzinga.com/amp/content/23411620"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411620"
 type: article
-quality: 22
-heat: 22
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i1.ytimg.com/vi/AVVcwLr30F0/hqdefault.jpg"
-    width: 480
-    height: 360
+  - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
+    width: 593
+    height: 400
     isCached: true
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: newswiretoday.com
     quality: 0
 
-secured: "/EDJdo1h7h/qNA3NGxzIiI+M01EBMiPVL9R1m0P55HoXEMqCSjoul/ZhPfa/bgvahpm9lVze93jG9CDTZlFRurXSL99ATiukfrB2eCMY0cuiT+27OHImphfeGpeGOuVhiB7C4ew5v2MM7rJe87c8h1H5IezDif6eijnWgUJdFXosrfM8Q31340ZvrVAOS+75i0tBCRpMW+kZ4uT2INbVktZewVUn0BqcTi2PGr109ELw+RxU8x0gsRpck5NqVTZZnFU6FbugtpuuTJ99Ub08P5D6TWEcBteCyt76db0IqJzJ1Dnqq4thwZjjf4X6HR3oWKkb6JQdO0OoWWNtkyuNFQwbdSC7sPkaggRGaKDnZ50=;b850UhTQB5nT+4DzQxFsIw=="
+secured: "2AAgzMO1gx70MkF1BP64JlKjV9u7oKOvPilHZnRbni8ty2GdMd4lrK6eT1vdDG2MkyGu6mTdBOwGCCaiciIs0GK0mNdvCAQOq2wSNUfI/d5torWKnb9TDyHQAnSOZhT4QUKt3kJWQxQeEA2onrfAU2RrEkJG50M0ZgssdQe+aJEFDWenag1+YppvpLgedIeaqCLGkeLMCROH2PlWjfS/Lt3IMGkDXvTeonv0fyyLt++ezZJ7a9rzNK7zWBRoGS7Dle8M/gDW7wQEokHIXTN8E0/QltbX1NqVZgPvaxzLrxJiIlyZGwjDQ9RyuEItE71Hd4qL7QuXWto6tpq4WT2d+cVoJpQ+6dajvi/pyyj64aA=;mKo2wiOsRLzl56qU8Tuj2Q=="
 ---
 

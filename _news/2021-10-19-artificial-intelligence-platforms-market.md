@@ -116,20 +116,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A Role for Artificial Intelligence in Educational Futures?"
-    excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
-    publishedDateTime: 2021-10-14T02:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/role-artificial-intelligence-educational-futures-paul-haras"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE8nY5QNE2iug/article-cover_image-shrink_600_2000/0/1634179727035?e=1639612800&v=beta&t=YiBzq1zehqVrdTNCFYniRLIx8-rd4YCkYweDMFdL8-g"
-        width: 612
-        height: 326
-        isCached: true
   - title: "Spot.ai - The Future of Video Intelligence"
     excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
     publishedDateTime: 2021-10-15T16:32:00Z
@@ -233,6 +219,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "xjLBEjQlYPVLCq1+akka/FfWVMeMIiLpgZaEQ0h95SWLdYXJJUFyZr3Pn4TLY6JGTJOB1yF1AsnW1qfNtPhsv/lUmqETbQEc1IE20EkgcDSGeeqQHOXUtODm7sxgVDM8IMJc5bplrnJsI63vReEpu/IUkAmusRZHyAXnQ6jT5cGqeaACWzK32DE470phsq7KIOkQKfqcD5RnSEgLA6sNx9dU3lQ7WlPvemjWoj6Q0EkQs1YPmvfzu6ZW2DF8ZeSqNpz6ASCTAsFOITZzl/qHD82RAnmIFDQNKIlczFpgOBlkJ6zpzZhvcMrrM0bIf2J6Dlussq6du8A/nrlopGMpjvZ9B5Q8ffb/O6GCIwJgPIs=;4IDDLQyrIZ6qAs5jHrxW/w=="
+secured: "oJHS3xUsmlYJS+gZ3W9y2hmgKvbmORzuS48qfu5JioZnt3pkvpOz5iSfJfmOziSpsK5YsO6+edxHXILUwZK4thDwJYIcbvGF4y6v2HyKxHjoi+WqRQXb3YitJIfKxHMENCMExSHsUiLaQqO+JVl5459AZtkGxOAF18lFEsJrJ9ZHZRUTgdEAnVBEmv5dyn/LXTNtuYHv54yDGfrw99N1DtOfLkC/ENSoDsJMlSdr+Ibta10jkG75dPoPY/vRaGC4c4D4KAj9+FMyzLA1loYURpUJiC+dYGxgC8D9KRPfECw+oVXkTrtVV96+9u2Z6Du69EivMEbZ+KKow3EU5ycISkSj0Gps5/rSHBZrQQL/ANt+B11B4AnOYtXmtDbGooURs8PC5NNmxQV3qXkB6NGXnyYGSq0YbnrEQq+J/eZIQKcaceXEYe5pG3bEETWa29LOr/RSEvaVwfO9uHnpd19B3Cyhg7py/n7c2E68pEgAtQ1jD5bp0Css0SiP7X3ZKI2cvfZkkjcTzvY3CGzcVZCdCg==;FaW7aucK8cK+EXEw3SUtmw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/uk-experts-condemn-governme
 webUrl: "https://www.biometricupdate.com/202110/uk-experts-condemn-government-facial-recognition-use-invoke-threatened-oversight-role"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1920
     height: 1005
     isCached: true
-
-related:
-  - title: "Facial Recognition Is Finally Raising Questions About Government Accountability"
-    excerpt: "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,"
-    publishedDateTime: 2021-10-15T21:44:00Z
-    webUrl: "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 50
-    images:
-      - url: "https://www.science20.com/files/images/police_cameras.jpg"
-        width: 494
-        height: 322
-        isCached: true
-  - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
-    publishedDateTime: 2021-10-14T18:09:00Z
-    webUrl: "https://www.ucdavis.edu/curiosity/news/facial-recognition-cameras-other-tools-used-police-raise-questions-about-accountability"
-    type: article
-    provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 45
-    images:
-      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "OhyGACJOBXa/M09Y2GaC/SmVIF+WEwiIUlTFCAFxJmA56bill5PXNmr5cCt+n349iEfuq1PjX4d/tA3FZpQE82XYhRwF1wHm+aiU17KuCTsKCGzom4U53yQmgfq2rZ44rp/u2SaSle7SgPZ2SGZ4+EAr37vOZw0WPX4cJAys+AS5FtrG0/m/t1MaZ8j1uuVQ9ZHehBKG3M6p0eoqSwhoQuBjwgVJHCrUk7nmMkIO3CIsfX5dn/NaVeR1uYqMrQPQAVd11fbfwWu4mqYg+zxVFjQJcA8jU82v/GYdWVpn5Ch5/pLFqAw22YAKGHQv2V53XOPj84rME8/3bLaKzStbaMK4fZpfdHE2ryrDHqdSWpwcerwjctrJJ8giSXN15bEIaLgIfSMM7n/XvP0l/k3EHvirGc2EuXwhUraWf9hrvAvBFqjMv/5i1fg7WNGB2a3xpMYWznx8MGLCDQRhDE8Z040J7o9JAHIrG+jv0uiXjfzijrS9I6tp0LdKtjjfWuej5f9KMF2CPiJuyoPDUb2R4A==;ayDm1XPe0Cjpc6CHqJsUsQ=="
 ---

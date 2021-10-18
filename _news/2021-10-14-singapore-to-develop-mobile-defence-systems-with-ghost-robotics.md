@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-to-develop-mobile
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/"
 type: article
 quality: 184
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore must take caution with AI use, review approach to public trust"
-    excerpt: "Multi-ethnic Asian country needs to take special care navigating its use of artificial intelligence in some areas, specifically, law enforcement, as well as recognise that fostering confidence in AI requires establishing public trust in different aspects of its society."
-    publishedDateTime: 2021-10-14T01:18:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-must-take-caution-with-ai-use-review-approach-to-public-trust/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 70
   - title: "Singapore patrol robots stoke fears of surveillance state"
     excerpt: "Singapore has trialled patrol robots that blast warnings at people engaging in “undesirable social behaviour”, adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns."
     publishedDateTime: 2021-10-15T05:04:00Z

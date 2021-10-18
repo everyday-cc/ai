@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-09-17-computer-vision-dev-platform-roboflow-raises-20m.md",
+      "title": "Computer vision dev platform Roboflow raises $20M",
+      "excerpt": "Roboflow, a Des Moines, Iowa-based startup developing tools for building computer vision models, today announced it has raised $20 million in a series A round led by Craft Ventures. This brings the company’s total raised to date to $22.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
+      "originalUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/16/computer-vision-dev-platform-roboflow-raises-20m/amp/",
+      "publishedDateTime": "2021-09-16T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-ingressio-time-and-attendance-app-features-voice-biometrics-from-id-rd.md",
       "title": "Ingressio time and attendance app features voice biometrics from ID R&D",
       "excerpt": "Software development company Ingressio has released a new mobile time and attendance app with voice biometrics capabilities supplied by ID R&D[.",
@@ -1082,50 +1134,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years.md",
-      "title": "Artificial Intelligence (Ai) In Education Market Rising Demand, Growth, Trend & Insights for Next 5 Years",
-      "excerpt": "Latest published market study on Worldwide Artificial Intelligence (Ai) In Education Market provides an overview of the current market dynamics in the Worldwide Artificial Intelligence (Ai) In Education space,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "publishedDateTime": "2021-09-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-09-23-openai-unveils-model-that-can-summarize-books-of-any-length.md",
+      "title": "OpenAI unveils model that can summarize books of any length",
+      "excerpt": "And Facebook is reportedly developing an AI tool that summarizes news articles so users don’t have to read them. OpenAI’s new model builds on the company’s previous research, which found ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/",
+      "originalUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/amp/",
+      "publishedDateTime": "2021-09-23T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
       "title": "Opinion: How artificial intelligence could save your life",
       "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
@@ -1103,49 +1155,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-fintech-zest-ai-becomes-a-cuso.md",
-      "title": "Fintech Zest AI Becomes a CUSO",
-      "excerpt": "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/",
-      "originalUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/07/fintech-acquisition-e1564581828696.jpg",
-          "width": 620,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1",
-      "cdnAmpWebUrl": "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1",
-      "publishedDateTime": "2021-09-22T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Times",
-        "domain": "cutimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence helps to find new natural substances"
-excerpt: "More than a third of all medicines available today are based on active substances from nature and a research team has developed a procedure to identify small active substance molecules much more quickly and easily."
-publishedDateTime: 2021-10-14T22:37:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/10/211014131201.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/10/211014131201.htm"
+excerpt: "More than a third of all medicines available today are based on active substances from nature, and a research team from the University of Jena has developed a procedure to identify small active substance molecules much more quickly and easily."
+publishedDateTime: 2021-10-14T18:42:00Z
+originalUrl: "https://phys.org/news/2021-10-artificial-intelligence-natural-substances.html"
+webUrl: "https://phys.org/news/2021-10-artificial-intelligence-natural-substances.html"
+ampWebUrl: "https://phys.org/news/2021-10-artificial-intelligence-natural-substances.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-natural-substances.amp"
 type: article
-quality: 47
-heat: 47
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-secured: "fniqW8h4ouy/09EnlTmMoK4N6IOeRcbA+AJOIdXHdy4ck3DTfNUVlJs1Pq6MWG8kNDCH2xXuYFRNXODXQiCLb5yLkT95UmVM4D3aomU1MW1tP2gII+g9YQVr8PoGMZagZggnG5KVx7+xA8firKyU2ofnm7yFjEUUXCMUdEdZJdsC3SuXTVgyAK8AnBc907IesW2pQtrn2URdtSDQwlfiP9e1KL37PVVJJVQ8uZjlgi8qGgXZzt3PR1rUdjKHxOX8KoQFIn/LXXgRta4onoQMJLHd+Psgx9TGphx1nAqsxOQkiJ9bSH/CW491AlqFxbj4ZPYfcDjvba+t+glGLqA8opXLmdSkx09+fZQ4W01eWDQ=;Ifa20lt2Vt66OMfzqbIRFA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-41.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "dzM3mjWdPDNdbS862igEzNuiGHmvhz/bdg/S/Es7lvacgw8pnmZ7HVcEtBcjUnVKo/yYSj7WZpz2uL1s/aSsoS6U0N9+PH/D2R6kKh8sdjS2n2ZPzJ/fFR1idu3ugAtHxLCRYDmur/XLRF5nls0PlaLyfFmMJbXLqU3NaMnCM+LzIvMsgXVQnySoeiHcoXuOetlRFlm/PfUMXhsYqmGWCNF9kCFN+mYCqvVduHGGUeYXiQjWxNUl2JJFs3XnEVQ4ENx4+N8eh2jF9pAck0DonCjdtqXAiHjDyULJdlCvJOfWE2lfDMfFmYXyDe7J7/mhYa/0g8pS1vH+lBkK7CB6TN+lDLJ+Mq07UqEcxRO8SlI=;0EU+GyVhq8TgyrrnGAXnrw=="
 ---
 

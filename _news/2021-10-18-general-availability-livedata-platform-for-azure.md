@@ -7,8 +7,8 @@ originalUrl: "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_414
 webUrl: "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: sharesmagazine
@@ -33,6 +33,15 @@ related:
     provider:
       name: KKTV11
       domain: kktv.com
+    quality: 34
+  - title: "WANdisco Announces General Availability of LiveData Platform for Azure"
+    excerpt: "WANdisco, the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an Azure-native service offering for migrating or replicating your data across disparate analytics systems."
+    publishedDateTime: 2021-10-18T19:31:00Z
+    webUrl: "https://www.newswiretoday.com/news/176454/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
     quality: 34
 
 secured: "ciyYuSOM5Bf1uEaOeDTVjcEkyo+jxRxvlF5pidm67agRvBxPf1MX4CCVqlMyjC3JiHDuQ3XVZWdXrcfrJkhgGrhw4IEOA27AjyXU72EiJxK4IZVNxgHntlbnyeUUBzKqmvJXG2mj5WdUB7o+fKtVbBrJLibfHY0Hdvw7QRS/W0n0nDtPyjtX7OYTumG/EJMKOdX4kuGqFouyKR+7srJWFjAvGOTY0RydeGFoTSC/0eXFXoCQE9zZdDvpPljm+JMYRyTsJVFtLinC4VkceidUJP14sNHkgqvbK/MOQanA6QHJEsXsZFZYBs0MfQ/dnHSZoBlk7xYrLuQreUxjhbEPn4OlBxwEdymWgG82Ee0jCkY=;yHPiF3sIPunM4SdCS55pKg=="

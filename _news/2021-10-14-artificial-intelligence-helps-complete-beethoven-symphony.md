@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/video/news/artificial-intelligence-helps-c
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://images.financialexpress.com/2021/10/Beethoven.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How an AI finished Beethoven’s last symphony and what that means for the future of music"
-    excerpt: "Computer scientists have teamed up with historians, musicologists and composers to teach an artificial intelligence to compose like Beethoven."
-    publishedDateTime: 2021-10-14T03:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/"
-    ampWebUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 50
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/10/bi-210806-beethovens-unvollendete-crop-f789cac.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
         isCached: true
   - title: "Beethoven’s 10th Symphony completed using artificial intelligence"
     excerpt: "Roughly 200 years after Ludwig van Beethoven started working on a 10 th Symphony, it has finally been completed with the assistance of artificial intelligence (AI). Before his death, Beethoven began working on his 10 th Symphony and it remained unfinished until now."

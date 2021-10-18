@@ -33,6 +33,15 @@ related:
         width: 800
         height: 315
         isCached: true
+  - title: "WANdisco Announces General Availability of LiveData Platform for Azure"
+    excerpt: "WANdisco, the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an Azure-native service offering for migrating or replicating your data across disparate analytics systems."
+    publishedDateTime: 2021-10-18T19:31:00Z
+    webUrl: "https://www.newswiretoday.com/news/176454/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 34
 
 secured: "xFQvf9gUNWuKaWlzuCWXxfMlA9kOfafMZ7ABwIKY3vAMIlSKegiPZY//R4e/YrOQRStP37Fqx1QrNX7tNTZH1DxfgdufVOTywOeyvdlOnmYook16qKgt34bRSGbM5I+rPKp4P8z8CaGHllEX8uS4GDMaaCLv+0Z8FAGBoKRdz/Mkps+ttHtK0yBHwO0yi/UiW/96dWpUYWIK8fqs5ZVUJPfGmKIRY3Nd+4n4y75ZtRZIEpROqNX/3pVsNR8134Jf10sKBCw+jKd62TZNcnScTF+WVv3IcDaOhSNX2r9Eo4Yg0wfuAim1lyL8cBHxrtV0kOBoIt81+JZEWpnjX8ezQZMqHL+ubRMlouaCGl0CVUc=;fdMzvlHZTwwOaDDWmrz6ag=="
 ---

@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How an AI finished Beethoven’s last symphony and what that means for the future of music"
-    excerpt: "Computer scientists have teamed up with historians, musicologists and composers to teach an artificial intelligence to compose like Beethoven."
-    publishedDateTime: 2021-10-14T03:00:00Z
-    webUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/"
-    ampWebUrl: "https://www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/news/ai-beethovens-symphony/amp/"
-    type: article
-    provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 50
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2021/10/bi-210806-beethovens-unvollendete-crop-f789cac.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
 
 secured: "sFCGFFy/3/EVW3eg1Hs/2buicfpZs0xIus3Pf7TRevRDNLtXEELQpDSXP6tKWN6reqJZWNaLkFrUC00pcOn+3LexRkMACQVsPzjrtaIU2pyz2MYLDcmCz2tJPTCowa8RLJWPzdrso9GGUE8Z7zYhXJKiuIspVkawyxCmyz9+mKWuev991ZKq8I5Zl2c1Ro0wztEU+YmwBrpleVWQiJt4TS+yk6zrdJKoInkoek4xYvj+HY8G4ys/geFJk6mcxaGaFZO9SCIpmR2mvf5AfgP/2T4IFVEzLScVeh5EC5FzaMRQNQKOaC/ezN4PMBzM5woB+G/WEwg9fhbaU5thzfs39ymjhH5GsBLI/N37c3gjnjJQ9JZFMSwXkcEiu6GZJ+RH2BXCdPDh4AuV/uZjVI3Tbj+zxL06ooVF5FRpuXYEOM7QcgaTKL1lXlTXy6G8NGWRY/rI0ckCa6vz22Cge4KjYmLwqM+aDo9fdfDnKwN7UYTweCHdBz2ZHyOl6/kpj8egch2dt+yGhhdtkNjOk8rkIA==;vuIUUQB1B/NI8gH0fr+hlg=="
 ---

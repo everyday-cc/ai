@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-10-01-salesforce-adds-more-go-go-to-einstein-ai.md",
+      "title": "Salesforce Adds More Go-Go To Einstein AI",
+      "excerpt": "If automation-driven on-screen bots are still annoying, automation and Artificial Intelligence (AI) can still provide service-centric organizations with a boost… and that can be a human-delivered machine-powered boost if it’s done right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61572d8b4893d2eacb5a4574%2F0x0.jpg",
+          "width": 640,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
+      "publishedDateTime": "2021-10-01T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-01-ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study.md",
       "title": "AI used to predict which animal viruses are likely to infect humans: study",
       "excerpt": "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers.",
@@ -1131,59 +1182,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-serve-3000-deep-learning-models-on-amazon-eks-with-aws-inferentia-for-under-50-an-hour.md",
-      "title": "Serve 3,000 deep learning models on Amazon EKS with AWS Inferentia for under $50 an hour",
-      "excerpt": "More customers are finding the need to build larger, scalable, and more cost-effective machine learning (ML) inference pipelines in the cloud. Outside of these base prerequisites, the requirements of ML inference pipelines in production vary based on the business use case. A typical inference architecture",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/serve-3000-deep-learning-models-on-amazon-eks-with-aws-inferentia-for-under-50-an-hour/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/serve-3000-deep-learning-models-on-amazon-eks-with-aws-inferentia-for-under-50-an-hour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/13/ML5291-archdiag-1260x487.png",
-          "width": 1260,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T15:48:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
