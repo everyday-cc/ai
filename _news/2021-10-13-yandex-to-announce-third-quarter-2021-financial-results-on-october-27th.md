@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "EQS-News: Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
-    excerpt: "Yandex to Announce Third Quarter 2021 Financial Results on October 27 th. Moscow and Amsterdam, the Netherlands, October 13, 2021 - Yandex (NASDAQ and MOEX: YNDX) today announced"
-    publishedDateTime: 2021-10-13T07:00:00Z
-    webUrl: "https://www.boersennews.de/nachrichten/artikel/eqs-news-yandex-to-announce-third-quarter-2021-financial-results-on-october-27th/3255081/"
-    type: article
-    provider:
-      name: Börsennews
-      domain: boersennews.de
-    quality: 19
-    images:
-      - url: "https://www.boersennews.de/images/social/og-image.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
   - title: "Expel Managed Detection and Response Now Available on AWS Marketplace, AWS Detection Virtual Summit Planned for October 20"
     excerpt: "Expel Managed Detection and Response (MDR) is available for cloud security customers to purchase through the Amazon Web Services (AWS) Marketplace."
     publishedDateTime: 2021-10-13T12:55:00Z

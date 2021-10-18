@@ -54,6 +54,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Deep Learning Market Size, Outlook and Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
+    excerpt: "The report analyzes the major players of the Deep Learning Market by inspecting their market share, recent developments, new product launches, partnerships, mergers or acquisitions, and their target markets."
+    publishedDateTime: 2021-10-17T22:23:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-market-size-outlook/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-outlook/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-outlook/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 58
   - title: "Supervised Learning Market Trending factors and Growth Drivers Influencing Globally | Microsoft, Fair Isaac, IBM"
     excerpt: "In this research report we have tried to determine market size revenue breakdown by key business segments and end use applications the report uses a combination of quantitative market statistics and qualitative analytical information The research covers historical data and"
     publishedDateTime: 2021-10-16T09:40:00Z

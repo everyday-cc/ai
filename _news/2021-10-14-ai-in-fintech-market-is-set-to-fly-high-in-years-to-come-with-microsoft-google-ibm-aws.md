@@ -39,20 +39,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Microsoft Translator Can Now Translate More Than 100 Languages And Dialects"
-    excerpt: "Microsoft says that its Translator can now make text and information in documents accessible to 5.66 billion people worldwide."
-    publishedDateTime: 2021-10-13T05:46:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-translator-can-now-translate-more-than-100-languages-and-dialects/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/Microsofttt.png"
-        width: 1739
-        height: 831
-        isCached: true
   - title: "NVIDIA, Microsoft Introduce New Language Model MT-NLG With 530 Billion Parameters, Leaves GPT-3 Behind"
     excerpt: "Earlier this week, in partnership with Microsoft, NVIDIA introduced one of the largest transformer language models, the Megatron-Turing Natural Language Generation (MT-NLG) model with 530 billion parameters."
     publishedDateTime: 2021-10-13T07:30:00Z

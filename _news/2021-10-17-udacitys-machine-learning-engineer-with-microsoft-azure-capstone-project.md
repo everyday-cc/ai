@@ -7,7 +7,7 @@ originalUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

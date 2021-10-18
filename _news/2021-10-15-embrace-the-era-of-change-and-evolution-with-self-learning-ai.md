@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -71,6 +71,34 @@ related:
     images:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
         width: 1200
+        height: 400
+        isCached: true
+  - title: "The challenges of regulating AI"
+    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
+    publishedDateTime: 2021-10-17T23:08:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
+        width: 848
+        height: 565
+        isCached: true
+  - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
+    excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"
+    publishedDateTime: 2021-10-17T22:06:00Z
+    webUrl: "https://www.labmanager.com/insights/overcoming-challenges-to-machine-learning-adoption-and-implementation-in-the-lab-26870"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26870/aImg/49310/scitara-data-istock-1800x900-m.jpg"
+        width: 800
         height: 400
         isCached: true
   - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"

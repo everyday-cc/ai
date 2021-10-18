@@ -10,7 +10,7 @@
       "originalUrl": "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -207,49 +208,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-17-facial-recognition-cameras-arrive-in-uk-school-canteens.md",
-      "title": "Facial recognition cameras arrive in UK school canteens",
-      "excerpt": "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "originalUrl": "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98774f15-08c3-4a94-8627-5a8929df882d.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9",
-      "publishedDateTime": "2021-10-16T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-17-udacitys-machine-learning-engineer-with-microsoft-azure-capstone-project.md",
       "title": "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project",
       "excerpt": "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,",
@@ -258,7 +216,7 @@
       "originalUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -440,7 +398,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -663,6 +621,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-16-facial-recognition-is-finally-raising-questions-about-government-accountability.md",
+      "title": "Facial Recognition Is Finally Raising Questions About Government Accountability",
+      "excerpt": "For most of this century, anyone in London has been photographed and filmed an average of 300 times each day. Their reasoning to start such intrusive scrutiny was that England, Wales, and Scotland led the developed world in crime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
+      "originalUrl": "https://www.science20.com/hank_campbell/facial_recognition_is_finally_raising_questions_about_government_accountability-255715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.science20.com/files/images/police_cameras.jpg",
+          "width": 494,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science 2.0",
+        "domain": "science20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-sorry-former-pentagon-expert-but-china-is-nowhere-near-winning-the-ai-race.md",
       "title": "Sorry former Pentagon expert, but China is nowhere near winning the AI race",
       "excerpt": "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI.",
@@ -775,7 +776,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-brings-the-climate-crisis-to-your-home-this-climate-does-not-exist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1128,7 +1129,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {

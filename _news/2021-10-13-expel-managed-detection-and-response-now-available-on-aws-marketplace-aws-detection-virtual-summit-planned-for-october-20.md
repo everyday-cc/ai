@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "EQS-News: Yandex to Announce Third Quarter 2021 Financial Results on October 27th"
-    excerpt: "Yandex to Announce Third Quarter 2021 Financial Results on October 27 th. Moscow and Amsterdam, the Netherlands, October 13, 2021 - Yandex (NASDAQ and MOEX: YNDX) today announced"
-    publishedDateTime: 2021-10-13T07:00:00Z
-    webUrl: "https://www.boersennews.de/nachrichten/artikel/eqs-news-yandex-to-announce-third-quarter-2021-financial-results-on-october-27th/3255081/"
-    type: article
-    provider:
-      name: Börsennews
-      domain: boersennews.de
-    quality: 19
-    images:
-      - url: "https://www.boersennews.de/images/social/og-image.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
   - title: "Enova Announces Date of Third Quarter 2021 Financial Results Conference Call"
     excerpt: "Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the company's third quarter 2021 financial results will be released after the market close on Thursday,"
     publishedDateTime: 2021-10-14T15:16:00Z

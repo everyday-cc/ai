@@ -106,6 +106,36 @@ related:
         width: 5000
         height: 3334
         isCached: true
+  - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
+    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
+    publishedDateTime: 2021-10-17T23:21:00Z
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://images.mktw.net/im-411503/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook says AI will clean up the platform, but its own engineers have doubts"
+    excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports"
+    publishedDateTime: 2021-10-17T22:59:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 55
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/75e5c173-7766-4958-9a1a-e27c156d73d1/d3c8c07b-01e8-4f8c-b82d-85a37d3c5dbb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook plans to developspecial AI"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."
     publishedDateTime: 2021-10-16T07:03:00Z
