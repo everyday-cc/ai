@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
-publishedDateTime: 2021-10-14T17:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
-webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+excerpt: "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications."
+publishedDateTime: 2021-10-14T20:56:00Z
+originalUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
+webUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Automation
+  domain: automation.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
-    width: 2513
-    height: 1414
+  - url: "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
-secured: "fBQjrDwq0FWfUV8T/0yTC4a8r+qZZfP9FqPh/6CGLhxRK6Uk+tJC7JUMbAAEh1FHYlv53ZID+cgFoypqx6fSiN1MoB9WcS6OBfeZVBzxCy02ay8zHJEksmRDe+pbOJLjV6jgqKdahOasv4iTMjS2Z57F9JYwEisALhpzeisTjj/HAqom+Sa5SjK/4c42tPMudR85O6lb8w5XHZOcPPMBKM/QeRDjpt4n8+cJJlPFUTpEQCF78ZE7Qv1qkr0DU4vk8KJF2DeWS0HCuDL8on8iZ2bqKCcnY60Acfe1kB6C1xGudcVHuRNZ68gKJkXbACO5VzPd4a1l91STXLEF58cGlHNmG8d7PXJm1kIh56z2DOM=;ciFISAx7+uOQunQ3vMtjMw=="
+secured: "SXh/bVAUv1gz32d2A/r8trGdJQSJ2QinC5XF7WLFqKmY+XRFKDOqwzKyTYYX/hy2/doBwSJIqfGnyUGONTk+cL0qgven5Nky0dGNVA03U7++Pef93kTZHcv0zomBL4y494KtN9tW0MqIJFMocRgtycfnax4+rrKLOV38cASFba/yzJSEJDSSg/cATexroZWeLcp6+tbms7Wstx0yK1adMhaqFjqCLAQ4u9UDoIAv2/21PkEE/7+SSXLRWZDdT6Y8DghnmL/GCdivngFJoOzH36zeyrnMxbOuOUHs1gruONRiARpHxVLT9plGZp7F24uQ3a8EvdlvmlKFYt3rSexVs8gjZsqWSx9BvthxtJLFEqA=;NHZtrD++w2IgXNHIjfpHcA=="
 ---
 

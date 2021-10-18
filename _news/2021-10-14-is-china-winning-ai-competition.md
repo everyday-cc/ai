@@ -7,7 +7,7 @@ originalUrl: "https://i-hls.com/archives/111099"
 webUrl: "https://i-hls.com/archives/111099"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Data quality, AI and how ethics can be a competitive advantage"
-    excerpt: "AI can be misused, but how can businesses differentiate themselves from less ethical ones to gain competitive advantage?"
-    publishedDateTime: 2021-10-13T19:59:00Z
-    webUrl: "https://www.orange-business.com/en/blogs/data-quality-ai-and-how-ethics-can-be-competitive-advantage"
+  - title: "Where U.S. Has to Do Better on AI to Compete With China: Brookings’ West"
+    excerpt: "Last week, the now-former chief software officer for the U.S. Air Force quit in spectacular fashion, stating publicly that he resigned because America’s cybersecurity is no match for China. In fact, Nicolas Chaillan,"
+    publishedDateTime: 2021-10-18T07:41:00Z
+    webUrl: "https://www.golocalprov.com/business/where-u.s.-has-to-do-better-on-ai-to-compete-with-china-brookings-west"
     type: article
     provider:
-      name: Orange Business Services
-      domain: orange-business.com
-    quality: 54
+      name: GoLocalProv
+      domain: golocalprov.com
+    quality: 36
     images:
-      - url: "https://www.orange-business.com/sites/default/files/blog_ai-ethics.png"
-        width: 530
-        height: 250
+      - url: "https://www.golocalprov.com/cache/images/cached/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/Darrell_West_Brookings_Inst.__2018_1017_1017_90.jpg"
+        width: 1017
+        height: 1017
         isCached: true
 
 secured: "+tegVgUKJ768Dktk1WLsx1ymBcS4xikRZupGB789U//FlnMmLHE3IhZHB32oyFLWRYgN5AobQ4WXFdaG2eNltRxGrOyxXmP+SkxUhiA+OgiKCsrKV/hQubZX6RsMClUtP6RBXQQG79Lmd4gCUewZwdujpsuiK5LRLg+GekkFQMnGb1AxJ1wAiQY0Xnn/vu6D5JbdDONoVHcLFcv8s9T4p9+vkx/31qaO+CB5bJeTnQQpyBAhAGpdNnrenmk0r+pGn8PRjBOLjbCdUk2rTyYmYG1gIGAFw1gq1Wq0OXGLKcUolYD8y3QQzyK2yfTqjhh8bDbFrvn3sdX3UGQctKT0zPGH4OM/D5RrdBv8Ijab7Rw=;mKee04tX7laXfG7LMRGgFA=="

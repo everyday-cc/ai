@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Reliable Robotics Raises $100 Million to Expand Access to More Places With Remotely Piloted Cargo Operations"
-    excerpt: "With its innovative airframe independent technology, Reliable’s Remotely Operated Aircraft System is designed to expand safe, flexible and efficient air transportation service to more locations. The capital raised enables the company to scale its team to support its first aircraft certification program and expedite the launch of commercial cargo operations."
-    publishedDateTime: 2021-10-14T14:51:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=17616"
+  - title: "Data transformation platform Metrolink.ai raises $22M"
+    excerpt: "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding."
+    publishedDateTime: 2021-10-18T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 30
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "pbuzZ5B6AsGocNwX9DHINpbBoYuKTWELXQjr34gMJn+gDtikCJvKp9Z7OEXlc/s5IYKor7nSCXldMVL5pWyBMmqThKJ8FbY0NOx+D3Y4XRG+s0FzBKJFAXWxuImDtbuOc802lmS9oZOSQh0mXoa4TU6uDsEFQmx8q4D0wtBvVTx8GfcCTMIBIG+a43vnR4oHsiB/dFSHzKbpEU3XuQI5feyB0JVJUnmRJebs9HUpfiVzU9T+hht/ouvbQK6g7J6kSwO8So22aTZH0MSw0L856JEqo5KjltDuzFhR7JQauR6+p2Vobmwn+Ses6aqKXjHi7pdXBVtfuEBmrVji80ZbDbYKdQ1ZHkw9pSKTAJ5NrB4=;RzK0fFW6cOdhVFgebOgFbA=="
 ---

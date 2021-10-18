@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Agricultural Robots Market Expecting Potential Growth with Emerging Trends and Business Development Strategy Key Players 2021-2030"
-    excerpt: "The Global Agricultural Robots Market size valued to USD 6 16 billion in 2019 is expected to garner USD 35 25 billion by 2030 with a growing CAGR of 19 3 from 2020 2030 Agricultural Robots also known as Agribots"
-    publishedDateTime: 2021-10-15T03:26:00Z
-    webUrl: "https://www.openpr.com/news/2429683/agricultural-robots-market-expecting-potential-growth-with"
-    ampWebUrl: "https://www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
+  - title: "Global Artificial Intelligence (AI) Market Outlook, 2026 - Mandated Work-From-Home (WFH) Policy due to the COVID-19 Pandemic Creates Massive Demand"
+    excerpt: "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-10-14T15:54:00Z
+    webUrl: "https://www.lelezard.com/en/news-20047544.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 16
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua15235900_g.jpg"
-        width: 640
-        height: 410
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
 
 secured: "pvAjhDRO2i8Yg6z8zYUEMk+Iy0iyt4zjip7jhRdlbOvyZ7YzPMxTrbX3FWmbhWaJwCBzaM8ozbhUB9OAcg7CGgNFTOB0l8RvBPmAFHvWsa5khbsQDNaVrfv2Xc23bRmy5Ok8yb/xzYzI99+mrsQxnVb4AH+9yj9tvQLdYpOJKtuPM4f3gFPGOqMvu42XfoKFycVG+2gkZ+GvRR1EaUTtwIOKdBuMWa9cxKjwpp3hHgtMDKbvf3tUeBxPtpJxmVCGDFstFR0ANRG0fLy1y0LAe4/Miucpc2oP8GVYXQV75XjOq3qQxynZ3shLV7JHjtvw1eVXkgTbc5Q9AbnW+JbFwYwtyCHhoadyKmIk1Ek586g=;EiJF5KBLnO6xoPIWzv5KOg=="

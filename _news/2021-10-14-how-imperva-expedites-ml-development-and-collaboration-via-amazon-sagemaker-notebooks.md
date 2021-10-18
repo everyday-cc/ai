@@ -44,20 +44,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Organize product data to your taxonomy with Amazon SageMaker"
-    excerpt: "When companies deal with data that comes from various sources or the collection of this data has changed over time, the data often becomes difficult to organize. Perhaps you have product category names that are similar but don’t match, and on your website you want to surface these products as a group."
-    publishedDateTime: 2021-10-13T19:27:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/organize-product-data-to-your-taxonomy-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML5264-ARCH-DIAG.png"
-        width: 529
-        height: 351
-        isCached: true
   - title: "How NSF’s iHARP researchers are enabling active learning for polar ice analysis using Amazon SageMaker and Amazon A2I"
     excerpt: "The University of Maryland, Baltimore County’s Bina lab is a multidisciplinary research lab for employing advanced computer vision, machine learning (ML), and remote sensing techniques to discover new knowledge of our environment, especially in the Arctic and Antarctic regions. The lab’s work is supported"
     publishedDateTime: 2021-10-14T22:58:14Z

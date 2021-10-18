@@ -57,20 +57,6 @@ related:
         width: 866
         height: 436
         isCached: true
-  - title: "Organize product data to your taxonomy with Amazon SageMaker"
-    excerpt: "When companies deal with data that comes from various sources or the collection of this data has changed over time, the data often becomes difficult to organize. Perhaps you have product category names that are similar but don’t match, and on your website you want to surface these products as a group."
-    publishedDateTime: 2021-10-13T19:27:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/organize-product-data-to-your-taxonomy-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/04/ML5264-ARCH-DIAG.png"
-        width: 529
-        height: 351
-        isCached: true
 
 secured: "EGPZXa6B4EzR406/8cEvO0D2dkHwL2Bm/3M4KT1+HUpPVgAuWydBjs/YlJ2D5UqIe4nIteMoRAD4HD+OGau8KdjISYKtCUZXxnveuzipn0g1osrgyz5pQu3dfri8JscgdIkQMdzX5jGP6sblQ2nRSAK1AZ9SU1EpT24rw7R/7bpWN7JhW61T6+o0v7KJW61lgCzVHy0NiEI82y6uXFYT5TwDzyCxGD6Iz680QReauwwHCef0Exo3nQ6dgAuZ7Jauvw9zvw4+7aYMWqUL/2xbFplw8bX2rpj2+TzwYfx33ULcXVtvZzASN+j2KUJ1Fk1yWfzq+wu9uKY8pQaDtgzDNSPT/mMMNTWdlmZq8uVelX4=;GMLKJ6mW9MnqWdbHAqaW6A=="
 ---

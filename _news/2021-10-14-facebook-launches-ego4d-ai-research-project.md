@@ -69,6 +69,20 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "Facebook AI moderator confused videos of mass shootings and car washes"
+    excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
+    publishedDateTime: 2021-10-18T13:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facebook is researching AR/VR AI systems that record your activities"
     excerpt: "Facebook has been putting research into systems that will see, hear, and remember everyday activities and interactions on AR/VR devices."
     publishedDateTime: 2021-10-14T21:05:00Z

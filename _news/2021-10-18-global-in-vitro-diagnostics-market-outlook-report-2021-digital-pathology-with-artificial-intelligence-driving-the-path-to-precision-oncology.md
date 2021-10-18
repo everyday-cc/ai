@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"

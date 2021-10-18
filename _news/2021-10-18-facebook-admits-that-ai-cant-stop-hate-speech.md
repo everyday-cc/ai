@@ -69,6 +69,20 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "Facebook AI moderator confused videos of mass shootings and car washes"
+    excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
+    publishedDateTime: 2021-10-18T13:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facebook is researching AR/VR AI systems that record your activities"
     excerpt: "Facebook has been putting research into systems that will see, hear, and remember everyday activities and interactions on AR/VR devices."
     publishedDateTime: 2021-10-14T21:05:00Z
@@ -245,6 +259,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "E64BmVj/jAEyOO3gk1ze5HZfpKMZOxmQWJf/19mOaqq4AHKkAsiJkSztzYrTlnG55htGQrJLwIx3RYBj7iR8s9g6+36bAb3N/x0mYrMF3dlzd+2AHzGIa5fD1MU+ao0TE7YPUTPFBSRaB2m1DtcYn3jdjIilxPtDMk3KqxnciioSNiYQtXylehh7OktAfnPZXjrZvVXBg5vyNTLHKGlxbnzEXXXCay7C87r+AV8/QH7kaksYKYd++RF4oNj6v+gKkipwaqAmRTgScsFr8TKybCOzdp8cXXC3zYKx05OQ62m0NMQYvnFvW67rBGV7ECVf14GH1EWdSVWGOBQVPZIiZtH4GtirT1CNeGOi/S7W5SM=;5L+OMighoszGqeHC5LHp0g=="
+secured: "TX8v/PHJC5SRBzNJUOth32zegP6CK6D8Wvmok14cjK4UJK3SbejQGdx3SyZT0Rp/TRfUcsqlfgi+cQqQ7MWzRSZl5/0M4X+FOw1befGOaK5xQiZ4/qEk+Kfy2/r+09YT9M+ln3EcuLMv+P90/I79iSqMmdSuoZ/SRMTHNIFh0ZIxboypMzCChdZQ0j2HOAjDyzT035GYZuyGi+wqJunN3Q8ruAszRLK5ZrcvfIyYROrBr/Fc/QaBXaOQs+PnuZ6cW+hzMhQN5mK8Ttcd4U29G5W27q2bRq6hoBFTmssIvzjJz2AdpmNpnNfyrL5y6L5yMLFl3tNOA3RpjBnT03h/Bpl+oisLiof9wYeiGw5NEgxyhwqtuIVjiq4h+1fiyfMUyoxPC6laYjCtiJ5BC9gKsPKb9IVFxxAoN3Tp2NhdtcIdMrk7G+IMRLjl430u6oM5naq2ljuVibIwtzQr+TxNvE5y6WRGGNbokxDD7W4PjUo3OOaBXP69RzOOnToMq8mUvvqhtVFvNZ0Mf6N1uKnBRw==;ePrBdGJITqGq39blxDqCqw=="
 ---
 

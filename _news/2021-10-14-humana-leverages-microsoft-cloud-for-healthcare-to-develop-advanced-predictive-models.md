@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-
 webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 884
         height: 637
         isCached: true
+  - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
+    excerpt: "PALO ALTO, CA, Oct. 18, 2021 /PRNewswire/ -- Babylon, a world leading digital-first, value-based care company today announced a collaboration to explore opportunities to improve the accessibility, affordability and quality of healthcare for people across ..."
+    publishedDateTime: 2021-10-18T13:55:00Z
+    webUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+    type: article
+    provider:
+      name: WWBT
+      domain: nbc12.com
+    quality: 0
 
 secured: "4sy7KfEzG8Q9QFk3m5z6xvLLDHQTYFm//RnZVg81Ly7sw9yWFrPQhknXHAC5vk91EozzTRFq8yX6kA8mIe9/BrJDiqTGgypLzDHsdSEGpZsdo2zVndGCBUaENzQjEx45CRIXTtvW0GBunOjDclXqGAzx95t361okFlec1qq6oIy/lFiOQZHqmgm7sKc+vyYxDpfTaQx7ekE8B+U7Q0GXkWgH5f/UxkLclRbrK3TgDcEq/31Yt2rzUA3ypWlNaxAmNM269RdpPLMFwOOxqlbhDU9zYuKuixJsWb6Kvjn/76fJcNfhMjcHud6JMW/ecTAkEqzxZoxyBmxiI0f3lFRAPmn1B9fG+oqYrLxQDEBybT4=;0zzUwihKDtMjnyBf4O+TJw=="
 ---

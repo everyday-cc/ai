@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/business/2021/oct/18/cambridge-firm-targ
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/oct/18/cambridge-firm-targets-medical-robots-boom-but-will-it-stay-british"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Guardian
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cambridge Quantum Makes Quantum Natural Language Processing A Reality"
-    excerpt: "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq."
-    publishedDateTime: 2021-10-13T19:16:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Cambridge Quantum toolkit converts natural language to quantum circuits"
     excerpt: "Open-source software toolkit, lambeq, turns sentences into quantum circuits, ready to be implemented on existing quantum hardware, hence enabling both professionals and enthusiasts to linguistically interact with quantum computers."
     publishedDateTime: 2021-10-15T10:16:00Z

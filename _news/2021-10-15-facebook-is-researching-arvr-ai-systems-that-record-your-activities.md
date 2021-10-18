@@ -71,6 +71,20 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "Facebook AI moderator confused videos of mass shootings and car washes"
+    excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
+    publishedDateTime: 2021-10-18T13:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
     excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its platform. But documents show it is only two per cent efficient."
     publishedDateTime: 2021-10-18T01:01:00Z

@@ -41,6 +41,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Using Artificial Intelligence to Diagnose Rare Pediatric Disorders"
+    excerpt: "Researchers found that artificial intelligence technology can quickly diagnose rare disorders in children, allowing patients to acquire treatment sooner."
+    publishedDateTime: 2021-10-18T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-to-diagnose-rare-pediatric-disorders"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Study finds Artificial Intelligence 90% accurate in diagnosing rare diseases"
     excerpt: "A new study finds that Artificial Intelligence (AI) is 90% accurate at detecting disease causing variants in children with rare diseases"
     publishedDateTime: 2021-10-14T15:39:00Z

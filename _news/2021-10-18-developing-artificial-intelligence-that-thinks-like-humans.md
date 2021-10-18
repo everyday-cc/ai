@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/developing-artificial-intelligence-that-thinks
 ampWebUrl: "https://scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Human-Thinking-Artificial-Intelligence-Concept-777x583.jpg"
@@ -36,6 +37,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "/UFP3o604Kkk2xC/3HBB/HrMpI4XfMfjSHNNdG1uIsM25tvVdbBPrLCGrdZB639gnKdv57l9+nN7F49Kbn4B22SEBej/bfO1cpjiKd1mL0qXZeWpbMDsGq2FcoP+kXlkHLEXvPZHdzuIZe7ql9rQLFCYfYWZgOqmH1Pm9P5Lm0X34seUx/Gf1WaFJDL4AosbCXKOQWYr6F1p2A6NohyQernRgozHgJkhlG+J23JbMlocsFQdwGHTq0yO16UqrmlXP60P3CsoBuuM+QxL0WsFSXrU4asTYY3OyRrrkg+6hPDNEV4YFvcS7yxNPR6pWA1dIU66n3T1hdP92bnINl74yxJNHVRsvaecm0HK9BnYhoY=;2c3jlsfmnQL5KWnhJnvwMA=="
+secured: "Y7x2d57jEdFL9tOOH4iZ6qvl7oHbwSDn2P9HTIgsHv62VIvOlFDxYo+NUjXHiI31TJNam9ofzcW1ZMYIDTKFVlVsnKtRkHYhyy52oKsxhKv5lUMn7Dael+OAzieURM+FPOY9/Qm1TxQB9wKBMOut+ba622rEz9T8CF8ZbJvSczECiUgLB/gCnt4DRopVCf5waTrGZTHiDfxRauOB8g9cr52uBSjGQnDsA252Ukr0IYNWky8T345OiLbhJYnVkXRDyGrwULI2r7HvnCry3538gJqHLf+4R5rwEhsA2q1OzX2g1vCGmrO82E6ZCxcFEOp1LQGilhMQvqTGlYTgEO6460WUVuLqgyOZLNqJbjM724nFJtcsotbMeI7XKKedUR5Ss2kc6ODPDW8QvNGbblBLNlKl5pOlsvau30ltNZew6UJ0JP98itxqD+WYmKWnDHm3IeCpCyFHbqsLUjPZMk9IEVkWwbHOOFsYQ8Y1XV0Qy5a4/m33RlX7Qxdv8KnBOCpU6/1BTAzIKvzRZVqaDf18cA==;bxrXV6TZOtXjHkMYMAoyeQ=="
 ---
 

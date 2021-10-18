@@ -29,7 +29,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://scitechdaily.com/images/Human-Thinking-Artificial-Intelligence-Concept-777x583.jpg"
         width: 777

@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deep Learning Software Market is Booming Worldwide with IBM, Microsoft, Nvidia"
-    excerpt: "The global Deep Learning Software market focuses on encompassing major statistical evidence for the Deep Learning Software industry as it offers our readers a value addition on guiding them in encountering the obstacles surrounding the market A comprehensive addition of"
-    publishedDateTime: 2021-10-13T20:34:00Z
-    webUrl: "https://www.openpr.com/news/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428313/deep-learning-software-market-is-booming-worldwide-with-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
     publishedDateTime: 2021-10-14T20:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/14/the-evolution-of-computer-vision-and-its-impact-on-real-world-applications/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "The Blending of Human Capital and Robots in a World of Automation"
+    excerpt: "Automated processes not only have the ability to solve supply chain problems such as labor shortages and changing customer demand, but can in fact improve the safety and quality of life for the human worker."
+    publishedDateTime: 2021-10-18T11:53:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/33927-the-blending-of-human-capital-and-robots-in-a-world-of-automation"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/0419_Fulfillment.jpg?height=635&t=1634530076&width=1200"
+        width: 3556
+        height: 2667
+        isCached: true
 
 secured: "ytrxRG7bQrAppzp4J4WY++Zjgpiqj//EmpzoKlGbnEcqyPJaL1SXbiaXmNuNVGtsdBu2ncSvL/jL42De0jy6J9mJE5qwrxhzZ8fhzV6150ri6yWn+xYvLSDVIGfKVQctGk2C/iyUVrabIKYVY7tTwKWFB3IHyYdVDYrhkueI8H1G/cjLF1MyCsO7Vv4eLHCweVuJYnhrZDhvR+9W+9YIG6WoVj4VudnRMMvylfLntEp2cTwgrPfjE37ynBr6jW2ceNudykthl841TBsZU18bmKg7u1MP4/t91mvM1jLYMY8OdMEL5Kp6Znc1GHCrS4GnJLE0pR7CLpbzJT7764cLy6X7ncye08oLVNzFu5M79mISHUhqyboL0ToYWDjf1HPpP6PFQ9hifCwH0dtwEo2pP32Y8ijUetPGa276pKlyG/4HozibHRgNYsc3zKr/JTcBxD+OHk7+hEVUppEtPcXUH0iT5OFfYWR3lG5d096FAd6RWsJRx5kcaOh0iCIhvnk3R6tJY59EoNOtfAqYn04Rag==;SSovXHF/Q6odMfsx7BJtcA=="
 ---

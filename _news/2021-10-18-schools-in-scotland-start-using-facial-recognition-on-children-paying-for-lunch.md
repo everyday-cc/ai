@@ -43,6 +43,38 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition cameras being used to charge kids for school dinners"
+    excerpt: "Facial recognition cameras are now being used to charge kids for school dinners. Children will now be able to pay for their lunch using their faces in a new trial in Scotland. Nine schools in North Ayrhsire are testing out the new software from today,"
+    publishedDateTime: 2021-10-18T13:05:00Z
+    webUrl: "https://www.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
+    ampWebUrl: "https://amp.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
+    cdnAmpWebUrl: "https://amp-heart-co-uk.cdn.ampproject.org/c/s/amp.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
+    type: article
+    provider:
+      name: Heart
+      domain: heart.co.uk
+    quality: 59
+    images:
+      - url: "https://imgs.heart.co.uk/images/267119?crop=16_9&width=500&relax=1&signature=WciML_qJHM7bdgJWlztKQE3JofE="
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Facial recognition system to speed up lunch payments in UK schools"
+    excerpt: "Facial recognition technology has been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports."
+    publishedDateTime: 2021-10-18T13:47:00Z
+    webUrl: "https://www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
+    ampWebUrl: "https://www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1461142736.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Facial recognition used to take payments from school children"
     excerpt: "Schools in North Ayrshire say the system will speed up queues, but parents and campaigners have complained students aren't being adequately informed about the privacy risks."
     publishedDateTime: 2021-10-18T09:52:00Z
@@ -130,6 +162,6 @@ related:
         height: 1005
         isCached: true
 
-secured: "QuccgZZkYYxoF2RAGilK0H10diTcYLdqMnguVk8FivevZ5i37Oxfw6z4jPs4N0Rb8rWfS7HHVaO6kaya2PLxfPFs/mkkRC0Xm/IYmjBWZycvBvFpRnXdSfmOlPcziTzFsY9FTVvYYSEHCAdL5d0Rx2bRlX7/jJFk+zZzlY4GHEpOVkMXvF7xbPXEp02e+KARALYbldBgznEWOu6NBQcuj++THrkwOeB9MhK4dBfA+ioBeBVBPUAMVIq+ynzUry+EkTijpBG3dIuQjXt5gIqI1YLIoAU+jgDEvxTUXLugzChAMFeeMyRDkATyTNu3ccOh2MUyhEVr6MjG+/SwVUg4+I5f+ZD43EnRm5LrqbKuHH4=;kqYmzoZRSP6UDuSPv7S+Yw=="
+secured: "tRLxgs/4QBf6cjZNkU4WsMUGXTmIF3B04eCs3gXOaR/R9ZSjw/cZswwH9u9fB+2e1s1JmuSAE2wWG+VOgCyEJa5VMRtxwhZmRjV47pu+JQs7C1c9KMdmy51/WY8N9ga4JHpuWhaQolljupgt+oc/Td2ZffbCPZ5/gvPH2QifuRC3BV3G6STrM7JOjzzfRXPg601eU27Uk+tfEsZDRlvwtcb8p6dwCWd2BZE1u8hb0qY/FU4QdVN6PXz3U7W4GXpJEeg70/w8jX8DGMiYVhOenMHJKr7wm/QJCl8rrgHlq90mwNZZhNRJEH7DGp60CtSOxgiAqG4m8IjY4zrZJZ2udf8cHIY8cpG1hePPNsRQ41pm6iwxCv634L9rn1DWKFcuSggRrS2KKvWlGmg2hUgFER6SLdGuou9Zdiu48RyuwifbUu98eeRLW0pbhIAiKhJKDWZl0dhDi1BhR00SdqF5CgaPY0SywLkZ4/iPvIxJO9Eo2Tnuh76k6HGCeA1PUdKjo4LHxjFu6NcZF/wHYkgqqw==;e+MBc6QnZyQ10AheXa/5oQ=="
 ---
 

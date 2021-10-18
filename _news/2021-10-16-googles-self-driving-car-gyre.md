@@ -49,6 +49,20 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
+    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
+    publishedDateTime: 2021-10-18T12:38:00Z
+    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
+    type: article
+    provider:
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 23
+    images:
+      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "moENnRwv+xE0Ev1CFZRgHN1Wb99Mr4bz6FrQ+xbP+sQAtBNvr2jmrcj0MECE4swJ14UdkCGGleGXIWMEouEteU5X6Suf6j/uxZ2nfM8qI39SVdwp2uW5tKNMygH9VG3WRexRN05GdO8AMZIFxJevFbKoIn/6jm/c5AEpyHPQkzVgdHcOtG/IaiI2sJHEyWEoEwW2VkK+pHiC4Vb5SIaW4ZJn8B5dYBVDymrV9X03uRFbVf7di5jQFY23IUvXPmzPoVft/CPmDDRVaz8E1Rk+WAMwEawGCtn4axONf/rbo6QOtW60AgJpdY+M6cnSQupgchLy9dYEEKXFTs5ANMdP/j/peI4my9vM2QmnP6uSV5k=;IQkpef3CA4pKh260judFxA=="
 ---

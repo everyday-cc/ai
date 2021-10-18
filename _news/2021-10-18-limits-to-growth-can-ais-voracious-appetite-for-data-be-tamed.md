@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-18T09:52:00Z
 originalUrl: "https://undark.org/2021/10/18/computer-scientists-try-to-sidestep-ai-data-dilemma/"
 webUrl: "https://undark.org/2021/10/18/computer-scientists-try-to-sidestep-ai-data-dilemma/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://undark.org/wp-content/uploads/2021/10/facepattern.jpg"

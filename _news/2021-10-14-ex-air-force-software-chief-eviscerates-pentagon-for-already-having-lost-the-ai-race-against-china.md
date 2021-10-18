@@ -39,21 +39,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Air Force embraces former software chief who quit, warned China is winning AI competition"
-    excerpt: "The Air Force says it sought the input of Nicolas Chaillan, its former chief software officer, after he quit and publicly warned that China is winning the artificial intelligence race. Air Force Secretary Frank Kendall is said to have personally thanked Mr."
-    publishedDateTime: 2021-10-13T19:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/oct/13/air-force-embraces-former-software-chief-who-quit-/"
+  - title: "China is way ahead in the AI game, leaving the US behind"
+    excerpt: "Pentagon's former software chief reckon US has no “competing fighting chance against China in 15 to 20 years” when it comes to AI."
+    publishedDateTime: 2021-10-15T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/10/china-is-way-ahead-in-the-ai-game-leaving-the-us-behind/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/10/china-is-way-ahead-in-the-ai-game-leaving-the-us-behind/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/china-is-way-ahead-in-the-ai-game-leaving-the-us-behind/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 48
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 59
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/26/Biden_Air_Force_Nominee_55039.jpg-11814_c0-280-5000-3196_s1200x700.jpg?d4e91f06fc102cbc877d1177e2fe00769277f6fd"
-        width: 1200
-        height: 700
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/10/Feb21_18_956056544-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Ex-Air Force Tech Boss Eviscerates Pentagon For Already Losing The AI Race Against China"
     excerpt: "Nicolas Chaillan rings the alarm on just how dire things really are when it comes to competing militarily with China on the cyber front."

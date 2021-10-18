@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-energy-efficient-ai-heart-def
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-energy-efficient-ai-heart-defects.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 768
     height: 384
     isCached: true
+
+related:
+  - title: "Energy-efficient AI detects heart defects"
+    excerpt: "Researchers at the national research institute for mathematics and computer science in the Netherlands (CWI), together with a colleague from Stichting Interuniversitair Micro-Elektronica Centrum (IMEC) in Eindhoven,"
+    publishedDateTime: 2021-10-18T13:39:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/energy-efficient-ai-detects-heart-defects.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/26047/rect-01-03aea715-a347-47b2-9822-169d1aa19e0f.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "drNdPzhz80sF7eqEy0BvG1jE6Xl7grQAfL7M4seosIP1KstO9c81Hz4XtNKDzD/InXBsemGSa/zg+6eEWr1KQV0Nukty9bAYGsXjJcb8kOyJt/ppl0g/hfITGw76mj9vaW910gMfQ4JaHZj8f7zTLbFNG88RwjSpbK+Kn8jihu2SlHO+N7H+1NzvjLxqnBVIDiFhJC21V5SiCmAFAOkzjsEuY5O69TLbn0SXMs+/KCBEiealHumybCIf6xxRPkOXOV3Y5x5O2aR3/3Q7bZJkaWMfZCg9/46O+t2tR2wyNddicl3PtxTt4xX1hXR6RG401VWkCmCn/0f6d7RCRedgnN8iNxeT9YzV+c/TZxexV24AQ234IKE4ked+JCXgvxxhvGJhmw5aEYNB1TAfqSRt8O5FoTA7Iv6e9AWY28C1o6BQgnrb4+J3s+ToK4qQV+jaSktVxQRS2D+J5WHCupOXCagfsM0mLyPvE9aKXxwHFo5bDFq8OKaeVqscH2trEvYL8zFSZ0AZW+Rgg5NnQH0+XA==;s7ISc0hG36hQj/BwOci1jA=="
 ---

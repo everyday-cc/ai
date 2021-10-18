@@ -41,6 +41,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Using Artificial Intelligence to Diagnose Rare Pediatric Disorders"
+    excerpt: "Researchers found that artificial intelligence technology can quickly diagnose rare disorders in children, allowing patients to acquire treatment sooner."
+    publishedDateTime: 2021-10-18T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-artificial-intelligence-to-diagnose-rare-pediatric-disorders"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
     excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
     publishedDateTime: 2021-10-15T14:14:00Z
