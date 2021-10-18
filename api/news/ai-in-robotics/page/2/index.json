@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
+      "title": "How AI can fight human trafficking",
+      "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
+      "publishedDateTime": "2021-10-07T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-wild-images-show-scientists-training-robots-to-clean-up-chernobyls-waste.md",
       "title": "Wild Images Show Scientists Training Robots to Clean Up Chernobyl’s Waste",
       "excerpt": "Now, the scientists are hoping that the site of the disaster can help train robots to help humans stay safe in the decommissioning process. 2 / 8 The team worked largely in what’s known as the New Safe Confinement (NSC),",
@@ -1315,58 +1368,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms.md",
-      "title": "Nvidia, University of Toronto are making robotics research available to small firms",
-      "excerpt": "Despite progress in the field, research on robotics hands remains extremely expensive and limited to a few very wealthy companies and labs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Nvidia-robot-simulation-platform1-e1632850934828.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
-      "publishedDateTime": "2021-10-01T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

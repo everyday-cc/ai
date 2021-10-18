@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-15-generate-music-with-an-rnn.md",
-      "title": "Generate music with an RNN",
-      "excerpt": "This tutorial shows you how to generate musical notes using a simple RNN. You will train a model using a collection of piano MIDI files from the MAESTRO dataset. Given a sequence of notes, your model will learn to predict the next note in the sequence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
-      "originalUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-behringer-deepmind-12-editorlibrarian.md",
       "title": "Behringer Deepmind 12 Editor/Librarian",
       "excerpt": "A spokesperson told us, \" The Deepmind is the first Behringer synth that Patch Base supports, as we continue to expand our coverage of the many manufacturers out there. Although Behringer created their own feature-filled editor for the Deepmind 12 on iPad and Mac,",
@@ -1415,6 +1363,60 @@
         "AWS AI",
         "AI",
         "AI in Robotics",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide.md",
+      "title": "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE",
+      "excerpt": "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg",
+          "width": 700,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T15:02:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
         "Google AI",
         "TensorFlow"
       ]

@@ -62,6 +62,22 @@ related:
         width: 1024
         height: 735
         isCached: true
+  - title: "Artificial Intelligence Platforms Market"
+    excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-10-18T17:04:00Z
+    webUrl: "https://www.openpr.com/news/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    ampWebUrl: "https://www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
     publishedDateTime: 2021-10-14T22:52:00Z
@@ -76,6 +92,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How AI Will Affect The Future Of Work"
+    excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
+    publishedDateTime: 2021-10-18T15:42:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 41
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
+        width: 806
+        height: 500
+        isCached: true
   - title: "Machine Learning Trading Bot"
     excerpt: "Looking at all three plots, and comparing the two machine learning algorithms, we can see that the Adaboost does better with the training data with 94% accuracy but when utilizing the testing data it seems to underperform the SVM algorithm. Permission is ..."
     publishedDateTime: 2021-10-16T13:57:00Z
@@ -89,20 +119,6 @@ related:
       - url: "https://opengraph.githubassets.com/a5d9a814ebc7eb10d76a6de8539013dc6cd614fcf1176f1bb45a764831f42e81/webclinic017/trading_bot-5"
         width: 1200
         height: 600
-        isCached: true
-  - title: "How AI Will Affect The Future Of Work"
-    excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
-    publishedDateTime: 2021-10-18T15:42:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
-        width: 806
-        height: 500
         isCached: true
   - title: "A Role for Artificial Intelligence in Educational Futures?"
     excerpt: "Artificial Intelligence (AI) and automated teaching assistant programs, often referred to as Intelligent Tutoring Systems (ITS), are becoming an increasingly common part of the education landscape in Australia and in many other countries throughout the world."
@@ -221,6 +237,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "taJJmD7gwGoapPEy07P/TgNK/tw2XYuQ0yRddWFBjglYmyrKzCLpOys4N0cD0JxodOVL+5FSc7emiowzP0RQZnnwAhTI6NQf9jJb/zSJyz4Jc5I8gjsSyOb/CkwNdADw80kzRbNCba67Oy1RnB4H4NSm2tCyYDVfYdb65PgYFCVKymjUUCJES4wV4XxwrQ1pf9seFxRCS3K9dUqT1Mjo3V3Lv/h4mBLD0f+acaHld0WYTAC30XOP1M3eujOyGaLzWVy+3rioSHXaj7J1ksqRU16eivAp7+qDaC/DWlxTto0F5jpKgcwdr4/prVQq1XPPPSENz2jY+nSxAkEEv0wSiJU2BBk5E4+UKjGUIaiN8AY=;P6kJaZekUXPOnTlWliQVzw=="
+secured: "iBAkm934WmTHRiEAZueZg5l/7DrD79zb3GjaokLoZ67QgFDD5ucJTOOWfJ28FPo6uVnTR878Srftly4moQFF1yTK9bNZjnm3tt4qPST9eFX56s5F5j2pW7xRR5+IsO4hkV255Ncz2QDOGewFIB8QAHBhP9HzDK3MLK9yN+SOUBdhhkONkdQxCoaQLf/ekoJ8ALldZseFFq+9VPyVRueFaALB9ZjtC/v0ect9IZ9ofVIRg2hwUXjZj9LX7DpRh9QltVKk+kal2w0LSc/OpxevqsXjMTIPsclwnMRnTbHyDPkTnXxsee0igZ1XxDR6lp5VjaQ3SluCs4pkKjaNfeafuVSe4g3k2mJXSKdlVmef/1IGhdBTP2JoRsVEx2pRn5ehbyMD1W7zX2bhooo2XltcUGXh46NMKGHvK2t6B6Y//asYQEpKsS/mdN9LIenOre4VHTo1A3C20MJakR0mw5AsTs9q3BK8y6f5MzrBYFarAfTfakwB9SSvaP50jC+uIQOOfqDfwFVatVKAUSbLrpKSeg==;nqbrINqM15BaVRtidfG0lA=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial Recognition Payment Tools"
+    excerpt: "Nine schools in Scotland’s North Ayrshire’s school district have planned to incorporate facial recognition in their cafeterias. To"
+    publishedDateTime: 2021-10-18T15:50:00Z
+    webUrl: "https://www.trendhunter.com/trends/facial-recognition-1"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/facial-recognition-1"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/facial-recognition-1"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/facial-recognition-1.jpeg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Facial recognition system to speed up lunch payments in UK schools"
     excerpt: "Facial recognition technology has been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports."
     publishedDateTime: 2021-10-18T13:47:00Z
@@ -184,6 +200,6 @@ related:
         height: 498
         isCached: true
 
-secured: "9knUpUJYGn1uKgfDOTwzNx279K/we5987fG1Vp7XC/ZNg0Gs781ALCHHqFKSwn9E870tne/F/lcXtOuP/7VWWzTFFVcCEJhN63qCKsRugOlKCcY9XL8+klxyYrDfSZ923+uXJF1rkd6tpGck91o4IaptG7cMGprGcDc+W/QhiPWkr1zV2aiIGs/oKQ5WnKXZY9LalspAS6ZzMkf3q9pPexrtMNW3TXgCSxlr0n2mV7jbWLFKI1EPQuNQrAoE59IDD5y9sw87bwJvM57GLFOWUpImGk6S54KBa07CC8bN3E9OXKjzznjkAw0SdfxKvbgQ3cdJ+Bz0tBcmfOnJkKlvJs4Rl3f6qWHVApFKw6Nadx0=;TMsOzQiyJehl5DTKDPd7ew=="
+secured: "51ZPqOXDm9W8uW7Hl6xD7raldIvnCK1C6d3c7Xhxf0UnDvigeebDGpiMYjo7AR5j1OIQBYSrzvMpAUgixfWYxaE4BLAiuFY3nClwNBplOZ001kmZrBHdIc1M07g5WNeNXRmMmsOfXirZTaNlhpItS1YPArUXzhBbrsrsFeoyUGONYIkW5bENPO/x8ltTKU83zpuGBR58WCqWPJdZBBE+eqrjWO9Q1dXPzKGOo+deMSCjS4BIYXQr29Q28PxwEFyg5nSaSR60OdWit4wx6+srHpEDr2mhaaRy4rfLqzNzc5jK7nE8MD3Ox8qqzR+uBQiGPFctE/WtT3juy8WqZkUImS/UbcTcgOku/ibSD5DNEztFstEdc+EKFsL1KMCV5slT4AMNW2XZzlg/kYXUBtez7igxeXIfq5ygJarmhtV8jq70nQkmQbwb8/P+pgYATPXJ/BZg3Uyu3W7sjyvg7Ni2hAHVahOQ56uRzpuaOyP1CSEl+oTM7lPyqErl23moOgcv7XemsQMXEdwO9TFm2mWKOw==;Ua3jv5YEdFgap8LTKJl6TA=="
 ---
 

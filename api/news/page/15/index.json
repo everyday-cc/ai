@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
-      "title": "Gap Inc. acquires AI startup CB4 to drive sales",
-      "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
-      "sourceUrl": null,
-      "webUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "originalUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fashionunited.com/UUP2jAnSbMTf2wCkU6WZm5VCOGW7PmAHjB96odlvT0E/resize:fill:1388:781:1/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvbWFzdGVyLzIwMjEvMTAvMDUvMTIwMHB4LWdhcC1sb2dvLXN2Zy1mMHdvaDQ5aC0yMDIxLTEwLTA1LmpwZWc",
-          "width": 1388,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "cdnAmpWebUrl": "https://fashionunited-com.cdn.ampproject.org/c/s/fashionunited.com/en/news/business/gap-inc-acquires-ai-startup-cb4-to-drive-sales/2021100542600",
-      "publishedDateTime": "2021-10-05T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fashionunited.com",
-        "domain": "fashionunited.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
       "title": "Tesla gears up to launch self-driving software but with a catch",
       "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
@@ -783,6 +740,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-04-image-recognition-market-size-worth-11556-billion-globally-by-2028-at-1825-cagr-verified-market-research.md",
+      "title": "Image Recognition Market size worth $ 115.56 Billion, Globally, by 2028 at 18.25% CAGR: Verified Market Research®",
+      "excerpt": "Functions of figure identification, such as facial or object recognition, visual geolocation, barcode reading, and automated driver assistance, among other industrial automation-related functions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
+          "width": 2696,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
       "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
       "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
@@ -912,40 +912,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-04-image-recognition-market-size-worth-11556-billion-globally-by-2028-at-1825-cagr-verified-market-research.md",
-      "title": "Image Recognition Market size worth $ 115.56 Billion, Globally, by 2028 at 18.25% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital Image Processing, Code Recognition), By",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/image-recognition-market-size-worth-115-56-billion-globally-by-2028-at-18-25-cagr/article_2faa4b92-7c17-56fc-87f2-2c8691af761f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/image-recognition-market-size-worth-115-56-billion-globally-by-2028-at-18-25-cagr/article_2faa4b92-7c17-56fc-87f2-2c8691af761f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer Vision Systems, Smart Cameras-Based",
@@ -1053,6 +1019,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-oracle-promotes-responsible-use-of-ai-in-financial-institutions.md",
+      "title": "Oracle Promotes Responsible Use of AI in Financial Institutions",
+      "excerpt": "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

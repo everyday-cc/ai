@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Image Recognition Market size worth $ 115.56 Billion, Globally, by 2028 at 18.25% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital Image Processing, Code Recognition), By"
-publishedDateTime: 2021-10-04T13:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/image-recognition-market-size-worth-115-56-billion-globally-by-2028-at-18-25-cagr/article_2faa4b92-7c17-56fc-87f2-2c8691af761f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/image-recognition-market-size-worth-115-56-billion-globally-by-2028-at-18-25-cagr/article_2faa4b92-7c17-56fc-87f2-2c8691af761f.html"
+excerpt: "Functions of figure identification, such as facial or object recognition, visual geolocation, barcode reading, and automated driver assistance, among other industrial automation-related functions ..."
+publishedDateTime: 2021-10-04T15:28:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html"
+webUrl: "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "exXMyo3kj+2uAzLDEU/DrsOpP6AnMFC75jSZ0Ifrpln7rEG+aBx/TMwIX0Xxs/aRrGynpdKZNtlCsDiscyvq5VEa3GkZQZbyvOXR5p/mOldNi6kgAsCaEu0BD4arqPEtGwaJrJZnMqCblzVOrg5Pq4fR8gfFEkx8hyMpJfEz+o3LoGb9kBuFYk2ptDJzkgyQW2cQ4o+jOPgDOGMkvE/XFaBzEF9hZWo6JU36JMYopKLifUunpl8EjQ7CmnfNDZPnkm/jo5kiKeUdPr7uk/kfs/XU5dANuWHP9ew7JtQhQwZiBppjje79E2UGOW9695AtsiXhnRhElnSMfNMA3DD1Yv/O993WgfrRth/mEtcNhMg=;JezPN9eAORuN4B3dzXbRfw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
+    isCached: true
+
+secured: "N95HOqs/XigvDDEqnSL2IA/RgrGftzBV5agF7W6/wOexjGbBGxokZYojBaxhbd/+akdtVE7X0uwcYhArN/HbJb5Nz9acFUjknUc6WIm3jOVcELnVaUpYA1imAp4wMJryjTiOBGYpRrKtMFck3zoG2n97uAMr3QomRLzkBPmoUep1AaHFM2Jl79NnojRmKbnw6D7/dkvJqO+qZykWKbPsrW8N1pLZJNxw/vt6Y1pk8dUlqOljSJfGKdf4XzhVxATj+GaVgOVzyU7tx/Y1l+AYRDwKP+T7R88bE5J+cxukwbtRm4Io9J3BeuhhTjx7G5RrQsw4pQZFH0HK9sswfd4Lh9kB0Ze2UTd4askEn4C2BTU=;BHdvW6jGzMDlJXnYCpeMOg=="
 ---
 

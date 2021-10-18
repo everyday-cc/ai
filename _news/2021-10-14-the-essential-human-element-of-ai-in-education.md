@@ -7,8 +7,8 @@ originalUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element
 webUrl: "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: ecampusnews.com
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-    publishedDateTime: 2021-10-18T07:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
+  - title: "Artificial intelligence is being used in a very wide way in the Indian Education Sector."
+    excerpt: "India's AI technology has the potential to make it a world leader. Artificial Intelligence (AI) is successfully employed in virtually every sector. With India's AI potential rising, now is the best moment to introduce AI in education."
+    publishedDateTime: 2021-10-18T10:58:00Z
+    webUrl: "https://www.analyticsinsight.net/role-of-artificial-intelligence-in-the-indian-education-sector/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 47
     images:
-      - url: "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
-        width: 686
-        height: 400
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Role-of-Artificial-Intelligence-in-Indian-Education-Sector.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
+    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+    publishedDateTime: 2021-10-18T07:21:00Z
+    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+    type: article
+    provider:
+      name: 13abc.com
+      domain: 13abc.com
+    quality: 35
+    images:
+      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/GzLHDnw7phXM2cnTJTCNMe2fXPY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HJ67SEZ74J7QJC4F5W54M66ZPU.jpg"
+        width: 980
+        height: 571
         isCached: true
 
 secured: "sM/7FD8VQPUZePWmx8ek+4m10PX9SXHjcdhodY8NmlCMzHoeYiuOxpYGGQIgUviFMa25i7ECE3Se+EZebKMqWsbIJmVrtuTJxB2m60uOWitm4njXsK954rv0p8UY8I+7UYxG02X36DET/MSQDHagSyfLegQAoJ0m0nmE6OAHVAvMIQo2M9PlT8dy35wAF8kVuTFqAL6E3cP8ePBXorlD7bmE/wZlGBDgJOIdGpjSAadSPpnPhuHqMMaHVAXhnVodebmhDfASLrOZpnZA0+0lYYhS+CyO+LvohkIxiPU2psFwPJTDdOhcR8RaV+IeL2DZ5SU5eFcQIr8uMVYoMoaDDV8hnpfq4cvR1VRcNPNZOjI=;bEJmWoPJgAEhsPhuYwLdPw=="

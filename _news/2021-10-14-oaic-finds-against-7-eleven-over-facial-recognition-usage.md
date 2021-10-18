@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/security/oaic-finds-against-7-eleven-over-facia
 webUrl: "https://itwire.com/security/oaic-finds-against-7-eleven-over-facial-recognition-usage.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: ITWire
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OAIC finds against 7-Eleven over facial recognition"
-    excerpt: "It follows an investigation by the Office of the Australian Information Commissioner (OAIC) into 7‑Eleven collecting facial images while surveying customers about their in-store experience. The investigation found customers' facial images were used to generate algorithmic representations,"
-    publishedDateTime: 2021-10-13T23:29:00Z
-    webUrl: "https://www.publicnow.com/view/31C28D63212B76B05406340A0E47F391E5FC33D2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
 
 secured: "CzQjEKIYlNSd382nPzIgFty+mSqXKhAg8FvfkcUucKulKSCH9ZzkijXXGXOi8p1n5yzfWG31ERK5/zPmN8lP9dNw54kr3EzFsEHcQI/kNmqblSx/TfAt6bf8b+l7PwBSneU1uMVgodwFbNGxxN6EHY9hIXJ68/o25e8DY2XEVekLONrzW18jJZLcKEUW+a9ocFB2UTS0m8h/0b0KJtZlpRW9jAI6O5GWyHNdhmmJDEdf54OxZgne1kS49v+kzMBgQHP90XuJequvs4W0F4uKoR+AVyfYh+r1UHY+PDAaXKe4+a+yg53xFzIT3I2ZCqaC6rtpyvPgMvw0vH/3kouXMvBKGheK6e4pzjzzQn5IVafnGWgszzXXL8tNfOOfHJssNKNeV8SdzW36GUvXWVTy63dfVfBj3YSuTFfdBmir5NfCYgSTigGbZNK8NrmZSkQhY8Th5zAPcFZYqJ8a0H5D35KINtoGGx2s5GQyStVdpkfLgnellpYiewpl3hSYyrhsngpFn4bN3XYLv9EwZHzeiQ==;yPW7fyQ+7LdRyNOKJ/lx8w=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-10-18-opening-up-a-physics-simulator-for-robotics.md",
-      "title": "Opening up a physics simulator for robotics",
-      "excerpt": "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere.",
+      "path": "_news/2021-10-18-deepmind-acquires-and-open-sources-robotics-simulator-mujoco.md",
+      "title": "DeepMind acquires and open-sources robotics simulator MuJoCo",
+      "excerpt": "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research.",
       "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/announcements/mujoco",
-      "originalUrl": "https://deepmind.com/blog/announcements/mujoco",
+      "webUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
+      "originalUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA",
-          "width": 512,
-          "height": 288,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T17:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/",
+      "publishedDateTime": "2021-10-18T09:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +49,9 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI",
-        "Google AI",
-        "AI in Robotics"
+        "Google AI"
       ]
     },
     {
@@ -136,49 +136,6 @@
       "provider": {
         "name": "PC Gamer",
         "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-all-hail-the-king-of-reinforcement-learning-deepmind.md",
-      "title": "All Hail The King of Reinforcement Learning, DeepMind",
-      "excerpt": "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/",
-      "originalUrl": "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1493,6 +1450,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-generate-music-with-an-rnn.md",
+      "title": "Generate music with an RNN",
+      "excerpt": "This tutorial shows you how to generate musical notes using a simple RNN. You will train a model using a collection of piano MIDI files from the MAESTRO dataset. Given a sequence of notes, your model will learn to predict the next note in the sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
+      "originalUrl": "https://www.tensorflow.org/tutorials/audio/music_generation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

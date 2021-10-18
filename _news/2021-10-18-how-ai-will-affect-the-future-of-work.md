@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-18T15:42:00Z
 originalUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
 webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Robotics
 
 images:
   - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
@@ -72,6 +73,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616993c95f7a5281d84c7233%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence Platforms Market"
+    excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-10-18T17:04:00Z
+    webUrl: "https://www.openpr.com/news/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    ampWebUrl: "https://www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."

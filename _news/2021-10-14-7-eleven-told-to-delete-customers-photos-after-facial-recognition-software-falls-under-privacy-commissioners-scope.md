@@ -41,15 +41,6 @@ related:
         width: 375
         height: 320
         isCached: true
-  - title: "OAIC finds against 7-Eleven over facial recognition"
-    excerpt: "It follows an investigation by the Office of the Australian Information Commissioner (OAIC) into 7‑Eleven collecting facial images while surveying customers about their in-store experience. The investigation found customers' facial images were used to generate algorithmic representations,"
-    publishedDateTime: 2021-10-13T23:29:00Z
-    webUrl: "https://www.publicnow.com/view/31C28D63212B76B05406340A0E47F391E5FC33D2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
 
 secured: "+m98+jIBJKgou7hNANVVtlz6ZHMPbeV2RlP4MdTKNvl8rD2Jup4v2Qv/6SAsZdWa1nZt7p5eqeaV+Vn9jnhWsYOKoU5l8RPPXqHdOCd3gtXKS7dv2ljtlbJ1pHiMDuhZC4hYenT90auO2CauWXU47gdQBWrWPT8VHa3nIqncjbVs2HLoUY8ynaAjFChLALE2XFiLRxTziKRpw9jC4YCgwsBsSBSANgWhNSO7d8MQVhL4u137JEFhigjEyNErJ6W2oyxAetoQ5NdT7BBKnG2l+ed5YU4WWv8EmUDJSC0TQeUr9NwxyEEbmpWzR5G6KA3hQRjeZgZgdTl6cVV53zZDTptmMgoquPjudygi97wCZNLkJ4FFD/sXTLUTdXA7+NrT1XLIHq4czaEzXLVN0epqNrWEVxtcA3P62euNXhhXtCxvtOGaGBq0czO4xCZj9uWmUN46h2Ht1ZLLRsdtE2hq1Q3TkNMbPpcvYNMMznGHmTpl1hkNEqC2S+qrc1lzaswlES6aSTKEBW+9bmGloKqlYA==;qb4CK/ZfhVBhFHOro/rwBQ=="
 ---

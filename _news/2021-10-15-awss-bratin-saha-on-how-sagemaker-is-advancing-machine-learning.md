@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-h
 webUrl: "https://www.eweek.com/big-data-and-analytics/awss-bratin-saha-on-how-sagemaker-is-advancing-machine-learning/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-4841-image009.png"
         width: 866
         height: 436
+        isCached: true
+  - title: "Gamify Amazon SageMaker Ground Truth labeling workflows via a bar chart race"
+    excerpt: "Labeling is an indispensable stage of data preprocessing in supervised learning. Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. Ground Truth helps improve the quality of labels through annotation"
+    publishedDateTime: 2021-10-18T17:48:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/gamify-amazon-sagemaker-ground-truth-labeling-workflows-via-a-bar-chart-race/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/15/ML-2967-image001.jpg"
+        width: 440
+        height: 473
         isCached: true
   - title: "How NSF’s iHARP researchers are enabling active learning for polar ice analysis using Amazon SageMaker and Amazon A2I"
     excerpt: "The University of Maryland, Baltimore County’s Bina lab is a multidisciplinary research lab for employing advanced computer vision, machine learning (ML), and remote sensing techniques to discover new knowledge of our environment, especially in the Arctic and Antarctic regions. The lab’s work is supported"

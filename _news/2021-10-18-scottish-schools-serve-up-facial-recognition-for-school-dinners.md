@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imgs.heart.co.uk/images/267119?crop=16_9&width=500&relax=1&signature=WciML_qJHM7bdgJWlztKQE3JofE="
         width: 500
         height: 281
+        isCached: true
+  - title: "Facial Recognition Payment Tools"
+    excerpt: "Nine schools in Scotland’s North Ayrshire’s school district have planned to incorporate facial recognition in their cafeterias. To"
+    publishedDateTime: 2021-10-18T15:50:00Z
+    webUrl: "https://www.trendhunter.com/trends/facial-recognition-1"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/facial-recognition-1"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/facial-recognition-1"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/facial-recognition-1.jpeg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Facial recognition system to speed up lunch payments in UK schools"
     excerpt: "Facial recognition technology has been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports."
@@ -184,6 +200,6 @@ related:
         height: 498
         isCached: true
 
-secured: "UNBKdvW+U9Aa38wi/9MpOCD+zhMQEB6X6ZACfosPV0VDHe8kU1FtcpoB8pcTMvSp3y6Izfo0XiTyxH9zSH8axL8MIKiQiQrmsTACx6SqT0mIkGk1CH4/dP11lffEOH2JQb22SSc2/UtmKfKvUTsg2hvrSTwEKKl1wi3KUGe4x0RNf4w4bdOU3iJ4RPG7tsnYh/AJo0NpiVuo7/KJSKPreCfVKUts/gL1gFjDCSwPxYuGBLhdqbxGEGQUMZT1H3B3CQR7AO0xTHWZ4zAKPrpyiIfs37kqflrb3CqZIS479dnJJkvG8st5OaernWSKuFEXtzgyZu9R9dXm7HaMNlzw9taMugFS1EObRaUE5ss2ZIM=;eanjox9zy78yzfTGdmmVRQ=="
+secured: "PY7PthTUD13RbRPScRoJkosdH12XpAITNuRpWC3i0gMF18MG5BzLAYJ4B74z3DDslNrtUNtjKCW/KXLOKdfu6Xiabmrzlzx39DNxzIgRePI0Fc3HCr+KgobYROJOhrstUDdYSkncn48mEbjbizx9EeqOueftseNwbrCaauZpBX/opoowEmOlFijOa+VuJmBo2Q5V8U2CxHav0s+35QHztS6m0tIepIts3btpS9RczrSwXh8FspC3Nk7E8psFQrbVC92w8VbUg7vBXeKIV5c7AbmaP7TkSg5Xmp7tcgTkrUn9yYgf7cKgS7cThEeKdDKpAj/GPzSN/66MYlK77uf7HnWBf1kgPJKq2EnRvyk8Z/4kMB+Z3A5s4iA7+GBUNLNISniEfo+lYHPN8T38i85fWiFTIarV/btUCZSJ3gK2KlKEEFhuBvUP4gG/d0/+27AUP+vYvj9MCey7x2JZFcugpdATFFqREJ2GS3XWo69D3vV6x1JXv1b1ueTjDNSI/qmmo3Emg64H9GKd/BPLtklDvw==;F5Osjr1dUJtEjBBefRq/LA=="
 ---
 

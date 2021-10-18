@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-08-23-ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus.md",
-      "title": "AI will help design chips in ways humans wouldn't dare, says Synopsys CEO de Geus",
-      "excerpt": "... of a keynote address he is giving Monday at the annual Hot Chips computer chip conference for advanced computing. The conference is being held virtually this year. Also: AI on the bench: Cadence offers machine learning to smooth chip design De Geus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/23/ce48c724-d43f-478a-86e0-6009e61f772b/aart-de-geus-interview-august-20th-2021.png",
-          "width": 1425,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
-      "publishedDateTime": "2021-08-23T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-23-ai-is-leading-a-chip-design-revolution-and-its-only-just-getting-started.md",
       "title": "A.I. is leading a chip design revolution, and it’s only just getting started",
       "excerpt": "An expansion of a tool from software company Synopsys can automate the entire chip design process, and it could revolutionize the industry.",
@@ -1454,6 +1402,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028.md",
+      "title": "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028",
+      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
+      "publishedDateTime": "2021-08-12T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

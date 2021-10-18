@@ -2,58 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2021-08-27-cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet.md",
-      "title": "Cruise is buying solar energy from California farmers to power its electric, self-driving fleet",
-      "excerpt": "Cruise, the self-driving car company under General Motors, has launched a new initiative called Farm to Fleet that will allow the company to source solar power from farms in California’s Central Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
-      "originalUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/cruise-solar.png?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/26/cruise-is-buying-solar-energy-from-california-farmers-to-power-its-electric-self-driving-fleet/amp/",
-      "publishedDateTime": "2021-08-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-27-xiaoice-robot-users-have-ended-up-in-therapy-for-falling-in-love-with-their-artificial-intelligence.md",
       "title": "XiaoIce robot users have ended up in therapy for falling in love with their Artificial Intelligence",
       "excerpt": "XiaoIce \"will never betray me, he will always be there,\" says a female user who needed psychological therapy after falling in love with her virtual assistant with Artificial Intelligence.",
@@ -1146,6 +1094,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-26-could-this-robot-actually-be-your-marketing-writer.md",
+      "title": "Could This Robot Actually Be Your Marketing Writer?",
+      "excerpt": "Because while scores of humans debated its content, it turned out most of the words weren’t actually written by a human at all. They were penned by a new artificial intelligence model called GPT-3, and posted by Liam Porr,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379745",
+      "originalUrl": "https://www.entrepreneur.com/article/379745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629321559-ent21-sept-bigidea.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379745",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379745",
+      "publishedDateTime": "2021-08-26T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

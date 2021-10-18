@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Platforms Market"
+    excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-10-18T17:04:00Z
+    webUrl: "https://www.openpr.com/news/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    ampWebUrl: "https://www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
     excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
     publishedDateTime: 2021-10-14T22:52:00Z
@@ -95,7 +111,7 @@ related:
     provider:
       name: cybersecurityintelligence.com
       domain: cybersecurityintelligence.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
         width: 806

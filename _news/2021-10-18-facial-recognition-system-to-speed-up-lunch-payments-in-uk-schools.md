@@ -75,6 +75,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial Recognition Payment Tools"
+    excerpt: "Nine schools in Scotland’s North Ayrshire’s school district have planned to incorporate facial recognition in their cafeterias. To"
+    publishedDateTime: 2021-10-18T15:50:00Z
+    webUrl: "https://www.trendhunter.com/trends/facial-recognition-1"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/facial-recognition-1"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/facial-recognition-1"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/facial-recognition-1.jpeg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Facial recognition used to take payments from school children"
     excerpt: "Schools in North Ayrshire say the system will speed up queues, but parents and campaigners have complained students aren't being adequately informed about the privacy risks."
     publishedDateTime: 2021-10-18T09:52:00Z

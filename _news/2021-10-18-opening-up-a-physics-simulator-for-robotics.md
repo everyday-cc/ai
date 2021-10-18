@@ -7,8 +7,8 @@ originalUrl: "https://deepmind.com/blog/announcements/mujoco"
 webUrl: "https://deepmind.com/blog/announcements/mujoco"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: DeepMind
@@ -28,6 +28,66 @@ images:
     width: 512
     height: 288
     isCached: true
+
+related:
+  - title: "DeepMind acquires and open-sources robotics simulator MuJoCo"
+    excerpt: "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research."
+    publishedDateTime: 2021-10-18T16:33:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DeepMind acquires MuJoCo physics engine for robotics R&D"
+    excerpt: "DeepMind, an AI research lab and subsidiary of Alphabet Inc., acquired the MuJoCo physics engine and will make it freely available in 2022."
+    publishedDateTime: 2021-10-18T16:56:00Z
+    webUrl: "https://www.therobotreport.com/deepmind-acquires-open-source-mujoco-physics-engine/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 101
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-18-at-12.46.15-PM.png"
+        width: 917
+        height: 524
+        isCached: true
+  - title: "All Hail The King of Reinforcement Learning, DeepMind"
+    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
+    publishedDateTime: 2021-10-14T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Deepmind Technologies announces first profits in 2020 after years of losses"
+    excerpt: "DeepMind Technologies is a British company specializing in artificial intelligence (AI). Founded in 2010 by Denis Hassabis, Mustafa Suleyman and Shane Legg, it was acquired by Google in 2014 for more than $628 million."
+    publishedDateTime: 2021-10-14T09:44:00Z
+    webUrl: "https://www.actuia.com/english/deepmind-technologies-announces-first-profits-in-2020-after-years-of-losses/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 37
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/10/DeepMind.png"
+        width: 800
+        height: 401
+        isCached: true
 
 secured: "+xCjCNjSehYlB+m5W6/1n5qtvpUpTdNUJhswrVCVIzib72pKx3cZxAy8PcKjeWk6GdffbsX9IgJ3Tpe1El0oXxGXMtgvKTbyXg/cf7sISaSTmS0G3xgvRsz+6c5B5K2s6L9AbEIBUZVjprPbItcY6TIoQgRsxpKRbqQVrUIExec/XfqJe/0Ys0VzlSyWuWMWQoVDL9lXO4tXR1+joQUh8MxwU7vJ6E9r+0AdB3Fj4n5pTWsrsjTbhdu2xse4cY7cgIVjIJ9XKa6/1ZQKMbUnEO4a10u7E2b4aWZWTIlFH+yjnVmlj3u5IYWBlR1IXpbTYcaJC85UUmsVCR+DVnJl1sh/5WL4j9KgP4LjUzNo/A8=;9kQmHx63cGxZttlt/JMINQ=="
 ---

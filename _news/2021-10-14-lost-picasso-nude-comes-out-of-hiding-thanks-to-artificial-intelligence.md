@@ -46,22 +46,6 @@ related:
         width: 1454
         height: 818
         isCached: true
-  - title: "'Lost' Picasso nude re-created, with help from AI"
-    excerpt: "Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists, he'd paint over existing canvases to create new works, thus concealing the earlier images."
-    publishedDateTime: 2021-10-14T00:04:00Z
-    webUrl: "https://www.cnet.com/news/lost-picasso-nude-re-created-with-help-from-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lost-picasso-nude-re-created-with-help-from-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
-        width: 1454
-        height: 818
-        isCached: true
   - title: "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting"
     excerpt: "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s."
     publishedDateTime: 2021-10-17T18:24:00Z

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-27-cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai.md",
-      "title": "Cerebras Upgrades Trillion-Transistor Chip to Train ‘Brain-Scale’ AI",
-      "excerpt": "Cerebras has outlined a series of innovations that mean its latest chip can train a neural network with up to 120 trillion parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
-      "originalUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/08/cerebras-chip-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/27/cerebras-upgrades-trillion-transistor-chip-to-train-brain-scale-ai/amp/",
-      "publishedDateTime": "2021-08-27T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-27-why-did-teslas-share-price-dip-following-its-ai-day-reveal.md",
       "title": "Why did Tesla’s share price dip following its AI Day reveal?",
       "excerpt": "How will the latest technologies unveiled at Tesla’s AI Day impact the Tesla share price and the autonomous vehicles market? Read our analysis.",
@@ -1387,6 +1344,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-23-ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus.md",
+      "title": "AI will help design chips in ways humans wouldn't dare, says Synopsys CEO de Geus",
+      "excerpt": "... of a keynote address he is giving Monday at the annual Hot Chips computer chip conference for advanced computing. The conference is being held virtually this year. Also: AI on the bench: Cadence offers machine learning to smooth chip design De Geus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/23/ce48c724-d43f-478a-86e0-6009e61f772b/aart-de-geus-interview-august-20th-2021.png",
+          "width": 1425,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/ai-will-help-design-chips-in-ways-humans-wouldnt-dare-says-synopsys-ceo-de-geus/",
+      "publishedDateTime": "2021-08-23T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

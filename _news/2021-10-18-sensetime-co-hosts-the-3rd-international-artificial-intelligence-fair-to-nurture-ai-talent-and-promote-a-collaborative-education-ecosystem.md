@@ -1,32 +1,27 @@
 ---
 category: news
 title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-publishedDateTime: 2021-10-18T07:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
-webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
+excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+publishedDateTime: 2021-10-18T07:21:00Z
+originalUrl: "https://www.13abc.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+webUrl: "https://www.13abc.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: 13abc.com
+  domain: 13abc.com
 
 topics:
   - AI
   - AI in Education
-  - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
-    width: 686
-    height: 400
+  - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/GzLHDnw7phXM2cnTJTCNMe2fXPY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HJ67SEZ74J7QJC4F5W54M66ZPU.jpg"
+    width: 980
+    height: 571
     isCached: true
 
 related:
@@ -44,7 +39,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Artificial intelligence is being used in a very wide way in the Indian Education Sector."
+    excerpt: "India's AI technology has the potential to make it a world leader. Artificial Intelligence (AI) is successfully employed in virtually every sector. With India's AI potential rising, now is the best moment to introduce AI in education."
+    publishedDateTime: 2021-10-18T10:58:00Z
+    webUrl: "https://www.analyticsinsight.net/role-of-artificial-intelligence-in-the-indian-education-sector/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 47
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Role-of-Artificial-Intelligence-in-Indian-Education-Sector.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
-secured: "srxDwZGCeAfMt8fCS+q1KCxkLHpvIKV1lGH3mzcagXzybT8Nu7b07dotZrewAmNKUS9Nwk1PiwkUq+IgTWnQY6bPb+Imi/0fMD0nFAusKzW55fEYeHVDoaQ/Mr48THGgEDqdcx0a8kTaT/yFm4Bf1VrRyt5Jgkfz5a7e7dXeVyMhKgofIGWBJ/r2qOyyCAFRBdP6B/x6I3GohW8kIjmfrtgNA5rwGFAz3ZdREp/Wc9NRVNg09NW3R5ucASH+c13paVLO3rdB5iEt6u5feEo6UPTTGWMCOQpDchNP77vzvMA+VxevG5X/+75v6G2t/LKpZJ2gcYjwRTbs+2qpN1nlDSjWFCxNjdar0HK/GQpDdSo=;pzc40HXwKKy7Pz/O+TiTsA=="
+secured: "c9u1MTY6lBcVnNw4WVtQT2AbOebIFWujUOt434nUWXvGUCZjKMoxVjjZ6hUQBtg49ZTu4b+wmQhBKoxs3ljFsulgx438XT8NDlD+vPfhkZYXL/0S6U1EGpvRxC/W6qgMcWrFVmq+sAJijdPBXJdcpfi1infwg/ZTXEwCTzMtgGwL+6hlQ6bHgwCgS65ebe5l3mmOf3TGehNiB7mXKbybwlEO/64VSNX5CqA4HpByzq8TcQmjI/jeYk2/CeWEOE/sk90VEYJWxNRRQeztVLPKuOiT0Hn7qWRWVs5PXwBX3vr044T+/9Ejup2clWn1eOlP4E+hcDYGupttJ45FB+eKbCNlh4sh3OYFu8Q6+BWixeg=;8dmGjawedyrZpI/4CQzT7w=="
 ---
 

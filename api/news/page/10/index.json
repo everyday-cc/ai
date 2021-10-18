@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-10-08-the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain.md",
-      "title": "The Wizard Of CX AI: Why Businesses Need The Human ‘Behind The Curtain’",
-      "excerpt": "To optimize the customer journey, brands should balance automation with logical controls based on strong business strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/08/the-wizard-of-cx-ai-why-businesses-need-the-human-behind-the-curtain/amp/",
-      "publishedDateTime": "2021-10-08T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-08-tamil-nadu-polices-face-recognition-software-has-privacy-experts-worried.md",
       "title": "Tamil Nadu police's 'Face Recognition Software' has privacy experts worried",
       "excerpt": "Tamil Nadu Chief Minister MK Stalin on October 4 announced a Face Recognition Software (FRS) to aid the state police in its investigations. The software, according to the government, would help compare the photos of suspects with a data resource of over 5.",
@@ -1168,6 +1117,58 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-elon-musk-releases-more-details-about-teslas-full-self-driving-beta-wider-release.md",
+      "title": "Elon Musk releases more details about Tesla’s ‘Full Self-Driving Beta’ wider release",
+      "excerpt": "Elon Musk has released a few additional details about Tesla’s “Full Self-Driving Beta” wider release, which should start tomorrow. Tesla’s plan for a “wider release” of its Full Self-Driving Beta, which was supposed to land six months ago,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
+      "originalUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/07/elon-musk-releases-more-details-tesla-full-self-driving-beta-wider-release/amp/",
+      "publishedDateTime": "2021-10-07T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

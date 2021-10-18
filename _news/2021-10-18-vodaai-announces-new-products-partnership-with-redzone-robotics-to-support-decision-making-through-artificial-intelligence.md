@@ -1,27 +1,29 @@
 ---
 category: news
 title: "VODA.ai Announces New Products, Partnership with RedZone Robotics to Support Decision-Making Through Artificial Intelligence"
-excerpt: "VODA.ai expands its award-winning decision-support to AI-guided wastewater asset management, and a partnership with RedZone Robotics. VODA.ai's machine learning engine, daVinci ML, now predicts wastewater incidents and pipeline issues to help utilities avoid failures."
-publishedDateTime: 2021-10-18T14:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/voda-ai-announces-new-products-partnership-with-redzone-robotics-to-support-decision-making-through-artificial-intelligence-1030874075"
-webUrl: "https://markets.businessinsider.com/news/stocks/voda-ai-announces-new-products-partnership-with-redzone-robotics-to-support-decision-making-through-artificial-intelligence-1030874075"
+excerpt: "VODA.ai expands its award-winning decision-support to AI-guided wastewater asset management, and a partnership with RedZone Robotics. VODA.ai’s machine learning engine, daVinci ML, now predicts wastewater incidents and pipeline issues to help utilities avoid failures."
+publishedDateTime: 2021-10-18T14:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Robotics
 
-secured: "PFLVObcUC3cNdJ6Gcb4wuuYmhtOuRIXQE5J91XbgkJh1ArHzqQbP3CnwHJhQzzdvdV+LjVvVkY4hIG+6W6R5eZuc4uLnnHIfTVZ88pUgDYwWRnyPsvdgYQpse6xwwdjU1vis+nNNTzvg3hdx8QCmuK0sdo85UKSTDbl/zxmMlkptdTgQ+QPOwjBnKwicAl6nfXqzrdZtYUlw3+yu6mUXsTjtF2CjpP6o3/cW7WTZTEbOc5HGDpS+Xv+3m6x+kV072RNgYZf8Nrt0+iY8Bcu05jbdCe4CPTDKMtidU5pVGOvEzvkyrweG2A5A33qLk0GdW+8tQyZRwdw8K8j8aZ0ACZO86J18R11YCll9N8/5Nmk=;RVExwy19psU/NypllKXOVg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "H6vgUywebir9YSq0sAgg78RXDmfnwgkuhCRns/aTOUDBV4LFwsW3qQ3shykyuX1aQ3t+XEtbIFZuy12FcjbjvdgLyrnTw2O2ksrdqCd9EmwLYHIAJey9HT8ifHEZeyi8xaglebshwMLt2zlJsWxPpB4I+zNAHjTOnAI+ObZfhxi3gZcDC20v+xkexR1pB3E4f3XTI+hZA5070hiIpQLJKwal2I15gNzvTjU1uppuk/DULaei7Nae7As6jdMr6bMDtFjFX3CY96h4tsWcObN6VvUA0xIrU7aTxs/tVxeandNhw1s8u8jrpatXQcKqxwcd+RgTNtgy7VCSlvjLaI0LvfKiNcf5FzgB4GPm+0Cy5hU=;IYoG9bApEZyUdE51gqhIEA=="
 ---
 

@@ -56,11 +56,11 @@ related:
   - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
     excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
     publishedDateTime: 2021-10-18T13:42:00Z
-    webUrl: "https://www.kktv.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+    webUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
     type: article
     provider:
-      name: KKTV11
-      domain: kktv.com
+      name: WWBT
+      domain: nbc12.com
     quality: 0
 
 secured: "4sy7KfEzG8Q9QFk3m5z6xvLLDHQTYFm//RnZVg81Ly7sw9yWFrPQhknXHAC5vk91EozzTRFq8yX6kA8mIe9/BrJDiqTGgypLzDHsdSEGpZsdo2zVndGCBUaENzQjEx45CRIXTtvW0GBunOjDclXqGAzx95t361okFlec1qq6oIy/lFiOQZHqmgm7sKc+vyYxDpfTaQx7ekE8B+U7Q0GXkWgH5f/UxkLclRbrK3TgDcEq/31Yt2rzUA3ypWlNaxAmNM269RdpPLMFwOOxqlbhDU9zYuKuixJsWb6Kvjn/76fJcNfhMjcHud6JMW/ecTAkEqzxZoxyBmxiI0f3lFRAPmn1B9fG+oqYrLxQDEBybT4=;0zzUwihKDtMjnyBf4O+TJw=="
