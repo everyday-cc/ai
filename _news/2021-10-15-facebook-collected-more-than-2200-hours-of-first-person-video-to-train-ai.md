@@ -3,18 +3,18 @@ category: news
 title: "Facebook collected more than 2,200 hours of first-person video to train AI"
 excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
 publishedDateTime: 2021-10-15T16:30:00Z
-originalUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+originalUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Facebook AI
@@ -39,6 +39,22 @@ related:
         isCached: true
   - title: "Facebook disputes report its AI has little effect on hate speech"
     excerpt: "Facebook exec says hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has little effect at curbing and removing violent content from the social network."
+    publishedDateTime: 2021-10-17T18:35:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook disputes report that its AI has barely reduced hate speech"
+    excerpt: "A Facebook exec says that hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has had little effect at curbing and removing violent content from the social network."
     publishedDateTime: 2021-10-17T18:35:00Z
     webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
@@ -256,6 +272,6 @@ related:
         height: 382
         isCached: true
 
-secured: "B3MfcbjGQ4LP4XNYKC2WvykUkOaubdXXqsfjqFI+aHKrdmDM5E3L+ol1ol7NsDOx/H7FYS4gDxMmbbURuN9FwCO7/6DlyT2QRllUZVIY5Qh2NxnFZMqOqhC7drJqbA213x6PEqJD6754WtMK8qkjRBGnIruhKUwARQCHPHkY0mBJjKo2nv6UzrHinblPeMTNVfk9HXQqLAnJpZpypEw8DA35GNSrHVcQo2u0N/peFc76rBNOkK9Rz1q3OMOe7KD9KX1YnD0GGFL20SB7l3/w/oQcd1zlE8gcU3A05k92yT+mn6vlpzpCkQT/iSeJZMdFRwfqWUJDce7+QP2a8vIozfey0D+W/bqm9hHtS3TC3CYIzAdLVnL2pV0gnm7TZz78IO1BKAYFT6/1Dre51teeB+fsDgwPp/2R3vMc2pQm5HP3b/Wz6Dy/CL3Z07Xrf6fif2DC891ND9+oMylzhgYOETEkQPYCbC/R2vIq7qhUY8CI2giotA2XYhMMXFFWMTOAVGznJ/0HJR9BebhMDb83Fw==;ueXbM9XQSe2wyRgbQ4Ndow=="
+secured: "iawgkFZ6DIWbifkYvv+38HapLC5E/vYGxC/I60dF6Jch3VuyiS9nFXAYQiO0FC7Olb5Vj/nRntCKBzM1+bYrF/eqYWcN0hFyIhkI4wb2teX204DpCspsBBi3MuSaJXBDOALQ0rT9kRBC5+3aKlqX5tQHC8WmZMY8ptoT5fj/z0mHXW2lOhUqzul0L0iwUnFhHgbG2628OOWpqEUA0sTDNC8X4zE4I+c6BUXjQX3sc+zvV28ugOJ7G4P2x4Hx6imtXFO60vU5W69LVqxMXU2ZI96eN/b2n7h8p/12BP+xJY72aV+dSvzy7vIhij8w3EQ3LmXO+XDVj+X9iHfogvfc1RME4pELlAPctu7mnqyds/iz3i7zQJRtfBXqxCcFsIBEvsPcL15WoGh0Mwug5qmgRq80nT69MkQPsEIeQSmsyxZNlmRqOFiXToTvbeDrAxsQrd6JQ2ChECQAzk7/S+7CBzbdoB7wPf1GuUBWnqPAGKM42VWxCt528yqM2KOKcilPr+elBgeYU90ya/EUfAk0ZQ==;WC1hKdx12j+3S7cNZWsKdw=="
 ---
 

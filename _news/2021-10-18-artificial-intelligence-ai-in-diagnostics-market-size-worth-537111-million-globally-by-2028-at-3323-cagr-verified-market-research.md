@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/10/g23422529/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/23422529"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23422529"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 secured: "94mxsdNB7oLAKQhvT3P3lZssTbHv8zDvaZZLBNy+0NmL8iJcPw8h7nktHwLCjuSShqt8DHIw1pb4QzxIAC7HPt3s+7rO3icdu0QiozorMsl8UgLCiu9HeQl7ZOzOpFpJUmY9BQjDwdVi80QT3wc9Fqud41dXHyD2DFLUu/hTDWhBkBcUbapplKA2AEa97mSoeX1geXyCla26eJosljhIj/B0wULUbMtXpmCu5VSdwGcc6JPe61/wMi0j0HgUjlK2wmC3/N1h9UUHbTMHMwEK+/p0xENUS0E7CEEPNGXb1Kio7t5bBqTEOLf3WbCM6uqqPwZ+cPOzg24QxbDQbM+F0Lcyw5EPUvUwGSwJnRePxII=;rBSulqX88hVAo3QkHhg4/w=="
 ---

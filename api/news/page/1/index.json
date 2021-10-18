@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
+      "title": "AI ethics maturity model: A company guide",
+      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "publishedDateTime": "2021-10-18T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
       "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
       "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -735,7 +787,7 @@
       "originalUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -837,7 +889,7 @@
       "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1154,48 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-intel-chooses-dahod-to-train-students-in-artificial-intelligence.md",
-      "title": "Intel chooses Dahod to train students in artificial intelligence",
-      "excerpt": "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
-      "publishedDateTime": "2021-10-15T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

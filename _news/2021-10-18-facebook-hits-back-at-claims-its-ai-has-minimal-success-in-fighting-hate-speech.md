@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claim
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
         width: 1001
         height: 563
+        isCached: true
+  - title: "Facebook claims it uses AI to identify and remove posts containing hate speech and violence, but the technology doesn't really work, report says"
+    excerpt: "Facebook AI removes less than 5% of hate speech viewed on the social media platform, according to documents received by the Wall Street Journal."
+    publishedDateTime: 2021-10-17T20:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-ai-doesnt-work-to-remove-hate-speech-and-violence-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://images2.markets.businessinsider.com/616c5fc438c19600183046d2?format=jpeg"
+        width: 702
+        height: 526
         isCached: true
   - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"

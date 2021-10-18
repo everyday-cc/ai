@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-14T14:15:00Z
 originalUrl: "https://siliconangle.com/2021/10/14/facebook-wants-ai-understand-world-first-person-perspective/"
 webUrl: "https://siliconangle.com/2021/10/14/facebook-wants-ai-understand-world-first-person-perspective/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/ar-habanjero-pepper.jpg"

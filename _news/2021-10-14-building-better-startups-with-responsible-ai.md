@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "IAG-backed research reveals need for investment in Responsible AI"
-    excerpt: "The index findings, which reveal that less than one in 10 Australia-based organisations have a mature approach to deploying responsible and ethical artificial intelligence (AI), signal the urgent need for Australian organisations to increase investment in responsible AI strategies Responsible AI is designed and developed with a focus on ethical,"
-    publishedDateTime: 2021-10-14T03:15:00Z
-    webUrl: "https://www.publicnow.com/view/7B3EA7A84BDCFC07700902FE98DC0DD6C154C57E"
+  - title: "UC adopts recommendations for the responsible use of artificial intelligence"
+    excerpt: "UC is one of the first universities in the nation to establish overarching principles for the responsible use of AI, with an emphasis on transparency and accountability."
+    publishedDateTime: 2021-10-18T17:47:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/uc-adopts-recommendations-responsible-use-artificial-intelligence"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 34
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/cpu-chip.jpg"
+        width: 686
+        height: 386
+        isCached: true
 
 secured: "ACi3c1zIEC5DhIOcy831Or6+4oMlbhPEieDz3YsaQT5UPhwKl8uMAi4a70hLQJcZFD/10ZS31IBSvIGKWnHNnTP3+B1m2aXUwvv/o/fDYEweZQnShZBBBCtTXhXpTWcCR70aVsFdOw66FTpZOHDCWNBBojjks9VPyyV5tBEGO8lkVavA5+SeLCpELw2h5IhZTIu3yX2tXq+NBAUbZ9j38lG/e5GlqDQNdWOC/ykWWqnZokms+q9rRZo0iKPi5KJpVQxJcZW9wLUSjtnutKh+2KffDwgjwCsoBA3glhLRQsbrc7uAVqJFXxYLAV550NCYJHyQpb3c/uJCcno4ycNwqbre/LSIIS3/72rEc9znQMfUjD1KXqq5YKYeax07GnIbxJdSyx//MVYBVrPT+BAaRbvlHIjObWfCwhHoJjzcSUsnS+HxzWKGdFcwTYfOaIm1bVHXdd6lrjKHgXTAMZmmbAtsH6qH1c/58a8ghM5Xu1POKqljFnSdHXk3jn5rOd/z4TVwP/O5flTOsN8QttSo5A==;bLS9snnIedRuksw+Gpf3Qw=="
 ---

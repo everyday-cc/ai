@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 929
         isCached: true
+  - title: "Amazon-Owned Zoox Expands Self-Driving Car Tests to Rainy Seattle"
+    excerpt: "Amazon-owned autonomous driving startup Zoox is set to test its mettle on the rainy, hilly streets of Seattle with a new expansion of its self-driving car trials in the Washington city. Patrick Kulp is an emerging tech reporter at Adweek."
+    publishedDateTime: 2021-10-18T19:09:00Z
+    webUrl: "https://www.adweek.com/commerce/amazon-owned-zoox-expands-self-driving-car-tests-to-rainy-seattle/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 39
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/10/amazon-zoox-seatlle-2021-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Apple Self-Driving Car Hits a Curb, Not as Tragic as It Sounds"
     excerpt: "Apple is believed to be working on its very own self-driving car, and while the company isn’t saying a single thing about this ambitious project, what everybody knows is the iPhone maker is currently testing autonomous driving technology with the help of a fleet already on American roads."
     publishedDateTime: 2021-10-16T20:40:00Z

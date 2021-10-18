@@ -246,7 +246,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/ar-habanjero-pepper.jpg"
         width: 800

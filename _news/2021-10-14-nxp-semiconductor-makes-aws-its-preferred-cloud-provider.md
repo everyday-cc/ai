@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/nxp-semiconductor-makes-aws-its-
 webUrl: "https://www.telecompaper.com/news/nxp-semiconductor-makes-aws-its-preferred-cloud-provider--1400513"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NXP Semiconductors moves all of its chip design workloads to Amazon’s cloud"
-    excerpt: "NXP Semiconductors N.V. has kicked off what could be the start of a new trend in the computer chipmaking industry, announcing that it’s moving the vast majority of its electronics design automation workloads to Amazon Web Services Inc."
-    publishedDateTime: 2021-10-14T04:01:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/nxp-semiconductors-moves-chip-design-workloads-amazons-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg"
-        width: 960
-        height: 629
-        isCached: true
   - title: "NXP Semiconductors Selects AWS for EDA"
     excerpt: "Today, Amazon Web Services (AWS) announced that NXP Semiconductors N.V. has selected AWS as its preferred cloud provider and is migrating the vast majority of its electronic design automation (EDA) workloads from NXP data centers to AWS."
     publishedDateTime: 2021-10-14T15:36:00Z

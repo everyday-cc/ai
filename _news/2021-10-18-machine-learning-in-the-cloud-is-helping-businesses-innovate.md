@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/10/15/1037291/machine-learning-in
 ampWebUrl: "https://www.technologyreview.com/2021/10/15/1037291/machine-learning-in-the-cloud-is-helping-businesses-innovate/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/15/1037291/machine-learning-in-the-cloud-is-helping-businesses-innovate/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/BLAB-Episode-Page-Header-Bratin-e1633354749425.jpg?w=1200"

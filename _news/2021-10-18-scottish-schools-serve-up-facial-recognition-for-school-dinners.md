@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -199,6 +199,15 @@ related:
         width: 750
         height: 498
         isCached: true
+  - title: "Facial recognition system to speed up lunch payments in UK schools"
+    excerpt: "Facial recognition technology have been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports. Instead of conventional payment methods like cards or fingerprint scanners,"
+    publishedDateTime: 2021-10-18T21:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211018/3839763.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "PY7PthTUD13RbRPScRoJkosdH12XpAITNuRpWC3i0gMF18MG5BzLAYJ4B74z3DDslNrtUNtjKCW/KXLOKdfu6Xiabmrzlzx39DNxzIgRePI0Fc3HCr+KgobYROJOhrstUDdYSkncn48mEbjbizx9EeqOueftseNwbrCaauZpBX/opoowEmOlFijOa+VuJmBo2Q5V8U2CxHav0s+35QHztS6m0tIepIts3btpS9RczrSwXh8FspC3Nk7E8psFQrbVC92w8VbUg7vBXeKIV5c7AbmaP7TkSg5Xmp7tcgTkrUn9yYgf7cKgS7cThEeKdDKpAj/GPzSN/66MYlK77uf7HnWBf1kgPJKq2EnRvyk8Z/4kMB+Z3A5s4iA7+GBUNLNISniEfo+lYHPN8T38i85fWiFTIarV/btUCZSJ3gK2KlKEEFhuBvUP4gG/d0/+27AUP+vYvj9MCey7x2JZFcugpdATFFqREJ2GS3XWo69D3vV6x1JXv1b1ueTjDNSI/qmmo3Emg64H9GKd/BPLtklDvw==;F5Osjr1dUJtEjBBefRq/LA=="
 ---

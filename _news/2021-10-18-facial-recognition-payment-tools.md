@@ -195,7 +195,16 @@ related:
         width: 750
         height: 498
         isCached: true
+  - title: "Facial recognition system to speed up lunch payments in UK schools"
+    excerpt: "Facial recognition technology have been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports. Instead of conventional payment methods like cards or fingerprint scanners,"
+    publishedDateTime: 2021-10-18T21:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211018/3839763.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "EVbyvZmCdTIKCEk2LN7rECa5LZpChvhYTT2miMNP1uO1C1tfkvuqN8slJ2a2y3AiHSXl9CRztqWkNNC51jDwI6DBcynO1LAPa+VOQLjO8qbBJbDwIayCbFIo21oqJZ60oOas3UKqmVfuX+JtV+JNhiYVtX7lwOhtizVO4SKKMPxskvA9rhJQcnAEN/pdUsgB/PNEPDxjGXcGMk5IZaSGwt/E8SuLlDAYf4+oFsi9S3JWmr3LiORprlOFbcCJkrUDL6kamCypGmrjyje12i14GkrlpQZElfWCD6KXVlp1+f91ZSXXYeQMPlFU2jcQeSqWdFIaWrugfFyH50PtRZXimnyzDFym5rSqk9hkqqkNj9s=;vo8nZGWm3M/lEOiYqagdsA=="
+secured: "ZuoMyMHpLY3L12RmNoGrFm8j81SqcEHVy4RTIZPUFwUjN++zJRpqudLpXGDtoRjCVy3LmuEY54FOJg3gS99ZlzoolEwJ3uEnPPBKZBcZBZVEbIG/1xnVJqc3s2x2ICoPC9mlXUGLlkhjS7oLKR3hps4pa14NAgfs8GJ818EQUZfC1SzfJEY5zhqGZ0sXPYEXtoCm5ssGfGHZmmIVKi6XT7r4oagTSSTIjyYoJoZTxQsoi7ZquQFuZE/gYfTvfx6rCyR8pOgQu9X97iH/m0zowGuB42AvSD6RxwtEJlnVl+FAv5qEAw1O1oNA1KwuaUGBglYVVeK8ZNyu/+8gg+OPnzPPzmKlZHgGkPu/0cAdDXab+0V7C5ihHGuoUxIYLls9ahy/nWPEv/p3KQ5Rhg1Wa7TAOdekWMlObmDkXJFWEwgpgRpvxNoHx77qkVQyrabDUoL6dPghS0p4xouvWuijYsNbHoJvZSo9YO+Yf/W9Ujoe6eV+vK1qkCnwAyFnhoH1coySP4GtXhmCwXv6VOoi8A==;YXBfynwJuUiMxk8lcMOEfA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/markets/gitex-global-2021-uaes-bus
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/gitex-global-2021-uaes-businesses-and-consumers-get-ready-for-more-of-ai-5g-and-blockchain-in-2022-1.1634444247818"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Gitex 2021: AI tech in cycling tracks to detect if riders are wearing helmets"
-    excerpt: "New artificial intelligence technology in Dubai’s cycling tracks can detect if riders are wearing helmets, Dubai’s Roads and Transport Authority ( RTA) said on Sunday. The smart technology is being displayed at the ongoing Gitex technology week,"
-    publishedDateTime: 2021-10-17T14:18:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Gitex_2021_AI_tech_in_cycling_tracks_to_detect_if_riders_are_wearing_helmets-SNG_252780138/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_252780138/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_252780138/"
+  - title: "This AI Powered Multi-Chain Network Is Building an Internet of Blockchains"
+    excerpt: "The ever-evolving blockchain technology has been around for over a decade now, but there are still various obstacles need to be addressed, such as its lack of scalability, interoperability, security and usability."
+    publishedDateTime: 2021-10-18T18:27:00Z
+    webUrl: "https://www.livebitcoinnews.com/this-ai-powered-multi-chain-network-is-building-an-internet-of-blockchains/"
+    ampWebUrl: "https://www.livebitcoinnews.com/this-ai-powered-multi-chain-network-is-building-an-internet-of-blockchains/amp/"
+    cdnAmpWebUrl: "https://www-livebitcoinnews-com.cdn.ampproject.org/c/s/www.livebitcoinnews.com/this-ai-powered-multi-chain-network-is-building-an-internet-of-blockchains/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
+      name: Ripple
+      domain: livebitcoinnews.com
+    quality: 55
+    images:
+      - url: "https://www.livebitcoinnews.com/https://s3.amazonaws.com/lbn-s3/2021/10/Picture26.jpg"
+        width: 432
+        height: 243
+        isCached: true
 
 secured: "XRpzcvY0Euc7m03y77TvZKaPHJsbug+yc3sw+sJ+30cFS53qEYxrFfczdLqwmsiRHmQqBU22QMisMUhKQwOjc5P6PC0cDFKKWxnNuZ8ncnRBQbiyiG7MIG3aFWXa8f4WWsw6NWwSPPqBk28TUNnCP0A0+Opli3SKyG2N9VfojvoCnl/CMMjJlqnLNY6CdrdSMzDiqg6mzXjEdE+n+6BZ+InuaRU1S8LFv3ytE0bV652Ww6n0JQuIKm5HiqSO1VcXub6UZAgIh35k4BWcOvFj4Tue/X9ta3uN6+walse/+hIDlZcvYwgM5VEQOb3qc15Ls2N3j7PVyX3xBv7isAfgEVeub9LcJbd7hvaTJtL/MaA=;vsMpKzXgKfRECHMAFW6S9Q=="
 ---

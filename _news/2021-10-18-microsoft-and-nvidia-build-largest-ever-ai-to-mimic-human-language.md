@@ -8,7 +8,7 @@ webUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build
 ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
@@ -53,11 +54,11 @@ related:
   - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
     excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
     publishedDateTime: 2021-10-18T13:42:00Z
-    webUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
     type: article
     provider:
-      name: WWBT
-      domain: nbc12.com
+      name: 13abc.com
+      domain: 13abc.com
     quality: 0
 
 secured: "wVdnWUblQmEDqdlX28zgNbgBTwIMzA4Ftf6HZPF42pasds57icmwL7WE9a7SDU7n6XfiaUfcH2K7pDeh28teeprf8O+P/XErnN63l3IOw/N2Nw0N1rMSkIbtqHq2Yf6XbF4SKYJxiSBV/KMYiuzFQp2CYYNmdTXvQVSzYH7pkIHXE8mmvaruvp1Zt7rk0tr2XUVByqadOzxiIaEwLK9s0QYsHiOkSpbQ/6qVSNK/uWJZwDfT7mESaJPxOcesCFXoyhIYJ8N5+Bv6eYMy0YY+uZTucuDAPfkjR38zuhHfamuhJlG37nrXjpaJV0bj+yshLNTuT+lhhTNyZ8beGfzd9fum82r6VVWEajrDW0Z/WO8/TdJ/85LMQVBTsrvgvBMWa+ELIFPt/7BN8q9YcwnCwbN2dwECDnMtaAN1AUN79LrSHYmXNEZCw8YetJwG/PfFkxmmmG8PO79xH/sPGBMrusA/nx2Svg9CYdHI//iXHc2NGhAp1cmS/BtKzJrggM0l0zq2+kgrWDdg4Jcm2jaf5Q==;jysc2CxRy7UKihqyI0gk1Q=="

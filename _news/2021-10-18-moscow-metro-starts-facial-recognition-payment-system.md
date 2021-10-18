@@ -104,6 +104,20 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 31
+  - title: "Face biometric payments launch at scale in Moscow Metro"
+    excerpt: "Moscow metro system has seen the launch of a new biometric facial recognition payment system this past week as the world’s first mass-scale system of its kind."
+    publishedDateTime: 2021-10-18T19:13:00Z
+    webUrl: "https://www.biometricupdate.com/202110/face-biometric-payments-launch-at-scale-in-moscow-metro"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "fkB1yFS3frJHmT+ZMGK24Fe61zkifRaTgAUPTJobuzBo2A3rVvkzLxjlfv/WXdwkNQf+tDq71JPsCkmxO0g4oaMMI9PB3zRhKm5bSV4Qqoslqo+Z4j/FxTKXgTgorVAjNDSRNxsGikJoMQ2x+ipSHc75M2RYuS/9WT4xNRzi7sCkqhQ5ziwl+yOuo2oQR7R+ieGiM5TGA7+MNSJzeyGj0/jAWpBVrl8aUe/XvBh8HnlPaNdPtZMu6tf414PetIuQyKIl0I9lg1VgUKvGVRtG24hpT1HHlNdXUloRBod4pOw13Bohz09qyUX/XDJjNt2sS/AJXWxHOyGUgpWW2GpNZjjE+amTGx4Gzckizfvmi0s=;/NTnL7Con9h3QZXFhx/H/w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_252780138/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_252780138/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,21 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "Gitex Global 2021: UAE's businesses and consumers get ready for more of AI, 5G and Blockchain in 2022"
-    excerpt: "IT spending was all about digital and WFH needs - 2022's will be quite different Dubai: With UAE and Gulf economies having overseen some of the most successful handling of the Covid spread, is it time businesses shifted their tech investment focus?"
-    publishedDateTime: 2021-10-17T05:05:00Z
-    webUrl: "https://gulfnews.com/business/markets/gitex-global-2021-uaes-businesses-and-consumers-get-ready-for-more-of-ai-5g-and-blockchain-in-2022-1.1634444247818"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/gitex-global-2021-uaes-businesses-and-consumers-get-ready-for-more-of-ai-5g-and-blockchain-in-2022-1.1634444247818"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/gitex-global-2021-uaes-businesses-and-consumers-get-ready-for-more-of-ai-5g-and-blockchain-in-2022-1.1634444247818"
+  - title: "RTA and EVOTEQ to hold live demo of the use of AI in Cycling Tracks' solution at GITEX 2021"
+    excerpt: "RTA and EVOTEQ to hold live demo of the use of AI in Cycling Tracks' solution at GITEX 2021    Using AI in Cycling Tracks' sol"
+    publishedDateTime: 2021-10-17T17:40:00Z
+    webUrl: "https://menafn.com/1102983338/RTA-and-EVOTEQ-to-hold-live-demo-of-the-use-of-AI-in-Cycling-Tracks-solution-at-GITEX-2021"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 42
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://imagevars.gulfnews.com/2021/10/17/Stock---Gitex-2021_17c8ca00c59_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?165345"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Gitex 2021: New innovations in self-driving transportation, smart parking to be unveiled by RTA"
+    excerpt: "Dubai's Roads and Transport Authority (RTA) will unveil technology that uses artificial intelligence (AI) in cycling tracks to count the number of u"
+    publishedDateTime: 2021-10-16T18:51:00Z
+    webUrl: "https://menafn.com/1102980287/Gitex-2021-New-innovations-in-self-driving-transportation-smart-parking-to-be-unveiled-by-RTA"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/16/KT_5e015image_story.jpg"
+        width: 1024
+        height: 531
         isCached: true
 
 secured: "KX3PfBAdz08niOMSZaLJhwhCkT2c3IDAv8gdYxe46PQwaNM6Tvfo4H4T5oKuq6VoEs5ud+gGCw0sTv/Sfgrb4jXS1S6zj8b3uxtMCmri8Cp75t6GuzmVFb1UC7bEeeU+ByiQoeEIOIkqgMppuvYYlzgWuQNT+AmTfE/bmVSX3VxfdQIgFUdLl9mBI/6yCuQxSQzCSs/SvPGrx28w7lqcMy3khX1OudN2oxsxxU/bjaPMU7BTIxlLbz9VDmpBeFXup/kZzslF6yO3KyfBMSUb84APyoiVXpGLaTT6Yve0B+PqUkM2rynA9D3IU8Uj/deUqN0cXakAFdWE8z7gj52i05yAKA+rR8nkMOOmgp7FqzI=;iorpbzignVaMQQ9x51uJng=="

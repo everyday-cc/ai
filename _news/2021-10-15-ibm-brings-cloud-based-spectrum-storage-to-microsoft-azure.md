@@ -44,7 +44,7 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
         width: 483
@@ -53,11 +53,11 @@ related:
   - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
     excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
     publishedDateTime: 2021-10-18T13:42:00Z
-    webUrl: "https://www.nbc12.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
+    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
     type: article
     provider:
-      name: WWBT
-      domain: nbc12.com
+      name: 13abc.com
+      domain: 13abc.com
     quality: 0
 
 secured: "Wv2eJ/hnw+ZCRo5uQI1frYY8mjV+JOinuVbcogXSclDdUNSqUg5uLguSSRmrxA88afm3mxX+lSy0YHCbFRZ/ZpUPfRjsAXpDiOR3rCfk2q3HyHPOPQ560gMt6GHRhlYHvCriaHtAhpBGyDMVuxKX/Gtzkom9yg6XKxhMJ3gTjTsm60iI1Pd8T/vQHdbuutQwI4xgXo3Wub7UUucaeZCswLfXgiPoodcmLMsZmqEOqQ//XTE/W8mCFApDROk+M08fGNTcncxo8LQn2CBlbWTNykt9lJ26kWpgzvWDRERgQ0ZwdLBthbRDA1b3pu2mEBgvW9LNCRaMLZSIs4iB8Tk0/U0KTldgzdsNDgePekg/axWRRVxinhpatgmIxMhHHlO2jVpck86NzfQSefmgqn9PN5JdpLg6Vtr3/SCeegktzAc0eFKheUo4eJ0LIdV/j+OGL2HKRZVskvilU4Hb2eHp9/WKuSggbrg8AtekaKIp/1U+6M3e2/fTbILjQS11VTYNWL13jJVx9DW9Fs8YGmgFkw==;t+r0V9yuYocM7gxaj0UTRA=="

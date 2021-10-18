@@ -70,6 +70,20 @@ related:
         width: 1001
         height: 563
         isCached: true
+  - title: "Facebook claims it uses AI to identify and remove posts containing hate speech and violence, but the technology doesn't really work, report says"
+    excerpt: "Facebook AI removes less than 5% of hate speech viewed on the social media platform, according to documents received by the Wall Street Journal."
+    publishedDateTime: 2021-10-17T20:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-ai-doesnt-work-to-remove-hate-speech-and-violence-2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+    images:
+      - url: "https://images2.markets.businessinsider.com/616c5fc438c19600183046d2?format=jpeg"
+        width: 702
+        height: 526
+        isCached: true
 
 secured: "TqZfSGgc0KR8G31MVKe51ZZ2ZVj7oqASMhIq32du3ih1VtygV3B4PWdmh9ckejt6ada6vGlX9xpM94eN8i7MLHvzC0pV/9vYuk8Ts9d4siB7UGpL2Qtjc2uc3/xGht/1v8ewBSPgLBh4KhwAcWLiaGzXbq6kTHYNwZnBhCBRESOKNo0oAXH6bBF+sjZxOEmmQ2DnzqoVmJpKwFLMSA9RGG5aoPttJiKLxeHcm93qZvPHat+MkzVqFOnQlQFsWf872d57tWfFoLw9YSeGXHohrYmvEP3POsWVYU+v4D1u6EHzuVcREJEHCHU7ARHjxfeNkNE7trzQeBKa/j/8OBzK19afboicBIfHG95nQVpVGoA=;iU0FJ6wKzrvISMLvKswdug=="
 ---

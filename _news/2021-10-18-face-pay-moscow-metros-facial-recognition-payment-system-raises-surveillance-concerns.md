@@ -95,6 +95,20 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Face biometric payments launch at scale in Moscow Metro"
+    excerpt: "Moscow metro system has seen the launch of a new biometric facial recognition payment system this past week as the world’s first mass-scale system of its kind."
+    publishedDateTime: 2021-10-18T19:13:00Z
+    webUrl: "https://www.biometricupdate.com/202110/face-biometric-payments-launch-at-scale-in-moscow-metro"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
   - title: "Moscow metro starts facial recognition payment system"
     excerpt: "Moscow metro has launched a system to take fare payments via facial recognition at over 240 stations across the Russian capital, according to Engaget, citing The Guardian. Passengers can now pay for their trip by looking at a camera."
     publishedDateTime: 2021-10-18T15:41:00Z

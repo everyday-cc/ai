@@ -2,6 +2,100 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-05-nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development.md",
+      "title": "Nvidia and VMware team up to help enterprises scale up AI development",
+      "excerpt": "AI projects using VMware vSphere with Tanzu can now begin running trials with Nvidia AI Enterprises software suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1c3ac227b0ce47b901cd7969bdb6a3035900d68e/2021/08/24/b3e8396b-756e-4968-b5ac-1fc5d9c07b53/nvidia-ai-enterprise-image.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-vmware-team-up-to-help-enterprises-scale-up-ai-development/",
+      "publishedDateTime": "2021-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-this-is-best-practice-for-using-facial-recognition-in-law-enforcement.md",
+      "title": "This is best practice for using facial recognition in law enforcement",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Lofred Madzou, Project Lead, Artificial Intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
+      "originalUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/10/face.webp",
+          "width": 687,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/10/05/this-is-best-practice-for-using-facial-recognition-in-law-enforcement/amp/",
+      "publishedDateTime": "2021-10-05T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-gap-inc-acquires-ai-startup-cb4-to-drive-sales.md",
       "title": "Gap Inc. acquires AI startup CB4 to drive sales",
       "excerpt": "Gap has acquired AI startup CB4 to improve retail operations through predictive analytics and demand sensing. “We believe artificial intelligence and machine learning will shape the future of our industry.",
@@ -984,74 +1078,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cloud-providers-green-data-center-market-is-projected-to-witness-market-growth-of-2350-by-forecast-2027.md",
-      "title": "Cloud Providers Green Data Center Market is projected to witness market growth of 23.50% by forecast 2027",
-      "excerpt": "In the forecast period from 2020 to 2027, the cloud providers green data centre market is projected to witness market growth of 23.50%. The Data Bridge Market Research Report on the cloud providers green data centre market offers analysis and insights into the various factors expected to be prevalent over the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "originalUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "publishedDateTime": "2021-10-04T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-roboflow-and-ultralytics-creator-of-yolov5-partner-to-streamline-custom-computer-vision-model-development.md",
-      "title": "Roboflow and Ultralytics, Creator of YOLOv5, Partner to Streamline Custom Computer Vision Model Development",
-      "excerpt": "Roboflow, an end-to-end computer vision developer platform, and Ultralytics, the creators of the popular open source YOLOv5 model, have partnered to launch a streamlined way to prepare, label, and train computer vision models on custom datasets with an emphasis on active learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

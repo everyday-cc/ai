@@ -40,18 +40,18 @@ related:
         height: 500
         isCached: true
   - title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-    publishedDateTime: 2021-10-18T07:21:00Z
-    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+    excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+    publishedDateTime: 2021-10-18T07:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/10/18/9471034.htm"
     type: article
     provider:
-      name: 13abc.com
-      domain: 13abc.com
-    quality: 35
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
     images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/GzLHDnw7phXM2cnTJTCNMe2fXPY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HJ67SEZ74J7QJC4F5W54M66ZPU.jpg"
-        width: 980
-        height: 571
+      - url: "https://mma.prnewswire.com/media/1662461/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
+        width: 686
+        height: 400
         isCached: true
 
 secured: "sM/7FD8VQPUZePWmx8ek+4m10PX9SXHjcdhodY8NmlCMzHoeYiuOxpYGGQIgUviFMa25i7ECE3Se+EZebKMqWsbIJmVrtuTJxB2m60uOWitm4njXsK954rv0p8UY8I+7UYxG02X36DET/MSQDHagSyfLegQAoJ0m0nmE6OAHVAvMIQo2M9PlT8dy35wAF8kVuTFqAL6E3cP8ePBXorlD7bmE/wZlGBDgJOIdGpjSAadSPpnPhuHqMMaHVAXhnVodebmhDfASLrOZpnZA0+0lYYhS+CyO+LvohkIxiPU2psFwPJTDdOhcR8RaV+IeL2DZ5SU5eFcQIr8uMVYoMoaDDV8hnpfq4cvR1VRcNPNZOjI=;bEJmWoPJgAEhsPhuYwLdPw=="

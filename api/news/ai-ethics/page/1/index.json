@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
+      "title": "AI ethics maturity model: A company guide",
+      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "publishedDateTime": "2021-10-18T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
       "title": "Can AI Help Prevent Natural Disasters?",
       "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
@@ -1418,50 +1470,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
-      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
-      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
-      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
-          "width": 640,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
-      "publishedDateTime": "2021-09-23T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

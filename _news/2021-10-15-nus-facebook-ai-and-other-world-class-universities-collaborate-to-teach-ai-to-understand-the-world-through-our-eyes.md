@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook disputes report that its AI has barely reduced hate speech"
+    excerpt: "A Facebook exec says that hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has had little effect at curbing and removing violent content from the social network."
+    publishedDateTime: 2021-10-17T18:35:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts."
     excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes."
     publishedDateTime: 2021-10-17T12:17:00Z
@@ -218,13 +234,13 @@ related:
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 37
   - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
     excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."

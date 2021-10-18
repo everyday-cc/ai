@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-07-first-processor-designed-using-artificial-intelligence.md",
+      "title": "First processor designed using Artificial Intelligence.",
+      "excerpt": "For this reason, a team at Google Brain has explored the use of artificial intelligence techniques for the design of its fifth generation of AI processors (TPU-v5). Using reinforcement learning techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/first-processor-designed-using-artificial-intelligence-evlabs",
+      "originalUrl": "https://www.linkedin.com/pulse/first-processor-designed-using-artificial-intelligence-evlabs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGRB2kXJU1Vmw/article-cover_image-shrink_720_1280/0/1633553828574?e=1640217600&v=beta&t=pquSrE7ljbXKKFms1upE1Agcvl-sgwUo8B6KS7rzcNA",
+          "width": 1123,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-ecommerce-accelerator-patterns-machine-learning-and-ai-raises-225m.md",
+      "title": "Ecommerce accelerator Pattern’s machine learning and AI raises $225M",
+      "excerpt": "Today, ecommerce accelerator Pattern announced its $225 million growth equity investment for its machine learning and AI-driven logistics ... of impressive.” VentureBeat's mission is to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Online-shopping.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "publishedDateTime": "2021-10-06T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-robotics-pioneer-yoky-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
       "title": "Robotics pioneer Yoky Matsuoka on the human touch in her new personal assistant venture Yohana",
       "excerpt": "Yoky Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
@@ -1069,83 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-microsoft-for-startups-aniai-picked-for-global-grand-final.md",
-      "title": "Microsoft for Startups: Aniai Picked for Global Grand Final",
-      "excerpt": "Aniai was selected as one of the 10 startups in Q3 by Microsoft. \"Microsoft for Startups ... Its robots are further reinforced by its unique cognitive technology with artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "originalUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "publishedDateTime": "2021-10-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-sony-unit-to-introduce-edge-ai-sensing-platform-service.md",
-      "title": "SONY Unit to Introduce Edge AI Sensing Platform Service",
-      "excerpt": "Sony Group Corp.’s SONY subsidiary, Sony Semiconductor Solutions, has announced that its AITRIOS edge artificial intelligence (AI) sensing platform will be launched in Japan, the United States, and Europe in late 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
-      "originalUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
-      "publishedDateTime": "2021-10-06T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

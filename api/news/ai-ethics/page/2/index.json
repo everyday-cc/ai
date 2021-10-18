@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
+      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
+      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "publishedDateTime": "2021-09-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-ai-ethics-is-growing-up-towards-an-ai-maturity-model-organizations-can-use.md",
       "title": "AI ethics is growing up - towards an AI maturity model organizations can use",
       "excerpt": "When it comes to AI lessons organizations can use, the AI ethics punditry has been spinning its wheels. But there's good news: AI maturity models are emerging.",
@@ -1324,49 +1368,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-this-is-how-ai-will-accelerate-the-energy-transition.md",
-      "title": "This is how AI will accelerate the energy transition",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Espen Mehlum, Head of Energy,Materials",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "originalUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/09/robots.jpeg",
-          "width": 716,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/09/01/this-is-how-ai-will-accelerate-the-energy-transition/amp/",
-      "publishedDateTime": "2021-09-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
