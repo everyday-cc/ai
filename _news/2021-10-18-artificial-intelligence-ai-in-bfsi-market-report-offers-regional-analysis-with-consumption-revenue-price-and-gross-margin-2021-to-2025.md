@@ -28,49 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
-    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
-    publishedDateTime: 2021-10-14T14:36:00Z
-    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+  - title: "Global Airport Facial Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027"
+    excerpt: "The latest research study titled Global Airport Facial Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
+    publishedDateTime: 2021-10-17T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
+    excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
+    publishedDateTime: 2021-10-18T14:06:00Z
+    webUrl: "https://www.openpr.com/news/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
+    ampWebUrl: "https://www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 55
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
-        width: 800
-        height: 400
+      - url: "https://cdn.openpr.com/U/a/Ua18449376_g.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market set for explosive growth"
-    excerpt: "Latest Market Research on “Artificial Intelligence (AI) in BFSI Market” is now released to provide hidden gems performance analysis in recent years and years to come. The study explains a detailed overview of market dynamics,"
-    publishedDateTime: 2021-10-17T09:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-bfsi-market-set-explosive-growth-vasavada"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH232T5m6_NvQ/article-cover_image-shrink_600_2000/0/1634461586575?e=1640217600&v=beta&t=-u-NfvUe2UY_NKLYdRKpl9Cm4pC3bfpmbLUY9XOqjvU"
-        width: 537
-        height: 358
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
-    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
-    publishedDateTime: 2021-10-15T03:21:00Z
-    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
+  - title: "Voice Assistant Application Market worth $11.2 billion by 2026"
+    excerpt: "According to a new market research report Voice Assistant Application Market with COVID 19 Impact by Component Deployment Mode Organization Size Channel Integration Websites Mobile Applications Application Area Smart Banking Connected Healthcare and Region Global Forecast to 2026 published by"
+    publishedDateTime: 2021-10-14T17:17:00Z
+    webUrl: "https://www.openpr.com/news/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 38
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
-        width: 800
-        height: 490
+      - url: "https://cdn.openpr.com/U/a/Ua14488154_g.jpg"
+        width: 650
+        height: 373
+        isCached: true
+  - title: "Global AI For IT Operations Market 2021 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2027"
+    excerpt: "Global AI For IT Operations Market 2021 by Company, Regions, Type and Application, Forecast to 2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
+    publishedDateTime: 2021-10-18T20:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-it-operations-market-2021-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
     excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
@@ -86,21 +102,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Agricultural Robots Market Expecting Potential Growth with Emerging Trends and Business Development Strategy Key Players 2021-2030"
-    excerpt: "The Global Agricultural Robots Market size valued to USD 6 16 billion in 2019 is expected to garner USD 35 25 billion by 2030 with a growing CAGR of 19 3 from 2020 2030 Agricultural Robots also known as Agribots"
-    publishedDateTime: 2021-10-15T03:26:00Z
-    webUrl: "https://www.openpr.com/news/2429683/agricultural-robots-market-expecting-potential-growth-with"
-    ampWebUrl: "https://www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
+  - title: "Routes: U.S. reopens to foreign tourists, United's '22 plans, facial recognition coming to OAK, more"
+    excerpt: "Airlines and other industry players have eagerly awaited the announcement as key to reviving a booming international travel business that was decimated by the pandemic. Both U.S. and European airlines have already ramped up their transatlantic winter schedules in anticipation of the announcement."
+    publishedDateTime: 2021-10-16T11:00:00Z
+    webUrl: "https://www.chron.com/travel/article/Routes-Southwest-offers-travel-vouchers-US-reopens-16527301.php"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua15235900_g.jpg"
-        width: 640
-        height: 410
+      - url: "https://s.hdnux.com/photos/01/20/60/56/21171113/7/rawImage.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027 report by QYResearch Group. Artificial Intelligence (AI) Speakers market is segmented by region (country),"
@@ -111,6 +125,45 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
+    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+    publishedDateTime: 2021-10-18T07:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
+        width: 934
+        height: 630
+        isCached: true
+  - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
+    excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
+    publishedDateTime: 2021-10-19T06:15:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-10-19/paraffin-physical-therapy-market-analysis-focuses-on-industry-size-and-forecast-by-type-and-growth-f"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 18
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "Latin America Middle East Africa AI in Auto Insurance Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
+    excerpt: "The report provides an overview of the Latin America Middle East Africa AI in Auto Insurance Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-17T19:18:00Z
+    webUrl: "https://manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
 
 secured: "4B1SLNaMrJ3aTNWzreizfIToyvPatIJpXCHuz+27F5/+i6tPJGqMuieOGEzWAq4ZGdbk8U9soKkWZ1Zqssln2N4+LfMbebRiHpFrRylQwMNkTGnZSvr1OHQ4eD98nX/uxHt89UhuiLI05pq83ba4r5ZZNCUux7BcMG0kbQbdD0oJ7NzE7x56IV8BX5ZnSgVtA+/PWawKpAv5EYjcz2sFZmsu6h/7vabnOevYmeUSsJwU8evN744aqGt/7JzAhyCrt796vXoLe4UwE/DBZp4zy6guxJ5qhh9bjtdJbRIjYbPiozZU1GY/m+7N+OERKYTZEx95d8d3qashNFfRiIvrLH5Yosv5KPmiMnxSTxjBgp4=;4bHfcVizbJfthTwsjSiFUA=="
 ---

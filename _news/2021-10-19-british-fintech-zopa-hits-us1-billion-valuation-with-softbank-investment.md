@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "British Fintech Zopa Hits $1 Billion Valuation With SoftBank Investment"
-    excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
-    publishedDateTime: 2021-10-19T03:43:00Z
-    webUrl: "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114"
-    ampWebUrl: "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off"
+  - title: "British fintech Zopa hits $1 billion valuation with SoftBank investment"
+    excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
+    publishedDateTime: 2021-10-18T21:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2019-09/snjg1t2_us-dollars-pixabay_625x300_09_September_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Fintech Zopa valued at $1 bn after SoftBank investment"
     excerpt: "SoftBank identified us as the clear leader when it comes to digital consumer lending in the UK, and they are also big believers in the use of AI and machine learning for lending and pricing."
     publishedDateTime: 2021-10-19T05:08:00Z

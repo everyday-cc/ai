@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How data analytics and machine learning are driving value in AWS"
+    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
+    publishedDateTime: 2021-10-19T07:50:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 56
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
+        width: 315
+        height: 237
+        isCached: true
   - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
     excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
     publishedDateTime: 2021-10-14T15:22:00Z
@@ -98,15 +112,6 @@ related:
       name: Analytics Insight
       domain: analyticsinsight.net
     quality: 29
-  - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
-    publishedDateTime: 2021-10-14T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "PYofpsQSPjj4pk57nCg/HQOn6BWfHDknAoI0nkqjITcIh+SYAFO3DKjhzSitwcxGNjV4S7Krgsld834tYFTW/sAX2wTi3z1l4U6UsC5KriH8Dq3FSWBAglZf8DKbox5sQstfbhQGzgxwMoJiIg1ZUzt8qD1/YXtZfGbY4YZYYqqyuutFMTdJZO7es451Zs65v1p7hEWZ+lRWK4u7AUaY+3IdCBqfAk5znXNzV2Ei6HeI9RN3naAVwrs8fej57LuWJhNlFbbZVaydmRPZbE0QYVzLFv3MVB4LRAGvvGYpmQnM7ZqxtmPtltwrRDmAPG7kTfOVuO2Xx65q3YReYXdoysSJSy5Y2DE9TygiIY2JPUI=;w0FYEl/FTalL89/irzlVlw=="
 ---

@@ -23,17 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS"
-    excerpt: "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of"
-    publishedDateTime: 2021-10-14T14:51:00Z
-    webUrl: "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    ampWebUrl: "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 64
   - title: "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM"
     excerpt: "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These"
     publishedDateTime: 2021-10-16T09:47:00Z
@@ -77,22 +66,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 54
-  - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
-    excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
-    publishedDateTime: 2021-10-18T14:06:00Z
-    webUrl: "https://www.openpr.com/news/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    ampWebUrl: "https://www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua18449376_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Cognitive/Artificial Intelligence Systems Market Innovative Strategy by 2028 | IBM, Microsoft, Google"
     excerpt: "A new business intelligence report released by JCMR with Global Cognitive/Artificial Intelligence Systems Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-10-18T14:18:00Z
@@ -106,31 +79,6 @@ related:
       - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-18T194604.280-780x470.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Global Artificial Neural Network Market Report Analysis 2025: Qualcomm, Starmind International, Google, Microsoft, IBM, Intel"
-    excerpt: "Adroit Market Research in its latest Global Artificial Neural Network Market 2021 report reveals the impact of COVID-19 on the world Artificial Neural Network industry. The Global Artificial Neural Network Market report offers extensive insights such as company profiles,"
-    publishedDateTime: 2021-10-14T15:45:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
-    ampWebUrl: "https://manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-neural-network-market-report-analysis-2025-qualcomm-starmind-international-google-microsoft-ibm-intel/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-  - title: "FinTech in Insurance Market to Witness Huge Growth by 2021-2027"
-    excerpt: "Get free access to sample report @  The study provides comprehensive outlook vital to keep market knowledge up to date segmented by Fraud Detection, Customer Relationship Management, Cybersecurity, Payment Gateways & Financial Transactions,"
-    publishedDateTime: 2021-10-16T23:34:00Z
-    webUrl: "https://maxwellgunterdispatch.com/news/1849/fintech-in-insurance-market-to-witness-huge-growth-by-2021-2027/"
-    type: article
-    provider:
-      name: maxwellgunterdispatch.com
-      domain: maxwellgunterdispatch.com
-    quality: 24
-    images:
-      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-16T192409.110-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
 
 secured: "ES87+In6wvfc5S/uglTnebkJLfJI7jXLSh+fU/o3R1SlUbbLcims/lmLNHocTJiJIWue9jVAzwF+PuaM5Iv6tKoqM7M5niBxRtS8zGTH+wtbscG+UsQD6EhkBU3adANk11T8j3FTdJ3mUbhDP8te6lqlUAoPI/fpR0U4/kKUPc9orNXxBR+6hW7dx9N8sG9UfegFwJ+hl1njDQvGo/YnYd9DWH/BnQY4sh6ZAD8fCXrq2GEX+8YcY/6HqR9EaNCj95noAWLyq7Utj8iLfrlRjFwjAG3A7XqpMTi7A28kpTu5dM74LNX2mAAlq6rh7y7wFdV0s9NRVbLApNc9jvHbbZ713ngBRy4FlP9++Ywq18rcdLWwqaokUBEagv8SCNihTosyfB5S2PBl605sJOw+4v/+7xbC5XNBB8J4nWowOjIyxZB18KKTJt5Jq1vE/nqwy83ph3/1qEmo+MEjTCGHtjlRBpfGH1Uv3B00VQ4bCtISdtwJWOX5VilslkL0W83+VXlNcQRsBXmp2eOiJt1IoA==;LdV44FDow75UmGpauiBLaw=="

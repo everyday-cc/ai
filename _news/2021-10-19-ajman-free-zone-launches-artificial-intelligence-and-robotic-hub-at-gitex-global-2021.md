@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Ajman Free Zone launches “Artificial Intelligence and Robotic Hub” at GITEX Global 2021"
-excerpt: "The free zone, which is part of the Ajman Government's pavilion, said that its new integrated Center provides digital access to its services such as"
-publishedDateTime: 2021-10-18T22:46:00Z
-originalUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
-webUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+title: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021"
+excerpt: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021    Free Zone signs five separate MOUs wi"
+publishedDateTime: 2021-10-19T06:53:00Z
+originalUrl: "https://menafn.com/1102992633/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+webUrl: "https://menafn.com/1102992633/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
 type: article
-quality: 46
+quality: 47
 heat: -1
 published: false
 
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-10/18/M_0ed0dimage_story.jpg"
-    width: 600
-    height: 304
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?516261"
+    width: 351
+    height: 250
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 306
         isCached: true
 
-secured: "FK2yiEyRRhs8duAKTVzcISScWHMwlc7oQZSC40S8LoPEtjzu42laaiEgA3UGKPvlYNtKBQ1YfQ7jqzQl2Wvcz8kE4l6gy3wIW+n/1fIde/s6D081ECk/kxzrBKda1zZd/DqO7d+gW4/ukrCwthriyHPzHhl43xgGaQCAO+ADq7EQU/77yEbLpAzlQnlts/K2Kglpu9QhTlHBEdIKtEZJaKhPDwamO9ll6j23huORTFb7RDA0iWlsR1MCz71OHTMq9kwngdzWmZ9/lPSW7w1d+DFfCsHa96ntnSwatqOt6LCHargQDLzqlyds0Kr/FEe3dixKxsYvfSfxFSoArJrjpbMOAe3RK899oMa7IfjcYUY=;R++gTmuwDwyKMsNv1lkDZQ=="
+secured: "ib7I/DTcgsswrlSykZQUPG6+lnZ6i4VtDnDp/F8iSgginXNw/tLHg8SPou7It9+l6Wq/WMAz6mNaDyvYJTHYlsJr7XOh2yHcgQaoAZIX0LCP6+yXpY/hqOuZcz1ymu1xW9TdKn/DpJqOLn+6y+tH4U45ULVUegCEWA7xnbTKwcxeiSx06Kpctu+O/y1i2VKB71FTWTwa3ywwobZNrGSZiztboSysz/81X1lw3FN+u5F2M+gOg9xC+IJR57Snb13KUhIozIgAz0hNLCCBj4rPXGNKn+tg9Hkha0dqqjSz6bzpkkN7QkEPfxIVg4oixL/enJ/Ez68yma3L+Nf3X6e8OhsLp2/dl+PnKbUNy+AQxMI=;zb7YSgHi3n5/NegEzVwk8w=="
 ---
 

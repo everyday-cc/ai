@@ -43,22 +43,6 @@ related:
         width: 1346
         height: 898
         isCached: true
-  - title: "Waymo's Self-Driving Cars Are Mysteriously Flocking to a Dead-End Street in San Francisco"
-    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
-    publishedDateTime: 2021-10-14T14:24:00Z
-    webUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042"
-    ampWebUrl: "https://gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/waymos-self-driving-cars-are-mysteriously-flocking-to-a-1847862042/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/da72adeee5ba1e85cafbbc1d5cfec0bf.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Self-driving Waymo cars clog up dead-end San Francisco street"
     excerpt: "Residents in a \"dead-end\" street in San Francisco say they are being plagued by an influx of self-driving vehicles. Autonomous-driving firm Waymo's cars have been going up and down the cul-de-sac at all hours \"for weeks\","
     publishedDateTime: 2021-10-15T13:18:00Z
@@ -190,20 +174,6 @@ related:
       - url: "https://wgbh.brightspotcdn.com/dims4/default/9d9d76e/2147483647/strip/true/crop/1024x633+0+0/resize/1024x633!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fc7%2Fa2%2F7639a61b4d92b58650a0d049a153%2Fgettyimages-631235572.jpg"
         width: 1024
         height: 633
-        isCached: true
-  - title: "Self-driving Waymo cars flocking to same cul de sac in San Francisco, residents have no idea why"
-    excerpt: "After one self-driving Waymo car makes a multi-point turn and leaves, another often arrives and does the same thing, residents told KPIX."
-    publishedDateTime: 2021-10-14T13:57:00Z
-    webUrl: "https://www.businessinsider.co.za/trending/self-driving-cars-waymo-google-stuck-end-street-san-francisco-2021-10"
-    type: article
-    provider:
-      name: BusinessInsider
-      domain: businessinsider.co.za
-    quality: 26
-    images:
-      - url: "http://cdn.24.co.za/files/Cms/General/d/11683/ad8913e06e5c47dfb8ea7bd8856d74be.jpg"
-        width: 1668
-        height: 1080
         isCached: true
   - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
     excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."

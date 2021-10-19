@@ -157,20 +157,6 @@ related:
         width: 708
         height: 425
         isCached: true
-  - title: "Facebook launches Ego4D AI research project"
-    excerpt: "Facebook’s AI division has launched Ego4D, a long-term project that aims to solve research challenges around egocentric perception: the ability for AI to understand and interact with the world like we do,"
-    publishedDateTime: 2021-10-14T13:20:00Z
-    webUrl: "https://mobilemarketingmagazine.com/facebook-launches-ego4d-ai-research-project"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.mobilemarketingmagazine.com/wp-content/uploads/posts/2021-10-14-14-17-32-Facebook.jpg"
-        width: 620
-        height: 501
-        isCached: true
   - title: "Facebook developing AI that can see, hear, remember whatever you do"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
     publishedDateTime: 2021-10-15T06:42:00Z
@@ -226,20 +212,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/1375887c2498cca0bcfd11504567915a_L.jpg"
         width: 620
         height: 482
-        isCached: true
-  - title: "With Ego4D, Facebook wants AI to understand the world from a first-person perspective"
-    excerpt: "Facebook Inc. announced today a long-term project aimed at solving research challenges with artificial intelligence and first-person human perception. The research produced in the project, called Ego4D,"
-    publishedDateTime: 2021-10-14T14:15:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/facebook-wants-ai-understand-world-first-person-perspective/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/ar-habanjero-pepper.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "tK6unL14H0YTtydHZ94ItJgqmR0NaCMIWYbmhFqh9/uCHJu5TIb+mwtqxk+f2WvjP8ThawFP4lt0lwgROj4HFeYqmqPo+ivLHH49frTn2d7+ePLtDHgqz31rUVodlm5OHElre0Hrjppwze1pM2c7kZDwXXHa6Le2EnQUZym6QfA0xNiCHIIiRfi7Nfc7+ZFXVX++hyRQmm5lFtGRz5EXINKejiJng6tCYJSBhJLPIsHFz6tVrdSjUkqUfG8qlXMiNDFlEFVJNyfhv73/Zg8EgenW2kqmwbgGtXid9KpMQIPp9PqjzDrknFYHyDbKAsUCDARhbDmOoxggUrggKNQpC1F860woTm34ZKqF/MMqi6I=;GVqmIEoGAzItKlZGvBEGmA=="

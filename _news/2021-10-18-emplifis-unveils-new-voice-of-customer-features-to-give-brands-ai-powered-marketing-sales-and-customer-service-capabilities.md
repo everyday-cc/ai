@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-emplifis-unveils-new-voice-custome
 webUrl: "https://www.tmcnet.com/usubmit/-emplifis-unveils-new-voice-customer-features-give-brands-/2021/10/18/9471488.htm"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -20,15 +20,15 @@ topics:
   - AI in Sales
 
 related:
-  - title: "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
-    excerpt: "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,"
-    publishedDateTime: 2021-10-19T05:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
+  - title: "Aible Launches New Products That Empower Enterprises Wherever They Are On Their AI Journey"
+    excerpt: "Aible, rated #1 for Automated Machine Learning Use Case in 2021 Gartner® Critical Capabilities Report for Cloud AI Developer Services and the only enterprise AI solution that guarantees impact in one month,"
+    publishedDateTime: 2021-10-18T13:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-4c355fa8dbf279a78bd05e894e013b4b"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 0
+    quality: 27
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

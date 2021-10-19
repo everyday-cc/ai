@@ -73,6 +73,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "How data analytics and machine learning are driving value in AWS"
+    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
+    publishedDateTime: 2021-10-19T07:50:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
+    type: article
+    provider:
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 56
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
+        width: 315
+        height: 237
+        isCached: true
   - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
     excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
     publishedDateTime: 2021-10-18T05:38:00Z
@@ -98,15 +112,6 @@ related:
       name: Analytics Insight
       domain: analyticsinsight.net
     quality: 29
-  - title: "Alation Acquires Artificial Intelligence Vendor Lyngo Analytics"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced the acquisition of Lyngo Analytics, a Los Altos, Calif.-based data insights company. The acquisition will elevate the business user experience within the data catalog,"
-    publishedDateTime: 2021-10-14T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-alation-acquires-artificial-intelligence-vendor-lyngo-analytics-/2021/10/14/9469966.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "d16fo8v5YVbl+pHlnbQexTgDUqTbG77i8aL/LDzyW/PI6D9pBEB/2Cb864E6FSpDV2v9tLWJDDECFu4B1ylbA4LICn3/88eHiLPOqR0YOdBFj0wuA2saipqdqPXBxVmKP2r+fqD1cATzxBTmgjC1hIcICPto866v8lK6Sy1E0zEfkvTEaIRVJaXPqrdB/YmzkVoDeowNKFCweThVUJyXnx6HueeU45A18LA5SDFUg8WB/k6QLROLbUJqD84MwsS6UdFrA0sB8C73xxnBcrKZ0BSUBZHQyUHV1VsPV14hw7tBuvwevHvdp6dopJS+MW3UudRLIVC4UW713pThPFJWZtKWLMdLe4U1XrIRUixGuEs=;yeADIBU7vhLr5isZodA3Sw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/10/15/ai-powered-personalization-prov
 webUrl: "https://www.globenewswire.com/news-release/2021/10/15/2314874/0/en/Coveo-Acquires-Qubit.html"
 type: article
 quality: 147
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/09/online-4275963_1920.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering"
+    excerpt: "... from its founders' successes leading the development of deep learning management tools and infrastructure at Facebook AI Research (FAIR), Ebay, and machine vision leader, Clarifai. The company brings state-of-the-art deep learning operations (DLOps ..."
+    publishedDateTime: 2021-10-19T06:44:00Z
+    webUrl: "https://www.kcrg.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 29
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
+        width: 980
+        height: 2097
         isCached: true
 
 secured: "PnJIT7f8PlM7WLBeQiCRhBioY3TFR7JE+HRHTDzsJb3NJJTLp7zdKYv4oVBrJmD/EedlA0k96hKXfTgUYsK3rcMmA7NmVf2FWz39MbFm8jz33zQa0EnHvYgS/r3Hj60df0YL7V5M+H+aa+ppJVIYspCDobs/iylo5dN93ZJ8+8nO8h3CW7HHkUtRClQ4v4hQMtnRREhy7PGvCJkDNqTjbdiQ0gvaJBqbJFq03/EZ8FQ9on4IEvZPOn/+dW+LydfPEL1yLhElBqEI1qpMH9RNHus98foUO+pOvSiOn37IF8FLTMhkW0xT7NcGByyZIRpd1zbje1Hk2+WAKm7B01T0FlSrHYb+WWM0EzfziDBeKqpoCXJBuXMBj+BN2jtgc27lXlBjOZCJrrSFETJKaUARsW3DseE8tPDwzz44DFqPm3UgYwK6IJPHGfxZpLDODIguFYnoIIAVqEV56ZRqYJVbJSNjB7DwjfXTqgBkqNM62V8+UyA8p4VD/HgBLZwbPASGP9QZ/2c3X/su2+FKFGtMfcK9WKVsWMfIj/gq/wZADTo=;aiZ8uJgpLoNI47LymO+4Pg=="

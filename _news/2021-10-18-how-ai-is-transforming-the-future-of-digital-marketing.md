@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Dubbing movies, TV is the next frontier for machine learning, AI"
+    excerpt: "Few cultural experiences can be as surreal as stumbling upon a dubbed Hollywood movie. There’s the cartoonish lip movements. The mistimed action. The strange baritone that doesn’t sound at all"
+    publishedDateTime: 2021-10-19T05:00:00Z
+    webUrl: "https://www.messenger-inquirer.com/dubbing-movies-tv-is-the-next-frontier-for-machine-learning-ai/article_388cc85c-da9a-5d96-b02a-730d977800f9.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/c52fb608-0a01-11e5-9c50-bbf37a41334d.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AI Will Affect The Future Of Work"
     excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."

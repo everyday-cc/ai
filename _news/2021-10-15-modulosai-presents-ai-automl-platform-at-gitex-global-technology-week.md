@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ajman Free Zone launches “Artificial Intelligence and Robotic Hub” at GITEX Global 2021"
-    excerpt: "The free zone, which is part of the Ajman Government's pavilion, said that its new integrated Center provides digital access to its services such as"
-    publishedDateTime: 2021-10-18T22:46:00Z
-    webUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+  - title: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021"
+    excerpt: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021    Free Zone signs five separate MOUs wi"
+    publishedDateTime: 2021-10-19T06:53:00Z
+    webUrl: "https://menafn.com/1102992633/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 46
+    quality: 47
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/18/M_0ed0dimage_story.jpg"
-        width: 600
-        height: 304
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?516261"
+        width: 351
+        height: 250
         isCached: true
 
 secured: "3cGFMgLrZsj8QMMYNGcv8O+m6GX8AJCWTQwuOrRyF/lqAF8GkVJKHLPW3WCgNf7kQIGOEpxAV9DDuQePpQllcdQRbLAgJzv6TCKKJDtx2pYceVxtUO4FJ+319vJhiRtB+MRdk+EyV5sZCYtFHuX6JCNm8IJmFSwwiTAgU8EMSr4c6ik8KFWZQXUZlN3OPIApIsK65Ob2iALsdpV1nRrGbCOk/lstQmc+pMO1azC5j3/x99G2cWkAQOZwydZPn2q+XKDsId7cNpi3u99v6admwugARrklEJd4zuETBcJyn5j8CEgfu98GIuB5O2KAOdDQ2XVF4dB/GQABPc4WJznG0W7T0lZUO3jwVyjsfjfPpoPzPeqB1zvhrNvvmPPuhzzKCSvUz7duVuFSc6L+RZCAdoPF3QlCBgcjlM0zua6R7VO1A0LzkZQotg9HpmFO76im6Is9ogaMXFHZI7y8li7m/usnFN4VC3z7+HKEM7D5pgRqwYT2dUjjgAhjMnqJVuBOKDCMp+26evOgVdEelg01+w==;msorPetxuuWGM4yH7oDsqQ=="

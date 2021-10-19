@@ -1,30 +1,24 @@
 ---
 category: news
-title: "British Fintech Zopa Hits $1 Billion Valuation With SoftBank Investment"
-excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
-publishedDateTime: 2021-10-19T03:43:00Z
-originalUrl: "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114"
-webUrl: "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114"
-ampWebUrl: "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off"
+title: "British fintech Zopa hits $1 billion valuation with SoftBank investment"
+excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
+publishedDateTime: 2021-10-18T21:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18"
+webUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18"
+ampWebUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
 type: article
-quality: 59
-heat: 79
+quality: 69
+heat: 89
 published: true
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://c.ndtvimg.com/2019-09/snjg1t2_us-dollars-pixabay_625x300_09_September_19.jpg"
-    width: 650
-    height: 400
-    isCached: true
 
 related:
   - title: "Fintech Zopa valued at $1 bn after SoftBank investment"
@@ -58,6 +52,6 @@ related:
         height: 676
         isCached: true
 
-secured: "nocjSwmtDEx/m2l8JYa8iahZFO3VWQUB26GgTZ0fxU+Jasv31BcXQQZuVdpctFpq3k9g0q91Di/xc5L5Cny1dcEqIdXFBQW0YGRcH6t5MmvwSWIb34fAm+FmDGZHNurizWEL4lqVC1+T4JBCaclXcauehornephCGLNxq9t39FqoH/JaITbE6+q2c6Dg3/acOOWGQVKUwXaxCpKXu3y/5KRpJRECbEoipvnMdNW+t4VvNLLnFMnD1sYUTzDKQMHSGQdfUmx7k/iR1PlcRNgVSOsi88wzF+8AfUGn8CM2hFHC/b52Q1FjKaF7xjITzmMoGMuwkZk8RF8I2BmRKARqZF3w9zx3iVvIHxg3sMkWgIU=;+h8b/0w4yK2Dm98c0KBbzQ=="
+secured: "9lUIRQaMr+m9pSjTxru4KVDFPEl3uyb9gP7h5TBypr3OYfFMlJUuvy51Kr3Sf6WWhxRkjVS0M7fAG+lNcVZMfREjkcBCwt+TAWwMs4o+CG0X4FgRhV1D1c4EdNnfvO1DN+NHeH6N9Je7RySYK44rGT56/yfh8GrBCNSKXrellwKfgiB9TYDq0W+LIh7nMbgzc3uBAxCxxAwonoys4Ak+3kZzsS25f4atXdOT0/qwitXVMFajvlb/9tu9RukKFSi92lFOJ5L4sahOh6Ll5FQknvy3fb0YAJDZZRaQV9a++gGwB8+TcExWue0O+sGopPf0LAem8zl3ey/UsvJzoMBrbkhzxDwRzXqtYaSx0Mllcxg=;r/dgqUZvOzPmp6TJzGIujQ=="
 ---
 
