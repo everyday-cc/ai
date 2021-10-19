@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The 2021 machine learning, AI, and data landscape"
+    excerpt: "The 2021 machine learning, AI, and data landscape is marked by explosive growth. Here are some key areas to watch.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-10-16T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-2021-machine-learning--ai--and-data-landscape-10632196"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Predicting and preventing production losses with AI"
     excerpt: "Co-founded by brothers Liran and Lior Akavia in 2014, Seebo’s tools can reveal hidden inefficiencies in production processes - Seebo is an amalgamation of the English word ‘see’ and the Hebrew word ‘bo’,"
     publishedDateTime: 2021-10-14T13:30:00Z

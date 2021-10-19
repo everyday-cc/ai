@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Datumcon to Showcase the Power of Video Analytics in Transforming Businesses at its Ai Everything x GITEX Debut"
-    excerpt: "At Ai Everything x GITEX Global, Datumcon, a specialized artificial intelligence (AI) and data science company based out of the UAE and Saudi Arabia, aims to highlight the benefits of AI-enabled video analytics to governments and businesses across the region."
-    publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datumcon-showcase-power-video-analytics-transforming-businesses-its-/2021/10/14/9469605.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "JuuwqR+oEfMoZLLweR5QtntawjcQdewVsYctJ7XOlEeg7/6e1WXYokWLv93qq+Rue1AGVBK+pgNolswPhwCXXUxAWijuDXHseNMpGL4K3TLN9qSxo2e4mW+8Hl3qODHqCZ6ZGgFIulaQm+C34MBwNUnW46cJC3On6y2y9ilJJvkTCpLwlRQhfRHjlQRJzqqSXLZ5P9asZfZzZ9SM6b4KBJXLz4fY4CAplT2MPsFpsjo34rSPcZ/Dqlo9BIADhyeo95j5MyjK5aizxaXVrZPG9N0q964ncKStvW0fvPClFW4sOySJCTWnWsTNWHxvgDWyzfZiAdsGDWxQY3CUmbMcAnCwYS6Ia2ESuiz7OFgIz6Hfak2zGmZehTQXTOaruBNOvU+3WDvb9KbQwwf4aJkOs5uQzBB5HpaCGMldUZWKIecO/pXKms05l/yFIXMyfm7CtrSPc80Ktw0LMCzuqh9hZHK6TRLs6rxSSC+96bcVhmffsDSMJwtbuxo7hRDpdiEWqdb6PjIvXQWMIDMsNu6GzQ==;VKXyYz32jEG7t9G4+iUxyg=="
 ---

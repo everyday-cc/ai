@@ -54,20 +54,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Benchmark Genome Study Demonstrates Accuracy of Artificial Intelligence in Rapidly Diagnosing Rare Diseases in Critically Ill Patients"
-    excerpt: "Fabric Genomics and Rady Children's Institute for Genomic Medicine® today announced the publication of a retrospective study in Genome Medicine showing that across six leading genomic centers and hospitals,"
-    publishedDateTime: 2021-10-14T12:36:00Z
-    webUrl: "https://www.lelezard.com/en/news-20046508.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 7
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "XJ2nJt4wxHqjTNuz3W1Jmpr6bGcS1ebFttmWuaE5HMXyBw4++ncuIvPLv9CfD/PltZladcAlwn8/z6rzgCuu7LCmsXMbUQeh0bSmdu0+1GavUSb1BirF3IsXLY9kT10umqEy27o/LNu9DrK3ZIG9QeKfvGnlXVQPK8ASeJWZcUnPBMZ0xvIPqzjeUsboKoad+0m8uMehBfrhrO9PEEyCylUsghwxlozTl9VRyOsMpI1M37LyJ+DvqnQ3mDCP0SmSL75PA1TnGkZyk8tToVjVu1cEiRmLx24PPX13s1FlO2pQUwju6b5A43AcNjWxKCmsDESQZkUvREjeNc2Eps9Ev+tajj6ICyN8lYE6cj7VJR4=;37A7a/SDNP65nY0Kz/JJ1w=="
 ---

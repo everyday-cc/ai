@@ -27,33 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI department sued for using the health data of 1.6 million NHS patients"
-    excerpt: "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,"
-    publishedDateTime: 2021-10-14T11:45:00Z
-    webUrl: "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-    ampWebUrl: "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/"
+  - title: "DeepMind acquires and open-sources robotics simulator MuJoCo"
+    excerpt: "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research."
+    publishedDateTime: 2021-10-18T16:33:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 155
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NXU3c8zfKAfbFuEGzPnBeE-1200-80.jpg"
-        width: 1024
-        height: 683
+      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence for Mental Health Assessment"
-    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
-    publishedDateTime: 2021-10-17T15:36:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+  - title: "Opening up a physics simulator for robotics"
+    excerpt: "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere."
+    publishedDateTime: 2021-10-18T00:00:00Z
+    webUrl: "https://deepmind.com/blog/announcements/mujoco"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 37
+      name: DeepMind
+      domain: deepmind.com
+    quality: 106
+    images:
+      - url: "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "DeepMind acquires MuJoCo physics engine for robotics R&D"
+    excerpt: "DeepMind, an AI research lab and subsidiary of Alphabet Inc., acquired the MuJoCo physics engine and will make it freely available in 2022."
+    publishedDateTime: 2021-10-18T16:56:00Z
+    webUrl: "https://www.therobotreport.com/deepmind-acquires-open-source-mujoco-physics-engine/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 101
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-18-at-12.46.15-PM.png"
+        width: 917
+        height: 524
+        isCached: true
 
 secured: "Z9krjrSFNCUCosxUIPD6T0Ub/PEl9M2feIk82D4Rfdyxn1xdgb57QGH7Aw/GF4Xckcgmw3YLxIQ9YLHcpgnp0dRwyJT/smQXXVURuVAFfhPe5A+WH0obNSwV14TgSkKyd+MA2n3//rp9mhWXrwubNLamvxKmPM976wcIL2BU6oK/uZ98+1pMDfw5V7FyWk7BISGLg0K/jJYVatwPnSmZNRuJOvtXFQn4IDD4EkFeJ8eNOkjf2tDfWYAm66rT/ai3dxiMTDj8h7FBhlq3pO9cq3OzxCAvJl1j713j+VDXOSFiv/988qlPgbxOg7dGpCItzW8fRHoUS+oCMrRLx2acaxa1Y8EGae+fgvZNIT+LEqNDprCfvhxkHpaxfl9J82MOz+4CmE3xR55Y6zBcrI9u/B6x+AuD+hXy43oKNxjidhHJ/2+Hk7kibkR0l4UplH4cQDaUpZEZtHIegbMh2iuXSk0k2uHGECDvQNwbkronXWMhM7PPrVtd15SXXjIEgnfdnYNVzXFBLFckftJGdnNYRA==;1sbhdM4AVEnZRqIUfaudsg=="
 ---

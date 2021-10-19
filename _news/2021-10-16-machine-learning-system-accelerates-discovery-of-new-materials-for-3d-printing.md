@@ -59,15 +59,6 @@ related:
         width: 850
         height: 500
         isCached: true
-  - title: "Intuit Announces the Second Cohort of the Intuit Prosperity Accelerator: AI"
-    excerpt: "Intuit ( News - Alert) (Nasdaq: INTU), the global technology platform that makes TurboTax, QuickBooks, Mint, and Credit Karma, along with Highline Beta, a venture studio and venture capital firm, today announced the second cohort of the Intuit Prosperity Accelerator TM: AI."
-    publishedDateTime: 2021-10-14T11:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/10/14/9469578.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "lFcLxCdwFMhEo5PUaE2h5zdhTYV759oFmweva8v/4QXQpxErxHYLeaF+IFSvv9QBvay3bjx3UhHQcHHOB/zrzGGM0SJWU4fiXFq53YAsqnf9P8cJgQvUfG6pAJ4uVMu1ICh8X53Wkj3YTRuuz58qXvtvBPSpQE3SGQWKi5AhVAjWGteq3MbMdPmxuLQCI5UL2EvLC6eIRuXW8zyOFZLgOXfXoqbjmnG69xsm7qIsNZeA8+WqMmJKK5kcUjGje9Dc/J6ZkHTMBQtbQSBSe0VenQwrI5yP8wXeGkObUcbu4KVwVm35jn0FgnlQ394b+Hhaw2NSCI+OwA+2z3tMspWQCBcg9DmoPqHap68QD6fx60s7LDTteVhvOzXWDVZoWMKLRsWbLTP1dDEz+AWG0lK8S0X1Bb33YtwmLCionArY+R/FQzA9Rj9LADJGZsGBOB06i/QwBI/n9AO8zOmzPs32RQjBRWo1fOprPY3CgsiZHQ33Rf/fu0zzNHbx1JgiYl1ZvS5h/Jc6VFle/XXAfNWCoQ==;0GRKJ6xS9D/HYcyN3AyK7A=="
 ---

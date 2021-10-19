@@ -163,22 +163,6 @@ related:
         width: 708
         height: 425
         isCached: true
-  - title: "Facebook wants machines to see the world through our eyes"
-    excerpt: "A massive new video dataset will help train smart assistants and robots—but there are obvious concerns about how the tech will be used."
-    publishedDateTime: 2021-10-14T12:04:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/Before-After-Detectron_ModelFINAL.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facebook developing AI that can see, hear, remember whatever you do"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
     publishedDateTime: 2021-10-15T06:42:00Z

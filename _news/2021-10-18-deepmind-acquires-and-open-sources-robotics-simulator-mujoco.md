@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-source
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-18-at-12.46.15-PM.png"
         width: 917
         height: 524
+        isCached: true
+  - title: "Google’s DeepMind Facing Suit Over UK Health Data"
+    excerpt: "A Google-owned artificial intelligence (AI) research firm is facing a class-action lawsuit over its use of the health records of 1.6 million patients in the U.K."
+    publishedDateTime: 2021-10-14T20:39:00Z
+    webUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/"
+    ampWebUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "AKZLuQTlnDJqkjJ0gQnLiHbuVsvpiCESZb4J0JhJTCj4qsKzDEwClwWD8yB25yNsPfW72/QnPTgspxbXT1DRC4J/XIIworFqSvdEgx2kYzPGQxNGJYpIY2gvJM4gI/tTyTQNPJDb/hKuXwMuzShNI8ax5iJ+G6MvuvNr3K9YgzS19bCJgi2PuAcXOI1APQXFIBHm0Xh4676qw+4au8Bc706ybLsm5IfDIBQRylsZSb/JwZlmw9ivciQB+YivKDAC4WCx1RWuWrcMQm0vnSkQx7HMksISkmf4QFRTVvtaY7q26Db4VirwegPx8fln5NHFu/ptp8QxQeYj/GhG+pxETMq4n5VI5rD1jtY+XCa6lC4ZkhOW+PsbtZq11xfIXmVA5QnHykgCij65N6G2vRTUAHvM12qqOY05/KJ1EuHz0cEIhC7+HH6kn6QOkTlWUtW//jtqYJWocii9AV6g2SEKOhTuGfMgkAI8KO7w6K+JXCOpWg8aRQsmaL6ZMQbx/tYaxjY8GlwQgDngY4zg3LmjNw==;m/OwFRjORD9SS2O4zKDwwA=="

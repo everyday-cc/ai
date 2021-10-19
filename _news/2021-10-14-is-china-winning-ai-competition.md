@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
-    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
-    publishedDateTime: 2021-10-14T11:44:00Z
-    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
-        width: 450
-        height: 249
-        isCached: true
   - title: "Where U.S. Has to Do Better on AI to Compete With China: Brookings’ West"
     excerpt: "Last week, the now-former chief software officer for the U.S. Air Force quit in spectacular fashion, stating publicly that he resigned because America’s cybersecurity is no match for China. In fact, Nicolas Chaillan,"
     publishedDateTime: 2021-10-18T07:41:00Z

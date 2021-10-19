@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 234
 published: true
 
 provider:
@@ -193,20 +193,6 @@ related:
         width: 848
         height: 565
         isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
     excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
     publishedDateTime: 2021-10-18T06:33:00Z
@@ -230,15 +216,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
-    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
-    publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "sd/lPSebnMrZ9HQUM5a7a/MX2hqbC70hqznkw50V9UTIgFBRY5GztpkaNNGpkRx8kl+nTGRqOepqlDIiH4VZagdGrHa1DHddCap9A3U/AvEg19sVTOAFUshyZGvJGeoXwT3bcs0q59A/BfGmE5cx1rIRyvWMDb2aBkWvykK4WjocZWUWqsdgiQUyoboxbfUHdYM+HxE3777ixPHMlAPyJLE6JCK0G5u5mHqokqNM0B0QPW1zmVWXLSp2u/y8b06mARqfG36DyXQdampAP0Fcsb7LLpoXv3AR57q873IxFkd+r36GEIHtwhFhMFB6VRt7JAmAfjjpD2gGDrWmGyUs1kW72FLAqzGaDcGyWXCGUk5rAddrh2C8stlSJO6GuXBRSG1JQbUng7mlbHrLr6B4aHaRp5IV6B3OU+30uGeipVeMZCo/HAmmMFmIPzUVvh5JacHzHSFjMqavSEPpo2uvddETu1oMlkjkOLGM8D0RKqeqBZ1toMOamC6Fmg8g5hcou3hm91pLaTyTjPHGlMsteQ==;Yo1ArWWCLrhmvx4bpqnbDQ=="
 ---

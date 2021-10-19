@@ -189,20 +189,6 @@ related:
         width: 848
         height: 565
         isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
     excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
     publishedDateTime: 2021-10-18T06:33:00Z
@@ -226,15 +212,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
-    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
-    publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "441lXv+IPpfAJxYCGzaKvVDYrSdpEPQXiT4zRBAoi4/N3m+nVavIUCn/hbbcTjrOyICl4CfH4LHQiXnu0q37aS8XEKtPOlq5f9MqlHjbcw2PZBHXphAmBg0+cON2B+pX66QodzmxydgRJwO99Tje6qe/uSJY5ec/AP9VhS7cEfalp0y+3o90LnnfmUX5QRalK0uqkcRK4N1W5bD2/rzkNZgauh7blx4IddpDTEKWHb7asZZaJKqFl2rVdslxeDn61kFtIgETVVPUbyBK2HuJTQYjeqbhfw5Lyl+2XIzhFOYuluMtqvnWhRRqcSUtyrG+TLLrpG13TgHaR1CoebXicL3LVTPXC9W9p+iWPxv9SmA=;LcdXjFlL6YgKFnm3JpFqig=="
 ---

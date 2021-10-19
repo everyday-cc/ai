@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap
 webUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap-fintech-and-insurtech-live"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAVVYY welcomes fintech expert as new director"
-    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
-    publishedDateTime: 2021-10-14T12:10:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "3 Fintech Stocks That Surged More Than 10% Last Week"
     excerpt: "Fintech has brought to the fore an easy and efficient way of meeting the financial needs of businesses and individuals. And the demand for remote financial transactions has increased significantly amid the COVID-19 pandemic,"
     publishedDateTime: 2021-10-18T17:27:00Z
@@ -50,6 +36,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Laurier's Lazaridis Institute and Tax Incentive Fintech Boast.AI Partner to Accelerate Canadian Tech Companies"
+    excerpt: "Boast.AI, North America's leading tax incentive fintech, and Wilfrid Laurier University's Lazaridis Institute have announced a partnership to help growth-stage technology companies scale more quickly."
+    publishedDateTime: 2021-10-15T14:45:00Z
+    webUrl: "https://www.bctechnology.com/news/2021/10/15/Lauriers-Lazaridis-Institute-and-Tax-Incentive-Fintech-Boast.AI-Partner-to-Accelerate-Canadian-Tech-Companies.cfm"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 19
+    images:
+      - url: "https://www.bctechnology.com/tmp/social/news/tw/AA8DCA2CF6B330E41C6DA43A5BEEA921B727E0AC5814A78D34835AC3D06B8C5A.png?1634284983"
+        width: 600
+        height: 335
+        isCached: true
   - title: "How open-source technologies open new opportunities for fintech"
     excerpt: "It is safe to say that fintech technologies have been drastically impacted by open-source tech. A study from Research and Markets suggests that the open-source service market is set to grow by 24percentt by 2025,"
     publishedDateTime: 2021-10-18T15:15:00Z

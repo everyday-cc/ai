@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SAVVYY welcomes fintech expert as new director"
-    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
-    publishedDateTime: 2021-10-14T12:10:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Event Recap: FinTech & InsurTech Live"
     excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
     publishedDateTime: 2021-10-18T11:10:00Z
@@ -58,6 +44,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Laurier's Lazaridis Institute and Tax Incentive Fintech Boast.AI Partner to Accelerate Canadian Tech Companies"
+    excerpt: "Boast.AI, North America's leading tax incentive fintech, and Wilfrid Laurier University's Lazaridis Institute have announced a partnership to help growth-stage technology companies scale more quickly."
+    publishedDateTime: 2021-10-15T14:45:00Z
+    webUrl: "https://www.bctechnology.com/news/2021/10/15/Lauriers-Lazaridis-Institute-and-Tax-Incentive-Fintech-Boast.AI-Partner-to-Accelerate-Canadian-Tech-Companies.cfm"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 19
+    images:
+      - url: "https://www.bctechnology.com/tmp/social/news/tw/AA8DCA2CF6B330E41C6DA43A5BEEA921B727E0AC5814A78D34835AC3D06B8C5A.png?1634284983"
+        width: 600
+        height: 335
+        isCached: true
 
 secured: "oWtYCnknKsJ1naECs2rM9JULyjBheebPkQ6+ANdSsUyPrw4NT7L5FPToVajwDlGVXt4BY2h9s238WbojwNPGftqLzj2X2ttg+6iEmOUqIt/xrNyH+9J8+omFAJ808EaxSyn5VUJrBm5aEDeUfLl6ooBTk7rS5v5zob5LweZ3d/jKluSlYXNM4dkLHqxpXAva9ivVb+VzdBAaapxDnCodUfo/1pH2skXPivQqFwGRgRcRrfJptoHMYn4Wx9u+t5BW7EsjECbGAhuLZqDDI3qvYJ7CI+WAL6E15862yB8syMvGBtVHhX184RO05KHeL/9G11hae6ZdT9VaIBgM/ZP9ksHNEV+r0pQoqCDPUOHjAR8AMHkHb+EfXJHB02e3i0mYfWTTQO2SkD4u+0Nlm6c9k7wMoUsThsEq+iAF0Spua2vdtfyijvItqTiKtgwVN/fAMVKpVBpaW+FlZD/PEGoEHdsUljtjKs7QXRj1MadpR1BOTBzYAEML/g6vGb8n0XM2TClb/qwh/SB7oRmC943fBA==;sSO1BdwUQFsuhcV3rWrtCg=="
 ---

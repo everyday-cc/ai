@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
+      "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
+      "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
+      "originalUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/waymo-2.jpg",
+          "width": 1346,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
+      "publishedDateTime": "2021-10-17T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing.md",
+      "title": "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing",
+      "excerpt": "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/",
+      "originalUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/",
+      "publishedDateTime": "2021-10-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-disputes-report-its-ai-has-little-effect-on-hate-speech.md",
+      "title": "Facebook disputes report its AI has little effect on hate speech",
+      "excerpt": "Facebook exec says hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has little effect at curbing and removing violent content from the social network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
+      "publishedDateTime": "2021-10-17T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-advancing-ai-telematics-in-the-transportation-and-logistics-industry-series-blog-2.md",
+      "title": "Advancing AI Telematics In The Transportation And Logistics Industry Series : Blog #2",
+      "excerpt": "This is the second blog in the AI Transportation and logistics industry. This blog focuses on advancing AI telematics and provides an overview of current state and future state developments. Key questions for CEOs and Board Directors on leading AI are highlighted for digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616b25abb8e77ff44783f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "publishedDateTime": "2021-10-17T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
       "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
       "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
@@ -726,7 +923,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -881,7 +1078,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1025,212 +1222,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-the-data-economy-how-ai-helps-us-understand-and-utilize-our-data.md",
-      "title": "The data economy: How AI helps us understand and utilize our data",
-      "excerpt": "HARMAN’s Chairman Young Sohn talks with international journalist Ali Aslan about the relationship of AI & data and the ethical use of both.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/",
-      "originalUrl": "https://venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Ali-Aslan_AI-TNW-Episode.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/15/the-data-economy-how-ai-helps-us-understand-and-utilize-our-data/amp/",
-      "publishedDateTime": "2021-10-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-tesla-debuts-new-car-insurance-that-uses-texans-real-time-driving-behavior.md",
-      "title": "Tesla debuts new car insurance that uses Texans' real-time driving behavior",
-      "excerpt": "Tesla now offers insurance in Texas, and it calculates for premiums based on owners' real-time driving behavior..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "originalUrl": "https://www.engadget.com/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/1039dff0-2d98-11ec-bfff-3e825fd294c3",
-          "width": 1600,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-car-insurance-texas-real-time-driving-behavior-103501859.html",
-      "publishedDateTime": "2021-10-15T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
-      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
-      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
-      "publishedDateTime": "2021-10-15T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items.md",
-      "title": "Amazon Personalize can now unlock intrinsic signals in your catalog to recommend similar items",
-      "excerpt": "Today, we’re excited to announce a new similar items recommendation recipe (aws-similar-items) in Amazon Personalize that helps you leverage your users’ interaction histories and what you know about the items in your catalog to deliver relevant recommendations. Across Amazon, we provide personalized",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-unlock-intrinsic-signals-in-your-catalog-to-recommend-similar-items/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/13/1-5897-Architecture.jpg",
-          "width": 800,
-          "height": 311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T16:35:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

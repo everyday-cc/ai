@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "The 2021 machine learning, AI, and data landscape"
+    excerpt: "The 2021 machine learning, AI, and data landscape is marked by explosive growth. Here are some key areas to watch.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-10-16T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-2021-machine-learning--ai--and-data-landscape-10632196"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
     publishedDateTime: 2021-10-14T20:54:00Z

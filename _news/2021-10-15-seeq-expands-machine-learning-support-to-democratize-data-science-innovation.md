@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications."
-publishedDateTime: 2021-10-14T20:56:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
-webUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
+excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
+publishedDateTime: 2021-10-14T21:55:00Z
+originalUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
+webUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/989024cb-4d3f-46a5-a984-99f1bf072e5b.png?height=635&t=1634280660&width=1200"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "bGzhVq68NxvlvZE+bbSBTaNwtJRmN1wB20rJeNEZO+otvYANc4e38B8ZIDSM/hnVQdc+UXeJxcZ1GTpfBCKCBxHHhfOaAQlLXqGCkMnbl4s1XvzN2tAPVG31B7KHetKkkDQ4DkINeNrtiwr00gRC3Cs0YI51sufVVUdWRvDXp4r0EArK6aFCc+IaeKhOlmgwDy+YtyToEOF0NRIM6+mSz/pzLwPt6V0k3b0UsX8OPm0jE3Tujc0WSvs1TjPnOLXV38WytSpkwOEeu88HtuasMAU9mmQkP4Tmxl3YdLVAeHPdFJnyQHE8BX3y8xpK4RANeUlI0u5cpKpLAEarDrW5Dl758ztk43IHsgn9FDhqFuk=;y7sL3mnKe/xbKQJYwdIJZw=="
+secured: "74DbUu1Kc/j+Whuhta+0xLHsJ4kMEV3KZcCqiRSIAM+m0dG9BG6djIIPiNF8kSKo9gv/4T9BNt/QN3P0FbT1RL+zedcKrleqlcM1MrCc6OhslBHQpOv9K6NhT7E2JRFbNUAy5Qe05CziWEuyuvBBqV6cm1ql19xoT1SrbHkAjT4DHM9HJ9gIsod4dQrw/FjYybPbr7vhG/H5kHP9D73GSCkc+jeKlbex1F0UNqwIOv1vS9s6iFSFy3rdVoiJp3Osf3EkvBSQBpRipNzI7c/2DRTAcDlb9sJUZHiy9448n4aqSm1btJZ8jV9KBoxlwaVlDpQySCxAVdJONYdvSSgwxjBOUKHXXe6/4G9WZv8SBRk=;qPgnIXrBMWV2MH34maziqw=="
 ---
 

@@ -107,15 +107,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Datumcon to Showcase the Power of Video Analytics in Transforming Businesses at its Ai Everything x GITEX Debut"
-    excerpt: "At Ai Everything x GITEX Global, Datumcon, a specialized artificial intelligence (AI) and data science company based out of the UAE and Saudi Arabia, aims to highlight the benefits of AI-enabled video analytics to governments and businesses across the region."
-    publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datumcon-showcase-power-video-analytics-transforming-businesses-its-/2021/10/14/9469605.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PYofpsQSPjj4pk57nCg/HQOn6BWfHDknAoI0nkqjITcIh+SYAFO3DKjhzSitwcxGNjV4S7Krgsld834tYFTW/sAX2wTi3z1l4U6UsC5KriH8Dq3FSWBAglZf8DKbox5sQstfbhQGzgxwMoJiIg1ZUzt8qD1/YXtZfGbY4YZYYqqyuutFMTdJZO7es451Zs65v1p7hEWZ+lRWK4u7AUaY+3IdCBqfAk5znXNzV2Ei6HeI9RN3naAVwrs8fej57LuWJhNlFbbZVaydmRPZbE0QYVzLFv3MVB4LRAGvvGYpmQnM7ZqxtmPtltwrRDmAPG7kTfOVuO2Xx65q3YReYXdoysSJSy5Y2DE9TygiIY2JPUI=;w0FYEl/FTalL89/irzlVlw=="
 ---

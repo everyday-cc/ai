@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/facebook-ego4d-tracking-your-when-how-wh
 webUrl: "https://ai.facebook.com/research/publications/ego4d-unscripted-first-person-video-from-around-the-world-and-a-benchmark-suite-for-egocentric-perception"
 type: article
 quality: 154
-heat: 314
+heat: 304
 published: true
 
 provider:
@@ -152,22 +152,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56510/content/Facebook.jpg"
         width: 708
         height: 425
-        isCached: true
-  - title: "Facebook wants machines to see the world through our eyes"
-    excerpt: "A massive new video dataset will help train smart assistants and robots—but there are obvious concerns about how the tech will be used."
-    publishedDateTime: 2021-10-14T12:04:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/14/1037043/facebook-machine-learning-ai-vision-see-world-human-eyes/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/Before-After-Detectron_ModelFINAL.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Facebook launches Ego4D AI research project"
     excerpt: "Facebook’s AI division has launched Ego4D, a long-term project that aims to solve research challenges around egocentric perception: the ability for AI to understand and interact with the world like we do,"

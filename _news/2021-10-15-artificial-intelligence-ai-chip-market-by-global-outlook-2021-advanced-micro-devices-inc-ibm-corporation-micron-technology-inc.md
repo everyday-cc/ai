@@ -56,6 +56,20 @@ related:
         width: 537
         height: 358
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Report offers Regional analysis with Consumption, Revenue, Price and Gross Margin 2021 to 2025"
+    excerpt: "Oct 18, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-10-18T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-report-offers-regional-analysis-with-consumption-revenue-price-and-gross-margin-2021-to-2025-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
     excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
     publishedDateTime: 2021-10-18T10:24:00Z

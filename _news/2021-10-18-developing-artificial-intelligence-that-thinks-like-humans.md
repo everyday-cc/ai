@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Developing Artificial Intelligence That 'Thinks' Like Humans"
-excerpt: "Creating human-like AI is about more than mimicking human behavior – technology must also be able to process information, or 'think', like humans too if it is to be fully relied upon.  New research, published in the journal Patterns and led by the University of Glasgow's School of Psychology and Neuroscience,"
-publishedDateTime: 2021-10-18T00:00:00Z
-originalUrl: "https://cacm.acm.org/news/256250-developing-artificial-intelligence-that-thinks-like-humans"
-webUrl: "https://cacm.acm.org/news/256250-developing-artificial-intelligence-that-thinks-like-humans"
+title: "Developing Artificial Intelligence That “Thinks” Like Humans"
+excerpt: "Creating human-like AI is about more than mimicking human behavior – technology must also be able to process information, or ‘think’, like humans too if it is to be fully relied upon. New research, pu"
+publishedDateTime: 2021-10-18T10:38:00Z
+originalUrl: "https://scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/"
+webUrl: "https://scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/"
+ampWebUrl: "https://scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/developing-artificial-intelligence-that-thinks-like-humans/amp/"
 type: article
-quality: 17
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: acm.org
-  domain: acm.org
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://scitechdaily.com/images/Human-Thinking-Artificial-Intelligence-Concept-777x583.jpg"
+    width: 777
+    height: 583
+    isCached: true
 
 related:
   - title: "FB developing AI that can see, hear, remember whatever you do"
@@ -28,6 +37,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "abTyhOFXf8ICu0X4xkVUIg96jbKjxSl6kBPsGTQTNIetjhCqKJg9SnLOQyG/XLLDJe7a9kHc7k2gt8ve2Xf4Tf9nS5zEQTneo19km7FwwePw995hEV3Od7P3sW6msDizwVyM2ERl6M7P4/SsKDSWzqC2u/41kCfAdWUHd8pHQD0KtVUYbEpR84/UuEBd7j812IV6Rq8iQCCjoMqB4q5eUnD8qjXk0E5vgSLdmUXLguFA7o6Fw+w17DnbjPIZRkwA6SWxyiCNNSz27tdC6VrJ7raTiN6ZV4zSzw9zYKYpcX0UIm80ITm9BZdaU7L0NDetoRCN+nQYuWVwPbkgDS67p3A3kcP1IBsm1Fk+54D/VFvLQA28t6Ukfmr9BPzwXyePq7dDyVE1VxGanroF3svzrUbIjF0H8oHOqkoDCZu9e5TSb76VN2mZNOWj7etuQIxnN1iHlMFCm4rqW+RvpSXUqXwNtAYYVW8CPN6rDAFwxRaAEEhIrAKoDCzdFqV+mc76syMyND+ku3tzoEIQezFVVg==;BGIVD63UoQJW2fNqHlgNkg=="
+secured: "GeUF6RQRpqC/7B5KOK4kdE+qpfs9GK9XiZfySJEU0OZhlSyxDlvWoE2AM7hhrvj5lYbrVAN3AiyldSEHUpODqC9r/AyIo8BQo5MycZ/nDqg+H+3EewFzIHYV/KAcn/BpWrGud4mQ89P+yR3pIWb/K7BXSDhLbzJ+HqKgAFAuTBRwIDzQTIPu5IOmxoZRT8KiZdRunmLrfieL6quCVho4sGvNX5VFZrKQR5fnyu4hRs8eWNn81iQp+f9AL4+r0dC09vf8qesv5UY+iyv+3z92DHGoLcX1CzHZ7Fa44KJlYjrXsggfK7a+376irRzyoKFRD7FArOo77bmR14Y/1YN67Mh52pLtEzA8r/NVpB9pgv0=;BYKOIZew1Qr8dK3h9rXDNQ=="
 ---
 

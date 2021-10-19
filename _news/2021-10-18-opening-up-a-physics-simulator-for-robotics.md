@@ -60,6 +60,22 @@ related:
         width: 917
         height: 524
         isCached: true
+  - title: "Google’s DeepMind Facing Suit Over UK Health Data"
+    excerpt: "A Google-owned artificial intelligence (AI) research firm is facing a class-action lawsuit over its use of the health records of 1.6 million patients in the U.K."
+    publishedDateTime: 2021-10-14T20:39:00Z
+    webUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/"
+    ampWebUrl: "https://www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/google-deepmind-facing-suit-over-uk-health-data/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/deepmind-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "+xCjCNjSehYlB+m5W6/1n5qtvpUpTdNUJhswrVCVIzib72pKx3cZxAy8PcKjeWk6GdffbsX9IgJ3Tpe1El0oXxGXMtgvKTbyXg/cf7sISaSTmS0G3xgvRsz+6c5B5K2s6L9AbEIBUZVjprPbItcY6TIoQgRsxpKRbqQVrUIExec/XfqJe/0Ys0VzlSyWuWMWQoVDL9lXO4tXR1+joQUh8MxwU7vJ6E9r+0AdB3Fj4n5pTWsrsjTbhdu2xse4cY7cgIVjIJ9XKa6/1ZQKMbUnEO4a10u7E2b4aWZWTIlFH+yjnVmlj3u5IYWBlR1IXpbTYcaJC85UUmsVCR+DVnJl1sh/5WL4j9KgP4LjUzNo/A8=;9kQmHx63cGxZttlt/JMINQ=="
 ---

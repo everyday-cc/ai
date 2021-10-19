@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH232T5m6_NvQ/article-cover_image-shrink_600_2000/0/1634461586575?e=1640217600&v=beta&t=-u-NfvUe2UY_NKLYdRKpl9Cm4pC3bfpmbLUY9XOqjvU"
         width: 537
         height: 358
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Report offers Regional analysis with Consumption, Revenue, Price and Gross Margin 2021 to 2025"
+    excerpt: "Oct 18, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Industries around the world are aiming"
+    publishedDateTime: 2021-10-18T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-report-offers-regional-analysis-with-consumption-revenue-price-and-gross-margin-2021-to-2025-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
     excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"

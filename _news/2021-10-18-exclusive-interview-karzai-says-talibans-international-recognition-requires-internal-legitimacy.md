@@ -37,6 +37,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Taliban needs legitimacy at home in order to gain international recognition, says former President Karzai"
+    excerpt: "Former President Hamid Karzai said that the Taliban needs legitimacy nationally in order to gain recognition by the international community. In an interview with Voice of America (VOA), he advised the Taliban to gain national legitimacy through elections or by holding a Loya Jirga (a national grand assembly),"
+    publishedDateTime: 2021-10-19T05:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20211019/3839957.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "KMO8Np46G9LfvJiHLVOIOa/LXeKTOLxL0Vq3PxgJD0DmVXHGOYYCF2BpgJ7YIEnKeHc56AXsUaKHmEB/CCmx6c1Sjz7nmhZLd2HFu1tHym0kwMizwIuujpk5B72HkuxFUktT9WMTVUZMEKoNzD0T8AVH1Q8gmpxakEH+raasUTQJ2m2g2thxMqS0EWBEfS1qlI++LWQN/JDm05PnWVbFLz7oXLPN0Tx2BPi6eFClHz8MnLjEldsDAS4Li66N+6fZWQ84YfL0OCG+ccWl7yRZRh85QMgzL83GGd98vHSJfxsyDtUJjJlJnkaSZIrSBTEc5NMAZ98oyPmOdQQJaNHRq1O6wKxTRxjD7Gt6j5oWlBE7hyhoKIZQJp3sU1AFLLQzuGpQtTfi+tuv8tfjp047t/fJUHs1edRLrBMKZqD/WQ7DTwFEjMBasY3aaVrBumOdvc9Z4NDDcKh4HMplv47xjHl9pDszBYzDCy4lTbUNTW6/IXNE9buCI62toHZDQHHUAZwLOygHmyEbqIp8ozSIjA==;+QaAeIVQNacOj3kFnpmGBQ=="
 ---

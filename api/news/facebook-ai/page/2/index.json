@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization.md",
+      "title": "Facebook – Researchers: Platforms like Facebook have played ‘major role’ in fueling polarization",
+      "excerpt": "Social media platforms like Facebook “have played a major role in exacerbating political polarization that can lead to such extremist violence,” according to a from researchers at New York University’s Stern Center for Business and Human Rights.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-researchers-platforms-like-facebook-have-played-major-role-in-fueling-polarization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-13-ai-can-estimate-corporate-greenhouse-gas-emissions.md",
+      "title": "AI can estimate corporate greenhouse gas emissions",
+      "excerpt": "But researchers at Bloomberg Quant Research and Amazon Web Services ... based on where renewable energy is available. Facebook chief AI scientist Yann LeCun and Google Brain cofounder Andrew ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/",
+      "originalUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/climate-change-e1571844079918.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/13/ai-can-estimate-corporate-greenhouse-gas-emissions/amp/",
+      "publishedDateTime": "2021-09-13T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships.md",
+      "title": "Orca AI begins research trial of safety system for autonomous ships",
+      "excerpt": "Orca AI, has recently announced a partnership with ​​Nippon Yusen Kabushiki Kaisha (NYK Line) to test its safety system for autonomous ships.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/",
+      "originalUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Orca-AI-Collision-Risk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/09/orca-ai-begins-research-trial-of-safety-system-for-autonomous-ships/amp/",
+      "publishedDateTime": "2021-09-09T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
       "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
       "excerpt": "An exchange-traded fund with holdings decided by artificial intelligence ... and Lam Research (LRCX), and beauty products powerhouse Estée Lauder (EL). Facebook and Nvidia’s respective pushes ...",
@@ -1222,145 +1360,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
-      "title": "Facebook to use AI to analyze encrypted content - report",
-      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
-      "sourceUrl": null,
-      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
-      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
-      "publishedDateTime": "2021-08-03T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "teletrader.com",
-        "domain": "teletrader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
-      "title": "Facebook open-sources Droidlet robotics development platform",
-      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-announces-plans-to-make-instagram-more-private-for-teens.md",
-      "title": "Facebook announces plans to make Instagram more private for teens",
-      "excerpt": "The social network said new teen accounts will automatically be private and it will be harder for suspicious adults to find underage users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "originalUrl": "https://www.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/07/29/a133b21e-f04a-11eb-b683-cf7af9070523_image_hires_170856.jpg?itok=WL96rcJo&v=1627549746",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/article/3143011/facebook-announces-plans-make-instagram-more-private-teens",
-      "publishedDateTime": "2021-07-29T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

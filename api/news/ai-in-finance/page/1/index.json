@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-19-british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment.md",
+      "title": "British Fintech Zopa Hits $1 Billion Valuation With SoftBank Investment",
+      "excerpt": "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114",
+      "originalUrl": "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2019-09/snjg1t2_us-dollars-pixabay_625x300_09_September_19.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment-2580114?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-10-18T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-embrace-the-era-of-change-and-evolution-with-self-learning-ai.md",
       "title": "Embrace The Era Of Change And Evolution With Self-Learning AI",
       "excerpt": "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1283,50 +1326,6 @@
       "provider": {
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-top-use-cases-of-aiml-in-the-fintech-industry.md",
-      "title": "Top Use Cases of AI/ML in the Fintech Industry",
-      "excerpt": "AI has progressed significantly since then, and it is now employed in a wide range of applications. FinTech are particularly interested in it, either to develop it or to utilise it themselves, because it has so many useful applications. Traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "originalUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/robot-507811.jpg",
-          "width": 4961,
-          "height": 3508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
         "images": null,
         "publishers": null,
         "authors": null

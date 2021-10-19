@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-thi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
       - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "'Confused' Self-Driving Cars Keep Driving Into A Quiet Dead-end SF Street"
-    excerpt: "Waymo cars use \"lidar\" sensors that create a picture of the vehicle’s surroundings and command the car to stop when it encounters dead-ends."
-    publishedDateTime: 2021-10-14T12:36:00Z
-    webUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194"
-    ampWebUrl: "https://www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/confused-self-driving-cars-keep-driving-quiet-dead-end-sf-street-3316194?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 43
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/17/waymo-is-owned-by-google-parent-alphabet.jpg"
-        width: 1024
-        height: 640
         isCached: true
   - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
     excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"

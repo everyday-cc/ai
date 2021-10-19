@@ -1,39 +1,24 @@
 ---
 category: news
 title: "Navina Secures $15 Million in Series A Funding to Continue its Revolution of US Primary Care Using Artificial Intelligence"
-excerpt: "Navina, the developer of AI-powered clinical platform for primary care, today announced that the company has secured $15 million in Series A"
+excerpt: "Navina solves the point-of-care data crisis with a physician-centric platform for superior assessment, diagnosis and care TEL AVIV, Israel (PRWEB) October 18, 2021 Navina,"
 publishedDateTime: 2021-10-18T19:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/navina-secures-15-million-in-series-a-funding-to-continue-its-revolution-of-us-primary/article_247e3681-5fa8-518e-87e7-1d4ffd94d258.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/navina-secures-15-million-in-series-a-funding-to-continue-its-revolution-of-us-primary/article_247e3681-5fa8-518e-87e7-1d4ffd94d258.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/p23427522/navina-secures-15-million-in-series-a-funding-to-continue-its-revolution-of-us-primary-care-using-"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/p23427522/navina-secures-15-million-in-series-a-funding-to-continue-its-revolution-of-us-primary-care-using-"
+ampWebUrl: "https://www.benzinga.com/amp/content/23427522"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23427522"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Emplifi's Unveils New Voice of Customer Features to Give Brands AI-Powered Marketing, Sales and Customer Service Capabilities"
-    excerpt: "Emplifi, the leading unified customer experience platform, today announced the latest innovative features of its Voice of Customer (VoC) solution, offering Decision AI that elevates the customer experience and improves VoC use cases across marketing,"
-    publishedDateTime: 2021-10-18T13:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-emplifis-unveils-new-voice-customer-features-give-brands-/2021/10/18/9471488.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-
-secured: "3r9UO+yeSVzYUkbkim0gYp9rmwqWK+OAOE+foj0RYeIMFBo6BpxVukGrtgWcsiKRr3meGbQ+vMAy0eHjkc5bdVMmn+zgW7SP7MvGBi7lljgGuD14pj5rs/ZoeH0opQMyCR001q7NCY8fZ8pKpFasM1pIr+6ZbHacOVzlOdcpPzPamfCwP7OIDXZ1rFDCIJy3VvxUKKOJx8rYCBJe+w3PW3qb8PnB6rtYV4pC/1SoKwsJEkk5YELwp0cq9353vO3Ha6wXuBYKmAfsIelIITNGORXpQk5rfZ1akQUBs2lnZBRHguBJ73R2Vsx8CUiOmcOIMJ6GXrx8yVmbM+BQA6slV53kR+HXD2Gsa8U1jGiTFxo=;gVk9uFscUY8KdeB5wH2ktA=="
+secured: "YVrH5BQLGWiSvZP/CJuLsRe3qGBC3Nm2XE5xdcRb7m7evO85EUgVBLyKEQIMOIx4aY6YHwz7eu+MQT/GJ40tsFlJjo5l0vzWgVdIRTXEAUPMjPkFGZxUSkpkbuA1FZL0gXAxhcbxWGrb7uFbD+58J3uOhjR8pkuWZgrTn9dllHuFLF04zEcxhiVEeQQK8K35dj0XKXnUuCVAjlWW6NKKD4xxpYoYEp7T/n9oGTrfnCtKZO38YsLaCY5xvERvqu3pEXz/rYe3ttj1LnBO4xFMenbuqYiBaP6QRrVDCL5cB+1J+nWAwTjVURjVxRv7SZ4KC9t93qZ1moMIBwwyxdh/XCqd8qoLoQ+acHh+VG70xJM=;haNmnolxHDlCJexdU+I/MA=="
 ---
 

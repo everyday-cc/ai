@@ -2,6 +2,229 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-08-robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures.md",
+      "title": "Robotics start-up Ishitva raises over $1 mn in Pre-Series A led by Inflection Point Ventures",
+      "excerpt": "Ahmedabad-based robotics start-up, Ishitva has raised a Pre-Series A round of over $1 million led by Inflection Point Ventures. Ishitva Robotic Systems (IRS) is an OEM operating in the space of dry waste sorting technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/g33g69/article36893806.ece/ALTERNATES/LANDSCAPE_615/bl-robo",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/robotics-start-up-ishitva-raises-over-1-mn-in-pre-series-a-led-by-inflection-point-ventures/article36893807.ece/amp/",
+      "publishedDateTime": "2021-10-08T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-ai-incubator-makes-understanding-practical-applications-as-easy-as-p-ai.md",
+      "title": "AI incubator makes understanding practical applications as easy as P-ai",
+      "excerpt": "The only artificial intelligence club at the 5Cs, P-ai helps students of all computer science levels understand and work with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://tsl.news/p-ai-incubator/",
+      "originalUrl": "https://tsl.news/p-ai-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tsl.news/wp-content/uploads/2021/10/Brynne-Barnard-Bahn_-P-ai.jpeg",
+          "width": 3177,
+          "height": 2037,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tsl.news/p-ai-incubator/amp/",
+      "cdnAmpWebUrl": "https://tsl-news.cdn.ampproject.org/c/s/tsl.news/p-ai-incubator/amp/",
+      "publishedDateTime": "2021-10-08T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tsl.news",
+        "domain": "tsl.news",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-reinforcement-learning-improves-game-testing-ai-team-finds.md",
+      "title": "Reinforcement learning improves game testing, AI team finds",
+      "excerpt": "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/",
+      "publishedDateTime": "2021-10-07T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-delta-air-lines-expands-facial-recognition-in-atlanta.md",
+      "title": "Delta Air Lines expands facial recognition in Atlanta",
+      "excerpt": "The facial recognition equipment will first be in Atlanta's South Security Checkpoint in the next few weeks. ATLANTA — Delta Air Lines announced Thursday it's expanding its digital identity experience in Atlanta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "originalUrl": "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/06a84961-1446-427e-9a57-9ea94a4aeda6/06a84961-1446-427e-9a57-9ea94a4aeda6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "publishedDateTime": "2021-10-07T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv.md",
+      "title": "Robotics startup Ishitva raises $1mn in pre-series A funding led by IPV",
+      "excerpt": "Ahmedabad-based robotics startup Ishitva raised $1 million in pre-series A funding round led by Inflection Point Ventures (IPV). Ishitva is an OEM operating in dry waste sorting technology using AI, ML,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/23/full/1629658476-4597.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
+      "publishedDateTime": "2021-10-07T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
       "title": "How AI can fight human trafficking",
       "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
@@ -970,239 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-european-parliament-opposes-mass-surveillance-calls-for-a-ban-on-facial-recognition-tech-in-public.md",
-      "title": "European Parliament opposes 'mass surveillance,' calls for a ban on facial recognition tech in public",
-      "excerpt": "MEPs have officially called for a \"permanent ban\" on the use of automated facial recognition technologies in \"public spaces.\" European citizens, they say,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "originalUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-06-image-63.jpg",
-          "width": 2896,
-          "height": 1947,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
-      "publishedDateTime": "2021-10-07T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
-      "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
-      "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "originalUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/890f80640dd7706a6c82494d036edfe6dca1eeca/2021/10/07/2e0da503-fa3f-4701-8c59-09547ebc7693/data-and-ai-landscape-2021-small-1024x522.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
-      "publishedDateTime": "2021-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-deepbrain-ai-launches-saas-based-ai-studios-delivering-an-innovative-cost-effective-way-to-build-ai-human-models-for-customers-globally.md",
-      "title": "Deepbrain AI Launches Saas-based AI Studios, Delivering an Innovative, Cost-effective Way to Build AI Human Models for Customers Globally",
-      "excerpt": "With AI Studios' SaaS model and a computer, Deepbrain AI has eliminated the prohibitive cost of video production, including studio fees, lighting, camera",
-      "sourceUrl": null,
-      "webUrl": "https://www.blackhillsfox.com/prnewswire/2021/10/07/deepbrain-ai-launches-saas-based-ai-studios-delivering-an-innovative-cost-effective-way-build-ai-human-models-customers-globally/",
-      "originalUrl": "https://www.blackhillsfox.com/prnewswire/2021/10/07/deepbrain-ai-launches-saas-based-ai-studios-delivering-an-innovative-cost-effective-way-build-ai-human-models-customers-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kevn-prod.cdn.arcpublishing.com/resizer/ydsyKc7NEgJgbOEVuEfQkxc5N8g=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/TPV4IZSK34KVICU2VAH2KBOJS4.jpg",
-          "width": 980,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KEVN Black Hills Fox",
-        "domain": "blackhillsfox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-is-there-too-much-focus-on-intelligence-in-ai.md",
-      "title": "Is There Too Much Focus On ‘Intelligence’ In AI?",
-      "excerpt": "Apart from life science applications and other expert fields in new technology, is this the best way to enhance productivity in AI? Maybe not. In 2017, Erik Brynjolfsson, Daniel Rock and Chad Syverson wrote a paper titled,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615d9fbf8c2f46f4fe359f45%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/07/is-there-too-much-focus-on-intelligence-in-ai/amp/",
-      "publishedDateTime": "2021-10-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-facial-recognition-market-rising-at-a-cagr-of-148-to-reach-usd-1292-billion-by-2027.md",
-      "title": "Facial Recognition Market Rising at a CAGR of 14.8% to Reach USD 12.92 Billion by 2027",
-      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/g23275417/facial-recognition-market-rising-at-a-cagr-of-14-8-to-reach-usd-12-92-billion-by-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/g23275417/facial-recognition-market-rising-at-a-cagr-of-14-8-to-reach-usd-12-92-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23275417",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23275417",
-      "publishedDateTime": "2021-10-07T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

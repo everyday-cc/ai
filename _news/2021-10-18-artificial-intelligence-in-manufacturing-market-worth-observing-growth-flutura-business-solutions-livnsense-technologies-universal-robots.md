@@ -203,20 +203,6 @@ related:
         width: 848
         height: 565
         isCached: true
-  - title: "AI agent can learn the cause-and-effect basis of a navigation task during training"
-    excerpt: "Neural networks can learn to solve all sorts of problems, from identifying cats in photographs to steering a self-driving car. But whether these powerful, pattern-recognizing algorithms actually understand the tasks they are performing remains an open question."
-    publishedDateTime: 2021-10-14T11:39:00Z
-    webUrl: "https://techxplore.com/news/2021-10-ai-agent-cause-and-effect-basis-task.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/agent-can-learn-the-ca.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Food for Thought: Startups Harness AI to Nurture the Future of Agriculture"
     excerpt: "From counting cows to detecting weeds to pollinating tomatoes, startups around the world are deploying AI technology to solve problems that farmers have struggled with since the dawn of time. Tomorrow's World Food Day comes as startups are mobilized to change how our food is grown - with potentially wide implications for the economy,"
     publishedDateTime: 2021-10-16T00:50:00Z
@@ -226,15 +212,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "New MOSTLY AI Training Program is Creating the Next Generation of Synthetic Data Superusers"
-    excerpt: "MOSTLY AI, which pioneered the creation of AI-generated synthetic data, announced today the launch of a new training program intended to help train the next generation of synthetic data superusers within enterprises."
-    publishedDateTime: 2021-10-14T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-mostly-ai-training-program-creating-next-generation-/2021/10/14/9469615.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "NtmJBMxQbGL6vKZ90vN3rmwVLak83V4OQ8QhaFXn55Wvs1y85xAmJmoFaXunLq37DaN0rs6P59Ehc2yc67xneGGjAn6lnSQeiSuf25ImgSnSiJw3ZGASP9vAFbavbAPe4zY5Ihkqw0AIFhj8mOHtvEntaQmzwLRJgllzZ/sOY2m290H6k6HvENlyXFdWae/TkdhMvYduMOYFOpLhxzhJQLFRCp6ozL0pLsiPgGFDX4nfDUppx3aQ1fl46pRxQGPfFQV6zmvEvbJv1xPJFfq8xp/rjXw2+etR4Ug3pZvdUBm4m21vm0iXUEG5iWg46ap06bTCwt405Ec2cwhZCEB6sfuosn9zBof/Gd5oTmzmQWg=;q6WPaZZfRY3erJz/rm53/A=="
 ---

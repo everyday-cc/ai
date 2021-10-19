@@ -1,23 +1,29 @@
 ---
 category: news
 title: "VODA.ai Announces New Products, Partnership with RedZone Robotics to Support Decision-Making Through Artificial Intelligence"
-excerpt: "VODA.ai expands its award-winning decision-support to AI-guided wastewater asset management, and a partnership with RedZone Robotics. VODA.ai's machine learning engine, daVinci ML, now predicts wastewater incidents and pipeline issues to help utilities avoid failures."
-publishedDateTime: 2021-10-18T14:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vodaai-announces-new-products-partnership-with-redzone-robotics-/2021/10/18/9471529.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vodaai-announces-new-products-partnership-with-redzone-robotics-/2021/10/18/9471529.htm"
+excerpt: "VODA.ai expands its award-winning decision-support to AI-guided wastewater asset management, and a partnership with RedZone Robotics. VODA.ai’s machine learning engine, daVinci ML, now predicts wastewater incidents and pipeline issues to help utilities avoid failures."
+publishedDateTime: 2021-10-18T14:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Robotics
 
-secured: "5Cmm5g3i2zJTgzje2Shx3PeH0bsVdAKwNJEt6S0fhFCTYzMfAehZKtr7ibRY1KgGjwfMvj7D+niRaT/r5kLqIDI4gx+PK01i1xbGCuobirea0bfPdKcEYJShIBBpdYYsQBqtTo+Kbcmdno8Nu1+EEYHlA+AHuPCZwOBuOW9zmkVgiaahM/A1fCfcMQVKkg/zjyCSFXnxihgw4LtZqhMG/qMSTpt35shJekPjHI2F8sl07SBgrMoCQktv8lGnOVWKdSxETLAdmy6wi/0wpPkDoRfwqLap+ylefDnrd7QgXEfQGvoF4tmO8TAHFgC1i9XQvXTpKB2zOcWsTlT7Kb1aTJocXqob32hdy3PhchByXPc=;CPNzMIor3s4UcOSzvdDdGQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Qhyp1r9+aMeaxSF9Dzcmxy8LUzWmS1peqsm63UWreCzZTVig0tdCYxMadE6LAHhJtdMWfjN0EIuai8ZXtBYxQtimkLVvCK2IvYLuhXJU1qdW7d7ua7oSmcyOiEFKhMw2Z9VyOPJvUqVB+k9nH9fZeFn3bnzSjHtR3hTj0fqm2AI5XXCpk3B2NnWCpmlGQIuVel1qFEdiwnmj0VMapQFBqC3j5IY40NrNvDlsbyFqjWQ8dpzHmF1Zjx9a+2wgrADVM21rcW5PpBrSblBOMbAGc4Z7wtz7sd7bYaaWApWaiEphL1l7ysTp13aofs8cEodg/2rs85yTkJwBMwjVdBgj+6OeQbtRkPBpibDWpSOKnZ0=;e79zm7rvtnPclIS0X4DsYA=="
 ---
 
