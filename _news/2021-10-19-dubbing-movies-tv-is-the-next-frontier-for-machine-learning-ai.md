@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-19T05:00:00Z
 originalUrl: "https://www.messenger-inquirer.com/dubbing-movies-tv-is-the-next-frontier-for-machine-learning-ai/article_388cc85c-da9a-5d96-b02a-730d977800f9.html"
 webUrl: "https://www.messenger-inquirer.com/dubbing-movies-tv-is-the-next-frontier-for-machine-learning-ai/article_388cc85c-da9a-5d96-b02a-730d977800f9.html"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/c52fb608-0a01-11e5-9c50-bbf37a41334d.jpg"

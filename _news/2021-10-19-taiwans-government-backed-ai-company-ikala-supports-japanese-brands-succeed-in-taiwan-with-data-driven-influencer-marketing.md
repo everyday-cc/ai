@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo"
-    excerpt: "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan's Ministry of Science and Technology with the support"
-    publishedDateTime: 2021-10-19T07:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-synergy-between-ai-healthcare-explored-2021-taiwan-innotech-/2021/10/19/9471927.htm"
+    excerpt: "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,"
+    publishedDateTime: 2021-10-19T07:43:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "OBdE0yDP/qUxgxpL8BZ4f9rLhNuRkahFo5l1LRHEJ0K7rC1UZmYdkSFliwMHg96WheZc+QEbOhG5XNeg1mN/D1nrPusTpQ87C7CKaB/toWhUYn7DJc/vWjloky0ZGmv3jN6oDrQoAADYk3RLMIKfcWdx7+aQELGUA83e/h9KLd0xeAhp9YhBIs6hKa8BR+R6VRiPKLczC0M55JaXiTPDhEXa5g04lATtSNbPMhkRCI/E4ZyyVnznJ5lKYe8XLSSGqWVpRObyilL8Oc0IwcPZ+iXQihmnGGV98r6UdxOwBZ4gbhq0cFGKE4cUTTmMoN98paBjOu9/pShFO8Tq+7z4sVp8OKbia/knD9yuCCwNpWA=;WRVisy9m8H0hNlja5HaEuw=="
 ---

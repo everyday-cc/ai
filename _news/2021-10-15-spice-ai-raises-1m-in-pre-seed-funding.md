@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2021/10/spice-ai-raises-1m-in-pre-seed-fun
 webUrl: "https://www.finsmes.com/2021/10/spice-ai-raises-1m-in-pre-seed-funding.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Spice AI wants to help developers build smarter applications"
-    excerpt: "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,"
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/"
-    ampWebUrl: "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/"
+  - title: "India's First AI Investment Advisory Startup Jarvis Invest Raises Over USD 1 Million in Pre-Series Funding by BNP Investments LLC"
+    excerpt: "Jarvis Invest, India's first Artificial Intelligence Based Equity Research & Advisory Model, registered by SEBI has raised a pre-series round of over $1 Million led by BNP Investments LLC, investment consulting and financial services firm."
+    publishedDateTime: 2021-10-19T05:55:00Z
+    webUrl: "https://www.businesswireindia.com/indias-first-ai-investment-advisory-startup-jarvis-invest-raises-over-usd-1-million-in-pre-series-funding-by-bnp-investments-llc-75529.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 8
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png"
+      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/jarvistext_15184.png"
         width: 750
-        height: 492
-        isCached: true
-  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
-    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
-    publishedDateTime: 2021-10-14T20:31:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Spice AI Raises $1 Million Pre-Seed Funding to Help Developers Build Intelligent Apps"
-    excerpt: "Spice AI, a startup enabling developers to easily integrate AI into their applications, today announced funding of $1 million from leading AI-focused venture and angel investors. Founders Luke Kim and Phillip LeBlanc have spent years building cloud applications from the ground up and witnessed firsthand the inefficiencies in building AI applications that required teams of data scientists and extensive cross-team collaboration."
-    publishedDateTime: 2021-10-14T16:01:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-adb0723b0c5e4c528b6fcf75bc379022"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+        height: 300
         isCached: true
 
 secured: "lpx+Py+o4U9GCgsBNGhdwGygxmOzMzK3z4t+c9l76e4lPnTBkrxjUT9P2XaJn+mbJslKXWvdWuBK/hHNArxOUOmhcjkP43vW/FFHv6Bh/x/SMmMpmvwxuM381dPY5HrlKlQ8mmNsc9KqcJmO2D2ofTAYRt3PxIRwIIEIFlm2+2dg2JzVtdeoBiLG7Tssna2ge1zFZHPT82F8XDCQUlXNcg9EbaFuffGuKclxf2YO0PwgMOfxgkHlqChnfpNFdMK1SRS+JKr+qL3IXs4ALDY4v70Kp9Q/AgXRO+qNtU6F9SVcenV26Xp2dQUkWsermDVCkqVGGO42H6eXvUUROrto7AnPqY9+R1qFfgqEGmxzqk8=;WHDJCrY/LxV6pyBKthpfPQ=="

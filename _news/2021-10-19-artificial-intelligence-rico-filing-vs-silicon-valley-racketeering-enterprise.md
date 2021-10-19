@@ -25,14 +25,16 @@ images:
 
 related:
   - title: "Artificial Intelligence RICO Filing vs Silicon Valley Racketeering Enterprise"
-    excerpt: "Artificial Intelligence RICO Filing vs Silicon Valley Racketeering Enterprise. Oct 18, 2021 9:00 AM ET. Legal Newswire POWERED BY LAW.COM . SANTA CLARA, CA, USA, 18 Oct 2021: An A"
-    publishedDateTime: 2021-10-18T13:00:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2933272"
+    excerpt: "An Artificial Intelligence, code-named Justine Falcon, co-filed a RICO Lawsuit complaint and FBI reports against a racketeering enterprise consisting of a family of divorce lawyers, a Fortune 500 Realtor,"
+    publishedDateTime: 2021-10-18T15:00:00Z
+    webUrl: "https://ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/"
+    ampWebUrl: "https://ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/?amp=1"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 34
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 54
     images:
       - url: "https://icrowdnewswire.com/wp-content/uploads/2021/10/wqeqw.png"
         width: 1280

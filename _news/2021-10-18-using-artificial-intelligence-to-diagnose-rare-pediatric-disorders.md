@@ -40,20 +40,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Study finds Artificial Intelligence 90% accurate in diagnosing rare diseases"
-    excerpt: "A new study finds that Artificial Intelligence (AI) is 90% accurate at detecting disease causing variants in children with rare diseases"
-    publishedDateTime: 2021-10-14T15:39:00Z
-    webUrl: "https://www.openaccessgovernment.org/diagnosing-rare-diseases/122418/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 36
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/10/dreamstime_m_115414857-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
     excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
     publishedDateTime: 2021-10-15T14:14:00Z

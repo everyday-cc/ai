@@ -7,7 +7,7 @@ originalUrl: "https://www.greencarcongress.com/2021/10/20211017-ponyai.html"
 webUrl: "https://www.greencarcongress.com/2021/10/20211017-ponyai.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 380
     isCached: true
+
+related:
+  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
+    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
+    publishedDateTime: 2021-10-18T12:38:00Z
+    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
+    type: article
+    provider:
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 23
+    images:
+      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "lKieXC+Q2kMu8Uo8YG4d4/oRQTrcXMRhZNGBRuTJ9v+L/5tnU261FyxAvc4632c/V/en6q+P5M5LmAIf64qmHZ1+5Fna8o4q76qJd1o3szCvCzUaXuKeFA2uTudekd8qEoXmRS5FbN2mlh884dmoVW4gFKBiuZ64jUO5rqnfvR+vypTgfSfFuNOZEXFNWFsBVovgvSHXkkDjZ4uffVVshAjjh3xxyvGQ6hmr6NmYFVroZDkaDtD+meO/UMOwZAJ7CigQFi0ge406nc6A9WdTIyK6gAHZvmtp7zvC2ie+NkHcssGrGvqx30SSkW1KOhdwExpvsuRiwXKaunLpovOpCJkrb15dxyiUM00HWw5xjl8+pBt9B6fWFS/rmqUF+mLuLl/KbySilM5EEFRqPcZy8hIaGXmchbSw8t2Cn6RPV7pnYqFBEAjU4vAeU67C6b5Q0dqrDjkoHRdS1Qn4rX+cOUg+Q+Vndvqj5SWEWVp5OuvK5Y4EQTfxk0j/9Ygd69SaYjovvm8IX2tGAie+NNo05Q==;jq2EULuE7MNpe/lkMO35kQ=="
 ---

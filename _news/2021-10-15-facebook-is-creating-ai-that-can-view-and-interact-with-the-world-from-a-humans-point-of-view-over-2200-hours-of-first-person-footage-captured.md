@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10093241/amp/Faceboo
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10093241/amp/Facebook-creating-AI-view-world-interact-like-human.html"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -26,33 +26,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I."
-    excerpt: "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models."
-    publishedDateTime: 2021-10-14T16:00:00Z
-    webUrl: "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958"
-        width: 5000
-        height: 3334
-        isCached: true
-  - title: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
-    excerpt: "BrainChip Returns to the Linley Processor Conference with Discussion of Next-Generation AI-Enabled IoT Devices"
-    publishedDateTime: 2021-10-14T23:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211014005982/en/BrainChip-Returns-to-the-Linley-Processor-Conference-with-Discussion-of-Next-Generation-AI-Enabled-IoT-Devices"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
 
 secured: "cblDjttA1ao1OwzxaCjh9Vpt5RoaLSGgdl9cIHWLVdMq/ASIHvLSKvJHFEaKDLL08pMt0jNdwI5XV6R06gxIgzg6C0jUHK3avyev7TpqCUlF7821hm1Ojd+5tGElABVbjAyTpk6ZGJQnFj4mzkYech3VILOoRSpVjDUO3GWDerdhe1hl+A3s0iYJ3G+VE4/1xCd8furoIEv+cjKdJKl2sKI8JzYUvcDha0r4j+iTkanVyTYkX5dsJP8hEBmWZHoD19xyImz1avnmr1eJbNx7sMbIR4Vqrh4j8j3VFJyEGmMffwetfgb7+BLZG2pDTRvSyn+tEUSLPrg+7yMVPcOL8RjLNokSS67NQubW/h1OYKFvalct9NT9BbUTK6nv3Us6sPNKip5MWcarwIAusCdWZW156t+FSx7la0aPpcMl13K19vYaRuBP1tMK1mqpq5EjnW7P0iHC3ps4gROiy4aTGLUqm8mOaM2fUJeawqXRveaYlc9X1Eh/jmtEwMNLJvM6A0VXJgV49GCFedFyEmxo4Q==;8f+MtnXp7ATjl9F4zmGbMw=="
 ---

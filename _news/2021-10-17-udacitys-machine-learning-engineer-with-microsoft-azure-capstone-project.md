@@ -7,7 +7,7 @@ originalUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
-    excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysis and location intelligence on massive data sets with reduced computing infrastructure and lower costs."
-    publishedDateTime: 2021-10-14T16:13:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-5f1f50f091314af6a32cec375f046c36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Kinetica, Now on Microsoft Azure, Bends the Space-Time Continuum"
     excerpt: "Kinetica, the database for time and space, is now easily accessible as a service on Microsoft Azure, giving organizations real-time contextual analysi"
     publishedDateTime: 2021-10-14T20:13:00Z

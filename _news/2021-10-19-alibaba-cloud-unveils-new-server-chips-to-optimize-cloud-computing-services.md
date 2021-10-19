@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Alibaba unveils custom Arm-based server chip"
+    excerpt: "Alibaba has unveiled a new in-house processor that will be used to power servers in its data centres, as China aims to increase its domestic chip production in the face of a globa"
+    publishedDateTime: 2021-10-19T09:57:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/9283/alibaba-unveils-custom-arm-based-server-chip"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/alibaba_shutterstock.jpg"
+        width: 1000
+        height: 681
+        isCached: true
 
 secured: "HiDHI56Xrg+3F9Gz/OgoBZUyCIv62ePfqam/5Lz6GfAXklQvfKBXbbd5hNmcgN7f6tW+L5tkc1UfQZbs8x1ksuS4Xst6LJ1KXIQitt1uAwGSk2wLfYR1zpls5eLWNTKKUXHPpDrUs7/TagAe69wygPYwmCzwZI5okgU2M9dvMBobDODapAc2MmOlW6DMQ+aBndI8tHtWi0SFnSqenAGVVnZBqk+LW47BTl3S+YqLwGKw3HMAMLtElwSS7Sytm43DRH1968Q7zmDi9SNlxg+12JVEoMHShFXZbKIkyjrnNhz88we8n1yXh2bgRqDFre5Gr2xRs4xzUeRhJMH31SkA8GcMfceYsHUb48a/9Frhwvs=;fJDXDsHGv1Ij7GaqwubDLQ=="
 ---

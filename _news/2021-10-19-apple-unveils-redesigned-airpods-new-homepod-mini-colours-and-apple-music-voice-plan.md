@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techguide.com.au/amp/news/audio-news/apple-unveils-updat
 cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/audio-news/apple-unveils-updated-airpods-new-homepod-mini-colours-and-apple-music-voice-plan/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1000
     height: 636
     isCached: true
+
+related:
+  - title: "Apple unleashes latest AirPods, custom laptop chips"
+    excerpt: "Apple announced new custom chips, new AirPods and HomePod minis, and a deeper integration of Apple Music with Siri."
+    publishedDateTime: 2021-10-19T08:42:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/apple-unleashes-latest-airpods-custom-laptop-chips"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/apple-unleashes-latest-airpods-custom-laptop-chips/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/apple-unleashes-latest-airpods-custom-laptop-chips/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/10/tim-cook-18-October-2021.png"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "+kxMg+vLDtVp6hxMKsaeTeAPM11kzaXdHDa8ir0bh17cy0NjMIbSwI50cQvGovo3jDSgkVG7Tf1eyeO+6CE+MZ6DRZsJFiBswgBuBixSBDzguJaPbN0t1tS8KCv8VksF9mZdX6FW5GfBymBrzOU9p1vxPnuHmEtyMvpxEYM8R7Cu8h9jIcJ6kVRrHoIWdcY9BoMDDia+MDovG1V5JCY2BmyVjX5HbMqEdLBE61rwUPrDGzIvHW+j/pwHPkDjN+4ybBdzhzBWzCjWobD0dmiDqD6flDbdTqr7dgqkJdEtNLUVCfLUppV3H7CJ+UtTMVAfMm15DswLwwoRemPc7mB2JN2q6uTUn0n8c4sZs7MxmAQ=;VTCQA5/xLbz9kyqgVlUJVA=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Learn about machine learning and the fundamentals of AI with free Raspberry Pi course"
+    excerpt: "If you are interested in learning about machine learning and artificial intelligence you may be interested in a new free online course by the"
+    publishedDateTime: 2021-10-19T08:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/learn-about-machine-learning-19-10-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 49
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/10/learn-machine-learning.jpg"
+        width: 700
+        height: 490
+        isCached: true
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
     publishedDateTime: 2021-10-14T20:54:00Z

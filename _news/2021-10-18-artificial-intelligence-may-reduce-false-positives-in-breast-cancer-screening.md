@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence may reduce false positives in breast cancer screening"
 excerpt: "Researchers working on an initiative supported by the U.S. National Science Foundation trained AI to identify breast cancer using data obtained from previously conducted ultrasounds. The AI tool significantly increased accurate diagnoses."
 publishedDateTime: 2021-10-18T16:16:00Z
-originalUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=303695&org=NSF"
-webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=303695&org=NSF"
+originalUrl: "https://nsf.gov/discoveries/disc_summ.jsp?org=NSF&cntn_id=303695"
+webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?org=NSF&cntn_id=303695"
 type: article
 quality: 34
 heat: 34
@@ -39,6 +39,6 @@ related:
         height: 220
         isCached: true
 
-secured: "skKgeRF49Y3yXu3ueBswEO/kuxPRefYFz/fRLkcgFGB8ZMDlC819J3r/rgsEceEB4b6VskIItSn2a4i8kHMo5pC1Bspc+kHEaZ4FfM0S0OjCmiN5uBuU7hZvp7P/CNduIa8MuEOT5u/o7b46SATZ9uD25pm7CTNd8DwGNXypOfI0Pca6MBVa8Th5K+2mdOxXEI7ggOjjtazhTiSKRYinClzT+n+JHIl3hyEc+xhpQIiWxcHm7eK37kDe4+rR4r6lFx2BEN18N4LnSnBy6lYS1NIRMAhZhDftnZ9f9oDuildsReQzuei8bajm8Tc1U7iQi7spw4NfSf78Q0j4Yxa22tt7/d18AY+shl+qDEhQamntjLscIgRK9nl7HxYzTlYFhNDQc4W2WLGa3xxx+HkUmN+V1WuICFfv7gqAf+ki1VKVnpVMH2lJD+U2+gQAhzLaVSPF3ctETQlZKO05uEn9HSROeP93KiGEe/0wciTauJgDx5Y4ILTdyLX7lXoImPP6/EqWih9q++fnTTryuM2FFQ==;vRnZDZNBoqNx13RXbGxzhA=="
+secured: "ASwld4W1ONCAma4uCypJ8Sd6xu5SJdRLzxlo2je8fJ/rXi3wFbfCW8UKWJM7gNAiPMZCQo5YfpL2CopnAfgNlmLZmfsUV5/YNRVC3xz+Zz7fdSjKcjz/Uv1NIaCrsL0qBZEmmFMeof6fwUgJwuETpFrVwTVyGa7B8pMi+fpaUcmHLZu5g6poGea1sbiwqyc6XuF5hQbZGB3DMubXSGzJ86cBIF3WjXzHszvkXCITYj3G888Bfk9TyvFVF9PSkxFDcPaqFIHgjLTaxQwd77aFQzs3yg9EJKbjoh5WknHeLqIXdSD7G5cXGUenCP/IgKM9Ev71zgy4J3tvKkdNHOY+AqgbBQ56gtZPBeLiQ6yqCr8=;fKhZU3ZGFPfXlVFiiIRfzA=="
 ---
 

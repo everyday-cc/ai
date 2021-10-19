@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-airport-facial-re
 webUrl: "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17"
 type: article
 quality: 65
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI Accelerator Chip Market 2021 Segmented by Product, Application, Key Players and Regional Analysis to 2027"
+    excerpt: "Global AI Accelerator Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 is the latest comprehensive study added by MarketsandResearch.biz providing a detailed analysis of the market."
+    publishedDateTime: 2021-10-18T23:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-chip-market-2021-segmented-by-product-application-key-players-and-regional-analysis-to-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Microscopy Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
+    excerpt: "Global Artificial Intelligence Microscopy Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-18T23:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-microscopy-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
     excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
     publishedDateTime: 2021-10-18T14:06:00Z
@@ -89,6 +117,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
+    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
+    publishedDateTime: 2021-10-18T07:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+    ampWebUrl: "https://www.benzinga.com/amp/content/23411620"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411620"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
+        width: 593
+        height: 400
+        isCached: true
   - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
     excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
     publishedDateTime: 2021-10-18T10:24:00Z
@@ -126,20 +170,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
-    publishedDateTime: 2021-10-18T07:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
-        width: 934
-        height: 630
-        isCached: true
   - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
     excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
     publishedDateTime: 2021-10-19T06:15:00Z

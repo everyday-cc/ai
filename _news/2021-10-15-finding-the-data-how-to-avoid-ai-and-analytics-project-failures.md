@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Machine learning, analytics should be used to settle claim faster and detect frauds: IRDAI Member"
-    excerpt: "The insurance company should start making more use of technology to complete the claim settlement process faster and even fraud detection can be easily done, an IRDAI member distribution SN Rajeshwari said during National Insurance Academy’s insurance summit."
-    publishedDateTime: 2021-10-14T16:47:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882"
-    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-machine-learning-analytics-should-be-used-to-settle-claim-faster-and-detect-frauds-irdai-member-167882/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 61
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/10/13/162343-tm-2.jpg?itok=7N3zDsR8"
-        width: 700
-        height: 394
-        isCached: true
   - title: "How data analytics and machine learning are driving value in AWS"
     excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
     publishedDateTime: 2021-10-19T07:50:00Z
@@ -75,20 +59,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
         width: 315
         height: 237
-        isCached: true
-  - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
-    excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
-    publishedDateTime: 2021-10-14T15:22:00Z
-    webUrl: "https://www.alteryx.com/resources/webinar/the-bleeding-edge-healthcare-data-analytics-ai-innovation"
-    type: article
-    provider:
-      name: Alteryx
-      domain: alteryx.com
-    quality: 54
-    images:
-      - url: "https://cdn.alteryx.com/-/jssmedia/project/alteryx/automigration/ebooklogoimage/universal_webinar_432x432.jpg?h=432&iar=0&w=432&rev=40b23c67059744a48c46e69276833aab&hash=C44E3EF00A8056C1B237BDA0AE3208B1"
-        width: 432
-        height: 432
         isCached: true
   - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
     excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
@@ -105,6 +75,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
+    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
+    publishedDateTime: 2021-10-14T20:31:00Z
+    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
     excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."

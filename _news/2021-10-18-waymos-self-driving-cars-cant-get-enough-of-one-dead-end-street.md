@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-thi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616bbb9863b1257e1ea1f91f%2F0x0.jpg%3FcropX1%3D248%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1549"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Dozens of Self-Driving Cars Getting Stuck on Same Dead-End Street"
-    excerpt: "Waymo, a Google offshoot that develops usually-impressive self-driving cars, has run into a problem as dozens of its semi-autonomous vehicles are getting stuck on the same dead-end street. On some days,"
-    publishedDateTime: 2021-10-14T16:42:00Z
-    webUrl: "https://futurism.com/the-byte/dozens-self-driving-cars-stuck-street"
-    ampWebUrl: "https://futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dozens-self-driving-cars-stuck-street/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/dozens-waymo-self-driving-cars-are-getting-stuck-deadend-street2-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
     excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"

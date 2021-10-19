@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Study finds Artificial Intelligence 90% accurate in diagnosing rare diseases"
-    excerpt: "A new study finds that Artificial Intelligence (AI) is 90% accurate at detecting disease causing variants in children with rare diseases"
-    publishedDateTime: 2021-10-14T15:39:00Z
-    webUrl: "https://www.openaccessgovernment.org/diagnosing-rare-diseases/122418/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 36
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/10/dreamstime_m_115414857-scaled.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
     excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."

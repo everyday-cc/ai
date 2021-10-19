@@ -35,18 +35,18 @@ related:
         height: 800
         isCached: true
   - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-    excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisions around security, workforce safety, and process efficiency."
+    excerpt: "Company’s Tech Launches New Era of Video Intelligence, Announces $22 Million Series A from Redpoint Ventures and Bessemer Venture PartnersSAN FRANCISCO--(BUSINESS WIRE)--Spot AI officially launched today with a goal to provide every person in any business access to video intelligence,"
     publishedDateTime: 2021-10-15T15:37:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-a1c6b207c1974e6e9b75cb0295141139"
+    webUrl: "https://us.acrofan.com/detail.php?number=547895"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
     excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisio"

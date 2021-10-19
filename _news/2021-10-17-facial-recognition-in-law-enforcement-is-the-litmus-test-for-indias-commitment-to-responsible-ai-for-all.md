@@ -9,7 +9,7 @@ ampWebUrl: "https://www.orfonline.org/expert-speak/facial-recognition-in-law-enf
 cdnAmpWebUrl: "https://www-orfonline-org.cdn.ampproject.org/c/s/www.orfonline.org/expert-speak/facial-recognition-in-law-enforcement-is-the-litmus-test-for-indias/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 660
     height: 450
     isCached: true
+
+related:
+  - title: "UC adopts recommendations for the responsible use of artificial intelligence"
+    excerpt: "UC is one of the first universities in the nation to establish overarching principles for the responsible use of AI, with an emphasis on transparency and accountability."
+    publishedDateTime: 2021-10-18T17:47:00Z
+    webUrl: "https://www.universityofcalifornia.edu/news/uc-adopts-recommendations-responsible-use-artificial-intelligence"
+    type: article
+    provider:
+      name: University of California
+      domain: universityofcalifornia.edu
+    quality: 34
+    images:
+      - url: "https://www.universityofcalifornia.edu/sites/default/files/cpu-chip.jpg"
+        width: 686
+        height: 386
+        isCached: true
 
 secured: "qhz5+wyZwZzKu2/x8xK90bzKKKK6iOjP7N737ty8IyNHnCtFc025t7S2io9pJDf9AF9JiTKBlobXSuhSieH47lnmcxC/up3UgGs8TE7VodVzAMhzDXjvq01ifwBZqWXMxn6AAMKStg81IJN2NEDDX+PqUgKYpARYPdFh0OvJpNfKoF7M5iYDD8jMYNEkNprI9wVv60wbQs5lg4VtmwGnK3MY6LOjOzsVrCAMEJlGBnI0xjgeT/GRMrGlQI6XJEE3V1x+XkCrGvkyTrkXqPKANc4oqW2cs5CitlNtgNH4vU2jeZfMPzlH3mUAcfSoLfoPBY9o5NcbrNUCLoN8X/QT5mXF4QwVKxP+GRpKSABTFzPoCbWnq/KRbcS0dklXnJwgKvATeVYKgFu0bPO6Ft1zO7G6fPpAeGHY2RbnDt98tMR1hcU+T7BnfGI4hjsIwAylwM0BUx3mK8iWskkx1Tm+O9his+UA1Z2H7rRKC7tTROnRsREaXb5KzKcHfrfefIlSZ8jTLqfRwRWuupBbrn97cg==;RqT1CrJVnJGkA0jOseA83w=="
 ---

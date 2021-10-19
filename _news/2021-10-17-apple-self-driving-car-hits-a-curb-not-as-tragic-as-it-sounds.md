@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It"
-    excerpt: "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles."
-    publishedDateTime: 2021-10-14T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644"
-        width: 1200
-        height: 929
-        isCached: true
   - title: "Amazon-Owned Zoox Expands Self-Driving Car Tests to Rainy Seattle"
     excerpt: "Amazon-owned autonomous driving startup Zoox is set to test its mettle on the rainy, hilly streets of Seattle with a new expansion of its self-driving car trials in the Washington city. Patrick Kulp is an emerging tech reporter at Adweek."
     publishedDateTime: 2021-10-18T19:09:00Z
@@ -55,19 +39,33 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
-    publishedDateTime: 2021-10-18T12:38:00Z
-    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
+  - title: "Toronto's self-driving shuttle bus is out on the road (VIDEO)"
+    excerpt: "Toronto's first-ever self-driving shuttle bus has finally made its debut on the road, taking to the streets of West Rouge for a trial run."
+    publishedDateTime: 2021-10-18T16:45:00Z
+    webUrl: "https://dailyhive.com/toronto/toronto-self-driving-bus-on-road"
     type: article
     provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 23
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 24
     images:
-      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
-        width: 900
-        height: 600
+      - url: "https://images.dailyhive.com/20211018091946/toronto-self-driving-bus-500x258.png"
+        width: 500
+        height: 258
+        isCached: true
+  - title: "Toronto tested the futuristic self-driving shuttle and people were excited"
+    excerpt: "People came out to see Toronto's self-driving, West Rouge Automated Shuttle during a test run recently and the micro shuttle proved popular. A"
+    publishedDateTime: 2021-10-15T21:39:00Z
+    webUrl: "https://www.blogto.com/tech/2021/10/toronto-tested-futuristic-self-driving-shuttle-and-people-were-excited/"
+    type: article
+    provider:
+      name: blogTO
+      domain: blogto.com
+    quality: 22
+    images:
+      - url: "https://media.blogto.com/articles/20211014-self-driving-shuttle.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google’s Self-Driving Car Gyre"
     excerpt: "Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google's self-driving ca"

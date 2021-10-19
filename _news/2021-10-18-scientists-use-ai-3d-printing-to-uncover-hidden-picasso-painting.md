@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/scientists-ai-picasso-painting/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Futurism
@@ -26,37 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI paints a Picasso nude, just like Pablo did"
-    excerpt: "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,"
-    publishedDateTime: 2021-10-14T16:17:00Z
-    webUrl: "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
+  - title: "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing"
+    excerpt: "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,"
+    publishedDateTime: 2021-10-18T01:34:00Z
+    webUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/"
+    ampWebUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
     images:
-      - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
-        width: 1454
-        height: 818
+      - url: "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
-  - title: "'Lost' Picasso nude comes out of hiding, thanks to artificial intelligence"
-    excerpt: "One such painting, cloaked under another for more than a century, has gotten new life, thanks to AI. It's a painting of a nude woman, dubbed The. In 2010, X-rays revealed it hidden beneath Picasso's 1903 oil painting The Blind Man's Meal,"
-    publishedDateTime: 2021-10-14T16:09:00Z
-    webUrl: "https://www.cnet.com/news/lost-picasso-nude-comes-out-of-hiding-thanks-to-artificial-intelligence/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/"
+  - title: "MIT Uses Artificial Intelligence To Automate 3D Printing Materials Discovery Process"
+    excerpt: "Artificial Intelligence, and more specifically, machine learning, is finding its way through various applications in the additive manufacturing industry. This time, researchers from MIT have applied the data-driven nature of machine learning to automate the process of discovering new 3D printing materials."
+    publishedDateTime: 2021-10-19T00:01:00Z
+    webUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/"
+    ampWebUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
+    cdnAmpWebUrl: "https://www-3dnatives-com.cdn.ampproject.org/c/s/www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
+      name: 3dnatives.com
+      domain: 3dnatives.com
+    quality: 50
     images:
-      - url: "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg"
-        width: 1454
-        height: 818
+      - url: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2021/10/3Dnatives-cover-picture-850x500-2.png"
+        width: 850
+        height: 500
         isCached: true
 
 secured: "94H2ee9IoJ/IPli3kwK9YKO9VNncwx7DiVUMTv33rRWS9keeo4+UIbTVuBNY0V9K3PbE27zbrNkyKsvjwL7MJeRV34MS3hgGFTA+Vz+nzgNPSwZateDQqUDVnUqyWcc8vg5V5KE33qyC+LanN2iRlJzSdamJFGUZDTpAKONtIKudxE05uYS+0bHB5ODTMxjdPhIh7H5VepCb3sx8RWhZPSSXV4zUAw/IiHgptaDzhEnq9oAR28ifJ95qImpAqpOOv7GOVikr58t8u4seNyZy9E7J1PM8aquKII8P4ur+q143xsmkk55l12iNPhaAdca5kXzJlLouvhxJQ6Qao3ACS+xQ0MRT2wHZkhAFqLfRZg5f/CSDT8OYwT7dmRMs69duOmpZXYMJJiVbXZkofaquzsKSlGmCspbIy9oEX5FqmXdf17fpDktD9tC0ccFzWiNMlPKqZb7uwErTLbqxsJ+52TW7094H/FXZCkrxbQUeM/Q5gUc5DYeHnWhcmJnyrzoAo4ScK0Z3Hc+cquuyaOXRhg==;WhFFkOXVttvW845zIyLnAg=="

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisions around security, workforce safety, and process efficiency."
+excerpt: "Company’s Tech Launches New Era of Video Intelligence, Announces $22 Million Series A from Redpoint Ventures and Bessemer Venture PartnersSAN FRANCISCO--(BUSINESS WIRE)--Spot AI officially launched today with a goal to provide every person in any business access to video intelligence,"
 publishedDateTime: 2021-10-15T15:37:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-a1c6b207c1974e6e9b75cb0295141139"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-a1c6b207c1974e6e9b75cb0295141139"
+originalUrl: "https://us.acrofan.com/detail.php?number=547895"
+webUrl: "https://us.acrofan.com/detail.php?number=547895"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -60,6 +59,6 @@ related:
       domain: theinternetofthings.eu
     quality: 12
 
-secured: "ylfsIyyy3DosIKSf39ogQEdyfXyo8/kk7qgYkKqKU54m0SaGPnYNCsrQJ4vJisBZE8WeoN/tdTl0CkzLk2sKBnHYxAbXYXRvCUneSh2ojqulhwERkXQOui7LOeQbbnhpRbmV0KBJ4ssaK3kPlZdRBdRjfBZVu+6+0Y3N5I/GVQcFuNFuCjCerN5r9TwLy0uAu25/Vp6xPLVeYypvHAKgJ+TBsmIfBg4Hbiqc9lgRPDfwBru1fQNJRbFLgf/VYxJ3yI94cUHJpMeMcVTwO/KXsPfakzv6JKa2VzfpFGPNs66EE5iDzpWP+Jgps2PXU7ecPLasosU1bvt6eJveZ8+yom5A+jmDhy9lZ9gu43GD3Mc=;BZvxrOtQ0pT2SadOZNos7g=="
+secured: "g7SxjKMy8BCTOYxbTRvTEu9NovZ3QX/W4jbYLa6ypHi5WXYX4Lxk96rPDVYlxwaZfCIT4Gw1SXCiw6K0Emz0NMRJzl3s3sevj8LkMIHyspqlp67RG8Do8q3v3xb71WzWmj25ss8dXjp3vySQ1mauTR6/3s7D6PzR7YMJimlcgpTr222pU5td+Zo0LTqH4RjLnRb8xwpClKh94SKQApH7u3i62X0GKj/adGdb/UkJSutqnAgBmfFc85c9s43w2xiRW1jr2T3C3SZKnqPEaU/hx25DQyXtR/Rhjge78HNC3tuEOvItqzG76YgXDpCJ27qxNk+GDN7bjxZ9y9r8WrOKAHqoEPJPT4JUV1pMPQaimoU=;rI/Dc5mDHcoXbAejS1Z4sQ=="
 ---
 

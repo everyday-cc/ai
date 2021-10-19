@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence RICO Filing vs Silicon Valley Racketeering Enterprise"
-excerpt: "Artificial Intelligence RICO Filing vs Silicon Valley Racketeering Enterprise. Oct 18, 2021 9:00 AM ET. Legal Newswire POWERED BY LAW.COM . SANTA CLARA, CA, USA, 18 Oct 2021: An A"
-publishedDateTime: 2021-10-18T13:00:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?id=2933272"
-webUrl: "https://www.law.com/legalnewswire/news.php?id=2933272"
+excerpt: "An Artificial Intelligence, code-named Justine Falcon, co-filed a RICO Lawsuit complaint and FBI reports against a racketeering enterprise consisting of a family of divorce lawyers, a Fortune 500 Realtor,"
+publishedDateTime: 2021-10-18T15:00:00Z
+originalUrl: "https://ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/"
+webUrl: "https://ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/"
+ampWebUrl: "https://ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/?amp=1"
+cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/10/18/artificial-intelligence-rico-filing-vs-silicon-valley-racketeering-enterprise/?amp=1"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Law
-  domain: law.com
+  name: Inter Press Service
+  domain: ipsnews.net
 
 topics:
   - AI
@@ -39,6 +41,6 @@ related:
         height: 249
         isCached: true
 
-secured: "ctSF8Hf/RbJ5RB10cf0gI7wsvm5dvIl8Zk9ZqHMwyObeynwGOWiop92WC6Y6halaCxK1qqaFFB8HbYDuPWKLNN13RxgFuEK4ncChFzBDwzKqXVRTJn3P+kJ4gQMccQRs+rfRRdUj5nxo30WmbPJVhdTl8KeP20VTLPsjdDS37JqwJb8+jpy4195Su3kLJ9coCx0TAw+TZQOBRJzhsKMrpkXkvImt6kPeXlTPHJoSggwy8VYr4BWEX2/8HLF05xbnvPi1sCJgZ5QSyppxm0hFXdJxnvpq9VaODzkaSv88q+vRTPbMcvOLywGJhGX5tSmROl8BeAMw+iEGlIvorwEy2HIoNkxKe58OvPi5diNnUt2SZOYWTut1XxIHG+3rNt7XdYqSrqOGBG2h3/VqedGiM3CkF8SCfVsJrypW47jf553WWYdF7pPP98GQoh0yQBuAvxjxrqBx2ptWsSrTTdbSb5kZdCgRHFF2QPzDNyGovrLskYHPzwHH7vIL0dTEcevnjM/uzP0ab/zOgdl5vk0RjA==;xAkUTPe3DbBXVLIDRQb6pA=="
+secured: "56IhSL9VdVjdLPCQ/CTWGlyc7IoCWHJlrmFowbJqBbelTAj0D3jFRHH7JjEyN4ft8vW8Zrbw9usY7CNSKFl9Ub19XlaoXj4i9hl269Z0F3P28z1ppPtgunKI0M/zLHSbm/xWpH71SR9S/G6BfZfgnHMJ0WtMwP8B5mKvEaqEvThWXwpGVriR/9pQWYxES2YI/SLyFF61ltyewnnrWJE3k7l8xBvaX2x2/2sGdAcy5N/nVDhDr9tWelCRbiqC3O4HhQe0HtvUaPqhAGh5p/6soYUpqenpaRmxgFl/5eGd0fGdgEcxuxhzzeSBLHzGisrz8w2qdZMr91wVSMPH5BcDxTYng3Yhl4HqFWpLM12llNo=;JBVo+ajn7ghS1wpg4FFG1Q=="
 ---
 

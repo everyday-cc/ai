@@ -55,20 +55,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Study finds Artificial Intelligence 90% accurate in diagnosing rare diseases"
-    excerpt: "A new study finds that Artificial Intelligence (AI) is 90% accurate at detecting disease causing variants in children with rare diseases"
-    publishedDateTime: 2021-10-14T15:39:00Z
-    webUrl: "https://www.openaccessgovernment.org/diagnosing-rare-diseases/122418/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 36
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/10/dreamstime_m_115414857-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "kQRW2miwbHkzz4xXcMXthPAkeIOJK85/ooJvA03rjz3WfaLXqWWaomHotUBrXEXbGwo5ljno8dtdheNFUgYa3ysU+8Ve2ZMstCvx3iNtwL5fAtBsHWw8otjQ9KD363rjHQQI/kNbw6fy6Tls2Oj/cC1+aWFqb1GKOUBk22C8ddOktdop21C9fSUhevSMpD70/tf3pMPGTXFSSR1FTe/Q21PL8MmzZf1YAR0Ni92kLjJSIjcc8JAwOAHtM0cSeiPPljFDm2weVa5SsysLevVaXxo3KwViaRCyMTFTqttaK5kqk6k36OfOoomVWg+ToVvwYgJ12kg2Os7aTVUvYgpvmABOUIylVUGLyrPlIrfqfpl7ShFllGJyahT8+uvuWAj38i/yRfIrzSN9Hg64ZJHlasJZzfKe6a1mjKdrbEqEEaBlP856JhljDk18iBOiLAVtBCQ3WcpO3WE15vEkbFR7pcAcEYFukaEzWymKS4VO2iZ8oy2VN84fo/3SQC+n14BUp6PPX/clcQ4UMOCAPpqk8g==;rkixhi51bFRdCg0p95BLtQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo"
-excerpt: "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan's Ministry of Science and Technology with the support"
-publishedDateTime: 2021-10-19T07:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-synergy-between-ai-healthcare-explored-2021-taiwan-innotech-/2021/10/19/9471927.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-synergy-between-ai-healthcare-explored-2021-taiwan-innotech-/2021/10/19/9471927.htm"
+excerpt: "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,"
+publishedDateTime: 2021-10-19T07:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Taiwan's Government-backed AI Company iKala Supports Japanese Brands Succeed in Taiwan with Data-driven Influencer Marketing"
@@ -34,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xIoQRqcGzvjTAzX8aA0S5nWLv/sJFXKVWYsasMVjqHiZ3TfEK7M3Wji1xXZvBJAoyOiyFjqxM4EasoJsuFIm8BHGbdYTaXtLw+GzfouJUJikY6OQmsbM7qrTgCS6nXlTLHFdjxLgScXbnY3W9RYM5FhoOZmHN7vlPGnhgb+OPx/lcFWfAnYqQ5KzbpIxGbzBEJWutEm0uYT97Fl7d1DVDgrLUYctFKjlHCcxqd1gJHE3VMc+XFfMWwUy4SR35ROUwR20CBef3+45kp6uyb7DZLztA1ndcYfFKRQWVxAlLY0aJdJxGOk2XUuldObSe2/bWrilg+CL/R57joora3iypPbm9fFNk2xghq8S+MhPyCE=;zPWYEGTa2XGZkVxSEVKTNg=="
+secured: "Nn6yUlzHF5oCOJydVDjAkpq3E5D7xJrlF80tPc4eorVodEuINdYEems+xJrzFOA0W0hFmeFLWzqBPZ8cB2DXuwNebDKeSTci9xaziwVBmdm7cT5LMjKtc0id5iPIJ7Zl7/AM2KLenWjea8rkrjWuutwh3fwdJcWJKkWCGKoXmBxGNM2bA5lwfhnLDgArf05k3QaaVyuWHszHBJg3AdbQX3iCD56IYWC5Pmrlno7SNI13tkqKrEbXZ29yC/5lzG3NSb+fo8hlLLYYg0/c4o//AJounr+FhT/05mgqOJmDybBRbtNdCsRkvegBuzwShs7Jtma5T2UQ7+dlplEpacgPaWzrma1eCkNu1lDRpVKi6qU=;CKfB1qr1t6U9GIU6rjUDVw=="
 ---
 

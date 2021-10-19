@@ -1,25 +1,24 @@
 ---
 category: news
 title: "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering"
-excerpt: "... from its founders' successes leading the development of deep learning management tools and infrastructure at Facebook AI Research (FAIR), Ebay, and machine vision leader, Clarifai. The company brings state-of-the-art deep learning operations (DLOps ..."
-publishedDateTime: 2021-10-19T06:44:00Z
-originalUrl: "https://www.kcrg.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
-webUrl: "https://www.kcrg.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+excerpt: "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production"
+publishedDateTime: 2021-10-19T06:00:00Z
+originalUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+webUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
 type: article
-quality: 29
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: ABC Kcrg  9
-  domain: kcrg.com
+  name: KHNL
+  domain: hawaiinewsnow.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
     width: 980
     height: 2097
     isCached: true
@@ -51,6 +50,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/xbIw55M3XSMmqjcQeIuV0it2GJe1ZeRpwS5KqHpZim1wdtBrWvU7cR2oLkqtPELBNTAqS4lbyuKtFwQxZ4+4MjcnRNIhM1si44fvBOq77wGYqKg57RMCr+bwXOXKKD/7GpdSqdEOtUKKoPppseFNt7wBhBsw1N4MuvvAg2B3Cs8K0Zy6n8E8mqieaolsfkWKkLl5CQcOg93Xge7bs0gYvEoB9QFc2YuX3ZLaj0+ishmfu0HYEgScWPkq9xj9eoxIVSJuAGl0WVQHNFxAxk3Uo++pfOQQ9IOCSIut8NwBxycT6Q2vGY0vG+gHn+WBMwDynaonjbsAag6A0NhKiGvVOBGsDlInZ/nYFuwb1pyDrM=;odrgx2RMSXTKL6F2VqM+Mg=="
+secured: "kUF1SWLLOjFNG6ptPxlF7BMylNyoKu1lMxYku+twWXQyXwEYaFPRiH1r6Qtg1aFC28P8yi9H9sw6KqtvP0HIor1dDNbYFoYPvQ4rh0Wbn5TRvpiXFzzDYW8gp/5A7yDSOdWUMJ9FOeW9eP5Cu0uKjLeAXLN5n5XKv7YaPMCxqRsc5Z0umND9aj+Gs7N7s5hXKIeW8iC0ChY1V4s/4RbsvBSq4taIkXgMk9UWhtXncrQxwlc6fDz7xLh9prtnEpe5hRD2V3IqrtDcyRkzkDbKlobAg3sWbE6MPuu8rLnGC/BCuuQveDY5Iia5KjyZodczdPs/6zoh0pHrHms45wGs/L8RTAItFpDeU/4TxWrjV/E=;RGlohI0/nCUccuBe9MRDog=="
 ---
 

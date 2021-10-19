@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Learn about machine learning and the fundamentals of AI with free Raspberry Pi course"
+    excerpt: "If you are interested in learning about machine learning and artificial intelligence you may be interested in a new free online course by the"
+    publishedDateTime: 2021-10-19T08:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/learn-about-machine-learning-19-10-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 49
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/10/learn-machine-learning.jpg"
+        width: 700
+        height: 490
+        isCached: true
   - title: "Powering the Next Revolution: Artificial Intelligence"
     excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
     publishedDateTime: 2021-10-14T20:54:00Z

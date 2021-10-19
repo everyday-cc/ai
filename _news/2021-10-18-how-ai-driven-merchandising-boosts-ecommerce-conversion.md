@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Understanding the UK Artificial Intelligence commercialisation"
+    excerpt: "The government is carrying out research to understand how Artificial Intelligence (AI) R&D is commercialised and brought to market"
+    publishedDateTime: 2021-10-19T08:46:00Z
+    webUrl: "https://www.gov.uk/government/news/understanding-the-uk-artificial-intelligence-commercialisation"
+    type: article
+    provider:
+      name: gov.uk
+      domain: www.gov.uk
+    quality: 37
+    images:
+      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/42/s960_100PS_960.jpg"
+        width: 960
+        height: 640
+        isCached: true
+
 secured: "1unJL1CEekKRKFxkzBoPJdyNQPxcrzfIUYjaU/QGD0bpFgVoPJA1IKi1w/3OmIlKKSLjNxfTj/79Qo9Gn3xhLVz8Y8n2y3rXl3HLJJ8CH84YHG7Nt8tvPSCrEAe9XiN3HPatDrp8oEJ0X8mwvSJ0yxMAVecDTcQX3XXOOJHC15KLoAHFkX6kZXdrYkCP4lf+u658G4PFkKgb6kc+c8tdybdhIh9/mdilkORw75R7hBO+zQZ4V0QFL+wccUrs3kuO/fLV6TB+cLFIYPL7gQKAMcnYw6qKAPJQ4j5PELgCjQMUMwd/bLfqDYRnREg9yiRBhLRpvMzgw/hk7/HRvOn4q3hoRun2hUZVGHtj9cZbhRdUXTxb8hN6ePumm8HO+MqleOJrBds2CtUUibERH2m61eGbd+Bq+dIJzD34eGdVyBBPRqsEIYs9lYdtk+EooL4kVuutKsOWMmsLbwGf9oAmrEVE5uLv+SiA5J1suHeSLZ871vXp+7pzN4UFHuNSUR6Etse9kSXrrdV7/hhyM3puXA==;7oiUz6jsp6ZXZsSXQ0UGsg=="
 ---
 

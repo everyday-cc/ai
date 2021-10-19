@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
 publishedDateTime: 2021-10-18T07:03:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+ampWebUrl: "https://www.benzinga.com/amp/content/23411620"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411620"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
-    width: 934
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
+    width: 593
+    height: 400
     isCached: true
 
 related:
@@ -33,6 +35,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Accelerator Chip Market 2021 Segmented by Product, Application, Key Players and Regional Analysis to 2027"
+    excerpt: "Global AI Accelerator Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 is the latest comprehensive study added by MarketsandResearch.biz providing a detailed analysis of the market."
+    publishedDateTime: 2021-10-18T23:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-chip-market-2021-segmented-by-product-application-key-players-and-regional-analysis-to-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Microscopy Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
+    excerpt: "Global Artificial Intelligence Microscopy Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-10-18T23:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-microscopy-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -161,6 +191,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "WR2XVtiZ7P8+xIxhImpszQG/RdzKzC0TsmCCVR7cM/7kDPD8TD60GXNnhu7FVvbE8paqmZr/ujbZfdiuCnRPKhjXPhVy2fWmYuCfAIG/+S+8KQuQdefyvBu2COLEkZyoXIHamB9qtlNreuW6wVZAcApyR0peXzevCOW+MZoLxeBpXdihmzWSE0WE0D2PXExt8Edgk8hZuuEy/9ROhc/+3FplUde2q+4TP88mQDzdZZryv+rKU3lWJnLoX2Bp7GMPKEZTI5AFd5Al8ll/zkdohgRA54c1bIkquBKdYMme7f1eLEigq5uGnP539G4p/B2Lmkv0VGpIm1YYzgTsH5UnkmCjQ5b1lrciDC8tRH0uaQU=;Lfbat+KccP++CBK3heSGbA=="
+secured: "414MXE71kzCKxBLzIooW2pRphl236pPOz+tVhy/P+D8Me2mGoQfy0Fl0uSXmXFZTX2Zs4a7jq7GmcnlYtbiPm0gQ4DhjXxatc9DwGWjVQrXSHg0rMGrD+DQbCeq0slbWBpAzps81s8QQ9NqfKoRcKrb/xDSBeo0Bue5X0xMt92SSoN3GSYhZBmqxcl/q3cNVd19tHl47Ynhxm0/1Q0AcZ7UhLqi4ejdPu5EFvK9u9/LICGqr5prgfhfRbfTicUh6IUVtVew3m9lSvv1OmR2xXLWzftr6PIXI2ZR1G57Fyj1bSvto6gXactskrgZKMupYYibH0XkU+WwLwJkJ3Cux8wIV1JP1ATbcu+w+426fIs0=;cfMys09s9Q16Ex82hpSG8w=="
 ---
 
