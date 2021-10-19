@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     height: 682
     isCached: true
 
-secured: "NBwfimYRuYvauuo+NLyuAunnQBaoqcp8fBhc2XEPvyb4VZFsyCglvptqFSgjXPNpUzpBb4sfWyFJLUJuXxmp3qEbmAU3Kp6SMJWjCa5apqPd8MH8t7n3b1dGD7jI+QuCBrN4l8Enrb5LhWpYYz51MOvIjZt4B1um84vXKWdlJPjrcIXjs8H8yfSgWLP6+OTr9tlRkF2zbOY5GIlducHNNxlvL2AIMpnh+Ybhl1duj6/IW032F/3X4+1HddeS+ZaQehulSDHCHjlqGK/jc589chuARCn0LaTLH/n7rlNFIqBGI3NTaya/+8yzQazO1OyEQGID8BOcSKYI+XlWFrN7eMV6fkzhOubfs6Rhi4L4KZY=;Ugr3a+EetdCvZHTavnolAw=="
+related:
+  - title: "Google Tensor debuts with Pixel 6 series, it bets on faster speed, AI, Advanced security and Machine Learning"
+    excerpt: "For the first time, Google has released a phone that is powered by its own SoC. Tensor is a Google project that was first announced earlier this"
+    publishedDateTime: 2021-10-19T18:41:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
+    type: article
+    provider:
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 74
+    images:
+      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/aryan-khan-main_6.jpg?itok=hyL2W6kr"
+        width: 375
+        height: 240
+        isCached: true
+  - title: "Google Pixel 6 Series Uses Powerful AI To Make Service Calls Faster"
+    excerpt: "Anybody who's ever been discouraged by long wait times during customer service calls should be looking at the new AI-powered Google Pixel 6 series. That's"
+    publishedDateTime: 2021-10-19T19:13:00Z
+    webUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/10/Pixel-6-customer-service-calls-features-presser.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
+
+secured: "VzW6lcW7XIX/pn7B2+8vjFpbET+iBoTUNYGuGADsnV4UYjRjpWh2Al4SKW0LI7SzhoNHP84AgJ9i9NYz1ppPEF4KGd6Kl4vj9owbRaGu8392yK8CwkSTKvMSNIYRzMC7outG8Xq4EF199Ce5pTyfuxUxHawcZL1Mp7BUe4DxK390EyLemaxR1WAyoqZtVZXzU0wgec2TH/SfO0rrtm4iEenmrcEWZg9LQC1QfYiekJqJnI/5AeldGg3c432LI7Q/f1wrJOmxu7jHSAB9nBzdTGRM6BOvd1KG5k8psOOP0WiPWgIubkpPHMc9jX3R7Re81lrVxw31VAj6fy6g/7K9zGLegv10lwie5WUS/8m0xyqEwusmZUA9jYyNADDI6Todf4hZQnZ+turSWm6IILwD/b5Q96cHi7B8oc1js6wUu+IUGODgQ7bvkqh6CAXkeusl8xwG651ZAlIT/TwgnDSguouJ5biFyv0ISOGjtWGjOW3WBXspG3Upqkgl1lYMlq+drdnp6y9kfMZ97qFqupvX5w==;5cezdS/sXndK+/dM2TabHg=="
 ---
 

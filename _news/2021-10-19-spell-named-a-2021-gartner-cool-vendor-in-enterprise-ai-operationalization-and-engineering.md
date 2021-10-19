@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-19T06:01:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-e2afa68d1d8f04bccb5c0744b7a18242"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-e2afa68d1d8f04bccb5c0744b7a18242"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI-powered personalization provider Qubit gets acquired by Coveo"
@@ -45,6 +51,6 @@ related:
         height: 600
         isCached: true
 
-secured: "5pVgMd3bMK2Mgo8qxc94YEbiXcPZFhJV06JrWE+Y3l6zLJTyp5eEru2Xp0sk+6bFr03VwHFmBgtsNhSdp8MjiLMfjPzDyHQKbMpEdkGC8PZQPKJ0cXrrnQE2f/YBvFvfTAU99x0a2uDIc86pYeqY8y9WPdC0tdzdKdQ8iQkVIqonnX4G9AzCYw3huzCWq7kYKEVq6VGc0GsTfYF9uiSgK0DRqT0sJ51fIj98Yg4R7/QUi+KG9TZwb7jLy3hQAcCMcpvZMdSUkOTxJj4r3ER+poCVf6DGpx1GEuVyHn9TbfO806IizwtFuzb7Jg7gP1kR6TB3q/U6rlz+egGrj4dNrpkUR7SqKm1/SQutet+K9rs=;IC4qxrde/ciYMKfzznmXNw=="
+secured: "1yW3G0f9hBKOWk+4b/NKjex4WP0o7vnD/W8Dv5VMOpSTi4cmBj3TFz/9tTfbGqPF+MEYpjKMPb0Uxex3xrD6VHTTP1P7WGjgZdAmyNbT9KXKaeVQuFtHiaxOvM/xATq7yaWSzXRUtXP4YIva4Dg0x8i3WVUYp/VRVxL4BD6B75/56QY5PCNTv+6xHWNblKDgONJp152yg/ZLFDJthFKpve4Og6F3JvBZ5Ch8hGv0EzyfOmsmpsrRYtPPFPp2+pi+g/etJ/8HAH5+b0tqmvPLbvq9q1Mbt3LQBNDTH3BM4Eu4p7XTjJcK6zKuJyJFz0edsexG0PdwkEylhRS7yLzESq5tzDmTKnsJmzMBYQV9Uoc=;AuLHGb/q8MBHsREfVWbVBQ=="
 ---
 

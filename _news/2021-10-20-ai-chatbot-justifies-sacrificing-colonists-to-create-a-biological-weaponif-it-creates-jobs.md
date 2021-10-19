@@ -8,8 +8,8 @@ webUrl: "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonis
 ampWebUrl: "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "vIPXuP4F0hyQkm6fu7JdZY0exNV91NryBETWctztEn4+WxQ9b4dVwxLNx3wJC8SktRJxKI7NAQeNMZxTf6rKbVNYEfHk5+TYyDUtVuJsRkSMccMBNfbF9bRf6MDtwPqfAewDM38DcSL79YbsNMEsIdWKwC8A9Lcy9Ws3rSZwOaEDh0aFNS6NRZ2OZ/2JdS4ouii+zJqSOVB9Msnf8gHdJmUKdJGC1O9YKEXE0iP1CrYxPOL/s40+JIDqvaY7/pxSChET9uq9Qd7u3SM8S1O9IANtIaX8iPnGr3KxxC52LlCf11UB5wwHM9z6UQBIFsvnwpJWMoT9SriTgt2XFSX5fmmyROWqjU5pkM6GpL2f9n0=;oHpKu9IWghX9UgMfMH2ixQ=="
+secured: "II52Rya1JhsgGbEaoAgEeQpl6KQkhVDVnMWIA9JVKGCX4EwSKYq0Ln7WHihHyGsAuuJ+xf/JYnORaOYQhoQK98LokRWjkIJ7RYsUjCFbkdXZ6y2SyKUZyZv1ZmwG5XioacYdlflCVY1lK9anHg4V6Qv5QqXmbTM0gEoNgup9DypIE0aG0OfkxMpZItUDhXRqNOGaLGHLH6YJcqB9xs+VJxpJQQahcYNP1l7oq+QmNorQcY5jO9CBvCQzLiCiuo2ehFUtVyDjmrcAW9aB63VslH7CfPE60LLsHkEfE2VTKZUBt66AvYJ5K3IT3Qb0PHTip881gTnOkUeKoGJtlCaEFD+tDgaQD2ThsXEZUaUd31k9Wnt8q+PzCsBpQjciVgpfpH3TnEvhfROJT3wMSLxYfhg8EFrANF3/T+lU9NOl5spYT9KoB/MzxNWlIhDU16U2g4cLC/G/0LEgrLLwAWSqF7xrNvtYr5tjkTrL7C0ybaVmc5s/NTggNfSXf3paOGFd9j28rp+nclzWuqvIY7P6/w==;H0ZZv9T4T3d+ZljKxz4a+w=="
 ---
 

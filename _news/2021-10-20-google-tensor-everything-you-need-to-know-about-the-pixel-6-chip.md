@@ -93,6 +93,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Pixel 6 Launched: Pixel 6, Pixel 6 Pro Put Google's AI Smarts In Your Pocket With Tensor Chip"
+    excerpt: "Now, throughout the event, Google executives talked about how Google's Tensor chipset has helped the company achieve new features and remove barriers that the company has faced in the past."
+    publishedDateTime: 2021-10-19T18:15:00Z
+    webUrl: "https://www.news18.com/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 59
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/10/pixel-6-series-featured-163466720816x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Tensor: Everything We Know About Google's AI Workload Crusher"
+    excerpt: "Pixel 6 is powered by Tensor, Google's first in-house mobile chip, and today we learned more details about its capabliities."
+    publishedDateTime: 2021-10-19T18:47:00Z
+    webUrl: "https://hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    ampWebUrl: "https://amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56548/content/small_google_tensor_soc.jpg"
+        width: 708
+        height: 391
+        isCached: true
   - title: "Google launches Pixel 6 and Pixel 6 Pro powered by in house ‘Tensor’ chips"
     excerpt: "October 2021 continues to unveil surprises – 24 hours after Apple “unleashed” the new MacBook Pro, AirPods 3, and the M1 Max and M1 Pro chips, Google now brings to you the latest additions to its Pixel family – Google Pixel 6 and Google Pixel 6 Pro."
     publishedDateTime: 2021-10-19T17:27:00Z
@@ -109,7 +141,23 @@ related:
         width: 856
         height: 386
         isCached: true
+  - title: "Google's new Tensor chip makes voice typing on the Pixel 6 faster than any other phone"
+    excerpt: "The Pixel 6’s Tensor chip is enabling quite some incredibly camera voodoo, if Google’s presentation is to be believed. But Tensor is also improving other machine-learning related features, like speech recognition."
+    publishedDateTime: 2021-10-19T18:17:00Z
+    webUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/"
+    ampWebUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 53
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/10/google-pixel-6-speech-recognition-featured-image.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "pTtyQ85cRWd8rdUKuLgdFS/B/0NU4Ubuy+9pD05mQNMfQD5tB9XCz7BFUC0GDEy/n/BUyOB7S1EJTf+JPPUCrevnaMhWHvDCn45VXP/h1HLtEsZyrgEMMmhthS4A59cNLZIDzMKaCeUZI3Anu3I//qPBOj9vk5D4Il5D/CoSVZ+JbKwI/HsmL0gW2rmX7foNv3C5kLt4RNRyCmaqDT9py/lAT0nJHYnf3ATapDcYiOcRkBdtUxnD6R7nt2VGmf0VdrS6dmoFbYflMiw9ryzXgVro09ZTHPFmh8q7CKiJ22hgPPWMbA9EL5XU8Cq2S1VC+dlRfEXZQEdLBEImPM6IbrtmzUbTZhhQAzaDk/c3rZo=;4hVeZi8C++BzgZqyOuAkAw=="
+secured: "6L2RkcmDiaDTxwnkqCSTq4Q9Xy1NfT71+s63OcvZFl7C2g1fEyQzTdc89TNr3jMTYK8CXmgg2spRyMmzqxh8odIw7LKDT855uUufgJB9/9p2IJMhiYtqw+xfBG3EOd5la4E5vlpW/HRnYrNwRmhAdsHv+YMhaXVhAN48p0D2C+Nr5dsXZa988Oq+E0u+Zzltm5RA/izE3pqXbbOllwzX45ht1udyUST2N4dYFP98kv2Z89wQn3LEX5hzNEh0T8OyWIhrJ5aJWebU5pXm79aQDaCqCl3ziq4GBoGSEdF0lts1tTu/+smJcq+BLpVP3nK1MxITBg26TvHoyPBwa0h44RBpsPYcDpX8OOUzQLfN+nBBEMF8kY1M2LhRWlkDr6oUU4y8OopwYhG0FI+jlbl7XhtEoFWr43FSVoPmt5hMUeptCszq1xg9xm8ukBzHBdKaCxXpyY24HRanLFlEFGFa30abYcgYLqmkf1jVqkjK93NGRSaTA8jmqHekUwZ1GhuvphQZk60dtzuBuYQYZB6FMQ==;2GP+nyGqtQGXZXOB7wgXXw=="
 ---
 

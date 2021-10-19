@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-high
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
 type: article
 quality: 64
-heat: 75
+heat: 74
 published: true
 
 provider:

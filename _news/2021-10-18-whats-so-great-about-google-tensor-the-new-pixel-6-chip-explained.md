@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tenso
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
 type: article
 quality: 104
-heat: 154
+heat: 184
 published: true
 
 provider:
@@ -89,6 +89,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Pixel 6 Launched: Pixel 6, Pixel 6 Pro Put Google's AI Smarts In Your Pocket With Tensor Chip"
+    excerpt: "Now, throughout the event, Google executives talked about how Google's Tensor chipset has helped the company achieve new features and remove barriers that the company has faced in the past."
+    publishedDateTime: 2021-10-19T18:15:00Z
+    webUrl: "https://www.news18.com/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    ampWebUrl: "https://www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 59
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/10/pixel-6-series-featured-163466720816x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Tensor: Everything We Know About Google's AI Workload Crusher"
+    excerpt: "Pixel 6 is powered by Tensor, Google's first in-house mobile chip, and today we learned more details about its capabliities."
+    publishedDateTime: 2021-10-19T18:47:00Z
+    webUrl: "https://hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    ampWebUrl: "https://amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56548/content/small_google_tensor_soc.jpg"
+        width: 708
+        height: 391
+        isCached: true
   - title: "Google launches Pixel 6 and Pixel 6 Pro powered by in house ‘Tensor’ chips"
     excerpt: "October 2021 continues to unveil surprises – 24 hours after Apple “unleashed” the new MacBook Pro, AirPods 3, and the M1 Max and M1 Pro chips, Google now brings to you the latest additions to its Pixel family – Google Pixel 6 and Google Pixel 6 Pro."
     publishedDateTime: 2021-10-19T17:27:00Z
@@ -104,6 +136,22 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2021/10/Probably_the_best_one_for_the_blog.max-900x900-1.jpg"
         width: 856
         height: 386
+        isCached: true
+  - title: "Google's new Tensor chip makes voice typing on the Pixel 6 faster than any other phone"
+    excerpt: "The Pixel 6’s Tensor chip is enabling quite some incredibly camera voodoo, if Google’s presentation is to be believed. But Tensor is also improving other machine-learning related features, like speech recognition."
+    publishedDateTime: 2021-10-19T18:17:00Z
+    webUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/"
+    ampWebUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 53
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/10/google-pixel-6-speech-recognition-featured-image.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "7eUAiUnqYhvcqxjiYrnP+LLHORv2agVxBB+BY+VyiyIk/q8pVBrEh6652mnRAVWXu+BGQyovgRp58UP0vGiyy5LyD+XQ6UY0yxYwqANxQbfN3e2m8IfThcJzojx/DkxSj7OEDt5RtG4xwmL1iud9B8OuTkaL1QZuJmlk6yM1AyjcBBJ+qH4pKI+dMwH5sjVOGbkG6fgpBVKBTy6qBRljy9CLxkhppxHkyxJZ6wXL4vgT+ABovshxJsuV0YGERNoMbjJK91BAviWsX6UxB4u1j3z7158DcmfHr7R3J4nL3wyZyapEoiBhi40NgLg22zW9VWHocAokGAa8sno4jSSjLdthRFgtKiooSfuNVi6rSAU=;5ubKSWY00BjBWQKEsVbisg=="

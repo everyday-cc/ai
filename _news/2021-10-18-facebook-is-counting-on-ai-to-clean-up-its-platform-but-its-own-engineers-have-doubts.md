@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=sue-chang"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=sue-chang"
 type: article
 quality: 59
 heat: -1
@@ -276,6 +276,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Documents show Facebook’s engineers have doubts about the platform’s AI"
+    excerpt: "This story, plus Sinclair TV stations disrupted in apparent ransomware attack, Noah Shachtman's plan for reviving Rolling Stone and more, all in today's"
+    publishedDateTime: 2021-10-18T13:36:00Z
+    webUrl: "https://www.pewresearch.org/journalism/daily-briefings/2021/10/18/documents-show-facebooks-engineers-have-doubts-about-the-platforms-ai/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 39
+    images:
+      - url: "https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2018/10/journalism.png"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Facebook admits that AI can’t stop hate speech"
     excerpt: "One in every 2000 posts still contain it Social notworking site Facebook’s Guy Rosen, who has the unfortunate title of head of integrity, admitted that one in every 2,000 content views on Facebook still contained hate speech from April to June of this year."
     publishedDateTime: 2021-10-18T10:08:00Z
@@ -331,20 +345,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
-    excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
-    publishedDateTime: 2021-10-15T01:36:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/facebook-collects-video-wild-to-help-ai-develop-first-person-perspective"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 34
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1634262817/woman-506322_1280.jpg/woman-506322_1280.jpg?VersionId=HzRwo7bO5w509NlalQHdXy3HmummGvAs"
-        width: 1280
-        height: 905
-        isCached: true
   - title: "Facebook claims it uses AI to identify and remove posts containing hate speech and violence, but the technology doesn't really work, report says"
     excerpt: "Facebook AI removes less than 5% of hate speech viewed on the social media platform, according to documents received by the Wall Street Journal."
     publishedDateTime: 2021-10-17T20:44:00Z
@@ -378,6 +378,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "Htt2/ohIZ+hLklcc3yE/IRPB1YZJjMF6midrUHv3RSx2++L2eyAsWR0E2XrAjj3LCNFkk9SIol40tudxQzcQ58/r+su6Dy5ASqi7hDRJKI7Uy/e6CtXwxDeJBnoVEGURj/oakd4mm5Egl9a79uSQ2nqOYJSHqfVPk/e50n7hSw/aYkokxxLLPLYcOQ0b8VA8uaTDdVq6OEXQ6eAulos1N8FAXJJHcPEfyaZasvOkwxfncBhZG0XXM9+rAgyQc1prED2R2rEKCDRt6sL+EwojrovftVYTwMdwc7MSUdZ9LbUmDQAJSnHHJy8I3/VxUpFxe3p86MIac7UyxIoskeIfd7G2EtKpShiMgws0s0eVZV4=;81Z4bysOyjKhW1o+Tn1ixA=="
+secured: "cl/dvYFS9wV+ewiiwfqerKyYsV8IFvYJSWG2cZXDgmXY1SO63HuRs1a9yXwzJ/rrjPdrogRXlJxQtiew43kqzwvUUHPXZTHzLQwfZiHZfcrelxr7o+soYZSRkjq5tI4s8mnTKt8O0xVSsOvfIapfqWwAsHoyWSEs9U2mQfEPgOElrcC+YNbPeKFhw6wA0xpUKGl/TK8JF26rAiVe3SFTydWXeRshLalgUgZZQRB/gnz+wNyop8xRgEZMMyJ1FwrcfEAa9L7m9KTfkE9jv6vWquQN4tidKvEW7un/GfB/gllOtC8cQqL4P5DLwS9hwW1fQiWbldBgnODx4DF+Y7Kv0OKlIvTbl++48ayjUxb2yZo=;BcMXKM4IgTIBbGr92nf2hQ=="
 ---
 

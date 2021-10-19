@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "Credo AI Emerges from Stealth to Help Organizations Build Ethical AI"
+    excerpt: "Credo AI is a single platform for managing compliance and risks of AI deployment at scale. Credo AI uses a context-sensitive risk framework to help organizations deploy scalable, responsible AI systems faster and with greater confidence."
+    publishedDateTime: 2021-10-19T18:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-credo-ai-emerges-from-stealth-help-organizations-build-/2021/10/19/9473043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "z3ijvcVX4nznLaRRvXyiYCHEGBssJoW6YY1CCMGTuI7Pl9gtC9vGvqJ7e0v/G4OgRXTkE3zQZdtIkJvOFLBkPQAmRSwqjkoy3nWq5LRLuI7S5Bw85tw0z8mhSm+aPPe39lM2FPnVHjk+157kaBMD4DVIYZy4BSojqCqot64hHejMM9P3GZFZ0wLGVvt4jvrpneDUE9oVSrhJJWLxV2+t4pKpyAuN00bFSembRE9HPpXWpc0QUuJWLdHUbdr6eDbboXOLfyFUZjmfl4I3Sa2QuFR67d5RiPQZoWmJOM+Cz+CFhq990q+WARb/JQmc2lcZ7rSOpOcS+5lIiN1moS9NlvVSw8bloNrDX8tMXhccryqA8bWdfkNkn0gjL9d9R/vpJTY+9lu4sf4UCG1C4BmGrQFoTSfYwJFbjItOHQcDd0tXDROumtkkTNOxSiupf3A9VtK42fvEM8vrnyJnxWslKQU+C2zipVSxVcIgVuPji0R2rHz9U9ANJhNSOgpZKkkkZL7Uk0e71ye9DlOiRgQBng==;pWJG6fzaeS85MQ62TDWcNQ=="
 ---

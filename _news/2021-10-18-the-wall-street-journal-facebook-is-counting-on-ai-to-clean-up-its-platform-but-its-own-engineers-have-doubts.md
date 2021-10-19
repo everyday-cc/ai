@@ -167,7 +167,7 @@ related:
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
     publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=sue-chang"
     type: article
     provider:
       name: MarketWatch
@@ -284,6 +284,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Documents show Facebook’s engineers have doubts about the platform’s AI"
+    excerpt: "This story, plus Sinclair TV stations disrupted in apparent ransomware attack, Noah Shachtman's plan for reviving Rolling Stone and more, all in today's"
+    publishedDateTime: 2021-10-18T13:36:00Z
+    webUrl: "https://www.pewresearch.org/journalism/daily-briefings/2021/10/18/documents-show-facebooks-engineers-have-doubts-about-the-platforms-ai/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 39
+    images:
+      - url: "https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2018/10/journalism.png"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Facebook admits that AI can’t stop hate speech"
     excerpt: "One in every 2000 posts still contain it Social notworking site Facebook’s Guy Rosen, who has the unfortunate title of head of integrity, admitted that one in every 2,000 content views on Facebook still contained hate speech from April to June of this year."
     publishedDateTime: 2021-10-18T10:08:00Z
@@ -338,20 +352,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
-        isCached: true
-  - title: "Facebook collects video 'in the wild' to help AI develop first-person perspective"
-    excerpt: "More than 2,200 hours of video was collected, thought Facebook reportedly told those recording it to avoid recording personal details."
-    publishedDateTime: 2021-10-15T01:36:00Z
-    webUrl: "https://www.fierceelectronics.com/electronics/facebook-collects-video-wild-to-help-ai-develop-first-person-perspective"
-    type: article
-    provider:
-      name: fierceelectronics
-      domain: fierceelectronics.com
-    quality: 34
-    images:
-      - url: "https://qtxasset.com/fierceelectronics/1634262817/woman-506322_1280.jpg/woman-506322_1280.jpg?VersionId=HzRwo7bO5w509NlalQHdXy3HmummGvAs"
-        width: 1280
-        height: 905
         isCached: true
   - title: "Facebook claims it uses AI to identify and remove posts containing hate speech and violence, but the technology doesn't really work, report says"
     excerpt: "Facebook AI removes less than 5% of hate speech viewed on the social media platform, according to documents received by the Wall Street Journal."

@@ -101,20 +101,6 @@ related:
         width: 342
         height: 240
         isCached: true
-  - title: "Waymo self-driving cars keep flocking to a San Francisco dead-end street"
-    excerpt: "Self-driving cars operated by Waymo LLC, the autonomous vehicle division of Alphabet Inc., have been flocking to a dead-end street in San Francisco and no one seemingly knows why. CBS 5 SF Bay Area was first with the news,"
-    publishedDateTime: 2021-10-15T01:28:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/waymo-self-driving-cars-keep-flocking-san-francisco-dead-end-street/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/waymosf.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Several Autonomous Cars Keep Driving Into And Getting Stuck In This Dead-End Street"
     excerpt: "Advertisement Waymo is a Google offshoot that makes usually impressive self-driving cars. Recently, it had been reported that the cars made by the company are getting stuck on the same dead-end street."
     publishedDateTime: 2021-10-15T18:50:00Z

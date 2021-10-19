@@ -147,6 +147,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "ICO to step in after schools use facial recognition to speed up lunch queue"
+    excerpt: "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments"
+    publishedDateTime: 2021-10-18T17:54:00Z
+    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1"
+    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Schools in Scotland start using facial recognition on children paying for lunch"
     excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
     publishedDateTime: 2021-10-18T10:29:00Z
@@ -232,6 +248,20 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-6-1024x585.jpg"
         width: 1024
         height: 585
+        isCached: true
+  - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
+    excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
+    publishedDateTime: 2021-10-19T18:04:00Z
+    webUrl: "https://www.biometricupdate.com/202110/scottish-schools-serving-up-fresh-privacy-debate-for-lunch-with-facial-recognition-payment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
         isCached: true
 
 secured: "VPTXnjaiyWRC17M/jA6S+G0dLSZT0l2RJZtpX/sAy9xznmMYHAMTZNf6xoxxdqkIu4ohdj1wk/SD/IQsaWoe4kS9Z6sufd0Nxt01KX9jxVLIJFgh2L+Li4norwtr+R7oLVwk/TW6i2ryHKlAKElsaaOthYKgGmr1veBpuDdyp1zB+ZhZF/FJipetyAzHR/mnUmsb/VUVHZBEAXrXyNAey9QYTuRd3GC7EWslMDVnukZ7j1EHSB7uFN0kih6Zph8pWetK/aUHb6262KgtvxL6OCL794iN+gxhFluiB9a1uMAChOv/pn2W5lsrL2JHhn2N6YmAmofOuGvzKEKCNcsZmRYHBq6jAV1NYVGoUkV8/OU=;cblzKQB+2OPy4E15dv7Pxg=="

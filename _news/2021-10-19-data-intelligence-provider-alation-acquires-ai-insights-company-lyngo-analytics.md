@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alatio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: VentureBeat
@@ -30,131 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Finding The Data: How To Avoid AI And Analytics Project Failures"
-    excerpt: "Overall, I see that success stories in this industry all have one common theme: a well-thought-out data strategy with robust data governance systems."
-    publishedDateTime: 2021-10-15T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
+  - title: "AnalytixInsight's Euclides Partners With Zinier to Power a New Era of AI and Intelligent Automation in Field Service, Announces Customer Wins"
+    excerpt: "(\"AnalytixInsight\", or the \"Company\") (TSX-V:ALY; OTCQB:ATIXF), announces that its workforce optimization subsidiary, Euclides Technologies Inc. (\"Euclides\"), has partnered with Zinier Inc. (\"Zinier\"),"
+    publishedDateTime: 2021-10-19T11:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-analytixinsights-euclides-partners-with-zinier-power-new-era-/2021/10/19/9472125.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376e18d56f9b933149f140%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2396%26cropY1%3D0%26cropY2%3D1348"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How data analytics and machine learning are driving value in AWS"
-    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
-    publishedDateTime: 2021-10-19T07:50:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 56
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
-        width: 315
-        height: 237
-        isCached: true
-  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
-    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
-    publishedDateTime: 2021-10-18T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
-    excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
-    publishedDateTime: 2021-10-18T05:38:00Z
-    webUrl: "https://www.news-medical.net/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
-    excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
-    publishedDateTime: 2021-10-19T13:00:00Z
-    webUrl: "https://www.pr-inside.com/owlytics-healthcare-releases-multiple-sclerosis-monitoring-and-analytics-r4851418.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 36
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
-    excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
-    publishedDateTime: 2021-10-17T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nlp-or-machine-learning-which-one-is-more-suitable-for-chatbots/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 29
-  - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
-    excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
-    publishedDateTime: 2021-10-19T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/potential-of-artificial-intelligence-replacing-animal-testing-in-the-future/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 26
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Potential-of-Artificial-Intelligence-Replacing-Animal-Testing-in-the-Future.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens."
-    excerpt: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens. Demonstrating that artificial intelligence can be used in a dazzling number of ways, across virtually every industry sector."
-    publishedDateTime: 2021-10-19T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/sift-a-pioneer-of-digital-trust-and-safety/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 23
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
-    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
-    publishedDateTime: 2021-10-19T16:49:00Z
-    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 10
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
-        width: 320
-        height: 240
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "4aUvxbo71fnJ2R5dBI68pyFUYT8pRqpvuo3We4aJJaHGA2fPTB2DleOmZ4fxqXwXPr/clsuAF6fZZD6sohx7aYikFyUiLXbDGA8bwV7Z1Ce60dN4f2GiASq9FwhHxsnsiMFwp6xeepHaj9JtxR60DNTWGkiwRBm6cNUvlLth+gRsokTdo3n4x4A2c6jZ17I/657+MgREYMGthTWPDLpkBFCDSzwcuQ6fN/uAS/Vzxf5HALHLDHqVZe28VovT9f2No0F31IF+MHqcYxpnvK/B1I+sHaH/pNs10QHFnoM/3Ze54NXcxujvrUg6z5NnWGZ/zSWS5bBSrpSuGDOv0Tx3YbcnHwj+vPjRsL2GJyk5rPIDDZeZMqQ/ATiMC4eAD/EROperhH7hV7HjgJSOYAMkM5j/a0rHJqkOYMEkD4AVjMDXkBKx0Rw2FmY8UMCzZqk36k1S3gwp1mT5LW4scRMPM6fTzlN2RVYB5f9x6/LiGDUl/r1j6G8OVyx1iLpnNF7RtDHXNRo12Ee6UFioJRYDhg==;lLcaZOU45FuZHPi3532wuQ=="
 ---

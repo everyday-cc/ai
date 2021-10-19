@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Data intelligence provider Alation acquires AI insights company Lyngo Analytics"
-    excerpt: "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture."
-    publishedDateTime: 2021-10-19T03:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
+  - title: "Google Cloud tools aim to ease machine-learning, cross-cloud analytics"
+    excerpt: "Google Cloud Platform (GCP) is offering new dedicated data and machine learning (ML) tools designed to clear up data inefficiencies and ease application development for enterprises."
+    publishedDateTime: 2021-10-19T18:44:00Z
+    webUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html"
+    ampWebUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-944444446_3x2-100787357-large.jpg?auto=webp"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
   - title: "How data analytics and machine learning are driving value in AWS"
     excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
         width: 315
         height: 237
-        isCached: true
-  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
-    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
-    publishedDateTime: 2021-10-18T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
     excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
@@ -104,15 +90,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
-    excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
-    publishedDateTime: 2021-10-17T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nlp-or-machine-learning-which-one-is-more-suitable-for-chatbots/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 29
   - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
     excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
     publishedDateTime: 2021-10-19T15:30:00Z
@@ -140,20 +117,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
-    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
-    publishedDateTime: 2021-10-19T16:49:00Z
-    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 10
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
-        width: 320
-        height: 240
         isCached: true
 
 secured: "JuuwqR+oEfMoZLLweR5QtntawjcQdewVsYctJ7XOlEeg7/6e1WXYokWLv93qq+Rue1AGVBK+pgNolswPhwCXXUxAWijuDXHseNMpGL4K3TLN9qSxo2e4mW+8Hl3qODHqCZ6ZGgFIulaQm+C34MBwNUnW46cJC3On6y2y9ilJJvkTCpLwlRQhfRHjlQRJzqqSXLZ5P9asZfZzZ9SM6b4KBJXLz4fY4CAplT2MPsFpsjo34rSPcZ/Dqlo9BIADhyeo95j5MyjK5aizxaXVrZPG9N0q964ncKStvW0fvPClFW4sOySJCTWnWsTNWHxvgDWyzfZiAdsGDWxQY3CUmbMcAnCwYS6Ia2ESuiz7OFgIz6Hfak2zGmZehTQXTOaruBNOvU+3WDvb9KbQwwf4aJkOs5uQzBB5HpaCGMldUZWKIecO/pXKms05l/yFIXMyfm7CtrSPc80Ktw0LMCzuqh9hZHK6TRLs6rxSSC+96bcVhmffsDSMJwtbuxo7hRDpdiEWqdb6PjIvXQWMIDMsNu6GzQ==;VKXyYz32jEG7t9G4+iUxyg=="

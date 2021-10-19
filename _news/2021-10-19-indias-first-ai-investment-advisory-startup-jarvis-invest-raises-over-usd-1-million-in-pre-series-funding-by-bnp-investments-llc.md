@@ -25,28 +25,19 @@ images:
 
 related:
   - title: "Humelo receives US$2.6M pre-series A funding from KT and Kakao for AI voice synthesis solution"
-    excerpt: "Humelo, a startup that specializes in AI-based voice synthesis solutions and a member of Born2Global Centre, recently received a pre-series A investment of USD 2.6 million (KRW 3 billion) from KT Investment and Kakao Investment."
-    publishedDateTime: 2021-10-19T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/humelo-receives-us-2-6m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution-1030877344"
+    excerpt: "Humelo, a startup that specializes in AI-based voice synthesis solutions and a member of Born2Global Centre, recently received a pre-series A investment of USD 2.6 million ( KRW 3 billion) from KT Investment and Kakao Investment."
+    publishedDateTime: 2021-10-19T12:30:00Z
+    webUrl: "https://www.blackhillsfox.com/prnewswire/2021/10/19/humelo-receives-us26m-pre-series-funding-kt-kakao-ai-voice-synthesis-solution/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: KEVN Black Hills Fox
+      domain: blackhillsfox.com
+    quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/1664173/image_819222_39514933.jpg"
-        width: 864
-        height: 400
+      - url: "https://gray-kevn-prod.cdn.arcpublishing.com/resizer/6yyxq_6FADTXUdgD4opz03J5PD0=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SRPD2JMA75SOCKLL7IUZ2BK7N4.jpg"
+        width: 980
+        height: 454
         isCached: true
-  - title: "Lydia AI Raises $8 Million in Series A+ Funding Round to Insure the Next Billion People"
-    excerpt: "Lydia AI, formerly known as Knowtions Research, has announced the closing of $8 million USD in a Series A+ funding round. Led by existing investor, Information Venture Partners, and with participation from new investors,"
-    publishedDateTime: 2021-10-19T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lydia-ai-raises-8-million-series-funding-round-/2021/10/19/9472516.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "wpWTiAZ7jL+COs37yhTaMuSRTU5zRwJFSDMhsz+0yZyTXQjMyQ6goBaJc9uKcSEwKJvmYStNaGcgzDRhCyBzGbzd3KXH+DH/B1vtxvrTK5Hd+67H0tNz9PRahq4Txad68SygFFTWrb5mqBgJSGRMXAk6SiaYcronF5PX6awyZsIYSrS1Emi6bOvcsTSGmzeKOggEUb76vlT/5QOEAnRk+UwCKGz3zZJYCq6z5xInGA7LVRSD88T8CDhV/u0pKMXWe3Gy/QRokUroXbnx9wh2tuJUtFr7J8xFQMqi4Hrz/gVdUxld63Ytc+gwz1TtHWopyUlFj5OtN7/Qr/YUf4P9j8RZs6LkyfnPLlBcVCtSrU8=;CzCpDBvAG2fiM5TCvMaWEg=="
 ---

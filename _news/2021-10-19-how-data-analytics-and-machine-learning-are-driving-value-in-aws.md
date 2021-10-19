@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud tools aim to ease machine-learning, cross-cloud analytics"
+    excerpt: "Google Cloud Platform (GCP) is offering new dedicated data and machine learning (ML) tools designed to clear up data inefficiencies and ease application development for enterprises."
+    publishedDateTime: 2021-10-19T18:44:00Z
+    webUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html"
+    ampWebUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-944444446_3x2-100787357-large.jpg?auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Finding The Data: How To Avoid AI And Analytics Project Failures"
     excerpt: "Overall, I see that success stories in this industry all have one common theme: a well-thought-out data strategy with robust data governance systems."
     publishedDateTime: 2021-10-15T14:00:00Z
@@ -41,36 +57,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376e18d56f9b933149f140%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2396%26cropY1%3D0%26cropY2%3D1348"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Data intelligence provider Alation acquires AI insights company Lyngo Analytics"
-    excerpt: "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture."
-    publishedDateTime: 2021-10-19T03:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
-    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
-    publishedDateTime: 2021-10-18T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
     excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
@@ -102,15 +88,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Analytics Insight explores the differences between NLP and machine learning for chatbots"
-    excerpt: "This article explores the differences between NLP and machine learning for chatbots with the integration of AI. Click here to know whether machine learning chatbots or NLP chatbots are suitable for your business."
-    publishedDateTime: 2021-10-17T08:30:00Z
-    webUrl: "https://www.analyticsinsight.net/nlp-or-machine-learning-which-one-is-more-suitable-for-chatbots/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 29
   - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
     excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
     publishedDateTime: 2021-10-19T15:30:00Z
@@ -138,20 +115,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
-    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
-    publishedDateTime: 2021-10-19T16:49:00Z
-    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 10
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
-        width: 320
-        height: 240
         isCached: true
 
 secured: "yMaeNwmUOSDOyhDVSIjqLAuel9FVY38aTXw0stN8GBCe5xGj8FHdydpX/YUW8ucOfd0SZV+oaoX9X2Vic4ZaYbceSEA2KWt/rl7SLzToa6I3F5StP0DKGdFO+YjijHQaRthnDanZpdPffoPus6s7eWEAxqhlSLsvLBvyLvXjdzXAb5Cw7sLiVcSesaq6G9ZBTxuSTF3aY1EJUAQ/FZZ6s15wMJt7lOeoqdNj9/c4FI4vfBW3sNrVz/mbCslQwgj2TKhjTCltqoOe+JRvI9kl1TkUFYAkzLYf/+fFwIfgpt/38fQvZjYIOnDlMf5yf5uQdChS66WgrkfcWYlGAa3q6Mm9glJYXbBypEIH1/OPF9EM2oMyhNgMrLQMjPQ+LhlN3h0sAcVjZig+I2fYQMK/2DkHg6wGlsyZ/X+42PY1wRgR0n/MTMurXmejZ0cjVi15Kv5jJt2+HuE7+RL29eQggj0ZjudJx2ZDpmgZGH57EdPg8xFWRDZJOsImT+UeLae5dwrmkm1iOAhoAenl4BDfcA==;UUyhJKmo+if6f0I9fc8ctw=="
