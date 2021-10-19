@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Course5 Intelligence Strengthens Leadership; Gets ex-Majesco Limited MD Farid Kazani Onboard as EVP"
-excerpt: "Course5 Intelligence Strengthens Leadership; Gets ex-Majesco Limited MD Farid Kazani Onboard as EVP. Farid brings financial expertise and three decades of corporate experience to"
-publishedDateTime: 2021-10-19T11:24:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/19/9471962.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/10/19/9471962.htm"
+excerpt: "Farid brings financial expertise and three decades of corporate experience to his new role as EVP, Corporate Development & Finance"
+publishedDateTime: 2021-10-19T13:00:00Z
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/19/course5-intelligence-strengthens-leadership-gets-ex-majesco-limited-md-farid-kazani-onboard-evp/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/19/course5-intelligence-strengthens-leadership-gets-ex-majesco-limited-md-farid-kazani-onboard-evp/"
 type: article
-quality: 0
-heat: 0
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - AI
 
-secured: "/4AMOs/dpvAtmVLVOBsTzv6abNTveJj7zuF9hpzLA7eYZWLwaWwn38734cnSvc0ik8o7PDJ6wXiSMdO3cQmq6gx9ZjnKoIwY42BaA0sicadoNpGDUZLulH3F9opmapqv6BQBq62IsqCxm0I7hdZ0WT6BLhdHP1cESMiWNHu4THLvEI+0+xyVXz5s7zJ4/7vSsmy/6yICN/MiltclNgVMSFyuH3YgLyuDRh9XqWbIb1D5W2Wj7+VgWtSc1Xze394uvkZyVESzntyUV3J1BYjtnp1b9zhrd7qACYCDLJeDHb9lYUhVEBHP2bUFUJRfigdvM/3Nwqand1+/xX7o/zzQzQyA1/dSJ3rCgpBJkiMoZFs=;o2svoZVBzppJZ3nyQAP7NA=="
+images:
+  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/vzrExKj7wSi8PCoywdC8CKO0eTU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/6NMSEPWZXOU4WPRMSBYWJTYFCU.jpg"
+    width: 980
+    height: 342
+    isCached: true
+
+secured: "bBhS/awhnM+0qiOoGLBq6B2LPlE/Lq9aUwXTPmWVz1YmCFHU0iJdtv+0Mmk+r4TTv7nDYELLDAMo93mk2zOtv9dVcls8iXPPOodqE1PyQZk6IV9qdy5U9HuRK5f4WF1zZ8CQT5YhyKYxhQqiEuFNKUN6jFwrjLP82PYM/+fsr350MG9tbn+TM8my7qeUwdrTwwsxI+Pz9KhjPzymSSTqZemk19VTdlKzUr2OWBj7Ownx5qdB/U1hHf+9F5dt7GlYNw+nhOpQ9NbmmQ6bk9ulLVT69ThYD7tu9xtzRJ/bfCDQTxCFfeGUcZl1f2NCtwyRZuoupBxC6kvFGc1MDMC6qKRa2wuMv2xRDUwhkvCtuJw=;MM2YrGDvKRbnjJ65ZLw17w=="
 ---
 

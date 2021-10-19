@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accelerating the discovery of new materials for 3D printing"
+    excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for"
+    publishedDateTime: 2021-10-19T05:46:00Z
+    webUrl: "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015"
+    type: article
+    provider:
+      name: CHEMIE.DE Information Service GmbH
+      domain: chemeurope.com
+    quality: 122
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting"
     excerpt: "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s."
     publishedDateTime: 2021-10-17T18:24:00Z
@@ -57,6 +71,22 @@ related:
       - url: "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg"
         width: 777
         height: 518
+        isCached: true
+  - title: "Machine-learning system accelerates discovery of new materials for 3D printing"
+    excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for very specific uses."
+    publishedDateTime: 2021-10-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.html"
+    ampWebUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials.jpg"
+        width: 1920
+        height: 1276
         isCached: true
 
 secured: "2WaUzbFWDOhytzQabKL7ieFZnL8TOqscz65jkXqQOFguuSMfIrxN4OV3aMaYSbrmtWEjy6Bf7nUtW2uJMOeJpSUHNl3wgZfMzXtror45dEgXBGDPKLt0tRG/b5h0IvThs68wmiWSCvRZaDRfl0ZhrioE9yuvOV04V3br5un72Y0wkzYmDF6fkSx+yLc+gJXFSyADyGhcG2IstKgK8EK6xFvEvLDRQ4KrxmsHWa0crrnUeleTWeeoxPspyxXHI7vk2HqkwnT8IUcHZZcEV3/5ytH97m6dvaKBo8vOJFeuWvP+hpwGvDxUktg4dwe7Z7+3jlPRHQu1SbDQk8TDAYQ9w6KG47hIPVJReZrjU8K2mBE=;FMSot8zwaFiD2WRgIkXtNA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/language-tra
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Devnagri, Indian language translation engine, raises $600K in Seed round"
+    excerpt: "Devnagri, an Indian Language Translation Engine with focus on B2B, has raised $600,000 from Venture Catalyst, Inflection Point Ventures and other co-investors as part of Seed Round. The seed funding round will be utilized to strengthen its technology and scale its operations to help B2B sectors create more vernacular language content for end-users."
+    publishedDateTime: 2021-10-19T13:34:00Z
+    webUrl: "https://www.freepressjournal.in/business/devnagri-indian-language-translation-engine-raises-600k-in-seed-round"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/devnagri-indian-language-translation-engine-raises-600k-in-seed-round"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/devnagri-indian-language-translation-engine-raises-600k-in-seed-round"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 58
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-10/659f4263-02b3-4442-884d-0102ca39daf6/Founders___Devnagri.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1199
+        height: 630
+        isCached: true
   - title: "Indian Language Translation Platform Devnagri Raises $600K In Seed Round"
     excerpt: "The latest investment will help reach 1+ billion Indian internet users in their regional languages using AI-powered human translation."
     publishedDateTime: 2021-10-19T08:43:00Z

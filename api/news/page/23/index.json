@@ -2,6 +2,361 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-09-30-stock-news-analysis.md",
+      "title": "Stock News & Analysis",
+      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
+      "originalUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-assessing-the-intersection-of-open-source-and-ai.md",
+      "title": "Assessing the intersection of open source and AI",
+      "excerpt": "The idea that open source tools, libraries, and communities are creating AI projects in the usual fast-and-loose fashion sparks unease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
+      "originalUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/artificial-intelligence-3706562-e1632761155672.jpg?fit=800%2C267&strip=all",
+          "width": 536,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
+      "publishedDateTime": "2021-09-29T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-us-eu-agree-to-work-on-chip-supplies-tech-rules-china-trade.md",
+      "title": "U.S., EU agree to work on chip supplies, tech rules, China trade",
+      "excerpt": "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
+      "originalUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker.md",
+      "title": "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker",
+      "excerpt": "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T14:54:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-amd-wants-to-make-its-chips-30-times-more-energy-efficient-by-2025.md",
+      "title": "AMD wants to make its chips 30 times more energy-efficient by 2025",
+      "excerpt": "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
+      "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
+      "publishedDateTime": "2021-09-29T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-how-startups-can-grow-faster-with-the-cloud.md",
+      "title": "How Startups Can Grow Faster With The Cloud",
+      "excerpt": "Researching cloud infrastructure while starting a business is often a daunting task for startup founders, many of whom wear multiple hats. On top of identifying the most effective solutions and services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548e13ab0a838ac5235414%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
+      "publishedDateTime": "2021-09-29T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fidelity-among-others.md",
+      "title": "Insights on the Natural Language Processing Global Market to 2025 - Featuring 3M, Apple and Health Fidelity Among Others",
+      "excerpt": "15.2. Amazon Web Services, Inc. 15.3. Apple Inc. 15.4. Automated Insights, Inc. 15.5. Bitext Innovations, S.L 15.6. Conversica, Inc. 15.7. Dolbey Systems, Inc. 15.8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23162501",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23162501",
+      "publishedDateTime": "2021-09-29T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-samsung-will-create-chips-for-teslas-next-gen-self-driving-computer.md",
       "title": "Samsung Will Create Chips For Tesla’s Next-Gen Self-Driving Computer",
       "excerpt": "Tesla is expected to source its next-generation chip from Samsung Electronics. The forthcoming Tesla Cybertruck will debut with Tesla’s new Hardware 4 computer and according to The Korea Economic Daily,",
@@ -865,325 +1220,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely.md",
-      "title": "Mammoth AI report says era of deep learning may fade, but that's unlikely",
-      "excerpt": "The era of deep learning began in 2006, when Geoffrey Hinton, a professor at the University of Toronto, who is one of the founders of that particular approach to artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "originalUrl": "https://www.zdnet.com/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/eb09df3dfbcf667a8c95d0ca12a95b1369d4eca1/2021/09/28/59bf349e-44b1-443c-b760-c5f441a18292/ai100-2021-report-graphic.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 715,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mammoth-ai-report-says-era-of-deep-learning-may-fade-but-thats-unlikely/",
-      "publishedDateTime": "2021-09-29T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-syntiant-brings-artificial-intelligence-development-to-everyone-everywhere-with-introduction-of-tinyml-platform.md",
-      "title": "Syntiant Brings Artificial Intelligence Development to Everyone, Everywhere with Introduction of TinyML Platform",
-      "excerpt": "Tiny Machine Learning Development Board Now Available for BuildingLow-Power Voice, Audio and Sensor Applications using Edge Impulse's Embedded ML Platform Smallest Form Factor",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/g23153013/syntiant-brings-artificial-intelligence-development-to-everyone-everywhere-with-introduction-of-ti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/g23153013/syntiant-brings-artificial-intelligence-development-to-everyone-everywhere-with-introduction-of-ti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23153013",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23153013",
-      "publishedDateTime": "2021-09-29T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-beware-the-known-unknowns-when-finance-meets-ai.md",
-      "title": "Beware the known unknowns when finance meets AI",
-      "excerpt": "How can we act when dealing with known unknowns? That dilemma is facing regulators today as they try to assess the impact of artificial intelligence in the finance industry. As two recent reports from the Bank for International Settlements and the OECD make clear,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "originalUrl": "https://www.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc5ef35b-6e79-4ffa-9960-e8cba82389e0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/01c366db-e1b8-49ff-9952-ef40403991ee",
-      "publishedDateTime": "2021-09-29T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels.md",
-      "title": "AI-Driven Dynamic Face Mask Adapts To Exercise and Pollution Levels",
-      "excerpt": "During the coronavirus pandemic, many people have grown accustomed to wearing face masks to protect themselves and others, but that doesn’t mean the masks are always comfortable — especially during exercise.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/",
-      "originalUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Driven-Dynamic-Face-Mask-777x930.jpg",
-          "width": 777,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-driven-dynamic-face-mask-adapts-to-exercise-and-pollution-levels/amp/",
-      "publishedDateTime": "2021-09-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-a-third-of-businesses-plan-to-set-to-spend-1-million-on-ai-by-2023.md",
-      "title": "A third of businesses plan to set to spend $1 million on AI by 2023",
-      "excerpt": "A third of organisations with plans to adopt artificial intelligence (AI) have said they will invest $1 million or more into the technology over the next two years. That's according to Gartner's annual Emerging Technology Product Leaders survey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632915680/itpro/Digital_brain_AI_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361058/organisations-set-to-splash-1m-on-ai-by-2023?amp",
-      "publishedDateTime": "2021-09-29T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-ai-in-education-market-future-trends-prominent-players-covid-19-impact-and-forecast-by-2030.md",
-      "title": "AI in Education Market Future Trends, Prominent Players, Covid 19 Impact and Forecast by 2030",
-      "excerpt": "The global artificial intelligence AI in education market had a valuation of 1 1 billion in 2019 and it is predicted to generate a revenue of 25 7 billion by 2030 According to the estimates of P S Intelligence a",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid",
-      "originalUrl": "https://www.openpr.com/news/2411586/ai-in-education-market-future-trends-prominent-players-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U929455223_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411586/ai-in-education-market-future-trends-prominent-players-covid",
-      "publishedDateTime": "2021-09-29T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-why-are-retailers-using-automl-for-offering-personalized-products.md",
-      "title": "Why Are Retailers Using AutoML for Offering Personalized Products?",
-      "excerpt": "The automated machine learning AutoML market is expected to accelerate at a monumental CAGR of 43 7 during the forecast period 2020 2030 on account of the increasing importance of predictive lead scoring spurring demand for efficient fraud detection solutions",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
-      "originalUrl": "https://www.openpr.com/news/2411573/why-are-retailers-using-automl-for-offering-personalized",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U929540614_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2411573/why-are-retailers-using-automl-for-offering-personalized",
-      "publishedDateTime": "2021-09-29T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-19-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
+      "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
+      "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/",
+      "publishedDateTime": "2021-10-19T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-deep-learning-improves-interpretation-of-tumors.md",
+      "title": "Deep learning improves interpretation of tumors",
+      "excerpt": "NIBIB-funded engineers are using deep learning to differentiate tumors more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-improves-1.jpg",
+          "width": 800,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp",
+      "publishedDateTime": "2021-10-19T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
+      "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
+      "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Mage-team-photo-1.jpg?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "publishedDateTime": "2021-10-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-humelo-receives-us26m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution.md",
+      "title": "Humelo receives US$2.6M pre-series A funding from KT and Kakao for AI voice synthesis solution",
+      "excerpt": "Humelo, a startup that specializes in AI-based voice synthesis solutions and a member of Born2Global Centre, recently received a pre-series A investment of USD 2.6 million (KRW 3 billion) from KT Investment and Kakao Investment.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/humelo-receives-us-2-6m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution-1030877344",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/humelo-receives-us-2-6m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution-1030877344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1664173/image_819222_39514933.jpg",
+          "width": 864,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
       "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
       "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
@@ -157,6 +354,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-language-translation-engine-devnagri-raises-600000-in-seed-round.md",
+      "title": "Language translation engine Devnagri raises $600,000 in seed round",
+      "excerpt": "The platform combines Neural Machine Translation with ML to make the internet accessible to 90% of Indians and solve the problem of \"lack of content in Indian languages\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-06/29/full/1624909326-5084.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/language-translation-engine-devnagri-raises-600-000-in-seed-round-121101900721_1.html",
+      "publishedDateTime": "2021-10-19T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-apple-unleashes-latest-airpods-custom-laptop-chips.md",
       "title": "Apple unleashes latest AirPods, custom laptop chips",
       "excerpt": "Apple announced new custom chips, new AirPods and HomePod minis, and a deeper integration of Apple Music with Siri.",
@@ -208,7 +448,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/391943",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -291,6 +531,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
+      "title": "Accelerating the discovery of new materials for 3D printing",
+      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
+      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CHEMIE.DE Information Service GmbH",
+        "domain": "chemeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -669,7 +951,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -860,7 +1142,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -902,307 +1184,6 @@
         "AI in Robotics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
-      "title": "Scottish schools serve up facial recognition for school dinners",
-      "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
-      "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
-      "publishedDateTime": "2021-10-18T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
-      "title": "How IoT and AI are helping keep truck drivers safe",
-      "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "originalUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/06/5f4c3917-7489-40fc-a941-d394145ef06a/resize/1200x/6ff740d56972d972eaef076dd625711d/istock-539355552truck.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "publishedDateTime": "2021-10-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
-      "title": "Data transformation platform Metrolink.ai raises $22M",
-      "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "publishedDateTime": "2021-10-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing.md",
-      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing",
-      "excerpt": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of AI with data from a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=1024",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "publishedDateTime": "2021-10-18T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
-      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
-      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse.md",
-      "title": "Facebook: We want 10,000 new recruits to help build our VR metaverse",
-      "excerpt": "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "publishedDateTime": "2021-10-18T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

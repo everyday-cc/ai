@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-19T10:51:00Z
 originalUrl: "https://www.finextra.com/pressarticle/89829/astri-applies-privacy-preserving-federated-learning-technology-for-credit-scoring-of-msmes"
 webUrl: "https://www.finextra.com/pressarticle/89829/astri-applies-privacy-preserving-federated-learning-technology-for-credit-scoring-of-msmes"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.finextra.com/about/finextra-logo.png"

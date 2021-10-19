@@ -63,20 +63,6 @@ related:
         width: 700
         height: 490
         isCached: true
-  - title: "Powering the Next Revolution: Artificial Intelligence"
-    excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
-    publishedDateTime: 2021-10-14T20:54:00Z
-    webUrl: "https://www.datacenterknowledge.com/design/powering-next-revolution-artificial-intelligence-0"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
     excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"
     publishedDateTime: 2021-10-17T22:06:00Z

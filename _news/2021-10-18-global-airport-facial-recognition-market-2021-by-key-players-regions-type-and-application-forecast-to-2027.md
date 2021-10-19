@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-airport-facial-re
 webUrl: "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17"
 type: article
 quality: 65
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Processor Chip Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027"
+    excerpt: "Another report by named, Global Deep Learning Processor Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 has been added into its tremendous archive by MarketsandResearch."
+    publishedDateTime: 2021-10-18T23:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-processor-chip-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

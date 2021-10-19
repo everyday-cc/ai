@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-17-artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come.md",
+      "title": "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come",
+      "excerpt": "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-today-in-healthcare-vc-sinks-big-bucks-into-startups-telehealth-providers-turn-to-ai.md",
+      "title": "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI",
+      "excerpt": "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "publishedDateTime": "2021-07-16T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-in-pursuit-of-a-career-in-healthcare-she-became-an-engineer.md",
       "title": "In Pursuit of a Career in Healthcare, She Became an Engineer",
       "excerpt": "From Connecticut, Gabriella Lanouette builds algorithms used by ophthalmologists in developing countries around the world",
@@ -1217,93 +1312,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-healthcare-natural-language-processing.md",
-      "title": "Healthcare Natural Language Processing",
-      "excerpt": "Los Angeles, United State, – including Q4 analysis The report named, Global Healthcare Natural Language Processing (NLP) Market has been added to the archive of market research studies by JCMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2321941/healthcare-natural-language-processing-nlp-market",
-      "originalUrl": "https://www.openpr.com/news/2321941/healthcare-natural-language-processing-nlp-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U706136187_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2321941/healthcare-natural-language-processing-nlp-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2321941/healthcare-natural-language-processing-nlp-market",
-      "publishedDateTime": "2021-07-05T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare.md",
-      "title": "AIIMS Raipur organizes seminar on Artificial Intelligence in healthcare",
-      "excerpt": "Professor Nitin M Nagarkar, AIIMS Raipur director, termed Artificial Intelligence (AI) as a transformative technology for medical professionals, as well as a collaborative area for IT and",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "originalUrl": "https://medicaldialogues.in/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2020/12/02/143273-124747-aiims-raipur.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/hospital-diagnostics/aiims-raipur-organizes-seminar-on-artificial-intelligence-in-healthcare-79439",
-      "publishedDateTime": "2021-07-05T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

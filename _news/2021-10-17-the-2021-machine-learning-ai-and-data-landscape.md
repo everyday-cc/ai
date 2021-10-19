@@ -53,20 +53,6 @@ related:
         width: 700
         height: 490
         isCached: true
-  - title: "Powering the Next Revolution: Artificial Intelligence"
-    excerpt: "Discussion on AI, Smart Cities, 5G wireless, and how all will require remotely managed intelligent power to deliver on better information."
-    publishedDateTime: 2021-10-14T20:54:00Z
-    webUrl: "https://www.datacenterknowledge.com/design/powering-next-revolution-artificial-intelligence-0"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_wide/public/Modeling-Data-Transfers-621358098_0.jpg?itok=whJmKvK2"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Remote authentication space expands with artificial intelligence"
     excerpt: "Identities can be verified remotely without the need for face-to-face contact with the remote authentication service. E-signature holders will not waste time in subscription and application processes."
     publishedDateTime: 2021-10-18T06:22:00Z

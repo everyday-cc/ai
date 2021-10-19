@@ -97,19 +97,19 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
-    excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
-    publishedDateTime: 2021-10-14T20:31:00Z
-    webUrl: "https://siliconangle.com/2021/10/14/alation-buys-ai-startup-lyngo-analytics-make-data-analytics-accessible/"
+  - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
+    excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
+    publishedDateTime: 2021-10-19T13:00:00Z
+    webUrl: "https://www.pr-inside.com/owlytics-healthcare-releases-multiple-sclerosis-monitoring-and-analytics-r4851418.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 36
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/Satyen-Sangani.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "BfHQgFaTd3RVJLpEZvTvuQdxgDg9lBk2s4ZE3l8/sqLKp/yIO8ANUdgw9ZtwlYNfhRWCA73Vx7O3552sdsMOe0mCQ6xN8TC1P19GDcx717xsE2EbSg9IIYX5xirFvZ3l9JF7Caf62eQ9b4z1vbSkc/QpSuePLH0do8iGxDffxq6Dk1DOqj6WHtQ1spJseiLM/DLmiPgiAPXgdVbaSJORUKfEW5rCs6YbL0bSV/Y65bdJDPewn4CK07VNPCXZEhJPo4O5duHHS1vN5OfBKZ3dfx8k9NjydEFDWJzyyImDIUQevoriUov9xFb+OQHxVcCFW2cLWYj6NJtr3OlCbgqi6JqBCkr4w5DiTLs93xTR2aCPQoHqr/cwPqDwin6K+3cx29FnuykD0z354RM8PxT7/ZawwYOhthEYWZnrmkxDGmfXVy0UcHPM9RLGQ4iCnPhMs7edsq2guOUevTMGoCLzzPX9uQMtvxX9xa5JbSvLXJOLZeNzwm4pDOTbt7E0aVd3jA2BF6wCzz/dLHAUVdGfLw==;XxOhgUjC2IAxwjRJV6FhOA=="

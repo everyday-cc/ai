@@ -40,6 +40,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "WVU Researchers Using Artificial Intelligence To Help Diagnose Those With Autism"
+    excerpt: "West Virginia University researchers are using artificial intelligence and other advanced technologies to help diagnose people with autism."
+    publishedDateTime: 2021-10-19T13:21:00Z
+    webUrl: "https://www.wvpublic.org/health-science/2021-10-19/wvu-researchers-using-artificial-intelligence-to-help-diagnose-those-with-autism"
+    ampWebUrl: "https://www.wvpublic.org/health-science/2021-10-19/wvu-researchers-using-artificial-intelligence-to-help-diagnose-those-with-autism?_amp=true"
+    cdnAmpWebUrl: "https://www-wvpublic-org.cdn.ampproject.org/c/s/www.wvpublic.org/health-science/2021-10-19/wvu-researchers-using-artificial-intelligence-to-help-diagnose-those-with-autism?_amp=true"
+    type: article
+    provider:
+      name: West Virginia Public Broadcasting
+      domain: wvpublic.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/cb0ef30/2147483647/strip/true/crop/1986x1118+0+186/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2017%2F06%2F05%2Fsurgery-bebda2464094cfbe86edf9dfe5339ab9f05b71aa.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
     excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
     publishedDateTime: 2021-10-15T14:14:00Z

@@ -2,6 +2,291 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-06-will-the-cloud-eat-your-ai.md",
+      "title": "Will the cloud eat your AI?",
+      "excerpt": "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "publishedDateTime": "2021-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk.md",
+      "title": "Here’s How Artifcial Intelligence Can Help Predict Breast Cancer Risk",
+      "excerpt": "Researchers from MIT say they have developed a new AI algorithms which can better predict breast cancer risk based on radiology images",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614cb5f80cb8203307e03218%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "publishedDateTime": "2021-10-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-content-marketing-ai-and-machine-learning-have-arrived.md",
+      "title": "Content Marketing A.I. And Machine Learning Have Arrived",
+      "excerpt": "For the past five years, we have been paying attention to content and active engagement. Well, just like the others, it’s not something you “want to have” – it is very much a “need to have.” Therefore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915",
+      "originalUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5176a0afe4b0e5c0dba2fd29/1633280666284-QFNXS6QUL8S3SARYHHBC/contert_machine_learning.png?format=1000w",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp",
+      "publishedDateTime": "2021-10-06T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-ignore-chinas-regulatory-crackdown-and-invest-in-baidu-stock.md",
+      "title": "Ignore China’s Regulatory Crackdown and Invest in Baidu Stock",
+      "excerpt": "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/",
+      "originalUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/",
+      "publishedDateTime": "2021-10-06T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health.md",
+      "title": "Neural network approach to diabetes treatment nets $140 million Series C for startup Twin Health",
+      "excerpt": "By composing a whole-body digital twin, the company can use recurrent neural nets to predict the results of dietary interventions to reverse root causes of diabetes and other metabolic disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "originalUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/227b0d7ee6f46df331bd8bc29309849fd712ee90/2021/10/06/e5b0fe07-3745-436a-8f05-6b45be92b2db/twin-health-platform-2021.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "publishedDateTime": "2021-10-06T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
+      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
+      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
       "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
       "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
@@ -908,283 +1193,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
-      "title": "Singapore Patrol Robots Stoke Fears Of Surveillance State",
-      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
-      "originalUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a.md",
-      "title": "Autify advances no-code AI-powered software testing automation platform with $10M Series A",
-      "excerpt": "While working as a software engineer in Japan, Singapore and San Francisco for the past 10 years, Ryo Chikazawa, CEO and co-founder of Autify, came to realize that there’s one common problem in the software development industry;",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/autify-board-members-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "publishedDateTime": "2021-10-05T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
-      "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
-      "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "publishedDateTime": "2021-10-05T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
-      "originalUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
-      "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
-      "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/sites/contentbribes/FTO-nl-popup.png",
-          "width": 800,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

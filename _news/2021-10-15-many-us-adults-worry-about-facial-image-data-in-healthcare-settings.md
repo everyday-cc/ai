@@ -24,38 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Survey: More than half of U.S. adults wary about facial recognition tech in healthcare"
-    excerpt: "Many adults in the United States are concerned about the use of facial recognition technology in hospitals, medical practices and other healthcare settings, a survey published Thursday by PLOS ONE found."
-    publishedDateTime: 2021-10-14T20:10:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 68
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/4971634236004/2021/1/16342373043805/v1.5/Survey-More-than-half-of-US-adults-wary-about-facial-recognition-tech-in-healthcare.jpg"
-        width: 800
-        height: 531
-        isCached: true
-  - title: "Facial recognition, cameras and other tools police use raise questions about accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies are increasingly used by police departments, municipalities and even gated communities, but these tools manufactured by private companies raise the specter of unchecked surveillance,"
-    publishedDateTime: 2021-10-14T20:47:00Z
-    webUrl: "https://phys.org/news/2021-10-facial-recognition-cameras-tools-police.html"
-    ampWebUrl: "https://phys.org/news/2021-10-facial-recognition-cameras-tools-police.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-facial-recognition-cameras-tools-police.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 64
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-surveillance.jpg"
-        width: 1920
-        height: 1152
-        isCached: true
   - title: "How Do People Feel About Facial Recognition Tools In Healthcare?"
     excerpt: "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology"
     publishedDateTime: 2021-10-17T16:00:00Z
@@ -67,6 +35,22 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 56
+  - title: "Today in Healthcare: UHC and Walgreens Make Digital Advancements, U.K. HC Records at Heart of Lawsuit"
+    excerpt: "Today in healthcare, DeepMind gets hit with class-action lawsuit by U.K. patients. Plus, Walgreens rolls out a healthcare-focused business segment."
+    publishedDateTime: 2021-10-15T18:08:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/today-in-healthcare-uhc-walgreens-make-digital-advancements/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 46
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/walgreens-pharmacy-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "2JBlPm9aBSGC6ng7VjcQGvNQcfm80s9CGIIHjrFrMz5coIEABwLBZ4n3NIFCTIzEcBlvR2Ga2TLUpQaA72M4we/WG0dDbDQLyYnIGuCJAN/hjnrwoxpNKfxRyLSO2NPNv2HLWAtKexJYPba7hRML9Tn46WA0PSMEJ2UciEymrXeEBUUKztsvtzGJK2pKNIUFkk5xlGt/g9WLrAbowtdXiTIgVgCqYCceU9+6XxI/ZqloygCuxGhgesD2ZvxZnQ0UlasN1pwTPgoAnBcas5A6BIl2zHiZckrxntCExLpxhJwgq/rbcrGoyhxys4WlLhTox2taphh558NDPuhzBTbBy40IlmTxAHK/6Ud2d3+xLSc=;Nnc51DYmhTSXfWWnJpi3Eg=="
 ---

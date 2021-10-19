@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-09-telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa.md",
+      "title": "Telkom launches AI technology platform to overcome language barriers in SA",
+      "excerpt": "Telkom said Izwe.ai offers transcription and translation across a range of languages, as well as a number of text classification and entity extraction services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "originalUrl": "https://www.iol.co.za/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/650x366/Telkom-said-Izwe-ai-offers-transcription-and-translation-across-a-range-of-languages-as-well-as-a-number-of-text-classification-and-entity-extraction-services-Picture-Thobile-Mathonsi?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/fe4d1dd1-b3b6-508b-89d9-cb723f4100eb&operation=CROP&offset=108x0&resize=1794x1009",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/telkom-launches-ai-technology-platform-to-overcome-language-barriers-in-sa-9a3cb19f-7b47-4f68-b850-e96d65e2cf14",
+      "publishedDateTime": "2021-09-08T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-08-europe-natural-language-processing-in-healthcare-markett-competitive-strategies-share-regional-outlook-forecast-up-to-2028.md",
       "title": "Europe Natural Language Processing in Healthcare Markett Competitive Strategies, Share, & Regional Outlook Forecast up to 2028",
       "excerpt": "The report titled “Natural Language Processing in Healthcare Market 2021-2028” provides an exhaustive analysis of key market trends & dynamics along with market estimates & forecasts covering ...",
@@ -1358,50 +1401,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media.md",
-      "title": "AI is the next cloud: what next for artificial intelligence in media?",
-      "excerpt": "Artificial intelligence is the next ‘cloud ... In the case of content, this could lead to active therapy, for instance to combat mental health issues by curating content appropriate to benefit the state of mind of the individual.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "originalUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2020/09/Brain-pixels.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/ai-is-the-next-cloud-what-next-for-artificial-intelligence-in-media?amp",
-      "publishedDateTime": "2021-08-26T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

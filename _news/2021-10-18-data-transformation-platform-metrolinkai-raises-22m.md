@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/data-transformation-platform-metr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity data monitoring platform Query.ai secures $15M"
+    excerpt: "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round."
+    publishedDateTime: 2021-10-19T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all"
+        width: 1200
+        height: 566
+        isCached: true
   - title: "Metrolink.ai Raises $22M in Seed Funding"
     excerpt: "Metrolink.ai, a Tel Aviv, Israel-based data-management platform, completed a $22m seed funding round. The round was led by Grove Ventures, with participation from Eclipse Ventures. The company plans to use the funds to expand its R&D,"
     publishedDateTime: 2021-10-18T12:48:00Z

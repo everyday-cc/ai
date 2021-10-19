@@ -2,6 +2,307 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
+      "title": "Scottish schools serve up facial recognition for school dinners",
+      "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
+      "publishedDateTime": "2021-10-18T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
+      "title": "How IoT and AI are helping keep truck drivers safe",
+      "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "originalUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/06/5f4c3917-7489-40fc-a941-d394145ef06a/resize/1200x/6ff740d56972d972eaef076dd625711d/istock-539355552truck.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
+      "publishedDateTime": "2021-10-18T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
+      "title": "Data transformation platform Metrolink.ai raises $22M",
+      "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
+      "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
+      "publishedDateTime": "2021-10-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing.md",
+      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing",
+      "excerpt": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of AI with data from a",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
+      "originalUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=1024",
+          "width": 1024,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
+      "publishedDateTime": "2021-10-18T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
+      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
+      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse.md",
+      "title": "Facebook: We want 10,000 new recruits to help build our VR metaverse",
+      "excerpt": "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "publishedDateTime": "2021-10-18T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language.md",
       "title": "Microsoft and Nvidia build largest ever AI to mimic human language",
       "excerpt": "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language",
@@ -235,7 +536,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -339,7 +640,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -383,21 +684,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-18-facebook-disputes-report-its-ai-has-little-effect-on-hate-speech.md",
-      "title": "Facebook disputes report its AI has little effect on hate speech",
-      "excerpt": "Facebook exec says hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has little effect at curbing and removing violent content from the social network.",
+      "path": "_news/2021-10-18-enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy.md",
+      "title": "Enpal closes out Series C with $174M from SoftBank for tech to make it easier for homeowners to make the switch to solar energy",
+      "excerpt": "One of the gating factors for getting more homeowners to make the switch to solar energy has been that solar, as a business, is a hard one to get right, with many a company failing when they’ve been unable to strike the right balance between the technology working as it should,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
+      "webUrl": "https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/",
+      "originalUrl": "https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/enpal-solar.jpg?w=1000",
+          "width": 1000,
+          "height": 662,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -405,16 +706,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/",
-      "publishedDateTime": "2021-10-17T11:35:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/17/enpal-closes-out-series-c-with-174m-from-softbank-for-tech-to-make-it-easier-for-homeowners-to-make-the-switch-to-solar-energy/amp/",
+      "publishedDateTime": "2021-10-17T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -430,40 +731,30 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-18-scientists-use-ai-3d-printing-to-uncover-hidden-picasso-painting.md",
-      "title": "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting",
-      "excerpt": "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s.",
+      "path": "_news/2021-10-17-how-do-people-feel-about-facial-recognition-tools-in-healthcare.md",
+      "title": "How Do People Feel About Facial Recognition Tools In Healthcare?",
+      "excerpt": "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology",
       "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/scientists-ai-picasso-painting",
-      "originalUrl": "https://futurism.com/the-byte/scientists-ai-picasso-painting",
+      "webUrl": "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare",
+      "originalUrl": "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/10/MOSHED-2021-10-17-11-17-12-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://futurism.com/scientists-ai-picasso-painting/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp",
-      "publishedDateTime": "2021-10-17T11:24:00-07:00",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp",
+      "publishedDateTime": "2021-10-17T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
+        "name": "Labroots",
+        "domain": "labroots.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -473,7 +764,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -509,6 +802,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-facebook-says-ai-will-clean-up-the-platform-its-own-engineers-have-doubts.md",
+      "title": "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts.",
+      "excerpt": "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "originalUrl": "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-418418/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "publishedDateTime": "2021-10-17T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -588,7 +932,7 @@
       "originalUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -632,7 +976,7 @@
       "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -854,331 +1198,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
-      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
-      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "publishedDateTime": "2021-10-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-intel-chooses-dahod-to-train-students-in-artificial-intelligence.md",
-      "title": "Intel chooses Dahod to train students in artificial intelligence",
-      "excerpt": "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/articleshow/87049332.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/vadodara/intel-chooses-dahod-to-train-students-in-artificial-intelligence/amp_articleshow/87049332.cms",
-      "publishedDateTime": "2021-10-15T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-nyc-build-an-ethical-artificial-intelligence-ecosystem.md",
-      "title": "Can NYC Build an Ethical Artificial Intelligence Ecosystem?",
-      "excerpt": "As detailed in a 116-page newly released strategy, city officials in New York City are looking to proactively build ethics into machine learning and AI usage as the technologies become vital pieces of everyday life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
-      "originalUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cf9b0e3/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Ffb%2F9b%2Fd1bfffa9e925b1e6ed00ce145b24%2Fshutterstock-6188871351.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true",
-      "publishedDateTime": "2021-10-15T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-sorry-former-pentagon-expert-but-china-is-nowhere-near-winning-the-ai-race.md",
-      "title": "Sorry former Pentagon expert, but China is nowhere near winning the AI race",
-      "excerpt": "A former Pentagon chief is making the conservative media rounds pushing the China Bogeyman. Sorry, but there's now way China is leading the US in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race",
-      "originalUrl": "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2Fairace.jpg&signature=37c2b19155b74d84da568e4687d78e76",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-putting-artificial-intelligence-at-the-heart-of-health-care-with-help-from-mit.md",
-      "title": "Putting artificial intelligence at the heart of health care — with help from MIT",
-      "excerpt": "Cardiologist Demilade Adedinsewo and her Mayo Clinic team are pioneering cutting-edge health care research that uses an artificial intelligence-enhanced method to analyze patient ECGs with help from MIT Professional Education.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015",
-      "originalUrl": "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/Demilade-adedinsewo_0.png",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-study-ai-can-help-diagnose-mental-health-disorders-where-access-to-care-lacking.md",
-      "title": "Study: AI can help diagnose mental health disorders where access to care lacking",
-      "excerpt": "Artificial intelligence, or AI, may be able to screen people for mental health disorders without the need for a specialist's assessment, a study published Friday by GigaScience found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/8781634316118/2021/1/08b07f7fa731fef4c669fd8b2a898d46/v1.5/Study-AI-can-help-diagnose-mental-health-disorders-where-access-to-care-lacking.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/",
-      "publishedDateTime": "2021-10-15T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-ai-powered-personalization-provider-qubit-gets-acquired-by-coveo.md",
-      "title": "AI-powered personalization provider Qubit gets acquired by Coveo",
-      "excerpt": "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globenewswire.com/news-release/2021/10/15/2314874/0/en/Coveo-Acquires-Qubit.html",
-      "originalUrl": "https://venturebeat.com/2021/10/15/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

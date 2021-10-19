@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-15-de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality.md",
+      "title": "De Wandel and Mathews: Artificial intelligence held artificial promise to yield health care equality",
+      "excerpt": "Despite high expectations that computer technology could balance medical treatment between the races, the result has been the opposite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "originalUrl": "https://www.stltoday.com/opinion/columnists/de-wandel-and-mathews-artificial-intelligence-held-artificial-promise-to-yield-health-care-equality/article_257e24fa-9074-5739-b74d-62523f311528.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+          "width": 600,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market to Witness Huge Growth by 2028 | Oracle Corporation, Hewlett-Packard Co., Cerner Corporation",
+      "excerpt": "The report does include most recent post-pandemic market survey on Healthcare Natural Language Processing (NLP) Market. Competition Analysis : Oracle Corporation, Hewlett-Packard Co., Cerner Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "originalUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Global-Healthcare-Natural-Language-Processing-NLP-Market-Including-Key-Players-Market-Share-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "publishedDateTime": "2021-09-14T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-41640-million-by-2027.md",
       "title": "Artificial Intelligence Diagnostic Market is Projected to Reach USD 416,4.0 Million By 2027",
       "excerpt": "A recent study conducted by the strategic consulting and market research firm, BlueWeave Consulting, revealed that the global artificial intelligence diagnostic market was worth USD 416.1 million in the year 2020.",
@@ -1245,92 +1332,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start.md",
-      "title": "Healthcare Providers Turn to AI to Rein in Fraudsters’ 240-Hour Head Start",
-      "excerpt": "Beth Griffin of Mastercard tells Karen Webster that AI-driven models can help reduce fraud and false positives, while boosting compliance efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Mastercard-457x208.png",
-          "width": 457,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-turn-to-ai-to-rein-in-fraudsters-240-hour-head-start/amp/",
-      "publishedDateTime": "2021-08-31T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-31-ai-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.md",
-      "title": "AI approach helps identify heart failure patients who will benefit from beta-blocker therapy",
-      "excerpt": "Researchers at the University of Birmingham have developed a new way to identify patients with heart failure who will benefit from treatment with beta-blockers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210831/AI-approach-helps-identify-heart-failure-patients-who-will-benefit-from-beta-blocker-therapy.aspx",
-      "publishedDateTime": "2021-08-30T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

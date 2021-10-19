@@ -65,42 +65,14 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinTech trends for Year 2022"
-    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
-    publishedDateTime: 2021-10-16T05:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+  - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
+    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2021-10-19T12:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
-        width: 1276
-        height: 542
-        isCached: true
-  - title: "Event Recap: FinTech & InsurTech Live"
-    excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
-    publishedDateTime: 2021-10-18T11:10:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/20211012BIZClik_Card3_328.jpg.png?itok=L16u0JrP"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How open-source technologies open new opportunities for fintech"
-    excerpt: "It is safe to say that fintech technologies have been drastically impacted by open-source tech. A study from Research and Markets suggests that the open-source service market is set to grow by 24percentt by 2025,"
-    publishedDateTime: 2021-10-18T15:15:00Z
-    webUrl: "https://www.finextra.com/blogposting/21080/how-open-source-technologies-open-new-opportunities-for-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
   - title: "TripleBlind to Highlight Benefits of Enhanced Data Sharing and Collaboration in Healthcare and Fintech at Upcoming Industry Events"
     excerpt: "At events focused on healthcare and fintech, TripleBlind will speak on compliance when sharing data across international borders and throughout all industries and data platform enablement. TripleBlind will participate in these upcoming events: HLTH 2021,"

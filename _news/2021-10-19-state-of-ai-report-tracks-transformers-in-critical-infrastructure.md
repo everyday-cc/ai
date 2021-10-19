@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How Deep Learning Is Shaping The Future Of Content Production"
+    excerpt: "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment."
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "How AI is helping to make breast cancer history"
     excerpt: "With AI helping to diagnose patients earlier and enabling the rapid development of treatments, it is possible that in a few decades, we may no longer have the need for Breast Cancer Awareness Month."
     publishedDateTime: 2021-10-17T14:05:00Z
@@ -230,6 +246,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
+  - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
+    excerpt: "You simply cannot watch television today, without seeing multiple commercials for an eSports betting provider… in fact, it more like you"
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/what-does-the-future-hold-for-artificial-intelligence-and-technology-including-esports-betting-871410054.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
 
 secured: "sRE+oCBMN9Mi3fVux0NqyKXke9/t/w4KZ12N4ihWDvOQKtGC3SGZBW0SedJ8Uj0Wrm/USu+SICXintqFKBWYeXLpRlVlCcJH5CE6qumzYlL7lZMTJpzZ95Ceg24+8ScTTf8vb34Xi3KaOFae5EOjA2U0mVwr+zQMC1gbmGOKPt4mkZ6TlCgknr1p5mhxsIKztLHFy8Bd3jo7e8jwuUsPZ+jKDziUmVLo6gMp0LDxYMceEmp8kMke1qzEOlfXBUlzwdPS+nKM6OD8vVmoIl5TpzPuZ9SlV96v5En0DQl5VBWHs64sSc0q2MRagk85v6QCt910YS4faddsfcUtyjZitg7wkC9BYcgDwOqj7sXYy8Vkk/CK/+fMR1xUQz6PWpdjT7mgJ+r4pYXtxW9UyXGfUFIEzC70AweYHOWhOQUXJerm56FH8/Sgzstjjek0yq5yhmQhP1VF7bd+GE3eBX9y7nFPUb945tTuhhFbXu4FQl2nVT44zVzXpe3J6iMr52JqcF14BFgyUSiHVWMmVhyp8Q==;1u3naKAScLnAjCCLRUfaLw=="
 ---

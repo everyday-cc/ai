@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Deep Learning Is Shaping The Future Of Content Production"
+    excerpt: "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment."
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "State of AI Report tracks transformers in critical infrastructure"
     excerpt: "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists."
     publishedDateTime: 2021-10-18T22:50:00Z
@@ -230,6 +246,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
+  - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
+    excerpt: "You simply cannot watch television today, without seeing multiple commercials for an eSports betting provider… in fact, it more like you"
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/what-does-the-future-hold-for-artificial-intelligence-and-technology-including-esports-betting-871410054.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
 
 secured: "sd/lPSebnMrZ9HQUM5a7a/MX2hqbC70hqznkw50V9UTIgFBRY5GztpkaNNGpkRx8kl+nTGRqOepqlDIiH4VZagdGrHa1DHddCap9A3U/AvEg19sVTOAFUshyZGvJGeoXwT3bcs0q59A/BfGmE5cx1rIRyvWMDb2aBkWvykK4WjocZWUWqsdgiQUyoboxbfUHdYM+HxE3777ixPHMlAPyJLE6JCK0G5u5mHqokqNM0B0QPW1zmVWXLSp2u/y8b06mARqfG36DyXQdampAP0Fcsb7LLpoXv3AR57q873IxFkd+r36GEIHtwhFhMFB6VRt7JAmAfjjpD2gGDrWmGyUs1kW72FLAqzGaDcGyWXCGUk5rAddrh2C8stlSJO6GuXBRSG1JQbUng7mlbHrLr6B4aHaRp5IV6B3OU+30uGeipVeMZCo/HAmmMFmIPzUVvh5JacHzHSFjMqavSEPpo2uvddETu1oMlkjkOLGM8D0RKqeqBZ1toMOamC6Fmg8g5hcou3hm91pLaTyTjPHGlMsteQ==;Yo1ArWWCLrhmvx4bpqnbDQ=="
 ---

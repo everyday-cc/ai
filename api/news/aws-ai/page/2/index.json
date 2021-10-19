@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-29-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
-      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
-      "excerpt": "Amazon announced a new $1,000 home-patrolling robot called Astro. Two people who worked on Astro told Vice they believe the robot's release is premature. Amazon said the characterization of Astro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
-      "originalUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/615448c7b414c1001862dd24?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
-      "publishedDateTime": "2021-09-29T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
       "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
@@ -1435,6 +1382,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-cloud-data-integration-provider-matillion-secures-150m.md",
+      "title": "Cloud data integration provider Matillion secures $150M",
+      "excerpt": "Matillion, a cloud platform designed to transform data, has raised $150 million in a venture capital funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
+      "originalUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/15/cloud-data-integration-provider-matillion-secures-150m/amp/",
+      "publishedDateTime": "2021-09-15T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

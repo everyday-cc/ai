@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/scientists-ai-picasso-painting/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Futurism
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accelerating the discovery of new materials for 3D printing"
+    excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for"
+    publishedDateTime: 2021-10-19T05:46:00Z
+    webUrl: "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015"
+    type: article
+    provider:
+      name: CHEMIE.DE Information Service GmbH
+      domain: chemeurope.com
+    quality: 122
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing"
     excerpt: "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,"
     publishedDateTime: 2021-10-18T01:34:00Z
@@ -57,6 +71,22 @@ related:
       - url: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2021/10/3Dnatives-cover-picture-850x500-2.png"
         width: 850
         height: 500
+        isCached: true
+  - title: "Machine-learning system accelerates discovery of new materials for 3D printing"
+    excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for very specific uses."
+    publishedDateTime: 2021-10-15T18:00:00Z
+    webUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.html"
+    ampWebUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials.jpg"
+        width: 1920
+        height: 1276
         isCached: true
 
 secured: "94H2ee9IoJ/IPli3kwK9YKO9VNncwx7DiVUMTv33rRWS9keeo4+UIbTVuBNY0V9K3PbE27zbrNkyKsvjwL7MJeRV34MS3hgGFTA+Vz+nzgNPSwZateDQqUDVnUqyWcc8vg5V5KE33qyC+LanN2iRlJzSdamJFGUZDTpAKONtIKudxE05uYS+0bHB5ODTMxjdPhIh7H5VepCb3sx8RWhZPSSXV4zUAw/IiHgptaDzhEnq9oAR28ifJ95qImpAqpOOv7GOVikr58t8u4seNyZy9E7J1PM8aquKII8P4ur+q143xsmkk55l12iNPhaAdca5kXzJlLouvhxJQ6Qao3ACS+xQ0MRT2wHZkhAFqLfRZg5f/CSDT8OYwT7dmRMs69duOmpZXYMJJiVbXZkofaquzsKSlGmCspbIy9oEX5FqmXdf17fpDktD9tC0ccFzWiNMlPKqZb7uwErTLbqxsJ+52TW7094H/FXZCkrxbQUeM/Q5gUc5DYeHnWhcmJnyrzoAo4ScK0Z3Hc+cquuyaOXRhg==;WhFFkOXVttvW845zIyLnAg=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zoox to test self-driving cars in rainy Seattle"
+    excerpt: "Zoox, the self-driving car startup backed by Amazon Inc., will begin testing its autonomous vehicles in Seattle to see how the cars hold up to rainy weather, narrow tunnels and one-way streets. Zoox has already been testing its vehicles in San Francisco and Foster City,"
+    publishedDateTime: 2021-10-19T12:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17320/zoox-to-test-self-driving-cars-in-rainy-seattle"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/320/17320/seattle-cover-image.jpg"
+        width: 752
+        height: 451
+        isCached: true
   - title: "Apple Self-Driving Car Hits a Curb, Not as Tragic as It Sounds"
     excerpt: "Apple is believed to be working on its very own self-driving car, and while the company isn’t saying a single thing about this ambitious project, what everybody knows is the iPhone maker is currently testing autonomous driving technology with the help of a fleet already on American roads."
     publishedDateTime: 2021-10-16T20:40:00Z

@@ -54,18 +54,18 @@ related:
         height: 400
         isCached: true
   - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
-    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip"
-    publishedDateTime: 2021-10-19T03:28:00Z
-    webUrl: "https://www.lelezard.com/en/news-20052260.html"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip development business,"
+    publishedDateTime: 2021-10-19T12:48:00Z
+    webUrl: "https://www.design-reuse.com/news/50786/alibaba-cloud-server-chips-risc-v-risc-v.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Design-Reuse
+      domain: design-reuse.com
     quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.design-reuse.com/news_img2/homepage50786/alibaba.jpg"
+        width: 559
+        height: 396
         isCached: true
 
 secured: "nk/G7RAGqk8YCrVTVG2kYz/BMiEPQwQj2YnVCI1ZHOWIOWHbe//hxbrQjrX9WPp6YTcjxc9aOYi7SE7KX5CYSSkgAgzQnCzR/neJiId5zZkyLWVOIm+Y6V1C9QkBM3BxkSMGA7Bt+PbmJzM/r3N8YW3fLEPJsEgTO2oV/E81/SQPOijWVjFwEV+BXETAffSNLGLLq5MIkjEV3wigUPLv0eKHLpzzVBN1nbE60c+sxQYChUaV3Zer2Af//0wPPzrDG5uf7TrILnFoTalND2ugWtdG3icoS4llELrwPhlgNrKsnDEPT6mE4oMuDSkSjXJUxto0cBz6QVpImZSTvXsLuMDMQefLfGnm/nscyP/tJ1W4rgALuK56rmsMsJYIxTPQ3CpeaKt4NNIL4xR1R7w6YEnxSR9HgyMtJmtq7VBrB4KWGTsygl6jGK1jOXuytmQmuetfZBZQ1ZxzXfDt5YetITtN6XMBHN6jN8wBaPaO8ZBK61FGm791bLqx9wbviV24LU1ogatpuwAAIMN+gyfj5Q==;2J/ukGKwD6rWD8QrhMxgig=="

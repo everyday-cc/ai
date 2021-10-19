@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How Deep Learning Is Shaping The Future Of Content Production"
+    excerpt: "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment."
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "State of AI Report tracks transformers in critical infrastructure"
     excerpt: "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists."
     publishedDateTime: 2021-10-18T22:50:00Z
@@ -225,6 +241,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
+  - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
+    excerpt: "You simply cannot watch television today, without seeing multiple commercials for an eSports betting provider… in fact, it more like you"
+    publishedDateTime: 2021-10-19T13:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/what-does-the-future-hold-for-artificial-intelligence-and-technology-including-esports-betting-871410054.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
 
 secured: "rRsjOrzUfEByetvIW/YR/Lncs+BvDV8u0YFSwHwz7ZAsjYD8a+K73a2tj9oOw7RiXssw+urN2FWSe5DGnsy6Ou/+NSDTpd6z8lRw8CGUkxA1N35KCSLkIeBRHEdF0SyEWu6rVi4FG3cRpUwnVMADer3JiyuNIr6IU30mQLDnI111By85bKbHLtcB/1qqmMFIjUF8nxVjibr0lA34/hsyo8GmOvaH93WPd5vFnDHqHm/fMoVW+1mPovAz49PHxCkyMjRkfG109bIGiWnwn016P6MlC8nP9QZ6VgGIbVYqNDUs/erIzMEc8enk5BT6QwCLPuaow4QPhWdFvTcV8sTRrOzWvqguwsiHFXvhtnRAipwOpNRqxsmzXgDeMbZXUpI4qk6VyzT4AUd+2xJESbnO4J+D8TGbUz+R8cKu6oa1sxTRNbroRXPRwEIXA8UAW46f4Cn+r4HpUCO1ExY1LY91J4fAv5GeNxsL9YJ41tgQ45qr4awWqSUA064SxxOdkE95LOV58WRvmdjpymvY4glL3g==;o9q8Mmix4aPW/C1Tbx4bHA=="
 ---

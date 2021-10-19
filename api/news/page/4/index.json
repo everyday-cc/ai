@@ -2,6 +2,306 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
+      "title": "AI paints a Picasso nude, just like Pablo did",
+      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
+          "width": 1454,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "publishedDateTime": "2021-10-14T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
+      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
+      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
+          "width": 5000,
+          "height": 3334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-spice-ai-wants-to-help-developers-build-smarter-applications.md",
+      "title": "Spice AI wants to help developers build smarter applications",
+      "excerpt": "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png",
+          "width": 750,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
+      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai.md",
+      "title": "‘Absolutely Not True’: Army CIO Answers Claim US Has Already Lost To China In AI",
+      "excerpt": "\"If you looked at both what we have in the Department of Defense and Intelligence Community, across the federal government and our industrial partners, we have the best AI technology,\" Army CIO Ray Iyer said.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
+      "originalUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/10/211013_dvids_marines_red_computer-e1634157698679.jpg",
+          "width": 2169,
+          "height": 1220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
+      "publishedDateTime": "2021-10-14T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-building-better-startups-with-responsible-ai.md",
+      "title": "Building better startups with responsible AI",
+      "excerpt": "Tom Zick is a researcher in AI ethics at the Berkman Klein Center for Internet and Society at Harvard University, where she is also a J.D. candidate. She holds a Ph.D. from UC Berkeley and was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
+      "originalUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/building-better-startups-with-responsible-ai/amp/",
+      "publishedDateTime": "2021-10-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it.md",
+      "title": "Making Sense Of Apple’s Self-Driving Car That Recently Struck A Curb In California And Owned Up To It",
+      "excerpt": "An Apple self-driving car on public tryouts struck a curb, raising some interesting aspects about the advent of driverless autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616756581f95e4c45012fd25%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2094%26cropY1%3D23%26cropY2%3D1644",
+          "width": 1200,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/14/making-sense-of-apples-self-driving-car-that-recently-struck-a-curb-in-california-and-owned-up-to-it/amp/",
+      "publishedDateTime": "2021-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with-microsoft-google-ibm-aws.md",
       "title": "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS",
       "excerpt": "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of",
@@ -83,24 +383,33 @@
     {
       "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
       "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,",
+      "excerpt": "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
+          "width": 2696,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T07:19:00-07:00",
+      "publishedDateTime": "2021-10-14T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -110,9 +419,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -886,280 +1194,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-singapore-to-develop-mobile-defence-systems-with-ghost-robotics.md",
-      "title": "Singapore to develop mobile defence systems with Ghost Robotics",
-      "excerpt": "Defence Science and Technology Agency says it has inked a partnership agreement with Philadelphia-based Ghost Robotics to test and develop technologies as well as use cases for legged robots for security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-develop-mobile-defence-systems-with-ghost-robotics/",
-      "publishedDateTime": "2021-10-13T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-artificial-intelligence-in-insurtech-market-2021-detailed-report.md",
-      "title": "Artificial Intelligence In Insurtech Market 2021 | Detailed Report",
-      "excerpt": "A fresh report titled Artificial Intelligence In Insurtech Market has been presented by It evaluates the key market trends advantages and factors that are pushing the overall growth of the market Global Artificial Intelligence In Insurtech market to grow",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
-      "originalUrl": "https://www.openpr.com/news/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428398/artificial-intelligence-in-insurtech-market-2021-detailed",
-      "publishedDateTime": "2021-10-13T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
-      "title": "Global Edge Computing AI Chips Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
-      "excerpt": "MarketsandResearch.biz has recently published a report titled Global Edge Computing AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy.md",
-      "title": "To lead in AI, the US needs a dedicated workforce policy",
-      "excerpt": "Taking and keeping the lead in talent means not only having the best and brightest, but an adequate supply across the entire U.S. AI workforce, along with secure domestic talent pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://cset.georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy/ar-AAPu58I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cset.georgetown.edu/wp-content/uploads/U.S.-AI-Workforce-Policy-Recommendations_Cover-Image.png",
-          "width": 1148,
-          "height": 1484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T13:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "domain": "georgetown.edu/publication/u-s-ai-workforce-policy-recommendations/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
-      "title": "Applying The Power Of Deep Learning To Cybersecurity",
-      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
-      "publishedDateTime": "2021-10-13T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-cambridge-quantum-makes-quantum-natural-language-processing-a-reality.md",
-      "title": "Cambridge Quantum Makes Quantum Natural Language Processing A Reality",
-      "excerpt": "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/",
-      "publishedDateTime": "2021-10-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
