@@ -2,6 +2,120 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-14-ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with-microsoft-google-ibm-aws.md",
+      "title": "AI in Fintech Market is Set To Fly High in Years to Come with Microsoft, Google, IBM, AWS",
+      "excerpt": "HTF MI introduce new research on AI in Fintech covering micro level of analysis by competitors and key business segments The AI in Fintech explores comprehensive study on various segments like opportunities size development innovation sales and overall growth of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "originalUrl": "https://www.openpr.com/news/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429451/ai-in-fintech-market-is-set-to-fly-high-in-years-to-come-with",
+      "publishedDateTime": "2021-10-14T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-artificial-intelligence-ai-bots-market-trends-top-manufactures-industry-growth-analysis-and-forecast-2030.md",
+      "title": "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030",
+      "excerpt": "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "originalUrl": "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua14817079_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top",
+      "publishedDateTime": "2021-10-14T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-facial-recognition-market-size-worth-102-billion-globally-by-2028-at-1592-cagr-verified-market-research.md",
+      "title": "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
       "title": "Mozilla artists question whether AI could predict police killings",
       "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
@@ -1046,136 +1160,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-artificial-intelligence-ai-in-drug-discovery-market-swot-analysis-by-key-players-microsoft-atomwise-ibm.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market Swot Analysis by Key Players Microsoft, Atomwise, IBM",
-      "excerpt": "Latest released Global Artificial Intelligence AI in Drug Discovery Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "originalUrl": "https://www.openpr.com/news/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua13702630_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428202/artificial-intelligence-ai-in-drug-discovery-market-swot",
-      "publishedDateTime": "2021-10-13T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-microsoft-and-nvidia-partner-up-on-speech-recognition-model-training.md",
-      "title": "Microsoft and Nvidia partner up on speech recognition model training",
-      "excerpt": "Microsoft and Nvidia have announced a new collaboration focusing on the training of artificial intelligence-powered natural language processing models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
-      "originalUrl": "https://www.biometricupdate.com/202110/microsoft-and-nvidia-partner-up-on-speech-recognition-model-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/10131503/voice-biometrics.jpg",
-          "width": 1040,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
-      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
-      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP. The European Banking Federation (EBF) – uniting 32 national banking associations in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

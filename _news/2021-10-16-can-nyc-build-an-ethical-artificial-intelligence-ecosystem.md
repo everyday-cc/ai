@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/can-nyc-build-an-ethical-artificial
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-nyc-build-an-ethical-artificial-intelligence-ecosystem?_amp=true"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

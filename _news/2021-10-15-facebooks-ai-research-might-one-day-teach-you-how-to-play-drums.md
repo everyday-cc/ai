@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Facebook is working on AI tech that will monitor your every move"
-    excerpt: "In order to teach AI to see the world like humans, Facebook is working on software to track people's lived experience in the world."
-    publishedDateTime: 2021-10-14T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-tech-that-watches-your-every-move-2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://images2.markets.businessinsider.com/56cb396bdd089505668b45eb?format=jpeg"
-        width: 701
-        height: 526
-        isCached: true
   - title: "Facebook AI moderator confused videos of mass shootings and car washes"
     excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
     publishedDateTime: 2021-10-18T13:30:00Z
@@ -131,38 +117,6 @@ related:
         width: 1200
         height: 1343
         isCached: true
-  - title: "Facebook Ego4D AI Research Wants To Learn Everything You Do, What Could Go Wrong?"
-    excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
-    publishedDateTime: 2021-10-14T17:23:00Z
-    webUrl: "https://hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    ampWebUrl: "https://amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56510/content/Facebook.jpg"
-        width: 708
-        height: 425
-        isCached: true
-  - title: "Facebook Ego4D AI Research Aims To Understand Everything You Do, What Could Go Wrong?"
-    excerpt: "Facebook's AI division announced a long-term research project called Ego4D that is being fed thousands of hours of first-person video footage."
-    publishedDateTime: 2021-10-14T17:23:00Z
-    webUrl: "https://hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    ampWebUrl: "https://amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facebook-ego4d-ai-research-understand-everything-you-do"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 52
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56510/content/Facebook.jpg"
-        width: 708
-        height: 425
-        isCached: true
   - title: "Facebook developing AI that can see, hear, remember whatever you do"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
     publishedDateTime: 2021-10-15T06:42:00Z
@@ -204,6 +158,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/1375887c2498cca0bcfd11504567915a_L.jpg"
         width: 620
         height: 482
+        isCached: true
+  - title: "The characteristics of the new AI model of Facebook"
+    excerpt: "Facebook has recently come up with a new model of Facebook AI and here are the few things you need to know about it in 2021. We will also discuss the problems that are connected with the new AI models and how the business will be affected."
+    publishedDateTime: 2021-10-19T10:57:00Z
+    webUrl: "https://www.analyticsinsight.net/the-new-ai-model-of-facebook-few-things-you-must-know-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-New-Model-of-Facebook-Few-Things-You-Must-Know-in-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
     excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-fac
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mashreq NEO to become first digital bank in UAE to use facial recognition"
-    excerpt: "Mashreq NEO, the full-service digital bank from Mashreq Bank, has announced that it will enable residents to conveniently open a bank account using"
-    publishedDateTime: 2021-10-14T18:52:00Z
-    webUrl: "https://menafn.com/1102972273/Mashreq-NEO-to-become-first-digital-bank-in-UAE-to-use-facial-recognition"
+  - title: "Making the case for and against police use of facial recognition technology"
+    excerpt: "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?"
+    publishedDateTime: 2021-10-19T09:22:00Z
+    webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 55
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 52
     images:
-      - url: "https://menafn.com/updates/pr/2021-10/14/KT_95381image_story.jpg"
-        width: 888
-        height: 592
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "+VHwLKl+6ThILf5Vv76NSwgxgeQB50yPmpR9eDFnhwDMVbyLrEZfW/6fjtEoBjtDNhJGKw4I9A/yhBuI6c/y7iifRRZCUFURY5dbW0S6vbW3/oMR1CAb+bPN6M71E/JzEFbb9sJ/ZVVGGvZuyTmCDpNxspb45NJDAzqeaIzajsXF7eU5R+uD6cvChkX2lVgJdO48mEqrndIFt6qH5r7CnvQyR9y7fx0KCVSwHPLJAXEwn2J3Z0Rn93EyXw/vAgm3wk97FCSabnRsmobWsdv3G7CI92/ZKIT3ZU546o+XBecbzee6doSzUeQbmfHDSdD7AzynrO8nHPKr3YaO2Px67Cr0fbz25vNpiVu0IcSEVFQ=;csymQce3Lx5ajT60c90U/w=="

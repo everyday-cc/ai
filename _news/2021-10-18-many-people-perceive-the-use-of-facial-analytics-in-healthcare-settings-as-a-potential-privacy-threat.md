@@ -74,6 +74,20 @@ related:
         width: 315
         height: 237
         isCached: true
+  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
+    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
+    publishedDateTime: 2021-10-18T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Alation buys AI startup Lyngo Analytics to make data analytics more accessible"
     excerpt: "Following a June funding round that valued it at $1.2 billion valuation, Alation Inc. has acquired artificial intelligence startup Lyngo Analytics Inc. to enhance its data intelligence platform. The acquisition was announced this morning."
     publishedDateTime: 2021-10-14T20:31:00Z

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Modulos.ai presents AI AutoML platform at GITEX Global Technology Week"
-    excerpt: "Modulos AutoML supports the entire AI Journey Zurich-based ETH Zurich spinoff Modulos will be a part of the Swiss Pavilion at GITEX 2021"
-    publishedDateTime: 2021-10-14T17:52:00Z
-    webUrl: "https://menafn.com/1102969889/Modulosai-presents-AI-AutoML-platform-at-GITEX-Global-Technology-Week"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/14/EP_aea3fimage_story.jpeg"
-        width: 900
-        height: 306
-        isCached: true
 
 secured: "ib7I/DTcgsswrlSykZQUPG6+lnZ6i4VtDnDp/F8iSgginXNw/tLHg8SPou7It9+l6Wq/WMAz6mNaDyvYJTHYlsJr7XOh2yHcgQaoAZIX0LCP6+yXpY/hqOuZcz1ymu1xW9TdKn/DpJqOLn+6y+tH4U45ULVUegCEWA7xnbTKwcxeiSx06Kpctu+O/y1i2VKB71FTWTwa3ywwobZNrGSZiztboSysz/81X1lw3FN+u5F2M+gOg9xC+IJR57Snb13KUhIozIgAz0hNLCCBj4rPXGNKn+tg9Hkha0dqqjSz6bzpkkN7QkEPfxIVg4oixL/enJ/Ez68yma3L+Nf3X6e8OhsLp2/dl+PnKbUNy+AQxMI=;zb7YSgHi3n5/NegEzVwk8w=="
 ---

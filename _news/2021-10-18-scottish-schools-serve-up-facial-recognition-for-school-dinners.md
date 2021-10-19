@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1634549145/widgetdocs/shutterstock_432895576_owlxjf.jpg"
         width: 750
         height: 498
+        isCached: true
+  - title: "Facial recognition technology to be implemented in UK schools"
+    excerpt: "UK schools so that children can pay for their meals. Indeed, the North Ayrshire Council in Scotland will be implementing this technology in nine schools. It would mean setting up a processing meal payments for school lunches with facial scanning technology."
+    publishedDateTime: 2021-10-19T10:05:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/facial-recognition-technology-to-be-implemented-in-uk-schools/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-6-1024x585.jpg"
+        width: 1024
+        height: 585
         isCached: true
   - title: "Facial recognition system to speed up lunch payments in UK schools"
     excerpt: "Facial recognition technology have been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports. Instead of conventional payment methods like cards or fingerprint scanners,"

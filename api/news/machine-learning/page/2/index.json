@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-09-creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times.md",
+      "title": "Creating, Curating, And Optimizing With Data Science And Machine Learning At The New York Times",
+      "excerpt": "Journalism, an industry whose primary focus is the communication of ideas in both text and visual format, has come to adopt the tools and techniques of data science to put power behind analysis and visualization of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6161a43b64fa06e32b3a987f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D396%26cropY1%3D29%26cropY2%3D426",
+          "width": 396,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
+      "publishedDateTime": "2021-10-09T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-ai-for-asset-tracking-using-only-machine-learning-core-in-sensors.md",
+      "title": "AI for asset tracking using only machine learning core in sensors",
+      "excerpt": "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code. We explore the machine learning core engine in the LSM6DSOX 6-axis inertial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
+      "originalUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-09T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
       "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
       "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
@@ -1309,111 +1404,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-30T15:48:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-tibco-adds-enhancements-to-its-predict-portfolio-of-products.md",
-      "title": "TIBCO adds enhancements to its Predict portfolio of products",
-      "excerpt": "SEE: 5 Linux server distributions you should be using (TechRepublic Premium) TIBCO Data Science is getting access to a range of new cloud data sources as well as TIBCO Data Virtualization integration, Spotfire interoperability, AutoML augmentations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "originalUrl": "https://www.techrepublic.com/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/30/d6afd41b-6128-42c3-bc4c-73842f4d3283/resize/1200x/b76d3780141304e3c3f84628d30143ae/istock-1077503914bigdata.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tibco-adds-enhancements-to-its-predict-portfolio-of-products/",
-      "publishedDateTime": "2021-09-30T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart.md",
-      "title": "Use SEC text for ratings classification using multimodal ML in Amazon SageMaker JumpStart",
-      "excerpt": "Starting today, we’re releasing new tools for multimodal financial analysis within Amazon SageMaker JumpStart. SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-sec-text-for-ratings-classification-using-multimodal-ml-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:30:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

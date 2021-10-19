@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligen
 webUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global"
 type: article
 quality: 69
-heat: 99
+heat: 90
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://images.zawya.com/images/cia/zAmp/211018031100FARU.jpeg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Modulos.ai presents AI AutoML platform at GITEX Global Technology Week"
-    excerpt: "Modulos AutoML supports the entire AI Journey Zurich-based ETH Zurich spinoff Modulos will be a part of the Swiss Pavilion at GITEX 2021"
-    publishedDateTime: 2021-10-14T17:52:00Z
-    webUrl: "https://menafn.com/1102969889/Modulosai-presents-AI-AutoML-platform-at-GITEX-Global-Technology-Week"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/14/EP_aea3fimage_story.jpeg"
-        width: 900
-        height: 306
         isCached: true
   - title: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021"
     excerpt: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021    Free Zone signs five separate MOUs wi"

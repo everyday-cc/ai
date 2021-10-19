@@ -3,22 +3,23 @@ category: news
 title: "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering"
 excerpt: "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production"
 publishedDateTime: 2021-10-19T06:00:00Z
-originalUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
-webUrl: "https://www.hawaiinewsnow.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+originalUrl: "https://www.nbc11news.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+webUrl: "https://www.nbc11news.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: KKCO
+  domain: nbc11news.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
+  - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
     width: 980
     height: 2097
     isCached: true
@@ -50,6 +51,6 @@ related:
         height: 600
         isCached: true
 
-secured: "kUF1SWLLOjFNG6ptPxlF7BMylNyoKu1lMxYku+twWXQyXwEYaFPRiH1r6Qtg1aFC28P8yi9H9sw6KqtvP0HIor1dDNbYFoYPvQ4rh0Wbn5TRvpiXFzzDYW8gp/5A7yDSOdWUMJ9FOeW9eP5Cu0uKjLeAXLN5n5XKv7YaPMCxqRsc5Z0umND9aj+Gs7N7s5hXKIeW8iC0ChY1V4s/4RbsvBSq4taIkXgMk9UWhtXncrQxwlc6fDz7xLh9prtnEpe5hRD2V3IqrtDcyRkzkDbKlobAg3sWbE6MPuu8rLnGC/BCuuQveDY5Iia5KjyZodczdPs/6zoh0pHrHms45wGs/L8RTAItFpDeU/4TxWrjV/E=;RGlohI0/nCUccuBe9MRDog=="
+secured: "VytoipPQPHc3iD0taf5l6aSyzLZhXDvaJ4NYIniy1fKu6WdMf6gQGV4/vZhbwcYwtt52ZM3gEiuWB8Rk8zIOvPJ4kEJrHjFVlsRkkcqP7jowkF0nKq/TdSgnBzACFK4qRNmtf05myqLfIz76q9M+pCe0RbCUX9cfHlnZLhuY1vqpMr4/gbsYLHxkb82dJQrsmCAI0Qrijs77zO3WrcvhgsWbWlfWLqSXW31ttX6CSJ2BD0keb9MuAJh1Pf3R38oonRHJtwAV+ZlD8+v4uoaaSfHMmwhXSgbu3ABQtopNzvLK931UTGnPVv3ZzvP0wXK1cv20jQX+F5h2k/FwmOL2CbdG6dxWreNQCxyfnw0IPBQ=;iGsZADdDOsp/G5PuiNSCBA=="
 ---
 

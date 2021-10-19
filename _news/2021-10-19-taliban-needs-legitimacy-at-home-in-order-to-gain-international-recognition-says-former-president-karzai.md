@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Taliban needs legitimacy at home in order to gain international recognition, says former President Karzai"
-excerpt: "Former President Hamid Karzai said that the Taliban needs legitimacy nationally in order to gain recognition by the international community. In an interview with Voice of America (VOA), he advised the Taliban to gain national legitimacy through elections or by holding a Loya Jirga (a national grand assembly),"
-publishedDateTime: 2021-10-19T05:17:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/World/20211019/3839957.html"
-webUrl: "https://news.webindia123.com/news/Articles/World/20211019/3839957.html"
+excerpt: "Former President of Afghanistan Hamid Karzai said that the Taliban needs legitimacy nationally in order to gain recognition by the international community."
+publishedDateTime: 2021-10-19T04:55:00Z
+originalUrl: "https://www.sify.com/news/taliban-needs-legitimacy-at-home-in-order-to-gain-international-recognition-says-former-president-karzai-news-international-vkteTdjgbgiee.html"
+webUrl: "https://www.sify.com/news/taliban-needs-legitimacy-at-home-in-order-to-gain-international-recognition-says-former-president-karzai-news-international-vkteTdjgbgiee.html"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/Karzai_oct1920211019041541.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Taliban can only gain recognition through Afghan people’s support: Karzai"
@@ -77,6 +83,6 @@ related:
         height: 330
         isCached: true
 
-secured: "/AMyB1dEcZZi7TJHqhlEqmunGt3yP1Huvu6t4njqhlB/jFqfsM7i3fQwEEEQfrxlrEEUqSDkq/IPH9QJA4khxZfApg8kd3dPRArhKuFfkLUfhNNkyPioC8rwwn8mpJBZxaAsNorSx8A+/ILi+gbgHlJvZEOnVsIUY8q0y+gFCvddGgxs5bq8UdYb73BpQTnib+cDIkJxQ5AmZTuFLLR5+9VqHEdIvGilhBsg6R+MvLubYU0gEUtCBKNksci9KQnuwe/aL5+GJnEPXqNXwVYkFMyMidYeVoHrhigqDKZSzyAyROhawiC/mH2gbs+8LnvJUrKsbZ7sWDBRBEOqMQmG8Qw+Kvbx3CTnxx573ecNGKA=;jF6RjG9x9vgJG/cU6Hqi1Q=="
+secured: "hd/pHGDHb+g9/Kbowor/s4LOZcrBOg1fB0T4PxDiirPvcronRenEaetHctMO8Qvkht+ylI7wlkMSsSlv94q2bJ/nnervez1RO+IDD/DVGBe83xediJusD9J8HyiRP3sm8hebcian6AL1cNlN6Avlh86O3pmQoPAHHV3s+1CFRzJetD9JoPq5n+zOH4Yi6amuTkEYYm5n03s1tIoIrj5oqyMncDyShuWzMO7XMEdXOzU8aUYj1HnuQ31+WFBduKt/1GJh4rRVrhImSRQ5IYAd0//qszgIclHlV9MrooI7kI5v4EJCHMiI8C/YkNJx8JpUcxLLJzd0+4Yj6FOFxQ5748nglO11U5ZYzrEEQDWZ6ng=;1j7O0E9bFBA+oSy6CCAsDg=="
 ---
 

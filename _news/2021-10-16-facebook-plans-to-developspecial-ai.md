@@ -140,7 +140,7 @@ related:
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
     publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=taxes"
     type: article
     provider:
       name: MarketWatch
@@ -150,22 +150,6 @@ related:
       - url: "https://images.mktw.net/im-411503/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Facebook helps AI take a first-person view of life"
-    excerpt: "A long-term artificial intelligence (AI) research project led by Facebook could help answer the eternal question: \"Where did I put that thing?\". The Ego4D project aims to improve AI's understanding of the world from an \"egocentric\" first-person perspective."
-    publishedDateTime: 2021-10-14T17:12:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58896551"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58896551.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58896551.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13FE0/production/_121088818_searching2gettyimages-78718769.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Facebook says AI will clean up the platform, but its own engineers have doubts"
     excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports"

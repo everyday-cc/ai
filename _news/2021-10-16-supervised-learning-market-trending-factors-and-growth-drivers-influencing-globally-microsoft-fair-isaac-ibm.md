@@ -55,6 +55,22 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 58
+  - title: "Virus Tracker Apps Market Boosting the Growth Worldwide | Google, Microsoft, Locix"
+    excerpt: "Stay up to date and exploit latest trends of Virus Tracker Apps Market with latest edition released by AMA Virus Tracker Apps Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide"
+    publishedDateTime: 2021-10-19T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2433169/virus-tracker-apps-market-boosting-the-growth-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2433169/virus-tracker-apps-market-boosting-the-growth-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2433169/virus-tracker-apps-market-boosting-the-growth-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua19753837_g.jpg"
+        width: 800
+        height: 352
+        isCached: true
   - title: "Cognitive/Artificial Intelligence Systems Market Innovative Strategy by 2028 | IBM, Microsoft, Google"
     excerpt: "A new business intelligence report released by JCMR with Global Cognitive/Artificial Intelligence Systems Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2021-10-18T14:18:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-ca
 webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition, Cameras, Other Tools Police Use Raise Questions About Accountability"
-    excerpt: "Facial recognition, body cameras and other digital technologies raise questions about privacy and corporate intervention in public policy."
-    publishedDateTime: 2021-10-14T18:09:00Z
-    webUrl: "https://www.ucdavis.edu/curiosity/news/facial-recognition-cameras-other-tools-used-police-raise-questions-about-accountability"
+  - title: "The EU called for a ban on police use of facial recognition but not commercial use. Why?"
+    excerpt: "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes"
+    publishedDateTime: 2021-10-18T09:38:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
     type: article
     provider:
-      name: University of California, Davis
-      domain: ucdavis.edu
-    quality: 45
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 52
     images:
-      - url: "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/GettyImages-1326757307.jpg?h=c549983f&itok=nQrcjwfe"
-        width: 1280
-        height: 720
+      - url: "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
-secured: "EDxv4hS3hHWauOchuSEVL/e4TziJZ9NPlgfiHug6aYcagc/BGR19wnGHSUbKziQpnuxAXhNGI1/NP2MIx+0/Es92Wf6k9zMzpDM+WkEWRqnG1PIp0g9ScmZys7totnwAjT7b10TI1LD1wKkX1Ma0zpsuJldwAY9SBtO3W8VHv/6aJLkePWagxZV62EgQIkhLWZoIOlTJustegGSBBgtbdYG4fat0ZjIYbR9xR471UzK0PFCYeb7D4G5WYTxJqjh5FI2pDb7FB4TTQS4O9SBbO6ZCIOR26guVkAIkD4tNXYzvBXnSBQ92tCwZHFN4nAhOq/Dibg4pOgYVpHRH0jmoX7zpwEVLaWz5KkJ4c7RmsBc=;igdmkQ5MgP9IcBXxrgLT9w=="
+secured: "7RGgNmUH0SZVVgrG3EY5usEKNp+DLpVh9kd05jGFfGLGXlgNysyZzJaRgH2knbhos+/rmZ0dCVAGGxfkv6fdAgmqGpkXrt46oCDFaHVIjfuBVR2oDvEbo5tPfAaedXGnEl8EV5at7ZDZlWXl4An9yJ1/tzGntCSwfFfGntr6uAfFeGuUKWgWaAVWcn1O0Ln6cKvAtADi90FyqVx2xO0ytp0hlGuqyZ+m+OQdlibNySY3ErcixQKD51cHT+x8sV5EBKWr3eLJT0ec90IBOld7vgl2wKcGTsWX3l8IFElTE9eCYN4s1mezZL8k12ht16U7VOn3e5AK0nmLyj8NbsjsoBa5/MGM5ZVuct3T/QWUnqMceoEvMtesfSogX+pz8PkaS5rhKKY+YATp3t9JxVcY3cAV39R1VxUZaUyjK6NOsq/WXUaKpEubIl7hbe6xX3NDUzH5UjrGJQu4OzAW9RqsJBArvxXPjiIV8rPCAi2uKR/YeXW2SFm6R5hBTCjm568iesTwGUJbCb+KT4MrSLF2SQ==;R5Nce7WkBLOfEapyShZ5bQ=="
 ---
 

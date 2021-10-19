@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-bu
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -37,6 +37,20 @@ related:
       domain: zdnet.com
     quality: 69
   - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip development business,"
+    publishedDateTime: 2021-10-18T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-alibaba-cloud-unveils-new-server-chips-optimize-cloud-/2021/10/18/9471874.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1663830/Yitian_Chip.jpg"
+        width: 560
+        height: 400
+        isCached: true
+  - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip"
     publishedDateTime: 2021-10-19T03:28:00Z
     webUrl: "https://www.lelezard.com/en/news-20052260.html"

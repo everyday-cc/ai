@@ -467,13 +467,22 @@
       "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
       "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/",
-      "originalUrl": "https://www.financialbuzz.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/",
+      "webUrl": "https://www.argus-press.com/news/national/article_15bb1a2e-07fc-5603-95df-8dbd9ce5d861.html",
+      "originalUrl": "https://www.argus-press.com/news/national/article_15bb1a2e-07fc-5603-95df-8dbd9ce5d861.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/assets/v3/editorial/6/07/607b2f54-fabd-5d6b-ae25-f608513b41b9/616505d162df1.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -481,8 +490,8 @@
       "publishedDateTime": "2021-10-11T20:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Argus-Press",
+        "domain": "argus-press.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
+      "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
+      "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/391977",
+      "originalUrl": "https://www.entrepreneur.com/article/391977",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634644030-amitabh.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-edtech-startup-convegenius-raises-5-mn.md",
+      "title": "Edtech Startup ConveGenius Raises $5 Mn",
+      "excerpt": "The learning platform aims at making quality education accessible for middle- and low-income groups across India and make quality education accessible to 100 million marginalized children in India",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/391976",
+      "originalUrl": "https://www.entrepreneur.com/article/391976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634643652-visual-stories-micheile-lZ-4nPFKcV8-unsplash4.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
       "title": "Desperate for Workers, Restaurants Turn to Robots",
       "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
@@ -157,7 +260,7 @@
       "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -619,7 +722,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -714,7 +817,7 @@
       "originalUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -757,7 +860,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -810,7 +913,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -913,7 +1016,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1099,93 +1202,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language.md",
-      "title": "Microsoft and Nvidia build largest ever AI to mimic human language",
-      "excerpt": "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/",
-      "originalUrl": "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png",
-          "width": 483,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/",
-      "publishedDateTime": "2021-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained.md",
-      "title": "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained",
-      "excerpt": "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
-      "originalUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg",
-          "width": 619,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
-      "publishedDateTime": "2021-10-17T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

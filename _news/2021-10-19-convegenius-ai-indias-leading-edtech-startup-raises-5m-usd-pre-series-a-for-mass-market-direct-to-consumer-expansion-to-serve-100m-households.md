@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-ind
 webUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Edtech Startup ConveGenius Raises $5 Mn"
+    excerpt: "The learning platform aims at making quality education accessible for middle- and low-income groups across India and make quality education accessible to 100 million marginalized children in India"
+    publishedDateTime: 2021-10-19T11:43:00Z
+    webUrl: "https://www.entrepreneur.com/article/391976"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634643652-visual-stories-micheile-lZ-4nPFKcV8-unsplash4.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Edutainment Startup ConveGenius Raises $5 Mn, Plans To Expand Its Conversational AI Platform"
+    excerpt: "Founded in 2013, the startup plans to scale its vision beyond education to all knowledge services and expand globally, with ConveGeniusAI platform"
+    publishedDateTime: 2021-10-19T10:14:00Z
+    webUrl: "https://inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/"
+    ampWebUrl: "https://inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 46
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2021/10/Funding-Pazcare-Social-2.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "BdR42n3Wn4p/mfRTqmiXkeZ1NytbbjZuF85eM8GWd8zuFsCXeP0K5fhl4QpmwcPu0N+3fnZvCoJQHjQntLmAc9zFtQIvZp9wjnXBbxPVrDsMU+37yXKDck61kACL7nFYRT46cvOHKmeU5ZuTcAW3PM5F1MOALbTbhtdKUlK1ml0C+Plrlre5gtHNlZKKnQ4gOrD/o/eloGKzROqGqX7k3CPvEDf6Nb+3WjrE2k0Kx+7dhUMqOrqF6cJUodY3tT5emAsdOIi7UNG7EaZkweqDGSLfMjyoEq15XfAJN2Tb4eR8y0vwIP3wgd2qPcQnAhOlS1fu35Oyt27bES7fTblj/1Kfc2ps1y7+CTsNdS5tK4s=;eizB5pfFUnnfZMAyNTAgGw=="
 ---

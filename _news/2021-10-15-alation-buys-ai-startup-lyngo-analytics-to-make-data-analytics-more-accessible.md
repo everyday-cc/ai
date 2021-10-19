@@ -71,6 +71,20 @@ related:
         width: 315
         height: 237
         isCached: true
+  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
+    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
+    publishedDateTime: 2021-10-18T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
     excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
     publishedDateTime: 2021-10-18T05:38:00Z

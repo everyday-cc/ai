@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-fa
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 2880
     height: 2843
     isCached: true
+
+related:
+  - title: "Artificial Intelligence can Spot Unseen Signs of Heart Failure: Here's How"
+    excerpt: "New self-learning algorithm or artificial intelligence (AI) can detect unseen signs of heart failure by reading electrocardiograms."
+    publishedDateTime: 2021-10-19T10:05:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-can-spot-unseen-signs-of-heart-failure-heres-how-203869-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-can-spot-unseen-signs-of-heart-failure-heres-how-203869-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-spot-unseen-signs-of-heart-failure-heres-how-203869-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 50
 
 secured: "rRHuaekGwg0TkRIjf957Wte15CAcNu92w8bnHJPHncJAof6GtrW9YE+kLRUCKBURmWLxOPEYtLqvJSMmwRtnK7deDnY3RpYJwfJ8YT1eiJGceK8qN9GzEcmMXwbq4pkft0NQ7/he/YnCKuKfz0XAPwzgD6ws5vJSsLYwrumpbVGhMHXyQMkxnzAV7owa7EYV682hMMv61ynANF+wumjrKF0CT+ZELaCSJ72tmSzV/UcWPk2D9vRjeuGCX4atuhgKx29wlAg0JLdrwwEulobR73mkPAe/GvAoKfycPXzqXBlZBMxw05ypgFVoUmUvdnxGzJnUDIRBI+yyHMw+iJwB/xKJXTYbAlZd+tW6DgK5yt8=;l8yhfm0poYMsBO7vraUlDA=="
 ---

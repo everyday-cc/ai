@@ -3,12 +3,12 @@ category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
 excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
 publishedDateTime: 2021-10-18T07:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411620/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
-ampWebUrl: "https://www.benzinga.com/amp/content/23411620"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411620"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
+ampWebUrl: "https://www.benzinga.com/amp/content/23411619"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411619"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -98,22 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Assistant Application Market worth $11.2 billion by 2026"
-    excerpt: "According to a new market research report Voice Assistant Application Market with COVID 19 Impact by Component Deployment Mode Organization Size Channel Integration Websites Mobile Applications Application Area Smart Banking Connected Healthcare and Region Global Forecast to 2026 published by"
-    publishedDateTime: 2021-10-14T17:17:00Z
-    webUrl: "https://www.openpr.com/news/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429541/voice-assistant-application-market-worth-11-2-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua14488154_g.jpg"
-        width: 650
-        height: 373
-        isCached: true
   - title: "Global AI For IT Operations Market 2021 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2027"
     excerpt: "Global AI For IT Operations Market 2021 by Company, Regions, Type and Application, Forecast to 2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
     publishedDateTime: 2021-10-18T20:40:00Z
@@ -191,6 +176,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "414MXE71kzCKxBLzIooW2pRphl236pPOz+tVhy/P+D8Me2mGoQfy0Fl0uSXmXFZTX2Zs4a7jq7GmcnlYtbiPm0gQ4DhjXxatc9DwGWjVQrXSHg0rMGrD+DQbCeq0slbWBpAzps81s8QQ9NqfKoRcKrb/xDSBeo0Bue5X0xMt92SSoN3GSYhZBmqxcl/q3cNVd19tHl47Ynhxm0/1Q0AcZ7UhLqi4ejdPu5EFvK9u9/LICGqr5prgfhfRbfTicUh6IUVtVew3m9lSvv1OmR2xXLWzftr6PIXI2ZR1G57Fyj1bSvto6gXactskrgZKMupYYibH0XkU+WwLwJkJ3Cux8wIV1JP1ATbcu+w+426fIs0=;cfMys09s9Q16Ex82hpSG8w=="
+secured: "dZrmzZGiO/zldDS2Uqc5/VqqXnmte7/t+DM7QnjicKrB5gTAljqv3dyI0M5jDDrDRuHWWnW82NE86u2IA5ez9MnwBj+NzrtvT9mYFSg++z8keN/PLpHPO+4mA+CiLptdxt9ZjKZ4YYJ7shtaNNLr5jmFq3pewkgY3HF7fnbSGovlbyFW+GgNeK1MxmxX145JTzUZyKXTuXUbL7MzwGcR+1Vml1U+4pNuKEakRhvmk8DWgx643kDjKWyp6BCgsZ2koyTJMygy+MSBePGCZlDZwwqq7VxEBfL5FRRjuZmntKiiN+SXleoUBFegu5jcD1yfyVjlYkYCWmMgY4eCTkeMb4FnjIIiHjyLw48JFhU4eJE=;0Zh76iLN8Secd9d5JdbbcA=="
 ---
 

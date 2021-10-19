@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/alibaba_shutterstock.jpg"
         width: 1000
         height: 681
+        isCached: true
+  - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip development business,"
+    publishedDateTime: 2021-10-18T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-alibaba-cloud-unveils-new-server-chips-optimize-cloud-/2021/10/18/9471874.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1663830/Yitian_Chip.jpg"
+        width: 560
+        height: 400
         isCached: true
   - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip"

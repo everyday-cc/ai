@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/data-transformation-platform-metr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

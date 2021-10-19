@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-17-timekettle-m2-language-translator-earbuds.md",
+      "title": "Timekettle M2 Language Translator Earbuds",
+      "excerpt": "Timekettle has launched the next-generation Timekettle M2 Language Translator Earbuds with advanced features and capabilities. The Timekettle M2 Language Translator Earbuds provides support for 40 languages and 93 accents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1627492/product_picture.jpg",
+          "width": 400,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-will-ai-ever-be-able-to-offer-an-roi-for-enterprises.md",
+      "title": "Will AI Ever Be Able To Offer An ROI For Enterprises?",
+      "excerpt": "A CEO friend asked me, “Will AI ever be able to offer an ROI for enterprises?” I thought the answer through and wrote it down. Then, I realized that this information could be beneficial and valuable to many people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61434b8ab75fa0a8f8e4b176%2F0x0.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/17/will-ai-ever-be-able-to-offer-an-roi-for-enterprises/amp/",
+      "publishedDateTime": "2021-09-17T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-naver-bolsters-ai-rd-capability-appoints-global-leading-ai-professionals-in-search-quality-and-natural-language-processing.md",
       "title": "NAVER Bolsters AI R&D Capability, Appoints Global leading AI Professionals in Search Quality and Natural Language Processing",
       "excerpt": "Dr. Young-Bum Kim and Professor Tetsuya Sakai seasoned researchers in search quality evaluation and natural language processing joined NAVER",
@@ -1215,93 +1310,6 @@
         "name": "IOL News",
         "domain": "iol.co.za",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-europe-natural-language-processing-in-healthcare-markett-competitive-strategies-share-regional-outlook-forecast-up-to-2028.md",
-      "title": "Europe Natural Language Processing in Healthcare Markett Competitive Strategies, Share, & Regional Outlook Forecast up to 2028",
-      "excerpt": "The report titled “Natural Language Processing in Healthcare Market 2021-2028” provides an exhaustive analysis of key market trends & dynamics along with market estimates & forecasts covering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/200545/europe-natural-language-processing-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-ai-is-redefining-how-we-use-documents-in-a-digital-world.md",
-      "title": "AI Is Redefining How We Use Documents In A Digital World",
-      "excerpt": "AI-powered intelligent document processing is helping to convert unstructured data in digital documents into structured data that can be fed into downstream applications to automate business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376154fe77d3ed291e6760%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/08/ai-is-redefining-how-we-use-documents-in-a-digital-world/amp/",
-      "publishedDateTime": "2021-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

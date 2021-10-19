@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience"
+    excerpt: "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,"
+    publishedDateTime: 2021-10-19T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d87b8ba8a26abd01463cf%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "E+NpTAfxZ3TtXSIPVAecEZnvEnp336zR5YI0HlNjoXOvf4dWqTG9JcNzTU7fyMiqM3SMUrV4ffH9NVKlfFq/oO8HcD3yIUDc7JicVtqwdv9UdVQmTeuZqapanPAk8SMGkfuZmTdyHE0P+mL0UM2XkYFsi4fjjRrBWqTCDZoqG4EeanCSzbItJnDgEBZ5oZkqogXOMBKj6cYvY3qV1n1hEK2b2YLhdC+m1cph4kPmIVqXJzfePK5+ac3J99kqWdAYxE68azZgSVbWHEOwTJLeIE/tDY7cjXJ9O/RXl6df7849dUCZ7mWViyfWzcM6p5h2Xlimo30PNddYPtCuu5SQLkHzDf+GiYB40u9gVkNorGs8NWADwz4t+AxYdPyRWlM4+657lQLnvotij0Qf5qVMyp5y/WfeS0doSpFgKD5t4430+HCein2U6huy6wcl2eHv6ore4dltVG0EvndcfmPhAYCNq/IUYS2tU72mahDgei9YCuhx+dnH8vIPliVNURDiYzmP+CFleKWunmcWS5592Q==;YL73KHH/wnkD/JEiKjkYgA=="
 ---
