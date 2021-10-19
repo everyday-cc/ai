@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
-    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
-    publishedDateTime: 2021-10-14T05:22:00Z
-    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 22
-    images:
-      - url: "https://www.reportsgo.com/img/img-4.png"
-        width: 502
-        height: 300
         isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
     excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"

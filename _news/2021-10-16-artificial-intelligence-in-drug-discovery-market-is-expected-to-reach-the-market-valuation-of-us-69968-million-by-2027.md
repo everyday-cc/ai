@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Drug Developing Platforms by Artificial Intelligence (AI) Market Report Future Prospects, Growth, Outlook and Forecast 2021-2026"
-    excerpt: "The recent study on Drug Developing Platforms by Artificial Intelligence (AI) market offers a complete overview of this business sphere with a"
-    publishedDateTime: 2021-10-14T05:22:00Z
-    webUrl: "https://www.reportsgo.com/drug-developing-platforms-by-artificial-intelligence-ai-market-177384"
-    type: article
-    provider:
-      name: reportsgo
-      domain: reportsgo.com
-    quality: 22
-    images:
-      - url: "https://www.reportsgo.com/img/img-4.png"
-        width: 502
-        height: 300
-        isCached: true
 
 secured: "Hf+89FnbkQ0vPQEUoOdIWqXcs0+tp1zR/2+qGV1ePt8oqurptDnQX4Mf6h67IoGlAk9bCzqeeLHseygzcDjYKkVFtvVA4IsGdv7788D1ljmhNO3wDKN0w8aLNBA6qWgpw4tSFNCHvydWoLSkKxndqgfh2/HVaexOQcroE2M6DRDisqp5PtSSuSck6ilzkCErJaczpoYtxpcrLt9vjhRWaPZv4oXi2zNhpQYbeESSY6EEOcKY6yEN8fbDBF0TuG5ImkQ/B51UDmEtXdUxdXWZRWwOQ7ga69fLa6Yi0YT/RFTJx6p4XYBAbuQOmGj6shF0/9bdK7Riny/jIxvMx16VRWRcqXZHmxSMMFAMLb7BDtI=;mdQZRlXgMFGrMLqfrJHr3A=="
 ---

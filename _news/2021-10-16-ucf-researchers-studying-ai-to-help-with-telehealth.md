@@ -34,6 +34,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research"
+    excerpt: "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care."
+    publishedDateTime: 2021-10-18T19:09:00Z
+    webUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 62
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
 
 secured: "6Zp2QzyVPVRMvVV5hNA+1dEb0fEsi7zQABlukIYCdT1rbPBRHKcDDAzcNAaW+ubkW2cNVxaAGmGuCGqrBX6OFurlnTtiuszj8Spl4r3jPcJ5uD1cOcz5266FLIO9CEbMaYuW6jY0YlorgYRzyZVa9HUkuA++Rm7/SVw6OLt8e7By9SuWVBJkH46fuEWPdHKPhvVCKTVO8YW1EYEasNmXv5Kzs4ZKynmal+tYu1qZeQ5Zhghv0axWZLWxOwjyYs8/+CvektMr2LFcJkNO3pPkguaFHUdPHpQsTASsECjSWQIdN8mrJbASPjuZJUnWNNuSa+fpWZTGYLsJx5qIq4EM4YZm8+qQAqodqJY+xX6Cdz+dVo3J2JZYcOH1/GnUOEOV5CB4gM6mkKxp6Y3dCjmfF+kwNbqoRikHcrJm7jQpHbXDp5lOtfh4fNOCnuyrf6rgHYssSUvJZEmJDAbXo34qX9MyJ9/NbEPCJK9VzZb2HCj3tWhg5aOmIrtpou5jsc/AH7DWQQZK2V29bsF2FojQgA==;OzOPjX8DrlJtKAZijz6eKA=="
 ---

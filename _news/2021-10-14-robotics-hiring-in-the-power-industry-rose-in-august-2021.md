@@ -7,7 +7,7 @@ originalUrl: "https://www.power-technology.com/features/robotics-hiring-levels-p
 webUrl: "https://www.power-technology.com/features/robotics-hiring-levels-power-industry-august-2021/"
 type: article
 quality: 54
-heat: 65
+heat: 64
 published: false
 
 provider:

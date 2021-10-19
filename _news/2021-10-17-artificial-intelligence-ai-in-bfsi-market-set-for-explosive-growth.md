@@ -83,17 +83,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
-    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
-    publishedDateTime: 2021-10-14T06:13:00Z
-    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
 
 secured: "tsvho7rOCBRhzhsMuHD0UVwwBOrBilMoyNSIxlrGBIg6i5KGFUJw/Lu19DfQkXSKqpsDinulNhkTJ6KqU0Af8rW8tp/lVpDaXEd3ZC1cJfxKPjh900kHfGU5u4ZXy24S6Sk0ARSjRKefKoqLdWD6rfMOeqQFHUtBGMGtOK37HBU4w/4MCd9tuXFRCg1/iiczu3q+uQjYVNjBThe5BiOqYLD6xKORI3IOD7I+bGdungzuFGu8fsDlPb69wKMD+xDKE15lSzN3QKfotDTSNtIzXk6L7pR8eZ3wBGEvfFXozFcR8RLE4c52wgXHheuVFlEM5awkj5nkh0LyC2NSwhb9qI7j1rbRKi5+gyqqHOqpO6TUYNe3ksNQtm6Ql5G0o9keGwUYnkMfQ7BGbaeIiyL9ThGUq/x2ZPY8jV69bFtXQy+v8KF5SgcQvitesVDmoLYP0Y7mQYuc0R+ns1L1xFJ81M4sgl5qgqIhNpAUQGrQGPtwI/PiZlIsocigcXvpP7ztS2t0klKdzTeQIpshpVJvfw==;pF8zmkToM3r7QTOW9jX+yA=="
 ---

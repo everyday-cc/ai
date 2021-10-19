@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tenso
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

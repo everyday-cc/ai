@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
 type: article
 quality: 55
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -80,17 +80,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market Growth Analysis, Regional Overview, Industry Growth, Future Challenges 2028"
-    excerpt: "The Global Artificial Intelligence AI in Medical Diagnostics Market is accounted for 505 00 million in 2020 and is expected to reach 14 541 47 million by 2028 growing at a CAGR of 52 2 during the forecast period According"
-    publishedDateTime: 2021-10-14T06:13:00Z
-    webUrl: "https://www.openpr.com/news/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    ampWebUrl: "https://www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428510/artificial-intelligence-ai-in-medical-diagnostics-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
 
 secured: "xN2be50Vnz5CT0/0eAbu21I8tFZlyq4g1z14oFgbnEv50mEPB32iYSfuD7pzyz7q87I2biUIZSWyARGN/uJYLJ5DBGmH6uvv5VjG7iFcpTiY/aKNm3lHBz8GuVX7cXUYr/9iL0Mc3CUJ2OYSgsHUYeHxpac3mlgN3l5G8tET8HxXhsoaZaeZskScLM3NMIJmQQ9vdQIsT2ukR3e171YWYn3E7O1fINiWjCRL1YB2llE2LNloefBNqsz0uedKn4WA2b7U2C/V3vNipP4dDvJyalF/IeWvohq0dOKkCoDIr6RcWzjuuIloomfcBNXfWb3YYNN2oG48WQ40kIOofAmsFViEqMmUoa4o5LHM6JaT+ZcWvlMLmRxc1bt/NcAfWfBby1ZFJoqTCHSFJ4AVSnQdsV05HkRep3AsDtxEED4uKm+EZeeX+kbzufsaSpT8p6qDQsCTTPGnDrl2s/6ds7tGlvdSeBF7Y2F5540K0WlnY5D0ntPDXahYooODdjI1Ci7gyNEIkh5RLFE2+N1a2+jD7g==;NUle4ZEaWMV2Kws5U0eWWQ=="
 ---

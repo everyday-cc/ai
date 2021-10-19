@@ -1,0 +1,75 @@
+---
+category: news
+title: "Ajman Free Zone launches “Artificial Intelligence and Robotic Hub” at GITEX Global 2021"
+excerpt: "The free zone, which is part of the Ajman Government's pavilion, said that its new integrated Center provides digital access to its services such as"
+publishedDateTime: 2021-10-18T22:46:00Z
+originalUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+webUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+type: article
+quality: 46
+heat: -1
+published: false
+
+provider:
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-10/18/M_0ed0dimage_story.jpg"
+    width: 600
+    height: 304
+    isCached: true
+
+related:
+  - title: "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global"
+    excerpt: "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021."
+    publishedDateTime: 2021-10-18T16:49:00Z
+    webUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 69
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/10/19/gitex-officials-750.ashx?h=450&w=750&hash=09DE765F8E66DE8B471B6F104469C294"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Sheikh Hamdan opens 41st edition of GITEX GLOBAL x Ai Everything"
+    excerpt: "GITEX GLOBAL, Ai Everything, GITEX Future Stars, the Future Blockchain Summit, Fintech Surge and Marketing Mania"
+    publishedDateTime: 2021-10-18T05:01:00Z
+    webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Sheikh_Hamdan_opens_41st_edition_of_GITEX_GLOBAL_x_Ai_Everything-WAM20211017151423006/"
+    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/211018031100FARU.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Modulos.ai presents AI AutoML platform at GITEX Global Technology Week"
+    excerpt: "Modulos AutoML supports the entire AI Journey Zurich-based ETH Zurich spinoff Modulos will be a part of the Swiss Pavilion at GITEX 2021"
+    publishedDateTime: 2021-10-14T17:52:00Z
+    webUrl: "https://menafn.com/1102969889/Modulosai-presents-AI-AutoML-platform-at-GITEX-Global-Technology-Week"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/14/EP_aea3fimage_story.jpeg"
+        width: 900
+        height: 306
+        isCached: true
+
+secured: "FK2yiEyRRhs8duAKTVzcISScWHMwlc7oQZSC40S8LoPEtjzu42laaiEgA3UGKPvlYNtKBQ1YfQ7jqzQl2Wvcz8kE4l6gy3wIW+n/1fIde/s6D081ECk/kxzrBKda1zZd/DqO7d+gW4/ukrCwthriyHPzHhl43xgGaQCAO+ADq7EQU/77yEbLpAzlQnlts/K2Kglpu9QhTlHBEdIKtEZJaKhPDwamO9ll6j23huORTFb7RDA0iWlsR1MCz71OHTMq9kwngdzWmZ9/lPSW7w1d+DFfCsHa96ntnSwatqOt6LCHargQDLzqlyds0Kr/FEe3dixKxsYvfSfxFSoArJrjpbMOAe3RK899oMa7IfjcYUY=;R++gTmuwDwyKMsNv1lkDZQ=="
+---
+

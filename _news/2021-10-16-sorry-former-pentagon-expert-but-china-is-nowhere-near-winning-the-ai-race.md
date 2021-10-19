@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china
 webUrl: "https://thenextweb.com/news/sorry-former-pentagon-expert-but-china-nowhere-near-winning-ai-race"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

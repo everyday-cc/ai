@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/amp/exclusive-interview-karzai-says-taliban-
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/exclusive-interview-karzai-says-taliban-s-international-recognition-requires-internal-legitimacy/6274709.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Taliban can only gain recognition through Afghan people’s support: Karzai"
+    excerpt: "Former Afghan president Hamid Karzai said that the current Taliban government in Afghanistan can get international recognition only through the \"support of the Afghan people\". International legitimacy could only be achieved through the expression of the will of the Afghan people,"
+    publishedDateTime: 2021-10-18T17:05:00Z
+    webUrl: "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai"
+    ampWebUrl: "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 58
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Hamid-Karzai-AA1616688192-0/Hamid-Karzai-AA1616688192-0.jpg  "
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "KMO8Np46G9LfvJiHLVOIOa/LXeKTOLxL0Vq3PxgJD0DmVXHGOYYCF2BpgJ7YIEnKeHc56AXsUaKHmEB/CCmx6c1Sjz7nmhZLd2HFu1tHym0kwMizwIuujpk5B72HkuxFUktT9WMTVUZMEKoNzD0T8AVH1Q8gmpxakEH+raasUTQJ2m2g2thxMqS0EWBEfS1qlI++LWQN/JDm05PnWVbFLz7oXLPN0Tx2BPi6eFClHz8MnLjEldsDAS4Li66N+6fZWQ84YfL0OCG+ccWl7yRZRh85QMgzL83GGd98vHSJfxsyDtUJjJlJnkaSZIrSBTEc5NMAZ98oyPmOdQQJaNHRq1O6wKxTRxjD7Gt6j5oWlBE7hyhoKIZQJp3sU1AFLLQzuGpQtTfi+tuv8tfjp047t/fJUHs1edRLrBMKZqD/WQ7DTwFEjMBasY3aaVrBumOdvc9Z4NDDcKh4HMplv47xjHl9pDszBYzDCy4lTbUNTW6/IXNE9buCI62toHZDQHHUAZwLOygHmyEbqIp8ozSIjA==;+QaAeIVQNacOj3kFnpmGBQ=="
 ---

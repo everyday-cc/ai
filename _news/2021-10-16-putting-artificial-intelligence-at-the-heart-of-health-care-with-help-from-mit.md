@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-he
 webUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research"
+    excerpt: "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care."
+    publishedDateTime: 2021-10-18T19:09:00Z
+    webUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 62
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
   - title: "UCF researchers studying AI to help with Telehealth"
     excerpt: "Could eye tracking and reading facial expressions be the future of virtual doctor appointments? Researcher and University of Central Florida professor Roger Azevedo thinks so."
     publishedDateTime: 2021-10-16T05:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligen
 webUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://menafn.com/updates/pr/2021-10/14/EP_aea3fimage_story.jpeg"
         width: 900
         height: 306
+        isCached: true
+  - title: "Ajman Free Zone launches “Artificial Intelligence and Robotic Hub” at GITEX Global 2021"
+    excerpt: "The free zone, which is part of the Ajman Government's pavilion, said that its new integrated Center provides digital access to its services such as"
+    publishedDateTime: 2021-10-18T22:46:00Z
+    webUrl: "https://menafn.com/1102990948/Ajman-Free-Zone-launches-Artificial-Intelligence-and-Robotic-Hub-at-GITEX-Global-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/18/M_0ed0dimage_story.jpg"
+        width: 600
+        height: 304
         isCached: true
 
 secured: "L9B1ZZR2uu9zWirhQ142XA0rGFN/vAhs623W3pp9Gx3hl6BDxy0Qz/8n7bMhh/nzoTOTs7yNgTK2B0FsD3+OOINX4U9pdek8VQK572cH+Yri5TXNZjVQvQHZz5H+unan5+HlbOjZqhkAVJGqBbwzbgjjMIU26FPRnJPpk6lws2CS1QNZkxyP3lPJtBNgRRgai0tXLkdp9nNyfw1+11XRvCGsuTaR0nnLRiL1BHbXkfRyww28annlSxzesRfGdQ9OBOK9Tm050/RZcKPj3ef6g0oLUP/ocOyOVLL5zeqhR/a6aG4o/28wt7dwZ3uaOmCVvg7GELqR3ONfGWATi1XlPmp1J78KUCjXvoFHE1l3/Gk1CVcqIeGphSW1+azSoPt3Z80u3rGwNhfg0pqNEOMP4OtFVaV2x0ZOBcdJe9SqWHOhXaxVNw2cPekYHRuSUllXuMDdUzjdJpAlRmTNkaKy05j0pgwQqSaP6HZHFrchbs/eBh+LtTF2B6Dkgvpe0aT/cW/4Ym4JzSWDva2XvDwmVQ==;Q+/BrQjWk7qjvOPcj0Jd0Q=="

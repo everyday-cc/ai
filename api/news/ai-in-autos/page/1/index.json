@@ -262,6 +262,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
+      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "sourceUrl": null,
+      "webUrl": "https://www.kimt.com/content/national/575511382.html",
+      "originalUrl": "https://www.kimt.com/content/national/575511382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/designimages/STORY-IMAGE.jpg",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.kimt.com/templates/AMP?contentID=575511382",
+      "cdnAmpWebUrl": "https://www-kimt-com.cdn.ampproject.org/c/www.kimt.com/templates/AMP?contentID=575511382",
+      "publishedDateTime": "2021-10-13T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIMT",
+        "domain": "kimt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-germany-launches-worlds-first-self-driving-train-know-details.md",
       "title": "Germany launches world’s first self-driving train – Know details",
       "excerpt": "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,",
@@ -334,49 +377,6 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
-      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
-      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
-      "sourceUrl": null,
-      "webUrl": "https://www.actionnewsnow.com/content/national/575511382.html",
-      "originalUrl": "https://www.actionnewsnow.com/content/national/575511382.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.heartlandtv.com/designimages/Story+Default.jpg",
-          "width": 640,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.actionnewsnow.com/templates/AMP?contentID=575511382",
-      "cdnAmpWebUrl": "https://www-actionnewsnow-com.cdn.ampproject.org/c/www.actionnewsnow.com/templates/AMP?contentID=575511382",
-      "publishedDateTime": "2021-10-12T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Action News Now",
-        "domain": "actionnewsnow.com",
         "images": null,
         "publishers": null,
         "authors": null

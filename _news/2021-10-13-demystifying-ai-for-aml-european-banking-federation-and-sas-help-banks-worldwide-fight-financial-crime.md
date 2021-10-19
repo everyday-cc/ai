@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime"
-excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year."
+excerpt: "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide"
 publishedDateTime: 2021-10-13T16:12:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime/article_70db34f4-188e-50a3-a74d-87901e66c81b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime/article_70db34f4-188e-50a3-a74d-87901e66c81b.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c"
+ampWebUrl: "https://www.benzinga.com/amp/content/23360003"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23360003"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/4a/34a3b91f-451a-5bde-87ae-5fb6308c7d79/6167071ed671d.image.jpg?resize=800%2C533"
-    width: 800
-    height: 533
+  - url: "https://mma.prnewswire.com/media/1659549/SAS_EBF_AML_Compliance.jpg"
+    width: 600
+    height: 400
     isCached: true
 
-secured: "IjZlhBeqxviGIaP4q8RF8IzRAXCx+NRZziH0fZBGa2cd6bsGOxTsN3PLZeik8msS5aNxIBiCvbpRf8zgBqDw1535vVZ97/jrQBTRZvNV/PQbz7YtLuD4O0kltgkHzP4bXZR0S+LQKP+/2qh0zJQiak8eMy/J/yCvi7+nzpn2JgViepMhxhAnUhvkJLPoY+rhl0xD7d802xgUkeUypDMWd+N2e0pEau+58wNif/fQwfMIa8+lsu0rhoG83BX4ZTve4UuGxk87L9xW5YmkspJ9wfTUyC2erxfFg1o6VQohK3SW6n5zO2Alye+XogkvipS/0AIuhL4XNLmbcBQrp5MzgWvpVOXx288a8ZdrcRxS2tQ=;ubzPt6G2VDXGi7SemIjNAg=="
+secured: "JtBrAsGpQQoy4GWEikYZMbWmgFUFfaOaz+WzO32SLoqR/HkEzFbXxH+sb8Uy/UEY8NjCmMjwP3W8WjVs+GCu+/As/hb2dEadPqIXvsDc9fHD2gPvu/aD4sM9JyyOar1iUD9bPHW7swKIegIZmvKDPsk6qYNVEFPF4g9wGaCWJ0dV2aNf4eYPbnnC8Uw16zXfVNqvQq0UvunU4AR7KHg/hGWLfrzip5Cb3bjAnoNzRNN/CHFDIpvALj+QbygrE8oseAkTiEWAYrouL3AADOAZDYBfLvg8OIhxQBdNRZom1EZG5mSUCZc1twbC2Pz/wBjA8t4gorn74BZFOOenpccz+U7SAta6RlVaRJe1ovB87H8=;LBgMhraDoGmTmTNl51CzdQ=="
 ---
 

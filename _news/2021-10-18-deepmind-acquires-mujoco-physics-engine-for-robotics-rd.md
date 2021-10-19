@@ -56,20 +56,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "All Hail The King of Reinforcement Learning, DeepMind"
-    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
-    publishedDateTime: 2021-10-14T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Deepmind Technologies announces first profits in 2020 after years of losses"
     excerpt: "DeepMind Technologies is a British company specializing in artificial intelligence (AI). Founded in 2010 by Denis Hassabis, Mustafa Suleyman and Shane Legg, it was acquired by Google in 2014 for more than $628 million."
     publishedDateTime: 2021-10-14T09:44:00Z

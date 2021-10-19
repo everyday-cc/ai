@@ -69,20 +69,6 @@ related:
         width: 917
         height: 524
         isCached: true
-  - title: "All Hail The King of Reinforcement Learning, DeepMind"
-    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
-    publishedDateTime: 2021-10-14T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "XJ7LOZNZH3yYKVJaeT/uUrI5XKjWXaOQG9+BN+UR3CO0aukqGZNSvA+Zy6ArwcLE1245aaLp/s695tM2RJ9Myx/rMj8aTChd6U7rwbVSUt+FEHY7S41Kd7/XiBIYdAXCjnUjPPDITLUmK3ENyJgE09AccPaw+lmB/mbwv5QK7rjp4XCCYKq2rWJpztY9nErOqNfakMm8MoSdq4WI1N2LWNbrc/65Xl323s95o/BnzNhgxP1Q+rNY250geKOzNIM1zpBIe/v6gEfHgfCR4Rzg8VOLImMGmq/bv6NzCDNjaR4CZHTi4hwp0fIMUjij7F8RkohmZRGf9WjPzZ/lyKveVdcuU1nVMPLA1sdaj9oBzaevN/+KcS1LgKpNmNfF5j8Q1rnwWxgTIAO3wTyLxF52lZmCGHNCeqCL3ZcSNag0h3OyymSsWHRRcDCJ8rRHiz9Dt428c98dJxdit0sxPXPCugRsho4TT5bh7l2VPb4T84iIN2dohJA9MlZmypHnIEM/SMfjkyj11KfaxCMLTgGiEQ==;yJF1Z1mVj+Omm88juMPfMA=="
 ---

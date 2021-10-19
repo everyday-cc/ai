@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-15T14:24:00Z
 originalUrl: "https://siliconangle.com/2021/10/15/clarifai-gets-60m-funding-simplify-ai-development-unstructured-data/"
 webUrl: "https://siliconangle.com/2021/10/15/clarifai-gets-60m-funding-simplify-ai-development-unstructured-data/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/maxresdefault.jpg"

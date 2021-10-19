@@ -9,7 +9,7 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/co
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/conversational-ai-for-seamless-customer-experience/87081077"
 type: article
 quality: 57
-heat: 67
+heat: 68
 published: false
 
 provider:

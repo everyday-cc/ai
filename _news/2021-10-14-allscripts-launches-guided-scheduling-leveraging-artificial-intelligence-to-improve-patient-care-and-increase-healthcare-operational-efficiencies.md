@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Press Release: Roche announces PathAI collaboration for artificial intelligence-based digital pathology applications for improved patient care"
-    excerpt: "Artificial Intelligence technology shows promise in advancing pathology imaging, which can benefit cancer patients through more precise diagnosis"
-    publishedDateTime: 2021-10-15T10:43:00Z
-    webUrl: "https://www.finanztreff.de/news/press-release-roche-announces-pathai-collaboration-for-artificial-intelligence-based-digit/26431673"
-    type: article
-    provider:
-      name: Finanztreff
-      domain: finanztreff.de
-    quality: 0
-
 secured: "MsmvJuqc76JQu5UxPxK0rx1GaGgmJNSyJlwuBk9kmSrzTEhbaJEzYsm6t39VYHIymnX2k8xIuJHV6tkiGVylL8/Ny3Ju85QObEsQVxeRN+HWc0x1w4ke4QFZBhMSo1uaZIEYsAynvutR2XmUcFf6mLul8EF6rB/FqBkexSKP2M9/q4rWP/F/daWJIS8ysoKET+MRdvWj213CSiLThs9CUdhF6Yn31pcnCYt8P8klQEGWBYMaM1zyS+D7P1tsGlZFQ1qP6Hi8uUVoThLf1gLVsVCrhiL+YwIzo+OEZ2Xy4pgpU7dBTzI5e1kAO4WJjyk0FVRQI3JS9CxFo+Tum4E64gh92jda9YmbxE9A/cHM3WU=;fRU3/rJLI8BKUkWF4tdMmA=="
 ---
 
