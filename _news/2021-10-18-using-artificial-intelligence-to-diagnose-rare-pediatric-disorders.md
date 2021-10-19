@@ -56,6 +56,17 @@ related:
         width: 430
         height: 242
         isCached: true
+  - title: "Artificial Intelligence for Mental Health Assessment"
+    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
+    publishedDateTime: 2021-10-17T15:36:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 37
   - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
     excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
     publishedDateTime: 2021-10-15T14:14:00Z

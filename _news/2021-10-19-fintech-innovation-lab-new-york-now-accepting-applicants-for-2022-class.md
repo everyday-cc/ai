@@ -49,20 +49,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Fintech traces COVID contacts using credit-card history"
-    excerpt: "The free service, called COVID Hotspot Alert, cross-matches a consumer’s credit-card purchase history with publicly available lists of exposure sites to determine whether they may have been in the shop during an exposure window."
-    publishedDateTime: 2021-10-15T04:59:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/fintech-traces-covid-contacts-using-credit-card-history.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/credit%20card%20location%20tracking.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "3 Fintech Stocks That Surged More Than 10% Last Week"
     excerpt: "Fintech has brought to the fore an easy and efficient way of meeting the financial needs of businesses and individuals. And the demand for remote financial transactions has increased significantly amid the COVID-19 pandemic,"
     publishedDateTime: 2021-10-18T17:27:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-deep-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress

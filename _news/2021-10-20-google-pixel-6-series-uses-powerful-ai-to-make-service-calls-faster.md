@@ -58,6 +58,20 @@ related:
         width: 375
         height: 240
         isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
+    excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
+    publishedDateTime: 2021-10-19T20:19:00Z
+    webUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/10-design-pro-details.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "kGeMKtlrumX/V/Ahk6AWHo4Tc2avd1DRNMnYHZgEpayL8gsKltcE5GU4q+NAhd54EMS4ixpBWWGFkP4TpluVunwtEQR7QRjn30Jw5wFK2f1uMxAz5+Dg2M4SsfEkuLqkMeOwBrwv1lFRx2shBhn4O6Z6vVKXZhfkXyEwtqiteUO6TI6b5O2WMeIyY10w7z9bOyS6DijN4pLY8C8cgdzfoVP9YpMv6VNLY9CWC97OOI28a++G6GZWonBQSEoVESjIy8Dj/WgWOhhTt1b1My0XRhdQfJ7vrH6KpWgVVRf+XzpXtsrhcWQCrD3i4BoeIqJYVH41irYIYPJiXFnnHeLb+wmdd1zQ0Kfu20Sjn00trIc=;Npj3ZnWIzWwJzAZVA23cww=="
 ---

@@ -35,18 +35,18 @@ related:
         height: 450
         isCached: true
   - title: "ancora Software Announces the Filing of a US Patent on the Application of Machine Learning in Data Capture for Commercial Documents"
-    excerpt: "Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the filing of a U.S. patent application for the way its ancoraDocs"
-    publishedDateTime: 2021-10-19T15:06:00Z
-    webUrl: "https://www.lelezard.com/en/news-20054240.html"
+    excerpt: "PRNewswire-PRWeb/ -- ancora Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the fil"
+    publishedDateTime: 2021-10-19T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ancora-software-announces-the-filing-of-a-us-patent-on-the-application-of-machine-learning/article_d1612602-68a8-5a29-bb29-677663cc339e.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 9
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Medtronic announces first-of-its-kind Regional Open Innovation Platform in APAC to advance the future of healthcare technologies"
     excerpt: "Focusing on the unique healthcare needs of the APAC ... advance partnership opportunities that can help it leverage artificial intelligence (AI) and automation to address patient needs."

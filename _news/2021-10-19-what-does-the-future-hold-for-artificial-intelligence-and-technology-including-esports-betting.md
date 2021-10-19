@@ -261,6 +261,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
+    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
+    publishedDateTime: 2021-10-19T05:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 35
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
     excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
     publishedDateTime: 2021-10-18T06:33:00Z

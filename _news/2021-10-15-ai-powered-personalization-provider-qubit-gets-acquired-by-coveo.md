@@ -40,18 +40,18 @@ related:
       domain: venturebeat.com
     quality: 147
   - title: "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering"
-    excerpt: "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition applications, has been named a 2021 Gartner Cool Vendor in Enterprise AI Operationalization and Engineering."
-    publishedDateTime: 2021-10-19T06:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-e2afa68d1d8f04bccb5c0744b7a18242"
+    excerpt: "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production"
+    publishedDateTime: 2021-10-19T06:00:00Z
+    webUrl: "https://www.nbc11news.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: KKCO
+      domain: nbc11news.com
     quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
+        width: 980
+        height: 2097
         isCached: true
 
 secured: "EEostpADg0rIFzNroxoS0bAOY4efaLbo2mtQJOofoEOBdzzyPYkrT2D2zbUASqXooj7y2ZQgiTlyrvMTyni0aJIAwk29yuJUBN+4f8lk7P/ejsmZKFWWdRHCznEWvbwQsvYF7kWUITp05fDDMum3ScGsT+WD81YtZxrynEQAJ/VlnddMpYHbtXT0JmhHxkIitcowWFQApuaTdeqk5FiVwfJW+fflAwIGe/GPqeOxIIca3jzMXSpgGMs2+KnrpATo86fvYw/UvRZyT1R1sZTcUI1p53hMqdxP+NL/NObE68C+B7qDUrqI/ProWaHBU++ClPi8s8rVp4NTCzLhxPzO0QIzwbhmQ1x4gQ01hVF3sL+xjshsSptUGEIkgaeyB0uFvsWRbyY96hZqdGKhTpZuw4bNC+t9FvsnnWAXIqcbKbA5nUJLp4o5VkIvlsXogaNdeLwzqm74W0Qoceki4gNc5bZiuYdD07zO83OUIIV4tBwiWLg7I5doo7lTCe+Dw1j48/sgEeV/xY8ZdRDpTtHNrw==;H9MUsl2Snftq3iW+BFc2uQ=="

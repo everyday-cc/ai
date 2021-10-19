@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Tera announces the launch of a full-stack AI powered B2B Platform for finance automation"
+    excerpt: "Boston based FinTech company, Tera, has launched a full-stack AI powered finance automation platform to help businesses save time and money by offering a unified experience in managing banking, corporate cards,"
+    publishedDateTime: 2021-10-19T21:46:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20211019/3840091.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 25
+
 secured: "jPXJIXOkloT7o3XvDbgdwtK++vaFdfuirEZLuXW7dkobgmhFhbKMpjZpAEzDlZErDfpdgmGhAXLqYBlp+PcAqLjRHyEDhG7HBfFk6iSXgkFVj2WO7W+oFQ4PiP607p2OhiuKAI+Gtp19YD6A0nh+aR23FmGkW8/E1Hg3MUvVUk7xvqL9YTG5gxUMzDL+PfpPftXLH8imVViSpali3NmPjFYgIAg1fqdblt7utYBTon4qt05+LzHyQdRNMO5zVK2XqeQGPXw4If+TZ1Ofca1hi5RQZZZwBOY050RMPeEHFg5i1Y9ZByFwPns4731xO3rHS1lmoE13zvzOZ7+bBcWseHgSZEYpG/Rdy6608x8/aik=;SHAdrMmYOAUxUSKBMvV7KQ=="
 ---
 

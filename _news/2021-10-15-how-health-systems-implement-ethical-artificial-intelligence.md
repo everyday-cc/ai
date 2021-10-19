@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/how-health-systems-implement-et
 webUrl: "https://healthitanalytics.com/news/how-health-systems-implement-ethical-artificial-intelligence"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Mental Health Assessment"
-    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
-    publishedDateTime: 2021-10-17T15:36:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+  - title: "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”"
+    excerpt: "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,"
+    publishedDateTime: 2021-10-19T21:32:00Z
+    webUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 96
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Credo AI Emerges from Stealth to Help Organizations Build Ethical AI"
+    excerpt: "Credo AI is a single platform for managing compliance and risks of AI deployment at scale. Credo AI uses a context-sensitive risk framework to help organizations deploy scalable, responsible AI systems faster and with greater confidence."
+    publishedDateTime: 2021-10-19T18:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-credo-ai-emerges-from-stealth-help-organizations-build-/2021/10/19/9473043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "LYd9Q+jfA8WFeMlKceuZdBPYdIZK6XJXsA4zFpOKhEYUJG4MKHNh0jiknBMGmlNcgP32IBzlT3BiAsITWyKs+J20L5pKA0W94K5qzTcTbcqWjIBZSbVCXzmf7lg8DfzQqdeaE6OIphy1S3VImowS3m3gfUbEYdSHTg6dCjHf3rGYilSUiYHum4Ube49nKQsZ2GJQtBvozwWX7Qe9ugBAxFn1RMhdwRSFV4Dzh58AUeHtuXxNHh/j4oNVtvw9YvGllkXbYx9otthu+LMzWx9fy789P0WVSJlKZoAxryjTkHCZEeuYHEfDUuouIcGF1o8NtRWmcnw8X6+UahEfBlEqAluQpSfDIzK7cVni66h+zb/azagfKR3DNqEjizlXkyS+wzSjIzjnylzAebZQn1TEaZ3SrAxpNalYMBfR1E+xAzrVOTCxQ9XdW7+jR0llSLeGa1dbIWUa3QdthWOXfQ2CtsPMZe1DuokDxFH+aaKiEpXWyeLSL8go/5qJkjqEaaKtikzkY2TL64919otIJGi0yQ==;tByWmWPFss7GdIO1eUVP2A=="
 ---

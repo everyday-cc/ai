@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Spell Named a 2021 Gartner® Cool Vendor in Enterprise AI Operationalization and Engineering"
-excerpt: "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition applications, has been named a 2021 Gartner Cool Vendor in Enterprise AI Operationalization and Engineering."
-publishedDateTime: 2021-10-19T06:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-e2afa68d1d8f04bccb5c0744b7a18242"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-e2afa68d1d8f04bccb5c0744b7a18242"
+excerpt: "Focused on the urgency and the need for enterprises to deploy platforms that accelerate scaling enterprise AI into production"
+publishedDateTime: 2021-10-19T06:00:00Z
+originalUrl: "https://www.nbc11news.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
+webUrl: "https://www.nbc11news.com/prnewswire/2021/10/19/spell-named-2021-gartner-cool-vendor-enterprise-ai-operationalization-engineering/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KKCO
+  domain: nbc11news.com
 
 topics:
-  - Facebook AI
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://gray-kkco-prod.cdn.arcpublishing.com/resizer/FREMUPCXogmuYv3X5OxCBlIuAyY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5TE3TWAROAQRUUKEKN2BSHAMOU.jpg"
+    width: 980
+    height: 2097
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
         height: 600
         isCached: true
 
-secured: "1yW3G0f9hBKOWk+4b/NKjex4WP0o7vnD/W8Dv5VMOpSTi4cmBj3TFz/9tTfbGqPF+MEYpjKMPb0Uxex3xrD6VHTTP1P7WGjgZdAmyNbT9KXKaeVQuFtHiaxOvM/xATq7yaWSzXRUtXP4YIva4Dg0x8i3WVUYp/VRVxL4BD6B75/56QY5PCNTv+6xHWNblKDgONJp152yg/ZLFDJthFKpve4Og6F3JvBZ5Ch8hGv0EzyfOmsmpsrRYtPPFPp2+pi+g/etJ/8HAH5+b0tqmvPLbvq9q1Mbt3LQBNDTH3BM4Eu4p7XTjJcK6zKuJyJFz0edsexG0PdwkEylhRS7yLzESq5tzDmTKnsJmzMBYQV9Uoc=;AuLHGb/q8MBHsREfVWbVBQ=="
+secured: "IW9O6+RZgBqquK70VpN1NbRVs0BDC3RbxldeMKS39DfxBUSteJ0cuxycy0VhoNNuk8uwhM9PAeka6otvmZaG0gm7Hp23mOh0tsF8QSBuLIyRSpI8dPBBGLP19W/Q+egm8vAvjbr4LavImNVEfafBMX5v89uYnvuW/Ax3VKiifwRCFl7W5Ar1tiYkPSCwk98eemqg3c9QbrlRfXw3MP5f0XzNxc6RRvRM7rT8hMC2dx62D0b1YPf78eV5/iuk8sEx+3SLvd/Jrzmf/moOcNx2e8LtnFU3rey0jp958lri+IXkuKW6f+AkuoYAxji7mAkp+C8Nlut3IQlxlZ3kNqI7oqsn/gt/bjfFaSufBPc3GW8=;fu1tQlBkx1iqgZ4SDT0yyw=="
 ---
 

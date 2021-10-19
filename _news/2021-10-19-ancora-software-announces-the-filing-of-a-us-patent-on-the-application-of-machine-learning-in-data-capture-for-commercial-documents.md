@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ancora Software Announces the Filing of a US Patent on the Application of Machine Learning in Data Capture for Commercial Documents"
-excerpt: "Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the filing of a U.S. patent application for the way its ancoraDocs"
-publishedDateTime: 2021-10-19T15:06:00Z
-originalUrl: "https://www.lelezard.com/en/news-20054240.html"
-webUrl: "https://www.lelezard.com/en/news-20054240.html"
+excerpt: "PRNewswire-PRWeb/ -- ancora Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the fil"
+publishedDateTime: 2021-10-19T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ancora-software-announces-the-filing-of-a-us-patent-on-the-application-of-machine-learning/article_d1612602-68a8-5a29-bb29-677663cc339e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ancora-software-announces-the-filing-of-a-us-patent-on-the-application-of-machine-learning/article_d1612602-68a8-5a29-bb29-677663cc339e.html"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "SCmuQoqkD0KvKHXQHZRIIomxa22lJWnIIY/l1YalwOEM6S4xvp6gNOqq4EW+HLVCJEfxUB0aUzNQYZ1QG0eDOjPKjDp2vHcpqTLDHFJG73tLAPCUSMTCF0p88WWDw9u/tz87WC7u2W2ZiYPGZXUaolmYBfdFvVvcrbY+hjSF0Md4QJbaTczhbjqtrE62XCvJnheTQenC7ZGs0mLcUpoRDyynMbDQaUN7BHT7vT5bmCyz4gYwoJq3/WIf0SXqw6aIuzB59hCisszqRzbpD0P0sCR1bfWv/CSmQwsuERDjx4cpw7/zmHCkR/ZTLRjCRBRUpzw/lCMqUv6oCHLExXhWKVfVex4kSxjezCkskesMvUc=;x0rw+XcmlsoV5lJKe1Apaw=="
+secured: "IYHjWSnXoPKme0nw+Hd40AC1DYO7kEK0zh+UBRk8Imb9RLzp+VEReSsmpLdeOQqCC8qdJ4xiT0W6ShLtffQf0otRRzmeoj5EIyu3FVykzKOhry4ZryVHA2QrWgxwN9mOsE4Boq+DnCxnJxd7Tl9wSVJUQWKuhchOdDOuS06F21X43/6lGaFFOlHw5vfqKogexxFzqJKMtR3HJ5KLlBgcCi9IN5UN/nfaDetNJ/dFg4dXD0qkV99/fxw2Or0lTGVnj2xzi6P4TTNzXFnU3aYD2P4NMqf057IBOt0zAyy1CMIG/uAmSeG0wfQKOpSZ+qjhLP2/InKoEZhiDletbVj+l7pldXNDeK0Qq4ta9gOSGU0=;rkk/0/1nH1QHgw0VT4cKRA=="
 ---
 

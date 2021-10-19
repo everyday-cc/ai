@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2021/10/Pixel-6-customer-service-calls-features-presser.jpg"
         width: 1600
         height: 1200
+        isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
+    excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
+    publishedDateTime: 2021-10-19T20:19:00Z
+    webUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/10-design-pro-details.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "VzW6lcW7XIX/pn7B2+8vjFpbET+iBoTUNYGuGADsnV4UYjRjpWh2Al4SKW0LI7SzhoNHP84AgJ9i9NYz1ppPEF4KGd6Kl4vj9owbRaGu8392yK8CwkSTKvMSNIYRzMC7outG8Xq4EF199Ce5pTyfuxUxHawcZL1Mp7BUe4DxK390EyLemaxR1WAyoqZtVZXzU0wgec2TH/SfO0rrtm4iEenmrcEWZg9LQC1QfYiekJqJnI/5AeldGg3c432LI7Q/f1wrJOmxu7jHSAB9nBzdTGRM6BOvd1KG5k8psOOP0WiPWgIubkpPHMc9jX3R7Re81lrVxw31VAj6fy6g/7K9zGLegv10lwie5WUS/8m0xyqEwusmZUA9jYyNADDI6Todf4hZQnZ+turSWm6IILwD/b5Q96cHi7B8oc1js6wUu+IUGODgQ7bvkqh6CAXkeusl8xwG651ZAlIT/TwgnDSguouJ5biFyv0ISOGjtWGjOW3WBXspG3Upqkgl1lYMlq+drdnp6y9kfMZ97qFqupvX5w==;5cezdS/sXndK+/dM2TabHg=="

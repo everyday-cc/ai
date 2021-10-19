@@ -1,29 +1,33 @@
 ---
 category: news
 title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-publishedDateTime: 2021-10-18T06:21:00Z
-originalUrl: "https://www.wflx.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
-webUrl: "https://www.wflx.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+publishedDateTime: 2021-10-18T09:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
+webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
 type: article
-quality: 35
-heat: 35
+quality: 65
+heat: 65
 published: false
 
 provider:
-  name: WFLX
-  domain: wflx.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Education
 
 images:
-  - url: "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/GzLHDnw7phXM2cnTJTCNMe2fXPY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HJ67SEZ74J7QJC4F5W54M66ZPU.jpg"
-    width: 980
-    height: 571
+  - url: "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
+    width: 686
+    height: 400
     isCached: true
 
-secured: "3SJacV2y3lH/7a4ukzIcEu+VYfpErqz/+i1KzvSnv1JuQuIuJJMnGceq6J2SK4LGYCjJLGa8uiLhdBO9E5jQaUHIGOChJ0ulry2XxwAhTfYzrtdmqYfzGM9pqxs8CSv6W3jaBdqJFupz/rbJavoFFzMisLd3L4d0q0IVPMYTXB1zdu6ZnS0sLs5AffV882d7PbpL2M93fWjdfiWxW8tG358f45+3mZZR/TVeQVIizgSgaGQHwmqZR8WRH590AqwlL2Ag53MAhMUiSymD+1XXXWYRkbZxIGhSpJaGeWkIyaPTdW+xqljqMzjBiOu0Cn0BQhXu9XjOX2USMfpG7M3XdpNs5u+WglGJ764un/JD8bg=;8UPbw2474Elt+kkYNcEVXQ=="
+secured: "wguEi2Pe6xVvf12CfTKelu3RvMni3J+Zh1S4LqL+rC8pTvyuBnd4ydoS6jygwRO3I6xaoXL8MR6yeg+pYhkmpekGTtwxSW3zFGVfvi82kTr0i3GY7FEI8JoVavCQ6ALTzDS+0ntEkvEeEY8ffFuq4awm9bnVJa1HXkQY3mnkSY11dWuOjqP6JlD97D3FniiA59fXQbf4WxLIaSi/tCryyMr3Hq0HTDophpkTqtJ24A8DrvuG5J0XQFD36NfhIZLH26HsaQgrN1ijqq76yUHzPiNyLjOkve05g5jT3/ep5WSAvCOwwc/X8CXyvjHn4WW/5AhGggqMgM3JHYuRZIOsClh/xy7V+NDKg16kCiTb8GQ=;WNxR6ii+z/ovhj1dVZRDOg=="
 ---
 

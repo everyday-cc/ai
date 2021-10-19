@@ -248,6 +248,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
+    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
+    publishedDateTime: 2021-10-19T05:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 35
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
     excerpt: "The article continued: \"As for Esports betting, this works much like sports gambling. You can visit an online betting site, select the esports category, and browse the available lines. Common wagers include moneylines,"
     publishedDateTime: 2021-10-19T14:43:00Z

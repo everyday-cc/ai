@@ -19,37 +19,35 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Spot AI emerges from stealth with $22M with a platform to draw out more intelligence from organizations’ basic security videos"
-    excerpt: "Security cameras, for better or for worse, are part and parcel of how many businesses monitor spaces in the workplace for security or operational reasons. Now, a startup is coming out of stealth with funding for tech designed to make the video produced by those cameras more useful."
-    publishedDateTime: 2021-10-15T15:33:00Z
-    webUrl: "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/"
-    ampWebUrl: "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/"
+  - title: "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”"
+    excerpt: "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,"
+    publishedDateTime: 2021-10-19T21:32:00Z
+    webUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/"
+    ampWebUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 78
+    quality: 96
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/spot-ai-video-frame.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024"
         width: 1024
-        height: 733
+        height: 683
         isCached: true
-  - title: "Azure AI empowers organizations to serve users in more than 100 languages"
-    excerpt: "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making"
-    publishedDateTime: 2021-10-18T01:29:00Z
-    webUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
-    ampWebUrl: "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/"
+  - title: "How Health Systems Implement Ethical Artificial Intelligence"
+    excerpt: "As artificial intelligence capabilities in healthcare continue to advance, regulations and policies need to be put in place to ensure health equality when exploring this new method. This past June, the World Health Organization (WHO) released the first global report on artificial intelligence in healthcare along with six principles to avoid health disparities."
+    publishedDateTime: 2021-10-15T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/how-health-systems-implement-ethical-artificial-intelligence"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 75
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "VY+wTBhPo1X1Xwf9YecbZBew2PT7YYn4BfD9ruFzXJ0pIgzJ/WjaLZSG2BCfWLIw/W22JP7YiiNRKbDCezbzq/afo3symlJwGmH1RmzSUu1xAEyDe9D3bFMp6tm4jVsrZaxS1Hz+dZp88JRygQtZQrm/PnqtGmwRleZkGicka1uO0uxpkVr5FyV9qI434ebDrIfugvjLC9y6/9cJ/8t5yFTqszkfFH7aJ40Q1j17UzT5L3vYpzhrgAy2516mcnzOjdvTB0LVLAyh/J/YAQy88wKL+Y3a3wAW6qGJ/MmhwQ+71ISjEV4BHQl+pVdIDUY7Gbwrhf6JACTpWp1yq8otQSww0Qu8gF9NU4LXPb7cTqM=;tswE9OdGZ3yMThDdUAL3Ig=="

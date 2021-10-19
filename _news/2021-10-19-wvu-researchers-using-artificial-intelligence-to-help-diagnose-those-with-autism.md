@@ -42,6 +42,17 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Artificial Intelligence for Mental Health Assessment"
+    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
+    publishedDateTime: 2021-10-17T15:36:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 37
   - title: "Using Artificial Intelligence to Diagnose Rare Pediatric Disorders"
     excerpt: "Researchers found that artificial intelligence technology can quickly diagnose rare disorders in children, allowing patients to acquire treatment sooner."
     publishedDateTime: 2021-10-18T13:30:00Z

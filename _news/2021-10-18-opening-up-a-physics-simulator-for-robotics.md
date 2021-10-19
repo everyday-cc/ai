@@ -60,6 +60,20 @@ related:
         width: 917
         height: 524
         isCached: true
+  - title: "DeepMind Announces MuJoCo Physical Process Simulator"
+    excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.linuxtoday.com/developer/deepmind-announces-mujoco-physical-process-simulator/"
+    type: article
+    provider:
+      name: Linux Today
+      domain: linuxtoday.com
+    quality: 39
+    images:
+      - url: "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
+        width: 1201
+        height: 1200
+        isCached: true
 
 secured: "+xCjCNjSehYlB+m5W6/1n5qtvpUpTdNUJhswrVCVIzib72pKx3cZxAy8PcKjeWk6GdffbsX9IgJ3Tpe1El0oXxGXMtgvKTbyXg/cf7sISaSTmS0G3xgvRsz+6c5B5K2s6L9AbEIBUZVjprPbItcY6TIoQgRsxpKRbqQVrUIExec/XfqJe/0Ys0VzlSyWuWMWQoVDL9lXO4tXR1+joQUh8MxwU7vJ6E9r+0AdB3Fj4n5pTWsrsjTbhdu2xse4cY7cgIVjIJ9XKa6/1ZQKMbUnEO4a10u7E2b4aWZWTIlFH+yjnVmlj3u5IYWBlR1IXpbTYcaJC85UUmsVCR+DVnJl1sh/5WL4j9KgP4LjUzNo/A8=;9kQmHx63cGxZttlt/JMINQ=="
 ---

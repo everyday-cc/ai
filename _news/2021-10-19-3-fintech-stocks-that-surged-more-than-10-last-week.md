@@ -51,20 +51,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Fintech traces COVID contacts using credit-card history"
-    excerpt: "The free service, called COVID Hotspot Alert, cross-matches a consumer’s credit-card purchase history with publicly available lists of exposure sites to determine whether they may have been in the shop during an exposure window."
-    publishedDateTime: 2021-10-15T04:59:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/fintech-traces-covid-contacts-using-credit-card-history.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/credit%20card%20location%20tracking.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
     excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2021-10-19T12:04:00Z
