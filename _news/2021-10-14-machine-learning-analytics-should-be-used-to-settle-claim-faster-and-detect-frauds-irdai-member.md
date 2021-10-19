@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Data intelligence provider Alation acquires AI insights company Lyngo Analytics"
+    excerpt: "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture."
+    publishedDateTime: 2021-10-19T03:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Bleeding Edge: Healthcare Data Analytics + AI Innovation"
     excerpt: "Watch this webinar to hear how current and forward-looking trends in healthcare analytics and artificial intelligence (AI) are impacting the undulating landscape of healthcare innovation. During this session you will: Explore an “Analytics Value Map” of key healthcare business processes and self-service analytics use cases with tangible clinical and business impact Learn how a regional health plan deployed network analytics to proactively detect and prevent fraud by predatory pharmacies See how predictive analytics can be leveraged to proactively identify patients at risk of 30-day readmissions,"
     publishedDateTime: 2021-10-14T15:22:00Z

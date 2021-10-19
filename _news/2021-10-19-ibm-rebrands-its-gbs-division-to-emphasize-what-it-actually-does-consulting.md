@@ -2,9 +2,9 @@
 category: news
 title: "IBM rebrands its GBS division to emphasize what it actually does: Consulting"
 excerpt: "Almost two decades after its landmark acquisition of PwC Consulting, IBM Global Business Services (GBS) is now IBM Consulting. What may seem like semantics in the short term should bear fruit in the long."
-publishedDateTime: 2021-10-19T00:24:00Z
-originalUrl: "https://www.horsesforsources.com/IBM-Consulting_101821"
-webUrl: "https://www.horsesforsources.com/IBM-Consulting_101821"
+publishedDateTime: 2021-10-19T00:28:00Z
+originalUrl: "https://www.horsesforsources.com/blog/elena-christopher/IBM-Consulting_101821"
+webUrl: "https://www.horsesforsources.com/blog/elena-christopher/IBM-Consulting_101821"
 type: article
 quality: 21
 heat: 21
@@ -24,6 +24,6 @@ images:
     height: 627
     isCached: true
 
-secured: "E3eNqTcKt1lQBtklldpwfttTW8mTXN/5fExY20dZTA+WZ59anqtM8OBP4BCXB6XA4LhNd3ryV33s8Oe6AESvjfFHUfk0YcBXZojvwDrITg4k2eJUvry+oIuRLcT/hl+mnIZ8RejSsp3cLNOYawPWFlBhV9Z1Rb9c5Owg67qSnOqrb/J1vcDC3i1N5bCazbSuuqGXvRabNtyo4iy6u3JLtiHlWImWGp/Mq5JbMQ1BUUViUOKyUqlQRLiBwf7SC2WGn0qZYM+z4xHmHpr9guvDmzP6D0+QoaNDpwrNAIJP2C2DLjVFBbU04efebEpA53d4NcImXo/7l1fr4vKE+ij9IUwvnlgdM5ltuVbThu6smn0=;P+UiRwUA4nNht0MVGuOhCQ=="
+secured: "+go/xjKnhlNxSHwgWYypxOiYltlTzyCbGrPaRkSoTh/ivc52zh9oipIp3uRG6bQq0PbIXDJDJcp6x0ptwrEkK4BL6+lr/ectVlccDwsp6A+hSmfcwqteQ9xLUZ+M68ZS7hAcmZ+QOlmp+UP5P1aib7HAYElolrUBFYJDDjVMk9OCkaVAuedHkD8z6CiKE8vaA3B35uY1D4p96sc+tsOKAWYINVnW6NXuLTvP0v76q961rycp7TjD8jbK9RtERTLPP+boTNEu/hTmlwpZ4mG2JVfGNHZF9w3dXRwq0Q4pdsyJKrzlh1GC/uCsEvdakSEbeog2uJMGncyY3+Xjrfm8XWOkarPNGskgggvKXrcCIcY=;6OaUQs9fIKUaM6gyECKgeA=="
 ---
 

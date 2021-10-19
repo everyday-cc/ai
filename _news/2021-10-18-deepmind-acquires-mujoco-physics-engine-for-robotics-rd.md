@@ -56,20 +56,6 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "Deepmind Technologies announces first profits in 2020 after years of losses"
-    excerpt: "DeepMind Technologies is a British company specializing in artificial intelligence (AI). Founded in 2010 by Denis Hassabis, Mustafa Suleyman and Shane Legg, it was acquired by Google in 2014 for more than $628 million."
-    publishedDateTime: 2021-10-14T09:44:00Z
-    webUrl: "https://www.actuia.com/english/deepmind-technologies-announces-first-profits-in-2020-after-years-of-losses/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 37
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/10/DeepMind.png"
-        width: 800
-        height: 401
-        isCached: true
 
 secured: "EWA44sqqWbPM8F3He/PTMUrJHgYYeE/9YmcLSEDB3lV+dEnlcYFc8ehubirb1z+heQ9e4GbARdCbAQgWJIMjDIj+JI3NM4j51cbJivZiuAzDW3miF1LT2biPwB7Rjw/D+IVD5sBfbxFsaoIEYwmx30W/ZOU0da+8aLo1JcDUZBqG39m8aJNDaxkGOE1xtYaG2sonkL9RBi6+5TpabGTzWZG7uBWo7HBe48zYUPDzthuQekmsFu3LjcY3jVpmIzuP3L0m2XZwIcwjKeToOJFE0JzV4BJrxORv7arwwbdlZqh0zRvQ9UsyF/SptHL1RJvMYG03HnHTZv/DGtp44XXOob/7r/FJ+EwCZrtkZREejblCNXb/z4lPcAcmM04llbV4M2eF7eAZWUU5PuVhTgun78SMGvy4fEA2BKdxkJ3CJVh6zxn1ucRFg6anaMexyYoJtqMdHeoAMWSlIFDzFLV4s1GwdOWCcrQrWyS3Kp1u93E/RKzIdyxSlBzg4weUTbia8O3DV0enyFLqtgRqR79ovw==;I+r1CklYhU8JwDxvKW5lXg=="
 ---

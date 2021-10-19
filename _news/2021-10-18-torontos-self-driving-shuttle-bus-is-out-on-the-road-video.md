@@ -24,22 +24,6 @@ images:
     height: 258
     isCached: true
 
-related:
-  - title: "Toronto tested the futuristic self-driving shuttle and people were excited"
-    excerpt: "People came out to see Toronto's self-driving, West Rouge Automated Shuttle during a test run recently and the micro shuttle proved popular. A"
-    publishedDateTime: 2021-10-15T21:39:00Z
-    webUrl: "https://www.blogto.com/tech/2021/10/toronto-tested-futuristic-self-driving-shuttle-and-people-were-excited/"
-    type: article
-    provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 22
-    images:
-      - url: "https://media.blogto.com/articles/20211014-self-driving-shuttle.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "M265MRmkw2kWFqtm/1jJV3tgA6Js8TzkybjyKnRrlxNRPNQy5hHg43t7GHonBN1aOz1iDIzN249WEMIABISXdPJIk8WCBwV6bSvRFrs2LvU66Fu2Xoegl7sSRuykyrfl5CehRKWZ+LykdUAbK3ia/pdUODo9geA8rMI/hLJq6OXWI8NZrH33WwKbbbUufDr1oJtasINrsRHbL8dYvJ4iQEjTD7EtPQElx1ZdHxrjfoT5DXxadshyeY/JhpdOtN/Ypd1MrM2s5YQ1dwr5LMOkEupTPaKnOulilLMdQtZDuRPnjMcw/FVpLMZMYynOEPDIXD83HfTrQeMQxlCsg7KTAwPTRH3KvFdNGwo4R8pmC28=;EhFj+KwaNVlAe83SEQjmig=="
 ---
 

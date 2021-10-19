@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
 type: article
 quality: 59
 heat: -1
@@ -276,6 +276,6 @@ related:
         height: 382
         isCached: true
 
-secured: "xx3gXs3A0O6+M/eg41hPH2O6rQpyQs+dvUwSYWfjybl7kEBRCTFv7thdnNSfgKL9tg7cVf2V2WAAKqWyw8VQuLNLRj+GdXotjx3g5EM3SRixQ+KqHPgTXEGpJ2q/B9XjgufskXFJep33qhqjepjEnrILvMld+gvi/SY4LCr0UnVf4ClPY/wtAlvEwBQWhSAKsV/L4EufiqXUN53n+KJ0FGoUD5Uk882xvYX4Ki+v4YMMD/VrPavQVWeXrfbgjLSned7IMnKTbWOCNY55y6wJsfHo8WA4hBiPmOvGwSF+WRVM0ZERMP9NJDA9vBM6B1SdxXayDk3MxKzplXY38c3tC/xsIfMVkmKCHza7ar7t0crnUQdaI/OZDgWZhYtgUEBpDR21mI+g1YNZwf7s2WfukqajhfJ6VOQpOKkR3kS/WdiXSnP5vp1hP9AtZgcGBHQEjITmRO+QZvD03H7Hxm9k/sho6B1HHNA/YmbkD2czEoS5mVoxwdawk/EJ/Ei+OPYzAcJJYXvNjuYo7YEF+pG3RQ==;AGe1qiSDPUupSGcZQ9/rLQ=="
+secured: "gf4GAlDjKnXaxWXZ3ZcQfNOGhXkx2h6PsE6E3YgEpNm7+K214vfgUEW96motmA8CRHNAnKughqXBHwct68uxUp+gxN7Km7CmCgE1kpTvLVZzWABUjnxZkEG9bEBgvoyvb04tXnNQ8c+g5wOqtNgZCTgVzEBt99RTKgL6GfYAzL959HmM+I8SsghSNBAPdxYoddok2kLEI71oPZxW/YbCzItS3stMa44YzBrgIYkjKlR+Z7xH8/cLwC8JaRgTBodwGV2mqLp4aJkavNJ2HNwM+os240B2iXCzSN195bnwwNf6Gnszg24ig2VljLH4aHC/ZQ8QEueZTs+c/MHrTGaOPsr3X2yMLW7BIJP1vvdM2Jc=;pjBudc7i5V8LFes0fZErnw=="
 ---
 

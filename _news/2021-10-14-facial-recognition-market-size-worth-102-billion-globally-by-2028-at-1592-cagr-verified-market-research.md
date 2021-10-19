@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Facial Recognition Market size worth $ 10.2 Billion, Globally, by 2028 at 15.92% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Facial Recognition Market\" By Software (2D Facial Recognition, 3D Facial"
-publishedDateTime: 2021-10-14T14:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
-webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-worth--10-2-billion-globally-by-2028-at-15-92-cagr-verified-market-research-301400457.html"
+excerpt: "Verified Market Research recently published a report, \" Facial Recognition Market \" By Software (2D Facial Recognition, 3D Facial Recognition, and Facial Analytics), By End User (Government and Defense,"
+publishedDateTime: 2021-10-14T14:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-worth-102-billion-globally-/2021/10/14/9470075.htm"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
+  - Computer Vision
 
 related:
   - title: "Voice Assistant Application Market worth $11.2 billion by 2026"
@@ -42,6 +37,6 @@ related:
         height: 373
         isCached: true
 
-secured: "BWXo+31ekz45aU2FIFqrDOJqig6O8qebmq4GIgrVeTlz+Vu2eljjHrCo4fr+02rHbgSAeTjBdZ7RHCF0KxoKIdsK5hbrG6LkleTW3cKfqIcSS0ne6a6qlQ4zWnFqPGI+6QhSUWMeHdIxcOe8c5rEWLeBQHSAwEYZtMOSbzvUDZFb4AcNyiae6wyUyYsY2kAkjNGvfsEBgCJ4bjehUR0jtnmFHaqus1su1JTFMSpS6KsburlmQIlMTOMY7NWBpg4nYiBctkhboZgmcQ7VTOfZS+RH1OWiSTAkmzD37PaFYiBP/yKB01AgXg1I+uqedOfXq0C7ry5maccX6JAWBvDr42JufZ7JyyrM54sa/iZEsQA=;6pYsOd/CecDOTegQ7EMx7Q=="
+secured: "w0Xamb4dDAXoBO4+MOP5eZoNavK6oY5gJul+xfSLeZtHOUN//XPfdBRw2AAoarBJQ65hLm9SB+XM7tVc2bDYIvfm3O1/QGyAM1ByAvGc08fwwMI9WvtUm1zpRcNISUPehOamx5IRXGsfEaaH4K0ZdAwrvKA7SwTEOHvNxvM6CpURlMlwpCBUr5f0yjsUqM9k6pwT79n7GYv8ON/N6cLE+waQ37SvleOiREIatiS6A12hZpWfD7TEi1PgAks+fpmzYjhfZEaFEK54awyw1SX4DBVuOYg80o8O6qYlFZtXHLQ2kYhszAe19nSUNBykXeUs3jeAXaNWmPem1RpQ+6AxCGJhQD97Ep78sme2o6nqTfA=;jvdnTKnp/ENG7WtZPgIVLw=="
 ---
 

@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pathway Raises $1.3 Million to Scale its AI-Powered Medical Knowledge Platform"
-    excerpt: "In a context where the COVID pandemic has generated an unprecedented volume of evolving clinical guidelines and revealed vulnerabilities within information dissemination systems, medical knowledge startup Pathway Medical has announced it raised $1."
-    publishedDateTime: 2021-10-14T09:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pathway-raises-13-million-scale-its-ai-powered-/2021/10/14/9469457.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "I98/S98GUCcHeLZb+02SPTLnRd6kgCWovarHXSS4iTs76e/ZRmxsGdgolFqcjhoFZ3tiAsh/MEoJsSHlBQdvplMsTIAPEOZV6MruGDQN6B2Kci82ej4OYwek2LcN9FhaW1JrcyTBw9MQQrIdPf63c2ji5PVhbMmEsh7W7i02Ew4N4qSuvNgExdTtNgonsqxqjrWK8O4evPTH6ChTYhbgoZaGhnh97ii8RCBINWCv1rjeWL3bLvuE+4hyDMgwbe4QnqmLIClhPibJ8nB9AsuTOoUSQousXNqqduo997tQ7vXw2mDJ6/d0h4R7ZDpvh5v8DeCSYSCZeeELuT+w1BJTODX/YoaQrjOc0uE7wNTQ3IYfo7tm3jUnswABR8Dpt1wpv0btvef1xEFyx9cFzCOD7ALl6ZVKt+VA/bSahS+2wvcrSMIRhYSpKHu6AgI1EcsVwf3Ikh/XNXok/v8vMvpyy1iQPMS/wRfrxihNA9q5iNtULbhtOQyqH/aXpiT2kfrja4k+ocWGaiazektJp1XeNw==;9XoFXslCCk5m1TSDDShttA=="
 ---

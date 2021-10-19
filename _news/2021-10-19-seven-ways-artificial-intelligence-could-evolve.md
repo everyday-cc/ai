@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-18T23:41:00Z
 originalUrl: "https://siliconangle.com/2021/10/18/seven-ways-artificial-intelligence-evolve/"
 webUrl: "https://siliconangle.com/2021/10/18/seven-ways-artificial-intelligence-evolve/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/artificial-intelligence-3706562_1920-geralt-pixabay.jpeg"

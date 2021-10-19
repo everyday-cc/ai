@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligences-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 1168
     isCached: true
+
+related:
+  - title: "The people powering AI decisions"
+    excerpt: "Mary Gray, an anthropologist and co-author of the book, “Ghost Work: How to Stop Silicon Valley From Building a New Global Underclass,” explores the work and lives of the real people behind online processes that internet users may assume are purely algorithmic."
+    publishedDateTime: 2021-10-18T00:00:00Z
+    webUrl: "https://www.pri.org/stories/2021-10-18/people-powering-ai-decisions"
+    ampWebUrl: "https://www.pri.org/stories/2021-10-18/people-powering-ai-decisions?amp"
+    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-10-18/people-powering-ai-decisions?amp"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 57
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/10/ap20074626404581_cropped.jpg?itok=6tFynJnT"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "Fqi8vrED9mmAlPp9ToDziU/WSPAY1TAqeDJ8VDEWsetbst42sDQlx60ECA0hMU69N634jFE5XL1VDwQXBh2tw2cekzKiETA7zEP0q3Gun7ygPWBsSBEHo1oiIHnvsaDcKy27wZ1hOFSB1DvvNC6XOpZLgT3M/ltiQwLXDKaGaMNpGZIAfGi0365ro22NXWcJ5xsoW1pXI3BamrOyt7U2rlYs9Ub6ql4kBryFcP01HoNLqyPf+9XN3s/CsIrUkl9+dbNvaeXYHSQHvEK4Jha9LEwtuJ5C8cRwlOgiWsNFdCmAbf+hRerfNOAZnl5dhFvVtM8FEEB2GPBv3/8FzVCheBi7wWvAtLQ1+8zszrY6CotQUJlgSrIpDFI5RlY+OevuVF1x9TpuSkOy3mxBbmb1bgsISKozvNR2sYMn2oxltunD9mwxw6SjIpbHILTGwIQbw+DSYXcOW9/vzON2uGAqWiM0L+/uNKXopMWF6tWTJbQF6L0ep3cZQWY8O9BFTSYLf9yxPKCQCep20Lbu3z1jXQ==;408uIKSoB7HwWyYV2uRO5Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai
 webUrl: "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/artificial-intelligence-3706562_1920-geralt-pixabay.jpeg"
         width: 1028
