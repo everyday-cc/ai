@@ -7,7 +7,7 @@ originalUrl: "https://www.innovationaus.com/clear-the-funding-roadblock-aiia-urg
 webUrl: "https://www.innovationaus.com/clear-the-funding-roadblock-aiia-urges-on-artificial-intelligence/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Lydia AI Raises $8 Million in Series A+ Funding Round to Insure the Next Billion People"
+    excerpt: "Lydia AI, formerly known as Knowtions Research, has announced the closing of $8 million USD in a Series A+ funding round. Led by existing investor, Information Venture Partners, and with participation from new investors,"
+    publishedDateTime: 2021-10-19T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lydia-ai-raises-8-million-series-funding-round-/2021/10/19/9472516.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "eLWNAGwLcIrsxr802tVOv5tnX7gpwlo8y2LS1u6pnBr6KUPa61qvNobn4zucCuZ34iG4s96rX3g5NqUChvwly/5UPEeH55TfhmNSRWD3QZxGU7s0y6/HOl9nNQhO+cKkORvDT/6ed519p5D8X8RnbiMCRPQDxNQZbxn6vYoGjfhkDkz3sKKBLDei0Ii0BNZZBHv6iJUmkls4kucfFJTRkYmcBkMt95P82VSGsaDDPQ2W1t/YqqCKZ4FCd5orOD44kIWS4h11mM8xGmDEx6BuG/ScJ8eeHsGLHI0yQC7S0ceUvoWHaTni5wjjAEIV+gCF9Mh/mX56Wx/DmR5oe6EVKatJbLdIOpjV254g0IXaIeQ=;tEbidmrJEUeLOwAwqeLryw=="
 ---

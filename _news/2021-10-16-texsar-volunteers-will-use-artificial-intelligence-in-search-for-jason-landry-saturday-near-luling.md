@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "Jason Landry: Crews use artificial intelligence to help search for missing Texas State student"
-    excerpt: "After nearly 300 days, the father of the 21-year-old is questioning which outcome is more likely in the case of his son's disappearance."
-    publishedDateTime: 2021-10-14T21:17:00Z
-    webUrl: "https://abc13.com/jason-landry-missing-texas-state-student-luling-man-search-college/11126539/"
-    ampWebUrl: "https://abc13.com/amp/jason-landry-missing-texas-state-student-luling-man-search-college/11126539/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/jason-landry-missing-texas-state-student-luling-man-search-college/11126539/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 45
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/9525848_011021-ktrk-missing-texas-state-student-folo-ext-haldeman-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Jason Landry: Crews use artificial intelligence to help search for missing Texas State student"
     excerpt: "Another major search takes place Saturday since the last one in February, but this time search crews will be using newly derived maps."
     publishedDateTime: 2021-10-16T18:21:00Z
     webUrl: "https://abc13.com/jason-landry-missing-texas-state-student-luling-man-search-college/11133563/"

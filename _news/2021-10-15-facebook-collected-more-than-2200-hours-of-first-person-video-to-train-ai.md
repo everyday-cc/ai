@@ -3,18 +3,18 @@ category: news
 title: "Facebook collected more than 2,200 hours of first-person video to train AI"
 excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
 publishedDateTime: 2021-10-15T16:30:00Z
-originalUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+originalUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Facebook AI
@@ -147,22 +147,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Facebook is researching AR/VR AI systems that record your activities"
-    excerpt: "Facebook has been putting research into systems that will see, hear, and remember everyday activities and interactions on AR/VR devices."
-    publishedDateTime: 2021-10-14T21:05:00Z
-    webUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities"
-    ampWebUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/14/facebook-is-researching-arvr-ai-systems-that-record-your-activities_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
     excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
     publishedDateTime: 2021-10-18T00:26:00Z
@@ -182,7 +166,7 @@ related:
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
     publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=silvia-ascarelli"
     type: article
     provider:
       name: MarketWatch
@@ -390,6 +374,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "iawgkFZ6DIWbifkYvv+38HapLC5E/vYGxC/I60dF6Jch3VuyiS9nFXAYQiO0FC7Olb5Vj/nRntCKBzM1+bYrF/eqYWcN0hFyIhkI4wb2teX204DpCspsBBi3MuSaJXBDOALQ0rT9kRBC5+3aKlqX5tQHC8WmZMY8ptoT5fj/z0mHXW2lOhUqzul0L0iwUnFhHgbG2628OOWpqEUA0sTDNC8X4zE4I+c6BUXjQX3sc+zvV28ugOJ7G4P2x4Hx6imtXFO60vU5W69LVqxMXU2ZI96eN/b2n7h8p/12BP+xJY72aV+dSvzy7vIhij8w3EQ3LmXO+XDVj+X9iHfogvfc1RME4pELlAPctu7mnqyds/iz3i7zQJRtfBXqxCcFsIBEvsPcL15WoGh0Mwug5qmgRq80nT69MkQPsEIeQSmsyxZNlmRqOFiXToTvbeDrAxsQrd6JQ2ChECQAzk7/S+7CBzbdoB7wPf1GuUBWnqPAGKM42VWxCt528yqM2KOKcilPr+elBgeYU90ya/EUfAk0ZQ==;WC1hKdx12j+3S7cNZWsKdw=="
+secured: "Uuqo/GXYSTdEQEB1YiRZxVUb3GEITgr2tjn2R0P0U4KQsjl4fxo5C3hv3GQj5CvTpKbigXedLAwTwS+gkMGNwBSJytn7Ph1hMGCd9ZLe5UBXL+VDzNHzpRPbr7vXZlDZC1ms3DxKUTRcerCLlKk94+IX0qWdv43wTIo4F9Di9/xUFeVnWuQGiAYwgoJj3hB3CkqEFWpHBXRSEYCmnb2jAh2r+z4ufJU1Xr5XvA0Wrcv82u3AwYMYlBBGW0sO3HO+9SE08MwPT4piYx7jVOQ8BthlygJMPZGjVpSP8bCqT8UvnLolYiFXGDYV0Yq31srJuhRddvwQS3Sk81oGiFmmZOARHzShwzwA9ooIqooeG4IJe7VQRm4BMv3WotpJvu4lzmyIAqpa0d52sGDNk6ApgWi+RnR8osRBVNGNVIXe2YLPFfhcIPAe3Sj2o4CXkze3Hw50Cc+cS98IlUPjNmDqESev6h1Zch7g1yaKkujtk9/XZARQS8Hpoq35BgHyDE2sP6eCmJ5vm2a0xo8Q1K+FTA==;5TpOO/WOwWLqCJSJq32G0g=="
 ---
 

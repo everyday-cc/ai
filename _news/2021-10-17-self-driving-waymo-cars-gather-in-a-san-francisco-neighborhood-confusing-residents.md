@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
-    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
-    publishedDateTime: 2021-10-14T21:14:00Z
-    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
-    type: article
-    provider:
-      name: 512 Pixels
-      domain: 512pixels.net
-    quality: 39
-    images:
-      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Waymo self-driving cars bizarre behavior on a dead-end street"
     excerpt: "Waymo self-driving cars in San Francisco are behaving weirdly when it comes to a dead-end street named, Richmond dead-end street."
     publishedDateTime: 2021-10-16T02:19:00Z
@@ -158,36 +144,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/10/Waymos-autonomous-vehicles-keep-getting-stuck-in-a-dead-end-street-750x375-1.jpg"
         width: 750
         height: 375
-        isCached: true
-  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
-    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
-    publishedDateTime: 2021-10-14T22:12:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Streets of San Francisco stump Google self-driving cars"
-    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
-    publishedDateTime: 2021-10-14T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "d+aZ9bZfpvkuuw9jpzE3D+v4bT807TpoDFAOc/e9kKfAN3yQlUq6Tb2kFngzuz4xOOq+vBiUMFvLCR+vmgwe4bZ6oCMskIuDeEL7JcaOXikOO3PwgkDbgfqK9bW/CtbXWihappLWCc7vfIB8JjzFlAGEAUZ7YnNsOWIlPtaKMWB7J/Bm8XNMxnrrGeuplmhPbAcebJSQUTaoNMmZ7ZujH85QfFIEDzjaJvde15SudDTOhL3IGk2c6PyDi6U9gTvYNQZ1e06XZrxllwR/v49tfVvsP62v6x9qFGShDf+YUpE7TmUURVMC58yPxs/yLBQ1jfqQWV8VWqM0+1Q36CySFfz/bGEYD6k248El9J1AP9rKk8tBVMiL2DdEd6w9p0SAC5nN8/MNyLMXndLf/YHYnhUQop2fHCEtrpgORsBqU+VSqnHiC0RIwqQpHYgmqF9oLyXsJ7zKd2AGobvGmS/u5xxn+J0nX7gaMM8iBfGRk16svSOMq4ziG1C8YwZp/iTX11CRLarpjzyohxgGm9KzyQ==;6ClVyCgCFXweLoLBc6dPSg=="

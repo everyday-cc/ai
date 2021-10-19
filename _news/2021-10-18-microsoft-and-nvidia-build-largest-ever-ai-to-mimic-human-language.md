@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-bu
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
 type: article
 quality: 76
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
-    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
-    publishedDateTime: 2021-10-15T13:00:00Z
-    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
+  - title: "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams"
+    excerpt: "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft"
+    publishedDateTime: 2021-10-19T14:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970"
     type: article
     provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
     images:
-      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
-        width: 884
-        height: 637
-        isCached: true
-  - title: "Why NVIDIA GTC 2021 Is a Must-Attend AI Conference"
-    excerpt: "More than a quarter of a million developers, researchers, innovators, and creators are gearing up for the long-awaited #1 AI conference – NVIDIA GTC which is kick-starting on November 8, 2021."
-    publishedDateTime: 2021-10-19T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-nvidia-gtc-2021-is-a-must-attend-ai-conference/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/gtc21-fall-partner-media-registration-analytics-india-magazine-2240x1260-enIN-1937251.jpeg"
-        width: 2048
-        height: 1152
+      - url: "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "wVdnWUblQmEDqdlX28zgNbgBTwIMzA4Ftf6HZPF42pasds57icmwL7WE9a7SDU7n6XfiaUfcH2K7pDeh28teeprf8O+P/XErnN63l3IOw/N2Nw0N1rMSkIbtqHq2Yf6XbF4SKYJxiSBV/KMYiuzFQp2CYYNmdTXvQVSzYH7pkIHXE8mmvaruvp1Zt7rk0tr2XUVByqadOzxiIaEwLK9s0QYsHiOkSpbQ/6qVSNK/uWJZwDfT7mESaJPxOcesCFXoyhIYJ8N5+Bv6eYMy0YY+uZTucuDAPfkjR38zuhHfamuhJlG37nrXjpaJV0bj+yshLNTuT+lhhTNyZ8beGfzd9fum82r6VVWEajrDW0Z/WO8/TdJ/85LMQVBTsrvgvBMWa+ELIFPt/7BN8q9YcwnCwbN2dwECDnMtaAN1AUN79LrSHYmXNEZCw8YetJwG/PfFkxmmmG8PO79xH/sPGBMrusA/nx2Svg9CYdHI//iXHc2NGhAp1cmS/BtKzJrggM0l0zq2+kgrWDdg4Jcm2jaf5Q==;jysc2CxRy7UKihqyI0gk1Q=="

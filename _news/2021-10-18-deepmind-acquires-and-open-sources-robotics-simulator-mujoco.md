@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-source
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
 type: article
 quality: 121
-heat: 142
+heat: 141
 published: true
 
 provider:

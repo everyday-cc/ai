@@ -39,6 +39,20 @@ related:
         width: 752
         height: 451
         isCached: true
+  - title: "Amazon Is Deploying Self-Driving Vehicles for Tests in Seattle's Rain and Smog"
+    excerpt: "The trials see the company’s vehicles equipped with a safety driver to take control if needed take on the often rainy and smog-filled streets of Seattle."
+    publishedDateTime: 2021-10-19T15:45:00Z
+    webUrl: "https://interestingengineering.com/amazon-is-deploying-self-driving-vehicles-for-tests-in-seattles-rain-and-smog"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 35
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6PJ50bOx/sizes/zoox_md.jpg"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Apple Self-Driving Car Hits a Curb, Not as Tragic as It Sounds"
     excerpt: "Apple is believed to be working on its very own self-driving car, and while the company isn’t saying a single thing about this ambitious project, what everybody knows is the iPhone maker is currently testing autonomous driving technology with the help of a fleet already on American roads."
     publishedDateTime: 2021-10-16T20:40:00Z

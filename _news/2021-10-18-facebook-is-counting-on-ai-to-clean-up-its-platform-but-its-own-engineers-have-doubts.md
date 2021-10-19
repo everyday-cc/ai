@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=community-commons"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=silvia-ascarelli"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=silvia-ascarelli"
 type: article
 quality: 59
 heat: -1
@@ -153,22 +153,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Facebook is researching AR/VR AI systems that record your activities"
-    excerpt: "Facebook has been putting research into systems that will see, hear, and remember everyday activities and interactions on AR/VR devices."
-    publishedDateTime: 2021-10-14T21:05:00Z
-    webUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities"
-    ampWebUrl: "https://www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/127128/facebook-is-researching-ar-vr-ai-systems-that-record-your-activities?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/10/14/facebook-is-researching-arvr-ai-systems-that-record-your-activities_feature.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
     excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
@@ -323,13 +307,13 @@ related:
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 37
   - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
     excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
@@ -394,6 +378,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "DvITX0nPTm0kroUABViL1Om39UOc4j6n6PbGJtxT3dY0Ws4ap7hTIBNI8kNAP2PwfFQLhXsXaQ1HZUyM/CzfGXAscojxWwmB8R69a+XB7AMsVa6uZN/GUmEWO3BtnU/c5EuRKfKrRpufzIbJjK+OosiigpAdFNaSjVYaNTv+XayznZgJ8lbdgqYbGVj69sxvw49aGAuYJiZB/W/hsNivUpxMxqIZoD6qWlywUReuJYWKiAWqQ4fGZYJVAZ/Te+k90xrLhXwBQu2O1SEfJRYKt4ZHvtxSLyopzlFUgTQqvUjja1aMIEmIP2cWHMRjQiNi/jxBGL6O7HuCxAMyu4fjMs/8Uk3gP3NNzStg/MTJB9c=;yEoQM0GFenVFXZVRXcvywA=="
+secured: "4tYDKs+hqS5N/QUvhHTiaIBexqSebYOpGuwzLWx+d2t8kufQ6veU67BZwSnY9/05XG6d0JqFFCfMEBPFrDGkykBFbTxe4Ucym3sp+dxiK1ezylOP/bNeVYoOygwPfn2zuGOFnLXxwIMeFlSgogpIhK0gUNRUJsqbJsxDfc/eUACHoT+DTQuumJ4Z097iVldVbvc/IrUE/GqVP4dwjIE6He5CLd6wlDuzTuoVzIzTliRFlhL9NCRtRk92NUyK396H605nilPUiMBQyEAIyfZErtmRg9TKezM7UGnRUOKFIZLifyPzdtp57kk6BIMkeHQYcIcvcp/Ow7QlEkIJLz0Y1ITWY2xbDJyjtQMYzPy2/X0=;x3QxxKV/ww3uCQWSDCj4CQ=="
 ---
 

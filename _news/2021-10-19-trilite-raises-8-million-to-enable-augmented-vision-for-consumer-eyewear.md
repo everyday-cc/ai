@@ -1,29 +1,29 @@
 ---
 category: news
 title: "TriLite raises €8 million to enable augmented vision for consumer eyewear"
-excerpt: "TriLite’s ultra-compact projection displays for consumer AR and MR applications. The participants in the funding round included APEX Ventures, B&C Innovation Investments, Herman"
-publishedDateTime: 2021-10-19T13:22:00Z
-originalUrl: "https://www.valleynewslive.com/prnewswire/2021/10/19/trilite-raises-8-million-enable-augmented-vision-consumer-eyewear/"
-webUrl: "https://www.valleynewslive.com/prnewswire/2021/10/19/trilite-raises-8-million-enable-augmented-vision-consumer-eyewear/"
+excerpt: "TriLite, developer of the world's smallest projection display, announced today that it has raised €8 million in a new round of funding, enabling its customers to bring mass market augmented reality eyewear to the consumer market."
+publishedDateTime: 2021-10-19T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-trilite-raises-8-million-enable-augmented-vision-consumer-/2021/10/19/9472193.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-trilite-raises-8-million-enable-augmented-vision-consumer-/2021/10/19/9472193.htm"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Valley News Live
-  domain: valleynewslive.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-kvly-prod.cdn.arcpublishing.com/resizer/VOLzkWgpf5szfTl_6Ycf1DG6w24=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/KFDCH4DPBRQHOHMXP6XZMVPJVA.jpg"
-    width: 980
-    height: 520
+  - url: "https://mma.prnewswire.com/media/1662851/TriLite_Glasses_white.jpg"
+    width: 753
+    height: 400
     isCached: true
 
-secured: "yxc4ckG/7s0gEGsqlfFIiDcQhBSDDuPyZNDT7sMzkh1XaLHWfH2WTOkTbeK0ZcgM9i/LtB2ZSw097I8Kyl4D0h+cbw+5t1xQ+jECcsNmqesOmW40MbvUsev/tlrFE+SIYrhbf7bcWfEqC48shWgEfFMEyMgo1x5aO2I6sRdnGnrG4rhFbvYYg8THRkCTmX4xiHdPUMnOxNLrD/2miw89PLFnLdizp6Z5+WM2QmmTVb7dcMBmXiZEpgI6QYT9wvWwlMTuUyeAkQSrELQcwIirBlKhRcYvpMy1Y5WSv/Uo7QUFHvPfSvsjHQyPixdhDsTAM8rs8r4dSXYDMd6VaXrtfre5O7opFIbXJIPIcuGkU4E=;nJIuk5W7hV00uKmAjIaT4g=="
+secured: "QBzOkRQF9NZypRz7cUCFQbkD5tfukoN+baEKlZzRvwXF+JUQS3RYK3Zr8Spz9DFyO5E2wwfdszV6LZfdIPDpSdN2VFS4cV2SaWr7vNbsqMnPB8aw7GU6cnOcK0vYPBG6ngKTYg2QBq3aUVXFu2EVAtp/Ewl2eVvU+0wR1cjNrvr4ixZ8fRi533L28rllK4EBFVf2jwcrf2bNtHSGr9X4L+cNVeV2ddeRB/xDrIkot4jWJx9Hy10a+Lh8uK++QlQELr8j1juuZ8GcOoq8Phow310vsysDjW2YsFCMyMTXWkYWSOd0y7FuCZjVG6COVJbltPeHvotx+Ilk/V24dTHuQqL7xqUFX9lWJu8cRSe0LGc=;mFWbSwPfy6LOCQPg0+etWQ=="
 ---
 

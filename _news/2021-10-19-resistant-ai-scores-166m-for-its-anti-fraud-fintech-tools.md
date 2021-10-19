@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 111
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1WJXBaslrPqnLTM0fnbxZ0K+lngrX+6ngtea+ud+jrNZnMpPiUffx8BHcB/rz52Y2eKXJXZtlqzszVJg4krPIr1WaD+pVZ0r3NLhr+eTT8hnoNUpmtkvpG/ZuJ0QCbyaCg/Wu2E5jjekAyDpciI+AngoPiej0b3FqqRiaFTHP87NH3FKkXfSqWwYKb12GtQAc2GMDLj03Mq8alJKR7mLZl8v1MTG4QPGNMG464n7riMh2Y8tKhmfmjypvcDONGnpH11l8Qq4cy6UhbiS87UYZHiOqpwOsznsYc+ngiMKCr9mA9TRvGkVos7vbL1auj1ocUEVSQJVnAKRPdll/r3WH7M0dKJQxLNjJh6rWH7IbvA=;tyTNU5XOpGnYlkXTv/9U9A=="
+secured: "1L8V0RM9nn1u5j5dqMI550i0jtwR/53ObByrUFVsxKnGn0fd9c3kZzObGOd9+6b1M7tmHcJidnDQz32CnqU2YGUrlkLeHwD76q0iu3TNYAfOFH1lgzIP5eEXi9veY00igJXZt5+HXg+5QUW5Bs2jFr4K4NPy1rTj+qFTMRj1PsbVaB9MQp4dCiRHU3gfIOAs1CmV0xdvYqBGpX0W5JymE79cDBqDXBVEGq1iMI9T8sJd7J98g17lBqbC1+6z6S13p3qbjzVKGVxYop+dt2D5YO+9B8O9kLKFrJe51WoHFgFOIuedIi8EnG78Os2XPYHYDFQTJX6bE553wbJ0NLwkdtNcKNHphI+JTSsOINO1jqlPiaDGYgVUGqzwHMa3aQAiN5vn0kQFpy8QOyEKd0IKYj3LejpuJtCCSKEKfhT9Q0ICbem3BhYzNpA95yhk7OCqBy25OKPYTwWvBykMq/LyTIsJ3uMLv0+O4wgE2+kbpRatgMSdgAlp+EDx/WIRslrZHQsurR8BkbUZ7oNkRV9TXA==;lCju0q3XznCLM+vY6yC8qA=="
 ---
 

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Technology in healthcare: Trends that are trending"
+    excerpt: "Jatin Mahajan, MD, J Mitra & Company highlights tech trends in healthcare to watch out for. Technology has had a far-ranging impact on the healthcare industry in the past two deca"
+    publishedDateTime: 2021-10-19T14:23:00Z
+    webUrl: "https://www.expresshealthcare.in/news/technology-in-healthcare-trends-that-are-trending/431716/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/19201458/Jatin-Mahajan-is-the-MD-of-J-Mitra-.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "How Do People Feel About Facial Recognition Tools In Healthcare?"
     excerpt: "Facial image data and recognition tools have become a nearly ubiquitous part of our society: we use it to unlock smartphones. Governments use them for law | Technology"
     publishedDateTime: 2021-10-17T16:00:00Z
@@ -39,15 +55,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 56
-  - title: "Many US adults worry about facial image data in healthcare settings"
-    excerpt: "Uses of facial images and facial recognition technologies -- to unlock a phone or in airport security -- are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
-    publishedDateTime: 2021-10-14T21:35:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211014141836.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
 
 secured: "lwv2VLDflZzSpKaV5vqThzOCIpcLIAWcDz54NGQd0MfNbH8MtvVFpM+LeMdb+JAPEGQ9p6eCrX+hvzhv1zBle1+gJ22yJbWdTXLUEiDJhKc/TtisMrP3UQC+JGL1a5a6qsx3G3tcl2MdZReL2pdId4/PG0Q5PDKhqRHvjazUacp+j2AnH819PVzwqu2zKMeni4b1tNAHw1yXi/VnR1VhjXP7t0Q4qtVoM5bkGhqmumdzB0EXXb5NshYWQyBkrDOESN1kLVKY+yKPpRJHnHcuSFb2CS7/nWDWkfqZBS7bIzyTIK719YlIYFI/KDOCT3AjDx22BJPmQZKvpcxILo34eSUIwoUBXbrDy9+LQ+HmnrWJ3MCH1hRurGHS7x2u7UqPoujgDhKPVFDhpDKqNdEvMAC8lHmPLY5Aaw0FlN5x5bsJbAb+f7aVei7SQ17vNEH7S8cuJFz6XxNRWskb+h+kmvMowPpSonVsSF517zZr/YarOFzZ1gN65RXLNL/eRTeW6rovNLZ6tnNIOP2I0zFPMw==;s4u4FNHQnE+6vKRdnDo//Q=="
 ---

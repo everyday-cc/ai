@@ -134,20 +134,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Dubbing movies and TV is the next frontier for machine learning and AI"
-    excerpt: "Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way."
-    publishedDateTime: 2021-10-14T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/10/14/dubbing-film-ai-innovations/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSAD5MBH3AI6ZBZZLS3KXIYKGA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "How AI Will Affect The Future Of Work"
     excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
     publishedDateTime: 2021-10-18T15:42:00Z
@@ -218,6 +204,48 @@ related:
         width: 848
         height: 565
         isCached: true
+  - title: "Preparing for a Future Pandemic with Artificial Intelligence"
+    excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
+    publishedDateTime: 2021-10-19T15:29:00Z
+    webUrl: "https://globalbiodefense.com/2021/10/19/preparing-for-a-future-pandemic-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Global Biodefense
+      domain: globalbiodefense.com
+    quality: 37
+    images:
+      - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
+    excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."
+    publishedDateTime: 2021-10-19T15:07:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2021/10/19/450356-how-ai-shaping-future-the-stock-market-investment.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-oct/5967214946-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
+    excerpt: "The article continued: \"As for Esports betting, this works much like sports gambling. You can visit an online betting site, select the esports category, and browse the available lines. Common wagers include moneylines,"
+    publishedDateTime: 2021-10-19T14:43:00Z
+    webUrl: "https://menafn.com/1102997126/What-Does-The-Future-Hold-For-Artificial-Intelligence-And-Technology-including-Esports-Betting"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?952285"
+        width: 373
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Worth Observing Growth | Flutura Business Solutions, LivNSense Technologies, Universal Robots"
     excerpt: "The latest edition released on ‘Artificial Intelligence in Indian Manufacturing Market’ by HTF MI is an ideal representation of ongoing market scenario and business strategies that market players are taking to gain competitive edge."
     publishedDateTime: 2021-10-18T06:33:00Z
@@ -241,15 +269,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "What Does The Future Hold For Artificial Intelligence And Technology including Esports Betting"
-    excerpt: "You simply cannot watch television today, without seeing multiple commercials for an eSports betting provider… in fact, it more like you"
-    publishedDateTime: 2021-10-19T13:45:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/what-does-the-future-hold-for-artificial-intelligence-and-technology-including-esports-betting-871410054.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 7
 
 secured: "yFe4B+3Xz7Q+peLjFyKwdwT7XigF6KN/vhuvY4iB/bbsUwoOxqTaVN+dN2dCPnJ0p5mIruTaNW+VlVUzhK3o5qzzWhQ1Z2zpXKCox+aNNM1qEauLFhqZ6giDvn5oKRJNWSWbsF0by7eYjOkAdqWDPB4pS+a/9YQ1nDPMRmXNGl+s+pdcteV5VrlMZjkyTiSwhg0ISL8qF0nIlktUiuBlU4xX+hY4R/ePF7KsiXtGBhS4XcaTfROH+U5uUrP5XoNC6QLbPWsSwOZLn6OIJSC6V/x7PGar5WOwjNmX5Zmm3LMH3fvmbfvNNE6kcA+MWujShBVLWZ2qjaxH3H2yqPuLBrgx6Tz+mKuHE9dnjX0Crw9v1Bpm/IbsmKymYcmmE9dcvZvgs9Ln5NpN6C2Tsl0NxYlAWT4itYYyQJAS7sKojMDDMzlwYUPOs2ao0tZpGdIOB90CYreO80+vTCTIrsnN0TsgfLVbaCphYN+DdKo3KPnKOCqb3roiUPYY/NR7hgYd3t3ihLGOlZTQRLIACKSCEw==;G3T2cT8JDnMjFd9bM+pyxQ=="
 ---

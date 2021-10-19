@@ -9,8 +9,8 @@ ampWebUrl: "https://www.labroots.com/trending/technology/21500/people-feel-facia
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21500/people-feel-facial-recognition-tools-healthcare/amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Labroots
@@ -22,15 +22,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Many US adults worry about facial image data in healthcare settings"
-    excerpt: "Uses of facial images and facial recognition technologies -- to unlock a phone or in airport security -- are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
-    publishedDateTime: 2021-10-14T21:35:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/10/211014141836.htm"
+  - title: "Technology in healthcare: Trends that are trending"
+    excerpt: "Jatin Mahajan, MD, J Mitra & Company highlights tech trends in healthcare to watch out for. Technology has had a far-ranging impact on the healthcare industry in the past two deca"
+    publishedDateTime: 2021-10-19T14:23:00Z
+    webUrl: "https://www.expresshealthcare.in/news/technology-in-healthcare-trends-that-are-trending/431716/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/19201458/Jatin-Mahajan-is-the-MD-of-J-Mitra-.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Today in Healthcare: UHC and Walgreens Make Digital Advancements, U.K. HC Records at Heart of Lawsuit"
     excerpt: "Today in healthcare, DeepMind gets hit with class-action lawsuit by U.K. patients. Plus, Walgreens rolls out a healthcare-focused business segment."
     publishedDateTime: 2021-10-15T18:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -113,6 +113,34 @@ related:
       name: Analytics Insight
       domain: analyticsinsight.net
     quality: 29
+  - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
+    excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
+    publishedDateTime: 2021-10-19T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/potential-of-artificial-intelligence-replacing-animal-testing-in-the-future/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 26
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Potential-of-Artificial-Intelligence-Replacing-Animal-Testing-in-the-Future.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens."
+    excerpt: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens. Demonstrating that artificial intelligence can be used in a dazzling number of ways, across virtually every industry sector."
+    publishedDateTime: 2021-10-19T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/sift-a-pioneer-of-digital-trust-and-safety/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 23
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "JuuwqR+oEfMoZLLweR5QtntawjcQdewVsYctJ7XOlEeg7/6e1WXYokWLv93qq+Rue1AGVBK+pgNolswPhwCXXUxAWijuDXHseNMpGL4K3TLN9qSxo2e4mW+8Hl3qODHqCZ6ZGgFIulaQm+C34MBwNUnW46cJC3On6y2y9ilJJvkTCpLwlRQhfRHjlQRJzqqSXLZ5P9asZfZzZ9SM6b4KBJXLz4fY4CAplT2MPsFpsjo34rSPcZ/Dqlo9BIADhyeo95j5MyjK5aizxaXVrZPG9N0q964ncKStvW0fvPClFW4sOySJCTWnWsTNWHxvgDWyzfZiAdsGDWxQY3CUmbMcAnCwYS6Ia2ESuiz7OFgIz6Hfak2zGmZehTQXTOaruBNOvU+3WDvb9KbQwwf4aJkOs5uQzBB5HpaCGMldUZWKIecO/pXKms05l/yFIXMyfm7CtrSPc80Ktw0LMCzuqh9hZHK6TRLs6rxSSC+96bcVhmffsDSMJwtbuxo7hRDpdiEWqdb6PjIvXQWMIDMsNu6GzQ==;VKXyYz32jEG7t9G4+iUxyg=="
 ---

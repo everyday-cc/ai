@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Attention-based deep neural network increases detection capability in sonar systems"
-excerpt: "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,"
-publishedDateTime: 2021-10-12T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/931330"
-webUrl: "https://www.eurekalert.org/news-releases/931330"
+excerpt: "In underwater acoustics, deep learning is gaining traction in improving sonar systems to detect ships and submarines in distress or in restricted waters. However, noise interference from the complex marine environment becomes a challenge when attempting to detect targeted ship-radiated sounds."
+publishedDateTime: 2021-10-12T16:33:00Z
+originalUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+webUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-attention-based-deep-neural-network-capability.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/attention-based-deep-n.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "qMslRknqO9WSDUcGWofhCh/XmqOHzIzt5dKnovM0hie2zr+MLIVUe3KcHdYmt6rx8/aLH8scr9lFmsBvdCF+NYOZEddkdo3GWBrfUSlwVn+IX+i2990Ps9D3R2tkFY5pr7Y7HsgITmjgvwMh5q6gFSzXtUpCCz7PHYzb6ouPKw0eIEtqLXuYzmvEJoqQ8Z5enhi6rardVwehOBhrJVup7P7t5vAz1rd2qX9iHE9cf60xQbjn09nJhEixiVwuBiPm3gi3q65O4gBCdJrqyYvhH8TsMeucn7jvRKwxMMMVJ9vkgYccxlOjrT8zukcpe7594D+xAySFmSCf2EcmDmaPnvmdSJcd4A6Ni0stKd8KAAiH1Yl/IJe2d4XKQtxaZZVn5qukbDCDzUoqwR2etwY6hhXPo7ZLVzeM66XZVeudCE8utOyqoGsFrto7ru0Lpyg7wlbK9oa4CByTdwrobPZ24I2o7SsCLPcDwYH3XhnJnhvleXg8NlrMYbirJDS5lAp2BerHazuJ3ytZe915FKXGhg==;sjH4zITWh+jZyy5HxRd42Q=="
+secured: "LSVmE3RrU7TBN37xvsAaXaE/phMTHvVaZ+mFpsh0NiWgG9DfeALfL32pUWuJFM6VsmxlOjzz2ObTvQ+4e1+vwdbgiVnIwzgE2pryaSkBjHYj6ukUcuEk3uC5UmgW4MCGHeNri3015hEsFiSIHcOkl26RRxBU8r3wYldPuj3tgLTqZTjVQkbmm79raxSyzdO5wwX6aUtQOEF8xE+n6MHIhr3BDeuiwPUIJpywH2qIc7hNQsefyPYhK4hjhKXf1hQX8exak/NXalL1wiKwEAUvtLCQzdEnCz6FO559tDE6UUdW8bun/sFKaOcrT3l32tFrq1miUNFZDpi84MIC1kOBVAF4nr7rnzUR9H5iSRsCPZE=;8TTulvEOYqZ0oMbBbewyqg=="
 ---
 

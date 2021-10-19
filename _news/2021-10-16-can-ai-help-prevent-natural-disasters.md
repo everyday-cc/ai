@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 749
     isCached: true
-
-related:
-  - title: "Could Artificial Intelligence Prevent Future Wars?"
-    excerpt: "The success of several countries in replacing judges with AI is causing some to think that conflict resolution can be brought to the battlefield."
-    publishedDateTime: 2021-10-14T22:00:00Z
-    webUrl: "https://www.brinknews.com/could-artificial-intelligence-prevent-future-wars/"
-    type: article
-    provider:
-      name: Brink – The Edge of Risk
-      domain: brinknews.com
-    quality: 37
-    images:
-      - url: "https://www.brinknews.com/wp-content/uploads/2021/10/GettyImages-169285046.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "ZTgPZ8W3JMgLkslsvaZE0H5MYZjxQtEdwLmuZyxP8bDqEJcCoE+NhbiisdQmaaHT4+Yw5bBVr+7bmmPtX7DyYZB1cs8vqK81Be1GKbvQrO4LLIW9UuyiuCJBR/sExKNi/mhunGaG0bHWFbo6fYBIWes3rdtVmDcYlwdLRx4n6uhzkUR93TPHeEEN0Bj2bk+7d/HnMhI3IHaajX4J2PAzQRG23SQFCUHB7S7o6TTzWedi8DwBVmYM8CpYSKHyo4mHS0PrTvLDVq8SsqV0lLtKUy93D+AfjcRESod3Nq/0+r+m4/e3YAUkhe/yF/OLxvtCWjeecvPm+cssUmIBVbQodE91ZSdEbvc0ph5SUXKYPPXVgIeBawyClQVl+hUff12YIG2XyiQzVq1bM9fkAbAREhRAAyp0gQiu7F9CBfdZ4zkNNocjcCI6k61Ty5VBfYDJodat/dyrVTThOfvUwsYT1kj//SD2+k1fzIWdQrVh64//9ZK8WwdJd33MiQAhd6aHgOfDB/PpNix3Sou6ZAfLfg==;OZre/BJOyB9IhWdMiOMh8g=="
 ---

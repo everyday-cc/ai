@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-high
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
 type: article
 quality: 64
-heat: 84
+heat: 75
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
-    excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
-    publishedDateTime: 2021-10-14T21:37:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/q3-s-biggest-healthcare-deals-mrna-digital-care-and-cybersecurity.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/3.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Resecurity® Demonstrated AI-powered Cybersecurity Platform at GSX 2021"
     excerpt: "Resecurity®, a Los Angeles-based cybersecurity company, today announced the unveiling of their new cyber risk management solutions at the Global Security Exchange (GSX) 2021 conference in Orlando, Florida."
     publishedDateTime: 2021-10-18T23:57:00Z

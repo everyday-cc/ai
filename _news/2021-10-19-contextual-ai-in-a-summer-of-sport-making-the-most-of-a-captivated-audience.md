@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Report: 80% of consumers prefer to speak with AI to avoid long hold times"
-    excerpt: "The survey also found that 91% of consumers reported that they've experienced poor customer service in the past six months."
-    publishedDateTime: 2021-10-14T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times/"
-    ampWebUrl: "https://venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/14/report-80-of-consumers-prefer-to-speak-with-ai-to-avoid-long-hold-times/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/chatbot_iq80hc.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Q2VgG9ewAlN235EQ9vZ/fw6a63gWj78BZ4KYcM/Qz033l0M9iO2PITLQaX5nfVHNjLdWwzcnl+BKKoNEAujBIannJzJ34XS9leQf+4mE6gyIMApc/PgUcfYzvMILcIk2L2wUzEWEcZ9ZZOVHWbDvxP2HqRgD5qRuhb1Jt5pqMnOzygT/7GYy6G8Ut+OPRrP0lDQndS+5IiNSJZg/fjBcIeaTQM9lOTvjcKqpo4SctuozgAv0Uv13VNlxwkXdx+mH2uWFJPXy2TpV1cn1KTjayE7HRSBpqLNIv9EStl74cCSzh4mszgolVlvoq4D98oMvpPV1qveFUEz/bgJuKpj6tAIJ7Owc5fVtZJLtoMwkOVgrJYFDf+Awix9kCi9q2mna15OoEH/jH1GWWCaBCAx0vK9hKzr/K9G7Lckrkwked0ozXedY0+4ht8MJg6XeUTBbG3gfT4ON/0TIQ4u3F2E/iFX/p41mFVKJr/pe/MpFtH7rMFZTeUCvzo6V5RxFzcVKgd7Vuc6XytGbec2Yo7+iUA==;vYAvF2V85+hoZWsFTiPmyA=="
 ---

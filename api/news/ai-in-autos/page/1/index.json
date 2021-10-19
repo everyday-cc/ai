@@ -10,7 +10,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -352,15 +352,15 @@
       "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
       "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
       "sourceUrl": null,
-      "webUrl": "https://www.wtva.com/content/national/575511382.html",
-      "originalUrl": "https://www.wtva.com/content/national/575511382.html",
+      "webUrl": "https://www.actionnewsnow.com/content/national/575511382.html",
+      "originalUrl": "https://www.actionnewsnow.com/content/national/575511382.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://media.heartlandtv.com/designimages/WTVA_640x380.png",
+          "url": "http://media.heartlandtv.com/designimages/Story+Default.jpg",
           "width": 640,
           "height": 380,
           "title": null,
@@ -370,13 +370,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "http://www.wtva.com/templates/AMP?contentID=575511382",
-      "cdnAmpWebUrl": "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382",
-      "publishedDateTime": "2021-10-12T13:10:00-07:00",
+      "ampWebUrl": "http://www.actionnewsnow.com/templates/AMP?contentID=575511382",
+      "cdnAmpWebUrl": "https://www-actionnewsnow-com.cdn.ampproject.org/c/www.actionnewsnow.com/templates/AMP?contentID=575511382",
+      "publishedDateTime": "2021-10-12T12:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTVA",
-        "domain": "wtva.com",
+        "name": "Action News Now",
+        "domain": "actionnewsnow.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-thi
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp"
 type: article
 quality: 89
-heat: 199
+heat: 169
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616bbb9863b1257e1ea1f91f%2F0x0.jpg%3FcropX1%3D248%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1549"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Waymo’s Self-Driving Cars Are Just Super Into This Street"
-    excerpt: "City traffic can get pretty congested, but hardly anyone would expect an endless stream of self-driving cars flocking to one quiet residential street. Except, that’s what’s happening to one dead-end street in San Francisco,"
-    publishedDateTime: 2021-10-14T21:14:00Z
-    webUrl: "https://512pixels.net/2021/10/waymos-self-driving-cars-are-just-super-into-this-street/"
-    type: article
-    provider:
-      name: 512 Pixels
-      domain: 512pixels.net
-    quality: 39
-    images:
-      - url: "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Waymo self-driving cars bizarre behavior on a dead-end street"
     excerpt: "Waymo self-driving cars in San Francisco are behaving weirdly when it comes to a dead-end street named, Richmond dead-end street."
@@ -162,36 +148,6 @@ related:
       - url: "https://wgbh.brightspotcdn.com/dims4/default/9d9d76e/2147483647/strip/true/crop/1024x633+0+0/resize/1024x633!/quality/70/?url=https%3A%2F%2Fwgbh-brightspot.s3.amazonaws.com%2Fc7%2Fa2%2F7639a61b4d92b58650a0d049a153%2Fgettyimages-631235572.jpg"
         width: 1024
         height: 633
-        isCached: true
-  - title: "Self-driving cars keep turning down a dead-end San Francisco street. Neighbors say they come \"every 5 minutes.\""
-    excerpt: "Waymo said the city's Safe Streets initiative means that's the only place cars headed north on the residential street can turn around."
-    publishedDateTime: 2021-10-14T22:12:00Z
-    webUrl: "https://www.cbsnews.com/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/waymo-self-driving-cars-san-francisco-dead-end-street/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 24
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/14/b4f16729-7307-4821-afd3-9390c3d36bf5/thumbnail/1200x630/fdd529a9912c25ba80000b5aa4e95107/1014-cbsnewspath-cars-815700-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Streets of San Francisco stump Google self-driving cars"
-    excerpt: "Woken in the dead of night by a curious humming sound, Jennifer King believed that a spacecraft was hovering outside her house on a dead-end street in San Francisco"
-    publishedDateTime: 2021-10-14T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/streets-san-francisco-stump-google-self-driving-cars-z9t6x2k0f"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb9c51a02-2cf9-11ec-a548-f9bb1ebf6985.jpg?crop=6720%2C3780%2C0%2C350&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "qXNLd7x4JlEkHWjO9sFUUSfJzNH4nxEINZ8obSIm6yiJoSUCNUxJuTimv9xLPbotd1fxoFOvXNFj0ZchlxGwiPOPDVud/7EYEacu16z9kC2Kb5HdfkaW6DxC8lE0ldppi/yocnFT2v+KRq+1dAXcjXA84pOI2rru4N6Xt4bhlbWtg6Toy0J3Kolk3ukQs+ZlSQUD0tO8zaPntKTwdqcXiPVXh1YDzIHfYFG+b/ThumQ/hL1akxITHIs8Hv0KWeO3qe0vbDsHLne0/YJEEubIqAiI8GqEZBiN9moqmCqmFT8VCb1fH05PxbeXoq1uUhQR6GLjbL6rRQiBjqABksmVkoKZFqvKi/YQjQj8ZDEZL+06rPtYzTXuMeajloP7ERAvZkHQ4J0JH/zu2/t3Srxulml9+VeGiK5qPu3UgJYM8mxlYGjP5PzkqmtH1lPPnftA6LVxYuPEZ0Ly20PS9PhVnnmhU5IyU08XvC+cO/EyEh8XXq/Ovt5TtL1a5V6FLs95dHhVXvx0/PMXYq2HC2nZ9w==;sjkrMLIIDE9EuSQGWWPRdw=="

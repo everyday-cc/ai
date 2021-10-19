@@ -114,6 +114,34 @@ related:
       name: Analytics Insight
       domain: analyticsinsight.net
     quality: 29
+  - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
+    excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
+    publishedDateTime: 2021-10-19T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/potential-of-artificial-intelligence-replacing-animal-testing-in-the-future/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 26
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Potential-of-Artificial-Intelligence-Replacing-Animal-Testing-in-the-Future.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens."
+    excerpt: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens. Demonstrating that artificial intelligence can be used in a dazzling number of ways, across virtually every industry sector."
+    publishedDateTime: 2021-10-19T14:30:00Z
+    webUrl: "https://www.analyticsinsight.net/sift-a-pioneer-of-digital-trust-and-safety/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 23
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "p7uF+jiJJRNiavktSZTB6PRBVTRn7L92x9Tr+esWiFzDhB4KvNF14muUhcbbJUHXZ6j64X4YmS0disHftxUaNrDvTObMZetYl1SD0mtXvldTDe2hBW9IM4He3jYiqOETnaN0wCZ9+uyzmyRzf0jU2dwNgUSgsrav5NkzcsrAMWZodx3s8zK6OWz9o9TkeTlSRg0lCIYZIQ5rwbhm/mxkg3qQUj1fHPj3Rp10gVza7diaDpKU3ccBQftsafNk0M4VuSc0EFgOC/I5Un+40fQZqaOpnp7aw/8ZJQqtIAxwrUngGApw27GLcOWvpEhSeQrdT8mv10zJal35pF2rH0LcU5yh7h7+ZuXSm2RZIWd/wUk=;bXtlZvzPuLBzAxQUu8P+cQ=="
 ---

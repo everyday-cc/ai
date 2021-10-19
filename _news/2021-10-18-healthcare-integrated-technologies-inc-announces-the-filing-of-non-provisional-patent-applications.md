@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ancora Software Announces the Filing of a US Patent on the Application of Machine Learning in Data Capture for Commercial Documents"
+    excerpt: "Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the filing of a U.S. patent application for the way its ancoraDocs"
+    publishedDateTime: 2021-10-19T15:06:00Z
+    webUrl: "https://www.lelezard.com/en/news-20054240.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 9
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
     excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
     publishedDateTime: 2021-10-18T13:42:00Z

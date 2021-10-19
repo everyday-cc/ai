@@ -131,6 +131,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK"
+    excerpt: "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve"
+    publishedDateTime: 2021-10-19T14:03:00Z
+    webUrl: "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
+    ampWebUrl: "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 59
+    images:
+      - url: "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Schools in Scotland start using facial recognition on children paying for lunch"
     excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
     publishedDateTime: 2021-10-18T10:29:00Z
