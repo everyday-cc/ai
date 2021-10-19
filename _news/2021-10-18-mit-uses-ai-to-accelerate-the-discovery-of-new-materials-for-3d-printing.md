@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Uses Artificial Intelligence To Automate 3D Printing Materials Discovery Process"
+    excerpt: "Artificial Intelligence, and more specifically, machine learning, is finding its way through various applications in the additive manufacturing industry. This time, researchers from MIT have applied the data-driven nature of machine learning to automate the process of discovering new 3D printing materials."
+    publishedDateTime: 2021-10-19T00:01:00Z
+    webUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/"
+    ampWebUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
+    cdnAmpWebUrl: "https://www-3dnatives-com.cdn.ampproject.org/c/s/www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
+    type: article
+    provider:
+      name: 3dnatives.com
+      domain: 3dnatives.com
+    quality: 50
+    images:
+      - url: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2021/10/3Dnatives-cover-picture-850x500-2.png"
+        width: 850
+        height: 500
+        isCached: true
   - title: "Machine-learning system accelerates discovery of new materials for 3D printing"
     excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for very specific uses."
     publishedDateTime: 2021-10-15T18:00:00Z

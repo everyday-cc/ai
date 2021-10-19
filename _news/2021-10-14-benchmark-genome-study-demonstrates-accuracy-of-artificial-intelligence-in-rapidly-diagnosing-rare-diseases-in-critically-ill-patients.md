@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence-based technology quickly identifies genetic causes of serious disease"
-    excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics,"
-    publishedDateTime: 2021-10-14T07:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-based-technology-quickly-genetic.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-40.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Artificial Intelligence-Based Technology Quickly Identifies Genetic Causes of Serious Disease"
     excerpt: "An artificial intelligence (AI)-based technology rapidly diagnoses rare disorders in critically ill children with high accuracy, according to a report by scientists from University of Utah Health and Fabric Genomics."
     publishedDateTime: 2021-10-14T21:17:00Z

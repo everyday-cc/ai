@@ -62,6 +62,20 @@ related:
         width: 800
         height: 490
         isCached: true
+  - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
+    excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
+    publishedDateTime: 2021-10-18T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/full-stack-ai-market-size-share-2021-global-industry-analysis-development-revenue-future-growth-business-prospects-and-forecast-to-2026-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Agricultural Robots Market Expecting Potential Growth with Emerging Trends and Business Development Strategy Key Players 2021-2030"
     excerpt: "The Global Agricultural Robots Market size valued to USD 6 16 billion in 2019 is expected to garner USD 35 25 billion by 2030 with a growing CAGR of 19 3 from 2020 2030 Agricultural Robots also known as Agribots"
     publishedDateTime: 2021-10-15T03:26:00Z

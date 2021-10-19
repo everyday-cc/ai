@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Gartner survey of CIOs highlights investments in AI, cloud and cybersecurity"
+    excerpt: "A new survey from Gartner found that a majority of CIOs are focusing their investments this year and next year on AI and distributed cloud technology. The 2022 CIO and Technology Executive Survey features data gleaned from 2,"
+    publishedDateTime: 2021-10-18T21:11:00Z
+    webUrl: "https://www.zdnet.com/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Q3's biggest healthcare deals: mRNA, digital care and cybersecurity"
     excerpt: "The biggest healthcare deals in the third quarter of 2021 were for companies focused on mRNA drug discovery, digital care and cybersecurity, according to CB Insights' third-quarter venture capital report."
     publishedDateTime: 2021-10-14T21:37:00Z

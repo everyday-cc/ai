@@ -28,61 +28,75 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Valuations and Expected Future Returns by 2027"
-    excerpt: "Portland United States Global Deep Learning Market gives comprehensive research offering detailed regional analysis and growth outlook The Deep Learning market forecast 2021 2027 report highlight the economy past and emerging trend of industry and availability of basic resources This"
-    publishedDateTime: 2021-10-14T07:07:00Z
-    webUrl: "https://www.openpr.com/news/2428600/deep-learning-market-valuations-and-expected-future-returns"
-    ampWebUrl: "https://www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2428600/deep-learning-market-valuations-and-expected-future-returns"
+  - title: "Artificial Intelligence (AI) Bots Market Trends, Top Manufactures, Industry Growth Analysis and Forecast 2030"
+    excerpt: "The Global Artificial Intelligence AI Bots Market size was estimated to be USD 2 77 billion in 2019 and is predicted to reach USD 177 41 billion by 2030 with a CAGR of 47 2 from 2020 2030 Chatbot are"
+    publishedDateTime: 2021-10-14T14:36:00Z
+    webUrl: "https://www.openpr.com/news/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    ampWebUrl: "https://www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429435/artificial-intelligence-ai-bots-market-trends-top"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 59
+    quality: 55
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua14260801_g.jpg"
-        width: 761
+      - url: "https://cdn.openpr.com/U/a/Ua14817079_g.jpg"
+        width: 800
         height: 400
         isCached: true
-  - title: "Machine Learning Courses Market Innovative Strategy by 2028 | EdX, Ivy Professional School, NobleProg"
-    excerpt: "Los Angeles, United States, North America including Q1-2021 analysis The report named, Global Machine Learning Courses Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Machine Learning Courses in view of numerous aspects such as growth factors,"
-    publishedDateTime: 2021-10-14T18:54:00Z
-    webUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/"
-    ampWebUrl: "https://manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-learning-courses-market-innovative-strategy-by-2028-edx-ivy-professional-school-nobleprog/?amp=1"
+  - title: "Artificial Intelligence (AI) in BFSI Market set for explosive growth"
+    excerpt: "Latest Market Research on “Artificial Intelligence (AI) in BFSI Market” is now released to provide hidden gems performance analysis in recent years and years to come. The study explains a detailed overview of market dynamics,"
+    publishedDateTime: 2021-10-17T09:07:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-bfsi-market-set-explosive-growth-vasavada"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 44
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Meat-Free-Foods-Market-300x220.jpg"
-        width: 300
-        height: 220
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH232T5m6_NvQ/article-cover_image-shrink_600_2000/0/1634461586575?e=1640217600&v=beta&t=-u-NfvUe2UY_NKLYdRKpl9Cm4pC3bfpmbLUY9XOqjvU"
+        width: 537
+        height: 358
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Evaluation, Competition Tracking, And Regional Analysis 2027"
-    excerpt: "(MENAFN- America News Hour) The report titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ..."
-    publishedDateTime: 2021-10-14T11:44:00Z
-    webUrl: "https://menafn.com/1102970000/Artificial-Intelligence-In-Healthcare-Market-Evaluation-Competition-Tracking-And-Regional-Analysis-2027"
+  - title: "Artificial Intelligence (AI) Chip Market by Global Outlook 2021 - Advanced Micro Devices, Inc., IBM Corporation, Micron technology, Inc."
+    excerpt: "The Global Artificial Intelligence AI Chip Market size was valued to USD 9 29 billion in 2019 and it will elevate to USD 253 30 billion by 2030 with a CAGR of 35 0 from 2020 2030 Artificial Intelligence Chips"
+    publishedDateTime: 2021-10-15T03:21:00Z
+    webUrl: "https://www.openpr.com/news/2429680/artificial-intelligence-ai-chip-market-by-global-outlook-2021"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?520562"
-        width: 450
-        height: 249
+      - url: "https://cdn.openpr.com/U/a/Ua15148612_g.jpg"
+        width: 800
+        height: 490
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027"
-    excerpt: "Global Artificial Intelligence in Drug Discovery Market is expected to reach the market valuation of US$ 6,996.8 million by 2027 expanding at a significant CAGR of 42.2% during the"
-    publishedDateTime: 2021-10-16T07:03:00Z
-    webUrl: "https://www.wboc.com/story/44974027/artificial-intelligence-in-drug-discovery-market-is-expected-to-reach-the-market-valuation-of-us-69968-million-by-2027"
+  - title: "Agricultural Robots Market Expecting Potential Growth with Emerging Trends and Business Development Strategy Key Players 2021-2030"
+    excerpt: "The Global Agricultural Robots Market size valued to USD 6 16 billion in 2019 is expected to garner USD 35 25 billion by 2030 with a growing CAGR of 19 3 from 2020 2030 Agricultural Robots also known as Agribots"
+    publishedDateTime: 2021-10-15T03:26:00Z
+    webUrl: "https://www.openpr.com/news/2429683/agricultural-robots-market-expecting-potential-growth-with"
+    ampWebUrl: "https://www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2429683/agricultural-robots-market-expecting-potential-growth-with"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua15235900_g.jpg"
+        width: 640
+        height: 410
+        isCached: true
+  - title: "Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027 report by QYResearch Group. Artificial Intelligence (AI) Speakers market is segmented by region (country),"
+    publishedDateTime: 2021-10-16T11:51:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4968078-global-and-japan-artificial-intelligence-ai-speakers-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 23
 
 secured: "NiLOs3yzY8xuPNX+EY9Iutt0Z/o1gU36riG9G5UVddQR/U9GJGH1EVmzyqCAgOAu6Ns+h7ieSzStjQvkvmAyOK61dcFs0u7GwHAWdSb49boftJ79EoyBKYKWeWsItm3vF4momb9rkv/mw2H7wIgmjmqyURsQp+TeecS1AaHdiqSgZpEB4pNfLgbl5Sc4OHFjyexzYDV9t/0JuUat8yf2fq/UxIyKyUzJb0yoTFjiqngX2srjJBP0ngeTGZR+W2/gbE2HdVw6o/kGCCMO/SOE2IiGf1lA+2ZZj0TpPO1yHSso1dZIOL6i+JYCNoH/CokdHbczu1YNZgAnW+OPcX5CY7ZNgPiEHf+1NL+cE5ZMruc=;ydcs6oGOFk2EI5mYS27+Rw=="
 ---

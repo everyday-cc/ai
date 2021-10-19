@@ -71,6 +71,20 @@ related:
         width: 800
         height: 490
         isCached: true
+  - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
+    excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
+    publishedDateTime: 2021-10-18T10:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/full-stack-ai-market-size-share-2021-global-industry-analysis-development-revenue-future-growth-business-prospects-and-forecast-to-2026-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027 report by QYResearch Group. Artificial Intelligence (AI) Speakers market is segmented by region (country),"
     publishedDateTime: 2021-10-16T11:51:00Z

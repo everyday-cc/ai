@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "FinTech & InsurTech Live: Day 2 of fintech industry insights"
-    excerpt: "Day two of FinTech & InsurTech comes to a close and we reflect on various talks from leaders in financial digital transformation and tech adoption"
-    publishedDateTime: 2021-10-14T07:57:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-2-fintech-industry-insights"
+  - title: "SAVVYY welcomes fintech expert as new director"
+    excerpt: "The new exec says mortgage technologies are “overdue for innovation” Mortgage lending platform SAVVYY has appointed Duncan Hannay to join its board of directors. Hannay is currently the chief executive officer of Ontario Lottery and Gaming (OLG) Corporation."
+    publishedDateTime: 2021-10-14T12:10:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/savvyy-welcomes-fintech-expert-as-new-director/313199"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Mortgage
+      domain: mpamag.com
     quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/image00014.jpeg.png?itok=pAHwW7Nd"
-        width: 1200
-        height: 630
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637698102101646317.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Event Recap: FinTech & InsurTech Live"
     excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
@@ -58,24 +58,6 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
-  - title: "TripleBlind to Highlight Benefits of Enhanced Data Sharing and Collaboration in Healthcare and Fintech at Upcoming Industry Events"
-    excerpt: "At events focused on healthcare and fintech, TripleBlind will speak on compliance when sharing data across international borders and throughout all industries and data platform enablement. TripleBlind will participate in these upcoming events: HLTH 2021,"
-    publishedDateTime: 2021-10-15T16:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tripleblind-highlight-benefits-enhanced-data-sharing-collaboration-healthcare-/2021/10/15/9470791.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "UPDATE -- TripleBlind to Highlight Benefits of Enhanced Data Sharing and Collaboration in Healthcare and Fintech at Upcoming Industry Events"
-    excerpt: "At events focused on healthcare and fintech, TripleBlind will speak on compliance when sharing data across international borders and throughout all industries and data platform enablement. TripleBlind will participate in these upcoming events: HLTH 2021,"
-    publishedDateTime: 2021-10-15T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-update-tripleblind-highlight-benefits-enhanced-data-sharing-collaboration-/2021/10/15/9470823.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "oWtYCnknKsJ1naECs2rM9JULyjBheebPkQ6+ANdSsUyPrw4NT7L5FPToVajwDlGVXt4BY2h9s238WbojwNPGftqLzj2X2ttg+6iEmOUqIt/xrNyH+9J8+omFAJ808EaxSyn5VUJrBm5aEDeUfLl6ooBTk7rS5v5zob5LweZ3d/jKluSlYXNM4dkLHqxpXAva9ivVb+VzdBAaapxDnCodUfo/1pH2skXPivQqFwGRgRcRrfJptoHMYn4Wx9u+t5BW7EsjECbGAhuLZqDDI3qvYJ7CI+WAL6E15862yB8syMvGBtVHhX184RO05KHeL/9G11hae6ZdT9VaIBgM/ZP9ksHNEV+r0pQoqCDPUOHjAR8AMHkHb+EfXJHB02e3i0mYfWTTQO2SkD4u+0Nlm6c9k7wMoUsThsEq+iAF0Spua2vdtfyijvItqTiKtgwVN/fAMVKpVBpaW+FlZD/PEGoEHdsUljtjKs7QXRj1MadpR1BOTBzYAEML/g6vGb8n0XM2TClb/qwh/SB7oRmC943fBA==;sSO1BdwUQFsuhcV3rWrtCg=="
 ---

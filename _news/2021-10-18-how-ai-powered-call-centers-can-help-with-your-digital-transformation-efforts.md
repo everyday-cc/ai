@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "State of AI Report tracks transformers in critical infrastructure"
+    excerpt: "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists."
+    publishedDateTime: 2021-10-18T22:50:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/main-image-homepage-3-e1611744189157.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How AI is helping to make breast cancer history"
     excerpt: "With AI helping to diagnose patients earlier and enabling the rapid development of treatments, it is possible that in a few decades, we may no longer have the need for Breast Cancer Awareness Month."
     publishedDateTime: 2021-10-17T14:05:00Z

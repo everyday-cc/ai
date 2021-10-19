@@ -43,6 +43,22 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "MIT Uses Artificial Intelligence To Automate 3D Printing Materials Discovery Process"
+    excerpt: "Artificial Intelligence, and more specifically, machine learning, is finding its way through various applications in the additive manufacturing industry. This time, researchers from MIT have applied the data-driven nature of machine learning to automate the process of discovering new 3D printing materials."
+    publishedDateTime: 2021-10-19T00:01:00Z
+    webUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/"
+    ampWebUrl: "https://www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
+    cdnAmpWebUrl: "https://www-3dnatives-com.cdn.ampproject.org/c/s/www.3dnatives.com/en/mit-artificial-intelligence-3d-printing-materials-191020214/amp/"
+    type: article
+    provider:
+      name: 3dnatives.com
+      domain: 3dnatives.com
+    quality: 50
+    images:
+      - url: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2021/10/3Dnatives-cover-picture-850x500-2.png"
+        width: 850
+        height: 500
+        isCached: true
   - title: "Intuit Announces the Second Cohort of the Intuit Prosperity Accelerator: AI"
     excerpt: "Intuit ( News - Alert) (Nasdaq: INTU), the global technology platform that makes TurboTax, QuickBooks, Mint, and Credit Karma, along with Highline Beta, a venture studio and venture capital firm, today announced the second cohort of the Intuit Prosperity Accelerator TM: AI."
     publishedDateTime: 2021-10-14T11:32:00Z

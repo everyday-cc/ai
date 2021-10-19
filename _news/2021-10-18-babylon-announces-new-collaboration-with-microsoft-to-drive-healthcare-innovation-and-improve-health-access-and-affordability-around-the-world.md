@@ -20,44 +20,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models"
-    excerpt: "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test."
-    publishedDateTime: 2021-10-14T08:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/"
+  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
+    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of five (5) non-provisional patent applications with the United States Patent and Trademark Office (USPTO), expanding the portfolio of ten (10) patent applications previously filed in August of 2021."
+    publishedDateTime: 2021-10-18T14:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-seniors-united-states-tennessee-a3e74542a991b9349486a70ec73421cd"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-  - title: "Microsoft and Nvidia build largest ever AI to mimic human language"
-    excerpt: "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language"
-    publishedDateTime: 2021-10-18T09:30:00Z
-    webUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/"
-    ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 76
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
-        width: 483
-        height: 320
-        isCached: true
-  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
-    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
-    publishedDateTime: 2021-10-15T13:00:00Z
-    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 54
-    images:
-      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
-        width: 884
-        height: 637
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "c86UFzZZwNeQ7KkT+kvgXXr0nLw7Ih10hpg26hhl5VWzdQBZXBPJHcTurIeho5SdFd8mHUaK7KxkGd7XIntkaTCL1+1wlB0YhKkFgi+vqx47Qh/CugxCOB22OPd2thUOxJI7ROba/ZWErbsZ+NzfGBx4tneFh5EQ6eVfEsPd+kSBvjM9MEBw7qqgzkMTzx2bTSOzwVJGMXcNa6ox5Llt/IVLTt39fGMzra3Qp9SeIXIX3Zi71kQ176mn6qH9rdNQDB+GUQ7y1Sq+Pkt6mBH5UczJ+qhrFaROJyUql98YSf3hvCGM1fkKHPxTW1y70ZEelpmVysp+E7DnO2J9qmDygDAfYHPOYd7mi29dbcsgL2Q=;fXVA5omKwlTfOhXLXukaXA=="
