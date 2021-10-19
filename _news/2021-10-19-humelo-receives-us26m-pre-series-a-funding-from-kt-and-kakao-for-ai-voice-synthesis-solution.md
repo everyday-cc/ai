@@ -1,30 +1,42 @@
 ---
 category: news
 title: "Humelo receives US$2.6M pre-series A funding from KT and Kakao for AI voice synthesis solution"
-excerpt: "Humelo, a startup that specializes in AI-based voice synthesis solutions and a member of Born2Global Centre, recently received a pre-series A investment of USD 2.6 million ( KRW 3 billion) from KT Investment and Kakao Investment."
-publishedDateTime: 2021-10-19T12:30:00Z
-originalUrl: "https://www.blackhillsfox.com/prnewswire/2021/10/19/humelo-receives-us26m-pre-series-funding-kt-kakao-ai-voice-synthesis-solution/"
-webUrl: "https://www.blackhillsfox.com/prnewswire/2021/10/19/humelo-receives-us26m-pre-series-funding-kt-kakao-ai-voice-synthesis-solution/"
+excerpt: "Humelo, a startup that specializes in AI-based voice synthesis solutions and a member of Born2Global Centre, recently received a pre-series A investment of USD 2.6 million (KRW 3 billion) from KT Investment and Kakao Investment."
+publishedDateTime: 2021-10-19T12:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/humelo-receives-us-2-6m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution-1030877344"
+webUrl: "https://markets.businessinsider.com/news/stocks/humelo-receives-us-2-6m-pre-series-a-funding-from-kt-and-kakao-for-ai-voice-synthesis-solution-1030877344"
 type: article
-quality: 27
-heat: 27
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
-  name: KEVN Black Hills Fox
-  domain: blackhillsfox.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://gray-kevn-prod.cdn.arcpublishing.com/resizer/6yyxq_6FADTXUdgD4opz03J5PD0=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SRPD2JMA75SOCKLL7IUZ2BK7N4.jpg"
-    width: 980
-    height: 454
+  - url: "https://mma.prnewswire.com/media/1664173/image_819222_39514933.jpg"
+    width: 864
+    height: 400
     isCached: true
 
 related:
+  - title: "Lydia AI Raises $8 Million in Series A+ Funding Round to Insure the Next Billion People"
+    excerpt: "Lydia AI, formerly known as Knowtions Research, has announced the closing of $8 million USD in a Series A+ funding round. Led by existing investor, Information Venture Partners, and with participation from new investors,"
+    publishedDateTime: 2021-10-19T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lydia-ai-raises-8-million-series-funding-round-/2021/10/19/9472516.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
   - title: "India's First AI Investment Advisory Startup Jarvis Invest Raises Over USD 1 Million in Pre-Series Funding by BNP Investments LLC"
     excerpt: "Jarvis Invest, India's first Artificial Intelligence Based Equity Research & Advisory Model, registered by SEBI has raised a pre-series round of over $1 Million led by BNP Investments LLC, investment consulting and financial services firm."
     publishedDateTime: 2021-10-19T05:55:00Z
@@ -40,6 +52,6 @@ related:
         height: 300
         isCached: true
 
-secured: "qbi8GzCR/XJI2jjIRlAoKQ3bUrHvWwU3GA0FJjQ0MgTQQYEUrcnOhwgTtttzTato9CcT15WDNxICqPYUc11M356bg6hszT15wVlEw85H7ln92+FhxdN0VLpu/0pXw0mBB2jQiRja8UIs7Mv5v3mBw2fy26bGY1AilivyHEcRJ0wRRBdo2qfu8To+mfEAu5+daBpczJx9sNuMudt1DTRYdKFEfONu5ve70q+Ajg3SQZXPmxbgEHcv9wqdZCIVentyWbvnotbPF2UxoAps2TO2S1aUeLCmqyAYpe0ila8bijrNb+BxZ/g+i1WBZHZUnek0uMaREWC8FbTyp7dohOHizZpAQAAXdBskNe2E4xL/xbc=;OfOR1R8EA04YOPhMWldM5Q=="
+secured: "hah1geGct/Z/cqQUmIK82oy9Wg9KugtB3wQjnHGEgLpY5jsMehoJYPZQWX5Uxg3AhSt1ToEAA8pkur7A3lHqMJxvlWp1z1J0LuyzZpF5HBOnm3Qp37rvPCi3PRIRVpDnOPCcnhsw05DUBI5rJUoT196GuOSNpgP6p7lLkHGk9Z+OTJ0i8kDt9CV6PI8REGfzwKyi6iDlJDddKnqoBEJEGudQFlbvBLqYysxd1NeeNl4DZ/Awp5ebRcCY47DUt3oZQpTPhhvipslT0TEVmxJKRaKS9p73Vlke0Wfuw0FmZmCQ3UdczMkdsUdyp7KfPdlio9ml1uIDk0t5+SJPQEHR7GgEKXdEuOfJTAc/v+KpLRk=;Z+HmYS/vjD5byn8mr8UL7A=="
 ---
 

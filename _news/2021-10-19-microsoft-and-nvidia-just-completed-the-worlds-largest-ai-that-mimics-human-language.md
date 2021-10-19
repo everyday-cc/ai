@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-and-nvidia-just-com
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Interesting Engineering
@@ -26,6 +26,19 @@ images:
     height: 419
     isCached: true
 
-secured: "uGFO2fSFMTf7/5/NZ6RiAOIe9oNgwGMj7vA1/VCB0yb1vGDkSjZuU4EhJ8d3sS5asE1cDzkOKIMCDY24PlsQi8/M4S2k9eBJ1I84zc6RivHbNbVDnXn6M5sHA6VGmYTk83Tz/rsgHXk839qpTwAV3keoKTpM74usbp6g9HNNU+f0T/EtB0Z6PO6TB+Hb1j1RV06xHoDwmuMaWBDM8GQTqk07LGPWpW+z+GJDzdmW2g82UpYG3kFJeMO5S/vmzTBXv6qULS47Zx3LIvUOxI7LalnaB+dRj840Pb2IQ8Nn2A9Z7caLuo35C6tdvNvn9Bd7jekVuShHkzt4MntqyiYysAlZIohEN9/mj0Okv/JGNMc=;WO7F/mTxdhnQx36sUNpZyw=="
+related:
+  - title: "Artificial Intelligence In Supply Chain Market Size, Outlook and Key Companies – NVIDIA, Intel, IBM, Samsung Electronics, Xilinx, Microsoft"
+    excerpt: "The Artificial Intelligence In Supply Chain Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
+    publishedDateTime: 2021-10-18T15:25:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-supply-chain-market-size-outlook/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-supply-chain-market-size-outlook/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-supply-chain-market-size-outlook/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
+
+secured: "OunWN9lh9K+jdhx/PUhX2BzApp2G/JEeUU7/KMv6+wg8DooCTE8WEgH3p5t6fkynP6BCb2f77t/q4H6fUG0+0L3TDxJcrQzdp5yVcXZ/FwHoHRBEp0vx49JpQ/PORMGKENFFXWZ+Q1YmnWWAUBAaZrp+QY+1XEBEf7TNo8pNXbUCZWisAJA78A02JZ1+CTgh5dn1rdZInBFLWSRTcUZ2O7rczt4/X0Bz7dxGjv8vypeemzWwqP7/pP3z29XQ/u2w36yogUqWQhes9Ouf9JyNS92SxgUBeUDbjKeeGkwcJAw66wbcx6I3sBJ4xSgpr/ey1MtVo8okDXIsYZI/TbXUakEh+az53WCDZg8B0xTYbCtXHRnjwsi2HR4cRG5WCiQPpUrwUL1loJUDYApr83mRyOtpSuBlX/Ie45611QkvhApI7eA3shswrGbCVUXwVvlYpDrppxOuDKP2msc00Fof0Wv5dpm2x0K9gxN7izriUDQvJd+OCrBqVBwGTF4z+tB5/+Vgn3XENnLR07kgZ4mfjA==;Bw4oKpq05Zy3qmTvLdf+HQ=="
 ---
 

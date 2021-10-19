@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=silvia-ascarelli"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=silvia-ascarelli"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
 type: article
 quality: 59
 heat: -1
@@ -378,6 +378,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "4tYDKs+hqS5N/QUvhHTiaIBexqSebYOpGuwzLWx+d2t8kufQ6veU67BZwSnY9/05XG6d0JqFFCfMEBPFrDGkykBFbTxe4Ucym3sp+dxiK1ezylOP/bNeVYoOygwPfn2zuGOFnLXxwIMeFlSgogpIhK0gUNRUJsqbJsxDfc/eUACHoT+DTQuumJ4Z097iVldVbvc/IrUE/GqVP4dwjIE6He5CLd6wlDuzTuoVzIzTliRFlhL9NCRtRk92NUyK396H605nilPUiMBQyEAIyfZErtmRg9TKezM7UGnRUOKFIZLifyPzdtp57kk6BIMkeHQYcIcvcp/Ow7QlEkIJLz0Y1ITWY2xbDJyjtQMYzPy2/X0=;x3QxxKV/ww3uCQWSDCj4CQ=="
+secured: "Htt2/ohIZ+hLklcc3yE/IRPB1YZJjMF6midrUHv3RSx2++L2eyAsWR0E2XrAjj3LCNFkk9SIol40tudxQzcQ58/r+su6Dy5ASqi7hDRJKI7Uy/e6CtXwxDeJBnoVEGURj/oakd4mm5Egl9a79uSQ2nqOYJSHqfVPk/e50n7hSw/aYkokxxLLPLYcOQ0b8VA8uaTDdVq6OEXQ6eAulos1N8FAXJJHcPEfyaZasvOkwxfncBhZG0XXM9+rAgyQc1prED2R2rEKCDRt6sL+EwojrovftVYTwMdwc7MSUdZ9LbUmDQAJSnHHJy8I3/VxUpFxe3p86MIac7UyxIoskeIfd7G2EtKpShiMgws0s0eVZV4=;81Z4bysOyjKhW1o+Tn1ixA=="
 ---
 

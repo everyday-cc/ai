@@ -41,15 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
-    publishedDateTime: 2021-10-15T01:00:00Z
-    webUrl: "https://www.newswit.com/en/LLme"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 6
 
 secured: "zGbDvtzewUqhA/lBGRlHqG4WYoxO0+dUt3o2KpSrD7M3pGAaymr6kbCrGMbAv9kYWQ0LPxPH0xfj0IdRan13PQyaiHLD+2lScdHY5kaFMLI9lzv46hK3t2sO5ms/xarCE5PwVFpqKI5rKW+Wxju9Cb/uAF2TjjWAPfcyNgupsoa0Ff/JY6U/7vwrx/cO88vq8K4wBGOD7w96jk441pDbiGTDqLS/flLdiuFBjK7CzryUfMAUkrnXmeKNI0MkD6UrADqG2+gEZhsEV7uLfCcBnSwZcykXKFQQzzYs/wPkptsr9k6cZaxbam4ljfrBFLaBuuLtS7kZaM9VFHrnkkZqZg04AdKXzW63rugvNk9AU5+kPqncCA+9XWEyue0uIX0L3DDJylBHvjoP0JcHqauSWboQaRLHROa1H7hg67iFj37/cf12ceJsQewpRozyS+SB5XEohB93TN5R3ZqIvZID1aDJncHTol0e8TlIjy38Qs3wsGMLtODou86iiVIlhDQ/8vEPqpSmolBfBF4KfOOYEA==;AG97uUwqrV3lXCmAqJZxdA=="
 ---

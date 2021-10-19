@@ -81,6 +81,20 @@ related:
         width: 500
         height: 258
         isCached: true
+  - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
+    excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
+    publishedDateTime: 2021-10-19T16:12:00Z
+    webUrl: "https://iottechnews.com/news/2021/oct/19/amazons-self-driving-vehicle-brand-zoox-to-begin-seattle-tests/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/10/amazon-zoox-self-driving-car-autonomous-vehicle-seattle-iot.jpeg"
+        width: 1280
+        height: 768
+        isCached: true
   - title: "Toronto tested the futuristic self-driving shuttle and people were excited"
     excerpt: "People came out to see Toronto's self-driving, West Rouge Automated Shuttle during a test run recently and the micro shuttle proved popular. A"
     publishedDateTime: 2021-10-15T21:39:00Z

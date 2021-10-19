@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design"
-excerpt: "REHOVOT, Israel and HEIDELBERG, Germany, October 19, 2021 /PRNewswire/ -- AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve therapeutic challenges,"
-publishedDateTime: 2021-10-19T14:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aion-labs-powered-biomed-x-launches-first-global-/2021/10/19/9472731.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aion-labs-powered-biomed-x-launches-first-global-/2021/10/19/9472731.htm"
+excerpt: "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of"
+publishedDateTime: 2021-10-19T14:03:00Z
+originalUrl: "https://www.nbc12.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/"
+webUrl: "https://www.nbc12.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WWBT
+  domain: nbc12.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "tpikbTwWN0HovP3ZMVgTHNAHsS22QM0A7eHe1xRr3LrvnEnPGQp19+sRFEyi82yc6Y++DLTTSXOMqAvWGFRgEx+QipqoHFDd9lqhP0UgoA55ngP1THh3DXjAo0xxE/jeXFhE1Dpi8wVAvLznapT3e3vgf6gguw7ThGsWx59WezT3umq3oxA6nketyx06kg1HqQ8UOjOMhFYDjaJQ0AXVebXURSqlFLihBo4s6LC3Ca5UjtIJlxnOFsB05h4cTM356Jip7Vt+K+9rp0pChLEm9OPyD7hw3lxLsCAFe3QG1ag9GxatqVgVlAcv6D2E7WCGMX4PW8r9/9M9gcvTMPxI6sE7+8cdk9G0TSjAKRqiqko=;Gi4hSMuOlx2Z3ko8Rlm9OQ=="
+secured: "blnwR7aI5oGxlJLQUnBe3P6ILW/WeEShQ9okZjC0CrHcosyUfsQU6QmBKTgzvhJrBkHN9ya/n9ChwIG7ySxfMqa9Forf+SQ7Aka9z04Ifg9wFhQKkaJRKm19Y4oHgGpCLGNNz4jMi0rLuT/3phSDRFy/wZd4ZJTKjDtL1Eqtu9Kso584YC+keMXBDi+E6xYcsUIaoSImYrRX4TBXZWdvsmXto1bGY2JLc3AM1xVLdQuYlUaK1PldFkfaww4JFhgema8xKbDjEO0OGLZngQS9td+Zox/hqPpG2nQWjr3NuUVRXQsz36pTrege1z5ER/nHK3EYYejr5GNYhImDrCJG6VrGV72nq3pT8nWkDrwtW38=;1TpPD1QM6w/VgVWxy1YBoA=="
 ---
 

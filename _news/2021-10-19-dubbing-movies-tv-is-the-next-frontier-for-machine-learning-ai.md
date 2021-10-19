@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Innovations in training using artificial intelligence and machine learning"
+    excerpt: "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES"
+    publishedDateTime: 2021-10-19T17:53:00Z
+    webUrl: "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 69
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence Platforms Market"
     excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
     publishedDateTime: 2021-10-18T17:04:00Z
@@ -150,6 +164,20 @@ related:
       - url: "https://opengraph.githubassets.com/a5d9a814ebc7eb10d76a6de8539013dc6cd614fcf1176f1bb45a764831f42e81/webclinic017/trading_bot-5"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Preparing for a Future Pandemic with Artificial Intelligence"
+    excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
+    publishedDateTime: 2021-10-19T15:29:00Z
+    webUrl: "https://globalbiodefense.com/2021/10/19/preparing-for-a-future-pandemic-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Global Biodefense
+      domain: globalbiodefense.com
+    quality: 39
+    images:
+      - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"
+        width: 700
+        height: 525
         isCached: true
   - title: "Spot.ai - The Future of Video Intelligence"
     excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
@@ -206,20 +234,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
         width: 848
         height: 565
-        isCached: true
-  - title: "Preparing for a Future Pandemic with Artificial Intelligence"
-    excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
-    publishedDateTime: 2021-10-19T15:29:00Z
-    webUrl: "https://globalbiodefense.com/2021/10/19/preparing-for-a-future-pandemic-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Global Biodefense
-      domain: globalbiodefense.com
-    quality: 37
-    images:
-      - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"
-        width: 700
-        height: 525
         isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."

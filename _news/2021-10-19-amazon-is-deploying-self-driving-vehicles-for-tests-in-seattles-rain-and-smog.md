@@ -81,6 +81,20 @@ related:
         width: 500
         height: 258
         isCached: true
+  - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
+    excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
+    publishedDateTime: 2021-10-19T16:12:00Z
+    webUrl: "https://iottechnews.com/news/2021/oct/19/amazons-self-driving-vehicle-brand-zoox-to-begin-seattle-tests/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/10/amazon-zoox-self-driving-car-autonomous-vehicle-seattle-iot.jpeg"
+        width: 1280
+        height: 768
+        isCached: true
   - title: "Toronto tested the futuristic self-driving shuttle and people were excited"
     excerpt: "People came out to see Toronto's self-driving, West Rouge Automated Shuttle during a test run recently and the micro shuttle proved popular. A"
     publishedDateTime: 2021-10-15T21:39:00Z
@@ -105,6 +119,6 @@ related:
       domain: kottke.org
     quality: 4
 
-secured: "NaMwlc1OcDUn7CR5kkFuXQMjy4KeRZu39gKuZoOHdS2Tk3nne3HSCE7plCiFVGRokvYywGXT5KVij/I6IwxORMoIje4vsDQTMxQD9fJd4aYdiC9ptHk0SljACZmFWij8G/cbX0LM42dYQYKX2OnHfigQ95Nz5MAxatVLkY7JF+/8MG8ui3ljvZtC8yg32t3kw9ga09eHz+2Gtuu2oG/5CpuPp1tKIAb0smyAmfC++W32N4EhuX/qx6IVCJUkQPL8pMwh7Lqse2G+dFPm/KzbPeqmJ+BHs15fGVOrrxU3TVlR8n0YnxDKuRuKyazjrEWLSyRKFP7+wxg3RlmmeGXsFSy65TJ6H21l5QtZx6K6f2M=;Y78N0Jji3FZQbZmxbe8zsA=="
+secured: "84jjVDwpNkWPju96s1iepuKtnJkXe57JTZR1ZF2tE+HRZv9CuYgjrlrcm6tbYh0A1Kszwjtw/25KYI9fjaHO3zEHDmNbG642FEGNnhApcEj45GiupXlQTUHqeKjj+ufGGcEoMF8RHIWMMuUD+isgm0o2kcwClkuCabAsdVVuSFrL1+okA0BFjnMcKY+ewkbMH9yqqUZF5ZT9cpl76NoWywztJk2WknrONxtU/1GYhiIaJZZMIwGXKLrPdD4RxzeNPNi1qbEB2jjoBhGHfUy/JjOZL6gTLtAuzLR1ahZBbgh94tDxD4vKbI09Gw2UjKQWs2K7SW0eiZLSjOpWvbDTZofzRh5Kfn0XqfPyyTTlK5hTmiLpeyo5LUxPGKSCT7r3me2+57M+hLkYrzy2QUhV1EMDcfMditQkgicYXohPYO/Tl8/hGy1SqUkQ0U8oIQLg/4OlveCZt30LaEnVtKMGiWPAlDt7Ln9XBytbdgU/57b+CjAiqb8aHuqGkghDiC488GowlkCepib3MlwiSA2cSg==;PWpSvd0577ziFlqgMToDAA=="
 ---
 

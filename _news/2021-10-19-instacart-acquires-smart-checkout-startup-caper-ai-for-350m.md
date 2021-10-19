@@ -78,7 +78,23 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Instacart acquires smart-tech startup Caper AI for $350 million"
+    excerpt: "Instacart was founded in 2012 with a simple mission — to become the Amazon Prime of grocery delivery. In 2021, the company boasts nearly 10 million active users and over 500,000"
+    publishedDateTime: 2021-10-19T15:55:00Z
+    webUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million"
+    ampWebUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/10/Instacart_Doorstep_Doorway_Convenience_Delivery_Handoff_Mask_On_2328_4x5_green.jpg"
+        width: 1920
+        height: 1536
+        isCached: true
 
-secured: "+FBKWVBAVDXWHfhbgeZKB4ptmSJQNBrExfKZbZs8z41F0JGLQ0MVI986N9F90LivPfC/NZ2DrpS29DsMoEVDK88yGo9pAIT2LW7Di/y9zWt7pnH+rdqnnQCPaWnaJUoKzoIxYzaA496fIG23fy0acjlNHPk6YRBr49JbiqLqPeOyBVsLQ3rk7lAYVVOICK1J0lzRRRHpsLfVVLn33+Th4YZrIHOb2l3OopaRJYTiSW8CwFFJSVez4xYVi+/0cIgwKoeKgerX/3i9qwDJQjbtwWRfoXqrAkzRQLs5qNqsPGznGTTRp/kNZri18igyBgmfUtTjNxEfXe8jWuSYueLfhx09e+vwWEVZTRvSL4VWtrA=;wQb6h8DmTTJ1YXVSqEMsow=="
+secured: "FTeUdk9hL979IKWDGNlLv2g0N7/tRMPEY6hnCjle243snLB0mZzGTlnGhV4zvthpRTUtWVvO6DLokHghtIXmwZWbSMmZ8FDwNNgAZhKHBpP8zoLZWP1RQE66lbw+4Wx7cspGxtHp2JBnOWcATgtOXRvfA+bqBKEES2/sNdsCsiP/5zSdfDQJ4DL+hxInC/P51uU7SliGB/dOAxmq+wQIohoC9yGwI3WttqiZg0da7oclNkOMMs1O3t2gMuTToIp9+KRQl+rO737W6zXw6uMCm36lyNn8EqJwekk3hSODhbLFvXEhcDxYMls2lBMtagDs/YgmbfNPUTML1InRNN2RP+WmM3ZwlWlKPEjaro4ayfdPzArPYKNtIj+Mm2uMx1ZdYUZWsCS/drrN44+bJngJB4ke3N17cu/DN2ggwrRXzp/u1++4lSExe5H0OsXD0xSPggnjQeRFL1zuf1xuhhdVw9HgWMskhGEPLaaroxWCE90Jms5SFYnCMrGd/E2txEkVGhj0EAwKHYxTZPbrByHLeQ==;DUBlbRUBFcw6Vf2QWGc6OQ=="
 ---
 

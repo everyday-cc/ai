@@ -42,15 +42,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Labor Secretary on Artificial Intelligence, Technology and Manufacturing"
-    excerpt: "Labor Secretary Marty Walsh spoke with the [Washington Post]'s Jonathan Capehart in a virtual discussion on the use of artificial intelligence and digital technology in the advancement of U.S. manufacturing."
-    publishedDateTime: 2021-10-15T00:00:00Z
-    webUrl: "https://www.c-span.org/video/?515361-1/labor-secretary-artificial-intelligence-technology-manufacturing#!"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 16
 
 secured: "daO1M7qEPEnDOsrZomdl047CBe+ilRi8/EntO+YKQSquRabn8iojm3TtU8Vpp327Qcc+raKdC++5Lzoznkdyemlo/X60XelZFyY3z8ExpIvagPVKRTt0w87H7o4dxG5zy7MkuuCteaWydPRCj5vDSi8eGLwgwPTn/2pk6843fvu2Fv2yc+0jcMGg7nqDSo3OXIB/q9DNciKl7PT5U0101f7zdG9T/P0hn7kSkUZErXpucCJkzMfXHg+n9lYZgv3RDsy2s6kUHpL5ztdEH570/vBJzZneHqc6jeyZ+98nc6kcghTE+zd1SAT/xliQK0czi33MSXXd8w6bYvpH2PLmnEHShah5foyzew2PZZHASJI=;JblFj9ZOPsQPr0t0yNkR2g=="
 ---

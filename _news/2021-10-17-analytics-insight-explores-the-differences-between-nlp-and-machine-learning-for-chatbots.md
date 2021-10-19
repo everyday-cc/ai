@@ -139,6 +139,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
+    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
+    publishedDateTime: 2021-10-19T16:49:00Z
+    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 10
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
+        width: 320
+        height: 240
+        isCached: true
 
 secured: "BfHQgFaTd3RVJLpEZvTvuQdxgDg9lBk2s4ZE3l8/sqLKp/yIO8ANUdgw9ZtwlYNfhRWCA73Vx7O3552sdsMOe0mCQ6xN8TC1P19GDcx717xsE2EbSg9IIYX5xirFvZ3l9JF7Caf62eQ9b4z1vbSkc/QpSuePLH0do8iGxDffxq6Dk1DOqj6WHtQ1spJseiLM/DLmiPgiAPXgdVbaSJORUKfEW5rCs6YbL0bSV/Y65bdJDPewn4CK07VNPCXZEhJPo4O5duHHS1vN5OfBKZ3dfx8k9NjydEFDWJzyyImDIUQevoriUov9xFb+OQHxVcCFW2cLWYj6NJtr3OlCbgqi6JqBCkr4w5DiTLs93xTR2aCPQoHqr/cwPqDwin6K+3cx29FnuykD0z354RM8PxT7/ZawwYOhthEYWZnrmkxDGmfXVy0UcHPM9RLGQ4iCnPhMs7edsq2guOUevTMGoCLzzPX9uQMtvxX9xa5JbSvLXJOLZeNzwm4pDOTbt7E0aVd3jA2BF6wCzz/dLHAUVdGfLw==;XxOhgUjC2IAxwjRJV6FhOA=="
 ---

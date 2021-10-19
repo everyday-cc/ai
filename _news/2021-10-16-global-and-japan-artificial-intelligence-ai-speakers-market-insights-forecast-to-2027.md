@@ -134,6 +134,20 @@ related:
         width: 593
         height: 400
         isCached: true
+  - title: "Facial recognition market to surpass $10B by 2028 – report"
+    excerpt: "The global facial recognition market size is projected to reach $10.2 billion by 2028, according to new data from Verified Market Research."
+    publishedDateTime: 2021-10-19T15:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-market-to-surpass-10b-by-2028-report"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
     excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
     publishedDateTime: 2021-10-18T10:24:00Z

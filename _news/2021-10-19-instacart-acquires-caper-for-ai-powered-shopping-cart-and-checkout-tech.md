@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-fo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -78,7 +78,23 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Instacart acquires smart-tech startup Caper AI for $350 million"
+    excerpt: "Instacart was founded in 2012 with a simple mission — to become the Amazon Prime of grocery delivery. In 2021, the company boasts nearly 10 million active users and over 500,000"
+    publishedDateTime: 2021-10-19T15:55:00Z
+    webUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million"
+    ampWebUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/10/Instacart_Doorstep_Doorway_Convenience_Delivery_Handoff_Mask_On_2328_4x5_green.jpg"
+        width: 1920
+        height: 1536
+        isCached: true
 
-secured: "XJy12VRFagmAq8IqCxCO8Pq2Ok2ZzM4i2+bhMobbnHnJE5P75S3Hetrpgw9M3Av1StF8VN8R1zTzwF6d4eD9Giu26uNMC6M25jUpt4YgsX2JpGkTrr8EgIWy9Q+ZqBcEsmlXeGgKfwey533tPodazLC5Q8dOHjbzN+GUSGabf7n9S1Led+wSUGFsduIc4p4esm/66NnBhX7mhOSRB+7q0QPyqpZpg1Lzd5pup5un3QL0pfMK8bU21loloIy7h4BF+B4x21gwgBEi603Prl/T98iVa0TjIFpEp5iI/w/g9g594cx7ADEPxgUACm+YJzsBLEYqUEG2QkKe4TcDF3+8oDTH5S5BayUz9RArZ1U66no=;o1W5wpZXplMjSlcT3TALmA=="
+secured: "FwcfwRDhO434vixeoRbF+eXmR66PvUtWaVI78n+ABF/l3S72e2cGKaSzxCF49sNFmxwRG7G7akG1BGz4aDNuFknYCavz7FnDjlml7PC9sVHD1vGCPalMmL4ku6mLjz6tLBk5nd6uglVgK1anZg3M5vcd9konDPnb4PhQROBPxVrbNTKFCAT+aRnBY8gwMcxG3Fv9OXK+QKuPnwXpZtsMGJRStHwLPE+qzpx5FTqi/2u9NruzBf/YveQqcAiPHqPjklQmB+wgOb3UR2E09SzEIk1uxUbyy7eiy88XTujedBfIiUiiFUKIlpmp18/82vMIx0QGOu1qRgfSAvkxR2tCZT2/udhjngRW5NGwamx5CpUFN3mlXeiwvgjZe+/Kh2cLh9N9H6bezovwagYFR5sOXkpr7yzLJn0qBWT9TprhisQpQv2hEPY+9hejZ8CruODzMbRcumxCHQ1hHETNbWQIeaGSk7Ewx5p1iDBEaxFt+sNQiBaFnpjm/YvzPTA4LmStskA52YGwCN47D3DoBj7UTA==;G1EH/4b8+DioAhCtggpeoQ=="
 ---
 

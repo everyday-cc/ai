@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to
 ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 related:
   - title: "4 Robotics Stocks to Buy Now That Amazon’s Astro Is a Thing"

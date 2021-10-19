@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-worlds-first-enterprise-grade-gpt-
 webUrl: "https://www.tmcnet.com/usubmit/-worlds-first-enterprise-grade-gpt-ai-powered-language-/2021/10/19/9472535.htm"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "SambaNova Systems releases enterprise-grade GPT AI-powered language model"
+    excerpt: "The company's latest offering allows organizations to launch their own customized language model in less than one month."
+    publishedDateTime: 2021-10-19T16:21:00Z
+    webUrl: "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/"
+    ampWebUrl: "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
 
 secured: "aaxLGi/lcCqAyAghV2FGvVeM9xNHgSATYaK6bVaYigYg7T2Eae43lVnD5e7CgQFCaR/Gp4ADtBUzo5OQ20+rfIo4b1IN6WKC78OnDrTpFzQyn59DdPVuIss2dVce1oUwcg91/SUJ4EOOKXeuWHWsYdDUKtWelv3W9GIhcEFvfSQR1TegfcH9y8nkqOBvG1+axWtMg1s86OG7b/7pcL/jVYBnmPMPJIY+w5BvnxSIedARXTEU5FMz9Fx/052Y+78n6zcI1+vqL+B/gtBi8uN08XflY/4Yme6VoNNEhzo9FFEvbgxINaMIIBRfsWNh/ESzjFjAPW2C4U8knByjztiyGRXDWKqOEmdKvuX/pf5TuwM=;bRODeisyovIbD10YlPYr0w=="
 ---

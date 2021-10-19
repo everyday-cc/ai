@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/findin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
+    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
+    publishedDateTime: 2021-10-19T16:49:00Z
+    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 10
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
+        width: 320
+        height: 240
         isCached: true
 
 secured: "JuuwqR+oEfMoZLLweR5QtntawjcQdewVsYctJ7XOlEeg7/6e1WXYokWLv93qq+Rue1AGVBK+pgNolswPhwCXXUxAWijuDXHseNMpGL4K3TLN9qSxo2e4mW+8Hl3qODHqCZ6ZGgFIulaQm+C34MBwNUnW46cJC3On6y2y9ilJJvkTCpLwlRQhfRHjlQRJzqqSXLZ5P9asZfZzZ9SM6b4KBJXLz4fY4CAplT2MPsFpsjo34rSPcZ/Dqlo9BIADhyeo95j5MyjK5aizxaXVrZPG9N0q964ncKStvW0fvPClFW4sOySJCTWnWsTNWHxvgDWyzfZiAdsGDWxQY3CUmbMcAnCwYS6Ia2ESuiz7OFgIz6Hfak2zGmZehTQXTOaruBNOvU+3WDvb9KbQwwf4aJkOs5uQzBB5HpaCGMldUZWKIecO/pXKms05l/yFIXMyfm7CtrSPc80Ktw0LMCzuqh9hZHK6TRLs6rxSSC+96bcVhmffsDSMJwtbuxo7hRDpdiEWqdb6PjIvXQWMIDMsNu6GzQ==;VKXyYz32jEG7t9G4+iUxyg=="

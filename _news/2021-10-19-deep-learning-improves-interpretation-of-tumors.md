@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-deep-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "15 Machine Learning Interview Questions"
-    excerpt: "Java Programming tutorials and Interview Questions, book and course recommendations from Udemy, Pluralsight, Coursera, edX etc"
-    publishedDateTime: 2021-10-15T00:00:00Z
-    webUrl: "https://www.java67.com/2021/10/15-machine-learning-interview-questions.html"
-    type: article
-    provider:
-      name: Java
-      domain: java67.com
-    quality: 19
   - title: "Deep learning improves interpretation of tumors"
     excerpt: "NIBIB-funded engineers are using deep learning to differentiate tumor more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal."
     publishedDateTime: 2021-10-18T15:53:00Z

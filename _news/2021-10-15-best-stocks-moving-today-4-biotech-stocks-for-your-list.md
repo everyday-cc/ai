@@ -31,7 +31,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "4 Robotics Stocks to Buy Now That Amazon’s Astro Is a Thing"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips My last effort at picking robotics stocks, in a column published about a year"
     publishedDateTime: 2021-10-19T11:07:00Z

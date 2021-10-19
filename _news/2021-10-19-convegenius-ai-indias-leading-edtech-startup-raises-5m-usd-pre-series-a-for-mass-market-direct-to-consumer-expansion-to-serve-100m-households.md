@@ -1,22 +1,18 @@
 ---
 category: news
-title: "ConveGenius AI, India's Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
-excerpt: "LONDON, SAN FRANCISCO, and SINGAPORE, Oct. 19, 2021 /PRNewswire/ -- ConveGenius has raised $5M USD in Venture Capital funding to grow its"
-publishedDateTime: 2021-10-19T05:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
-webUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
+title: "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
+excerpt: "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,"
+publishedDateTime: 2021-10-19T05:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
@@ -53,6 +49,6 @@ related:
         height: 628
         isCached: true
 
-secured: "BdR42n3Wn4p/mfRTqmiXkeZ1NytbbjZuF85eM8GWd8zuFsCXeP0K5fhl4QpmwcPu0N+3fnZvCoJQHjQntLmAc9zFtQIvZp9wjnXBbxPVrDsMU+37yXKDck61kACL7nFYRT46cvOHKmeU5ZuTcAW3PM5F1MOALbTbhtdKUlK1ml0C+Plrlre5gtHNlZKKnQ4gOrD/o/eloGKzROqGqX7k3CPvEDf6Nb+3WjrE2k0Kx+7dhUMqOrqF6cJUodY3tT5emAsdOIi7UNG7EaZkweqDGSLfMjyoEq15XfAJN2Tb4eR8y0vwIP3wgd2qPcQnAhOlS1fu35Oyt27bES7fTblj/1Kfc2ps1y7+CTsNdS5tK4s=;eizB5pfFUnnfZMAyNTAgGw=="
+secured: "sDqsAZecJ5w/in9AQjuMpPymbP2UASqAAz92mC/mAWuf8BRzpFol0796I87vvGfBWoExypynIO6dS745VQyBAWQsfTmA6hsE2tQK//gZ2G7XZDLuKp+g/7cNEU/9hbP5UrEtPof2Gl8WFLSGzJD0gTN1CLCJoWhauDPy9nTjOwcawNHWD5SnMiReqsfih2VN/YDCQICuZ/q7xMMS8uL6c2j/zJXh6zALsGYWV0S13YB31wMm45+di5Qr1WDsl2KBB+gB0wIeASuCXe0tDq53EuvQD8rFROrnnAdoalC8y8WXEcb7ya5nn77zomLD1sDrJBd1+Hy+yEhwdrVSkhgBjdI4IzCFdiZ885BC6ZnVVVM=;xivTVwQGB7IzIt+6WYi4qA=="
 ---
 

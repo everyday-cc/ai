@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/business/2021/oct/18/cambridge-firm-targ
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/oct/18/cambridge-firm-targets-medical-robots-boom-but-will-it-stay-british"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Guardian
@@ -45,15 +45,6 @@ related:
         width: 602
         height: 346
         isCached: true
-  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
-    publishedDateTime: 2021-10-15T01:00:00Z
-    webUrl: "https://www.newswit.com/en/LLme"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 6
 
 secured: "e9L8q4Vr8ORJ68GQV8RQzGnfPl3qIljxe6ccRQiEr0vyVsGmxGKoj3Nve6tBS73UUf31Twlp8Lfn3NFXr+BspAWyNpOVZVTFwSKnDSbL/DKqHWcuynnk/3vSybaoGF/RJhT1BxNsS0LqOFKnFRuBdcSl0u+isJXys3FkPFv/9cchq5eGDVF+GgMe5Jd87RyVODCaoaHJlNN46ErB5DDztP4Z4lLn6N4wzLOkI71owvIP2pFWCzIUOT63VYjiVJtnlbk7xuO6huyVvqd8pwShdCw7sNssDkIcxVT8dbSTd82/O5JPtfFvxfZNZ8vZ99O4tMIbRM7enoCArM8IVCT82JraSD7agzDZ7nLQ+ufMhvPnciKUIOnEKep7woyssATBihg1k7FYvzA7GfqyDOuJqUCSA8h68IFBNK8HFK9MqFGr/wHK3/U+i+mld0vjOnsfjtq8MI3kEbfXmgR+AWmfiX8CtifkJf//9XdJnywVyUuHxBV77CWD/EDeKAr1aR0AIwbzTTfr2nTeglO1AHBF4Q==;ZFZZZAoblDKe6AKwjaKC5w=="
 ---

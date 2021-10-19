@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-19T15:29:00Z
 originalUrl: "https://globalbiodefense.com/2021/10/19/preparing-for-a-future-pandemic-with-artificial-intelligence/"
 webUrl: "https://globalbiodefense.com/2021/10/19/preparing-for-a-future-pandemic-with-artificial-intelligence/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"
@@ -103,6 +104,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616993c95f7a5281d84c7233%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Innovations in training using artificial intelligence and machine learning"
+    excerpt: "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES"
+    publishedDateTime: 2021-10-19T17:53:00Z
+    webUrl: "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 69
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Dubbing movies, TV is the next frontier for machine learning, AI"
     excerpt: "Few cultural experiences can be as surreal as stumbling upon a dubbed Hollywood movie. There’s the cartoonish lip movements. The mistimed action. The strange baritone that doesn’t sound at all"
@@ -270,6 +285,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "dIPpS2NWYn2kbdUhhmQwlubXmiQMmfWbDdUW3S3DC/1zXrWZ304qcdGlLmhBG7CrFAR+x7i2wJvqAITJ0S7t7E3mIM23LfiQZ8JQMlqg95RS+jsb3arZxnhelg6FPbYqx7I5i4k4xtlxSCoAxt0xm3Q5/ZzcKlQw+oyD9xOXRCsETchAV8/3A7lR3Le9m5TX+MsnsNWbKFug6OKN9OnRilQqMKSDguJAlqJ2JxwTjDeFqux07jjhG89A+TNkU9QDheM0YOc17BZ9uCkTGUxa1Xu+2KSMFgqVRTJTLBB7GTlz3mKSjvDv0vwfpWAl/+xajO2tuSYNFemSsMLOdjzVqFzNwVJhwWQmjAWFQConW7k=;i2XsMMdNVPqcOWPJbPJ1xQ=="
+secured: "Dn80aUEPPCwlFlUC8646Xnf2WzRQlIjXpQBHROc+ZGTHRMvUaaEWmcWtGc0dKpda2n+FqlrQZ3TPBD55Ke8oG7d/CobicVwvtQBssc8naNlYQTYcOV/3pbifd4Y4+O2URMhsKgaBtpFl6thQTrP7xOd8vRh8Z8WwW5lmqpFP9m0MjkFI1h9GJsUnRDFH9sL50WEPqwAeSd/vrtTnCgK8amrGsUF48Nwz+PXMMsjUjWju0iV92HPh41UqGZx5ZvVnDv5huQyMnjJednMe43AGWyimXdbs+WPODyuiss1eMmcLYU9n7Ss8iyjWY1P6G21hqeipflVDPGPV9thphrgxaw+PYbfPSJOFSlzBx4zCfgoHhiYd3+uTe1cVNc5wkf707dFbZdSaq4+82KeYEzCk9WDI0Ulb/CWQUw3bUrQRUVMkPjvUYSFyaDAIGKi1E/gFi91Vp4V90rKWx2uZSMbQr0h9D5JGyIverV4lwrYGbflArDgb/AelHtVzVtZJMKKOeWr4c9hJoPtgqNi4eBGtpw==;q9zdtmCKX2eRb50IrkSxeQ=="
 ---
 

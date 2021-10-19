@@ -33,7 +33,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Best Stocks Moving Today? 4 Biotech Stocks For Your List"
     excerpt: "Biotech Stocks To Watch In The Stock Market Today. As the first week of the third-quarter earnings season comes to a close, biotech stocks continue to gain traction in the stock"
     publishedDateTime: 2021-10-15T14:54:00Z

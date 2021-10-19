@@ -55,6 +55,22 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 58
+  - title: "Augmented Intelligence – Breaking Barriers in The Global Market by Top SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson"
+    excerpt: "SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson among others are some of the major and emerging companies operating in the market. Market leaders are involved in partnerships, agreement and merger & acquisition to gain an edge over their competitors;"
+    publishedDateTime: 2021-10-18T14:29:00Z
+    webUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/"
+    ampWebUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 57
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Sustainability-Software-Tools-Market-Including-Key-Players-Market-Share-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
   - title: "Virus Tracker Apps Market Boosting the Growth Worldwide | Google, Microsoft, Locix"
     excerpt: "Stay up to date and exploit latest trends of Virus Tracker Apps Market with latest edition released by AMA Virus Tracker Apps Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide"
     publishedDateTime: 2021-10-19T11:45:00Z

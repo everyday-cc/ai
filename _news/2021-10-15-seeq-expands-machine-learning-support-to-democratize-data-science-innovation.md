@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion"
-publishedDateTime: 2021-10-14T17:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
-webUrl: "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html"
+excerpt: "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications."
+publishedDateTime: 2021-10-14T20:56:00Z
+originalUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
+webUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Automation
+  domain: automation.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook"
-    width: 2513
-    height: 1414
+  - url: "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
-secured: "GnFdf5HAt+WSPxbppjYfRUo4+JyCd/8x+Egwwn7j2nnQG+7+ISeqmJG4yCQQjb63nrX9k0v304LRhq78QvJDqkTYbW760I8GyLDKUqBE6YtouZvqQNk5c6a7bwzKm/Rh4pttc6sSZH8BloxBhmyfzgpK0+xS+DRjlH239ShiNFEEufOmtO4UEphVsMIB9WXhnACUCTKXMA1FYXaJKgKiYMuHag8UIIXAt3ZWx6J5YMO6a3GEhB9ffkqPAW3XOzr+ieQWIoXhARxnFl3kNmheBrtUyE300hbyb61fkJr7KeVq+vjAQuZ4Z80DBMbkVob4jy4iwwrLcGdzo3Z7m9aUQ3cs6Y45tOVyQ+w3FOcQw4o=;SVAYfE91bHVdD9yrxYwwUQ=="
+secured: "4aocnxg5FXu7x2o157ydnFg5KNpenjCOnHD+9GHRkPsIEuF4hV1uboO3bLTqSSFIP7cRrwCrKrqjg7w0NmKDFitP50iuFCC9ejnNd0uiRwym84jdckV2XRcGjW54yc1IdxoBepNQtNtM7wud/9txvciLSXQs771ReTT4+j/diDba9772RkIjNRAYOkYSyNOKFumxa1S9p7qYNlnRA6nZS4DrF98UiJdBoHhuNt6hB5UbPvBBLWD6soHZ/HQpffDpCal+fPHPFGJ/5c+wS5rL3Ns7IVmbwctrgnXllI/1R7s94UCshfo/a0Lyr8jN2hVcABEnrf03HIC0JvMXgMQgyaeIW+15D/Vc1oy0kRLZgDM=;oeJuSA3uBG6zJ9Ai+XQ3Gg=="
 ---
 

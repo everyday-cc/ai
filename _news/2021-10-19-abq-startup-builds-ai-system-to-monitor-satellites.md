@@ -7,7 +7,7 @@ originalUrl: "https://www.abqjournal.com/2438690/abq-startup-builds-ai-system-to
 webUrl: "https://www.abqjournal.com/2438690/abq-startup-builds-ai-system-to-monitor-satellites-2.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "New Mexico Startup Builds Tech to Monitor Satellites With AI"
+    excerpt: "The Air Force Research Laboratory is betting $750,000 on a new system that Albuquerque-based data analytics firm RS21 built to prolong satellite operations through remote monitoring and intervention."
+    publishedDateTime: 2021-10-19T16:19:00Z
+    webUrl: "https://www.govtech.com/products/new-mexico-startup-builds-tech-to-monitor-satellites-with-ai"
+    ampWebUrl: "https://www.govtech.com/products/new-mexico-startup-builds-tech-to-monitor-satellites-with-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/new-mexico-startup-builds-tech-to-monitor-satellites-with-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/4be61c0/2147483647/strip/true/crop/1170x610+0+24/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F89%2F2b%2F536bbe1293eb4619e3024ee99555%2Fshutterstock-329758133.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "bAimFyhrKQnJLB/n1C/UfP0zj9JN3TxX7JUb9/ja/EX4+u5jedtHvy2KXXK7jzmzbinSGNIEAweDnfcRegMux77Mg46iy5hRSDi2lKaxn1k++tv6XK1y5SUrLdet6to0VxQKXBghqVVZpdPjaSI1tWxyB8NwcrDSFcJ2kR0Of1yMfGkg4egU3FHVg6J5zJfiMiN0sRHY777pLNqJ8DKfiFyuBgp2H6uVdAQkoP97nmEInZzPhXJwbs8SZHOMKlneXlAIJI9y3P1OqY/Z5Dmh5v/MYLD7qpJlpI8xJOcA0xCEAEFuhcFDEYksNa6SgJfIL7+0n70JpqhVc1M9aewAun4hk9cwzBB0sXXPZeZQngXoz8DUlgpBfXNazagF8uld8boLFXBiwx5rHXTcD2xV35elToKE5L7G6QYs4DB3gY8Ex0aqoIu1AzjgHIPbVUtxcCxprC7kEASdDPUdpz5KbdnjhGxjlqARoOW0W9PxX71jbh7G2qX12MiOZxWtRlzbM1EUxZQJFrnyPYV4RTmXKQ==;PQ5LHoCiqiTL6m0v29l3Lg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/new-ai-technology-reshapes-cu
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/new-ai-technology-reshapes-customer-experiences-in-online-shopping"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Interesting Engineering
@@ -43,16 +43,7 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Labor Secretary on Artificial Intelligence, Technology and Manufacturing"
-    excerpt: "Labor Secretary Marty Walsh spoke with the [Washington Post]'s Jonathan Capehart in a virtual discussion on the use of artificial intelligence and digital technology in the advancement of U.S. manufacturing."
-    publishedDateTime: 2021-10-15T00:00:00Z
-    webUrl: "https://www.c-span.org/video/?515361-1/labor-secretary-artificial-intelligence-technology-manufacturing#!"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 16
 
-secured: "oLVD+oRPksLMq0C73830TYj7cWNR68KuWvYHOMSVaDqHeCaeBmu6WcYoLZfo5lfnX9xfi5dfdl2aegO6nkYKoN05SZ4iJa433velYbp6dhibFG5XtmWR6u58qJtah8FQW+NQqQe7r4YgwuEuzHY4q99haWN7yeh38vd6webGREwoTerFptn2eHq58Fduzmeyckk6/W3+yxxfb7E1Z46meM3//Vo69yM4zTG5stHeEOuqIfwXdx8dzd7G8LfCWYC4PsUx//Mci8LAVO0b3LU1pxShavzYdOpPR0J0rjWSTEvtY1kTPydW6qYcAbN1Qhm7sDDIvwa71IF3HMikLWHQHoSCD4uLAiu96bnSqcGCaUA=;xRf6LHwG+54qz4+eSsjUnA=="
+secured: "Hr1r0kNQF76OhR+KAeCj5DgwarNredlzcXGn4XoHIDQ0y1zH14vIDst6pxwWWdolZyD9iStLtgPus6VAcuOpjrX1rrSqHxejsOcA+NPUK5KOg2/BSrxnfafjP2w0BzV/9g8myXO1sMW80FL2cqGY08XRisHUW4GQ2YWtfpGYZVOPGHHyP09As9uhUcFmXStSDKihAPT6LJBiT3F8DBV492Fchyr75nVRrChb7G5a3u7JP+9KZazWhP3WQfsRLD6RzZg09aYz/hXTsQ+7PMoMe+n91pV8udnGc2pDJSc7anOG0pOZhy4oXHJKsHg81OIneRIj2Xoa7hOIAgrLKNL+VAsyJKQr9K2TovjiXAtgJ/uOJU8xwoygMG2ELTYz6xmJIs6aib1NZYAhmSdUIaujV9bJ/BG0eh3DUldhuj4UbWcmNcmulDMCm6GNLWHV8Z06uvAHkRp4m45FMxndQSHRySwDnGov2JSBqQxJdtu/Y4mxFtLR0wvOTwxXMjPpC6+w0VOQD5HoXtaBQFIFO/C0kw==;5U5oNkiLNmzHqDVbL3fxpA=="
 ---
 

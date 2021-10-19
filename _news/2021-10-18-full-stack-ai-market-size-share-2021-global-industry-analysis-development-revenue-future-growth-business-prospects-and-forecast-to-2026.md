@@ -144,6 +144,20 @@ related:
         width: 593
         height: 400
         isCached: true
+  - title: "Facial recognition market to surpass $10B by 2028 – report"
+    excerpt: "The global facial recognition market size is projected to reach $10.2 billion by 2028, according to new data from Verified Market Research."
+    publishedDateTime: 2021-10-19T15:56:00Z
+    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-market-to-surpass-10b-by-2028-report"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Routes: U.S. reopens to foreign tourists, United's '22 plans, facial recognition coming to OAK, more"
     excerpt: "Airlines and other industry players have eagerly awaited the announcement as key to reviving a booming international travel business that was decimated by the pandemic. Both U.S. and European airlines have already ramped up their transatlantic winter schedules in anticipation of the announcement."
     publishedDateTime: 2021-10-16T11:00:00Z

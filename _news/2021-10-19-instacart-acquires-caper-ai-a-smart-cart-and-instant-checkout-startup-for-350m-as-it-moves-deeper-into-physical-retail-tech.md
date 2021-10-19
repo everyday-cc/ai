@@ -78,7 +78,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Instacart acquires smart-tech startup Caper AI for $350 million"
+    excerpt: "Instacart was founded in 2012 with a simple mission — to become the Amazon Prime of grocery delivery. In 2021, the company boasts nearly 10 million active users and over 500,000"
+    publishedDateTime: 2021-10-19T15:55:00Z
+    webUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million"
+    ampWebUrl: "https://www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/instacart-acquires-smart-tech-startup-caper-ai-for-350-million/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/10/Instacart_Doorstep_Doorway_Convenience_Delivery_Handoff_Mask_On_2328_4x5_green.jpg"
+        width: 1920
+        height: 1536
+        isCached: true
 
-secured: "uJyMKH6EQn5RXR0CA2tJfw7rNgjM4J1rfHVNur9EzEmIueIw+gVqbv5dbgmu6YeUfAseLkVqJzZjL+qedhFZ11IaW/eRLi7zaFpIUhUgyiDphOScqDQhFh24sPoX/3FmeSiM/B0vpqkAl1vjlqOvK0h0bWPinSCmih0DeOuss44bXH0L+LyC1xAu/jUMIZOpz1v8lrs6r+94k8jNh0cPdea/R7Ix+zjjs11i1+OBsqt630M/Xrhoc2RW1huQg0dnzw6Dmk/uOI742F65r1YTWcsSCRWFEVt8EJg0W5iNwF04ubiZa2Ji4qIYEGCD7uFXmjRi1fdOQ7aD/0LRlsNrIfR0HAVbanVPCDq6rhC4wV4=;BCZgB2+r0i9DXnPXaE6uFw=="
+secured: "yCom6V+XWpklKsprUriQBXK4IA0rMfOylu8EjDgjOqNHocYwHriZg0v5h/MVcoQS3zkyfYDftGu4Gvq/WqcaBvr52Ggjcen95UljxGOGT0oz/rpCs1Cl6mWfHbYeaiOmyl8iKVwPz3ZGCD3Xmel8qhkYtViiMhCAcwp1mVPM/VESLK961F7O5Xg1bnOLIwavUTTGdCwYl1zD20XCBHSEgZaLTRo/GPen967CksyQT1dDM3ojOqDZ/WZbqwDZpMkjOuks0vgLNfS+WUbBeEns5tmMlaf1Tcew2ksUvKVNcmeVWWGDJR+aYiGmNu+/bQ/2z0eAaICNq8eYG/5kNBVWSQyZ7rMu2ioz2cSm/ZiwpiyR5/PRyn4TztQolcZ22mr4q72vpV+ppPrP7MOM+cr/eJI+sh+YDeSQqXx/k+UblvbyUxQzukWtDJ65K+Fya94wl9nmMKNrvRKD3YDu3v7Vn9UR6HQenxRuN4673yvZ/oRHEPJiagEr110u85vyVWjz9MRl3kTBHFph4mN7FgpURw==;VePgtb1DhQgHVv6wtxMJOw=="
 ---
 
