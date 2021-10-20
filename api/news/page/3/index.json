@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
+      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
+      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse.md",
+      "title": "Facebook: We want 10,000 new recruits to help build our VR metaverse",
+      "excerpt": "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
+      "publishedDateTime": "2021-10-18T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained.md",
+      "title": "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained",
+      "excerpt": "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "originalUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg",
+          "width": 619,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "publishedDateTime": "2021-10-17T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
       "title": "General Availability – LiveData Platform for Azure",
       "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
@@ -449,50 +587,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-17-udacitys-machine-learning-engineer-with-microsoft-azure-capstone-project.md",
-      "title": "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project",
-      "excerpt": "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
-      "originalUrl": "https://github.com/mathisme/UdacityAzureMLCapstone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-17-nalsar-chss-to-empower-security-agencies-with-ai-course.md",
       "title": "NALSAR, CHSS to empower security agencies with AI course",
       "excerpt": "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country.",
@@ -595,7 +689,7 @@
       "originalUrl": "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -871,7 +965,7 @@
       "originalUrl": "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1102,110 +1196,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
-      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
-      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
-      "publishedDateTime": "2021-10-15T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
-      "title": "Truly Smart Robots Know When To Ask For Help",
-      "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61696387164eb221966729d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "publishedDateTime": "2021-10-15T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

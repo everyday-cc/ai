@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-08-is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics.md",
+      "title": "Is Neuromorphic Computing The Answer For Autonomous Driving And Personal Robotics?",
+      "excerpt": "Applications like autonomous driving and personal robotics are proving to be challenging for traditional computing architectures, but a relatively unknown, biology-inspired technology called neuromorphic computing could hold the key to new killer applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615fc4df8dafbfcf054d1798%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2021/10/08/is-neuromorphic-computing-the-answer-for-autonomous-driving-and-personal-robotics/amp/",
+      "publishedDateTime": "2021-10-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-11-examples-of-ai-climate-change-solutions-for-zero-carbon.md",
+      "title": "11 Examples Of AI Climate Change Solutions For Zero Carbon",
+      "excerpt": "Achieving net-zero by 2050 is nothing short of a momentous endeavor, and the energy sector is playing a key role in reaching it. No AI solutions that matter more to humanity than decarbonizing the atmosphere and winning the war on climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616035ab1537a36957a3fe32%2F0x0.jpg",
+          "width": 1171,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/10/08/11-examples-of-ai-climate-change-solutions-for-zero-carbon/amp/",
+      "publishedDateTime": "2021-10-08T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-how-zowie-diagnostics-aims-to-refresh-customer-service-chatbots-with-ai.md",
       "title": "How Zowie Diagnostics aims to refresh customer service chatbots with AI",
       "excerpt": "Zowie is evangelizing on behalf of the power of AI-powered customer service automation both to reach customers and to promote the market.",
@@ -1073,109 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.md",
-      "title": "GM-backed Cruise targets 1 million self-driving vehicles by 2030",
-      "excerpt": "Cruise, General Motors' majority-owned autonomous vehicle subsidiary, is targeting a fleet of 1 million or more self-driving vehicles by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106347579-1579655232641cruise2.png?v=1579655319",
-          "width": 810,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/07/gm-backed-cruise-targets-1-million-self-driving-vehicles-by-2030.html",
-      "publishedDateTime": "2021-10-07T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-zf-invests-in-oxbotica-to-develop-autonomous-urban-shuttles.md",
-      "title": "ZF invests in Oxbotica to develop autonomous urban shuttles",
-      "excerpt": "German automotive industry supplier ZF Friedrichshafen AG will invest in British autonomous vehicle software startup Oxbotica to jointly develop driving systems for pod-like shuttles which will be able to transport people and goods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/zf-invests-oxbotica-develop-autonomous-urban-shuttles-2021-10-07/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/zf-invests-oxbotica-develop-autonomous-urban-shuttles-2021-10-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ImaC8zvkz2jQS_2drRaWGJ47fO0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6XISEKOPZMFDPICBP7QKWBCJ4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

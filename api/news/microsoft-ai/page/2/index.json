@@ -889,19 +889,19 @@
     {
       "path": "_news/2021-09-29-heres-how-amazon-microsoft-and-google-stack-up-in-the-race-for-the-best-cloud-where-developers-can-build-software-with-artificial-intelligence.md",
       "title": "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "excerpt": "Artificial intelligence has become the largest category ... penny in the pocket of a cloud giant like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP).",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
+      "webUrl": "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images2.markets.businessinsider.com/614a7022c2c9630018f5b43b?format=jpeg",
-          "width": 701,
-          "height": 526,
+          "url": "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -911,7 +911,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-28T10:45:00-07:00",
+      "publishedDateTime": "2021-09-28T10:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -934,8 +934,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

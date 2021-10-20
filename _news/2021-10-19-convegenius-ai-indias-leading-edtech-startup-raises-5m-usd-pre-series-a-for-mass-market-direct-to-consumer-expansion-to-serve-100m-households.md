@@ -1,25 +1,27 @@
 ---
 category: news
-title: "ConveGenius AI, India's Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
-excerpt: "LONDON, SAN FRANCISCO, and SINGAPORE, Oct. 19, 2021 /PRNewswire/ -- ConveGenius has raised $5M USD in Venture Capital funding to grow its"
-publishedDateTime: 2021-10-19T05:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
-webUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
+title: "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
+excerpt: "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,"
+publishedDateTime: 2021-10-19T05:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Edtech Startup ConveGenius Raises $5 Mn"
@@ -53,6 +55,6 @@ related:
         height: 628
         isCached: true
 
-secured: "0pVbIpwsXpy5rfy5/1r6IESnR2fQtywKoqYuuobRZmnZrLIXZGGsIdzH03PiW7TiiY1Aq9vCpkaG8v7wqaAivLGASxXepHivZVYTFQG5aL3SSJEHl7CIw/BFLHE2mVoSfMIFkTPQAZuMHr2a8wd6VfCdYkpbYJT/XS2Wgh1vGRe4AR6RpcrOmguj9MoZAVKazh4Ws5zIzQz7xs/Xaliua/o65DOuNhKp9tG/BJR2i2+0/nz+PIsNTIhDU3WnJD9o3hE5SXZx8ZtT/ZNbd+tqLxoiMJkYQZ8ZXc36MF0QMuoicS8UGtY/AmwheZ8BXZd4ihV/kB2O2KfSvmjpISqwE6HHt4jiMAgeutoqIzg9KKs=;Go0hlcnD56sx3qWLqEBBKg=="
+secured: "rkKFXjaB1qzvXMrbqIwB8azKU31M+CPI07xv+i0oBeuQsmLOyrwAWFpila4shxvlq8Tirm3PGETpcLfNxCRttpxNMQubXDmMuCTFJVkVZPfz+x6UJv9FYeOQ9VSLZFnDDQ+iAdIlcYpRHHL6StXOoKQnFuP9FBfMJVwEf32W5uvULG2G5X8Hqwq4dEBjK89LEzJRcZ9EFPf1/ZJnirMoxlJ88V4QiAEhbQK0T8ky9AYoHFNRO3zVbPlRcINfmpN9qXiKlNWpp+XC6lkxJ5i3+f8q0uCZ8a/CwFpVKNk8URHMzmVBdFzmjgyma0W4Y+jKyCnLas9HjbR6Rnsu979ji0sQ/poCYMmBTSTtLZiGRF0=;SYVEGppJujPTBtF+KN+qMg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/google-tensor-explained/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-tensor-explained/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
+      "title": "Mozilla artists question whether AI could predict police killings",
+      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
+      "publishedDateTime": "2021-10-14T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
+      "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
+      "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
+          "width": 980,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAW",
+        "domain": "wsaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-writing-helper-copyai-closes-on-its-second-funding-round-this-year.md",
       "title": "Writing helper Copy.ai closes on its second funding round this year",
       "excerpt": "Copy.ai’s software can, for example, write a blog post outline based on a few sentences and create link descriptions for Facebook ads and even generate a company motto.",
@@ -1072,82 +1167,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
-      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
-      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP. The European Banking Federation (EBF) – uniting 32 national banking associations in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders.md",
-      "title": "AION Labs, Biotech Innovation Lab Launched by Top Pharma, Tech and Investment Leaders",
-      "excerpt": "AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders-301399164.html",
-      "originalUrl": "https://www.prnewswire.com/il/news-releases/aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders-301399164.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

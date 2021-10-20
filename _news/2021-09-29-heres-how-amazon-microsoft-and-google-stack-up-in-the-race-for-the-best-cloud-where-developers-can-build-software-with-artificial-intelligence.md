@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2021-09-28T17:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
-webUrl: "https://markets.businessinsider.com/news/stocks/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
+excerpt: "Artificial intelligence has become the largest category ... penny in the pocket of a cloud giant like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP)."
+publishedDateTime: 2021-09-28T17:55:00Z
+originalUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
+webUrl: "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9"
 type: article
 
 provider:
@@ -16,15 +16,16 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://images2.markets.businessinsider.com/614a7022c2c9630018f5b43b?format=jpeg"
-    width: 701
-    height: 526
+  - url: "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "Cgm+qaOrIxtw/rgXxEcjFQsm7as5ltmIgh2OcYk+G3P5Z4JaIZsHVuW+5K6A6vmhJPhShkC8/hItyQZuTY3lb1bEP28lKkyiUcTSLrhzkFOgZ7BR6QtYsEHsodEle53bgwdYdrGGayABrBvtpQe/dfKwBLrfLCH0rv+/R47Aqcq2lloxLGQENA5lTiFMB6IPf3Ea4fxGRpt3nbGb88u22IMg5gdWVxmj2Rv/zNKnSPNFQzZZkJ6A5yu8UMpkuAL0Oim8c7Ujo0rBv2dWp8EyamX8JHKbVxTBaF3xH0501ibYVKPVlFX0S3XV7B57A7hhbnMmxuuQQk8GgF53LwzZayDiXtWdU3NNz5BShWNPMys=;KJgviCtfi31Ecy2eYGEsCQ=="
+secured: "n0HDvjwFKBuXkTILai5I6LPlYZY+teZnSkk1JAxAFCrB9yI6KnqWMVEtVDkewlVe0ybgzf9wabY8gK4ueUriAdpL0JvumPA6zzlmyTWwgN32ZktNRLf3lr9l2z60URiJcYdk4GA0pdYMMucE1jFZ9twHYxmBedb+rlw8mwJ3ltznxmHKxVazmX2hc3Oin0tUjaK8444ISMl3D8I15gLoa8lPY1q4pj750AQGVhvqx691ONw4E+jaV5RnZYy5MAcbMO5HUXn5PIGUa/0rroUOeNJaqBaBDDRLvSq7/lLqfpw5HBu+gNJkq+8QjOI2oP0HhPhvTzubHVdMiNzqHFh5KzeFCFZaJKQaxPrwhVrs9cs=;hLWE1dvRISOAZqCC984q0Q=="
 ---
 

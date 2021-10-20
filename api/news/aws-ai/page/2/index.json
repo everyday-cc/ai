@@ -257,6 +257,59 @@
       ]
     },
     {
+      "path": "_news/2021-09-29-heres-how-amazon-microsoft-and-google-stack-up-in-the-race-for-the-best-cloud-where-developers-can-build-software-with-artificial-intelligence.md",
+      "title": "Here's how Amazon, Microsoft, and Google stack up in the race for the best cloud where developers can build software with artificial intelligence",
+      "excerpt": "Artificial intelligence has become the largest category ... penny in the pocket of a cloud giant like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP).",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-microsoft-and-google-cloud-artificial-intelligence-compared-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6024018f67d1e300113c5405?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-comparing-aws-microsoft-and-google-cloud-cyber-security-in-the-public-cloud.md",
       "title": "Comparing AWS, Microsoft and Google Cloud: Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data and app security capabilities AWS, Microsoft Azure and Google Cloud provide to prevent cyber attacks.",
@@ -1399,58 +1452,6 @@
         "name": "manometcurrent.com",
         "domain": "manometcurrent.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027.md",
-      "title": "Artificial Intelligence for Accounting Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027",
-      "excerpt": "Sep 17, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

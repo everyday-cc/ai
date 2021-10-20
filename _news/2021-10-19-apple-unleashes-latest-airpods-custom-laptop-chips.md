@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/apple-u
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/apple-unleashes-latest-airpods-custom-laptop-chips/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

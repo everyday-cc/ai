@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg"
         width: 720
         height: 405
+        isCached: true
+  - title: "Schools warned over facial recognition systems"
+    excerpt: "Schools using facial recognition systems should consider less intrusive ways to let pupils pay for meals, the UK's data privacy watchdog has said. A small number of schools use the technology to allow pupils to make contactless lunch payments."
+    publishedDateTime: 2021-10-19T14:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58969136"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58969136.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58969136.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4E73/production/_121138002_schoolsgettyimages-912173760.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "ICO to step in after schools use facial recognition to speed up lunch queue"
     excerpt: "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments"

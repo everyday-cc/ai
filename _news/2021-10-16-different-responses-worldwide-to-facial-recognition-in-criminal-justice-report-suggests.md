@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/different-responses-worldwi
 webUrl: "https://www.biometricupdate.com/202110/different-responses-worldwide-to-facial-recognition-in-criminal-justice-report-suggests"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1800
     height: 734
     isCached: true
-
-related:
-  - title: "Facial Recognition Crosses a Line with Mask Removal Features"
-    excerpt: "Clearview AI’s facial recognition now includes mask removal and enhancing features, but does this cross a line? Find out now."
-    publishedDateTime: 2021-10-19T14:12:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/facial-recognition-mask-removal/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/10/Facial-Recognition.jpeg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "3t27VnqfW5yM7LX6/Z5OclRiX8CQEWtWl9bDHcdAAsEl+G+TwSDpqY9A3ASatl4vRgLpZG6pyvYfcBaReH6kgHAL+YP315DQ/dsT+8FVr2sZLrc3rsO2pOwehTwvXdZkMOOdmAUVDTwJZJObQGa5g4RzrLgP7Wzvv6aR8k6lWKOYDzN/CsSumyOroRT4SLda+shcCfDamcTt7Qy3kP0mRxjyDfhjWzqSKLPDiIoZR6OM4Mj2apJWnlyb9V9bGNKqFZUYDWsdKEHc8qYkm4wJ1AsQXOLy0CQTyf0wk7Gtj8uSaWho/9J7MqYXy87W6j3y5WJHXFLVB/+7Zn8G+/GPcyM7TxCvlcyQ6bIHOgWNX0U6tGzP6HSHRSuxhmYGk0RafW65lmemoXUwzISl4vHLwpS8bElkx/+/lln0pCFaWT4nPy0T5tRLpWev57RV0GMRvmzwkX+d/8jOvm/L41DLZHFXnXbt/oZfkxDojHg6VEzbbg4PYQJxCVdDqCbdbuTEZ5plQ7IPV6U2BH+BCbqKeg==;/iMMk4TApOnGw7zQcBMaxQ=="
 ---

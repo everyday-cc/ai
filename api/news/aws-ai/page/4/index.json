@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-03-define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language.md",
+      "title": "Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language",
+      "excerpt": "You can use various tools to define and run machine learning (ML) pipelines or DAGs (Directed Acyclic Graphs). Some popular options include AWS Step Functions, Apache Airflow, KubeFlow Pipelines (KFP), TensorFlow Extended (TFX), Argo, Luigi, and Amazon SageMaker Pipelines. All these tools help you compose",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ML4675-image019.jpg",
+          "width": 400,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T08:47:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-03-artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit.md",
       "title": "Artificial Intelligence in Accounting Market Major Competitor and Strategies Analysis| AWS, Microsoft, Intuit",
       "excerpt": "Pune, Maharashtra, India, September 3 2021 (Wiredrelease) MarketResearch.Biz –:Global Artificial Intelligence in Accounting Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized ...",
@@ -1340,49 +1393,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-18-noodleai-is-now-an-aws-advanced-technology-partner.md",
-      "title": "Noodle.ai is now an AWS Advanced Technology Partner",
-      "excerpt": "Noodle.ai is tackling the industry's toughest demand, inventory, and production challenges, leveraging AWS's infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/Noodle.ai-is-now-an-AWS-Advanced-Technology-Partner-148475.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-17T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

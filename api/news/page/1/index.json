@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-20-microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud.md",
+      "title": "Microsoft Azure: How to Maintain Your Security Posture in the Cloud",
+      "excerpt": "Interested to learn about the Security Best practices, Azure Security Suite and how to Maintain your Security Posture in the Cloud?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137",
+      "originalUrl": "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F165463859%2F418831787415%2F1%2Foriginal.20211012-091654?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8daddc6c66ce73cf960ced47613ddbf7",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-convinced-your-dog-is-a-genius-scientists-want-to-hear-from-you.md",
+      "title": "Convinced Your Dog Is a Genius? Scientists Want To Hear From You",
+      "excerpt": "The 'Finding Rico' project is looking for gifted dogs all over the world to better understand canine intelligence and their capacity for learning human words",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
+      "originalUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7ed387a19a8ae16ace7b83575d455501.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
+      "publishedDateTime": "2021-10-19T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-pixel-6-tensor-cpu-design-revolves-around-machine-learning.md",
+      "title": "Pixel 6 Tensor CPU design revolves around Machine Learning",
+      "excerpt": "This shouldn’t really come as much of a surprise. Google is arguably one of the kings of machine learning (ML) and AI, technologies that it relies on to make sense of all the data it",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "originalUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/google-tensor-1.jpg",
+          "width": 1441,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
+      "publishedDateTime": "2021-10-19T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
       "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
       "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
@@ -54,6 +202,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
+      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
+      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "publishedDateTime": "2021-10-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
       "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
       "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
@@ -62,7 +253,7 @@
       "originalUrl": "https://fossbytes.com/google-tensor-explained/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -149,7 +340,7 @@
       "originalUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -785,7 +976,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -931,49 +1122,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-19-deep-learning-improves-interpretation-of-tumors.md",
-      "title": "Deep learning improves interpretation of tumors",
-      "excerpt": "NIBIB-funded engineers are using deep learning to differentiate tumors more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-improves-1.jpg",
-          "width": 800,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp",
-      "publishedDateTime": "2021-10-19T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
       "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
       "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
@@ -982,7 +1130,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1074,160 +1222,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-edtech-startup-convegenius-raises-5-mn.md",
-      "title": "Edtech Startup ConveGenius Raises $5 Mn",
-      "excerpt": "The learning platform aims at making quality education accessible for middle- and low-income groups across India and make quality education accessible to 100 million marginalized children in India",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391976",
-      "originalUrl": "https://www.entrepreneur.com/article/391976",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634643652-visual-stories-micheile-lZ-4nPFKcV8-unsplash4.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience.md",
-      "title": "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience",
-      "excerpt": "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d87b8ba8a26abd01463cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
-      "publishedDateTime": "2021-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
-      "title": "Desperate for Workers, Restaurants Turn to Robots",
-      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "publishedDateTime": "2021-10-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

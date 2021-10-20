@@ -52,6 +52,20 @@ related:
       name: WOFL
       domain: fox35orlando.com
     quality: 37
+  - title: "How AI interfaces can help therapists provide better behavioral health care"
+    excerpt: "Enhanced mental health care that integrates human and artificial intelligence is in its infancy. While there are significant challenges to address, the potential benefits are enormous for all stakeholders: patients,"
+    publishedDateTime: 2021-10-19T13:00:00Z
+    webUrl: "https://medcitynews.com/2021/10/how-ai-interfaces-can-help-therapists-provide-better-behavioral-health-care/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/10/GettyImages-1140691167-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
 
 secured: "ZcWBYl7hB/9etA47i6OHkJS2ihHtB+OyNjdAm0zCQGjlErDt7frhwjIizG+XXqpjew3adCb9MtNTKUkMzCYwf4I16NUy3Qb6xVH3u7yBK6mXf/HxzW8Aag2e/qTUoUrlxQrL99dgbvXQUYWG1inMR9dm0q5IhdUDPsS8enAm86rlEQD3xtwRfpWSCKz5GhljKG4ZXsNH87rQIXnPFbLMCD6YxhpYd7LSNrFQyl2dom+UCo3KHmeQrVZ7RXMixWiN+v5GZqS4/GdR7Iqr3+6uHrRdrnybYSqTCwXMAHkXAGWJevR/04RtaAK5PN9BK/FOVoep5wToxdGwt05qdBj+SB86m/HDK4QBMsqAW0NU0tsXc1Q7FUGcMQz/Wa22KguibAjzpYWGG8iNWjxygQKcDR8C9m4LQVILojfcRjJVl5gcAXu3EJ67nKoemrmd0q0IY3wQYn9tgJWpTpVoh5L0uQwM+UHES95tvA4oXgzyA6N0Lm0hfbayLk1W5b+Den7fWLDdFlGr7LocPUL2Q/euUg==;ln3yB0wQiYImJQcq3Rw6Mg=="
 ---

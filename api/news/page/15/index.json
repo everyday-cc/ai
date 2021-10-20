@@ -2,6 +2,110 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "publishedDateTime": "2021-10-06T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
+      "title": "Box taps deep learning to detect sophisticated malware",
+      "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Malware-Deep-Scan.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
+      "publishedDateTime": "2021-10-06T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-microsoft-for-startups-aniai-picked-for-global-grand-final.md",
       "title": "Microsoft for Startups: Aniai Picked for Global Grand Final",
       "excerpt": "Aniai was selected as one of the 10 startups in Q3 by Microsoft. \"Microsoft for Startups ... Its robots are further reinforced by its unique cognitive technology with artificial intelligence ...",
@@ -996,6 +1100,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-06-artificial-intelligence-ai-robots-market-by-application-regional-analysis-global-forecast-by-2020-2030.md",
+      "title": "Artificial Intelligence (AI) Robots Market By Application: Regional Analysis - Global Forecast by 2020 - 2030",
+      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 00:22:48 / Comserve Inc. / -- The Artificial Intelligence (AI) Robots Market is expected to be around US$ 15.50 Billion by 2025 at a CAGR of 29% in the given ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-by-application-regional-analysis---global-forecast-by-2020---2030-2021-10-06?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-by-application-regional-analysis---global-forecast-by-2020---2030-2021-10-06?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
       "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
       "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
@@ -1037,144 +1193,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
-      "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
-      "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/sites/contentbribes/FTO-nl-popup.png",
-          "width": 800,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
-      "title": "MLOps platform Domino Data Lab nabs $100M",
-      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "publishedDateTime": "2021-10-05T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

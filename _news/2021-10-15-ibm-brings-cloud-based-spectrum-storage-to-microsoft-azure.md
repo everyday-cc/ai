@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure: How to Maintain Your Security Posture in the Cloud"
+    excerpt: "Interested to learn about the Security Best practices, Azure Security Suite and how to Maintain your Security Posture in the Cloud?"
+    publishedDateTime: 2021-10-20T01:53:00Z
+    webUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 86
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F165463859%2F418831787415%2F1%2Foriginal.20211012-091654?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8daddc6c66ce73cf960ced47613ddbf7"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
     excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
     publishedDateTime: 2021-10-16T19:10:00Z
@@ -38,6 +52,20 @@ related:
       - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Skytap Certified to Run SAP NetWeaver Workloads Natively in Microsoft Azure"
+    excerpt: "SAP Cloud Infrastructure and Operations certification creates a path to the cloud for tens of thousands of organizations running SAP NetWeaver applications on AIX on-premisesSEATTLE--(BUSINESS WIRE)--Today Skytap,"
+    publishedDateTime: 2021-10-19T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=549337"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 52
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "VirtaMove Launches on Microsoft Azure Marketplace"
     excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"

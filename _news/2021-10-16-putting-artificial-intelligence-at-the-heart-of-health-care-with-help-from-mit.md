@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-he
 webUrl: "https://news.mit.edu/2021/putting-artificial-intelligence-heart-health-care-demilade-adedinsewo-1015"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: WOFL
       domain: fox35orlando.com
     quality: 37
+  - title: "How AI interfaces can help therapists provide better behavioral health care"
+    excerpt: "Enhanced mental health care that integrates human and artificial intelligence is in its infancy. While there are significant challenges to address, the potential benefits are enormous for all stakeholders: patients,"
+    publishedDateTime: 2021-10-19T13:00:00Z
+    webUrl: "https://medcitynews.com/2021/10/how-ai-interfaces-can-help-therapists-provide-better-behavioral-health-care/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/10/GettyImages-1140691167-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
 
 secured: "yWvX1MZaG1mLwQ4Rh25HQ0Xs6sW9vWIekGHjA+aDJqVGPcZFEoNlKsy0wCxKOmH82VqRo6vDn4Ih4QmzGbL3fNoxfpWIprd40cCbAxqkhyO+ds6w1ZSXt0yQ3OvR4tRFourdxTeHPDHg6B51rrLHHjZWLLIe7EEOSM8NWXp6jdJ6jrt5jaGWbt4NPcHvgB6Ec6uXPumuQumyYyfAk56YiZFHLKuJMcKFTgAN5B3Bqla1ccKhvnmkEaUIVBziBL9m5Gbil4Su6+jiX+fjDANDQ516VWCxaZfMLkBrgfLME+VFsYZ38N2ETdftdK3YX0KCfFO5ZqgTwGhpyV1Vh07m/zqve19eATzdKn7ZsEngg50=;oW03ZXFmRabLj1GHK+wEig=="
 ---

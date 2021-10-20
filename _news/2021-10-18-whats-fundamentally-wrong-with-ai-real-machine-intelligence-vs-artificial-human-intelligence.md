@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-17T17:25:00Z
 originalUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat-abdoullaev/?published=t"
 webUrl: "https://www.linkedin.com/pulse/whats-fundamentally-wrong-ai-azamat-abdoullaev/?published=t"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHqHD9eMBnUlw/article-cover_image-shrink_600_2000/0/1634408843448?e=1640217600&v=beta&t=UqxfmYUSgBJMX_aDmwqHahXjiVqbe6jVB2uDQZ8xoqk"

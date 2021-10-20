@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
+      "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
+      "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "originalUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19894cca4b0468a528607c83b4f597e6.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-korean-robo-advisor-fount-bags-334m-to-advance-its-ai-based-platform.md",
+      "title": "Korean robo-advisor Fount bags $33.4M to advance its AI-based platform",
+      "excerpt": "Fount, a robo-advisor startup in South Korea, has raised a $33.4 million Series C round to beef up its machine learning-based platform development and hire staff.   The latest round was led by Hana Financial Investment,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "originalUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Fount_logo.jpg?w=892",
+          "width": 892,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/amp/",
+      "publishedDateTime": "2021-10-11T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape.md",
       "title": "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape",
       "excerpt": "\"The availability of high-quality, domain-specific language data powering MT models has become ever so significant as AI-enabled automatic translation becomes more and more common. We are pleased ...",
@@ -1080,102 +1184,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-robots-with-an-artificial-intelligence-system-began-operation-in-dubai-uae.md",
-      "title": "Robots with an artificial intelligence system began operation in Dubai, UAE",
-      "excerpt": "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "publishedDateTime": "2021-10-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
-      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
-      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
-          "width": 679,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

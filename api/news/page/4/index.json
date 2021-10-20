@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
+      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
+      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "publishedDateTime": "2021-10-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
+      "title": "Truly Smart Robots Know When To Ask For Help",
+      "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61696387164eb221966729d2%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
+      "publishedDateTime": "2021-10-15T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-embrace-the-era-of-change-and-evolution-with-self-learning-ai.md",
       "title": "Embrace The Era Of Change And Evolution With Self-Learning AI",
       "excerpt": "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI.",
@@ -1121,101 +1225,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-mozilla-artists-question-whether-ai-could-predict-police-killings.md",
-      "title": "Mozilla artists question whether AI could predict police killings",
-      "excerpt": "Future Wake is a new art piece that uses AI trained on real law enforcement data to predict future fictional police killings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "originalUrl": "https://www.zdnet.com/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9770718bc910fb3a5b8afd1b45ca96f667569398/2021/10/14/850ff2d8-5c7b-4f6c-9daa-e387beb94c54/untitled.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mozilla-artists-question-whether-ai-could-predict-police-killings/",
-      "publishedDateTime": "2021-10-14T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-deloitte-launches-cognitivespark-for-marketing-artificial-intelligence-solution.md",
-      "title": "Deloitte Launches CognitiveSpark™ for Marketing Artificial Intelligence Solution",
-      "excerpt": "Cloud-based product for life sciences companies leverages AI to boost patient engagement and improve digital marketing value measurement",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "originalUrl": "https://www.wsaw.com/prnewswire/2021/10/14/deloitte-report-reveals-technology-divide-among-mid-market-private-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/P9Vr7D7qAug7OEmKFwSjYfWssTY=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/EVHOEHUAIY4IKZ3THXYXAGGJEI.jpg",
-          "width": 980,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

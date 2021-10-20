@@ -36,6 +36,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Alibaba Cloud improves cloud services with new chips"
+    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group’s chip development business,"
+    publishedDateTime: 2021-10-20T00:52:00Z
+    webUrl: "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/"
+    ampWebUrl: "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp"
+    cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp"
+    type: article
+    provider:
+      name: Manila Bulletin
+      domain: mb.com.ph
+    quality: 59
+    images:
+      - url: "https://mb.com.ph/wp-content/uploads/2021/10/38431.jpeg"
+        width: 1094
+        height: 730
+        isCached: true
   - title: "Alibaba unveils custom Arm-based server chip"
     excerpt: "Alibaba has unveiled a new in-house processor that will be used to power servers in its data centres, as China aims to increase its domestic chip production in the face of a globa"
     publishedDateTime: 2021-10-19T09:57:00Z
@@ -79,6 +95,6 @@ related:
         height: 396
         isCached: true
 
-secured: "Xnfj57Zz7SNuPAqiuj65ZRKlvIhZUsmtfXMqrEbSnE57oWCaeTtAQK56yJTg8404mjaOZliYHSyevcn/awQoYtAeX08n1JD8mQAGaQUPLJb152TPhIaRjQbGv0NigVq/Y53yJvkpTR//tSm2+TKWJn7SFIJdLdm7+bt5t7FU5Xblu96TlvnvKMcljgJQ/Xd1WMliYeYgBcDfxukoLSzLvI8pUcWE7QhDM4JGg9VzJLfW8184064NNcg96NJBLr7yRWAjoJ/8TeR+ZAmfmSIovkTpHtnuzjGol2eZRY7mNvu9ZHNBmov1H76OdhsQf3bEkW6zQrRLhkzXGN16JDRuDAkwP84rSUGXy+W/unGGo7Y=;HUmD6uWMT12xTi0iCRFGpg=="
+secured: "kkdMUeAiOTqkzlxjbaIqws+V5ssnLrSUmvkr3hwP/VfxEXvHU6XSDhcd8blraEXIcLS0GWnO3rS85Q8YDqZz5Js4S53dcRPQwxhWsL5ZG++p8zQ7O7obLMGoJbZmC96MaR8e2vhzfTT6656x5w0UiJ7UhH5EMpd7yFdRbY2AGSIu8pwQFNK0NWOIEvReIC72ut58hZCKZ1Y+kJbKdgXAiPDBIZqzdeqDvfGWDCwENj3RI6Lk1JsK75iI2Mx7ieJon42JC8evdzJdOaL2p4rRHMEex9lAkIzVLYpRrMpvyuWn6qgyu3XRDkOtAItGdvIi8GfZ3K/VtcZMTUrogQ0z73C5rQY5PTGPRq1fX71jIJzrjavIRfsXrtX/elAQwdpPzl+1oC+aUo3tNkE65NbiwwYw/SDD0/iKveK1WSsZdOAFy2k22sSTAcAPVgqq5OGkUEPQLOyuzCIt7ZsH1j7bnRAZT6KumNoR/jTM5OHkgosiHeeW0XCd1ZNXREltyDUb25EMf82VfI7eheBm4MlRyg==;PD7gS0wvjoIU8rGZ57BQeA=="
 ---
 

@@ -159,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Schools warned over facial recognition systems"
+    excerpt: "Schools using facial recognition systems should consider less intrusive ways to let pupils pay for meals, the UK's data privacy watchdog has said. A small number of schools use the technology to allow pupils to make contactless lunch payments."
+    publishedDateTime: 2021-10-19T14:50:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58969136"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58969136.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58969136.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4E73/production/_121138002_schoolsgettyimages-912173760.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Schools in Scotland start using facial recognition on children paying for lunch"
     excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
     publishedDateTime: 2021-10-18T10:29:00Z

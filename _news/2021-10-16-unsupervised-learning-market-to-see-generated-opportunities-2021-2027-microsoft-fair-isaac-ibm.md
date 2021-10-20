@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2430121/unsupervised-learning-market-to-s
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
 type: article
 quality: 62
-heat: 113
+heat: 112
 published: true
 
 provider:
