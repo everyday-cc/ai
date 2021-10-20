@@ -5,8 +5,6 @@ excerpt: "The words of John Denver's \"Take Me Home, Country Roads\" came to min
 publishedDateTime: 2021-10-02T16:59:00Z
 originalUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
 webUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210929173358-01-nasa-mars-solar-conjunction-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-
-secured: "n7jfa1+9OxrU2cmbNPNGyqL7DHN8STO0Nb3IaH5kNQFNIzehygHPqcG4z6lwMpCMTj6+CDFJg7NgmUoQ0UUw/O5ARbmA40SWpa/o3HFyAnvviNZnLK1rTlGAX47rYXhGHfiv/v+6GILS1+9QwUk7e4g0ybCpeF7/BTZdINBISffwisHli8LtUG1nPhi+GMjmcA5NEel/mUW6H3XRFednlrf7bvFkWIPlIuU3n4coj7LMLMY4YfOY3nLkKAs9pCUKKQLuYSUlio9dSt+wUohbSrBtwcfWlPdj2QjIrq7B1AYsExH7y1/nSkXb6zvrUazYSR1GPuY0dgVHzuzJ7O3/zh/+qyOpC5QPQfR6mUbEApM=;EHD5j2zhj8ub7fJ/+HGt4A=="
+secured: "GVRvrPeK200VUvVlF4Br3dPAs/vTiGLRc5iZRKLYoHwcQDX0pqFeGZwduCQ7Sn4VxejZZAGlMqVEa3lU6tZyQ/FI8XeBZ8PQI4Z1huCsryXoemeKOUpLPY9yExJRNR3wUb2DLwr1p9DqMUPUDKmQn/UbkFof6qVQ7XUnjUPvm2UHGAZrLO8tYGoeaXmnePa0V/D8ZOjuDGcsy1mbPvEVXq3vHXd2QegB4EKXXFCkF7LAbE1VfTyVwza7S0w5fdcg5i0FJt1Xs9FHAQm52+Zz6cWvrBzE5sq7a1oz815ORjo8yzWTITFlK8QB6HJomqL8ZsM4TOLtgz28QKybJjTX0mHMWcSkwNLuqP5xRYgeICM=;o41F6yHmQDKaJJL2oHPhFA=="
 ---
 
