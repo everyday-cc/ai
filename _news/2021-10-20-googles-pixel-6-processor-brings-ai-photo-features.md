@@ -3,14 +3,9 @@ category: news
 title: "Google's Pixel 6 processor brings AI photo features"
 excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
 publishedDateTime: 2021-10-19T17:00:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-58955304.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58955304.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-58955304"
+webUrl: "https://www.bbc.co.uk/news/technology-58955304"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
   name: BBC
@@ -19,76 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0C1F/production/_121130130_pixel6pro_sortasunny.png"
-    width: 1024
-    height: 576
-    isCached: true
-
-related:
-  - title: "Google’s Pixel 6 camera smartens up snapshots with AI tools"
-    excerpt: "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,"
-    publishedDateTime: 2021-10-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0413.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Google Tensor debuts with Pixel 6 series, it bets on faster speed, AI, Advanced security and Machine Learning"
-    excerpt: "For the first time, Google has released a phone that is powered by its own SoC. Tensor is a Google project that was first announced earlier this"
-    publishedDateTime: 2021-10-19T18:41:00Z
-    webUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447"
-    ampWebUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
-    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
-    type: article
-    provider:
-      name: pinkvilla.com
-      domain: pinkvilla.com
-    quality: 74
-    images:
-      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/aryan-khan-main_6.jpg?itok=hyL2W6kr"
-        width: 375
-        height: 240
-        isCached: true
-  - title: "Google Pixel 6 Series Uses Powerful AI To Make Service Calls Faster"
-    excerpt: "Anybody who's ever been discouraged by long wait times during customer service calls should be looking at the new AI-powered Google Pixel 6 series. That's"
-    publishedDateTime: 2021-10-19T19:13:00Z
-    webUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/10/Pixel-6-customer-service-calls-features-presser.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
-    excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
-    publishedDateTime: 2021-10-19T20:19:00Z
-    webUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/10-design-pro-details.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "h4znPeJ80TG+HWccKCyd76XzyHZ2FUnCT59u8/h82IPdNiZiwbE92wCN3qCL8fZXHLHjJ+So88Z6W40IJMuXzTdZugIVhAu4isW5gZQsWpIH560gsGZimbPROCHhDKiYi7Nkqgd9vd4Dz4swyQnvRX4ZyT2Qui/sZCXYBZZ/XQqGJsULHh57LS4tatLZMW78vixyoghmmyVTOS34Vuk4vFfA679NAZwmmHBDm2JXbxlnelbvErkGY+1V62GTc6IVHjssBxFtOfoM2EXWEnsEb/eU2f/5ix6+gY4UUMgIAMDvrB6ia3tNagCWTq1VpfUfRgcB8Ic5nTnmcIfDdOwWoDcYMnyIrHAQdCPfJyiyePg/utX80TzGH23sXx4dDKvr8JBe4Jmza7Ko7YhWoJ/DzfpbqiwF0PcczMxTQz/2SIX4mtRo3XQqEWBvFx38nq5kYoaskUm/OEqNlVYrC61Vz60P2tiTW4R7f0SEuihPhexpZbHbzZJWLowhP5m1jWNfeKeSvQi7XqjCDWRHKB4UVA==;HsAoNEyrZgjYsKtyo2bvCg=="
+secured: "whj2+aNB55qdIHWs9f8+498CMYQlXp4EXQGnGGUKAkALjDomqlC5hzj6Y42XEpPWfpD7Z8cINn3mtejkN3e4ozb0enIt87LgQm+Z3SPd35bt65RKA7NL4E8JjpacrK8sU06PhL8eBztcFyDd2H+y+0iFQgfcmgBgRcBLBzmnXBQpy4nfBBqfO+1n9CeE6teBlwvldDRnbQJzFC4mIJnYmD4I7WHhe+u4aYl3E8z4/PBKqDV7uvEUMh47GfeJ6we/WeigKFA46qvf5jxy1UNyD6jrA6QuQz/fnqt5/4cbiFvrwj51dUVpFZSuir6K344R+l25GBQQrJFlnZGe2gVDi/Ib9cWXUt9eb19POJlY9D63+QTU3iZomBawlYka7OQnhPvvJKE/W+dOQxvjKSeBphUXWPEmiOeG1FMQgz0tj86jDhZePY313P3WSdH3aqiRQdd3DFPwxjbuK8kcuUSMfthLoggN8qlBnVp9lJTMCqG67TZ6CjlB2W/3KOUGaRSP5Kaa+Ow2iEBYUawnk2g+tQ==;sEzZto0AxJxpZQWc/z0HuA=="
 ---
 

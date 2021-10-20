@@ -1,33 +1,20 @@
 ---
 category: news
 title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-publishedDateTime: 2021-10-18T09:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
-webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
+excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+publishedDateTime: 2021-10-18T07:21:00Z
+originalUrl: "https://www.wsaz.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+webUrl: "https://www.wsaz.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
 type: article
-quality: 65
-heat: 65
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WSAZ
+  domain: wsaz.com
 
 topics:
   - AI
   - AI in Education
 
-images:
-  - url: "https://mma.prnewswire.com/media/1662386/SenseTime_co_hosted_3rd_International_Artificial_Intelligence_Fair_Shanghai.jpg"
-    width: 686
-    height: 400
-    isCached: true
-
-secured: "CwOhTiMJLVWas8qMF5EKmhyOjsgS2wWtr/fu2sWCY/ozjmTnQr+3cncH9oBOh0JrfPTQFOKnqJD7bj7RYvdxp3Sf2dsA6olnKmbcfZGLmjjtzdiXylitQwTfz34HekMtfdUDluAjPlwGXfTyFJBee0i8jbMQ7zwBZo7P4Y6pa3jeFGMOkH+lK6qZXZQE6WO/fJNA9Q3OvT9lf4l2XTEmyOeZpMF68tYIsvHlEiVjmfHKIVa1Oopc5aWkJ9mn43nCSU6LNWdNlGL1D6+eGRMGvRAXZ07hsJTn6IBAS/LFVP5p+S3aOMNx68abmepJ1O2bfZKxZHSsGbjjqb6CyIPyYPS/ejQkFAMjqDO8sf+g/MIjIWL1gubUzNgWkh2mYcWVgjzhhotG3fcXocpk00xPDPIrE7gR7YVAvmNPShFyxY4ooF0kKB3VghZwYVtIHtIK6jqLWW32sNpi92nZm8+B8Z+9cTd6DEWt3BQqeSfUUtDkP/WozDte3JFU57o+WGTU4Le4fPMEU9PX9YxRl6q9qA==;/Zgc3mQHu3ZiUjBxXUgKFQ=="
+secured: "Abva+PWXbJAcQAdrAhnrG6TMpUquWxoBkv578hoMhPgBTS9w+thJaVUKlzyNUPLo4lRCsNf3+utIoKYWvqyhFCC9od+RzAm07u8GvC5xs5d7KfGwlSnIGfkwRAcdSIz60lY71tpdUo+OIJKU9U3K8As+Fn3KG9DMvyi/ZQvot/dbSCabrys6wrUNtDzWyKK0RfQ16yhTah8nrQatyEOY0gJEt2PweGS8AKBR3gV15dyyw48JTf1E6htENpSlrurTwZ8XVFLkJCeumY0sI4HRvZsTAecMW83OhodDm5ZIY/QD7IhqJ+3vVTSnBjfklMUU6yFRjl8dIEXACoemAHVBhJfRVJBAcWadoyOpk3wJiZ6nY4RXKRfXHA4Wrps7VO4Z/OUrGsoj8VQhtM11j0xrQC2OYAyMl+9EGFMs/unxIXsXSMLqeeAJi+TWEMecpPFmFD1VslXDhgosJhJvNtwmPDMmRyW+X5x6TTwCYpTAJONdi8+SrS4b394QzYRAlXMNC1wG9pQ8RviOrcMIwj0poQ==;bBFL0m4fg6/BiKyQzAql+A=="
 ---
 
