@@ -8,8 +8,8 @@ webUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/"
 ampWebUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
@@ -42,6 +43,6 @@ related:
         height: 379
         isCached: true
 
-secured: "KMlrvwzDsqQztSdKmhganRFQmd/YtfPa0rbI9SiqqZj8eVcPcX8+l5q/TfZRjeJrh1BgfeR8tX0oi07bnSIO7jZe9KkE+wjuF+Vflq2+/QIX8YG6pPORk/53fKZM8tF1a0cpiDosehxk6fTl88T6PCbiGReETzmI6vr6OpvsBhjyYx+0q1qZcuVq+BHegyql4tMM6+DaWcv3aht03IJ27fn/I//tLtMyMMLyBM+yASyHc8HtnJR1CDnP63xu75NLBjOuF5+awH7vbfxHQLt9AzmkPSzM8wasIvCd4SPL7dwIGFm/iS7Trtqv00Dcs3UIz6u7mPSb0bWUCe4/OJQWsF4ckJtjQjKwP2CH+DL1TtI=;EZwBKXnmLWuSwfdQ91Bw0w=="
+secured: "yjrGb/3BCZYtYrkeD6WJwTQlU8nUeCo5AUgyfm/3GQ75/zryxIF1Tw0MYTSQkUzc4Q/HcMiIRAYY8J642CTCA2tFLAVdg/dOzJ4FcvB4Zj/5dJctnAKChf+tTIV1mtpAoT93zieZDmD/L7drdGtYBOC/umeWz6t6PFD7DhiB4ce6E949wU8aYyn/y6UHkaCThRMCI9+VOJ6lWj49rY7vBshZvb5hosun/SwhtqVJWckKiVLsfv942DZhgNKsz2WcOCCJ81CStrkl5NB+1DkNujoxXxwPVwNfiY33ZKcZz6aYR9UUQHsee/IG1qc94iuvrguFfX1AjRsxJJDPLxOh2ZgZSVjMalxMJOmSnwmwkszu1o6Gn794eMYmcV5G2cme6d8mcEb7hU1vNgt6ulGXjRrB+FksLYtNQqPCyk5bujOuZ1r65jUoihYkmUDlqw2gFHeYw3hOqJqLbCQMhJYBsaYmVWnDplgJyX4bnxEMz2dBx9g6cpYIsy8qlq79RFO2TS6vOa7MTXWMWj5WMNkBRQ==;DcZ77mbJFcHSctcwW6pUZQ=="
 ---
 

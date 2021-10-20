@@ -2,102 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-17-artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027.md",
-      "title": "Artificial Intelligence for Accounting Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027",
-      "excerpt": "Sep 17, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-09-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-4-bank-of-america-moonshot-investments.md",
-      "title": "4 Bank of America Moonshot Investments",
-      "excerpt": "We found a reference to just one publicly traded company that was working on an emotional AI project: Amazon Web Services. In August 2019, AWS announced an improved version of its Rekognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "originalUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/01/imageforentry12-cbv.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/09/16/4-bank-of-america-moonshot-investments/amp/",
-      "publishedDateTime": "2021-09-16T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
       "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
       "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
@@ -1372,6 +1276,103 @@
         "AI",
         "AI in Sales",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language.md",
+      "title": "Define and run Machine Learning pipelines on Step Functions using Python, Workflow Studio, or States Language",
+      "excerpt": "You can use various tools to define and run machine learning (ML) pipelines or DAGs (Directed Acyclic Graphs). Some popular options include AWS Step Functions, Apache Airflow, KubeFlow Pipelines (KFP), TensorFlow Extended (TFX), Argo, Luigi, and Amazon SageMaker Pipelines. All these tools help you compose",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/define-and-run-machine-learning-pipelines-on-step-functions-using-python-workflow-studio-or-states-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/31/ML4675-image019.jpg",
+          "width": 400,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T08:47:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit.md",
+      "title": "Artificial Intelligence in Accounting Market Major Competitor and Strategies Analysis| AWS, Microsoft, Intuit",
+      "excerpt": "Pune, Maharashtra, India, September 3 2021 (Wiredrelease) MarketResearch.Biz –:Global Artificial Intelligence in Accounting Market Analysis to 2021-2030 By MarketResearch.Biz is a specialized ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-major-competitor-and-strategies-analysis-aws-microsoft-intuit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/06/Cybercrime-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

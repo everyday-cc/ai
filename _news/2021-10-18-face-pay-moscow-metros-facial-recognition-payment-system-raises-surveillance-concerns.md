@@ -51,22 +51,6 @@ related:
         width: 810
         height: 456
         isCached: true
-  - title: "Privacy fears as Moscow metro rolls out facial recognition pay system"
-    excerpt: "Campaigners say Face Pay, launched in over 240 stations, is ‘dangerous step’ in efforts to control population"
-    publishedDateTime: 2021-10-15T10:00:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/15/privacy-fears-moscow-metro-rolls-out-facial-recognition-pay-system"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/13d517cc7ec035116d60ec0e4c1ce37ecd9a7dd4/0_42_4386_2632/master/4386.jpg?width=620&quality=85&auto=format&fit=max&s=50b61a504c79b5a3b4aa3e26d6198092"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
     excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
     publishedDateTime: 2021-10-19T22:00:00Z

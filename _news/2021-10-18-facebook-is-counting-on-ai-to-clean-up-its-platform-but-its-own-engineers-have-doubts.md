@@ -3,8 +3,8 @@ category: news
 title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
 excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
 publishedDateTime: 2021-10-17T23:21:00Z
-originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
-webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=andrea-coombes-working-retirement"
+originalUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
+webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
 type: article
 quality: 59
 heat: -1
@@ -186,22 +186,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Facebook develops AI that can analyze human lives, record what they see, do"
-    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse people's lives using first-person videos -- recording what they see, do and hear in order to help people with daily tasks."
-    publishedDateTime: 2021-10-15T09:26:00Z
-    webUrl: "https://www.freepressjournal.in/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/facebook-develops-ai-that-can-analyze-human-lives-record-what-they-see-do"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-10/a4c2aa76-389f-4a14-ba09-af4b79c42793/facebook.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 1343
-        isCached: true
   - title: "Facebook says AI will clean up the platform, but its own engineers have doubts"
     excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports"
     publishedDateTime: 2021-10-17T22:59:00Z
@@ -307,13 +291,13 @@ related:
   - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
     excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
     publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://tulsaworld.com/news/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_35898823-d7d9-5ad2-9e4d-fa4f24aa24a6.amp.html"
+    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
+    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 37
   - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
     excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
@@ -364,6 +348,6 @@ related:
       domain: telecompaper.com
     quality: 15
 
-secured: "h7madV2Wxbf4+B8E36NrMpV9eOtpkJ/PXHPA84UQjmfhptuJNInb5Hub8ItXs1hgSzMuc5SaC8wNfWcaiY6wHnBppc7fE1MVNEO2qEIdQMKVk++l3Wj1dJ/XAD599yqvjycMsOHjpq2LpdYAVi1q+vDzt6IbBVaoNUm1KW2miMh8U7hNCzD4kPSTsaTIiYLfM+af5o2j46HqwVJn2I57AkLjWMVGdZeXc5gYtWSSemoZ6BVuIEhSybGJeHJ0W6XXhk4KGrCYMEK5+TzYcfVZBb1oh9xaAuoV0oR1Y6kNpwoB+0bT7WNJTrN9xWAXMYLXumgaonmmGHQqggcHrJ3FilYZm6+jt6DIPaAinHugtdY=;AeLnXZiwBhWM7AyP/echqg=="
+secured: "wKnywDH1QqaBtOzIqQ0UgSgKWofQdnxpOnXWf0jSmm3qlqwKDXG3zQPUnPkWHKqU35dqsk+dJpJuNSp/lsbZFHAtvNXipb32WTh/5WfYHPV9psvbYVFmgguhNMp+qjyvEtjzsYq09tLvgzGPWEixFPZ4XYnaNccv68xYidcxgebz3/Zh0oQarjBpUMPk+WFachDaVfnXPbl74UC/eWRRgfggqBteMzwotdjYoPoSmEklpWktZl1qyZSV88tiUp3rBWsvSFwWOhoVgnxkNy81POS0vfjiLTb8Ef6m0A0hML5TUwHu/MCKKWwWBavSiyixx/w1lbMMALiQFOfUIQE/suJYkXdDF7AbI3+mFWgac54=;7HJtrQnoRB51rp9AfgWD+Q=="
 ---
 

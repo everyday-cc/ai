@@ -34,7 +34,7 @@ related:
     provider:
       name: Popular Science
       domain: popsci.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
         width: 1920

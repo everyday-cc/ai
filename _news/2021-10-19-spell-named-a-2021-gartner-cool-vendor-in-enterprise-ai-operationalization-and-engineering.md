@@ -34,22 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 147
-  - title: "AI-powered personalization provider Qubit gets acquired by Coveo"
-    excerpt: "AI-powered relevance platform Coveo acquired Qubit, a leader in AI-powered personalization technology for merchandising teams."
-    publishedDateTime: 2021-10-15T10:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/15/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/"
-    ampWebUrl: "https://venturebeat.com/2021/10/15/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/15/ai-powered-personalization-provider-qubit-gets-acquired-by-coveo/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/online-4275963_1920.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "L13qWvbOei+jsGwqQU6x4sw5abZczJlPo63P5+6npH+tFk0mFLu2KWUP9oz34DkHvqsDA3bi//3bmZL6bop78wJI3rjj36VCH9KyC/bX26nyRhoiXaW3duwQBwxHC4LvqKnddsQOP1j+5JIEIVxFGWYfB9SOMs6QMN3QJ4oHQ+A/Udf6qdcLlO7USdKO/OD+TNQUggxX5MG9tg/Xjxf2lexhG5jgmwNrNIP9hz/bvn+YrBmMW+u3DUllJsahLxEvnaLM+SXYAkmsgxTWdsJQyv1hdqFMz9PpGTW+9wYxe8hfiOrActXnWl8N//9dhixm+cWQ1EAUjEfR8XUS1j8joLeTyNak30AP3OhdZx2st1pILMk7ukN1IyYuKEAyNIPTJiWSfu9RUQW+yrtmIetLxZSxBXX7ZWg3tv3+B7u0i0Q4eP+8IzpsTING6G/qZB7cuc1sBeCGlZnxNH0tGnaPjDJblosLJqZEeG7P+EXnXVWfT5c1MKUk+ApL0nFeM5K9rO4Ygs4oYVYdlhERA4r8Vw==;BKPV4Hj/tBtNdlnQYXYzow=="
 ---
