@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI can see through you: CEOs' language under machine microscope"
-excerpt: "A man holds a laptop computer as cyber code is projected on him in this illustration picture taken on May 13, 2017. REUTERS/Kacper Pempel/Illustration"
+excerpt: "CEOs and other managers are increasingly under the microscope as some investors use artificial intelligence to learn and analyse their language patterns and tone, opening up a new frontier of opportunities to slip up."
 publishedDateTime: 2021-10-20T10:56:00Z
-originalUrl: "https://www.reuters.com/news/picture/ai-can-see-through-you-ceos-language-und-idUSKBN2HA0DW"
-webUrl: "https://www.reuters.com/news/picture/ai-can-see-through-you-ceos-language-und-idUSKBN2HA0DW"
+originalUrl: "https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/"
+webUrl: "https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/"
 type: article
 
 provider:
@@ -16,8 +16,10 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
+  - AI in Finance
 
-secured: "38NW06pE5r6Y0X8akf2DZ/gVadZTjA+UFJREt4WmD5CsiNSTzwnlqLHy5E8ND034F17ibPjW4pYeCAYYsueQCxxLfN3IUtYUNqtLlJplLIBCRZGB0y44nfAYp5kmqm87aTFo3f6rY6vuPvhIFf6UNsmHutGnqHHhvqUJSRDvF23hT3V8SLw4KyQ8Bm+SC7Yhwf1gZu69fUV3ySBdeoAucoXF2X4IDA8CKlG8Iy2M1laEB7UUUNfk/o3TuhzLqb7zexIoVQVbEOsbRnCKz3Ohq9IFJKC6iFDe9a5f0h1K0giwBRXIT0NCC/CYhe2C48rDB4XmEcNU+pxiU+BMJVCGCKDWPwGLGlO1fEf8hvJtcti8QA1d3sU17ucpr6pJcfxKUNffRa/NlOLOoF4p5B276m/yNAG/AwYZz12zKKfUjR9i/F/SGzaffIedMHxNAHG1iSHX9p8PydofuWp76LC4qy33JLYUP0muyePbLIfynt0RvWUtNiNdgL4NaWnvu8kdxuexD3TcOMh4wBqotZVW9g==;bKrkTVL7ENnFChoY0oCwBQ=="
+secured: "1XHSC1Zt/tqUiqK9BQubpc5gfBT8F+5dGGSJrFn6txWEcfAGcqumCHFa4xHIrqByyPNDbdzDl64lwRQXZdoywNBswJvcUAxs8Y1D7EvsbT2zg/FEdPehwkoMr93dY6FqlCUP5GhOuDkcaB7EYn6tFmxAB550b/ceeJEOBAJYZTPo2Dncgjawlsm3Um6WgFkgHW0QIZ+UUWQe41ONeLyCwifQAb0Q7CV2l7co6eBlpsb9waj47CPCU7/cZ4S+H76t6qsmnFkXfMEwwflYvDl3QCcBYBtEmANAdI307uYLWnUkuW3uBMkZjUgBU9Lrke8+znWT+vzlizvoMIu24HHnm1Dm3NqVADMCPx+FBfpYZWLBovJnDpdf3HxFEhBC+xFC2aMVYWpXGzoHRvYVq4hxSRSZSqbc9ADbfl6g4y0xxuzbRwUeSZtrDKN+a09sJgSax0HAgvKnud22Nf7kxgQ9SD86lEIk6NAdzaabZtmVuXJf0KuBbDWCoSW5M7CnONPK5WrjzVd8ilENzydcNK7coA==;kf+U91uhUiyzF+zFQVHw2A=="
 ---
 

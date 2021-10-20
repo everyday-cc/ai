@@ -1,20 +1,24 @@
 ---
 category: news
 title: "SenseTime Co-hosts the 3rd International Artificial Intelligence Fair to Nurture AI Talent and Promote a Collaborative Education Ecosystem"
-excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
-publishedDateTime: 2021-10-18T07:21:00Z
-originalUrl: "https://www.wsaz.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
-webUrl: "https://www.wsaz.com/prnewswire/2021/10/18/sensetime-co-hosts-3rd-international-artificial-intelligence-fair-nurture-ai-talent-promote-collaborative-education-ecosystem/"
+excerpt: "On October 16, 2021, SenseTime, a leading global artificial intelligence (AI) software company, co-hosted the 3rd International Artificial Intelligence Fair (IAIF), an annual global AI competition with the Shanghai Xuhui Education Bureau and the Global AI Academic Alliance."
+publishedDateTime: 2021-10-18T09:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
+webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
 type: article
 
 provider:
-  name: WSAZ
-  domain: wsaz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Education
 
-secured: "Abva+PWXbJAcQAdrAhnrG6TMpUquWxoBkv578hoMhPgBTS9w+thJaVUKlzyNUPLo4lRCsNf3+utIoKYWvqyhFCC9od+RzAm07u8GvC5xs5d7KfGwlSnIGfkwRAcdSIz60lY71tpdUo+OIJKU9U3K8As+Fn3KG9DMvyi/ZQvot/dbSCabrys6wrUNtDzWyKK0RfQ16yhTah8nrQatyEOY0gJEt2PweGS8AKBR3gV15dyyw48JTf1E6htENpSlrurTwZ8XVFLkJCeumY0sI4HRvZsTAecMW83OhodDm5ZIY/QD7IhqJ+3vVTSnBjfklMUU6yFRjl8dIEXACoemAHVBhJfRVJBAcWadoyOpk3wJiZ6nY4RXKRfXHA4Wrps7VO4Z/OUrGsoj8VQhtM11j0xrQC2OYAyMl+9EGFMs/unxIXsXSMLqeeAJi+TWEMecpPFmFD1VslXDhgosJhJvNtwmPDMmRyW+X5x6TTwCYpTAJONdi8+SrS4b394QzYRAlXMNC1wG9pQ8RviOrcMIwj0poQ==;bBFL0m4fg6/BiKyQzAql+A=="
+secured: "OJI/Sgv5+YCdBBJGXLKt8orMO/jayBcSU9ag6SROmR3uNjNsYlmqMd1yLwp3g25wtulzF2kBpHWQWpQECQLak1BH56M6M/PWmIHPucxuZZRHGul1LQR9dUmd0TXgNKsFyWXBGG4EWwsgPQjLGMHDH1XWr6cXIXxuJ/Zm5R+7nvLnlQqPzOktjU/3gKB19YydoUw1wNwGcQwCQ3lOm7HXOCU+J62hnWWoRvLSKHL3Kj1Y/NxWylkWVFLaFtZYeKKtbMGh82LnSUrnZSuzSNoVDiQvQGBI3ONo7BmjQqihxOwyKzl0OgwDG5t+rgcUqec09N9f4bPTXwa0M31W7cihkIgoHZRzv3fpZFr2D7Kw37Tq6rX+cTCHWejP4bOoqlmlXDv3u1WPD4O35YVrOAEfES+Nqz3m27oVNDa3PQuQqIKgfniLTdbrOIfaFIdd+1L6i+AY6zgiZ8ANAo0XW4vVLyY3EFHuT5a9OcEQgwGyyx0qiirKBN7oasDaKwlFBZdYdY9HuujJPnlpCLRmouwpNA==;fnCFM1qTJ3AYgH6bdoUiNA=="
 ---
 
