@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "airaio"
   url: "https://twitter.com/airaio"
-  followers: 4402
+  followers: 4401
 
 size: 11-50 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "hldexumOAjpDn0ak6+ykZvRNCfD/w35Xe9hLTycaZyBGDc+/4qFbHHKmNxy6NCHFDB/WuPTFTIF++Pq6mzwO2p0RaxvxYpuogqNHRfkXTB7VKUTvXqiSd2JLx6PWnieuWYFJ3GSTDlAlq1wrjyVP5MPYXR1zgsrQj/Zfq3Dp2w/ti64MjdjqG0WqKbesAjMJVUqle80cymI8NHrUcCv7pUud5JBwL1SpClyOozkdFNmEb1Tc26+05HUxR3awqps6Tqmcn+k3c3OK+Iw1ALk99mfnHI9qVct9UZDsat2j0e/CEoTDHjTdBiiSgv7HA7yPeVfh5LSWsfbV8g6z4YvWhVum/SeCPV538yeZuAsClQrHkBE+AmFqaWe2UGscAkIhqDMUjVaoVFLpA2rz9Q/jXRlnQD50FIUzxrA2rt1aB5Q=;wFI/wnYjR61IJ6mYXudZRQ=="
+secured: "9tnIUX06lB5EKtjtCuYwxMpxMV7iYX4B7xGwbztL5nXtoDALpbzdXI4sJ0HrpG2xy9JXRLWSTXwQm25jIWoo6W6CuRrtE0pQYbhq4AwgHZv6fc3+LmggQImxrqhv80/zWvLNvHZHxGQAKX1DgOwxrypZOhBTofYELuzkTFQZJJpis5bCQyCyFB09ktxgVDJRA+ATard16/Hejws84zJQZYRo/qIuHBc8EMLVXf8t9Ex3J7RTeMBoyFwev+/eTjcawHOglIYO3VF+/vqCXdJHVdsEQScofEAxSISX57FDWYy234zMtsLNFRdiZ/N8t6j7BDY0/ZwSs3AwdKg5wTnpNEFpifaEUa28vuKlwhWjxaJ9AJvlUsMgmjl3zRJuGcg02tfmYkceG3v5csiNhxyL7Em0SZw5UlkkNU88NpWyd3Q=;ZbIkl0YOkpFS4j13lVEL2g=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ubtechrobotics"
   url: "https://twitter.com/ubtechrobotics"
-  followers: 83853
+  followers: 83854
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gOpQlk8afzs"
 
-secured: "g2KrSlec4C2GR+eBBGldoPTeUbmmOhZFkRZl16rgIqh7nicU6Qd5bglF0zCn+4cxDprMDutAGUJbE7Ar7HEXJeACuReQ/b9V4O/6VgsaOVZWqOtecICNNVbYinfaT8eYZwrSi7IZtFwxXMlkGEvu2iXLtuaSRboSF0XprLYHmYor6huUvEonHkYMM/YknBE7OXl82IAUneWQTLbKEnH6uEI1XXuOGAgiN1/cKv/Sj6nEyxNf9A/wdbxkmAoqtEaRs80P4hzcvkP1cxVANh8riwbC6dD0Bw3cYMR9fNLcgOuxmVFyYzz2P5Pz/jbKoEhoCUmGPtgsrI/IE/HPgUeSx37SkdbTJdPcF/S6w5+razyaJmvIuVlPpTqglXTr9hL9f94cl2yCYqpJt/FtcYBTkKk/Hjfj7Uu8JNrBcy2WmEk=;jFRM5jcstZSnpHTkYBshvg=="
+secured: "hRpI+qMOgOY6oJ+BQwMVyclnSaOKxSE3YPhcwf5elpsw4toL61P1shpBMYMS57OUSH1qHuGip32KtVcZa3Z3GmmeQQbJGz84uiZUFI7fJ0K7moY6l5L8HyNEc7dYosnZ+PMGu6NJ2N64PO1AtxjaQeuBmbcjMOft03O/2H+RdwI9QpURilbdZAUg9JeN0lEquyrja/rGF5ZHaPbdUqYdlma7v7p2d878kO5pVQJBMW4hk9tz0NyiWg9os9Ni7n3PuPB+uZWi/WNZ/TlYwza6UyEDXqcbOprOJSnrZDCA0ND//0Lnc7yw9/z27kynkGFA3JkjSajiy4CzaPA+QJsbmtzwZ4+vqjRpcIydS+NFJcMri9tUAQTLFcpZL1ITJMmo8yC5yOxK1F6JULIM4jkJ/Cy9KCArvBirXwhPsCsnwCs=;mxCyb6Wxbz7rBkecvPcXlA=="
 ---
 

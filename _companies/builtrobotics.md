@@ -2,7 +2,7 @@
 name: "Built Robotics"
 overview: "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments."
 type: "profile"
-heat: 50
+heat: 71
 
 website: http://www.builtrobotics.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"
 
-secured: "HAhAfYN6328MkUn1vcCtGGkfNwSQqMQvFAbwZ6wQ5xD093gfKKBcvMY1zOStDXM934XO+jDhnq1oC90bSjDxSvANGWnfeo5N2Dy1R3eUw7Upne5wCb7sxF4YxSei36XANRLgsfLL0l4YHls9S9HNcwNl7kz4Jk0ddVVDls46cNCdPl/NPz241/3afpjbZAJkqS8ldWIb42/ImtxnKR80+ixo8xsSqeZE99N7X5WGvYFKkX6laxmY8qVi5v9PfYHsfjnA9K+wXUs5wGuuITpIa9r2OnSH7Hex51SHxymBieTgrf7a7J3Wg+BQ8KMMRNNQxmsr5tbCBYWI2hq21GFV+KzFxftjbLogyqBJJrVGWCB4Iqyd1a5uAUNvNJOfrpdZN0QJLmj9EIN4+i29KSFC7U448e4CF/sXQZxIG/CgU7k=;2pGuJNJbvHHmsppgRDlP1A=="
+secured: "RCBn5b1bBmil5qdjGLN5l0uBV2/OxNNoSLDZgTTSlFFrp5mQ0PA2TxqSjoB5g8k755W3UDgntC4+gucqNT+A61WC+Sexghfxp4oex0sebMfDLDMt8yRb4cO64JEQ1RkDk6CUZTJCAqvQszD6HXWji3KL0rlAMjX+VhgslFZvjt7bJ6wpZR1stNtQ5k03kkjPcGG0AHJAslzldYH9mWV5EDiolXqbI8QNVuFnAAscL+bXU9JHiuekVQ1cNjlyLXUtj94iCTF+A057rUhuUafcWvNniFNPUTdiRRMCIjTQ723oQSjnX8zuR7B85EylFzmABovlGVK7Yoxw8DTyizXhDFsk6slyQjH2ZwQZ1AmCWLjLtucB9NvTwRyLs9u0U0XvkQg8f7EMiX1uoqLUNJz324npnIQnC0QpntZgI1VHXl0=;5ifuBrLiTa34sxMdZhulEw=="
 ---
 

@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Anomali"
   url: "https://twitter.com/Anomali"
-  followers: 8933
+  followers: 8934
 
 locations:
   - Redwood City, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Anomali"
 
-secured: "YwDGVdsvEyEZOAEtyMtnV3Fn31CnkUdTMLl6wbUpvA5hbrvVXB+jXx67K0e5XYB3e+DE9po7xqWeG73cScHvAPKuAYKzjitgrUYOUXvcXb3NY0ojJ8Gx5tWPDZVXVAZrv3Jy/+lj5ArG5OyYi54XM5x6T2SyCPqy+LbvlEtM+jAdbGey/XaWGYsFaE4LbkwGBYVOnGMTQS0BEw77fwsKoM+MMcGw62EpNQOsl0VsqK9n30wnjuoRRj9anckhWVk318ARd5VYmUgTnAvY8Uh85X2HK0dCWbes+qCVNwabcoXsZ68NFmKH2W8pT8fvSW8uuSzkc8FcVWMSs8XW40wYh0ZnwwitKMu/tWlRb4B6KU47zVB2ho0NyTnmUEA/6GeLFlJdyk7z8eEqmX1PHbFxFkxS5HSd4dpVROjHiGgdUjw=;mkos6mEJHMGIP1HdHl2FGg=="
+secured: "m+/fPwpsekAb7inZyQ870k/QRfZxQdDQ2Uv9dMAc0RLgLSDr9Rw8crBMe6xtzl61N19me4i2wNaBGdtxidpV0axAG19yC8wLFF5l2rz++CwZw/3jS/JekXzE1JEXqCm1nPMl1KA+BUCvyOmTSV6pOoTbALQfxgfgjNQ07Njgz9D91ZdGORVEge1cE54TcY9nhRCEzXcoeDZDyZySSlce7HCuliL1YeWOotuQH7L9K/22cz0t7qHzsCDK679x2I3HPloVvC/SGHX2Btiqy7sdyJ9so0LuI4nmf/sY4NzREWKgCM7fqA4SABmOMjp0qXSxjtN4M4tlFilljoi+nu0EGwroOoFDG5efBcm17If9LxtMpM6R5nYqgFh18coo5wqZFdnZ1XCKt+0AxVXmiWb1TqMk3ePm3Pg1wVf1ATYOwuw=;scx6lse0STlCzJzYj7lQoQ=="
 ---
 

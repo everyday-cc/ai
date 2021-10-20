@@ -2,7 +2,7 @@
 name: "Skychain Global"
 overview: "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence."
 type: "profile"
-heat: 42
+heat: 57
 
 website: https://skychain.global
 
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=npQklriczNA"
 
-secured: "yVyd4SRJgnMYoGX/8N2xdnil6uXgBBS05s9ih4pEWOvSZSKd9jWIvaE42hnJvxo+Sp2MM2qnEdrRx2yWb9k/MFkmj3jlwZeytP8bXuwcLbmYLoTaJ65LI8YjBtwCJ3HhlD76L7orEcqxa6rBBRRBCDdsBmea9pei9+QNLNdpJwGimJQLj1l8P4SY/tZAz9U0e7J/IqateLf4sXMKyLH/q8flQJohPWNyAaFGDcWvXciTZOVEplsduphT8nUDXctIAt5eP/EqX8g/kDCZw4tfB29+U7vAOK68BJmqiMDv+NpcbhSrZ5PY9AIzzVn2lvAJiF4/09sy9F9igXo7LScMWjPGChJfFVK5srFPsFkDeyL2ToME+Dx25RzkTiQ29POsmk5mHZDfPqRkQfiyDQsisDGyaw8wEmtU5G8FNUpn5JI=;L5NpYjo0p8WzdsiRV95LkQ=="
+secured: "jygcUm7+SAD3b7OssVSVVnvMYTjDVimjECSDpUXStz/Aw9BQsiHL+adlOw8l5T6OGaXcT4oM4OIzfCAfN54AhCqNdXhMUx1Ew6RPtjvJtfjS4kDUC91tm5firVUZ4pfwoI/KjmfvwasF2TtIKDITN18JChjNkynt4JCKPz9vvIjRb80CYLvMbMnRty5g77/EzbJX2G4v34aAOGXi3QTTzINy7qF3eGAwF9KYK2zJGKmyPxHErrowij+RaIyL5fCxRf9FYS9/TWTEIyE8c8DSj3L5sMed3tN/petCnY30Ore9WExGaLfoKykiJRh4gFC5jrL1JYNjhNvEzEVXEFq2zsX6UGgGICRo5f38Npy9GlYsNbysCKOWKrowfvxpkRYJ1YAA4atVrlYqR9ePLWFTjF+H1YpsrKlODzpyBPBTlso=;/0ZUFXlf//oV9w2Zo8I5xA=="
 ---
 
