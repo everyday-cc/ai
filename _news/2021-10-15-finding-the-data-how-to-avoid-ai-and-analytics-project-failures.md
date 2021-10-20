@@ -40,7 +40,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 91
+    quality: 95
     images:
       - url: "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-944444446_3x2-100787357-large.jpg?auto=webp"
         width: 1200

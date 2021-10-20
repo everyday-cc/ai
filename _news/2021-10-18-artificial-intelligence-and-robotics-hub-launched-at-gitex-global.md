@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligen
 webUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-19T20:19:00Z
 originalUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
 webUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/10-design-pro-details.jpg"
@@ -73,7 +74,23 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Google's Pixel 6 processor brings AI photo features"
+    excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
+    publishedDateTime: 2021-10-19T17:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-58955304.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58955304.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0C1F/production/_121130130_pixel6pro_sortasunny.png"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "O4UwoyLB4fjQv7mpGYfF74nVZffrYoZhYnR89z8ELhmz3XqTLT+0a9T6A/8EfigDlP/rTavyJACx5txkkUcqdM+9K1KUmQuV2xn393QcVBaeaUw9uMsnYKUeFosd5/pxVMONEiX4ADrYfW9UZ1/6NseaqxLo72urZlei32T4nF7OV5FS0QbAgWxp2cYABIpzb7jYdeNLehR8JZPUSuKfO+jN+ZB1YLDJI7skDaPodcZBfrmaqN9NKrgmFGUm3+BVpmkt/0PYvJN4MxAd/G5RY9GgVfLTLCKixNT6pP8whVpiqDQBqnEpGgxE7DvTENcxyG6FFZPSxW/z+tnV7ffP8VrUI8FD+3YDQJw1vCyC+Qo=;MlfUOtWu2vj5gtTCTXKT5g=="
+secured: "AU1p6GOWxYlb09FrYGLn+f1MSWDJwo9FmtSlAJqrBMeFBvM1jFY+IhBBP4vkwXSczieQmSXz05+uR321OTOeVC8p71jp0lhN7xWVKIznvGZr88vf+NlY+3IgtjlaeVhvKrx8wpvVyrx0QCt0VGIhGl4FOM/MMAAR5Z63zdJ47dxgOyd0ZKad1bXGtuLAua+Pu2yKcCRj2YhqQ4Je5dfLF6AOqwSJraRavcDNKaj7C7v3i8n+Jz20i4a5MBjQ+NOj4WVS0jxNn5NNf3gYMTDqgWB1OatlKcw3kXKSstRhldnvZ2oQJ1Vv8h3qnPwFwsFMDRXoe0H1sMEKcIUBQNF62jtV/NKC+cCAHu6IZILuyW+W5t/+KSb+bIMxW9xx0Pq0kcbkW3yyP/l7VHjGj9V4cEIfBaKI8VXhLWQXMNSvJDifgV+rhJgBjIpwSJ3CwUdBZIvZ5v1KVBywFL786DPIN6cihGo5ZA1Ce/j+lH2Fl7K5VoHNtBd4542mwA8KLW4oxeaSvUyZfCTL0bGgsRiQgg==;ht2DfqJQ08020ju8/VDnQg=="
 ---
 

@@ -245,20 +245,6 @@ related:
         width: 1001
         height: 563
         isCached: true
-  - title: "Facebook developing AI that can see, hear, remember whatever you do"
-    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
-    publishedDateTime: 2021-10-15T06:42:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do-324968"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1884503493.jpg"
-        width: 660
-        height: 439
-        isCached: true
   - title: "Now Facebook’s AI Model Can Anticipate Your Future Actions"
     excerpt: "AVT would be a strong candidate for tasks beyond anticipation, such as self-supervised learning, and general action recognition in tasks."
     publishedDateTime: 2021-10-17T10:30:00Z

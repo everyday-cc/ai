@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/alibaba_shutterstock.jpg"
         width: 1000
         height: 681
+        isCached: true
+  - title: "Alibaba Introduces Arm-Based Server Chip for Cloud Data Centers"
+    excerpt: "In a big win for Arm, Alibaba is the latest cloud giant to design its own chips, following Facebook, Amazon and Google."
+    publishedDateTime: 2021-10-19T22:35:00Z
+    webUrl: "https://www.internetnews.com/news/alibaba-arm-based-server-chip-for-cloud-data-centers/"
+    type: article
+    provider:
+      name: Internetnews
+      domain: internetnews.com
+    quality: 39
+    images:
+      - url: "https://www.internetnews.com/wp-content/uploads/2021/10/Hardware-06-1088x725-1.jpg"
+        width: 1088
+        height: 725
         isCached: true
   - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip development business,"

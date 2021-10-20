@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
+excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
 publishedDateTime: 2021-10-18T07:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
-ampWebUrl: "https://www.benzinga.com/amp/content/23411619"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411619"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
 type: article
-quality: 42
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
-    width: 593
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
+    width: 934
+    height: 630
     isCached: true
 
 related:
@@ -204,6 +201,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "uFrLbbMGrkhagXTJwmHhga+Ho4agEr1Ww+P0ZxwJnTg5cp3k1yQPhT2PpM4wUcyzm4zh7eJL1topL/r+i5BjiRLTXdBgswBxLb6Spm1K0yq9oQOtdsj74tyQMtY32OX/21ByxChraIeyyjLOquQOZEWAPUAMY+2JqGiBWo0jVgJunA0ffT1WR8ylb6NuFZ+skwTH1w08IW5bJl6LO0XRwLH+plDnjRPVKvUKRt1/Vd3vYgR7WNvAKwbFFP64EKs1fsx1D1/NT4XJHDd4Tuu5qRbNqnBEvFQFP9zPzbKlhDMM+hhhAYnXhQ98ddI0Xi7m1PcPs0+gfbBXdc/ois5yudW+3eJELbkACdSGZIrQosLIr6ZDxYx0U5dKUQtF26Cj1VvNllVnsrXbfjm69aSdP7De4kReGbUb21v40vthCYG17kOfeSYOPD26VuprTK3ostAqPRe9GLIC4Mw74yBEkRc52GwMoL99rEmFPZ59GmDKOD4ep5rlf77QHzEY2S1vJ8MxP21MVxLwPYP6Qt/OXw==;0psKMULctPGiYBjEm5fBVQ=="
+secured: "3CAs3MI5AORs9XXMcJDViu2OjmbOZuvfiIKfwT6eIMsRHVJYruDgq/VHhGthVjdMHLlD0JSJC31RNwsiT+4oxTgoTUIJ9YvvFCkXVSUeWakTeKuQ9dlv4gBWKn/fywsq8a3NmbyHrkj8j71kHF+SsmAXrR9CMVn9jbntFhTC6Wa9FF0efOdv2ELEjYvDkcJoHZbpCiyGHyahrmomePRRe7KjQSRR91xJr9oWiOW6SCgw6FeWfzMU3ntM0diuGRDFBQw/Z3HZYnqkhYSGP2bifpfR50k8jIIJDZhHtSgjJ3q6DShX9p4RoUGPYfXXzA5Yv6T4dy+GKvaOasv9DTOWaN9eRF6ak2hzf1fjEJjIIOg=;4f4YiS8w8532Aad91WX1cg=="
 ---
 

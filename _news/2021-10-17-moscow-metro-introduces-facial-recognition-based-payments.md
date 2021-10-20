@@ -61,6 +61,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
+    excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 51
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Moscow launches large-scale facial recognition tech on subway"
     excerpt: "Passengers on one of the world’s largest subway systems can now enter using facial recognition technology. City officials in Moscow say going cardless, cashless and phoneless will be much more convenient for travelers and that their data will be safe."
     publishedDateTime: 2021-10-15T20:42:00Z

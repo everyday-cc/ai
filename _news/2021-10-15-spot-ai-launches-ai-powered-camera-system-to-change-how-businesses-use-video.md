@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Five Steps To Successfully Leverage AI In Your Business"
-    excerpt: "What exactly does the adoption of AI mean in concrete terms — for the management team, for an employee in a call center, for a doctor or for a research assistant?"
-    publishedDateTime: 2021-10-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/"
+  - title: "SambaNova Systems releases enterprise-grade GPT AI-powered language model"
+    excerpt: "The company's latest offering allows organizations to launch their own customized language model in less than one month."
+    publishedDateTime: 2021-10-19T16:21:00Z
+    webUrl: "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/"
+    ampWebUrl: "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bc51ba8299062b3b9581b%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 603
         isCached: true
   - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
     excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisio"
@@ -49,15 +49,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 16
-  - title: "The EU’s Artificial Intelligence act: How will it impact your life and business?"
-    excerpt: "In April 2021, the European Commission released a proposal for the regulation of AI, the Artificial Intelligence Act (AIA), with the goal to balance the benefits of AI with its risks. The draft regulation takes a risk-based approach,"
-    publishedDateTime: 2021-10-16T16:57:00Z
-    webUrl: "https://www.theinternetofthings.eu/eus-artificial-intelligence-act-how-will-it-impact-your-life-and-business"
+  - title: "World's First Enterprise Grade GPT AI-powered Language Model Introduced by SambaNova Systems"
+    excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and services to run AI applications, announced today the availability of the company's Generative Pre-trained Transformer (GPT) language model included in SambaNova's Dataflow-as-a-Service for language - increasing the capability of SambaNova's Natural Language Processing (NLP) model with unmatched speed and accuracy,"
+    publishedDateTime: 2021-10-19T13:19:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worlds-first-enterprise-grade-gpt-ai-powered-language-/2021/10/19/9472535.htm"
     type: article
     provider:
-      name: Paul Mampilly
-      domain: theinternetofthings.eu
-    quality: 12
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "g7SxjKMy8BCTOYxbTRvTEu9NovZ3QX/W4jbYLa6ypHi5WXYX4Lxk96rPDVYlxwaZfCIT4Gw1SXCiw6K0Emz0NMRJzl3s3sevj8LkMIHyspqlp67RG8Do8q3v3xb71WzWmj25ss8dXjp3vySQ1mauTR6/3s7D6PzR7YMJimlcgpTr222pU5td+Zo0LTqH4RjLnRb8xwpClKh94SKQApH7u3i62X0GKj/adGdb/UkJSutqnAgBmfFc85c9s43w2xiRW1jr2T3C3SZKnqPEaU/hx25DQyXtR/Rhjge78HNC3tuEOvItqzG76YgXDpCJ27qxNk+GDN7bjxZ9y9r8WrOKAHqoEPJPT4JUV1pMPQaimoU=;rI/Dc5mDHcoXbAejS1Z4sQ=="
 ---

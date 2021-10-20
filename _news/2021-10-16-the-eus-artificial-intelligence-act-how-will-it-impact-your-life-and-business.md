@@ -34,29 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-    excerpt: "Company’s Tech Launches New Era of Video Intelligence, Announces $22 Million Series A from Redpoint Ventures and Bessemer Venture PartnersSAN FRANCISCO--(BUSINESS WIRE)--Spot AI officially launched today with a goal to provide every person in any business access to video intelligence,"
-    publishedDateTime: 2021-10-15T15:37:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=547895"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-    excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisio"
-    publishedDateTime: 2021-10-15T19:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211015005475/en/Spot-AI-Launches-AI-Powered-Camera-System-to-Change-How-Businesses-Use-Video"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "hGcFGgG0whSi4kVZLuShZoWJKPt8t4PV12FuiSChlhRPdnP4Fw4G0LcESURuzWsYaGHmrAIwnlit+O/3EotFxdMFxpHKzLJ2HAd3ZtI8D/gF6950ybmD2L6JxMMYbdJTvlI47kVtOfKBl5tXUXSwFkpZZYcU6GJr2eJAwWQWc1QsAHx/Y2UpjAXF7SLYSVz1RXerVUkWx5xbpqNuucJPvZBRa1F/d0c4u69vYR2dsfgnPqkhuBJYcxKYhx5zLpinyIqmTTlpRvyUehdbwTk7d8BbHtkqyCCnuRvWhfAzESe+dcpJu3MtfkaFU9kAHiXVhG4VrnZesZqiYEvlcdW7sZgjm1orP3sXK8q1Qvr2pfg=;JOSw4SQZcSjbgHrVqLRBtg=="
 ---

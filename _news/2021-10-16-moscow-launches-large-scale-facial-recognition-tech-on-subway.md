@@ -71,6 +71,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
+    excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 51
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Moscow Metro and VTB launched fare payment using facial recognition in the subway"
     excerpt: "VTB and the Moscow Metro have launched a joint project to pay for travel using biometric data at all stations. This is stated in the bank's message. Now residents of Moscow will be able to pay with a \"glance\" for metro travel without using a smartphone or a card."
     publishedDateTime: 2021-10-15T13:14:00Z

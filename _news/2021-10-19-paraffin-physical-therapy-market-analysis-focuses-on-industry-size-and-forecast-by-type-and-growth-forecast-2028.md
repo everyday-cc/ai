@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan SAN"
-    publishedDateTime: 2021-10-18T07:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/10/n23411619/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-so"
-    ampWebUrl: "https://www.benzinga.com/amp/content/23411619"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23411619"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://mma.prnewswire.com/media/1661798/Wound_Care_artificial_intelligence.jpg"
-        width: 593
-        height: 400
-        isCached: true
   - title: "Facial recognition market to surpass $10B by 2028 – report"
     excerpt: "The global facial recognition market size is projected to reach $10.2 billion by 2028, according to new data from Verified Market Research."
     publishedDateTime: 2021-10-19T15:56:00Z
@@ -192,6 +176,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 23
+  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
+    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+    publishedDateTime: 2021-10-18T07:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
+        width: 934
+        height: 630
+        isCached: true
   - title: "Latin America Middle East Africa AI in Auto Insurance Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
     excerpt: "The report provides an overview of the Latin America Middle East Africa AI in Auto Insurance Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
     publishedDateTime: 2021-10-17T19:18:00Z

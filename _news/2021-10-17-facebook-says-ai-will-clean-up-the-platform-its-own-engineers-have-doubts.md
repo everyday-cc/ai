@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
 type: article
 quality: 185
-heat: 425
+heat: 415
 published: true
 
 provider:
@@ -233,20 +233,6 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
         width: 1001
         height: 563
-        isCached: true
-  - title: "Facebook developing AI that can see, hear, remember whatever you do"
-    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos -- recording what they see, do and hear in order to help you with daily tasks."
-    publishedDateTime: 2021-10-15T06:42:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-developing-ai-that-can-see-hear-remember-whatever-you-do-324968"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1884503493.jpg"
-        width: 660
-        height: 439
         isCached: true
   - title: "Facebook plans to developspecial AI"
     excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."

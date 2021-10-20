@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-eas
 ampWebUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
 type: article
-quality: 91
-heat: 151
+quality: 95
+heat: 155
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-944444446_3x2-100787357-large.jpg?auto=webp"

@@ -8,8 +8,8 @@ webUrl: "https://www.aarp.org/health/conditions-treatments/info-2021/ai-eye-exam
 ampWebUrl: "https://feeds.aarp.org/health/conditions-treatments/info-2021/ai-eye-exams.html?_amp=true"
 cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/health/conditions-treatments/info-2021/ai-eye-exams.html?_amp=true"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 secured: "g+Znr46tF8frYXva6N1EeyK7p/N/1R6AUxBE/ug2/PpPdMUPE2/92o+XZgqJeN1cmCiTKjlVHdTj7TxF2otflRxImlffMXCbFEDIvl+FP2KOOIT8FtVAA0FM8POJxJTZFPaQcN3AQU9dtRmprfr3W8XPaqqrlzOi6v9fT1akpAwVmabH/Fa7DHQO3MnzctXdPSvn+rsFA5ve837tEp9O/Jbhqy2bN67twZV7m6LC9h/LeZwpza0eT4tqiVY9JSZXypq9RDYJ+rMLOMgcB1p0UZPv7iURY2ubpbPqr6ykSwrgYtdMLQSh9qu3uOSfYWyVm5C6r8vzRgV7nn1QlYBH9rXHu2+T34QmizmSH1PjAGg=;6EneWNmP3M576TlkYE0VOA=="
 ---

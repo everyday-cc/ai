@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-sub
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/13d517cc7ec035116d60ec0e4c1ce37ecd9a7dd4/0_42_4386_2632/master/4386.jpg?width=620&quality=85&auto=format&fit=max&s=50b61a504c79b5a3b4aa3e26d6198092"
         width: 620
         height: 372
+        isCached: true
+  - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
+    excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 51
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
   - title: "Moscow launches large-scale facial recognition tech on subway"
     excerpt: "Passengers on one of the world’s largest subway systems can now enter using facial recognition technology. City officials in Moscow say going cardless, cashless and phoneless will be much more convenient for travelers and that their data will be safe."
