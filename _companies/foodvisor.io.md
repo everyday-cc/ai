@@ -1,6 +1,6 @@
 ---
 name: "Foodvisor"
-overview: "At Foodvisor we believe that healthy eating leads to a healthier lifestyle."
+overview: "Your personal nutrition and wellbeing guide. \nGet your custom program created by nutritionists on the app and start your journey to a healthier, happier you ✌"
 type: "profile"
 heat: 50
 
@@ -28,7 +28,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1450818702425960455/RzTV6xAG_400x400.jpg"
     width: 400
     height: 400
     isCached: true
