@@ -3,8 +3,8 @@ category: news
 title: "Google's Pixel 6 processor brings AI photo features"
 excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
 publishedDateTime: 2021-10-19T17:00:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-58955304"
-webUrl: "https://www.bbc.co.uk/news/technology-58955304"
+originalUrl: "https://www.bbc.co.uk/news/technology-58955304?at_campaign=KARANGA&at_medium=RSS"
+webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_campaign=KARANGA&at_medium=RSS"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "whj2+aNB55qdIHWs9f8+498CMYQlXp4EXQGnGGUKAkALjDomqlC5hzj6Y42XEpPWfpD7Z8cINn3mtejkN3e4ozb0enIt87LgQm+Z3SPd35bt65RKA7NL4E8JjpacrK8sU06PhL8eBztcFyDd2H+y+0iFQgfcmgBgRcBLBzmnXBQpy4nfBBqfO+1n9CeE6teBlwvldDRnbQJzFC4mIJnYmD4I7WHhe+u4aYl3E8z4/PBKqDV7uvEUMh47GfeJ6we/WeigKFA46qvf5jxy1UNyD6jrA6QuQz/fnqt5/4cbiFvrwj51dUVpFZSuir6K344R+l25GBQQrJFlnZGe2gVDi/Ib9cWXUt9eb19POJlY9D63+QTU3iZomBawlYka7OQnhPvvJKE/W+dOQxvjKSeBphUXWPEmiOeG1FMQgz0tj86jDhZePY313P3WSdH3aqiRQdd3DFPwxjbuK8kcuUSMfthLoggN8qlBnVp9lJTMCqG67TZ6CjlB2W/3KOUGaRSP5Kaa+Ow2iEBYUawnk2g+tQ==;sEzZto0AxJxpZQWc/z0HuA=="
+secured: "ymlZwgN17i/Y8f0N9raxAPBdrx96+3YO4mSAHwwCs/HVdxxZ9U5iglZYcirxtRbubtPBIAqPTfy3KMBe6PiBiSRrsR7PSD0RoU/U6ywNLW13WFxhSubpdpJeZkr2gjGOndwCSBR9pOk57BnH62E3SZKEf5OqOzzWL1l6GiaodRbzcCwnsbNzYDRZhQLG+aIOpFMBhkHTLW2Y9pF6rstnY8/MnBdgSxOYHK+Cugc6CIHJfujQV5F8GzdqiiXAEtjftuW3Ru2Ho807zrHyWvRyLbwVpHOQrG16LpxxwZdKKQmoALawX26sblvy81Lc/G1KgGYnsMTByy2ECdvVog456q9ZzNgCT7CTALMIiFUsuATytQ8i4nKeSnKHBRKZaX7VjwDVQ51qCEfssTFaetLTBbL+zjnQQoldOlyYqaUQ13imbX1bgk3MPaG1Tjulrzpflruyu1zQqLud6AipVAw3Gqi5Xrzat8xVvhU7sRyc3OcvQUtLcXrdgxPwCRQgxkkoqlpjplDU+bwylU4p6ekVHw==;4ixD4oErwb1+99k5f7tq1A=="
 ---
 
