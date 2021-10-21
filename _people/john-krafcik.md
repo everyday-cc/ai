@@ -10,7 +10,7 @@ website: https://t.co/i1uBCCpct5
 twitter:
   username: johnkrafcik
   url: https://twitter.com/johnkrafcik
-  followers: 15982
+  followers: 15979
 
 linkedin:
   url: https://www.linkedin.com/in/johnkrafcik/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "John Krafcik"
 
-secured: "7KJ9WzIwma1IBJecCnUCYwPrSFGuNIhfK0R9VytcGPyMXJFwK+GXz7f6HVB8jg61OH0NSaewVNiTZxO6Zvy/mGSTI4SAidLYMyc8SJSWsh0yBkBka7MA64rD6K6hWPRKtLaqmLg0xtm5MSiI1t8iIESNnCsCMPCZ0AKRwPWijPsl3KDz9GlNyVZM2jKyG4YwJaE4dEniUsXkZK0GHBvHnbL+blNQAUALv17MvVAxHCf2yJWWSSuNwgIvzBgQewbFYf3bzwDwBVGo+a05ov81BJSX5dMgSLYWwuXdCYfy8VEm2BRKgs95U+OC88rENOsbNBfiOStGJzfy17EQ4/tG8oidzAdk7CzRG6O1x8FMQtJX2IGrDZZOuJY7K6b3WEiw3i4CRrlgcd+EbGDIaMpc2bP0sXHd8AflYiJZUhclCjA=;7yhNURkjMCbJM0WfoVDAGw=="
+secured: "/+WBfofscbtqv3oKqK9HjwVSgXdhOnvnHGfY6v/T/wWGNd+tP0YMFuXzytmazNQTHqLMO68KuWdse75gyUJr8GnAp8HaCbRRPBTFEMKWG53iMqsCer1x03Y3I2WnlukM/loPwf0HWrIPX8dR3/tMxlS4Dic9lJlZ4cv3RWuJgezMHn26xqOtgjbqrEPBVEFuBTK+aZW+YJFKpikyWLzKgRNkupSOlz/2IUBVJfZLAHNNDGl2CvBDC52jNd8GYAlpboZVi7Ny+7U+RT3EbcXoCQ/tmy7tO6xvyYR3JCLs4kZhOLNYv83cq/HWSfyXhWi+PiuSZX/hD4pdDJnOAG+ciIn5mE+iEZGlkJghUVitp5XdAeeiVEwOCGjkBpoHRs40NS8yp3v5IPz5dQk1b7GAhhvgSvpspYXuy3hqJStsWgI=;ORRRUBGyhW6tBvXDB8DDEA=="
 ---
 

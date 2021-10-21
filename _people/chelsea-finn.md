@@ -14,7 +14,7 @@ website: https://t.co/R71YZ0CUzE
 twitter:
   username: chelseabfinn
   url: https://twitter.com/chelseabfinn
-  followers: 39812
+  followers: 39813
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1xw2vTsAAAAJ
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Chelsea Finn"
 
-secured: "dgKGy6KLqW3VoiwbOFexl7NBoETMeBUmlAViQrqoNbYj77uBV8cZBcr5A6v0IOB2/tz4Kj0NlkGpkIhurbaMH5R5svggjtCuPmVR/+P2VI5T/6TI0xtVlbL85EXOEZgGG5P3DnCUkZXt97pHpMYUaAke7zLNh70HRJ42IXtOQn/DEbkgE82L7wZSApAotdaxAQ+WlTY954S0nJSOCmtVYN59Rh7F8hg3OUwqSemoymendeqUjeJ8tlisHkx06UhV1smr9PS8hOrY8hY0YVsZ3airHv6vwhFCHbtCRADTS3t3lB2/fCxLSomK6DMQxdGfoovCVhbVZ8sJ3CXRdo3BHxspNZq9R/1cOplfwoAsbXIIu3jr3rfVgf1PffuDXoBfu311cMfJAxSKqQbfCakoimpCnXBpjL+z7ZSXCwkfQgE=;kMBib0mOaipNW9iy5E7DdA=="
+secured: "OCOWfZOAaRqrNOEVVeusURbYXUgRh5GGz76Giw5PKC219yunVe5m0q+w0RNV5gjbmuCE9CnK4JmelQhZ4VvXrjgQmT7SjTzHVuLq8feAyQT/IiBe0kxaxKUrpKYVysP5IkgPk7Yf5e5apTAbuSEUMLkuW0n6+VZBoIIG3UW+QiZrn0pY0oFRG3m3QdmJw+NludMRfpINL8+egNM/6gUwk7CilaWbn3sEd6iHZnX/3NuDoQl/G+DOoMapjLCplWa0cNCTNK/dpCHQSwom5cwsLvVDe4Ers8tHNlryhI4Rt3TlsrfkUlr4HyQjOp9H9Z/9Vq+91kgJPyc5HxtMD3L1HATD/n8Q5JbriTEC8oWIi8jEqpvuKxWu32Gx5b7tBThEQVghDddvE0tHJiXCEIou5OlPSYHSMKaucggiw80+3GU=;oTxKPLh6Gr6d5ms5IQ1Q6g=="
 ---
 

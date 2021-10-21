@@ -1,19 +1,19 @@
 ---
 category: news
 title: "US, UK research labs collaborate on autonomy, artificial intelligence"
-excerpt: "The Air Force Research Laboratory, in partnership with United Kingdom’s Defence Science and Technology Laboratory, hosted an in-person and virtual demonstration highlighting the U.S and the U.K."
-publishedDateTime: 2021-10-20T18:55:00Z
-originalUrl: "https://www.af.mil/News/Article-Display/Article/2817083/us-uk-research-labs-collaborate-on-autonomy-artificial-intelligence/"
-webUrl: "https://www.af.mil/News/Article-Display/Article/2817083/us-uk-research-labs-collaborate-on-autonomy-artificial-intelligence/"
+excerpt: "The Air Force Research Laboratory, in partnership with United Kingdom's Defence Science and Technology Laboratory (Dstl), have demonstrated for the first time the ability for the U.S. and the U.K. to jointly develop,"
+publishedDateTime: 2021-10-21T13:37:00Z
+originalUrl: "https://www.publicnow.com/view/F510CA00BF12D02099758B40FA0C05B298D84674"
+webUrl: "https://www.publicnow.com/view/F510CA00BF12D02099758B40FA0C05B298D84674"
 type: article
 
 provider:
-  name: AF.mil
-  domain: af.mil
+  name: publicnow.com
+  domain: publicnow.com
 
 topics:
   - AI
 
-secured: "J1P7DKuHeDjglw0N5WzaUcFQAXtzwMzg0ZfRRf/NAexN3QEmhsxmumQLaQw/wqD6OOYgEcTHexOuHsFHPVUPJsJnfW0/+rH4JbHecgwE+UhF0+5StGGELBf+27rRMoxsyXXGjniFaZxRKsb7G8121W1u0c+SDxjU8ZJeztQO6SPlc1gOmOpLgM7tR8WbNhVPuzzeTmYWy7/tW/CGpYtxhpX7kngW2Jt2se1GMYoMKaCH44VYi5Ie/IeC+Xor3AEaX5uota4OBtW2eYJAGcZWBFlrIpweV7FKvSfiK+6WZs+C2NBLDn+VRe3oIRXBeZ+nzEuWN/TLpfNHEBQG+HV/6mEnSc7ZTpqWsBJStkmrsx1HDhTrsiUssfPgjgwEsgYYH8PT2O3exbWWAEVLmQWQnVfXiNMH4s5zFv+/QqpdY7a8UwGZOl/Stkz1CX9zH/iMZFIcIYSjnLgkPRRX+V5WFDUJz8R4t26esSe5yj4qe/RRIT3Q1uE/okb08hlHe30SJF3jrtTnrEsLlESVEyq6fw==;TnxvFBvGkNkphP5NdQcZ+g=="
+secured: "xo+aymQDYdhy4mmX/0duqiwNYFGeDlvHZwOryQGT6TidYb5cm9hHuxw6qPRnzjHbMnl2iCKvwSzw0SE16gx7qJVWQvY2vhLiKfRa3WvaJaAKFVU7bUnGxqW0/6xsbi5TgOrftCara56cqs41zj4exLJxy58EHmVAwzjhGpXCSFc9fB/xDb8ZKw/CmTqcTtqUWTLkCYBo7iZEeQPVQpOB/97z6GcTW01yUq8rHDeIgK8PoWlS1ajU38e2Jy7Y1pHkWU/bs63mOCZmYfbWy1wS0wpBgespYIzweDkR+7AS8/dibbl10pSVG4wRuFzzkPK2ToqCL1wU1xENSGCrSbQgIOnFWc4AroZ2UDnNb9PQY9Q=;7OXFMm6ITV3U+Jbwx/AD2Q=="
 ---
 

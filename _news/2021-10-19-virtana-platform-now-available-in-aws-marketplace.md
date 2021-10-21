@@ -3,18 +3,18 @@ category: news
 title: "Virtana Platform Now Available In AWS Marketplace"
 excerpt: "Virtana, an AIOps observability company for hybrid cloud, announced the availability of Virtana Platform in AWS Marketplace. The digital catalog with thousands of software listings from independent software vendors (ISVs) makes it easy to find,"
 publishedDateTime: 2021-10-19T13:02:00Z
-originalUrl: "https://www.wowt.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
-webUrl: "https://www.wowt.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
+originalUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
+webUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
 type: article
 
 provider:
-  name: WOWT.com
-  domain: wowt.com
+  name: KOTA TV
+  domain: kotatv.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "UjcDODinSTBKezsn9KIxI3ybd6bi4rOARVjUc0PONR519QwkGltKv6MTX82F2e46gdRygFi+Npaki45nbG67j1FgcrA4mPLTPfIcag845C06oLDHNVbNp+PDzBA0QxQptRomjQhM7TImciT3QLM7hArJv8DHbUhbweG6wRjLjmJhUj/Cq3tCEqb3cLdPxacIQqMLeflxxDj0JyCepUvNu3LAxOAywGvhLJYhCsxN/4InpogcZF3z/RHIjGeU05sEa+EyZJ9B93kyb7luIpoQuPN0a6+zFJf9fQTBnlUIrftH6QkieUr3Kp7/LeZZ/0Yx/YvASSa2mj6XpYc7WSTgRWv0k0W1W70eDlNELqOP27vEc1jvzj3yrRStOf/E6bXe44INws24H1ww4R1VaObd6WQnXNCc99YdXqpdnXayLmD5A8eAk97NgiNCgU+1MSp4lwIh7m5A669ArRz1i0Ke3SB4NvCYSyLUMKvjiQsYsozQwecZsAlyI45R9Ti/TC4ndbbmpoC3EjGAJYaGKkDEBQ==;Thfn83UF/08kOFx419O3ag=="
+secured: "s2X/D0a/f3DR/6dacE1gl/omMYvWh34rFdYvA2qq14xrK1ysiJi4qZb9WLKyIBd4FN+ZxmrMexXkW8u7RJ8jflCOTXCIqBGabb02+frglBltXEeN2G+Q/mJFBSzx+ySo6hPRNa4PWaxe6sMK6CSKbpmoQp3jTg4I7NiCNAHOjk4pAi0X5nbSDj/DZ37W5iHYJ28BnIIwodiOlBW/cCXujsCThUKEQquADloZitg+PMzCoUHuJu462u9Tsw5y7d2KLsuFpuwf9XxysXsw+wUrVLKXgm7IbWioNEtrBfn07MDxNf1jZnJw4Z/87x0VbKPh2hDz9MzkDpNuoJGtNGR5F+WkF4qhPpUvs97QhCeA7e4FbNip+mE8ufSNzwjKeotj7BbtRqUDTYCPs84pY/LQXMQWkyk+1UAhJgWd6hiETkA97oGpsh+2bOnwqJ8qhFnE6iLlzQECO/W5covrTFVXGw/NSxwJJARceOTN47ff+yTKYZAEKKGN/U+19yRBNbkBy145V10A8NXnTcJ/IQq2ww==;SN0Mr4cuNB8iqqjdSn2ACA=="
 ---
 

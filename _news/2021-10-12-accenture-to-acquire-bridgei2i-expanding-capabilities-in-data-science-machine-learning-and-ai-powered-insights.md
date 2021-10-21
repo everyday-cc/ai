@@ -3,19 +3,25 @@ category: news
 title: "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights"
 excerpt: "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia."
 publishedDateTime: 2021-10-12T03:44:00Z
-originalUrl: "https://www.djournal.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/article_a37876e9-3230-59e3-902a-4eebed5737fa.html"
-webUrl: "https://www.djournal.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/article_a37876e9-3230-59e3-902a-4eebed5737fa.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471"
 type: article
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "CIh4icmQeuiw9dp5Rp7FplikGJtZ0i90ZxIjctfB2KRmzdMzpPOF0wyq/4vq8ekcItpyefoD7FhWe8Hto2wuMaTsCmfJP+4PsGQ2/EP4e/OYb+b9KkPk39EgyEDpN7oEfy7Di4gFRXBibcT4BAzkftDXlR5bzjODBTd86N3nw66Hq7k4fLccT2LNJi70MqALdBOCxP3BCnTv85jiBlscfXlXMNGobLbzVLOyvs3csMpHHmRsLtEXQLFff7w6mfPKASHVbjY9xOGu8AwDxqsuMqn1GLt1P6ZYJrtM4KmVFrWS6It8O9k7qdCSTlz8IJXoFlvxovVpwU3uB6QQHazS9NcYOw1sjqERjw89pijYMIgfeuS9+JqjKXhjGC36gjYq/D21T8WTsZzP9zreYApaAmocm3FpbeS2cEGkST2bmbXoaUNjYqj33BDEpqqIBFxV8tUOYht1kNurGzUEeK+bHCMSg3TRgkfmCxPAyfghwzbtu0Rca9P79xnqv7SiMMbQk4zgNmNB5JnHBTSXE8rqdQ==;9FMgT14NzqvTkKUBia+QAA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "B5wZkdH0viTJH3AvY+6ulg02kTc2dg9L9VdxC/ZWuDjnw+uk6c5HJCo/FyRNjva/FFC89SLxo0D63hCoqUMU22IEXorU9OpE5zpg9Uq+7NUYBuNbb0+pTSMktTX6KAsBRJNWz+Z3ec4qTcZiKh5rWgTwRbbHsrFcmR0lAP8rvItMdDZtteJ15k84+2v+tRbvyZMfyqQBZYOWwxuLTu4hioildnYWQQU49Tce8aqGQImMHwRkE//256lUQR/FRq0dIsSNcZ3cjJhjY+t7d3AeKVG7/5VhRSAFuReqowL8JW3uboJi+RDlFby7CnlqP4QTMi3IZr1a/l3ZbdqCUAjzh7YjuljUh4JXTt+p6Ria8uU=;APdEzCrJfnZbCshmX+x99A=="
 ---
 
