@@ -1,26 +1,20 @@
 ---
 category: news
 title: "CognitiveScale Names AI Industry Veteran Robert J. Picciano New Chief Executive Officer"
-excerpt: "Appointment of Former IBM Senior Vice President Headlines New Leadership Team to Fuel the Trusted AI Company. AUSTIN, TX / ACCESSWIRE / October 6, 2021 / CognitiveScale, the Trust"
-publishedDateTime: 2021-10-06T12:21:00Z
-originalUrl: "https://apnews.com/press-release/Accesswire/technology-business-austin-bd0633c9484e7179a6200d6a86fcef62"
-webUrl: "https://apnews.com/press-release/Accesswire/technology-business-austin-bd0633c9484e7179a6200d6a86fcef62"
+excerpt: "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM's Cognitive Systems portfolio, including IBM's multi-billion ..."
+publishedDateTime: 2021-10-06T14:32:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "pX+m0bHgXVGpkTovQOej+MURXQYyqkxYk+vgtA4JSSlUOPfTvGP61FfUJCXdeZWsFCoHfaa8J7n+a8jTpgC8Dn/aJvueCVE+dx8wqiC2uomyRAjJbTaL7+dULzKyprMMqRxcn2Bnw9K6I2VlpXPEINcaCiL8/KzqCu8zDUV/tK27AqoYU0lXWs9sgb9VaVM8SooVdj4qT6CE6+Qy2bXdHZoP4Y7rjXJ7xKy+llrQFqFPghXiUDJB4pb1QhbDXs8Oj264NWhG9I7PcSW831qKD+9kF1o92Mb6cUQC14qd2TKH+PdOB9Ky9eB3Qflreq+26sDYU+SwxbtxdfcdYHOJehMXM83zgZPQlEOsr+x0zFU=;uNNHTwAzXlSxSrWtXGh5jQ=="
+secured: "2DLVi2ZsvIumnjH4ufTX5Sn8tvTtFEREPx+90UB0Az7H+yew9GR1Xdkn+adc/zsEoXOwNHR2Jq9qwuesf4CnZYk9IAqd7JvbBCM9eqPBvGaRULXoiAza01eXak0IbF4E44cHJKHMfQNvQtAQh/U0jg9WeZJF72ea0LkSZceRlAsstwfSov85gho5yjXKVkO7oMmm7M2rhcOtYxo4cCLLWxxPe9LvapceVwHyuUIfoSdHVYa0GjH3L6s+Mr7j5gH0qFG2IKNbsQyYIvAl6ZZptDKRPSXJNh0a4wfZT/HSJOR9OdR98qMPAnWrAAO4MzoTP7R6bRJJqHuY0GfI11Oc8cJJPqD8Vz4D4t6R5bsb3Fs=;TJBafHfS7JbSzIuUZ06iAg=="
 ---
 

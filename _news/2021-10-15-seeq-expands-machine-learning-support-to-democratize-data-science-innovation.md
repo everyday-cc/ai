@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Seeq Expands Machine Learning Support to Democratize Data Science Innovation"
-excerpt: "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion of its efforts to integrate machine learning algorithms into Seeq applications."
-publishedDateTime: 2021-10-14T21:55:00Z
-originalUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
-webUrl: "https://www.dcvelocity.com/articles/52765-seeq-expands-machine-learning-support-to-democratize-data-science-innovation"
+excerpt: "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications."
+publishedDateTime: 2021-10-14T20:56:00Z
+originalUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
+webUrl: "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science"
 type: article
 
 provider:
-  name: DC Velocity
-  domain: dcvelocity.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "lVVFKNCCNSPvH9aHbj9spMzCVldsLJJ52PABbH3IX2pQW7CKTVzbnepdQKzNJvi+KNAVom+b8Pnu82PuMBKv8eGsan4VvbbjE+aZqHS9GNLPm2/gWMcWsbpVkj+wiSDKBGBmRHclCGV5fawB3ikhQXAEJZwjAZz/IeEnHbJ6jFbvyOWTT1Vg1gQszyc03qtE9VuHZltQ1LTNGXhcqr1A6cb+nONj1Uv1/mSDV+TL4tDf7IRknfEvp+saDpAvOyxBRdJvaksoHelmXU1Fp3duOn5UbCgiMOX9WaFHVDLyg3rNBLN+bSXQ6SN1yveBCaaIBVUzjmAHW83qZmQ2uQhDGBBfrSXgvTGBs/OBcJclW6g12xFxKiV5CFMT2LsdFLzgfBK/eFT8OifazJ1MigoiPkwR+Re/VeXx5AtEInpvtXVF72NOc1quwLPdw7I8l93DGTabKVyLYHUf2qGDJqt3XkR5EVhnNgSO5Rg/1Jq+jPYAorcqvW98eGonEqaXBEXa6DeOMbVRQVvmJH1qRLrNrA==;8b+8scPsT4qV3tTOlzSCHQ=="
+secured: "qEV94Stqvxn1HtTrlxnPHOFssbWCftNy9lFfHB9SpY8gYFuEQRzlPcnHiTucVbRfA6Y+CT17ts1/FOy43ef4E+2qsQ6CsOszL5E/j/HN7JwTWwmkkIcby7Xy1BnVfnNk2kYn2n6x09hYvGHgUy0pqdBoIEL8anS1qkmCRp4G3QaPqQMo2uSRNgYuWtgjUpJw1gJlYz705Ir+1g/KYqBIKZp8924glHbzcAKnD++kljKxPHntwONjpGY5g0EzC4Rl2HlMmFRa5xaL7mP9950y7glyHO+9FsouIzePp0gWDU5iRWFd+3scU+wgnvaWR26fFgCzpcx71LwXlANlafdoAVO9v/qsj/RzpiYjFDtWxRYMKZCevovym8YMRdQAoMPBQygCJI128CcFBPSqRHWbbDmRbhAw6tT/h67KEsukvkk7cGFnZfs7nvzl33AO4a60tVquQgQc2pnJMSO7lUwxc8aINpfISnVhP5fESLfFFMx67Ii/mHFE15hOvFY0/Ml2ghafQUslG/DPpaTISkOLkQ==;TjSPIW3dAL5ST3d1C7Jymg=="
 ---
 
