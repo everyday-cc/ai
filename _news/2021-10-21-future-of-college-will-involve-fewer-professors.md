@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Future of college will involve fewer professors"
-excerpt: "At a private college on the East Coast, students interact with an AI chat agent in a virtual restaurant set in China to learn the Mandarin language. These examples provide a glimpse into the future of teaching and learning in college."
-publishedDateTime: 2021-10-20T19:04:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Future-of-college-will-involve-fewer-professors-16547995.php"
-webUrl: "https://www.seattlepi.com/news/article/Future-of-college-will-involve-fewer-professors-16547995.php"
+excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
+publishedDateTime: 2021-10-21T12:10:00Z
+originalUrl: "https://www.upi.com/Voices/2021/10/21/future-of-college-fewer-professors-AI-virtual/8851634817123/"
+webUrl: "https://www.upi.com/Voices/2021/10/21/future-of-college-fewer-professors-AI-virtual/8851634817123/"
 type: article
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "8HB/mDoBNPjY4A0WMsutT2KR2ugv0CDqgSDX6mbYeYH9xXk5vjOc3vFsB8RaPNmdq9BmPio79ce5lnubzUOvQcgRdAXE/J4Fa/4hrTMKKs9Gr745rqvwV5+ra6CQWvG6JsEemuIPeKzUFlE6RbZ7pgmHtjQYBNhaF/+4sC1DA4BXrGUaXhF6ZUu3wHa4GkPPXeDc/YykUzRTO911MUnxgzdgPFYHXSVXWHuuWeZ5E6H2KOM6tCJkc0ctVegb7bgDLNp+lJhWRkmPcb77bHbUT30sprqcnVkeVAMnjBGkavud8CbHK69jNFU8PGNIU+3xD3GBHZkqNyiTF4ilT/EpzhMvlkZcW6BlOJwjeaGJGK8=;5AhVZybJBQ5WBWnviz1Uwg=="
+secured: "XsgwdUzgaE3UIenanyvKgX1z8qtdSM7BeXe3UjfXvn150wsNDP9zGtT+S2e7sEVubu/IE4/uyx/BVk0xvrahGtxHAMS5sbvWsRWpRSGCWDOjHSPWDx2nNm18nnPUJTOd9O1w3XrrFa0LbMK4b8JkAX1ajYTVOHQEXJfVACQ+NHkEZLPNczpL/iUCJhmIIIs5Sw8RrFxEae9udi8PUpXBLSjB0oAOrQ4sFUoUOqi1fGQThHqdHk0EnLUJ18b92x4nFWzX5m44GJ+H+PVz28OCNHHAw45jlE5s/OrqlCa+SmArItiRwIZ4ToACactqnxumy692VzACNT7GLD6gil6T7NCTr6/Gi52+7y9UMwkkul1dgJ8JJZmKkn178xzlrEUA7J4ocgG6FvGhkiTIG0Dfuf6/9g2P+i+N3Vsw8zBKTACqrFcZ4bRr64xxhjTA7+yttABQa596DTx17l4WFI/9Bc05BpdWqnAQW5hOuJrlSsYFcZ1g+IPhThPXz9QjsCuPQITpZoQlfLl9Wv1KfhqHfQ==;FjvoCBZUNOgp2+8Oqo3isA=="
 ---
 

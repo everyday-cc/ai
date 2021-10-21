@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Mars robots take cruise control during solar event"
-excerpt: "The words of John Denver's \"Take Me Home, Country Roads\" came to mind ... on simplified cruise control. Consider it a two-week Martian summer break for the unsupervised robots, and a bit of ..."
-publishedDateTime: 2021-10-02T16:59:00Z
-originalUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
-webUrl: "https://www.cnn.com/2021/10/02/world/science-newsletter-wt-scn-mars-solar/index.html"
+excerpt: "When the sun gets in between Mars and Earth, NASA experiences a communication gap with its robotic explorers at the red planet. The Mars solar conjunction takes place between October 2 and 16, and the event happens for a couple of weeks every two years."
+publishedDateTime: 2021-10-02T16:50:00Z
+originalUrl: "https://www.waaytv.com/content/national/575445912.html"
+webUrl: "https://www.waaytv.com/content/national/575445912.html"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "w4Z8Rqqz7X5vlMSvbtEy2PXxF4HLkquwV//+ACOfCCcxfya2zRl3Pay9an6devU9qd8L2zHAN+1q/XT4XDP87ntU5jmWK1tnx4ES1Bom7T62m5VbEJfLLsg3hLDKvuy9zDnVVQllpdOiZtyOnqiUlgJXheA5kkJ3xQWc9dRw61f6GxzyMadT+EpbHtic4jer86N9YPcJqpRSOxvI0FdHxvUswpxhJ+Vp5kSDp6e4AKqO4oF2w9jQ6ZO7O7jzyOpkTDgUFFfOkpjlfAqIb+As2ZyJjk/ITv6op1W1jr64/Bq9nvRjtC4e7CTDaMKRWs5np5NKxGEg0uK7BMUP/AdS263l33/T847cgzU1z3m8Z/0=;69oFAWJiPoWdLfpyi9r6eQ=="
+secured: "VOko9qG1E751wf7mdjh4gVmsSGedjrAlBtvNg56GHTf7C12yp/vJuzz/H1m+DaBJbWo9P3cTl+1tgW277+RjqRqDkvnD8f/hJuPX/w752LZOYQ8ekQXYiRSb8SLvRjlCdJhCoC6VcXGSfb+xTKIArIIDHNg+J3SoNISd2X1VfeqmndsPDNUlSxci8QKYT8v/jDuzmFrpbcyUNtWJ1DW/RksxE0SRu7vhREJv10mqzJa1/m7DKHc0HWswgaidv8myTleCQVkp77d9Zv14hV5p+K4a7vOZfRizvP+nvLObDGs7Os6hKfS4venb6QXbVpIzOpZD/ETjJamJp5f3O2UIeMxQ5InuDxR8JXRNiA3kKRNwZ4a/lRm6/rYutcxcTqpWol7E57PPBQ/zKvANIidRIgFdlRRtglpktg6RFx93tCJ/h7U+T/XioHIIQia6Wkjg6AfyNQ1WF2JlfB06A7EwRHfEGn1iG3yp2R8M+F9Y6+6AzJPVZY+bHfSENIlLcEqm1KDjfhxjS6Bt8C2UNhKM4A==;q1wHj9B6MzbeoL4XfzF8UA=="
 ---
 
