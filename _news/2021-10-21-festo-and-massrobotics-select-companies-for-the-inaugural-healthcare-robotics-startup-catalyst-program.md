@@ -3,8 +3,8 @@ category: news
 title: "Festo and MassRobotics Select Companies for the Inaugural Healthcare Robotics Startup Catalyst Program"
 excerpt: "The first four companies in the inaugural Healthcare Robotics Startup Catalyst program have been selected by Festo and MassRobotics. The Healthcare Robotics Startup Catalyst is a new program for the global robotics startup community to advance healthcare developments by providing promising companies with investor and customer introductions,"
 publishedDateTime: 2021-10-21T16:33:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17654"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17654"
+originalUrl: "https://www.roboticstomorrow.com/news/2021/10/21/festo-and-massrobotics-select-companies-for-the-inaugural-healthcare-robotics-startup-catalyst-program/17654/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/10/21/festo-and-massrobotics-select-companies-for-the-inaugural-healthcare-robotics-startup-catalyst-program/17654/"
 type: article
 
 provider:
@@ -12,10 +12,10 @@ provider:
   domain: roboticstomorrow.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
+  - AI in Robotics
 
-secured: "k9WPKTta/tpxYwaVykYSP8m+DWCWlJPUJwVXzrNp4UAbDKoqgav+LxWjX1KnWCQooNPXx2zx6lMSMPF6y7rbYua2LB7BG/THD32NNmjVy8bh3REQ3QBtIt8x5/Zf7Bj/IVwEYC9I3w8KEgm1+er6F2bIem+AxtZ0FQDFiGbAKJ1DDiLA59tKu71YoFFzpNTmliO8UFpBPBeNkh+bwGVhSYC7YuvHWZhRfwGmR04mH8CkV1cBbg4Mc4hDPuokBkxdm+tv5CWS3SfUWhfg3+8pxGU0wQRQLYGAp3soYH9OwINTLfY2YZjFVsDDSVwpqAYjeE+raJrRR0k6Rcm+C7142giiv81URtybXNDHKd3fYIU=;8o29BooGFWoTT6nN3/fg7A=="
+secured: "lwgbPx3dZtGD9+M5Xv3bXI1bQLxtb+vFUnS4UM50c4tlZv3AGnJRbEuL0pA0VGMp6QfoZhoiyry59AtvbXcsUReAhR+XMFu/JThj2OmVJ6x+pSmrA3HWvG14qm0VoXYV5Poj9vZRGevG2ClI5qB760hbN9bucoTCCImyf21e2oBToObmtqMQLvlH0TDkHjxX6QI+BafxIh1EN4VeNIT7ESUgdGE95g3jRvbrrHhkBBhlSOBgS5eiR5jKABQfCFT5PZu4+2+ADKqrzqw42zGUmFwtF5PjAw/lb/GVSxzrAaO6NyomRnM85Ci/x2nXthAYZUwd+v/rDPBPrK6dcDjNu6Ut4TxXesDkrllipMgd3s4=;WXlwV40ub5DO/lRrcnR+ww=="
 ---
 

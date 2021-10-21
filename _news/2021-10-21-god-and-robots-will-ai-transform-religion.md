@@ -1,10 +1,10 @@
 ---
 category: news
 title: "God and robots: Will AI transform religion?"
-excerpt: "Experts say major global faiths are discussing their relationship with AI, and some are starting to incorporate this technology into their worship. Robot priests can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis."
-publishedDateTime: 2021-10-20T23:55:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA"
+excerpt: "BBC Global Religion reporter Sofia Bettiza has taken a look at whether AI’s relationship with religion is just a gimmick, or whether it can truly transform how people experience faith."
+publishedDateTime: 2021-10-20T23:54:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
+webUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "qrh4Eek/2tiGPz3lHa6SF0kqp76gZE+DLt9PyAryyhZ154B2q9OpNoMRGcw398Gt6uruLBeBX6iOWOENSWH+4fp40cAKlhqQI/M79xJsUus+S6GyJmW26IFHDjyWyNDqa5U/cdT3eybNfncIEtIqfxBbZ7IiOrn5k301z69SILEThYu697BCK8Vnc+/O0ypxMozI0nTXDrTrFa+P74pD6KXT0gdepADLHsT1Q6ZlwVciBlgmzoXWJydSJAAk0wTqyqaj2hoNbIZSx/XcexUXxe/+fyqIzEyWC54UYpJqNNYB9tBTQVLUuLe37Y5erlZmDzYl05a+fs61IMAK+S1hbOZsn8BT4kWpt7B9KkHjKUA6xog6VVvK0dg6Z/1J/FabrRDG5Z18jiMNnhH8oHfdl0bWShrIr0Ha3QOkDBjXlfRwh5OSyxLZKHhJl/S3H9bVJlNGMqS5ptIpsDixrqJAvPm9blzNsZupYVzR4JVRK1ydWkHIB543ipi08Ijxfr59q+dYmdkq4OJZuVPyKvy8GQ==;bgwrM+gp1pJIfvVFjBW05w=="
+secured: "hqQY74evhyTD0Ne5ooH0xGkJfEjufHUsQp+Nj5XeKKRC8bpzOo/CmDHtqr/JubqkUWKBs0r+AWt95Rj4Xcspf+7WjSQO+8Bfx7yDSPQGOeSXy5gaJl7jPgDEQno9LoB8fYWr+xcP3PMa/wfBtjC2QWlgsIYgENp+ndKQuQ1Jz2JI+DU8pddWbsYgljW/hg5foh5jHwMqwl4eSaJJmvApN8oOjIplPQ4rzllPWHSfyMBb1AUuPVHSj+dUqOQhz+hlC59ZCppnP8dxYQXp8kIOjKb+5AOHMnzVGAYd0M4rtOVmMdBlrSU7jDL4vccOwFGTsMcuYzfp1sZMa2OXrU8KlBC3LurWXXwLEw0F8LOMxG/MIAc6PgZqT3fe/qsYLgTXQoPZiCo9I9xGm29qRbb3GIQkWWdVAiKnrIyVGlvK/qPMgbPlLW0HlPMrALjyktqVG+8gic9rp08FB3AG54AeC917GFB82fWZJLAg+6K3+qlnr9h2GA7E4WNY+JgVJCrv0uGJ68svTp1WOeXVdFhV8Q==;KOl+1r5lEStc5BebM3crEw=="
 ---
 
