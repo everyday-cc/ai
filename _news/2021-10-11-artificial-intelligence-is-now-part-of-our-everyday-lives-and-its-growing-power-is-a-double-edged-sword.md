@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Artificial intelligence is now part of our everyday lives, and its growing power is a double-edged sword"
-excerpt: "A major new report on the state of artificial intelligence (AI) has just been released. Think of it as the AI equivalent of an Intergovernmental Panel on Climate Change report, in that it identifies where AI is at today,"
-publishedDateTime: 2021-10-11T12:38:00Z
-originalUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html"
-webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.html"
-ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-everyday-power-double-edged.amp"
+title: "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword"
+excerpt: "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future."
+publishedDateTime: 2021-10-10T19:10:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-38.jpg"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "UuFGTa4MfvssC9tsz8+O5TgRFd7cF+yIXrx6Da0X+OvLhR693vIERRqfVv3r++x3yzGFlC+TG+b/QPH/H44JGOuhSK6nXFQB37AGjqm3j5j0XSWT1NJ10wC0GE6wgmJHwA/V4jl5IPlz9aGRgK6hi5RhHupEAHMz+Z1nFRV3gnp1QX5ZK99StlbsZd/G/+DB55sLkKc9VsGsXE42ZfqFQhXCGV/dHrLuS2LqE6DtJSIl0ZpWoR4sijICL86SSU32CAOl1TUVTX0KX0UQPnHskR7QZNCdXg+HOB9SQTyq7ikaUhTnPNZP6XCmwg6Z9wD3RxPPnUaVYXDJtCI72VKwpeGlJpvIdEYlVLdmVJ5TOCnlUz2ueK1g++IwV0J7W0Nrx8kDHq3O097ZVMaS6MYFgGdNoVr90Zk5yHMniMEYJGSLKnAs66s/Tkm/5CGm0iur0sqbfwesMPN/Amv1dioWMVVy7KQaFbiepy9ss3Nc+yyR6783x74/pryT+0/gPwJ8lKJRYck9Z3F0Z9lVrEzlDQ==;iMPdvNVgyffjQQ0JQDgXFg=="
+secured: "Byrem/nsj0Yj2OdSUW9Cn1auVqaNDBwGA7K6bf/4TDR023F524KZAD/DuyU+zeL81ueaWWY+kY8lCy6k4/ggNWxqKKCRqxBnbGKv8gVeVXttdGXxOuo7dB3wkn6yWkpp2aAWect1QTEzLu+jNyWyii1rZ2mlwX9vhNnwiapRw+xn+4KaruckU+f5/3R9Jnrdwxbp6xHNaIRc2FZRxt2kwP22JhQQV3lb0PKou3S/beSY/OR8NH3PmuNJJpN4Kscrd562VXfW3iGetw912Frf+MAz/9MwDywl8bZRp6vDmdjQCBpmEXQg08qp69c2PmMy9Zt95ejwD8F8Jqk7x03l/ZtcmXYfdOEBeFTCrkHUzPk1H98wfRiD99jbJsyvl4u7U9L0HKuoeCK2XAw4Eh8JzPt45WrwXtSwIrdiz7729lVdlm47Gftp1N2+zTHR8jaRJ0LE6qLpBiKbTAz9z/RPrt3doQNE1gWQFJ1s7RhLUycux9fOA6xuVWMkn9Si/Oc6es1VQ4JPnuCZ6CzFyLMwZg==;3E5MvUarckLvM48YcsEy1g=="
 ---
 
