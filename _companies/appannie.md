@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "appannie"
   url: "https://twitter.com/appannie"
-  followers: 147057
+  followers: 147054
 
 locations:
   - San Francisco, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "App Annie"
 
-secured: "ZKuHBNHduPKEYghB+MjFHyAdtYHb86fKXsAvBP2oTcdXKDQya98b4/d8/YulqPnCH92p3bM8CJDnM45nB4v9rVIHLdHnDM9yNCeWWwPGR3F6dFJ+UyiOmgBa9CC7PwDqML9lWpwkHwop+N+Xx5AKs/TM94cINnmmTc83ZLLRiBqCZnPbNh0y0pLb4MhJ2ky5ydswn+T2kUYIKoNsW4fUCk+/1tP9+1X2dPD9OZvuL9+lGVYQERweFc+XsJHo7ItDAAsAcqEIvHCQajwoP5T/X0Zj22FuU1de3HUJxPKEHCpW997jHyyr+IYc44m/tzZomP4/z3d4AAVtT6Gs/wn2ozMxCUQnifv/hzZD9+1wJPJk3dvSd6oGSkKDl2CkLtczgTS2FFBVV6qmkTTXWPj0/cuVLIQf4qgmy/2V05ZrMuI=;P15Nj9tkAniyni9PPchwQw=="
+secured: "uidr71IiCo0+eCjsUdf6+kk3bKdrR7CKuUkO6AJzWuurbDDwmv67cHq1MXt9NTF5Wzovr0XMkl5uIhgkQ+zmiTcctFnXdkcGV3/mlRdEXel6NakF9PoicFoUP1dtKARglvBgfmM/OJrBffMUsbAxXBnwniISt8l4KP/D9uyACMiH12wViv3EYowxTnJztitSYUa7kPrYCIzV8kgaOdVmLOSirDHCIemsHOfI46HDvL3XcR6ZIDTHX8Y6xJyAT5vcMIoyu+iX4jx8Vb4XQqLAktVa559cVyBryHWpluRS196aKx0barVkUEpqw0HDB4X1d0m9fC1Dgakh+zkLEyJi2TgAwoeARSfaWNl5P409NwGBYqzGFLdT2o6EDQI8k057iemuAQm5cSREp+EsECD+VUCRYgaaeXa9vU6dgVfKYn8=;sM0quPQMC5jLTHbgyJRuEA=="
 ---
 
