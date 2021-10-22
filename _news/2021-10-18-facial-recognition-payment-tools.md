@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Facial recognition cameras arrive in UK school canteens"
-    excerpt: "Facial recognition computers have found an unlikely new niche: scanning the faces of thousands of British pupils in school canteens. On Monday, nine schools in North Ayrshire will start taking payments for school lunches by scanning the faces of pupils,"
-    publishedDateTime: 2021-10-17T04:00:00Z
-    webUrl: "https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
-    ampWebUrl: "https://amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98774f15-08c3-4a94-8627-5a8929df882d.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Facial recognition cameras being used to charge kids for school dinners"
     excerpt: "Facial recognition cameras are now being used to charge kids for school dinners. Children will now be able to pay for their lunch using their faces in a new trial in Scotland. Nine schools in North Ayrhsire are testing out the new software from today,"
     publishedDateTime: 2021-10-18T13:05:00Z
@@ -279,6 +263,24 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 19
+  - title: "27 schools in England using facial recognition to take lunch payments"
+    excerpt: "More than 60 schools set to deploy the no-contact payments system as a result of the COVID-19 pandemic, but campaigners warn that it could be undermining children's privacy rights."
+    publishedDateTime: 2021-10-20T15:44:00Z
+    webUrl: "https://news.sky.com/story/27-schools-in-england-using-facial-recognition-to-take-lunch-payments-12439330"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 19
+  - title: "Facial recognition systems off the menu as schools reverse plans"
+    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
+    publishedDateTime: 2021-10-22T04:00:00Z
+    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
     quality: 19
 
 secured: "ZuoMyMHpLY3L12RmNoGrFm8j81SqcEHVy4RTIZPUFwUjN++zJRpqudLpXGDtoRjCVy3LmuEY54FOJg3gS99ZlzoolEwJ3uEnPPBKZBcZBZVEbIG/1xnVJqc3s2x2ICoPC9mlXUGLlkhjS7oLKR3hps4pa14NAgfs8GJ818EQUZfC1SzfJEY5zhqGZ0sXPYEXtoCm5ssGfGHZmmIVKi6XT7r4oagTSSTIjyYoJoZTxQsoi7ZquQFuZE/gYfTvfx6rCyR8pOgQu9X97iH/m0zowGuB42AvSD6RxwtEJlnVl+FAv5qEAw1O1oNA1KwuaUGBglYVVeK8ZNyu/+8gg+OPnzPPzmKlZHgGkPu/0cAdDXab+0V7C5ihHGuoUxIYLls9ahy/nWPEv/p3KQ5Rhg1Wa7TAOdekWMlObmDkXJFWEwgpgRpvxNoHx77qkVQyrabDUoL6dPghS0p4xouvWuijYsNbHoJvZSo9YO+Yf/W9Ujoe6eV+vK1qkCnwAyFnhoH1coySP4GtXhmCwXv6VOoi8A==;YXBfynwJuUiMxk8lcMOEfA=="

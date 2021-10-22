@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T12:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/10/n23482634/why-a-i-is-about-to-trigger-the-next-great-medical-breakthrough"
 webUrl: "https://www.benzinga.com/pressreleases/21/10/n23482634/why-a-i-is-about-to-trigger-the-next-great-medical-breakthrough"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

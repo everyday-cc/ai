@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T18:55:00Z
 originalUrl: "https://www.af.mil/News/Article-Display/Article/2817083/us-uk-research-labs-collaborate-on-autonomy-artificial-intelligence/"
 webUrl: "https://www.af.mil/News/Article-Display/Article/2817083/us-uk-research-labs-collaborate-on-autonomy-artificial-intelligence/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AF.mil

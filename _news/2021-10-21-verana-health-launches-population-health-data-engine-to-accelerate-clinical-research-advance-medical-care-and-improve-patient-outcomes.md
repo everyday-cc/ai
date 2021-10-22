@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:46:00Z
 originalUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/20/verana-health-launches-population-health-data-engine-accelerate-clinical-research-advance-medical-care-improve-patient-outcomes/"
 webUrl: "https://www.uppermichiganssource.com/prnewswire/2021/10/20/verana-health-launches-population-health-data-engine-accelerate-clinical-research-advance-medical-care-improve-patient-outcomes/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Upper

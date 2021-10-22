@@ -8,6 +8,9 @@ webUrl: "https://www.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-
 ampWebUrl: "https://amp.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-diane-weyermann-like-a-bridge-of-hope-washed-away-in-the-storm"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-diane-weyermann-like-a-bridge-of-hope-washed-away-in-the-storm"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: The Guardian

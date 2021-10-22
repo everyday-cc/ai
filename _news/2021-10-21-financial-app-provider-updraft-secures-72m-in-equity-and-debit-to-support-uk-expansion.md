@@ -8,6 +8,9 @@ webUrl: "https://www.crowdfundinsider.com/2021/10/181941-financial-app-provider-
 ampWebUrl: "https://www.crowdfundinsider.com/2021/10/181941-financial-app-provider-updraft-secures-72m-in-equity-and-debit-to-support-uk-expansion/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181941-financial-app-provider-updraft-secures-72m-in-equity-and-debit-to-support-uk-expansion/amp/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Crowdfund Insider

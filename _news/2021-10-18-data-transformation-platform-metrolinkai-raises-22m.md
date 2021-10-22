@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/data-transformation-platform-metr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 566
         isCached: true
+  - title: "AI model optimization startup Deci raises $21M"
+    excerpt: "Deci, a startup developing a platform to optimize AI and machine learning algorithms, has raised $21 million in a venture funding round."
+    publishedDateTime: 2021-10-20T18:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/20/ai-model-optimization-startup-deci-raises-21m/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Metrolink.ai Raises $22M in Seed Funding"
     excerpt: "Metrolink.ai, a Tel Aviv, Israel-based data-management platform, completed a $22m seed funding round. The round was led by Grove Ventures, with participation from Eclipse Ventures. The company plans to use the funds to expand its R&D,"
     publishedDateTime: 2021-10-18T12:48:00Z

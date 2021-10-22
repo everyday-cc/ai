@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T16:29:00Z
 originalUrl: "https://www.benzinga.com/news/21/10/23466252/healthcare-triangle-partners-with-google-cloud-to-accelerate-cloud-transformation-for-healthcare-and"
 webUrl: "https://www.benzinga.com/news/21/10/23466252/healthcare-triangle-partners-with-google-cloud-to-accelerate-cloud-transformation-for-healthcare-and"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

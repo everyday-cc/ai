@@ -47,15 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
-    excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
-    publishedDateTime: 2021-10-18T13:42:00Z
-    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
-    type: article
-    provider:
-      name: 13abc.com
-      domain: 13abc.com
-    quality: 0
 
 secured: "/Uk/Agg43YzjLm/EU9qI75u3dwKNd3EnxZLwNARkIfi5ulj4OaarVnqI4LMyDU+rUNKAeDFgNgaEDMCnuVo12sF6xxJrNHukB2YvPRqBVY4Z4uhPgxx04RTX2goIBUsERPJdFsIl8l44oOomUQzQ+FII/KONQlAY08YAgc6a5+yPPuIdOihejlqAHeiG2v/Zq+HfIUr1L+cvDc64g70JeBX5sWmLltl1bol3GTbEeGt58Zvn6qPO9HlEkqds4jaCohBuSbg7khmFeKoKR+JaCUHkP0bp8YkPh+VBRydlAnTDOTk9fm2rkoYg4OcLYJEAHq3gzw1V3doDhCB3GGwRYyMqb17XlQs1qj2dfLqMXcM=;xsPwN6/O2/+RwAHILm5BMA=="
 ---

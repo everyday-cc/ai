@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/20/how-to-hire-a-great-tech-team-tips-for-ai-startup-founders-and-investors/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/20/how-to-hire-a-great-tech-team-tips-for-ai-startup-founders-and-investors/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

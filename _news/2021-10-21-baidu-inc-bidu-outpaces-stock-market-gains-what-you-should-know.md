@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T21:50:00Z
 originalUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
 webUrl: "https://www.nasdaq.com/articles/baidu-inc.-bidu-outpaces-stock-market-gains%3A-what-you-should-know-2021-10-20"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

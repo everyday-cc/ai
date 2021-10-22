@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:28:00Z
 originalUrl: "https://www.theverge.com/2021/10/20/22734215/ai-ask-delphi-moral-ethical-judgement-demo"
 webUrl: "https://www.theverge.com/2021/10/20/22734215/ai-ask-delphi-moral-ethical-judgement-demo"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: The Verge

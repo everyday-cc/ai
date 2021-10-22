@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T19:22:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2021/oct/21/morning-mail-fears-vaccines-could-be-wasted-brazils-president-accused-ai-robot-sparks-row"
 webUrl: "https://www.theguardian.com/australia-news/2021/oct/21/morning-mail-fears-vaccines-could-be-wasted-brazils-president-accused-ai-robot-sparks-row"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: The Guardian

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:11:00Z
 originalUrl: "https://www.fdlreporter.com/story/sports/mlb/brewers/2021/10/20/milwaukee-brewers-fire-hitting-coach-andy-haines-after-three-seasons/6109034001/"
 webUrl: "https://www.fdlreporter.com/story/sports/mlb/brewers/2021/10/20/milwaukee-brewers-fire-hitting-coach-andy-haines-after-three-seasons/6109034001/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Fond du Lac Reporter

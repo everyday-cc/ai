@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T03:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20211020006006/en/BrainChip-Begins-Taking-Orders-of-Akida-AI-Processor-Development-Kits"
 webUrl: "https://www.businesswire.com/news/home/20211020006006/en/BrainChip-Begins-Taking-Orders-of-Akida-AI-Processor-Development-Kits"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Wire

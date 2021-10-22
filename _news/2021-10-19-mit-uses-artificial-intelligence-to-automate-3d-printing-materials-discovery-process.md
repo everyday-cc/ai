@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting"
-    excerpt: "A team of scientists used AI to uncover a lost Picasso portrait painted over by the artist back in the early 1900s."
-    publishedDateTime: 2021-10-17T18:24:00Z
-    webUrl: "https://futurism.com/the-byte/scientists-ai-picasso-painting"
-    ampWebUrl: "https://futurism.com/scientists-ai-picasso-painting/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/scientists-ai-picasso-painting/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/10/MOSHED-2021-10-17-11-17-12-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing"
     excerpt: "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,"
     publishedDateTime: 2021-10-18T01:34:00Z
@@ -71,22 +55,6 @@ related:
       - url: "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "Machine-learning system accelerates discovery of new materials for 3D printing"
-    excerpt: "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for very specific uses."
-    publishedDateTime: 2021-10-15T18:00:00Z
-    webUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.html"
-    ampWebUrl: "https://phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-machine-learning-discovery-materials-3d.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 40
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/materials.jpg"
-        width: 1920
-        height: 1276
         isCached: true
 
 secured: "2WaUzbFWDOhytzQabKL7ieFZnL8TOqscz65jkXqQOFguuSMfIrxN4OV3aMaYSbrmtWEjy6Bf7nUtW2uJMOeJpSUHNl3wgZfMzXtror45dEgXBGDPKLt0tRG/b5h0IvThs68wmiWSCvRZaDRfl0ZhrioE9yuvOV04V3br5un72Y0wkzYmDF6fkSx+yLc+gJXFSyADyGhcG2IstKgK8EK6xFvEvLDRQ4KrxmsHWa0crrnUeleTWeeoxPspyxXHI7vk2HqkwnT8IUcHZZcEV3/5ytH97m6dvaKBo8vOJFeuWvP+hpwGvDxUktg4dwe7Z7+3jlPRHQu1SbDQk8TDAYQ9w6KG47hIPVJReZrjU8K2mBE=;FMSot8zwaFiD2WRgIkXtNA=="

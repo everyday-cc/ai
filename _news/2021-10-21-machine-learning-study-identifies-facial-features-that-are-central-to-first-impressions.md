@@ -8,6 +8,9 @@ webUrl: "https://www.psypost.org/2021/10/machine-learning-study-identifies-facia
 ampWebUrl: "https://www.psypost.org/2021/10/machine-learning-study-identifies-facial-features-that-are-central-to-first-impressions-61990/amp"
 cdnAmpWebUrl: "https://www-psypost-org.cdn.ampproject.org/c/s/www.psypost.org/2021/10/machine-learning-study-identifies-facial-features-that-are-central-to-first-impressions-61990/amp"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: PsyPost

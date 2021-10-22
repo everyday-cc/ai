@@ -74,22 +74,24 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro give giant boost to AI camera features"
+    excerpt: "Google Pixel 6 and Pixel 6 Pro – powered by Google Tensor, Google’s first-ever processor – are available to pre-order now, shipping with Android 12. The completely redesigned phones start at $599 for the Pixel 6 and $899 for the Pixel 6 Pro,"
+    publishedDateTime: 2021-10-20T09:57:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
+    type: article
+    provider:
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
+    quality: 19
   - title: "Google's Pixel 6 processor brings AI photo features"
     excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
     publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58955304.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58955304.amp"
+    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_campaign=KARANGA&at_medium=RSS"
     type: article
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0C1F/production/_121130130_pixel6pro_sortasunny.png"
-        width: 1024
-        height: 576
-        isCached: true
+    quality: 17
 
 secured: "AU1p6GOWxYlb09FrYGLn+f1MSWDJwo9FmtSlAJqrBMeFBvM1jFY+IhBBP4vkwXSczieQmSXz05+uR321OTOeVC8p71jp0lhN7xWVKIznvGZr88vf+NlY+3IgtjlaeVhvKrx8wpvVyrx0QCt0VGIhGl4FOM/MMAAR5Z63zdJ47dxgOyd0ZKad1bXGtuLAua+Pu2yKcCRj2YhqQ4Je5dfLF6AOqwSJraRavcDNKaj7C7v3i8n+Jz20i4a5MBjQ+NOj4WVS0jxNn5NNf3gYMTDqgWB1OatlKcw3kXKSstRhldnvZ2oQJ1Vv8h3qnPwFwsFMDRXoe0H1sMEKcIUBQNF62jtV/NKC+cCAHu6IZILuyW+W5t/+KSb+bIMxW9xx0Pq0kcbkW3yyP/l7VHjGj9V4cEIfBaKI8VXhLWQXMNSvJDifgV+rhJgBjIpwSJ3CwUdBZIvZ5v1KVBywFL786DPIN6cihGo5ZA1Ce/j+lH2Fl7K5VoHNtBd4542mwA8KLW4oxeaSvUyZfCTL0bGgsRiQgg==;ht2DfqJQ08020ju8/VDnQg=="
 ---

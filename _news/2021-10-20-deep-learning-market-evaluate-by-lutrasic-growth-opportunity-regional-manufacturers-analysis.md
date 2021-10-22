@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:01:00Z
 originalUrl: "https://www.openpr.com/news/2435170/deep-learning-market-evaluate-by-lutrasic-growth-opportunity"
 webUrl: "https://www.openpr.com/news/2435170/deep-learning-market-evaluate-by-lutrasic-growth-opportunity"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: openpr.com

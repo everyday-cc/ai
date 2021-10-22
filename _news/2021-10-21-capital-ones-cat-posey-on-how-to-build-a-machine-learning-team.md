@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T19:22:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/capital-ones-cat-posey-how-to-build-machine-learning-team/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/capital-ones-cat-posey-how-to-build-machine-learning-team/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: eWeek

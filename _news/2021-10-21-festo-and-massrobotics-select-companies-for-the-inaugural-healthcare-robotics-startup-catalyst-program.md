@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T16:33:00Z
 originalUrl: "https://www.roboticstomorrow.com/news/2021/10/21/festo-and-massrobotics-select-companies-for-the-inaugural-healthcare-robotics-startup-catalyst-program/17654/"
 webUrl: "https://www.roboticstomorrow.com/news/2021/10/21/festo-and-massrobotics-select-companies-for-the-inaugural-healthcare-robotics-startup-catalyst-program/17654/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Robotics Tomorrow

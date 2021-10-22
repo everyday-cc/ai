@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T17:31:00Z
 originalUrl: "https://www.uml.edu/News/press-releases/2021/YancoAIRelease102021.aspx"
 webUrl: "https://www.uml.edu/News/press-releases/2021/YancoAIRelease102021.aspx"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: UMass Lowell

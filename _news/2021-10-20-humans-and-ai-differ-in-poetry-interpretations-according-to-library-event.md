@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T05:36:00Z
 originalUrl: "https://www.stanforddaily.com/2021/10/19/humans-and-ai-differ-in-poetry-interpretations-says-library-event/"
 webUrl: "https://www.stanforddaily.com/2021/10/19/humans-and-ai-differ-in-poetry-interpretations-says-library-event/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Stanford Daily

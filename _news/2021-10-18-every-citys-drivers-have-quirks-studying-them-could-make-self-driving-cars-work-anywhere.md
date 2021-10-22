@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-18T04:10:00Z
 originalUrl: "https://www.theday.com/article/20211018/BIZ07/211019742"
 webUrl: "https://www.theday.com/article/20211018/BIZ07/211019742"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Day

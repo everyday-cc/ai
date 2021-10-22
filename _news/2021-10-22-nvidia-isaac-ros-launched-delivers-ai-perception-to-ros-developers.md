@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T19:11:00Z
 originalUrl: "https://www.roboticstomorrow.com/content.php?post=17660"
 webUrl: "https://www.roboticstomorrow.com/content.php?post=17660"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Robotics Tomorrow

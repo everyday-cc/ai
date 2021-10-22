@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T13:00:00Z
 originalUrl: "https://venturebeat.com/2021/10/21/ai-driven-strategies-are-becoming-mainstream-survey-finds/"
 webUrl: "https://venturebeat.com/2021/10/21/ai-driven-strategies-are-becoming-mainstream-survey-finds/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

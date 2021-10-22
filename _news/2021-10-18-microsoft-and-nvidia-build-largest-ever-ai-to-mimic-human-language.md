@@ -42,6 +42,24 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft launches new initiative to empower AI startups in India"
+    excerpt: "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging"
+    publishedDateTime: 2021-10-20T19:14:00Z
+    webUrl: "https://www.dailyexcelsior.com/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 36
+  - title: "New Microsoft initiative to help Indian startups innovate with AI"
+    excerpt: "In a fresh bid to empower startup ecosystem in India, Microsoft on Wednesday launched a new programme that leverages the power of Artificial Intelligence (AI) to support both B2B and B2C startups."
+    publishedDateTime: 2021-10-20T05:51:00Z
+    webUrl: "https://www.sify.com/news/new-microsoft-initiative-to-help-indian-startups-innovate-with-ai-news-education-vkufP8ajajbch.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
 
 secured: "wVdnWUblQmEDqdlX28zgNbgBTwIMzA4Ftf6HZPF42pasds57icmwL7WE9a7SDU7n6XfiaUfcH2K7pDeh28teeprf8O+P/XErnN63l3IOw/N2Nw0N1rMSkIbtqHq2Yf6XbF4SKYJxiSBV/KMYiuzFQp2CYYNmdTXvQVSzYH7pkIHXE8mmvaruvp1Zt7rk0tr2XUVByqadOzxiIaEwLK9s0QYsHiOkSpbQ/6qVSNK/uWJZwDfT7mESaJPxOcesCFXoyhIYJ8N5+Bv6eYMy0YY+uZTucuDAPfkjR38zuhHfamuhJlG37nrXjpaJV0bj+yshLNTuT+lhhTNyZ8beGfzd9fum82r6VVWEajrDW0Z/WO8/TdJ/85LMQVBTsrvgvBMWa+ELIFPt/7BN8q9YcwnCwbN2dwECDnMtaAN1AUN79LrSHYmXNEZCw8YetJwG/PfFkxmmmG8PO79xH/sPGBMrusA/nx2Svg9CYdHI//iXHc2NGhAp1cmS/BtKzJrggM0l0zq2+kgrWDdg4Jcm2jaf5Q==;jysc2CxRy7UKihqyI0gk1Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T04:30:00Z
 originalUrl: "https://www.peninsulaclarion.com/news/peninsula-speech-language-therapists-awarded-for-excellence/"
 webUrl: "https://www.peninsulaclarion.com/news/peninsula-speech-language-therapists-awarded-for-excellence/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Peninsula Clarion

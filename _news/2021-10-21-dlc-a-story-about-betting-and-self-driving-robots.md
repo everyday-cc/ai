@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T15:19:00Z
 originalUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
 webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GitHub

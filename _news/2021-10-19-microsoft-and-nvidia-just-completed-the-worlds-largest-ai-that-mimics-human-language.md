@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/microsoft-and-nvidia-just-com
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language"
 type: article
 quality: 66
-heat: 78
+heat: 76
 published: true
 
 provider:

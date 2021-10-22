@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T14:41:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10116107/EXCLUSIVE-Dutch-forensic-lab-says-decoded-Teslas-driving-data.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-10116107/EXCLUSIVE-Dutch-forensic-lab-says-decoded-Teslas-driving-data.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Mail

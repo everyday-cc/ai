@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T18:37:00Z
 originalUrl: "https://wonderfulengineering.com/this-restaurant-in-florida-hired-a-robot-waiter-and-their-tips-have-spiked/"
 webUrl: "https://wonderfulengineering.com/this-restaurant-in-florida-hired-a-robot-waiter-and-their-tips-have-spiked/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Wonderful Engineering

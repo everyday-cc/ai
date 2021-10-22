@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T18:02:00Z
 originalUrl: "https://scitechdaily.com/artificial-intelligence-is-smart-but-does-it-doesnt-play-well-with-others/"
 webUrl: "https://scitechdaily.com/artificial-intelligence-is-smart-but-does-it-doesnt-play-well-with-others/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SciTech Daily

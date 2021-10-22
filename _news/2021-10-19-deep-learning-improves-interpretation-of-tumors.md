@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-deep-tumors.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
+    excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"
+    publishedDateTime: 2021-10-17T22:06:00Z
+    webUrl: "https://www.labmanager.com/insights/overcoming-challenges-to-machine-learning-adoption-and-implementation-in-the-lab-26870"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26870/aImg/49310/scitara-data-istock-1800x900-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Deep learning improves interpretation of tumors"
     excerpt: "NIBIB-funded engineers are using deep learning to differentiate tumor more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal."
     publishedDateTime: 2021-10-18T15:53:00Z

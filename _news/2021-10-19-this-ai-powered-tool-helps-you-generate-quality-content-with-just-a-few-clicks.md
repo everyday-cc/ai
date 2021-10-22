@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-ge
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/"
 type: article
 quality: 83
-heat: 94
+heat: 96
 published: true
 
 provider:

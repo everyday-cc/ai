@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T18:16:00Z
 originalUrl: "https://phys.org/news/2021-10-ai-quantify-enzyme.html"
 webUrl: "https://phys.org/news/2021-10-ai-quantify-enzyme.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

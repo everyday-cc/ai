@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T14:29:00Z
 originalUrl: "https://syncedreview.com/2021/10/21/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-128/"
 webUrl: "https://syncedreview.com/2021/10/21/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-128/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: syncedreview

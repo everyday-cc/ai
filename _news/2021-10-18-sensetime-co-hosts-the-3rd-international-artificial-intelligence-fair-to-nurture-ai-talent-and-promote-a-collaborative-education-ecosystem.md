@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-18T09:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
 webUrl: "https://markets.businessinsider.com/news/stocks/sensetime-co-hosts-the-3rd-international-artificial-intelligence-fair-to-nurture-ai-talent-and-promote-a-collaborative-education-ecosystem-1030872722"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: Business Insider

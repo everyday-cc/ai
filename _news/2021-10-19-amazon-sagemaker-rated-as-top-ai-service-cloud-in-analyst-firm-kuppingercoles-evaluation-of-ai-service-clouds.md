@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: AWS
@@ -27,50 +27,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Choose the best AI accelerator and model compilation for computer vision inference with Amazon SageMaker"
-    excerpt: "AWS customers are increasingly building applications that are enhanced with predictions from computer vision models. For example, a fitness application monitors the body posture of users while exercising in front of a camera and provides live feedback to the users as well as periodic insights. Similarly,"
-    publishedDateTime: 2021-10-19T17:53:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/choose-the-best-ai-accelerator-and-model-compilation-for-computer-vision-inference-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image007-2.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition"
-    excerpt: "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content"
-    publishedDateTime: 2021-10-18T19:53:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/18/ML-4838-image001.jpg"
-        width: 1230
-        height: 422
-        isCached: true
-  - title: "Gamify Amazon SageMaker Ground Truth labeling workflows via a bar chart race"
-    excerpt: "Labeling is an indispensable stage of data preprocessing in supervised learning. Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. Ground Truth helps improve the quality of labels through annotation"
-    publishedDateTime: 2021-10-18T17:48:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/gamify-amazon-sagemaker-ground-truth-labeling-workflows-via-a-bar-chart-race/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/15/ML-2967-image001.jpg"
-        width: 440
-        height: 473
-        isCached: true
 
 secured: "NSc3QQKDpZgpU9qdCYKHrjgdGaWz5df8dQ1841MJEsBiNDAa4VZvWhTe8Z2lPd+ecTVuhiSiv5wbmfwaPh3sXAV7XfZU8R+CKO5VLg1xezcwrZcwKjEuayn6SKfaP4iu2f/JZLfVE2lBTKP8j9C9/8cYyikftK6VFZVp2GSr1Utx5q8abQr1aYoRML0SWc0cu6UKc/qWXb0o7aZKJwfAlYiciMPR78fsTHdeO+JOzC0Uw/S4f6h8ql4UCnVF62DEpFtgpmLQ+yoWK7NU1TQzQU3dk0f1gHsafCbi7Dgs8U+EhjjNwxEgrG0GM62frBzlc54sdLDtpq87sMmSPxN7jDTqZZPB9XKNMIwqfN5Lbj8=;b5pkUYKPszvM3jjS+jpzyw=="
 ---

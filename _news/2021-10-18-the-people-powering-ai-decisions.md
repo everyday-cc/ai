@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence's data problem meets AI's people problem"
-    excerpt: "Enterprises are learning that AI implementation 'is not the field of dreams. It is not a build-it-and-they-will-come effort.'"
-    publishedDateTime: 2021-10-16T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/artificial-intelligences-data-problem-meets-ais-people-problem/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligences-data-problem-meets-ais-people-problem/"
+  - title: "Skepticism Abounds For Artificial Intelligence In High-Level Decisions"
+    excerpt: "Higher-level, more strategic decisions that shape the direction of a business represent the last great frontier for AI in enterprises. And, to date, there is no shortage of skepticism among decision makers when it comes to strategic AI."
+    publishedDateTime: 2021-10-18T21:48:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/caa9a12fbf1a70fca9bfda077e9bc11da1ed7016/2021/10/15/e28a79a3-c1cc-46cf-be99-cdbf369bea60/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6169e8484f9cb5f76e994825%2F0x0.jpg"
         width: 1200
-        height: 1168
+        height: 800
         isCached: true
 
 secured: "76m0wcdP0bfnrywo16CZMc7flEH53JyoMFPBO0MQKYLfvwEvzgXQJZsF2dCezPa9idPQWFTxG5vofbNYo/vpgVPNHbv7EINRPvB1hJSHWdg89qh8UFKZGr9CXvFBk/IgLq/+D26fHvwwRdndIlS2ryqslDdE2bJnEMxxU15at1aySNE3kfHFMwfU19wpIM+M9qQfk7tz0NkZUxnSjS+O/hCa+WtlaZjYKDBu4dIOn0/eAFb1bv4ZDXIrD2SBJT5jW1rmzOUjz0QrgloEi+7d1mkglbc6+vS93WnDYm6oBf/JOSE4ouxaUmAZnRSltz5B/N/niRDpWTCKEN1Pdv5TX+TCoSbvBFMX8hl9QhjNKrxbYm1TbVvkdy5O/nvkn79iljVQ02xDs11bIfrdJPspvBQH+9DqvVoh9cNJdtsqXyX3AqMuw2NXg8lzw86613mfl3C6pLCM/6h3hH1LwxefIu9A0fzV3jeeaal/bx8BU4ua7iWbOQyIf7ay76Svk+ErzV+8V88UOam1KxywNR1XDg==;niaw+OZUq3zvxCFvWb4d8A=="

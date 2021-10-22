@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T19:42:00Z
 originalUrl: "https://www.aitrends.com/ai-insider/pursuing-autonomous-cars-raises-anguish-on-surfacing-taboo-ai-forbidden-fruit/"
 webUrl: "https://www.aitrends.com/ai-insider/pursuing-autonomous-cars-raises-anguish-on-surfacing-taboo-ai-forbidden-fruit/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: aitrends

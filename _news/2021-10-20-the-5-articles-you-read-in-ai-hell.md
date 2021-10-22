@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/the-5-articles-you-read-ai-hell"
 webUrl: "https://thenextweb.com/news/the-5-articles-you-read-ai-hell"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

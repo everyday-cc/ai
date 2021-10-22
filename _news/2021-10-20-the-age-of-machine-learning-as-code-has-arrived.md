@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T12:06:00Z
 originalUrl: "https://www.linkedin.com/pulse/age-machine-learning-code-hasarrived-julien-simon"
 webUrl: "https://www.linkedin.com/pulse/age-machine-learning-code-hasarrived-julien-simon"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: LinkedIn

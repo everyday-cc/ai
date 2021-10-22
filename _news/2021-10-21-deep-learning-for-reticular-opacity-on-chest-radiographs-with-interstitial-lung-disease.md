@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:41:00Z
 originalUrl: "https://medicalxpress.com/news/2021-10-deep-reticular-opacity-chest-radiographs.html"
 webUrl: "https://medicalxpress.com/news/2021-10-deep-reticular-opacity-chest-radiographs.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Medical Xpress

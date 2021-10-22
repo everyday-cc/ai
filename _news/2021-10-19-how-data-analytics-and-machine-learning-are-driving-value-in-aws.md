@@ -26,53 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud tools aim to ease machine-learning, cross-cloud analytics"
-    excerpt: "Google Cloud Platform (GCP) is offering new dedicated data and machine learning (ML) tools designed to clear up data inefficiencies and ease application development for enterprises."
-    publishedDateTime: 2021-10-19T18:44:00Z
-    webUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html"
-    ampWebUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.amp.html"
+  - title: "Data intelligence provider Alation acquires AI insights company Lyngo Analytics"
+    excerpt: "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture."
+    publishedDateTime: 2021-10-19T03:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/"
+    ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 95
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-944444446_3x2-100787357-large.jpg?auto=webp"
+      - url: "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Finding The Data: How To Avoid AI And Analytics Project Failures"
-    excerpt: "Overall, I see that success stories in this industry all have one common theme: a well-thought-out data strategy with robust data governance systems."
-    publishedDateTime: 2021-10-15T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/15/finding-the-data-how-to-avoid-ai-and-analytics-project-failures/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61376e18d56f9b933149f140%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2396%26cropY1%3D0%26cropY2%3D1348"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Many people perceive the use of facial analytics in healthcare settings as a potential privacy threat"
-    excerpt: "Uses of facial images and facial recognition technologies – to unlock a phone or in airport security – are becoming increasingly common in everyday life. But how do people feel about using such data in healthcare and biomedical research?"
-    publishedDateTime: 2021-10-18T05:38:00Z
-    webUrl: "https://www.news-medical.net/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211018/Many-people-perceive-the-use-of-facial-analytics-in-healthcare-settings-as-a-potential-privacy-threat.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
+        height: 600
         isCached: true
   - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
     excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
@@ -116,6 +84,33 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "How decision intelligence could democratise analytics"
+    excerpt: "It’s never been easy to make the most of big data, machine learning models and analytics. Decision intelligence could change that."
+    publishedDateTime: 2021-10-20T14:35:00Z
+    webUrl: "https://www.raconteur.net/technology/data-analytics/decision-intelligence-analytics/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 4
+  - title: "AnalytixInsight's Euclides Partners With Zinier to Power a New Era of AI and Intelligent Automation in Field Service, Announces Customer Wins"
+    excerpt: "(\"AnalytixInsight\", or the \"Company\") (TSX-V:ALY; OTCQB:ATIXF), announces that its workforce optimization subsidiary, Euclides Technologies Inc. (\"Euclides\"), has partnered with Zinier Inc. (\"Zinier\"),"
+    publishedDateTime: 2021-10-19T11:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-analytixinsights-euclides-partners-with-zinier-power-new-era-/2021/10/19/9472125.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Atos International: Atos strengthens its position in the Big Data and Computer Vision market with the acquisition of DataSentics"
+    excerpt: "Paristoday announced it has reached an agreement to acquire DataSentics, a Czech Republic-based data science company specializing in the development of Artificial Intelligence & Machine Learning (AI/M"
+    publishedDateTime: 2021-10-20T16:41:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54253665-atos-international-atos-strengthens-its-position-in-the-big-data-and-computer-vision-market-with-the-acquisition-of-datasentics-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "yMaeNwmUOSDOyhDVSIjqLAuel9FVY38aTXw0stN8GBCe5xGj8FHdydpX/YUW8ucOfd0SZV+oaoX9X2Vic4ZaYbceSEA2KWt/rl7SLzToa6I3F5StP0DKGdFO+YjijHQaRthnDanZpdPffoPus6s7eWEAxqhlSLsvLBvyLvXjdzXAb5Cw7sLiVcSesaq6G9ZBTxuSTF3aY1EJUAQ/FZZ6s15wMJt7lOeoqdNj9/c4FI4vfBW3sNrVz/mbCslQwgj2TKhjTCltqoOe+JRvI9kl1TkUFYAkzLYf/+fFwIfgpt/38fQvZjYIOnDlMf5yf5uQdChS66WgrkfcWYlGAa3q6Mm9glJYXbBypEIH1/OPF9EM2oMyhNgMrLQMjPQ+LhlN3h0sAcVjZig+I2fYQMK/2DkHg6wGlsyZ/X+42PY1wRgR0n/MTMurXmejZ0cjVi15Kv5jJt2+HuE7+RL29eQggj0ZjudJx2ZDpmgZGH57EdPg8xFWRDZJOsImT+UeLae5dwrmkm1iOAhoAenl4BDfcA==;UUyhJKmo+if6f0I9fc8ctw=="
 ---

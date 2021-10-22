@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 566
         isCached: true
+  - title: "AI model optimization startup Deci raises $21M"
+    excerpt: "Deci, a startup developing a platform to optimize AI and machine learning algorithms, has raised $21 million in a venture funding round."
+    publishedDateTime: 2021-10-20T18:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/20/ai-model-optimization-startup-deci-raises-21m/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "I98/S98GUCcHeLZb+02SPTLnRd6kgCWovarHXSS4iTs76e/ZRmxsGdgolFqcjhoFZ3tiAsh/MEoJsSHlBQdvplMsTIAPEOZV6MruGDQN6B2Kci82ej4OYwek2LcN9FhaW1JrcyTBw9MQQrIdPf63c2ji5PVhbMmEsh7W7i02Ew4N4qSuvNgExdTtNgonsqxqjrWK8O4evPTH6ChTYhbgoZaGhnh97ii8RCBINWCv1rjeWL3bLvuE+4hyDMgwbe4QnqmLIClhPibJ8nB9AsuTOoUSQousXNqqduo997tQ7vXw2mDJ6/d0h4R7ZDpvh5v8DeCSYSCZeeELuT+w1BJTODX/YoaQrjOc0uE7wNTQ3IYfo7tm3jUnswABR8Dpt1wpv0btvef1xEFyx9cFzCOD7ALl6ZVKt+VA/bSahS+2wvcrSMIRhYSpKHu6AgI1EcsVwf3Ikh/XNXok/v8vMvpyy1iQPMS/wRfrxihNA9q5iNtULbhtOQyqH/aXpiT2kfrja4k+ocWGaiazektJp1XeNw==;9XoFXslCCk5m1TSDDShttA=="
 ---

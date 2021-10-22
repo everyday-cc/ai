@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T07:33:00Z
 originalUrl: "https://github.com/microsoft/customer-insights-azure-data-workshop-1"
 webUrl: "https://github.com/microsoft/customer-insights-azure-data-workshop-1"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GitHub

@@ -43,6 +43,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Iron Mountain Wins Google Cloud Financial Services Customer Award"
+    excerpt: "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ..."
+    publishedDateTime: 2021-10-21T10:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-wins-google-cloud-financial-services-customer-/2021/10/21/9474465.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "btadZpQr0QoexxxGe7nSI0ROU+1zaszP9aU/7eb2XfFyfwobOIteliIt+th0ZLilrqfj4+iN/wZI+UAIs0vtW7wP1JJTlgqEiOzgO4ae7PIadzlJ9rcDk8lPezIj3lChWCG7q8SjnH1tcM9/9SLVKV0LSDb1Sh5A3Eq3RFvOx3sBT2JCr9pzHqSOLdgmxU+cjYwjMZ2dZM7AFja4fRt+DVQYiRh8NS/qUdeDNBfzII4xQjdGVnSTTXPg7WsQ2xGbQzLj4HPJj62Uclaah8xbFYNoJfXGTRyk84U1x2DRabZxg4GxWnQV60a0+hpNxSGahW/oItWLXoNWt6IGvay+4VUmlIRx1DGXLlOAP6E4ClRvm2lPtsOnvI/nleTq7pv69PPJ3hMTN1dNKZc6EP0CKTzr1yq6zzDSWlOl+60Y47UFParyOGVcPIkxYJHEjNZqYFpjmieI01HrgDfuw3doQcDuJBsW+U13E3P6RVjZKSoEg3x/Dk/rlx0qRkYHPpOURxpqeb1qq8McV0NUj586KA==;6GJIptmhIg7OMI8zFAnybQ=="
 ---

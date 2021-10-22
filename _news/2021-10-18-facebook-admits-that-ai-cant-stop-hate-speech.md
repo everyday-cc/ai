@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts."
-    excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes."
-    publishedDateTime: 2021-10-17T12:17:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 185
-    images:
-      - url: "https://images.wsj.net/im-418418/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Facebook disputes report its AI has little effect on hate speech"
-    excerpt: "Facebook exec says hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has little effect at curbing and removing violent content from the social network."
-    publishedDateTime: 2021-10-17T18:35:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook disputes report that its AI has barely reduced hate speech"
-    excerpt: "A Facebook exec says that hate speech on the platform has declined 50% in recent quarters. Facebook on Sunday responded to a news report that its artificial intelligence program has had little effect at curbing and removing violent content from the social network."
-    publishedDateTime: 2021-10-17T18:35:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-disputes-report-its-ai-has-little-effect-on-hate-speech/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/77A9l58kXg8lsiwtUzLiWE7Hbs8=/1200x630/2021/03/25/2773c9fc-063b-4775-a685-f3b9ed1b3612/003-facebook-app-logo-on-phone-2021.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook hits back at claims its AI has minimal success in fighting hate speech"
     excerpt: "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,"
     publishedDateTime: 2021-10-18T01:14:00Z
@@ -89,54 +41,6 @@ related:
         width: 1200
         height: 866
         isCached: true
-  - title: "Facebook Says AI Can Enforce Its Rules, but the Company’s Own Engineers Are Doubtful"
-    excerpt: "AI has only minimal success in removing hate speech, violent images and other chronic problems from the platform, according to internal company reports. It can’t consistently identify first-person shooting videos,"
-    publishedDateTime: 2021-10-17T12:17:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184?mod=hp_lead_pos7"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 82
-    images:
-      - url: "https://images.wsj.net/im-418418/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Facebook Pushes Back Against Report That Claims Its AI Sucks at Detecting Hate Speech"
-    excerpt: "Facebook vice president of integrity Guy Rosen tooted the social media company’s own horn for moderating toxic content, writing in a blog post that the prevalence of hate speech on the platform has fallen by nearly half since July 2020."
-    publishedDateTime: 2021-10-17T21:06:00Z
-    webUrl: "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567"
-    ampWebUrl: "https://gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-pushes-back-against-report-that-claims-its-ai-1847881567/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 82
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/736155132ae3c0c1277d2df54a5a4821.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Researchers show Facebook’s ad tools can target a single user"
-    excerpt: "A new research paper written by a team of academics and computer scientists from Spain and Austria has demonstrated that it’s possible to use Facebook’s targeting tools to deliver an ad exclusively to a single individual if you know enough about the interests Facebook’s platform"
-    publishedDateTime: 2021-10-15T17:18:00Z
-    webUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/"
-    ampWebUrl: "https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228003986.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facebook AI moderator confused videos of mass shootings and car washes"
     excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
     publishedDateTime: 2021-10-18T13:30:00Z
@@ -150,22 +54,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Can AI Police Facebook? Maybe Not Just Yet, Report Says"
-    excerpt: "While Facebook maintains that its AI can police problems like violent content and hate speech on its platform, a new report suggests the tech isn’t that advanced."
-    publishedDateTime: 2021-10-18T00:26:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/can-articial-intelligence-police-facebook-maybe-not-just-yet/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Facebook-artificial-intelligence-technology-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
@@ -197,6 +85,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary"
+    excerpt: "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it."
+    publishedDateTime: 2021-10-22T06:58:00Z
+    webUrl: "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 59
+    images:
+      - url: "https://www.gizbot.com/img/2021/10/3-1634885552.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Facebook says AI will clean up the platform, but its own engineers have doubts"
     excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports"
     publishedDateTime: 2021-10-17T22:59:00Z
@@ -213,6 +117,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Terrifyingly, Facebook wants its AI to be your eyes and ears"
+    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where you left your keys. The Ego4D project provides a huge"
+    publishedDateTime: 2021-10-21T11:28:00Z
+    webUrl: "https://thenextweb.com/news/facebook-ai-watch-listen-your-surroundings-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 49
   - title: "Tech Bytes: Apple unveils new products, Facebook AI removes hate posts, Moscow Face Pay system"
     excerpt: "Nearly 250 stations in Moscow’s subway system are now equipped with a facial recognition payment system. To sign up, riders need to submit a photo and connect payment accounts through an app. Privacy advocates probably think the system is going to be a ..."
     publishedDateTime: 2021-10-18T11:25:00Z
@@ -228,34 +141,6 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
         width: 1001
         height: 563
-        isCached: true
-  - title: "Facebook plans to developspecial AI"
-    excerpt: "Facebook is developing a new artificial intelligence (AI)-based system that can analyse your lives using first-person videos — recording what they see, do and hear in order to help you with daily tasks."
-    publishedDateTime: 2021-10-16T07:03:00Z
-    webUrl: "https://newstodaynet.com/index.php/2021/10/16/facebook-plans-to-developspecial-ai/"
-    type: article
-    provider:
-      name: The News Today
-      domain: newstodaynet.com
-    quality: 39
-    images:
-      - url: "https://newstodaynet.com/wp-content/uploads/2019/12/FACEBOOK-Copy.jpg"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Now Facebook’s AI Model Can Anticipate Your Future Actions"
-    excerpt: "AVT would be a strong candidate for tasks beyond anticipation, such as self-supervised learning, and general action recognition in tasks."
-    publishedDateTime: 2021-10-17T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/now-facebooks-ai-model-can-anticipate-your-future-actions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/AIM-Illustration-6.jpg"
-        width: 2240
-        height: 1260
         isCached: true
   - title: "Documents show Facebook’s engineers have doubts about the platform’s AI"
     excerpt: "This story, plus Sinclair TV stations disrupted in apparent ransomware attack, Noah Shachtman's plan for reviving Rolling Stone and more, all in today's"
@@ -285,47 +170,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Facebook collected more than 2,200 hours of first-person video to train AI"
-    excerpt: "The research project was announced by the lead scientist of Facebook's Reality Labs division on Oct. 14."
-    publishedDateTime: 2021-10-15T16:30:00Z
-    webUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.html"
-    ampWebUrl: "https://omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/facebook-collected-more-than-2-200-hours-of-first-person-video-to-train-ai/video_12c24007-9a31-5732-905f-dea979c3fb9c.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 37
-  - title: "NUS, Facebook AI and other world-class universities collaborate to teach AI to understand the world through our eyes"
-    excerpt: "There is a marked difference between viewing and interacting with the world as a third-party spectator, and experiencing the action intimately from a first-person point of view.This difference is similar to watching others ride a roller coaster,"
-    publishedDateTime: 2021-10-15T11:18:00Z
-    webUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
-    ampWebUrl: "https://indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/nus-facebook-ai-and-other-world-class-universities-collaborate-to-teach-ai-to-understand-the-world-through-our-eyes/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 36
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
-  - title: "Facebook claims it uses AI to identify and remove posts containing hate speech and violence, but the technology doesn't really work, report says"
-    excerpt: "Facebook AI removes less than 5% of hate speech viewed on the social media platform, according to documents received by the Wall Street Journal."
-    publishedDateTime: 2021-10-17T20:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/facebook-ai-doesnt-work-to-remove-hate-speech-and-violence-2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://images2.markets.businessinsider.com/616c5fc438c19600183046d2?format=jpeg"
-        width: 702
-        height: 526
-        isCached: true
   - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
     excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"
     publishedDateTime: 2021-10-18T00:59:00Z
@@ -335,6 +179,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Facebook wants AI to find your keys and understand your conversations"
+    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
+    publishedDateTime: 2021-10-20T23:08:00Z
+    webUrl: "https://theconversation.com/facebook-wants-ai-to-find-your-keys-and-understand-your-conversations-170092"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 19
   - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
     excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
     publishedDateTime: 2021-10-18T08:20:00Z

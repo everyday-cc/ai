@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Airport Facial Recognition Market 2021 by Key Players, Regions, Type and Application, Forecast to 2027"
-    excerpt: "The latest research study titled Global Airport Facial Recognition Market 2021 by Company, Regions, Type and Application, Forecast to 2027 from MarketsandResearch.biz provides readers with details on strategic planning and tactical business decisions that influence and stabilize growth prognosis in the market."
-    publishedDateTime: 2021-10-17T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-airport-facial-recognition-market-2021-by-key-players-regions-type-and-application-forecast-to-2027-2021-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Accelerator Chip Market 2021 Segmented by Product, Application, Key Players and Regional Analysis to 2027"
     excerpt: "Global AI Accelerator Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 is the latest comprehensive study added by MarketsandResearch.biz providing a detailed analysis of the market."
     publishedDateTime: 2021-10-18T23:43:00Z
@@ -70,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Audio and Video Chip Market 2021 Key Aspects of the Industry by Segments to 2027"
+    excerpt: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 offers a fresh take on the target industry and paradigmatic representation of the market size,"
+    publishedDateTime: 2021-10-17T21:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-key-aspects-of-the-industry-by-segments-to-2027-2021-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
   - title: "Global Artificial Intelligence Microscopy Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
     excerpt: "Global Artificial Intelligence Microscopy Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
     publishedDateTime: 2021-10-18T23:10:00Z
@@ -100,6 +95,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-10-22T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2437580/artificial-intelligence-system-market-size-by-analysing"
+    ampWebUrl: "https://www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua22380115_g.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "Global AI For IT Operations Market 2021 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2027"
     excerpt: "Global AI For IT Operations Market 2021 by Company, Regions, Type and Application, Forecast to 2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
     publishedDateTime: 2021-10-18T20:40:00Z
@@ -113,20 +124,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition market to surpass $10B by 2028 – report"
-    excerpt: "The global facial recognition market size is projected to reach $10.2 billion by 2028, according to new data from Verified Market Research."
-    publishedDateTime: 2021-10-19T15:56:00Z
-    webUrl: "https://www.biometricupdate.com/202110/facial-recognition-market-to-surpass-10b-by-2028-report"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
         isCached: true
   - title: "Full Stack AI Market Size, Share 2021 Global Industry Analysis, Development, Revenue, Future Growth, Business Prospects and Forecast to 2026"
     excerpt: "Global “Full Stack AI Market” Research Report offers in-depth analysis on Market size, share, drivers, restraints, and"
@@ -142,40 +139,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Routes: U.S. reopens to foreign tourists, United's '22 plans, facial recognition coming to OAK, more"
-    excerpt: "Airlines and other industry players have eagerly awaited the announcement as key to reviving a booming international travel business that was decimated by the pandemic. Both U.S. and European airlines have already ramped up their transatlantic winter schedules in anticipation of the announcement."
-    publishedDateTime: 2021-10-16T11:00:00Z
-    webUrl: "https://www.chron.com/travel/article/Routes-Southwest-offers-travel-vouchers-US-reopens-16527301.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/60/56/21171113/7/rawImage.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan Artificial Intelligence (AI) Speakers Market Insights, Forecast to 2027 report by QYResearch Group. Artificial Intelligence (AI) Speakers market is segmented by region (country),"
-    publishedDateTime: 2021-10-16T11:51:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4968078-global-and-japan-artificial-intelligence-ai-speakers-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 23
   - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds"
+    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan"
     publishedDateTime: 2021-10-18T07:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_29a7394e-c658-5be7-ae62-df5e6a97d9d0.html"
+    webUrl: "https://tylerpaper.com/news/texas/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_11a7db5f-93d3-5a7b-b4a5-bc2cb57b83cb.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/95/595aef0b-6e1d-5ab3-b17a-5597e801bd65/616d1f413f4f9.image.jpg?resize=934%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/6/b9/6b9dd3b0-c25b-5ad2-be43-e53b46407b8d/616d260dd85af.image.jpg?resize=934%2C630"
         width: 934
         height: 630
         isCached: true
@@ -193,12 +167,60 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Latin America Middle East Africa AI in Auto Insurance Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
-    excerpt: "The report provides an overview of the Latin America Middle East Africa AI in Auto Insurance Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-17T19:18:00Z
-    webUrl: "https://manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/latin-america-middle-east-africa-ai-in-auto-insurance-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/?amp=1"
+  - title: "Global Automatic Voice & Speech Recognition Software Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
+    excerpt: "Global Automatic Voice & Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 published by MarketsandResearch.biz presents a succinct outline of the market and explains the major key elements of the market."
+    publishedDateTime: 2021-10-18T20:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-voice-speech-recognition-software-market-2021-industry-research-business-growth-future-investment-and-emerging-trend-to-2027-2021-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
+  - title: "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design"
+    excerpt: "REHOVOT, Israel and HEIDELBERG, Germany, October 19, 2021 /PRNewswire/ -- AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve therapeutic challenges,"
+    publishedDateTime: 2021-10-19T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aion-labs-powered-biomed-x-launches-first-global-/2021/10/19/9472731.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+  - title: "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design"
+    excerpt: "AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve therapeutic challenges, and German independent research institute BioMed X,"
+    publishedDateTime: 2021-10-20T08:23:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-10-20/aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
+  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
+    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-10-21T13:12:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+  - title: "Global Industrial Robots Market Overview and Opportunity Assessment 2021-2030 - Massively Accelerated Movement of Goods due to the COVID-19 Boom in e-"
+    excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The market is expected to reach $6.15 billion in 2025, rising at a CAGR of 14% Where is the largest and fastest growing market for the industrial robots (warehousing and storage robots)?"
+    publishedDateTime: 2021-10-18T09:07:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=548201"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Self-driving Cars And Trucks Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
+    excerpt: "The Self-driving Cars And Trucks Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue, among other essential factors."
+    publishedDateTime: 2021-10-20T12:43:00Z
+    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
     type: article
     provider:
       name: manometcurrent.com

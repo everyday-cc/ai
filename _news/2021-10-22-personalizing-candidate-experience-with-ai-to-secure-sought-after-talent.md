@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T21:20:00Z
 originalUrl: "https://venturebeat.com/2021/10/21/personalizing-candidate-experience-with-ai-to-secure-sought-after-talent/"
 webUrl: "https://venturebeat.com/2021/10/21/personalizing-candidate-experience-with-ai-to-secure-sought-after-talent/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

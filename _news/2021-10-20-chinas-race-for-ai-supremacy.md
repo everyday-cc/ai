@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:38:00Z
 originalUrl: "https://www.bloomberg.com/news/videos/2021-10-20/china-s-race-for-ai-supremacy"
 webUrl: "https://www.bloomberg.com/news/videos/2021-10-20/china-s-race-for-ai-supremacy"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Bloomberg

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T22:31:00Z
 originalUrl: "https://www.publicnow.com/view/8EF5E22F9D0D68EFF7FDCD9B188C3350BA9F3C44"
 webUrl: "https://www.publicnow.com/view/8EF5E22F9D0D68EFF7FDCD9B188C3350BA9F3C44"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: publicnow.com

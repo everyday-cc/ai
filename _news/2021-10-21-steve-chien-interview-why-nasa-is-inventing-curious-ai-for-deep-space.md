@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T17:32:00Z
 originalUrl: "https://www.newscientist.com/article/mg25133570-900-steve-chien-interview-why-nasa-is-inventing-curious-ai-for-deep-space/"
 webUrl: "https://www.newscientist.com/article/mg25133570-900-steve-chien-interview-why-nasa-is-inventing-curious-ai-for-deep-space/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New Scientist

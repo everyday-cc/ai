@@ -8,6 +8,9 @@ webUrl: "https://www.gizchina.com/2021/10/21/snapdragon-898-vs-dimensity-2000-ho
 ampWebUrl: "https://www.gizchina.com/2021/10/21/snapdragon-898-vs-dimensity-2000-how-will-these-chips-perform/amp/"
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/21/snapdragon-898-vs-dimensity-2000-how-will-these-chips-perform/amp/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: GizChina

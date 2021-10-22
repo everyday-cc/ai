@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning algorithm can accurately detect molecular pathways, key mutations in colorectal cancer"
+    excerpt: "A new deep learning algorithm created by researchers from the University of Warwick can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods,"
+    publishedDateTime: 2021-10-20T04:43:00Z
+    webUrl: "https://www.news-medical.net/news/20211020/Deep-learning-algorithm-can-accurately-detect-molecular-pathways-key-mutations-in-colorectal-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 4
   - title: "New deep learning algorithm can pick up genetic mutations and DNA mismatch repair deficiency in colorectal cancers more efficiently"
     excerpt: "A new deep learning algorithm created by researchers from the University of Warwick can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods,"
     publishedDateTime: 2021-10-19T23:30:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T15:55:00Z
 originalUrl: "https://www.roboticstomorrow.com/news/2021/10/21/hai-robotics-named-next-gen-supply-chain-award-robotics-category-winner/17652/"
 webUrl: "https://www.roboticstomorrow.com/news/2021/10/21/hai-robotics-named-next-gen-supply-chain-award-robotics-category-winner/17652/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Robotics Tomorrow

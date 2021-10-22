@@ -53,32 +53,23 @@ related:
       domain: stocknews.com
     quality: 24
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
-    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
-    publishedDateTime: 2021-10-19T12:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
+    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2021-10-19T11:59:00Z
+    webUrl: "https://www.financialbuzz.com/fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 4
-  - title: "TripleBlind to Highlight Benefits of Enhanced Data Sharing and Collaboration in Healthcare and Fintech at Upcoming Industry Events"
-    excerpt: "At events focused on healthcare and fintech, TripleBlind will speak on compliance when sharing data across international borders and throughout all industries and data platform enablement. TripleBlind will participate in these upcoming events: HLTH 2021,"
-    publishedDateTime: 2021-10-15T16:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tripleblind-highlight-benefits-enhanced-data-sharing-collaboration-healthcare-/2021/10/15/9470791.htm"
+  - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
+    excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
+    publishedDateTime: 2021-10-20T21:57:00Z
+    webUrl: "https://www.ky3.com/prnewswire/2021/10/20/markaaz-worlds-first-fintech-is-joined-by-investor-sandy-watkins/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "UPDATE -- TripleBlind to Highlight Benefits of Enhanced Data Sharing and Collaboration in Healthcare and Fintech at Upcoming Industry Events"
-    excerpt: "At events focused on healthcare and fintech, TripleBlind will speak on compliance when sharing data across international borders and throughout all industries and data platform enablement. TripleBlind will participate in these upcoming events: HLTH 2021,"
-    publishedDateTime: 2021-10-15T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-update-tripleblind-highlight-benefits-enhanced-data-sharing-collaboration-/2021/10/15/9470823.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: KY3
+      domain: ky3.com
+    quality: 3
 
 secured: "Nuq7wW0SSL8e4WFVeWtURsb7ilDmZI8mr+zZHJ3disLb4UKO/pjmlYA3d9PSnwrchMb8JrrnOsdqQy3jtgGL4Q2JBvAul7YmRxAy02/oS9dQTHZdYxFLvJsE/z2y5iVPOc198IPnm33hl4OE+8IXLDmtC9yoyIsyKVUr7tgBOZZ5N3Zh9SfhlxUTwy4ytlu7xlzNvmiRyuVTGjntiW6mi0T5dDsy45Dm5dWrSe2j0O1CSdIKwQnDhU/3/qjgioQksdGiTKMH49Y0nk4faiGuaztm4lfKPV6YYPtLdNsPGUzk/kvNZz5gYnrpmhH1hpN9l1RVoiAlkQMAPndPGJRZeLjFPNOD1Zw0AYBxZ9jA8SBLSGYvgKuhz/8OnpEIe6zdi+egM5NammvBTCgxdU9sBKYRsFCvlVB7EpQVNenR80GOXAYjPH1UvCijJrrRI88vCZ3uxsOBK9mgFQjG4PlxAphZcXM0BpmE5Q4x+yqpSe0m3RYYjBI/ufs4LjTr5taC2+ZZnKHxeG7n82az2vE0+g==;RlkTjmSSjULAC8YFkRqq4A=="
 ---

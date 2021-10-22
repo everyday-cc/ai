@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-22T04:29:00Z
 originalUrl: "https://www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/"
 webUrl: "https://www.suasnews.com/2021/10/auterion-government-solutions-inc-selected-for-defense-innovation-units-soldier-robotic-controller-sroc-program/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SUAS News

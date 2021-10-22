@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T13:00:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=549351"
 webUrl: "https://us.acrofan.com/detail.php?number=549351"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: 아크로팬

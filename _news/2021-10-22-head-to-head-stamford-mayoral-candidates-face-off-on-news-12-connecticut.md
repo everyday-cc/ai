@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-22T05:48:00Z
 originalUrl: "https://westchester.news12.com/head-to-head-stamford-mayoral-candidates-face-off-on-news-12-connecticut"
 webUrl: "https://westchester.news12.com/head-to-head-stamford-mayoral-candidates-face-off-on-news-12-connecticut"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: News 12 New Jersey

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:00:00Z
 originalUrl: "https://singularityhub.com/2021/10/20/ai-savvy-criminals-pulled-off-a-35-million-deepfake-bank-heist/"
 webUrl: "https://singularityhub.com/2021/10/20/ai-savvy-criminals-pulled-off-a-35-million-deepfake-bank-heist/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Singularity Hub

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T17:42:00Z
 originalUrl: "https://menafn.com/1103007894/Atos-strengthens-its-position-in-the-Big-Data-and-Computer-Vision-market-with-the-acquisition-of-DataSentics"
 webUrl: "https://menafn.com/1103007894/Atos-strengthens-its-position-in-the-Big-Data-and-Computer-Vision-market-with-the-acquisition-of-DataSentics"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

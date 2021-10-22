@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GideonBros"
   url: "https://twitter.com/GideonBros"
-  followers: 566
+  followers: 567
 
 size: 11-50 employees
 yearFounded: 2017

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T17:12:00Z
 originalUrl: "https://jewishchronicle.timesofisrael.com/israeli-startup-unveils-electric-flying-car-for-consumer-travel/"
 webUrl: "https://jewishchronicle.timesofisrael.com/israeli-startup-unveils-electric-flying-car-for-consumer-travel/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Times of Israel

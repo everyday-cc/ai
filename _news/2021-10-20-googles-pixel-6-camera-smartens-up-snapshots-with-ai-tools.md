@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Google's Pixel 6 processor brings AI photo features"
-    excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58955304.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58955304.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0C1F/production/_121130130_pixel6pro_sortasunny.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
     excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
     publishedDateTime: 2021-10-19T20:19:00Z
@@ -92,6 +76,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro give giant boost to AI camera features"
+    excerpt: "Google Pixel 6 and Pixel 6 Pro – powered by Google Tensor, Google’s first-ever processor – are available to pre-order now, shipping with Android 12. The completely redesigned phones start at $599 for the Pixel 6 and $899 for the Pixel 6 Pro,"
+    publishedDateTime: 2021-10-20T09:57:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
+    type: article
+    provider:
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
+    quality: 19
+  - title: "Google's Pixel 6 processor brings AI photo features"
+    excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
+    publishedDateTime: 2021-10-19T17:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_campaign=KARANGA&at_medium=RSS"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "VzW6lcW7XIX/pn7B2+8vjFpbET+iBoTUNYGuGADsnV4UYjRjpWh2Al4SKW0LI7SzhoNHP84AgJ9i9NYz1ppPEF4KGd6Kl4vj9owbRaGu8392yK8CwkSTKvMSNIYRzMC7outG8Xq4EF199Ce5pTyfuxUxHawcZL1Mp7BUe4DxK390EyLemaxR1WAyoqZtVZXzU0wgec2TH/SfO0rrtm4iEenmrcEWZg9LQC1QfYiekJqJnI/5AeldGg3c432LI7Q/f1wrJOmxu7jHSAB9nBzdTGRM6BOvd1KG5k8psOOP0WiPWgIubkpPHMc9jX3R7Re81lrVxw31VAj6fy6g/7K9zGLegv10lwie5WUS/8m0xyqEwusmZUA9jYyNADDI6Todf4hZQnZ+turSWm6IILwD/b5Q96cHi7B8oc1js6wUu+IUGODgQ7bvkqh6CAXkeusl8xwG651ZAlIT/TwgnDSguouJ5biFyv0ISOGjtWGjOW3WBXspG3Upqkgl1lYMlq+drdnp6y9kfMZ97qFqupvX5w==;5cezdS/sXndK+/dM2TabHg=="
 ---

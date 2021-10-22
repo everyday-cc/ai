@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Facebook might rebrand as a ‘metaverse’ company. What does that even mean?"
+    excerpt: "A new name, which could come next week, might be part of Facebook's mission to rebrand itself beyond just a social media platform."
+    publishedDateTime: 2021-10-20T19:20:00Z
+    webUrl: "https://www.popsci.com/technology/facebook-planning-name-change-for-rebrand/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 2
 
 secured: "th/42LllyNkNubsIp1Vp3hWajg/wn+tzFXlPDQsKdw9i2TcRRRLbbmcxJzhplA4FujdYvqT9+UavpHsGggrq0/TExNQCJrCIvKlojuO3hWYx/k7FlG+BSfRkSLN3G2oemrm3J/RpmYaXAPU2ZWgHSnc2qlHHhHDV0qhpRdZ0MM6U6l9p2pIHudv/RRu7cy6/GKahjTbr6o74YDiMSAvMzEsP1h8ymaN/CYEb+AOyGZRaJipnJfMg8MvgU8pQ+N3pe3d0RZs304OEJll49DcyB7gGE60PYmktDi7JYyiXHlowZjPKAvCLuRsa2LFsjRDZydP3PkdFnaFJHmuurqZ6KlfPSSX5+pgt8wpwKVE9+CJsXjycbKaUo7TKWucZSswzHj+n35Zmbz4BYef62NaXpr1lte+yKGSaaqM58Irnt8FP+kTdmUaVuN2cnGPZzFPgCXxvkcOqV/1oZTii289t6VaC93zd0yKKuCu3S8lv7wAwWXj3FX/5bdkqw92K6dK9IoGPH2tpdA3xgIK3YfjLeQ==;LuWiQ45n8bq3e9M+xSJe6w=="
 ---

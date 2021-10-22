@@ -58,22 +58,6 @@ related:
         width: 375
         height: 240
         isCached: true
-  - title: "Google's Pixel 6 processor brings AI photo features"
-    excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58955304.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58955304.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0C1F/production/_121130130_pixel6pro_sortasunny.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
     excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
     publishedDateTime: 2021-10-19T20:19:00Z
@@ -88,6 +72,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro give giant boost to AI camera features"
+    excerpt: "Google Pixel 6 and Pixel 6 Pro – powered by Google Tensor, Google’s first-ever processor – are available to pre-order now, shipping with Android 12. The completely redesigned phones start at $599 for the Pixel 6 and $899 for the Pixel 6 Pro,"
+    publishedDateTime: 2021-10-20T09:57:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
+    type: article
+    provider:
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
+    quality: 19
+  - title: "Google's Pixel 6 processor brings AI photo features"
+    excerpt: "The Pixel 6 contains Google's \"Tensor\" processor, which it says enables new phone features powered by artificial intelligence and machine learning. It is also the first phone in the series with a \"Pro\" model,"
+    publishedDateTime: 2021-10-19T17:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-58955304?at_campaign=KARANGA&at_medium=RSS"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "kGeMKtlrumX/V/Ahk6AWHo4Tc2avd1DRNMnYHZgEpayL8gsKltcE5GU4q+NAhd54EMS4ixpBWWGFkP4TpluVunwtEQR7QRjn30Jw5wFK2f1uMxAz5+Dg2M4SsfEkuLqkMeOwBrwv1lFRx2shBhn4O6Z6vVKXZhfkXyEwtqiteUO6TI6b5O2WMeIyY10w7z9bOyS6DijN4pLY8C8cgdzfoVP9YpMv6VNLY9CWC97OOI28a++G6GZWonBQSEoVESjIy8Dj/WgWOhhTt1b1My0XRhdQfJ7vrH6KpWgVVRf+XzpXtsrhcWQCrD3i4BoeIqJYVH41irYIYPJiXFnnHeLb+wmdd1zQ0Kfu20Sjn00trIc=;Npj3ZnWIzWwJzAZVA23cww=="
 ---

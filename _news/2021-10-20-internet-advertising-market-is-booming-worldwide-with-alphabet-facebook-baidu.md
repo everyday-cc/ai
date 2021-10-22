@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T11:57:00Z
 originalUrl: "https://www.openpr.com/news/2434851/internet-advertising-market-is-booming-worldwide-with"
 webUrl: "https://www.openpr.com/news/2434851/internet-advertising-market-is-booming-worldwide-with"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: openpr.com

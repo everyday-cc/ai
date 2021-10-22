@@ -36,6 +36,15 @@ related:
         width: 2880
         height: 2843
         isCached: true
+  - title: "Artificial Intelligence-Based Algorithm Predicts Heart Failure"
+    excerpt: "With new artificial intelligence-based technology, researchers can identify small changes in the heart to predict heart failure."
+    publishedDateTime: 2021-10-20T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-based-algorithm-predicts-heart-failure"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
 
 secured: "Wy1VvzjcMkG/S13TbvIim5XfG14oAYybSmsucPt+RQ7s+h3em0hJ3KESDNL6jdNuDXX94/v1ZcQ0ldFmiVsBDH1ydMuiWXcHiTJQhxY1ko3aFdE9aPCBKAYFLXb4nE++yQuQhsnmCaNMGTz2EdP54wv3yG+0HGDIeggW5oUXYjcvWqTo1hSuPz/0pUa0wwfU8vV9TOmBhgxYIVzQ17U5tix+J67ontGhqlQVskPxAuV959hkdBMmbyAnhw90uOzoqIZIg5+0/9O0O6QpVbsLmmijyQvY5wy0YzwXhavk9nQ9/1bZDjLaezqitYSuAhgxjYZIdxbzn/xZpQLRxqWA0gtVYKrbpzhoxoIaPen595xVqZ02d3QrJfyeXSO3KR+LIAd8ubi/xvffdSJEI/rCLUE9he5Zq6Pp5V4qprRN8Ljbxz+0hqUs0sM22MIsPyNWOfxhumSDxS6NCq2vuJKRT9IiBvVLLq730zIGrAW51CXlQz+dpgePNrQ/w1aW6TbUlMA8kzteMtdHZ+1uWUUHCQ==;aQV1HBnx3sQbd/u+KH2y1g=="
 ---

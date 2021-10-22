@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-source
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 917
         height: 524
         isCached: true
+  - title: "Why DeepMind Acquired This Robotics Startup"
+    excerpt: "Alphabet-owned DeepMind acquired a physics simulation platform MuJoCo, which stands for Multi-Joint Dynamics with Contact."
+    publishedDateTime: 2021-10-20T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 51
   - title: "DeepMind Announces MuJoCo Physical Process Simulator"
     excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
     publishedDateTime: 2021-10-19T22:00:00Z
@@ -73,6 +82,20 @@ related:
       - url: "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         width: 1201
         height: 1200
+        isCached: true
+  - title: "DeepMind’s Decision To Buy MuJoCo; Good Or Bad?"
+    excerpt: "DeepMind has high hopes of riding on this multi-faceted robotics simulator. But how does it compare with other simulators?"
+    publishedDateTime: 2021-10-22T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-decision-to-buy-mujoco-good-or-bad/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/MuJoCo_AIM.gif"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "AKZLuQTlnDJqkjJ0gQnLiHbuVsvpiCESZb4J0JhJTCj4qsKzDEwClwWD8yB25yNsPfW72/QnPTgspxbXT1DRC4J/XIIworFqSvdEgx2kYzPGQxNGJYpIY2gvJM4gI/tTyTQNPJDb/hKuXwMuzShNI8ax5iJ+G6MvuvNr3K9YgzS19bCJgi2PuAcXOI1APQXFIBHm0Xh4676qw+4au8Bc706ybLsm5IfDIBQRylsZSb/JwZlmw9ivciQB+YivKDAC4WCx1RWuWrcMQm0vnSkQx7HMksISkmf4QFRTVvtaY7q26Db4VirwegPx8fln5NHFu/ptp8QxQeYj/GhG+pxETMq4n5VI5rD1jtY+XCa6lC4ZkhOW+PsbtZq11xfIXmVA5QnHykgCij65N6G2vRTUAHvM12qqOY05/KJ1EuHz0cEIhC7+HH6kn6QOkTlWUtW//jtqYJWocii9AV6g2SEKOhTuGfMgkAI8KO7w6K+JXCOpWg8aRQsmaL6ZMQbx/tYaxjY8GlwQgDngY4zg3LmjNw==;m/OwFRjORD9SS2O4zKDwwA=="

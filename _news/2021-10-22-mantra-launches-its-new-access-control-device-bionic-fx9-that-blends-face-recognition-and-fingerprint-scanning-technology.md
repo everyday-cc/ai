@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T19:42:00Z
 originalUrl: "https://www.pr.com/press-release/847014"
 webUrl: "https://www.pr.com/press-release/847014"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PR

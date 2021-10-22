@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T10:56:00Z
 originalUrl: "https://robohub.org/robotics-today-latest-talks-raia-hadsell-deepmind-koushil-sreenath-uc-berkeley-and-antonio-bicchi-istituto-italiano-di-tecnologia/"
 webUrl: "https://robohub.org/robotics-today-latest-talks-raia-hadsell-deepmind-koushil-sreenath-uc-berkeley-and-antonio-bicchi-istituto-italiano-di-tecnologia/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Robohub

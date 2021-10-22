@@ -8,6 +8,9 @@ webUrl: "https://www.benefitspro.com/2021/10/21/how-machine-learning-can-evolve-
 ampWebUrl: "https://www.benefitspro.com/2021/10/21/how-machine-learning-can-evolve-hiring-for-the-better/?amp=1"
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/10/21/how-machine-learning-can-evolve-hiring-for-the-better/?amp=1"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Benefits Pro

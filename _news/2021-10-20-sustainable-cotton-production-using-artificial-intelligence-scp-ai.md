@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T15:18:00Z
 originalUrl: "https://www.plymouth.ac.uk/research/autonomous-marine-systems/sustainable-cotton-production-using-artificial-intelligence-scp-ai"
 webUrl: "https://www.plymouth.ac.uk/research/autonomous-marine-systems/sustainable-cotton-production-using-artificial-intelligence-scp-ai"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: University of Plymouth

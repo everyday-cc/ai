@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T17:37:00Z
 originalUrl: "https://www.csrwire.com/press_releases/730071-cristiano-amon-iaa-mobility-2021-how-5g-driving-connected-automotive"
 webUrl: "https://www.csrwire.com/press_releases/730071-cristiano-amon-iaa-mobility-2021-how-5g-driving-connected-automotive"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: CSR Wire

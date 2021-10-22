@@ -8,6 +8,9 @@ webUrl: "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-step
 ampWebUrl: "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/"
 type: article
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Forbes

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wvpublic.org/health-science/2021-10-19/wvu-researchers-u
 cdnAmpWebUrl: "https://www-wvpublic-org.cdn.ampproject.org/c/s/www.wvpublic.org/health-science/2021-10-19/wvu-researchers-using-artificial-intelligence-to-help-diagnose-those-with-autism?_amp=true"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,33 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study: AI can help diagnose mental health disorders where access to care lacking"
-    excerpt: "Artificial intelligence, or AI, may be able to screen people for mental health disorders without the need for a specialist's assessment, a study published Friday by GigaScience found."
-    publishedDateTime: 2021-10-15T18:33:00Z
-    webUrl: "https://www.upi.com/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/15/AI-machine-learning-mental-health-diagnosis-study/8781634316118/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 54
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/8781634316118/2021/1/08b07f7fa731fef4c669fd8b2a898d46/v1.5/Study-AI-can-help-diagnose-mental-health-disorders-where-access-to-care-lacking.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Artificial Intelligence for Mental Health Assessment"
-    excerpt: "Artificial intelligence (AI) can detect signals that are informative about mental health from questionnaires and brain scans."
-    publishedDateTime: 2021-10-17T15:36:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-for-mental-health-assessment-203847-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 37
   - title: "Using Artificial Intelligence to Diagnose Rare Pediatric Disorders"
     excerpt: "Researchers found that artificial intelligence technology can quickly diagnose rare disorders in children, allowing patients to acquire treatment sooner."
     publishedDateTime: 2021-10-18T13:30:00Z
@@ -66,20 +39,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1096919364.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Study: Artificial Intelligence Can Predict Risk of Recurrence for Women With Common Breast Cancer"
-    excerpt: "They added that this is one of the first proofs of concept illustrating the power of an AI model for identifying parameters associated with relapse that the human brain could not detect."
-    publishedDateTime: 2021-10-15T14:14:00Z
-    webUrl: "https://www.pharmacytimes.com/view/study-artificial-intelligence-can-predict-risk-of-recurrence-for-women-with-common-breast-cancer"
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 26
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/f74413be01350210ff20fad35d830f6b4e6f2677-1080x675.jpg?fit=crop&auto=format"
-        width: 1080
-        height: 675
         isCached: true
 
 secured: "ZcIfTn5XUIYi43BYnw2A+/N4LOSwtffpj2DSa0I1fGPRcWnFI6XOY4CYkMRvmVMj0JIwK85lXbkDzBK32JYLeVu3FV9wyb932mhbn+oV82lbDs1uGluPoKPK5oBCUIKwXTKTcbYZUIb2NEIMypMdX42lzv9mbWk+0nRWwshFOhzcZj9PSUID+sptH2VCnP7TDQp1oCDOvYGoMgzzSGtwS+keYu8DcCGexNYpNyYKJ9K85Bdbw8umuznShonds/3J4G2/5bTBltqUajTf9bQJjq3jomCeioPxRKGZiaXa2yuddDWcEoFxvjcdzhkI9g5j1WWBSxxrvjmhZ93pxC637329Deldd02XvrbNZcHcVnVEOeExIdaYn2genHc6J/Zb4uigazlSvdq9kcBAGgL9a/phIXagA03Amk/QsYYnyjASaP48GRrKB4uXOryM75t/zOdcTJFzUGUFiAPSfHmzwae9MkguGwQGJJ7kCDPEemoQLm5/EO0GeTxmaFxar5oStrIC18oLaFO7cDBpVAghsg==;kTG8Vj6ju8OYPnvxkI5A/w=="

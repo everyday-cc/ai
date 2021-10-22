@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T14:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243"
 webUrl: "https://markets.businessinsider.com/news/stocks/how-usaa-is-utilizing-natural-language-processing-to-improve-the-member-experience-1030886243"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Business Insider

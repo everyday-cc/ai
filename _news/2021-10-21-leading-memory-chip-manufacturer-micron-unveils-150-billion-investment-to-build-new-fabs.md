@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T05:19:00Z
 originalUrl: "https://swarajyamag.com/analysis/leading-memory-chip-manufacturer-micron-unveils-150-billion-investment-to-build-new-fabs"
 webUrl: "https://swarajyamag.com/analysis/leading-memory-chip-manufacturer-micron-unveils-150-billion-investment-to-build-new-fabs"
 type: article
+quality: 10
+heat: -1
+published: false
 
 provider:
   name: Swarajya
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Micron plans $150 bn push on domestic chip manufacturing, research"
+    excerpt: "US semiconductor company Micron announced plans Wednesday to invest $150 billion over the next decade on manufacturing and research, including potential production capacity in its home country."
+    publishedDateTime: 2021-10-20T16:53:00Z
+    webUrl: "https://techxplore.com/news/2021-10-micron-bn-domestic-chip.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 19
 
 secured: "4XN6o6zXG0QPqAGeoYCrhOQqyM3T20Gw146yVxh6Y5ZYFdL58TM4cX79RCXnc0A1qw5G1w+uyYrZs9BHVhtxWXWOQHqVdxJjfJwHLdW1hbUZI5fAqZ3cIf1vEGhEnFjrh/mwYIfKygXeNxRQ+QNgdaF5XK7f6YoffpYK6EJJ20AeOfBGzdxtqklU2+PHwdhtXD2Ccd/FjzqhqVjlnrY9lmzsG4epzu2tm6ciYRZQRW1iNvYrTQswrbE397Nw3VggbcC09Ij1lULdj46f0enbA+Z+zVlRdWt2foVcamMsVlfBt05Jsg8l0HTMy53BShDEInDy5DVmb+o9c5H4ZeKCNPed5uFFB/FJHSS2010Kv0fCfEo2r1SQLxqJNVJ1Rsm3WPQZbj0wnvHVYA5BGp/I89iOtZA2YTikayZ0OiTES/goUX+od/tQvlstaSY6L0FSaTgAhEVc410oIZy24qOlmobR7mekkaBM5AANur7B/wgUadnGcD9+BTTQ7NHZkhCFTb/uH1sclKElfeJ2PpZiuw==;JnUFcW//0qomE+x3EB8HGg=="
 ---

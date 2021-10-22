@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:03:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-israel-san-jose-tel-aviv-59db02be053443a8a41a8c07ff4d1640"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-israel-san-jose-tel-aviv-59db02be053443a8a41a8c07ff4d1640"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T08:00:00Z
 originalUrl: "https://www.newsday.com/business/technology/feinstein-neuvotion-angel-paralysis-ai-1.50395134"
 webUrl: "https://www.newsday.com/business/technology/feinstein-neuvotion-angel-paralysis-ai-1.50395134"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Newsday

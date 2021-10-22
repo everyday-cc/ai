@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T18:25:00Z
 originalUrl: "https://hothardware.com/news/qualcomm-snapdragon-ai-processing-muscle-mlperf-update"
 webUrl: "https://hothardware.com/news/qualcomm-snapdragon-ai-processing-muscle-mlperf-update"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: HotHardware

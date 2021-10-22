@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T08:23:00Z
 originalUrl: "https://manometcurrent.com/automotive-self-driving-chip-market-size-outlook/"
 webUrl: "https://manometcurrent.com/automotive-self-driving-chip-market-size-outlook/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: manometcurrent.com

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T20:07:00Z
 originalUrl: "https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/"
 webUrl: "https://www.aitrends.com/speech-recognition/startup-assemblyai-represents-new-generation-speech-recognition/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: aitrends
