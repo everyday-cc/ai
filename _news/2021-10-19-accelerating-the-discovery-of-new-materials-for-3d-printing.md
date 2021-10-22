@@ -7,7 +7,7 @@ originalUrl: "https://www.chemeurope.com/en/news/1173177/accelerating-the-discov
 webUrl: "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015"
 type: article
 quality: 122
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing"
-    excerpt: "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,"
-    publishedDateTime: 2021-10-18T01:34:00Z
-    webUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/"
-    ampWebUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
-    images:
-      - url: "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "MIT Uses Artificial Intelligence To Automate 3D Printing Materials Discovery Process"
     excerpt: "Artificial Intelligence, and more specifically, machine learning, is finding its way through various applications in the additive manufacturing industry. This time, researchers from MIT have applied the data-driven nature of machine learning to automate the process of discovering new 3D printing materials."
     publishedDateTime: 2021-10-19T00:01:00Z

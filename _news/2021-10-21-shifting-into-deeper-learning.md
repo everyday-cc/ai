@@ -33,6 +33,22 @@ related:
         width: 5760
         height: 3840
         isCached: true
+  - title: "Saving seaweed with machine learning"
+    excerpt: "Charlene Xia '17, SM '20 found herself at a crossroads. She was finishing up her master's degree in media arts and sciences from the MIT Media Lab and had just submitted applications to doctoral degree programs."
+    publishedDateTime: 2021-10-22T18:26:00Z
+    webUrl: "https://techxplore.com/news/2021-10-seaweed-machine.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-seaweed-machine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-seaweed-machine.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/seaweed-1.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
 
 secured: "vqpKTJlkPoZGdpqjcrpGI5hQkgqCbQIR0pRHWalyrKOc1a/ZHcZzPiwoSF8J/oYeChgZR9wXVhlJO6cAjQLJN4MgxxRj/oV/OlMbTSSICZphvEVWNfintMEBjKxKiMlJ2RELsn+c5UGlTEfjLFzs2S0PLfzZRDAeDFny4vtV0ZP1dfsGC7oeaA0+0xb2odkKkhtShoP8GUd98CaIrY8GwEDLp9mYezIzwl1mZNUnaUaOK6Sel1g8EBeX+O4r0odFSUEkZZDhCYnFiv+ztfRfP8sg0NbbK0LVvCYWoJqsFZD3BAtReGUtkHg0O39MF6tJujsmQedz/Yb9AdGG0OKI41fx/hZTQpl3GPzEmueH2YYSC6qEGPRkGwoeH7r334wWj1sWyy6n2wdWwjVEbPlViLAHr34QTf2vYQa4oHeHNgLgAIsI56JtKQQ9GUtCGv2VJKw+AI1P+rFIttnl6uiCcaS8uM4HgLHhML3g9Mohx+M3tMWroAKvLFOQD4AH02eCKhsBJUVYAPBhLmgiTqDD4Q==;sWwQVDQQWWRCepDmQ6uRjg=="
 ---

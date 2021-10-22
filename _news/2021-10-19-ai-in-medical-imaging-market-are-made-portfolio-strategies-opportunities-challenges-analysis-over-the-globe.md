@@ -25,17 +25,19 @@ topics:
 related:
   - title: "Artificial intelligence spots anomalies in medical images"
     excerpt: "Scientists from Skoltech, Philips Research, and Goethe University Frankfurt have trained a neural network to detect anomalies in medical images to assist physicians in sifting through countless scans in search of pathologies."
-    publishedDateTime: 2021-10-21T18:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/932366"
+    publishedDateTime: 2021-10-21T20:26:00Z
+    webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bde4d8fe-d6e5-4142-9103-f2997cfa1910/Rendition/low-res/Content/Public"
-        width: 700
-        height: 234
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-42.jpg"
+        width: 820
+        height: 274
         isCached: true
 
 secured: "x8VR/wvcZMmNKVRACzZY5+EW3FXdFiDgG1kl9JwCITyTvD0OwJJyCimEq2GrhoQ/tQXDAJjx0WxAMZObBGBPgIAjvB+vCCBqdKukDcKluV+TLh2DYIoiF3ccTBvkGGUhOG272vSLxULU+YdGqTNNcNftbJJucLmWpDZ4Fj6FUXt7xpU8fsRv07M7u/oYQ9Qoufci6NwGLG8kBM1w/ZYhS3CcQGUA5X7bRDeB3fdLGYTyGKaT96CoXuE3aobc+OAtY0utgXzNplxN0pAVT8m1bjdH3eChtJoPCWjQVos5aAub0f/9vNBcmpRKW8LAie07R0pyHnKZZ6/1n5gBMs3QS6+Pp/6iARHDImYUcXO3S7Q=;M2phOvo1ErvvJVM8MnY14g=="

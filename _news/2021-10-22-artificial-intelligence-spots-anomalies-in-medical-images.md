@@ -2,25 +2,28 @@
 category: news
 title: "Artificial intelligence spots anomalies in medical images"
 excerpt: "Scientists from Skoltech, Philips Research, and Goethe University Frankfurt have trained a neural network to detect anomalies in medical images to assist physicians in sifting through countless scans in search of pathologies."
-publishedDateTime: 2021-10-21T18:34:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/932366"
-webUrl: "https://www.eurekalert.org/news-releases/932366"
+publishedDateTime: 2021-10-21T20:26:00Z
+originalUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html"
+webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bde4d8fe-d6e5-4142-9103-f2997cfa1910/Rendition/low-res/Content/Public"
-    width: 700
-    height: 234
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-42.jpg"
+    width: 820
+    height: 274
     isCached: true
 
 related:
@@ -34,6 +37,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "HI2xP3c8BaibX8tuv2A719k+hCo4Cy1En2P5kgeUZtBsqlwJqpEyo+C7QMVqeV79/mf98OAvbAtp4XElK1pxWbEzi7d270JC7tOg5kr3IkZ2Bv77lrdrGiy1+zjytiqq0TbQcxUhUEosaLpewmmWAVvl0gBk+FCu2q0csTqFh08cPZX9N8KuRCaMMsmvR37u15r1X6DmlrJOiyzluYX4SMM3/ebrbdSrVZ9NNxDFm4O9KrNNAPzP0K6I3xc1AMMwRjGqrGiVgx3stLh0tdtFN/2UTWzK6qcouWWPJ/gNo5LpeB8wpvXNen3Np0fFlotH8oqwom62LdAaNQVHy9UASa8NZwvAJfsSPZ5KeNRd19s=;y+WLuDA7b4qzbMXGIS66Pg=="
+secured: "f2mHcFiKkkasZEFO0R/4rPabf5IsZ1yRivU0HhkY5EbMYU9znHPEmkHpGjMNZPOqNnPYnuflQ0IPJAw1+8W1p/kouZAFaJb+TKuBVv7224Z9RZcG4pu0wsKkANIMVRc4W1w/KXy9GJGCIIhQoYgvzUWjiZKswTEWHywcl16QVVLlA0i0ydTlMkv3Cb5Jwlf6qGhHKNIyhAc/xoxKjtjOQwDYz/milFDxTozRn+rSFK4yS7jki66fHehqNTLSmh5lICHHUVknEg5nGUcri11N3DtYmXEIB2Gdr2HZzkPpSTb7LIaBn8KjL0d/j0mZI3ScXzw99brDH1mrkl9WMvqnfPdFFSr/z5xer+TVPtEgCyI=;GgzHoIHIMyv8EimhpT0KVA=="
 ---
 

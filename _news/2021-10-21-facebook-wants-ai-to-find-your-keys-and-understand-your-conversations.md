@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook hits back at claims its AI has minimal success in fighting hate speech"
-    excerpt: "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,"
-    publishedDateTime: 2021-10-18T01:14:00Z
-    webUrl: "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 866
-        isCached: true
   - title: "Facebook AI moderator confused videos of mass shootings and car washes"
     excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
     publishedDateTime: 2021-10-18T13:30:00Z
@@ -48,22 +32,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
-    excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its"
-    publishedDateTime: 2021-10-18T01:22:00Z
-    webUrl: "https://en.mogaznews.com/World-News/1847063/Facebooks-AI-is-removing-just-TWO-PER-CENT-of-hate-speech-posts.html"
-    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1847063"
-    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1847063"
-    type: article
-    provider:
-      name: en.mogaznews.com
-      domain: mogaznews.com
-    quality: 59
-    images:
-      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-18-8da1ebff49.jpg"
-        width: 700
-        height: 450
         isCached: true
   - title: "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary"
     excerpt: "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it."
@@ -80,6 +48,20 @@ related:
       - url: "https://www.gizbot.com/img/2021/10/3-1634885552.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Facebook’s smart glasses could lead to Black Mirror-style privacy concerns"
+    excerpt: "I believe it’s important for technology companies to proceed with caution and consider the security and privacy risks of augmented reality."
+    publishedDateTime: 2021-10-22T11:01:00Z
+    webUrl: "https://thenextweb.com/news/facebook-smart-glasses-black-mirror-privacy-concerns-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFacebook-Ray-Ban-Smart-Glasses-hed-2.jpg&signature=208621d75f163ec97168d933232be728"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Terrifyingly, Facebook wants its AI to be your eyes and ears"
     excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where you left your keys. The Ego4D project provides a huge"
@@ -148,6 +130,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Can Facebook's smart glasses be smart about security and privacy?"
+    excerpt: "Facebook's smart glasses ambitions are in the news again. The company has launched a worldwide project dubbed Ego4D to research new uses for smart glasses."
+    publishedDateTime: 2021-10-21T12:10:00Z
+    webUrl: "https://techxplore.com/news/2021-10-facebook-smart-glasses-privacy.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 21
   - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
     excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
     publishedDateTime: 2021-10-18T08:20:00Z

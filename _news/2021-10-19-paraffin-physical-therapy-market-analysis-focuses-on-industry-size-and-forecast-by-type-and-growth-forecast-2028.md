@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
+    excerpt: "The \"United States Artificial Intelligence in Travel Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-10-21T13:12:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=551119"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
     excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan"
     publishedDateTime: 2021-10-18T07:03:00Z
@@ -182,15 +196,6 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 10
-  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
-    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-10-21T13:12:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
   - title: "Global Industrial Robots Market Overview and Opportunity Assessment 2021-2030 - Massively Accelerated Movement of Goods due to the COVID-19 Boom in e-"
     excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The market is expected to reach $6.15 billion in 2025, rising at a CAGR of 14% Where is the largest and fastest growing market for the industrial robots (warehousing and storage robots)?"
     publishedDateTime: 2021-10-18T09:07:00Z

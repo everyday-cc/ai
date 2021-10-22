@@ -83,6 +83,15 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
+  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
+    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
+    publishedDateTime: 2021-10-21T18:27:00Z
+    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 11
   - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
     excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
     publishedDateTime: 2021-10-18T04:10:00Z

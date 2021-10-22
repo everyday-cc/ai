@@ -242,6 +242,20 @@ related:
         width: 825
         height: 589
         isCached: true
+  - title: "Will Artificial Intelligence transform Semiconductor Manufacturing"
+    excerpt: "McKinsey predicts a future yearly benefit of Artificial Intelligence/ Machine Learning ( #AI / ML) in the semiconductor industry of 13…18% of cost of goods sold, the biggest part of that in the area of manufacturing (1)."
+    publishedDateTime: 2021-10-20T10:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transform-semiconductor-dr-olaf-herzog"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEQ-S8Bg8cbng/article-cover_image-shrink_600_2000/0/1634723450547?e=1640217600&v=beta&t=lm--CfGgBWd-3dH38Os90dhqSfaEmQEsWm_yuBgX8m0"
+        width: 941
+        height: 548
+        isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."
     publishedDateTime: 2021-10-19T15:07:00Z
@@ -335,6 +349,6 @@ related:
       domain: morningstar.com
     quality: 6
 
-secured: "x/IwbGVXF/DOuD0Y7kT1CwVfMjs4tKoB4dDXbHP7Pl3vGqueWvd5h/seB0Z3SK8z1x9snZc7UbQJDb8v3cam+/VmLGGtmvcsltUvV/pgUi+I6c5mLNe7u7ZDaVnLFCxHpSzsFYtSqBBtBogECcal5VHN5hWK1zgeIW7vdgVtGDCYhLwRU9S6bU6hP2gRpH5/Z4X3dA9I8zfuvzSLL5LW1SlaDcgjKCMAs3PE3fwTyDE/LojQL7eFlEXQkV4+cgXmUkRad1nt9TYMavnHiWatNoze1m8+MxU43bpCNKJbYal6UH/+zpz2pnS2DaBYDGjqcdTYGXqcdUtAAH1MVUhD45WBAVHOgn9rqNly7U1zXdg=;9LEM8r9AAXkjxg3wTXZkRg=="
+secured: "svdLdS6Z2IGmhDred93YE8FEuGZCrnYAS7YWP8HdwmRMvT5fsIcdccVhv3l7C0J8Xq5pMyOUeyMs7gb9x/sOqZXf7Jx+nI0DES2F93h731Mt2QKZwDCOHHB0indRpnwlMjg3bC1hn18sWvOtu+CimT0jqgNWQSPbTNywI5rufXBOE/80+EHPkj9ybj18CDaKZgHVz85u3QMwFqjFFd+8Ht/qUXoBEWXYi/rXSJTmaTAZpd3MXzAvG9WdMw0CYbPxCtV7Kww3dpfBBK0Q/T5mcB41T4+Yq0/bincurg9FhWqo3Qlgkw7uGLCUla4x9f+nGfWpJ8MN7+uiku655ZNjb+I83iWLaLxpOrnA7D43aNDopOFWWfDPdRpbA1wtH/yeszu6r4j67s9S8zsOhSHkLzTzLQTiW9ULfm/GjBQZKtDHWRlyEcQWhI5Qc4omUcd4Ipa3h85oAldbshDoo4pQs0elD71tRK8eQ4RzgbQZMDProAmdXdbeOx/0x4PPQ7jE3uXLL/tjt6TchUIDF7ZZbQ==;rDpM6UR9hXcmZ3NHkmsyXA=="
 ---
 

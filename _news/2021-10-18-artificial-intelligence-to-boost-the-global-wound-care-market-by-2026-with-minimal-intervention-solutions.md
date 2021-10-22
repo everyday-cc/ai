@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
+    excerpt: "The \"United States Artificial Intelligence in Travel Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-10-21T13:12:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=551119"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 27
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
     excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
     publishedDateTime: 2021-10-19T06:15:00Z
@@ -182,15 +196,6 @@ related:
       name: PharmiWeb
       domain: pharmiweb.com
     quality: 10
-  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
-    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-10-21T13:12:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
   - title: "Global Industrial Robots Market Overview and Opportunity Assessment 2021-2030 - Massively Accelerated Movement of Goods due to the COVID-19 Boom in e-"
     excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering. The market is expected to reach $6.15 billion in 2025, rising at a CAGR of 14% Where is the largest and fastest growing market for the industrial robots (warehousing and storage robots)?"
     publishedDateTime: 2021-10-18T09:07:00Z

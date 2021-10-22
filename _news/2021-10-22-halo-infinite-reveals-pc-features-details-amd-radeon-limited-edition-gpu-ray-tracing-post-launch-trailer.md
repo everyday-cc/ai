@@ -22,7 +22,7 @@ related:
   - title: "Microsoft and AMD will give away a 'Halo Infinite' Radeon RX 6900 XT GPU"
     excerpt: "Not only have Microsoft and AMD teamed up to add ray-tracing to the game sometime after launch, they created a limited-edition Radeon RX 6900 XT Halo Infinite graphics card. The GPU’s design is based on Master Chief's Mjolnir armor,"
     publishedDateTime: 2021-10-21T15:46:00Z
-    webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html?src=rss"
+    webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
     type: article
     provider:
       name: Engadget

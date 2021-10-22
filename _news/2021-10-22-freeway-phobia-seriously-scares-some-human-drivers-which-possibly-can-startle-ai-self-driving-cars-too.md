@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
 type: article
 quality: 73
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
+  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
+    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
+    publishedDateTime: 2021-10-21T18:27:00Z
+    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 11
   - title: "Only 2 accidents involving self-driving cars caused by poor systems"
     excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
     publishedDateTime: 2021-10-20T12:25:00Z

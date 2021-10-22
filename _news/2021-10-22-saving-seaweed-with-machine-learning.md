@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 webUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Saving seaweed with machine learning"
+    excerpt: "Charlene Xia '17, SM '20 found herself at a crossroads. She was finishing up her master's degree in media arts and sciences from the MIT Media Lab and had just submitted applications to doctoral degree programs."
+    publishedDateTime: 2021-10-22T18:26:00Z
+    webUrl: "https://techxplore.com/news/2021-10-seaweed-machine.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-seaweed-machine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-seaweed-machine.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/seaweed-1.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Shifting Into Deeper Learning"
     excerpt: "A focus on belonging, creativity, and metacognition is helping one school lead students away from superficial learning."
     publishedDateTime: 2021-10-20T21:09:00Z

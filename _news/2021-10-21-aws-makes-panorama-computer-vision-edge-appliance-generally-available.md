@@ -29,6 +29,20 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 64
+  - title: "AWS Announces general availability of the AWS Panorama Appliance"
+    excerpt: "Allows customers to use existing on-prem cameras and analyze video feeds in edge environments to improve quality control, optimize supply chains, and enhance consumer experiences"
+    publishedDateTime: 2021-10-22T18:25:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/AWS-Announces-general-availability-of-the-AWS-Panorama-Appliance-149718.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "AWS launches its AWS Panorama computer vision appliance into general availability"
     excerpt: "AWS Panorama, an appliance that companies can deploy at locations such as factories to run computer vision software on-premises. Organizations are applying artificial intelligence to more and more parts of their operations in a bid to increase efficiency."
     publishedDateTime: 2021-10-20T20:47:00Z

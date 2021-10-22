@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff
 webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Consulting Market 2021 Opportunities, Share, Trends And Forecast to 2030 | IBM, Mckinsey & Company"
+    excerpt: "Consulting market demand for its products and services is projected to increase substantially in the coming years. Although the market is at a strong position at the current state, the market at the same is undergoing price fluctuation,"
+    publishedDateTime: 2021-10-18T15:58:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
   - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
     excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
     publishedDateTime: 2021-10-19T16:49:00Z

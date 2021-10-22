@@ -3,10 +3,10 @@ category: news
 title: "God and robots: Will AI transform religion?"
 excerpt: "BBC Global Religion reporter Sofia Bettiza has taken a look at whether AI’s relationship with religion is just a gimmick, or whether it can truly transform how people experience faith."
 publishedDateTime: 2021-10-20T23:54:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
-webUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
+originalUrl: "https://www.bbc.co.uk/news/av/technology-58983047?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/av/technology-58983047?at_medium=RSS&at_campaign=KARANGA"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7E63/production/_121155323_p09z7zzv.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Book Review: We, the Robots? Regulating Artificial Intelligence and the Limits of the Law"
@@ -47,6 +53,6 @@ related:
         height: 626
         isCached: true
 
-secured: "hqQY74evhyTD0Ne5ooH0xGkJfEjufHUsQp+Nj5XeKKRC8bpzOo/CmDHtqr/JubqkUWKBs0r+AWt95Rj4Xcspf+7WjSQO+8Bfx7yDSPQGOeSXy5gaJl7jPgDEQno9LoB8fYWr+xcP3PMa/wfBtjC2QWlgsIYgENp+ndKQuQ1Jz2JI+DU8pddWbsYgljW/hg5foh5jHwMqwl4eSaJJmvApN8oOjIplPQ4rzllPWHSfyMBb1AUuPVHSj+dUqOQhz+hlC59ZCppnP8dxYQXp8kIOjKb+5AOHMnzVGAYd0M4rtOVmMdBlrSU7jDL4vccOwFGTsMcuYzfp1sZMa2OXrU8KlBC3LurWXXwLEw0F8LOMxG/MIAc6PgZqT3fe/qsYLgTXQoPZiCo9I9xGm29qRbb3GIQkWWdVAiKnrIyVGlvK/qPMgbPlLW0HlPMrALjyktqVG+8gic9rp08FB3AG54AeC917GFB82fWZJLAg+6K3+qlnr9h2GA7E4WNY+JgVJCrv0uGJ68svTp1WOeXVdFhV8Q==;KOl+1r5lEStc5BebM3crEw=="
+secured: "DmLGghiF1lk9aog/pxEakTW8iJ5q9ozpbacTd31ZicXyY58WBkj0ja7gXCWU7xf9RGxgMaDR/baQozaUqDLzSa5xVtmAJD53BuSr2UYGtyTfITxLxxYDK2neMQSqATB+5GIXcvsyBpv1cwSNTy+hk1WfetEpCJ3cUaaKjYwG693W7lWS+i3hIAf7c2W+1JRpXLGXwlqD+ZGxbTLzYf8YyocAMdG9B92zVqLO94lqHYI+8GzP3M/SnwCgeafbmI5eJzJ2cIgViUoxMCWgiFv6eJIesAptCYsw2e/9nKzkhvziaoiMTe7fp4LFDm4ibLfvJXQCJi80VdRkb0bAKnjS8movWsGt0qJE0IfqCNA3/YA=;KBcmH1uHOvkFnDhV3/RmHg=="
 ---
 

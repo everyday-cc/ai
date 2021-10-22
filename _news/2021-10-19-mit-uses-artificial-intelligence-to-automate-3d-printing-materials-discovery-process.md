@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MIT Uses AI To Accelerate the Discovery of New Materials for 3D Printing"
-    excerpt: "A new machine-learning system costs less, generates less waste, and can be more innovative than manual discovery methods. The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes,"
-    publishedDateTime: 2021-10-18T01:34:00Z
-    webUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/"
-    ampWebUrl: "https://scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mit-uses-ai-to-accelerate-the-discovery-of-new-materials-for-3d-printing/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
-    images:
-      - url: "https://scitechdaily.com/images/Accelerated-Discovery-of-New-3D-Printing-Materials-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "2WaUzbFWDOhytzQabKL7ieFZnL8TOqscz65jkXqQOFguuSMfIrxN4OV3aMaYSbrmtWEjy6Bf7nUtW2uJMOeJpSUHNl3wgZfMzXtror45dEgXBGDPKLt0tRG/b5h0IvThs68wmiWSCvRZaDRfl0ZhrioE9yuvOV04V3br5un72Y0wkzYmDF6fkSx+yLc+gJXFSyADyGhcG2IstKgK8EK6xFvEvLDRQ4KrxmsHWa0crrnUeleTWeeoxPspyxXHI7vk2HqkwnT8IUcHZZcEV3/5ytH97m6dvaKBo8vOJFeuWvP+hpwGvDxUktg4dwe7Z7+3jlPRHQu1SbDQk8TDAYQ9w6KG47hIPVJReZrjU8K2mBE=;FMSot8zwaFiD2WRgIkXtNA=="
 ---

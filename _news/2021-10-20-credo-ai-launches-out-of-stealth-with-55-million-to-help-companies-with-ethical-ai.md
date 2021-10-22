@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-w
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
 type: article
 quality: 96
-heat: 127
+heat: 126
 published: true
 
 provider:

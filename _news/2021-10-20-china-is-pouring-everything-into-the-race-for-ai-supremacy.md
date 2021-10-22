@@ -244,6 +244,20 @@ related:
         width: 825
         height: 589
         isCached: true
+  - title: "Will Artificial Intelligence transform Semiconductor Manufacturing"
+    excerpt: "McKinsey predicts a future yearly benefit of Artificial Intelligence/ Machine Learning ( #AI / ML) in the semiconductor industry of 13…18% of cost of goods sold, the biggest part of that in the area of manufacturing (1)."
+    publishedDateTime: 2021-10-20T10:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-transform-semiconductor-dr-olaf-herzog"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEQ-S8Bg8cbng/article-cover_image-shrink_600_2000/0/1634723450547?e=1640217600&v=beta&t=lm--CfGgBWd-3dH38Os90dhqSfaEmQEsWm_yuBgX8m0"
+        width: 941
+        height: 548
+        isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."
     publishedDateTime: 2021-10-19T15:07:00Z
