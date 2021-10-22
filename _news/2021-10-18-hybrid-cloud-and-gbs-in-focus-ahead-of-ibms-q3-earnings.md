@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Hybrid Cloud and GBS in Focus Ahead of IBM's Q3 Earnings"
-excerpt: "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson ... technologies and AI-related solutions is expected ..."
-publishedDateTime: 2021-10-18T16:20:00Z
+excerpt: "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson, and blockchain platforms. Additionally, the digital transformation wave has bolstered the adoption of cloud-based QRadar,"
+publishedDateTime: 2021-10-18T14:37:00Z
 originalUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18"
 webUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18"
 ampWebUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp"
@@ -58,6 +58,6 @@ related:
         height: 533
         isCached: true
 
-secured: "fytaX74al13uazWO+q4qxAiTOqojjl5nxPAdLuPYvB5XcxrsgJXrVa/3q3rE0uX4AIXjWcwQT0YZ6cWxJQyRgHOz5g8D07KGQ/q3KJjyIKaPoBDEoYggjpf1P0Z9ISEXJHDGivZ/yR/agmfno2n42OduEe5t4xQHkQgfubXl+9eP0wZwIRXl5dVw/LCBOwCUeA1O/bVC8YzYS/4qATIwW7vikJl96GPBTDqh/mMcmkq1t3yVecAAlueCASwmhIsLRrNHPW9Io8jcNWxT8LnZ1Wk+kj2vPvZrs0vFb3FJuNRy+Jvy62eOt97+J3fCL3shFHDV1BPLXNJMdpmli+lpjZwBEpcZNUwDlyDUudj7jVs=;swoxTwEoy/SfQofQRbbH4Q=="
+secured: "aR1JUA62TBsoE1GmOxtMRK7j3ZTi2txT/VzzV7Mub/0n4WVe2e7sEwUsDQXfBJKNXkKQlyF6JM18sMmfiYTk6v90VTkwMu8IX5gz6FihEL+kvuGlirn8Z4mwFYsEoYXSyo+Oe4Bk64pVkJF/3EL0Ng1Dvx3m6uycTWcZmfGX8o0RfRw/Od9PnoGvs+jyG7L2GnP8mjCd5McLSg4zuh6Alowid5szXGEayjfKq8Tw2k17Z3nr53VbZqIfpNdxMYVgfnGl4GbK7Bj2q5AAInBz+k3agefJTnLZI8JNuArUfh6pFiNw5/bSklOIWO+AXF5RqA53jutbFwVsJj2gpSWKk1qFSWUL/4PKhxNAp3b30tc=;4GJElZc8V6GazzvS8WdGOA=="
 ---
 

@@ -101,15 +101,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
-    publishedDateTime: 2021-10-18T04:10:00Z
-    webUrl: "https://www.theday.com/article/20211018/BIZ07/211019742"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 0
   - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
     excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
     publishedDateTime: 2021-10-21T04:39:00Z

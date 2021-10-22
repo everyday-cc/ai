@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Platforms Market"
+    excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-10-18T17:04:00Z
+    webUrl: "https://www.openpr.com/news/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    ampWebUrl: "https://www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "The Role of Democratized AI Using Power Platform’s AI Builder"
     excerpt: "Have you heard of Power Platform's AI Builder but aren't sure what it's capable of? Click here for an in-depth yet succinct discussion."
     publishedDateTime: 2021-10-22T16:07:00Z

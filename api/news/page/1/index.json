@@ -106,7 +106,7 @@
       "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -296,7 +296,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -349,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -676,6 +676,57 @@
       ]
     },
     {
+      "path": "_news/2021-10-22-this-ai-enabled-startup-is-helping-businesses-tackle-digital-fraud.md",
+      "title": "This AI-Enabled StartUp Is Helping Businesses Tackle Digital Fraud",
+      "excerpt": "Even when you are running cost per action or cost per purchase campaigns, a lot of this traffic is being driven by stalking digital devices through adware injected, installed, or pre-burned on devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/392763",
+      "originalUrl": "https://www.entrepreneur.com/article/392763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634880026-djdv1.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-saving-seaweed-with-machine-learning.md",
       "title": "Saving seaweed with machine learning",
       "excerpt": "Charlene Xia, a PhD candidate at MIT, is using machine learning to monitor the microbiome of seaweed farms in an effort to predict and prevent diseases before they destroy livestock.",
@@ -684,7 +735,7 @@
       "originalUrl": "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -780,6 +831,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-22-artificial-intelligence-spots-anomalies-in-medical-images.md",
+      "title": "Artificial intelligence spots anomalies in medical images",
+      "excerpt": "Scientists from Skoltech, Philips Research, and Goethe University Frankfurt have trained a neural network to detect anomalies in medical images to assist physicians in sifting through countless scans in search of pathologies.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-42.jpg",
+          "width": 820,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp",
+      "publishedDateTime": "2021-10-21T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai.md",
       "title": "Lawmakers introduce bill to increase oversight of federal contractors’ use of AI",
       "excerpt": "Ohio, have introduced legislation intended to protect information handled by federal contractors that use artificial intelligence technology. If enacted, the new bill would require the director of the Office of Management and Budget to establish and consult with an AI hygiene working group,",
@@ -788,7 +883,7 @@
       "originalUrl": "https://www.fedscoop.com/lawmakers-introduce-bill-to-increase-oversight-of-federal-contractors-use-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -819,49 +914,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
-      "title": "Robot artist Ai-Da released by Egyptian border guards",
-      "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp",
-      "publishedDateTime": "2021-10-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1138,60 +1190,6 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker.md",
-      "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png",
-          "width": 1252,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T14:25:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
         "AI Hardware"
       ]
     }

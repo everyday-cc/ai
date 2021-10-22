@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Artificial Intelligence Platforms Market"
+    excerpt: "Global Artificial Intelligence Platforms Market Report 2021 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and"
+    publishedDateTime: 2021-10-18T17:04:00Z
+    webUrl: "https://www.openpr.com/news/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    ampWebUrl: "https://www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431898/artificial-intelligence-platforms-market-may-see-exponential"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "DlgYoj5AauvLbcTujeN5StLCQFcAe3MKvfG7TwaOhkVMG3M9gFYGuXYRN7+Qxe5nwsCPiHSzBZD1U/IYpyhLK/8TRlqKsOnLuLuCF3IOf2vjioSngNJjIcLtsaWjBrK06d4xd90TNcipgZaRPLcUJtUl0vFF7vd+SUa5DMKL6DRMLon8KAMDwqf9gysD28MEF3lI/pC73oUXNElHN3WT0Xu4n5wSPrWCmE9Yo8tnLVbUP1+qgoany3w+KsDHkr+fvy7rYcNXh9/LVp9ioO0hGemK2nWk1UEUj4OzPcg/cHOr0f4vyYMNdz3T8ED0jeC9c90Y4bkg+U9ql6jhYs+ZJ+qJ40GBYkLIqzf9cgqAOt6F1sRBKRGnMKLz9G5wBiyshXsRzwrOKhX5dq851m1/Adcdd+Uf81XbQ3pCrhr82Hxg22KOLHvIj2bPNAZTKG4OpZY9CjlFrkpmZzOP2HdXsIE13RmNYUdddrQDAahXizG2+y1zcEnlBEsSYjGspYJ51Ry68xpGo7a0ScKzGvVWsg==;q0h77bIteAgW5mhSdpl9nw=="
 ---

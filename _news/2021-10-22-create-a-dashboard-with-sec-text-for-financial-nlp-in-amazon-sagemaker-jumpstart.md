@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-w
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "Detect industrial defects at low latency with computer vision at the edge with Amazon SageMaker Edge"
+    excerpt: "Defect detection in manufacturing can benefit from machine learning (ML) and computer vision (CV) to reduce operational costs, improve time to market, and increase productivity, quality, and safety. According to McKinsey, the “benefits of defect detection and other Industry 4.0 applications are estimated"
+    publishedDateTime: 2021-10-22T21:21:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-industrial-defects-at-low-latency-with-computer-vision-at-the-edge-with-amazon-sagemaker-edge/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/20/ML-4887-image09-new-1073x630.png"
+        width: 1073
+        height: 630
+        isCached: true
 
 secured: "6TRzXzgjLm1upVtF5WoUT54M/bCmuoLTW0NMb3A3vwvbflfAbnJjh9usF8O/w7pVtue6GhN1oSDJdlMxrFn3kZx+LbTJzBvJ1JESJtfWaQT8F1OgTXgfJBzgVQQ8XlMCHXbghshAnfcwF/LbYZvHeatMdeoXBYs9oaG1hJN2p8WDjPYbrK7h7gQA2LiSsD88p3X2m5HdGXHlRT76Zs56xEaClyNuTBnZNMmBVyTG+kGRZSg/qciGwKVRL4o8EX5xLdQGFG+mwKQAXRK8TwjYZaJOdOrBufWAEDBIsPm+/NgP9sYeN7t5cebTMACAZaQGX/21CLUqd0n6nhI1zoFixIfVUO0jkUjYyjJ+mTdbiCE=;Jtn3TXJpzUjr1RhG1+5njQ=="
 ---

@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-m
 ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-42.jpg"
@@ -37,6 +38,6 @@ related:
       domain: marketwatch.com
     quality: 29
 
-secured: "f2mHcFiKkkasZEFO0R/4rPabf5IsZ1yRivU0HhkY5EbMYU9znHPEmkHpGjMNZPOqNnPYnuflQ0IPJAw1+8W1p/kouZAFaJb+TKuBVv7224Z9RZcG4pu0wsKkANIMVRc4W1w/KXy9GJGCIIhQoYgvzUWjiZKswTEWHywcl16QVVLlA0i0ydTlMkv3Cb5Jwlf6qGhHKNIyhAc/xoxKjtjOQwDYz/milFDxTozRn+rSFK4yS7jki66fHehqNTLSmh5lICHHUVknEg5nGUcri11N3DtYmXEIB2Gdr2HZzkPpSTb7LIaBn8KjL0d/j0mZI3ScXzw99brDH1mrkl9WMvqnfPdFFSr/z5xer+TVPtEgCyI=;GgzHoIHIMyv8EimhpT0KVA=="
+secured: "LLK18wKk5GoDMPO3/Mm6S1/krUM6p4IBMK2MGho1se0IVXDhbeQCc1zv6zXEYkEd4nsGSdf9OjXKGfPY1YSXcVOZyZM1kKLvqqnUqZzPr+TXkRF8cn8hciV7AfAoscPNJ/eF9OjJY8o/hR+FAn9WOyhjxJdAUsFzMs9glmEiwUphloNGeSH2AXSPz8tix2atzsbOd3Ra1MY1GN8S1mbjbnM3YeEnDxzREZ5GqbyaN7i/bkvhkmfGd4avU/W4saAyHbu3qmSO3dmbqlIdpL/ocJno+87CJ6lBfrBnaKMB0cfejHSepv51AiUGS1NekSHyWIjhcugNDqGzcwzeMDp4fLCII32HR2nISE7isw2f0kG6qLQdnZ/PZqglbTh4Ku7GyB4MNYZDuCEVwXYFhkZYRI2fPFt0Ez3D9EoKECs2x1db4pgG5oA69NgcwXZEWiRjvnt+tkdVJEWpzN1yXbRFm3rCRR3HHEmAez3wFESiWnpxX0xMyjHW8kAAVdvRI0lhoAMMP59m1wTPB8fFwTw6+w==;FumA71JPhqjr8fAoMimG/Q=="
 ---
 

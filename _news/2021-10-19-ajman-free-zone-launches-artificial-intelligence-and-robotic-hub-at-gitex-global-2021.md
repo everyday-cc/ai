@@ -39,22 +39,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Sheikh Hamdan opens 41st edition of GITEX GLOBAL x Ai Everything"
-    excerpt: "GITEX GLOBAL, Ai Everything, GITEX Future Stars, the Future Blockchain Summit, Fintech Surge and Marketing Mania"
-    publishedDateTime: 2021-10-18T05:01:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Sheikh_Hamdan_opens_41st_edition_of_GITEX_GLOBAL_x_Ai_Everything-WAM20211017151423006/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/211018031100FARU.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ib7I/DTcgsswrlSykZQUPG6+lnZ6i4VtDnDp/F8iSgginXNw/tLHg8SPou7It9+l6Wq/WMAz6mNaDyvYJTHYlsJr7XOh2yHcgQaoAZIX0LCP6+yXpY/hqOuZcz1ymu1xW9TdKn/DpJqOLn+6y+tH4U45ULVUegCEWA7xnbTKwcxeiSx06Kpctu+O/y1i2VKB71FTWTwa3ywwobZNrGSZiztboSysz/81X1lw3FN+u5F2M+gOg9xC+IJR57Snb13KUhIozIgAz0hNLCCBj4rPXGNKn+tg9Hkha0dqqjSz6bzpkkN7QkEPfxIVg4oixL/enJ/Ez68yma3L+Nf3X6e8OhsLp2/dl+PnKbUNy+AQxMI=;zb7YSgHi3n5/NegEzVwk8w=="
 ---

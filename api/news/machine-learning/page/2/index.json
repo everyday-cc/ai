@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
+      "title": "Attention-based deep neural network increases detection capability in sonar systems",
+      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/931330",
+      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
+      "title": "A beginners guide to Artificial Intelligence",
+      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
+          "width": 1060,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-ondas-dynamai-collaborate-over-ai-ml-capabilities.md",
       "title": "Ondas, Dynam.AI Collaborate Over AI, ML Capabilities",
       "excerpt": "We believe partnering with Dynam will allow us to integrate advanced AI/ML capabilities faster and more deeply as we scale with customers,\" Ondas Chair and CEO Eric Brock said. American Robotics has agreed to utilize Dynam.",
@@ -1324,92 +1421,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report.md",
-      "title": "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report",
-      "excerpt": "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
-      "publishedDateTime": "2021-10-05T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-coverage-of-fdas-aiml-medical-devices-workshop-part-1-the-history-of-fda-software-regulation.md",
-      "title": "Coverage of FDA’s AI/ML Medical Devices Workshop - Part 1: The History of FDA Software Regulation",
-      "excerpt": "In anticipation of FDA’s virtual public workshop on transparency of artificial intelligence/machine learning (AI/ML)-enabled medical devices scheduled for October 14, 2021, we will be",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "originalUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/coverage-fda-s-aiml-medical-devices-workshop-part-1-history-fda-software-regulation?amp",
-      "publishedDateTime": "2021-10-04T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

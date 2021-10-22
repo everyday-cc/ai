@@ -2,13 +2,15 @@
 category: news
 title: "Egypt detains artist robot Ai-Da before historic pyramid show"
 excerpt: "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot"
-publishedDateTime: 2021-10-20T14:37:00Z
-originalUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
-webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
+publishedDateTime: 2021-10-20T16:33:00Z
+originalUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show?s=09"
+webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show?s=09"
+ampWebUrl: "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
   name: The Guardian
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Robot artist Ai-Da released by Egyptian border guards"
@@ -49,6 +57,6 @@ related:
       domain: taipeitimes.com
     quality: 34
 
-secured: "lXrzWmYjdlA9zKvn1xjiEL/LS8EtpijSA4BY9iESgyQU+enojmKlCCACx6Q8/fnjukQbHEL3W0e4FYgpJDXtYli9lasM/THlWP6ocFYMCQ+L+DyHP3jHGvOq4HBGVY3f+R7kTmx4YUGRtoOt4jh/pbhg2iSC5reSf3Z6YUnE+ABej94TXpGVqvZOcczX9k6IyYnjLJ+/jAD90IHow3ozPIQd85TfSdL6S1XIoBjmebihAw9/DF+snCIMfAl4JnaIYuhoaMDvPLrMnBNq5Oaeb+7zC1ZvMbrFmnFQKA+f1Td55AG2hPlOa9M/mUNQjG76yRSo2IMInkUJr+niaBl5rwu02LNc4qTnLyXMAz0vz4cJ9Ud0TUy2h28K3xDpR6YaicbTLqINyUeIWQegRw7FZL3JzXzhiAzvhQRWvq3oEdW1dc67ztBRfWhpYyde1DHF7d5JNpvBf3Ds5vl0JFyaAFANJlLJdljsVtEQN2tNF742nbEtNOxLAkhxIi0fyCjppPwFQpPAYIgsf3yE2ZUviQ==;kZerroNZEE1C3cmRmmSSmw=="
+secured: "XfzLQdCqItTYYJ4UQp+YlVaG5vv7D+Lp7pPuU2oY3CkLdtFz1taExbkC1gmOIXcOBKVDzbIN0ET2U8+Onlu/GT8SNWRBpwMiOUFBWXsR/URbN97hOYtPMnLQgX8+jwK+gP35UMVKVZniHdlsvU4SAt0kpwDC1tg1iOyFyVtOhaXeqm+RT9bSceTghZUly4wBs9tZDyrg9S2m6c0p1tswOD8+hsLmpwq42YcuZyTJCdAJ+r1p+W+BrLDvYHiWMfVe52yxmz1/83FXg0GZxO8vlL60FZbATAAz4tv+w12Dhyl4CtSZIlszir17EtAY3eI4va1i3N7LyXRorpCVAbtHFRHgfNXt0Omf0JJHz5Au/eU=;SOXO0+LQCV5tchQUGf3uQA=="
 ---
 

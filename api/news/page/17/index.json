@@ -2,6 +2,363 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-07-ecommerce-accelerator-patterns-machine-learning-and-ai-raises-225m.md",
+      "title": "Ecommerce accelerator Pattern’s machine learning and AI raises $225M",
+      "excerpt": "Today, ecommerce accelerator Pattern announced its $225 million growth equity investment for its machine learning and AI-driven logistics ... of impressive.” VentureBeat's mission is to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Online-shopping.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/ecommerce-accelerator-patterns-machine-learning-and-ai-lifts-225m/amp/",
+      "publishedDateTime": "2021-10-06T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-robotics-pioneer-yoky-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
+      "title": "Robotics pioneer Yoky Matsuoka on the human touch in her new personal assistant venture Yohana",
+      "excerpt": "Yoky Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoky-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "publishedDateTime": "2021-10-06T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-curtiss-wright-debuts-its-highest-performance-gpu-module-for-graphics-video-processing-and-aiml-at-the-tactical-edge.md",
+      "title": "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge",
+      "excerpt": "The new PacStar 454 NVIDIA GPU Enhanced Server Module is designed for demanding graphics, video and artificial intelligence (AI) and machine learning (ML) applications at the edge of the tactical battlefield. Measuring only 5.3” x 7.1” x 5.5” and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
+      "originalUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-the-ml-glossary-five-years-of-new-language.md",
+      "title": "The ML Glossary: Five years of new language",
+      "excerpt": "Over guacamole and corn chips at a party, a friend mentions that her favorite phone game uses augmented reality. Another friend points her phone at the host and shouts, \"Watch out—a t-rex is sneaking up behind you.\" Eager to join the conversation, you blurt, \"My blender has an augmented reality setting.\"If",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
+      "originalUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
+      "publishedDateTime": "2021-10-06T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
+      "title": "Driving AI innovation in tandem with regulation",
+      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
+      "publishedDateTime": "2021-10-06T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-top-cloud-providers-alibaba-cloud-vs-aws.md",
+      "title": "Top Cloud Providers: Alibaba Cloud vs. AWS",
+      "excerpt": "When choosing a cloud provider, here are some things to consider: Founded in 2009, Alibaba Cloud is globally recognized for technological innovation in cloud computing and artificial intelligence ... guides and tutorials. AWS is a globally recognized ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/cloud/alibaba-cloud-vs-aws/",
+      "originalUrl": "https://www.itbusinessedge.com/cloud/alibaba-cloud-vs-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
+      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
+      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
+      "publishedDateTime": "2021-10-06T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
+      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
+      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real.md",
       "title": "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real",
       "excerpt": "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,",
@@ -763,375 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
-      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
-      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
-      "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
-      "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "originalUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
-      "publishedDateTime": "2021-10-06T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
-      "title": "Box taps deep learning to detect sophisticated malware",
-      "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Malware-Deep-Scan.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
-      "publishedDateTime": "2021-10-06T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-microsoft-for-startups-aniai-picked-for-global-grand-final.md",
-      "title": "Microsoft for Startups: Aniai Picked for Global Grand Final",
-      "excerpt": "Aniai was selected as one of the 10 startups in Q3 by Microsoft. \"Microsoft for Startups ... Its robots are further reinforced by its unique cognitive technology with artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "originalUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
-      "publishedDateTime": "2021-10-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-sony-unit-to-introduce-edge-ai-sensing-platform-service.md",
-      "title": "SONY Unit to Introduce Edge AI Sensing Platform Service",
-      "excerpt": "Sony Group Corp.’s SONY subsidiary, Sony Semiconductor Solutions, has announced that its AITRIOS edge artificial intelligence (AI) sensing platform will be launched in Japan, the United States, and Europe in late 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
-      "originalUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
-      "publishedDateTime": "2021-10-06T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
-      "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
-      "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_373885852.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
-      "publishedDateTime": "2021-10-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
-      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
-      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-google-sets-up-50m-fund-to-invest-in-african-startups.md",
-      "title": "Google sets up $50M fund to invest in African startups",
-      "excerpt": "Google plans to invest up to $50 million in African early- and growth-stage startups via its Africa Investment Fund, ramping up efforts ... will make its first set of investments, Gajria said ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/D53E291C-8FF2-4B82-ACAC-07B55633EF10.jpeg?w=680",
-          "width": 680,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
-      "publishedDateTime": "2021-10-06T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

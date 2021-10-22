@@ -49,6 +49,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How AI Will Affect The Future Of Work"
+    excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
+    publishedDateTime: 2021-10-18T15:42:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 41
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
+        width: 806
+        height: 500
+        isCached: true
 
 secured: "GtTrrpXJy44SqFroI/1/RRqsJJQNQKw8RvWbo5/yrb/F5BULg1O6J8RQ3XqIuRBV8rFdbI5KdV56A2f5E3LK/SmLWxLousmsCCH/ROqIwXPY5uOZkJ5vK4XsSBXeBrvJs4AxIp+jwdB9LpGkkFdPp9AdOG/hJRYA56m+1Sm2kGC4cW4I9lL+1j+x0bur7NlMwdFld7nUIXoaZw19lmnAYqQKoNKz9emKS24EC7c3/NKCR6qSPi4lY5TXkL8hEeF7+j4ftkTuorGaSVGMEyeWHczChPyIyAkycPuS0IuMwrTZrDlYLjqfQuJX1KGJZBIUqqtpq2kE6aWRvavla3UkJtQdeuKHXHaVctFs1IxqjgM=;LfcXjg5OaMfnnj3UhSlkTQ=="
 ---

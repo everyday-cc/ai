@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 270
+heat: 269
 published: true
 
 provider:

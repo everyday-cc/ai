@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Every city's drivers have quirks. Studying them could make self-driving cars work anywhere"
-    excerpt: "Yet the driverless technology company Argo AI ... and make sure its artificial intelligence systems deeply understand them — not just where the street signs, traffic lights and road markings ..."
-    publishedDateTime: 2021-10-18T04:10:00Z
-    webUrl: "https://www.theday.com/article/20211018/BIZ07/211019742"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 0
   - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
     excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
     publishedDateTime: 2021-10-20T07:30:00Z

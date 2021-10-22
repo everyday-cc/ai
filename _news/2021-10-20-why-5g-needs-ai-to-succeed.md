@@ -38,6 +38,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "How AI Will Affect The Future Of Work"
+    excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
+    publishedDateTime: 2021-10-18T15:42:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 41
+    images:
+      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
+        width: 806
+        height: 500
+        isCached: true
   - title: "Policy Guidance on AI for Children piloted in different parts of the world"
     excerpt: "Policy Guidance on AI for Children, developed by the United Nations Children’s Fund UNICEF in partnership with Finland, was piloted by companies and public sector operators around the world during 2021. The second version of the guidance will be drafted ..."
     publishedDateTime: 2021-10-19T10:41:00Z

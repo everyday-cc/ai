@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligen
 webUrl: "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sheikh Hamdan opens 41st edition of GITEX GLOBAL x Ai Everything"
-    excerpt: "GITEX GLOBAL, Ai Everything, GITEX Future Stars, the Future Blockchain Summit, Fintech Surge and Marketing Mania"
-    publishedDateTime: 2021-10-18T05:01:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/business/story/Sheikh_Hamdan_opens_41st_edition_of_GITEX_GLOBAL_x_Ai_Everything-WAM20211017151423006/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20211017151423006/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/211018031100FARU.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021"
     excerpt: "Ajman Free Zone launches Artificial Intelligence and Robotic Hub at GITEX Global 2021    Free Zone signs five separate MOUs wi"
     publishedDateTime: 2021-10-19T06:53:00Z

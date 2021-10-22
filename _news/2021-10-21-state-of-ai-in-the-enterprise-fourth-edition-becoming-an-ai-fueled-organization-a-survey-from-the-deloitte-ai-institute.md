@@ -22,24 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "DataRobot Research Finds 86% of Organizations Prioritize AI and Machine Learning"
-    excerpt: "DataRobot, the AI Cloud leader, released a new research report on the state of artificial intelligence and machine learning (AI/ML) in the enterprise. The report findings are based on a deep exploration of over 400 organizations across industries,"
-    publishedDateTime: 2021-10-21T13:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datarobot-research-finds-86-organizations-prioritize-ai-machine-/2021/10/21/9474860.htm"
+  - title: "Unlocking the Value of AI in Business Applications with ModelOps"
+    excerpt: "AI is fast becoming critical to business and IT applications and operations. Organizations have been investing in artificial intelligence capabilities for years to stay competitive, are hiring the bes"
+    publishedDateTime: 2021-10-21T16:14:00Z
+    webUrl: "https://www.linkedin.com/pulse/unlocking-value-ai-business-applications-modelops-giuliano-liguori-"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
-  - title: "Investment in Machine Learning Keeps Growing, DataRobot Finds"
-    excerpt: "After years of double-digit growth in machine learning investments, nearly 90% of companies grew their machine learning budgets again from 2020 to 2021,"
-    publishedDateTime: 2021-10-21T19:08:00Z
-    webUrl: "https://www.datanami.com/2021/10/21/investment-in-machine-learning-keeps-growing-datarobot-finds/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHgjC7OBMA2xA/article-cover_image-shrink_720_1280/0/1634832178447?e=1640217600&v=beta&t=ltoYoKu9JlSM_HVJ26nLcSIPeoEV2dnRMlkFsHpJwBw"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "QMdVP8qgxd8Qtrtwg4vuCvAScBBwg59hiu6M6k+NDCoKlFAWmzuPnaAbur2rFBX09hornFixgG2sSJ38W15QiiomnT0WGl4OkpxI8sA1XWDp5vp5LJv374WcJ0T3MPP1eWTap2LrlDSbH0LylD1nAcg9S3SkNUT6QnyALEutUkEJFU8s1Ui/1dFs1sgLy+dN34em8RWWW11ckqZU9rFwvtn8p/AnLRnpewNd6/Y3Nfyph1oBNI7b4xo7NJalM2w5Ch4ea5SZt5u/BpnxpJK1VUdC2/6nhsGqojHWAzBBS6/G/3RsHMf1fiGZkiqGyLsAcmbC+tcki36C2QVLXf0hmccHDJyALqahtJX4k7z8/4gRUMhHrp/hC65Ro6R0ohWBpUsSalJwBMB43Z9C0dV+PH6vznz7CQgrZqWElBpsuk7/Q0B91AB8m4ocKoFScaMLxpYmResOYR+ZLcgYoXHidwGzp04xYBCcP00cGQ+fcV0+Hj49fSyBegR0VboaUgw9+yLj80kieJlO+VoxHVU8Cw==;4TJ5K82NR/os8wxAWUPmTw=="
 ---

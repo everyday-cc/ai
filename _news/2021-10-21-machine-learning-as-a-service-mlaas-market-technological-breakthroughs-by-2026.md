@@ -20,6 +20,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Global Machine Learning as a Service (MLaaS) Market, Size, Share, Analysis Report & Forecast to 2026"
+    excerpt: "The global market for MLaaS is projected to have a considerable CAGR of around 40 5 during the forecast period Machine learning is a technology that provides computers with the ability to learn and modify their analytical features when exposed"
+    publishedDateTime: 2021-10-20T09:39:00Z
+    webUrl: "https://www.openpr.com/news/2434480/global-machine-learning-as-a-service-mlaas-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
+
 secured: "LaJmkwaAFOInOiWs/hj/j5AXYcMZAfGBRheCIHSNdfcDrooslj1t3rcEjjhQzMrgCwSbYhFGwSsEpBPBEY+Yi55lD8VSZX/ZN0d3zregejqYBUQ/kcQ3WkqZCaQBnMbWs1jGO1xK6RhPe/DQsW++XX9ZPVhKtfRWE0u6KwQLP4MGNGfzi21HLouc2zdEmYhpW5UlSbg5XEfLfJbcfWWhhI16FJ6uC7meOYnjmD3pJoAifQPkPjjcm9J5E2qwnNuO7dNwc+RublroxZ3mo38Hee8O5S0d8UeVJVqz9lAzT8BFXTUHNRBvQue8farb7XY1c6Moee9apIXBjbLIHookdsxiRCeyOFN7oXJGOF9AddaiXcnMO25PkwLlBCuVJyfn/v3GhBq+dUD6PL5dZNUOMdjp1w7+H9+QABQPGCWyj4oP5zMbukLGtq2oBPdRZfpEAvJ2rpIXkIEx2oc4nKCEEo2U6JwV4s9HeJ9Gph0iN+SRLWG+xYx8Xb8V1d//rYEE8hQgMyoTTBU4EogLB3772g==;F1stRa81n8lE9wnGnhhd8Q=="
 ---
 

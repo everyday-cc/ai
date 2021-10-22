@@ -2,6 +2,412 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
+      "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
+      "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
+      "originalUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1283199539-e1632945107378.jpg?fit=768%2C600&strip=all",
+          "width": 768,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
+      "publishedDateTime": "2021-09-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups.md",
+      "title": "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups",
+      "excerpt": "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
+      "originalUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024",
+          "width": 1024,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
+      "publishedDateTime": "2021-09-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-top-3-duty-of-care-board-and-c-suite-ai-literacy-accountabilities.md",
+      "title": "Top 3 Duty Of Care Board And C-Suite AI Literacy Accountabilities",
+      "excerpt": "Three Duty of Care Board and C Suite AI literacy accountabilities are discussed as a motivator for increased leadership in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155b581ccb88bc41264a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
+      "publishedDateTime": "2021-09-30T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-top-three-trends-in-robotics-the-cambrian-explosion-is-happening.md",
+      "title": "Top Three Trends In Robotics: The Cambrian Explosion Is Happening",
+      "excerpt": "As more infrastructure is being architected, different schools of thought are emerging. Proponents of a particular school have their own world view on how robots will become ubiquitous and help mankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609a9c1bf4942207102ea502%2F0x0.jpg%3FcropX1%3D628%26cropX2%3D4001%26cropY1%3D0%26cropY2%3D2250",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
+      "publishedDateTime": "2021-09-30T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-how-will-artificial-intelligence-change-our-living-spaces.md",
+      "title": "How Will Artificial Intelligence Change Our Living Spaces?",
+      "excerpt": "Even though the concept of BIM has been in development since the 1970s, it only became mainstream in the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61547e49a61e5864ee39c638%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/amp/",
+      "publishedDateTime": "2021-09-30T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets.md",
+      "title": "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets",
+      "excerpt": "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "publishedDateTime": "2021-09-30T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-google-develops-ai-that-can-accurately-predict-if-it-will-rain-in-the-next-90.md",
+      "title": "Google develops AI that can accurately predict if it will rain in the next 90 ...",
+      "excerpt": "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the",
+      "sourceUrl": null,
+      "webUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "originalUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en.mogaznews.com/temp/resized/medium_2021-09-30-5807097d22.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.mogaznews.com/Technology/amp/1838298",
+      "cdnAmpWebUrl": "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1838298",
+      "publishedDateTime": "2021-09-30T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "en.mogaznews.com",
+        "domain": "mogaznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-decided-to-adopt-ai-four-questions-to-consider-before-you-start.md",
+      "title": "Decided To Adopt AI? Four Questions To Consider Before You Start",
+      "excerpt": "In order to better understand what pitfalls to expect when adopting AI for business processes and how to avoid them, here are a few key questions whose answers should help you successfully start your AI project: 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd90debd34413a75364fdda%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
+      "publishedDateTime": "2021-09-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-ai-can-predict-if-it-will-rain-in-two-hours-time.md",
       "title": "AI can predict if it will rain in two hours' time",
       "excerpt": "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system.",
@@ -766,413 +1172,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao.md",
-      "title": "The AI-Bias Problem And How Fintechs Should Be Fighting It: A Deep-Dive With Sam Farao",
-      "excerpt": "As is normal with every developing technology the infiltration of AI into the Financial space hasn’t come without its own problems. The major complaint has always been the surprising level of bias that has often been expressed by these algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615507969287e588ac235414%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2817%26cropY1%3D898%26cropY2%3D2484",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/29/the-ai-bias-problem-and-how-fintechs-should-be-fighting-it-a-deep-dive-with-sam-farao/amp/",
-      "publishedDateTime": "2021-09-29T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-music-scholars-and-computer-scientists-completed-beethovens-tenth-symphony-aided-by-machine-learning.md",
-      "title": "Music scholars and computer scientists completed Beethoven's Tenth Symphony aided by machine learning",
-      "excerpt": "In 1817, the Royal Philharmonic Society in London commissioned Ludwig Von Beethoven to compose his Ninth and Tenth symphonies. He completed the Ninth Symphony, which concludes",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "originalUrl": "https://www.techspot.com/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-48.jpg",
-          "width": 2560,
-          "height": 1864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91493-music-scholars-computer-scientists-completed-beethoven-tenth-symphony.html",
-      "publishedDateTime": "2021-09-29T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-stock-news-analysis.md",
-      "title": "Stock News & Analysis",
-      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
-      "originalUrl": "https://www.fool.com/investing-news/come-and-play-sensory-integration-strategies-for-children-with-play-challenges-p360.aspx?page=7240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
-          "width": 400,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-assessing-the-intersection-of-open-source-and-ai.md",
-      "title": "Assessing the intersection of open source and AI",
-      "excerpt": "The idea that open source tools, libraries, and communities are creating AI projects in the usual fast-and-loose fashion sparks unease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/artificial-intelligence-3706562-e1632761155672.jpg?fit=800%2C267&strip=all",
-          "width": 536,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/29/assessing-the-intersection-of-open-source-and-ai/amp/",
-      "publishedDateTime": "2021-09-29T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-us-eu-agree-to-work-on-chip-supplies-tech-rules-china-trade.md",
-      "title": "U.S., EU agree to work on chip supplies, tech rules, China trade",
-      "excerpt": "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
-      "originalUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker.md",
-      "title": "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker",
-      "excerpt": "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T14:54:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amd-wants-to-make-its-chips-30-times-more-energy-efficient-by-2025.md",
-      "title": "AMD wants to make its chips 30 times more energy-efficient by 2025",
-      "excerpt": "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "publishedDateTime": "2021-09-29T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

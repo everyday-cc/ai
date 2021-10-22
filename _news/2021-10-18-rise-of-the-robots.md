@@ -46,7 +46,7 @@ related:
   - title: "God and robots: Will AI transform religion?"
     excerpt: "BBC Global Religion reporter Sofia Bettiza has taken a look at whether AI’s relationship with religion is just a gimmick, or whether it can truly transform how people experience faith."
     publishedDateTime: 2021-10-20T23:54:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-58983047?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
     type: article
     provider:
       name: BBC

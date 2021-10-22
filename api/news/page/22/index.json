@@ -2,6 +2,390 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-04-cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities.md",
+      "title": "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities",
+      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. Is there a problem with this press release?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites.md",
+      "title": "Gilbane and NeXtera Robotics Form JV to Supply More Robots to Jobsites",
+      "excerpt": "Gilbane Building Co. will jump from pilots to full deployment of a jobsite robotics platform developed in joint venture with robotics startup NeXtera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites",
+      "originalUrl": "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enr.com/ext/resources/News/2021/10-Oct/GilbaneNexteragravel.jpg?height=635&t=1633133521&width=1200",
+          "width": 900,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News-Record",
+        "domain": "enr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
+      "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
+      "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro.md",
+      "title": "Artificial Intelligence In Platform As A Service (Paas) Market Next Big Thing | Major Giants TensorFlow, Mircrosoft, AWS, Wipro",
+      "excerpt": "The Worldwide Artificial Intelligence In Platform As A Service (Paas) Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Wedding-Jewelry-Market-390x220.jpeg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro/?amp=1",
+      "publishedDateTime": "2021-10-03T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-self-driving-citroen-skate-carries-swappable-pods-for-inner-city-travel.md",
+      "title": "Self-driving Citroën Skate carries swappable pods for inner-city travel",
+      "excerpt": "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
+      "originalUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
+      "publishedDateTime": "2021-10-03T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
+      "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
+      "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "originalUrl": "https://seekingalpha.com/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319657811/medium_image_1319657811.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4458267-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap",
+      "publishedDateTime": "2021-10-03T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-the-economy-of-the-future.md",
+      "title": "The economy of the future",
+      "excerpt": "It adds that innovations in cloud computing, quantum computing, digital manufacturing, and driverless vehicles stand to dramatically ... Advances in big data, smart products, 3D printing, artificial intelligence, robotics, medical technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "originalUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/10/dig-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/blog/the-economy-of-the-future/80347?amp=1",
+      "publishedDateTime": "2021-10-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-alphafold-is-the-most-important-achievement-in-aiever.md",
+      "title": "AlphaFold Is The Most Important Achievement In AI—Ever",
+      "excerpt": "DeepMind's AlphaFold represents the first time a significant scientific problem has been solved by ... [+] AI. It can be difficult to distinguish between substance and hype in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615740b33540fa024d235c55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1399%26cropY1%3D42%26cropY2%3D829",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/amp/",
+      "publishedDateTime": "2021-10-03T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-hangeul-in-the-age-of-ai-survival-of-the-fittest.md",
       "title": "Hangeul in the age of AI: survival of the fittest?",
       "excerpt": "Marion Eggert, a professor at the Korean Studies Department of Ruhr University in Bochum, Germany, said some of the strengths of Hangeul are its efficiency and that it can be computerized. In the age of AI,",
@@ -766,341 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-portrait-of-an-ai-leader-piyush-gupta-of-dbs-bank.md",
-      "title": "Portrait of an AI Leader: Piyush Gupta of DBS Bank",
-      "excerpt": "Thomas H. Davenport and Randy Bean It is widely agreed that support from senior leadership is necessary for the successful adoption of artificial intelligence within large organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "originalUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFbJ5Qb8lZkIw/article-cover_image-shrink_720_1280/0/1633186737649?e=1639612800&v=beta&t=td8ODBukagJTby89xG7Qy5BDURAwyKz0WyrMsrtLQxU",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-autonomous-vehicles-market-witness-stunning-growth-by-2028-renault-toyota-bmw.md",
-      "title": "Autonomous Vehicles Market Witness Stunning Growth By 2028 | Renault, Toyota, BMW",
-      "excerpt": "Autonomous vehicle also known as self-driving vehicles uses artificial intelligence AI software light detection ranging LiDAR and Radar sensing technology which is further used to monitor the car and",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271378513/autonomous-vehicles-market-witness-stunning-growth-by-2028--renault-toyota-bmw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1633869282912.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-adult-neurogenesis-and-cellular-brain-repair-with-neural-progenitors-precursors-and-stem-cells.md",
-      "title": "Adult neurogenesis and cellular brain repair with neural progenitors, precursors and stem cells",
-      "excerpt": "Recent work in neuroscience has shown that the adult central nervous system (CNS) contains neural progenitors, precursors and stem cells that are capable of generating new neurons, astrocytes and oligodendrocytes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ncbi.nlm.nih.gov/sites/ppmc/articles/PMC1664671/",
-      "originalUrl": "https://www.ncbi.nlm.nih.gov/sites/ppmc/articles/PMC1664671/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Institutes of Health",
-        "domain": "nih.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-amazon-home-security-robots-inside-drones-outside-cameras-all-around.md",
-      "title": "Amazon & home security: Robots inside, drones outside, cameras all around",
-      "excerpt": "Amazon's vision for the future of home security includes drones flying over your roof, outdoor cameras that monitor for possible trespassers and cute robots patrolling indoors. Here's a look",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
-      "originalUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/10/amazon-astro-bot-e1633113427996-1024x575.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/10/02/amazon-home-security-robots-inside-drones-outside-cameras-all-around/?amp=1",
-      "publishedDateTime": "2021-10-02T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "publishedDateTime": "2021-10-02T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans.md",
-      "title": "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans",
-      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "originalUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
-      "publishedDateTime": "2021-10-02T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-robots-artificial-intelligence-ai.md",
-      "title": "Robots + Artificial intelligence (AI)",
-      "excerpt": "And what should they actually look like anyway? About 332 results for Robots + Artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "originalUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-amd-aims-to-increase-efficiency-of-server-chips-30x-by-2025.md",
-      "title": "AMD aims to increase efficiency of server chips 30x by 2025",
-      "excerpt": "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
-      "originalUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcinvasion.com/wp-content/uploads/2021/10/AMD_EPYC_1480x882.jpg",
-          "width": 787,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
-      "publishedDateTime": "2021-10-01T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

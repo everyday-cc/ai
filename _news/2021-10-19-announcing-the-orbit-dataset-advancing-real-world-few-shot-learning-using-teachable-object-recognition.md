@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit
 webUrl: "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 2500
     height: 1307
     isCached: true
+
+related:
+  - title: "Innovations in training using artificial intelligence and machine learning"
+    excerpt: "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES"
+    publishedDateTime: 2021-10-19T17:53:00Z
+    webUrl: "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 69
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "JaKpiTdYg1I2dF0FCkh6f3z9C4kZ5UNSmJAnlrybIMbJPLK/xp26+WiqNS907wKa9Gtknldu6eFhveFZSO681M3Stlbiy4kSFSspGNy00iTnj1oAur5YnU8Pc+iaejdH1IMB2n4xBDcnYgithwMGhutX5UTH4wsUVjKQ27RvQovn9YZ9xdXWxoNOGPOg8BPrArrewKuDn0J0GGI2AlEJXLrc1u/PG6K776EI2SEVMSkBasMv9vv3AbTxfrxkLa613SbU4/+8DJ+Ov1OyQCK/PnmSZ1ep5+HvRoBLceLB2NJE0UxJ3jozwCqH95GOn1N5gaI5wZlTQV8cpuU/ivhqJQbQrP+VyqB5eTa/LGbjNlU=;WdLyrFJ36X2j+M4WiQxfRg=="
 ---

@@ -2,6 +2,385 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
+      "title": "The Ethics of Artificial Intelligence (AI)",
+      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
+      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
+      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "publishedDateTime": "2021-10-11T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong.md",
+      "title": "How AI And A Strong Need For Sustainability Is Affecting The Travel Industry’s Evolution By Jason Fong",
+      "excerpt": "We can’t just bounce back after this great stall in the industry, we need to make sure that we bounce back better. This means, ensuring that travel and tourism are more sustainable, more thoughtful, more meaningful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6163cb0882f26511222194f1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D848%26cropY1%3D0%26cropY2%3D963",
+          "width": 848,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/11/how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong/amp/",
+      "publishedDateTime": "2021-10-10T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-exploring-the-role-of-dignity-in-government-ai-ethics-instruments.md",
+      "title": "Exploring the role of dignity in government AI Ethics instruments",
+      "excerpt": "Originally published with Centre for Public Impact. There is so much focus on the harms that technologies of the future can and do bring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
+      "originalUrl": "https://www.linkedin.com/pulse/exploring-role-dignity-government-ai-ethics-lorenn-ruster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGPZnuaDU7SnQ/article-cover_image-shrink_600_2000/0/1520130833100?e=1639612800&v=beta&t=n1kkk6k8x5EVfIP7q0dQB6O4XMMTh1aXsX7qK6Xubyo",
+          "width": 453,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-microsoft-azure-artificial-intelligence-ai-portfolio-review.md",
+      "title": "Microsoft Azure Artificial Intelligence (AI) Portfolio Review",
+      "excerpt": "One of the largest players in the artificial intelligence (AI) market is Microsoft Azure. Microsoft Azure’s AI ... and deploy machine learning models and foster team collaboration Azure Cognitive Search: Helps users identify the most relevant content ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-azure-artificial-ai-portfolio/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/microsoft-azure-artificial-ai-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2020/10/Azure.png",
+          "width": 519,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-researchers-develop-ai-system-to-improve-eye-disease-detection.md",
+      "title": "Researchers develop AI system to improve eye disease detection",
+      "excerpt": "The CARE system uses fundus photography in combination with a deep-learning system trained to detect retinal disease on a larger scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "originalUrl": "https://www.zdnet.com/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51dc94d70802607d5e37c8464ce63d6e4c3d11b8/2019/10/11/1af07625-5c6c-466c-8209-1ba664e730f9/eye.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/researchers-develop-ai-system-to-improve-eye-disease-detection/",
+      "publishedDateTime": "2021-10-10T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ais-role-in-the-future-of-asset-management-and-field-work-ibms-joe-berti.md",
+      "title": "AI’s Role in the Future of Asset Management and Field Work | IBM's Joe Berti",
+      "excerpt": "Check out this great listen on Audible.com. In this episode of the IoT For All Podcast, Joe Berti, Vice President of AI Applications at IBM, joins us to discuss the role of artificial intelligence in fieldwork and equipment management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/AIs-Role-in-the-Future-of-Asset-Management-and-Field-Work-IBMs-Joe-Berti-Podcast/B09J6CQ1X9",
+      "originalUrl": "https://www.audible.com/pd/AIs-Role-in-the-Future-of-Asset-Management-and-Field-Work-IBMs-Joe-Berti-Podcast/B09J6CQ1X9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/318ykwkMGCS._SL500_.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-stacking-our-way-to-more-general-robots.md",
+      "title": "Stacking our way to more general robots",
+      "excerpt": "Introducing RGB-Stacking as a new benchmark for vision-based robotic manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "originalUrl": "https://deepmind.com/blog/article/stacking-our-way-to-more-general-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/AmFPJnwo5d3vAXo369YTs-co0fKRBpt8MNLW75imLf5VO2KfQxcdbqgi7RuUzAQj_CUT0o_kw9LxHFiuRcDxqLOxJj_LkEr3EMJg-1-LDAnHyDYzw6k",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword.md",
       "title": "Artificial intelligence is now part of our everyday lives – and its growing power is a double-edged sword",
       "excerpt": "As the perils and wonders of artificial intelligence begin to permeate our lives, the ‘IPCC report for AI’ calls for action from researchers and government to ensure a safe future.",
@@ -781,387 +1160,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
-      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
-      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "publishedDateTime": "2021-10-08T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-cloud-optimization-startup-cast-ai-raises-10m.md",
-      "title": "Cloud optimization startup Cast AI raises $10M",
-      "excerpt": "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "publishedDateTime": "2021-10-08T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-irobot-roomba-j7-vs-samsung-jet-bot-ai-robot-vacuums-offer-distinct-features.md",
-      "title": "iRobot Roomba j7+ vs. Samsung Jet Bot AI+: Robot vacuums offer distinct features",
-      "excerpt": "Both the iRobot Roomba j7+ and the Samsung Jet Bot A.I.+ are powerful robot vacuums. Which one is the right pick for your home?",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/",
-      "originalUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-review-7-of-12.jpg",
-          "width": 1500,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?amp",
-      "publishedDateTime": "2021-10-08T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you.md",
-      "title": "Thinking About AI To Grow Your Fashion Or Design Brand? Let These Companies Inspire You",
-      "excerpt": "Businesses are using advanced AI technologies to drive customer growth, production management, user analytics and more. This is a list of ten companies that are taking AI to the next level so businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61608f297f417592678425ab%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
-      "publishedDateTime": "2021-10-08T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-ai-weekly-eu-facial-recognition-ban-highlights-need-for-us-legislation.md",
-      "title": "AI Weekly: EU facial recognition ban highlights need for U.S. legislation",
-      "excerpt": "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
-      "publishedDateTime": "2021-10-08T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare.md",
-      "title": "Researchers, UW educators see a bright future for AI in healthcare",
-      "excerpt": "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
-      "originalUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/34/434fa0a6-a033-58ed-b6ed-576a955cf1b5/61536cc229786.image.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
-      "publishedDateTime": "2021-10-08T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip.md",
-      "title": "Realme GT Neo 2T is coming with Dimensity 1200 AI customized chip",
-      "excerpt": "The Realme GT Neo 2 premiered last month and is set to hit the global market next week. It is predicted that outside of China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/realme-neo-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "publishedDateTime": "2021-10-08T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
-      "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
-      "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
-      "originalUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg",
-          "width": 2880,
-          "height": 2872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "publishedDateTime": "2021-10-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
