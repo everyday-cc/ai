@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T00:00:00Z
 originalUrl: "https://www.pressreleasepoint.com/cyberlink-partners-facescan-implement-faceme-facial-recognition-temperature-screening-kiosks"
 webUrl: "https://www.pressreleasepoint.com/cyberlink-partners-facescan-implement-faceme-facial-recognition-temperature-screening-kiosks"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: KLAS Press Release

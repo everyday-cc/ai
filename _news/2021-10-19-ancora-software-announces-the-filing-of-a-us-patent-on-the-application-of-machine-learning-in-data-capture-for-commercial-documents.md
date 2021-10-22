@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Babylon announces new collaboration with Microsoft to drive healthcare innovation and improve health access and affordability around the world"
-    excerpt: "The organizations will collaborate to explore opportunities to use their respective Artificial Intelligence, Machine Learning and Cloud Technologies in combination to accelerate the delivery of improved personalized care,"
-    publishedDateTime: 2021-10-18T13:42:00Z
-    webUrl: "https://www.13abc.com/prnewswire/2021/10/18/babylon-announces-new-collaboration-with-microsoft-drive-healthcare-innovation-improve-health-access-affordability-around-world/"
-    type: article
-    provider:
-      name: 13abc.com
-      domain: 13abc.com
-    quality: 0
   - title: "Medtronic announces first-of-its-kind Regional Open Innovation Platform in APAC to advance the future of healthcare technologies"
     excerpt: "Focusing on the unique healthcare needs of the APAC ... advance partnership opportunities that can help it leverage artificial intelligence (AI) and automation to address patient needs."
     publishedDateTime: 2021-10-19T09:55:00Z

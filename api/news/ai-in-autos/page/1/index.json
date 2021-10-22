@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-22-tesla-autopilot-20-owners-need-a-camera-upgrade-before-getting-full-self-driving-beta.md",
+      "title": "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’",
+      "excerpt": "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-10-22T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
+      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
+      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "publishedDateTime": "2021-10-19T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
       "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
       "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -190,6 +294,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-stock-news-analysis.md",
+      "title": "Stock News & Analysis",
+      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
+      "originalUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -909,59 +1065,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "Register now! DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence, has finally become profitable, according to the company’s latest financial report.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-10-11-emergence-of-artificial-intelligence.md",
       "title": "Emergence Of Artificial Intelligence",
       "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
@@ -1331,111 +1434,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gm-ultra-cruise-pushes-closer-to-door-to-door-self-driving-cars.md",
-      "title": "GM Ultra Cruise pushes closer to door-to-door self-driving cars",
-      "excerpt": "General Motors is officially dialing its self-driving program up from \"Super\" to \"Ultra.\" Set to launch in model year 2023, the all-new Ultra Cruise system promises a full hands-free driving experience in 95 percent of driving scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "originalUrl": "https://newatlas.com/automotive/gm-ultra-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/156c86d/2147483647/strip/true/crop/1280x853+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F79%2Fc2%2F7037f0204f8b953292f2f8158a36%2F2021-cadillac-escalade-004.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/gm-ultra-cruise/?amp=true",
-      "publishedDateTime": "2021-10-06T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
-      "title": "Driving AI innovation in tandem with regulation",
-      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "publishedDateTime": "2021-10-06T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

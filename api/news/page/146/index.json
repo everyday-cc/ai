@@ -2,259 +2,21 @@
   "page": 146,
   "value": [
     {
-      "path": "_news/2021-07-03-ford-not-worth-the-risk.md",
-      "title": "Ford: Not Worth The Risk",
-      "excerpt": "Ford could be a great turnaround play ... The effect ends up being that the company wasn't able to retain its advantage - and everyone else in the industry was forced to pay money to keep up.",
+      "path": "_news/2021-07-06-deepminds-scientist-sparks-fresh-debate-over-ai-ethics.md",
+      "title": "DeepMind’s Scientist Sparks Fresh Debate Over AI Ethics",
+      "excerpt": "Raia Hadsell, a researcher at DeepMind, appeared in a virtual tech summit to shed light on the ethics in the field of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/?sh=55bcc5223606",
-      "originalUrl": "https://seekingalpha.com/article/4437700-ford-not-worth-the-risk",
+      "webUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/deepminds-scientist-sparks-fresh-debate-over-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
-      "publishedDateTime": "2021-07-02T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect.md",
-      "title": "Madden 22’s Next-Gen Stats And Star-Driven AI May Have An Important Disconnect",
-      "excerpt": "The concept of Next-Gen Stats and star-driven AI are great, but both enhancements might still miss the mark in fixing a legacy issue in the Madden series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
-      "originalUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dfd5ed5cd0db2f2c9735e7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1456%26cropY1%3D0%26cropY2%3D819",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianmazique/2021/07/02/madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect/amp/",
-      "publishedDateTime": "2021-07-02T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems.md",
-      "title": "AI Weekly: WHO outlines steps for creating inclusive AI health care systems",
-      "excerpt": "The World Health Organization (WHO) outlined steps that must be taken for the development of trustworthy AI in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
-      "originalUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/How-healthcare-will-become-a-democratized-on-demand-service-01-e1618816638837.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/ai-weekly-who-outlines-steps-for-creating-inclusive-ai-health-care-systems/amp/",
-      "publishedDateTime": "2021-07-02T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-oak-brook-teen-receives-diana-award-for-nonprofit-focusing-on-ai-education.md",
-      "title": "Oak Brook teen receives Diana Award for nonprofit focusing on AI education",
-      "excerpt": "Jui Khankari’s nonprofit, AInspire, runs entirely on donations and services over 7,500 students in 58 countries with virtual workshops, videos and educational curriculum the 17-year-old girl created.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/metro-state/2021/7/2/22559847/oak-brook-teenager-youngest-illinois-receive-prestigious-princess-princess-diana-award",
-      "originalUrl": "https://chicago.suntimes.com/metro-state/2021/7/2/22559847/oak-brook-teenager-youngest-illinois-receive-prestigious-princess-princess-diana-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/metro-state/2021/7/2/22559847/oak-brook-teenager-youngest-illinois-receive-prestigious-princess-princess-diana-award",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/metro-state/2021/7/2/22559847/oak-brook-teenager-youngest-illinois-receive-prestigious-princess-princess-diana-award",
-      "publishedDateTime": "2021-07-02T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too.md",
-      "title": "Biased AI is not just bad for people, it’s harmful for businesses, too",
-      "excerpt": "Bias in AI is detrimental to society and can also lead to poor decision-making with harmful impact on business processes and profitability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/",
-      "originalUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1158763612-e1625248168247.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/biased-ai-is-not-just-bad-for-people-its-harmful-for-businesses-too/amp/",
-      "publishedDateTime": "2021-07-02T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
-      "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
-      "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/29/1-2693-Architecture.jpg",
-          "width": 800,
-          "height": 556,
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/deepmind.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -264,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T10:28:26-07:00",
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -288,25 +41,26 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AI Ethics",
+        "Google AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
-      "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
-      "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
+      "path": "_news/2021-07-06-ibm-watsons-new-cognitive-services-windows-10-rollout-and-the.md",
+      "title": "IBM Watson’s new cognitive services, Windows 10 rollout, and the…",
+      "excerpt": "IBM is introducing new cognitive services for IBM Watson ... patents and documents across a variety of languages. How Microsoft will rollout Windows 10 With Windows 10 coming at the end of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
+      "webUrl": "https://sdtimes.com/ai/ibm-watsons-new-cognitive-services-windows-10-rollout-and-the-hacking-teams-hack-attack-sd-times-news-digest-july-6-2015/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-watsons-new-cognitive-services-windows-10-rollout-and-the-hacking-teams-hack-attack-sd-times-news-digest-july-6-2015/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 801,
+          "url": "https://sdtimes.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-06-at-12.56.13-PM.png",
+          "width": 888,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -314,16 +68,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "publishedDateTime": "2021-07-02T09:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -339,26 +93,27 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech-recognition.md",
-      "title": "It's Good to Talk: How to Donate Your Voice to Help the Future of Speech Recognition",
-      "excerpt": "Voice-based technology is everywhere, but what if your digital assistant doesn't speak your language? The Mozilla Common Voice project wants to change that with a publicly available database of voices from around the globe.",
+      "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
+      "title": "Scientists take mind-controlled robot for a stroll (video)",
+      "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
-      "originalUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech",
+      "webUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
+      "originalUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/02QbiN18Qb5zDpb7IKveG8Q-1.1625231871.fit_lim.size_1200x630.jpg",
-          "width": 978,
-          "height": 550,
+          "url": "https://s.yimg.com/uu/api/res/1.2/.3bO_b82yaQWyeezytpmKQ--~B/aD0zMzc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/07/mind-robot-israel-overlays.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -366,68 +121,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/its-good-to-talk-how-to-donate-your-voice-to-help-the-future-of-speech?amp=true",
-      "publishedDateTime": "2021-07-02T08:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-a-robot-that-finds-your-lost-stuff-and-more-ai-enabled-gadgets-to-come.md",
-      "title": "A Robot That Finds Your Lost Stuff and More AI-Enabled Gadgets to Come",
-      "excerpt": "Researchers are working on a wave of sophisticated devices for the home, from toilets that screen for viruses to a ‘Roomba on steroids’ that might detect your TV remote in the couch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=tech_featst_pos2",
-      "originalUrl": "https://www.wsj.com/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706?mod=tech_featst_pos2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-363264/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-new-frontier-of-ai-enabled-gadgets-11625241706",
-      "publishedDateTime": "2021-07-02T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -448,66 +151,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
-      "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
-      "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
+      "path": "_news/2021-07-06-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
       "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
-      "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202107/nlp%20perfcon%20hero.jpg?itok=RszSk-uo",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
-      "publishedDateTime": "2021-07-02T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
-      "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
-      "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "originalUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg",
-          "width": 450,
-          "height": 308,
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -517,11 +175,614 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T06:57:00-07:00",
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-ai-bot-trolls-politicians-with-how-much-time-theyre-looking-at-phones.md",
+      "title": "AI bot trolls politicians with how much time they're looking at phones",
+      "excerpt": "Sure, we've all snuck a look at our phones in dull meetings. But if you're working on the taxpayer's dime, you'd better be ready for artificial intelligence to call you out for gawping at the black mirror in the legislature when you should be,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
+      "originalUrl": "https://mashable.com/article/flemish-politicians-ai-phone-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06Nv8svnO4f4pd21gJgLeAE/hero-image.fill.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs.md",
+      "title": "Finance Starts Having a Heart: How Fintech Fosters Financial Inclusion and the SDGs",
+      "excerpt": "Finance acquires a heart. Fintech companies innovate financial services with empathy and sustainability in mind. Financial inclusion can become",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
+      "originalUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/06/heart-900x607.png",
+          "width": 900,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/finance-starts-having-a-heart-how-fintech-fosters-financial-inclusion-and-the-sdgs-02416807/amp",
+      "publishedDateTime": "2021-07-05T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
+      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / July 5, 2021 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF) (“AIML” or the “Company”), a company committed to acquiring and advancing Artificial Intelligence/Machine ... for the services provided by TDM Financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
+      "originalUrl": "https://apnews.com/press-release/Accesswire/health-business-technology-4b85b30835729a11635b81f253168e71",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
+      "title": "The new world of work: You plus AI",
+      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "publishedDateTime": "2021-07-05T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
+      "title": "Pioneers of deep learning AI think its future is gonna be lit",
+      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
+      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
+      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-07-05T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
+      "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
+      "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
+      "originalUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/4.-Model-Report.png?w=680",
+          "width": 680,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "publishedDateTime": "2021-07-05T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem.md",
+      "title": "Elon Musk just now realizing that self-driving cars are a ‘hard problem’",
+      "excerpt": "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "originalUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/4C055ZgWGIB5m8h8BXwn3LYWgSs=/0x0:4000x2840/1400x933/filters:focal(1680x1100:2320x1740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69542575/1229901940.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "publishedDateTime": "2021-07-05T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services.md",
+      "title": "AI/ML Innovations Inc. Engages Volt Strategic Partners and TDM Financial for Capital Market Communications and Market-Making Services",
+      "excerpt": "Volt Strategic is a market communications and business optimization firm working with senior business leaders and innovators to help grow organizational value, build business and accelerate market appreciation for emerging technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/654239msn/aiml-innovations-inc-engages-volt-strategic-partners-and-tdm-financial-for-capital-market-communications-and-market-making-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-bytedance-is-selling-tiktoks-ai-platform-to-other-companies.md",
+      "title": "ByteDance is selling TikTok's AI platform to other companies",
+      "excerpt": "The artificial intelligence (AI) technology that powers the popular social media platform TikTok has been put on sale by parent company ByteDance. The Beijing-based company has spun off a new division called BytePlus with the aim of reportedly selling TikTok’s AI-powered tech to customers looking to replicate the video sharing platform's success in their ecommerce apps and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "originalUrl": "https://www.techradar.com/in/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/MWdebHvxdtGGoWY2BeBH5B-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/bytedance-is-selling-tiktoks-ai-platform-to-other-companies",
+      "publishedDateTime": "2021-07-05T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-bytedance-is-now-selling-tiktoks-ai-to-other-companies.md",
+      "title": "ByteDance Is Now Selling TikTok's AI To Other Companies",
+      "excerpt": "Through this division, the company is offering some of the Artificial Intelligence (AI) tech that powers TikTok ... device and account settings like your language preference, country setting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/08/TikTok-App-Logo-AM-AH-4.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
+      "publishedDateTime": "2021-07-05T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-the-role-of-enterprises-is-artificial-intelligence-ai-taking-away-jobs.md",
+      "title": "The Role of Enterprises: Is Artificial Intelligence (AI) Taking Away Jobs?",
+      "excerpt": "It has been the rule of nature and society that when the application of technologies like Artificial Intelligence in the workforce or daily lifestyle",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "originalUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/07/ai-taking-over-more-jobs-in-us-2019.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-ai-taking-away-jobs-enterprise/amp/",
+      "publishedDateTime": "2021-07-05T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-facial-recognition-used-to-verify-vaccine-beneficiaries-govt.md",
+      "title": "Facial recognition used to verify vaccine beneficiaries: govt.",
+      "excerpt": "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
+      "publishedDateTime": "2021-07-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -532,26 +793,25 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence.md",
-      "title": "Soon, it is going to be AI Vs AI battle in cybersecurity, fake news and defence",
-      "excerpt": "Applications of Artificial Intelligence technologies are showing their impact on society and are growing very fast. It is revolutionizing all industry verticals and social dimensions. With most AI tools available as open sources and",
+      "path": "_news/2021-07-05-ai-legislation-must-address-bias-in-algorithmic-decision-making-systems.md",
+      "title": "AI legislation must address bias in algorithmic decision-making systems",
+      "excerpt": "One promising bill proposes a cross-government investigation into discriminatory algorithmic processes throughout the economy.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
+      "webUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/07/MEA-1.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/venturebeat_1200px_law_feature-e1625102436458.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -559,14 +819,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "publishedDateTime": "2021-07-02T06:48:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/ai-legislation-needs-to-broaden-its-focus-from-rd-to-address-bias-in-algorithmic-decision-making-systems/amp/",
+      "publishedDateTime": "2021-07-05T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -580,21 +849,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns.md",
-      "title": "Attackers use ‘offensive AI’ to create deepfakes for phishing campaigns",
-      "excerpt": "In a survey of organizations including Airbus and Huawei, respondents identify the top threats in AI-powered cyberattacks.",
+      "path": "_news/2021-07-05-sometimes-interacting-with-robots-is-easier-than-with-humans.md",
+      "title": "Sometimes interacting with robots is easier than with humans",
+      "excerpt": "A new study shows higher performance in idea generation when humans believe they're interacting with a bot. Is working with robots in our future?",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
-      "originalUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
+      "webUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "originalUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/5c83880b-a529-40f7-b697-c166577487ee/crop/1067x803+137+0/resize/1200x/53bae80334ece08cf475784ba6c39ebc/istock-849376288.jpg",
           "width": 1200,
-          "height": 600,
+          "height": 903,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -602,16 +871,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
-      "publishedDateTime": "2021-07-02T06:30:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "publishedDateTime": "2021-07-05T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -627,30 +896,93 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings.md",
-      "title": "Zebra (ZBRA) to Buy Fetch Robotics, Enhance Product Offerings",
-      "excerpt": "Zebra Technologies Corporation ZBRA recently announced its intention to buy Fetch Robotics, Inc., a leading developer of autonomous mobile robots (AMRs) for $290 million. It’s worth noting that Zebra already owns 5% of Fetch Robotics and the latest announcement is related to the acquisition of the remaining 95% of the company.",
+      "path": "_news/2021-07-05-teslas-ai-chief-self-driving-cars-dont-need-lidar.md",
+      "title": "Tesla’s AI chief: Self-driving cars don’t need LiDAR",
+      "excerpt": "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
-      "originalUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
+      "webUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
+      "originalUrl": "https://thenextweb.com/news/tesla-ai-chief-explains-self-driving-cars-dont-need-lidar-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTeslahed.jpg&signature=b7f31a3678104e26e5bfdcca0a02aee5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "publishedDateTime": "2021-07-02T05:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing.md",
+      "title": "What's a robot manicure really like? Quick, cheap, and guilt-inducing.",
+      "excerpt": "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
+      "originalUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg",
+          "width": 620,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "publishedDateTime": "2021-07-05T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -665,21 +997,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026.md",
-      "title": "AI Image Recognition Market New Innovations, Technology Growth and Research 2021-2026",
-      "excerpt": "The Global AI Image Recognition Market Report Provides Business Overview, Market Trends, Industry Challenges, And Forecast 2021-2026 Jul 02, 2021",
+      "path": "_news/2021-07-05-ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond.md",
+      "title": "AI In Motion: Three Guardrails For Effective Implementation In Transportation (And Beyond)",
+      "excerpt": "Transportation has seen massive transformation in recent years — from shifts in how we get from point A to B, to how we receive our groceries — with AI at the center of it all. The pandemic only accelerated demand for AI applications in transportation amidst widespread social distancing and shelter-in-place orders.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-new-innovations-technology-growth-and-research-2021-2026-2021-07-02",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60df26da339f52ef6e9735e5%2F0x0.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 774,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -687,61 +1019,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-how-cfos-can-think-differently-about-ai-software-acquisition.md",
-      "title": "How CFOs Can Think Differently About AI Software Acquisition",
-      "excerpt": "Next, we’ll explore some unique perspectives to consider when investing in AI technology and why these should be an integral part of a CFO’s AI-decision framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dde2bb00a9a822d74f753b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/02/how-cfos-can-think-differently-about-ai-software-acquisition/amp/",
-      "publishedDateTime": "2021-07-02T05:10:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/05/ai-in-motion-three-guardrails-for-effective-implementation-in-transportation-and-beyond/amp/",
+      "publishedDateTime": "2021-07-05T04:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -768,98 +1048,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-02-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
-      "title": "VinBrain wins ACM SIGAI industry award 2021 for excellence in artificial intelligence",
-      "excerpt": "DrAid for Radiology” by VinBrain -a subsidiary of Vingroup in Vietnam- has just been granted the ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence.",
+      "path": "_news/2021-07-05-tiktok-is-now-selling-its-ai-to-other-companies-including-in-india.md",
+      "title": "TikTok is now selling its AI to other companies including in India",
+      "excerpt": "China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ... offers automated speech and text translation and real-time video effects ...",
       "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_07_02/ai.jpg",
-          "width": 480,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.amp",
-      "publishedDateTime": "2021-07-02T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-4-top-fintech-stocks-to-watch-in-july-2021.md",
-      "title": "4 Top Fintech Stocks To Watch In July 2021",
-      "excerpt": "Do You Have These The Fintech Stocks On Your July Watchlist? Fintech stocks have been some of the most popular stocks in the stock market today. Fintech is growing and the growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-july-2021-2021-07-02?amp",
-      "publishedDateTime": "2021-07-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-these-auto-stocks-are-bullish-on-increased-electric-vehicle-spending.md",
-      "title": "These Auto Stocks Are Bullish on Increased Electric Vehicle Spending",
-      "excerpt": "That momentum has continued in 2021, with Ford stock up by 70% and General ... Ford more than doubled its investment in electric and autonomous vehicles to $29.0 billion. (Source: “Ford Raises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/04/ford-f-earnings-q4-2020.html",
-      "originalUrl": "https://www.profitconfidential.com/technology/these-auto-stocks-bullish/",
+      "webUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/articleshow/84133125.cms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106274216-1575316780530gettyimages-1137684994.jpeg?v=1619724446",
-          "width": 5530,
-          "height": 3679,
+          "url": "https://www.businessinsider.in/thumb/84133139.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -867,13 +1070,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/04/ford-f-earnings-q4-2020.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/04/ford-f-earnings-q4-2020.html",
-      "publishedDateTime": "2021-07-02T04:30:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/tiktok-is-now-selling-its-ai-to-other-companies-including-in-india/amp_articleshow/84133125.cms",
+      "publishedDateTime": "2021-07-05T03:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Profit Confidential",
-        "domain": "profitconfidential.com",
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -883,30 +1086,40 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-legal-software-focus-on-machine-learning-market.md",
-      "title": "Legal Software Focus On Machine Learning Market",
-      "excerpt": "The legal software focus on machine learning market report describes ... of industries including manufacturing, healthcare, financial services, chemicals, and technology. The World’s Most ...",
+      "path": "_news/2021-07-05-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
+      "title": "ByteDance selling TikTok AI to companies including in India",
+      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
-      "originalUrl": "https://www.openpr.com/news/2320027/legal-software-focus-on-machine-learning-market-global",
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2320027/legal-software-focus-on-machine-learning-market-global",
-      "publishedDateTime": "2021-07-02T03:10:00-07:00",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "publishedDateTime": "2021-07-04T23:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -916,42 +1129,41 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-07-02-maine-now-has-the-toughest-facial-recognition-restrictions-in-the-us.md",
-      "title": "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.",
-      "excerpt": "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement.",
+      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
       "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
+      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
+      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 126,
       "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-02T02:50:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
+      "publishedDateTime": "2021-07-04T21:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -961,208 +1173,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-ajnifm-and-microsoft-are-collaborating-to-build-an-ai-coe.md",
-      "title": "AJNIFM and Microsoft are collaborating to build an AI CoE",
-      "excerpt": "Partnership will focus on capacity building of government officials, skilling them in emerging technologies, like AI and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "originalUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/10/ai-monitoring-3262759_960_720.jpg",
-          "width": 736,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/arun-jaitley-national-institute-financial-management-partners-microsoft-build-ai-emerging-tech-coe/amp/",
-      "publishedDateTime": "2021-07-02T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-lunglife-ai-raises-gbp17-mln-in-london-ipo.md",
-      "title": "LungLife AI Raises GBP17 Mln in London IPO",
-      "excerpt": "By Ian Walker LungLife AI said Friday that it has raised 17 million pounds ($23.4 million) as part of its initial public offering on London's junior AIM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "originalUrl": "https://www.marketwatch.com/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lunglife-ai-raises-gbp17-mln-in-london-ipo-271625208673",
-      "publishedDateTime": "2021-07-01T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025.md",
-      "title": "Global Artificial Intelligence Market Size, Share to Be Appraised at USD 4417.8 million By 2025",
-      "excerpt": "Selbyville, Delaware. The report Artificial Intelligence Market Size and Analysis maintains enhanced dynamics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI Ethics"
       ]
     }
   ],

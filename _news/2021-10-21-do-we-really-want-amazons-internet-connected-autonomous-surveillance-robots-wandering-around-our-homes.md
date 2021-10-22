@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T10:00:00Z
 originalUrl: "https://www.privateinternetaccess.com/blog/do-we-really-want-amazons-internet-connected-autonomous-surveillance-robots-wandering-around-our-homes/"
 webUrl: "https://www.privateinternetaccess.com/blog/do-we-really-want-amazons-internet-connected-autonomous-surveillance-robots-wandering-around-our-homes/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Private Internet Access

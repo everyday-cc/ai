@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UGA gives special recognition to historically Black fraternities, sororities"
-    excerpt: "UGA recognizes historically Black fraternities, sororities Dedication ceremony held on campus for newly installed markers The University of Georgia held a commemoration ceremony on Friday, Oct. 15 to honor nine historically Black fraternities and sororities on the West Lawn of the Tate Student Center,"
-    publishedDateTime: 2021-10-17T13:34:00Z
-    webUrl: "https://atlantadailyworld.com/2021/10/17/uga-gives-special-recognition-to-historically-black-fraternities-sororities/"
-    ampWebUrl: "https://atlantadailyworld.com/2021/10/17/uga-gives-special-recognition-to-historically-black-fraternities-sororities/?amp=1"
-    cdnAmpWebUrl: "https://atlantadailyworld-com.cdn.ampproject.org/c/s/atlantadailyworld.com/2021/10/17/uga-gives-special-recognition-to-historically-black-fraternities-sororities/?amp=1"
-    type: article
-    provider:
-      name: Atlanta Daily World
-      domain: atlantadailyworld.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/atlantadailyworld.com/wp-content/uploads/sites/5/2014/12/sorority-sisters-0.png?fit=537%2C341&ssl=1"
-        width: 537
-        height: 341
-        isCached: true
   - title: "Facial Recognition Crosses a Line with Mask Removal Features"
     excerpt: "Clearview AI’s facial recognition now includes mask removal and enhancing features, but does this cross a line? Find out now."
     publishedDateTime: 2021-10-19T14:12:00Z
@@ -57,6 +41,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Wendys Ups Its Drive-Thru Game With Voice Recognition"
+    excerpt: "The fast-food chain is partnering with Alphabet Inc.’s Google Cloud to increase the speed of its drive-thru orders and home deliveries, anticipate return customers’ favorite meals and keep burgers from burning on the grill,"
+    publishedDateTime: 2021-10-19T00:00:00Z
+    webUrl: "https://www.pressreleasepoint.com/wendys-ups-its-drive-thru-game-voice-recognition"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 4
 
 secured: "B3tW1vdaUIfm5kMFYW0+FzaqH40nk9woOcjyWnSbcT5fNC0ix5Uuy2fBZNNR5VVQiD20K4KhKPeQJKNUNy+iTiQwApuVAHb8BLbmryh2vrPhyqf96FtY6Cxnsc707FJQr1Gz1vvMxrMivP5rPqk3xA+cfUgx4K+m6RWyloH34tv8bJBOCJB6a4OPeOQBHcUhpFoxivY+i1tWQrwkNS7Fu0Lc3grHbfW5hnMtPtCWw33dTN2Lao26jbyHU6VzWTSskFGYQ1xfm/Xg4b2vS5cUMHXPCTHHfXbLubGGwULAU4RUqfNHTguh3PqrR/H8r+cewDB5ZzaELSwEQyseHwvjLmLweWFQzPq3TnqD4/FZzqI/doFkhd2HwxYPn6PbdOAe5KTM6b5dMcOJSKCWxT8hpddN4NnMdD+16IXS60awflOnfFX2HS1k3rRES28YRF4vDymptiieyPI3uWvkUeVKAjHwYlQsEkq/QQN7gNlKhP/H1zUdHWAlWf/8e/rJyMRjjzQ1Vhpjub0i5J6uXGNvKA==;4xrvtc2aNe5XgoyyNNyLfw=="
 ---

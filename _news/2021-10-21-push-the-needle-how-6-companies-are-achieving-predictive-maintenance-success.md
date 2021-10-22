@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T00:45:00Z
 originalUrl: "https://www.plantservices.com/articles/2021/push-the-needle-how-6-companies-are-achieving-predictive-maintenance-success/"
 webUrl: "https://www.plantservices.com/articles/2021/push-the-needle-how-6-companies-are-achieving-predictive-maintenance-success/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Plant Services

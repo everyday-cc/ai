@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T16:12:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Business Insider

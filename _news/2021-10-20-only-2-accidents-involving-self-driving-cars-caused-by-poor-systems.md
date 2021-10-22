@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T12:25:00Z
 originalUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
 webUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Engineering360 News

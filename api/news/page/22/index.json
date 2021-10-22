@@ -2,12 +2,54 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2021-09-30-microsofts-msft-azure-platform-implemented-by-truveta.md",
-      "title": "Microsoft's (MSFT) Azure Platform Implemented by Truveta",
-      "excerpt": "Microsoft’s MSFT Azure cloud platform and Artificial Intelligence (AI) capabilities are being leveraged by Truveta to improve the scalability of its data platform. The software giant is also ...",
+      "path": "_news/2021-10-02-ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans.md",
+      "title": "AI May Predict the Next High-Risk Virus To Jump From Animals to Humans",
+      "excerpt": "Most emerging infectious diseases of humans (like COVID-19) are zoonotic – caused by viruses originating from other animal species. Identifying high-risk viruses earlier can improve research and surveillance priorities.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30",
+      "webUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
+      "originalUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Bats-Caught-During-Zoonotic-Virus-Surveillance-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-may-predict-the-next-high-risk-virus-to-jump-from-animals-to-humans/amp/",
+      "publishedDateTime": "2021-10-02T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-robots-artificial-intelligence-ai.md",
+      "title": "Robots + Artificial intelligence (AI)",
+      "excerpt": "And what should they actually look like anyway? About 332 results for Robots + Artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
+      "originalUrl": "https://www.theguardian.com/technology/robots+artificialintelligenceai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -15,154 +57,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsofts-msft-azure-platform-implemented-by-truveta-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T09:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-teslas-full-self-driving-mode-is-actually-not-fully-self-driving.md",
-      "title": "Tesla’s full self-driving mode is actually not fully self-driving",
-      "excerpt": "The capability is marketed as a way to take your hands off the wheel, but some experts, including Alistair Weaver of Edmunds, say the technology isn't ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2021/09/GettyImages-490598518.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/teslas-full-self-driving-mode-is-actually-not-fully-self-driving?amp",
-      "publishedDateTime": "2021-09-30T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-kratos-voice-actor-says-god-of-war-ragnarok-delayed-because-of-me.md",
-      "title": "Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’",
-      "excerpt": "Kratos’ voice actor, Christopher Judge, says he’s the reason why God of War: Ragnarok was delayed. In a tweet, Judge writes that he needed multiple surgeries in 2019 and that God of War developer Sony Santa Monica studios delayed the game so he could recover and continue voicing video games’ favorite problematic dad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "originalUrl": "https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/dkclWGip4dpQXjiWOacSaczXySw=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69931807/E_3vU3YXMAEXoy2.0.0.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5",
-      "publishedDateTime": "2021-09-30T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed.md",
-      "title": "Yes, robots are coming for your job, but you might like the new one more (if you're still employed)",
-      "excerpt": "For decades, a speculated wave of job-stealing technologies has stirred debate about the role of humans in the labor force alongside automation and AI adds a new wrinkle to the equation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "originalUrl": "https://www.techrepublic.com/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/30/7a07b8cb-59d6-437e-8545-6e201f357d11/resize/1200x/4118c23f5db2dbd1621784b3792dbad2/gettyimages-gremlin.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/yes-robots-are-coming-for-your-job-but-you-might-like-the-new-one-more-if-youre-still-employed/",
-      "publishedDateTime": "2021-09-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -183,21 +87,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-cardinal-healths-cah-unit-to-aid-canadian-healthcare-system.md",
-      "title": "Cardinal Health's (CAH) Unit to Aid Canadian Healthcare System",
-      "excerpt": "Cardinal Health's (CAH) subsidiary to support the Canadian Healthcare system against COVID-19 with vaccination policy.",
+      "path": "_news/2021-10-02-amd-aims-to-increase-efficiency-of-server-chips-30x-by-2025.md",
+      "title": "AMD aims to increase efficiency of server chips 30x by 2025",
+      "excerpt": "AMD aims to improve the efficiency of its server chips by 30x over the next four years by increasing performance while consuming less power.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/388628",
-      "originalUrl": "https://www.entrepreneur.com/article/388628",
+      "webUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
+      "originalUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-388628.jpeg",
-          "width": 635,
-          "height": 400,
+          "url": "https://www.pcinvasion.com/wp-content/uploads/2021/10/AMD_EPYC_1480x882.jpg",
+          "width": 787,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -205,107 +109,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T09:00:00-07:00",
+      "ampWebUrl": "https://www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
+      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/amd-30x-increase-efficiency-by-2025/amp/",
+      "publishedDateTime": "2021-10-01T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030.md",
-      "title": "Honda prepping AI robots, inter-city electric air travel and lunar technology for 2030",
-      "excerpt": "Honda announced a range of efforts for the coming decade, including travel to the Moon and AI-powered robots. By Jonathan Greig | September 30, 2021 | Topic: Innovation Honda unveiled its priorities for the next decade on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "originalUrl": "https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/467f6b569a7615928bfd7393b0d0baf4bd9fff42/2021/09/30/369a95d4-aa5c-46e3-b43d-3324f80c308f/honda-evtol.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/",
-      "publishedDateTime": "2021-09-30T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amazon-amzn-bolsters-aws-portfolio-with-new-managed-service.md",
-      "title": "Amazon (AMZN) Bolsters AWS Portfolio With New Managed Service",
-      "excerpt": "Amazon’s AMZN cloud division, Amazon Web Services (“AWS”), has made its Amazon Managed Service for Prometheus, which is fully compatible with open-source Prometheus, generally available. Notably, the underlined service is a fully managed scalable and secured monitoring service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-bolsters-aws-portfolio-with-new-managed-service-2021-09-30?amp",
-      "publishedDateTime": "2021-09-30T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "pcinvasion.com",
+        "domain": "pcinvasion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -315,25 +125,77 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2.md",
-      "title": "Microsoft’s Saqib Shaikh, lead on Seeing AI, is returning to Sight Tech Global, Dec. 1-2",
-      "excerpt": "At last year’s inaugural Sight Tech Global event, a virtual event dedicated to applications of AI and related tech to accessibility for people who are blind, one of the most popular sessions belonged to Saqib Shaikh.",
+      "path": "_news/2021-10-02-sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.md",
+      "title": "Sumo Logic enhances observability suite for app, infrastructure performance",
+      "excerpt": "The new DevSecOps-oriented tools, announced this week at the company's Illuminate virtual conference, are part of Sumo Logic's Continuous Intelligence platform, and designed to provide real-time, deeper insights into critical enterprise infrastructure and applications.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/",
+      "webUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
+      "originalUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DybczED-GKE/hqdefault.jpg",
-          "width": 480,
+          "url": "https://images.idgesg.net/images/article/2018/07/programmer_certification-skills_code_devops_glasses_student_by-kevin-unsplash-100764315-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635370/sumo-logic-enhances-observability-suite-for-app-infrastructure-performance.amp.html",
+      "publishedDateTime": "2021-10-01T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations.md",
+      "title": "Western Railways to install 2,729 cameras with face recognition system across 30 stations",
+      "excerpt": "Western Railways to install 2,729 cameras with face recognition system across 30 stations - These cameras have a tilt angle of 180 to 270 degrees that will help in 360 degrees of an area leaving no bl",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "originalUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/10/01/999016-camera.jpg",
+          "width": 640,
           "height": 360,
           "title": null,
           "attribution": null,
@@ -342,9 +204,400 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/microsofts-saqib-shaikh-lead-on-seeing-ai-is-returning-to-sight-tech-global-dec-1-2/amp/",
-      "publishedDateTime": "2021-09-30T08:15:00-07:00",
+      "ampWebUrl": "https://www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-western-railways-to-install-2729-cameras-with-face-recognition-system-across-30-stations-2913767/amp",
+      "publishedDateTime": "2021-10-01T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend.md",
+      "title": "Translate and analyze text using SQL functions with Amazon Redshift, Amazon Translate, and Amazon Comprehend",
+      "excerpt": "You may have tables in your Amazon Redshift data warehouse or in your Amazon Simple Storage Service (Amazon S3) data lake full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-redshift-amazon-translate-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/28/ML-5741-image002.png",
+          "width": 407,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T11:03:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-interfaith-voices-on-the-importance-of-learning-and-education.md",
+      "title": "Interfaith Voices: On the importance of learning and education",
+      "excerpt": "Oregon schools are back in session. We are fortunate to live in communities where learning and education are valued and encouraged. Throughout history, learning has been a hallmark of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.html",
+      "originalUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/gazettetimes.com/content/tncms/assets/v3/editorial/f/c3/fc3b4672-bac2-5078-a528-8c793196e3c6/61574e84a46ca.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.amp.html",
+      "cdnAmpWebUrl": "https://www-gazettetimes-com.cdn.ampproject.org/c/s/www.gazettetimes.com/lifestyles/faith-and-values/interfaith-voices-on-the-importance-of-learning-and-education/article_6224a0ad-9cef-5fa5-be40-f2ea32597b35.amp.html",
+      "publishedDateTime": "2021-10-01T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Corvallis Gazette-Times",
+        "domain": "gazettetimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms.md",
+      "title": "Nvidia, University of Toronto are making robotics research available to small firms",
+      "excerpt": "Despite progress in the field, research on robotics hands remains extremely expensive and limited to a few very wealthy companies and labs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Nvidia-robot-simulation-platform1-e1632850934828.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/nvidia-university-of-toronto-are-making-robotics-research-available-to-small-firms/?via=indexdotco&amp",
+      "publishedDateTime": "2021-10-01T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-02-ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning.md",
+      "title": "AI Weekly: Amazon’s ‘custom’ AI features showcase the potential of unsupervised learning",
+      "excerpt": "Amazon's newly announced Custom Sounds and Custom Event Alerts features illustrate the potential of techniques like unsupervised learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/amazon-alexa-echo-studio-echo-flex-fire-tv-cube-2-e1628020933987.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/ai-weekly-amazons-custom-ai-features-showcase-the-potential-of-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-10-01T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-statistical-natural-language-processing-market.md",
+      "title": "Statistical Natural Language Processing market",
+      "excerpt": "Statistical Natural Language Processing Market report gives a thorough analysis of this dynamic focus of this market with a secondary search. The report sheds light on the Statistical Natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
+      "originalUrl": "https://www.openpr.com/news/2414594/statistical-natural-language-processing-market-to-see-huge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua01186854_g.jpg",
+          "width": 660,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2414594/statistical-natural-language-processing-market-to-see-huge",
+      "publishedDateTime": "2021-10-01T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-salesforce-adds-more-go-go-to-einstein-ai.md",
+      "title": "Salesforce Adds More Go-Go To Einstein AI",
+      "excerpt": "If automation-driven on-screen bots are still annoying, automation and Artificial Intelligence (AI) can still provide service-centric organizations with a boost… and that can be a human-delivered machine-powered boost if it’s done right.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61572d8b4893d2eacb5a4574%2F0x0.jpg",
+          "width": 640,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/10/01/salesforce-adds-more-go-go-to-einstein-ai/amp/",
+      "publishedDateTime": "2021-10-01T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-ai-used-to-predict-which-animal-viruses-are-likely-to-infect-humans-study.md",
+      "title": "AI used to predict which animal viruses are likely to infect humans: study",
+      "excerpt": "Artificial intelligence (AI) could be key in helping scientists identify the next animal virus that is capable of infecting humans, according to researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study",
+      "originalUrl": "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/720/405/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-predict-animal-viruses-likely-infect-humans-study.amp",
+      "publishedDateTime": "2021-10-01T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group.md",
+      "title": "Al Gore puts $600M into UK Green energy-tech startup Octopus Energy Group",
+      "excerpt": "Former Vice President Al Gore has invested $600 million of equity into UK energy startup Octopus Energy Group via his Generation Investment Management vehicle, taking a stake of approximately 13% in the business.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/",
+      "originalUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Octopus-Energy-Founders.jpg?w=700",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/01/al-gore-puts-600m-into-uk-green-energy-tech-startup-octopus-energy-group/amp/",
+      "publishedDateTime": "2021-10-01T09:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -367,77 +620,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading.md",
-      "title": "AI Identifies American Airlines Group Inc Among Today’s Top Shorts To Close September Trading",
-      "excerpt": "The Dow Jones gained 107 points, or 0.3%, the S&P 500 added 0.3%, and Nasdaq bounced back 0.4%. Make the most of this market with today's best short plays from Q.ai's deep learning algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e639d5b5af6ccf84c4227%2F0x0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/09/30/ai-identifies-american-airlines-group-inc-among-todays-top-shorts-to-close-september-trading/amp/",
-      "publishedDateTime": "2021-09-30T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-could-autonomous-robots-be-more-dangerous-than-nukes.md",
-      "title": "Could Autonomous Robots Be More Dangerous than Nukes?",
-      "excerpt": "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies.",
+      "path": "_news/2021-10-01-an-army-pilot-just-re-invented-flight-training-for-the-digital-era.md",
+      "title": "An Army Pilot Just Re-Invented Flight Training for the Digital Era",
+      "excerpt": "Its video feeds a neural network that uses object recognition to read the indicators just as a human would. The network then deciphers how the pilot is performing. Pilots receive feedback through ...",
       "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "originalUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "webUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
+      "originalUrl": "https://www.nextgov.com/cio-briefing/2021/10/army-pilot-just-re-invented-flight-training-digital-era/185757/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg",
-          "width": 744,
-          "height": 419,
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/09/30/2761965/open-graph.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -445,13 +646,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
-      "publishedDateTime": "2021-09-30T08:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T09:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
+        "name": "Nextgov",
+        "domain": "nextgov.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -461,69 +662,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
-      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
-      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
+      "path": "_news/2021-10-01-ai-could-reduce-racial-disparities-in-healthcare.md",
+      "title": "AI Could Reduce Racial Disparities In Healthcare",
+      "excerpt": "What makes one AI tool shortchange Black patients while another produces more equitable treatment? The difference may boil down to one of the simplest rules of computer programming.",
       "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
-      "publishedDateTime": "2021-09-30T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
-      "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
-      "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe2ea7a3525e3f86a796cf5%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32974509df6c340752fce0%2F0x0.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 633,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -531,114 +689,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/09/30/semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond/amp/",
-      "publishedDateTime": "2021-09-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand.md",
-      "title": "Artificial Intelligence Myth Vs Reality: Where Do Healthcare Experts Think We Stand?",
-      "excerpt": "I think of it as a maturation process,” says Dr. John Halamka . “You’re asking why your three-year-old isn’t doing calculus. But can your three-year-old add a column of numbers? That’s actually not so bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155c2ffe2958456f319f3ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
-      "publishedDateTime": "2021-09-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-ai-innovations-in-healthcare.md",
-      "title": "AI Innovations In Healthcare",
-      "excerpt": "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
-      "publishedDateTime": "2021-09-30T07:17:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/ai-could-reduce-racial-disparities-in-healthcare/amp/",
+      "publishedDateTime": "2021-10-01T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -666,21 +719,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-top-five-ways-ai-is-revolutionizing-the-financial-planning-industry.md",
-      "title": "Top Five Ways AI Is Revolutionizing The Financial Planning Industry",
-      "excerpt": "Here's a look at the different segments of the financial planning and analysis (F&PA) industry that are experiencing a revolution propelled by AI.",
+      "path": "_news/2021-10-01-down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock.md",
+      "title": "Down 7% Over The Last Week, Is It Time To Buy Snowflake Stock?",
+      "excerpt": "Snowflake stock declined by roughly 7% over the last week (five trading days) compared to the S&P 500 which fell by around 1% over the same period. Although there hasn’t been any notable company-specific news from Snowflake over the last week,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/",
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84ba18d777c465dc98852a%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c4ec653d4ad7ead09bb0b%2F0x0.jpg",
           "width": 1200,
-          "height": 801,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -688,9 +741,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/top-five-ways-ai-is-revolutionizing-the-financial-planning-industry/amp/",
-      "publishedDateTime": "2021-09-30T07:15:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/01/down-7-over-the-last-week-is-it-time-to-buy-snowflake-stock/amp/",
+      "publishedDateTime": "2021-10-01T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -713,24 +766,24 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-ais-push-to-understand-psychiatry-research-has-the-potential-to-tackle-mental-illness.md",
-      "title": "AI's push to understand psychiatry research has the potential to tackle mental illness",
-      "excerpt": "Psychiatry researchers are using AI to tackle mental illness, with the goal of creating more effective and personalized treatment plans.",
+      "path": "_news/2021-10-01-apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets.md",
+      "title": "Apple’s no-code Trinity AI platform handles complex spatial datasets",
+      "excerpt": "Apple is creating a name for itself in the low-code/no-code movement. Fusemachines CEO Sameer Maskey gave us his take on the new platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
-      "originalUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9",
+      "webUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ff8a8fabde805001980beed?width=1200&format=jpeg",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/digitization-6402021_1920-e1632778146499.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -740,16 +793,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-is-advancing-psychiatry-medicine-to-tackle-mental-illness-2021-9?amp",
-      "publishedDateTime": "2021-09-30T07:12:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/01/apples-no-code-trinity-ai-platform-handles-complex-spatial-datasets/amp/",
+      "publishedDateTime": "2021-10-01T07:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -769,21 +822,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-egypts-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico.md",
-      "title": "Egypt's Ministry of Supply and Internal Trade Automates Wheat Silos Processes in Collaboration with IBM and ACME SAICO",
-      "excerpt": "By offering IBM's AI and hybrid cloud approach ... Authority for Supply Commodities through IBM Cognos Analytics with Watson connected to the automation platform in use. As part of the sustainable ...",
+      "path": "_news/2021-10-01-google-and-deepmind-face-lawsuit-over-deal-with-britains-national-health-service.md",
+      "title": "Google and DeepMind face lawsuit over deal with Britain’s National Health Service",
+      "excerpt": "DeepMind found itself in the spotlight in 2016 when the New Scientist reported that its collaboration with the U.K.'s National Health Service went beyond what was publicly announced. British law ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/egypt-s-ministry-of-supply-and-internal-trade-automates-wheat-silos-processes-in-collaboration-with-ibm-and-acme-saico-1030824303",
+      "webUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://image.cnbcfm.com/api/v1/image/104485829-GettyImages-515689364.jpg?v=1633088344",
+          "width": 1024,
+          "height": 692,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -791,16 +844,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T07:07:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/01/google-deepmind-face-lawsuit-over-data-deal-with-britains-nhs.html",
+      "publishedDateTime": "2021-10-01T06:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -816,26 +869,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-blue-prism-investor-coast-to-reject-15-billion-vista-takeover.md",
-      "title": "Blue Prism Investor Coast to Reject $1.5 Billion Vista Takeover",
-      "excerpt": "Coast Capital plans to vote against Vista Equity Partners’s 1.1 billion-pound ($1.5 billion) bid for U.K. automation software developer Blue Prism Group Plc.",
+      "path": "_news/2021-10-01-how-to-get-your-cloud-migration-strategy-right.md",
+      "title": "How To Get Your Cloud Migration Strategy Right",
+      "excerpt": "This transformational effort includes migrating workloads to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, which may not have been historically deployed as cloud-ready applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-09-30/coast-to-vote-against-blue-prism-deal-slams-rushed-process",
+      "webUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
+      "originalUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxTf6AP_6us/v0/1200x565.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615499ae3a419e32bc2c8594%2F0x0.jpg",
           "width": 1200,
-          "height": 565,
+          "height": 828,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -843,111 +896,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-tasqai-promising-faster-data-annotation-for-ai-development-raises-4m.md",
-      "title": "Tasq.ai, promising faster data annotation for AI development, raises $4M",
-      "excerpt": "Tasq.ai announces its $4M seed round, offering a unique value perspective in data annotation for AI developers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1295429677-1-e1629146386206.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/tasq-ai-promising-faster-data-annotation-for-ai-development-raises-4m/amp/",
-      "publishedDateTime": "2021-09-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle.md",
-      "title": "Is Identity Theft Fraud? Here’s How AI And Graphing Tools Help Solve The Puzzle",
-      "excerpt": "While identity theft and fraud are related, they’re not equivalent, which means that relying solely on PII and credit bureau data to verify someone is who they say they are is a dangerous — and incomplete — approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548377d01fdff342398689%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/is-identity-theft-fraud-heres-how-ai-and-graphing-tools-help-solve-the-puzzle/amp/",
-      "publishedDateTime": "2021-09-30T06:45:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/splunk/2021/10/01/how-to-get-your-cloud-migration-strategy-right/amp/",
+      "publishedDateTime": "2021-10-01T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -970,25 +921,26 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in.md",
-      "title": "Are AI ethics teams doomed to be a facade? The women who pioneered them weigh in",
-      "excerpt": "Timnit Gebru, Margaret Mitchell, and other leaders discuss tensions surrounding AI ethics in big tech and what teams need to succeed.",
+      "path": "_news/2021-10-01-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-tech-offerings.md",
+      "title": "M2P Fintech Acquires Saas Platform Origa.ai To Ramp Up Tech Offerings",
+      "excerpt": "M2P Fintech said in a press release the acquisition will help the firm to bolster its technology capabilities around new age collection.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/",
+      "webUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "originalUrl": "https://www.outlookindia.com/website/story/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1283199539-e1632945107378.jpg?fit=768%2C600&strip=all",
-          "width": 768,
-          "height": 384,
+          "url": "https://images.outlookindia.com/public/uploads/articles/2021/10/1/m2p_550_550.jpg",
+          "width": 550,
+          "height": 367,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -996,23 +948,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/are-ai-ethics-teams-doomed-to-be-a-facade-the-women-who-pioneered-them-weigh-in/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
+      "ampWebUrl": "https://www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/business-news-m2p-fintech-acquires-saas-platform-origaai-to-ramp-up-its-tech-offerings/396389",
+      "publishedDateTime": "2021-10-01T06:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1021,79 +964,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
+        "AI in Finance",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-09-30-bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups.md",
-      "title": "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups",
-      "excerpt": "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,",
+      "path": "_news/2021-10-01-honda-plans-new-air-taxi-robotics-and-space-technologies.md",
+      "title": "Honda plans new air taxi, robotics and space technologies",
+      "excerpt": "These areas include developing a new electric vertical take-off and landing (eVTOL) air taxi, new robots and space vehicles. The Honda eVTOL aircraft leverages Honda’s electrifi",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024",
-          "width": 1024,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-top-3-duty-of-care-board-and-c-suite-ai-literacy-accountabilities.md",
-      "title": "Top 3 Duty Of Care Board And C-Suite AI Literacy Accountabilities",
-      "excerpt": "Three Duty of Care Board and C Suite AI literacy accountabilities are discussed as a motivator for increased leadership in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/",
+      "webUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
+      "originalUrl": "https://electronics360.globalspec.com/article/17269/honda-plans-new-air-taxi-robotics-and-space-technologies",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155b581ccb88bc41264a735%2F0x0.jpg",
-          "width": 1200,
-          "height": 588,
+          "url": "https://electronics360.globalspec.com/images/assets/269/17269/Honda_eVTOL.jpg",
+          "width": 752,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,75 +991,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/top-3-duty-of-care-board-and-c-suite--ai-literacy-accountabilities/amp/",
-      "publishedDateTime": "2021-09-30T06:18:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-01T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-top-three-trends-in-robotics-the-cambrian-explosion-is-happening.md",
-      "title": "Top Three Trends In Robotics: The Cambrian Explosion Is Happening",
-      "excerpt": "As more infrastructure is being architected, different schools of thought are emerging. Proponents of a particular school have their own world view on how robots will become ubiquitous and help mankind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609a9c1bf4942207102ea502%2F0x0.jpg%3FcropX1%3D628%26cropX2%3D4001%26cropY1%3D0%26cropY2%3D2250",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/30/top-three-trends-in-robotics-the-cambrian-explosion-is-happening/amp/",
-      "publishedDateTime": "2021-09-30T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1183,19 +1012,113 @@
       ]
     },
     {
-      "path": "_news/2021-09-30-how-will-artificial-intelligence-change-our-living-spaces.md",
-      "title": "How Will Artificial Intelligence Change Our Living Spaces?",
-      "excerpt": "Even though the concept of BIM has been in development since the 1970s, it only became mainstream in the last two decades.",
+      "path": "_news/2021-10-01-iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions.md",
+      "title": "IQ-AI says new publication shows impact of Imaging Biometrics software solutions",
+      "excerpt": "Neurosurgery Open published a study that suggested that IB Clinic should be routinely used to optimise surgical guidance and pathologic diagnosis",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/",
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/961962/iq-ai-says-new-publication-shows-impact-of-imaging-biometrics-software-solutions-961962.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com//thumbs/upload/News/Image/2021_10/1200z740_1633080116_shutterstock_570241147-(1).jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/961962",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/961962",
+      "publishedDateTime": "2021-10-01T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-google-faces-a-lawsuit-over-deepminds-access-to-16-million-uk-patients-records.md",
+      "title": "Google faces a lawsuit over DeepMind's access to 1.6 million UK patients' records",
+      "excerpt": "Google and DeepMind face legal action over access to millions of UK patient records in 2015. DeepMind gained access to 1.6 million patients' data in a deal with the Royal Free deemed to have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "originalUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6155b5e1b414c10018630cdd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "publishedDateTime": "2021-10-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-why-uxui-should-be-considered-throughout-the-ai-life-cycle.md",
+      "title": "Why UX/UI Should Be Considered Throughout The AI Life Cycle",
+      "excerpt": "Both user experience (UX) and user interface (UI) design play crucial roles in successful AI product development and implementations and should be considered throughout the entirety of the AI life cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61547e49a61e5864ee39c638%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdb169d384f635f4653a1%2F0x0.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -1205,9 +1128,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/how-will-artificial-intelligence-change-our-living-spaces/amp/",
-      "publishedDateTime": "2021-09-30T05:45:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/01/why-uxui-should-be-considered-throughout-the-ai-life-cycle/amp/",
+      "publishedDateTime": "2021-10-01T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1230,6 +1153,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-qlik-acquires-big-squid-for-augmented-analytics-with-no-code-automated-ml.md",
+      "title": "Qlik acquires Big Squid for augmented analytics with no-code automated ML",
+      "excerpt": "Qlik acquires Big Squid for augmented analytics with no-code automated ML Qlik announced the acquisition of Big Squid, a leading provider of no-code automated machine learning (AutoML), to expand data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/80112-2/",
+      "originalUrl": "https://www.dqindia.com/80112-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/RPA.jpeg",
+          "width": 540,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/80112-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/80112-2/amp/",
+      "publishedDateTime": "2021-10-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

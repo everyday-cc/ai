@@ -2,6 +2,877 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
+      "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
+      "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
+      "originalUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/10/Google-Pixel-6-Live-translation.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/what-is-pixel-6-live-translate/amp/",
+      "publishedDateTime": "2021-10-19T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-the-5-articles-you-read-in-ai-hell.md",
+      "title": "The 5 articles you read in AI hell",
+      "excerpt": "Hello! Welcome to AI hell. We're here to make your transition as seamless as possible! If you'll just log in to you Amazon account, we'll get",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "originalUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FAIhell.jpg&signature=20e8ac69101ef3c4b1d280c0f896ba2f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-vonage-tests-conversational-commerce-with-jumperai-merger.md",
+      "title": "Vonage Tests Conversational Commerce With Jumper.ai Merger",
+      "excerpt": "Cloud communications company Vonage has purchased Jumper.ai, a Singapore-based omnichannel conversational commerce solutions provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/vonage-tests-conversational-commerce-with-jumper-ai-merger/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/vonage-tests-conversational-commerce-with-jumper-ai-merger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Vonage-conversational-commerce-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/vonage-tests-conversational-commerce-with-jumper-ai-merger/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/vonage-tests-conversational-commerce-with-jumper-ai-merger/amp/",
+      "publishedDateTime": "2021-10-19T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools.md",
+      "title": "Google’s Pixel 6 camera smartens up snapshots with AI tools",
+      "excerpt": "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0413.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/",
+      "publishedDateTime": "2021-10-19T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs.md",
+      "title": "AI chatbot justifies sacrificing colonists to create a biological weapon...if it creates jobs",
+      "excerpt": "If doing so will create wealth, absolutely, at least according to one AI Ethics chatbot. The AI Ethicist, the Allen Institute for AI's Delphi, is a simple webform where you pose an ethical question and ask Delphi to ponder it. After some electronic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "originalUrl": "https://www.techradar.com/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p2dPCXWPqTd2nkWmhEQRVa-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs",
+      "publishedDateTime": "2021-10-19T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition.md",
+      "title": "Announcing the ORBIT dataset: Advancing real-world few-shot learning using teachable object recognition",
+      "excerpt": "The post Announcing the ORBIT dataset: Advancing real-world few-shot learning using teachable object recognition appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition",
+      "originalUrl": "https://www.microsoft.com/en-us/research/blog/announcing-the-orbit-dataset-advancing-real-world-few-shot-learning-using-teachable-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2021/10/1200x627_Orbit_Blog_with_logo.png",
+          "width": 2500,
+          "height": 1307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T09:39:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds.md",
+      "title": "Amazon SageMaker rated as top AI Service Cloud in analyst firm KuppingerCole’s evaluation of AI Service Clouds",
+      "excerpt": "As more European organizations move from experimentation to production for AI projects, the importance of running these projects on a scalable, secure, and cost-efficient platform becomes clear. Building AI solutions from scratch is often beyond the capabilities of many organizations, especially because",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-rated-as-top-ai-service-cloud-in-analyst-firm-kuppingercoles-evaluation-of-ai-service-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T09:38:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model.md",
+      "title": "SambaNova Systems releases enterprise-grade GPT AI-powered language model",
+      "excerpt": "The company's latest offering allows organizations to launch their own customized language model in less than one month.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1271697775-e1634657414701.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/",
+      "publishedDateTime": "2021-10-19T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-hireds-ai-platform-released-its-2021-state-of-tech-salaries.md",
+      "title": "Hired’s AI Platform Released Its 2021 State Of Tech Salaries",
+      "excerpt": "The results disclose how the shift to remote work impacted tech salaries across different markets, roles and industries. The report provides insights on compensation, benefits and remote work trends in tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616ecd091976a1918a4d178e%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/",
+      "publishedDateTime": "2021-10-19T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language.md",
+      "title": "Microsoft and NVIDIA Just Completed the World's Largest AI. That Mimics Human Language?",
+      "excerpt": "Nvidia and Microsoft unveiled their largest and most powerful monolithic transformer language model trained to date: Megatron-Turing Natural Language Generation.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language",
+      "originalUrl": "https://interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjZJv1wE/sizes/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/microsoft-and-nvidia-just-completed-the-worlds-largest-ai-that-mimics-human-language",
+      "publishedDateTime": "2021-10-19T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-4-top-artificial-intelligence-stocks-to-watch-right-now.md",
+      "title": "4 Top Artificial Intelligence Stocks To Watch Right Now",
+      "excerpt": "Artificial Intelligence Stocks To Consider Adding To Your Watchlist Right Now. Artificial intelligence stocks appear to be gaining traction among tech investors in the stock mar",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp",
+      "publishedDateTime": "2021-10-19T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
+      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
+      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks.md",
+      "title": "This AI-powered tool helps you generate quality content with just a few clicks",
+      "excerpt": "Sponsored Deals 1. Produce engaging content with ease with this AI-powered tool on sale 2. Grab a subscription to this tool that helps you create engaging content with ease",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/sale_303782_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
+      "publishedDateTime": "2021-10-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech.md",
+      "title": "Instacart acquires Caper for AI-powered shopping cart and checkout tech",
+      "excerpt": "Over time, Instacart plans to integrate Caper's technology into the Instacart app, as well as its retail partners' platforms, for a more blended in-store and digital grocery shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "originalUrl": "https://www.zdnet.com/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/822c04d3978ba8d964686aaf8052d87346c55831/2021/10/19/25dac7e8-528b-4dea-90ff-cc37c804784b/capercartphoto-21.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/instacart-acquires-caper-for-ai-powered-shopping-cart-and-checkout-tech/",
+      "publishedDateTime": "2021-10-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-deep-learning-improves-interpretation-of-tumors.md",
+      "title": "Deep learning improves interpretation of tumors",
+      "excerpt": "NIBIB-funded engineers are using deep learning to differentiate tumors more accurately from normal tissue in positron emission tomography (PET) images. Standard analysis of PET scans count black regions as tumor and white regions as normal.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-improves-1.jpg",
+          "width": 800,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-deep-tumors.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-tumors.amp",
+      "publishedDateTime": "2021-10-19T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-novel-proof-clears-the-way-for-quantum-artificial-intelligence.md",
+      "title": "Novel Proof Clears the Way for Quantum Artificial Intelligence",
+      "excerpt": "Convolutional neural networks running on quantum computers have generated significant buzz for their potential to analyze quantum data better than classical computers can.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azoquantum.com/News.aspx?newsID=8494",
+      "originalUrl": "https://www.azoquantum.com/News.aspx?newsID=8494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dwg31ai31okv0.cloudfront.net/images/news/NewsThumbImage_8494.jpg",
+          "width": 3097,
+          "height": 1914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azoquantum.com/amp/news.aspx?newsID=8494",
+      "cdnAmpWebUrl": "https://www-azoquantum-com.cdn.ampproject.org/c/s/www.azoquantum.com/amp/news.aspx?newsID=8494",
+      "publishedDateTime": "2021-10-19T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "azoquantum.com",
+        "domain": "azoquantum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-mage-aims-to-be-the-stripe-for-ai-raises-63m-for-developer-tools-to-build-ai-into-apps.md",
+      "title": "Mage aims to be the ‘Stripe for AI;’ raises $6.3M for developer tools to build AI into apps",
+      "excerpt": "Product developers want to use AI, but don't always have the right tools to do it without relying on data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Mage-team-photo-1.jpg?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/",
+      "publishedDateTime": "2021-10-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
+      "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
+      "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/391977",
+      "originalUrl": "https://www.entrepreneur.com/article/391977",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634644030-amitabh.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-edtech-startup-convegenius-raises-5-mn.md",
       "title": "Edtech Startup ConveGenius Raises $5 Mn",
       "excerpt": "The learning platform aims at making quality education accessible for middle- and low-income groups across India and make quality education accessible to 100 million marginalized children in India",
@@ -207,7 +1078,7 @@
       "originalUrl": "https://www.mobileworldlive.com/featured-content/home-banner/apple-unleashes-latest-airpods-custom-laptop-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -242,670 +1113,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-19-changing-fintech-landscape-and-customer-expectations.md",
-      "title": "Changing Fintech Landscape And Customer Expectations",
-      "excerpt": "The rise of fintech players, better user experience and innovative product solutions are acting as a catalyst that will further push digital adoption in India",
+      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
+      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
+      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391943",
-      "originalUrl": "https://www.entrepreneur.com/article/391943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634624895-MyPost-2021-10-19T115726666.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-alibaba-cloud-to-build-own-servers-with-new-in-house-chip.md",
-      "title": "Alibaba Cloud to build own servers with new in-house chip",
-      "excerpt": "Chinese tech giant says it has built its own server chip, called Yitian 710, which is touted to be compatible with the latest Armv9 architecture and will be used to develop new servers that will be deployed across Alibaba's businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "originalUrl": "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/",
-      "publishedDateTime": "2021-10-18T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-accelerating-the-discovery-of-new-materials-for-3d-printing.md",
-      "title": "Accelerating the discovery of new materials for 3D printing",
-      "excerpt": "The growing popularity of 3D printing for manufacturing all sorts of items, from customized medical devices to affordable homes, has created more demand for new 3D printing materials designed for",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/accelerating-materials-3d-printing-1015",
-      "originalUrl": "https://www.chemeurope.com/en/news/1173177/accelerating-the-discovery-of-new-materials-for-3d-printing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Accelerating-Materials-01-Press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CHEMIE.DE Information Service GmbH",
-        "domain": "chemeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-the-roi-of-ai-will-it-deliver-real-value.md",
-      "title": "The ROI of AI: Will it deliver real value?",
-      "excerpt": "AI is not just a platform to be purchased and implemented. It is a fundamental shift in the way digital systems operate and are managed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/the-roi-of-ai-will-it-deliver-real-value/amp/",
-      "publishedDateTime": "2021-10-18T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias.md",
-      "title": "Achieving Instagram Growth In The Age Of AI And Algorithmic Bias",
-      "excerpt": "Over the last few years, it has become clear that Instagram has an algorithmic bias towards certain accounts. Marginalized groups such as LGBTQIA+ and BIPOC have repeatedly been vocal about seeing their reach shrink significantly under the current system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616e3afe547346c9dd22f01e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2832%26cropY1%3D706%26cropY2%3D2299",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/18/achieving-instagram-growth-in-the-age-of-ai-and-algorithmic-bias/amp/",
-      "publishedDateTime": "2021-10-18T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics.md",
-      "title": "Data intelligence provider Alation acquires AI insights company Lyngo Analytics",
-      "excerpt": "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/",
-      "publishedDateTime": "2021-10-18T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
-      "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
-      "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=1000",
-          "width": 1000,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "publishedDateTime": "2021-10-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-state-university-seeks-software-with-ai-machine-learning.md",
-      "title": "State University Seeks Software With AI, Machine Learning",
-      "excerpt": "In a Request for Proposal, California State University, Long Beach calls for responses from vendors who can provide a software system to help it do more with fundraising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
-      "originalUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/92c0ccc/2147483647/strip/true/crop/3395x1770+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2F71%2Fa53a04cb4015b24d1e52db3b4c8b%2Fshutterstock-1089266585.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
-      "cdnAmpWebUrl": "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
-      "publishedDateTime": "2021-10-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "California Techwire",
-        "domain": "techwire.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac.md",
-      "title": "Artificial Intelligence and Air-based sensors to help Indian Army scan LAC",
-      "excerpt": "As part of a multi-pronged plan, road infrastructure, specially at the sensitive Tawang sector, is also being enhanced significantly with a network of bridges and tunnels that will take away dependence on air assets to support troops in all weather conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-167562,msid-87126353/untitled-14.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
-      "publishedDateTime": "2021-10-18T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-skepticism-abounds-for-artificial-intelligence-in-high-level-decisions.md",
-      "title": "Skepticism Abounds For Artificial Intelligence In High-Level Decisions",
-      "excerpt": "Higher-level, more strategic decisions that shape the direction of a business represent the last great frontier for AI in enterprises. And, to date, there is no shortage of skepticism among decision makers when it comes to strategic AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6169e8484f9cb5f76e994825%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/",
-      "publishedDateTime": "2021-10-18T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment.md",
-      "title": "British fintech Zopa hits $1 billion valuation with SoftBank investment",
-      "excerpt": "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "originalUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
-      "publishedDateTime": "2021-10-18T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity.md",
-      "title": "Gartner survey of CIOs highlights investments in AI, cloud and cybersecurity",
-      "excerpt": "A new survey from Gartner found that a majority of CIOs are focusing their investments this year and next year on AI and distributed cloud technology. The 2022 CIO and Technology Executive Survey features data gleaned from 2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/",
-      "originalUrl": "https://www.zdnet.com/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/",
-      "publishedDateTime": "2021-10-18T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
-      "title": "AI ethics maturity model: A company guide",
-      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
-      "publishedDateTime": "2021-10-18T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai.md",
-      "title": "Taliban can only gain recognition through Afghan people’s support: Karzai",
-      "excerpt": "Former Afghan president Hamid Karzai said that the current Taliban government in Afghanistan can get international recognition only through the \"support of the Afghan people\". International legitimacy could only be achieved through the expression of the will of the Afghan people,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
-      "originalUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/Hamid-Karzai-AA1616688192-0/Hamid-Karzai-AA1616688192-0.jpg  ",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
-      "publishedDateTime": "2021-10-18T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
-      "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
-      "originalUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
+      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/10/19/gitex-officials-750.ashx?h=450&w=750&hash=09DE765F8E66DE8B471B6F104469C294",
-          "width": 750,
-          "height": 450,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -913,13 +1135,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T09:49:00-07:00",
+      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "publishedDateTime": "2021-10-19T01:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Gulf Today",
-        "domain": "gulftoday.ae",
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-scientists-show-how-ai-may-spot-unseen-signs-of-heart-failure.md",
+      "title": "Scientists show how AI may spot unseen signs of heart failure",
+      "excerpt": "A special artificial intelligence (AI)-based computer algorithm created by Mount Sinai researchers was able to learn how to identify subtle changes in electrocardiograms (also known as ECGs or EKGs) to predict whether a patient was experiencing heart failure.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-show-how-ai.jpg",
+          "width": 2880,
+          "height": 2843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp",
+      "publishedDateTime": "2021-10-19T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -929,267 +1203,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-deepmind-acquires-and-open-sources-robotics-simulator-mujoco.md",
-      "title": "DeepMind acquires and open-sources robotics simulator MuJoCo",
-      "excerpt": "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/",
-      "publishedDateTime": "2021-10-18T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-scottish-schools-serve-up-facial-recognition-for-school-dinners.md",
-      "title": "Scottish schools serve up facial recognition for school dinners",
-      "excerpt": "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
-      "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp",
-      "publishedDateTime": "2021-10-18T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-how-iot-and-ai-are-helping-keep-truck-drivers-safe.md",
-      "title": "How IoT and AI are helping keep truck drivers safe",
-      "excerpt": "Truck safety is a major focus for the trucking industry. Now there is artificial intelligence that can make a real-time difference in lives, money and on-road safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "originalUrl": "https://www.techrepublic.com/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/06/5f4c3917-7489-40fc-a941-d394145ef06a/resize/1200x/6ff740d56972d972eaef076dd625711d/istock-539355552truck.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-iot-and-ai-are-helping-keep-truck-drivers-safe/",
-      "publishedDateTime": "2021-10-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
-      "title": "Data transformation platform Metrolink.ai raises $22M",
-      "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "publishedDateTime": "2021-10-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing.md",
-      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing",
-      "excerpt": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of AI with data from a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=1024",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "publishedDateTime": "2021-10-18T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

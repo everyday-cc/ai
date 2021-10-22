@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/19/sambanova-systems-releases-enterp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/sambanova-systems-releases-enterprise-grade-gpt-ai-powered-language-model/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -31,29 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-    excerpt: "Company’s Tech Launches New Era of Video Intelligence, Announces $22 Million Series A from Redpoint Ventures and Bessemer Venture PartnersSAN FRANCISCO--(BUSINESS WIRE)--Spot AI officially launched today with a goal to provide every person in any business access to video intelligence,"
-    publishedDateTime: 2021-10-15T15:37:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=547895"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Spot AI Launches AI-Powered Camera System to Change How Businesses Use Video"
-    excerpt: "Spot AI officially launched today with a goal to provide every person in any business access to video intelligence, a tool that enables better decisio"
-    publishedDateTime: 2021-10-15T19:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211015005475/en/Spot-AI-Launches-AI-Powered-Camera-System-to-Change-How-Businesses-Use-Video"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
   - title: "World's First Enterprise Grade GPT AI-powered Language Model Introduced by SambaNova Systems"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and services to run AI applications, announced today the availability of the company's Generative Pre-trained Transformer (GPT) language model included in SambaNova's Dataflow-as-a-Service for language - increasing the capability of SambaNova's Natural Language Processing (NLP) model with unmatched speed and accuracy,"
     publishedDateTime: 2021-10-19T13:19:00Z

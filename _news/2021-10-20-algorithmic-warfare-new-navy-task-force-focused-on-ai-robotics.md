@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:20:00Z
 originalUrl: "https://www.nationaldefensemagazine.org/articles/2021/10/21/new-navy-task-force-focused-on-ai-robotics"
 webUrl: "https://www.nationaldefensemagazine.org/articles/2021/10/21/new-navy-task-force-focused-on-ai-robotics"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: National Defense Magazine

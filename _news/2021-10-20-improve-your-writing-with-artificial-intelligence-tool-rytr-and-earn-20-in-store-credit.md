@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T12:42:00Z
 originalUrl: "https://futurism.com/improve-your-writing-with-artificial-intelligence-tool-rytr-and-earn-20-in-store-credit"
 webUrl: "https://futurism.com/improve-your-writing-with-artificial-intelligence-tool-rytr-and-earn-20-in-store-credit"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Futurism

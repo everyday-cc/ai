@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T18:50:00Z
 originalUrl: "https://www.forbes.com/sites/davealtavilla/2021/10/20/ai-processing-is-critical-for-smartphones-and-benchmarks-show-snapdragon-out-in-front/"
 webUrl: "https://www.forbes.com/sites/davealtavilla/2021/10/20/ai-processing-is-critical-for-smartphones-and-benchmarks-show-snapdragon-out-in-front/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Forbes

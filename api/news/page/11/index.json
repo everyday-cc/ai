@@ -2,21 +2,21 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-10-10-beethovens-last-symphony-finished-by-ai.md",
-      "title": "Beethoven's last symphony finished by AI",
-      "excerpt": "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived.",
+      "path": "_news/2021-10-11-china-has-won-ai-battle-with-us-pentagons-ex-software-chief.md",
+      "title": "China has won AI battle with US: Pentagon's ex-software chief",
+      "excerpt": "Pentagon's former software chief Nicolas Chaillan has said that China has won the artificial intelligence battle with the US. Chaillan added that China, the world's second-largest economy, is set to dominate the future of the world,",
       "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
-      "originalUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
+      "webUrl": "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "originalUrl": "https://inshorts.com/en/news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
       "featuredContent": null,
       "highlight": null,
       "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": " https://i.tribune.com.pk/media/images/ludwig_van_beethoven1633846240-0/ludwig_van_beethoven1633846240-0.jpg  ",
-          "width": 724,
-          "height": 543,
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/11_mon/img_1633964411381_404.jpg?",
+          "width": 728,
+          "height": 485,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
-      "publishedDateTime": "2021-10-10T00:05:00-07:00",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/china-has-won-ai-battle-with-us-pentagons-exsoftware-chief-1633967499562",
+      "publishedDateTime": "2021-10-11T08:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
+        "name": "Inshorts",
+        "domain": "inshorts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -44,683 +44,19 @@
       ]
     },
     {
-      "path": "_news/2021-10-10-ai-ml-big-data-use-in-travel-hospitality-sector.md",
-      "title": "AI, ML & Big Data use in travel, hospitality sector",
-      "excerpt": "The travel and hospitality industry in India has been on a rise and has been one of the main factors of growth. AI, machine learning and big data analytics have brought a revolution in the",
+      "path": "_news/2021-10-11-ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains.md",
+      "title": "AI May Have A Thing Or Two To Learn From Our Imperfect Brains",
+      "excerpt": "By making neural nets imperfect, just like our brains, researchers show that AI can learn faster and more robustly.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "originalUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/09/1116344-data.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
-      "publishedDateTime": "2021-10-09T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
-      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
-      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
-      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-414056/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291",
-      "publishedDateTime": "2021-10-09T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-10-counting-down-to-our-ai-rapture.md",
-      "title": "Counting down to our AI rapture",
-      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/",
-      "originalUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/09/counting-down-to-our-ai-rapture/amp/",
-      "publishedDateTime": "2021-10-09T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "AI is quickly becoming more useful in our world, and these two companies are perfectly positioned to benefit from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F645506%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/09/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "publishedDateTime": "2021-10-09T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-delta-air-lines-expands-facial-recognition-digital-id-to-atlanta.md",
-      "title": "Delta Air Lines Expands Facial Recognition Digital ID To Atlanta",
-      "excerpt": "Delta is expanding its digital identity experience to its home in Atlanta, Georgia. Domestic passengers of the",
-      "sourceUrl": null,
-      "webUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "originalUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://simpleflying.com/wp-content/uploads/2021/06/GettyImages-1263005027-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "cdnAmpWebUrl": "https://simpleflying-com.cdn.ampproject.org/c/s/simpleflying.com/delta-facial-recognition-atlanta/amp/",
-      "publishedDateTime": "2021-10-09T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simple Flying",
-        "domain": "simpleflying.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times.md",
-      "title": "Creating, Curating, And Optimizing With Data Science And Machine Learning At The New York Times",
-      "excerpt": "Journalism, an industry whose primary focus is the communication of ideas in both text and visual format, has come to adopt the tools and techniques of data science to put power behind analysis and visualization of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/",
+      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
+      "originalUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6161a43b64fa06e32b3a987f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D396%26cropY1%3D29%26cropY2%3D426",
-          "width": 396,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/09/creating-curating-and-optimizing-with-data-science-and-machine-learning-at-the-new-york-times/amp/",
-      "publishedDateTime": "2021-10-09T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains.md",
-      "title": "How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains",
-      "excerpt": "Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "originalUrl": "https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-414056/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633790990",
-      "publishedDateTime": "2021-10-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-ai-for-asset-tracking-using-only-machine-learning-core-in-sensors.md",
-      "title": "AI for asset tracking using only machine learning core in sensors",
-      "excerpt": "Using our wireless IoT wearable node (SensorTile.box) and Qeexo AutoML software, you can build decision tree algorithms for our sensors without writing a single line of code. We explore the machine learning core engine in the LSM6DSOX 6-axis inertial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/about/events/events.html/intelligent-asset-tracking-enabled-by-lsm6dsox.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor.md",
-      "title": "Artificial Intelligence and robotics are game-changing courses of future markets: AP government advisor",
-      "excerpt": "The state government advisor said Andhra Pradesh was the first state to include skill development as part of the curriculum at the graduation level.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/articleshow/86890710.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-86890895,width-1070,height-580,imgsize-86670,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/amaravati/artificial-intelligence-and-robotics-are-game-changing-courses-of-future-markets-ap-government-advisor/amp_articleshow/86890710.cms",
-      "publishedDateTime": "2021-10-09T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-early-evoked-brain-activity-underlies-auditory-and-audiovisual-speech-recognition-deficits-in-schizophrenia.md",
-      "title": "Early evoked brain activity underlies auditory and audiovisual speech recognition deficits in schizophrenia",
-      "excerpt": "Objectives People with Schizophrenia (SZ) show deficits in auditory and audiovisual speech recognition. It is possible that these deficits are related to aberrant early sensory pr",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "originalUrl": "https://europepmc.org/article/PPR/PPR405579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-09T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
-      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
-      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "publishedDateTime": "2021-10-08T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-cloud-optimization-startup-cast-ai-raises-10m.md",
-      "title": "Cloud optimization startup Cast AI raises $10M",
-      "excerpt": "Cast AI, a startup company developing software that optimizes cloud spend, has raised $10 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1181407992.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/cloud-optimization-startup-cast-ai-raises-10m/amp/",
-      "publishedDateTime": "2021-10-08T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-irobot-roomba-j7-vs-samsung-jet-bot-ai-robot-vacuums-offer-distinct-features.md",
-      "title": "iRobot Roomba j7+ vs. Samsung Jet Bot AI+: Robot vacuums offer distinct features",
-      "excerpt": "Both the iRobot Roomba j7+ and the Samsung Jet Bot A.I.+ are powerful robot vacuums. Which one is the right pick for your home?",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/",
-      "originalUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-review-7-of-12.jpg",
-          "width": 1500,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/roomba-j7-vs-samsung-jet-bot-ai/?amp",
-      "publishedDateTime": "2021-10-08T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you.md",
-      "title": "Thinking About AI To Grow Your Fashion Or Design Brand? Let These Companies Inspire You",
-      "excerpt": "Businesses are using advanced AI technologies to drive customer growth, production management, user analytics and more. This is a list of ten companies that are taking AI to the next level so businesses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61608f297f417592678425ab%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2021/10/08/thinking-about-ai-to-grow-your-fashion-or-design-brand-let-these-companies-inspire-you/amp/",
-      "publishedDateTime": "2021-10-08T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-ai-weekly-eu-facial-recognition-ban-highlights-need-for-us-legislation.md",
-      "title": "AI Weekly: EU facial recognition ban highlights need for U.S. legislation",
-      "excerpt": "European Union regulators propose a ban on facial recognition technologies. It highlights the need for U.S. federal legislation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f0727aaf1ba4f05fea398%2F0x0.jpg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -730,16 +66,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/ai-weekly-eu-facial-recognition-ban-highlights-need-for-u-s-legislation/amp/",
-      "publishedDateTime": "2021-10-08T11:15:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
+      "publishedDateTime": "2021-10-11T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -755,25 +91,76 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-09-researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare.md",
-      "title": "Researchers, UW educators see a bright future for AI in healthcare",
-      "excerpt": "The three speakers shared how companies, including Wisconsin’s postsecondary institutions, are using technology to improve human health.",
+      "path": "_news/2021-10-11-amazon-awss-ai-team-seeks-the-profound-in-the-industrial.md",
+      "title": "Amazon AWS's AI team seeks the profound in the industrial",
+      "excerpt": "In what's called \"Graceful AI,\" Amazon AWS AI lead Stephan Soatto and colleagues work to solve industrial problems that in turn may produce new insights into the fundamentals of deep learning and information theory.",
       "sourceUrl": null,
-      "webUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
-      "originalUrl": "https://madison.com/ct/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.html",
+      "webUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/4/34/434fa0a6-a033-58ed-b6ed-576a955cf1b5/61536cc229786.image.jpg",
-          "width": 600,
+          "url": "https://www.zdnet.com/a/img/resize/53056df0e801ec62e2c0b045f9ec78a478910e4c/2021/10/11/4a05eedc-7dfa-4f68-994f-c3b0170c3a4c/stefano-soatto-amazon-aws-applied-ai-2021.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
+      "publishedDateTime": "2021-10-11T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
+      "title": "How FinTech Is Changing The Insurance Industry",
+      "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEGg8v3R79fEA/article-cover_image-shrink_600_2000/0/1633965955561?e=1640217600&v=beta&t=Y63Cbkp6bJc1FUkTSXa-8DGMh9RFFzHHa0TScgIiSos",
+          "width": 744,
           "height": 400,
           "title": null,
           "attribution": null,
@@ -782,144 +169,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/researchers-uw-educators-see-a-bright-future-for-ai-in-healthcare/article_e000507c-1f33-5a53-ac2d-44541ad8fad2.amp.html",
-      "publishedDateTime": "2021-10-08T10:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T08:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip.md",
-      "title": "Realme GT Neo 2T is coming with Dimensity 1200 AI customized chip",
-      "excerpt": "The Realme GT Neo 2 premiered last month and is set to hit the global market next week. It is predicted that outside of China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/realme-neo-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "publishedDateTime": "2021-10-08T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-artificial-intelligence-suggests-a-new-narrative-for-the-out-of-africa-process.md",
-      "title": "Artificial intelligence suggests a new narrative for the Out of Africa process",
-      "excerpt": "Researchers from Estonia and Italy developed an innovative method by combining neural networks and statistics. Using this newly developed method, they refined the \"Out of Africa\" scenario. The researchers claimed that the African dynamics around the time of the Out of Africa expansion are more complex than previously thought.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
-      "originalUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-37.jpg",
-          "width": 2880,
-          "height": 2872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-artificial-intelligence-narrative-africa.amp",
-      "publishedDateTime": "2021-10-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
-      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
-      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "publishedDateTime": "2021-10-08T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -933,21 +199,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-08-jdcom-baidu-invest-400-million-in-elevator-ad-firm-xinchao.md",
-      "title": "JD.com, Baidu invest $400 million in elevator ad firm Xinchao",
-      "excerpt": "JD.com and Baidu have jointly invested $400 million in elevator advertising firm Xinchao Media Group. Why it matters: The two Chinese tech giants are returning investors in the Chengdu-based media company. The deal is a major external investment for JD ...",
+      "path": "_news/2021-10-11-2-artificial-intelligence-stocks-to-buy-2-to-avoid.md",
+      "title": "2 Artificial Intelligence Stocks to Buy, 2 to Avoid",
+      "excerpt": "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and",
       "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "originalUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
+      "webUrl": "https://www.entrepreneur.com/article/390452",
+      "originalUrl": "https://www.entrepreneur.com/article/390452",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://technode.com/wp-content/uploads/2021/10/截屏2021-10-08-上午10.42.23.png",
-          "width": 1848,
-          "height": 1202,
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg",
+          "width": 2560,
+          "height": 1707,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -955,14 +221,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "publishedDateTime": "2021-10-08T08:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -971,26 +246,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-08-what-made-me-want-to-fight-for-fair-ai.md",
-      "title": "What made me want to fight for fair AI",
-      "excerpt": "My life has always involved centering the voices of those historically marginalized in order to foster equitable communities. Growing up, I lived in a small suburb just outside of Cleveland, Ohio and I was fortunate enough to attend Laurel School, an all-girls school focused on encouraging young women",
+      "path": "_news/2021-10-11-ai-estimates-85-of-worlds-population-is-affected-by-climate-change.md",
+      "title": "AI estimates 85% of world's population is affected by climate change",
+      "excerpt": "A team of researchers in Germany used machine learning to crunch at least 60,000 studies related to climate change.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
-      "originalUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
+      "webUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
+      "originalUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ai_Speaker_sFyeasw.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
+          "url": "https://www.cnet.com/a/img/xhSpkTmhDuqAlahdqvYTA7t3MJ4=/1200x630/2021/10/11/29fa3084-59a6-447e-b90c-5d4aa8fa774b/gettyimages-1235419694.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -998,16 +273,67 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
-      "publishedDateTime": "2021-10-08T08:00:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
+      "publishedDateTime": "2021-10-11T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ondas-dynamai-collaborate-over-ai-ml-capabilities.md",
+      "title": "Ondas, Dynam.AI Collaborate Over AI, ML Capabilities",
+      "excerpt": "We believe partnering with Dynam will allow us to integrate advanced AI/ML capabilities faster and more deeply as we scale with customers,\" Ondas Chair and CEO Eric Brock said. American Robotics has agreed to utilize Dynam.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2160.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1024,67 +350,25 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-08-artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys.md",
-      "title": "Artificial intelligence can help halve road deaths by 2030, say UN envoys",
-      "excerpt": "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative.",
+      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
+      "title": "Fintech And Compliance: It’s Not One Size Fits All",
+      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
       "sourceUrl": null,
-      "webUrl": "https://news.un.org/en/story/2021/10/1102522",
-      "originalUrl": "https://www.khaleejtimes.com/world/americas/artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys",
+      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
+      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/08-12-2020-AI-autonomous-vehicle.jpg/image770x420cropped.jpg",
-          "width": 770,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-algolia-only-26-of-retailers-use-ai-optimized-search.md",
-      "title": "Algolia: Only 26% of retailers use AI-optimized search",
-      "excerpt": "AI is a lesser used tool for generating personalized recommendations, yet companies that embrace AI-driven search are reaping the benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/ecommerce-3688436.jpg?w=1200&strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
           "width": 1200,
-          "height": 802,
+          "height": 704,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1092,60 +376,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "publishedDateTime": "2021-10-08T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-is-baidus-stock-cheap-at-150.md",
-      "title": "Is Baidu’s Stock Cheap At 150?",
-      "excerpt": "Baidu’s stock (NASDAQ: BIDU) has fallen by 30% from $216 to $150 since the end of 2020. In comparison, the broader S&P500 rose by 16% in the same period. Trefis analysis of Baidu’s Valuation is $224,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1061811420%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "publishedDateTime": "2021-10-08T06:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
+      "publishedDateTime": "2021-10-11T07:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1168,7 +401,791 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
+      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
+      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
+      "publishedDateTime": "2021-10-11T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
+      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
+      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
+      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
+      "publishedDateTime": "2021-10-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-rise-of-the-robots-the-future-of-robotics-is-social.md",
+      "title": "Rise of the Robots: The Future of Robotics is Social",
+      "excerpt": "As an example, an autonomous robot named ‘Xavier’ has been deployed in Singapore to stamp out undesirable social behaviour such as smoking in prohibited areas and illegal bicycle parking. As the world’s most automated country,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
+      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
+      "publishedDateTime": "2021-10-11T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-robots-with-an-artificial-intelligence-system-began-operation-in-dubai-uae.md",
+      "title": "Robots with an artificial intelligence system began operation in Dubai, UAE",
+      "excerpt": "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
+      "publishedDateTime": "2021-10-11T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision.md",
+      "title": "Toyota Research Institute Announces Machine Learning Advances at the International Conference on Computer Vision",
+      "excerpt": "Today, the Toyota Research Institute (TRI) announced the acceptance of six research papers in the field of machine learning at the International Conference on Computer Vision (ICCV). The research advances understanding across various tasks crucial for robotic perception,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/toyota-research-institute-announces-machine-learning-advances-at-the-international-conference-on-computer-vision-1030856168",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1656665/SIM2REAL_Composite.jpg",
+          "width": 679,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-smp-robotics-s51-robot-deployed-at-logistic-centre-to-enhance-security-and-intelligent-monitoring.md",
+      "title": "SMP Robotics S5.1 robot deployed at logistic centre to enhance security and intelligent monitoring",
+      "excerpt": "SMP Robotics announces that jointly with its US-Canada Master distributor company Robotics Assistance Device (RAD), carried out an deployment of autonomous security robot S5.1 on the territory of",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/fingerprint-scanner.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/smp-robotics-s5-1-robot-deployed-co-14203-ga.1630499694.html",
+      "publishedDateTime": "2021-10-11T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
+      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey.md",
+      "title": "Five Questions To Ask Before Embarking On An Enterprise AI Journey",
+      "excerpt": "The opportunities and challenges in enterprise AI are unique, and it is important to pressure-test your readiness before you embark on an enterprise AI journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcece35bc8e10006c95e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
+      "publishedDateTime": "2021-10-11T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more.md",
+      "title": "Is Airbnb Safe? New Report Exposes Scams, Bug Infestations And More",
+      "excerpt": "According to a new report that analyzed Twitter complaints about Airbnb stays, a lot can go wrong on your vacation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6164214ac56137c3172194f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
+      "publishedDateTime": "2021-10-11T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-deep-learning-system-software-market-to-witness-stunning-growth-intel-google-ibm.md",
+      "title": "Deep Learning System Software Market to Witness Stunning Growth | Intel, Google, IBM",
+      "excerpt": "Advance Market Analytics published a new research publication on Deep Learning System Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
+      "originalUrl": "https://www.openpr.com/news/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua11135678_g.jpg",
+          "width": 660,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2424329/deep-learning-system-software-market-to-witness-stunning-growth",
+      "publishedDateTime": "2021-10-11T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-why-simple-machine-learning-models-are-key-to-driving-business-decisions.md",
+      "title": "Why Simple Machine Learning Models Are Key To Driving Business Decisions",
+      "excerpt": "Despite the breakthroughs in data science and machine learning (ML), despite the development of several data management softwares and despite hundreds of articles and videos online, why is it that production-ready ML models are just not hitting the mark?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61606638fba0b1336be54839%2F0x0.jpg",
+          "width": 1200,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/10/11/why-simple-machine-learning-models-are-key-to-driving-business-decisions/amp/",
+      "publishedDateTime": "2021-10-11T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-harness-your-data-to-make-weak-ai-your-strength.md",
+      "title": "Harness your data to make weak AI your strength",
+      "excerpt": "\"Weak AI” is delegating to  computer systems tasks handled by people provided the scope of data provided is sufficient to recognize patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/harness-your-data-to-make-weak-ai-your-strength/amp/",
+      "publishedDateTime": "2021-10-11T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
+      "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
+      "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
+      "publishedDateTime": "2021-10-11T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-ai-doesnt-explain-itself-machine-learning-has-a-deus-ex-machina-problem.md",
+      "title": "AI doesn't explain itself - machine learning has a \"Deus ex Machina\" problem",
+      "excerpt": "Too often, AI vendors tell us - \"Machine learning handles that.\" So what exactly does that mean? Vendors are making what I call Deux es Machina claims about AI - now it's time to back those claims up.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
+      "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-12/ai-chess.jpg",
+          "width": 1279,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
+      "publishedDateTime": "2021-10-11T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-three-months-of-smp-robotics-patrolling-in-dubai.md",
+      "title": "Three months of SMP robotics patrolling in Dubai",
+      "excerpt": "Picard security robots have been patrolling in various territories in Dubai UAE. High temperatures of the summer months did not interfere with the reliable operation of",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/920/backdated-to-september-16-2019-three-months-of-smp-robotics-patrolling-in-dubai-920x533.jpg",
+          "width": 920,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
+      "publishedDateTime": "2021-10-11T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
+      "title": "The Ethics of Artificial Intelligence (AI)",
+      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
+      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
+      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "publishedDateTime": "2021-10-11T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

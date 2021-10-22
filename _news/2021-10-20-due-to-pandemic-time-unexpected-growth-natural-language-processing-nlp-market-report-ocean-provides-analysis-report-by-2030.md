@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T05:24:00Z
 originalUrl: "https://manometcurrent.com/due-to-pandemic-time-unexpected-growth-natural-language-processing-nlp-market-report-ocean-provides-analysis-report-by-2030/"
 webUrl: "https://manometcurrent.com/due-to-pandemic-time-unexpected-growth-natural-language-processing-nlp-market-report-ocean-provides-analysis-report-by-2030/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: manometcurrent.com

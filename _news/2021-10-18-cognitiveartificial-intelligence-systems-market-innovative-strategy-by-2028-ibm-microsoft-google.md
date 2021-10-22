@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unsupervised Learning Market to See Generated Opportunities 2021-2027 | Microsoft, Fair Isaac, IBM"
-    excerpt: "Unsupervised learning also known as unsupervised machine learning is a market that analyses and organises unlabeled information using machine learning algorithms according to Infinity Business Insights Unsupervised Learning Markets are the future frontiers in the IT and development industries These"
-    publishedDateTime: 2021-10-16T09:47:00Z
-    webUrl: "https://www.openpr.com/news/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    ampWebUrl: "https://www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430121/unsupervised-learning-market-to-see-generated-opportunities"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua16579177_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Deep Learning Market Size, Outlook and Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The report analyzes the major players of the Deep Learning Market by inspecting their market share, recent developments, new product launches, partnerships, mergers or acquisitions, and their target markets."
     publishedDateTime: 2021-10-17T22:23:00Z
@@ -52,37 +36,21 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 58
-  - title: "Augmented Intelligence – Breaking Barriers in The Global Market by Top SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson"
-    excerpt: "SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson among others are some of the major and emerging companies operating in the market. Market leaders are involved in partnerships, agreement and merger & acquisition to gain an edge over their competitors;"
-    publishedDateTime: 2021-10-18T14:29:00Z
-    webUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/"
-    ampWebUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
+  - title: "Artificial Intelligence as a Service Market Size, Outlook and Key Companies – Google, Amazon Web Services, Microsoft, IBM, SAS Institute, SAP"
+    excerpt: "Artificial Intelligence as a Service Market size was valued at USD 3.35 Billion in 2020 and is projected to reach USD 68.79 Billion by 2028, growing at a CAGR of 45.90% from 2021 to 2028. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-18T20:44:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-as-a-service-market-size-outlook/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-as-a-service-market-size-outlook/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-as-a-service-market-size-outlook/?amp=1"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 57
+    quality: 56
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Sustainability-Software-Tools-Market-Including-Key-Players-Market-Share-390x220.jpg"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Business-Insurance-Market-390x220.png"
         width: 390
         height: 220
-        isCached: true
-  - title: "Supervised Learning Market Trending factors and Growth Drivers Influencing Globally | Microsoft, Fair Isaac, IBM"
-    excerpt: "In this research report we have tried to determine market size revenue breakdown by key business segments and end use applications the report uses a combination of quantitative market statistics and qualitative analytical information The research covers historical data and"
-    publishedDateTime: 2021-10-16T09:40:00Z
-    webUrl: "https://www.openpr.com/news/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    ampWebUrl: "https://www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430119/supervised-learning-market-trending-factors-and-growth-drivers"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua16781743_g.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Virus Tracker Apps Market Boosting the Growth Worldwide | Google, Microsoft, Locix"
     excerpt: "Stay up to date and exploit latest trends of Virus Tracker Apps Market with latest edition released by AMA Virus Tracker Apps Market Comprehensive Study is an expert and top to bottom investigation on the momentum condition of the worldwide"
@@ -100,6 +68,31 @@ related:
         width: 800
         height: 352
         isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size, Outlook and Key Companies – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
+    excerpt: "The report analyzes the major players of the Artificial Intelligence in Aviation Market by inspecting their market share, recent developments, new product launches, partnerships, mergers or acquisitions,"
+    publishedDateTime: 2021-10-17T23:36:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-outlook/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-outlook/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-outlook/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Sustainability-Software-Tools-Market-Including-Key-Players-Market-Share-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Neural Network Software Market Shaping from Growth to Value | Qualcomm Technologies, Intel, Microsoft"
+    excerpt: "The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Neural"
+    publishedDateTime: 2021-10-18T06:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-shaping-from-growth-to-value-qualcomm-technologies-intel-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
 
 secured: "FfR/m9UnPIXYWYfnKnjx/Et3afd9IHaPKtNKGWxl1nf5HCnu5lWWENyAYhZ8xXk4I2+TNU6s48h79blan/WpIHoQvOsTIyV0yTN63H52f3c3nFKSKQHJq47vvCU2gUjXnmC3drGe2mDu6k6QlEFg6ofh5UcAMhZh5XsznjLs3NY3aACgt7s0+EGQNVpHru0/yNgHkQzezAnjm7xIrrl7lqI47IJcZnxPu3VcC4GAsFGtxIv7JckGEOLM6vkoDmnE9hfVWU1g63NfqckT+joiG/E+AanEoqC6Gw4mW6AHgucgF6C5XbMJ6o5xwZxSnzcIAraSMMkMmLn/Ok6+Nzc+VgU15dCja8CQprcufLALFuE=;Xj9foxGp1te1sRVS4ayVtg=="
 ---

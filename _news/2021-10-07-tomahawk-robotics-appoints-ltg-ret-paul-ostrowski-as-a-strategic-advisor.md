@@ -3,18 +3,24 @@ category: news
 title: "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor"
 excerpt: "Paul Ostrowski brings over 28 years of defense acquisition expertise to Tomahawk Robotics. LTG (Ret.) Ostrowski served as the Army's top uniformed acquisition official as well as a Program Executive Officer."
 publishedDateTime: 2021-10-07T13:07:00Z
-originalUrl: "https://www.wlox.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/?outputType=apps"
-webUrl: "https://www.wlox.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/?outputType=apps"
+originalUrl: "https://www.wilx.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
+webUrl: "https://www.wilx.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
 type: article
 
 provider:
-  name: WLOX
-  domain: wlox.com
+  name: WILX-TV
+  domain: wilx.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "dRMXsdbL3hMqVNdcjRJdrNxEheIk00Fr/SjEgwzGzgLcwbgj0x3DBacyRypzKz5tjy+h9WpafKj3WZUZW20+MaEDEMNSQtkAiwNeB25p2CXpURxmA5IVgkCF+WDIE/3C0C+1aP1jczt4JwKDDyTeEH48Fbwfh2YMynUGo5/EH3qFDtjFbwhzd5LKcOJX25EqmomzQ9qPKO7lN2z5RSxIB0+5A8UCi32qe+VQNp0ztj+GGBBKM8+GftY3IalruwkpKZ4abkXTYoPLifgCB4oOXG9TX4RS/lFukA1LRsgbuP9lLwXgWm7zXNvb6i6UZ9IrJfO4eA49XyvTyVCFDsVmbXr7ergOJbLGXiUNBE/D9lif/SDUzDrnziOVDvjlhfKPdtESj/kR5OIy+AtKIQfUqY+lsXy35h5+0truu0v0GEGUC5sX5RqK36+rjQR4JKQ8U1A8fEPi4NpkpPJPlXdOTACdFgZ1XZ+V6HQKT/NfgZ3Cf1sFJz83ANvwQ9qywujdOMZmN/+gCCUS7iwe448wpA==;hCoqkjp6fWLvrImb6y4dEw=="
+images:
+  - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg"
+    width: 980
+    height: 653
+    isCached: true
+
+secured: "y2IihMHm9TH/QerfRMSrG331iAWyEE7FtDDN5SXEdzUcMnf2PCY+CnrCmlc94+6oEKo7WW17OuRa/vksHsRWKKSlun5fNGCUDLWSiSREWKmgggGBqRUeo8ZUHqZiN7gzHSuRD1mH3obTPO2R1KTnqwzYim5WzI+cSW4gpt58MUdNAbUgyTama9JY4AQiCyFp+lQO0yuApip0Gm+NnKhVVtNjcp9mt1o5o+i3yxNttqZOnJ0uZad+c4vZ4jdlVr4z9lIfHgM+ngcCrAXcbI/jB+8yQuD6Qx6WgFkjsHP9AycnSfjugYU7TLUCo7FbfiGf6Xw7Zla8sWjIVVmNt0GDb1Edq+Abhaz3vAT2SN3Y8ts=;hiNjiToMwCLmIOOUgvDDAQ=="
 ---
 

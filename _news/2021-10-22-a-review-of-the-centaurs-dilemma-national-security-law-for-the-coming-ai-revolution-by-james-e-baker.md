@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T19:15:00Z
 originalUrl: "https://www.law.com/corpcounsel/2021/10/21/a-review-of-the-centaurs-dilemma-national-security-law-for-the-coming-ai-revolution-by-james-e-baker/"
 webUrl: "https://www.law.com/corpcounsel/2021/10/21/a-review-of-the-centaurs-dilemma-national-security-law-for-the-coming-ai-revolution-by-james-e-baker/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Law

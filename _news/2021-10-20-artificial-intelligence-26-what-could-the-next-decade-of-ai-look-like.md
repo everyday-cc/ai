@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T06:29:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-26-what-could-next-decade-ai-look-ajit-jaokar"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-26-what-could-next-decade-ai-look-ajit-jaokar"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: LinkedIn

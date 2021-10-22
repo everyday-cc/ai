@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T08:57:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-the-freight-transportation-market-is-expected-to-show-impressive-growth-rate-cagr-17-90/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-the-freight-transportation-market-is-expected-to-show-impressive-growth-rate-cagr-17-90/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: manometcurrent.com

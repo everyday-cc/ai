@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:05:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2021/10/20/us-air-force-teams-with-uk-on-machine-learning-demo/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Defense News

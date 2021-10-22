@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T13:02:00Z
 originalUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
 webUrl: "https://www.kotatv.com/prnewswire/2021/10/19/virtana-platform-now-available-aws-marketplace/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: KOTA TV

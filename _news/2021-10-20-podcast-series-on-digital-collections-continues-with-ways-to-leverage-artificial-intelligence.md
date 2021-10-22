@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:53:00Z
 originalUrl: "https://www.autoremarketing.com/subprime/podcast-series-digital-collections-continues-ways-leverage-artificial-intelligence"
 webUrl: "https://www.autoremarketing.com/subprime/podcast-series-digital-collections-continues-ways-leverage-artificial-intelligence"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Auto Remarketing

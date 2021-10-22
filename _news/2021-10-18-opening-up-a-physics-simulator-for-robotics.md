@@ -60,6 +60,15 @@ related:
         width: 917
         height: 524
         isCached: true
+  - title: "Why DeepMind Acquired This Robotics Startup"
+    excerpt: "Alphabet-owned DeepMind acquired a physics simulation platform MuJoCo, which stands for Multi-Joint Dynamics with Contact."
+    publishedDateTime: 2021-10-20T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 51
   - title: "DeepMind Announces MuJoCo Physical Process Simulator"
     excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
     publishedDateTime: 2021-10-19T22:00:00Z
@@ -73,6 +82,20 @@ related:
       - url: "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
         width: 1201
         height: 1200
+        isCached: true
+  - title: "DeepMind’s Decision To Buy MuJoCo; Good Or Bad?"
+    excerpt: "DeepMind has high hopes of riding on this multi-faceted robotics simulator. But how does it compare with other simulators?"
+    publishedDateTime: 2021-10-22T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-decision-to-buy-mujoco-good-or-bad/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/MuJoCo_AIM.gif"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "+xCjCNjSehYlB+m5W6/1n5qtvpUpTdNUJhswrVCVIzib72pKx3cZxAy8PcKjeWk6GdffbsX9IgJ3Tpe1El0oXxGXMtgvKTbyXg/cf7sISaSTmS0G3xgvRsz+6c5B5K2s6L9AbEIBUZVjprPbItcY6TIoQgRsxpKRbqQVrUIExec/XfqJe/0Ys0VzlSyWuWMWQoVDL9lXO4tXR1+joQUh8MxwU7vJ6E9r+0AdB3Fj4n5pTWsrsjTbhdu2xse4cY7cgIVjIJ9XKa6/1ZQKMbUnEO4a10u7E2b4aWZWTIlFH+yjnVmlj3u5IYWBlR1IXpbTYcaJC85UUmsVCR+DVnJl1sh/5WL4j9KgP4LjUzNo/A8=;9kQmHx63cGxZttlt/JMINQ=="

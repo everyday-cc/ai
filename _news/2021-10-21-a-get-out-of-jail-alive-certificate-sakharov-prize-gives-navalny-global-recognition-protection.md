@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T19:46:00Z
 originalUrl: "https://www.rferl.org/a/navalny-sakharov-analysis-protection-prison/31521456.html"
 webUrl: "https://www.rferl.org/a/navalny-sakharov-analysis-protection-prison/31521456.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Radio Free Europe/Radio Liberty

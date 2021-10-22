@@ -2,21 +2,21 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2021-08-20-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "The processing of neural networks for artificial intelligence is becoming a main part of the workload of every kind of chip, according to chip giant Intel, which on Thursday unveiled details of forthcoming processors during its annual \"Architecture Day ...",
+      "path": "_news/2021-08-22-3-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Through AWS, developers implement complex AI and machine learning services without having to build the technologies themselves. Image source: Getty Images. While artificial intelligence may seem ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
+      "webUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F639600%2Fgettyimages-1307905824.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T21:53:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/21/3-artificial-intelligence-stocks-to-buy-right-now/",
+      "publishedDateTime": "2021-08-22T05:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,50 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-aws-deepracer-robomaker-image.md",
-      "title": "AWS DeepRacer Robomaker Image",
-      "excerpt": "AVX is available on most Intel Core processors from the second generation on - running DeepRacer on an older processor really does not make sense; hence we do not have pre-built images without this instruction set. AVX2 is available on more modern Intel ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
-      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-simapp/blob/master/README.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/8974c5509d5b27c060e4a5c74d508fdf14e2b3b8566b937df0d97c131812003a/aws-deepracer-community/deepracer-simapp",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -94,26 +50,25 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-waymos-autonomous-vehicles-have-clocked-20-million-miles-on-public-roads.md",
-      "title": "Waymo's autonomous vehicles have clocked 20 million miles on public roads",
-      "excerpt": "Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets,",
+      "path": "_news/2021-08-22-break-the-cycle-of-yesterdays-logic-in-organizational-change-and-agile-adoption.md",
+      "title": "Break the Cycle of Yesterday's Logic in Organizational Change and Agile Adoption",
+      "excerpt": "Topics discussed include deep learning, edge deployment of machine learning algorithms, commercial robot platforms ... could lead into a newborn mind set. Sadly, that is a false bias which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
-      "originalUrl": "https://www.engadget.com/waymo-autonomous-vehicles-update-san-francisco-193934150.html",
+      "webUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
+      "originalUrl": "https://www.infoq.com/articles/yesterdays-logic-change/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/2229add0-0124-11ec-bfdd-21d53ef207c7",
-          "width": 2048,
-          "height": 1152,
+          "url": "https://res.infoq.com/articles/yesterdays-logic-change/en/headerimage/header+%2839%29-1629446490745.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -123,21 +78,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T19:42:00-07:00",
+      "publishedDateTime": "2021-08-22T01:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -146,40 +92,31 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-baidu-reveals-its-maximally-autonomous-robocar.md",
-      "title": "Baidu reveals its maximally autonomous ‘robocar’",
-      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet ... Kunlun chip specialised in calculations and artificial intelligence seems to be part of the solution.",
+      "path": "_news/2021-08-22-artificial-intelligence-and-the-law.md",
+      "title": "Artificial Intelligence and the Law",
+      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "webUrl": "https://www.cambridge.org/at/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law",
+      "originalUrl": "https://www.cambridge.org/at/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/08/20/1262768.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:02:00-07:00",
+      "publishedDateTime": "2021-08-21T22:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -194,21 +131,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-ros-open-source-solutions.md",
-      "title": "ROS / Open Source Solutions",
-      "excerpt": "Amazon launched SageMaker Reinforcement Learning (RL) Kubeflow Components, an open-source toolkit designed to help manage robotics workflows. SageMaker RL is designed to make it faster to develop machine learning capabilities for everything from perception ...",
+      "path": "_news/2021-08-22-turkey-sets-national-artificial-intelligence-ai-strategy.md",
+      "title": "Turkey sets national artificial intelligence (AI) strategy",
+      "excerpt": "An announcement showed that Turkey has set a national artificial intelligence (AI) strategy.<br /> <br /> The 2021-2025 roadmaps showed six priorities",
       "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
-      "originalUrl": "https://www.therobotreport.com/category/technologies/ros-open-source/",
+      "webUrl": "https://menafn.com/1102655500/Turkey-sets-national-artificial-intelligence-AI-strategy",
+      "originalUrl": "https://menafn.com/1102655500/Turkey-sets-national-artificial-intelligence-AI-strategy",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/ros-world-2021-logo-300x300.jpg",
-          "width": 300,
-          "height": 300,
+          "url": "https://menafn.com/updates/pr/Menafn_News_Images/Local_BusinessFinance_86.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -218,11 +155,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "publishedDateTime": "2021-08-21T22:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -232,92 +169,30 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-sd-times-news-digest-microsoft-acquires-jclarity-julia-12-released-and-eggplants-automated-testing-capability.md",
-      "title": "SD Times news digest: Microsoft acquires jClarity, Julia 1.2 released, and Eggplant’s automated testing capability",
-      "excerpt": "The new AutoML capabilities include a AutoML Toolkit, an end-to-end machine learning pipeline, automated model search, automated hyperparameter tuning, and integration with Azure Machine Learning.",
+      "path": "_news/2021-08-22-ibm-says-its-reaching-for-the-moon-with-watson-health-that-hasnt-stopped-layoffs.md",
+      "title": "IBM says it's reaching for the 'moon' with Watson Health. That hasn't stopped layoffs.",
+      "excerpt": "Watson Health is one of IBM's key projects because it's trying to combine artificial intelligence, machine learning and big-data analytics to help researchers and physicians solve medical problems.",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
-      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-acquires-jclarity-julia-1-2-released-and-eggplants-automated-testing-capability/",
+      "webUrl": "https://www.newsobserver.com/news/business/article212325914.html",
+      "originalUrl": "https://www.newsobserver.com/news/business/article212325914.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/08/coffee-1117933_640-1.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
+      "ampWebUrl": "https://amp.newsobserver.com/news/business/article212325914.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article212325914.html",
+      "publishedDateTime": "2021-08-21T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-ut-southwestern-pioneers-pulsar-integrated-radiotherapy-with-immunotherapy-for-improved-tumor-control.md",
-      "title": "UT Southwestern pioneers PULSAR-integrated radiotherapy with immunotherapy for improved tumor control",
-      "excerpt": "Artificial intelligence, along with a $71-million expansion of Radiation Oncology services, is allowing UT Southwestern Medical Center cancer physicians to pioneer a new PULSAR radiation-therapy strategy that improves tumor control compared with traditional daily therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/926055",
-      "originalUrl": "https://www.eurekalert.org/news-releases/926055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f5e3fc51-c302-43d0-a53d-c058ccad2dc6/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -327,26 +202,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-tesla-to-hold-ai-day-at-a-time-of-new-scrutiny-what-to-expect.md",
-      "title": "Tesla to Hold AI Day at a Time of New Scrutiny: What to Expect",
-      "excerpt": "The world’s most valuable car maker is holding an event to promote its use of artificial intelligence, just as federal regulators this week announced a new investigation into the company’s Autopilot driver assistance technology.",
+      "path": "_news/2021-08-22-autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla.md",
+      "title": "Autonomous Vehicles Market to Eyewitness Massive Growth by 2026 | General Motors, Daimler Group, Baidu, Ford Motor Company, Audi, Tesla",
+      "excerpt": "The global Autonomous Vehicles market is expected to grow at a CAGR of 24.4% during the forecast period. The global Autonomous Vehicles market is estimated to be about 31675.9 million US dollars in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "originalUrl": "https://www.wsj.com/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
+      "webUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
+      "originalUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-387828?width=700&height=466",
-          "width": 700,
-          "height": 466,
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/Autonomous-Vehicles-Market-780x470.jpeg",
+          "width": 780,
+          "height": 470,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -354,23 +229,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-to-hold-ai-day-amid-new-scrutiny-what-to-expect-11629373430",
-      "publishedDateTime": "2021-08-19T14:41:00-07:00",
+      "ampWebUrl": "https://manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/autonomous-vehicles-market-to-eyewitness-massive-growth-by-2026-general-motors-daimler-group-baidu-ford-motor-company-audi-tesla/",
+      "publishedDateTime": "2021-08-21T11:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -379,75 +245,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-top-gun-star-lost-his-voice-to-cancer-he-used-ai-to-bring-it-back.md",
-      "title": "'Top Gun' star lost his voice to cancer. He used AI to bring it back.",
-      "excerpt": "Actor Val Kilmer lost his voice in 2015 due to complications to throat cancer. For his new documentary \"Val,\" Kilmer sought out a company to create a synthetic version of his voice using audio deepfake technology to be used as a voiceover.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "originalUrl": "https://edition.cnn.com/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business/video/playlists/business-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210721144935-val-kilmer-documentary-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/08/19/val-kilmer-ai-voice-js-orig.cnn-business",
-      "publishedDateTime": "2021-08-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-companies-betting-on-data-must-value-people-as-much-as-ai.md",
-      "title": "Companies betting on data must value people as much as AI",
-      "excerpt": "The truth is, we are still early when it comes to data transformation. The success of tech giants that put data at the core of their business models set off a spark that is only starting to take off.",
+      "path": "_news/2021-08-22-tracking-startup-growth-rates.md",
+      "title": "Tracking startup growth rates",
+      "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by what the weekday Exchange column digs into, but free, and made for your weekend reading. Want it in your inbox every Saturday?",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
-      "originalUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/",
+      "webUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/",
+      "originalUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-626953732.jpg?w=1024",
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
           "width": 1024,
           "height": 768,
           "title": null,
@@ -457,9 +272,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/19/companies-betting-on-data-must-value-people-as-much-as-ai/amp/",
-      "publishedDateTime": "2021-08-19T14:32:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/21/tracking-startup-growth-rates/amp/",
+      "publishedDateTime": "2021-08-21T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -486,21 +301,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-eq-inc-reports-second-quarter-financial-results.md",
-      "title": "EQ Inc. Reports Second Quarter Financial Results",
-      "excerpt": "Revenue increases 71% for the quarter and 74% year over year. TORONTO, ON / ACCESSWIRE / August 19, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or the “Company”), a leader in geo",
+      "path": "_news/2021-08-21-the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing.md",
+      "title": "The AI Marketing Canvas: A Roadmap To Implementing Artificial Intelligence In Marketing",
+      "excerpt": "Artificial intelligence (AI) is one of the hottest topics in marketing right now. Raj Venkatesan and Jim Lecinski recently published a book entitled “The AI Marketing Canvas: A Five-Stage Road Map to Implementing Artificial Intelligence in Marketing”.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-canada-business-health-coronavirus-pandemic-ebc568d3d0ef96c4422de13c99638903",
+      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2021/08/21/the-ai-marketing-canvas-a-roadmap-to-implementing-artificial-intelligence-in-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f37a46f5cc905452bdea50%2F0x0.jpg",
+          "width": 1200,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -510,11 +325,107 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T13:31:00-07:00",
+      "publishedDateTime": "2021-08-21T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars.md",
+      "title": "Angst And Worries That Forbidden Knowledge Could Be Revealed By Developing AI Self-Driving Cars",
+      "excerpt": "Asking whether forbidden knowledge might be hidden within efforts to create AI systems, and particularly in the case of developing self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aea6e9c265b9c305b6d333%2F0x0.jpg%3FcropX1%3D471%26cropX2%3D3180%26cropY1%3D8%26cropY2%3D1531",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/21/angst-and-worries-that-forbidden-knowledge-could-be-revealed-by-developing-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-4-robotics-stocks-to-watch-this-week.md",
+      "title": "4 Robotics Stocks To Watch This Week",
+      "excerpt": "Check Out These Top Robotics Stock Amid The Increasing Interest In Automation. Robotic stocks often elicit a sense of excitement among investors. To a certain extent, investing in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "originalUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-robotics-stocks-to-watch-this-week-2021-08-21?amp",
+      "publishedDateTime": "2021-08-21T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -524,26 +435,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027.md",
-      "title": "Artificial Intelligence in Retail Market Size, Growth and Forecast Analysis By 2027",
-      "excerpt": "A recent research report on the Global \"Artificial Intelligence in Retail Market\" presents a complete overview",
+      "path": "_news/2021-08-21-baidu-announces-autonomous-driving-milestones-at-baidu-world-2021.md",
+      "title": "Baidu Announces Autonomous Driving Milestones at Baidu World 2021",
+      "excerpt": "and be self-learning,\" said Robin Li, Co-founder and CEO of Baidu, as he unveiled his vision for autonomous vehicles of the future – a robocar with L5 autonomous driving capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-growth-and-forecast-analysis-by-2027-2021-08-19",
+      "webUrl": "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-announces-autonomous-driving-milestones-at-baidu-world-2021-301357959.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg?p=facebook",
+          "width": 1270,
+          "height": 665,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -553,14 +464,198 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T12:25:00-07:00",
+      "publishedDateTime": "2021-08-21T06:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-elon-musk-unveils-plan-for-humanoid-robot-prototype.md",
+      "title": "Elon Musk Unveils Plan for Humanoid Robot Prototype",
+      "excerpt": "Elon Musk said Tesla will debut a humanoid robot prototype called the Tesla Bot. Its purpose will be to perform physical labor. Musk suggested humans will be replaced in the workforce of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
+      "originalUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/6c993e1/2147483647/strip/true/crop/1000x521+0+83/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fab%2F03ac32bd487fac26ef4cc011d643%2Fshutterstock-1985005055.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/elon-musk-unveils-plan-for-humanoid-robot-prototype?_amp=true",
+      "publishedDateTime": "2021-08-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-sensetime-parlays-academic-bona-fides-into-worlds-largest-platform-for-artificial-intelligence-facial-recognition-image-processing.md",
+      "title": "SenseTime parlays academic bona fides into world’s largest platform for artificial intelligence, facial recognition, image processing",
+      "excerpt": "China’s AI industry may triple to 453.26 billion yuan in value by 2025 from last year, while a broader AI-driven industry may be as large as 1.66 trillion yuan, which underscores the strategic importance of the field in the Made in China 2025 industrial master plan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/21/e986ee0c-0187-11ec-83d9-2f907cc4e7e5_image_hires_151711.jpg?itok=PxNg6vKn&v=1629530249",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3145739/sensetime-parlays-academic-bona-fides-worlds-largest-platform",
+      "publishedDateTime": "2021-08-21T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs.md",
+      "title": "Quadriplegic man first in Chicago to participate in research for robotic prosthetic limbs",
+      "excerpt": "The first time Scott Imbrie cried over his catastrophic injury, he was looking out over Lake Michigan from a room inside the Rehabilitation Institute of Chicago.",
+      "sourceUrl": null,
+      "webUrl": "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html",
+      "originalUrl": "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/9/9f/99f9ae51-6f20-572c-95b6-7cb925ab8c27/611d2f3746dae.image.jpg?resize=1024%2C732",
+          "width": 1024,
+          "height": 732,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html",
+      "cdnAmpWebUrl": "https://pantagraph-com.cdn.ampproject.org/c/s/pantagraph.com/news/state-and-regional/quadriplegic-man-first-in-chicago-to-participate-in-research-for-robotic-prosthetic-limbs/article_cb2049f2-d03d-5392-9f28-c3eda2ce8dd3.amp.html",
+      "publishedDateTime": "2021-08-21T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pantagraph",
+        "domain": "pantagraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-can-now-identify-footprints-but-forensic-experts-wont-get-fired-just-yet.md",
+      "title": "AI can now identify footprints — but forensic experts won’t get fired just yet",
+      "excerpt": "We found AI was better at assessing footprints than general forensic scientists, but not better than specific footprint experts.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-identify-footprints-but-forensic-experts-wont-get-fired-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Ffootrpints.png&signature=479b4a5a4ecd55f12624e99786d977e3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -580,21 +675,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-20-remote-sensing-and-machine-learning-reveal-archaic-shell-rings.md",
-      "title": "Remote sensing and machine learning reveal Archaic shell rings",
-      "excerpt": "Deep in the dense coastal forests and marshes of the American Southeast lie shell rings and shell mounds left by Indigenous people 3,000 to 5,000 years ago. Now an international team of researchers, using deep machine learning to assess remote sensing data,",
+      "path": "_news/2021-08-21-us-woman-becomes-a-superwoman-for-afghan-all-girl-robotics-team-rescues-10.md",
+      "title": "US woman becomes a superwoman for Afghan all-girl robotics team, rescues 10",
+      "excerpt": "The team, consisting of young women ageing from 16 to 18 years, was scared as the Taliban took control and they were on the mind of the US woman, who previously met them in 2019.",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
-      "originalUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.html",
+      "webUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
+      "originalUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/remote-sensing-and-mac.jpg",
-          "width": 992,
-          "height": 554,
+          "url": "https://images.indianexpress.com/2021/08/allyson.jpg",
+          "width": 1200,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -602,13 +697,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-remote-machine-reveal-archaic-shell.amp",
-      "publishedDateTime": "2021-08-19T12:00:00-07:00",
+      "ampWebUrl": "https://indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/trending/trending-globally/mother-of-11-allyson-reneau-becomes-a-superwoman-for-afghan-womens-robotics-team-7462846/lite/",
+      "publishedDateTime": "2021-08-20T20:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -618,31 +713,221 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
-      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
-      "excerpt": "America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM task group teleconference to discuss drowning sensor detection systems in residential swimming pools.",
+      "path": "_news/2021-08-21-ai-blood-test-can-spot-lung-cancers-with-90-percent-accuracy.md",
+      "title": "AI Blood Test Can Spot Lung Cancers With 90 Percent Accuracy",
+      "excerpt": "The tool was able to detect roughly 90 percent of cancer cases out of 800 individuals that were screened for lung cancer. The researchers are hoping that improved screening and detection technologies could allow more cases of lung cancer to be spotted earlier,",
       "sourceUrl": null,
-      "webUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
-      "originalUrl": "https://www.cpsc.gov/es/Newsroom/Public-Calendar/2021-09-13-150000/susan-bathalon-participating-in-an-astm-task-group",
+      "webUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
+      "originalUrl": "https://futurism.com/neoscope/ai-blood-test-lung-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/08/cancer-detection-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-blood-test-lung-cancer/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-blood-test-lung-cancer/amp",
+      "publishedDateTime": "2021-08-20T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-ai-weekly-ai-research-still-has-a-reproducibility-problem.md",
+      "title": "AI Weekly: AI research still has a reproducibility problem",
+      "excerpt": "QMIX is a popular algorithm that implements CTDE, and many research groups claim to have designed QMIX algorithms that perform well on difficult benchmarks. But a new paper claims that these algorithms’ improvements might only be the result of code optimizations or “tricks” rather than design innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/20/ai-weekly-ai-research-still-has-a-reproducibility-problem/amp/",
+      "publishedDateTime": "2021-08-20T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-elon-musk-says-tesla-will-produce-humanoid-robot-to-help-build-cars.md",
+      "title": "Elon Musk says Tesla will produce humanoid robot to help build cars",
+      "excerpt": "The \"Tesla Bot\" is a natural step because the company's vehicles are \"like semi-sentient robots on wheels,\" the CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/elon-musk-says-tesla-will-produce-humanoid-robot-help-build-n1277348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_33/3500579/210820-tesla-mb-1.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1277348",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1277348",
+      "publishedDateTime": "2021-08-20T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-china-revs-up-in-race-to-a-driverless-future.md",
+      "title": "China revs up in race to a driverless future",
+      "excerpt": "The government also wants to scale up production and has set a target of 2025 for half of all new cars to come with partial self-driving features. A Baidu self-driving vehicle in Shougang Park in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
+      "originalUrl": "https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--Ut5fAspQ--/fl_relative%2Cg_south_east%2Cl_mediacorp:cna:watermark:2021-08:cna%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/cna/image/2021-08/china_driverless_car_olivia_1.jpg?itok=WaiOjPdQ",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T11:40:00-07:00",
+      "publishedDateTime": "2021-08-20T15:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Consumer Protection Safety Commission",
-        "domain": "cpsc.gov",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-21-how-can-ai-and-machine-learning-assist-in-app-development-and-marketing.md",
+      "title": "How can AI and machine learning assist in app development and marketing?",
+      "excerpt": "You can train a program through enormous data that is collected through speech recognition, object recognition, facial recognition, translation, Chatbots, messages, etc. They help in learning the pattern in the data and prediction of the next step.",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/how-can-ai-and-machine-learning-assist-in-app-development-and-marketing/",
+      "originalUrl": "https://customerthink.com/how-can-ai-and-machine-learning-assist-in-app-development-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/robot-507811.jpg",
+          "width": 4961,
+          "height": 3508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-20T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -653,25 +938,27 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2021-08-20-intel-arc-gaming-gpu-price-specs-and-availability.md",
-      "title": "Intel Arc gaming GPU: Price, specs and availability",
-      "excerpt": "Intel’s highly-anticipated Arc GPU is anticipated to present players a much-needed third choice to AMD and Nvidia when launched. As a result of we all know you do extra studying about gaming GPUs than really utilizing them nowadays,",
+      "path": "_news/2021-08-21-the-value-when-tesla-bot-shows-up-to-work.md",
+      "title": "The Value When Tesla Bot Shows Up to Work",
+      "excerpt": "Waymo, Huawei, Baidu, Boston Dynamics ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he ...",
       "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
-      "originalUrl": "https://bestgamingpro.com/intel-arc-gaming-gpu-price-specs-and-availability/",
+      "webUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2021/08/Intel-Arc-gaming-GPU-Price-specs-and-availability.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/Screen-Shot-2021-08-19-at-7.50.41-PM-1024x495.jpg",
+          "width": 1024,
+          "height": 495,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -679,13 +966,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T11:00:00-07:00",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/the-value-when-tesla-bot-show-up-to-work.html",
+      "publishedDateTime": "2021-08-20T13:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -695,79 +982,27 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-08-20-aws-announces-general-availability-of-amazon-memorydb-for-redis.md",
-      "title": "AWS Announces General Availability of Amazon MemoryDB for Redis",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon MemoryDB for Redis, a fully managed, Redis-compatible, in-memory database. Amazon MemoryDB for Redis enables customers to achieve ultra-fast performance with high availability and durability for their most business-critical applications that require sub-millisecond response times.",
+      "path": "_news/2021-08-21-beingai-unveils-human-like-ai-character-named-zbee.md",
+      "title": "BeingAI unveils human-like AI character named Zbee",
+      "excerpt": "BeingAI is creating virtual beings with artificial intelligence. And its first AI being is a virtual character named Zbee.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-eeb951d8831d40e887de892617b1b46c",
+      "webUrl": "https://beingai.com/zbee/",
+      "originalUrl": "https://venturebeat.com/2021/08/20/beingai-unveils-human-like-ai-character-named-zbee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 157,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-20-amazon-taps-its-socialbot-challenge-to-boost-conversational-ai.md",
-      "title": "Amazon taps its SocialBot challenge to boost conversational AI",
-      "excerpt": "Amazon announced the winners of its annual Alexa Prize SocialBot Grand Challenge, which ​​promotes research into coherence, context awareness, fluency of re",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1150572105-e1629315992557.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/19/amazon-taps-its-socialbot-challenge-to-boost-conversational-ai/amp/",
-      "publishedDateTime": "2021-08-19T10:15:00-07:00",
+      "publishedDateTime": "2021-08-20T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -794,21 +1029,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-19-baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip.md",
-      "title": "Baidu Just Launched a \"Robocar\" Prototype With Its New AI Chip",
-      "excerpt": "Chinese tech giant Baidu just unveiled its new artificial ... one of the world's biggest tech firms by focusing on AI and self-driving solutions. Baidu said the new chip, which uses 7 nm process ...",
+      "path": "_news/2021-08-21-tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck.md",
+      "title": "Tesla aims to launch Full Self-Driving Computer 2 with Cybertruck",
+      "excerpt": "Tesla plans to launch a new Full Self-Driving computer with Cybertruck electric pickup truck next year. The updated self-driving hardware should also include new cameras. Tesla’s self-driving hardware has been a point of controversy.",
       "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "originalUrl": "https://interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
+      "webUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "originalUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyWrKL6Q/sizes/baidu_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/e-gs-thumb-22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -816,14 +1051,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/baidu-just-launched-a-robocar-prototype-with-its-new-ai-chip",
-      "publishedDateTime": "2021-08-19T09:56:00-07:00",
+      "ampWebUrl": "https://electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/web-stories/tesla-aims-to-launch-full-self-driving-computer-2-with-cybertruck-next-year/",
+      "publishedDateTime": "2021-08-20T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -833,26 +1077,25 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-08-19-cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction.md",
-      "title": "Cast AI Eyes A Hybrid Goldmine: Cloud Cost Reduction",
-      "excerpt": "A major focus is on suppliers of cloud Kubernetes services, including Amazon EKS, Google GKS, Kubernetes Operation (Kops), and Microsoft’s Azure Kubernetes Services (AKS). The CAST AI engine does this by using Cloud Service Provider (CSP) accounts to ...",
+      "path": "_news/2021-08-21-ai-day-showcases-the-breadth-of-teslas-ambition.md",
+      "title": "AI Day Showcases The Breadth Of Tesla’s Ambition",
+      "excerpt": "Tesla AI Day 2021 featured executives presenting the full range of the company’s AI efforts, from computer vision to planning and controls to data infrastructure to automotive super computers to data center supercomputers.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/",
+      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
+      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 284,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e59a2c190b8db859662%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D400%26cropY1%3D0%26cropY2%3D400",
-          "width": 400,
-          "height": 400,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611fdf470f5f95efd0682f84%2F0x0.jpg",
+          "width": 1200,
+          "height": 851,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -860,9 +1103,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2021/08/19/cast-ai-eyes-a-hybrid-goldmine-cloud-cost-reduction/amp/",
-      "publishedDateTime": "2021-08-19T09:52:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2021/08/20/ai-day-showcases-the-breadth-of-teslas-ambition/amp/",
+      "publishedDateTime": "2021-08-20T10:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -885,286 +1128,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more.md",
-      "title": "Google Rival Baidu Has Made an AI Chip for Autonomous Driving and More",
-      "excerpt": "Baidu has unveiled its latest Kunlun II chip at the Baidu World Conference. It is claimed to be two to three times faster than its predecessor, but what is more important here is that the unit is an artificial intelligence chip that can also be used for autonomous cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "originalUrl": "https://www.autoevolution.com/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/google-rival-baidu-has-made-an-ai-chip-for-autonomous-driving-and-more-167674-7.jpg",
-          "width": 728,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution.com",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor.md",
-      "title": "Intel architect Koduri says every chip will be a neural net processor",
-      "excerpt": "Intel's Xeon chips have tended to dominate the market for AI inference, but Nvidia has been making inroads. Intel has litle share in neural network training while Nvidia dominates the field with its GPUs. Koduri said the company intends to compete against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/19/beb44cbb-ab59-4180-9f75-496e4ef8a5b4/intel-2021-sapphire-rapids.jpg",
-          "width": 365,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/",
-      "publishedDateTime": "2021-08-19T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction.md",
-      "title": "Diamond Age Raises $8 Million Seed Round to Advance Robotics and 3D Printing for Affordable Home Construction",
-      "excerpt": "Diamond Age, a full stack robotics startup that is automating new home construction to make home ownership more affordable, raised an $8 million seed round led by Prime Movers Lab and Alpaca VC. Additional investors include Dolby Family Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diamond-age-raises-8-million-seed-round-to-advance-robotics-and-3d-printing-for-affordable-home-construction-1030746267",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-new-windows-10-previews-arrive-for-versions-21h2-and-21h1.md",
-      "title": "New Windows 10 previews arrive for versions 21H2 and 21H1",
-      "excerpt": "and Azure IoT Edge for Linux on Windows (EFLOW) deployments for machine learning. It moves 21H2 to build number 19044.1200. The best laptops: Our recommended models for every use case and platform New year, new laptop? These are the devices that should be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2025/index.php/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/15/70041633-d204-4909-8e5f-a88cf817ee47/thumbnail/1200x675/f38a610575a8bcb617825d19d1c98802/gettyimages-1216889099.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2025/index.php/google-amp/article/new-windows-10-21h2-and-21h1-previews-arrive/",
-      "publishedDateTime": "2021-08-19T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars.md",
-      "title": "City Leaders: Here’s Why Urban Tourism Could Skyrocket Due To AI Self-Driving Cars",
-      "excerpt": "Tourism is significant to the economic wellbeing of cities, and we might see a boon in urban tourism due to the advent of AI-based true self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c144d2530a533d7e1f280%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1534%26cropY1%3D29%26cropY2%3D892",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/19/city-leaders-heres-why-urban-tourism-could-skyrocket-due-to-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-19-this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity.md",
-      "title": "This Downturn in Baidu Stock Isn’t a Problem, It’s an Opportunity",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips. China’s popular Internet search engine, Baidu (NASDAQ:BIDU), is known as a tech titan. Nevertheless, the resurgen",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
-      "originalUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-downturn-in-baidu-stock-isnt-a-problem-its-an-opportunity-2021-08-19?amp",
-      "publishedDateTime": "2021-08-19T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Autos"
       ]
     }
   ],

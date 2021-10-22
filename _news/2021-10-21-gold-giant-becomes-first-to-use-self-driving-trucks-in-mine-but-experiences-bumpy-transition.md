@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:41:00Z
 originalUrl: "https://www.bizjournals.com/denver/news/2021/10/20/australia-newmont-autonomous-truck-gold-mine.html"
 webUrl: "https://www.bizjournals.com/denver/news/2021/10/20/australia-newmont-autonomous-truck-gold-mine.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

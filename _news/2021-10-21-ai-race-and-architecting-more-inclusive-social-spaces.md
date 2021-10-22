@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T06:12:00Z
 originalUrl: "https://www.forbes.com/sites/anniebrown/2021/10/21/ai-race-and-architecting-more-inclusive-social-spaces/"
 webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/21/ai-race-and-architecting-more-inclusive-social-spaces/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

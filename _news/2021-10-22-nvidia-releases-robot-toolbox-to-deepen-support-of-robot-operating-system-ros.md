@@ -8,6 +8,9 @@ webUrl: "https://venturebeat.com/2021/10/21/nvidia-releases-robot-toolbox-to-dee
 ampWebUrl: "https://venturebeat.com/2021/10/21/nvidia-releases-robot-toolbox-to-deepen-support-of-robot-operating-system-ros/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nvidia-releases-robot-toolbox-to-deepen-support-of-robot-operating-system-ros/amp/"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: VentureBeat

@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Kerala leads in Artificial Intelligence, coding for children"
-    excerpt: "Kerala could claim the title of being the first state where IT coding was first introduced into the curriculum of one of its schools, right from Class"
-    publishedDateTime: 2021-10-17T02:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/kochi/kerala-leads-in-artificial-intelligence-coding-for-kids/articleshow/87076432.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/kochi/kerala-leads-in-artificial-intelligence-coding-for-kids/amp_articleshow/87076432.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kochi/kerala-leads-in-artificial-intelligence-coding-for-kids/amp_articleshow/87076432.cms"
+  - title: "Why the world needs a Bill of Rights on AI"
+    excerpt: "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created."
+    publishedDateTime: 2021-10-18T09:37:00Z
+    webUrl: "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+    ampWebUrl: "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: The Financial Times
+      domain: ft.com
     quality: 57
     images:
-      - url: "https://static.toiimg.com/thumb/msid-87076440,width-1070,height-580,imgsize-50306,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
+  - title: "Why 5G Needs AI To Succeed"
+    excerpt: "The complexity of the 5G ecosystem necessitates a level of service assurance not possible through manpower alone."
+    publishedDateTime: 2021-10-20T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/20/why-5g-needs-ai-to-succeed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "GtTrrpXJy44SqFroI/1/RRqsJJQNQKw8RvWbo5/yrb/F5BULg1O6J8RQ3XqIuRBV8rFdbI5KdV56A2f5E3LK/SmLWxLousmsCCH/ROqIwXPY5uOZkJ5vK4XsSBXeBrvJs4AxIp+jwdB9LpGkkFdPp9AdOG/hJRYA56m+1Sm2kGC4cW4I9lL+1j+x0bur7NlMwdFld7nUIXoaZw19lmnAYqQKoNKz9emKS24EC7c3/NKCR6qSPi4lY5TXkL8hEeF7+j4ftkTuorGaSVGMEyeWHczChPyIyAkycPuS0IuMwrTZrDlYLjqfQuJX1KGJZBIUqqtpq2kE6aWRvavla3UkJtQdeuKHXHaVctFs1IxqjgM=;LfcXjg5OaMfnnj3UhSlkTQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/931920"
 webUrl: "https://www.eurekalert.org/news-releases/931920"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research"
+    excerpt: "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care."
+    publishedDateTime: 2021-10-18T19:09:00Z
+    webUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 62
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg"
+        width: 2880
+        height: 1744
+        isCached: true
 
 secured: "hv00xxom7hO8u2sy93/1Z8k4qt5qdURotu2Zuzb4+7K+kGUdoJoPeTHEkkC7to2SsHdGW8iF/KlpgXHqOgdDUn0KqddRUfrJAI1GAvstMipk/QG8nKsWrQX9GaukcHQFxg85n2E//3Kg21Yp4eD650yNN2hI7mszbT+dZXM+rzQkMai2KFG3fru9CZ6VjG9dxgqqHTtNlXWYzDeuDwsgTLF/Gs3UcEApPk5zSZRA7CBhUCZ5CjKiwFoXUZUGmmmVyknjHTWdw3XgF7Mx6f6SwHPbztGQq3wmPJhWE7QplCuDG+DvFN+zl08R4JLrNorZITX9nNZyM7In7CgiAj/x8dxWUhdiCM6I2ziCAEVcH5g=;tjdoKfSZnM4fwiYLdhUi7g=="
 ---

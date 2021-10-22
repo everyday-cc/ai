@@ -2,21 +2,21 @@
   "page": 128,
   "value": [
     {
-      "path": "_news/2021-07-16-content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google.md",
-      "title": "Content Analytics Discovery and Cognitive Software Market May Set New Growth Story | Hewlett-Packard, Baidu, Elastic, Google",
-      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. Rise in Adoption of Cloud Based Technology ...",
+      "path": "_news/2021-07-18-how-artificial-intelligence-is-transforming-our-world.md",
+      "title": "How Artificial Intelligence is transforming our world",
+      "excerpt": "The impact of Artificial Intelligence continues to be felt across industries. A McKinsey report after analysing some AI use cases stated that ‘the impact of artificial intelligence will most likely be substantial in marketing and sales as well as supply-chain management and manufacturing’.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google",
+      "webUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
+      "originalUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Freedom-Day-England-AFP-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://cdn.punchng.com/wp-content/uploads/2020/05/31173538/Chukwuemeka-Fred-Agbata1.jpg",
+          "width": 770,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,633 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
+      "ampWebUrl": "https://punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-transforming-our-world/?amp",
+      "publishedDateTime": "2021-07-17T16:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-18-six-essential-artificial-intelligence-capabilities-leveraged-by-the-digital-giants.md",
+      "title": "Six essential artificial intelligence capabilities leveraged by the digital giants",
+      "excerpt": "Digital giants dominate the cloud and ecommerce markets, and part of the reason for their dominance is artificial intelligence and advanced analytics. The good news is that mainstream enterprises can learn from their experiences and employ cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "originalUrl": "https://www.zdnet.com/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/17/aa4d6e42-243c-4cc6-809e-4f5ac23e4f9a/building-6th-ave-nyc-photo-by-joe-mckendrick.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "publishedDateTime": "2021-07-17T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-hungryroot-delivers-ai-powered-grocery-experience.md",
+      "title": "Hungryroot delivers AI-powered grocery experience",
+      "excerpt": "Hungryroot uses AI-powered grocery delivery, matching consumer preferences to the weekly boxes they receive through an AI-powered algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/",
+      "originalUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Asparagus-e1626429647275.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/amp/",
+      "publishedDateTime": "2021-07-17T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom.md",
+      "title": "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom",
+      "excerpt": "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
+      "publishedDateTime": "2021-07-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets.md",
+      "title": "Spielberg's AI at 20: The best film about the afterlife of gadgets",
+      "excerpt": "Steven Spielberg's completion of an idea first dreamed up by Stanley Kubrick arrived at the end of June 2001. It was Spielberg's first film after 1998's Saving Private Ryan. I watched it in a movie theater in Los Angeles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets/",
+      "originalUrl": "https://www.cnet.com/news/spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/D3-Zo7Xk_4uE7nmSUYQIAd50Fgc=/1200x630/2021/07/16/0d9a088a-76c8-467e-9ef1-f7a5f145a6b2/ai-artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/spielbergs-ai-at-20-the-best-film-about-the-afterlife-of-gadgets/",
+      "publishedDateTime": "2021-07-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-heres-what-you-need-to-know-about-singapores-food-delivery-robots.md",
+      "title": "Here's what you need to know about Singapore's food delivery robots",
+      "excerpt": "Singaporeans flocked to food delivery after it was announced that dining-in was prohibited during Circuit Breaker. Today, despite being allowed to dine-in at restaurants in larger groups, the habit of ordering food online and having it delivered",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "originalUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/20210716_robot_unsplash.jpg?itok=EtsShVVZ",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/heres-what-you-need-know-about-singapores-food-delivery-robots?amp",
+      "publishedDateTime": "2021-07-17T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
+      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
+      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
+          "width": 2457,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
+      "publishedDateTime": "2021-07-16T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press and Journal",
+        "domain": "pressandjournal.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-six-essential-artificial-intelligence-capabilities-leveraged-by-the-digital-giants.md",
+      "title": "Six essential artificial intelligence capabilities leveraged by the digital giants",
+      "excerpt": "Digital giants dominate the cloud and ecommerce markets, and part of the reason for their dominance is artificial intelligence and advanced analytics. The good news is that mainstream enterprises can learn from their experiences and employ cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/17/aa4d6e42-243c-4cc6-809e-4f5ac23e4f9a/building-6th-ave-nyc-photo-by-joe-mckendrick.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/what-it-takes-to-bring-artificial-intelligence-into-the-enterprise/",
+      "publishedDateTime": "2021-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-paralyzed-man-communicates-through-brain-waves-in-groundbreaking-demo.md",
+      "title": "Paralyzed man communicates through brain waves in groundbreaking demo",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "originalUrl": "https://www.khou.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/CCT/images/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "publishedDateTime": "2021-07-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-ai-and-financial-processes-balancing-risk-and-reward.md",
+      "title": "AI and financial processes: Balancing risk and reward",
+      "excerpt": "When merging AI and financial processes, the smart money lies in mitigating risk while focusing on that sweet monetary reward.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/05/mobile-app-monetization.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-and-financial-processes-balancing-risk-and-reward/amp/",
+      "publishedDateTime": "2021-07-16T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-facial-recognition-creates-risks-for-trans-individuals-others.md",
+      "title": "Facial Recognition Creates Risks for Trans Individuals, Others",
+      "excerpt": "As more government entities look to adopt facial recognition, concerns have been raised about its potential risks and how the technology might have disproportionate impacts for transgender and nonbinary individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
+      "originalUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/facial-recognition-creates-risks-for-trans-individuals-others?_amp=true",
+      "publishedDateTime": "2021-07-16T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-ai-weekly-can-ai-predict-labor-market-trends.md",
+      "title": "AI Weekly: Can AI predict labor market trends?",
+      "excerpt": "Some firms claim to use AI to predict labor market trends. To what extent is this possible? Can bias creep in?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/money_in_pocket.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/ai-weekly-can-ai-predict-labor-market-trends/amp/",
+      "publishedDateTime": "2021-07-16T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-black-teen-kicked-out-of-skating-rink-after-facial-recognition-error.md",
+      "title": "Black teen kicked out of skating rink after facial recognition error",
+      "excerpt": "Misidentified, accused of brawling and then kicked out of a roller-skating rink -- the case of a young Detroit girl is the latest facial recognition controversy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "originalUrl": "https://www.cnet.com/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/qIZq1J7Enc-wxvQGg_DySF8SrQk=/1200x630/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/black-teen-kicked-out-of-skating-rink-after-facial-recognition-error/",
+      "publishedDateTime": "2021-07-16T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-tcs-wins-two-microsoft-partner-of-the-year-awards.md",
+      "title": "TCS Wins Two Microsoft Partner of the Year Awards",
+      "excerpt": "Tata Consultancy Services was Named the Dynamics 365 Field Service Partner of the Year in the US and the Azure Intelligent Cloud Partner of the Year in France. NEW YORK \\| MUMBAI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/tcs-wins-two-microsoft-partner-of-the-year-awards",
+      "originalUrl": "https://www.tcs.com/tcs-wins-two-microsoft-partner-of-the-year-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,27 +665,45 @@
       ]
     },
     {
-      "path": "_news/2021-07-16-leverage-ai-innovation-with-gpu-optimized-solutions.md",
-      "title": "Leverage AI Innovation with GPU-Optimized Solutions",
-      "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
+      "path": "_news/2021-07-17-what-to-do-when-ai-brings-more-questions-than-answers.md",
+      "title": "What to do when AI brings more questions than answers",
+      "excerpt": "Uncertainty is a tricky concept in the context of AI. But it's critical to understand it, particularly in enterprise applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
-      "originalUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
+      "webUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
-      "publishedDateTime": "2021-07-15T17:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/what-to-do-when-ai-brings-more-questions-than-answers/amp/",
+      "publishedDateTime": "2021-07-16T14:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -74,26 +712,77 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize.md",
-      "title": "AI-enabled sign language translator designed by teenagers wins £20,000 prize",
-      "excerpt": "The prototype of the BSL: Educate-2-Translate app A two-way AI-enabled sign language translator designed by teenagers has won a £20,000 technology prize. A team from St Paul’s Girls’ School ...",
+      "path": "_news/2021-07-17-deepmind-open-sources-alphafold-2-for-protein-structure-predictions.md",
+      "title": "DeepMind open-sources AlphaFold 2 for protein structure predictions",
+      "excerpt": "Alphabet's DeepMind has open-sourced AlphaFold 2, an AI system that can predict the 3D structure of proteins with high accuracy.",
       "sourceUrl": null,
-      "webUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
-      "originalUrl": "https://www.shropshirestar.com/news/uk-news/2021/07/16/ai-enabled-sign-language-translator-designed-by-teenagers-wins-20000-prize/",
+      "webUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.shropshirestar.com/resizer/9Te1NTF34Dkxnxb9vDfuc1Rpx1o=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/4YJSKDSIPNH3LILDOXUWZ7HB5A.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
+      "publishedDateTime": "2021-07-16T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy.md",
+      "title": "Deep Learning Software Market Robotics, Intelligence Evolving to Make the New Era| Nuance, Clarifai, AWS, IBM, Keras DeepPy",
+      "excerpt": "The recent report on “Global Deep Learning Software Market Report 2021 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2027 (Based on 2020 COVID-19 Worldwide Spread)” offered by ResearchMoz,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-robotics-intelligence-evolving-to-make-the-new-era-nuance-clarifai-aws-ibm-keras-deeppy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/MicrosoftTeams-image-2.jpg",
+          "width": 743,
+          "height": 426,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -103,11 +792,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T16:09:00-07:00",
+      "publishedDateTime": "2021-07-16T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Shropshire Star",
-        "domain": "shropshirestar.com",
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -117,68 +806,227 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come.md",
+      "title": "Artificial Intelligence in Supply Chain Market is Set To Fly High in Years to Come",
+      "excerpt": "Artificial Intelligence in Supply Chain Market Analysis, Artificial Intelligence in Supply Chain Market Forecast, Artificial Intelligence in Supply Chain Market Growth, Artificial Intelligence in Supply Chain Market Opportunity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-is-set-to-fly-high-in-years-to-come-2021-07-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-16T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-today-in-healthcare-vc-sinks-big-bucks-into-startups-telehealth-providers-turn-to-ai.md",
+      "title": "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI",
+      "excerpt": "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
+      "publishedDateTime": "2021-07-16T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-tips-for-building-a-successful-startup.md",
+      "title": "Tips For Building A Successful Startup",
+      "excerpt": "Starting a new business is exciting, but it can be fraught with difficulties if you don’t know what you are doing. Here are some tips to help",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377603",
+      "originalUrl": "https://www.entrepreneur.com/article/377603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-377603.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377603",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377603",
+      "publishedDateTime": "2021-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-17-announcing-the-ai-innovation-awards-winners-at-transform-2021.md",
+      "title": "Announcing the AI Innovation Awards winners at Transform 2021",
+      "excerpt": "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Natural Language Processing",
-        "AI"
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2021-07-16-heartflow-charts-ipo-via-24b-spac-deal.md",
-      "title": "Heartflow charts IPO via $2.4B SPAC deal",
-      "excerpt": "Heartflow Holding Inc. is aiming to bring its noninvasive, artificial intelligence (AI)-based test for coronary heart disease to more doctors and patients via a merger with Longview Acquisition Corp.",
+      "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
+      "title": "OpenAI disbands its robotics research team",
+      "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
       "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-24b-spac-deal?v=preview",
-      "originalUrl": "https://www.bioworld.com/articles/509379-heartflow-charts-ipo-via-24b-spac-deal",
+      "webUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://www.bioworld.com/ext/resources/BMT-source/2021/07-15-Heartflow-Analysis.png?height=635&t=1626382913&width=1200",
-          "width": 847,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-innovation-is-going-public-is-it-a-buy.md",
-      "title": "Self-Driving Startup Aurora Innovation Is Going Public: Is It a Buy?",
-      "excerpt": "Aurora Innovation is a highly rated self-driving startup. The company's partners include Uber, Toyota, and some leading heavy-truck makers. The company's valuation is high, but not crazy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/15/self-driving-startup-aurora-innovation-is-going-pu/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/15/self-driving-startup-aurora-innovation-is-going-pu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F633807%2Faurora-inno-toyota-sienna-feb2021.jpg&w=1200&op=resize",
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/openai-robotics-finger-velcro-e1570816045621.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 657,
+          "height": 633,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -186,16 +1034,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/15/self-driving-startup-aurora-innovation-is-going-pu/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/15/self-driving-startup-aurora-innovation-is-going-pu/",
-      "publishedDateTime": "2021-07-15T15:09:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
+      "publishedDateTime": "2021-07-16T11:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -211,26 +1059,27 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
-      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
-      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
+      "path": "_news/2021-07-17-aws-launches-healthlake-to-help-health-care-organizations-query-medical-data.md",
+      "title": "AWS launches HealthLake to help health care organizations query medical data",
+      "excerpt": "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/15/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
-      "originalUrl": "https://techcrunch.com/2021/07/15/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
-          "width": 680,
-          "height": 383,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -238,16 +1087,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/15/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
-      "publishedDateTime": "2021-07-15T14:55:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "publishedDateTime": "2021-07-16T11:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -255,48 +1104,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -306,70 +1113,25 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-partnership-of-the-caribbean-securing-the-west-indies.md",
-      "title": "Partnership of the Caribbean: Securing the West Indies",
-      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/partnership-of-the-caribbean-securing-the-west-indies-301335201.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/partnership-of-the-caribbean-securing-the-west-indies-301335201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
-          "width": 2079,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-07-16-facebook-twitter-and-other-social-media-companies-need-to-be-treated-like-big-tobacco.md",
-      "title": "Facebook, Twitter and other social media companies need to be treated like Big Tobacco",
-      "excerpt": "For the first time, the U.S. surgeon general has declared the barrage of misinformation spreading on social media a public health hazard. In an advisory, Surgeon General Dr. Vivek Murthy calls on technology companies to “take responsibility for addressing the harms” their social media products impose on consumers by prioritizing the early detection of misinformation,",
+      "path": "_news/2021-07-17-a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey.md",
+      "title": "A quarter of Taiwanese companies are well into their AI journey",
+      "excerpt": "At least a quarter of Taiwanese companies have begun AI deployments, according to the latest State of Taiwan Enterprise AI report.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/facebook-twitter-other-social-media-companies-need-be-treated-big-ncna1274000",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/facebook-twitter-other-social-media-companies-need-be-treated-big-ncna1274000",
+      "webUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_13/3346831/200512-twitter-office-shadow-ew-415p.jpg",
-          "width": 2500,
-          "height": 1473,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -377,57 +1139,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1274000",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1274000",
-      "publishedDateTime": "2021-07-15T14:11:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/a-quarter-of-taiwanese-companies-are-well-into-their-ai-journey/amp/",
+      "publishedDateTime": "2021-07-16T11:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-bidens-executive-order-on-promoting-competition-in-the-american-economy.md",
-      "title": "Biden's Executive Order on Promoting Competition in the American Economy",
-      "excerpt": "This complex and wide-ranging executive order from President Biden proposes actions to promote competition across a wide range of American industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/",
-      "originalUrl": "https://www.investopedia.com/president-biden-s-executive-order-on-promoting-economic-competition-5192421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share-1100x740.png",
-          "width": 1100,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -440,21 +1168,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-simplify-secure-search-solutions-with-amazon-kendras-principal-store.md",
-      "title": "Simplify secure search solutions with Amazon Kendra’s Principal Store",
-      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. It is challenging for organizations to make this information available to users when they need it. It is also difficult to do so securely so that relevant information",
+      "path": "_news/2021-07-16-how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights.md",
+      "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
+      "excerpt": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/13/1-4820-Chart.jpg",
-          "width": 800,
-          "height": 374,
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -464,7 +1192,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:59:04-07:00",
+      "publishedDateTime": "2021-07-16T09:53:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -489,673 +1217,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
-      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
-      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
-          "width": 2079,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-develop-deep-learning-method-for-translating-vocal-signals-from-the-brain-to-text.md",
-      "title": "Researchers develop deep-learning method for translating vocal signals from the brain to text",
-      "excerpt": "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "originalUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-19-ts3_thumbs-9e6.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "publishedDateTime": "2021-07-15T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-edge-ai-market-size-and-growth-prospects-2019-2027.md",
-      "title": "Edge AI Market Size and Growth Prospects 2019 – 2027",
-      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-jassy-takes-over-at-amazon-leading-to-new-ai-future.md",
-      "title": "Jassy Takes Over at Amazon, Leading to New AI Future",
-      "excerpt": "Andy Jassy took over from Jeff Bezos as CEO of Amazon on July 5, after serving as head of AWS, growing it into a $45 billion business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
-      "originalUrl": "https://www.aitrends.com/ai-and-business-strategy/jassy-takes-over-at-amazon-leading-to-new-ai-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aitrends.com/wp-content/uploads/2021/07/7-16AIatAmazon-2.jpeg",
-          "width": 550,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aitrends",
-        "domain": "aitrends.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-facebook-robots-are-getting-smarter-watch-them-go-wild-video.md",
-      "title": "Facebook Robots Are Getting Smarter, Watch Them Go Wild (Video)",
-      "excerpt": "Facebook has been training robots to think for themselves. Its chief AI scientist Yann LeCun explains why with a video that shows what robots can do when left to their own devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e79dd602c7bff56bca0980%2F0x0.jpg%3FcropX1%3D202%26cropX2%3D958%26cropY1%3D0%26cropY2%3D426",
-          "width": 756,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/07/09/facebook-robots-are-getting-smarter-watch-them-in-the-wild-video/amp/",
-      "publishedDateTime": "2021-07-15T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
-      "title": "Why Transformers offer more than meets the eye",
-      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "publishedDateTime": "2021-07-15T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
-      "title": "Why we need engineers who study ethics as much as maths",
-      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "publishedDateTime": "2021-07-15T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-native-voice-nabs-14m-to-convert-devices-into-branded-voice-assistants.md",
-      "title": "Native Voice nabs $14M to convert devices into branded voice assistants",
-      "excerpt": "Native Voice, a company developing an SDK that allows companies to bring branded voice assistants to devices, has raised $14 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ScreenShot2021-01-03at10.04.26AM.png?w=1200&strip=all",
-          "width": 1000,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "publishedDateTime": "2021-07-15T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-what-happens-when-robots-make-fake-news.md",
-      "title": "What Happens When Robots Make Fake News?",
-      "excerpt": "Writing created by artificial intelligence has dramatically improved over the last few years. Such robot-generated text is now used in newsrooms as well as by companies looking to generate content quickly and cheaply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "originalUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f083d5cfdd52608822ee31%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "publishedDateTime": "2021-07-15T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
-      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/470834",
-      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
-      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
-      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "publishedDateTime": "2021-07-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model.md",
-      "title": "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model",
-      "excerpt": "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "publishedDateTime": "2021-07-15T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
-      "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
-      "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-370052/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "publishedDateTime": "2021-07-15T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
-      "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
-      "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

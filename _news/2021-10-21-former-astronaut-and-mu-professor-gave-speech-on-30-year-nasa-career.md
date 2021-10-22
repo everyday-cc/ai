@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T21:15:00Z
 originalUrl: "https://www.columbiamissourian.com/news/higher_education/former-astronaut-and-mu-professor-gave-speech-on-30-year-nasa-career/article_ba604ad4-3110-11ec-9a6f-cb4b389d20c3.html"
 webUrl: "https://www.columbiamissourian.com/news/higher_education/former-astronaut-and-mu-professor-gave-speech-on-30-year-nasa-career/article_ba604ad4-3110-11ec-9a6f-cb4b389d20c3.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Columbia Missourian

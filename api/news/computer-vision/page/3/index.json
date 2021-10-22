@@ -2,6 +2,401 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-25-scientists-create-ai-that-can-suggest-where-to-apply-makeup-to-fool-facial-recognition.md",
+      "title": "Scientists create AI that can suggest where to apply makeup to fool facial recognition",
+      "excerpt": "Researchers at Israel's Ben-Gurion University trained AI software to tell users where to apply subtle contouring to throw off facial recognition systems up to 98.8 percent of the time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html?fr=operanews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/09/24/22/48356691-0-image-a-11_1632518646328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10026371/amp/Scientists-create-AI-suggest-apply-makeup-fool-facial-recognition.html",
+      "publishedDateTime": "2021-09-24T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
+      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
+      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
+          "width": 701,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals.md",
+      "title": "Deep Learning in Computer Vision Market 2021 to 2027 To See Booming Ahead, Latest Study Reveals",
+      "excerpt": "The Latest research study released by Data Bridge Market Research “Deep Learning in Computer Vision Market” with 100+ pages of analysis on business Strategy taken up by key and emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-computer-vision-market-2021-to-2027-to-see-booming-ahead-latest-study-reveals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/47147b97d23f91a99a112fb98d947fd877764fff-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-android-update-teases-improved-accessibility-options-for-handwriting-facial-recognition.md",
+      "title": "Android update teases improved accessibility options for handwriting, facial recognition",
+      "excerpt": "Google is launching 13 new Android features this autumn, including new accessibility features, improvements to Waze, and alerts to remind you to look up from the phone screen while walking. The tech giant is launching two new accessibility features to help people with motor and speech impairments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
+      "originalUrl": "https://www.itpro.co.uk/mobile/google-android/361007/android-accessibility-facial-recognition-handwriting-autumn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1632486148/Google_android_new_features.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-recurrent-neural-network-explains-the-power-of-the-frontal-cortex.md",
+      "title": "Recurrent Neural Network Explains the Power of the Frontal Cortex",
+      "excerpt": "“In the artificial intelligence field, computer scientists have designed various artificial neural networks, including RNNs, which effectively solve problems, such as language translation and object recognition, by simulating the neural network in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
+          "width": 389,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/recurrent-neural-network-explains-the-power-of-the-frontal-cortex-354077",
+      "publishedDateTime": "2021-09-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026.md",
+      "title": "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026",
+      "excerpt": "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb.md",
+      "title": "Explore image analysis results from Amazon Rekognition and store your findings in Amazon DocumentDB",
+      "excerpt": "When we analyze images, we may want to incorporate other metadata related to the image. Examples include when and where the image was taken, who took the image, as well as what is featured in the image. One way to represent this metadata is to use a JSON format, which is well-suited for a document […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/14/ML-3022-image003.jpg",
+          "width": 1240,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T09:51:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
+      "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
+      "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png",
+          "width": 1284,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "publishedDateTime": "2021-09-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-uw-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.md",
       "title": "UW research provides a basic structure of neural networks in the mammalian brain",
       "excerpt": "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,",
@@ -1020,350 +1415,6 @@
       "provider": {
         "name": "Android Police",
         "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-new-paper-explores-facial-recognition-biases-beyond-demographics.md",
-      "title": "New paper explores facial recognition biases beyond demographics",
-      "excerpt": "The well-reported biases surrounding skin tone and sex are not the only biases held by facial recognition systems, finds a new paper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
-      "originalUrl": "https://www.biometricupdate.com/202109/new-paper-explores-facial-recognition-biases-beyond-demographics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-researchers-use-master-face-to-bypass-facial-recognition.md",
-      "title": "Researchers use ‘master face’ to bypass facial recognition",
-      "excerpt": "ST. LOUIS– More and more devices are using facial recognition technology these days and some scientists in Israel say they have discovered a way to bypass a large percentage of them by",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "originalUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2019/09/gettyimages-1138147955.jpg?w=1280",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/tech-talk/researchers-use-master-face-to-bypass-facial-recognition/amp/",
-      "publishedDateTime": "2021-09-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget.md",
-      "title": "OpenCV and Luxonis Launch Smaller, Lighter, Cheaper OAK-D-LITE All-in-One Computer Vision Gadget",
-      "excerpt": "New $79 crowdfunding price makes the OAK-D-LITE the cheapest model yet, despite its sleek design and impressive capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
-      "originalUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1348897/_dL19B7lDQy.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025.md",
-      "title": "Global Face Recognition Device Market Challenges, Business Overview and Forecast Research Study to 2025",
-      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-russia-broad-facial-recognition-use-undermines-rights.md",
-      "title": "Russia: Broad Facial Recognition Use Undermines Rights",
-      "excerpt": "Russian authorities continue expanding their use of facial recognition technology across the country, with no regulation, oversight, or data protection and against the backdrop of misidentification reports,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
-      "originalUrl": "https://www.hrw.org/news/2021/09/15/russia-broad-facial-recognition-use-undermines-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hrw.org/sites/default/files/media_2021/09/202109eca_russia_camkremlin.jpg",
-          "width": 4000,
-          "height": 2690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Human Rights Watch",
-        "domain": "hrw.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-facial-recognition-enters-new-phase-at-gates.md",
-      "title": "Facial recognition enters new phase at gates",
-      "excerpt": "Some drivers may have noticed a difference if they’re using the facial recognition to gain access to Redstone this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
-      "originalUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/custom/image/71ee924c-4845-11e6-a51b-ebabb80465c3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Redstone Rocket",
-        "domain": "theredstonerocket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-computer-vision-for-visual-effects.md",
-      "title": "Computer Vision for Visual Effects",
-      "excerpt": "These effects are made possible by research from the field of computer vision, the study of how to automatically understand images. Computer Vision for Visual Effects will educate students, engineers and researchers about the fundamental computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "originalUrl": "https://www.cambridge.org/sz/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/computer-vision-visual-effects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-automated-boba-bar-startup-integrates-facial-recognition-payments-to-build-loyalty-through-frictionless-convenience.md",
-      "title": "Automated Boba Bar Startup Integrates Facial Recognition Payments to Build Loyalty Through Frictionless Convenience",
-      "excerpt": "Automated boba bar startup Bobacino has partnered with facial recognition payment company PopID to enable consumers to pay for their beverage with their faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
-      "originalUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Bobacino-facial-recognition-payment-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-innovation/2021/automated-boba-bar-startup-integrates-facial-recognition-payments/amp/",
-      "publishedDateTime": "2021-09-14T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

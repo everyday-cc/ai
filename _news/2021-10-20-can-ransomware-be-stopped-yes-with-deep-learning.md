@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/deep-instinct/2021/10/20/can-ransomware-be-stopped-yes-with-deep-learning/"
 webUrl: "https://www.forbes.com/sites/deep-instinct/2021/10/20/can-ransomware-be-stopped-yes-with-deep-learning/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

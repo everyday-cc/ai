@@ -67,20 +67,6 @@ related:
         width: 864
         height: 486
         isCached: true
-  - title: "Apple Self-Driving Car Hits a Curb, Not as Tragic as It Sounds"
-    excerpt: "Apple is believed to be working on its very own self-driving car, and while the company isn’t saying a single thing about this ambitious project, what everybody knows is the iPhone maker is currently testing autonomous driving technology with the help of a fleet already on American roads."
-    publishedDateTime: 2021-10-16T20:40:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-self-driving-car-hits-a-curb-not-as-tragic-as-it-sounds-171893.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 24
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-self-driving-car-hits-a-curb-not-as-tragic-as-it-sounds-171893-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
     excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
     publishedDateTime: 2021-10-19T16:12:00Z
@@ -95,29 +81,42 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "Toronto tested the futuristic self-driving shuttle and people were excited"
-    excerpt: "People came out to see Toronto's self-driving, West Rouge Automated Shuttle during a test run recently and the micro shuttle proved popular. A"
-    publishedDateTime: 2021-10-15T21:39:00Z
-    webUrl: "https://www.blogto.com/tech/2021/10/toronto-tested-futuristic-self-driving-shuttle-and-people-were-excited/"
+  - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
+    excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
+    publishedDateTime: 2021-10-21T12:05:00Z
+    webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
     type: article
     provider:
-      name: blogTO
-      domain: blogto.com
-    quality: 22
-    images:
-      - url: "https://media.blogto.com/articles/20211014-self-driving-shuttle.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google’s Self-Driving Car Gyre"
-    excerpt: "Folks who live on 15th Street in the Richmond district of San Francisco report that an abnormal number of Google's self-driving ca"
-    publishedDateTime: 2021-10-15T20:38:00Z
-    webUrl: "https://kottke.org/21/10/googles-self-driving-car-gyre"
+      name: KUOW
+      domain: kuow.org
+    quality: 19
+  - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
+    excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
+    publishedDateTime: 2021-10-20T15:23:00Z
+    webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
     type: article
     provider:
-      name: kottke.org
-      domain: kottke.org
+      name: Government Technology
+      domain: govtech.com
     quality: 4
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
+    publishedDateTime: 2021-10-20T07:30:00Z
+    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
+    type: article
+    provider:
+      name: The Wenatchee World
+      domain: wenatcheeworld.com
+    quality: 0
+  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
+    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
+    publishedDateTime: 2021-10-21T04:39:00Z
+    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 0
 
 secured: "M265MRmkw2kWFqtm/1jJV3tgA6Js8TzkybjyKnRrlxNRPNQy5hHg43t7GHonBN1aOz1iDIzN249WEMIABISXdPJIk8WCBwV6bSvRFrs2LvU66Fu2Xoegl7sSRuykyrfl5CehRKWZ+LykdUAbK3ia/pdUODo9geA8rMI/hLJq6OXWI8NZrH33WwKbbbUufDr1oJtasINrsRHbL8dYvJ4iQEjTD7EtPQElx1ZdHxrjfoT5DXxadshyeY/JhpdOtN/Ypd1MrM2s5YQ1dwr5LMOkEupTPaKnOulilLMdQtZDuRPnjMcw/FVpLMZMYynOEPDIXD83HfTrQeMQxlCsg7KTAwPTRH3KvFdNGwo4R8pmC28=;EhFj+KwaNVlAe83SEQjmig=="
 ---

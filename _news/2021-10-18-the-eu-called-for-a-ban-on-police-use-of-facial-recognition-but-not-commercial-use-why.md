@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-fac
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: SourceSecurity
@@ -42,6 +42,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
+    excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
+    publishedDateTime: 2021-10-20T15:39:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/u-s-postal-office-calls-for-facial-recognition-suit-dismissal"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 19
 
 secured: "+VHwLKl+6ThILf5Vv76NSwgxgeQB50yPmpR9eDFnhwDMVbyLrEZfW/6fjtEoBjtDNhJGKw4I9A/yhBuI6c/y7iifRRZCUFURY5dbW0S6vbW3/oMR1CAb+bPN6M71E/JzEFbb9sJ/ZVVGGvZuyTmCDpNxspb45NJDAzqeaIzajsXF7eU5R+uD6cvChkX2lVgJdO48mEqrndIFt6qH5r7CnvQyR9y7fx0KCVSwHPLJAXEwn2J3Z0Rn93EyXw/vAgm3wk97FCSabnRsmobWsdv3G7CI92/ZKIT3ZU546o+XBecbzee6doSzUeQbmfHDSdD7AzynrO8nHPKr3YaO2Px67Cr0fbz25vNpiVu0IcSEVFQ=;csymQce3Lx5ajT60c90U/w=="
 ---

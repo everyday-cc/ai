@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T11:28:00Z
 originalUrl: "https://www.kwch.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/"
 webUrl: "https://www.kwch.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: KWCH

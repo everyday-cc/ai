@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:36:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-artificial-intelligence-new-jersey-203820643b7424551a373b4ea14aa75b"
 webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-artificial-intelligence-new-jersey-203820643b7424551a373b4ea14aa75b"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

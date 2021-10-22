@@ -2,98 +2,21 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-10-05-i-am-a-public-service-journalist-what-can-ai-do-for-me.md",
-      "title": "I am a public service journalist: what can AI do for me?",
-      "excerpt": "In this special series that focuses on journalism rather than algorithms, we look at how 10 European public service broadcasters overcome language barriers to share stories across the continent",
+      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
+      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
       "sourceUrl": null,
-      "webUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
-      "originalUrl": "https://www.journalism.co.uk/news/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s2/a864141/",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://www.journalism.co.uk/assets/136/christian-lue-7dEyTJ7-8os-unsplash.jpg_resized_460_.jpeg",
-          "width": 459,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
-      "cdnAmpWebUrl": "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/i-am-a-public-service-journalist-what-can-ai-do-for-me-/s435/a864141/",
-      "publishedDateTime": "2021-10-04T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism.co.uk",
-        "domain": "journalism.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-deepmind-technologies-sued-over-data-sharing.md",
-      "title": "DeepMind Technologies Sued Over Data Sharing",
-      "excerpt": "A law firm in the United Kingdom is suing Google's artificial intelligence (AI) subsidiary DeepMind Technologies over an alleged breach of data protection laws. Mishcon de Reya is bringing a representative suit against DeepMind pertaining to the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
-      "originalUrl": "https://www.infosecurity-magazine.com/news/deepmind-sued-over-data-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-amazon-mit-establish-science-hub-for-robotics-research.md",
-      "title": "Amazon, MIT establish Science Hub for robotics research",
-      "excerpt": "The Science Hub hopes to ensure the benefits of AI and robotics are shared broadly and to promote participation in research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
-      "originalUrl": "https://www.therobotreport.com/amazon-mit-establish-science-hub-robotics-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/assets.amazon-e1633363084228.jpg",
-          "width": 1000,
-          "height": 563,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -103,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T09:10:00-07:00",
+      "publishedDateTime": "2021-10-05T15:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -117,26 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-ai-and-machine-learning-where-are-the-checks-and-balances.md",
-      "title": "AI and machine learning: Where are the checks and balances?",
-      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, Joe McKendrick says oversight of AI-generated decisions is lagging. Read more: https://zd ...",
+      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
+      "title": "MLOps platform Domino Data Lab nabs $100M",
+      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
-      "originalUrl": "https://www.zdnet.com/video/ai-and-machine-learning-where-are-the-checks-and-balances/",
+      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 182,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/ad02a2eaf68e6ca543a36eb682720d480e35a9db/2021/10/04/9e738d7a-ecb7-4e3b-b3ea-a333055e6a8c/20211004-joe-beth-report.jpg?width=770&height=578&fit=crop&auto=webp",
-          "width": 770,
-          "height": 578,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -144,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T08:43:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
+      "publishedDateTime": "2021-10-05T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -169,343 +92,16 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-image-recognition-market-size-worth-11556-billion-globally-by-2028-at-1825-cagr-verified-market-research.md",
-      "title": "Image Recognition Market size worth $ 115.56 Billion, Globally, by 2028 at 18.25% CAGR: Verified Market Research®",
-      "excerpt": "Functions of figure identification, such as facial or object recognition, visual geolocation, barcode reading, and automated driver assistance, among other industrial automation-related functions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth--115-56-billion-globally-by-2028-at-18-25-cagr-verified-market-research-301391716.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
-          "width": 2696,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
-      "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
-      "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
+      "path": "_news/2021-10-06-onfido-named-to-2021-cb-insights-fintech-250-list-of-top-fintech-startups-for-fourth-year-running.md",
+      "title": "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running",
+      "excerpt": "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private companies working on groundbreaking financial technology.",
       "sourceUrl": null,
-      "webUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
-      "originalUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
-      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
-      "publishedDateTime": "2021-10-04T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.abplive",
-        "domain": "abplive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
-      "title": "Robotics transforming knee replacement surgeries",
-      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "publishedDateTime": "2021-10-04T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-mprest-mderms-and-mthm-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "mPrest mDERMS and mTHM Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Azure Marketplace offers world-class quality experiences from ... mPrest’s micro-services based, real-time orchestration and optimization platform brings the power of AI and IoT to the digital transformation of various industries, from energy and smart ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-7267fd563fd0b5bf1ec4e14e2429ec85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
-      "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
-      "excerpt": "PORTLAND, Ore., Oct. 4, 2021 /PRNewswire/ -- Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301391685.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
-          "width": 2000,
-          "height": 1046,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-image-recognition-market-will-reach-usd-91029-million-by-2030-at-156-cagr-marketbiz.md",
-      "title": "Image Recognition Market, Will Reach USD 91,029 Million By 2030 at 15.6% CAGR-Market.Biz",
-      "excerpt": "The Image Recognition Industry research report focuses on global and regional key company information such as company profiles, products, object specifications, industrial capacity, production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cloud-providers-green-data-center-market-is-projected-to-witness-market-growth-of-2350-by-forecast-2027.md",
-      "title": "Cloud Providers Green Data Center Market is projected to witness market growth of 23.50% by forecast 2027",
-      "excerpt": "In the forecast period from 2020 to 2027, the cloud providers green data centre market is projected to witness market growth of 23.50%. The Data Bridge Market Research Report on the cloud providers green data centre market offers analysis and insights into the various factors expected to be prevalent over the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "originalUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "publishedDateTime": "2021-10-04T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-roboflow-and-ultralytics-creator-of-yolov5-partner-to-streamline-custom-computer-vision-model-development.md",
-      "title": "Roboflow and Ultralytics, Creator of YOLOv5, Partner to Streamline Custom Computer Vision Model Development",
-      "excerpt": "Roboflow, an end-to-end computer vision developer platform, and Ultralytics, the creators of the popular open source YOLOv5 model, have partnered to launch a streamlined way to prepare, label, and train computer vision models on custom datasets with an emphasis on active learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-oracle-promotes-responsible-use-of-ai-in-financial-institutions.md",
-      "title": "Oracle Promotes Responsible Use of AI in Financial Institutions",
-      "excerpt": "A recent World Economic Forum survey 1 found that 85% of financial institutions have implemented AI, but some still have concerns about its use. To help financial institutions apply AI responsibly, Oracle has added new AI governance capabilities to its Oracle Financial Services Compliance Studio application.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-business-world-economic-forum-31e15a5ead1fb927e02852864d2156d6",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -524,7 +120,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:37:00-07:00",
+      "publishedDateTime": "2021-10-05T13:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -543,21 +139,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-04-gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion.md",
-      "title": "GM-Backed Cruise Sees Robotaxi Business Growing Past $50 Billion",
-      "excerpt": "Cruise LLC, the autonomous vehicle startup majority-owned by General Motors Co., will tell investors this week that it sees a path for its ride-hailing business to reach $50 billion in revenue as the company ramps up its driverless ride hailing business starting over the next couple of years,",
+      "path": "_news/2021-10-06-neutons-blair-newman-on-machine-learning-for-edge-computing.md",
+      "title": "Neuton’s Blair Newman on Machine Learning for Edge Computing",
+      "excerpt": "Blair Newman, CTO at Neuton, explains how “TinyML” is used to deploy machine learning on tiny microcontrollers at the edge.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-04/gm-backed-cruise-sees-robotaxi-business-growing-past-50-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-04/cruise-sees-driverless-ride-hailing-business-topping-50-billion-gm-stock-rises",
+      "webUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
+      "originalUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iglhlcJ6PXKQ/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-3.21.07-PM.png",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -567,14 +163,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:36:00-07:00",
+      "publishedDateTime": "2021-10-05T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
         "images": [
           {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -590,33 +186,77 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-the-cios-guide-to-managing-enterprise-ai.md",
-      "title": "The CIO's guide to managing enterprise AI",
-      "excerpt": "How should Chief Information Officers prepare to lead AI efforts in the enterprise? The author of a new book explains exactly what you need to know, on episode #706 of the CXOTalk series of conversations with people shaping our world.",
+      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
+      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
+      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-cio-guide-to-managing-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/article/the-cio-guide-to-managing-enterprise-ai/",
+      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-cio-guide-to-managing-enterprise-ai/",
-      "publishedDateTime": "2021-10-04T05:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "WDBJ",
+        "domain": "wdbj7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline.md",
+      "title": "Create a cross-account machine learning training and deployment environment with AWS Code Pipeline",
+      "excerpt": "A continuous integration and continuous delivery (CI/CD) pipeline helps you automate steps in your machine learning (ML) applications such as data ingestion, data preparation, feature engineering, modeling training, and model deployment. A pipeline across multiple AWS accounts improves security, agility,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/20/architecture-2.png",
+          "width": 1436,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T13:26:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -632,69 +272,27 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc.md",
-      "title": "Artificial Intelligence (AI) in Medical Market Opportunity, Analytical Insights, Business Growth Analysis |NVIDIA, Intel, IBM, etc",
-      "excerpt": "Digitization is the new buzzword that affects every aspect of our lives, How can it be that the Artificial Intelligence (AI) in Medical industries are not affected? Pre-Purchase PDF Sample Request ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI",
         "AWS AI",
-        "AI"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-04-meet-the-10-year-olds-breaking-the-glass-ceiling-and-inspiring-other-girls-to-get-into-stem.md",
-      "title": "Meet the 10-year-olds breaking the glass ceiling and inspiring other girls to get into STEM",
-      "excerpt": "But when studies are not keeping them busy, they love to spend time expanding their knowledge of Microsoft Azure Machine Learning and AI. Adeel and his wife often keep a close eye on their ...",
+      "path": "_news/2021-10-06-facebook-whistleblower-frances-haugen-testifies-before-the-senate.md",
+      "title": "Facebook whistleblower Frances Haugen testifies before the Senate",
+      "excerpt": "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
-      "originalUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem",
+      "webUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Oct2021/20211004_zara_zaar.jpg?itok=9UEFO3t7",
-          "width": 763,
-          "height": 509,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -702,14 +300,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/lifestyle/meet-10-year-olds-breaking-glass-ceiling-and-inspiring-other-girls-get-stem?amp",
-      "publishedDateTime": "2021-10-04T05:20:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
+      "publishedDateTime": "2021-10-05T13:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -718,26 +325,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-how-real-estate-investors-can-use-artificial-intelligence.md",
-      "title": "How Real Estate Investors Can Use Artificial Intelligence",
-      "excerpt": "Determining which markets will perform and continue to be strong is complex, but the data provided by AI and ML technology makes the process significantly more reliable.",
+      "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
+      "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
+      "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/",
+      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
+      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
+          "width": 630,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -745,9 +352,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbizcouncil/2021/10/04/how-real-estate-investors-can-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-10-04T05:00:00-07:00",
+      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
+      "publishedDateTime": "2021-10-05T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries.md",
+      "title": "Exclusive: Amazon Adds New Speech Setting To Alexa App To Help Stutterers Finish Commands, Queries",
+      "excerpt": "Amazon on Friday is adding a new feature to the Alexa app, available on iOS and Android, that tells Alexa to wait longer in order for a person to finish speaking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615c98cf3aff1993754d178f%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/amp/",
+      "publishedDateTime": "2021-10-05T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -770,25 +429,26 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027.md",
-      "title": "Global GPU for Deep Learning Market 2021 Latest Trends, Industry Parameters and Competitive Landscape by 2027",
-      "excerpt": "The most recent paper released by MRInsights.biz called Global GPU for Deep Learning Market Growth 2021-2027 offers a comprehensive critical assessment that includes many aspects of product definition,",
+      "path": "_news/2021-10-06-horizon3ai-named-a-winner-of-the-pitch-2021-by-constellation-research.md",
+      "title": "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research",
+      "excerpt": "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027-2021-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2021-latest-trends-industry-parameters-and-competitive-landscape-by-2027-2021-10-04",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1652459/1st_place_winner.jpg",
+          "width": 711,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -798,14 +458,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T04:06:00-07:00",
+      "publishedDateTime": "2021-10-05T11:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -821,27 +481,25 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-amazon-rolls-out-computer-vision-service-to-identify-defects.md",
-      "title": "Amazon Rolls Out Computer Vision Service to Identify Defects",
-      "excerpt": "Concept: Amazon has launched a cloud service named Lookout for Vision to detect anomalies and defects in manufactured products. Available in select Amazon Web Services (AWS) regions with the AWS console and supporting partners,",
+      "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
+      "title": "Fruitcore Robotics closes $20M Series A",
+      "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
       "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
-      "originalUrl": "https://www.power-technology.com/research-reports/amazon-rolls-out-computer-vision-service-to-identify-defects/",
+      "webUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
+      "originalUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1358359658.jpg",
-          "width": 500,
-          "height": 280,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/fruitcore-robotics-featured-web.jpg",
+          "width": 770,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -851,12 +509,132 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T03:08:00-07:00",
+      "publishedDateTime": "2021-10-05T09:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Power Technology",
-        "domain": "power-technology.com",
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-new-study-from-strategyr-highlights-a-35-billion-global-market-for-artificial-intelligence-ai-in-call-centers-by-2026.md",
+      "title": "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026",
+      "excerpt": "Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica ... Zendesk and Others. Artificial intelligence is playing a vital role in ensuring transformation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPVI",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-akridata-launches-worlds-first-edge-data-platform-for-data-centric-ai.md",
+      "title": "Akridata™ Launches World's First Edge Data Platform for Data-Centric AI",
+      "excerpt": "Decentralized Software Accelerates Access to Relevant AI Data, Handles Ingest, Catalog, and Exploration of Complex AI Data, and Enables Traceable AI Across Industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
+      "originalUrl": "https://www.kplctv.com/prnewswire/2021/10/05/akridata-launches-worlds-first-edge-data-platform-data-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPLC",
+        "domain": "kplctv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-ex-uber-driver-takes-legal-action-over-racist-face-recognition-software.md",
+      "title": "Ex-Uber driver takes legal action over ‘racist’ face-recognition software",
+      "excerpt": "UK driver alleges his account was illegally deactivated when Uber software decided he was not who he said he was",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
+      "originalUrl": "https://www.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/55c54451224be3752e08c4b3ee40e9886df70ba7/0_217_6500_3900/master/6500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c819f6205781f6edad3b66bedd92282b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/oct/05/ex-uber-driver-takes-legal-action-over-racist-face-recognition-software",
+      "publishedDateTime": "2021-10-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -870,21 +648,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-04-natural-language-processing-market-2021-global-analysis-by-key-players-2026.md",
-      "title": "Natural Language Processing Market 2021 Global Analysis By Key Players 2026",
-      "excerpt": "Oct 04, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player ...",
+      "path": "_news/2021-10-05-robots-give-greeces-postal-service-speed-boost.md",
+      "title": "Robots give Greece's postal service speed boost",
+      "excerpt": "There's a new addition to Greece's postal service: a fleet of yellow robots sorting through the mail. Fifty-five small, four-wheeled autonomous mobile robots -- or AMR's -- powered by artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
+      "webUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
+      "originalUrl": "https://www.reuters.com/technology/robots-give-greeces-postal-service-speed-boost-2021-10-05/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.reuters.com/resizer/mw--lj5UsgWqAMr7Rax6sj6IVLk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R2WEQVYR3ZNKFC3PWJSIQACGEU.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -894,14 +672,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T03:07:00-07:00",
+      "publishedDateTime": "2021-10-05T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -917,184 +695,163 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
-      "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
-      "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
+      "path": "_news/2021-10-05-facebook-whistleblower-testifies-in-congress.md",
+      "title": "Facebook whistleblower testifies in Congress",
+      "excerpt": "The Facebook whistleblower who released tens of thousands of pages of internal research and documents will testify today before a Senate subcommittee about the company's impact on kids. Follow here for the latest news.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
-      "originalUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "webUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "originalUrl": "https://www.cnn.com/business/live-news/facebook-senate-hearing-10-05-21/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2021/10/google-cloud-vertex-ai-11-100905535-medium.jpg?auto=webp",
-          "width": 300,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
-      "publishedDateTime": "2021-10-04T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand.md",
-      "title": "Cognitive Operations Market Overview By Share, Size, Industry Players, Revenue and Product Demand",
-      "excerpt": "According to Microsoft Corporation ... consequently opening up new revenue streams in data-driven services such as Cognitive Operations. - The region of Asia-Pacific is projected to be the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-operations-market-overview-by-share-size-industry-players-revenue-and-product-demand-2021-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities.md",
-      "title": "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities",
-      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. Is there a problem with this press release?",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites.md",
-      "title": "Gilbane and NeXtera Robotics Form JV to Supply More Robots to Jobsites",
-      "excerpt": "Gilbane Building Co. will jump from pilots to full deployment of a jobsite robotics platform developed in joint venture with robotics startup NeXtera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites",
-      "originalUrl": "https://www.enr.com/articles/52574-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enr.com/ext/resources/News/2021/10-Oct/GilbaneNexteragravel.jpg?height=635&t=1633133521&width=1200",
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/1fa57818-51d7-476d-b66d-5dfcfe95abc3.jpg",
           "width": 900,
-          "height": 550,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/facebook-senate-hearing-10-05-21/index.html",
+      "publishedDateTime": "2021-10-05T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-self-driving-cars-have-brain-wave.md",
+      "title": "Self-driving cars have brain wave",
+      "excerpt": "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "originalUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
+      "publishedDateTime": "2021-10-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "innovatorsmag.com",
+        "domain": "innovatorsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-ai-helps-rule-out-cancer-in-dense-breasts.md",
+      "title": "AI helps rule out cancer in dense breasts",
+      "excerpt": "An automated system that uses artificial intelligence (AI) can quickly and accurately sift through breast MRIs in women with dense breasts to eliminate those without cancer, freeing up radiologists to focus on more complex cases,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-helps-rule-out-canc.jpg",
+          "width": 2400,
+          "height": 3747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-cancer-dense-breasts.amp",
+      "publishedDateTime": "2021-10-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-forget-about-cars-honda-wants-flying-vehicles-avatar-robots-and-rockets.md",
+      "title": "Forget about cars: Honda wants flying vehicles, avatar robots, and rockets",
+      "excerpt": "Honda R&D Co., the company’s innovations arm, will be leading the efforts to produce an eVTOL (electric vertical take-off and landing) aircraft, an avatar robot, and space tech. First up, Honda’s foray into an entirely new",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "originalUrl": "https://thenextweb.com/news/forget-about-cars-honda-wants-flying-vehicles-avatar-robots-rockets-lunar-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FUntitled-design-16-2.jpg&signature=43f2a28c8d2f3abde4fe4d01c91fa1f9",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1104,11 +861,158 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T01:00:00-07:00",
+      "publishedDateTime": "2021-10-05T06:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engineering News-Record",
-        "domain": "enr.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us.md",
+      "title": "Tortoise expands remote operated robotic delivery to convenience stores across the US",
+      "excerpt": "Tortoise is expanding its remote controlled delivery robots to convenience store chains across the U.S. through ... you’re just telling us which robot and where to drive it to,” said Shevelenko.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/IMG_20210927_163206017_HDR-e1633312411157.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/tortoise-expands-remote-operated-robotic-delivery-to-convenience-stores-across-the-us/amp/",
+      "publishedDateTime": "2021-10-05T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-potential-of-artificial-intelligence-to-accelerate-diagnosis-and-drug-discovery-for-covid-19.md",
+      "title": "Potential of artificial intelligence to accelerate diagnosis and drug discovery for COVID-19",
+      "excerpt": "The tests currently used to diagnose COVID-19 are based on real time reverse transcription polymerase chain reaction (RT-PCR), computed tomography medical imaging techniques and immunoassays. It takes 2 days to obtain results from the RT-PCR test and also shortage of test kits creating a requirement for alternate and rapid methods to accurately diagnose COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/articles/12073/",
+      "originalUrl": "https://peerj.com/articles/12073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg",
+          "width": 600,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-robots-at-dubai-expo-have-multiple-roles-while-interacting-with-visitors.md",
+      "title": "Robots at Dubai Expo have multiple roles while interacting with visitors",
+      "excerpt": "Dubai, the first World Expo ever held in the Middle East, Africa, and South Asia (MEASA) region got underway on Thursday, visitors to the",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "originalUrl": "https://english.alarabiya.net/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2021/10/05/aec11461-ea75-4082-8b28-e9b168a5d468/aec11461-ea75-4082-8b28-e9b168a5d468_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/amp/life-style/travel-and-tourism/2021/10/05/Robots-at-Dubai-Expo-have-multiple-roles-while-interacting-with-visitors",
+      "publishedDateTime": "2021-10-05T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1119,6 +1023,162 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-waymo-co-ceo-tekedra-mawakana-on-how-to-get-self-driving-taxis-to-the-mall.md",
+      "title": "Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall",
+      "excerpt": "Waymo is working on self-driving taxis, which is a huge deal. Ride-sharing apps like Uber and Lyft have remade cities, allowed people to give up their cars, and generally connected the buttons you push on your phone to real things happening in the world more directly than almost any other app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "originalUrl": "https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/0JPEOcyQDy0owxWrKQLu9MCwm7s=/0x0:2050x1367/1400x933/filters:focal(958x512:1286x840):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69953205/VRG_Decoder_TekedraMawkana_s.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22708676/waymo-tekedra-mawakana-self-driving-interview",
+      "publishedDateTime": "2021-10-05T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-how-ai-and-automation-can-address-americas-broken-supply-chain.md",
+      "title": "How AI And Automation Can Address America's Broken Supply Chain",
+      "excerpt": "The global supply chain is broken, and we are seeing this issue play out across manufacturing sectors around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/05/how-ai-and-automation-can-address-americas-broken-supply-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/05/how-ai-and-automation-can-address-americas-broken-supply-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615b316550df12838dfe0d8d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/05/how-ai-and-automation-can-address-americas-broken-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/05/how-ai-and-automation-can-address-americas-broken-supply-chain/amp/",
+      "publishedDateTime": "2021-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost.md",
+      "title": "Neural Magic, which offers software for growing edge AI market, gets $30 million boost",
+      "excerpt": "The market for edge AI is exploding, and Neural Magic aims to give developers the flexibility to deploy AI on commodity processors already located in the edge location.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/",
+      "originalUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/5c60c00216bb6e80224b063b_NeuralMagic-Work-20193-e1572466367885.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/neural-magic-which-offers-software-for-growing-edge-ai-market-gets-30-million-boost/amp/",
+      "publishedDateTime": "2021-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

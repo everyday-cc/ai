@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-07-ai-focus-shifts-to-small-and-wide-data.md",
+      "title": "AI focus shifts to ‘small and wide’ data",
+      "excerpt": "A Gartner report finds that companies will increasingly embrace responsible AI while seeking ways to more efficiently deploy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/",
+      "originalUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/07/ai-focus-shifts-to-small-and-wide-data/amp/",
+      "publishedDateTime": "2021-09-07T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-07-alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence.md",
+      "title": "Alphabet's DeepMind Forms Ethics Unit for Artificial Intelligence",
+      "excerpt": "DeepMind, the Google sibling focusing on artificial intelligence, has announced the launch of an \"ethics and society\" unit to study the impact of new technologies on society. The announcement by the London-based group acquired by Google parent Alphabet is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/22024286/alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/22024286/alphabets-deepmind-forms-ethics-unit-for-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.industryweek.com/files/base/ebm/industryweek/image/2019/04/industryweek_24951_ai_0.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-05-ai-ethics-a-call-to-faculty.md",
+      "title": "AI Ethics: A Call to Faculty",
+      "excerpt": "Yet despite international policy discourse and published curricular successes, the vast majority of faculty in robotics and AI report, in private discussion, that they do not feel empowered or prepared to integrate ethics into their course materials.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/magazines/2021/9/255036-ai-ethics/fulltext?mobile=true?mobile=true?mobile=true?mobile=false",
+      "originalUrl": "https://cacm.acm.org/magazines/2021/9/255036-ai-ethics/fulltext?mobile=true?mobile=true?mobile=true?mobile=false",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-04T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
       "title": "Rank One to campaign for ethical facial recognition commitment from providers",
       "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
@@ -1268,154 +1398,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-meet-the-ai-research-pioneer-who-wants-to-redefine-progress.md",
-      "title": "Meet the AI research pioneer who wants to redefine ‘progress’",
-      "excerpt": "Name any AI technology, and Dr. Nuria Oliver, of Telefonica and Vodafone, was likely working on it when it still felt like science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/amp/",
-      "publishedDateTime": "2021-08-06T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
-      "title": "Google is developing a new superintelligent AI but ethical questions remain",
-      "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "publishedDateTime": "2021-08-06T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
-      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
-      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/jqa4h",
-      "originalUrl": "https://www.techcentral.ie/jqa4h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

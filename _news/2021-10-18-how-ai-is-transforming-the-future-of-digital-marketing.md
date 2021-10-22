@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 294
+heat: 334
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI is helping to make breast cancer history"
-    excerpt: "With AI helping to diagnose patients earlier and enabling the rapid development of treatments, it is possible that in a few decades, we may no longer have the need for Breast Cancer Awareness Month."
-    publishedDateTime: 2021-10-17T14:05:00Z
-    webUrl: "https://techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/"
-    ampWebUrl: "https://techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/17/how-ai-is-helping-to-make-breast-cancer-history/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-687908580.jpg?w=1024"
-        width: 1024
-        height: 735
-        isCached: true
   - title: "How AI-Powered Call Centers Can Help With Your Digital Transformation Efforts"
     excerpt: "There is a huge opportunity for marketers to harness AI-driven insights using first-party data from phone calls that can connect the dots."
     publishedDateTime: 2021-10-18T14:15:00Z
@@ -108,6 +92,20 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181"
         width: 1000
         height: 500
+        isCached: true
+  - title: "This AI-Enabled StartUp Is Helping Businesses Tackle Digital Fraud"
+    excerpt: "Even when you are running cost per action or cost per purchase campaigns, a lot of this traffic is being driven by stalking digital devices through adware injected, installed, or pre-burned on devices."
+    publishedDateTime: 2021-10-22T05:20:00Z
+    webUrl: "https://www.entrepreneur.com/article/392763"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634880026-djdv1.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Dubbing movies, TV is the next frontier for machine learning, AI"
     excerpt: "Few cultural experiences can be as surreal as stumbling upon a dubbed Hollywood movie. There’s the cartoonish lip movements. The mistimed action. The strange baritone that doesn’t sound at all"
@@ -139,6 +137,59 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "How AI is reinventing what computers are"
+    excerpt: "Google’s latest offering, the Pixel 6, is the first phone to have a separate chip dedicated to AI that sits alongside its standard processor. And the chip that runs the iPhone has for the last couple of years contained what Apple calls a “neural engine,"
+    publishedDateTime: 2021-10-22T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/"
+    ampWebUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/nd21_review-ai_final.jpg?w=1588"
+        width: 1588
+        height: 1999
+        isCached: true
+  - title: "The Challenge of Applying Ethics to AI"
+    excerpt: "As digital technology plays a greater role in our day to day lives, the Venn diagram demonstrating the overlap between digital technologies and ethical decision-making has increasingly merged. In the age of artificial intelligence (AI),"
+    publishedDateTime: 2021-10-20T01:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/challenge-applying-ethics-ai-diane-gutiw-phd"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGx0wxEw6nnBA/article-cover_image-shrink_720_1280/0/1634691558427?e=1640217600&v=beta&t=XqY4VgSq1frwU371BVRM1hhLDBNXeK9wKqx2kfoqGsU"
+        width: 721
+        height: 720
+        isCached: true
+  - title: "AI is Changing the Future of Education"
+    excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
+    publishedDateTime: 2021-10-21T23:28:00Z
+    webUrl: "https://www.ozy.com/pg/newsletter/the-daily-dose/443152/"
+    type: article
+    provider:
+      name: OZY
+      domain: ozy.com
+    quality: 54
+    images:
+      - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China Is Pouring Everything Into the Race for AI Supremacy"
+    excerpt: "The full strength of the Communist Party is being focused on a technology that may soon tip the scales of global economic and military dominance."
+    publishedDateTime: 2021-10-20T15:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-10-20/china-is-pouring-everything-into-the-race-against-the-u-s-for-ai-supremacy"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 47
   - title: "How AI Will Affect The Future Of Work"
     excerpt: "For many companies, AI is an exceptional opportunity to improve efficiency, increase financial gains and enhance business performance."
     publishedDateTime: 2021-10-18T15:42:00Z
@@ -152,20 +203,6 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
         width: 806
         height: 500
-        isCached: true
-  - title: "Machine Learning Trading Bot"
-    excerpt: "Looking at all three plots, and comparing the two machine learning algorithms, we can see that the Adaboost does better with the training data with 94% accuracy but when utilizing the testing data it seems to underperform the SVM algorithm. Permission is ..."
-    publishedDateTime: 2021-10-16T13:57:00Z
-    webUrl: "https://github.com/webclinic017/trading_bot-5"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/a5d9a814ebc7eb10d76a6de8539013dc6cd614fcf1176f1bb45a764831f42e81/webclinic017/trading_bot-5"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Preparing for a Future Pandemic with Artificial Intelligence"
     excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
@@ -181,48 +218,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Spot.ai - The Future of Video Intelligence"
-    excerpt: "Patrick Chase We are thrilled to announce that Redpoint has partnered with Spot AI to lead their $20M Series A. Video cameras are everywhere: in warehouses, factories, car washes, hospitals, schools,"
-    publishedDateTime: 2021-10-15T16:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/spotai-future-video-intelligence-tomasz-tunguz"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFgcp6z0Dz4jA/article-cover_image-shrink_720_1280/0/1634315378399?e=1640217600&v=beta&t=yL1pXi9v1rhR52oSgSPyg1yXMTIyYbnSNxYsZGCtTq0"
-        width: 1191
-        height: 720
-        isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Federal agencies aim to advance their use of artificial intelligence and accompanying emerging technologies, like machine learning, in the coming years. While there are some examples of nascent uses of AI across government already,"
-    publishedDateTime: 2021-10-15T14:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/10/future-artificial-intelligence/186123/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/10/14/NGAI20211014/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "How Artificial Intelligence Will Transform the Film Industry"
-    excerpt: "How Artificial Intelligence Will Transform the Film Industry. Movies have always acted as a medium to bring people’s imaginations to life since their inception in the late 1880s"
-    publishedDateTime: 2021-10-16T16:23:00Z
-    webUrl: "https://filmdaily.co/tech/artificial-intelligence-film-industry/"
-    type: article
-    provider:
-      name: filmdaily
-      domain: filmdaily.co
-    quality: 37
-    images:
-      - url: "https://filmdaily.co/wp-content/uploads/2021/08/motus-nova-1-800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "The challenges of regulating AI"
     excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
     publishedDateTime: 2021-10-17T23:08:00Z
@@ -236,6 +231,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
         width: 848
         height: 565
+        isCached: true
+  - title: "DAFIA leveraging artificial intelligence to transform inspections"
+    excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable"
+    publishedDateTime: 2021-10-20T00:00:00Z
+    webUrl: "https://www.afgsc.af.mil/News/Article-Display/Article/2817942/dafia-leveraging-artificial-intelligence-to-transform-inspections/"
+    type: article
+    provider:
+      name: AF.mil
+      domain: af.mil
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2021/Oct/20/2002877421/825/780/0/211020-F-WV904-1001.JPG"
+        width: 825
+        height: 589
         isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."
@@ -293,15 +302,42 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Food for Thought: Startups Harness AI to Nurture the Future of Agriculture"
-    excerpt: "From counting cows to detecting weeds to pollinating tomatoes, startups around the world are deploying AI technology to solve problems that farmers have struggled with since the dawn of time. Tomorrow's World Food Day comes as startups are mobilized to change how our food is grown - with potentially wide implications for the economy,"
-    publishedDateTime: 2021-10-16T00:50:00Z
-    webUrl: "https://www.publicnow.com/view/D50C7A208F0D932BFBFDB459FA915DEFDAC6CB7D"
+  - title: "DAFIA leveraging artificial intelligence to transform inspections"
+    excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable"
+    publishedDateTime: 2021-10-20T18:44:00Z
+    webUrl: "https://www.aetc.af.mil/News/Article-Display/Article/2817091/dafia-leveraging-artificial-intelligence-to-transform-inspections/"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
+      name: AF.mil
+      domain: af.mil
     quality: 17
+  - title: "Myr.ai is raising € 2M seed funds to bring workspace cleaning into the digital age."
+    excerpt: "Myr.ai, a pioneer in the automation of workspace processes, finalizes a first fundraising of € 2M led by Axeleo Capital, accompanied by Weaving Invest, Second Century Ventures and business angels."
+    publishedDateTime: 2021-10-20T15:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/myrai-raising-2m-seed-funds-bring-workspace-cleaning-digital-galou"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 13
+  - title: "WHEN MACHINES DREAM THE FUTURE: Festival on living with artificial intelligence"
+    excerpt: "The three-day hybrid festival WHEN MACHINES DREAM THE FUTURE takes a look at this question from 12th – 14th November 2021. Artificial intelligence has now become a fundamental component of our daily digital life,"
+    publishedDateTime: 2021-10-20T18:01:00Z
+    webUrl: "https://www.goethe.de/prj/wmd/en/abo.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 13
+  - title: "Side Hustle: Streamlining the Future of Crypto Buying Signals Through Artificial Intelligence"
+    excerpt: "Side Hustle is a data driven crypto signals group—with a team of market experts who have seen the rapid progression of cryptocurrency over the past decade first-hand. Leveraging that expertise and knowledge,"
+    publishedDateTime: 2021-10-21T10:28:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8377675/side-hustle-streamlining-the-future-of-crypto-buying-signals-through-artificial-intelligence"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 6
 
 secured: "sd/lPSebnMrZ9HQUM5a7a/MX2hqbC70hqznkw50V9UTIgFBRY5GztpkaNNGpkRx8kl+nTGRqOepqlDIiH4VZagdGrHa1DHddCap9A3U/AvEg19sVTOAFUshyZGvJGeoXwT3bcs0q59A/BfGmE5cx1rIRyvWMDb2aBkWvykK4WjocZWUWqsdgiQUyoboxbfUHdYM+HxE3777ixPHMlAPyJLE6JCK0G5u5mHqokqNM0B0QPW1zmVWXLSp2u/y8b06mARqfG36DyXQdampAP0Fcsb7LLpoXv3AR57q873IxFkd+r36GEIHtwhFhMFB6VRt7JAmAfjjpD2gGDrWmGyUs1kW72FLAqzGaDcGyWXCGUk5rAddrh2C8stlSJO6GuXBRSG1JQbUng7mlbHrLr6B4aHaRp5IV6B3OU+30uGeipVeMZCo/HAmmMFmIPzUVvh5JacHzHSFjMqavSEPpo2uvddETu1oMlkjkOLGM8D0RKqeqBZ1toMOamC6Fmg8g5hcou3hm91pLaTyTjPHGlMsteQ==;Yo1ArWWCLrhmvx4bpqnbDQ=="
 ---

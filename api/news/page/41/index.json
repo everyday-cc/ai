@@ -2,20 +2,296 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2021-09-16-facebook-employees-flag-drug-cartels-and-human-traffickers-the-companys-response-is-weak-documents-show.md",
-      "title": "Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show.",
-      "excerpt": "Employees raised alarms about how the site is used in developing countries, where its user base is already huge and expanding. In many instances Facebook’s response is inadequate or nothing at all.",
+      "path": "_news/2021-09-19-should-we-care-about-philosophy-of-ai-in-the-mena-region.md",
+      "title": "Should we care about Philosophy of AI in the Mena region?",
+      "excerpt": "Aliah Yacoub is an AI philosopher and head of techQualia at Egypt-based Synapse Analytics, a data science and AI company",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
-      "originalUrl": "https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
+      "webUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
+      "originalUrl": "https://www.wamda.com/2021/09/care-philosophy-ai-mena-region",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-399835/social",
-          "width": 1279,
+          "url": "https://cdn.wamda.com/thumbnails/d25799fc6c04f7e.png",
+          "width": 686,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda.com",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-ibm-brings-trust-and-transparency-into-ai.md",
+      "title": "IBM brings trust and transparency into AI",
+      "excerpt": "“IBM led the industry in establishing Trust and Transparency principles for the development of new AI technologies,” said Beth Smith, general manager of Watson AI at IBM. “It’s time to ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-brings-trust-and-transparency-into-ai/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-brings-trust-and-transparency-into-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/09/1-4.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
+      "title": "MIT researchers combine voice and object recognition in new model",
+      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/09/MIT-Audio-Images_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says.md",
+      "title": "New Deals May Double $240M Funding For MIT-IBM AI Lab, Director Says",
+      "excerpt": "Now, the Cambridge, MA-based MIT-IBM Watson AI Lab is growing in personnel, funding, partners, and square feet, says David Cox, a former Harvard professor who leads the program for IBM (NYSE ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "originalUrl": "https://xconomy.com/boston/2019/09/19/new-deals-may-double-240m-funding-for-mit-ibm-ai-lab-director-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2019/09/19151247/mit-ibm.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
+      "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
+      "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "originalUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/18/M_7a69eimage_story.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-facepalm-as-researchers-crack-advanced-facial-recognition-tech-with-simple-makeup.md",
+      "title": "Facepalm As Researchers Crack Advanced Facial Recognition Tech With Simple Makeup",
+      "excerpt": "The concerning part of all of this is that the research also explained this “attack has a high level of inconspicuousness and thus can be launched in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "originalUrl": "https://hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56270/content/facial-recognition-tricked-with-makeup.jpg",
+          "width": 708,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/facial-recognition-tricked-with-makeup",
+      "publishedDateTime": "2021-09-18T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-computer-vision-can-help-spot-cyber-threats-with-startling-accuracy.md",
+      "title": "Computer vision can help spot cyber threats with startling accuracy",
+      "excerpt": "In 2019, cybersecurity researchers created a machine learning model that could detect malware based on images created from the content of application files.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "originalUrl": "https://thenextweb.com/news/computer-vision-help-spot-cyber-threats-startling-accuracy-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F09%2Fmalicious-code-4036349_1920-hed.jpg&signature=a4274c2ddc0d9d90c7894df0e316eebf",
+          "width": 1280,
           "height": 640,
           "title": null,
           "attribution": null,
@@ -24,9 +300,157 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953",
-      "publishedDateTime": "2021-09-16T09:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate.md",
+      "title": "Artificial intelligence success is tied to ability to augment, not just automate",
+      "excerpt": "Artificial intelligence is only a tool ... to solve than had been anticipated. The design of self-driving cars requires integration of a range of technologies including sensor fusion, AI planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0b4bdd7e3bd7d86fa990d8b0814727af97858730/2021/09/18/9f8cc20f-ef3d-4c2f-a617-0c732979497e/cn-tower-toronto-photo-by-joe-mckendrck.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/",
+      "publishedDateTime": "2021-09-18T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-honor-and-microsoft-join-hands-to-develop-new-ai-devices.md",
+      "title": "Honor and Microsoft Join Hands to Develop New AI Devices",
+      "excerpt": "Honor and Microsoft have announced an expansion of an ongoing partnership between the two companies, under which they will collaborate on Microsoft cloud adoption, personal and mobile computing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/09/18/1112310-microsoft.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/honor-and-microsoft-join-hands-to-develop-new-ai-devices-707015",
+      "publishedDateTime": "2021-09-18T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does.md",
+      "title": "How to Detect Your Child’s Emotional Distress Before the School’s AI Does",
+      "excerpt": "School districts use bots to monitor student email and web searches for signs of self-harm or violence; tips for parents on being proactive about their teens’ and tweens’ mental health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "originalUrl": "https://www.wsj.com/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-401831/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-detect-your-childs-emotional-distress-before-the-schools-ai-does-11631970002",
+      "publishedDateTime": "2021-09-18T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -49,26 +473,25 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-social-service-agencies-turn-to-the-cloud-and-ai-to-serve-families-in-crisis.md",
-      "title": "Social Service Agencies Turn to the Cloud and AI to Serve Families in Crisis",
-      "excerpt": "The pandemic and other crises have pushed social service agencies past their limits. They’ve struggled to process record-setting spikes in unemployment claims, housing assistance requests and other emergency services.",
+      "path": "_news/2021-09-18-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
       "sourceUrl": null,
-      "webUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
-      "originalUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
+      "webUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
+      "originalUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202109/ST_Q421_Delaney_Hero.jpg?itok=IVvTzz0J",
-          "width": 1440,
-          "height": 500,
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +499,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "publishedDateTime": "2021-09-16T09:20:00-07:00",
+      "ampWebUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "publishedDateTime": "2021-09-18T04:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Statetechmagazine",
-        "domain": "statetechmagazine.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,26 +515,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-using-machine-learning-for-anomaly-detection-and-ransomware-recovery.md",
-      "title": "Using Machine Learning for Anomaly Detection and Ransomware Recovery",
-      "excerpt": "Powered by machine learning, Rubrik enables businesses to respond quickly to the latest threats automatically and minimize business disruption and data loss. They can effectively gather a clear picture and better insight into the anomalies that impact their environment regularly.",
+      "path": "_news/2021-09-18-how-will-ai-and-robotics-transform-jobs-of-the-future.md",
+      "title": "How will AI and robotics transform jobs of the future?",
+      "excerpt": "We can either be fearful of artificial intelligence, or embrace it as a tool to help us improve service. Share How will AI and robotics transform jobs of the future? on Facebook Share How will AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
-      "originalUrl": "https://www.cio.com/article/3633171/using-machine-learning-for-anomaly-detection-and-ransomware-recovery.html",
+      "webUrl": "https://bigthink.com/the-present/automation-jobs/",
+      "originalUrl": "https://bigthink.com/the-present/automation-jobs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2021/09/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
+          "url": "https://bigthink.com/wp-content/uploads/2019/10/origin-70.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,387 +544,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T09:16:00-07:00",
+      "publishedDateTime": "2021-09-18T03:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
+        "name": "Big Think",
+        "domain": "bigthink.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-global-5848-billion-radiotherapy-devices-market-2021-covid-19-growth-and-change-to-2030-researchandmarketscom.md",
-      "title": "Global $5.848 Billion Radiotherapy Devices Market 2021: COVID-19 Growth and Change to 2030 - ResearchAndMarkets.com",
-      "excerpt": "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global radiotherapy devices market is expected to grow from $5.44 billion in 2020 to $5.848 billion in 2021 at a compound annual growth rate (CAGR) of 7.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-5bb5977a5c5942a1a6314d1adaffe917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-ai-startup-sorcero-secures-10m-for-language-intelligence-platform.md",
-      "title": "AI startup Sorcero secures $10M for language intelligence platform",
-      "excerpt": "Sorcero’s natural language processing platform ... reducing time and increasing accuracy,” and if AI is to have a future, it needs a universal translator that plugs into everything, he said.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1271697775.jpg?w=1024",
-          "width": 1024,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/16/ai-startup-sorcero-secures-10m-for-language-intelligence-platform/amp/",
-      "publishedDateTime": "2021-09-16T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-city-of-pittsburgh-pa-goes-live-on-css-impacts-financial-ecosystems-cloud-as-its-business-tax-management-platform.md",
-      "title": "City of Pittsburgh, PA Goes Live on CSS IMPACT’s Financial Ecosystems Cloud as its Business Tax Management Platform",
-      "excerpt": "On September 1st, 2021, the City of Pittsburgh Pennsylvania, Department of Finance, officially launched CSS IMPACT Financial Cloud as their new Enterprise Business Tax Management Financial Ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
-      "originalUrl": "https://www.insidearm.com/news/00047683-city-pittsburgh-pa-goes-live-css-impacts-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.insidearm.com/static/mirrorstage/img/article-share-thumbnail.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideARM",
-        "domain": "insidearm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-can-machine-learning-improve-client-outcomes.md",
-      "title": "Can machine learning improve client outcomes?",
-      "excerpt": "There are a number of perspectives on how data science, artificial intelligence and machine learning could ... operational efficiencies of how financial services practitioners – including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/investments/2021/09/16/can-machine-learning-improve-client-outcomes/",
-      "originalUrl": "https://www.ftadviser.com/investments/2021/09/16/can-machine-learning-improve-client-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F2%2F6%2F9%2F2599626-8-eng-GB%2Fpexels-tima-miroshnichenko-5380664.jpg%3Fv1?source=ftadviser",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-this-restaurant-tech-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately.md",
-      "title": "This restaurant tech start-up uses computer vision to get your fast-food order made accurately",
-      "excerpt": "The start-up installs overhead cameras in restaurant kitchens and uses computer vision to scrutinize if workers are preparing orders correctly. The drive-thru ordering boom during the Covid pandemic has made order accuracy more difficult for fast-food ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "originalUrl": "https://www.cnbc.com/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106942807-1631795175716-gettyimages-1129094921-is09bx04z.jpeg?v=1631795193",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/09/16/this-start-up-uses-computer-vision-to-get-your-fast-food-order-made-accurately-.html",
-      "publishedDateTime": "2021-09-16T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-comparison-of-iot-services-from-aws-azure-and-gcp.md",
-      "title": "Comparison Of IoT Services From AWS, Azure, And GCP",
-      "excerpt": "AWS IoT Core natively integrates with other AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Sagemaker, Amazon DynamoDB, CloudWatch, Aws CloudTrail, Amazon QuickSight. AWS IoT Device Defender: AWS IoT Device Defender is another fully managed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/comparison-of-iot-services-from-aws-azure-and-gcp-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/3bd9b1bf/3bd9b1bf-9772-4cf3-a258-630396eff499/istock_1215247403.jpg",
-          "width": 1042,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-heart-to-heart-hospice-receives-medalogix-muse-trailblazer-award-for-adopting-machine-learning-technology.md",
-      "title": "Heart to Heart Hospice Receives Medalogix Muse Trailblazer Award for Adopting Machine Learning Technology",
-      "excerpt": "Medalogix (  a premiere health-tech company using machine learning to advance patient care within home health, palliative, and hospice care settings, has partnered with Homecare HomebaseSM (HCHB) to announce Heart to Heart Hospice as the winner of the Medalogix Muse Trailblazer Award.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-texas-dallas-8d1aafeaba43856a011f9e8c010650a4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-in-precision-farming-market-2021-research-report-market-overview-size-share-growth-trends-and-forecast-2026.md",
-      "title": "Artificial Intelligence in Precision Farming Market 2021: Research Report: Market Overview, Size, Share, Growth, Trends and Forecast 2026",
-      "excerpt": "Artificial Intelligence in Precision Farming Market Research Report (2021 - 2026) contain the business policies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2021-research-report-market-overview-size-share-growth-trends-and-forecast-2026-2021-09-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2021-research-report-market-overview-size-share-growth-trends-and-forecast-2026-2021-09-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-16T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -515,55 +563,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-16-speech-recognition-market-is-all-set-to-break-2928-billion-barrier-by-2026.md",
-      "title": "Speech Recognition Market is All Set to Break $29.28 Billion Barrier by 2026",
-      "excerpt": "As per the latest report published by Allied Market Research, titled, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use (Consumer Electronics, Healthcare, Enterprise,",
+      "path": "_news/2021-09-18-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices.md",
+      "title": "Microsoft and Honor sign partnership to develop new AI, devices",
+      "excerpt": "According to the strategic cooperation memorandum signed by the two companies, Honor will adopt AI speech and AI translation services based on Microsoft Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "originalUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
+      "webUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
+      "originalUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/speech-recognition-market-is-all-set-to-break-29-28-billion-barrier-by-2026%EF%BF%BC/",
-      "publishedDateTime": "2021-09-15T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-wells-fargo-to-use-google-microsoft-azure-cloud-services-to-support-new-digital-strategy.md",
-      "title": "Wells Fargo to Use Google, Microsoft Azure Cloud Services to Support New Digital Strategy",
-      "excerpt": "Wells Fargo has debuted a digital infrastructure strategy, which will use a multicloud method with third-party data centers to drive speed, agility and scalability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "originalUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
       "images": [
         {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Wells-Fargo-Google-Cloud-Microsoft-Azure-457x274.jpg",
-          "width": 457,
-          "height": 274,
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/09/22/159963-untitled-design-2021-09-22t115616143.jpg?itok=hh4Sia_8",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -571,13 +585,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/cloud-banking/2021/wells-fargo-google-microsoft-azure-cloud-services-support-digital-strategy/amp/",
-      "publishedDateTime": "2021-09-15T22:48:00-07:00",
+      "ampWebUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
+      "publishedDateTime": "2021-09-17T22:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -592,21 +606,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-16-ai-in-cardiology-a-marriage-made-in-heaven-or-hell.md",
-      "title": "AI in cardiology: a marriage made in heaven – or hell?",
-      "excerpt": "The role of Artificial Intelligence (AI) – one of the most divisive issues in cardiology – was debated during a session of the European Society of Cardiology annual congress. Two leading experts argued the pros and cons of its use,",
+      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
+      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
+      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
-      "originalUrl": "https://healthcare-in-europe.com/en/news/ai-in-cardiology-a-marriage-made-in-heaven-or-hell.html",
+      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://healthcare-in-europe.com/media/story/25869/rect-01-heven-hell-heart-wide.jpg",
-          "width": 400,
-          "height": 240,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -614,59 +628,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T21:01:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
+      "publishedDateTime": "2021-09-17T19:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "healthcare-in-europe.com",
-        "domain": "healthcare-in-europe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-making-self-driving-cars-safer-through-keener-robot-perception.md",
-      "title": "Making self-driving cars safer through keener robot perception",
-      "excerpt": "Safety concerns have clouded the future of fully autonomous vehicles. To accelerate their progress, MIT graduate student Heng “Hank” Yang and colleagues have developed a set of algorithms to help protect self-driving vehicles and other road users.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
-      "originalUrl": "https://news.mit.edu/2021/heng-yang-self-driving-cars-0916",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202109/MIT-Heng-Yang-01-press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -688,152 +659,21 @@
       ]
     },
     {
-      "path": "_news/2021-09-16-what-ai-and-machine-learning-mean-for-auto-lending-technology.md",
-      "title": "What AI and machine learning mean for auto lending technology",
-      "excerpt": "Many industries, including automotive finance, are turning to artificial intelligence (AI) and machine learning (ML) for these efficiencies. The technologies can deliver a competitive edge to lenders looking to not just survive,",
+      "path": "_news/2021-09-18-arc-applauds-direct-support-staff-during-recognition-week.md",
+      "title": "ARC applauds direct support staff during recognition week",
+      "excerpt": "Agency works to help people with intellectual and developmental disabilities live their best lives, spokesperson Jared West says.",
       "sourceUrl": null,
-      "webUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
-      "originalUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/",
+      "webUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
+      "originalUrl": "https://www.pressrepublican.com/news/local_news/arc-applauds-direct-support-staff-during-recognition-week/article_56f6ebf5-265c-5f39-9fd8-a4271e11f388.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.autofinancenews.net/wp-content/uploads/2021/09/canstockphoto52285847-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
-      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/auto-finance-excellence/customer-experience-afe/what-ai-and-machine-learning-mean-for-auto-lending-technology/amp/",
-      "publishedDateTime": "2021-09-15T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Finance News",
-        "domain": "autofinancenews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-fintech-market-to-witness-huge-growth-by-2026-ant-financial-adyen-qudian.md",
-      "title": "Fintech Market to Witness Huge Growth by 2026 | Ant Financial, Adyen, Qudian",
-      "excerpt": "The latest research on Worldwide Fintech Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges impeding market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "originalUrl": "https://www.openpr.com/news/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U916568378_g.jpg",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/0/90/09029313-49e7-513c-b08a-7390e4774716/614552e903754.image.jpg?resize=450%2C600",
           "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394913/fintech-market-to-witness-huge-growth-by-2026-ant-financial",
-      "publishedDateTime": "2021-09-15T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years.md",
-      "title": "Artificial Intelligence (Ai) In Education Market Rising Demand, Growth, Trend & Insights for Next 5 Years",
-      "excerpt": "Latest published market study on Worldwide Artificial Intelligence (Ai) In Education Market provides an overview of the current market dynamics in the Worldwide Artificial Intelligence (Ai) In Education space,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-rising-demand-growth-trend-insights-for-next-5-years/?amp=1",
-      "publishedDateTime": "2021-09-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
-      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
-      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
-          "width": 760,
-          "height": 428,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -843,63 +683,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T18:09:00-07:00",
+      "publishedDateTime": "2021-09-17T19:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-nest-doorbell-battery-review-ding-dong-ditch.md",
-      "title": "Nest Doorbell (battery) review: Ding dong ditch",
-      "excerpt": "Most of us have a doorbell, but most of us probably don't have a smart doorbell, even if our house is otherwise loaded with ostensibly \"smart\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
-      "originalUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidpolice.com/wp-content/uploads/2021/09/10/Nest-Doorbell-Battery-Hero2-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
-      "publishedDateTime": "2021-09-15T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
+        "name": "Press-Republican",
+        "domain": "pressrepublican.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -909,26 +697,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai.md",
-      "title": "A report on the EU’s proposed ‘Artificial Intelligence’ law focuses on high-risk AI",
-      "excerpt": "More than 300 companies have made statements about the proposed European law around artificial intelligence, presented last April. Its adoption will facilitate the classification of AI systems ...",
+      "path": "_news/2021-09-18-the-proposed-new-eu-regulatory-regime-for-artificial-intelligence-ai.md",
+      "title": "The Proposed New EU Regulatory Regime for Artificial Intelligence (AI)",
+      "excerpt": "Introduction In April 2021, the EU Commission (EC) proposed a suite of new legislative and non-legislative proposals related to artificial intelligence (AI): in a proposed Regulation laying down ru",
       "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/16/a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/16/a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai",
+      "webUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
+      "originalUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/09/16/1295588.jpg",
-          "width": 1240,
-          "height": 743,
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -936,13 +724,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:15:00-07:00",
+      "ampWebUrl": "https://www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/proposed-new-eu-regulatory-regime-artificial-intelligence-ai?amp",
+      "publishedDateTime": "2021-09-17T15:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -952,26 +740,25 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-worldwide-data-collection-and-labeling-industry-to-2028-featuring-global-technology-solutions-alegion-and-labelbox-among-others.md",
-      "title": "Worldwide Data Collection and Labeling Industry to 2028 - Featuring Global Technology Solutions, Alegion and Labelbox Among Others",
-      "excerpt": "SpaceX is targeting Wednesday, September 15 at 8:02 p.m. for launch of the Inspiration4 mission – the world’s first all-civilian human spaceflight to orbit – aboard SpaceX’s Falcon 9 ...",
+      "path": "_news/2021-09-18-ask-sophia-the-robot-what-can-ai-teach-humans.md",
+      "title": "Ask Sophia the Robot: What can AI teach humans?",
+      "excerpt": "We can benefit from this. So, what can humans learn from robots? Artificial intelligence can view the world in a way that’s more objective, being present while still able to look toward the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-data-collection-and-labeling-industry-to-2028---featuring-global-technology-solutions-alegion/article_197d5e85-9bad-5451-b649-52d6e0f78ed5.html",
+      "webUrl": "https://bigthink.com/hard-science/sophia-the-robot-ai/",
+      "originalUrl": "https://bigthink.com/hard-science/sophia-the-robot-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://bigthink.com/wp-content/uploads/2020/03/origin-65.jpg",
+          "width": 1500,
+          "height": 844,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -981,11 +768,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:15:00-07:00",
+      "publishedDateTime": "2021-09-17T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Big Think",
+        "domain": "bigthink.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -995,26 +782,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
-      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
-      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
+      "path": "_news/2021-09-18-the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality.md",
+      "title": "The Social Impact Case For Artificial Intelligence’s Role In Achieving Global Financial And Health Equality",
+      "excerpt": "Equality Mural.. Technology can be used for a great many things: improving people’s lives is one of them. This is achievable through AI in many sectors,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
-          "width": 1200,
-          "height": 644,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6144ea724d323ccd70477289%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1036%26cropY1%3D941%26cropY2%3D1524",
+          "width": 1036,
+          "height": 583,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1022,9 +809,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T17:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/17/the-social-impact-case-for-artificial-intelligences-role-in-achieving-global-financial-and-health-equality/amp/",
+      "publishedDateTime": "2021-09-17T12:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1047,26 +834,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2021-09-16-freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks.md",
-      "title": "Freebirds Partners With Dallas-Based Now Cuisine for Burrito-Bowl Robot Kiosks",
-      "excerpt": "\"It’s just cool that a Texas-based AI and robotics company can help a Texas-based burrito company expand in ways we could only imagine just a few years ago,\" says Alex Eagle, Chief Executive Officer for Freebirds World Burrito.",
+      "path": "_news/2021-09-18-deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024.md",
+      "title": "Deep Learning Chipset Market Size Soaring at 38.5% CAGR to Reach 4296.1 million USD by 2024",
+      "excerpt": "As per the estimations of analysts, global Deep Learning Chipset market valuation is reckoned to surpass USD 4296.1 by 2024, soaring from USD 1167.7 million in 2019, growing at a CAGR of 38.5% over the study timeframe of 2019-2024.",
       "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
-      "originalUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024-2021-09-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-soaring-at-385-cagr-to-reach-42961-million-usd-by-2024-2021-09-17",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/09/Freebirds-Takeout-Station-970jpg.jpg",
-          "width": 970,
-          "height": 464,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1076,11 +863,63 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T16:10:00-07:00",
+      "publishedDateTime": "2021-09-17T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "dallasinnovates.com",
-        "domain": "dallasinnovates.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-hyundai-to-feature-facial-recognition-in-electric-vehicles.md",
+      "title": "Hyundai to feature facial recognition in electric vehicles",
+      "excerpt": "South Korean carmaker Hyundai Motor announced it will include a new facial recognition system in its forthcoming GV 60, the first electric sport utility vehicle from its Genesis brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5491631899253/2021/1/16318995983256/v1.5/Hyundai-to-feature-facial-recognition-in-electric-vehicles.jpg",
+          "width": 571,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/09/17/Hyundai-facial-recognition-Genesis/5491631899253/",
+      "publishedDateTime": "2021-09-17T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1090,31 +929,40 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-09-16-live-webinar-driving-healthcare-decisions-with-natural-language-processing.md",
-      "title": "Live Webinar: Driving Healthcare Decisions with Natural Language Processing",
-      "excerpt": "Dr. Sabita Sankar, VP of Business Development at HUMA.AI, will sit down with Natalie Yeadon, to discuss “human-centric AI” and how to automate healthcare through human language, with special focus on the applications for Medical Affairs,",
+      "path": "_news/2021-09-17-timekettle-m2-language-translator-earbuds-stunning-discount-sale.md",
+      "title": "Timekettle M2 Language Translator Earbuds – Stunning Discount Sale",
+      "excerpt": "Founded in 2016, Timekettle Technologies is committed to building a global brand of AI translator by integrating ... next-generation Timekettle M2 Language Translator Earbuds with advanced ...",
       "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
-      "originalUrl": "https://www.pmlive.com/pmhub/healthcare_conferences_meetings_events/impetus_digital/press_releases/live_webinar_driving_healthcare_decisions_with_natural_language_processing",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/ab22991057/timekettle-m2-language-translator-earbuds-stunning-discount-sale",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/ab22991057/timekettle-m2-language-translator-earbuds-stunning-discount-sale",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T15:59:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22991057",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22991057",
+      "publishedDateTime": "2021-09-17T09:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PMLiVE",
-        "domain": "pmlive.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1125,8 +973,188 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-intelepeer-adds-voice-to-ibm-waston-virtual-agent.md",
+      "title": "IntelePeer Adds Voice to IBM Waston Virtual Agent",
+      "excerpt": "IBM's Watson Assistant is an intelligent virtual agent that makes it possible for organizations to improve first contact resolution and enables a more seamless hand-off from virtual agents to live agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/0049349428-AdobeStock_195882849_AI_supercomputing_SUPERSIZE.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22986992/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1628715/Xingtu.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22986992",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22986992",
+      "publishedDateTime": "2021-09-17T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-tesla-will-make-sure-you-are-a-good-driver-before-giving-you-access-to-full-self-driving-beta.md",
+      "title": "Tesla will make sure you are a good driver before giving you access to Full Self-Driving Beta",
+      "excerpt": "Elon Musk said that Tesla will use its telemetry data to make sure customers are “good” drivers before allowing them to access its Full Self-Driving Beta software. This is a tricky situation since those customers already paid for the software.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/17/tesla-make-sure-good-driver-before-giving-access-full-self-driving-beta/amp/",
+      "publishedDateTime": "2021-09-17T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-timekettle-m2-language-translator-earbuds.md",
+      "title": "Timekettle M2 Language Translator Earbuds",
+      "excerpt": "Timekettle has launched the next-generation Timekettle M2 Language Translator Earbuds with advanced features and capabilities. The Timekettle M2 Language Translator Earbuds provides support for 40 languages and 93 accents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-timekettle-m2-language-translator-earbuds-/2021/09/17/9451547.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1627492/product_picture.jpg",
+          "width": 400,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

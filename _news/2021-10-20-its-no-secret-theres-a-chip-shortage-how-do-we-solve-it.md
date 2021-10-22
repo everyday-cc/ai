@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/20/its-no-secret-theres-a-chip-shortage-how-do-we-solve-it/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/20/its-no-secret-theres-a-chip-shortage-how-do-we-solve-it/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

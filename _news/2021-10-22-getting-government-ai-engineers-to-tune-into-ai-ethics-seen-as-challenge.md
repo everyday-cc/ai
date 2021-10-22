@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T21:02:00Z
 originalUrl: "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/"
 webUrl: "https://www.aitrends.com/ai-world-government/getting-government-ai-engineers-to-tune-into-ai-ethics-seen-as-challenge/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: aitrends

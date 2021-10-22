@@ -8,6 +8,9 @@ webUrl: "https://medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.h
 ampWebUrl: "https://medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-ai-tool-pairs-protein-pathways.amp"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Medical Xpress

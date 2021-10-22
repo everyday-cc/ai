@@ -37,6 +37,15 @@ related:
         width: 1024
         height: 688
         isCached: true
+  - title: "Is AI Development a Sword with Two Edges?"
+    excerpt: "The Root Causes of Risk on AI Development Oct 20th, 2021 – California – The Mind Power Lady, Dr. Angela Wilson (Ph.D.) through her brand, Achievers Resources Pty Ltd announces the release of 'Hacking The Hacker®' The series covering risk prevention on AI development for AI Experts and investors who want to free themselves being the potential victims of own creation."
+    publishedDateTime: 2021-10-20T17:43:00Z
+    webUrl: "https://menafn.com/1103008182/Is-AI-Development-a-Sword-with-Two-Edges"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "uT2nnJp8THsrTgq1Qis6NDlaicxXfXjPvj8hKXJVDSpv6KOQ4MOzY09dwDemvOMI3F9SY4+WxJEJ8skhUU4D6R0QUrjgTvwWeeYUd6uwEaaj5YcBKcd53YqjR+DPVChwcazTpdj3iUEr1FZk45Eh/OF/gsNG79NoyEKmyOaoWBzZBA80lQaehCTQ4kNLD1aaspkRPtgJVbOkrq8BflvHXFFTUltlGRyoQAAcYT3/+3Nmjc37CQqsk6YK65JhLY730oa0QYMx7Kccgy3o1TL/CENXByFcjNTTmO9wl66jo+81+xgOOnTOXka09SYEKiRYEaxbLp9JLghCk5eCPU9itLk4eXx7Zxb97MFRehp3PjU=;8UHRFkJ4ysQZ3Xbholbp3g=="
 ---

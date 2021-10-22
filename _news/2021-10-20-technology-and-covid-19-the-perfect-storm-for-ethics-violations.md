@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T11:00:00Z
 originalUrl: "https://www.forbes.com/sites/jeffthomson/2021/10/20/technology-and-covid-19-the-perfect-storm-for-ethics-violations/"
 webUrl: "https://www.forbes.com/sites/jeffthomson/2021/10/20/technology-and-covid-19-the-perfect-storm-for-ethics-violations/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

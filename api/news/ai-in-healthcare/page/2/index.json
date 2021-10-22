@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-28-ai-based-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers.md",
+      "title": "AI-based tool to predict risk of cardiovascular diseases launched for healthcare providers",
+      "excerpt": "An artificial intelligence-based tool to predict risk of cardiovascular diseases for an early intervention was launched on Tuesday for healthcare providers across the country by a leading private healthcare group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/aibased-tool-to-predict-risk-of-cardiovascular-diseases-launched-for-healthcare-providers/2168999",
+      "publishedDateTime": "2021-09-28T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-zoomtopia-2021-ai-and-video-to-power-healthcare-financial-services.md",
       "title": "Zoomtopia 2021: AI and Video to Power Healthcare, Financial Services",
       "excerpt": "At the recent Zoomtopia, the company spotlighted how video and artificial intelligence will great boost the process of digital transformation.",
@@ -1321,58 +1365,6 @@
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-artificial-intelligence-ai-market-size-opportunities-share-analysis-up-to-2025.md",
-      "title": "Artificial Intelligence (AI) Market Size , Opportunities, Share Analysis up to 2025",
-      "excerpt": "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-opportunities-share-analysis-up-to-2025-2021-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-opportunities-share-analysis-up-to-2025-2021-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

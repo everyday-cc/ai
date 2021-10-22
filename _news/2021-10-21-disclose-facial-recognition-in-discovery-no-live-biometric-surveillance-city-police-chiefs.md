@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:37:00Z
 originalUrl: "https://www.biometricupdate.com/202110/disclose-facial-recognition-in-discovery-no-live-biometric-surveillance-city-police-chiefs"
 webUrl: "https://www.biometricupdate.com/202110/disclose-facial-recognition-in-discovery-no-live-biometric-surveillance-city-police-chiefs"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Biometric Companies

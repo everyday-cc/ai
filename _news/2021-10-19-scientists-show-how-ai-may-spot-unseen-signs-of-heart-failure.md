@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-fa
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -37,6 +37,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 50
+  - title: "Artificial Intelligence-Based Algorithm Predicts Heart Failure"
+    excerpt: "With new artificial intelligence-based technology, researchers can identify small changes in the heart to predict heart failure."
+    publishedDateTime: 2021-10-20T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-based-algorithm-predicts-heart-failure"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
 
 secured: "rRHuaekGwg0TkRIjf957Wte15CAcNu92w8bnHJPHncJAof6GtrW9YE+kLRUCKBURmWLxOPEYtLqvJSMmwRtnK7deDnY3RpYJwfJ8YT1eiJGceK8qN9GzEcmMXwbq4pkft0NQ7/he/YnCKuKfz0XAPwzgD6ws5vJSsLYwrumpbVGhMHXyQMkxnzAV7owa7EYV682hMMv61ynANF+wumjrKF0CT+ZELaCSJ72tmSzV/UcWPk2D9vRjeuGCX4atuhgKx29wlAg0JLdrwwEulobR73mkPAe/GvAoKfycPXzqXBlZBMxw05ypgFVoUmUvdnxGzJnUDIRBI+yyHMw+iJwB/xKJXTYbAlZd+tW6DgK5yt8=;l8yhfm0poYMsBO7vraUlDA=="
 ---

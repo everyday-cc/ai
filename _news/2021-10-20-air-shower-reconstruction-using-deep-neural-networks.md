@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T04:57:00Z
 originalUrl: "https://github.com/jglombitza/tutorial_nn_airshowers"
 webUrl: "https://github.com/jglombitza/tutorial_nn_airshowers"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GitHub

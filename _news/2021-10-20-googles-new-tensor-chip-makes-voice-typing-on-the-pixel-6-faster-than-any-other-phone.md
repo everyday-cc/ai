@@ -92,20 +92,6 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "What's so great about Google Tensor? The new Pixel 6 chip, explained"
-    excerpt: "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera."
-    publishedDateTime: 2021-10-15T21:55:00Z
-    webUrl: "https://mashable.com/article/google-tensor-chip-explained"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 84
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06i2UqKkg2SbMlnooaWTngF/hero-image.fill.size_1200x675.v1634334912.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Pixel 6 Launched: Pixel 6, Pixel 6 Pro Put Google's AI Smarts In Your Pocket With Tensor Chip"
     excerpt: "Now, throughout the event, Google executives talked about how Google's Tensor chipset has helped the company achieve new features and remove barriers that the company has faced in the past."
     publishedDateTime: 2021-10-19T18:15:00Z
@@ -154,6 +140,15 @@ related:
         width: 856
         height: 386
         isCached: true
+  - title: "Google Pixel 6 Tensor chip — what it is and why it’s a big deal"
+    excerpt: "Google pulled the lid off the upcoming Pixel 6 and and Pixel 6 Pro. Both will rock the company's bespoke Tensor chip, which forgoes Qualcomm processors of years past. Tensor is all about being smarter computationally."
+    publishedDateTime: 2021-10-20T04:00:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-6-tensor-chip-what-it-is-and-why-its-a-big-deal"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 19
 
 secured: "/RuIeJ6Fb/LNYXJjh2DzuFHjc6kl05u+lpQUxIl3B6dl20JrhoufTI0aGe+zUtsM0NVKWpYo8kXv/Gl1HiaqBJFm9KBZDpQeFJjc+FhAwdJxFPYjynszgBiWlE6UghrRpauPR1hm9m12J6KByDFnJUbAb6bOMNog+vXJbndZf5joZ35yER1Jz2cDHPEjsRvm0U6uPpSJW8GOHjO70F9D2Pcv2+1rlp8RTJidxxAe8CCvis6LDD2w1vJShGMW7vier+pJJefR5mlqI8geZafjSEyawHOA7iCJ43WxVp1LxfLhY0dRlfskWUaDApyy3Kx+u91+NmYtXT91wO/8tukZkjs6rpG8WROzLeFZomW6bymOcc8jKJ9F2iz7Z89Lsp9aOx+Yo5RjvgmftSvoG2diPSvK1vHcqfWNdgMOCHpXDVDsV4OZJBosWD4Egq9xpRAtFEYjfbZJHGnuKRyc5z99eZZnIJ8OLF2NxsX7Jtvx/5uRe+a7BPPM4xxfa0+aIvZ/ZM7SmwOPz6IdXsFDtwAIMQ==;2TSYZYKu93WUUAWnbSw3ig=="
 ---

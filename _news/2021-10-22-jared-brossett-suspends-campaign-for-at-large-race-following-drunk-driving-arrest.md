@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T21:45:00Z
 originalUrl: "https://www.wdsu.com/article/new-orleans-jared-brossett-drunk-driving-arrest-election/38005019"
 webUrl: "https://www.wdsu.com/article/new-orleans-jared-brossett-drunk-driving-arrest-election/38005019"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: WDSU

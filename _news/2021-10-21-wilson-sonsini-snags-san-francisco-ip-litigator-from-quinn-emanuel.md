@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T18:01:00Z
 originalUrl: "https://www.reuters.com/legal/legalindustry/wilson-sonsini-snags-san-francisco-ip-litigator-quinn-emanuel-2021-10-20/"
 webUrl: "https://www.reuters.com/legal/legalindustry/wilson-sonsini-snags-san-francisco-ip-litigator-quinn-emanuel-2021-10-20/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Reuters

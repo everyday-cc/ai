@@ -8,6 +8,9 @@ webUrl: "https://techxplore.com/news/2021-10-machine-fair-accurate.html"
 ampWebUrl: "https://techxplore.com/news/2021-10-machine-fair-accurate.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-machine-fair-accurate.amp"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: techxplore.com

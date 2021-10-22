@@ -2,21 +2,21 @@
   "page": 155,
   "value": [
     {
-      "path": "_news/2021-06-28-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g.md",
-      "title": "IBM launches AI-powered new Cloud Pak for Network Automationn software to help adoption of 5G",
-      "excerpt": "IBM recently launched Watson Orchestrate to provide AI-powered automation to business professionals, and acquired Turbonomic, myInvenio, Instana and WDG Automation to build out a complete end-to ...",
+      "path": "_news/2021-06-29-microsoft-brings-ai-to-github-to-create-a-smart-programming-copilot-tool.md",
+      "title": "Microsoft brings AI to GitHub to create a smart programming Copilot tool",
+      "excerpt": "Microsoft is making a technical preview of a new Visual Studio Code extension available that is designed to help programmers write code smarter and faster using AI technology from OpenAI.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
-      "originalUrl": "https://seekingalpha.com/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
+      "webUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/29/bd54eff3-c9c7-4cf0-b714-606d46cc4cc7/githubcopilot.jpg",
+          "width": 1199,
+          "height": 478,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,143 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3710354-ibm-launches-ai-powered-new-cloud-pak-for-network-automationn-software-to-help-adoption-of-5g",
-      "publishedDateTime": "2021-06-28T03:51:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-brings-ai-to-github-to-create-a-smart-programing-copilot-tool/",
+      "publishedDateTime": "2021-06-29T04:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-ai-and-computer-vision-remove-the-need-for-cell-biopsy-in-testing-embryos.md",
-      "title": "AI and computer vision remove the need for cell biopsy in testing embryos",
-      "excerpt": "Despite continuing controversies over its value in improving birth rates in IVF, testing embryos for their chromosomal content has become routine in many fertility clinics. Embryos with a normal complement of chromosomes (known as \"euploid\") are known to have a good chance of implanting in the uterus to become a pregnancy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/1-embryo.jpg",
-          "width": 1920,
-          "height": 1542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-ai-vision-cell-biopsy-embryos.amp",
-      "publishedDateTime": "2021-06-28T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-iit-madras-offers-free-online-course-on-introduction-to-machine-learning-for-students.md",
-      "title": "IIT Madras Offers Free Online Course on Introduction to Machine Learning for Students",
-      "excerpt": "IIT Madras is offering a free online course on Introduction to Machine Learning for students pursuing their under graduation and post graduation",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
-      "originalUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-madras-offers-free-online-course-introduction-machine-learning-students/amp/",
-      "publishedDateTime": "2021-06-28T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-from-creating-a-zero-hunger-future-to-reimagining-health-and-wellbeing-with-ai.md",
-      "title": "From Creating a Zero Hunger Future, To Reimagining Health and Wellbeing with AI",
-      "excerpt": "Besides, they employed the Face API of the Microsoft Cognitive Services to identify users' age and gender, so as to calculate suitable food portions. This could reduce food wastage. 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
-      "originalUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2021/EDCITY.jpg?itok=Uop_9JUE",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/creating-zero-hunger-future-reimagining-health-and-wellbeing-ai?amp",
-      "publishedDateTime": "2021-06-28T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -174,59 +54,35 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use.md",
-      "title": "WHO issues first global report on AI in health and six guiding principles for its design and use",
-      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide, but only if ethics and human rights",
+      "path": "_news/2021-06-29-microsoft-announces-the-general-availability-of-azure-nd-a100-v4-cloud-gpu-instances.md",
+      "title": "Microsoft Announces the General Availability of Azure ND A100 V4 Cloud GPU Instances",
+      "excerpt": "Microsoft announced the general availability of the Azure ND A100 v4 Cloud GPU instances—powered by NVIDIA A100 Tensor Core GPUs. These Virtual Machines (VMs) are targeted at customers with high performance and demanding workloads like Artificial Intelligence (AI) and Machine Learning (ML) workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.who.int/news/item/28-06-2021-who-issues-first-global-report-on-ai-in-health-and-six-guiding-principles-for-its-design-and-use",
-      "originalUrl": "https://www.miragenews.com/who-issues-first-global-report-on-ai-in-health-586075/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-nvidia-and-global-partners-launch-new-hgx-a100-systems-to-accelerate-industrial-ai-and-hpc.md",
-      "title": "NVIDIA and Global Partners Launch New HGX A100 Systems to Accelerate Industrial AI and HPC",
-      "excerpt": "NVIDIA today announced it is turbocharging the NVIDIA HGX™ AI supercomputing platform with new technologies that fuse AI with high performance computing, making supercomputing more useful to a growing number of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-global-partners-launch-new-hgx-a100-systems-/2021/06/28/9398376.htm",
+      "webUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/?topicPageSponsorship=dca0fcc9-a580-4af1-870b-9be845a6780f",
+      "originalUrl": "https://www.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/?topicPageSponsorship=dca0fcc9-a580-4af1-870b-9be845a6780f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/06/azure-a100-gpu-nvidia-ga/en/headerimage/header+%281%29-1624710420680.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T00:05:00-07:00",
+      "publishedDateTime": "2021-06-29T04:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -237,25 +93,26 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2021-06-28-ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g.md",
-      "title": "IBM Brings AI-Powered Automation Software to Networking to Help Simplify Broad Adoption of 5G",
-      "excerpt": "Using IBM Cloud Pak for Network Automation, CSPs can use AI-powered automation to stand ... With the integration of IBM Cloud Pak for Watson AIOps and edge solutions including IBM Edge ...",
+      "path": "_news/2021-06-29-ibm-launches-its-ambitious-project-to-eliminate-bias-in-targeted-advertising.md",
+      "title": "IBM launches its Ambitious Project To Eliminate Bias In Targeted Advertising",
+      "excerpt": "Unintentional bias in algorithms has been plaguing the advertising industry for a long time. IBM is taking the issue head-on.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-brings-ai-powered-automation-software-to-networking-to-help-simplify-broad-adoption-of-5g-301320703.html",
+      "webUrl": "https://analyticsindiamag.com/explained-ibms-ambitious-project-to-eliminate-bias-in-targeted-advertising/",
+      "originalUrl": "https://analyticsindiamag.com/explained-ibms-ambitious-project-to-eliminate-bias-in-targeted-advertising/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/image-4.png",
+          "width": 512,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -265,11 +122,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T23:36:00-07:00",
+      "publishedDateTime": "2021-06-29T03:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -284,19 +141,261 @@
       ]
     },
     {
-      "path": "_news/2021-06-28-facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028.md",
-      "title": "Facial Recognition Market by Size, Growth, Opportunity and Forecast to 2028",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'GLOBAL Facial Recognition Market 2019-2028', available with Market Study Report LLC, global facial recognition market is projected to expand at 14.",
+      "path": "_news/2021-06-29-douglas-coupland-fuses-ai-and-art-to-inspire-students.md",
+      "title": "Douglas Coupland fuses AI and art to inspire students",
+      "excerpt": "Have you ever noticed that the word art is embedded in the phrase artificial intelligence? Neither did we, but when the opportunity presented itself to explore how artificial intelligence (AI) inspires artistic expression — with the help of internationally renowned Canadian artist Douglas Coupland —",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-by-size-growth-opportunity-and-forecast-to-2028-2021-06-28",
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/douglas-coupland-slogans-class-2030/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/douglas-coupland-slogans-class-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 327,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slogans_for_the_Class_of_2030.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
+      "title": "WHO warns against applying AI models using data from rich countries to everyone else",
+      "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "originalUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "publishedDateTime": "2021-06-29T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-best-python-course-2021-top-online-coding-classes.md",
+      "title": "Best Python course 2021: Top online coding classes",
+      "excerpt": "Programming language Python is undeniably a hot language to learn in 2021, and here are some of the best online sites where you can learn to code in it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/best-python-course/",
+      "originalUrl": "https://www.zdnet.com/article/best-python-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/10/5196eba5-aeaf-4d6d-83fb-affcbff4a590/python6.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/best-python-course/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/best-python-course/",
+      "publishedDateTime": "2021-06-29T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ironsource-will-start-trading-tuesday-as-latest-game-related-spac.md",
+      "title": "IronSource will start trading Tuesday as latest game-related SPAC",
+      "excerpt": "Mobile monetization firm IronSource said it will go public through a special purpose acquisition company (SPAC) on Tuesday morning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/",
+      "originalUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/28/ironsource-will-start-trading-tuesday-as-latest-game-related-spac/amp/",
+      "publishedDateTime": "2021-06-29T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
+      "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
+      "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
+      "originalUrl": "https://www.medcom.id/english/tech/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.medcom.id/dynamic/content/2021/06/29/1293880/u0zwSUQsoA.jpg?w=640",
+          "width": 577,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
+      "cdnAmpWebUrl": "https://m-medcom-id.cdn.ampproject.org/c/s/m.medcom.id/amp/GNG7LWAN-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who",
+      "publishedDateTime": "2021-06-29T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "medcom",
+        "domain": "medcom.id",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandmarketscom.md",
+      "title": "Global AI, Deep Learning, and Embedded Device Security Growth Opportunities Report 2020 - ResearchAndMarkets.com",
+      "excerpt": "The \"Growth Opportunities in AI, Deep Learning, and Embedded Device Security\" report has been added to ResearchAndMarkets.com's offering. This Cyber Security Technology Opportunity Engine (TOE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/06/b21758968/global-ai-deep-learning-and-embedded-device-security-growth-opportunities-report-2020-researchandm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -308,209 +407,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T22:21:00-07:00",
+      "publishedDateTime": "2021-06-29T00:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-artificial-intelligence-can-now-taste-transforming-winemaking-with-tastry.md",
-      "title": "Artificial Intelligence Can Now Taste - Transforming Winemaking With Tastry",
-      "excerpt": "Tastry, a sensory science company, has merged AI and advanced chemistry to teach computers to “taste.” Now their technology is helping consumers find great wines, and providing insight to wineries and retailers about the wines people love to drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d94e3b36a85016d66b2dfb%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/28/artificial-intelligence-can-now-tastetransforming-winemaking-with-tastry/amp/",
-      "publishedDateTime": "2021-06-27T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-facial-recognition-tech-for-bears-aims-to-keep-humans-safe.md",
-      "title": "Facial recognition tech for bears aims to keep humans safe",
-      "excerpt": "A town in Japan is planning to use facial recognition on local brown bears as part of efforts to reduce the number of bear attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
-      "originalUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/brown-bear-japan.jpg",
-          "width": 1130,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facial-recognition-tech-for-bears-aims-to-keep-humans-safe/?amp",
-      "publishedDateTime": "2021-06-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-to-make-a-new-kind-of-electric-vehicle-first-reinvent-the-factory.md",
-      "title": "To make a new kind of electric vehicle, first reinvent the factory",
-      "excerpt": "Arrival set out to make affordable, electric commercial vehicles. First it had to build a whole new production line",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
-      "originalUrl": "https://www.wired.co.uk/article/arrival-electric-vehicles-microfactory?ref=refind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "publishedDateTime": "2021-06-27T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-artificial-intelligence-at-the-service-of-the-company.md",
-      "title": "Artificial intelligence at the service of the company",
-      "excerpt": "Two of the companies created in The Collider, the innovation programme of the Mobile World Capital of Barcelona, stand out for applying artificial intelligence in",
-      "sourceUrl": null,
-      "webUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
-      "originalUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lavanguardia.com/files/image_948_465/uploads/2021/06/22/60d19a84d34b0.jpeg",
-          "width": 948,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
-      "cdnAmpWebUrl": "https://www-lavanguardia-com.cdn.ampproject.org/c/s/www.lavanguardia.com/economia/20210628/7551935/artificial-intelligence-at-the-service-of-the-company.amp.html",
-      "publishedDateTime": "2021-06-27T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Vanguardia",
-        "domain": "lavanguardia.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -521,516 +422,24 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-uk-watchdog-raises-alarm-over-live-face-recognition-tech.md",
-      "title": "UK watchdog raises alarm over live face recognition tech",
-      "excerpt": "Unlike CCTV, LFR and its algorithms can automatically identify who you are and infer sensitive details about you. The chief data protection regulator in the UK has expressed grave concerns over the inappropriate use of live facial recognition (LFR) technology in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "originalUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1321701872.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/uk-watchdog-raises-alarm-over-live-face-recognition-tech-271870",
-      "publishedDateTime": "2021-06-27T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition.md",
-      "title": "A Company That Uses AI To Fight Malaria Just Won The IBM Watson AI XPrize Competition",
-      "excerpt": "Zzapp Malaria, a company that uses artificial intelligence (AI) to fight malaria just won the grand prize in one of the toughest technology competitions to date. The competition is a joint venture between XPrize,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d921bbc64aa2e4426c2abd%2F0x0.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/06/27/a-company-that-uses-ai-to-fight-malaria-just-won-the-ibm-watson-ai-xprize-competition/amp/",
-      "publishedDateTime": "2021-06-27T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-uk-surgical-robotics-start-up-cmr-raises-600m-at-3bn-valuation.md",
-      "title": "UK surgical robotics start-up CMR raises $600m at $3bn valuation",
-      "excerpt": "UK robotics start-up CMR Surgical has raised $600m in what it says was a record private financing round for a medical technology company, pushing its total funds raised above $1bn and giving it a $3bn valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "originalUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e047ce0-6272-480b-a275-e2a14c514e09.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "publishedDateTime": "2021-06-27T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-lendbuzz-raises-60m-using-ai-to-finance-car-loans.md",
-      "title": "Lendbuzz raises $60M using AI to finance car loans",
-      "excerpt": "Lendbuzz, which was founded by Israeli entrepreneurs in Boston and recently opened an R&D center in Israel, scores $60M in equity and another $300M in debt",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
-      "originalUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2021/06/Lendbuzz-company-picture-1624437960-2048x1365.jpeg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/lendbuzz-raises-60m-in-equity-and-300-in-debt-financing/amp/",
-      "publishedDateTime": "2021-06-27T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases.md",
-      "title": "DeepMind to use AI to tackle deadly parasitic diseases",
-      "excerpt": "DeepMind to work with Drugs for Neglected Diseases Initiative (DNDI) to treat deadly parasitic diseases The London based lab, DeepMind, is set to work with the Drugs for Neglected Diseases Initiative (DNDI) to tackle the deadliest parasitic diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases",
-      "originalUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/98529-deepmind-to-use-ai-to-tackle-deadly-parasitic-diseases?amp",
-      "publishedDateTime": "2021-06-27T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-apples-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Apple’s car obsession is all about taking eyes off the road",
-      "excerpt": "At first glance, the forays Apple Inc., Google and other technology giants are making into the world of cars don’t appear to be particularly lucrative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2021/jun/27/apples-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "originalUrl": "https://www.columbian.com/news/2021/jun/27/apples-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-medical-ai-confronts-pesky-problem-people.md",
-      "title": "Medical AI Confronts Pesky Problem: People",
-      "excerpt": "A statistical measure called “area under the curve” told Mayo Clinic researchers their new artificial intelligence (AI) tool was terrific. Then their doctors threw them a curve ball.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/",
-      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d7a592de975428d6de383c%2F0x0.jpg",
-          "width": 1200,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2021/06/27/medical-ai-confronts-pesky-problem-people/amp/",
-      "publishedDateTime": "2021-06-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
-      "title": "Security Robots Expand Across US, With Few Tangible Results",
-      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "publishedDateTime": "2021-06-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Security"
       ]
     },
     {
-      "path": "_news/2021-06-27-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-agi-paper-adds-urgency-to-ethical-ai-10278063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-27T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-pytorch-gains-momentum-with-push-from-facebook-and-microsoft.md",
-      "title": "PyTorch Gains Momentum With Push From Facebook And Microsoft",
-      "excerpt": "Thanks to Facebook and Microsoft, PyTorch is on its way to becoming the preferred framework for building sophisticated AI models for the cloud, desktop and mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d815da0c030140b46c2abd%2F0x0.jpg",
-          "width": 1000,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/06/27/pytorch-gains-momentum-with-push-from-facebook-and-microsoft/amp/",
-      "publishedDateTime": "2021-06-26T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-alat-by-wema-charting-roadmap-for-digital-banks-fintech.md",
-      "title": "ALAT by Wema: Charting roadmap for digital banks, fintech",
-      "excerpt": "However, what young people have today that we didn’t have before is the abundance of choice fueled by the rapid penetration of the Internet and digital technology. These two factors have introduced new dimensions to how we do business and make money.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "originalUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2018/09/14183622/20180707-DSC_0079new.jpg",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/alat-by-wema-charting-roadmap-for-digital-banks-fintech/?amp",
-      "publishedDateTime": "2021-06-26T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-pruning-preserving-quantization-aware-training-pqat-keras-example.md",
+      "path": "_news/2021-06-29-pruning-preserving-quantization-aware-training-pqat-keras-example.md",
       "title": "Pruning preserving quantization aware training (PQAT) Keras example",
       "excerpt": "This is an end to end example showing the usage of the pruning preserving quantization aware training (PQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. _, baseline_model_accuracy = model.evaluate( test ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=hr",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=hr",
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=sv",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example?hl=sv",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hr",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sv",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1042,7 +451,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-26T17:14:00-07:00",
+      "publishedDateTime": "2021-06-28T22:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -1070,21 +479,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-27-machine-learning-identifies-new-brain-network-signature-of-major-depression.md",
-      "title": "Machine learning identifies new brain network signature of major depression",
-      "excerpt": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that",
+      "path": "_news/2021-06-29-how-were-supporting-30-new-ai-for-social-good-projects.md",
+      "title": "How we’re supporting 30 new AI for Social Good projects",
+      "excerpt": "Over recent years, we have seen remarkable progress in AI’s ability to confront new problems and help solve old ones. Advancing these efforts was one reason we set up the Google Research India lab in 2019, with a particular emphasis on AI research that could make a positive social impact. It’s also why",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
-      "originalUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733",
+      "webUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
+      "originalUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/06/26/brain-network-signature.jpg?itok=FT-QWUJF",
-          "width": 560,
-          "height": 292,
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_12_CKcml0Q.max-600x600.jpg",
+          "width": 512,
+          "height": 341,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1092,13 +501,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/machine-learning-identifies-new-brain-network-signature-major-depression-2118733?amp",
-      "publishedDateTime": "2021-06-26T12:27:00-07:00",
+      "ampWebUrl": "https://blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/30-new-ai-for-social-good-projects/amp/",
+      "publishedDateTime": "2021-06-28T20:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
+      "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
+      "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
+      "originalUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Pomelo-Fashion-4-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
+      "publishedDateTime": "2021-06-28T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1109,6 +570,602 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-snowflake-benefiting-from-the-migration-of-data-to-the-cloud.md",
+      "title": "Snowflake: Benefiting From The Migration Of Data To The Cloud",
+      "excerpt": "Azure Synapse also offers integration with Power BI and Azure Machine Learning. Power BI is a business analytics service from Microsoft whose capabilities include data preparation, data discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4436925-snowflake-benefiting-migration-of-data-to-cloud",
+      "originalUrl": "https://seekingalpha.com/article/4436925-snowflake-benefiting-migration-of-data-to-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1277731016/medium_image_1277731016.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4436925-snowflake-benefiting-migration-of-data-to-cloud",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4436925-snowflake-benefiting-migration-of-data-to-cloud",
+      "publishedDateTime": "2021-06-28T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-artificial-intelligence-ai-chips-market-in-communications-equipment-industry-technavio.md",
+      "title": "Artificial Intelligence (AI) Chips Market in Communications Equipment Industry | Technavio",
+      "excerpt": "According to Technavio, the COVID-19 pandemic will have a positive impact on the growth of the artificial intelligence (AI) chips market. The report expects the market value to increase in 2021 as compared to 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-communications-equipment-industry-/2021/06/28/9399133.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft.md",
+      "title": "Government UFO task force will use AI to study bizarre ‘alien’ aircraft",
+      "excerpt": "Last week, the Office of the Director of National Intelligence (DNI) released a nine-page preliminary unclassified report on unidentified aerial phenomenon (UAP), the government’s term for",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
+      "originalUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/navy_UFO_video_main.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/government-ufo-task-force-will-use-ai-to-study-bizarre-alien-aircraft-28680265/amp/",
+      "publishedDateTime": "2021-06-28T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-engineering-deep-learning-hardware-at-the-university-level.md",
+      "title": "Engineering Deep Learning Hardware at the University Level",
+      "excerpt": "In addition to conducting its own research into AI-specific processors, MIT is introducing coursework to train the next generation of engineers in building hardware for deep learning and AI applications. Traditional hardware architecture for deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
+      "originalUrl": "https://www.designnews.com/electronics-test/engineering-deep-learning-hardware-university-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Sze_Emer_photo.jpg",
+          "width": 606,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-deep-instinct-chairman-talks-deep-learning-cyberthreats-and-plans-to-go-public.md",
+      "title": "Deep Instinct chairman talks deep learning, cyberthreats and plans to go public",
+      "excerpt": "Deep Instinct Chairman Lane Bess joined Jim Cramer on \"Mad Money\" to discuss how the privately held outfit applies artificial intelligence to cybersecurity in preventing hacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106903794-16249247252ED1-MM-Block-B-062821.jpg?v=1624924723",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-fueled-e-discovery-company-disco-plans-ipo.md",
+      "title": "AI-fueled e-discovery company DISCO plans IPO",
+      "excerpt": "E-discovery company CS Disco Inc is planning an initial public offering, becoming the latest legal technology company in recent weeks to signal an intention to go public.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xp3SDa5zAMdtot6k2OQH8qSHMmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NABBBIZSBKV7BEZR3CEN6IG7A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-federal-judge-dismisses-ftc-antitrust-complaint-against-facebook.md",
+      "title": "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook",
+      "excerpt": "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "originalUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/court-FTC-Facebook-complaint-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/legal/2021/federal-judge-dismisses-ftc-antitrust-complaint-against-facebook/amp/",
+      "publishedDateTime": "2021-06-28T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-startup-cerebras-systems-makes-boyden-first-general-counsel.md",
+      "title": "AI Startup Cerebras Systems Makes Boyden First General Counsel",
+      "excerpt": "Artificial intelligence company Cerebras Systems has named former Broadcom Inc. lawyer Rebecca Boyden as its first vice president and general counsel.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/ai-startup-cerebras-systems-makes-boyden-first-general-counsel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/2568af8/2147483647/crop/960x369%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F98%2F78%2F8229a99546b289ac36070718de85%2Fbli-rbb.png",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-how-ibm-watson-advertising-plans-to-use-ai-to-reduce-bias.md",
+      "title": "How IBM Watson Advertising Plans To Use AI To Reduce Bias",
+      "excerpt": "IBM Watson Advertising kicked off a six-month ... We are seeing some very encouraging signs that AI can be the transformative technology that advertising needs to predict optimal campaign ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/364581/how-ibm-watson-advertising-plans-to-use-ai-to-redu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-machine-learning-market-to-see-major-growth-by-2026-bigml-h2oai-sap.md",
+      "title": "Machine Learning Market To See Major Growth By 2026 | BigML, H2O.ai, SAP",
+      "excerpt": "Global Machine Learning Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery is latest research study released by HTF MI evaluating the market risk side analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "originalUrl": "https://ksusentinel.com/2021/06/28/machine-learning-market-to-see-major-growth-by-2026-bigml-h2o-ai-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Machine-Learning-Market.jpeg",
+          "width": 672,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-the-linux-foundation-is-working-to-improve-voice-recognition-ethics.md",
+      "title": "The Linux Foundation is working to improve voice recognition ethics",
+      "excerpt": "Last week, the Linux Foundation created a new open source industry association called the Open Voice Network (OVN). The new group is an independently governed directed fund of the Linux Foundation, with the goals of improving trust,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/06/the-linux-foundation-is-working-to-improve-voice-recognition-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-970156432-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-the-journey-to-fairness-in-ai-qa-with-new-york-times-best-selling-author-abigail-hing-wen.md",
+      "title": "The Journey To Fairness In AI -- Q&A With New York Times Best Selling Author Abigail Hing Wen",
+      "excerpt": "Abigail Hing Wen has a knack for trying and succeeding at new things. A lawyer by trade, Abigail worked in Washington D.C. for the Senate and as a law clerk for a federal judge before moving to Silicon Valley and charting a new course in venture capital and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/28/the-journey-to-fairness-in-aiqa-with-new-york-times-best-selling-author-abigail-hing-wen/amp/",
+      "publishedDateTime": "2021-06-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

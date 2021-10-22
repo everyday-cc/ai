@@ -2,6 +2,319 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-02-meet-emma-the-ai-robot-masseuse-practicing-ancient-wellness-therapies.md",
+      "title": "Meet 'EMMA': The AI robot masseuse practicing ancient wellness therapies",
+      "excerpt": "Developed by Singapore-based startup AiTreat, \"EMMA\" is a robot masseuse that uses sensors and 3D vision to deliver deep tissue massages and traditional Chinese medicine (TCM) therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210827144954-01-emma-robot-masseuse-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/09/01/health/ai-robot-masseuse-tcm-wellness-hnk-spc-intl/index.html",
+      "publishedDateTime": "2021-09-01T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
+      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
+      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
+          "width": 833,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-seoul-robotics-launches-3d-perception-software-with-deep-learning.md",
+      "title": "Seoul Robotics launches 3D perception software with deep learning",
+      "excerpt": "Deep learning is at the heart of the new software, allowing Seoul Robotics to improve the perception accuracy of autonomous mobile robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
+      "originalUrl": "https://www.therobotreport.com/seoul-robotics-launches-first-3d-perception-software-with-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/seoul-robotics-2-featured-web.jpg",
+          "width": 771,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-the-best-deals-to-shop-from-walmarts-labor-day-saleincluding-50-off-a-robot-vacuum.md",
+      "title": "The Best Deals To Shop From Walmart’s Labor Day Sale—Including 50% Off A Robot Vacuum",
+      "excerpt": "Or, if you’re simply interested in browsing some of the best deals the big-box store has to offer, check out our Walmart Labor Day sale picks below. From self-tanners to smart watches, we’ve found all the markdowns worth adding to your cart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F612fb997a4cf7e4d7c15be55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D302%26cropY2%3D969",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/09/01/walmart-labor-day-sale/amp/",
+      "publishedDateTime": "2021-09-01T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-02-carbon-robotics-closes-27-million-in-series-b-financing-round.md",
+      "title": "Carbon Robotics closes $27 Million in Series B financing round",
+      "excerpt": "Company to accelerate growth and scale production to help farmers address increasing threat from herbicide-resistant weeds",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
+      "originalUrl": "https://www.therobotreport.com/carbon-robotics-closes-27-million-in-series-b-financing-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/09/Carbon-Robotics-robot2-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-01T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet.md",
+      "title": "7 Robotics Stocks to Buy for Elon Musk’s Big ‘Tesla Bot’ Bet",
+      "excerpt": "Robotics stocks have been gaining significant traction among buy-and-hold investors lately. This is not surprising, as we’re seeing rising demand for robotics from a variety of segments — from electric vehicles (EV) and e-commerce groups to electronics names and the oil industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "originalUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-robotics-stocks-to-buy-for-elon-musks-big-tesla-bot-bet-2021-09-01?amp",
+      "publishedDateTime": "2021-09-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-01-global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai.md",
+      "title": "Global Investment Bank, Capital Trust announce $68 mn investment fund in AI",
+      "excerpt": "Global Investment Bank and Capital Trust announced the establishment of the GIB Ventures AI Fund, which will invest up to $68 million in startups transforming artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/global-investment-bank-capital-trust-announce-68-mn-investment-fund-in-ai-121090101282_1.html",
+      "publishedDateTime": "2021-09-01T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-01-this-is-the-cheapest-robot-vacuum-youll-find-today.md",
       "title": "This is the cheapest robot vacuum you’ll find today",
       "excerpt": "If you need help in keeping your floor clean, take advantage of this offer from Walmart that drops the price of the IonVac SmartClean 2000 robot vacuum to $97.",
@@ -1066,345 +1379,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove.md",
-      "title": "MIT’s mind-controlled prosthetic hand slips on like a glove",
-      "excerpt": "Unlike most robots—which are built from hard metals ... in your arm muscles through electromyography, or EMG. While mind-controlled limbs might still seem like the stuff of sci-fi, Zhao says ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90669263/mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove",
-      "originalUrl": "https://www.fastcompany.com/90669263/mits-mind-controlled-prosthetic-hand-slips-on-like-a-glove",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/poster-MIT-neuroprosthetic-glove.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-26T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-could-this-robot-actually-be-your-marketing-writer.md",
-      "title": "Could This Robot Actually Be Your Marketing Writer?",
-      "excerpt": "Because while scores of humans debated its content, it turned out most of the words weren’t actually written by a human at all. They were penned by a new artificial intelligence model called GPT-3, and posted by Liam Porr,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379745",
-      "originalUrl": "https://www.entrepreneur.com/article/379745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629321559-ent21-sept-bigidea.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379745",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379745",
-      "publishedDateTime": "2021-08-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-robots-are-already-taking-over-the-world-you-just-havent-noticed-it-yet.md",
-      "title": "Robots Are Already Taking Over The World — You Just Haven’t Noticed It Yet",
-      "excerpt": "Once you start thinking about the rapidly growing capabilities of robots, it’s obvious that robotics is going to change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff5d2f5cbcd0c27adbb3f9e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/26/robots-are-already-taking-over-the-world---you-just-havent-noticed-it-yet/amp/",
-      "publishedDateTime": "2021-08-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-better-together-striking-the-balance-between-artificial-and-human-intelligence.md",
-      "title": "Better Together: Striking The Balance Between Artificial And Human Intelligence",
-      "excerpt": "The past decade saw artificial intelligence (AI) advance by leaps and bounds. From the birth of Alexa to its application in vaccine development, AI has radically altered our personal and professional lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049320a6efcb28d45029f3c%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/08/26/better-together-striking-the-balance-between-artificial-and-human-intelligence/amp/",
-      "publishedDateTime": "2021-08-26T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-factbox-investors-are-betting-on-rent-a-robot-startups-in-silicon-valleya.md",
-      "title": "Factbox-Investors are betting on rent-a-robot startups in Silicon ValleyÂ",
-      "excerpt": "Silicon Valley has a new pitch for small U.S. manufacturers struggling with hiring workers but wary of the high costs of high tech: rent-a-robot. Much of the initial risk and cost are taken on by the robot companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "originalUrl": "https://www.metro.us/factbox-investors-are-betting-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH7P0DO-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/factbox-investors-are-betting-on/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/factbox-investors-are-betting-on/amp/",
-      "publishedDateTime": "2021-08-26T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics.md",
-      "title": "Velodyne Lidar Announces Multi-Year Sales Agreement with Renu Robotics",
-      "excerpt": "Velodyne Lidar, Inc. (Nasdaq: VLDR, VLDRW) today announced a multi-year agreement to provide its Puck™ lidar sensors to Renu Robotics, an industry leader in autonomous vegetation management systems. Renu Robotics’ Renubot,",
-      "sourceUrl": null,
-      "webUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
-      "originalUrl": "https://gisuser.com/2021/08/velodyne-lidar-announces-multi-year-sales-agreement-with-renu-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds.md",
-      "title": "Even experts are too quick to rely on AI explanations, study finds",
-      "excerpt": "According to a new study, even simple explanations given by AI systems are enough to mislead even experts into trusting the systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/25/even-experts-are-too-quick-to-rely-on-ai-explanations-study-finds/amp/",
-      "publishedDateTime": "2021-08-25T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

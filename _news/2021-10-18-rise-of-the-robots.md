@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/rise-robots-mark-tunstall"
 webUrl: "https://www.linkedin.com/pulse/rise-robots-mark-tunstall"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,31 @@ images:
     width: 1280
     height: 626
     isCached: true
+
+related:
+  - title: "Book Review: We, the Robots? Regulating Artificial Intelligence and the Limits of the Law"
+    excerpt: "Simon Chesterman’s “We, the Robots? Regulating Artificial Intelligence and the Limits of the Law” examines how laws are dealing with AI, as well as what additional rules and institutions are needed."
+    publishedDateTime: 2021-10-22T11:38:00Z
+    webUrl: "https://www.analyticsinsight.net/book-review-we-the-robots-regulating-artificial-intelligence-and-the-limits-of-the-law/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 45
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Robots.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "God and robots: Will AI transform religion?"
+    excerpt: "BBC Global Religion reporter Sofia Bettiza has taken a look at whether AI’s relationship with religion is just a gimmick, or whether it can truly transform how people experience faith."
+    publishedDateTime: 2021-10-20T23:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/technology-58983047"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "BMdPeXhtsqocBzMSXWBi8boE6Hz1mY0SvzfKOeVu29/jyLPn8/TPQ81sitwYs0ycKA371//3q/6/RwnoVTzW9qg3ODyda/TKIahoFBHRwFlVa2+D8gvgqEkH8c1MA0uukbdczoouMcPy8z5oyNRVXuLyauXTb+Ux+HbvLeWg4WZNlbsacydlGgq7516MOSYrcJz+8lYkAkB7vlyDHevbXx2Jk/HOTl19RcLmUDtw69JG7XnXpd5m5Wz1ilN2s/DvbY8MUfzURNRJUPs9V8lWbKYLtKEARL3H1zjAdlgrv7Uey2UL2wg1z9e2Yq7+JWHkGFYLjBrbcR4hQjX76noRVuhHwJUMzQzu75S4oMrEbKt6xvv6qYHk5afeuq+rbpi/L+g9EAaIPoPpEoT2Gb2ad8pKga9bfkPVQiJaEfBqI2HDkFefuYqgVOZjeR7tP1lPePHQP+Hrxxq6prBpHsifmglHKIYM6g9iN+QV1Ckmf4vEInF8N/8mdleyjugLqHbw0Ud1drCEXltnscFJvsehMw==;arcgavsRD9FNOGMmqGChEg=="
 ---

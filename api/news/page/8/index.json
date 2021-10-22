@@ -2,64 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
-      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
-      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
+      "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
+      "title": "Does DeepMind AI future proof Alphabet’s share price?",
+      "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
       "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "webUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
-          "width": 650,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
-      "publishedDateTime": "2021-10-12T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-dangerous-promise-of-the-self-driving-car.md",
-      "title": "The Dangerous Promise of the Self-Driving Car",
-      "excerpt": "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg",
+          "width": 768,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,21 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T07:32:00-07:00",
+      "publishedDateTime": "2021-10-13T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -92,26 +40,71 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer.md",
+      "title": "The USB-C iPhone Becomes A Reality Thanks To A Robotics Engineer",
+      "excerpt": "Recall when we brought to your attention plans by the European Commission to propose legal measures that would force phone",
+      "sourceUrl": null,
+      "webUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
+      "originalUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbooky.com/wp-content/uploads/2021/10/77972c1fdb2ec0e1057ad6778dbf7fcb.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
+      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
+      "publishedDateTime": "2021-10-13T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techbooky.com",
+        "domain": "techbooky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-the-mechanics-methods-and-mentality-of-successful-ai-initiatives.md",
-      "title": "The Mechanics, Methods And Mentality Of Successful AI Initiatives",
-      "excerpt": "Even when the mechanics of the initiative are successful, and the processes for the solution’s deployment have been cleared and optimized, the team’s mentality can fully arrest the initiative’s progress.",
+      "path": "_news/2021-10-13-uk-gov-urged-to-protect-human-right-to-review-ai-decisions.md",
+      "title": "UK gov urged to protect human right to review AI decisions",
+      "excerpt": "BCS, The Chartered Institute for IT, is calling on the government not to remove Article 22 ‘while AI is still in its infancy'",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7f03915c55badeba28838%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,16 +112,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/12/the-mechanics-methods-and-mentality-of-successful-ai-initiatives/amp/",
-      "publishedDateTime": "2021-10-12T06:45:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361223/uk-gov-urged-to-protect-right-to-review-ai-decisions?amp",
+      "publishedDateTime": "2021-10-13T04:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -148,354 +141,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence.md",
-      "title": "Five Ways Legal Teams Can Begin To Leverage Artificial Intelligence",
-      "excerpt": "While law firms would need to rethink their strategies to incorporate AI platforms into their culture in the coming years, the long-term potential for growth is a win.",
+      "path": "_news/2021-10-13-robotics-edtech-startup-wiingy-raises-400000-angel-funding.md",
+      "title": "Robotics Edtech Startup Wiingy Raises $400,000 Angel Funding",
+      "excerpt": "The company will deploy its first fundraise to develop, scale their robotics kits supply chain and build a strong early team with technology, product, teaching and design skills",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61658dcbd8731e4b93246734%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/12/five-ways-legal-teams-can-begin-to-leverage-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-10-12T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-worlds-first-self-driving-train-see-photos.md",
-      "title": "Germany unveils world's first self-driving train. See photos",
-      "excerpt": "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "originalUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "publishedDateTime": "2021-10-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-wendys-to-improve-data-driven-insights-with-google-cloud-partnership.md",
-      "title": "Wendy's to Improve Data-Driven Insights with Google Cloud Partnership",
-      "excerpt": "Wendy's and Google Cloud today announced a partnership to enhance the Wendy's restaurant experience and unlock new customer, restaurant, and employee experiences through data-driven insights. Wendy's intends to leverage Google Cloud's data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chainstoreage.com/wendys-enhance-mobile-drive-thru-ordering-ai",
-      "originalUrl": "https://www.qsrmagazine.com/news/wendys-improve-data-driven-insights-google-cloud-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.chainstoreage.com/styles/primary_articles_short/s3/2021-10/Wendys_drive_thru.jpg?itok=x4JZQFNo",
-          "width": 655,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Manufacturing Market by Type, Application, Element Global Trends and Forecast to 2026",
-      "excerpt": "Over the next five years the Artificial Intelligence in Manufacturing market will register a 51.1% CAGR in terms of revenue, the global market size will reach US$ 8609.8 million by 2026. Global Artificial Intelligence in Manufacturing market: competitive landscape analysis This report contains the major manufacturers analysis of the global Artificial Intelligence in Manufacturing industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026-2021-10-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-by-type-application-element-global-trends-and-forecast-to-2026-2021-10-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m.md",
-      "title": "AI-powered customer service analytics platform SupportLogic nabs $50M",
-      "excerpt": "SupportLogic, a customer service analytics platform powered by AI, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
-      "publishedDateTime": "2021-10-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-uk-wants-to-be-an-ai-superpower-but-it-goes-easy-on-ethics.md",
-      "title": "The UK wants to be an AI superpower, but it goes easy on ethics",
-      "excerpt": "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
-      "originalUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
-      "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
-      "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "originalUrl": "https://interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
+      "webUrl": "https://www.entrepreneur.com/article/390902",
+      "originalUrl": "https://www.entrepreneur.com/article/390902",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplMpMOW/sizes/autonomous-train_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/germany-unveils-the-worlds-first-fully-automated-train-in-hamburg",
-      "publishedDateTime": "2021-10-12T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-how-to-increase-customer-loyalty-lead-with-conversational-ai-in-your-customer-experience.md",
-      "title": "How to increase customer loyalty? Lead with conversational AI in your customer experience.",
-      "excerpt": "The digital-first shopping experience gives consumers unprecedented access to the brands they love and choice between all available options. Meanwhile, brands can now speak directly to their customer base and collect data that helps them personalize and optimize every customer support interaction. It’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/10/increase-customer-loyalty-conversational-ai-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/10/100D_WA_SEO_Series_-_BLOGSPLOSION_DESIGN_Kit_2000x1006_V4_3_copy.jpg",
-          "width": 2001,
-          "height": 1007,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634123416-TeamWiingy111.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -505,14 +165,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T05:00:49-07:00",
+      "publishedDateTime": "2021-10-13T04:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -528,26 +188,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-ai-and-pr-how-tech-adoption-could-impact-your-job.md",
-      "title": "AI And PR: How Tech Adoption Could Impact Your Job",
-      "excerpt": "The technological revolution continues to impact public relations (PR) at an impressive speed. Not long ago, many in the PR industry steered away from adopting PR tech powered by artificial intelligence (AI),",
+      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
+      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
+      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 108,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
+          "width": 1191,
+          "height": 692,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -555,61 +215,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/12/ai-and-pr-how-tech-adoption-could-impact-your-job/amp/",
-      "publishedDateTime": "2021-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fintech-ecosystems-some-assembly-required.md",
-      "title": "Fintech Ecosystems — Some Assembly Required",
-      "excerpt": "And, as financial institutions look to build ecosystems to analyze fintechs thoroughly, it seems some assembly is required. Although the agencies did not mandate compliance, their involvement means those seeking to upgrade a bank or credit union’s technology may choose to avoid the risks or take a chance to be more competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/12/fintech-ecosystems---some-assembly-required/amp/",
-      "publishedDateTime": "2021-10-12T04:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
+      "publishedDateTime": "2021-10-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -633,25 +241,60 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-10-12-ai-chipmaker-hailo-raises-136m-as-it-doubles-down-new-opportunities-for-ai-modules-in-edge-devices.md",
-      "title": "AI chipmaker Hailo raises $136M as it doubles down new opportunities for AI modules in edge devices",
-      "excerpt": "Amid a global semiconductor shortage, an upstart in the world of AI chips is announcing a big round of funding to meet a boom in demand for its technology. Hailo, which makes edge-device chips customized to work with AI workloads — typical implementations include smart cities,",
+      "path": "_news/2021-10-13-edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto.md",
+      "title": "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO",
+      "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
-      "originalUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/",
+      "webUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
+      "originalUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVY",
+        "domain": "wtvy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-much-artificial-intelligence-is-still-people-behind-a-screen.md",
+      "title": "Much ‘Artificial Intelligence’ Is Still People Behind a Screen",
+      "excerpt": "AI startups can rake in investment by hiding how their systems are powered by humans. But such secrecy can be exploitative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Hailo-8-chip-breakthrough-performance-for-deep-learning-applications-at-your-fingertip.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idsWZAmr_z7s/v1/1200x817.jpg",
+          "width": 1200,
+          "height": 817,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -659,16 +302,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/12/hailo-raises-136m-ai-chips/amp/",
-      "publishedDateTime": "2021-10-12T03:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -684,26 +327,25 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
-      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
-      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
+      "path": "_news/2021-10-13-detailed-analysis-of-the-global-artificial-intelligence-market-2021-2026-researchandmarketscom.md",
+      "title": "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "webUrl": "https://us.acrofan.com/detail.php?number=545944",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=545944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
-          "width": 4000,
-          "height": 2693,
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -711,23 +353,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
-      "publishedDateTime": "2021-10-12T03:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T03:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -736,26 +369,25 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-germany-unveils-the-first-self-driving-train.md",
-      "title": "Germany Unveils The First Self-Driving Train",
-      "excerpt": "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail",
+      "path": "_news/2021-10-13-computer-vision-in-artificial-intelligence-ai-market-2021-report-forecast-by-global-industry-trends-future-growth-regional-overview.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Report Forecast by Global Industry Trends, Future Growth, Regional Overview",
+      "excerpt": "A research assessment conducted to provide a thorough analysis of the Computer Vision in Artificial Intelligence (AI) market and various aspects of the market mainly",
       "sourceUrl": null,
-      "webUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
-      "originalUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
+      "webUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
+      "originalUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg",
-          "width": 705,
-          "height": 352,
+          "url": "https://www.reportsgo.com/img/img-7.png",
+          "width": 500,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -763,13 +395,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "publishedDateTime": "2021-10-12T02:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T00:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
+        "name": "reportsgo",
+        "domain": "reportsgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-germany-launches-worlds-first-self-driving-train-know-details.md",
+      "title": "Germany launches world’s first self-driving train – Know details",
+      "excerpt": "The world’s first automated, driverless train launched in Hamburg city, Germany. Know all key details. Germany rail operator Deutsche Bahn and German engineering company Siemens on October 11, 2021, launched the world’s first automated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
+      "originalUrl": "https://www.jagranjosh.com/current-affairs/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2021/October/13102021/world_first_autonomous_tram_germany_.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
+      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/current-affairs/amp/germany-launches-worlds-first-selfdriving-train-know-details-1634100135-1",
+      "publishedDateTime": "2021-10-12T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rojgar Samachar",
+        "domain": "jagranjosh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -784,115 +459,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-your-next-training-session-might-be-taught-by-an-ai.md",
-      "title": "Your Next Training Session Might be Taught by an AI",
-      "excerpt": "The edtech market is on a fast growth path, and a key driver for K-12, college, and corporate education is artificial intelligence.",
+      "path": "_news/2021-10-13-deepmind-is-developing-one-algorithm-to-rule-them-all.md",
+      "title": "DeepMind is developing one algorithm to rule them all",
+      "excerpt": "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
-      "originalUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai",
+      "webUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/03ENzjDdINu9HF6kRQGZ7Za-1.1633979490.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-next-training-session-might-be-taught-by-an-ai?amp=true",
-      "publishedDateTime": "2021-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-intelligence-is-shining-star-in-fight-against-healthcare-fraud.md",
-      "title": "Artificial Intelligence Is ‘Shining Star’ in Fight Against Healthcare Fraud",
-      "excerpt": "Beth Griffin of Mastercard says AI has been an effective tool that is only beginning to see the level of adoption in healthcare that exists in other industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/artificial-intelligence-shining-star-fight-against-fraud/amp/",
-      "publishedDateTime": "2021-10-12T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
-      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
-      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 413,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 700,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -900,9 +481,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "publishedDateTime": "2021-10-11T22:46:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/",
+      "publishedDateTime": "2021-10-12T21:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -925,28 +506,216 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
+        "Google AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-build-conversational-experiences-for-credit-card-services-using-amazon-lex.md",
-      "title": "Build conversational experiences for credit card services using Amazon Lex",
-      "excerpt": "New trends are shaping the credit card industry as shopping habits have rapidly evolved over the last 18 months. The pandemic has accelerated the move away from cash towards cards. Card issuers are transforming their products to better serve cardmembers through innovations such as contactless payments",
+      "path": "_news/2021-10-13-tesla-begins-roll-out-of-its-full-self-driving-beta-102-software-1000-cars-included.md",
+      "title": "Tesla Begins Roll-Out of its Full Self Driving Beta 10.2 Software, 1,000 Cars Included",
+      "excerpt": "Elon Musk on Monday said Tesla has finally started rolling out its Full Self-Driving (FSD) Beta 10.2 software. The software was slated for a roll out to about 1,000 Tesla owners last weekend but was delayed owing to “last-minute concerns\".",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-credit-card-services-using-amazon-lex/",
+      "webUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
+      "originalUrl": "https://www.news18.com/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/12/1-6097-Architecture.jpg",
-          "width": 800,
-          "height": 472,
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/1627897129_model-3-163282611016x9.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/auto/tesla-begins-roll-out-of-its-full-self-driving-beta-10-2-software-1000-cars-included-4314275.html",
+      "publishedDateTime": "2021-10-12T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis.md",
+      "title": "IBM launches AI service to assist companies with climate change analysis",
+      "excerpt": "IBM's new Environmental Intelligence Suite leverages AI-powered tools and analytics technologies to help companies measure climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1616161913403.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ibm-launches-ai-service-to-assist-companies-with-climate-change-analysis/amp/",
+      "publishedDateTime": "2021-10-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-uae-digital-first-bank-mashreq-neo-debuts-facial-recognition.md",
+      "title": "UAE Digital-First Bank Mashreq NEO Debuts Facial Recognition",
+      "excerpt": "Digital bank Mashreq NEO, based in the United Arab Emirates, is letting residents open bank accounts with facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/UAE-facial-recognition-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/united-arab-emirates-digital-first-bank-mashreq-neo-debuts-facial-recognition/amp/",
+      "publishedDateTime": "2021-10-12T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare.md",
+      "title": "Create And Scale Complex Artificial Intelligence And Machine Learning Pipelines Anywhere With IBM CodeFlare",
+      "excerpt": "Goodson, dives in to discuss the deal with the extraordinary growth of AI and its ever-increasing complexity, IBM created an open-source framework called CodeFlare to deal with AI’s complex pipeline requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61661d47f90be4daae1bb28a%2F0x0.jpg",
+          "width": 936,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/12/create-and-scale-complex-artificial-intelligence-and-machine-learning-pipelines-anywhere-with-ibm-codeflare/amp/",
+      "publishedDateTime": "2021-10-12T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-train-and-deploy-deep-learning-models-using-jax-with-amazon-sagemaker.md",
+      "title": "Train and deploy deep learning models using JAX with Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models at any scale. Typically, you can use the pre-built and optimized training and inference containers that have been optimized for AWS hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-deep-learning-models-using-jax-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -956,7 +725,292 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:04:28-07:00",
+      "publishedDateTime": "2021-10-12T14:43:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-waymos-self-driving-taxi-struggles-with-left-turns-and-puddles-but-its-still-winning-over-some-arizona-riders.md",
+      "title": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "excerpt": "Waymo's self-driving taxi struggles with left turns and puddles. But it's still winning over some Arizona riders",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtva.com/content/national/575511382.html",
+      "originalUrl": "https://www.wtva.com/content/national/575511382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.heartlandtv.com/designimages/WTVA_640x380.png",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wtva.com/templates/AMP?contentID=575511382",
+      "cdnAmpWebUrl": "https://www-wtva-com.cdn.ampproject.org/c/www.wtva.com/templates/AMP?contentID=575511382",
+      "publishedDateTime": "2021-10-12T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVA",
+        "domain": "wtva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-heres-how-microsoft-is-using-artificial-intelligence.md",
+      "title": "Here's How Microsoft Is Using Artificial Intelligence",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
+      "publishedDateTime": "2021-10-12T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-no-code-ai-analytics-may-soon-automate-data-science-jobs.md",
+      "title": "No-code AI analytics may soon automate data science jobs",
+      "excerpt": "Exclusive SparkBeyond Discovery lets analysts use AI to auto generate new answers to business problems without requiring coding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/",
+      "publishedDateTime": "2021-10-12T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
+      "title": "Deep learning helps predict traffic crashes before they happen",
+      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
+      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-google-pixel-watch-delayed-again-the-reason-is-chip-shortage.md",
+      "title": "Google Pixel Watch Delayed Again: The Reason Is Chip Shortage",
+      "excerpt": "The Google Pixel 6 has been making furor even not actually appearing on the market. We mean this handset will be unleashed in a week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
+      "originalUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/Google-Pixel-Watch-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
+      "publishedDateTime": "2021-10-12T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-how-to-approach-conversation-design-getting-started-with-amazon-lex-part-2.md",
+      "title": "How to approach conversation design: Getting started with Amazon Lex (Part 2)",
+      "excerpt": "As you plan your new Amazon Lex application, the following conversation design best practices can help your team succeed in creating a great customer experience. In our previous post, we discussed how to create the foundation for good conversation design. We explored the business value of good conversational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-how-to-approach-conversation-design-getting-started-with-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-how-to-approach-conversation-design-getting-started-with-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T11:56:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -984,56 +1038,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-12-accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights.md",
-      "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
-      "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
+      "path": "_news/2021-10-13-how-saas-companies-can-prevent-churn-and-drive-growth-using-ai.md",
+      "title": "How SaaS Companies Can Prevent Churn And Drive Growth Using AI",
+      "excerpt": "Not only can AI consume and organize data, but it is also the key to unlocking insights that help prevent churn, stopping loss before it starts.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/",
-      "originalUrl": "https://www.financialbuzz.com/accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights/",
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study.md",
-      "title": "Artificial neural network promising tool in pain prediction after RCT: Study",
-      "excerpt": "With the development of endodontic treatment, the incidence of pain and swelling during RCT is only approximately 10%. However, patients frequently report of postoperative pain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "originalUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://medicaldialogues.in/h-upload/2021/10/02/161347-capture.jpg",
-          "width": 575,
-          "height": 263,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165cee8c9c9bc394a1e3a1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1041,14 +1060,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
-      "publishedDateTime": "2021-10-11T20:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
+      "publishedDateTime": "2021-10-12T11:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1057,110 +1085,23 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-12-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics.md",
-      "title": "House Task Force on Artificial Intelligence to Hold Hearing on Ethics",
-      "excerpt": "On Wednesday, October 13, the House Committee on Financial Services, Task Force on Artificial Intelligence (AI) will hold a hearing to discuss ethics and AI. According to the hearing memo, in financial services,",
+      "path": "_news/2021-10-13-dreamdrive-lucids-proprietary-advanced-driver-assistance-platform-thats-user-friendly-and-future-ready.md",
+      "title": "DreamDrive: Lucid's Proprietary Advanced Driver Assistance Platform That's User-Friendly and Future-Ready",
+      "excerpt": "Lucid Group, which is setting new standards with its advanced luxury EVs, announced today the details of DreamDrive™, the most technically sophisticated advanced driver-assistance system (ADAS). All versions of DreamDrive employ 32 on-board sensors,",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "webUrl": "https://www.lucidmotors.com/media-room/dreamdrive-advanced-driver-assistance-platform/",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dreamdrive-lucid-s-proprietary-advanced-driver-assistance-platform-that-s-user-friendly-and-future-ready-1030859943",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence.jpg",
-          "width": 1280,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
-      "publishedDateTime": "2021-10-11T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
-      "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
-      "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "originalUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/IMG_1746.jpg.png?itok=QInUkdFr",
+          "url": "https://www.lucidmotors.com/static/lucid-air-pure-touring-grand-touring-1200x630-e638642943942ed7bb3845892e57cceb.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1172,11 +1113,62 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "publishedDateTime": "2021-10-12T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-today-in-healthcare-telehealth-in-africa-ai-vs-payment-fraud-transparency-and-innovation.md",
+      "title": "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation",
+      "excerpt": "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
+      "publishedDateTime": "2021-10-12T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1186,7 +1178,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Healthcare",
         "AI"
       ]
     }

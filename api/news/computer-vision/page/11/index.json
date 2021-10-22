@@ -2,6 +2,378 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
+      "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
+      "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
+      "originalUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchangewire.com/wp-content/uploads/2021/04/seedtag-logo-2021.png",
+          "width": 271,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
+      "cdnAmpWebUrl": "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2021/07/13/seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment/?amp",
+      "publishedDateTime": "2021-07-13T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "exchangewire.com",
+        "domain": "exchangewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-festo-advances-robot-programming-with-ai.md",
+      "title": "Festo advances robot programming with AI",
+      "excerpt": "Festo partners with several international companies and universities to develop FLAIROP - Federated Learning for Robot Picking",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "originalUrl": "https://www.therobotreport.com/festo-advances-robot-programming-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/festo-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-the-assault-on-our-privacy-is-being-conducted-in-private.md",
+      "title": "The Assault on Our Privacy Is Being Conducted in Private",
+      "excerpt": "Central databases are exploited by criminals, governments and companies that want to part consumers from their money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13bensinger1/13bensinger1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/data-privacy-rights.amp.html",
+      "publishedDateTime": "2021-07-13T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-facial-recognition-tech-gets-bipartisan-call-for-more-regulation.md",
+      "title": "Facial-Recognition Tech Gets Bipartisan Call for More Regulation",
+      "excerpt": "Some, such as Customs and Border Protection, have their own in-house facial recognition technology. Others use products from companies including Clearview AI Inc. and Vigilant Solutions Inc. “To ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
+          "width": 1600,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-how-octopuses-upend-what-we-know-about-ourselves.md",
+      "title": "How Octopuses Upend What We Know About Ourselves",
+      "excerpt": "Octopuses (it’s incorrect to say “octopi,” to my despair) are having a moment: There are award-winning books, documentaries and even science fiction about them. I suspect it’s the same hunger that leaves many of us yearning to know aliens: How do radically different minds work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13eks-promo/13eks-promo-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
+      "publishedDateTime": "2021-07-13T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
+      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
+      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-13T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows.md",
+      "title": "Computer Vision Has Potential to Radically Transform Industries, Insight and IDG Study Shows",
+      "excerpt": "Insight commissioned IDG to conduct a survey of 200 business and IT leaders to better understand the awareness, adoption and perceptions of computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-has-potential-to-radically-transform-industries-insight-and-idg-study-shows-2021-07-13-9159038",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-new-renesas-solution-for-automotive-cameras-enables-high-definition-video-using-low-cost-cables-and-connectors.md",
+      "title": "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors",
+      "excerpt": "HD video is increasingly important in car safety systems for object recognition functionality. Renesas is a leader in the Advanced Driver Assist Systems (ADAS) market, and AHL can be paired with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005146/en/New-Renesas-Solution-For-Automotive-Cameras-Enables-High-Definition-Video-Using-Low-Cost-Cables-and-Connectors",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005146/en/New-Renesas-Solution-For-Automotive-Cameras-Enables-High-Definition-Video-Using-Low-Cost-Cables-and-Connectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
       "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
       "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
@@ -994,364 +1366,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-elon-musk-tesla-to-release-new-ui-with-mind-of-car-view-coming-to-cars-with-fsd-computer.md",
-      "title": "Elon Musk: Tesla to release new UI with ‘mind of car’ view coming to cars with FSD computer",
-      "excerpt": "Elon Musk: has confirmed that Tesla will release a new user interface with its upcoming FSD v9 Beta software update. The updated UI will have something that the CEO referred to as “mind of car’ view.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "originalUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/06/elon-musk-tesla-ui-mind-of-car-view-fsd-computer/amp/",
-      "publishedDateTime": "2021-07-06T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-facial-recognition-used-to-verify-vaccine-beneficiaries-govt.md",
-      "title": "Facial recognition used to verify vaccine beneficiaries: govt.",
-      "excerpt": "Even though the Ministry of Health and Family Welfare (MoHFW) has admitted in a recent RTI query response to the use of facial recognition technology (FRT) for online verification of beneficiaries at vaccination centres,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/national/gl2d2b/article35152785.ece/ALTERNATES/LANDSCAPE_615/Facialrecognition",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-used-to-verify-vaccine-beneficiaries-govt/article35152786.ece/amp/",
-      "publishedDateTime": "2021-07-05T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
-      "title": "Analysis-'Racist' facial recognition sparks ethical concerns in Russia",
-      "excerpt": "From scanning residents’ faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "originalUrl": "https://www.reuters.com/article/uk-russia-tech-race/analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia-idUSKCN2EB0BC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EB0BC",
-      "publishedDateTime": "2021-07-04T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
-      "title": "'Racist' facial recognition sparks ethical concerns in Russia",
-      "excerpt": "From scanning residents' faces to let them into their building to spotting police suspects in a crowd, the rise of facial recognition is accompanied by a growing chorus of concern about unethical ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.trust.org/item/20210705014850-6gwm1",
-      "originalUrl": "https://news.trust.org/item/20210705014850-6gwm1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/ebe712df-e91b-4162-847c-c65997db30c5/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thomson Reuters Foundation",
-        "domain": "trust.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
-      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
-      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
-      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
-          "width": 2560,
-          "height": 1654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
-      "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
-      "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "originalUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-maine-now-has-the-toughest-facial-recognition-restrictions-in-the-us.md",
-      "title": "Maine Now Has the Toughest Facial Recognition Restrictions in the U.S.",
-      "excerpt": "The new law prohibits use of the technology across all levels of state, county, and municipal government, with limited exceptions for law enforcement.",
-      "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-02T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-moving-food-processing-to-industry-40-and-beyond.md",
-      "title": "Moving Food Processing to Industry 4.0 and Beyond",
-      "excerpt": "The next industrial paradigms are projected to have great impact not only on the food processing industry but also society and environment by augmented integration of physical processes, computation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
-      "originalUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ift.org/-/media/food-technology/column-images/2021/07/0721_col7_processing/c7_processing_tetrapak_725x408.jpg?la=en&h=408&w=725&mw=1290&hash=4C4BC6BD023230CF9E4015418D2743F8",
-          "width": 725,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institute of Food Technologists",
-        "domain": "ift.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -8,6 +8,9 @@ webUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-pe
 ampWebUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
 type: article
+quality: 66
+heat: 76
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +23,17 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+related:
+  - title: "Deep North Raises $16.7M Series A-1 to Scale and Expand its AI Computer Vision Software with Celesta Capital and Yobi Partners as Co-Lead Investors"
+    excerpt: "Deep North, the AI company transforming video assets into robust, custom-tailored analytics, today announced that it has raised $16.7M in Series A-1 funding co-led by Celesta Capital and Yobi Partners,"
+    publishedDateTime: 2021-10-21T17:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-20059803.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
 
 secured: "Wf/+MjBtP/yuaGzSZBSMI6DXPbrUuPTOnkCZ8wzAaDptDADgAeSinlDbsfYcCqJXve/U/8XTxv0apfdkizSkQaa94dnB6GSx5xyN9B6xyGHYwx95tAv7lEHUbiNCyh5MLTAqARvb3FV88RxzcQ12BHJ9KwNrz4gH3jY0FeUwC8N4RXimv2OMABXVC8TTuDpidr/YHZ+J/8yn21CLFicRF683L25fOva9u+98WGsfn/YP+novr6Xhcj3/6LlGOBxWlLw+bgCHQdlebBZpeWs43WI98QdsQmm3wNR2XGAeqOuKmHKhK65ATf5PzGW8e/veynJotUj1x9Wp7MjEjabCHSBshV3tcqnTGZ3s3XhXZAn6iP19RW1WeMxZtDx+6eBfJN8LsJRyurBH24/ci3r/pSoE8MkMN0vJXd1HQ1feNti/HAPp6MS8qrYVMde2j6wGP/ILTfpAtBclEZ2g5BmmEcvxqG2DydMSTjOaxamJWDzQyG2hWaF7OTgHMkZE/Y2qVNPNqm34ipFyVgz93bWJbQ==;kGcOK30D2WL6z8yJXtPXqw=="
 ---

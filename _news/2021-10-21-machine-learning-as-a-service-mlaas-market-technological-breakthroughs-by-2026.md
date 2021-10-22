@@ -8,6 +8,9 @@ webUrl: "https://www.openpr.com/news/2435677/machine-learning-as-a-service-mlaas
 ampWebUrl: "https://www.openpr.com/amp/2435677/machine-learning-as-a-service-mlaas-market-technological"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2435677/machine-learning-as-a-service-mlaas-market-technological"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: openpr.com

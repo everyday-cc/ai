@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-19T22:47:00Z
 originalUrl: "https://www.manufacturingtomorrow.com/news/2021/10/19/sandvik-coromant-launches-new-software-module-for-controlled-chip-breaking/17747/"
 webUrl: "https://www.manufacturingtomorrow.com/news/2021/10/19/sandvik-coromant-launches-new-software-module-for-controlled-chip-breaking/17747/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Manufacturing

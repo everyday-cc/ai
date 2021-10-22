@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "This Israeli startup scores $900K to help treat & monitor cognitive performance in the elderly"
-    excerpt: "As people grow older, cognitive decline becomes one of the most sinister threats we face. To accurately detect this, patients need to be constantly monitored. This is exactly what Israeli startup MyndYou was founded to do."
-    publishedDateTime: 2021-10-17T14:36:00Z
-    webUrl: "https://www.geektime.com/israeli-startup-wins-900k-grant-from-bird-foundation/"
-    ampWebUrl: "https://www.geektime.com/israeli-startup-wins-900k-grant-from-bird-foundation/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-wins-900k-grant-from-bird-foundation/amp/"
+  - title: "Israeli team says AI platform can predict which drugs are safe, effective"
+    excerpt: "Scientific advisory board Quris, an artificial intelligence (AI) company operating in the pharmaceutical space, launched this week and announced a $9 million in seed funding."
+    publishedDateTime: 2021-10-20T17:38:00Z
+    webUrl: "https://www.jpost.com/health-and-wellness/israeli-team-says-ai-platform-can-predict-which-drugs-are-safe-effective-682631"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 30
-    images:
-      - url: "https://www.geektime.com/content/images/2021/10/4f03d2_5825e33197614e049527ea2c6d5b63ed_mv2_d_6667_3751_s_4_2-1524997395.png"
-        width: 640
-        height: 402
-        isCached: true
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 18
 
 secured: "qqxoa6ODJigRVzMLF9uVt6DO33SEN+iZ3u58yYHKpcPjWI1onIdQBF7QWYbD0ndj46SrQD4xSBX7bqG0iEnv1otTSodJ2CHmpIfyChcjN2bHkrbAZj00Sl0JKv/nwgXHbckq4RBHxXwqtSPfHz/cvL59BO7BT5zmN9cu02s0xOMc4q3aXZuxBrow+HWWgYteUUanm+xdMtkhALxwDNo/jI6FBRGdQ1sSaXpHnkaKcUwuHYIqXlF6E5MNBO9ctRBSZ3JmRiwY09LCgZH9rLE6QyoNHeSFl+mDhipXC6aKZmGaF4KR5E1hzIAZkNd/2oC/4CEXqYA7h0/Zn2Ip3Tuu+Zk2MkF7t0ireo8GW0LAvgHzzA4csNlcWg9h1khLJvZGvzPwvrlgDdpwUXHFfl7Ic6jD1K70sgHj55aCzhCff7Jbjm1u6PC/17K03JcSgzfLYpzDz8jBpsHVZfiixhiTdtRRAXHSQEX2J+syNs9GMcb2xT6sHvNzW+ewb+YZNRvWkmlrQK4EkQODrij8oDzvQg==;HDwUyhtmK4JNlC4n2BQzbw=="
 ---

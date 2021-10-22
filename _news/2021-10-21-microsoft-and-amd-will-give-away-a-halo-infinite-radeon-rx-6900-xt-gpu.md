@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T15:46:00Z
 originalUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
 webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
 type: article
+quality: 65
+heat: 75
+published: true
 
 provider:
   name: Engadget
@@ -19,6 +22,17 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+
+related:
+  - title: "'Halo Infinite' Reveals PC Features & Details, AMD Radeon Limited Edition GPU, Ray Tracing Post-Launch - Trailer"
+    excerpt: "Halo Infinite is the next title in the series. The game focuses on the Master Chief and continue his saga after the events of Halo 5."
+    publishedDateTime: 2021-10-21T17:10:00Z
+    webUrl: "https://www.worthplaying.com/article/2021/10/21/news/128982-halo-infinite-reveals-pc-features-details-amd-radeon-limited-edition-gpu-ray-tracing-post-launch-trailer/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 13
 
 secured: "qYy2ayOr1DD5SEgNQmVW8k9JpQRLdLXnTme3g0kpRbu8CyrUiJPBcSqIW+3Qqc7NTt9rb04Edlsrbten884+ZBvEzoTLUOju7i87B6T7UdJ9TjDrmEvEmBMdvZfnGIdlQT76H9hVPQLzihmEWLCmIU1O5JEeDYJp4efw/Fu9BeeH22AQhXkhPAngvrjkURWSwK6+WJL787/yAO6cpBqD+i1FRGVXxbgzAW71twW57+dlPyYP34k5cKbpAp6kotLOjWdvPBIPMChPJh3PAcTxDWR1bYHo/vmZ9AK7a8zH3DzSwyK5Cy4EaaGDA2zKaTKvRH5KuHe3ccFfJ/vwMDYd9hqct6DpXOQ67Rhi/CEn2kuupPFYxdcC0HS8QTZypNf697viDc2fy8OBdVPRHNq8v090271Qa07yaV/S6mHOlADvVBYx/Hhe6YhPfGUfuaY1CezqQ3JqYO6SO84Tj8JNTBA8PggCEVRq0PgJR/4Iu1lsKycWHEJgxFX4X0GV5BPYfibVbh6D21/tcZDcKg+91Q==;5+5USUNVI5G2lyrFXwgZYw=="
 ---

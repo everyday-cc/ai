@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:05:00Z
 originalUrl: "https://www.digitaltrends.com/mobile/oppo-custom-mobile-chips-google-samsung/"
 webUrl: "https://www.digitaltrends.com/mobile/oppo-custom-mobile-chips-google-samsung/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Digital Trends

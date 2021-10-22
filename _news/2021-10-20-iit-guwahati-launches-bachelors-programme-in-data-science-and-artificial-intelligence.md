@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:39:00Z
 originalUrl: "https://www.republicworld.com/india-news/education/iit-guwahati-launches-bachelors-programme-in-data-science-and-artificial-intelligence.html"
 webUrl: "https://www.republicworld.com/india-news/education/iit-guwahati-launches-bachelors-programme-in-data-science-and-artificial-intelligence.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: RepublicWorld

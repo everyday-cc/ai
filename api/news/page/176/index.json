@@ -2,26 +2,35 @@
   "page": 176,
   "value": [
     {
-      "path": "_news/2021-06-13-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement.md",
-      "title": "IBM launches Watson Assistant for hospitality to enhance guest engagement",
-      "excerpt": "The assistant allows hotels to either combine the technology with existing digital voice, app or chat platforms or build a new one. IBM launches Watson Assistant for hospitality to enhance guest engagement.",
+      "path": "_news/2021-06-15-machine-learning-blockchain-emerge-as-top-online-courses-in-india-report.md",
+      "title": "Machine learning, blockchain emerge as top online courses in India: report",
+      "excerpt": "Digital skills have become important today especially to stay redundant at a time when technology is powering most industries. The pandemic also displaced millions of workers worldwide.",
       "sourceUrl": null,
-      "webUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
-      "originalUrl": "https://www.hoteliermiddleeast.com/operations/back-of-house/engineering-it/33274-ibm-launches-watson-assistant-for-hospitality-to-enhance-guest-engagement",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 92,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/9ep4ul/article34821936.ece/ALTERNATES/LANDSCAPE_615/digital-skills-india-reutersjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T04:35:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/internet/machine-learning-blockchain-emerge-as-top-online-courses-in-india/article34821889.ece/amp/",
+      "publishedDateTime": "2021-06-15T04:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hoteliermiddleeast.com",
-        "domain": "hoteliermiddleeast.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,25 +40,170 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-13-facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive-species.md",
-      "title": "Facial recognition for fish? Researchers test technology on Asian carp in battle to stop invasive species",
-      "excerpt": "There may come a day on the Illinois River when a fish swims up a chute, slides through a scanner, and, after being recognized as a feared silver",
+      "path": "_news/2021-06-15-understanding-the-potential-of-unsupervised-ai.md",
+      "title": "Understanding The Potential Of Unsupervised AI",
+      "excerpt": "It may have taken a pandemic, changing the very fabric of the workplace, but at last, we’re realizing the promise of unsupervised AI. For the first time, companies are leapfrogging to success by adopting “pure-play” unsupervised AI across the enterprise and leaving behind yesterday’s point solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
-      "originalUrl": "https://www.nny360.com/news/nationandworld/facial-recognition-for-fish-researchers-test-technology-on-asian-carp-in-battle-to-stop-invasive/article_e29ed078-70f9-5ebb-8a0e-9c40963a463f.html",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f43bf19d4c2c56c1a96f810%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/15/understanding-the-potential-of-unsupervised-ai/amp/",
+      "publishedDateTime": "2021-06-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-ardenna-rail-inspector-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Ardenna Rail-Inspector Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Ardenna's Rail-Inspector is a SaaS offering, only available on Azure. \"Through the Microsoft Azure Marketplace, Rail-Inspector will have a broader exposure to domestic and international railroad track asset owners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ardenna-rail-inspector-now-available-the-microsoft-azure-/2021/06/15/9390197.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/b/35/b355d594-4d2f-563c-b887-96d7085d3dca/60c39695e1b63.image.jpg?resize=492%2C630",
-          "width": 492,
+          "url": "https://mma.prnewswire.com/media/1529981/Ardenna_introduces_Rail_Inspector.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity.md",
+      "title": "PwC to Spend $12 Billion on Hiring, Expanding Expertise in AI, Cybersecurity",
+      "excerpt": "PricewaterhouseCoopers plans to spend $12 billion and hire 100,000 new people in areas such as artificial intelligence and cybersecurity by 2026, the latest move by a Big Four accounting firm to bet big on technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "originalUrl": "https://www.wsj.com/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-353929/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pwc-to-spend-12-billion-on-hiring-expanding-expertise-in-ai-cybersecurity-11623758400",
+      "publishedDateTime": "2021-06-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic-fusions-and-driver-mutations.md",
+      "title": "Caris Life Sciences and Elevation Oncology Announce Joint Discovery and Development Collaboration Focused on Oncogenic Fusions and Driver Mutations",
+      "excerpt": "Caris Life Sciences®, a leading innovator in molecular science and artificial intelligence focused on fulfilling the promise of precision medicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
+      "originalUrl": "https://www.troyrecord.com/news/national/caris-life-sciences-and-elevation-oncology-announce-joint-discovery-and-development-collaboration-focused-on-oncogenic/article_4baa9ec1-ad0e-5448-af75-2954a8363a46.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/troyrecord.com/content/tncms/assets/v3/editorial/7/fa/7faabe80-266e-5cb4-9b9c-f24b7b146ba5/60c8855377d65.image.jpg?resize=703%2C630",
+          "width": 703,
           "height": 630,
           "title": null,
           "attribution": null,
@@ -60,11 +214,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T03:55:00-07:00",
+      "publishedDateTime": "2021-06-15T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NNY360",
-        "domain": "nny360.com",
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,939 +228,25 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-13-amazon-offers-online-course-in-machine-learning.md",
-      "title": "Amazon Offers Online Course in Machine Learning",
-      "excerpt": "Amazon India has launched the ML Summer School, which is an integrated learning experience for students to learn applied Machine Learning (ML) skills. The three-day course will cover the fundamental concepts in Machine Learning besides offering practical industry applications.",
+      "path": "_news/2021-06-15-artificial-intelligence-in-supply-chain-market-forecast-2026.md",
+      "title": "Artificial Intelligence in Supply Chain Market Forecast 2026",
+      "excerpt": "The findings reviewed by GME stated that the Global Artificial Intelligence in Supply Chain Market is estimated to be valued at USD 0 73 billion in 2021 and is projected to reach USD 10 11 billion by 2026 at a",
       "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "originalUrl": "https://www.news18.com/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/06/1623578039_online-learning.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/amazon-offers-online-course-in-machine-learning-3842204.html",
-      "publishedDateTime": "2021-06-13T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired.md",
-      "title": "Mojo Vision’s Smart Contact Lens Could Be Transformative For Sight Impaired",
-      "excerpt": "Mojo Vision, a California-based startup, is developing an electronic contact lens that can digitally enhance what the wearer sees. The company intends for Mojo Lens’ initial application to be as an assistive device to help people with sight impairments see the world in an entirely new way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c52a1420ff18bf417d3713%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/13/mojo-visions-smart-contact-lens-could-be-transformative-for-sight-impaired/amp/",
-      "publishedDateTime": "2021-06-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-neural-network-keeps-it-light.md",
-      "title": "Neural Network Keeps It Light",
-      "excerpt": "As the jobs we ask of neural networks get more complex, the networks require more artificial neurons. That’s why researchers are pursuing dense integrated neuron chips that could do for neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
-      "originalUrl": "https://hackaday.com/2016/11/24/neural-network-keeps-it-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/11/nn.png",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.md",
-      "title": "Paraplegic Performs World Cup's Ceremonial First Kick in Mind-Controlled Robotic Suit",
-      "excerpt": "Juliano Pinto, a 29-year old paraplegic, kicked the official game ball a short distance with the help of a robotic exoskeleton that he controlled with just his mind. The mind-controlled robotic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "originalUrl": "https://www.medgadget.com/2014/06/paraplegic-performs-world-cups-ceremonial-first-kick-in-mind-controlled-robotic-suit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-what-waabis-launch-means-for-the-self-driving-car-industry.md",
-      "title": "What Waabi’s launch means for the self-driving car industry",
-      "excerpt": "Waabi claims its next-generation self-driving technology can scale autonomous driving technology research and make it commercially viable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1291353648.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/what-waabis-launch-means-for-the-self-driving-car-industry/amp/",
-      "publishedDateTime": "2021-06-12T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out.md",
-      "title": "AI-based loan apps are booming in India, but some borrowers miss out",
-      "excerpt": "Mobile lending apps have mushroomed in India, but critics claim these apps misuse customer data and discriminate against marginalized groups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/taxes-e1623311969949.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/ai-based-loan-apps-are-booming-in-india-but-some-borrowers-miss-out/amp/",
-      "publishedDateTime": "2021-06-12T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
-      "title": "Google team uses AI to create next-gen chips faster than humans",
-      "excerpt": "As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips, and has created an AI model",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/06/12/1081754-ai.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-690520",
-      "publishedDateTime": "2021-06-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-heres-how-ai-can-determine-the-taste-of-coffee-beans.md",
-      "title": "Here’s How AI Can Determine The Taste Of Coffee Beans",
-      "excerpt": "This Colombian startup is using artificial intelligence to taste coffee and gives producers, farmers and roasters new insight into how to grow, harvest and optimize flavor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c3e7e24db754e75e88acec%2F0x0.jpg",
-          "width": 1199,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/06/12/heres-how-ai-can-determine-the-taste-of-coffee-beans/amp/",
-      "publishedDateTime": "2021-06-12T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
-      "title": "How stakeholder capitalism and AI ethics go hand in hand",
-      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "webUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "originalUrl": "https://www.openpr.com/news/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "publishedDateTime": "2021-06-12T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-google-team-creates-next-gen-chips-using-ai.md",
-      "title": "Google team creates next-gen chips using AI",
-      "excerpt": "A team of Google researchers working on to design next-generation artificial-intelligence (AI) chip has created an AI model that allows chip design to be performed by artificial",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "originalUrl": "https://english.madhyamam.com/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2021/06/12/1047211-5900612b2aace1dd090ab881ff1e1fc4.jpg",
+          "url": "https://cdn.openpr.com/U/6/U615488872_g.jpg",
           "width": 400,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/google-team-creates-next-gen-chips-using-ai-809695",
-      "publishedDateTime": "2021-06-12T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deepmind-researchers-say-reinforcement-learning-is-the-key-to-cracking-general-ai.md",
-      "title": "DeepMind researchers say reinforcement learning is the key to cracking general AI",
-      "excerpt": "DeepMind scientist suggest that reward maximization and trial-and-error experience are enough to lead to the development of artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepmind-reinforcement-learning-enough-general-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2F2BDSF.jpg&signature=c72563bebf471ce23430f8ec3480edde",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-the-hard-truth-why-we-push-back-on-ai-when-discussing-diversity-and-recruitment.md",
-      "title": "The Hard Truth - Why We Push Back On AI When Discussing Diversity And Recruitment",
-      "excerpt": "The processes around recruitment are continuously scrutinized as organizations consciously implement interventions to minimize biases; for example, blind CVs and unconscious bias training for individuals on interview panels are two of the most common examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c47dead5a2f25eacb4012e%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/06/12/the-hard-truthwhy-we-push-back-on-ai-when-discussing-diversity-and-recruitment/amp/",
-      "publishedDateTime": "2021-06-12T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
-      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
-      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
-          "width": 720,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "publishedDateTime": "2021-06-12T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-samsung-jetbot-80-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-launched-in-europe.md",
-      "title": "Samsung JetBot 80, JetBot 80+ & JetBot 95 AI+ Robot Vacuum Cleaners launched in Europe",
-      "excerpt": "Samsung has announced the release of its impressive and affordable robot vacuum cleaners, the Samsung Jet Bot series for the European market. The Jet Bot series starts at 499 Euros for the base model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "originalUrl": "https://www.gizmochina.com/2021/06/12/samsung-jetbot-80-jetbot-95-ai-robot-vacuum-cleaners-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/06/Samsung-Jet-Bot-95-AI.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-12T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ufc-263-recognition-rematches-and-revenge-on-the-line-in-arizona.md",
-      "title": "UFC 263: Recognition, rematches and revenge on the line in Arizona",
-      "excerpt": "UFC 263 looks set to deliver a spectacular night of action, with two world titles on the line in front of a capacity crowd in Glendale, Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "originalUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/F4AE/production/_118883626_adesanya_vettori_getty.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/mixed-martial-arts/57442164.amp",
-      "publishedDateTime": "2021-06-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-ai-dominated-scientific-output-in-recent-years-unesco-report-shows.md",
-      "title": "AI ‘dominated scientific output’ in recent years, UNESCO report shows",
-      "excerpt": "The UNESCO Science Report 2021 discusses AI, robitics, Industry 4.0, and a spike in scientific reserach, patents, and spending.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-dominated-scientific-output-in-recent-years-unesco-report-shows/amp/",
-      "publishedDateTime": "2021-06-11T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-ai-solve-your-hiring-problems.md",
-      "title": "Can AI Solve Your Hiring Problems?",
-      "excerpt": "So then can AI (Artificial Intelligence) help out? Well, it definitely can. The irony is that many companies are using the technology—and don’t even realize it! The reason is that AI is built into the top online job sites.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c407078098c83d5373a60b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/11/can-ai-solve-your-hiring-problems/amp/",
-      "publishedDateTime": "2021-06-11T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-nvidia-to-acquire-high-definition-map-maker-deepmap.md",
-      "title": "Nvidia to acquire high-definition map maker DeepMap",
-      "excerpt": "Nvidia has agreed to acquire precision mapping technology provider DeepMaps for an undisclosed amount. The deal should close in Q3",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
-      "originalUrl": "https://www.therobotreport.com/nvidia-to-acquire-high-definition-map-maker-deepmap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/06/Deepmap-nvidia-featured-web.jpg",
-          "width": 780,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-watch-a-paraplegic-in-an-exoskeleton-open-the-world-cup-with-a-kick.md",
-      "title": "Watch a paraplegic in an exoskeleton open the World Cup -- with a kick",
-      "excerpt": "As promised, a paralyzed man did indeed kick off today's World Cup festivities by wearing a mind-controlled robotic exoskeleton. Juliana Pinto, a 29-year-old paraplegic, was one of eight patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2014-06-12-paraplegic-exoskeleton-world-cup.html",
-      "originalUrl": "https://www.engadget.com/2014-06-12-paraplegic-exoskeleton-world-cup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/j8Cj3QDqNXyZ6NtgRgEPEQ--~B/aD0yNTU7dz00NTA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/e2fdc26c1792e1a41a81b47edb2ead4b/200269978/64colors.gif",
-          "width": 450,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-can-we-afford-ai.md",
-      "title": "Can we afford AI?",
-      "excerpt": "AI can lower the cost of doing business, but enterprises have to consider cost management to make it less expensive to acquire and deploy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/market-analyze-e1623419360531.jpg?fit=800%2C533&strip=all",
-          "width": 800,
           "height": 400,
           "title": null,
           "attribution": null,
@@ -1015,23 +255,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/can-we-afford-ai/amp/",
-      "publishedDateTime": "2021-06-11T14:27:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2305358/artificial-intelligence-in-supply-chain-market-forecast-2026",
+      "publishedDateTime": "2021-06-15T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1040,26 +271,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-12-ai-weekly-ai-helps-companies-design-physical-products.md",
-      "title": "AI Weekly: AI helps companies design physical products",
-      "excerpt": "AI is increasingly being used to assist engineers in creating physical products -- a potentially positive development for enterprises.",
+      "path": "_news/2021-06-15-united-fintech-names-advisory-board.md",
+      "title": "United Fintech names advisory board",
+      "excerpt": "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/",
+      "webUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
+      "originalUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1067,23 +298,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/ai-weekly-ai-helps-companies-design-physical-products/amp/",
-      "publishedDateTime": "2021-06-11T14:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1092,70 +314,20 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-06-12-this-ai-system-learned-to-understand-videos-by-watching-youtube.md",
-      "title": "This AI system learned to understand videos by watching YouTube",
-      "excerpt": "Researchers at the Allen Institute and University of Washington created an AI system that can understand the sequence of events in videos.",
+      "path": "_news/2021-06-15-global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation.md",
+      "title": "Global Artificial Intelligence Service Market 2021 Forecast to 2027: Finest Companies in Market, Trends and Growth Factors and Market Segmentation",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
-      "originalUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/08/youtube.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/11/this-ai-system-learned-to-understand-videos-by-watching-youtube/amp/",
-      "publishedDateTime": "2021-06-11T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) Market by Product, Revenue, Price, Industry Share, Growth Opportunity and Forecast to 2025",
-      "excerpt": "Market at:  Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of more than 36% over the forecast period 2017-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-by-product-revenue-price-industry-share-growth-opportunity-and-forecast-to-2025-2021-06-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1171,7 +343,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T12:51:00-07:00",
+      "publishedDateTime": "2021-06-15T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1194,8 +366,785 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent.md",
+      "title": "Speakeasy AI Receives USPTO Technology Patent for \"Speech To Intent\"",
+      "excerpt": "Speakeasy AI, award-winning provider of conversational AI solutions across omnichannel self-service and live agent care , announced today the grant of patent",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/speakeasy-ai-receives-uspto-technology-patent-for-speech-to-intent/article_65684fa9-85dd-5cb9-ad65-a97a2ae54953.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-apples-ai-focus-privacy-by-design-iphone-by-default.md",
+      "title": "Apple's AI focus: Privacy by design, iPhone by default",
+      "excerpt": "At WWDC, Apple's smartphone received the lion's share of AI-driven features while the iPad and Mac improvements focused more on user interface refinement and tighter ecosystem integration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "originalUrl": "https://www.zdnet.com/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/06/08/83628db0-ccf8-417d-b7c7-4127a9c7a3ab/thumbnail/1200x675/7471659177dd3ef7658478d69c529c3f/20210607-larry-jason-wwdc.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-ai-focus-privacy-by-design-iphone-by-default/",
+      "publishedDateTime": "2021-06-14T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-google-using-ai-to-make-next-gen-ai-chips-humans-are-now-far-too-slow.md",
+      "title": "Google using AI to make next-gen AI chips, humans are now far too slow",
+      "excerpt": "Google's new AI software can make design next-gen chips in 6 hours, a task that is mammoth for humans and would take months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/7/9/79935_07_google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/79935/google-using-ai-to-make-next-gen-chips-humans-are-now-far-too-slow/amp.html",
+      "publishedDateTime": "2021-06-14T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-artisan-robots-with-ai-smarts-will-juggle-tasks-without-human-help.md",
+      "title": "Artisan Robots with AI Smarts Will Juggle Tasks Without Human Help",
+      "excerpt": "But there’s a declining number of technicians with the right skills, and the quality of things made by hand is subject to the skills and mood of the artisan on the day the part is made. Both problems could soon be solved by artificially intelligent robotic technicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/home/news/21509032/artisan-robots-with-ai-smarts-will-juggle-tasks-choose-tools-mix-and-match-recipes-and-even-order-materials-all-without-human-help",
+      "originalUrl": "https://www.manufacturing.net/home/news/21509032/artisan-robots-with-ai-smarts-will-juggle-tasks-choose-tools-mix-and-match-recipes-and-even-order-materials-all-without-human-help",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/06/16x9/iStock_1207515272.60c8bbed1624e.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm.md",
+      "title": "AI Ethics Q&A Series: Minimize And Mitigate Algorithmic Harm",
+      "excerpt": "Cornell's Manish Raghavan talks about ways to minimize and mitigate the negative impacts of AI and the most significant barriers to organizational change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb603b47a36ecf5f70e1141%2F960x0.jpg%3FcropX1%3D318%26cropX2%3D2612%26cropY1%3D675%26cropY2%3D2969",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/06/14/ai-ethics-qa-series-minimize-and-mitigate-algorithmic-harm/amp/",
+      "publishedDateTime": "2021-06-14T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-inropa-leverages-microsoft-tof-technology-and-ai-for-on-the-fly-programming-of-painting-robots.md",
+      "title": "Inropa leverages Microsoft ToF technology and AI for on-the-fly programming of painting robots",
+      "excerpt": "Today Inropa announced that they have joined the Microsoft Azure Depth Platform program. The collaboration will help Inropa to continue and evolve their intelligent robot painting solution with Microsoft Time of Flight (ToF) technology platform and Azure services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-inropa-leverages-microsoft-tof-technology-ai-on-the-/2021/06/14/9389944.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks.md",
+      "title": "Best of Show Winner Finn AI Adds to its Chatbot Offerings for Banks",
+      "excerpt": "Finn AI, the two-time Best of Show winner whose conversational AI technology has helped banks and credit unions add to their digital engagement solutions, announced a set of new additions of its own today.",
+      "sourceUrl": null,
+      "webUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
+      "originalUrl": "https://finovate.com/best-of-show-winner-finn-ai-adds-to-its-chatbot-offerings-for-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/pexels-kaboompics-com-6069.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finovate.com",
+        "domain": "finovate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-102.md",
+      "title": "TransPerfect Life Sciences Unveils AI-Powered TMF Automation with Trial Interactive 10.2",
+      "excerpt": "TransPerfect Life Sciences, a leading provider of services and technologies to support global clinical trials and product development for t",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/transperfect-life-sciences-unveils-ai-powered-tmf-automation-with-trial-interactive-10-2-1030520970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/635525/TransPerfect_Life_Sciences_Logo.jpg",
+          "width": 400,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-how-sf-companies-can-defend-against-hackers-as-workforce-returns-to-the-office.md",
+      "title": "How SF companies can defend against hackers as workforce returns to the office",
+      "excerpt": "As portions of San Francisco’s workforce heads back to the office in light of California’s reopening June 15, cybercrime will be a key concern. Hackers love when businesses and employees experience significant change because it sows the seeds of fear,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/opinion/how-sf-companies-can-defend-against-hackers-as-workforce-returns-to-the-office/",
+      "originalUrl": "https://www.sfexaminer.com/opinion/how-sf-companies-can-defend-against-hackers-as-workforce-returns-to-the-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/25494235_web1_210614-SFE-CYBERSECURITY-CYBERSECURITY_1.jpeg",
+          "width": 333,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-tsp-stock-blasts-off-after-tusimple-sends-self-driving-truck-across-the-us.md",
+      "title": "TSP Stock Blasts Off After TuSimple Sends Self-Driving Truck Across the U.S.",
+      "excerpt": "Self-driving trucks don’t need to eat, sleep or take breaks. Currently, the entire self-driving process for TuSimple’s trucks isn’t entirely autonomous, but it’s close. Apart from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/",
+      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/autonomous-driving-self-driving-av-stocks-1600-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/hypergrowthinvesting/2021/06/tsp-stock-up-after-tusimple-sends-self-driving-truck-across-the-us/amp/",
+      "publishedDateTime": "2021-06-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect.md",
+      "title": "Event-based fraud detection with direct customer calls using Amazon Connect",
+      "excerpt": "Several recent surveys show that more than 80% of consumers prefer spending with a credit card over cash. Thanks to advances in AI and machine learning (ML), credit card fraud can be detected quickly, which makes credit cards one of the safest and easiest payment methods to use. The challenge with cards,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/24/1-2205-Architecture.jpg",
+          "width": 800,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T12:35:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
-        "AI in Healthcare"
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-google-team-uses-ai-to-create-next-gen-chips-faster-than-humans.md",
+      "title": "Google team uses AI to create next-gen chips faster than humans",
+      "excerpt": "Chip floor-planning is the engineering task of designing the physical layout of a computer chip As the world faces acute semiconductor or chip shortage, a team of Google researchers is working on to design next-generation artificial-intelligence (AI) chips,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "originalUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/6/2021_6$largeimg_1828510628.jpg",
+          "width": 700,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-team-uses-ai-to-create-next-gen-chips-faster-than-humans-267384",
+      "publishedDateTime": "2021-06-14T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028.md",
+      "title": "Artificial Intelligence Market Analysis Growth Challenges, Opportunities and Future Developments to 2028",
+      "excerpt": "The report discusses the key players in the market who have provided a huge contribution in the growth of the Artificial Intelligence Market and dominate the market share. The report also provides information on the market revenue of the key players.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-analysis-growth-challenges-opportunities-and-future-developments-to-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-canadian-regulators-seek-policy-amendments-for-facial-recognition.md",
+      "title": "Canadian Regulators Seek Policy Amendments for Facial Recognition",
+      "excerpt": "Canada’s privacy commissioner wants the country’s lawmakers to revamp privacy laws to address issues related to facial recognition, following an investigation into the use of such technology by Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032",
+      "originalUrl": "https://www.wsj.com/articles/canadian-regulators-seek-policy-amendments-for-facial-recognition-11623698032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-353752/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-fraud-protection-startup-nsure-ai-raises-68m-in-seed-funding.md",
+      "title": "Fraud protection startup nSure AI raises $6.8M in seed funding",
+      "excerpt": "Fraud protection startup nSure AI has raised $6.8 million in seed funding, led by DisruptiveAI, Phoenix Insurance, AXA-backed venture builder Kamet, Moneta Seeds and private inves",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-613935822.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/14/fraud-protection-startup-nsure-ai-raises-6-8m-in-seed-funding/amp/",
+      "publishedDateTime": "2021-06-14T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations.md",
+      "title": "IBM Watson Orchestrate uses AI to help improve sales, HR and operations",
+      "excerpt": "A new, personal interactive tool for professionals was recently unveiled at IBM's Think conference. As AI and machine learning become integral to success for companies, across the board ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-orchestrate-uses-ai-to-help-improve-sales-hr-and-operations/",
+      "publishedDateTime": "2021-06-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour.md",
+      "title": "STEM, Artificial Intelligence, robotics, and mechatronics high on education agenda – Ntim Fordjour",
+      "excerpt": "The Deputy Education Minister-designate, Rev John Ntim Fordjour, has reiterated the commitment of the government to invest in the learning of STEM, robotics, Artificial Intelligence Mechatronics, the Internet of Things etc. which are critical skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "originalUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myjoyonline.com/wp-content/uploads/2021/06/GH.jpeg",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "cdnAmpWebUrl": "https://www-myjoyonline-com.cdn.ampproject.org/c/s/www.myjoyonline.com/stem-artificial-intelligence-robotics-and-mechatronics-high-on-education-agenda-ntim-fordjour/amp/",
+      "publishedDateTime": "2021-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyJoyOnline",
+        "domain": "myjoyonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

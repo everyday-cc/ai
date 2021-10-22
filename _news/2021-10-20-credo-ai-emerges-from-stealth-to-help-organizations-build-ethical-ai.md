@@ -35,20 +35,24 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How Health Systems Implement Ethical Artificial Intelligence"
-    excerpt: "As artificial intelligence capabilities in healthcare continue to advance, regulations and policies need to be put in place to ensure health equality when exploring this new method. This past June, the World Health Organization (WHO) released the first global report on artificial intelligence in healthcare along with six principles to avoid health disparities."
-    publishedDateTime: 2021-10-15T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/how-health-systems-implement-ethical-artificial-intelligence"
+  - title: "Credo AI launches backed by $5.5 million to help companies with ‘ethical AI’"
+    excerpt: "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,"
+    publishedDateTime: 2021-10-19T21:32:00Z
+    webUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 56
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 61
+  - title: "Unethical AI poses risk to mining companies"
+    excerpt: "Unethical artificial intelligence (AI) is an issue that can be a risk factor for mining companies going forward. Source: ©Supplied by agency. Wits Mining Institute’s DigiMine leverages a growing range of on-site facilities,"
+    publishedDateTime: 2021-10-20T13:38:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/646/221310.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 34
 
 secured: "VY+wTBhPo1X1Xwf9YecbZBew2PT7YYn4BfD9ruFzXJ0pIgzJ/WjaLZSG2BCfWLIw/W22JP7YiiNRKbDCezbzq/afo3symlJwGmH1RmzSUu1xAEyDe9D3bFMp6tm4jVsrZaxS1Hz+dZp88JRygQtZQrm/PnqtGmwRleZkGicka1uO0uxpkVr5FyV9qI434ebDrIfugvjLC9y6/9cJ/8t5yFTqszkfFH7aJ40Q1j17UzT5L3vYpzhrgAy2516mcnzOjdvTB0LVLAyh/J/YAQy88wKL+Y3a3wAW6qGJ/MmhwQ+71ISjEV4BHQl+pVdIDUY7Gbwrhf6JACTpWp1yq8otQSww0Qu8gF9NU4LXPb7cTqM=;tswE9OdGZ3yMThDdUAL3Ig=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T09:53:00Z
 originalUrl: "https://www.fudzilla.com/news/ai/53737-ai-will-start-analysing-management-bull"
 webUrl: "https://www.fudzilla.com/news/ai/53737-ai-will-start-analysing-management-bull"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Fudzilla

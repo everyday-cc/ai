@@ -2,6 +2,329 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-11-sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot.md",
+      "title": "Sybil Is a Solar-Powered, TensorFlow Lite-Equipped Smart Gardening Robot",
+      "excerpt": "Building on an AWS DeepRacer prototype, the Sybil includes stereo cameras and a LiDAR sensor with mapping, planting, and weeding support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "originalUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1334406/_LUAJFz5r9k.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-backlash-grows-against-decision-to-grant-patent-to-ai-system.md",
+      "title": "Backlash grows against decision to grant patent to AI system",
+      "excerpt": "A recently granted South African patent seems fairly mundane, but, he inventor is not a human being – it is an AI system named DABUS.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication",
+      "originalUrl": "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5",
+          "width": 1220,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike.md",
+      "title": "Electronic Arts says artificial intelligence will make game characters much more lifelike",
+      "excerpt": "Researchers at Electronic Arts are coming up with ways to make those hyper-realistic games even more squint-and-you-miss-it real looking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
+      "originalUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/BKR7h7WfGvh2AP3PXkXtNQ5JM_M=/1200x630/2021/08/11/a70e7667-bf0e-4ff5-8a24-36ad7df67db5/screen-shot-2021-08-10-at-8-21-18-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
+      "publishedDateTime": "2021-08-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-how-vision-systems-work-in-robotics.md",
+      "title": "How Vision Systems Work in Robotics",
+      "excerpt": "Robot vision systems are commonly referred to as machine vision. This vision tool is used in several industrial processes, including material inspection, object recognition, and pattern recognition. Each industry applies its particular values to machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
+      "originalUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_404523756.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-the-best-stories-for-national-robotics-week.md",
+      "title": "The Best Stories for National Robotics Week",
+      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-yumi-a-robot-for-you-and-me.md",
+      "title": "YuMi -- a Robot for You and Me",
+      "excerpt": "In order to be of maximum use, YuMi has flexible hands, a parts-feeding system, camera-based part location sensors, and state-of-the-art robot control. The robot is capable ... We designed YuMi with that in mind.\" YuMi was designed to collaborate side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/yumi-robot-you-and-me",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/yumi-robot-you-and-me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/ABB-YuMi-%281%29.jpg",
+          "width": 500,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-the-best-robot-vacuums-for-hardwood-floors.md",
+      "title": "The best robot vacuums for hardwood floors",
+      "excerpt": "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/eufy-robovac-1-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
+      "publishedDateTime": "2021-08-10T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-xiaomi-cyberdog-is-an-unexpectedly-affordable-open-source-robot-puppy.md",
       "title": "Xiaomi CyberDog is an unexpectedly affordable open-source robot puppy",
       "excerpt": "Xiaomi is getting in on the robot business, with the new Xiaomi CyberDog revealed to take on Boston Dynamics but at a fraction of the cost. Announced today alongside the Xiaomi Mix 4 smartphone,",
@@ -1001,330 +1324,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-university-of-maryland-creates-robot-that-beats-video-games-save-lives-in-surgeries.md",
-      "title": "University of Maryland creates robot that beats video games, save lives in surgeries",
-      "excerpt": "Engineering students developed a robot hand that plays the first level in Super Mario Brothers. The next level will be helping in medical surgeries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wusa9.com/article/news/health/university-of-maryland-robot-play-super-mario/65-ba94abe9-e83e-4c2e-9f29-4da22233575b",
-      "originalUrl": "https://www.wusa9.com/article/news/health/university-of-maryland-robot-play-super-mario/65-ba94abe9-e83e-4c2e-9f29-4da22233575b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wusa9.com/assets/WUSA/images/bc8004f6-edc2-4049-bab3-e01698b0720f/bc8004f6-edc2-4049-bab3-e01698b0720f_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wusa9.com/amp/article/news/health/university-of-maryland-robot-play-super-mario/65-ba94abe9-e83e-4c2e-9f29-4da22233575b",
-      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/health/university-of-maryland-robot-play-super-mario/65-ba94abe9-e83e-4c2e-9f29-4da22233575b",
-      "publishedDateTime": "2021-08-05T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUSA9",
-        "domain": "wusa9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-answer-to-australias-national-security-needs-robot-tanks.md",
-      "title": "The Answer To Australia's National Security Needs? Robot Tanks",
-      "excerpt": "Greater reliance on autonomous systems and unmanned platforms makes a great deal of sense, given the small size of our military,” says Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/23607818975_fae8f8a6d6_o%20%281%29.jpg",
-          "width": 1200,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-artificial-intelligence-ai-innovation-summit.md",
-      "title": "Artificial Intelligence (AI) Innovation Summit",
-      "excerpt": "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
-      "originalUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eventbrite.com.au",
-        "domain": "eventbrite.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
-      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
-      "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "originalUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-04T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
-      "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
-      "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg",
-          "width": 872,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "publishedDateTime": "2021-08-04T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-amazon-is-having-a-one-day-sale-on-yeedi-robot-vacs-get-one-for-just-99.md",
-      "title": "Amazon is having a one-day sale on Yeedi robot vacs —get one for just $99",
-      "excerpt": "Well, Amazon is granting your wish with its epic Deal of the Day on Yeedi robot vacuums, which are up to 55 percent off today. And you have several models to choose from! Yeedi robot vacuums use smart home technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
-      "originalUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/U4Ofc49TIDjKeeA6jRkYhg--~B/aD02NTA7dz0xMTgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/d3bceb59d4d334b54e306637b598cfd4",
-          "width": 1180,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-mexican-artificial-intelligence-startups-with-a-global-profile.md",
-      "title": "Mexican Artificial Intelligence startups with a global profile",
-      "excerpt": "Kueski, Intellion, Kuona Analytics, Pro Indie Music, BrandMe, Homie, Bayonet, and SoldAI are transforming the way we work with Big Data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379314",
-      "originalUrl": "https://www.entrepreneur.com/article/379314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628027484-startups.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379314",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379314",
-      "publishedDateTime": "2021-08-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

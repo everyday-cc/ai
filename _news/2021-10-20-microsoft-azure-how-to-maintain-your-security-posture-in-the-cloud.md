@@ -7,7 +7,7 @@ originalUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-yo
 webUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -26,34 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Udacity's Machine Learning Engineer With Microsoft Azure Capstone Project"
-    excerpt: "For Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree capstone project we had to choose a dataset, task, and metric for a machine learning problem, do training with both Azure Hyperdrive and AutoML,"
-    publishedDateTime: 2021-10-16T19:10:00Z
-    webUrl: "https://github.com/mathisme/UdacityAzureMLCapstone"
+  - title: "Start training for a cloud computing career as a Microsoft Azure specialist"
+    excerpt: "You don't have to go back to school or spend a fortune to acquire the skills you need to break into the tech industry. You can take self-paced courses, even if you're working full-time."
+    publishedDateTime: 2021-10-21T19:23:00Z
+    webUrl: "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 70
-    images:
-      - url: "https://opengraph.githubassets.com/07067ccb903ea1e4c4b5028635d2ec2260367983acb4e5c2365e768a172fea3d/mathisme/UdacityAzureMLCapstone"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM Brings Cloud-Based Spectrum Storage to Microsoft Azure"
-    excerpt: "Spectrum Virtualize for Public Cloud offers the same storage features and functionalities that are found in on-premises data centers."
-    publishedDateTime: 2021-10-15T13:00:00Z
-    webUrl: "https://www.enterprisestorageforum.com/news/ibm-brings-cloud-based-spectrum-storage-to-microsoft-azure/"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
-    quality: 54
-    images:
-      - url: "https://www.enterprisestorageforum.com/wp-content/uploads/2021/10/IBM-FlashSystems-1.png"
-        width: 884
-        height: 637
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 77
   - title: "Skytap Certified to Run SAP NetWeaver Workloads Natively in Microsoft Azure"
     excerpt: "SAP Cloud Infrastructure and Operations certification creates a path to the cloud for tens of thousands of organizations running SAP NetWeaver applications on AIX on-premisesSEATTLE--(BUSINESS WIRE)--Today Skytap,"
     publishedDateTime: 2021-10-19T13:00:00Z
@@ -68,15 +49,47 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "VirtaMove Launches on Microsoft Azure Marketplace"
-    excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"
-    publishedDateTime: 2021-10-19T09:30:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8375210/virtamove-launches-on-microsoft-azure-marketplace"
+  - title: "In Machine Teaching We Trust, Microsoft"
+    excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
+    publishedDateTime: 2021-10-22T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/in-machine-teaching-we-trust-microsoft/"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/The-Journey-of-Machine-Teaching-at-Microsoft-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "Microsoft launches AI Innovate to empower AI startups in India"
+    excerpt: "Microsoft has introduced a startup program called AI Innovate, as well as an AI Playbook, to ensure that start-ups in the country get exposure to reliable AI resources, collaborations, as well as assistance to use AI at scale."
+    publishedDateTime: 2021-10-21T15:33:00Z
+    webUrl: "https://techstory.in/microsoft-launches-ai-innovate-to-empower-ai-startups-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+  - title: "VirtaMove Launches on Microsoft Azure Marketplace"
+    excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"
+    publishedDateTime: 2021-10-19T14:32:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-2a17f423a0fd982fd5be4112832a22bc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 34
+  - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
+    excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"
+    publishedDateTime: 2021-10-20T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/group-elite-expands-delivery-of-verint-workforce-engagement-on-microsoft-azure/article_47f85cf7-bcaf-58f1-8752-f3405e90f42d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
 
 secured: "zeeD3wnhgQN0Deqywph7HTDjx8g3DUmPaIKtgCQVVVLfZZT9Jy5twfyzQR43KlnFt+98ORkGpFtu/FdRQt4KJhP/xK6C8dnLZQWiFF7DOIAWzRLl3PNkE6bA2f5cbEF50swuTqgH/DuOY0B25LjRAZi1fh/aGsEhuXLOlHrhVP8dSrojaEmSMPL4M7WlUHrjMRUCKm0MNzzi9d4OO277i+6HYkUBVEBme7EIpsOCfVtr3FCs9ibslOylg1fwUd3BO5aRQga57tAK8vWGMGUz3HMb0V+Xxd9k6ze2A4yqi7jk7zqZWdsRL2na0IhwdfpF7CTHs+Hq+sPJIwBfRoOwXDsMD4VxCSUyrn0u+FO041A=;enx0bUMy3xX4+YYTJszZZQ=="
 ---

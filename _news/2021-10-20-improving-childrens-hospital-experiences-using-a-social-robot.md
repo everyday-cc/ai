@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T16:55:00Z
 originalUrl: "https://www.news-medical.net/news/20211020/Improving-childrene28099s-hospital-experiences-using-a-social-robot.aspx"
 webUrl: "https://www.news-medical.net/news/20211020/Improving-childrene28099s-hospital-experiences-using-a-social-robot.aspx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: News Medical

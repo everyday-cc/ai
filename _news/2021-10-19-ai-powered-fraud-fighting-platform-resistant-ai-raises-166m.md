@@ -32,6 +32,22 @@ images:
 related:
   - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
     excerpt: "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16."
+    publishedDateTime: 2021-10-20T08:00:00Z
+    webUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/"
+    ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 189
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
+        width: 1024
+        height: 648
+        isCached: true
+  - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
+    excerpt: "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16."
     publishedDateTime: 2021-10-19T13:45:00Z
     webUrl: "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/"
     ampWebUrl: "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
@@ -46,20 +62,24 @@ related:
         width: 1024
         height: 648
         isCached: true
-  - title: "FinTech trends for Year 2022"
-    excerpt: "Some of the top FinTech trends that are going to manifest themselves in Year 2020 are: 1st Trend: Accelerated adoption of Voice Technologies: AI-powered voice technology started with the weather forecast or play a song."
-    publishedDateTime: 2021-10-16T05:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-trends-year-2022-pankaj-verma"
+  - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
+    excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"
+    publishedDateTime: 2021-10-19T18:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fraud-fighting-platform-resistant-ai-raises-$16-6m-10641399"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEvvuUMsqnS3A/article-cover_image-shrink_600_2000/0/1634362246221?e=1639612800&v=beta&t=1ckSnnLwDOlkJaNaAHVOrttWeoY5Jm4lRtCGQOYgWas"
-        width: 1276
-        height: 542
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Resistance AI, an SaaS enabled AI and Machine Learning Security Firm, Finalizes $16.6M Series A"
+    excerpt: "Resistant AI, a software-as-a-service (SaaS)-enabled AI and machine learning security firm that aims to protect automated financial systems from manipulation, fraudulent activities and financial crime,"
+    publishedDateTime: 2021-10-21T21:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/181942-resistance-ai-an-saas-enabled-ai-and-machine-learning-security-firm-finalizes-16-6m-series-a/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
   - title: "Event Recap: FinTech & InsurTech Live"
     excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
     publishedDateTime: 2021-10-18T11:10:00Z
@@ -74,6 +94,42 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Anti-fraud startup Resistant AI raises $16.6 million"
+    excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
+    publishedDateTime: 2021-10-20T14:26:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39063/anti-fraud-startup-resistant-ai-raises-166-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+  - title: "Latest Trends in The Fintech Industry and What to Watch For"
+    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
+    publishedDateTime: 2021-10-21T21:17:00Z
+    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
+    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
+    publishedDateTime: 2021-10-21T19:45:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 4
+  - title: "Resistant AI Announces $16.6 Million in Series A Funding from GV and Index Ventures to Protect Financial Automation from Fraud and Financial Crime"
+    excerpt: "Artificial intelligence security company raises Series A funding ● Resistant AI responds to increasing vulnerabilities in financial services caused by widespread automation and algorithm-driven compliance and security ● The founding team’s previous startup,"
+    publishedDateTime: 2021-10-20T15:23:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/resistant-ai-announces-166-million-series-funding-gv-and-index-ventures"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
 
 secured: "CoCFgm8oOhOBQu1f6gUpgXR1yx7QfLdxpw54rhg/EKlVYBNRw8PD6bdO/GpZqZB5ge7ZiIe3z9iKTaJxhzQQamf6UzAkszerIHuuKDDxPzdOT3rRGr3rVGsw0HX8175GdYchA0+wipZW0LkIsFbagHkOKt0vJTaFyA4GFHSE5vSA8m6kH7RvbrcJu1gW/I7Zv/5PFG/RSBCs7IfbkYo0iw/j3Ku3CfT21/m4NROmA2txqjnOEA/8jDvPGXpLeh9fVO8m4nUI6Ycc7WBz+zfnv9QCnBOFcnoPavKCC9UlkKD5aePUUYgGgLo3ADoC8Dmd3SL/mCNpPc1Afc19mrh50n9mGRLrggbDw2eWK6W3/ou1N5KWqbFCXH7Wz36i5MiaP7bx746VS7LaGEpOrTAAp5TCPPcFBEwNhOPRTauWCwgXvcJIVlxDwoE3S43F0t4WhbG0JmR6qoAIkhCzfIaqPsoCK/4b57B93a6jd/8Wmh+YzNV8ewy1AzjdiZr7ahLsyM8sXViv/JUTS1b9NaGfPw==;6pTYi+GPitPo1MvUROy9Tw=="
 ---

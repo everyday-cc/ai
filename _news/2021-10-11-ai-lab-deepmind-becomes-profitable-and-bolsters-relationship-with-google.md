@@ -1,110 +1,24 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Register now! DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence, has finally become profitable, according to the company’s latest financial report."
-publishedDateTime: 2021-10-10T22:16:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+publishedDateTime: 2021-10-11T13:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
 type: article
-quality: 103
-heat: 153
-published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Google AI
   - AI
-  - AI in Autos
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
-
-related:
-  - title: "DeepMind is developing one algorithm to rule them all"
-    excerpt: "Deep learning powers some of the most iconic AI apps, but deep learning models need retraining to be applied in new domains."
-    publishedDateTime: 2021-10-13T04:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/"
-    ampWebUrl: "https://venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/deepmind-is-developing-one-algorithm-to-rule-them-all/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132-e1633972402494.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Does DeepMind AI future proof Alphabet’s share price?"
-    excerpt: "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head."
-    publishedDateTime: 2021-10-13T12:45:00Z
-    webUrl: "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 58
-    images:
-      - url: "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
-  - title: "All Hail The King of Reinforcement Learning, DeepMind"
-    excerpt: "DeepMind is perhaps amongst the only few players in the space to have mastered the art of reinforcement learning – a computational technique that had received surprisingly little or no attention in the advancement of artificial intelligence – an idea of a learning system that learns through a process of trial and error."
-    publishedDateTime: 2021-10-14T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/all-hail-the-king-of-reinforcement-learning-deepmind/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Google DeepMind AI: Here's how it's better than regular weather forecast"
-    excerpt: "Google’s DeepMind AI has a brand new way to predict weather forecasts with the highest accuracy. Get ready to say goodbye to the regula"
-    publishedDateTime: 2021-10-11T14:04:00Z
-    webUrl: "https://menafn.com/1102951102/Google-DeepMind-AI-Heres-how-its-better-than-regular-weather-forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/updates/pr/2021-10/11/B_c2127image_story.jpeg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Google’s DeepMind Faces Legal Action Over Data Misuse"
-    excerpt: "DeepMind admits that it concentrated on building tools for clinicians, rather than thinking about protecting the privacy and other needs of patients."
-    publishedDateTime: 2021-10-12T13:20:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/googles-deepmind-faces-legal-action-over-data-misuse-5912.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 39
-    images:
-      - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(3).png"
-        width: 300
-        height: 300
-        isCached: true
-
-secured: "PeCyeps2gPculXrBg8CNZ61yV7Zjo9Py2GQFPykuHOPujUmwE5B35uk5rFtsa3VcZdHF/EwWPC77A45uHRLyCezGG2mr6Ic/82UfBDumyubi7TJb39p09Vm+Z/XDNsMIsgQHO+ufa/d8VYZ3Itxl5gbCN4Fjcm8FBtD5JmAtLxiMBCWz7LGczvgVs18yijSkZoIDzEXFWSN4DQUXKHYI2UVzcXItakrrpb4wlAjOjgc2XoZ9Ynwxr9oBJc5Ss9vp0L77jWB6vZjdUX4JfMZ9u//OnlKRp1dZ0OZrb706IQyRkZouPKnct5C1pnpCHHeOFdkkyLxw/qqJ/hOwnCkfbpjPMjshzeRcWRsK001vAv4=;6FnnRqVBTeXgeBY+KukcuA=="
+secured: "Y6LvsWBa3Hg52L+/oGBMYXe1kHDd/5Yz3J6LHWOFqEhaE77SrPEieE3ylTuFdngrJaRjhQ/DagkuQc9FyvKCeXJbRE8F7qMw+nyNfP/QaaKz1IRaPID3+nh9C5e5JBJjCOJ1asg/bYs8eERZH6hvXEhmorKX2OdtqiMSVLRs9T5Ip7JtG/bObbCxywCoPEQeNuQrcaisUR11kdwKTVCXom700b5fp8ASldtIQZ3GLJmlKKVXkT5IKRfr/N7Gcz4KjB5WAF1dC9aPcOVoyVWqVDxDi8PC1bErI3bX87FuQvb+4jYGBR5WlMeoUZpswUw+4byCpfRDhGm8k+OfeiM2yhIWNJTtiHXopiwjIrT8d+I=;YkBYYowo2wNHntzIDXcAmw=="
 ---
 

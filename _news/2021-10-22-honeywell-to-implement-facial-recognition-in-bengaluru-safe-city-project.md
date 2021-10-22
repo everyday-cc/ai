@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T17:53:00Z
 originalUrl: "https://www.biometricupdate.com/202110/honeywell-to-implement-facial-recognition-in-bengaluru-safe-city-project"
 webUrl: "https://www.biometricupdate.com/202110/honeywell-to-implement-facial-recognition-in-bengaluru-safe-city-project"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Biometric Companies

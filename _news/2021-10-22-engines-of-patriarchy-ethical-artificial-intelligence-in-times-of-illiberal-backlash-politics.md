@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-21T21:35:00Z
 originalUrl: "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/engines-of-patriarchy-ethical-artificial-intelligence-in-times-of-illiberal-backlash-politics/1BAA853A91E01A55C97F7EBC1AE91323"
 webUrl: "https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/engines-of-patriarchy-ethical-artificial-intelligence-in-times-of-illiberal-backlash-politics/1BAA853A91E01A55C97F7EBC1AE91323"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Cambridge University Press

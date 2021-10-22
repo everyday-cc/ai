@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
+      "title": "IBM Watson Set Up New AI and Automations",
+      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
+      "sourceUrl": null,
+      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
+          "width": 610,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NETGEAR",
+        "domain": "smechannels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-dish-selects-ibms-ai-powered-automation-and-network-orchestration-software-and-services-for-new-cloud-native-5g-network.md",
       "title": "DISH Selects IBM's AI-Powered Automation and Network Orchestration Software and Services for New Cloud-Native 5G Network",
       "excerpt": "applying advanced AI with IBM Watson and orchestration capabilities to help optimize network operations and performance. As a result, DISH can accelerate time to market for new innovative ...",
@@ -1300,58 +1343,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-sd-times-open-source-project-of-the-week-codeflare.md",
-      "title": "SD Times Open-Source Project of the Week: CodeFlare",
-      "excerpt": "CodeFlare is IBM’s open-source framework that simplifies the integration and scaling of big data and AI workflows onto the ... research at I.B.M.’s T.J. Watson Research Center, respectively ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
-      "originalUrl": "https://sdtimes.com/ai/sd-times-open-source-project-of-the-week-codeflare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-13-at-8.04.43-AM.png",
-          "width": 1744,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

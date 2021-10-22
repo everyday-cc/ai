@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-18T14:43:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-utilities-wastewater-artificial-intelligence-d5c993f70cc5b47293d5291d72e80c7f"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Associated Press

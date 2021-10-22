@@ -2,6 +2,370 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-04-australia-debuts-orwellian-new-app-using-facial-recognition-geolocation-to-enforce-quarantine.md",
+      "title": "Australia debuts 'Orwellian' new app using facial recognition, geolocation to enforce quarantine",
+      "excerpt": "The government of South Australia has launched an \"Orwellian\" new COVID-19 quarantine app, complete with facial recognition and geolocation, to enforce 14-day quarantines for travel. The policy actually represents an improvement over the current pandemic restrictions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
+      "originalUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02834334-5d94-481f-9107-cf7509528d96/aa6b228a-b84e-4c99-931b-60e018cf0274/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/australia-debuts-new-orwellian-app-using-facial-recognition-geolocation-to-enforce-quarantine.amp",
+      "publishedDateTime": "2021-09-03T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-parents-lawsuit-over-lockport-facial-recognition-system-ends.md",
+      "title": "Parents' lawsuit over Lockport facial recognition system ends",
+      "excerpt": "A judge said the approval was invalidated when former Gov. Andrew M. Cuomo signed a law in December 2020 banning the use of facial recognition technology in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "originalUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/45/f4555f2d-8ce6-550b-82e9-417e781ab8b7/5ef133e01db3f.image.jpg?resize=1024%2C759",
+          "width": 1024,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "cdnAmpWebUrl": "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/news/local/education/parents-lawsuit-over-lockport-facial-recognition-system-ends/article_4092d242-0cd2-11ec-8cf3-cf3c616d941f.amp.html",
+      "publishedDateTime": "2021-09-03T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-judge-ends-nyclu-suit-against-school-facial-recognition.md",
+      "title": "Judge Ends NYCLU Suit Against School Facial Recognition",
+      "excerpt": "(TNS) — A lawsuit brought by New York Civil Liberties Union last year to prevent Lockport City School District from operating its facial recognition-capable camera surveillance system was made moot by a state judge this week. In June 2020, NYCLU filed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
+      "originalUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ba59e6e/2147483647/strip/true/crop/770x402+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F14%2F03%2F506a237091747e4114b6347d85d7%2Ffacial-21.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/judge-ends-nyclu-suit-against-school-facial-recognition?_amp=true",
+      "publishedDateTime": "2021-09-03T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers.md",
+      "title": "Rank One to campaign for ethical facial recognition commitment from providers",
+      "excerpt": "Rank One Computing declares its intention to take a strong stand on ethics in facial recognition use, in coordination with the Security Industry Association.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
+      "originalUrl": "https://www.biometricupdate.com/202109/rank-one-to-campaign-for-ethical-facial-recognition-commitment-from-providers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg",
+          "width": 1800,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-03T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-04-bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google.md",
+      "title": "Bias persists in face detection systems from Amazon, Microsoft, and Google",
+      "excerpt": "A new study from the University of Maryland finds evidence of bias in face detection algorithms from Google, Microsoft, and Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/",
+      "originalUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/03/bias-persists-in-face-detection-systems-from-amazon-microsoft-and-google/amp/",
+      "publishedDateTime": "2021-09-03T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-object-recognition-imaging-systems-market-2021-driving-factors-2026-market-analysis-investment-feasibility-and-trends.md",
+      "title": "Object Recognition Imaging Systems Market 2021: Driving Factors, 2026 Market Analysis, Investment Feasibility and Trends",
+      "excerpt": "Sep 02, 2021 (The Expresswire) -- Object Recognition Imaging Systems Market 2021 report delivers the latest data about the market. report include, size, manufacture consumption, market value ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2021-driving-factors-2026-market-analysis-investment-feasibility-and-trends-2021-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2021-driving-factors-2026-market-analysis-investment-feasibility-and-trends-2021-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-susan-bathalon-participating-in-an-astm-task-group-teleconference-on-computer-vision-based-drowning-detection-systems-for-residential-swimming.md",
+      "title": "Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools",
+      "excerpt": "Add to Calendar 09/03/2021 2:30 pm 09/03/2021 3:30 pm America/New_York Susan Bathalon Participating in an ASTM Task group Teleconference on Computer Vision-Based Drowning Detection Systems for Residential Swimming Pools Susan Bathalon from the Office of Hazard Identification and Reduction (EXHR) will participate in an ASTM technology task group teleconference to discuss the drowning sensor detection systems in residential swimming pools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
+      "originalUrl": "https://www.cpsc.gov/zhT-CN/Newsroom/Public-Calendar/2021-09-03T143000/Susan-Bathalon-Participating-in-an-ASTM-Task-group-Teleconference-on-Computer-Vision-Based-Drowning-Detection-Systems-for-Residential-Swimming-Pools?language=id",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Protection Safety Commission",
+        "domain": "cpsc.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-03-mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr.md",
+      "title": "Mumbai: 470 CCTV cameras with face recognition to help fight crime on WR",
+      "excerpt": "The CCTV cameras on the Western Railway will now be used to fight crime too. 2,600 cameras have been installed on the line. Of these, 470 are equipped with facial recognition technology. The Mumbai police,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-09/3a83ca25-dfe1-4fa8-992e-b2ae2191686d/DADAR_15AUG21_BLSONI_01.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/mumbai/mumbai-470-cctv-cameras-with-face-recognition-to-help-fight-crime-on-wr",
+      "publishedDateTime": "2021-09-02T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-02-feds-are-increasing-use-of-facial-recognition-systems-despite-calls-for-a-moratorium.md",
       "title": "Feds are increasing use of facial recognition systems – despite calls for a moratorium",
       "excerpt": "Despite growing opposition, the U.S. government is on track to increase its use of controversial facial recognition technology. The report comes more than a year after the U.S. Technology Policy ...",
@@ -1055,388 +1419,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-south-america-ai-in-computer-vision-market-advancements-with-373-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation.md",
-      "title": "South America AI in Computer Vision Market Advancements with 37.3% of CAGR by 2027 – Intel Corporation,Microsoft Corporation,Nvidia Corporation",
-      "excerpt": "The AI in computer vision market in SAM is expected to grow from US$ 201.59 million in 2019 to US$ 2,443.57 million by 2027; it is estimated to grow at a CAGR of 37.3% from 2020 to 2027. A report added on the Business Market Insights, titled “South ...",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
-      "originalUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/south-america-ai-in-computer-vision-market-advancements-with-37-3-of-cagr-by-2027-intel-corporationmicrosoft-corporationnvidia-corporation/?amp=1",
-      "publishedDateTime": "2021-08-25T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies.md",
-      "title": "UniSA researchers develop AI facial recognition tech to monitor premature babies",
-      "excerpt": "University of South Australia boasts the AI-based system it has developed to remotely monitor the vital signs of babies rival the accuracy of ECG.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
-      "originalUrl": "https://www.zdnet.com/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/25/32645fe4-b490-47ff-b6fb-afe88e18ae83/jimaging-07-00122-g004.jpg",
-          "width": 3825,
-          "height": 1528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unisa-researchers-develop-ai-facial-recognition-tech-to-monitor-premature-babies/",
-      "publishedDateTime": "2021-08-25T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-25-google-nest-doorbell-review-catching-up-to-the-competition.md",
-      "title": "Google Nest Doorbell review: Catching up to the competition",
-      "excerpt": "Our Google Nest Doorbell review will tell you why this fine smart doorbell is more about catching up to competitors than anything else.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
-      "originalUrl": "https://www.androidauthority.com/google-nest-doorbell-review-2738855/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/Google-Nest-Doorbell-Review-Hero-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-nest-doorbell-review-2738855/",
-      "publishedDateTime": "2021-08-24T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-nest-doorbell-battery-review.md",
-      "title": "Nest Doorbell (battery) Review",
-      "excerpt": "Beyond the smart object recognition, you get a catch-all option to record all motion. That’s good for security, but if you’re running your doorbell on battery mode it will reduce battery life ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.trustedreviews.com/reviews/nest-doorbell-battery",
-      "originalUrl": "https://www.trustedreviews.com/reviews/nest-doorbell-battery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/08/Nest-Doorbell-battery-1.jpg",
-          "width": 1920,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-24T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trusted Reviews",
-        "domain": "trustedreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-gone-fully-google.md",
-      "title": "The New Nest Doorbell Cam Is a Reminder That Nest Has Gone Fully Google",
-      "excerpt": "Google's cheaper doorbell security camera offers a lot for less, but you make some sacrifices for those savings.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
-      "originalUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/60c0d9f8efd6d8eba4fc1bdea13ead40.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g-1847543113/amp",
-      "publishedDateTime": "2021-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-the-use-of-facial-recognition-by-the-delhi-police-could-make-systemic-biases-against-muslims-worse.md",
-      "title": "The use of facial recognition by the Delhi police could make systemic biases against Muslims worse",
-      "excerpt": "The Delhi police have been equipping their control room vehicles with facial recognition systems, and have already made at least 42 arrests with the help of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/",
-      "originalUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/2014-08-14T120000Z_1489987094_GM1EA8E1EM401_RTRMADP_3_INDIA-ANNIVERSARY-1-e1629695916520.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/2050652/delhi-polices-use-of-facial-recognition-could-hurt-muslims-more/amp/",
-      "publishedDateTime": "2021-08-23T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-amazon-rekognition-custom-labels-demo.md",
-      "title": "Amazon Rekognition Custom Labels Demo",
-      "excerpt": "Amazon Rekognition Custom Labels is a feature of Amazon Rekognition that enables customers to build their own specialized machine learning (ML) based image analysis capabilities to detect unique objects and scenes integral to their specific use case.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-samples/amazon-rekognition-custom-labels-demo",
-      "originalUrl": "https://github.com/aws-samples/amazon-rekognition-custom-labels-demo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/b7ba7a36361e40fe528fb8d001399c35d8a15ea7977ed1005c4dbfd47669526c/aws-samples/amazon-rekognition-custom-labels-demo",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-24-ai-roi-computer-vision.md",
-      "title": "AI ROI: Computer Vision",
-      "excerpt": "Computer vision is now a reality. Get immediate business value like improved quality and reduced losses from the practical AI deployment platform, Chooch AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
-      "originalUrl": "https://www.infoworld.com/resources/223309/ai-roi-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

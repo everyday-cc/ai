@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T10:01:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20211020sf46574/flex-logix-announces-production-availability-of-inferx-x1-pcie-boards-for-edge-ai-systems"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20211020sf46574/flex-logix-announces-production-availability-of-inferx-x1-pcie-boards-for-edge-ai-systems"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Morningstar, Inc.

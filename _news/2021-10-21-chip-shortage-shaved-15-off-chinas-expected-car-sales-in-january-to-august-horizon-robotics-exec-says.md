@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T20:35:00Z
 originalUrl: "https://www.yicaiglobal.com/news/carmakers-sold-24-million-fewer-vehicles-in-china-jan-aug-amid-chip-shortage-expert-says"
 webUrl: "https://www.yicaiglobal.com/news/carmakers-sold-24-million-fewer-vehicles-in-china-jan-aug-amid-chip-shortage-expert-says"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Yicai Global

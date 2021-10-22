@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "BU artificial intelligence symposium explores intersection between AI and public health"
+    excerpt: "Mitigating Disparities, Biases and Misinformation” — was an opportunity for scholars across a myriad of disciplines to discuss this critical intersection between healthcare and. The symposium was held over Zoom,"
+    publishedDateTime: 2021-10-20T05:11:00Z
+    webUrl: "https://dailyfreepress.com/2021/10/20/bu-artificial-intelligence-symposium-explores-intersection-between-ai-and-public-health/"
+    type: article
+    provider:
+      name: The Daily Free Press
+      domain: dailyfreepress.com
+    quality: 26
 
 secured: "OBdE0yDP/qUxgxpL8BZ4f9rLhNuRkahFo5l1LRHEJ0K7rC1UZmYdkSFliwMHg96WheZc+QEbOhG5XNeg1mN/D1nrPusTpQ87C7CKaB/toWhUYn7DJc/vWjloky0ZGmv3jN6oDrQoAADYk3RLMIKfcWdx7+aQELGUA83e/h9KLd0xeAhp9YhBIs6hKa8BR+R6VRiPKLczC0M55JaXiTPDhEXa5g04lATtSNbPMhkRCI/E4ZyyVnznJ5lKYe8XLSSGqWVpRObyilL8Oc0IwcPZ+iXQihmnGGV98r6UdxOwBZ4gbhq0cFGKE4cUTTmMoN98paBjOu9/pShFO8Tq+7z4sVp8OKbia/knD9yuCCwNpWA=;WRVisy9m8H0hNlja5HaEuw=="
 ---

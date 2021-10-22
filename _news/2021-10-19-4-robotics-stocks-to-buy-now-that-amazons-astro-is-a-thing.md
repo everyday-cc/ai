@@ -34,28 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Best Stocks Moving Today? 4 Biotech Stocks For Your List"
-    excerpt: "Biotech Stocks To Watch In The Stock Market Today. As the first week of the third-quarter earnings season comes to a close, biotech stocks continue to gain traction in the stock"
-    publishedDateTime: 2021-10-15T14:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-moving-today-4-biotech-stocks-for-your-list-2021-10-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-moving-today-4-biotech-stocks-for-your-list-2021-10-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-moving-today-4-biotech-stocks-for-your-list-2021-10-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "What To Invest In Right Now? 4 Fintech Stocks For Your Watchlist"
-    excerpt: "If you believe so, it may not be the worst idea to look at fintech stocks right now. With that in mind, here are four top names in the stock market today. First, let us look at the popular fintech company,"
-    publishedDateTime: 2021-10-16T18:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-to-invest-in-right-now-4-fintech-stocks-for-your-watchlist-2021-10-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "ahJ8z0iSa1GYqS8kERCs5W5nz2InDAJoPwwprXRwC4YbSE59sC4TfV1gUfKkTrwYlcylmhKHRoKuLk1/+iqLBEzWevL9cwqzV4peC8Q9Vqv+JLS3NADRM8XA6kvJK8Ak7LLAtfCD5O45NeBPI8Ei011cbMw31Hy1100Mu5/KjtwjNC/ORq9l0fuIA8YFLkE5TIyjJBwgT5QywbzV5a5wa+mvWCGtX+mxq+LJAup4bM9laCdmShfjZC4YtCAOIGgulzHVEQMpIRhiYTkdhpVnfntDiTEVb6jxnUsZxh8rewkgMdmupRO3KmGsmQ6/Ip/8b/mWUsliucfnuZN+f23XzJsa+XwoOC1lKc1rAGtyA10rfZ1JxNQCeZ7XASADgl+eaDuqx3eTDGC+YW0T+kMpLGXFmLEIaeWfEBYDwN3MUtkTizA3NoNh177SRykUgdqeFez6bzTZOMtNfeIqrUylt9XD+SqQpRAYjDhrzieGQ7tZe8HzUgyxuXYA7NaqKR91Frt6ylr2vjr9YjYgEmNPVg==;i5p1TNBV3FS5AWwtor5Z7A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T12:49:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-in-diabetes-management-market-import-export-details-2021-28-glooko-google/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-in-diabetes-management-market-import-export-details-2021-28-glooko-google/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: manometcurrent.com

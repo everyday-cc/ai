@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-3m-names-americas-top-young-scientist-2021-14-/2021/10/20/9473912.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-3m-names-americas-top-young-scientist-2021-14-/2021/10/20/9473912.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

@@ -6,6 +6,9 @@ publishedDateTime: 2021-10-20T14:13:00Z
 originalUrl: "https://www.thedrum.com/opinion/2021/10/20/why-china-s-blind-box-economy-good-bet-brands"
 webUrl: "https://www.thedrum.com/opinion/2021/10/20/why-china-s-blind-box-economy-good-bet-brands"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Drum
