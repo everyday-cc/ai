@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's 'full self-driving' rolls back its privacy protection of trip videos"
+    excerpt: "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy."
+    publishedDateTime: 2021-10-21T11:13:00Z
+    webUrl: "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211020111839-tesla-autopilot-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
     excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
     publishedDateTime: 2021-10-22T10:13:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2021/10/GettyImages-1311708478-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
-    publishedDateTime: 2021-10-18T12:38:00Z
-    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 23
-    images:
-      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "T0G45S1hCccix7bP2BfsO6Ga3UWzDmxOmNsU6g6mMvHFna++89T8TGceW3WSJTeyHMYJNUZW/ODyRPvwGQJwxLLqiXUE3OZ8WNIR06kIMPkTbkx1x1/4WhuElI4dj4gifW0wZWoIZQ6+oaNF0SnhQBgNcfekjjs1UaQxRjpko/Ge7bwsbiQV1IdD2eKPOEOW2afcAe1VAph5CEobuErzdMsi/J4d8SxVd5VHYN/uTbOeFUisS1H2uDM1IiHw8P5goBatcA4kjQ113J/7qZtHBjlSOLcU4xqB9R/4IexqAZkjpWahwnwvk0YjdW6HADE+5rNoPSg8BElYhe3kB9lmJURoqjvmUZG/Yb7BToNRI0g=;nA/DOAoYMXkX27EOMWdeUw=="

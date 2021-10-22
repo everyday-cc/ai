@@ -26,7 +26,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 45
+    quality: 47
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Robots.jpg"
         width: 900

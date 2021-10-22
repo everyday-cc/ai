@@ -19,17 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "University of California to publish database of how it uses AI"
-    excerpt: "In an attempt to use AI ethically, the system says it will follow several recommendations of a new report, including publishing a new public database."
-    publishedDateTime: 2021-10-21T17:07:00Z
-    webUrl: "https://edscoop.com/university-california-ai-database/"
-    ampWebUrl: "https://edscoop.com/university-california-ai-database/?amp"
-    cdnAmpWebUrl: "https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/university-california-ai-database/?amp"
+  - title: "Climate modeller Terrafuse AI launches platform for Cali wildfire risk"
+    excerpt: "Terrafuse AI, a climate and weather risk forecasting tool developer, has launched a new platform for assessing and mitigating the growing property risk"
+    publishedDateTime: 2021-10-22T14:01:00Z
+    webUrl: "https://www.reinsurancene.ws/climate-modeller-terrafuse-ai-launches-platform-for-cali-wildfire-risk/"
     type: article
     provider:
-      name: edscoop.com
-      domain: edscoop.com
-    quality: 37
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 39
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/08/wildfire-2.jpg"
+        width: 640
+        height: 482
+        isCached: true
 
 secured: "cTK9fl4FJP7JdzzQ+JGr31Di7qxSfcW63alpYpCCPlxx9ycgSJv0+NhWV24igbYDGHZi7ut/DrcdfFdnUpw5DtLlwXdm/n4myAfd1wb1KQqQVbWbQQDcGLaB+uyVbgi7VEb6C5fm32nG82E/s+63/ajwb/Mm2Hgdm6onyWeToFHzMtjb9U1t6KoKV0hObIsjaHsj+hRhDvtHS2egutDeyOMMnL30CkXXrghYAp/hD1kG++iKP76xLM9FQKmXMGAS3GSHUhxvg+7Ti4BfvFZ4celxC55wfLk+9pAip6CudOMOMBCRZvGgV2DZxKE8SzjCNmvH4xa6WnmlehgAcVsmX2aqHs6xTgIYtLc7Hcf+n7dsQB/lEARrkhd3bDheFANE8W4IPK8+r0q6pGrn9XDENzK8sbD4inmK/1EEclSEwj2EAafYiQq6M40llti7TcmTZ2fzLMgPvipcNqaB62gJHFnbMwH11PXZGX1aeVg64jfzWrjcr2sQ732F//LeTWMYyPkoGcfsJOx3qDPAsGTaYQ==;ywmQXGkvPtvu9UpC3cPDHw=="
 ---

@@ -99,22 +99,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Facebook says AI will clean up the platform, but its own engineers have doubts"
-    excerpt: "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports"
-    publishedDateTime: 2021-10-17T22:59:00Z
-    webUrl: "https://www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt"
-    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-ai-will-clean-up-the-platform-engineers-doubt.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/75e5c173-7766-4958-9a1a-e27c156d73d1/d3c8c07b-01e8-4f8c-b82d-85a37d3c5dbb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tech Bytes: Apple unveils new products, Facebook AI removes hate posts, Moscow Face Pay system"
     excerpt: "Nearly 250 stations in Moscow’s subway system are now equipped with a facial recognition payment system. To sign up, riders need to submit a photo and connect payment accounts through an app. Privacy advocates probably think the system is going to be a ..."
     publishedDateTime: 2021-10-18T11:25:00Z

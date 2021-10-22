@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Audio and Video Chip Market 2021 Key Aspects of the Industry by Segments to 2027"
-    excerpt: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 offers a fresh take on the target industry and paradigmatic representation of the market size,"
-    publishedDateTime: 2021-10-17T21:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-key-aspects-of-the-industry-by-segments-to-2027-2021-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
   - title: "Global Artificial Intelligence Microscopy Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
     excerpt: "Global Artificial Intelligence Microscopy Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
     publishedDateTime: 2021-10-18T23:10:00Z
@@ -223,6 +214,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "drEhRocely2gXhxrETEXBCLVfD4aUXhVJFOnI3ttG9y7KLeeEcb+I4V6wdyVY74MlhlBMI1uRWx12w43IwmtZwHO/qtfUMCa94WDkr5IeQ2XGWV3OjNWwxHpWzOHCcPMeUObsjNj4zfkrwos7kMfTfQrYPHwSIjMRXWpJwfaz3kpTgLNV2FZ+SenWOLRgwLpAbyfrttKckLOgfdNmcALWlYZVMZsTCCCKSbHcNQBDbD8SNN25V7f4i0ySIJSMbliXade9g5oQSeRNBT30hADb3zRT0YzI8E0E6tpGWe21ykIY29ywODu5ow6XmaNnULL+zqdrUkEcGoni+VZuTv5fQMCzAsGuDszwePJUol9zvY=;FVci6EE2GcO1RHQ9cWEpvw=="
+secured: "GnLTLurnNO0NzPz1SpGWvpiM/1ODzmqLqYXu7UF/4jl2YqaMPeR0zlkZ9IUcMFH3kExsQFzfK/nkF5gksVSOxJlN7A65JseSWDKN+ajb537eJSzqb3epXIMmzRQy6OxcZCCsFCjyiqcwTpA6Xs4oZEa+Le45dhqTsbFJN2yRZKg9l8Hr7buNw8GHGNc1l3vcbk/G/g/yUQCZFdROOC03JpRIyuYtuYXgnxXG89iHbQPEIH0Kx7OdsUgGKkCxgWaU4ZBLoaXeWju2/sw8cAVd7QtwWnqCwfjVVOT3lhv3Z6WPKZ6qleXIQwjxXdtysqSGKzQfM+PIxA8aeUQvtW28eKkHqTMqYCociArVcKQOl/7/WeuHsq6RvpebNCCnCWxp20JoCdmNDSQEVO5LAQa7oHNooFJN+8rcyCFziI93tZSTE+u1id6ieEk/ZzRVbTOoLWR1PCg9xsTeuk2RoOnOJx2Rhj33XRivpA7bCX87VHE130EEGwvl3yNMdBYENcbkUJwYAuJpy4J4FyKcvr0Jsw==;WN+Iy0lBenl4NGIzuporTg=="
 ---
 

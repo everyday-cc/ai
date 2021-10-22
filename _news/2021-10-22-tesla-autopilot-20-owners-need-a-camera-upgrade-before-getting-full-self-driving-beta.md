@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
 type: article
 quality: 80
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's 'full self-driving' rolls back its privacy protection of trip videos"
+    excerpt: "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy."
+    publishedDateTime: 2021-10-21T11:13:00Z
+    webUrl: "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211020111839-tesla-autopilot-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Making clinicians worthy of medical AI: Lessons from Tesla and self-driving cars"
     excerpt: "Tesla is in the midst of conducting an unprecedented social experiment: testing drivers of its cars to see if they are safe enough operators to receive the company’s Full Self-Driving ... conversation around artificial intelligence tends to focus ..."
     publishedDateTime: 2021-10-21T08:46:00Z
@@ -59,21 +75,7 @@ related:
         width: 728
         height: 400
         isCached: true
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
-    publishedDateTime: 2021-10-18T12:38:00Z
-    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 23
-    images:
-      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
-secured: "ZkdB+vzSMsqpUAzpnv5jLmsrOyGHbaA58UQx6Zqf0G7qZRkPZh8oMplsTKIHrInQZKIp1yeksZXUFlG7I6btrQJXzKSfmgrs9tE0XtJnpiQKqw+9GbohamCYKtxF8HxO97OosLg2MHRMsIrN8Ro5sgdPMdzskPdty7WELngJ54P3LVoxdr5UL85j8IbKchUi8lRh5Pfqmhr3XtGPSII0OdaFi9LCFeTxL4rjGl+TkVrkXoDldCHkZnR4bvuvTnQgMkm6Imnbf71YfsyZ3f7HC3iTjccny9OKqJCulnz8hwv7+uLzM0GfMI60Jk/8BM2X9Fo0Z6bw5Ub9D+Ek2HCm39Cz2sNXorPqXCARyGjiVbw=;XXTWl1y6Y2fWuFL0YqJ5cQ=="
+secured: "jwXx8EjiUXIGhQJBqymOoeIAY75ZPrPw89sMfz8492wMv9BncU5/EGXUnQ77cJNE8e5Zsea+zpQ/iTQ10XFv9vTC6QJoBa/fkmEjbKxyOuXxlR2TVGShHbCRNRRPPrsVMv0QBOtCBsjImtr5xt5vHfckULGZ1FXplSqIWIhrDhhRVfSM66MD++h/GEHotjOfKB/VqF7qhDEv1fkc4xRJnitVOVzbkOqoPEQ+SkJGFDL+wQ9CzqVw1vyX2HPZfkRZwXheNva1SBQtWAOVXRjUsDlZ0XhXSFehDFdFNxdotRagGjQklea0q17sQ2PVwC5yYhReQwA74uZY99xzuFbiOdkuoZNAKxiVDPAk+1CrY6IOGwu+EflTzL1U1kySEVix25J5I4eA6Gqn4Dch1n1JzBHAd7UyZ5R5nSpSTPgTnbR74KPy9YfVrb00E56U8lOhFZxh8wki5H1b7hGAVpB7G/RkvGE/20mgNhf+4HjsuMR6gcNqYSXnfUcjN6e7Qbc+JDrXFf0nV1YI4Pr/k0kaIA==;etpAT+ZOEsmoKKXq3Hfs4A=="
 ---
 

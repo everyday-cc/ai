@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

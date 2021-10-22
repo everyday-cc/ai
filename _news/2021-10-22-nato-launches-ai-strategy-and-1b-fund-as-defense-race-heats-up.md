@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NATO Defense Ministers Approve First Artificial Intelligence Strategy At Brussels Summit"
+    excerpt: "North Atlantic Treaty Organisation’s defence ministers approved the alliance's first artificial intelligence strategy and creation of the NATO Innovation Fund."
+    publishedDateTime: 2021-10-22T15:37:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 48
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jcev2d4dabmhaupk_1634915527.jpeg"
+        width: 768
+        height: 439
+        isCached: true
   - title: "NATO to Adopt Its First Artificial Intelligence Strategy"
     excerpt: "NATO will adopt its first strategy on AI and launch an innovation fund this week with the aim of investing $1 billion to \"futureproof\" the 30-nation security pact, Secretary-General Jens Stoltenberg said."
     publishedDateTime: 2021-10-21T16:01:00Z
@@ -43,34 +59,29 @@ related:
       domain: govtech.com
     quality: 37
   - title: "NATO defense ministers adopt strategy on artificial intelligence"
-    excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO Innovation Fund. NATO allies signed an agreement on setting up the alliance’s first Innovation Fund,"
-    publishedDateTime: 2021-10-22T13:53:00Z
-    webUrl: "https://www.aa.com.tr/en/world/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/2400087"
+    excerpt: "NATO defense ministers on Friday approved the alliance's first strategy on artificial intelligence and the establishment of the NATO Innovation Fund. NATO allies signed an agreement on setting up the alliance's first Innovation Fund,"
+    publishedDateTime: 2021-10-22T13:09:00Z
+    webUrl: "https://www.timeturk.com/en/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/news-46405"
     type: article
     provider:
-      name: aa.com.tr
-      domain: aa.com.tr
+      name: Timeturk
+      domain: timeturk.com
     quality: 37
     images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/10/22/thumbs_b_c_ac926448406157beecc4b4817c72ba9e.jpg?v=162335"
-        width: 861
-        height: 485
+      - url: "https://www.timeturk.com/resim/detay/4/46405.jpg"
+        width: 820
+        height: 500
         isCached: true
   - title: "NATO releases first-ever strategy for Artificial Intelligence"
-    excerpt: "NATO Defence Ministers agreed to NATO’s first-ever strategy for Artificial Intelligence (AI). A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way."
-    publishedDateTime: 2021-10-22T11:52:00Z
-    webUrl: "https://www.nato.int/cps/en/natohq/news_187934.htm"
+    excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
+    publishedDateTime: 2021-10-22T12:32:00Z
+    webUrl: "https://www.publicnow.com/view/330DE8043353237A2015AD65E1CA1A6901766A7D"
     type: article
     provider:
-      name: NATO
-      domain: nato.int
-    quality: 37
-    images:
-      - url: "http://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2021/10/stock/211022-ai.jpg"
-        width: 676
-        height: 384
-        isCached: true
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
-secured: "uu+jBVNYOn9H6nDXQOboU8dmUe3B3kVACy2WF0tSZxT2oqQ4tfC4zvjExyt42Hrk8gdYrqelDXXB3zGyTEmJ6SVB2aHmNM1RrCL/uWOqXBCEoS4tkw+ko0lO0x1+xvt0MC3RGwS3nE6VP/yAc+MjwZ701KiPGbewOLH3uf9uup4rYjcZkJtSjcKxk0J8bomQFaeFZ6wlnrPtCp8FnBDc0wUvPugm9SU8Wwj83ZcYd1VmAk7Nb0r7F72fI+y00b0FPgo1dF0vjCqPs+o634UtuRGsJFZbb74qUIkTs4Vw3+MTBS9+2py73Tce7tdczj7kTm/9Af1bPgjKhjv9xw2b3VlPSlJi6XOMtqf63a7xtv8=;Hz6+mwEZtRlUmkH8fSSPEQ=="
+secured: "bwh952SKnPU6D0UZAKsU7mSrfylHp57lyXs9HlDIVmtxceMS0YZAE7X5uehZAsllb0YvzwDWDQv39jaf0TRHk0Upb/lohc7gsAd0d15IzoJKd1Vly/iAw15adZ+o3gn4akdpX5D4WiSC5G7+o1Es1G0ZG/KqwUOB9accEJie8eI0gGQnsaI64gjvf16eMHi42Tymg9d2fbEaFPUGKZovAs1RuUMCa0oR7dZOl7NVXrNGSSbsNzGADM8g+SEQn8DhRuP/oL6lCnapHdPhX+FpRQ0PJkg5MiIE8KJytCaFM67kq1f7JrkxcPAy+IxAM1Lw+yROE1S56L6dz8lIO5tkFRNXDexE4u+28mo0YvFbl50WVDAyrt3Ma/8lBiuIg8uiiJhXwiOezdthABXv/KSncmGqKzIzC3Etvug0jUEnwKHBpqj5LsftXMr44FHjQ+5snRyCI127zcI0OHYCw4j1/grrpgc4bMVkXRL865tck9l/5g6z2EL9MbIDg/3MCSoAibvajuiKIbHfoK0snPvsJQ==;j8Hr9teESTeJvHvlqmTzRQ=="
 ---
 

@@ -33,6 +33,6 @@ related:
       domain: nasdaq.com
     quality: 54
 
-secured: "0repBZBL2c/yEzkab38cUSzQOV8MCXPne11KKsO4M3tA2Yu2FeQ4rOyKx7k2/9MWIHG3vrU11nwV3cKsrMGIUnp+ZAs5G4qvgexC02rOxwKn9u2YwtPZ6xUO3e//JCk1eBUeddeTjdLzuVbu1YxHQXnsFVK3i+L5avTnLQXDD4QD6+0zAjkhHAy7NnSjpQUdvYQSfX3gdPfQpKQpyHa9MrNL6MvCvUCOXtCFU2eZlxVu2/5jahWjjFhsoWXWLdUYP/TjK/R93R0Qkxtaeu0YmqDRwwGnFp8jYwZXNJLy7hwJu/KvwC7rfP0lfXaCSn6yzJ7sO+KWZvQh4iFIWespAh9jONQGcuueP6KQuJ1mgI0=;Ue6+UhZYPzUaS9IpL9djCQ=="
+secured: "7QdRuMgwLPCIIgMocMXdzpC75uHsq4tCWFwbK5C/riyF/TRp9mslHNfnfwi9mlvznWVt16V1qyI9UfXvaRsmaosNU55rMuNrbfpKSM9B0s4PmOkbsHo/VSQBjzucnh0PtzZ5Ekku+IwWCdO7B0kjQrlnrUN/AYVjFJFeZQHINRQOs6RJHZOmpulIvh5IShu0bWs4I9K9NkWewJE8LoNl5GCMtyV4yQtxYJoSQAF69m7lcqEcHz2tLHSpe9Wo4neyhsxci2xK2mAmTQ/xL1wF0ENJlT6jJu/6rgsS9+p5M/wGtI+fQP1LGkO3X3lar6MtVzqnY0/XluiFygc9P15+AnXgmcD+GB4QWoVTmdrNK4U=;fQP0xs+Cwyxu4LjOUC+XOg=="
 ---
 

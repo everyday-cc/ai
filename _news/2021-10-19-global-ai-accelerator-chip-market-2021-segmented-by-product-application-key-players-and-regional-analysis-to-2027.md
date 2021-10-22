@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-ch
 webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-chip-market-2021-segmented-by-product-application-key-players-and-regional-analysis-to-2027-2021-10-18"
 type: article
 quality: 62
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Audio and Video Chip Market 2021 Key Aspects of the Industry by Segments to 2027"
-    excerpt: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 offers a fresh take on the target industry and paradigmatic representation of the market size,"
-    publishedDateTime: 2021-10-17T21:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-key-aspects-of-the-industry-by-segments-to-2027-2021-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
   - title: "Global Artificial Intelligence Microscopy Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027"
     excerpt: "Global Artificial Intelligence Microscopy Market 2021 by Manufacturers, Regions, Type and Application, Forecast"
     publishedDateTime: 2021-10-18T23:10:00Z

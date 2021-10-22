@@ -106,6 +106,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "How AI is reinventing what computers are"
+    excerpt: "Google’s latest offering, the Pixel 6, is the first phone to have a separate chip dedicated to AI that sits alongside its standard processor. And the chip that runs the iPhone has for the last couple of years contained what Apple calls a “neural engine,"
+    publishedDateTime: 2021-10-22T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/"
+    ampWebUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/nd21_review-ai_final.jpg?w=1588"
+        width: 1588
+        height: 1999
+        isCached: true
   - title: "Dubbing movies, TV is the next frontier for machine learning, AI"
     excerpt: "Few cultural experiences can be as surreal as stumbling upon a dubbed Hollywood movie. There’s the cartoonish lip movements. The mistimed action. The strange baritone that doesn’t sound at all"
     publishedDateTime: 2021-10-19T05:00:00Z
@@ -135,22 +151,6 @@ related:
       - url: "https://cdn.openpr.com/U/a/Ua18899811_g.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "How AI is reinventing what computers are"
-    excerpt: "Google’s latest offering, the Pixel 6, is the first phone to have a separate chip dedicated to AI that sits alongside its standard processor. And the chip that runs the iPhone has for the last couple of years contained what Apple calls a “neural engine,"
-    publishedDateTime: 2021-10-22T10:12:00Z
-    webUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/"
-    ampWebUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/nd21_review-ai_final.jpg?w=1588"
-        width: 1588
-        height: 1999
         isCached: true
   - title: "The Challenge of Applying Ethics to AI"
     excerpt: "As digital technology plays a greater role in our day to day lives, the Venn diagram demonstrating the overlap between digital technologies and ethical decision-making has increasingly merged. In the age of artificial intelligence (AI),"
@@ -202,6 +202,20 @@ related:
       - url: "https://www.cybersecurityintelligence.com/files/upload/htmleditor/ezgif.com-gif-maker%20(26).png"
         width: 806
         height: 500
+        isCached: true
+  - title: "How AI Is Shaping The Future For Humans"
+    excerpt: "By this definition, AI is a disruption. It is a disruption that challenges the limits of human excellence and thinking. Even in its infancy, it has disrupted the notions of the quality and efficiency of manual labour."
+    publishedDateTime: 2021-10-19T05:20:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-shaping-future-humans-tanuja-rawat"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE5mmvqWlTP4w/article-cover_image-shrink_600_2000/0/1634620709254?e=1640217600&v=beta&t=thSYIdDhN4UY8PGVDa3GZTWbZjB22mInHAMRx9e8QGo"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Preparing for a Future Pandemic with Artificial Intelligence"
     excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
@@ -338,6 +352,6 @@ related:
       domain: morningstar.com
     quality: 6
 
-secured: "HEFJSqZIvx6PUgK2jggKzYNgk8oi2Dvk0Qs1zoWrGoqSy3gX0eJ314gv0Mnx2MstWDD6KONY9S5ZzXy9Dz/yEXFDAmdkQwoviuHItr2MTjMUoLURUf2OWjxSLALD1Ir0DNNO8Sppxstk4BcFTIv8e7ZmVw5cHsxY+/UshpdRjDYaufUJDLW1MAcMg7GAD6WF7pzUVOvQBENKNdffGcPx5EHoLxpwUzMU+vrNEX6W1fqZwWhBhEmYA7nhWMZz1FNh/cuIZH725TeXtitLwrKJr4L25jCUCDku49ToXqFQ2vLHFT73phceX/0v0JWKQRruexRBdG9QGU4BwKCY/aqACV4QqQKTCo8FJV2W1AU0atE=;mrxUIEfAkMd7Pd+sGF5oJw=="
+secured: "u9YX/bE431E6Vs8KFPnf5B0RGLTOPMKItUAsa3Mb6tJXNqSOOKjWXJgYxCyeYnozXOBsCTvnWrqJlByeuZc0t3t40ev7ZksP1fyYEftQwL4dsNIT9Q8yUIoFCFjqDAgjMv8GfYPik9GnxfQaoylDxj0li3HOE97IkK/mLZ2bCSrUFSp19xzpZUDqxYUHqatx5wL4isVpPKku+s6yGMZb0i7Qy4FhdOky6N4kcKOGjwc3+WaYnk2Qj0HjFYWlM8IvN6G4/bdftNrW4DgIPvPPWr3ZfgGEXJXpvUwyjuZUWMK7FmPqLFv/RCT3nMIizK49BMpZpTrQIm02sHr43dvYJroZvmMbfNu6VDH0m8BGQPZ/FsfSbd/xAYd4mrV2VlwFDPwvMV71A1bYhGHA/kVh8l+QQmxUp3l+9/jCqU2rI+ig1zQdYw4w21iLcXK3TxuwijVAY7BLsMo+Jgi4NgjdR0kv5W4CGZF6vjs7wh2Y7b6/EJv00mFCouZhQXM0Uh5D5jbQ3EwlSsBCp26Nb+xkhw==;CAfO4jHj8EoLQAV0f5nl0Q=="
 ---
 

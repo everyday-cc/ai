@@ -2,17 +2,21 @@
 category: news
 title: "Riiid and BasicFirst Learning Sign Partnership for Delivery of Personalized AI-powered Learning Solutions in India"
 excerpt: "Riiid, a leading AI for education (AIEd) solution company, and BasicFirst Learning, a personalized e-learning platform based in India, signed a partnership agreement to deliver AI-driven education. By integrating Riiid's AI solutions into BasicFirst Learning's online tutoring platform,"
-publishedDateTime: 2021-10-22T12:35:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-riiid-basicfirst-learning-sign-partnership-delivery-personalized-ai-/2021/10/22/9475594.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-riiid-basicfirst-learning-sign-partnership-delivery-personalized-ai-/2021/10/22/9475594.htm"
+publishedDateTime: 2021-10-22T12:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-basicfirst-learning-sign-partnership-for-delivery-of-personalized-ai-powered-learning-solutions-in-india-1030889006"
+webUrl: "https://markets.businessinsider.com/news/stocks/riiid-and-basicfirst-learning-sign-partnership-for-delivery-of-personalized-ai-powered-learning-solutions-in-india-1030889006"
 type: article
-quality: 15
-heat: 15
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "SFPfNKnxvcZcSIRi2NsINVHbBCkryWGajhpWC3i1xSfYbMBmgLG/q2jyfzP9SlcMZ6l1qyCYNpkJuOz7L7WwDxkNYRYFF0ETgvYsVqO46Yt+bP91d3JbwwFrBSrsUyglf7MbpwDpMtX29x5/404QftZCJ7kxPblnBTBriZt5kQru6+ikw/TqaFmv4/HOJdR5kCbM5CwpzudyINYQF9MqlTjzS3ehw/1IzVTk4r8qxQO2AQJ/w1DAsFsNQJ0LcXvQxCNyagQHJiX3Z6KbF7iOtMf2+ooA+NSkTTZtDdz1DpJrRl6TBbFHhY1DqFCjPT65DITC0ojwG98lLbBmcjgKM7NrG5aFd5+2wPU3Tr0SmqM=;03oKHt30Mb7mFcjMYg/vig=="
+secured: "sC+dKSkgBCw19psUQhu9qdDW8paorK2P7PZj+Q9m6yBwE6QU4iN094lc6mcEg+aDXb5jymHCFUm6oPMV7TkvSRL1+lUmd8oXfqBdqdIAFQiFtm7QhMn3+L2KjUxCAuLDyRDGZ7QToHeHJ6afkk7ulRkZcTn0QFKKoEcmVGqGJHSU0pqxeysLSdTvk87jUwKE4eBW8Wpz+vG2QLSJMU2SYqwlIN4Tj4MZ5VgoXW6dxQiP/h7+DyG0rVfjN/35CIKHV5wY3Sw3H5fFz1yMoNrMY/vQevrnMkpDxSs4mY1RxLOwcMNSp/4zq80z3bzSX0XIoKMKm/PQJoVJYKoDn+0eZpd4w2rglSQSs5cYlM+fPwo=;lXYfO83Mbsao6AY8gNH89w=="
 ---
 

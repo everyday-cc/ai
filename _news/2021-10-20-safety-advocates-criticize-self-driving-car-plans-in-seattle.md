@@ -33,20 +33,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Zoox to test self-driving cars in rainy Seattle"
-    excerpt: "Zoox, the self-driving car startup backed by Amazon Inc., will begin testing its autonomous vehicles in Seattle to see how the cars hold up to rainy weather, narrow tunnels and one-way streets. Zoox has already been testing its vehicles in San Francisco and Foster City,"
-    publishedDateTime: 2021-10-19T12:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17320/zoox-to-test-self-driving-cars-in-rainy-seattle"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/320/17320/seattle-cover-image.jpg"
-        width: 752
-        height: 451
-        isCached: true
   - title: "Amazon Is Deploying Self-Driving Vehicles for Tests in Seattle's Rain and Smog"
     excerpt: "The trials see the company’s vehicles equipped with a safety driver to take control if needed take on the often rainy and smog-filled streets of Seattle."
     publishedDateTime: 2021-10-19T15:45:00Z
@@ -89,33 +75,20 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
-    excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
-    publishedDateTime: 2021-10-21T12:05:00Z
-    webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
+  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
+    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
+    publishedDateTime: 2021-10-18T12:38:00Z
+    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 19
-  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-    publishedDateTime: 2021-10-20T07:30:00Z
-    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
-    type: article
-    provider:
-      name: The Wenatchee World
-      domain: wenatcheeworld.com
-    quality: 0
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 0
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 23
+    images:
+      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "RAFLkr+szhT5wirhUz6uA65+uZXZKqug1Q5PJtT3tTjAnSSDKwxdmw3z2bEGyuEyIXKnY7wfNlybn5ArtwX57LISHzoJE1zNTKWqYdbjs+CwBRlHPAz6GeMTmzKOyknvA5bzQsKxEhbc02Uk/K2PGpQY8eiBQJLzBKHw/z/fh3aFsXTnPMSCWWaPoyVll44HwWK/qF6FiqVBZE0kffuCjpQVb9YE8a+FgqiiEbb/NFZadxswKDjNAvx/mvEvI7wzlme2ayDexgdcrkb3vNBIqRTcVZQK7kn64YetgOQRJqGWVdtCHuHoLtCDIpHFGHvLWdf1kSt+DLK3lbTM+exjJZneuXMcE53518eNinLcee5sZMBJEVJR4ltfqXLE1vHdRuMCkL9/aozI+/NYv3iczbMpmKo4KsmIxu7LBoPvBjKvUV8DSRccdzxzswytqYpQ0ddRKEdoHIdybrd81d8OZVNPboTDTHo6dk7pxeBvXZOuRxX6+FH89I2fMUQSffJqorPU5vtIN9XILvBiUTeuzw==;VSHFQIn2ELahTjIY7bFLTQ=="
 ---

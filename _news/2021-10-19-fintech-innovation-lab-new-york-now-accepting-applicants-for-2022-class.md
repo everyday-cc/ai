@@ -60,6 +60,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
+    excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
+    publishedDateTime: 2021-10-21T16:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=551329"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
     excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
     publishedDateTime: 2021-10-20T21:57:00Z

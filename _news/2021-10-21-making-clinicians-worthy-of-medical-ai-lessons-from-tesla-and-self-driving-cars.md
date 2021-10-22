@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's 'full self-driving' rolls back its privacy protection of trip videos"
+    excerpt: "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy."
+    publishedDateTime: 2021-10-21T11:13:00Z
+    webUrl: "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211020111839-tesla-autopilot-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
     excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
     publishedDateTime: 2021-10-22T10:13:00Z
@@ -55,21 +71,7 @@ related:
         width: 728
         height: 400
         isCached: true
-  - title: "Roads for testing self-driving vehicles in Beijing stretch over 1,000 km"
-    excerpt: "A total of 278 roads stretching more than 1,027 km in Beijing have been opened for self-driving vehicle tests as of September end, according to Beijing"
-    publishedDateTime: 2021-10-18T12:38:00Z
-    webUrl: "https://ukranews.com/en/news/806410-roads-for-testing-self-driving-vehicles-in-beijing-stretch-over-1-000-km"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 23
-    images:
-      - url: "https://ukranews.com/upload/media/2021/10/09/6161342101a01-xxjwshe007015_20211009_cbmfn0a001.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
-secured: "lVteV99b5OxhGQOZ16fArfgoriFMUJJL6SM4YqATQ37yLlDMIKdjVKHtdF76JEN3g0w/dAF9EC0JDjzB1XbAPng6UyYqgVya2M3vW6o9za7PXej6MHnynH7UIi3qjGnd09nXdHTjFGbUU2lujASiJ+liZR8Gv/TSPhbUqHlt7565JirWAxG5BcJBP+dAFzRvnGL3OOT47yZARhqsiG7Pv3KVrWay1oB1vgxF3FQSpOvTcsxqRqJOMXh/0y52hdKlfuFw5C6dWmRGJVOsJf122EzKGuRFRbAL4NlpJsN/7wLa1vsqMX9gE+44ALVj7+7lTpJ1ni8ypfdCgQO0B/eXE9/v+8cGlSEMgOhPzGUI8fU=;3UkVN2SGBATSBddj4XsEkw=="
+secured: "fwJfKF6K9Q2vanO5QgVYomOCMA4IhH9OCBpnrCyEJqThcPwwCJLIhO26O2KSewjz2+TxtHyppZLqW4CrtgPB7/Yv8BWQPMgjmB09xvweeYFt00DKfzEnCd+D5pHhgL/aMmSzWGn7bs2uf1kwSAvJS9wv80tCjKaH8zuBBKwODWjZ8engtBD7ebwh/jb5ozHo3RD3v1q+25c0DKpTP+hlxpO0SOxVrmcSRXdGbeWFTyTYl+TxTe64hRaNgIuP0cVf9ICNh/8lyzUN3eYA3UK0zzVch/s6NL0og9vae20w4Ly4mBsv4XG6W8g6adCsX11DbJjx6hP+9sopoTz9ttdf8WZo8PnljdRbv8bIoPUepqTuz6iSOPGSyt2IocSLgSuxoGsQQW3J5EKFYMTOU7/tcInGHjRzOEaQWSzJKU4Em9waediI7Cq+04KIAivHynGdqW5jir4wmMH4i+2DinWMiZi7Sc+J2+W6NM/rS8XUpN4DDAb7VVaODExEqB4LrPlGUik9i8YJfHTir7mv9q0Zrw==;ftWvkO97g/rKINET/z9vAg=="
 ---
 

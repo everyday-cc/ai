@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-t
 webUrl: "https://www.infoworld.com/article/3637001/google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.html"
 type: article
 quality: 51
-heat: 73
+heat: 71
 published: true
 
 provider:

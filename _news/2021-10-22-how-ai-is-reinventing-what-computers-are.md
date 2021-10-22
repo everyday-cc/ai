@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-comp
 ampWebUrl: "https://www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/10/22/1037179/ai-reinventing-computers/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/nd21_review-ai_final.jpg?w=1588"
@@ -199,6 +200,20 @@ related:
         width: 806
         height: 500
         isCached: true
+  - title: "How AI Is Shaping The Future For Humans"
+    excerpt: "By this definition, AI is a disruption. It is a disruption that challenges the limits of human excellence and thinking. Even in its infancy, it has disrupted the notions of the quality and efficiency of manual labour."
+    publishedDateTime: 2021-10-19T05:20:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-shaping-future-humans-tanuja-rawat"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE5mmvqWlTP4w/article-cover_image-shrink_600_2000/0/1634620709254?e=1640217600&v=beta&t=thSYIdDhN4UY8PGVDa3GZTWbZjB22mInHAMRx9e8QGo"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Preparing for a Future Pandemic with Artificial Intelligence"
     excerpt: "A hallmark of artificial intelligence is its ability to learn from the past. As researchers advance and refine AI applications, it could increasingly"
     publishedDateTime: 2021-10-19T15:29:00Z
@@ -334,6 +349,6 @@ related:
       domain: morningstar.com
     quality: 6
 
-secured: "kHf0ZOMSVOyVKTXfgxGVLDnQUC/ySwip2wXbZw5mFogHDjMTrkkR/cp1fYV7FQrjzagoVxpMVTgCC74WyO6BBTiKCoPnjxbPCJbP621iUhTECRtYkrElE96jiYqYpbyTLIonKg6QfpZV3N41DWnxvzlWoE1AKIpOZG9Z4oE+NXB41fyWxM9nEE8VZAwE62p5SiMqa+/HWceVgbpb0H4Xr+kygtuSlu7nPK+GNNjVbfFnVSnquXEISEAZrWYNsmFqshbJtN6+Uf/+/jjigFz+7wt9HodyF9gLN6BTvdF7OqrB0pbj3PnQxPXr1p8R2/+aBJ/K8vrfAYPc/CwvB5wUjoJqgpyyPLylPdJHO/JIpMU=;9HCs2Q3fS2kYfmy2IQua6w=="
+secured: "afD97tpuYKAGPTmm3vmqxAzx75nSImuGCHPLhk6an/m3RuLweh2Me9kSaqEv1tlJrS+/wWHpOagEEGpAw7nHxQ9vKcXLxTvrPvXFcFzyZkKPPpORIBWzRpNZ+GtlPrwVowDocaJ/LqeV1VvmgNFvJ1zimI1hWGTOeiaRlfOhZhrmNs7ClWy/Vqd26Vgr9hcWtMZYnqaTRhZ/LQvGxRMgXbN2oJGLveT/DYkiq/AQI3febfPpKJ/dHfMPuemeB1I9zqSYnNNO1LD39ZEK8FeKme8f7Lumf8tGv7N+GCfKrxgnT1+iUHXy856klj5k0dI3049iImi30WVs1la04IedYPMJMz0FcUE27RKERp9/fvbZnvyDvW1rnhI4smYJMTiF37oSCZvTDuGN7mjqbPiYbylXUebQ16sd/mwLHmQByXWA24V0oOhFcOsptZ9inWrJjXSIkkROn4R3cYCXE6nPRVDBDWiWUXBTHcTWlocEGVmzytGMQkGROJi3Z5YJj2/3XtrcL6VEyKV93JyNKVyFOQ==;azOTkxMMe1ax6wn3wEyYDA=="
 ---
 

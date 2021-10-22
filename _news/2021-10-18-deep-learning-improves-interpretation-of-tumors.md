@@ -35,20 +35,6 @@ related:
         width: 800
         height: 423
         isCached: true
-  - title: "Overcoming Challenges to Machine Learning Adoption and Implementation in the Lab"
-    excerpt: "A current application of AI, machine learning (ML) is starting to enable advanced analytics for labs. And the good news is that with ML, high volumes of data improve the performance over time. The more data available,"
-    publishedDateTime: 2021-10-17T22:06:00Z
-    webUrl: "https://www.labmanager.com/insights/overcoming-challenges-to-machine-learning-adoption-and-implementation-in-the-lab-26870"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-    images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/26870/aImg/49310/scitara-data-istock-1800x900-m.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "j19WWcZTpeyPwxfOvLR+WeyqO8YgxYLmUIBcAjPs+F973Os7iLFZExmp/CLt0NgH/jtvu5qDaQ6+O5fvI7/3gPY7Soo2gXfJmICh40ehRHXW0m9uwpKFLMtX9kT/Mnm6R2L7il46pQe1bYHo+YUsb39yQvHXeQWXiyvYdk/KYOQxx8YI117zM0gxlZWJzQoqQj1ph+2ak87l+aQsJvRQmEYDMZuMdl4egIeawiCWBfYiCQs1jQzeII3BKYWIDntD5P7F+bLjZmmanB0dNEc2zmTryjIfprvguyTwDDxwUP2HVrA+fg6ezw+SBrzoLT7Elei5R1WPlVzNkDYaatmB6lGZJSy/3aIF2TuvEw9hgkI=;JVlgCkxA3ZCOWtEmHk6QPg=="
 ---

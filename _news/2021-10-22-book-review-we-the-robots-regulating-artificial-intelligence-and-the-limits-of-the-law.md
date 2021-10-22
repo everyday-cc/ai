@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-22T11:38:00Z
 originalUrl: "https://www.analyticsinsight.net/book-review-we-the-robots-regulating-artificial-intelligence-and-the-limits-of-the-law/"
 webUrl: "https://www.analyticsinsight.net/book-review-we-the-robots-regulating-artificial-intelligence-and-the-limits-of-the-law/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Robots.jpg"
@@ -49,6 +50,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "7fwwh5QxcbpfTjKxnk1Vik81vuaxAtQN4S3GqXPtd7i3ARdJsvsc9sVP3/OiHklIFFD4SWzMBrORUqOYgjSlGhN8MMMlX9YuNDGWVP/EDJzQh3CyFRqLeFUVFUfQONk3+5iKIaQqnDdjMCLXSTJ+ZvRCus964ENOrysc/2hnBCRIhb1aSjBUyfvvgtTxWqmPx4zZc7EJ+8x3diDKpWMCw6qMUWYBCN7AAUbSwe3ZxGvSucVO+qOr40LTFe4QeRMX7vRi9z4+Za/XysMMlXmyYLoCsBbsiKRuzZc38tNM6ZB/06RkGc1FpYjz4md2vLHSRDJqPxCw0Q/+JTO0bt76i5llPEzwoLI8IYNje0+8LXs=;uWk1qKrvxID+IGDzQlB7JQ=="
+secured: "cU1VvWh+/NE5c0G5tal+k5kphy4xIaZjGIP6sRz/klwc7/afJO5Xza+8pTptHXTPhbnkR9lyfUNgf9fZTmRpbt8BkxGVpqBGRqqav+fWBPk82P8yjhKKYO5cA9nXtqyXxvPHZuG+Jf+G45a9UGxGljZQsBz+T2PbreXhsyFhDrqt0Ux1VQMtVzJPey3iMHZPodw8R/y7xXSYS6DMc6dGxFOL2OtNq6Vo6E4lFRx15Dj+KXCNNDgRabm4Cq90yPh9TLHX0NuJPn/IQtpoWmVtkOigbSogoKDgpcDUiT0VfShEdY8TUNVpbdA8tZRk4IVygMhnmsFZKqgCVjIRGlJewFh9ASrD9l3F8Cm1D7OzClUv5JE3dXNF5LYwXmnz/Z75HhB/XK4+hKh+n0AhiNrQZFdrPdzmYAsRKdVgFn2y0T6JzRVYXtsb0bB8AWmSMZMeEKP4ykzAoyzOJgH6g+uu17Q1vOYX9fAbHZ0q02BYNsBMgZMBKru/7eLmAvsJnsZmg04Fbv1QOGCdrdk5mHPDXw==;18jlAr2cSibz8XOzqDEsSQ=="
 ---
 

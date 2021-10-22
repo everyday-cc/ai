@@ -26,17 +26,6 @@ images:
     height: 680
     isCached: true
 
-related:
-  - title: "Self driving race car"
-    excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
-    publishedDateTime: 2021-10-20T17:31:00Z
-    webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 19
-
 secured: "OfGMnmj9e0FwHi5XOg36igrhAf6rx5oSTtDnmVZ+Tz0MmCrJLVms7D4Ce7iEgVGDLysWLb2x0cOC1yOnv65Zy6bwKrQLWEo533/tlCpaJcZIGKyoEaVG9lDJn2kWDnO1w5H42Wz8V7satJhzhwRZOzQHS2l2WLwol9qQLoVTbdqqCK1PthfPzPYEYBHB3ku8ujB170DUzvgV0MGdy0Cp1EWUQXO44SzPHwv1bUTVD2+lSYSRyrSu5ZtdrzSmynkff2m56GQx3H2fw6dFXg96cmMO29FrOZR1pe04KzpsJy2N518iBrU6pA2jGoffBj4ilHPIk7lpNpmF3BnzbZhhPyhF4HwtXpcO8Hxr18N9MODJT59eHixajyHCOlJOxptSfyk9EqW3t5cqB4dR6JUjMqFsotZLLaIRT4BJOEw785z/E2SQWSVJEQsRt51JlyXbfZTYLumEfTYcle1HBZq9avaAKUVng2JRfiYQqozaiQWvOiVBcOdcOMIM7ZFM3oBoZSV3JVhfxRvTi6Q7Uq+AnA==;9z7JO7bWViF7d8kTEvPUuw=="
 ---
 

@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Audio and Video Chip Market 2021 Key Aspects of the Industry by Segments to 2027"
-    excerpt: "Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 offers a fresh take on the target industry and paradigmatic representation of the market size,"
-    publishedDateTime: 2021-10-17T21:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-key-aspects-of-the-industry-by-segments-to-2027-2021-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
   - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
     excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
     publishedDateTime: 2021-10-18T14:06:00Z

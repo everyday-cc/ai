@@ -60,6 +60,20 @@ related:
       name: Stock News
       domain: stocknews.com
     quality: 24
+  - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
+    excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
+    publishedDateTime: 2021-10-21T16:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=551329"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
     excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2021-10-19T11:59:00Z
