@@ -49,20 +49,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
-    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
-    publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://images.mktw.net/im-411503/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook's AI is removing just TWO PER CENT of hate speech posts"
     excerpt: "Facebook founder Mark Zuckerberg (left, with Chief Operating Officer Sheryl Sandberg) has insisted AI is the way to reduce hate speech on its"
     publishedDateTime: 2021-10-18T01:22:00Z
@@ -162,15 +148,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
-    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"
-    publishedDateTime: 2021-10-18T00:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-wall-street-journal--facebook-is-counting-on-ai-to-clean-up-its-platform--but-its-own-engineers-have-doubts-10633151"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
     excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
     publishedDateTime: 2021-10-18T08:20:00Z

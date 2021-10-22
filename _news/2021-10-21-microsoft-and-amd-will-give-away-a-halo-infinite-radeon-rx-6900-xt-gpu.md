@@ -3,11 +3,11 @@ category: news
 title: "Microsoft and AMD will give away a 'Halo Infinite' Radeon RX 6900 XT GPU"
 excerpt: "Not only have Microsoft and AMD teamed up to add ray-tracing to the game sometime after launch, they created a limited-edition Radeon RX 6900 XT Halo Infinite graphics card. The GPU’s design is based on Master Chief's Mjolnir armor,"
 publishedDateTime: 2021-10-21T15:46:00Z
-originalUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
-webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
+originalUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html?src=rss"
+webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html?src=rss"
 type: article
-quality: 65
-heat: 75
+quality: 85
+heat: 95
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/f669f510-327e-11ec-8eff-fdd06405a306"
+    width: 1920
+    height: 1080
+    isCached: true
+
 related:
   - title: "'Halo Infinite' Reveals PC Features & Details, AMD Radeon Limited Edition GPU, Ray Tracing Post-Launch - Trailer"
     excerpt: "Halo Infinite is the next title in the series. The game focuses on the Master Chief and continue his saga after the events of Halo 5."
@@ -34,6 +40,6 @@ related:
       domain: worthplaying.com
     quality: 13
 
-secured: "qYy2ayOr1DD5SEgNQmVW8k9JpQRLdLXnTme3g0kpRbu8CyrUiJPBcSqIW+3Qqc7NTt9rb04Edlsrbten884+ZBvEzoTLUOju7i87B6T7UdJ9TjDrmEvEmBMdvZfnGIdlQT76H9hVPQLzihmEWLCmIU1O5JEeDYJp4efw/Fu9BeeH22AQhXkhPAngvrjkURWSwK6+WJL787/yAO6cpBqD+i1FRGVXxbgzAW71twW57+dlPyYP34k5cKbpAp6kotLOjWdvPBIPMChPJh3PAcTxDWR1bYHo/vmZ9AK7a8zH3DzSwyK5Cy4EaaGDA2zKaTKvRH5KuHe3ccFfJ/vwMDYd9hqct6DpXOQ67Rhi/CEn2kuupPFYxdcC0HS8QTZypNf697viDc2fy8OBdVPRHNq8v090271Qa07yaV/S6mHOlADvVBYx/Hhe6YhPfGUfuaY1CezqQ3JqYO6SO84Tj8JNTBA8PggCEVRq0PgJR/4Iu1lsKycWHEJgxFX4X0GV5BPYfibVbh6D21/tcZDcKg+91Q==;5+5USUNVI5G2lyrFXwgZYw=="
+secured: "86x7iT7y8CpimI5Nflp3SFkHk/kCgzfcCV2MtxyD32scfXHcVwKUfc8XfbkcZDLisoP5t2MM1s7zJBsyMaEIZW+bszgFQMmuTyzaqRX7CSJGy+otL4Ruk3LElwd0YFp99E1sRHASa0xUqW05DQQe4rdoUGGJ9SmNwjLg0EFzEnK8J+wKGMfccVtNXicKu90B/xK10ln48u7WQpYQL+ffdtWZ4ja7l3Ktu0BoRJ7bUgBbhGtMcUSyPjSFFeQNBo9N9J7+TRW0frdkGceQ2jj3Q4sCo9k7SVBAeiE27BV+4RTcRM4EQYP+/9hh+dnxqfYzzBgxkA3ToM2mToi/GKUvDtit3yqzv+Z/v+t7gIF3inA=;cmHCh+QhSP2WgijI6ryzvg=="
 ---
 

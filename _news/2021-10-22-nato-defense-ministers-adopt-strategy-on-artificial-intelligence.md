@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NATO defense ministers adopt strategy on artificial intelligence"
-excerpt: "NATO defense ministers on Friday approved the alliance's first strategy on artificial intelligence and the establishment of the NATO Innovation Fund. NATO allies signed an agreement on setting up the alliance's first Innovation Fund,"
-publishedDateTime: 2021-10-22T13:09:00Z
-originalUrl: "https://www.timeturk.com/en/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/news-46405"
-webUrl: "https://www.timeturk.com/en/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/news-46405"
+excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO"
+publishedDateTime: 2021-10-22T16:30:00Z
+originalUrl: "https://news.az/news/nato-defense-ministers-adopt-strategy-on-artificial-intelligence"
+webUrl: "https://news.az/news/nato-defense-ministers-adopt-strategy-on-artificial-intelligence"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Timeturk
-  domain: timeturk.com
+  name: News
+  domain: news.az
 
 topics:
   - AI
 
 images:
-  - url: "https://www.timeturk.com/resim/detay/4/46405.jpg"
-    width: 820
-    height: 500
+  - url: "https://news.az/uploads/2021/10/22/news/166577/original/166577-0889509.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -77,6 +77,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "pNCoDSdCrWslj9+3VTJbN003TXetyDsbAL1KjcGjWsoErGRQMYjW2lPFJPDPxNO20SboEvdUUpXaUY7E6D9vH4J7xgn8bg73EFZiRKSwkUl/vnJiHaOWu6Z+sSfMyK5PfF91ePr+yCf/ASIIZojiUx9mFaSd72xmXnuq2oc77nEwxuJdsEvvgMi9rYBBVEMyaNZrCSukdgF725SKk9oAs63XAUnAoSBd2NR9vSajZ/GNvQ4MaGQblDPAyBozaRwZ1BH2YG0hlNr/uzGeZqiDHUvElzUiOtRx6w/rWRKPX4T1IVl530p4MUItVaplhrf9AcFXqg6jrjvBnBAF8mtL19vX4MgpPxq3u8ASPT+ANdI=;dR6fRUL4f8O6OEpmto4bow=="
+secured: "KAzns41Gynze6vV+94xrUYNwvPeyrQBH7KLyXAVXXSoOZz6+KUNeobMQfEP6diTGH28fuMpFQIPuMDXO8kGxI6Gt6bU9AmikpLEh/4WLzyfcGZ2BrJe+SNgI7myQ0cE2YC9/3ilmHkoPSXlFu62HolimWz1EpYjOpXacKWcsi92fc1NZSU6yw09Tpz7yVHx13PJADraBcR3sGfhl8A6kFLUXiwqhp45A2w+Cwx0mhx0YGoSYwokN6hhhBzGxmmCMODRF40AEb068FihR9t4F+ckSVfcTKRMr3yGBI+3DLTO+kr+oxc8x/jOn4HVn1uNwLIXf/HQWKyNNB6LGpnule73GvPSb/DTIK2MByQ2atU4=;Uj6o57bVyHqL4d8IDDOmYg=="
 ---
 

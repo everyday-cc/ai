@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Opening up a physics simulator for robotics"
-    excerpt: "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere."
-    publishedDateTime: 2021-10-18T00:00:00Z
-    webUrl: "https://deepmind.com/blog/announcements/mujoco"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 106
-    images:
-      - url: "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Why DeepMind Acquired This Robotics Startup"
     excerpt: "Alphabet-owned DeepMind acquired a physics simulation platform MuJoCo, which stands for Multi-Joint Dynamics with Contact."
     publishedDateTime: 2021-10-20T08:30:00Z

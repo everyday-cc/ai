@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Exclusive Interview: Karzai Says Taliban's International Recognition Requires Internal Legitimacy"
-    excerpt: "He says that could be achieved through the expression of the will of the Afghan people, either in the form of elections or holding the Loya Jirga"
-    publishedDateTime: 2021-10-18T00:13:00Z
-    webUrl: "https://www.voanews.com/a/exclusive-interview-karzai-says-taliban-s-international-recognition-requires-internal-legitimacy/6274709.html"
-    ampWebUrl: "https://www.voanews.com/amp/exclusive-interview-karzai-says-taliban-s-international-recognition-requires-internal-legitimacy/6274709.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/exclusive-interview-karzai-says-taliban-s-international-recognition-requires-internal-legitimacy/6274709.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 26
   - title: "Taliban needs legitimacy at home in order to gain international recognition, says former President Karzai"
     excerpt: "Former President of Afghanistan Hamid Karzai said that the Taliban needs legitimacy nationally in order to gain recognition by the international community."
     publishedDateTime: 2021-10-19T04:55:00Z

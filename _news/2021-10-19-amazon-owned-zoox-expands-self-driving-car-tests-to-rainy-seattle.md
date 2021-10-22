@@ -90,6 +90,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 4
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
+    publishedDateTime: 2021-10-22T16:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/10/22/amazon-plans-self-driving-cars-seattle/6133508001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "vbrK6uFxNrgSlkMcElFp89Nesz4oGyhnjJkgwX0Ft6NGqTXTkLXthlLZQkvg7y1wd7hRAX0kBhTyA8utdmhc1s0xYlVKwX+otfinhjCWnlIbr4ehaVwwhMzm6HrqDp9B37lnlaR5NcCSUbU1pvdlXxue5w3ub3j9J8xCQfiMFeEnFKNDb6fIQCRMuyJXNWiEMwbWXX7jjgCRghHw84Zhaov05pes+xS+7T7HV3sIWi+Ymv5DUyReK3L/k7ytL2o+HZHLedPWhJf3KOmyKIDus+7JapkrAXLQXIRZklOX6KcI/9BQBTiYEjOMkA9Ff/HSGLFF9dDodaFfWZpmdpocmeZHESMyw9IriAX7BrdM34KdfZSsnA5G6DJ58OmgV0udRh2hZMIyfoixPi39LqyqeJ6P6Eh+e4p0VQHioSLKD3ItvR9lLYZH9pfSgKLK5GACNtVmt+WJ87TWMU+WJDa1DkbGlRLCYNfUeKZfMfkM+yBMpRtceyzEgzZ2M9qg81YesXMDPu5HNta5WrzMsnM6BQ==;N0RhQ6g6HUANRJzU6/T7gw=="
 ---

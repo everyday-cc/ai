@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Medtronic announces first-of-its-kind Regional Open Innovation Platform in APAC to advance the future of healthcare technologies"
-    excerpt: "Focusing on the unique healthcare needs of the APAC ... advance partnership opportunities that can help it leverage artificial intelligence (AI) and automation to address patient needs."
-    publishedDateTime: 2021-10-19T09:55:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20211019/3840087.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "exVoQzNhlUr21UaSHIFsPk2ftS5EYF5ktAE1maepZ6pBw9Re0/tbfzskXaxeZT52rqoIpIXaY3y+lAeKLcLnMBTrzlNY6Tv8KJ7Bcs6JybQ6fPh/TuCbWoJ0RhjASibPEu5a/+Zlk3HS2xcKh7esJ4TmJtjzHrMvrJPb2u2nvmc2FIh8iB0PtVZVrDh3FCgNuyWta6IBrg0O0kk693eg2LE0pj24vQXK/d1pUYtbeBSKi/MCaznkqgiilXJY5b3gFrEaNzmPJocFjhGtPFqgErcudjXfdlneQZW/g76mBMvyweTDP7RUW59IgEn3oL9EAAj/v8t36EbzHtTyPrdFrl00TLjAtRuqKF9SdOwMI2Y=;nPPFC4h1+L/JrjXiEZGCnA=="
 ---

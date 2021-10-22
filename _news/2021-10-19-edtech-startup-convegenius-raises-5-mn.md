@@ -44,20 +44,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
-    excerpt: "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,"
-    publishedDateTime: 2021-10-19T05:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
+  - title: "ConveGenius AI, India's Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
+    excerpt: "LONDON, SAN FRANCISCO, and SINGAPORE, Oct. 19, 2021 /PRNewswire/ -- ConveGenius has raised $5M USD in Venture Capital funding to grow its"
+    publishedDateTime: 2021-10-19T05:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
 
 secured: "wJxYJHE2cgK21XSSddufyVUHWDQjjycSep75Oj6W3aneN8HBz/fmNvoGeNfsIl7TmP6T+q2dmq8sVzOTf6ktGPsDYGLEF9hGCrfg8p8S2aD8yUVvCH71Oy27Xtgwwwk1ULydMxq6SJ/iSiIMcq8utTVlKXP1FYfkImqtihUmieHArpJ8YzywV+A4UkTCeov1iamEFtO0GEBnNzWecxnQJRR6d68LZjtWAZr3uv6hdPZxMTWU/5huCbyx/z+w47mR2UIbynoyQwvuXJpmx9WZYpMl9mDesi6kvJQ2HEYjZn9uQBydzhXuekXrOCU7b/ge70qHAoqrLYWVEUrdRXzEW69vECw54fe1mISU+7gxWhA=;pM/k+nTE8saIw2Qc6wtxhg=="
 ---

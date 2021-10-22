@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The people powering AI decisions"
-    excerpt: "Mary Gray, an anthropologist and co-author of the book, “Ghost Work: How to Stop Silicon Valley From Building a New Global Underclass,” explores the work and lives of the real people behind online processes that internet users may assume are purely algorithmic."
-    publishedDateTime: 2021-10-18T00:00:00Z
-    webUrl: "https://www.pri.org/stories/2021-10-18/people-powering-ai-decisions"
-    ampWebUrl: "https://www.pri.org/stories/2021-10-18/people-powering-ai-decisions?amp"
-    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-10-18/people-powering-ai-decisions?amp"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 57
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/10/ap20074626404581_cropped.jpg?itok=6tFynJnT"
-        width: 1200
-        height: 707
-        isCached: true
 
 secured: "4S+s3vtnUrouX/QtR8MhhcUTnwwSh9F0DBFnnj1RsH2Cwv9HHCZ4XpkBkA5+RjEYgAgTcCUWQcOMWCrCi1C9kpwUI9UEIkY6h8j51b7sYZ5PuzWu+QDtfiVkMpSrlY2veVJcc+RzmSvGqs1VLtsNT4yHOYDnNDywPWUveELOCXP7C4m7s4bvHd9e62EWC9ozvXzkSIfODIby3Oh+s6JeH28C1tLlXtAgYmVvY6YX+EGHjWAIJS6qrdvCWEXHA0QVvFJ6g4+xuxufei/XnXTf+RJmH4AB2ds1bE3nNCziSkCTHlNeOWzZjIoAahTysTmRU6BkKEMqTtIpLffLDiPsUXE+eCsfzKdWhpZdY+JE8kgfjUQM7Drlx3lpNUZ+3bV7w0dJt7XFnd4rmrxcjo53JmqvOYrPTI+nj3zFSgIQtDixi7SW36DY624bI/yaejitof+1yPeVhHp+FYbOjwzaoX+IStLevJHF6z6mr1m5Z3GWKwDFvkZ/HFUvsIoF7rw+ZPTuV6hy5YLujU/Cm5AxIQ==;MJQhEh0C96QHpyLfuVdgnw=="
 ---

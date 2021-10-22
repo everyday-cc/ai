@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 798
     isCached: true
+
+related:
+  - title: "The Role of Democratized AI Using Power Platform’s AI Builder"
+    excerpt: "Have you heard of Power Platform's AI Builder but aren't sure what it's capable of? Click here for an in-depth yet succinct discussion."
+    publishedDateTime: 2021-10-22T16:07:00Z
+    webUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/"
+    ampWebUrl: "https://www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
+    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/power-platform-ai-builder/?amp"
+    type: article
+    provider:
+      name: AvePoint
+      domain: avepoint.com
+    quality: 57
+    images:
+      - url: "https://www.avepoint.com/blog/wp-content/uploads/2021/10/artificial-intelligence-brain-icon-big-data-flow-analysis-deep-picture-id1236683058.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "AcBZ7lLgETaHjv/dqNIDXUOB6Y7Cw/BjAqnuJaws1qhFJNhG1dvSdai13AC2QY39P5HA0237j2nXPiF8Gh+0kjww9xy0KZCjHAbeMAnqn6AiiiKLUTMJwmtQsvoiDGSfQSQT796DC3ah40a1yke+bGzpdApUU4xk/qgvg2qhDmpsxAec3GqCZ3efXJPLLqOYl9oS4lJ4njmX2odcWmMsoh5j/dWhG8leor0vzLVfAfFxpZFm6Kosqoi2IhWJT9c6zQGFzWn8k8FTg8MMXlBP4kl+9gVDNyqGB2MtA7ogglw3XxLhFxkjKTjKUuI/GmdX1c5M0L0AAmJIoYj8qOHAwxEFnAsZRAnMoQ+dUXBfM1OBtNk4tBdDUOwFpkHwcUBE3B0GpCXoTvGjltRWEXB9EhMZ87/A4eEtUKHeEdlPLE2gRJTQBfT4uDKeU2alPzOnnhszlNYC1WkjFOxApJA9gsRAzgvdhKmnTKpYlxER/nNeJdGUkJseKksNw89Rf6JiLeuFOnPQevO9KaEArWG7QQ==;rkaPsb0bRTQm7NpiqU6uDA=="
 ---

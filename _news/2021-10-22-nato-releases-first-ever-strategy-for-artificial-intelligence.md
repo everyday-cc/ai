@@ -62,18 +62,18 @@ related:
       domain: govtech.com
     quality: 37
   - title: "NATO defense ministers adopt strategy on artificial intelligence"
-    excerpt: "NATO defense ministers on Friday approved the alliance's first strategy on artificial intelligence and the establishment of the NATO Innovation Fund. NATO allies signed an agreement on setting up the alliance's first Innovation Fund,"
-    publishedDateTime: 2021-10-22T13:09:00Z
-    webUrl: "https://www.timeturk.com/en/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/news-46405"
+    excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO"
+    publishedDateTime: 2021-10-22T16:30:00Z
+    webUrl: "https://news.az/news/nato-defense-ministers-adopt-strategy-on-artificial-intelligence"
     type: article
     provider:
-      name: Timeturk
-      domain: timeturk.com
+      name: News
+      domain: news.az
     quality: 37
     images:
-      - url: "https://www.timeturk.com/resim/detay/4/46405.jpg"
-        width: 820
-        height: 500
+      - url: "https://news.az/uploads/2021/10/22/news/166577/original/166577-0889509.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "XCIp6w5hfkJuzLA2PR9oosmqTBkIWIThBQd4db4APZcRFtLE9CnAynUEVCmWxSZR/OLT9tr1iqjDj0M7uOfDE/gOQQHzcbckpt66fvsd4ee+F6hD0TFib004Rp8rjrmN9AvljxHcMtLz+A8ECLxekBFThg47uJb5NE5bz7tKkKpEwi5tfWMI3pTr4y45vkAifdIqj5McEuC3hEi5pGv8Agu5NFpW08DQdI+nFw4rjD9TRnEeAAxw/WbcavOU8AtUCGWTBMI3g9ugUlc8cBrmKPwEJjf/4TnS+VSwzbXZQvho6cc0CouswCKZLxKDNT3KNIfN0tfAOMGka/QVgWn1pkTwEZRzxbhT7v6b8qZEMWg=;a7h82Gtlr+hCB5CYdDD/gg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-source
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 162
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opening up a physics simulator for robotics"
-    excerpt: "As part of DeepMind's mission of advancing science, we have acquired the MuJoCo physics simulator and are making it freely available for everyone, to support research everywhere."
-    publishedDateTime: 2021-10-18T00:00:00Z
-    webUrl: "https://deepmind.com/blog/announcements/mujoco"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 106
-    images:
-      - url: "https://lh3.googleusercontent.com/jVZ3VN7wwx2dSowqLmhqm0qAzAmcb-1t7ks3HiNnoHknihF5sl9VDEwuCNTSxfx8jFIi7mBQkvHUdnSKXSPgYLNpvCuE4YajJeMnrYA"
-        width: 512
-        height: 288
-        isCached: true
   - title: "DeepMind acquires MuJoCo physics engine for robotics R&D"
     excerpt: "DeepMind, an AI research lab and subsidiary of Alphabet Inc., acquired the MuJoCo physics engine and will make it freely available in 2022."
     publishedDateTime: 2021-10-18T16:56:00Z

@@ -57,20 +57,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
-    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate speech"
-    publishedDateTime: 2021-10-17T23:21:00Z
-    webUrl: "https://www.marketwatch.com/story/facebook-is-counting-on-ai-to-clean-up-its-platform-but-its-own-engineers-have-doubts-11634512872?mod=commodities-corner"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://images.mktw.net/im-411503/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary"
     excerpt: "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it."
     publishedDateTime: 2021-10-22T06:58:00Z
@@ -154,15 +140,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "The Wall Street Journal: Facebook is counting on AI to clean up its platform, but its own engineers have doubts"
-    excerpt: "Facebook Inc. executives have long said that artificial intelligence would address the company’s chronic problems keeping what it deems hate"
-    publishedDateTime: 2021-10-18T00:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-wall-street-journal--facebook-is-counting-on-ai-to-clean-up-its-platform--but-its-own-engineers-have-doubts-10633151"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Facebook wants AI to find your keys and understand your conversations"
     excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
     publishedDateTime: 2021-10-20T23:08:00Z

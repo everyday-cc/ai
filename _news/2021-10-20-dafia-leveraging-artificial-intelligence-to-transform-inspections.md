@@ -241,20 +241,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "The challenges of regulating AI"
-    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
-    publishedDateTime: 2021-10-17T23:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
-        width: 848
-        height: 565
-        isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."
     publishedDateTime: 2021-10-19T15:07:00Z

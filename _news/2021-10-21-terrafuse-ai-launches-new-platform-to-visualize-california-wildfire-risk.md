@@ -3,16 +3,16 @@ category: news
 title: "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk"
 excerpt: "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI."
 publishedDateTime: 2021-10-21T10:08:00Z
-originalUrl: "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
-webUrl: "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+originalUrl: "https://www.wilx.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+webUrl: "https://www.wilx.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: KOTA TV
-  domain: kotatv.com
+  name: WILX-TV
+  domain: wilx.com
 
 topics:
   - Microsoft AI
@@ -34,6 +34,6 @@ related:
         height: 482
         isCached: true
 
-secured: "cTK9fl4FJP7JdzzQ+JGr31Di7qxSfcW63alpYpCCPlxx9ycgSJv0+NhWV24igbYDGHZi7ut/DrcdfFdnUpw5DtLlwXdm/n4myAfd1wb1KQqQVbWbQQDcGLaB+uyVbgi7VEb6C5fm32nG82E/s+63/ajwb/Mm2Hgdm6onyWeToFHzMtjb9U1t6KoKV0hObIsjaHsj+hRhDvtHS2egutDeyOMMnL30CkXXrghYAp/hD1kG++iKP76xLM9FQKmXMGAS3GSHUhxvg+7Ti4BfvFZ4celxC55wfLk+9pAip6CudOMOMBCRZvGgV2DZxKE8SzjCNmvH4xa6WnmlehgAcVsmX2aqHs6xTgIYtLc7Hcf+n7dsQB/lEARrkhd3bDheFANE8W4IPK8+r0q6pGrn9XDENzK8sbD4inmK/1EEclSEwj2EAafYiQq6M40llti7TcmTZ2fzLMgPvipcNqaB62gJHFnbMwH11PXZGX1aeVg64jfzWrjcr2sQ732F//LeTWMYyPkoGcfsJOx3qDPAsGTaYQ==;ywmQXGkvPtvu9UpC3cPDHw=="
+secured: "ht9JpR4owpaxTsskCnbNbkld+mgcPhO/5i08qgJSHhwwFlwyfP9ZTWut9ERI+MLgapdm44zOnlIb9wMK8bjpjXdfm/9a3mrTJJ0/9rYG6ywbxzLJSZhrImCTaJ49W/VqdTzvCSc2TE81tCph7yoHpL1GqRr4eiTCn5GgIgEcgxNhgtWH5hiLk96Zti/MT3LtjXUvPF398NeP5ocmCwC++o1JfsWevNky2owaEXew+G/FGKQVVIDHFR5Iu8GxO6X3EpF4DeMlHw1RDU9TjwFKmjY98efnw7uxNjqiWWWSgMLsR5jK7/STBYC5m0MUBMSO7h54B0kctZ7rYFIzMPPLnrPEzgW0y4R0iIUHCzgGF1A=;szG7Qz/0U7ZumBqOHSGEeQ=="
 ---
 

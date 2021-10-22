@@ -7,8 +7,8 @@ originalUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-yo
 webUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137"
 type: article
 quality: 86
-heat: 146
-published: true
+heat: -1
+published: false
 
 provider:
   name: eventbrite.com.au
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings"
+    excerpt: "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure."
+    publishedDateTime: 2021-10-22T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
   - title: "Start training for a cloud computing career as a Microsoft Azure specialist"
     excerpt: "You don't have to go back to school or spend a fortune to acquire the skills you need to break into the tech industry. You can take self-paced courses, even if you're working full-time."
     publishedDateTime: 2021-10-21T19:23:00Z
@@ -35,19 +46,21 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 77
-  - title: "Skytap Certified to Run SAP NetWeaver Workloads Natively in Microsoft Azure"
-    excerpt: "SAP Cloud Infrastructure and Operations certification creates a path to the cloud for tens of thousands of organizations running SAP NetWeaver applications on AIX on-premisesSEATTLE--(BUSINESS WIRE)--Today Skytap,"
-    publishedDateTime: 2021-10-19T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=549337"
+  - title: "Microsoft and Nvidia build largest ever AI to mimic human language"
+    excerpt: "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language"
+    publishedDateTime: 2021-10-18T09:30:00Z
+    webUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/"
+    ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 52
+      name: New Scientist
+      domain: newscientist.com
+    quality: 76
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
+        width: 483
+        height: 320
         isCached: true
   - title: "In Machine Teaching We Trust, Microsoft"
     excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
@@ -72,6 +85,15 @@ related:
       name: tech
       domain: techstory.in
     quality: 36
+  - title: "Microsoft launches new initiative to empower AI startups in India"
+    excerpt: "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging"
+    publishedDateTime: 2021-10-20T19:14:00Z
+    webUrl: "https://www.dailyexcelsior.com/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 36
   - title: "VirtaMove Launches on Microsoft Azure Marketplace"
     excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"
     publishedDateTime: 2021-10-19T14:32:00Z
@@ -80,6 +102,15 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
+    quality: 34
+  - title: "New Microsoft initiative to help Indian startups innovate with AI"
+    excerpt: "In a fresh bid to empower startup ecosystem in India, Microsoft on Wednesday launched a new programme that leverages the power of Artificial Intelligence (AI) to support both B2B and B2C startups."
+    publishedDateTime: 2021-10-20T05:51:00Z
+    webUrl: "https://www.sify.com/news/new-microsoft-initiative-to-help-indian-startups-innovate-with-ai-news-education-vkufP8ajajbch.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
     quality: 34
   - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
     excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"

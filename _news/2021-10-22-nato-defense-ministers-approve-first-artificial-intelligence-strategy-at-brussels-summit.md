@@ -54,18 +54,18 @@ related:
       domain: govtech.com
     quality: 37
   - title: "NATO defense ministers adopt strategy on artificial intelligence"
-    excerpt: "NATO defense ministers on Friday approved the alliance's first strategy on artificial intelligence and the establishment of the NATO Innovation Fund. NATO allies signed an agreement on setting up the alliance's first Innovation Fund,"
-    publishedDateTime: 2021-10-22T13:09:00Z
-    webUrl: "https://www.timeturk.com/en/nato-defense-ministers-adopt-strategy-on-artificial-intelligence/news-46405"
+    excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO"
+    publishedDateTime: 2021-10-22T16:30:00Z
+    webUrl: "https://news.az/news/nato-defense-ministers-adopt-strategy-on-artificial-intelligence"
     type: article
     provider:
-      name: Timeturk
-      domain: timeturk.com
+      name: News
+      domain: news.az
     quality: 37
     images:
-      - url: "https://www.timeturk.com/resim/detay/4/46405.jpg"
-        width: 820
-        height: 500
+      - url: "https://news.az/uploads/2021/10/22/news/166577/original/166577-0889509.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "NATO releases first-ever strategy for Artificial Intelligence"
     excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
@@ -77,6 +77,6 @@ related:
       domain: publicnow.com
     quality: 17
 
-secured: "b0DQhgAs/iHv+JquYafCyjWrbVYu3cX372OsUvCCRGAoHaLIpYmDPEWKe+4ynmT7RDKKWmu8xTNnoFDA4j1QhunAOY+8FKRMuMkq1azgcGRPLyDBhcNqCp5H7lg2nO1S0UChnwRhm5fMIJr77ZxdDD58YvdeALE2ZkbbO8tAUWLbZ8guRoHA/zksMPh8s5I2Ga4lgN5aDpA4l+xWILjDipHZadn9ImPn7BsN+7Odzd+37bJpAwMpp7t1ymyn8Qu/0d4mHhi8VJ3MkMCtohafD40s6MUMq1SItP7qklDklGdZrTKjeovTveIl4ZSA3yzmuDIOwCUDio2snnHUYCRSjItfyxejMYOzus8cHDuzqN4=;Wi4x6I968TpOqfd2llmPAw=="
+secured: "PtEAxnvG6B/zXDH4yTv1AMt2a1VjSpwhefl0IqvPKzgugxVLyrQVEUM7nvMKp+zP/9wEYdT2cTg57UET4RPjMNh8ALYRFNJWWxpp9ROV8KWWbldL1Zs8ZS8XVxcmB8ZQ60uxNmK4EpVkNGHQ4O/0wujs5vDqN7O/sTNQbKfo2zwQAg7y2aFA4oS/ebSqbRMEfiF9tqG5xGJ1loa0uWfE3TkXlYtLpMjMMKaD9pzW+SlZXUoas9ffhJtKTlszvpQgbHokHxClo8YWzOV7SXVGLRhmT0DxwZ4D9LCXZlkcrZ8DAv6SH1FFKgNMJtuIXDXTINdhOs4SZPm926lg3iPyE2EoBBNzxn929rhuQIVqM0JmwrFAmGBs5scgB0X1PWe1AhlIZzorUTMirnfZvi2dbtuWhNACyfIJnp2XLLVxF/uVm1TVu4RRc1BJihYHFpf9e7ymbD4oLy4+sZU/xhn3QgYrpHWxz4U3EVAQrzQXD4JbdgQXIpv7h4Lt2rXMlQB18vfgzzH0d1TWb6a9kmVVYQ==;L01OY40Z3WX84Sv4IK+nUw=="
 ---
 

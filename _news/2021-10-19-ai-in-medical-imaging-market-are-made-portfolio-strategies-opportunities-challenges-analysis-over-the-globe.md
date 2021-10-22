@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-are-made-portfolio-strategies-opportunities-challenges-analysis-over-the-globe-2021-10-18"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,22 +25,18 @@ topics:
 related:
   - title: "Artificial intelligence spots anomalies in medical images"
     excerpt: "Scientists from Skoltech, Philips Research, and Goethe University Frankfurt have trained a neural network to detect anomalies in medical images to assist physicians in sifting through countless scans in search of pathologies."
-    publishedDateTime: 2021-10-21T20:26:00Z
-    webUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html"
+    publishedDateTime: 2021-10-21T18:34:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/932366"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 21
-  - title: "Computer Vision Market – Growing Trade among Emerging Economies Opening New Opportunities by 2026"
-    excerpt: "United States Portland The report presents an in depth assessment of the Computer Vision Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and"
-    publishedDateTime: 2021-10-20T06:16:00Z
-    webUrl: "https://www.openpr.com/news/2433949/computer-vision-market-growing-trade-among-emerging"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bde4d8fe-d6e5-4142-9103-f2997cfa1910/Rendition/low-res/Content/Public"
+        width: 700
+        height: 234
+        isCached: true
 
 secured: "x8VR/wvcZMmNKVRACzZY5+EW3FXdFiDgG1kl9JwCITyTvD0OwJJyCimEq2GrhoQ/tQXDAJjx0WxAMZObBGBPgIAjvB+vCCBqdKukDcKluV+TLh2DYIoiF3ccTBvkGGUhOG272vSLxULU+YdGqTNNcNftbJJucLmWpDZ4Fj6FUXt7xpU8fsRv07M7u/oYQ9Qoufci6NwGLG8kBM1w/ZYhS3CcQGUA5X7bRDeB3fdLGYTyGKaT96CoXuE3aobc+OAtY0utgXzNplxN0pAVT8m1bjdH3eChtJoPCWjQVos5aAub0f/9vNBcmpRKW8LAie07R0pyHnKZZ6/1n5gBMs3QS6+Pp/6iARHDImYUcXO3S7Q=;M2phOvo1ErvvJVM8MnY14g=="
 ---

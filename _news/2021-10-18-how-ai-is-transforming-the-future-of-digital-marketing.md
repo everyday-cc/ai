@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 344
+heat: 334
 published: true
 
 provider:
@@ -231,20 +231,6 @@ related:
       - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"
         width: 700
         height: 525
-        isCached: true
-  - title: "The challenges of regulating AI"
-    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
-    publishedDateTime: 2021-10-17T23:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
-        width: 848
-        height: 565
         isCached: true
   - title: "DAFIA leveraging artificial intelligence to transform inspections"
     excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable"

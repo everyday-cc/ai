@@ -40,20 +40,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "ConveGenius AI, India’s Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
-    excerpt: "ConveGenius has raised $5M USD in Venture Capital funding to grow its conversational AI platform in India and South-East Asian markets. The company first launched its conversational AI platform in 2020 with a focus on providing a tailor-fit EdTech solution that offers an adaptive Whatsapp-based learning system for K-12 students from lower tier cities,"
-    publishedDateTime: 2021-10-19T05:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-b4afbe816ca6c9e45fdde8dfe3cf0b1b"
+  - title: "ConveGenius AI, India's Leading EdTech Startup Raises $5M USD (Pre Series A) for Mass Market Direct-to-Consumer Expansion to Serve 100M Households"
+    excerpt: "LONDON, SAN FRANCISCO, and SINGAPORE, Oct. 19, 2021 /PRNewswire/ -- ConveGenius has raised $5M USD in Venture Capital funding to grow its"
+    publishedDateTime: 2021-10-19T05:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/convegenius-ai-india-s-leading-edtech-startup-raises-5m-usd-pre-series-a-for-mass-market-direct-to-consumer-expansion-to-serve-100m-households-1030876148"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 9
 
 secured: "XkX/bqXjaQLa+9+lsiGudRZboxM7uHmqrk46DBTxG8dT7bw7CLYdJA8Kgc9cpQwlad5AxbuU525tBwxNlMVMCWnv4skzuZdBQsyxHMfjdwL9XBmDpJP86tHgpooeMS+MaMG2xeu/w2pO0qkjr93s+5Tu7Kq7jVIpKlKfVnjAHhNOljX1P5qRbp86HckTWtj78+r7SmrlVsIcqiHWCQ6qCO4Y044Y9OPgedTAEutPDvgwgx2AI7tql3yqxcrHCY1ZiEzyteNHU27Ud1sA+wv+LGIPHde1dMH00Hh+4MoB0+2qW6uZOBpzTOV/9UkjHwFTmz4y0rGb51V9TiKqLXG6x+vwCiTvEYV0mBBoe6vzxVI=;P9yofpfn6hlFtGlTuKfz0A=="
 ---

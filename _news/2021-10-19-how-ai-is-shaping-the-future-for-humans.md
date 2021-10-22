@@ -232,20 +232,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "The challenges of regulating AI"
-    excerpt: "As artificial intelligence is becoming a facet of everyday life, what can regulators do to ensure the public's rights and privacy are protected?"
-    publishedDateTime: 2021-10-17T23:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/10/18/the-challenges-of-regulating-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/10/17/1332756.jpg"
-        width: 848
-        height: 565
-        isCached: true
   - title: "DAFIA leveraging artificial intelligence to transform inspections"
     excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable"
     publishedDateTime: 2021-10-20T00:00:00Z
@@ -353,6 +339,6 @@ related:
       domain: morningstar.com
     quality: 6
 
-secured: "Z+MkiQBSn1b19Tc+T7huSF/1ozMllV/2hoCFTAL9W17538VkAmVMPtOdnjLIUgr73el6uea7s0s1RKq8Wev5a6eTRLJ5/bvdmOzaAO4ypBjr6ZMyfPYSvELEDUhDU7SdSVXykyK6rfmZHkczlSqFizVGQPPsqYxMDnqWWgY/qyVHEs8LEw1LBs62F8BOjOkDmTrcGL3QeZTSkd5WU9kIxlr0TJA4iUQ1G/umgidmx+EhKB7wb/NADjqLLPkFXaAWXMicaCYduJiB2jvACPdulfhTlfb1UDeSbQqXNW1MJJA97CPX3SQ/g09v8kWZKqBFDbxwGi66kHbfvaZx2YOBe/euSuNF3h5aYlphvODaCNY=;rxJJOzPGFAiW+ds0+y7I6w=="
+secured: "rvCNLFMJP9aV3btu+aOPLOVkmpgz7P5X4gIhZt6xY+et0Kaw5XlW+HD2q6ewzagqJLricz1shFcSio2iwDo8iNeDStQ7ADpw3ydDAQ5q06seVtKzLpgoa3A94KBI3c8q4PV3UYc576TfbnIL/QmTjqq9IJDKbDvfV2BJUpILGtjw0cBCFJF6Zqgr2FaJkSajMoGYrabATiLUxk3aBD2reyCiZXLG7xT0Fi9sBHGY0JhJyDrveK/LHGM1vzxm6/jsXvj4q7Vo1+teZvALcdGvvKTWcN66I17A2q4Yvnr8v4BkzhYWjr0vOsj1LG46377Kgq3Cj37DlbxeE8DXAVPWI8aslabR9f7clZA4GhtUcNzx/3nNGeB3QlGfMVzx8KXbJlI2TPR5Fm1dwvW8ROvp68ULqpDyDNJl3RbpXOuM2aTr00HyOWfVpSxjetsJ6jgWDlOZWt8ALLPEKg9/5nHojJa1T/gzTvMwrdKzfAVgVCqfugJJlwxPDwVmpFetz4Gb7qil0ZQOPWAAqscgqfD9XA==;oRuxTCiWZcoBRXMpHxDBmQ=="
 ---
 
