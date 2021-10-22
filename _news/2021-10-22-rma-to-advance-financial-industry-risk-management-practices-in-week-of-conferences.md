@@ -3,18 +3,18 @@ category: news
 title: "RMA to Advance Financial Industry, Risk Management Practices in Week of Conferences"
 excerpt: "More than 5,000 risk practitioners from the U.S. and Canada are slated to attend the Risk Management Association's (RMA) trio of conferences the week of October 25. RMA's Annual Risk Management and Internal Audit conferences,"
 publishedDateTime: 2021-10-21T19:56:00Z
-originalUrl: "https://www.wagmtv.com/prnewswire/2021/10/21/rma-advance-financial-industry-risk-management-practices-week-conferences/"
-webUrl: "https://www.wagmtv.com/prnewswire/2021/10/21/rma-advance-financial-industry-risk-management-practices-week-conferences/"
+originalUrl: "https://www.kmvt.com/prnewswire/2021/10/21/rma-advance-financial-industry-risk-management-practices-week-conferences/"
+webUrl: "https://www.kmvt.com/prnewswire/2021/10/21/rma-advance-financial-industry-risk-management-practices-week-conferences/"
 type: article
 
 provider:
-  name: WAGMTV
-  domain: wagmtv.com
+  name: KMVT
+  domain: kmvt.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "6bGb6WZNpYL4bFTY6VX8SJiBEzvyHLXRvg/mWX8A+rxsxu9g/hEsCOHcZtg7NOZvbXe/GPvi9oc2uc4WW0ksRzskuNlw2uaQ9aAv7g4CTEPNpJHaM/uAlFe3eO1zEvez0kumTwKE6a9CN54BLO9Od7/sCJQSYkQjY6qGgR4eae06xf5nuK8Qj11be5zF9siEqrOJaRg0Nn3agunj6mcXGbg/SmrccUq9us8hAbLnwym16AAMTs7vMv79+aSaYvR1A0kESJ610aXVkPzHUFEzhX9XfpcTCGB8RUzfNNwjOz5ofHm0RF+v2FfX4an2sXCgfobEGCR4cFeoadR40SyC8iVUxSNUQ//ynUzpe/WupiI=;Ko5XDea/X93omuFu3s9EWw=="
+secured: "C0ez6mtLl5BEPHZxWscGRA8a897fMsDeZO/abimaqGlkrPHuppezm/vsaYDuFSwPiuMLZ/MEkLv2zEMxCcptRi4QvFNQHWJgUEiVIl/a9pAcRa2TEfikZXjYUrWfxwZ5vA2rBB+ZrJR6/tlT9hUu50B4Yyd/F7y6zI/QEC/vY2q7TN36F7OY4cxpN9s2w+03Ouc2nk++x79FMs0q1lQhLLZopfTZZHOl6IFr0Mp0fhmrpdi+tWz8lxOr/AkXZGQqPhQFJRHao/FEz54XUHbCKzmUHqXEU45TTZeJ6D+TTl1qutB/YZhZsqvfoWdQ5tv1zARUHIEdQT6w2BDqSXQLiXlegZ2QJzTwcvhIZA1cPTDXqpMLrHvfVcWGa6vwcKWFwFozimi7JG/rgbj1euAIfaq7o/9ahaso9FvyuIZNVlIu/pTJv9hFV69MgeMeKXS/mNQZwLLxEFwYDENIr14me5j+iy01ueztyjFB5FwGrCSZCcy3ZPoxOXxQZ6BjgIXRtjJZP8YzFEgfypWx8UdwSA==;KH6zKJpYRh6Z5YCGi5+UXw=="
 ---
 

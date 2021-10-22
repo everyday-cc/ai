@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 secured: "dYt6P+crb43bqkv1KlDhG0IsSdOjE1wt/RY0PdJTWtu2qy+wUGvhrM35xKJSsRXX+vtyy5abqPG1+l3dK3LR7/B9b+sctewg41o1noU1K/XkvRfQzktGqgNUlb4jjVpfdBOpPE93gStiHKeMETXKwXSZf/QLKkIw9nLhz6sTCFIcX95C9ETXXkyBwGK9PWouW4PzvkUVyU7iwZ3/l/0Rz4uhf7ule2hrYDI5hxvQIgh3IFDBWfCh1eChhfRj9xnKHMo+f4CutXGZhoYHm6uiy/pZANnKlCHjdxOSKbLdcYPAuuc837LynNAEt2uznp20qG67w01VSloKw8vJDDatD6MSYpmMs1ENHebXXb6O8CE=;zdkjyOzKEZLtkFHlK3heTQ=="
 ---
