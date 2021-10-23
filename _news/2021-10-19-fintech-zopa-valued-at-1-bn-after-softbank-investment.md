@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesstoday.in/amp/latest/world/story/fintech-zopa-val
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/world/story/fintech-zopa-valued-at-1-bn-after-softbank-investment-309740-2021-10-19"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "British fintech Zopa hits $1 billion valuation with SoftBank investment"
-    excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
-    publishedDateTime: 2021-10-18T21:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "British fintech Zopa hits US$1 billion valuation with SoftBank investment"
     excerpt: "British digital bank Zopa has raised US$300 million from investors including Japan's SoftBank Group, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
     publishedDateTime: 2021-10-19T05:32:00Z

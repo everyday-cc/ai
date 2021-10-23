@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "British fintech Zopa hits $1 billion valuation with SoftBank investment"
-    excerpt: "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year."
-    publishedDateTime: 2021-10-18T21:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Fintech Zopa valued at $1 bn after SoftBank investment"
     excerpt: "SoftBank identified us as the clear leader when it comes to digital consumer lending in the UK, and they are also big believers in the use of AI and machine learning for lending and pricing."
     publishedDateTime: 2021-10-19T05:08:00Z

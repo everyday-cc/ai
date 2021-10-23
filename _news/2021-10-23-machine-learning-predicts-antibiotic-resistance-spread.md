@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Helps Predict Spread of Antibiotic Resistance"
+    excerpt: "Machine learning helps sort organisms by their functions and researchers use the days to predict how genes are transferred between them. This approach could potentially be used to stop the spread of antibiotic resistance."
+    publishedDateTime: 2021-10-23T15:31:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/probiotic-supplementation-reduce-antibiotic-resistance.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Machine learning approach effective in predicting antibiotic resistance spread"
     excerpt: "Genes aren't only inherited through birth. Bacteria have the ability to pass genes to each other, or pick them up from their environment, through a process called horizonal gene transfer, which is a major culprit in the spread of antibiotic resistance."
     publishedDateTime: 2021-10-23T03:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner survey of CIOs highlights investments in AI, cloud and cybersecurity"
-    excerpt: "A new survey from Gartner found that a majority of CIOs are focusing their investments this year and next year on AI and distributed cloud technology. The 2022 CIO and Technology Executive Survey features data gleaned from 2,"
-    publishedDateTime: 2021-10-18T21:11:00Z
-    webUrl: "https://www.zdnet.com/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Resecurity® Demonstrated AI-powered Cybersecurity Platform at GSX 2021"
     excerpt: "Resecurity®, a Los Angeles-based cybersecurity company, today announced the unveiling of their new cyber risk management solutions at the Global Security Exchange (GSX) 2021 conference in Orlando, Florida."
     publishedDateTime: 2021-10-18T23:57:00Z

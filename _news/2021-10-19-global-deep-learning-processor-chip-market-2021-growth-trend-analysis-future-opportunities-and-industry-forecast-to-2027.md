@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Underwater Computer Vision Market 2021 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2027"
-    excerpt: "MarketsandResearch.biz has announced a new market research study on Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2027 which includes accurate analysis at global,"
-    publishedDateTime: 2021-10-18T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-key-performance-top-players-segmentation-future-plans-and-forecast-to-2027-2021-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
     excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
     publishedDateTime: 2021-10-22T06:39:00Z
