@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
+      "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
+      "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Fireside-Chat-with-Arthi-Rajan-Makhija-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
+      "publishedDateTime": "2021-10-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-as-insurers-invest-in-robotics-lever-up-on-ubot.md",
       "title": "As Insurers Invest in Robotics, Lever Up on UBOT",
       "excerpt": "Insurance companies are looking to invest more capital into shoring up their robotics to help support core business operations. As such, the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT) is worth noting.",
@@ -1292,58 +1336,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-amazons-astro-is-a-robot-without-a-cause.md",
-      "title": "Amazon’s Astro Is a Robot Without a Cause",
-      "excerpt": "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazon-astro/",
-      "originalUrl": "https://www.wired.com/story/amazon-astro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-astro/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp",
-      "publishedDateTime": "2021-09-28T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

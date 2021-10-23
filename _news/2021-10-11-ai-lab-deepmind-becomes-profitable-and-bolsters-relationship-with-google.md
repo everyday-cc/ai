@@ -1,33 +1,24 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company."
-publishedDateTime: 2021-10-10T22:16:00Z
-originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
-ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
+publishedDateTime: 2021-10-11T13:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
 type: article
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - Google AI
+  - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "zX8dAUc8rRmppvwxUIChSYpJ8einAQWc1NY8jl4x8vbUDkBgKYPPGSzlXB3ZlQYQm7Rh8b4SRHwOFS5q08RZJqLzs4lT81aAEK0zZ+EoG1PjfNuLCSDRQ3x1vLkrgySrUhUEdaShMHIKfgmcBLr9fFxy+rqDZlPh6ZriMD1KJh6JiOuTZ9axxb7EGTR5kiAf+NR61u0w5CCmSXUVLOyzb2K/7OGzcqyDHe3BWBwblV43cECTEYyftFswVI/lJV+hyD3IlYsLqaP2JTDjeveRHwNVUG0fQw5nZW+Fyu4k8DwfPfUxq8fwyVvp//CbjsndABS1wEotf83N/xt5EqxjziFVla2kGngBktO8acPF0FE=;BjSqXvdDGR2S5GiB0zXjYQ=="
+secured: "Dg88Vfc1eYtRAdV5b+/LastuwalTy2OQBubfFYZifawl6mGVTGnfOi7k6bluVFGqMNWjYhXdoXa+g1hJc5gyD4zrJTA39qs1/ZqjCgkjPsBmScQOh2yFveEiSO9gHlly/EskdTqs6XxzMFBG7DCF8VM41iHk8SlWXCHgY7QSh7i3unIGtJB9P5RZQuEAb4eoK3ZuSRIb+CZOr79zHU/XoK4Y7LfxW3sX27CV97vVu0tIC9jZgJKnYZYJKJ+pPxIbUjwXelsq07gHuJf1AchgL0OJkHYbA/qkF2ugGOTdCl9l5Qk55TUkRQ1To7Pfv/ynlY+SZncU34Dt4XYhvRk8s8NzBa7aDZcIgEtk4o/01Tw=;sR308lwvV0AnABc1i//UAA=="
 ---
 

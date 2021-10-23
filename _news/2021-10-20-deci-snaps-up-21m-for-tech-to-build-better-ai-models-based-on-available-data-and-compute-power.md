@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-buil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 4288
         height: 2848
         isCached: true
+  - title: "AI model optimization startup Deci raises $21M"
+    excerpt: "Deci, a startup developing a platform to optimize AI and machine learning algorithms, has raised $21 million in a venture funding round."
+    publishedDateTime: 2021-10-20T18:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/20/ai-model-optimization-startup-deci-raises-21m/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Deci raises $21M to leverage artificial intelligence to optimize algorithm development"
     excerpt: "The platform uses end-to-end deep learning development to aid companies in building, optimizing, and deploying advanced models for cloud, edge, and mobile."
     publishedDateTime: 2021-10-20T17:06:00Z

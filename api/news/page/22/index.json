@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-10-04-cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities.md",
+      "title": "Cognitive Media Market Size Analysis By Growth, Emerging Trends and Future Opportunities",
+      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. Is there a problem with this press release?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-2021-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-gilbane-and-nextera-robotics-form-jv-to-supply-more-robots-to-jobsites.md",
       "title": "Gilbane and NeXtera Robotics Form JV to Supply More Robots to Jobsites",
       "excerpt": "Gilbane Building Co. will jump from pilots to full deployment of a jobsite robotics platform developed in joint venture with robotics startup NeXtera.",
@@ -1099,59 +1151,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-portrait-of-an-ai-leader-piyush-gupta-of-dbs-bank.md",
-      "title": "Portrait of an AI Leader: Piyush Gupta of DBS Bank",
-      "excerpt": "Thomas H. Davenport and Randy Bean It is widely agreed that support from senior leadership is necessary for the successful adoption of artificial intelligence within large organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "originalUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFbJ5Qb8lZkIw/article-cover_image-shrink_720_1280/0/1633186737649?e=1639612800&v=beta&t=td8ODBukagJTby89xG7Qy5BDURAwyKz0WyrMsrtLQxU",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

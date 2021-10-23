@@ -380,6 +380,57 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-cybersecurity-data-monitoring-platform-queryai-secures-15m.md",
+      "title": "Cybersecurity data monitoring platform Query.ai secures $15M",
+      "excerpt": "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
+      "originalUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/",
+      "publishedDateTime": "2021-10-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
       "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
       "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
@@ -1138,58 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
-      "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
-      "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=1000",
-          "width": 1000,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
-      "publishedDateTime": "2021-10-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

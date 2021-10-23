@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Hybrid Cloud and GBS in Focus Ahead of IBM's Q3 Earnings"
-excerpt: "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson ... technologies and AI-related solutions is expected ..."
-publishedDateTime: 2021-10-18T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18"
-webUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18"
-ampWebUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp"
+excerpt: "International Business Machines' (IBM) third-quarter results are likely to benefit from healthy uptake of the company's hybrid cloud and AI offerings."
+publishedDateTime: 2021-10-18T16:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/391818"
+webUrl: "https://www.entrepreneur.com/article/391818"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391818.jpeg"
+    width: 635
+    height: 400
+    isCached: true
 
 related:
   - title: "IBM Q3 report shows gains in cloud revenue, declines in IBM Z"
@@ -58,6 +66,6 @@ related:
         height: 533
         isCached: true
 
-secured: "QiPkR7q7ZZiCs6QRoBAmtH8yTAKwMBi5Z02l8zM7+DJw8l1dbeD5Dapx2xHsKBjTDH675cCFF96v9QOrm58vmIfhkPwN+gVrbHsgMEq1P3cU+DeVNeRKz3gS0pwsKhO1JATWZYrTFF0oVW8S2Xlu2ayBRGJGO5dextfcj7f3/1HjmxAU58ni6owULrINvNtq48+oNEMd5VQNu9HzfJqGGAz3H06qWQDVcwk+DvKJblQZGSkHSSbOgxSz7hkjmncpWn7PTE4NskaY0RZRVbBgcnaPdQAWBXrmQLSTjtBFspskflsX9+mCiaP+9+ZptTVYH3dFa8EZXumgl6dPJnS3n9NkOwgws04i/GC/TLsk2H4=;gQxfv9ESsaLvDFM9i2gtNA=="
+secured: "7ur1CvXttwW2LcWQ9ghuJP5qobh6SNfNDFiQXhP6stb09WhmzSBRJU8MaqhaYFEJzJI9yoxljvnSe3xKgG9J2aHboXynqS9/GPleDGwQ5eyM35RZ+fBmEqofY1OrXfdTAR/0Z0tMXPzUd6m81xMS9xpXrCEmr7+yIRUVtHVRKWcBAAbw98X2E6ssupqwJ+BuBsr8o5b01JGDlGmMkyhsxQ+n96HFXpOwjxnu/rnGfc5VBkmnvebAk9rMKmhjNv/VrkOAK7mK8ekvpFRDi1bGK9oehIoYanVL18HIDV7JN7KXFNThotAW96KWqd89K18zaexSbpCAVZFhmVbSlNp2psjYiljvMbwScWFoSW7j9Ys=;61k5OeEczOYniQH+nRoJPw=="
 ---
 

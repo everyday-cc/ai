@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/gartner-survey-of-cios-high
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gartner-survey-of-cios-highlights-investments-in-ai-cloud-and-cybersecurity/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Cybersecurity data monitoring platform Query.ai secures $15M"
+    excerpt: "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round."
+    publishedDateTime: 2021-10-19T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all"
+        width: 1200
+        height: 566
+        isCached: true
   - title: "Resecurity® Demonstrated AI-powered Cybersecurity Platform at GSX 2021"
     excerpt: "Resecurity®, a Los Angeles-based cybersecurity company, today announced the unveiling of their new cyber risk management solutions at the Global Security Exchange (GSX) 2021 conference in Orlando, Florida."
     publishedDateTime: 2021-10-18T23:57:00Z

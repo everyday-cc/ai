@@ -1,26 +1,28 @@
 ---
 category: news
-title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
-excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
-publishedDateTime: 2021-10-21T13:12:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
-webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
+title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
+excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
+publishedDateTime: 2021-10-22T06:39:00Z
+originalUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
+webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
+ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
 type: article
-quality: 27
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -112,21 +114,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
-    excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
-    publishedDateTime: 2021-10-22T06:39:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
+    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-10-21T13:12:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 42
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
-      - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
-        width: 640
-        height: 360
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
     excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
@@ -179,6 +179,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "YssvSl3HdeMy8Qa2h7pjeMbqjCoj1ozt2V4cGmT50yvNh+gcDuHn+BuhXP5OTPdkXzFAeVQtwMWqDgbluvqaCIPhGS6izQYUP6UGdbNIayJtBGpfsZMbENv7hBkwPErAyItqj4Zzo56hz6+DeYC6sfvvgJMGaWpHNc4hEsL5l554WykEk44AC96yu5R8Mq1GEvix+OXt+3V2Gxanfk430kbDhUZwAUTujTRR+MvDrud9/3EY/j109YGllhvK9lPRce+G/shWpS6nTwZdG+eEaV9T2DyOLRhfKImqGJSGERjj+X4+QVr9cs9fTvNsoklEmh9xpSUFJCh4fV0cKyXwO9LLr9qDI6veJF0HDs9sFKQ=;SgJuq7SKrcJN9KGRY58XMA=="
+secured: "wEKh4o51c7JPHz+j47ucdh14FHIZoOvjgBOZQ3xMCzqMHDgoZfaH2INDBb1eFx3D2yESb51A/h3Ij4AHkvcyoKHeMTJvdP4QBxxKPEphg+Oy0/E30ZCiUtFTm6/tckUgaOdhb89UBdfQgMQ88hLh1Md1inVWVyRrlnuPtibhyyLBRfVt9WJrLBcRagS07Pm4NNnIukoJSZT61QWcVxMP9VAL/1buMRs9diFlrS2jqWY/tv4fIBmiGt5F5H7YOpQLOLaQTJCymgktDSU0RZZ5K5NrxMylYdq1VuNqD2nWCEsdp47SRumtsdZtakXUGeyqyrPCClW2MoQ6JtjtyDEAnn40AgNOIu/GrnrgAohE4Fs=;OTL99GBLdXMLW50tW6vzPw=="
 ---
 

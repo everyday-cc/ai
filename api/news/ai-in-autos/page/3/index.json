@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
-      "title": "China vows further curbs on 'disorderly expansion' by tech firms",
-      "excerpt": "Sheng also listed self-driving vehicles and platform economies ... for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health Information Technology Ltd and JD Health ...",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-86554740,imgsize-21350,width-800,height-434,overlay-etbrandequity/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
-      "publishedDateTime": "2021-09-27T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-27-driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars.md",
       "title": "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars",
       "excerpt": "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look.",
@@ -1392,6 +1349,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-18-baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-to-automate-road-freight.md",
+      "title": "Baidu-Backed DeepWay Unveils Smart New Energy Heavy-Duty Truck to Automate Road Freight",
+      "excerpt": "Powered by Baidu's globally recognized AI technology ... The first generation of Xingtu is designed to enable L3 self-driving on high-speed freight routes and achieve L4 capabilities on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
+      "originalUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/baidu-backed-deepway-unveils-smart-new-energy-heavy-duty-truck-automate-road-freight?amp",
+      "publishedDateTime": "2021-09-18T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

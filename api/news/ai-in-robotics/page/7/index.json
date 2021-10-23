@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-10-agile-robots-announces-the-completion-of-series-c-financing-led-by-softbank-vision-fund-2.md",
+      "title": "AGILE ROBOTS announces the completion of Series C financing led by SoftBank Vision Fund 2",
+      "excerpt": "Agile Robots, a leading intelligent robotics company, has recently announced the completion of a Series C financing with a total investment of US$220 million. The financing exercise is led by SoftBank Vision Fund 2*,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-health-china-beijing-cb84803ca1add151f0b84e73a4ad8914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-09T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-finally-a-robot-vacuum-with-ai-that-can-sniff-out-and-avoid-dog-poop.md",
       "title": "Finally! A robot vacuum with AI that can sniff out (and avoid) dog poop",
       "excerpt": "They’re finally going there…so to speak. In what may be the biggest boon to animal lovers since pet food in a can, rolling robot vacuum maker iRobot has come up with an AI-assisted way for its newest model to tell the difference between pet poop and regular floor clutter.",

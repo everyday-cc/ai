@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity data monitoring platform Query.ai secures $15M"
+    excerpt: "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round."
+    publishedDateTime: 2021-10-19T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all"
+        width: 1200
+        height: 566
+        isCached: true
   - title: "Gartner survey of CIOs highlights investments in AI, cloud and cybersecurity"
     excerpt: "A new survey from Gartner found that a majority of CIOs are focusing their investments this year and next year on AI and distributed cloud technology. The 2022 CIO and Technology Executive Survey features data gleaned from 2,"
     publishedDateTime: 2021-10-18T21:11:00Z

@@ -2,6 +2,59 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-09-29-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
+      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
+      "excerpt": "Amazon announced a new $1,000 home-patrolling robot called Astro. Two people who worked on Astro told Vice they believe the robot's release is premature. Amazon said the characterization of Astro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "originalUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/615448c7b414c1001862dd24?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-astro-robot-may-fall-down-stairs-report-says-2021-9?amp",
+      "publishedDateTime": "2021-09-29T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-nvidia-ceo-jensen-huang-to-unveil-new-ai-technologies-products-in-gtc-keynote-hundreds-of-industry-and-ai-leaders-to-speak-at-november-event.md",
       "title": "NVIDIA CEO Jensen Huang to Unveil New AI Technologies, Products in GTC Keynote; Hundreds of Industry and AI Leaders to Speak at November Event",
       "excerpt": "NVIDIA today announced that it will host a global, virtual GTC from Nov. 8-11, featuring a news-filled keynote by NVIDIA founder and CEO Jensen Huang and talks from some of the world’s preeminent AI research and industry leaders.",
@@ -1096,59 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-a-developers-guide-to-machine-learning-security.md",
-      "title": "A developer’s guide to machine learning security",
-      "excerpt": "Adversarial attacks are different from other threats programmers face, so they need to understand the weak spots in machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/machine-learning-security-for-developers-1-e1632767450503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/a-developers-guide-to-machine-learning-security/amp/",
-      "publishedDateTime": "2021-09-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

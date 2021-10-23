@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
 type: article
 quality: 189
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
-  - title: "Event Recap: FinTech & InsurTech Live"
-    excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
-    publishedDateTime: 2021-10-18T11:10:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/20211012BIZClik_Card3_328.jpg.png?itok=L16u0JrP"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Anti-fraud startup Resistant AI raises $16.6 million"
     excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
     publishedDateTime: 2021-10-20T14:26:00Z

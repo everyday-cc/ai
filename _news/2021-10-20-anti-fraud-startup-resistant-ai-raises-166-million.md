@@ -84,20 +84,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
-  - title: "Event Recap: FinTech & InsurTech Live"
-    excerpt: "Industry leaders gathered at London's Tobacco Dock for BizClik Media Group's launch of the three-day, hybrid FinTech & InsurTech LIVE event"
-    publishedDateTime: 2021-10-18T11:10:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/event-recap-fintech-and-insurtech-live"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/20211012BIZClik_Card3_328.jpg.png?itok=L16u0JrP"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest Trends in The Fintech Industry and What to Watch For"
     excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
     publishedDateTime: 2021-10-21T21:17:00Z

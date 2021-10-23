@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-11-us-already-lost-ai-battle-to-china-pentagons-ex-software-chief.md",
+      "title": "US already lost AI battle to China: Pentagon's ex-software chief",
+      "excerpt": "The United States has already lost the artificial intelligence (AI) battle to China, which is heading toward global dominance because of its advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "originalUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/10/11/thumbs/800x531/151317.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/us-already-lost-ai-battle-to-china-pentagons-ex-software-chief/amp",
+      "publishedDateTime": "2021-10-11T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-how-ai-and-a-strong-need-for-sustainability-is-affecting-the-travel-industrys-evolution-by-jason-fong.md",
       "title": "How AI And A Strong Need For Sustainability Is Affecting The Travel Industry’s Evolution By Jason Fong",
       "excerpt": "We can’t just bounce back after this great stall in the industry, we need to make sure that we bounce back better. This means, ensuring that travel and tourism are more sustainable, more thoughtful, more meaningful,",
@@ -289,59 +332,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "Google AI"
       ]
@@ -1130,21 +1120,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
-      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
-      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
+      "path": "_news/2021-10-09-sophia-the-first-android-with-citizenship-now-wants-to-have-a-robot-baby.md",
+      "title": "Sophia, the first android with citizenship, now wants to have a robot baby",
+      "excerpt": "In early 2021, the Hanson Robotics company announced that they would start the production of hundreds of robots with Artificial Intelligence like Sophia, to help fight Covid-19.",
       "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
+      "webUrl": "https://www.entrepreneur.com/article/390238",
+      "originalUrl": "https://www.entrepreneur.com/article/390238",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1633717529-sophia-robot-androide-humanoide-bebe-familia.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,14 +1142,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "publishedDateTime": "2021-10-08T20:18:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1169,8 +1168,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     }
   ],

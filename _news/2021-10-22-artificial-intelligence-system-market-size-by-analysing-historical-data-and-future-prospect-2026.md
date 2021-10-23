@@ -98,6 +98,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
+    excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
+    publishedDateTime: 2021-10-22T06:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
     excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
     publishedDateTime: 2021-10-21T13:12:00Z
