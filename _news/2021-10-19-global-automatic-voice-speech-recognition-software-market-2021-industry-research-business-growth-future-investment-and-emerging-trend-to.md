@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
-    excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
-    publishedDateTime: 2021-10-18T14:06:00Z
-    webUrl: "https://www.openpr.com/news/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    ampWebUrl: "https://www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua18449376_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
     excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
     publishedDateTime: 2021-10-22T06:37:00Z

@@ -2,6 +2,101 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
+      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
+      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-nest-doorbell-battery-review-ding-dong-ditch.md",
+      "title": "Nest Doorbell (battery) review: Ding dong ditch",
+      "excerpt": "Most of us have a doorbell, but most of us probably don't have a smart doorbell, even if our house is otherwise loaded with ostensibly \"smart\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
+      "originalUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidpolice.com/wp-content/uploads/2021/09/10/Nest-Doorbell-Battery-Hero2-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
+      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/09/15/nest-doorbell-battery-camera-review/?amp",
+      "publishedDateTime": "2021-09-15T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-a-report-on-the-eus-proposed-artificial-intelligence-law-focuses-on-high-risk-ai.md",
       "title": "A report on the EU’s proposed ‘Artificial Intelligence’ law focuses on high-risk AI",
       "excerpt": "More than 300 companies have made statements about the proposed European law around artificial intelligence, presented last April. Its adoption will facilitate the classification of AI systems ...",
@@ -1042,92 +1137,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group.md",
-      "title": "Facebook – Election 2021: Green party cries foul over Facebook ad by labour group",
-      "excerpt": "Green party cries foul over Facebook ad by labour group The campaign team for the incumbent Green party candidate-Ladysmith, Paul Manly, has filed a complaint with Elections Canada over an ad that was paid for by the Canadian Labour Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2021/09/nanaimo-byelection-20190506.jpg?quality=90&strip=all&w=288",
-          "width": 288,
-          "height": 216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget.md",
-      "title": "OpenCV and Luxonis Launch Smaller, Lighter, Cheaper OAK-D-LITE All-in-One Computer Vision Gadget",
-      "excerpt": "New $79 crowdfunding price makes the OAK-D-LITE the cheapest model yet, despite its sleek design and impressive capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
-      "originalUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1348897/_dL19B7lDQy.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

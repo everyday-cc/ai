@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/unlocking-value-ai-business-applica
 webUrl: "https://www.linkedin.com/pulse/unlocking-value-ai-business-applications-modelops-giuliano-liguori-"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "'State of AI in the Enterprise' Fourth Edition: Becoming an AI-fueled Organization A Survey from the Deloitte AI Institute"
-    excerpt: "Key takeaways Why this matters Deloitte AI Institute's fourth edition of the \"State of AI in the Enterprise\" survey, conducted between March and May 2021, explores the deeper transformations happening inside organizations that are using AI to drive value in order to understand what the most \"AI-fueled organizations\" are doing to drive success."
-    publishedDateTime: 2021-10-21T12:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/state-of-ai-in-the-enterprise-fourth-edition-becoming-an-ai-fueled-organization-a-survey-from-the-deloitte-ai-institute-1030885671"
+  - title: "Increasing Sustainable Logging Practices With The Help Of AI"
+    excerpt: "AI can be applied specifically to logging operations such as planning where trees should be cut down and predicting the best time of day for cutting trees so they do not disrupt nesting birds or other animal habitats."
+    publishedDateTime: 2021-10-23T06:34:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6173ac70ad3db459766729d0%2F0x0.jpg"
+        width: 1200
+        height: 828
+        isCached: true
+  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
+    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
+    publishedDateTime: 2021-10-19T05:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 35
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
+    excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
+    publishedDateTime: 2021-10-20T15:18:00Z
+    webUrl: "https://www.plymouth.ac.uk/research/autonomous-marine-systems/sustainable-cotton-production-using-artificial-intelligence-scp-ai"
+    type: article
+    provider:
+      name: University of Plymouth
+      domain: plymouth.ac.uk
+    quality: 32
 
 secured: "eXwCMKGMCwPp2qN/g+Yah3aRBs0zDeH9X1yDcPLxqmPwBE/3/gW/pDcPltHGmE1s1DE0eilXJbIApbLjvMPePdSBeCLmOGdk24H05N5FiqhjJ4ubSK4Ik2uEqPeN+MO12X67p66FhR7Tgts++AGcwIr0Bu/njsVoAvnkBUnJfbDMgwq/enr1C05Jj08BjL+v23+19uB1vjulhqEPJT1PCJ4hYQImydA4n6hE/Z2/tsw582eJiSPEn831CW+413BkaknPorpcaTxpiMSmnb5OTvUJ8Q4iyXRAGq739x5xdEki+Sf9VMPQcpL5gjQSYF1XzvsXZXIwupAMJ1/21ocN8PwAWWV3UI2I5Rac2+7XfRU=;kPCeBZIeGmjMKGgLTNDNlQ=="
 ---

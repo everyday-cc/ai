@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Skills in the City: financial services sector looks to the future"
-    excerpt: "To what extent should organisations that compete fiercely to attract new recruits (and for business overall) be collaborating when it"
-    publishedDateTime: 2021-10-18T14:53:00Z
-    webUrl: "https://www.cityam.com/skills-in-the-city-financial-services-sector-looks-to-the-future/"
-    ampWebUrl: "https://www.cityam.com/skills-in-the-city-financial-services-sector-looks-to-the-future/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/skills-in-the-city-financial-services-sector-looks-to-the-future/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/10/FSSC-future-skills-framework-City-AM-18-10-21.jpg"
-        width: 767
-        height: 519
-        isCached: true
   - title: "Iron Mountain Wins Google Cloud Financial Services Customer Award"
     excerpt: "Google Cloud recognized Iron Mountain (News - Alert) for its expertise in mortgage document processing and investment in training machine learning models to automate ... and unlock insights for a large financial services company. \"We're proud to be one ..."
     publishedDateTime: 2021-10-21T10:45:00Z

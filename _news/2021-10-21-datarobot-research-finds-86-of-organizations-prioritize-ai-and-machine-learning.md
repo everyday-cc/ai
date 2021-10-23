@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "'State of AI in the Enterprise' Fourth Edition: Becoming an AI-fueled Organization A Survey from the Deloitte AI Institute"
+    excerpt: "Key takeaways Why this matters Deloitte AI Institute's fourth edition of the \"State of AI in the Enterprise\" survey, conducted between March and May 2021, explores the deeper transformations happening inside organizations that are using AI to drive value in order to understand what the most \"AI-fueled organizations\" are doing to drive success."
+    publishedDateTime: 2021-10-21T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/state-of-ai-in-the-enterprise-fourth-edition-becoming-an-ai-fueled-organization-a-survey-from-the-deloitte-ai-institute-1030885671"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "Investment in Machine Learning Keeps Growing, DataRobot Finds"
     excerpt: "After years of double-digit growth in machine learning investments, nearly 90% of companies grew their machine learning budgets again from 2020 to 2021,"
     publishedDateTime: 2021-10-21T19:08:00Z

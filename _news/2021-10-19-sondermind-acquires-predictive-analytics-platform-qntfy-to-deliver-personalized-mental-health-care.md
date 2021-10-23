@@ -25,31 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics"
-    excerpt: "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,"
-    publishedDateTime: 2021-10-18T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813"
+  - title: "SonderMind acquires Qntfy to bring machine learning to mental health care"
+    excerpt: "SonderMind, the therapy matchmaker that hit unicorn status earlier this year, has acquired machine-learning company Qntfy to bring predictive analytics to mental health care. The startup said the acquisition will help providers on its platform deliver personalized,"
+    publishedDateTime: 2021-10-21T15:34:00Z
+    webUrl: "https://www.fiercehealthcare.com/digital-health/sondermind-acquires-qntfy-to-bring-machine-learning-to-mental-health-care"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2021 Opportunities, Share, Trends And Forecast to 2030 | IBM, Mckinsey & Company"
-    excerpt: "Consulting market demand for its products and services is projected to increase substantially in the coming years. Although the market is at a strong position at the current state, the market at the same is undergoing price fluctuation,"
-    publishedDateTime: 2021-10-18T15:58:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-consulting-market-2021-opportunities-share-trends-and-forecast-to-2030-ibm-mckinsey-company/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 18
 
 secured: "uFtuimFIBSFDE0RP173O9n9ldCaIuYQfOOC7PtUoGAJFv2IiD3xULkt/GVcqb1dLdIdSF9DTVYIVAc3S8rMaX4FPi3Y0jdwOn5ceUctYldwqBNhWgzuGs1rwP5GTw/S0eHgOsGMLahyEAmsYG7O+3KJTB4qRGVY43CCGjrJ/xeV2IfHGcx3pd1hIRcfESgmorQi3r4j7s8adUkfY2Atewf9l3sH8WSuvkDn0VC5YsvrIRFAeqas+9rw5F5aGboH+sPuyT4zh4ksvPkD3kI07eDcsQenTfSr8OaysYa1bfqHFeQq2iBwt536AdhqtkReMhk11OBY3rPWGM6ev33N0+26MkJhxAa1ETkhIwgOQKxc=;/tpCGOj/haVp3V/VTphQAw=="
 ---

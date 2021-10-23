@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless Cars Could Learn to Make Moral Choices"
+    excerpt: "FILE - In this Tuesday, Dec. 13, 2016, file photo, an Uber driverless car waits in traffic during ... These questions are among the issues society must consider as artificial intelligence, or AI, systems become more common in various industries, according ..."
+    publishedDateTime: 2021-10-20T00:00:00Z
+    webUrl: "https://www.courthousenews.com/driverless-cars-learn-make-moral-choices/"
+    ampWebUrl: "https://www.courthousenews.com/driverless-cars-learn-make-moral-choices/amp/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/driverless-cars-learn-make-moral-choices/amp/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
   - title: "Hong Kong Fintech startup uses AI to drastically streamline workflows for capital markets and empower professional services"
     excerpt: "Harnessing the power of deep learning to handle the massive amount of data required for initial public offerings (IPOs). Aims to reduce time to verify IPO prospectus by 75 percent Aspires to become th"
     publishedDateTime: 2021-10-20T15:51:00Z

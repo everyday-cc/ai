@@ -37,6 +37,17 @@ related:
         width: 1024
         height: 597
         isCached: true
+  - title: "Driverless Cars Could Learn to Make Moral Choices"
+    excerpt: "FILE - In this Tuesday, Dec. 13, 2016, file photo, an Uber driverless car waits in traffic during ... These questions are among the issues society must consider as artificial intelligence, or AI, systems become more common in various industries, according ..."
+    publishedDateTime: 2021-10-20T00:00:00Z
+    webUrl: "https://www.courthousenews.com/driverless-cars-learn-make-moral-choices/"
+    ampWebUrl: "https://www.courthousenews.com/driverless-cars-learn-make-moral-choices/amp/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/driverless-cars-learn-make-moral-choices/amp/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
   - title: "Converging Technology: Driverless Vehicles"
     excerpt: "Bill Gates once said, “people overestimate what can be achieved in one year, but underestimate what can be achieved in ten years”. This is especially true of the disruptive nature of technology."
     publishedDateTime: 2021-10-21T00:20:00Z

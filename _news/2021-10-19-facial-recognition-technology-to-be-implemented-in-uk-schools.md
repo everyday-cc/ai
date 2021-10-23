@@ -41,22 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Facial recognition cameras being used to charge kids for school dinners"
-    excerpt: "Facial recognition cameras are now being used to charge kids for school dinners. Children will now be able to pay for their lunch using their faces in a new trial in Scotland. Nine schools in North Ayrhsire are testing out the new software from today,"
-    publishedDateTime: 2021-10-18T13:05:00Z
-    webUrl: "https://www.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
-    ampWebUrl: "https://amp.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
-    cdnAmpWebUrl: "https://amp-heart-co-uk.cdn.ampproject.org/c/s/amp.heart.co.uk/lifestyle/facial-recognition-cameras-charge-kids-school-dinners/"
-    type: article
-    provider:
-      name: Heart
-      domain: heart.co.uk
-    quality: 59
-    images:
-      - url: "https://imgs.heart.co.uk/images/267119?crop=16_9&width=500&relax=1&signature=WciML_qJHM7bdgJWlztKQE3JofE="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Facial Recognition Payment Tools"
     excerpt: "Nine schools in Scotland’s North Ayrshire’s school district have planned to incorporate facial recognition in their cafeterias. To"
     publishedDateTime: 2021-10-18T15:50:00Z
@@ -72,38 +56,6 @@ related:
       - url: "https://cdn.trendhunterstatic.com/thumbs/facial-recognition-1.jpeg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Facial recognition system to speed up lunch payments in UK schools"
-    excerpt: "Facial recognition technology has been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports."
-    publishedDateTime: 2021-10-18T13:47:00Z
-    webUrl: "https://www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
-    ampWebUrl: "https://www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/facial-recognition-system-to-speed-up-lunch-payments-in-uk-schools-326243"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/10/2021_10$largeimg_1461142736.jpg"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Privacy fears as schools use facial recognition to speed up lunch queue"
-    excerpt: "Nine schools in North Ayrshire begin using technology to take payments, with others in UK expected to follow"
-    publishedDateTime: 2021-10-18T13:53:00Z
-    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
-        width: 620
-        height: 372
         isCached: true
   - title: "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK"
     excerpt: "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve"

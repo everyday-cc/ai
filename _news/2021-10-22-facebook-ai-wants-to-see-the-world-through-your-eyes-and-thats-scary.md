@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-t
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: GIZBOT
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook AI moderator confused videos of mass shootings and car washes"
-    excerpt: "Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019,"
-    publishedDateTime: 2021-10-18T13:30:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/12/GettyImages-1074353570-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Facebook’s smart glasses could lead to Black Mirror-style privacy concerns"
     excerpt: "I believe it’s important for technology companies to proceed with caution and consider the security and privacy risks of augmented reality."
     publishedDateTime: 2021-10-22T11:01:00Z
@@ -64,20 +50,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 49
-  - title: "Documents show Facebook’s engineers have doubts about the platform’s AI"
-    excerpt: "This story, plus Sinclair TV stations disrupted in apparent ransomware attack, Noah Shachtman's plan for reviving Rolling Stone and more, all in today's"
-    publishedDateTime: 2021-10-18T13:36:00Z
-    webUrl: "https://www.pewresearch.org/journalism/daily-briefings/2021/10/18/documents-show-facebooks-engineers-have-doubts-about-the-platforms-ai/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 39
-    images:
-      - url: "https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2018/10/journalism.png"
-        width: 640
-        height: 320
-        isCached: true
   - title: "The characteristics of the new AI model of Facebook"
     excerpt: "Facebook has recently come up with a new model of Facebook AI and here are the few things you need to know about it in 2021. We will also discuss the problems that are connected with the new AI models and how the business will be affected."
     publishedDateTime: 2021-10-19T10:57:00Z

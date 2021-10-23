@@ -38,20 +38,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Rise of the robots"
-    excerpt: "I was reminded by one of our many automated systems last week that we‘ve a pretty big anniversary coming up. We hit our 20th anniversary of our business on 19th October 2021."
-    publishedDateTime: 2021-10-18T13:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/rise-robots-mark-tunstall"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIYCx7diEIzg/article-cover_image-shrink_720_1280/0/1634561690703?e=1640217600&v=beta&t=Aq72nETbM5yLfA8yuwzXAnC6HZeGKxKcDJzdSozS7ZU"
-        width: 1280
-        height: 626
-        isCached: true
 
 secured: "9NmMctefZ+/5QC1xa2yGAF27xDU5ehDlA8NyKcgiJcOmahXzvuouoeuDon75Rbu8n4vnujVHNSOcyV927MD9s3s2ZOQC9f6xzoQcIkKHHGrx/TDsLPfUYflLT9udlM5zdvjHe9tq23dCgygr6xMA4gD+vszzhjWV0+w7+6dMSrM1smX7bs1I8SXSwwAnl7ECWvnbL5F07BRq3y+QQloATvt3lXRh+Y1/1oMzle+xMb8mB/nGUjGEhvW3A1DqmB6QTgoOmifK1zFwWb32I+iuGMWpj4EbVdgk19Z2laP3UwKCaiUJw4ADAnV/Jh3PJXnoZ3iPrLlLDgWJ+HRo8wj4x593iaQ3liGGkzgtHF3i6tM=;vQTJpJMVljZc31FG3jqMfw=="
 ---

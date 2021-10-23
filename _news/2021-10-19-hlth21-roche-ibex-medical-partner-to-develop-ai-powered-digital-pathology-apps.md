@@ -38,20 +38,6 @@ related:
         width: 1500
         height: 894
         isCached: true
-  - title: "Deep Bio Inc. and HealthCare Konnect (HCK) Enter Into Partnership to Improve Cancer Diagnosis in Switzerland & North Africa"
-    excerpt: "Healthcare Konnect, a Swiss medical device distribution company, and Deep Bio Inc., a South Korean leader in digital pathology and AI cancer diagnostics,"
-    publishedDateTime: 2021-10-18T14:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-inc-and-healthcare-konnect-hck-enter-into-partnership-to-improve-cancer-diagnosis-in/article_c153bdd3-d8f7-5303-83f9-94ca8dc33fa0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "qCuz8WeyioKRwnEB0GlUJgL4LXqOg1SXf1TPyDrA3veEE/YwY9jR3l4Fo+KjWQhX1nSprpn1Sw7Oq5fI/n6ry5UGIszcCrep05BcPacXVw3AeIdaS3UsLE40sfPYKwoiw9PtPu4diiY/FbrCzZ6m0kSVVCA0CLezHfFmCL+7NgSGNdVOKfWTe/7caTTZgyQG7WfriNvrYiQJ/B+AaPmJsmrt6iipwk1MNtXef43wVTzdqq5hkx3+ltB3Cvn89zgGYRghHBsb2hbMbHZ32EghEmUZ5yngCYaykYRpZBdIQxmrE+gBnF1NW18D8bk6j1uCx99CW9nH4KPoYJXnMKkpXIJyf0r/KCh/mBM4738kbIUL9VoI5O9Snr3y6UANdvdSL32fPOglGweSFZ938kd9/RetOi0aOlrdlXSt8AbYwVKKHRw8bv0t65hPYdpzNKMYlQ8euL/GZbHsI12v5YUyc1030/9XzAJMdG1+bKs9soQRMPxebQ4ENWX0nd+seVL6xA1CsfMArRd8Anl3+jg1jQ==;CAp/gauyudDtbI0UV40mNA=="
 ---

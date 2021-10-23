@@ -39,22 +39,6 @@ related:
         width: 1230
         height: 422
         isCached: true
-  - title: "Augmented Intelligence – Breaking Barriers in The Global Market by Top SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson"
-    excerpt: "SparkCognition, Microsoft Cognitive services, Numenta and IBM Watson among others are some of the major and emerging companies operating in the market. Market leaders are involved in partnerships, agreement and merger & acquisition to gain an edge over their competitors;"
-    publishedDateTime: 2021-10-18T14:29:00Z
-    webUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/"
-    ampWebUrl: "https://manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/augmented-intelligence-breaking-barriers-in-the-global-market-by-top-sparkcognition-microsoft-cognitive-services-numenta-and-ibm-watson/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 57
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Global-Sustainability-Software-Tools-Market-Including-Key-Players-Market-Share-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
 
 secured: "NThs0T3ef5asZnN82kuiDf7XH+rn1v2y9ziVRDM0Qqe7MoUVXAS45SqF0swyYoujXREETcJZoqCVUwuE7RzD90VJzdnObugmtSztoxJFvSnKuitfX6r2E+PC+0RISzeuopDPfMPt8mcnFm4kEmiWGAtgNRp03WdhRdIxV6qtZNrffxFWBmsy1xyHFeQNR/Upwoqzuypd65WUcwS4/ONhPnnqpc7J6Yq5RVd4Ai5Q0Wut3wtCEBWzilPTwR2AsyA+I6HAUAayjZhqxFwdHI3txgDIRxEWCF7Yae8R0HkQoRn9HZg8HnQOSlU/b69y/Ocz+SiTyXIijfNwzaYTCDlraRvglxWEofNJWwQuS9KZSmJ8dNfjq4DF9pfvR2XS6owINQRYSsNbKqdq8ADwgbuB/gtXB4JMLGizIjytsjct9V/uTCFxv/XllL1Y9SYHTiQj3cdBeP13O5YptZH9uT8LUq1SNgXPZAOlztVtMKMhnT9uUhXx0eBxth/Hj49Fpl58+/zzFRv0/pliLTShnJftFA==;nauMmZ3Na/E560abfQpP7w=="
 ---

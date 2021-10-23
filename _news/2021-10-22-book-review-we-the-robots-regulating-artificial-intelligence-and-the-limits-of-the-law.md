@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rise of the robots"
-    excerpt: "I was reminded by one of our many automated systems last week that we‘ve a pretty big anniversary coming up. We hit our 20th anniversary of our business on 19th October 2021."
-    publishedDateTime: 2021-10-18T13:15:00Z
-    webUrl: "https://www.linkedin.com/pulse/rise-robots-mark-tunstall"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGIYCx7diEIzg/article-cover_image-shrink_720_1280/0/1634561690703?e=1640217600&v=beta&t=Aq72nETbM5yLfA8yuwzXAnC6HZeGKxKcDJzdSozS7ZU"
-        width: 1280
-        height: 626
-        isCached: true
   - title: "God and robots: Will AI transform religion?"
     excerpt: "BBC Global Religion reporter Sofia Bettiza has taken a look at whether AI’s relationship with religion is just a gimmick, or whether it can truly transform how people experience faith."
     publishedDateTime: 2021-10-20T23:54:00Z

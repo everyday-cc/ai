@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market is Set To Fly High in Years to Come"
-    excerpt: "Global Artificial Intelligence in Aviation Market Insights by Application Product Type Competitive Landscape Regional Forecast 2025 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making"
-    publishedDateTime: 2021-10-18T14:06:00Z
-    webUrl: "https://www.openpr.com/news/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    ampWebUrl: "https://www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2431675/artificial-intelligence-in-aviation-market-is-set-to-fly-high"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua18449376_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Global AI For IT Operations Market 2021 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2027"
     excerpt: "Global AI For IT Operations Market 2021 by Company, Regions, Type and Application, Forecast to 2027 shows a significant understanding with respect to the working and development of the market on a local and worldwide level."
     publishedDateTime: 2021-10-18T20:40:00Z

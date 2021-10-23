@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/artificial-intelligence-as-a-service-mark
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-as-a-service-market-size-outlook/?amp=1"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 390
     height: 220
     isCached: true
-
-related:
-  - title: "Cognitive/Artificial Intelligence Systems Market Innovative Strategy by 2028 | IBM, Microsoft, Google"
-    excerpt: "A new business intelligence report released by JCMR with Global Cognitive/Artificial Intelligence Systems Market Report has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
-    publishedDateTime: 2021-10-18T14:18:00Z
-    webUrl: "https://maxwellgunterdispatch.com/blue-origin/29840/cognitive-artificial-intelligence-systems-market-innovative-strategy-by-2028-ibm-microsoft-google/"
-    type: article
-    provider:
-      name: maxwellgunterdispatch.com
-      domain: maxwellgunterdispatch.com
-    quality: 39
-    images:
-      - url: "https://maxwellgunterdispatch.com/wp-content/uploads/2021/10/chart-2021-10-18T194604.280-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "Pyhu3rVA6zavX0l/qgrfOjzzf/XZd4PBAm22TwWxaJ+6+4EoaBR2R5rrhGfSkxdmzNih3OSE2wvwiOtvy85wKgyRSdkHYCe0gKI/OdlG/1xAMOaBVfj3pwylFg9D9pv09riE7Le7SlXn4mQGYPbWIx/mB02eeahPFQLllp406p5d1kzUvM+nMxdock2844KiAUK978p9g7VV2jpZ9zdAIpe0byZsyXz6KupGMmyO8/o40QfsrPW4dfWUQsNzsdnWOCCCc4m0vO4EXnDShK6Ut8Fqhob6voSgCgQ5qzUs+/9Z90zj5tKHQbdr8Mk/gwWUz8UwHETNlFkxtEMfHGKYHh5eQH7swh+bi3bQuqEZjPVsjqijVDfiLGwNutI4zg2gYsbr7HWcDZcM+yIYAwObNTr82HlFll0T1Nkm42TTkwt+DBZiiBghy9/fyIqDMEBn5UGtRSYELW7FMUBBA5isLl2iIv6+1Law8N1hpTlKoLqinqQS1Y1NjMVxLUjJCW2SWBPJzV4W+scVPZMwZwemMQ==;fahsl7JX8mWrLfYuYJE2Ew=="
 ---
