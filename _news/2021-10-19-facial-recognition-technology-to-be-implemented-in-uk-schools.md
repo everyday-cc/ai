@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scottish schools serve up facial recognition for school dinners"
-    excerpt: "COVID, quicker payments and better security are all cited as reasons for ditching cards and fingerprints in favour of the new system"
-    publishedDateTime: 2021-10-18T15:31:00Z
-    webUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners"
-    ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
+  - title: "Facial recognition in UK schools prompts blowback"
+    excerpt: "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection."
+    publishedDateTime: 2021-10-18T19:18:00Z
+    webUrl: "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/"
+    ampWebUrl: "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1634568845/itpro/2021/10/shutterstock_school_dinner.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Facial Recognition Payment Tools"
-    excerpt: "Nine schools in Scotland’s North Ayrshire’s school district have planned to incorporate facial recognition in their cafeterias. To"
-    publishedDateTime: 2021-10-18T15:50:00Z
-    webUrl: "https://www.trendhunter.com/trends/facial-recognition-1"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/facial-recognition-1"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/facial-recognition-1"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
+      name: POLITICO
+      domain: politico.eu
     quality: 59
     images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/facial-recognition-1.jpeg"
-        width: 800
-        height: 532
+      - url: "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK"
     excerpt: "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve"
@@ -89,49 +73,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ICO to step in after schools use facial recognition to speed up lunch queue"
-    excerpt: "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments"
-    publishedDateTime: 2021-10-18T17:54:00Z
-    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1"
-    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+  - title: "Use of facial recognition to take lunch payments from schoolchildren sparks privacy concerns"
+    excerpt: "The firm behind the technology argues that the system will speed up queues and reduce the risk of Covid-19, but campaigners say that is needlessly normalising biometric surveillance"
+    publishedDateTime: 2021-10-19T16:26:00Z
+    webUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995"
+    ampWebUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 48
     images:
-      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Privacy campaigners condemn rollout of facial recognition in school canteens"
-    excerpt: "PRIVACY campaigners have condemned the rollout of facial recognition in some of Scotland’s school canteens this week. As of today, nine schools in North Ayrshire had began taking payment for lunches by scanning the faces of children."
-    publishedDateTime: 2021-10-18T15:09:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/facial-recognition-software"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 53
-    images:
-      - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
-    excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
-    publishedDateTime: 2021-10-19T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202110/scottish-schools-serving-up-fresh-privacy-debate-for-lunch-with-facial-recognition-payment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
+      - url: "https://i2-prod.buzz.ie/incoming/article25251235.ece/ALTERNATES/s615/0_GettyImages-724229739.jpg"
+        width: 615
+        height: 409
         isCached: true
   - title: "Facial recognition system to speed up lunch payments in UK schools"
     excerpt: "Facial recognition technology have been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports. Instead of conventional payment methods like cards or fingerprint scanners,"
@@ -150,15 +106,6 @@ related:
     provider:
       name: Sky
       domain: sky.com
-    quality: 19
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
     quality: 19
 
 secured: "9B9dOmJ6tUgIIGbdwlhguh0tWCR8Q7j83CLDWCAsVYj2TG9RIoHumffEVqHKtvjLcOzH3Ikgh8/WjSkqAT+v+BRm2N9Mo+uWzK3pqZ2RhM/iVsh6oCOy8siQMYIfiO1YuLGrwDATtGZI0c3tt8QlgqGHKZ+kCniU4z1TRxWQxtyID+3mPmUnXposRufq675lw7F9ij0cmCg/ooRu+7Q/hjQcZde3JmZfZoOsvbjUIjYm/8+jLE3SGHuBp3MR0IwxdM56516GsaiTrCZM70NLwqq0t6NQE2H3B7AsuIM7cK0HGInPQxpfMTzbzNDSLUt3H6lRLqv/W1yHrSKz06jej26oMO6OvytqnZn2Uauet2w=;pgZywquXcYFCNtIEvziE/A=="

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "On Faith: Algorithms, AI and amorality"
-excerpt: "Thank you, Frances Haugen. For anyone who has been living under a rock, Ms. Haugen is the ex-Facebook employee who has gone public about how Facebook’s algorithms are designed in"
-publishedDateTime: 2021-10-23T04:00:00Z
-originalUrl: "https://www.timesargus.com/opinion/perspective/on-faith-algorithms-ai-and-amorality/article_3f297b72-9af0-5530-8e8e-1e7ef28bd63f.html"
-webUrl: "https://www.timesargus.com/opinion/perspective/on-faith-algorithms-ai-and-amorality/article_3f297b72-9af0-5530-8e8e-1e7ef28bd63f.html"
+excerpt: "Another thing Professor Crawford’s research has shown is that AI is not very truthful ... Frances Haugen’s warning about Facebook is about something much bigger than Facebook. Ultimately, it is a warning about the vacuum we are encountering in the ..."
+publishedDateTime: 2021-10-23T03:00:00Z
+originalUrl: "https://www.rutlandherald.com/opinion/perspective/on-faith-algorithms-ai-and-amorality/article_71dedbd9-0959-5897-b1b6-0ebff107c13c.html"
+webUrl: "https://www.rutlandherald.com/opinion/perspective/on-faith-algorithms-ai-and-amorality/article_71dedbd9-0959-5897-b1b6-0ebff107c13c.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Times Argus
-  domain: timesargus.com
+  name: Rutland Herald
+  domain: rutlandherald.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/custom/image/b304aa08-5df8-11e8-b455-b382f4872e89.jpg?resize=600%2C748"
-    width: 600
-    height: 748
+  - url: "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg"
+    width: 1440
+    height: 1440
     isCached: true
 
-secured: "dG+ti0k+UYrj3Wlqfswt5oB2nEhcL0Vntrj5+G3Aa+/g/Bao+s/ZtXH6e2sQ2GWSs2HQERVCC/u0a70FvwXMvBuGK9jXCwoaB74R9S+uuJVwq/qODnGFKIQ5Xpp/5uY9SENC5i4Nec2fwMzfiBf96evOXVOmuC9n/lHn4iWtQbI6K4i0e2e2hAJDCJbM5kDz3zxExYkMo8vj7UqJSSznoExqUx14DVoSiIAlMo64Dhvpwl+7rEraTKT4FX0C6QoDQO6odN39VahcZdjt9z0QGli5+tTRMdYeJZeXCNqKImptkGZoGXfmbrgxP7tl9920S4XgcexTmBSNPRWzVLVVAh/LMteoUZfnYq7cW4gzZEc=;P7SbuKRyRmYAyUsau79cEQ=="
+secured: "nV4oUnYEXh/ZjCzJgJtVIC9OzrxIJDEV9B5Df4RNv+GzvgrtNM87y8IGzotWY4WwGWC7bTiEcW8rV3x/R6OVHGYV6z/xhkKImP/NK1RJ7FNLZkSknMrYshkRNtmSWRdIHHLGz3+Dg7RmvF7XnAQcwqKy60h+nVhb8yeReTTBRzZboabESMjwplpJik2/k6FB3qKLu1s3gutAd6R+3bietwmY0dabE40BpaakbHR9f1E/XKLMGfEJ07hDJFDm0EeacA8MUYRgBr4T4ISQW91r8EGeGNdj1dMNpGbfK5LpgEC8cSABubkoeNCON5K2kN3Zl6VJqa8H+S6gzJI6KWpP3ksqmOPIW6Rm3zT7yiFrjTI=;9SMTTfXqotcwhz2gqUyZdA=="
 ---
 

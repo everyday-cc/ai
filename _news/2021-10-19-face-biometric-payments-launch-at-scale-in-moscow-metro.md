@@ -41,15 +41,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Moscow metro starts facial recognition payment system"
-    excerpt: "Moscow metro has launched a system to take fare payments via facial recognition at over 240 stations across the Russian capital, according to Engaget, citing The Guardian. Passengers can now pay for their trip by looking at a camera."
-    publishedDateTime: 2021-10-18T15:41:00Z
-    webUrl: "https://www.telecompaper.com/news/moscow-metro-starts-facial-recognition-payment-system--1400908"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "KMuZ9H9S/EVqaBuPz01L+rbpTnfDqmDi8BAA45RPqFJqBz5y+oC2PR5Z6VQKxRS+zhPPVKGS7bRDib9opRcTYuhdfLCba6BoXf8cRvQWfzv/litEZL3jT3vN3SMIhLgLX93Y3MdYaTCe7HqEy+5rcUryMJV7eLylEhyxYjqqaeGiQOZ4yCgEXaIZx6aBw+qE6EQMfc4EmVxEengz+hT3wrPavSt/oyuj71eRM4mJ47HjeasdtvIv7VLqFA1TPIM4sOmGhB2qY0P1BAJkDmM84HH6mF/QOgUYoSDDmKKdpUmRQOD6zvffzmmeyAnySWa8kBMdWN8YaG4PlilbBNH1ZwlArnxNKsY2GMaGRdwhVSY=;eQ/WOuCdRs3krKeQgxWEow=="
 ---

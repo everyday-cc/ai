@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/vonage-te
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/vonage-tests-conversational-commerce-with-jumper-ai-merger/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: pymnts.com
@@ -35,20 +35,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
-  - title: "How AI-Driven Merchandising Boosts Ecommerce Conversion"
-    excerpt: "Here are four ways merchants at SMB retailers can leverage AI-driven automation to modernize their merchandising strategies."
-    publishedDateTime: 2021-10-18T15:21:00Z
-    webUrl: "https://multichannelmerchant.com/blog/how-ai-driven-merchandising-boosts-ecommerce-conversion/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 37
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2021/10/ecommerce-merchandising-feature.jpg"
-        width: 850
-        height: 450
-        isCached: true
 
 secured: "p9A7TziGis3jHNHJ8iOyg55Cuuxoo1f46GDMaBJYE+utDjnD5+rH9LgYGiJenLHWq+GcTIz1xsdgGrN8+qPKoRVzB18FgegcTWTEaud28InPhoQgeZL+2Hv2NgFDbIhqXv8kfbEnvn3jc4sgTTAGvuePoNJB/SBvj6STVIXyOFGcDIDKVTUBFMxJVAnalNC2qEZOqSkPUErNau0ASQ4KHAYk/mCGCcFlw04oYWUzt3qSg8sTLfO8zyyZ4oN/gx17DmRXwwVdLwRj1aBZqG2Ce2RtCdGg6TTzF+J0Hsne1XFCdXqIV+HJVX0+fpP9CRBt1N2EqlBlPne3wPzPXw0nOS5lwAl+joxUT0h1cWru3w8=;anZlV0/A839ZzMsxbi/qdA=="
 ---

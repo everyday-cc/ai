@@ -38,20 +38,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "How AI-Driven Merchandising Boosts Ecommerce Conversion"
-    excerpt: "Here are four ways merchants at SMB retailers can leverage AI-driven automation to modernize their merchandising strategies."
-    publishedDateTime: 2021-10-18T15:21:00Z
-    webUrl: "https://multichannelmerchant.com/blog/how-ai-driven-merchandising-boosts-ecommerce-conversion/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 37
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2021/10/ecommerce-merchandising-feature.jpg"
-        width: 850
-        height: 450
-        isCached: true
 
 secured: "DbSmbehMV+gVzT2z+6eiq68Ob8Al0q8pSxj37lZxs2IljHPvsg1F22yGzGMC1T8W7BcDj0NH05gwQKCgx3O9U+oa1JHYuObEUHkjCmGqnVMRCWG7tGofNKSm97P3S2GTGo1dpyD1pd17bmHD9L55OergyC5YcvXPShRuM6suwDtX5Ucj13i7WWq5PBIUCLMUi6XCtpRBhx+7OhsVe6cT3dH0OWvAqU8AKO3CMQ4A07ESsIhqj41S75LdSNcwMZ5Moj3IHllNXod1bxm8Z55anmUrEAua9gnUkrEPb48JQmQ88gdzv1Xbdb4NAgh0qoFcD1VUm3UXURTm4K75vdKMS27tPU4ybpg3OEwLlKbH/arXo1DtIWb+MWcXXMmDhjHNTmF8pbpgcK8kWDUOBdDg7GPoHNAQU7H6xoGbRzF7+1O5l4Y/EIhpk9Fy2Ct/yma5WRw2iXkhybez9VWuIAxu30pop0p7M4V1SB3YIzGVsr1AnvpBUPhI9kzau7278xYDfdnKyqdXfPTg6tySJQZJUA==;NrMozkPlUOwR5mcuTcT3tQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-
 webUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -20,36 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "DeepMind acquires and open-sources robotics simulator MuJoCo"
-    excerpt: "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research."
-    publishedDateTime: 2021-10-18T16:33:00Z
-    webUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/"
-    ampWebUrl: "https://venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/deepmind-acquires-and-open-sources-robotics-simulator-mujoco/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-900253108.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind acquires MuJoCo physics engine for robotics R&D"
-    excerpt: "DeepMind, an AI research lab and subsidiary of Alphabet Inc., acquired the MuJoCo physics engine and will make it freely available in 2022."
-    publishedDateTime: 2021-10-18T16:56:00Z
-    webUrl: "https://www.therobotreport.com/deepmind-acquires-open-source-mujoco-physics-engine/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 101
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-18-at-12.46.15-PM.png"
-        width: 917
-        height: 524
-        isCached: true
   - title: "DeepMind Announces MuJoCo Physical Process Simulator"
     excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
     publishedDateTime: 2021-10-19T22:00:00Z

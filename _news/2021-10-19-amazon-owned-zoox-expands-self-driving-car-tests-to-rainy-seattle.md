@@ -39,20 +39,6 @@ related:
         width: 864
         height: 486
         isCached: true
-  - title: "Toronto's self-driving shuttle bus is out on the road (VIDEO)"
-    excerpt: "Toronto's first-ever self-driving shuttle bus has finally made its debut on the road, taking to the streets of West Rouge for a trial run."
-    publishedDateTime: 2021-10-18T16:45:00Z
-    webUrl: "https://dailyhive.com/toronto/toronto-self-driving-bus-on-road"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 24
-    images:
-      - url: "https://images.dailyhive.com/20211018091946/toronto-self-driving-bus-500x258.png"
-        width: 500
-        height: 258
-        isCached: true
   - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
     excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
     publishedDateTime: 2021-10-19T16:12:00Z

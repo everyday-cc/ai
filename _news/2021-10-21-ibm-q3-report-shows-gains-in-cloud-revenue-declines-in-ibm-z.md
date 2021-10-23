@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-i
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Hybrid Cloud and GBS in Focus Ahead of IBM's Q3 Earnings"
-    excerpt: "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson ... technologies and AI-related solutions is expected ..."
-    publishedDateTime: 2021-10-18T16:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "IBM Misses on Q3 Revenues: ETFs in Focus"
     excerpt: "A fter the closing bell on Oct 20, International Business Machines IBM reported mixed third-quarter 2021 results wherein it came up with an earnings beat but lagged on revenues. Earnings per share came in at $2."
     publishedDateTime: 2021-10-21T15:10:00Z
