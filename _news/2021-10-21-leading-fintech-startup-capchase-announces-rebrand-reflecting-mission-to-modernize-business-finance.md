@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
+    excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
+    publishedDateTime: 2021-10-23T18:04:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
     excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2021-10-19T12:04:00Z
