@@ -39,17 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "3 Fintech Stocks That Surged More Than 10% Last Week"
-    excerpt: "Fintech has brought to the fore an easy and efficient way of meeting the financial needs of businesses and individuals. And the demand for remote financial transactions has increased significantly amid the COVID-19 pandemic,"
-    publishedDateTime: 2021-10-18T17:27:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-lc-3-fintech-stocks-that-surged-more-than-10-last-week/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
     excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2021-10-19T12:04:00Z

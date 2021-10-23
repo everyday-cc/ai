@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/world/former-president-karzai-ad
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/world/former-president-karzai-advices-taliban-to-gain-legitimacy-at-home-in-order-to-gain-international-recognition"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taliban can only gain recognition through Afghan people’s support: Karzai"
-    excerpt: "Former Afghan president Hamid Karzai said that the current Taliban government in Afghanistan can get international recognition only through the \"support of the Afghan people\". International legitimacy could only be achieved through the expression of the will of the Afghan people,"
-    publishedDateTime: 2021-10-18T17:05:00Z
-    webUrl: "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai"
-    ampWebUrl: "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 58
-    images:
-      - url: " https://i.tribune.com.pk/media/images/Hamid-Karzai-AA1616688192-0/Hamid-Karzai-AA1616688192-0.jpg  "
-        width: 640
-        height: 480
-        isCached: true
   - title: "Exclusive Interview: Karzai Says Taliban’s International Recognition Requires Internal Legitimacy"
     excerpt: "Former Afghanistan President Hamid Karzai said the current Taliban government in Afghanistan needs internal legitimacy in order for it to gain inter"
     publishedDateTime: 2021-10-19T06:03:00Z

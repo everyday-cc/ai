@@ -22,6 +22,22 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Machine learning prediction for COVID-19 mortality in the Colombian population"
+    excerpt: "Machine learning prediction for COVID-19 mortality in the Colombian population. The COVID-19 pandemic, which began in late 2019, has become a global public health problem, resulti"
+    publishedDateTime: 2021-10-23T10:19:00Z
+    webUrl: "https://github.com/grvasquezm/Covid19Mortality"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 35
+    images:
+      - url: "https://opengraph.githubassets.com/5804184211a95971936d2a6886e4831c27ffd747cd45e09d83f105725c29226a/grvasquezm/Covid19Mortality"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "eu+suBnxNRjX0RlvKACDNELEcB5EqGCOI0pHX3FaM4tRC9bFzgdev+2TmV2tTTpqScA4cbH6caZarqzKF0jrebjzlET4Pq6madVcWp50nrnZIMERuGEWye1HasUPq6iiCWWZVhu8jLwY30R2NtK9n987clgqhA7VnPSYEcTebaHc7rZu3uSQxd0d+3U3Ha2XHdcZBnXvyqOOndKqwP8E5aerm0Li4tNJuSqYMsOpiVbJ+IBiX2M/rB2rRNsL048Om1nu7oREtqiLiplxk0V0gWPhdwbbyfc+eDDc2U0LY2vzBz++BptC/tIeH1KGTVBMExArzyDV3Ysjqyn3TcMzMDL0si9WIBQqDfdpg2675JSKcwouIjzm3SES8op9rnlRmFKKTdZ7Ojgo+0roQujEgkJyXjZybXL4MMEKSoSIT8ItLcadTZ6iJ7g3h/965rAY27q7VbqMQ3S1Jcwq6bIHERWPtzom2cnJ6mlTD4xofxoo2VyjGEisGhysQZTlDmgHqepB5SFqwxXM+MbvgvuAEw==;CpFVNJfQ+PWoEKftqoiyPg=="
 ---
 

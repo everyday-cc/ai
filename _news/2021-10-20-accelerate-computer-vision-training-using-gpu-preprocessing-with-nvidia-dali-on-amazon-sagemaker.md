@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/"
 type: article
 quality: 125
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image007-2.png"
         width: 500
         height: 281
-        isCached: true
-  - title: "Gamify Amazon SageMaker Ground Truth labeling workflows via a bar chart race"
-    excerpt: "Labeling is an indispensable stage of data preprocessing in supervised learning. Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. Ground Truth helps improve the quality of labels through annotation"
-    publishedDateTime: 2021-10-18T17:48:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/gamify-amazon-sagemaker-ground-truth-labeling-workflows-via-a-bar-chart-race/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/15/ML-2967-image001.jpg"
-        width: 440
-        height: 473
         isCached: true
 
 secured: "BOGA5BRlJMzc5cLc9I4o0SOttgxhcRMwnXPLcFH0MX5u8OZSK0/kOAjvINu5B0ktiDnMc1P6oTZZtQzPNXnELj0Um8hpLmdYAWfYEpuUAF3cTQJCE3Cl/CGqU+4lhAT4+j3uqNeYUBBiaiZiIcy9Md6bbHP0hkcRJiMir6SLk8Zg9R5WSrJMPsYItMUTquT2Z0EaSknnVft/AhhEQ0mPkbrQPp6F++DzsRt31zRbsHYLzmXxHySsCS0TSgTrzPNRJ4B3Pp7UFEJ5Y8dS7OasojPCPj+juuBtNQsH+LpztTQVvAFbskOMSI1TZhkyDmXqlpVGuufYhPFR1sPjfFI84WLTKE3wC0ldGGQrqR/xw1M=;x0lmGp36RsBv2JGeOw8dtA=="

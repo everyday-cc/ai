@@ -44,20 +44,6 @@ related:
         width: 1252
         height: 630
         isCached: true
-  - title: "Gamify Amazon SageMaker Ground Truth labeling workflows via a bar chart race"
-    excerpt: "Labeling is an indispensable stage of data preprocessing in supervised learning. Amazon SageMaker Ground Truth is a fully managed data labeling service that makes it easy to build highly accurate training datasets for machine learning. Ground Truth helps improve the quality of labels through annotation"
-    publishedDateTime: 2021-10-18T17:48:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/gamify-amazon-sagemaker-ground-truth-labeling-workflows-via-a-bar-chart-race/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/15/ML-2967-image001.jpg"
-        width: 440
-        height: 473
-        isCached: true
 
 secured: "vJqJ15NNd52dbqlc2TXtrZnYXOLJYkUq+zmPZ4Db4jAGNB7Pg/51D6fi9bnvS5eFqV6F8BjIo6LZMW+I6Z0Byqx2t20xDNOr0N8r30n6fHwyw5g4z0izDKafG3hRR7bwWtM33XDGIlO2jKR+x1SEkGu4rsl2nNscsQLkU8MwmLMEygbuAfqbP3c2ynfFCN/jtN1ZRGT0ZPeOL16Fnyoyj/8k9RGvc3prP0IkR7iBQch2CeOHGaKZlhkTdA6y26qYBFpBrzFaD1bUC9BCl0VkOYnAEEx9bBZ7OMIBmUOChTjAdmE8gfT7Z+IOBocCRfz58WB+lOO6hYYcbNTapzsREC0rFv2Is+MyFG7fOKFvIp0=;whcdu9mL/8ZbBo2yN/7QkQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/391943"
 webUrl: "https://www.entrepreneur.com/article/391943"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Fintech Stocks That Surged More Than 10% Last Week"
-    excerpt: "Fintech has brought to the fore an easy and efficient way of meeting the financial needs of businesses and individuals. And the demand for remote financial transactions has increased significantly amid the COVID-19 pandemic,"
-    publishedDateTime: 2021-10-18T17:27:00Z
-    webUrl: "https://stocknews.com/news/upst-sofi-lc-3-fintech-stocks-that-surged-more-than-10-last-week/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
   - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
     excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
     publishedDateTime: 2021-10-21T16:21:00Z

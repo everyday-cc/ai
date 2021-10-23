@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-22-artificial-intelligence-spots-anomalies-in-medical-images.md",
-      "title": "Artificial intelligence spots anomalies in medical images",
-      "excerpt": "Scientists from Skoltech, Philips Research, and Goethe University Frankfurt have trained a neural network to detect anomalies in medical images to assist physicians in sifting through countless scans in search of pathologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-42.jpg",
-          "width": 820,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp",
-      "publishedDateTime": "2021-10-21T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-10-19-the-synergy-between-ai-and-healthcare-explored-at-2021-taiwan-innotech-expo.md",
       "title": "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo",
       "excerpt": "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,",
@@ -1360,6 +1316,58 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ai-innovations-in-healthcare.md",
+      "title": "AI Innovations In Healthcare",
+      "excerpt": "This blog discusses AI Innovations in Healthcare and provides examples of where AI is advancing to increase leadership knowledge. A reference to the The AI Dilemma, a new book by Dr. Cindy Gordon, author of this blog is also highlighted to learn more about AI innovations in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155baf730e0300ed464a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/amp/",
+      "publishedDateTime": "2021-09-30T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

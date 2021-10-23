@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes Is Migrating to More Expensive Chips to Plug Shortage"
-    excerpt: "For Ola Kallenius, the chief executive officer of Daimler AG, one of the lessons of the global chip shortage is that it’s time for an upgrade. Daimler’s Mercedes-Benz unit, the world’s biggest luxury carmaker,"
-    publishedDateTime: 2021-10-23T01:09:00Z
-    webUrl: "https://www.bloombergquint.com/business/mercedes-is-migrating-to-more-expensive-chips-to-plug-shortage"
+  - title: "Mercedes is migrating to more expensive chips to plug shortage"
+    excerpt: "Mercedes took the biggest hit among major U.S. luxury carmakers in the third quarter, with U.S. sales falling 21% from July through September compared to 2020"
+    publishedDateTime: 2021-10-23T10:31:00Z
+    webUrl: "https://www.livemint.com/auto-news/mercedes-is-migrating-to-more-expensive-chips-to-plug-shortage-11634984544952.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/mercedes-is-migrating-to-more-expensive-chips-to-plug-shortage/amp-11634984544952.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/mercedes-is-migrating-to-more-expensive-chips-to-plug-shortage/amp-11634984544952.html"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/10/23/600x338/Germany-Daimler-Truck-Spinoff-1_1634984699976_1634984717952.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Mercedes migrates to more expensive chips to plug shortage"
+    excerpt: "Daimler hopes to stabilize its supply chain for semiconductors during this quarter, but real relief from shortages of chips will not arrive until 2023, CEO Ola Kallenius said."
+    publishedDateTime: 2021-10-23T09:47:00Z
+    webUrl: "https://europe.autonews.com/automakers/mercedes-migrates-more-expensive-chips-plug-shortage"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 39
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Daimler%20Kallenius%20BB%20web_3.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "rvAhDTzTt9j9q5wfz7KvQybHY8hcq9yUe9clGyElUWtWje1Hg7G1BAJXO3ayWro1vRx/heEgx9X1T7Q5PXtzq8ZNGM8Lo7rpmlx2mUuALM+IRMsbx1Z+74OAZm6Z76c+PQeod3yaSO1lo2xIshvkTX8I5Cy9Qjso+zxZ3wZMCjzU1gRI6rhJga6A1KGi4g57Au2NwrFFQroGqhh6cc2WuN12T2oLSUjZiz2JSSaiOEmvdHa0CVcdCurSIiDhCyZ7OAFc1hHidS0VIKsm8WfuvXhAJNladRGBlnFSQpLYm7e6DRzcJ7OPkL73NMzB3CLtwekfKUNJFZC7onzRoEZIMXmxfXjNcj4HtzUr3gjCxQw=;jHB121nfEWpzknP5UEgv+w=="

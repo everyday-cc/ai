@@ -19,36 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "ICO to step in after schools use facial recognition to speed up lunch queue"
-    excerpt: "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments"
-    publishedDateTime: 2021-10-18T17:54:00Z
-    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1"
-    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+  - title: "Making the case for and against police use of facial recognition technology"
+    excerpt: "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?"
+    publishedDateTime: 2021-10-19T09:22:00Z
+    webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 52
     images:
-      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
-        width: 620
-        height: 372
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg"
+        width: 333
+        height: 250
         isCached: true
-  - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
-    excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
-    publishedDateTime: 2021-10-19T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202110/scottish-schools-serving-up-fresh-privacy-debate-for-lunch-with-facial-recognition-payment"
+  - title: "New funding for one facial recognition firm, features for another"
+    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
+    publishedDateTime: 2021-10-22T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 29
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
+    excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
+    publishedDateTime: 2021-10-20T15:39:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/u-s-postal-office-calls-for-facial-recognition-suit-dismissal"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 19
+  - title: "Mantra Launches Its New Access Control Device BioNIC Fx9 That Blends Face Recognition and Fingerprint Scanning Technology"
+    excerpt: "Mantra Softech, one of the leading biometric manufacturers in India, added BioNIC Fx9 to their wide range of access control devices. The new BioNIC Fx9 is"
+    publishedDateTime: 2021-10-21T19:42:00Z
+    webUrl: "https://www.pr.com/press-release/847014"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "Iw5jWpd2r6mslSuOyDBWm9mR/1xQruJgSGu8JQfErb94MKKLgfDkKKIdnz6ueJKjYC/ctKGf7BOW8IwWDa0X0bBVH7qfi64AXYDx3wNzNSu9wuD3tBaGnPRH1JaYbVC4JgGi9H+9N5N1i2AjGIh54q24pCL4JHfKjvTmNptH3tDLRQ5gsCA7A5Zq58ax8pP1BeI3GJqoGr1fh8hhz+7U3sEJuNzMGSKqgG0Rfdf+HBlJgz+14QFeRD/NbGJ7ZenZMMWAu1E1TeZ+Kh6t6TQ1+DiFnFm2zUfSx7reZcV0WbgYxyAmB2s/I6z9GjEeo5tFGiwcykgYURWJBqOnnC4RCm/Csp5zw0808hz+afgSKbL9Cm0gRGfY8GQnJAa2rKJ02Qnf5lfcSlZAJavyHDF0QgI27E33so8moAazffdL3wf0sE7y0WXNsODbXEq8xXja9pqJzRnRWbsshBikQsIHHx/wXQ2Pueeo/Mfa3AABmo/DUauUdIFul5HuT3Va7teLITO4duxVTUl8aVrTJ8C+Hw==;yp/TJRp7yROw6LEKcfVppQ=="
 ---

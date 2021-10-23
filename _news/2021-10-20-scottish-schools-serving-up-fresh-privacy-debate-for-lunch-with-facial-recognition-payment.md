@@ -25,31 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "ICO to step in after schools use facial recognition to speed up lunch queue"
-    excerpt: "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments"
-    publishedDateTime: 2021-10-18T17:54:00Z
-    webUrl: "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1"
-    ampWebUrl: "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk"
+  - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
+    excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 51
     images:
-      - url: "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1"
-        width: 620
-        height: 372
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
+  - title: "Face biometric payments launch at scale in Moscow Metro"
+    excerpt: "Moscow metro system has seen the launch of a new biometric facial recognition payment system this past week as the world’s first mass-scale system of its kind."
+    publishedDateTime: 2021-10-18T19:13:00Z
+    webUrl: "https://www.biometricupdate.com/202110/face-biometric-payments-launch-at-scale-in-moscow-metro"
     type: article
     provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 19
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "g5tkpVuZU48cHD/qHrrkA/uf/1iBNkZL5iuazcMGckCaa2KYZ0Fspye+A+BaaVOxkzZ6Vg0B2DjSG/JTC0hRvnLdlvdhbBlGEYYxSK/C9cBQq2KDQ1FtRYLM9M+BFSoFOWUkfAJSxgqIfD0bb0t1g/VSYpokZAcoPPlNS/S5gRoNz6Wkm08VCfWBlfjMxaVBE9YMMAuKYzIhHoIgqYnMa5o/J9Z12TAcBeACjnZ65u0ORSFKCT6Ar/VozOC+i5i2SpIdrQ78ttC3q5Z55FqnWK7DbYCr3XHzjzNB32bTp69sCsH52ZyPVIgCVmdzMhTY3f9YwEKvJKXfZsLI9tLKSHuW/eVcwpOiFGeYL9AAGF+Lzjv/9i9rYzdVPoP2/jS3eZd78JLwDMsTPxI02pi22RhNa5zXwntogJtBjPoziii0z5LKLUvF7C41x6qYxXoNCXJRTl5jw1EH2mdQNP6dhRSq+HVdjfNzyFUGjQzAs+E/Ued08Larp4gxA8oK1tePTJg5JZH91fy+XZ4Yu/T76Q==;WwjuCZQveY8ZoDR1F84Q2Q=="
 ---

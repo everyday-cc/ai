@@ -67,6 +67,15 @@ related:
       name: Bloomberg Law
       domain: bloomberglaw.com
     quality: 19
+  - title: "Facial recognition systems off the menu as schools reverse plans"
+    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
+    publishedDateTime: 2021-10-22T04:00:00Z
+    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
+    quality: 19
 
 secured: "iBuWpjZCx1G6rmrZ9GvHfhWDQZO/EwZIun8Gv9BoCL6vF0PZmISMq/w6uo9idwmFHEvzyyaPlrN3t1pf6R9upxGj/nKRmgSA436IsJ4ySurgbgPRCZf/LIuOqFkDXT0DmtMVJoo2tQfb2Xs9hy/sQDBi4qpjyA0zzHAukfnlHBKfvr+DIPy6+f/bgX6wWEvlAMghLBcMLwwJCduMApmEglIRb/1vEnATrpIIzv65MQ6YHkAdQ+IFus/Su6elhTHMvMH/ou6z+O8Wj5xaG0JtkJ8ZkY+KcuYssto9Rvi6VDHhErI8mIvS/hjk6fytn8ACMxktqAVQmNH4lg5Ds2vrYHjpGBoUPlB+oCh66mlGkbA=;OI71XG6BQC6LTJF8GMR0RA=="
 ---
