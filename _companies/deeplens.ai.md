@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deeplens_ai"
   url: "https://twitter.com/deeplens_ai"
-  followers: 543
+  followers: 542
 
 size: 11-50 employees
 yearFounded: 2017
