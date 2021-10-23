@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
+      "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
+      "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "originalUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/09/F210912OF03-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide/amp/",
+      "publishedDateTime": "2021-09-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-26-become-a-microsoft-azure-expert-with-this-60-bundle.md",
       "title": "Become a Microsoft Azure expert with this $60 bundle",
       "excerpt": "Meanwhile, Microsoft Azure powers thousands of cloud platforms ... Instead of being tied to a particular work machine, we will be able to access data and run powerful software from a virtual ...",
@@ -1123,59 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-deep-learning-helps-predict-new-drug-combinations-to-fight-covid-19.md",
-      "title": "Deep learning helps predict new drug combinations to fight Covid-19",
-      "excerpt": "A neural network developed at MIT and elsewhere identifies synergistic drug blends for treating viruses like SARS-CoV-2. The work was carried out primarily within the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Broad Institute of MIT and Harvard.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-new-drug-combinations-fight-covid-19-0924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202109/covid-virus_0.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

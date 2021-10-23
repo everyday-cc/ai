@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Limits to Growth: Can AI’s Voracious Appetite for Data Be Tamed?"
-    excerpt: "Bigger datasets are often said to be better for training machine learning algorithms. But is there another way?"
-    publishedDateTime: 2021-10-18T09:52:00Z
-    webUrl: "https://undark.org/2021/10/18/computer-scientists-try-to-sidestep-ai-data-dilemma/"
+  - title: "How to Leverage AI for Efficient Cloud Management"
+    excerpt: "If you’re asking, \"why AI?\" you’re in the right place. In fact, AI is practically knocking down your door to help handle cloud issues."
+    publishedDateTime: 2021-10-19T17:09:00Z
+    webUrl: "https://thenewstack.io/how-to-leverage-ai-for-efficient-cloud-management/"
     type: article
     provider:
-      name: undark.org
-      domain: undark.org
-    quality: 39
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 37
     images:
-      - url: "https://undark.org/wp-content/uploads/2021/10/facepattern.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.thenewstack.io/media/2021/10/e194e541-power-line-g126460c89_1280.jpg"
+        width: 1280
+        height: 854
         isCached: true
 
-secured: "4BkS9R1FAQMgRECRZxHzhK1NqbSh40rwQ0cZMv7Z5dw+SMxNLYIr+S1uuHj2Vb39yZtsRPowgpnto4/Fsp6qJ19DFNqtUJafpBRDphLZiD9ca7O8+WgIJFNWlMkfnAm36gqKEZmSDSnufeto9krAxpIQlrC7gV0e/G2Ri2k9wQGdLnMCZuzJCqeeBx7qd2/v6nvCbMQcFK5VfWtVyj5AVpZF9uf5Bu1FCcJrqN7G0U9bF97PaNLV5BkHujGJhvueZq6aYPvuLcXtoMniY53px1KC+0QOGsbZMcsjHFPUMGGHRp0rtw5Vzzff59AR609KjD4AG24aFqf/pW5nrTXgQv6m+0H7Am7/q0QUMd8BcpU=;N+SDVBF2gT2c06aXSmNKgA=="
+secured: "zlc0FIJp6E1MM4zbTnzpj38hGdIE+otMIBeKFyqxUJewRVjb24MPkjyIU48tajaUXj28b+l7c+0E/jrV2WRX/DLLr/KRFV20XdKf2UeQvvhtv3UeUS81ieN/Oa6FF5stcCb5x0lPGUChOirfMhF3y7KKwisJCb3f3kdEeg/fvefFs6Ff62FedjzW+5xfmUoSnDNbwCBm3683D0PV5F5ci6DfVj+/lEBlDywpvZCnrp7alhemHsCCvVLB/xyNl5EX8vygB/rA/6ieC6uS34+vnjWTKIvaak1vDy/3ABO7dDB+zJGBqVJwPLS1lUSAIS+e65nE0mdNK5ObaHsildee8oM0rv1x1G051txw7BjVJmbluOCg4WXKNL5qhRb2h80nYCobMY7tYLxLfslZXOoCF03lmLSdFCsRtLJ2zaW+lfFCoYbhWpuPZyosBrUS6BtTOcj+lZeU0MpK/StSPHo9y2hcSQDOvYdfC/gJGi/cbjQenjtfnXDMP8OCKKzYlWCfxt6QJzFwRQhn2u8Dx6hgHA==;wPjS70IW/6CYL4EO1slGcA=="
 ---
 

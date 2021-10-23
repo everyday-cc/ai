@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-
 webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Making the case for and against police use of facial recognition technology"
+    excerpt: "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?"
+    publishedDateTime: 2021-10-19T09:22:00Z
+    webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 52
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg"
+        width: 333
+        height: 250
+        isCached: true
   - title: "US Postal Service Moves To Escape Facial Recognition Suit"
     excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
     publishedDateTime: 2021-10-22T23:45:00Z
@@ -36,20 +50,24 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "EDITORIAL Retail continues to shift online, JD Sports expands, facial recognition payment takes a step forward"
-    excerpt: "In today’s InternetRetailing newsletter, we’re reporting as ONS figures show retail sales continuing on a long decline that started following a sales spike at the time that shops reopened from lockdown,"
-    publishedDateTime: 2021-10-22T12:31:00Z
-    webUrl: "https://internetretailing.net/views/editorial-retail-continues-to-shift-online-jd-sports-expands-facial-recognition-payment-takes-a-step-forward"
+  - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
+    excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
+    publishedDateTime: 2021-10-20T15:39:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/u-s-postal-office-calls-for-facial-recognition-suit-dismissal"
     type: article
     provider:
-      name: InternetRetailing
-      domain: internetretailing.net
-    quality: 34
-    images:
-      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/038/Mobile_Joy_Fotolia_214442117_Subscription_Monthly_M_Thumb.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 19
+  - title: "Mantra Launches Its New Access Control Device BioNIC Fx9 That Blends Face Recognition and Fingerprint Scanning Technology"
+    excerpt: "Mantra Softech, one of the leading biometric manufacturers in India, added BioNIC Fx9 to their wide range of access control devices. The new BioNIC Fx9 is"
+    publishedDateTime: 2021-10-21T19:42:00Z
+    webUrl: "https://www.pr.com/press-release/847014"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "UGvNZOKkRi1FLE0N4srszZuDX0p4HtjdgQklhi0XvU40GQpD/7CLwBfRyemNnBtW5zl/8gBvrm9YsR7OpfRCrA1wv2Sk5QOcG9TZFhmq+c21WomZBXAgsKaOMcAsRA0SbnI4kNeyOD83SBv3ERRkB2qtEKOjj4m646f0UFCGb8dj7GrO10psRCVQyZ8pWWuPi2+mFHUGYJ7TEc5D0EWka+7rDNzJ3LJ5RMy3+INCKk36J8c4dH//QXpHUVX0jdjcJ2WOJi0vCknAT0qtcCzmDgTMzfe2XEXNZgCs9QiGqhN5LIyYiXbMccZgiehDrEYvyn0jXeIrRE7e4kqkpvIUwKa/+xmcOxmHL8YuKO1J/ZNEm0y0jfsT0AndPoEeeTosD+LaGlU2VJrYRsGL22p51GaYOjSsRw5xtDnvTGFJqqsfqONeQMS9i8iJXU5FLZz95cFoEferflMFTNrVmH8o49sl5lADdy7Cem/wQQAoX14rkPLqwKT9IOpVAcg3mGxUAX/BQre2PSMrzuwKEuij0w==;WTimLR4oLsRa6DJpsOxSyA=="
 ---

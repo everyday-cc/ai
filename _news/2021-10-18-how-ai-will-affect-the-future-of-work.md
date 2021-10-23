@@ -7,7 +7,7 @@ originalUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-
 webUrl: "https://www.cybersecurityintelligence.com/blog/how-ai-will-affect-the-future-of-work-5923.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,45 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Why the world needs a Bill of Rights on AI"
-    excerpt: "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created."
-    publishedDateTime: 2021-10-18T09:37:00Z
-    webUrl: "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
-    ampWebUrl: "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719"
+  - title: "Artificial Intelligence, and the Future of Work – Should We Be Worried?"
+    excerpt: "Artificial intelligence is at the top of many lists of the most important skills in today's job market. In the last decade or so we have seen a dramatic transition from the “AI winter” (where AI has not lived up to its hype) to an “AI spring” (where machines can now outperform humans in a wide range of tasks)."
+    publishedDateTime: 2021-10-19T19:02:00Z
+    webUrl: "https://www.bbntimes.com/society/artificial-intelligence-and-the-future-of-work-should-we-be-worried"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 41
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_and_the_Future_of_Work__Should_We_Be_Worried_.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Why 5G Needs AI To Succeed"
-    excerpt: "The complexity of the 5G ecosystem necessitates a level of service assurance not possible through manpower alone."
-    publishedDateTime: 2021-10-20T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/20/why-5g-needs-ai-to-succeed/"
+  - title: "The Future of Artificial Intelligence and UBA’s Success with LEO"
+    excerpt: "Around the world, the hype around Artificial Intelligence keeps accelerating as the end goal is to simplify conversations and processes. Having keyed into this trend three years ago, the United"
+    publishedDateTime: 2021-10-18T23:51:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/10/19/the-future-of-artificial-intelligence-and-ubas-success-with-leo/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Policy Guidance on AI for Children piloted in different parts of the world"
-    excerpt: "Policy Guidance on AI for Children, developed by the United Nations Children’s Fund UNICEF in partnership with Finland, was piloted by companies and public sector operators around the world during 2021. The second version of the guidance will be drafted ..."
-    publishedDateTime: 2021-10-19T10:41:00Z
-    webUrl: "https://valtioneuvosto.fi/en/-/policy-guidance-on-ai-for-children-piloted-in-different-parts-of-the-world"
-    type: article
-    provider:
-      name: valtioneuvosto.fi
-      domain: valtioneuvosto.fi
-    quality: 35
+      name: This Day
+      domain: thisdaylive.com
+    quality: 37
     images:
-      - url: "https://valtioneuvosto.fi/documents/10184/312535/Facebook-jaon+oletuskuva.jpg/99952a0b-4893-4aba-92cd-044d54225696?version=1.0&t=1429269742000"
-        width: 1080
-        height: 608
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/e3d652ff-screen-shot-2021-10-19-at-12.49.14-am.png"
+        width: 800
+        height: 623
         isCached: true
+  - title: "WHEN MACHINES DREAM THE FUTURE: Festival on living with artificial intelligence"
+    excerpt: "The three-day hybrid festival WHEN MACHINES DREAM THE FUTURE takes a look at this question from 12th – 14th November 2021. Artificial intelligence has now become a fundamental component of our daily digital life,"
+    publishedDateTime: 2021-10-20T18:01:00Z
+    webUrl: "https://www.goethe.de/prj/wmd/en/abo.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 13
 
 secured: "bjsOphnpV5lkSw1//+4Lk8TLwXIU/ZkKHUpJx6VkveQVkN2U4p+ifoTgxXoLJiVo6rifesEprA9PiL34NTR0kefXxssCiYB4gbk1nhstwtYqm0XHFOqDhwHnK1ZyqshuyIdpl/v3QudNXeG5MFHmkyaTT5VXi3fW6PdsozXVF/YtdjkduTSTimcg0+Fn+LPKANiaq1xiSjk9zFacid4JIFEvNCXlNeY6zO1tLQaNiHybIgCmmROOjjdVTXPjkSPm850PeINW0Aa0yfEigJxCmwPkLYf1I0uEvkQ/9EfyMb31BSmeoOp5U2NRwKfgRQXJ9doZh1LXmIqJP5Okl1rkvvn2MUfMMU2yMe8Pll5Tc1A=;bbFScejyGnMEALKtlJDbmw=="
 ---

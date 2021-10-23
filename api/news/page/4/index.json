@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-19-state-university-seeks-software-with-ai-machine-learning.md",
+      "title": "State University Seeks Software With AI, Machine Learning",
+      "excerpt": "In a Request for Proposal, California State University, Long Beach calls for responses from vendors who can provide a software system to help it do more with fundraising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "originalUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/92c0ccc/2147483647/strip/true/crop/3395x1770+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2F71%2Fa53a04cb4015b24d1e52db3b4c8b%2Fshutterstock-1089266585.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "cdnAmpWebUrl": "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "publishedDateTime": "2021-10-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "California Techwire",
+        "domain": "techwire.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac.md",
       "title": "Artificial Intelligence and Air-based sensors to help Indian Army scan LAC",
       "excerpt": "As part of a multi-pronged plan, road infrastructure, specially at the sensitive Tawang sector, is also being enhanced significantly with a network of bridges and tunnels that will take away dependence on air assets to support troops in all weather conditions.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -52,7 +95,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-accelerator-chip-market-2021-segmented-by-product-application-key-players-and-regional-analysis-to-2027-2021-10-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -570,7 +613,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -725,7 +768,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1143,49 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
-      "title": "General Availability – LiveData Platform for Azure",
-      "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "originalUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sharesmagazine.co.uk/images/logos/youinvest.png",
-          "width": 800,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sharesmagazine",
-        "domain": "sharesmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

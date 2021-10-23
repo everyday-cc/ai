@@ -46,22 +46,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 77
-  - title: "Microsoft and Nvidia build largest ever AI to mimic human language"
-    excerpt: "An artificial intelligence with more than 530 billion parameters - the largest ever - has achieved record scores at understanding human language"
-    publishedDateTime: 2021-10-18T09:30:00Z
-    webUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/"
-    ampWebUrl: "https://www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2293943-microsoft-and-nvidia-build-largest-ever-ai-to-mimic-human-language/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 76
-    images:
-      - url: "https://www.newscientist.com/build/images/barrier/barrier-digital.c85d2d02.png"
-        width: 483
-        height: 320
-        isCached: true
   - title: "In Machine Teaching We Trust, Microsoft"
     excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
     publishedDateTime: 2021-10-22T10:30:00Z

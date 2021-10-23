@@ -23,6 +23,22 @@ images:
     height: 854
     isCached: true
 
+related:
+  - title: "Alarm.com Leverages Artificial Intelligence For Growth"
+    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
+    publishedDateTime: 2021-10-22T15:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/alarmcom-leverages-artificial-intelligence-growth-sramana-mitra"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF7zpRtJJtWHg/article-cover_image-shrink_600_2000/0/1634917717157?e=1640217600&v=beta&t=kyGpvDdt7uaIvmh6pjTb1zwG3L0v2Nfw-jWR0e2OIxo"
+        width: 640
+        height: 426
+        isCached: true
+
 secured: "XjAqxqC+w0W7bhuxC9bplc+EjzYiBn/z9+4PEzFqq4CHTRz9IstQp4tmt4n4JU7bJykIsrJhe3wjmfjRzpllmKt+ild7+Q5Hxxi4TE4lLjEeNNFsPuTTHhNIRQJP8GOTvOTdlpqwYNoISxf6Cxi5MDZDxM2zDiuVnrJ3HYaEM/+knW2kYaJknPRYeaiHhGll7uZuUybW1NY25ez7x2Ss9FtNJq0QVA/8v0qfwPv4ebEfP736sb0GPowxakAWtQuUyOJN6cKUYSaAtslQUx76UAyhmqWI8x7XS6jafHsLZIJ4B1hpv41D/lUrWCCkur1T2QKOIfBpRcbrDdRJgWym4bz7qIEdpYHO2avYOBcZdmOvMVq2S5/4LfhWbNatVanK0I7x/yXtPKSrG9Lk3YvtCgdQ89wdUinmIaGrDdzdC4sBPJVm52sLBMYGDisdfrk8Rt/SkAFMvQvDCgMDvQnvKyRkayrk0w/7YIiU3KkGD99FPdErmZPgzqfy1g/PZw3ME6Bml9WGomN5+zyxpxHVnw==;C2nnEHqSerfxuIvC3XsGDA=="
 ---
 

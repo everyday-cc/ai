@@ -7,8 +7,8 @@ originalUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-ca
 webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Computer Weekly
@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The EU called for a ban on police use of facial recognition but not commercial use. Why?"
-    excerpt: "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes"
-    publishedDateTime: 2021-10-18T09:38:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
+  - title: "New funding for one facial recognition firm, features for another"
+    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
+    publishedDateTime: 2021-10-22T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 52
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
     excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
     publishedDateTime: 2021-10-20T15:39:00Z
@@ -50,6 +59,15 @@ related:
       name: Bloomberg Law
       domain: bloomberglaw.com
     quality: 19
+  - title: "Mantra Launches Its New Access Control Device BioNIC Fx9 That Blends Face Recognition and Fingerprint Scanning Technology"
+    excerpt: "Mantra Softech, one of the leading biometric manufacturers in India, added BioNIC Fx9 to their wide range of access control devices. The new BioNIC Fx9 is"
+    publishedDateTime: 2021-10-21T19:42:00Z
+    webUrl: "https://www.pr.com/press-release/847014"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "7RGgNmUH0SZVVgrG3EY5usEKNp+DLpVh9kd05jGFfGLGXlgNysyZzJaRgH2knbhos+/rmZ0dCVAGGxfkv6fdAgmqGpkXrt46oCDFaHVIjfuBVR2oDvEbo5tPfAaedXGnEl8EV5at7ZDZlWXl4An9yJ1/tzGntCSwfFfGntr6uAfFeGuUKWgWaAVWcn1O0Ln6cKvAtADi90FyqVx2xO0ytp0hlGuqyZ+m+OQdlibNySY3ErcixQKD51cHT+x8sV5EBKWr3eLJT0ec90IBOld7vgl2wKcGTsWX3l8IFElTE9eCYN4s1mezZL8k12ht16U7VOn3e5AK0nmLyj8NbsjsoBa5/MGM5ZVuct3T/QWUnqMceoEvMtesfSogX+pz8PkaS5rhKKY+YATp3t9JxVcY3cAV39R1VxUZaUyjK6NOsq/WXUaKpEubIl7hbe6xX3NDUzH5UjrGJQu4OzAW9RqsJBArvxXPjiIV8rPCAi2uKR/YeXW2SFm6R5hBTCjm568iesTwGUJbCb+KT4MrSLF2SQ==;R5Nce7WkBLOfEapyShZ5bQ=="
 ---

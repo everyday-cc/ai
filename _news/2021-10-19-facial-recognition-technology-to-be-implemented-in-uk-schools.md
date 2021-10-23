@@ -89,22 +89,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Facial recognition used to take payments from school children"
-    excerpt: "Schools in North Ayrshire say the system will speed up queues, but parents and campaigners have complained students aren't being adequately informed about the privacy risks."
-    publishedDateTime: 2021-10-18T09:52:00Z
-    webUrl: "https://news.sky.com/story/facial-recognition-used-to-take-payments-from-school-children-12437234"
-    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-used-to-take-payments-from-school-children-12437234"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/21/10/1600x900/skynews-school-children_5550343.png?20211018110647"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Privacy fears as schools use facial recognition to speed up lunch queue"
     excerpt: "Nine schools in North Ayrshire begin using technology to take payments, with others in UK expected to follow"
     publishedDateTime: 2021-10-18T13:53:00Z
@@ -169,22 +153,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Schools in Scotland start using facial recognition on children paying for lunch"
-    excerpt: "A group of schools in Scotland started using facial recognition software on Monday to verify children’s identities when paying for school meals. Nine schools in North Ayrshire said that using the technology is quicker and more hygienic than paying with cards or fingerprint scanners."
-    publishedDateTime: 2021-10-18T10:29:00Z
-    webUrl: "https://www.euronews.com/next/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
-    ampWebUrl: "https://www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/18/schools-in-scotland-start-using-facial-recognition-on-children-paying-for-lunch"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 55
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/15/26/02/1000x563_cmsv2_a53f1609-9c9f-5b47-ad58-884408bf3772-6152602.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Privacy campaigners condemn rollout of facial recognition in school canteens"
     excerpt: "PRIVACY campaigners have condemned the rollout of facial recognition in some of Scotland’s school canteens this week. As of today, nine schools in North Ayrshire had began taking payment for lunches by scanning the faces of children."
     publishedDateTime: 2021-10-18T15:09:00Z
@@ -198,20 +166,6 @@ related:
       - url: "https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/morning-star-default.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "UK schools to trial facial recognition to speed up lunch queues"
-    excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"
-    publishedDateTime: 2021-10-18T09:29:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/uk-schools-to-trial-facial-recognition-to-speed-up-lunch-queues"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1634549145/widgetdocs/shutterstock_432895576_owlxjf.jpg"
-        width: 750
-        height: 498
         isCached: true
   - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
     excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."

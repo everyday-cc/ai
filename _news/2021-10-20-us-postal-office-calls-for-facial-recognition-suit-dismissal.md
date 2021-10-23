@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The EU called for a ban on police use of facial recognition but not commercial use. Why?"
-    excerpt: "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes"
-    publishedDateTime: 2021-10-18T09:38:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 52
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Making the case for and against police use of facial recognition technology"
     excerpt: "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?"
     publishedDateTime: 2021-10-19T09:22:00Z
@@ -49,6 +33,40 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "New funding for one facial recognition firm, features for another"
+    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
+    publishedDateTime: 2021-10-22T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Mantra Launches Its New Access Control Device BioNIC Fx9 That Blends Face Recognition and Fingerprint Scanning Technology"
+    excerpt: "Mantra Softech, one of the leading biometric manufacturers in India, added BioNIC Fx9 to their wide range of access control devices. The new BioNIC Fx9 is"
+    publishedDateTime: 2021-10-21T19:42:00Z
+    webUrl: "https://www.pr.com/press-release/847014"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "hV4IfCCap5QGiaTUUVhPmT8CME0LX+97a6T4CLGOu+YbKK+53/R2G+/EaZBtHtuCp+zOAThDCrtSfIki42zFS1+xh69n7trqxq6c9BGeB1BaSMmlDA7yRdyZmZ7I0oUhJSYFjxulmwDkelo04LxH8KbZCFfQSdxgdynXR/ZzTKFo3wxLFtnERZELsknPcHCutA2c1b0deDPxh5nXTo0WDI9gkWqVdGdILYTE2FusNQ9/jdr8WheqgCtxojogdIVq4ImpvvfDbGq7OFAGQ19RdrS1QfpOpxAXbW4JRKsr5WqXnAl4I0HPMhNb49gzNO1UaXXgvX8c+xSLqsaFIb1wKVIGanCM1kSZXUDDFk51AfsH3uUi/FTY+0Ax4nIw4SBmRRT11p0kcMRGeVFDurBN1ZjYGBWz37S8RNqnSaqlk3lkgsBdwhV/Dt00zSCyLxXMLjzFtoY2tH72zPnPUrM29HwYPVN5RJz3b3GgAeE+rATU4hiFWEFlw4NccCb9uZc/4QMsFL8gK1an3QdtqovahA==;KgV2rLABgTzCwf+hBrZH8A=="
 ---
