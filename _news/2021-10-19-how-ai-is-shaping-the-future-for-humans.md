@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Machine Learning in Medical Imaging Market Segmentation, Production Cost, Size, Share, Supply Chain Analysis with Future Forecast"
-    excerpt: "Oct (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning in"
-    publishedDateTime: 2021-10-19T03:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medical-imaging-market-segmentation-production-cost-size-share-supply-chain-analysis-with-future-forecast-2021-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI is Changing the Future of Education"
     excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
     publishedDateTime: 2021-10-21T23:28:00Z

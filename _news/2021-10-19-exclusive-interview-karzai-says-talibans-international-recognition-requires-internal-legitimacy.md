@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Taliban needs legitimacy at home in order to gain international recognition, says former President Karzai"
-    excerpt: "Former President of Afghanistan Hamid Karzai said that the Taliban needs legitimacy nationally in order to gain recognition by the international community."
-    publishedDateTime: 2021-10-19T04:55:00Z
-    webUrl: "https://www.sify.com/news/taliban-needs-legitimacy-at-home-in-order-to-gain-international-recognition-says-former-president-karzai-news-international-vkteTdjgbgiee.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 22
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/Karzai_oct1920211019041541.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "uKX8tXUU8m+4dN6e0qOv+CaRXvNlc8tyc5ZHp+m2m74sbGV5ymK9kaCgQLsb/KtrhYPJyh1pvrGJX4KqVAzFeTBiIbxFCskLghCK7nZDEyHaIJe0bA8bhapackgOK48gY0GgkEs83gyl9Nly3SrSaZ08mfbJloJqvXOF4h5rQHaak7CUL1DWJLdhF8P8URMw//jJHPyBAT/3dLrAx1+CKzfzOSpQdufcEJEK0VzIO1zV9XWHwjTGRXKbpko1sVTnzGrlj80kIBQBtlXBD9kmrt6J7r/NRWSJGcM29lSgcVeHa9xO5rYa/sI5ic3PHDxcFUHUxxsW0umI5eNbfWuyFkUYqmrue6jx1mYJhRO8cCx28ZKgf+lbvumcCBp1OMXCamT0z2wcHyuk1SdQOFrYv9a8reHoVSqOugHGGMjqohY71BGYQw4ZpSg/0cTrT/bag9F80D2mOaoh213r6P/tsie8wwR12RMirsWw4ANVk0GGCOBXZ4xbdyhClonAeW1cVVKDi0QEN+A/CqzlPO0dwg==;YJMWdGJj3ksdJlQ3kRSgnQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Data intelligence provider Alation acquires AI insights company Lyngo Analytics"
-    excerpt: "Data intelligence firm Alation has acquired AI data insights company Lyngo Analytics, citing more presence in enterprise data culture."
-    publishedDateTime: 2021-10-19T03:20:00Z
-    webUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/"
-    ampWebUrl: "https://venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-intelligence-provider-alation-acquires-ai-insights-company-lyngo-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How data analytics and machine learning are driving value in AWS"
     excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
     publishedDateTime: 2021-10-19T07:50:00Z
@@ -63,6 +47,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Cloud tools aim to ease machine learning, cross-cloud analytics"
+    excerpt: "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises."
+    publishedDateTime: 2021-10-20T04:40:00Z
+    webUrl: "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 36
   - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
     excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
     publishedDateTime: 2021-10-19T15:30:00Z
@@ -91,23 +84,28 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "AnalytixInsight's Euclides Partners With Zinier to Power a New Era of AI and Intelligent Automation in Field Service, Announces Customer Wins"
-    excerpt: "(\"AnalytixInsight\", or the \"Company\") (TSX-V:ALY; OTCQB:ATIXF), announces that its workforce optimization subsidiary, Euclides Technologies Inc. (\"Euclides\"), has partnered with Zinier Inc. (\"Zinier\"),"
-    publishedDateTime: 2021-10-19T11:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-analytixinsights-euclides-partners-with-zinier-power-new-era-/2021/10/19/9472125.htm"
+  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
+    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
+    publishedDateTime: 2021-10-19T16:49:00Z
+    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Atos International: Atos strengthens its position in the Big Data and Computer Vision market with the acquisition of DataSentics"
-    excerpt: "Paristoday announced it has reached an agreement to acquire DataSentics, a Czech Republic-based data science company specializing in the development of Artificial Intelligence & Machine Learning (AI/M"
-    publishedDateTime: 2021-10-20T16:41:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54253665-atos-international-atos-strengthens-its-position-in-the-big-data-and-computer-vision-market-with-the-acquisition-of-datasentics-399.htm"
+      name: Vator
+      domain: vator.tv
+    quality: 10
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "Self-driving Cars And Trucks Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
+    excerpt: "The Self-driving Cars And Trucks Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue, among other essential factors."
+    publishedDateTime: 2021-10-20T12:43:00Z
+    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 0
 
 secured: "cIOU8PqaLAief/lSdL1zkCK7iaDJxjq18UVs8VlBekxkAAfGMS85xEkNrcSYf87NLkXGgBa2x4+yTTcD8MhBtI49YDdYn2nh4RySVo2SvN90qJPYGdWo6j513gAcW4f44VHgTtxJ/aIkW+1Jz415GetAH1voprixxXRBQcmPWsP+8reRYjQOov8u4fMyD9G4wU6ICOfsc6rXWvG6mL6SkXPQ/epVft5alY6K/L59bjulPhzWn420lJ2q1CpjlMgTssgwEeenijUSZ4F43W0BXmLxC3b09r1PKOaJWnlgz7mz0Av1hYCogj4+N/CKNSw7fT5ZBFO7TbEOZa/+GQydPZOxuBGCBMjCO/WHkQLMPaxufGFuJ+uEQsRZ6mKsvltDn3aUjYB8m9BZC9T/JC+X+f+Ej12rYdfDLIRZNdCbPGomxvbqRRUw0DzS8azjvBKYR+nyO5ZyPYjoaBzjrerOetBLoPU4ai7m0qW9jfuX8WAJ36LvUzknp6LvMMDylRkXVFfqvObYLq6yO8e6T9HtpQ==;1ruNv52/c3gUZcK9OYVSIQ=="

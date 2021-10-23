@@ -3,32 +3,18 @@ category: news
 title: "WANdisco Announces General Availability of LiveData Platform for Azure"
 excerpt: "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud"
 publishedDateTime: 2021-10-18T13:00:00Z
-originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
-webUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "WANdisco Announces General Availability of LiveData Platform for Azure"
-    excerpt: "WANdisco, the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an Azure-native service offering for migrating or replicating your data across disparate analytics systems."
-    publishedDateTime: 2021-10-18T19:31:00Z
-    webUrl: "https://www.newswiretoday.com/news/176454/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 34
-
-secured: "oWJZkOum0/4nLuIzxbgkxI3XirbiHdnSWLZDqWZUPCieLhoaiJVxiBGxFcXxFnYGpeGsv5qXFSW+Q69RUmQUbC8FtyyyRhRQzWSSv0z1PU0RMIENevzBWpoCWpgj/lyCLYkDib4JO48CP4eVO5cZVtfchW2kBMnZbF3B58j+Zaxs9kqCP9H3JjWFjJz6DsXNgTCJyKmVJB+hd5lBrKUZWamQnq+KOTvSzsoBR1oRTSo2DB8LFryB0FkiOU7fg1h3VMu3DHK7+CPmDKL9JK1wIf5pAECdqYb2qJ2nMnGMh8Ce4cLEEGM+X6W7LYJwsSpISGn6hhtdrX1uzA6ZfJBvdTx/KgyjL5i1AEkSUJa6MBE=;Bouoc9t+V0mxcEcjvWT9KA=="
+secured: "GQeKvJChnWlEkgOG+65hUgJWU9HWn7VjeOGJtU0zNsqqIy1yI/c/86Rxde1zo1VnsRtskOxZU6/w/8uOkahisO92PkHkQ+Cq+MvZzm4viV2l40qdM3rDE7qsLnv829JMZHNiLh5deiQ3aHQ1tdIl5AJBt2RngjeN60UEKni0aBza3VtJ3KuVRqlx7DS8xux+d5nDCb8FiagqZD7iAZ4PyOyUmyVlO6ZMCftNyJgh5cjzQAPjWhBUUMf6ZXogELlkG8UeWlLPlPH3fvWd4I0ip97NVOnYn4C1b9El4MPgxw2S+4EwIGbY5UCHh3qd6oBiKaedCA3ILtcyHVVL96SfIg5z4PCLjE1ob+NzUVKX9U4=;S/p2cQ7V6YBDwoL6TVe93g=="
 ---
 

@@ -28,11 +28,11 @@ related:
   - title: "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk"
     excerpt: "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI."
     publishedDateTime: 2021-10-21T10:08:00Z
-    webUrl: "https://www.wilx.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+    webUrl: "https://www.kmvt.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
     type: article
     provider:
-      name: WILX-TV
-      domain: wilx.com
+      name: KMVT
+      domain: kmvt.com
     quality: 18
 
 secured: "TCwczY1GUQEc1SIVOfWlQ9n9mHPjG9M2176VVUY/AJS4q4GBRhG/aNr6/BdFSBOQKOPZudVovjPgsl5nCZwRLAAuvakQK+/M77ZIJiR/4YZmx/VLSiDjMuaMvROZVEMuypYZZNCORrrclBoOMgwrxXCwRlYFU2AEMYOEj7GFkOOQO+NsjzNhBa2S1q3JXn00gPkp0FWLFjry9adK0RD0cENQSwldvycbUzNMOvvimBgyfCGVa+jtYd3PotUa8+gjtTqrD8DJCs4CNPvjjgQiYPAaPsXLnXpK5zRE2bxWPBexmkara50/UJrL1APbxun3BAULME8aX03NlOm2FUf8fvspsGGC3ii0BaPgL2PuX+8FIHF6eMzc5N+SnsbGUnFN5zQHFtyB+KySzJvdNe3424LTw2aCw4r4HvmVgFkNYZ00jQ4Fc/Nuq8r1HYTJKom3GDCqOHPRPBERV5RB7ygRi0YE/Qev0TioxgPs4a663htAO2c2EWYUAEhGf0nU8KMV4y6yyIiuiyfQEujFJi/lRQ==;56cutTUw33t6S8ci893cSw=="

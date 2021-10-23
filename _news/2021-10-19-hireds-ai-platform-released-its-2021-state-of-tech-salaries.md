@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/19/hireds-ai-platform-released-its-2021-state-of-tech-salaries/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

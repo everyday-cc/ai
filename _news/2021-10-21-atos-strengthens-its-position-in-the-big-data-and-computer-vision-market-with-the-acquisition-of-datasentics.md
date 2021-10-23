@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103007894/Atos-strengthens-its-position-in-the
 webUrl: "https://menafn.com/1103007894/Atos-strengthens-its-position-in-the-Big-Data-and-Computer-Vision-market-with-the-acquisition-of-DataSentics"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Atos International: Atos strengthens its position in the Big Data and Computer Vision market with the acquisition of DataSentics"
+    excerpt: "Paristoday announced it has reached an agreement to acquire DataSentics, a Czech Republic-based data science company specializing in the development of Artificial Intelligence & Machine Learning (AI/M"
+    publishedDateTime: 2021-10-20T16:41:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-10/54253665-atos-international-atos-strengthens-its-position-in-the-big-data-and-computer-vision-market-with-the-acquisition-of-datasentics-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "im/UxG502THKHwWTs/yVLqdfghUFYFR5qpM4KOhBKWmmdSxVZeHk1x9OM8nEPxi6uPsqhzKlYt/a4YH6JAQrRzAvYuH1g6OknqwY5iO1bXUADtY9CY7LNALf1FkFWsIP5+7BfhNGXMswTLf0sxLcD8fCFpCi4BTM7BJ9l8FJYfArPYJxilzY8rk4CfT/MtkydA3e5zmPSZLY3QWjOLUI8HSO/Ps5ctubvqKG5Wq6XTIxfkHf0yXAOB3+QJKEv1Opjh0tRfBscwRc8H+meQp8xxKRK6aiCsAD0tHI3RBCK/S1SL29/85Nv6UVqYSOOPrFM1SV756dV8XyqJCWZGrBFSq/PjWsw8551uOe12TlvNQ=;cmjZSltGVTpGPNeLZcJsBg=="
 ---

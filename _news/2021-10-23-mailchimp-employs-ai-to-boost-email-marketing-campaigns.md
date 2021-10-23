@@ -2,15 +2,15 @@
 category: news
 title: "Mailchimp employs AI to boost email marketing campaigns"
 excerpt: "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field."
-publishedDateTime: 2021-10-22T15:40:00Z
-originalUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/"
-webUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/"
-ampWebUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/"
+publishedDateTime: 2021-10-22T22:40:00Z
+originalUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco"
+webUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco"
+ampWebUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -33,10 +33,10 @@ images:
 related:
   - title: "Mailchimp employs AI to boost email marketing campaigns"
     excerpt: "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field."
-    publishedDateTime: 2021-10-22T22:40:00Z
-    webUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco"
-    ampWebUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/?via=indexdotco&amp"
+    publishedDateTime: 2021-10-22T15:40:00Z
+    webUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/"
+    ampWebUrl: "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -62,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "otObvO13mTFNGoAJ3a4veo5G0dw1TiZskPt5bR3i0tBgAy898+Tr2f09Nd6OzwSbAXtZBtJ9l/4fjSrPvINEs865VrW06eaYYP1hwvoId9MfrEsaugnJKy47EEtqcD8yLoKXOYMZ96meit3yjLewaOdSrJ34ay502BWAsOM7rB6WdElVnUoTSs+pyV5vLpRG+dlO/+K59ghJGZ0FX1KBQCay+oYLRo3M/fYwKH35PtojZD2MWmJAnJrpclcaQrFShUHwmabgUPhnIHwF87eUxlAD4s91kHwr7H2aoAM4Rx7bU1nQ+TdJRFbDDbDgRLCePzCj8V1ZRIOYLjtWOiKHd9DveXZXjlX8bYK4Yr5vlLFnldS5akE9eyKCqWZM6npMQo/Z3Vxj3cF6LA9wmyZy8c8sujDKMXoK6eCYG05HUXu6MemWjipOtD1XLaL7fhRMZnDZN2f3lcziM5/OnyiaYatexXIWVKQiISz+tH5whFRL3q9SSMlgQ9gPf7m4dmBEdmPUjWPlao1m0UswMtHPBg==;HxHtDvEFgkMJgQMbYPMWkw=="
+secured: "lb33qwfstkJj3DhzKwiDRu/B8Zp0XZ1T5ODMlOcmbOF59pHaiIjlscPb5ELgtQbSNN3KKObvTfmCRll/yhx8J+kddqACcmQtq63HEiRbaqvB4Obawcn66+Il+4+qLAnaB23B/vuvTr13x5FveoUKB2F5twJ/Ssow7Ug13bVUZF2GKRr7nyrrz9pL9FkteaaJoOM+AGifwti/78Jqh5w1M4CfMbrpUGjy5yLH1UcBG9hmG3G2T0Kwz+m0Yhh+22/AXRiudSAQrak87ZgGngbRNiJRoGwM0xDXSbPAs2b+uilTjQr4J+XjkGLx+sw3yWgDnAC0z+PWBl7kC5djjgQgJsOxlcRZtNMvA8Bw5pLh2dw=;RLXWng+cp1hK/Z8a3gGJ7w=="
 ---
 
