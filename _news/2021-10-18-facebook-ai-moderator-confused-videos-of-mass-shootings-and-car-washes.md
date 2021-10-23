@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-
 webUrl: "https://arstechnica.com/tech-policy/2021/10/facebook-ai-moderator-confused-videos-of-mass-shootings-and-car-washes/"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -144,15 +144,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
-  - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
-    excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
-    publishedDateTime: 2021-10-18T08:20:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-researches-ai-systems-that-analyse-first-person-video-in-ego4d-project--1400813"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "b6da6f7eiInMa/ZLOx3FFkxOAnluVz9ef4cApWXM7U8w0D+gbYpIylJEM/cwGD7yOeP2BKjipv4vTf00WKJj/d2jBPZGI9V9M2Yj8H2TimrNAP+OVfY4gPMFfDTtWdeFR2VXZnpppx6IwDm4NMt6XBJP08zMz4O/lW8dTIAyAMTCdvUXML3R7IX2zxJGPsUHANXyScME0xwsCdtwwqJSoL7SBALHQ4OpbPhneZnHpkt/CzJOmCNsNFuVUE7gc3L0FmvCeRMcmUZcg//iu4W5uJEDw2k0ikCfbuo3KBqpkzBUZVObmHn0SXK8fw7Dbf0q+9nryOqYqNDJtR9hURyFE7e3EeD9V7zWihmMwhdJH8QkP1DaXeZFM6zqXWrjuXgdEjd9ffjdzFD41CM6euh7YxSKMDc3Q2FpYD+b2oLPzhRRwqoZ8HBzuQ8u+49FvV2ZLm2FWR+gCywsEOT3LvvKE3dI4TE4U+Xn8p4UwQK7eB97ef1K8JRL5wzdlrAtCTfKMg5oazxo47C8lctoMn6YDg==;SXwzjSq/S+C+Ey8s0OFenQ=="
 ---

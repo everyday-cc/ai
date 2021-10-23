@@ -143,15 +143,6 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 19
-  - title: "Facebook researches AI systems that analyse first-person video in Ego4D project"
-    excerpt: "Facebook has announced Ego4D, a long-term project by Facebook AI for analysis of first-person video recorded via GoPro cameras and AR-glasses. It consists of two elements, namely an open dataset of egocentric video collected with the help of partner universities,"
-    publishedDateTime: 2021-10-18T08:20:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-researches-ai-systems-that-analyse-first-person-video-in-ego4d-project--1400813"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "WPLqKe6NX+WHTfifsnbifNR6EM3Gk+dkNQf9HlX2hCZ5+sxV4LYkxWiZV80ZQAtN9tlDGgHjKFU79xYNuqqzEYl1V63PbPMyGKU5PdNKkrjzImnBHqZXHZLo2x+3kRGUeXif6EfrubJC6br7p3GBg0IsmuIIVWlraOLmZHlpXg4jLCOYGP9aWz/UscSWhiMpwPZXG+gIyNTfJliQqJ/lck6YB+8wiQ6ZtwfmcqlFDlvtr8vje3sgpm2tanlPOaduvYQPUwqRrjuLoOZtzG3AGCTj69b5uvBiuOx1d2J7GTCCYNGtEUj9SeR7P5q0YiHnDkbaPD8fNj8/e12Cv71Gs8I0zM9audQbSuUpQ5NsfSTIMaZxqb8TfNXXydfQ/vKLHmJARw/f3cgN6soOntYgNVN4ZFGqay6geMKTGQ2fKLFzx8nO96djKhI2vVmkV1PpzHwofLby/h7TkYpSriDzoSsUT4z33a/L3h+l7FbAy3n/6QusyBXWqfYlvuRwo4stGxYjm7Tt+lcRWQ/qPZDcuw==;4vu6PRm82CoBp/QHM2rZ8Q=="
 ---

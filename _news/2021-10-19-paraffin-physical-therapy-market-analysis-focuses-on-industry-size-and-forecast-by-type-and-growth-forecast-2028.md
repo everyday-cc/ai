@@ -155,20 +155,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence to Boost the Global Wound Care Market by 2026 with Minimal Intervention Solutions"
-    excerpt: "The global wound care solutions market is estimated to garner $30.5 billion in revenue by 2026 at a compound annual growth rate of 6.7%, finds Frost & Sullivan"
-    publishedDateTime: 2021-10-18T07:03:00Z
-    webUrl: "https://tylerpaper.com/news/texas/artificial-intelligence-to-boost-the-global-wound-care-market-by-2026-with-minimal-intervention-solutions/article_11a7db5f-93d3-5a7b-b4a5-bc2cb57b83cb.html"
-    type: article
-    provider:
-      name: Tyler Morning Telegraph
-      domain: tylerpaper.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/6/b9/6b9dd3b0-c25b-5ad2-be43-e53b46407b8d/616d260dd85af.image.jpg?resize=934%2C630"
-        width: 934
-        height: 630
-        isCached: true
   - title: "Global Automatic Voice & Speech Recognition Software Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
     excerpt: "Global Automatic Voice & Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2027 published by MarketsandResearch.biz presents a succinct outline of the market and explains the major key elements of the market."
     publishedDateTime: 2021-10-18T20:09:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Egypt detains artist robot Ai-Da before historic pyramid show"
 excerpt: "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot"
 publishedDateTime: 2021-10-20T16:33:00Z
-originalUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show?s=09"
-webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show?s=09"
+originalUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
+webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
 ampWebUrl: "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
 type: article
@@ -57,6 +57,6 @@ related:
       domain: taipeitimes.com
     quality: 34
 
-secured: "KQm2v/lTI3iZM6JYJz8VYQsuHPs1Y+Is2HmYlOpciHZ2/c2HlpPCK6yVh5ZV9YMCNEd7zsA9K6lWQimgDC+WSt1rMUaIzEUaS0jUyAhxN5FWKwMajMVkqPUP48gVjx8I4dq93eq7FRnDVdU427GJXZLMz/xIct5LEat6dNB/+uHwrZMlZA2IG3E531rnD8a7uEu+fLikOiPWEPUUaTFCt3ECK0lcKn7TxZHxBaS6+Bo3x2s/01o443LGfpWcaaBpi884Da+0RQWIn/Khjp0+AaP2HVBOkBdlgz1dJWNaPHQaixU4o8uuI6zVuEU8njxT3JTDDMq0uv/xSJUaN+veDQigHsEaQPYGupVa+OUiOhXKB9Ryf38GnSKUTj7AmndWe6oNwSRmU+K/KgW1wHww0rF2zoy0Sxg+iwUSe+gPQ2xKxt6qTkvArLeP4XrBWb0weEmvFW+M2aTRcO2NkLQ8cnDtLmJe+q/1fvIUkFATl6aH8BaPH0bpKmlFOKNFx1Q5Ly/4rSCj3FlAiBEeOC9nqQ==;dwpNk3jRPJ8tYmi/C5R7RA=="
+secured: "n7JjAwWNUlPHhTEHQg38y+5WHJ7BtH7NgrJ4bPDWT7QPDRinL+yU5jpDdb8L2vmdXrJBeuSGsFH7MEp6PhoZOFaB1suKEDx3WdAEop0umWzWScR6VMdG351i3/IXAIMYw2WUlieoyNdhKcGfzmkLtzEe5BqnssUvCJ2TBF1Wg8+4ltVLyiXtPWqHGb8JqAU51EsCck79fYiM+ZVZTMkgSVWT84HcF6MpWvb/qvUuMtkpruPnHj6Y0GZdky2itxaG+kGf0vKcxNZXUcLWp1JYQGyuA+ynxxQpusBYprK6fc+O6uhFxJ76kLwnSbrxcVdgTvfmadS53C8g608cXXMcPRaqDs7VA17QJ0LsnOXZHNw=;TWGESPPFDH6zSfTfSroL8g=="
 ---
 

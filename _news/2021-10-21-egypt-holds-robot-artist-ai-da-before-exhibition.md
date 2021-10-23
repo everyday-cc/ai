@@ -22,7 +22,7 @@ related:
   - title: "Egypt detains artist robot Ai-Da before historic pyramid show"
     excerpt: "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot"
     publishedDateTime: 2021-10-20T16:33:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show?s=09"
+    webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
     ampWebUrl: "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
     type: article

@@ -185,20 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK schools bring in facial recognition for student lunch payments"
-    excerpt: "The intent is to improve speed and safety, but privacy campaigners say it is trying to crack a nut with a sledgehammer"
-    publishedDateTime: 2021-10-18T07:15:00Z
-    webUrl: "https://www.computing.co.uk/news/4038781/uk-schools-bring-facial-recognition-student-lunch-payments"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/9ec452d/e25ba31c-3fa5-4002-93ec-fc1d6187420f/3/iStock-Face-recognition-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "UK schools to trial facial recognition to speed up lunch queues"
     excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"
     publishedDateTime: 2021-10-18T09:29:00Z
