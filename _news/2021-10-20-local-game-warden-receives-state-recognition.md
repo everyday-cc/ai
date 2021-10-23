@@ -41,15 +41,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Wendys Ups Its Drive-Thru Game With Voice Recognition"
-    excerpt: "The fast-food chain is partnering with Alphabet Inc.’s Google Cloud to increase the speed of its drive-thru orders and home deliveries, anticipate return customers’ favorite meals and keep burgers from burning on the grill,"
-    publishedDateTime: 2021-10-19T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/wendys-ups-its-drive-thru-game-voice-recognition"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 4
 
 secured: "B3tW1vdaUIfm5kMFYW0+FzaqH40nk9woOcjyWnSbcT5fNC0ix5Uuy2fBZNNR5VVQiD20K4KhKPeQJKNUNy+iTiQwApuVAHb8BLbmryh2vrPhyqf96FtY6Cxnsc707FJQr1Gz1vvMxrMivP5rPqk3xA+cfUgx4K+m6RWyloH34tv8bJBOCJB6a4OPeOQBHcUhpFoxivY+i1tWQrwkNS7Fu0Lc3grHbfW5hnMtPtCWw33dTN2Lao26jbyHU6VzWTSskFGYQ1xfm/Xg4b2vS5cUMHXPCTHHfXbLubGGwULAU4RUqfNHTguh3PqrR/H8r+cewDB5ZzaELSwEQyseHwvjLmLweWFQzPq3TnqD4/FZzqI/doFkhd2HwxYPn6PbdOAe5KTM6b5dMcOJSKCWxT8hpddN4NnMdD+16IXS60awflOnfFX2HS1k3rRES28YRF4vDymptiieyPI3uWvkUeVKAjHwYlQsEkq/QQN7gNlKhP/H1zUdHWAlWf/8e/rJyMRjjzQ1Vhpjub0i5J6uXGNvKA==;4xrvtc2aNe5XgoyyNNyLfw=="
 ---

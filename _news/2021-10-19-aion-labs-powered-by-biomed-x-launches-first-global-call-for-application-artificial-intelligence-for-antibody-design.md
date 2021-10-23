@@ -1,21 +1,21 @@
 ---
 category: news
 title: "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design"
-excerpt: "REHOVOT, Israel and HEIDELBERG, Germany, October 19, 2021 /PRNewswire/ -- AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve therapeutic challenges,"
-publishedDateTime: 2021-10-19T14:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aion-labs-powered-biomed-x-launches-first-global-/2021/10/19/9472731.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aion-labs-powered-biomed-x-launches-first-global-/2021/10/19/9472731.htm"
+excerpt: "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of"
+publishedDateTime: 2021-10-19T14:03:00Z
+originalUrl: "https://www.knoe.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/"
+webUrl: "https://www.knoe.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KNOE
+  domain: knoe.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: pharmiweb.com
     quality: 10
 
-secured: "hJd77PU7Os58mHFxp6HkOIIXw9nKdAYStotisnNLLejMMoCVsQexWwqGTXYJKcMzXaduSJNgDjSVW+mPZ4MzdlLlEecsC+bTCMmReZ7n0BFLZcitOe3hbE4VhD+XfxiMjEph7LkqTq/hiOZxGR43O+UlYjvkSUaD/TQ50ap7mIsHjCK8qtG4YAnrE99W2NCStZhn1g8YAlDVIcvnWHWe7z8ELYgQ49mGFw3LZxDhK90Wz2H96BY1ejcCpunhvZ3qb5s9CvxCey4/p4n9GecWk/m9RqaV55ZUYMnU+hRcQQW5ztx4bTP3gzQAGJd1rn7PyWwoHs9hwwRi3FZv0bKXkBGksW7Mws7u33Ko8KW4Ux0=;9vKBlEGjgQmm8FF+/CTC3g=="
+secured: "2yR0h5i083S+uEisUoANfyON1l80LWEM9Lygbl63ee5HqECGZxlV0KJlZTGfZ5BDJ5wHw7DznKueDSBiK9y2bMnhxJGFmT4X0hgDZz732ejqZ14N/2ieAtgyCmWNeen8s26h1J4UfMnd3vDGJ/2YLvH9H9RsErGKTy3lyCZ+7ckib0CRUIojPlzryPxjBrnLzM+Z4wxswTIcpIUAYO1X3NIpmU5JoP8nsfW5ELLDuXwz3YK3bs2/ATXcuP2F0rBrqty4aogf4gxKB1rzMDwPnwsHKjftidBnXwFNzSQqOuyfxjpXNFfe+I82dUdWb/aSHGM7CUdL0a5GZ7uAo6QviMBtK3xEkCVQJ4sBco37t1lHqLP1W3oMtMoAMymdTYFQ+QwpOREP8iB0hRO4TZibPiHXcTpOZljgrkVeJg00mxfgaKhBGK8ai28wCeZEbcmraxh94c5G2VHE3/strKGwtuSU9PamVUl6vVTXvq7yPL/4MjR5XJAEmwjiwqmhRkXo3d5EMihwEbNgXd0U4LqERA==;gQsOc/R5XlYw/9H+Mh8j5g=="
 ---
 

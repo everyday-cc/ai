@@ -7,7 +7,7 @@ originalUrl: "https://github.com/AI-HUB-Deep-Learning-Practice-Level/salina-Lear
 webUrl: "https://github.com/AI-HUB-Deep-Learning-Practice-Level/salina-Learning-Sequential-Agents"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "A Turning Point for Machine Learning: Google Unleashes First In-house Tensor SoC"
+    excerpt: "Joining the ranks of Apple with releasing its first custom in-house SoC comes Google. With the release of Pixel 6, Google makes a splash in the machine learning realm with its Google Tensor."
+    publishedDateTime: 2021-10-23T15:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/a-turning-point-for-machine-learning-google-unleashes-first-in-house-tensor-system-on-chip/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 34
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/articles/Google_Tensor_Photo_3_DQt1yAw.max-1000x1000_.jpg"
+        width: 700
+        height: 393
+        isCached: true
 
 secured: "V/3QOLfXl3kyNOzgejcA87L7Zf+HmH/r9ouytyAQzdpO6zYOTJ+T367STKun43fvqpNtti3jh3zy9s3Qg+8LM8VLi5Vw6pCxNvf97aXrGMOsSuDpvObFW59IprMYhafLT03U0Iq+pM1Og6cZ2i8gI3M7WZ1ZSJZtpPZ5DDLaw8dR5952X4ot81FWQJZf2NaBpB4MULh3puwC1KcJoGD3/fNh7pEkQgVcLQVcDyfkjNZtMuP7s43mJvodKfR7sWZDvFlW1wSde3NDdzbMO3TPbsojXEyMyLV8UO0eZFAX9cs+2JDXBQJyUdcCzoUOIkKf60+u4ib1vfF+VB8nd1K3I+32CpwB249eI9HE0GxptuA=;bVBgj3JESpmdTBCMmWN2Pg=="
 ---

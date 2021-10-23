@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intel
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
 type: article
 quality: 71
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -37,34 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI Accelerator Chip Market 2021 Segmented by Product, Application, Key Players and Regional Analysis to 2027"
-    excerpt: "Global AI Accelerator Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 is the latest comprehensive study added by MarketsandResearch.biz providing a detailed analysis of the market."
-    publishedDateTime: 2021-10-18T23:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-chip-market-2021-segmented-by-product-application-key-players-and-regional-analysis-to-2027-2021-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Processor Chip Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027"
-    excerpt: "Another report by named, Global Deep Learning Processor Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 has been added into its tremendous archive by MarketsandResearch."
-    publishedDateTime: 2021-10-18T23:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-processor-chip-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

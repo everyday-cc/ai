@@ -9,7 +9,7 @@ ampWebUrl: "https://www.courthousenews.com/driverless-cars-learn-make-moral-choi
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/driverless-cars-learn-make-moral-choices/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,29 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Hong Kong's first driverless car to be tested on mainland due to city's strict rules"
-    excerpt: "The on-board artificial intelligence learns from its surrounding ... In July, the West Kowloon Cultural District considered buying a driverless car from a French company for HK$2 million."
-    publishedDateTime: 2021-10-19T00:00:00Z
-    webUrl: "https://www.todayonline.com/world/asia/hong-kongs-first-driverless-car-be-tested-mainland-due-citys-strict-rules"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 47
-    images:
-      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/ezxdriverless_read-only.jpg?itok=PGWeJLSk"
-        width: 1024
-        height: 597
-        isCached: true
-  - title: "Hong Kong Fintech startup uses AI to drastically streamline workflows for capital markets and empower professional services"
-    excerpt: "Harnessing the power of deep learning to handle the massive amount of data required for initial public offerings (IPOs). Aims to reduce time to verify IPO prospectus by 75 percent Aspires to become th"
-    publishedDateTime: 2021-10-20T15:51:00Z
-    webUrl: "https://www.scmp.com/presented/business/topics/ai-takes-over-tedious-tasks-ipos/article/3152871/hong-kong-fintech"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 23
   - title: "Converging Technology: Driverless Vehicles"
     excerpt: "Bill Gates once said, “people overestimate what can be achieved in one year, but underestimate what can be achieved in ten years”. This is especially true of the disruptive nature of technology."
     publishedDateTime: 2021-10-21T00:20:00Z

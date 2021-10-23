@@ -64,6 +64,22 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 49
+  - title: "Facebook Smart Glasses And The Creep Factor"
+    excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
+    publishedDateTime: 2021-10-23T16:08:00Z
+    webUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor"
+    ampWebUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
+    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 44
+    images:
+      - url: "https://crooksandliars.com/files/embeds/2021/10/47655.jpg"
+        width: 425
+        height: 318
+        isCached: true
   - title: "Can Facebook's smart glasses be smart about security and privacy?"
     excerpt: "Facebook's smart glasses ambitions are in the news again. The company has launched a worldwide project dubbed Ego4D to research new uses for smart glasses."
     publishedDateTime: 2021-10-21T12:10:00Z
