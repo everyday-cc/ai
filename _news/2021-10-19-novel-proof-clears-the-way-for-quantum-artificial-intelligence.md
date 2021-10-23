@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azoquantum.com/amp/news.aspx?newsID=8494"
 cdnAmpWebUrl: "https://www-azoquantum-com.cdn.ampproject.org/c/s/www.azoquantum.com/amp/news.aspx?newsID=8494"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: azoquantum.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough proof clears path for quantum AI"
-    excerpt: "Convolutional neural networks running on quantum computers have generated significant buzz for their potential to analyze quantum data better than classical computers can. While a fundamental solvability problem known as \"barren plateaus\" has limited the application of these neural networks for large data sets,"
-    publishedDateTime: 2021-10-18T19:07:00Z
-    webUrl: "https://phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/breakthrough-proof-cle.jpg"
-        width: 720
-        height: 501
-        isCached: true
   - title: "Clarifai Announces Launch of Clarifai Community - The World's AI Community for Developers"
     excerpt: "Clarifai, the leading Artificial Intelligence platform for unstructured image, video, text, and audio data, announced the launch of Clarifai Community–the World's AI Community. Built for AI creators and developers,"
     publishedDateTime: 2021-10-20T17:45:00Z

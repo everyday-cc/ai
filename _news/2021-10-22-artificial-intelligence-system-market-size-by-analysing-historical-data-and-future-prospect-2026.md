@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
+    excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
+    publishedDateTime: 2021-10-22T04:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/latest-article-artificial-intelligence-in-healthcare-market-status-and-forecast-analysis-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/e302e48527a00d9aa3f6c8885afb0efeed56db62-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI will start analysing management bull"
     excerpt: "This will be really funny CEOs and other managers are increasingly under the microscope as some investors use artificial intelligence to learn and analyze their language patterns and tone, opening up a new frontier of opportunities to slip up."
     publishedDateTime: 2021-10-21T09:53:00Z

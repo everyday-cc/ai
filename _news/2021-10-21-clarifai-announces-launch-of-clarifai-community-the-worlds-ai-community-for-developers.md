@@ -35,22 +35,6 @@ related:
         width: 3097
         height: 1914
         isCached: true
-  - title: "Breakthrough proof clears path for quantum AI"
-    excerpt: "Convolutional neural networks running on quantum computers have generated significant buzz for their potential to analyze quantum data better than classical computers can. While a fundamental solvability problem known as \"barren plateaus\" has limited the application of these neural networks for large data sets,"
-    publishedDateTime: 2021-10-18T19:07:00Z
-    webUrl: "https://phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-10-breakthrough-proof-path-quantum-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/breakthrough-proof-cle.jpg"
-        width: 720
-        height: 501
-        isCached: true
 
 secured: "TDJyvSv9X2zIwDV4K4JTHKGFrYhidYZkDk1qOTKt/CH2vKxzKv0bpOGi5QA0vQtl8cFFWrogZJU2TtarHM9oS7c0c/eOBKKZrRoUdzTMbm699nfkd4td6d4Lfm5xGpurgjtHuJHbThU8qNKHrJqWrOy1kvbqJcABr4Vbc2+b5kROw9UA3xtbaKwNKIYJyslfyzBu63bmUtaLmQ4qR9kae9LZLs764RjAXyqyyy+2vwHL/H9EyP/1YgCy0j+5qznWlh/YOIvcF+34/gwlEzNED/FJiS3t7fNJscWh91slmULoVg4DASYy6IVuaTCKjww6QB/TTkMcyo/MT8TuCuzGztcpooH0lt39swECetfRouo=;RvvYKgPzhVgUF+iBCpmhkA=="
 ---

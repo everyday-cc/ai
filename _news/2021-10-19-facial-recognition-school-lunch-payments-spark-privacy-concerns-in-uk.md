@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.iflscience.com/technology/facial-recognition-school-lunc
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: IFLScience
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition in UK schools prompts blowback"
-    excerpt: "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection."
-    publishedDateTime: 2021-10-18T19:18:00Z
-    webUrl: "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/"
-    ampWebUrl: "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Schools warned over facial recognition systems"
     excerpt: "Schools using facial recognition systems should consider less intrusive ways to let pupils pay for meals, the UK's data privacy watchdog has said. A small number of schools use the technology to allow pupils to make contactless lunch payments."
     publishedDateTime: 2021-10-19T14:50:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4E73/production/_121138002_schoolsgettyimages-912173760.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
+    excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
+    publishedDateTime: 2021-10-19T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 51
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/facial-recognition-payment-system-for-moscow-metro-moves-ahead-despite-privacy-concerns_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
   - title: "Use of facial recognition to take lunch payments from schoolchildren sparks privacy concerns"
     excerpt: "The firm behind the technology argues that the system will speed up queues and reduce the risk of Covid-19, but campaigners say that is needlessly normalising biometric surveillance"
@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
+    excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
+    publishedDateTime: 2021-10-19T18:04:00Z
+    webUrl: "https://www.biometricupdate.com/202110/scottish-schools-serving-up-fresh-privacy-debate-for-lunch-with-facial-recognition-payment"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
+        isCached: true
   - title: "Facial recognition system to speed up lunch payments in UK schools"
     excerpt: "Facial recognition technology have been rolled out by a group of nine schools in the UK to verify children's payments for school meals, acording to media reports. Instead of conventional payment methods like cards or fingerprint scanners,"
     publishedDateTime: 2021-10-18T21:22:00Z
@@ -106,6 +120,15 @@ related:
     provider:
       name: Sky
       domain: sky.com
+    quality: 19
+  - title: "Facial recognition systems off the menu as schools reverse plans"
+    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
+    publishedDateTime: 2021-10-22T04:00:00Z
+    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
     quality: 19
 
 secured: "kujRdsNhsp4r9smAVE6yL2kFzRF/f4swZj22yI3lYlIAXEZEBlabqwlaqCaupgtR8NQjB5L17DfMQMPPjBWbjhnPniDUmiyEvUWBPvV8Ss9Vsb79SYbJtjRByKCL2BYMFRztCL2LMKZJHm+AtkZaqHLTY80JQZFeS1OC801Nj3ZzQ3JkUerfexfNQzwZHYD+1IE8iglIb9moZZT0YhWvkg5giRyLXnJBCeq+f2wZVHLtXxkOwtXiHt5MdrKtavCtF/jy0lHfKcstymxe8EH4XaUCGydtjW40OjTND1sYC6FIu/VFw47y5WXYHhc+K04oMA0cyhN6hcKqoVDrDV7loBK5g+SY7aIs0oHVu57HRhwTU4pkfcs97Ks4MZAEaUL/NwEbzdOIcg74hg+R5PNKEM1qhH7xuxzae01uiMu8McPHm8RY7Detwfi2S6t9ZqrdQkmgGFmXzY8br1+HBMVdMIJwMFDbvk9paT5ONN8/qbtGnNPVs1lyet32IwS9Me8Eqb20dN5v5uxmY8+vw3m80Q==;WmvKZHkGFzUe5RKhO8P7MQ=="

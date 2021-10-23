@@ -36,6 +36,20 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
+    excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
+    publishedDateTime: 2021-10-22T04:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/latest-article-artificial-intelligence-in-healthcare-market-status-and-forecast-analysis-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/e302e48527a00d9aa3f6c8885afb0efeed56db62-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
     excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
     publishedDateTime: 2021-10-19T06:15:00Z

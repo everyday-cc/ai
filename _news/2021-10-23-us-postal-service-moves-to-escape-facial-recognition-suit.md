@@ -58,15 +58,6 @@ related:
       name: Bloomberg Law
       domain: bloomberglaw.com
     quality: 19
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 19
   - title: "Mantra Launches Its New Access Control Device BioNIC Fx9 That Blends Face Recognition and Fingerprint Scanning Technology"
     excerpt: "Mantra Softech, one of the leading biometric manufacturers in India, added BioNIC Fx9 to their wide range of access control devices. The new BioNIC Fx9 is"
     publishedDateTime: 2021-10-21T19:42:00Z

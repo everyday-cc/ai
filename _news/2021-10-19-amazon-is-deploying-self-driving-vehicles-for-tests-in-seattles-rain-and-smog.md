@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/amazon-is-deploying-self-drivin
 webUrl: "https://interestingengineering.com/amazon-is-deploying-self-driving-vehicles-for-tests-in-seattles-rain-and-smog"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon-Owned Zoox Expands Self-Driving Car Tests to Rainy Seattle"
-    excerpt: "Amazon-owned autonomous driving startup Zoox is set to test its mettle on the rainy, hilly streets of Seattle with a new expansion of its self-driving car trials in the Washington city. Patrick Kulp is an emerging tech reporter at Adweek."
-    publishedDateTime: 2021-10-18T19:09:00Z
-    webUrl: "https://www.adweek.com/commerce/amazon-owned-zoox-expands-self-driving-car-tests-to-rainy-seattle/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 39
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/10/amazon-zoox-seatlle-2021-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
-    excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
-    publishedDateTime: 2021-10-19T16:12:00Z
-    webUrl: "https://iottechnews.com/news/2021/oct/19/amazons-self-driving-vehicle-brand-zoox-to-begin-seattle-tests/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 24
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/10/amazon-zoox-self-driving-car-autonomous-vehicle-seattle-iot.jpeg"
-        width: 1280
-        height: 768
-        isCached: true
   - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
     excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
     publishedDateTime: 2021-10-20T15:23:00Z

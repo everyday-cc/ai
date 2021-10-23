@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-22-a-harvard-freshman-made-a-social-networking-app-called-the-facetag-its-sparked-a-debate-about-the-ethics-of-facial-recognition.md",
+      "title": "A Harvard freshman made a social networking app called 'The FaceTag.' It's sparked a debate about the ethics of facial recognition.",
+      "excerpt": "Yuen Ler Chow has expressed interest in raising money and, of course, expanding the app to non-Harvard users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/a-harvard-freshman-made-a-social-networking-app-called-the-facetag-its-sparked-a-debate-about-the-ethics-of-facial-recognition/ar-AAPPaN2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6171ff0f4f281c00129685fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10?amp",
+      "publishedDateTime": "2021-10-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+        "domain": "businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up.md",
       "title": "NATO launches AI strategy and $1B fund as defense race heats up",
       "excerpt": "NATO has launched an AI strategy and $1 billion investment fund as its members states look to further development of defense technologies.",
@@ -1407,58 +1451,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups.md",
-      "title": "BGV closes fourth fund with $110M aimed at immigrant enterprise AI, cross-border startups",
-      "excerpt": "Silicon Valley-based venture capital (VC) firm Benhamou Global Ventures, known as BGV, closed its fourth fund with $110 million to support global enterprise companies. The new fund is 60% larger than its third fund and will be invested similarly,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "originalUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1152284190.jpg?w=1024",
-          "width": 1024,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/30/bgv-closes-fourth-fund-with-110m-aimed-at-immigrant-enterprise-ai-cross-border-startups/amp/",
-      "publishedDateTime": "2021-09-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon’s self-driving vehicle brand Zoox to begin Seattle tests"
+    excerpt: "Amazon’s self-driving vehicle brand Zoox will soon hit the streets of Seattle following tests in Las Vegas and the Bay Area."
+    publishedDateTime: 2021-10-19T16:12:00Z
+    webUrl: "https://iottechnews.com/news/2021/oct/19/amazons-self-driving-vehicle-brand-zoox-to-begin-seattle-tests/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 24
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/10/amazon-zoox-self-driving-car-autonomous-vehicle-seattle-iot.jpeg"
+        width: 1280
+        height: 768
+        isCached: true
   - title: "Winter self-driving pilot to start in Finland in 2022"
     excerpt: "A public transportation self-driving car pilot is set to begin in early 2022 involving two autonomous Toyota vehicles in the city of Tampere in Finland. The goal of the project is to gather feedback on how autonomous vehicles work as part of the public transportation in Tampere,"
     publishedDateTime: 2021-10-21T12:24:00Z
