@@ -2,7 +2,7 @@
 name: "GNS Healthcare"
 overview: "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments."
 type: "profile"
-heat: 50
+heat: 31
 
 website: http://www.gnshealthcare.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gnshealthcare"
   url: "https://twitter.com/gnshealthcare"
-  followers: 2598
+  followers: 2599
 
 size: 51-200 employees
 yearFounded: 2000
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1063wrnhLHE"
 
-secured: "m+7Qm/ta7fAeZgQ6ELKVE1BZJIYjJz0BGb7MepEySdec+AI0dpMlvyXTnwx+x11jqtRqkedErYyNjSV+1OxmAkuxiZdGmiJxFSlXUiCWO5xCoMY72YD27fKs1dH5cmATW6zD6/xBB+MsIKa6e2s/kdcF0DUuOCwZVvyDMfkuskKouWfhFZ5hp7OBTm/giKJRkr0ASJicZ+UQJb3qzteZeMBtI4+3G50l1okikHmBz0MDGlhW3BNJonN1sddQUU3uW2uBJqAeVvQv5BxrWFGmi1bFX2+GunfsswGhbQzdd9i+Yjwmb5snQwrF79s2MCvmRriewSZ00Q3+LKJ+N0nJrMgKJJcIlEN0bC8H2uXk8lsDd6vC//aQY7gikuNq8/g60TrnaqhbADBFecoTC3EEf1b3UeS0dTV7sOA1NG/iAVo=;PBeeViu0m0yhUk254E47ng=="
+secured: "RTSRGU9wx+C1JrEDTuzkoEs+ipw9beV3ZO3zKklwcuJhv/W8/+SoF4V+a7rKKDvoaJnduCiZihyYPgjQn9owzks4Xl8LAqNiy0b/HW9L0jlmsnI2P+zHxyCz2FjtIwPx3ZnyAws2FIu2aOsAJ/jbXTgiHqrsDdv2Y0PWdMvnBqY/nRax6mxwW/7HvpaGupfh/6oC7TPV8cZ0uX7SWga8n/hF2NrIQ6c4oTV9nfeGQjOPP9NZpV4qXGzfgaTdYzXGXwMDAIchlqKd3VNtlXxjGs7XEYJsccaBuZw5403j7KNkCJqa348J0x08f0P1Pw/EbeeXxD/mUUGti8pybJXiDP8CHM+sENwp7J2Yh9NSlT8dlfX4PmfMglBK3jowOl54O9fXuL1wNVpjELaIscuWTIuhpbiycIlC0sb3W24zT74=;SxusZfTdz7XsPPmlRF5BgQ=="
 ---
 
