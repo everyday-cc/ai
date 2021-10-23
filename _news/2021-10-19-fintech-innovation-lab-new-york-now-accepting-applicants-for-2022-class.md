@@ -1,18 +1,18 @@
 ---
 category: news
 title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
-excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
-publishedDateTime: 2021-10-19T11:59:00Z
-originalUrl: "https://www.financialbuzz.com/fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class/"
-webUrl: "https://www.financialbuzz.com/fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class/"
+excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+publishedDateTime: 2021-10-19T12:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -84,6 +84,6 @@ related:
       domain: ky3.com
     quality: 3
 
-secured: "2ds3hzPuBYo0BJlTpOTx8fPlSjEGsmwqK5VBgzgChicBAGNeh0x/FXRhIM3mhD6Il6OBq7rjGomMMOV+anXVPXBQv7Z3CvKp2XmXQqMkU/D6Pc5i4eDh6AfYa0qy5KpnMmdJ9jD44L0YjYLat7wC3Rj8+hyfNlYnyuAZ0afwdtJ2u6UOhuO+mkl9bSZltQyeuGLGinkG9AwS1yEHhBGatrkPo6KuTawOmmFWVa5JXOXgn2Sz5dKHR1HmZmmAYHKPf+GqjEWsWiSVsSjhM6j0IolZ49KonmiKBxFF2GCK5qbQvJBh6mOmMUzpkuVy9K6aWrJNNAz4Dc4l1Ig/L62XSDSkH2UiXiyYjD6k5kB0yac=;X7dRAHO49Nw1/d9VoecFsA=="
+secured: "IfopKhInK2EKF26Sb+BQ0tMDLls3gjnKlQZutWBbPt4699DNCQlK5spyngrxzfvFRczQQNYM0/EQKCXyqS+W/AuprN9WyQLpem46QAnpTLnGP///qzat73AMxDrsR4Hv2lNHMDjPU0G0lJqfBgZAPVxXx80y9nipdKkPerNfOMr4gNZxG+RNdaDdnJlj0tZZiDipKBu3y4O+T2ylYgioFhOTpBrAifBDzg2qAhLz7r8R4Q7i0G8bxZf9fFM93XnOcXFWklAPzbVeHvZ4eXY/ubl7iHb/6YEs9muPuWIgnJi9K2LXmGvpaN0Ghw4hbfVCZ8BR1w0b4bl2oCPkYZLpK2CkKQzuwk0ZQCd/Eccq6HY=;+FQLnCD2FAOOG+469gJFHQ=="
 ---
 

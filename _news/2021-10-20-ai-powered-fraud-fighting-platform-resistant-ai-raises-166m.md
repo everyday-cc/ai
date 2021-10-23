@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI in Fintech Market valued at USD 15.32 Billion by 2027"
+    excerpt: "Actual market sizes and forecasts have been provided for all the above-mentioned segments. Scope of the Report The report outlines the global AI in fintech market study based on component, deployment,"
+    publishedDateTime: 2021-10-18T07:49:00Z
+    webUrl: "https://www.openpr.com/news/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18125220_g.jpg"
+        width: 800
+        height: 274
+        isCached: true
   - title: "Resistance AI, an SaaS enabled AI and Machine Learning Security Firm, Finalizes $16.6M Series A"
     excerpt: "Resistant AI, a software-as-a-service (SaaS)-enabled AI and machine learning security firm that aims to protect automated financial systems from manipulation, fraudulent activities and financial crime,"
     publishedDateTime: 2021-10-21T21:46:00Z

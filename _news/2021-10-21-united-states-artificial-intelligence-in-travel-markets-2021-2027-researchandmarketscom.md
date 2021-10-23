@@ -1,26 +1,26 @@
 ---
 category: news
 title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
-excerpt: "The \"United States Artificial Intelligence in Travel Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
 publishedDateTime: 2021-10-21T13:12:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=551119"
-webUrl: "https://us.acrofan.com/detail.php?number=551119"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
+webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
       domain: manometcurrent.com
     quality: 0
 
-secured: "nbGqgNojzqCO1u4f6HEZOAVWLnIxlsUFpcdQnEQj2utW6GVuBb0o+8ZHNrjPSSwCl9JMvaXFsBwFrTPvSzBK3ckrrMY5yZ68KycFqDqScb8QA1pawDBQlyss162cHUCJ7IpJON9dYkFgAEaOmV4Y/2+xPRCFMgcMEA1d8zwOEuRlNQVxwNQUJLFwqD922Hc6MoOr2bbn3CfFsxaBf+nB+LWxOVd2bnjtUGXuczj6dyeu/jFQzCpdcCvPZ09yPvFENGBNlAbOjnzpHglFWtsjiUC3VtRUItcAZ/Rh2bDb1lMcmjsRo/kbY1muXSljN0PT547gi3Q75iVV0iBdakFwoZMxnQOs2PfSFSi2siHIzf4=;gugZXJqdZ1IJz+cQUKWb0A=="
+secured: "YssvSl3HdeMy8Qa2h7pjeMbqjCoj1ozt2V4cGmT50yvNh+gcDuHn+BuhXP5OTPdkXzFAeVQtwMWqDgbluvqaCIPhGS6izQYUP6UGdbNIayJtBGpfsZMbENv7hBkwPErAyItqj4Zzo56hz6+DeYC6sfvvgJMGaWpHNc4hEsL5l554WykEk44AC96yu5R8Mq1GEvix+OXt+3V2Gxanfk430kbDhUZwAUTujTRR+MvDrud9/3EY/j109YGllhvK9lPRce+G/shWpS6nTwZdG+eEaV9T2DyOLRhfKImqGJSGERjj+X4+QVr9cs9fTvNsoklEmh9xpSUFJCh4fV0cKyXwO9LLr9qDI6veJF0HDs9sFKQ=;SgJuq7SKrcJN9KGRY58XMA=="
 ---
 

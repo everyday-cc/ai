@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/biometrics/361281/scottish-schools-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/361281/scottish-schools-serve-up-facial-recognition-tech-for-school-dinners?amp"
 type: article
 quality: 89
-heat: 269
+heat: 260
 published: true
 
 provider:
@@ -202,20 +202,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/9ec452d/e25ba31c-3fa5-4002-93ec-fc1d6187420f/3/iStock-Face-recognition-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "UK Schools to employ facial recognition for students"
-    excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
-    publishedDateTime: 2021-10-18T05:08:00Z
-    webUrl: "https://techstory.in/uk-schools-to-employ-facial-recognition-for-students/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
-        width: 1160
-        height: 691
         isCached: true
   - title: "UK schools to trial facial recognition to speed up lunch queues"
     excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"

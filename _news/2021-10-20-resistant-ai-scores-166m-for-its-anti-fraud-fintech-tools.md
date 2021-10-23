@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
 type: article
 quality: 189
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-e1634576028703.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI in Fintech Market valued at USD 15.32 Billion by 2027"
+    excerpt: "Actual market sizes and forecasts have been provided for all the above-mentioned segments. Scope of the Report The report outlines the global AI in fintech market study based on component, deployment,"
+    publishedDateTime: 2021-10-18T07:49:00Z
+    webUrl: "https://www.openpr.com/news/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua18125220_g.jpg"
+        width: 800
+        height: 274
         isCached: true
   - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
     excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"

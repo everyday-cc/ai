@@ -7,7 +7,7 @@ originalUrl: "https://fstoppers.com/photoshop/adobes-new-ai-masking-game-changer
 webUrl: "https://fstoppers.com/photoshop/adobes-new-ai-masking-game-changer-582611"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1185
     height: 670
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence is Changing DevOps?"
+    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+    publishedDateTime: 2021-10-22T23:51:00Z
+    webUrl: "https://www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/"
+    ampWebUrl: "https://www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/amp/"
+    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/amp/"
+    type: article
+    provider:
+      name: GeeksforGeeks
+      domain: geeksforgeeks.org
+    quality: 57
+    images:
+      - url: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211022200432/How-Artificial-Intelligence-is-Changing-DevOps.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "JlK2xIR32lX16to9d9SgsnUy2GFXnqGl1IY0jpv6e1FiT8DrH9KXUdP8iOIDnA0B5y9Bmt0vLtYb98GDxzXcKcvez023Z/8z/OnJCW1lsF2DpUVjXml5GeYPbe/DKNUXsj/FtTPTlHoLOO8QIDsKSW6m9SoggAbR5iBUjpnFGLG+8b5922rGs0WSN1VQwvES6lWwgFcefEQa5lSvU9bFYM0ixOTYiABIEnLDIejXqucLP6xmldSk9mPR542aFW86LoIrjEyZ4J8yonZ9u1bmm6Rl8+6fs9+c/WX4BgWsL9ygWPa3GyRht1w6y/m3MYkg4PLEDX+N2rra5pjaPu3aIcZVt4CBwwowMurvTf5auDM=;IlXKxAcgdaQEvct3KDBxhQ=="
 ---

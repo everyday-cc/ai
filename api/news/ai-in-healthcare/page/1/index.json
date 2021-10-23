@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-19-technology-in-healthcare-trends-that-are-trending.md",
-      "title": "Technology in healthcare: Trends that are trending",
-      "excerpt": "Jatin Mahajan, MD, J Mitra & Company highlights tech trends in healthcare to watch out for. Technology has had a far-ranging impact on the healthcare industry in the past two deca",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/technology-in-healthcare-trends-that-are-trending/431716/",
-      "originalUrl": "https://www.expresshealthcare.in/news/technology-in-healthcare-trends-that-are-trending/431716/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2021/10/19201458/Jatin-Mahajan-is-the-MD-of-J-Mitra-.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/",
-      "publishedDateTime": "2021-10-19T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-19-the-synergy-between-ai-and-healthcare-explored-at-2021-taiwan-innotech-expo.md",
       "title": "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo",
       "excerpt": "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,",
@@ -1350,6 +1307,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand.md",
+      "title": "Artificial Intelligence Myth Vs Reality: Where Do Healthcare Experts Think We Stand?",
+      "excerpt": "I think of it as a maturation process,” says Dr. John Halamka . “You’re asking why your three-year-old isn’t doing calculus. But can your three-year-old add a column of numbers? That’s actually not so bad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
+      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155c2ffe2958456f319f3ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2021/09/30/artificial-intelligence-myth-vs-reality-where-do-healthcare-experts-think-we-stand/amp/",
+      "publishedDateTime": "2021-09-30T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

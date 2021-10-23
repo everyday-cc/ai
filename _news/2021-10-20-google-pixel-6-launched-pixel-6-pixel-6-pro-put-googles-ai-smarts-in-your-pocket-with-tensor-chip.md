@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained"
-    excerpt: "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera."
-    publishedDateTime: 2021-10-18T06:50:00Z
-    webUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained"
-    ampWebUrl: "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 104
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg"
-        width: 619
-        height: 348
-        isCached: true
   - title: "Google's Tensor chip aims to make the Pixel 6 smarter and last longer"
     excerpt: "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel."
     publishedDateTime: 2021-10-19T17:00:00Z
@@ -91,37 +75,53 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "Google Tensor: Everything We Know About Google's AI Workload Crusher"
-    excerpt: "Pixel 6 is powered by Tensor, Google's first in-house mobile chip, and today we learned more details about its capabliities."
-    publishedDateTime: 2021-10-19T18:47:00Z
-    webUrl: "https://hothardware.com/news/google-tensor-first-in-house-mobile-chip"
-    ampWebUrl: "https://amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/google-tensor-first-in-house-mobile-chip"
+  - title: "Google’s Pixel 6 camera smartens up snapshots with AI tools"
+    excerpt: "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,"
+    publishedDateTime: 2021-10-19T17:38:00Z
+    webUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/"
+    ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56548/content/small_google_tensor_soc.jpg"
-        width: 708
-        height: 391
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0413.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Google launches Pixel 6 and Pixel 6 Pro powered by in house ‘Tensor’ chips"
-    excerpt: "October 2021 continues to unveil surprises – 24 hours after Apple “unleashed” the new MacBook Pro, AirPods 3, and the M1 Max and M1 Pro chips, Google now brings to you the latest additions to its Pixel family – Google Pixel 6 and Google Pixel 6 Pro."
-    publishedDateTime: 2021-10-19T17:27:00Z
-    webUrl: "https://thetechportal.com/2021/10/19/google-launches-pixel-6-and-pixel-6-pro-powered-by-in-house-tensor-chips/"
-    ampWebUrl: "https://thetechportal.com/2021/10/19/google-launches-pixel-6-and-pixel-6-pro-powered-by-in-house-tensor-chips/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2021/10/19/google-launches-pixel-6-and-pixel-6-pro-powered-by-in-house-tensor-chips/?amp"
+  - title: "The Google Pixel 6 brings a new chip and lofty, AI-powered promises"
+    excerpt: "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features."
+    publishedDateTime: 2021-10-19T21:30:00Z
+    webUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/"
+    ampWebUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
     type: article
     provider:
-      name: thetechportal.com
-      domain: thetechportal.com
+      name: Popular Science
+      domain: popsci.com
+    quality: 76
+    images:
+      - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google Pixel 6 Series Uses Powerful AI To Make Service Calls Faster"
+    excerpt: "Anybody who's ever been discouraged by long wait times during customer service calls should be looking at the new AI-powered Google Pixel 6 series. That's"
+    publishedDateTime: 2021-10-19T19:13:00Z
+    webUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html"
+    ampWebUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
     quality: 57
     images:
-      - url: "https://thetechportal.com/wp-content/uploads/2021/10/Probably_the_best_one_for_the_blog.max-900x900-1.jpg"
-        width: 856
-        height: 386
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/10/Pixel-6-customer-service-calls-features-presser.jpg"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "Google's new Tensor chip makes voice typing on the Pixel 6 faster than any other phone"
     excerpt: "The Pixel 6’s Tensor chip is enabling quite some incredibly camera voodoo, if Google’s presentation is to be believed. But Tensor is also improving other machine-learning related features, like speech recognition."

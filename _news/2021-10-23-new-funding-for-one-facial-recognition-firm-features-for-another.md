@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "EDITORIAL Retail continues to shift online, JD Sports expands, facial recognition payment takes a step forward"
     excerpt: "In today’s InternetRetailing newsletter, we’re reporting as ONS figures show retail sales continuing on a long decline that started following a sales spike at the time that shops reopened from lockdown,"
     publishedDateTime: 2021-10-22T12:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/technology-in-healthcare-t
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/technology-in-healthcare-trends-that-are-trending/431716/"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: expresshealthcare

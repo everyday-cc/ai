@@ -1,18 +1,18 @@
 ---
 category: news
 title: "DAFIA leveraging artificial intelligence to transform inspections"
-excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable"
-publishedDateTime: 2021-10-20T18:44:00Z
-originalUrl: "https://www.aetc.af.mil/News/Article-Display/Article/2817091/dafia-leveraging-artificial-intelligence-to-transform-inspections/"
-webUrl: "https://www.aetc.af.mil/News/Article-Display/Article/2817091/dafia-leveraging-artificial-intelligence-to-transform-inspections/"
+excerpt: "The Department of the Air Force Inspection Agency at Kirtland AFB, N.M., is using artificial intelligence, in the form of machine learning, to identify emerging issues of concern to Airmen and enable the Air Force to isolate,"
+publishedDateTime: 2021-10-20T17:29:00Z
+originalUrl: "https://www.dvidshub.net/news/407626/dafia-leveraging-artificial-intelligence-transform-inspections"
+webUrl: "https://www.dvidshub.net/news/407626/dafia-leveraging-artificial-intelligence-transform-inspections"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: AF.mil
-  domain: af.mil
+  name: DVIDSHub
+  domain: dvidshub.net
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 589
         isCached: true
 
-secured: "eWVj1Qm4pYf2mEoPAO7ZSjEQQYow6Ymy85gkFwZD3B4Od3fsXLJ2Du0TKPqi+VmzPrWSmVSub5TOTXO2J229p7bF1/sjH4rHlmbNaB6yisGQXpfbXDuCXRGgzu2X0F5x2R8SgcyC/hRxwtUrX75pjVlK3N/bzIwiSWXwjjGizfjLqsalQ6FQBHP8TZWeTlH+BBchdMqtM900o3HROaB1nSLioHNE0IfPSzlWE7YbRhOmNbDT6XD/IUZAi3BSkfoMTj9OFwQMSzrJ6HBglTe2kuWk6YdMYnONOaaWD6PCjkqm1KYoEz0sU/33kJwUGAmCjex2nUMjk5VxjI7QWztva3cxnNeswjgj1HwDMv6P9ss84oDHpd8aj615cAgDY8TEQAYcQKTjSUclWVc5gwHTOXrVXTgGKWVFcZP6GMytwYfXprEke6AJraAV9llAQKEd6Wb8EcXmBw87FnXFLdgSvEHN9+/rdIUZajkaknLiZ6D3lEZ3hawcaeN9Dbr3R9MgQB1cBpyGtK/4Kmg7EGLi6A==;Dyj0W7C6ArJxEHHcgCEmfg=="
+secured: "80+cAlhBy+82jCoTDGHp/1/y7WEVK5AEKUJLGQg79LA8fNTQCw0wLTqPAnWAx4tWWbwoMlCES4M2p6TXhMQt2M08WtWIwoX/QTSrpjBwViXHfb9bUBXnHj917bVs3J29cwDFuXF3h1QQ4ee7kwWyb7q3Xj02GJS4sMCuolf/c4IHpdVNwm8HX0kqBMqpVyfKGEFM7VC/ZcFBowB9/Oxpbvc/5JYL7SpEJ4h4Ee1ZEZ5wbjttkXo3CaUV7p8LMH8MeXZkO/qb63a8vkJGL7k+vlTXVqOzaIhYy6uKaMuWbfr8KzYlR2Gqv4rk/f9AcK+rlGnqOY91HkuWnhkyeqTOIthbsmLWLCxz2H3FPc7eKApE+9pD/jvG5Zg7pC0A2VYghIhKVefDHCIVPBcNxIvnCGDPhB8m75oK9V0Clu1LFAlSSOC/E/RSX30v/s+5JZJt/kbeB9o9CuCAd9Y4QzdmB3hQFi1J0Rxzx12T9QreotEGgGXxp98JQS/00xCgFzmtYiySLrMOfD2lrGRz4rnQFQ==;hsi3spSFDy5JOOERHWJq7g=="
 ---
 

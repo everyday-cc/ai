@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2433169/virus-tracker-apps-market-boostin
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2433169/virus-tracker-apps-market-boosting-the-growth-worldwide"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 800
     height: 352
     isCached: true
-
-related:
-  - title: "Neural Network Software Market Shaping from Growth to Value | Qualcomm Technologies, Intel, Microsoft"
-    excerpt: "The latest study released on the Global Neural Network Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Neural"
-    publishedDateTime: 2021-10-18T06:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-shaping-from-growth-to-value-qualcomm-technologies-intel-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
 
 secured: "jwBIt7zuK/vAerRNwMCnMTWeYuAt0xzQQed75PGxtl7ixBbdibpBYB+BQXRyKYBrMC+HAX0plvxWLlWmzfRazTrQsUAnl41b65JUrWwqcGJxtwa4je85VRaUuSLKfbhyfbIukxHzcs8Kwb0K3MukRKzv7abAa3Px3fuXIgv505uM5BKB51iGfTMQaCyMfTBZFSTpLyj7MWggXPm1CUnUGor2PnLRhq1M0h/pppHCjYa7YoU5ry8L3GNDgPYfCkLGRC03Wt3jSl+79GXm7U62/BaanouZE/UZIt/oUlBTm7vGWrafQ9ss+ex/1kpP42qeMvSEb84bABhYCBgttQK0HhSfahAVgTgewrEvL5XK1ZkA+bEOmXqRTvh5+aa4xktq134sXQT6Na0pzeKd8/WJxH9cMwyOCvqubsn1VzWo8cWV0ApnPGizdy6+3KpjSk+htRh/0+FvlYlh5s8ELwKV7FHGjHtq4F0Lf99x5YhW+R3mNuRWs53kOYFYdoT3pmHC0yZvdnB06RQKkp9UCweadQ==;GGDk7RxjVLwpyJi/28mfOA=="
 ---

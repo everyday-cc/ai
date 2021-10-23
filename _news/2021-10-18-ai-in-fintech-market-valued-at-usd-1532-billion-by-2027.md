@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-publishedDateTime: 2021-10-21T19:45:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
+title: "AI in Fintech Market valued at USD 15.32 Billion by 2027"
+excerpt: "Actual market sizes and forecasts have been provided for all the above-mentioned segments. Scope of the Report The report outlines the global AI in fintech market study based on component, deployment,"
+publishedDateTime: 2021-10-18T07:49:00Z
+originalUrl: "https://www.openpr.com/news/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+webUrl: "https://www.openpr.com/news/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+ampWebUrl: "https://www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
 type: article
-quality: 4
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://cdn.openpr.com/U/a/Ua18125220_g.jpg"
+    width: 800
+    height: 274
+    isCached: true
 
 related:
   - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
@@ -66,22 +74,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-e1634576028703.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI in Fintech Market valued at USD 15.32 Billion by 2027"
-    excerpt: "Actual market sizes and forecasts have been provided for all the above-mentioned segments. Scope of the Report The report outlines the global AI in fintech market study based on component, deployment,"
-    publishedDateTime: 2021-10-18T07:49:00Z
-    webUrl: "https://www.openpr.com/news/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
-    ampWebUrl: "https://www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2430615/ai-in-fintech-market-valued-at-usd-15-32-billion-by-2027"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua18125220_g.jpg"
-        width: 800
-        height: 274
         isCached: true
   - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
     excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"
@@ -133,6 +125,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
+    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
+    publishedDateTime: 2021-10-21T19:45:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 4
   - title: "Resistant AI Announces $16.6 Million in Series A Funding from GV and Index Ventures to Protect Financial Automation from Fraud and Financial Crime"
     excerpt: "Artificial intelligence security company raises Series A funding ● Resistant AI responds to increasing vulnerabilities in financial services caused by widespread automation and algorithm-driven compliance and security ● The founding team’s previous startup,"
     publishedDateTime: 2021-10-20T15:23:00Z
@@ -143,6 +144,6 @@ related:
       domain: financialit.net
     quality: 0
 
-secured: "No1IWMAf1BhB+EDfl/4iL5/WBN3KjKaH1tumQjj3pCsK9mZKugn87DFnS+wLtL+YYxm64qVLmoKtnCyRf30TKuv4uxOYhXjEkttcUehgdG9VADeRgYUEoX+NLC+cDXqm+EJyjiNzlXM5QcxiU2Olgna13hzCYBbZ2aerPPiJ/usKAMqhIJEyYQtyAVFdm4d/0NTidexA1w7+/jIpfp4m1i+M+XUjpRdWhQFxxkri+z2MJO3NtaJVbwWghmWTinN6L2RP3/IzPDynuU9zxFou10SJL2A0n2O38sHK7pGk66/QW2yRSbLE3q9GKhGBdu08NG4Cc9tCn9YVre5+JGyp+BaHtkI2UvK4JQ/3jZ9UR4Kgu5EDqbHDUbS0zPXSA9Mxpj7ljKgyXRT2W0RICe0DeNiboU0wQllj+/QfbuLQuW7ykus6Rb6CZ96pbG19sJmzplJC63i+ss2fOrqqyylbY6GM8pYTIJqFH9a5FsizaM+x5eE6AIano2Zuv/SM+rL0bDtt369NwlsDxdpo43H9Vg==;d7Criek0XBi0bz4juSyv1Q=="
+secured: "/wG+rZH+7uujrsBvh5MPYr/O0HzOWkxHquiCtmQzgPKhhUkZTFfuipb4LOYCboL/JGZReYHnH7EY0L95f7bm1MYPOtuOftIMCW+t5SGPanfzCEfLsdVPVFUCcofWTMt9DANIK4dbVvXRJpZ/0sHVBNMsvb80t7pJndWjjVE/avOaKbFkGbY+ZGQ/IUhD2/Bdn1i0/0DcLW0jqgaTsWBbLcIAuL4RcyvuE3/qCBCxuy/OvPSiR8vgMUMJoJ4Fh6xtsLK7y+ezlcPXReaZ80TXISK0vCjH2oK9zoOoAOBpC5czBMvcBM+uhSBc/akqLoy9tsFu88k3/LrBtuJvuXbfJ/Vi3zdAKIEt6bMGIVOVUi8=;UZtj1CPJO0K+7/6b0CoMLA=="
 ---
 

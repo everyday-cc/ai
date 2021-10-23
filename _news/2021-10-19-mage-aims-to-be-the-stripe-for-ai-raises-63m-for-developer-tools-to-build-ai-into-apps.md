@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/amp/"
 type: article
 quality: 77
-heat: 89
+heat: 87
 published: true
 
 provider:

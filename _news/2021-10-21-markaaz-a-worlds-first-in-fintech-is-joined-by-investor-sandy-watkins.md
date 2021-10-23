@@ -75,13 +75,13 @@ related:
         height: 339
         isCached: true
   - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
-    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
-    publishedDateTime: 2021-10-19T11:59:00Z
-    webUrl: "https://www.financialbuzz.com/fintech-innovation-lab-new-york-now-accepting-applicants-for-2022-class/"
+    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2021-10-19T12:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
 
 secured: "cg7Gjp3FMb/J9qxl44GAVJppiJFY+4ikJvqlhzx3RDYgLK8niDupjjAzMl1ngYtBoDX/cB1+bRCqSmbBsqKcEZAx3W6yOZX6o/kFsnsWNoCoJSw7rpwt+ssZm0obIF/9EsTXJ0HDXlqH6b4tPMYcWDwSBX+VWPmQyMmwHck0suXCb5WWtb6X09HsBLaqQ2ENmMrjxk7xkSdY2S+HarVvAk8DrFZV9zuV3PjzYyQq0YGISdXj+lxiYydpML+wFztO+w37mb9nXfaJ2lJTVnjcTALdojVUPGMQXLV3b6gVwkDkAZBD0vmBfxm6cmGvVgDaBnwQYehmZsuxNT3aG5rkZRZiyidVMVFIcSS/8AMyBe0XO/LjumEg6Ncna8pcIliW3o6UWZTWcF920zhfRORAOeMF39uF6jaTqYMjQVkAj0HELnZV0kvcsi894HEv2qxudlPbksO/tZQNWiaitlUo2yVgMakmIW8aBJfoeQp3XwjpOGWwhvCpLMk4o508jl8ZW4E+vmCbCc7jY5hVjctQ5g==;Q8rowRv6p6FHuUDZVh3kUg=="

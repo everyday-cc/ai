@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "General Availability – LiveData Platform for Azure"
-    excerpt: "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid"
-    publishedDateTime: 2021-10-18T06:00:00Z
-    webUrl: "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure"
-    type: article
-    provider:
-      name: sharesmagazine
-      domain: sharesmagazine.co.uk
-    quality: 54
-    images:
-      - url: "https://www.sharesmagazine.co.uk/images/logos/youinvest.png"
-        width: 800
-        height: 315
-        isCached: true
   - title: "WANdisco Announces General Availability of LiveData Platform for Azure"
     excerpt: "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud"
     publishedDateTime: 2021-10-18T13:00:00Z

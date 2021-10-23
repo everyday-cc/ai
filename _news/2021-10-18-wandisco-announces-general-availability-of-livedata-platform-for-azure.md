@@ -7,7 +7,7 @@ originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-gen
 webUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "General Availability – LiveData Platform for Azure"
-    excerpt: "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid"
-    publishedDateTime: 2021-10-18T06:00:00Z
-    webUrl: "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure"
-    type: article
-    provider:
-      name: sharesmagazine
-      domain: sharesmagazine.co.uk
-    quality: 54
-    images:
-      - url: "https://www.sharesmagazine.co.uk/images/logos/youinvest.png"
-        width: 800
-        height: 315
-        isCached: true
   - title: "WANdisco Announces General Availability of LiveData Platform for Azure"
     excerpt: "WANdisco, the LiveData company, today announced the general availability of LiveData Platform for Microsoft Azure, an Azure-native service offering for migrating or replicating your data across disparate analytics systems."
     publishedDateTime: 2021-10-18T19:31:00Z

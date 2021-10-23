@@ -213,20 +213,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "UK Schools to employ facial recognition for students"
-    excerpt: "Schools in the UK are installing facial recognition technology that will play a role in students’ lunch payments."
-    publishedDateTime: 2021-10-18T05:08:00Z
-    webUrl: "https://techstory.in/uk-schools-to-employ-facial-recognition-for-students/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/10/facial_recognition_blog_pic.jpeg"
-        width: 1160
-        height: 691
-        isCached: true
   - title: "UK schools to trial facial recognition to speed up lunch queues"
     excerpt: "From today schools in the UK are using facial recognition technology to allow pupils to pay for their lunch. image: Shutterstock/Monkey Business Images. The tec"
     publishedDateTime: 2021-10-18T09:29:00Z
