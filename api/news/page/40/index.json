@@ -2,6 +2,108 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-09-22-abductive-inference-is-a-major-blind-spot-for-ai.md",
+      "title": "Abductive inference is a major blind spot for AI",
+      "excerpt": "While an AI winter might dampen interest in deep learning and data-driven AI, it can open a new generation exploration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco",
+      "originalUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Myth-of-Artificial-Intelligence-e1632252905596.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/24/abductive-inference-is-a-major-blind-spot-for-ai/?via=indexdotco&amp",
+      "publishedDateTime": "2021-09-21T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois.md",
+      "title": "Researchers Develop AI Algorithm To Diagnose Deep Vein Thrombois",
+      "excerpt": "Researchers worked with a UK healthtech startup to develop an AI algorithm that could diagnose Deep Vein Thrombsis faster and more accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614a32e48976b9ae21a69f7b%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/09/21/researchers-develop-ai-algorithm-to-diagnose-deep-vein-thrombois/amp/",
+      "publishedDateTime": "2021-09-21T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-ge-healthcare-unveils-new-ai-powered-ct-system.md",
       "title": "GE Healthcare unveils new AI-powered CT system",
       "excerpt": "GE Healthcare today introduced its Revolution Ascend with Effortless Workflow computed tomography (CT) system.",
@@ -1068,91 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-three-ways-ai-is-improving-assistive-technology.md",
-      "title": "Three Ways AI Is Improving Assistive Technology",
-      "excerpt": "When implemented effectively, assistive technology can improve accessibility and quality of life for all, regardless of ability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6148b1fa82bb1bd5c2811729%2F0x0.jpg",
-          "width": 813,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/21/three-ways-ai-is-improving-assistive-technology/amp/",
-      "publishedDateTime": "2021-09-21T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-payment-revolution-continues-to-boost-fintech-5-top-picks.md",
-      "title": "Payment Revolution Continues to Boost Fintech: 5 Top Picks",
-      "excerpt": "The coronavirus pandemic has reshaped the fintech space, boosting digital payment and online banking across the globe. The mass population has shifted from currency notes to tap-and-pay modes, as it lowered the risk of virus transmission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21",
-      "originalUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/payment-revolution-continues-to-boost-fintech%3A-5-top-picks-2021-09-21?amp",
-      "publishedDateTime": "2021-09-21T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

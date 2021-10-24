@@ -38,20 +38,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Mage Reveals $6.3 Million Seed Led by Gradient Ventures, Google's AI-fund, to Become the Stripe for AI"
-    excerpt: "Mage, a collaborative AI tool for product developers, announces today that it has raised a $6.3 million seed round led by Gradient Ventures, Google's AI-focused venture fund, with additional participation from firms such as Neo and Designer Fund and angel investors like Unity CEO John Riccitiello,"
-    publishedDateTime: 2021-10-19T13:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mage-reveals-63-million-seed-led-gradient-ventures-/2021/10/19/9472463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1663534/Mage_team_photo.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "XjAqxqC+w0W7bhuxC9bplc+EjzYiBn/z9+4PEzFqq4CHTRz9IstQp4tmt4n4JU7bJykIsrJhe3wjmfjRzpllmKt+ild7+Q5Hxxi4TE4lLjEeNNFsPuTTHhNIRQJP8GOTvOTdlpqwYNoISxf6Cxi5MDZDxM2zDiuVnrJ3HYaEM/+knW2kYaJknPRYeaiHhGll7uZuUybW1NY25ez7x2Ss9FtNJq0QVA/8v0qfwPv4ebEfP736sb0GPowxakAWtQuUyOJN6cKUYSaAtslQUx76UAyhmqWI8x7XS6jafHsLZIJ4B1hpv41D/lUrWCCkur1T2QKOIfBpRcbrDdRJgWym4bz7qIEdpYHO2avYOBcZdmOvMVq2S5/4LfhWbNatVanK0I7x/yXtPKSrG9Lk3YvtCgdQ89wdUinmIaGrDdzdC4sBPJVm52sLBMYGDisdfrk8Rt/SkAFMvQvDCgMDvQnvKyRkayrk0w/7YIiU3KkGD99FPdErmZPgzqfy1g/PZw3ME6Bml9WGomN5+zyxpxHVnw==;C2nnEHqSerfxuIvC3XsGDA=="
 ---

@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Novel Proof Clears the Way for Quantum Artificial Intelligence"
-    excerpt: "Convolutional neural networks running on quantum computers have generated significant buzz for their potential to analyze quantum data better than classical computers can."
-    publishedDateTime: 2021-10-19T13:32:00Z
-    webUrl: "https://www.azoquantum.com/News.aspx?newsID=8494"
-    ampWebUrl: "https://www.azoquantum.com/amp/news.aspx?newsID=8494"
-    cdnAmpWebUrl: "https://www-azoquantum-com.cdn.ampproject.org/c/s/www.azoquantum.com/amp/news.aspx?newsID=8494"
+  - title: "Neu.ro Announces Launch of Zero-Emissions AI Cloud Integrated with Complete Stack of MLOps Tools"
+    excerpt: "Neu.ro, the San Francisco-based developer of cutting edge AI infrastructure, is proud to announce the launch of the Neu.ro AI Cloud."
+    publishedDateTime: 2021-10-22T13:25:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12558"
     type: article
     provider:
-      name: azoquantum.com
-      domain: azoquantum.com
-    quality: 59
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 26
     images:
-      - url: "https://dwg31ai31okv0.cloudfront.net/images/news/NewsThumbImage_8494.jpg"
-        width: 3097
-        height: 1914
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/NewsThumbImage_12558.jpg"
+        width: 3100
+        height: 1325
         isCached: true
 
 secured: "TDJyvSv9X2zIwDV4K4JTHKGFrYhidYZkDk1qOTKt/CH2vKxzKv0bpOGi5QA0vQtl8cFFWrogZJU2TtarHM9oS7c0c/eOBKKZrRoUdzTMbm699nfkd4td6d4Lfm5xGpurgjtHuJHbThU8qNKHrJqWrOy1kvbqJcABr4Vbc2+b5kROw9UA3xtbaKwNKIYJyslfyzBu63bmUtaLmQ4qR9kae9LZLs764RjAXyqyyy+2vwHL/H9EyP/1YgCy0j+5qznWlh/YOIvcF+34/gwlEzNED/FJiS3t7fNJscWh91slmULoVg4DASYy6IVuaTCKjww6QB/TTkMcyo/MT8TuCuzGztcpooH0lt39swECetfRouo=;RvvYKgPzhVgUF+iBCpmhkA=="

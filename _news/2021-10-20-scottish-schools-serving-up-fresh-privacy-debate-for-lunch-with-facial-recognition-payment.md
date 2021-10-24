@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK"
-    excerpt: "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve"
-    publishedDateTime: 2021-10-19T14:03:00Z
-    webUrl: "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
-    ampWebUrl: "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 59
-    images:
-      - url: "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Schools warned over facial recognition systems"
-    excerpt: "Schools using facial recognition systems should consider less intrusive ways to let pupils pay for meals, the UK's data privacy watchdog has said. A small number of schools use the technology to allow pupils to make contactless lunch payments."
-    publishedDateTime: 2021-10-19T14:50:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-58969136"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-58969136.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58969136.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4E73/production/_121138002_schoolsgettyimages-912173760.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facial Recognition Payment System for Moscow Metro Moves Ahead Despite Privacy Concerns"
     excerpt: "While much of the rest of the world grapples with the level of access law enforcement should have to facial recognition technology, the Moscow Metro system has leapt ahead to using it as a form of fare payment."
     publishedDateTime: 2021-10-19T22:00:00Z
@@ -89,15 +57,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "27 schools in England using facial recognition to take lunch payments"
-    excerpt: "More than 60 schools set to deploy the no-contact payments system as a result of the COVID-19 pandemic, but campaigners warn that it could be undermining children's privacy rights."
-    publishedDateTime: 2021-10-20T15:44:00Z
-    webUrl: "https://news.sky.com/story/27-schools-in-england-using-facial-recognition-to-take-lunch-payments-12439330"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 19
   - title: "Facial recognition systems off the menu as schools reverse plans"
     excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
     publishedDateTime: 2021-10-22T04:00:00Z

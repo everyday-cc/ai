@@ -37,22 +37,6 @@ related:
         width: 1024
         height: 648
         isCached: true
-  - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
-    excerpt: "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16."
-    publishedDateTime: 2021-10-19T13:45:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
   - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
     excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital."
     publishedDateTime: 2021-10-19T16:30:00Z

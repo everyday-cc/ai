@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-10-08-reinforcement-learning-improves-game-testing-ai-team-finds.md",
+      "title": "Reinforcement learning improves game testing, AI team finds",
+      "excerpt": "Recently, gaming companies have become interested in using reinforcement learning and other machine learning techniques in game development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/",
+      "originalUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/adversarial-reinforcement-learning-for-procedural-content-generation-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/reinforcement-learning-improves-game-testing-ai-team-finds/amp/",
+      "publishedDateTime": "2021-10-07T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-delta-air-lines-expands-facial-recognition-in-atlanta.md",
+      "title": "Delta Air Lines expands facial recognition in Atlanta",
+      "excerpt": "The facial recognition equipment will first be in Atlanta's South Security Checkpoint in the next few weeks. ATLANTA — Delta Air Lines announced Thursday it's expanding its digital identity experience in Atlanta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "originalUrl": "https://www.11alive.com/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/06a84961-1446-427e-9a57-9ea94a4aeda6/06a84961-1446-427e-9a57-9ea94a4aeda6_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/travel/delta-air-lines-facial-recognition-atlanta/85-8bca1a7c-5588-4064-ae1e-b16a4b5a9583",
+      "publishedDateTime": "2021-10-07T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv.md",
       "title": "Robotics startup Ishitva raises $1mn in pre-series A funding led by IPV",
       "excerpt": "Ahmedabad-based robotics startup Ishitva raised $1 million in pre-series A funding round led by Inflection Point Ventures (IPV). Ishitva is an OEM operating in dry waste sorting technology using AI, ML,",
@@ -744,49 +839,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
-      "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
-      "excerpt": "I believe Tomahawk Robotics' universal robotic control software, Kinesis ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control system that unlocks intuitive interaction with remote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "originalUrl": "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wave-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVE3",
-        "domain": "wave3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-07-twitter-invests-in-avatar-startup-facemoji.md",
       "title": "Twitter invests in avatar startup Facemoji",
       "excerpt": "Avatar startups have come and go over the past few years, but the future many of the entrepreneurs behind them originally imagined has proven more or less accurate. Apple is increasingly interested in avatar representations through Memoji,",
@@ -941,6 +993,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
+      "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
+      "excerpt": "Paul Ostrowski brings over 28 years of defense acquisition expertise to Tomahawk Robotics. LTG (Ret.) Ostrowski served as the Army's top uniformed acquisition official as well as a Program Executive Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wctv.tv/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
+      "originalUrl": "https://www.wctv.tv/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCTV",
+        "domain": "wctv.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-leonardo-the-skateboarding-slacklining-walking-flying-robot-that-im-deathly-afraid-of.md",
       "title": "Leonardo: The Skateboarding, Slacklining, Walking, Flying Robot That I'm Deathly Afraid Of",
       "excerpt": "I know humans are capable of building robots, but why do we need to? Has anybody ever stopped and asked that question before? I’ve seen those scary-ass Boston Dynamics robots that can dance,",
@@ -1083,109 +1178,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-ai-powered-marketing-platform-alembic-emerges-with-95m.md",
-      "title": "AI-powered marketing platform Alembic emerges with $9.5M",
-      "excerpt": "Alembic, an AI-powered marketing insights platform, has emerged from stealth with $9.5 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
-      "originalUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/ai-powered-marketing-platform-alembic-emerges-with-9-5m/amp/",
-      "publishedDateTime": "2021-10-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-gretelai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m.md",
-      "title": "Gretel.ai, a platform for generating synthetic and privacy-preserving data, raises $30M",
-      "excerpt": "Gretel.ai, a platform offering a suite of privacy-preserving data tools, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/",
-      "originalUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/data_privacy2-e1623103310296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/gretel-ai-a-platform-for-generating-synthetic-and-privacy-preserving-data-raises-30m/amp/",
-      "publishedDateTime": "2021-10-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

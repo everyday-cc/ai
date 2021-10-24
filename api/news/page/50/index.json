@@ -2,6 +2,93 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-09-14-healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market to Witness Huge Growth by 2028 | Oracle Corporation, Hewlett-Packard Co., Cerner Corporation",
+      "excerpt": "The report does include most recent post-pandemic market survey on Healthcare Natural Language Processing (NLP) Market. Competition Analysis : Oracle Corporation, Hewlett-Packard Co., Cerner Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "originalUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/Global-Healthcare-Natural-Language-Processing-NLP-Market-Including-Key-Players-Market-Share-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation/",
+      "publishedDateTime": "2021-09-14T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210914mo05924/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
       "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
       "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
@@ -997,102 +1084,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
-      "title": "Machine learning is moving beyond the hype",
-      "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
-      "originalUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
-      "publishedDateTime": "2021-09-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
-      "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
-      "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "originalUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2020/07/Fintech-Trends-Q2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc/?amp=1",
-      "publishedDateTime": "2021-09-14T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

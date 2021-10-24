@@ -85,15 +85,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 36
-  - title: "VirtaMove Launches on Microsoft Azure Marketplace"
-    excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"
-    publishedDateTime: 2021-10-19T14:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-2a17f423a0fd982fd5be4112832a22bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
   - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
     excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"
     publishedDateTime: 2021-10-20T12:00:00Z

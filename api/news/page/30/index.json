@@ -2,6 +2,99 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-09-29-ai-powered-contract-management-platform-malbek-lands-153m.md",
+      "title": "AI-powered contract management platform Malbek lands $15.3M",
+      "excerpt": "Malbek, an AI contract lifecycle management startup based Somerset, New Jersey, has raised $15.3 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "originalUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-544306297-e1628772672593.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/ai-powered-contract-management-platform-malbek-lands-15-3m/amp/",
+      "publishedDateTime": "2021-09-28T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-data-breach-at-navistar-bloodystealer-info-stealing-trojan-afflicts-gamers-others-epik-doxing-clearview-abandons-subpoenas.md",
+      "title": "Data breach at Navistar. BloodyStealer info-stealing Trojan afflicts gamers, others. Epik doxing. Clearview abandons subpoenas.",
+      "excerpt": "Navistar sustains a data breach. BloodyStealer Trojan traded in criminal-to-criminal markets. Epik doxed by Anonymous. Clearview AI drops subpoenas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clearview.ai/overview",
+      "originalUrl": "https://thecyberwire.com/newsletters/privacy-briefing/3/187",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/6d87a5_9670a29232d743b2aed6b9b5c497acca%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/6d87a5_9670a29232d743b2aed6b9b5c497acca%7Emv2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-28T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Wire",
+        "domain": "thecyberwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-heidrick-struggles-partners-with-eightfold-ai-to-develop-new-digital-platform.md",
       "title": "Heidrick & Struggles Partners With Eightfold AI To Develop New Digital Platform",
       "excerpt": "Heidrick & Struggles International, Inc. (NASDAQ:HSII) and Eightfold AI, an AI-driven talent development platform, have partnered to develop a new digital leadership platform inte",
@@ -1095,99 +1188,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-enterprise-ai-platform-leena-ai-raises-30m-to-be-a-siri-for-employees.md",
-      "title": "Enterprise AI platform Leena AI raises $30M to be a ‘Siri for employees’",
-      "excerpt": "Leena AI, an AI-powered conversational platform used by major enterprises such as Nestlé, has raised $30 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
-      "originalUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/transform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/28/enterprise-focused-conversational-ai-platform-leena-ai-raises-30m/amp/",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-leena-ai-gets-30-million-funding-from-bessemer-b-capital.md",
-      "title": "Leena AI gets $30 million funding from Bessemer, B Capital",
-      "excerpt": "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
-      "publishedDateTime": "2021-09-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/topics/articles/2021/10/19/450356-how-ai-sh
 webUrl: "https://www.tmcnet.com/topics/articles/2021/10/19/450356-how-ai-shaping-future-the-stock-market-investment.htm"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,61 +22,6 @@ images:
     width: 960
     height: 640
     isCached: true
-
-related:
-  - title: "How Deep Learning Is Shaping The Future Of Content Production"
-    excerpt: "What role will synthetic media play, and what trends are exploding on the market of deep learning products? This article will highlight the main changes that AI/ML is bringing about in the modern media environment."
-    publishedDateTime: 2021-10-19T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d7d4eb2706e2abb1463cf%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "AI is Changing the Future of Education"
-    excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
-    publishedDateTime: 2021-10-21T23:28:00Z
-    webUrl: "https://www.ozy.com/pg/newsletter/the-daily-dose/443152/"
-    type: article
-    provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ancora Software Announces the Filing of a US Patent on the Application of Machine Learning in Data Capture for Commercial Documents"
-    excerpt: "PRNewswire-PRWeb/ -- ancora Software, Inc., a global leader in intelligent process automation solutions including Intelligent Document Classification and Advanced Data Capture, announced today the fil"
-    publishedDateTime: 2021-10-19T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ancora-software-announces-the-filing-of-a-us-patent-on-the-application-of-machine-learning/article_d1612602-68a8-5a29-bb29-677663cc339e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 9
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Shifting Into Deeper Learning"
-    excerpt: "A focus on belonging, creativity, and metacognition is helping one school lead students away from superficial learning."
-    publishedDateTime: 2021-10-20T21:09:00Z
-    webUrl: "https://www.edutopia.org/article/shifting-deeper-learning"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 4
 
 secured: "fZ45v7I/DXXdspmntxunTbnd91hG04Vxzbq3pYfCUqNdOYXoa2U3bFw+JCyYCBEYvtqwlCOPg41VDP8GquSVYgW5QYlIA5B9Snt26wcTIzInATSi578sLtTdW99X5u0vb0kJbn+MK5R132tXpPogTpQgec8SKVkwuFu0YO+ACPJXiXWLcDVjVmtHXqBZo96VeXyF50fCfk3CE381V7LGr9JX2bnJax8p16fm1u32zXvvuTIQPgC6+miuq23Q5O/TYdmrWY+qYLiKTkz+Rm+5breCSikKigrVq++arm0mEVqkNlv4hXj1iSogHQ8yWOsOXv+4I2AJDF/TWF3Sg8CRO2RJMiBg9+TifGxH9C8QeZ8=;rrgwRLDp1eOKpwrtmE5SDA=="
 ---

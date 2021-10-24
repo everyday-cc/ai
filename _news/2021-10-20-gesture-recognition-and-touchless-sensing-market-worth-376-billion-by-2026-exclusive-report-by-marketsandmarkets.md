@@ -33,15 +33,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Global Artificial Intelligence Market Is Expected To Set A New Benchmark With A CAGR Of 40.2% By 2028 | Up Market Research"
-    excerpt: "According to a recent market study published by Up Market Research titled, \"Global Artificial Intelligence Market by Technology (Machine"
-    publishedDateTime: 2021-10-19T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-market-expected-set-new-benchmark-/2021/10/19/9472751.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "dhXJrNbwRPOoO5A5hZElWujyAFue5AkyMsVvl19fcXdtmezr9kElEunB3kPkBcsfRIUMrRsxsrZpYO7o0kzSuAmPaBbkrdWAo2k7aHR5Ih98L0pXkDMDcwDa7Mcw6hHITk1/jtzLnzTg1sFjy34CqQc2poaF15QXcNEbfg04xENBJsWa44/eYUXq8L/WBwwnYduUPZG7Kqh9an580EHGJT7T/eQh/J/4YRDnSiOULZEO8hMkcgSWUOwM+62d496QCzK/gjoeYDIEmfeV/bE/GigdZv7tSb4FV80UmaJ522K5Rhy8AfJBgBAI9/jjuTbcGqBvONCp6XBC7DBQBoc+D4stlNcQ6cgNIury7wx9147PMWLxcwkf/Y//xg0tBR+PSY2KvB7wWUGaAUYoNmzgh7ha/tHQooIWmmVPcvQIDJD2pCGE7+D6jVXmnpjmdHAVsbit5Ltw0z2cdb3bkU2pq1biEBNrtxgELJiMVL1qdA58vxGItAkLzxOc1kV+XcWZ7fH15z2jLGfnL+4g+ispNQ==;Mdk2R1hQ3s2+CJr5JpSJIg=="
 ---

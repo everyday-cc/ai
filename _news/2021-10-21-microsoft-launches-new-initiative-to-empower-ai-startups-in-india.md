@@ -77,15 +77,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 36
-  - title: "VirtaMove Launches on Microsoft Azure Marketplace"
-    excerpt: "VirtaMove is pleased to announce that its Application Migration and Modernization product is now available as a transactable solution in Microsoft Azure Marketplace. The new offering lets customers use their existing Azure subscriptions to move applications from unsupported Windows Server 2003,"
-    publishedDateTime: 2021-10-19T14:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-2a17f423a0fd982fd5be4112832a22bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
   - title: "New Microsoft initiative to help Indian startups innovate with AI"
     excerpt: "In a fresh bid to empower startup ecosystem in India, Microsoft on Wednesday launched a new programme that leverages the power of Artificial Intelligence (AI) to support both B2B and B2C startups."
     publishedDateTime: 2021-10-20T05:51:00Z

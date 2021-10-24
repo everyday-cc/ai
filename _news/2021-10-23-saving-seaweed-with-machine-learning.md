@@ -41,6 +41,15 @@ related:
         width: 5760
         height: 3840
         isCached: true
+  - title: "Shifting Into Deeper Learning"
+    excerpt: "A focus on belonging, creativity, and metacognition is helping one school lead students away from superficial learning."
+    publishedDateTime: 2021-10-20T21:09:00Z
+    webUrl: "https://www.edutopia.org/article/shifting-deeper-learning"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 4
 
 secured: "fxUwUBusdb2e8HTrQ/8jItWO5ONs5PavQH+8n85vz/mbuSR3wYUPXuLrG/01ADeiePYD2lJSAbVKXJbgSLQTdHK8r53j+mHz9Zq7WDFHG43/Rzou3jq2Z2NiBZjWTRL7hl6Mm2FZUevs5be9T+YfKXk0XmoY3F4hokc3D1ayZJek8kfMUWvFjC6IfOAlqKTl8y1KhTcLsyF16u4y4dUET8dig+iTY9BF7nuMLgPGtVWhGBFT/2q6MYhFiVSfbWaAwPVqvNVF5nov927WcC4eo1E1AN1S2pXuWAckJxJNcoTqAi9ULPrvwok4NQBkLsODg9p0AYqsuBsMmuuEVIdm3TfTfPRcFk3f5w4nCS5VwnlPfyOM9+e9WpiFHVkXQNVHca+/vj4yJKwEbqbsmnNOragtx+fvpqo0TE734iHNEl3ZNViTV7GyrmgYqwGo0M0tRiKRASo5MnQJBJmYWegR1Jj8dS82NJXPU2+hl/GsMp6kz150trQ2BDROrimq46miYYrXGcFnwUhLwIcZHxKprg==;3dU2PKJBG2om8DM2ru6gEw=="
 ---

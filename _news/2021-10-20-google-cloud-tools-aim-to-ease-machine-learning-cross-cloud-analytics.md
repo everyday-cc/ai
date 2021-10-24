@@ -34,20 +34,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens."
-    excerpt: "Sift’s machine learning tools, bolstered by data analytics, seek insight into fraud before it happens. Demonstrating that artificial intelligence can be used in a dazzling number of ways, across virtually every industry sector."
-    publishedDateTime: 2021-10-19T14:30:00Z
-    webUrl: "https://www.analyticsinsight.net/sift-a-pioneer-of-digital-trust-and-safety/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 23
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Sift-A-Pioneer-of-Digital-Trust-and-Safety.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "How decision intelligence could democratise analytics"
     excerpt: "It’s never been easy to make the most of big data, machine learning models and analytics. Decision intelligence could change that."
     publishedDateTime: 2021-10-20T14:35:00Z
