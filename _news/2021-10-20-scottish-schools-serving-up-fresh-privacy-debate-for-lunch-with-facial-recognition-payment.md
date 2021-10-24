@@ -41,22 +41,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Use of facial recognition to take lunch payments from schoolchildren sparks privacy concerns"
-    excerpt: "The firm behind the technology argues that the system will speed up queues and reduce the risk of Covid-19, but campaigners say that is needlessly normalising biometric surveillance"
-    publishedDateTime: 2021-10-19T16:26:00Z
-    webUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995"
-    ampWebUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 48
-    images:
-      - url: "https://i2-prod.buzz.ie/incoming/article25251235.ece/ALTERNATES/s615/0_GettyImages-724229739.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Facial recognition systems off the menu as schools reverse plans"
     excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
     publishedDateTime: 2021-10-22T04:00:00Z

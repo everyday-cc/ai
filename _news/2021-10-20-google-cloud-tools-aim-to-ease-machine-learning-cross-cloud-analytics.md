@@ -20,20 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Analytics Insight explores the potential of artificial intelligence replacing animal testing"
-    excerpt: "This article explores the potential of artificial intelligence replacing animal testing through different AI models. Cutting-edge technologies can save millions of animals through the integration of artificial intelligence in drug discoveries."
-    publishedDateTime: 2021-10-19T15:30:00Z
-    webUrl: "https://www.analyticsinsight.net/potential-of-artificial-intelligence-replacing-animal-testing-in-the-future/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 26
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Potential-of-Artificial-Intelligence-Replacing-Animal-Testing-in-the-Future.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "How decision intelligence could democratise analytics"
     excerpt: "It’s never been easy to make the most of big data, machine learning models and analytics. Decision intelligence could change that."
     publishedDateTime: 2021-10-20T14:35:00Z

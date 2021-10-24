@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Tensor chip aims to make the Pixel 6 smarter and last longer"
-    excerpt: "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel."
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/9KBAW8InGVbWcaoh_mZAkq5ZeJQ=/1200x630/2021/10/17/57b1bbc8-52d9-484a-a190-1a411d6cf8f4/google-tensor-jpeg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Tensor: Everything you need to know about the Pixel 6 chip"
-    excerpt: "The Pixel line has made the switch to a Google-designed, custom system-on-chip that has less reliance on other vendors to allow Pixels to focus on machine learning."
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6e4310d23faf8ba1ccacba7d4546c5b6157cc712/2021/10/19/c8ecf0ab-c8ca-4124-9ba0-3a97cd494a02/google-tensor.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 481
-        isCached: true
   - title: "With Tensor, Google bets on its own chip design for the Pixel 6"
     excerpt: "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,"
     publishedDateTime: 2021-10-19T17:12:00Z
@@ -75,53 +43,21 @@ related:
         width: 1024
         height: 570
         isCached: true
-  - title: "Google’s Pixel 6 camera smartens up snapshots with AI tools"
-    excerpt: "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,"
-    publishedDateTime: 2021-10-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
+  - title: "Google Tensor debuts with Pixel 6 series, it bets on faster speed, AI, Advanced security and Machine Learning"
+    excerpt: "For the first time, Google has released a phone that is powered by its own SoC. Tensor is a Google project that was first announced earlier this"
+    publishedDateTime: 2021-10-19T18:41:00Z
+    webUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447"
+    ampWebUrl: "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
+    cdnAmpWebUrl: "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: pinkvilla.com
+      domain: pinkvilla.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0413.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The Google Pixel 6 brings a new chip and lofty, AI-powered promises"
-    excerpt: "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features."
-    publishedDateTime: 2021-10-19T21:30:00Z
-    webUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/"
-    ampWebUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 76
-    images:
-      - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google Pixel 6 Series Uses Powerful AI To Make Service Calls Faster"
-    excerpt: "Anybody who's ever been discouraged by long wait times during customer service calls should be looking at the new AI-powered Google Pixel 6 series. That's"
-    publishedDateTime: 2021-10-19T19:13:00Z
-    webUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html"
-    ampWebUrl: "https://www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/google-pixel-6-series-uses-powerful-ai-to-make-service-calls-faster.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2021/10/Pixel-6-customer-service-calls-features-presser.jpg"
-        width: 1600
-        height: 1200
+      - url: "https://www.pinkvilla.com/files/styles/ampfront/public/aryan-khan-main_6.jpg?itok=hyL2W6kr"
+        width: 375
+        height: 240
         isCached: true
   - title: "Google's new Tensor chip makes voice typing on the Pixel 6 faster than any other phone"
     excerpt: "The Pixel 6’s Tensor chip is enabling quite some incredibly camera voodoo, if Google’s presentation is to be believed. But Tensor is also improving other machine-learning related features, like speech recognition."
@@ -138,6 +74,20 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/10/google-pixel-6-speech-recognition-featured-image.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Google Pixel 6 Tensor Chip – Everything you should be knowing"
+    excerpt: "Google was overjoyed to announce Tensor, its first system-on-a-chip, in August. We knew it would power the Pixel 6 and 6 Pro, and it was an attempt, similar to Apple’s A-series mobile CPUs, to combine Google’s software with some custom-tuned hardware."
+    publishedDateTime: 2021-10-23T18:15:00Z
+    webUrl: "https://techstory.in/google-pixel-6-tensor-chip-everything-you-should-be-knowing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/10/Lakshya-Kori.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Google Pixel 6 Tensor chip — what it is and why it’s a big deal"
     excerpt: "Google pulled the lid off the upcoming Pixel 6 and and Pixel 6 Pro. Both will rock the company's bespoke Tensor chip, which forgoes Qualcomm processors of years past. Tensor is all about being smarter computationally."

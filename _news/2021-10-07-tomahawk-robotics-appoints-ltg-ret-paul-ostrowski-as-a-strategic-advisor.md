@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor"
-excerpt: "Paul Ostrowski brings over 28 years of defense acquisition expertise to Tomahawk Robotics. LTG (Ret.) Ostrowski served as the Army's top uniformed acquisition official as well as a Program Executive Officer."
-publishedDateTime: 2021-10-07T14:07:00Z
-originalUrl: "https://www.wctv.tv/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
-webUrl: "https://www.wctv.tv/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
+excerpt: "I believe Tomahawk Robotics' universal robotic control software, Kinesis ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control system that unlocks intuitive interaction with remote ..."
+publishedDateTime: 2021-10-07T15:20:00Z
+originalUrl: "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
+webUrl: "https://www.wave3.com/prnewswire/2021/10/07/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-strategic-advisor/"
 type: article
 
 provider:
-  name: WCTV
-  domain: wctv.tv
+  name: WAVE3
+  domain: wave3.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://gray-wctv-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg"
+  - url: "https://gray-wave-prod.cdn.arcpublishing.com/resizer/GHD4rJ8xVNl0fdVLcXIDKfzsJ3M=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FB24ILVGCQGPLTUL3QZKKQHRAA.jpg"
     width: 980
     height: 653
     isCached: true
 
-secured: "xlggdXnMTNaACdUROyIxUhuH/ORG8GeRz9SoJLqjUugULdda+aJdS6bqjt6zSMTPQA/VqcPvABPP5yOS5YPaDycIbyDY0Br5Y1WG19SYYqZPEjP6kOxyimJIpOjd+gijLcXTG3ZlG6ARCWbH0JrLS4fN4FdsEN6j029I17TT2vo+3znLQL77V+8J/KuyleqvJK1k3Sq1/x1/Jpx+O0pFYSjk/K7GkK5pG0qT7CAZOoPq1ZbR3jiuHj3TjJE9+tvB9rbNwSN7kn6TqM+pukiPrCbCqHUvaq5vcWMEVKJ37eXAJx8/bDczJ5SVnAN0Sm8J6fUB+fLjoTJhyRHqPrsM78Imcy9NdQX9YUYWopyOcYg=;xmM+eBHN++gjy5qRHvqahQ=="
+secured: "4Q8YF7Po5jGmwe8Snb2RcBvIPiE3girxTFJglJtbB6x6hO/Q76wk9C09pncJeke/TVmNlTVlLaW70RiJU0IKl7UVWylHmQJDjEU+bhXzYBomlifMSrPi5nBXMPaASl6o/Dr/0zPtbR8OAWINVJjyT+R8eMsENg9VUM44OTk31mvPQaBpCEAXGRkWyXcKvrD3R9A6MXW94NIWHvsCCeboLd6ShjaBf1ek6d6jfkIFO9XxKFP7E+4T+EdqpfLLrIRLQRUxIcs0PkFsrNOyVNujBkTGIdJD/NIpB+be40x3wnRP1UxR2648SYeChH3gRkLeyh18mgSmehm3gOuscGZ5HdZ1d2WlQj2Zf7Z5TV4NX10=;kIsy4RPaqgZFe/bAkCMdPQ=="
 ---
 

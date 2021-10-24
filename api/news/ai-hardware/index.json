@@ -53,7 +53,7 @@
       "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -281,6 +281,50 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
+      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
+      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
+      "publishedDateTime": "2021-10-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
       "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
       "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
@@ -325,21 +369,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-20-google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning.md",
-      "title": "Google Tensor debuts with Pixel 6 series, it bets on faster speed, AI, Advanced security and Machine Learning",
-      "excerpt": "For the first time, Google has released a phone that is powered by its own SoC. Tensor is a Google project that was first announced earlier this",
+      "path": "_news/2021-10-20-with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6.md",
+      "title": "With Tensor, Google bets on its own chip design for the Pixel 6",
+      "excerpt": "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,",
       "sourceUrl": null,
-      "webUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447",
-      "originalUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447",
+      "webUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pinkvilla.com/files/styles/ampfront/public/aryan-khan-main_6.jpg?itok=hyL2W6kr",
-          "width": 375,
-          "height": 240,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Screenshot-2021-10-19-100548.jpg?w=1024",
+          "width": 1024,
+          "height": 570,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -347,14 +391,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp",
-      "cdnAmpWebUrl": "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp",
-      "publishedDateTime": "2021-10-19T11:41:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/",
+      "publishedDateTime": "2021-10-19T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pinkvilla.com",
-        "domain": "pinkvilla.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -364,9 +417,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
+        "AI"
       ]
     },
     {
@@ -1372,41 +1423,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-curtiss-wright-debuts-its-highest-performance-gpu-module-for-graphics-video-processing-and-aiml-at-the-tactical-edge.md",
-      "title": "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge",
-      "excerpt": "The new PacStar 454 NVIDIA GPU Enhanced Server Module is designed for demanding graphics, video and artificial intelligence (AI) and machine learning (ML) applications at the edge of the tactical battlefield. Measuring only 5.3” x 7.1” x 5.5” and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
-      "originalUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

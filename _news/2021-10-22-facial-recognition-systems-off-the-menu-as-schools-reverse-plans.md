@@ -35,22 +35,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Use of facial recognition to take lunch payments from schoolchildren sparks privacy concerns"
-    excerpt: "The firm behind the technology argues that the system will speed up queues and reduce the risk of Covid-19, but campaigners say that is needlessly normalising biometric surveillance"
-    publishedDateTime: 2021-10-19T16:26:00Z
-    webUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995"
-    ampWebUrl: "https://www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/tech/use-facial-recognition-take-lunch-25250995.amp"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 48
-    images:
-      - url: "https://i2-prod.buzz.ie/incoming/article25251235.ece/ALTERNATES/s615/0_GettyImages-724229739.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
     excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
     publishedDateTime: 2021-10-19T18:04:00Z

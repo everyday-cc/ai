@@ -2,6 +2,134 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-19-contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience.md",
+      "title": "Contextual AI In A Summer Of Sport: Making The Most Of A Captivated Audience",
+      "excerpt": "Visit Seedtag’s site to hear more For sports fans, 2021 has proved to be the summer of sport that 2020 never was: drama, excitement and passion to bring nations together. This summer, audiences were treated to EURO 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616d87b8ba8a26abd01463cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/10/19/contextual-ai-in-a-summer-of-sport-making-the-most-of-a-captivated-audience/amp/",
+      "publishedDateTime": "2021-10-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-movai-launches-a-robotics-engine-platform-that-allows-manufacturers-and-integrators-to-develop-amrs-and-deploy-them-in-dynamic-environments.md",
+      "title": "MOV.AI launches a Robotics Engine Platform™ that allows manufacturers and integrators to develop AMRs and deploy them in dynamic environments",
+      "excerpt": "The latest version of the MOV.AI platform offers a visual IDE, advanced algorithms such as 3D SLAM, simulation tools, scene and behavior editors, an open API framework and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
+      "originalUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WITN",
+        "domain": "witn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-making-the-case-for-and-against-police-use-of-facial-recognition-technology.md",
+      "title": "Making the case for and against police use of facial recognition technology",
+      "excerpt": "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
+      "originalUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg",
+          "width": 333,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
       "title": "Desperate for Workers, Restaurants Turn to Robots",
       "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
@@ -1029,144 +1157,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-ico-to-step-in-after-schools-use-facial-recognition-to-speed-up-lunch-queue.md",
-      "title": "ICO to step in after schools use facial recognition to speed up lunch queue",
-      "excerpt": "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
-      "originalUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
-      "publishedDateTime": "2021-10-18T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai.md",
-      "title": "Taliban can only gain recognition through Afghan people’s support: Karzai",
-      "excerpt": "Former Afghan president Hamid Karzai said that the current Taliban government in Afghanistan can get international recognition only through the \"support of the Afghan people\". International legitimacy could only be achieved through the expression of the will of the Afghan people,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
-      "originalUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/Hamid-Karzai-AA1616688192-0/Hamid-Karzai-AA1616688192-0.jpg  ",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
-      "publishedDateTime": "2021-10-18T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
-      "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
-      "originalUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/10/19/gitex-officials-750.ashx?h=450&w=750&hash=09DE765F8E66DE8B471B6F104469C294",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gulf Today",
-        "domain": "gulftoday.ae",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

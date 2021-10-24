@@ -97,7 +97,7 @@
       "originalUrl": "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -280,21 +280,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-20-google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning.md",
-      "title": "Google Tensor debuts with Pixel 6 series, it bets on faster speed, AI, Advanced security and Machine Learning",
-      "excerpt": "For the first time, Google has released a phone that is powered by its own SoC. Tensor is a Google project that was first announced earlier this",
+      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
+      "title": "Innovations in training using artificial intelligence and machine learning",
+      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
       "sourceUrl": null,
-      "webUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447",
-      "originalUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447",
+      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.pinkvilla.com/files/styles/ampfront/public/aryan-khan-main_6.jpg?itok=hyL2W6kr",
-          "width": 375,
-          "height": 240,
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
+          "width": 1000,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -302,13 +302,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp",
-      "cdnAmpWebUrl": "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/google-tensor-debuts-with-pixel-6-series-it-bets-on-faster-speed-ai-advanced-security-and-machine-learning-921447?amp",
-      "publishedDateTime": "2021-10-19T11:41:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T10:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "pinkvilla.com",
-        "domain": "pinkvilla.com",
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -318,10 +318,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI",
-        "Machine Learning",
-        "AI in Security"
+        "Machine Learning"
       ]
     },
     {
@@ -746,19 +745,19 @@
     {
       "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
       "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion",
+      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
+      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook",
-          "width": 2513,
-          "height": 1414,
+          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -768,11 +767,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T10:44:00-07:00",
+      "publishedDateTime": "2021-10-14T13:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Automation",
+        "domain": "automation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -782,7 +781,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

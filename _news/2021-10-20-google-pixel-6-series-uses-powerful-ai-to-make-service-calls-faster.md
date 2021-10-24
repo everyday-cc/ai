@@ -26,54 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Tensor chip aims to make the Pixel 6 smarter and last longer"
-    excerpt: "In an interview with CNET, Google executives talk about why they went through the trouble of building a chip for the newest Pixel."
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-chip-aims-to-make-the-pixel-6-smarter-and-last-longer/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/9KBAW8InGVbWcaoh_mZAkq5ZeJQ=/1200x630/2021/10/17/57b1bbc8-52d9-484a-a190-1a411d6cf8f4/google-tensor-jpeg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Tensor: Everything you need to know about the Pixel 6 chip"
-    excerpt: "The Pixel line has made the switch to a Google-designed, custom system-on-chip that has less reliance on other vendors to allow Pixels to focus on machine learning."
-    publishedDateTime: 2021-10-19T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-tensor-everything-you-need-to-know-about-the-pixel-6-chip/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/6e4310d23faf8ba1ccacba7d4546c5b6157cc712/2021/10/19/c8ecf0ab-c8ca-4124-9ba0-3a97cd494a02/google-tensor.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 481
-        isCached: true
-  - title: "With Tensor, Google bets on its own chip design for the Pixel 6"
-    excerpt: "I’m not sure there’s ever been a phone we knew more about before its official launch than Google’s Pixel 6 and Pixel 6 Pro. But in a world of samey Android phones, Google made some interesting choices,"
-    publishedDateTime: 2021-10-19T17:12:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/with-tensor-google-bets-on-its-own-chip-design-for-the-pixel-6/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/Screenshot-2021-10-19-100548.jpg?w=1024"
-        width: 1024
-        height: 570
-        isCached: true
   - title: "Google’s Pixel 6 camera smartens up snapshots with AI tools"
     excerpt: "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,"
     publishedDateTime: 2021-10-19T17:38:00Z
@@ -90,62 +42,28 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "The Google Pixel 6 brings a new chip and lofty, AI-powered promises"
-    excerpt: "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features."
-    publishedDateTime: 2021-10-19T21:30:00Z
-    webUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/"
-    ampWebUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
+  - title: "Google Pixel 6 and Pixel 6 Pro deliver powerful AI features"
+    excerpt: "Google LLC today announced its new Pixel 6 and Pixel 6 Pro smartphones during its “Pixel Fall Launch” event. Much of what the company revealed matched expectations given numerous previews during earlier months including Android 12 capabilities,"
+    publishedDateTime: 2021-10-19T20:19:00Z
+    webUrl: "https://siliconangle.com/2021/10/19/google-pixel-6-pixel-6-pro-deliver-powerful-ai-features/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 76
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/10-design-pro-details.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Pixel 6 Launched: Pixel 6, Pixel 6 Pro Put Google's AI Smarts In Your Pocket With Tensor Chip"
-    excerpt: "Now, throughout the event, Google executives talked about how Google's Tensor chipset has helped the company achieve new features and remove barriers that the company has faced in the past."
-    publishedDateTime: 2021-10-19T18:15:00Z
-    webUrl: "https://www.news18.com/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
-    ampWebUrl: "https://www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/google-pixel-6-pixel-6-pro-put-googles-ai-smarts-in-your-pocket-with-tensor-chip-4341218.html"
+  - title: "Google Pixel 6 and Pixel 6 Pro give giant boost to AI camera features"
+    excerpt: "Google Pixel 6 and Pixel 6 Pro – powered by Google Tensor, Google’s first-ever processor – are available to pre-order now, shipping with Android 12. The completely redesigned phones start at $599 for the Pixel 6 and $899 for the Pixel 6 Pro,"
+    publishedDateTime: 2021-10-20T09:57:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 59
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/10/pixel-6-series-featured-163466720816x9.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google's new Tensor chip makes voice typing on the Pixel 6 faster than any other phone"
-    excerpt: "The Pixel 6’s Tensor chip is enabling quite some incredibly camera voodoo, if Google’s presentation is to be believed. But Tensor is also improving other machine-learning related features, like speech recognition."
-    publishedDateTime: 2021-10-19T18:17:00Z
-    webUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/"
-    ampWebUrl: "https://www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/googles-new-tensor-chip-makes-voice-typing-on-the-pixel-6-faster-than-any-other-phone/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 53
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/10/google-pixel-6-speech-recognition-featured-image.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google Pixel 6 Tensor chip — what it is and why it’s a big deal"
-    excerpt: "Google pulled the lid off the upcoming Pixel 6 and and Pixel 6 Pro. Both will rock the company's bespoke Tensor chip, which forgoes Qualcomm processors of years past. Tensor is all about being smarter computationally."
-    publishedDateTime: 2021-10-20T04:00:00Z
-    webUrl: "https://www.tomsguide.com/news/google-pixel-6-tensor-chip-what-it-is-and-why-its-a-big-deal"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
     quality: 19
 
 secured: "kGeMKtlrumX/V/Ahk6AWHo4Tc2avd1DRNMnYHZgEpayL8gsKltcE5GU4q+NAhd54EMS4ixpBWWGFkP4TpluVunwtEQR7QRjn30Jw5wFK2f1uMxAz5+Dg2M4SsfEkuLqkMeOwBrwv1lFRx2shBhn4O6Z6vVKXZhfkXyEwtqiteUO6TI6b5O2WMeIyY10w7z9bOyS6DijN4pLY8C8cgdzfoVP9YpMv6VNLY9CWC97OOI28a++G6GZWonBQSEoVESjIy8Dj/WgWOhhTt1b1My0XRhdQfJ7vrH6KpWgVVRf+XzpXtsrhcWQCrD3i4BoeIqJYVH41irYIYPJiXFnnHeLb+wmdd1zQ0Kfu20Sjn00trIc=;Npj3ZnWIzWwJzAZVA23cww=="

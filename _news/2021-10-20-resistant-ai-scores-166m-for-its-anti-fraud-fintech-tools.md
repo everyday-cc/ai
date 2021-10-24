@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
 type: article
 quality: 189
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
-    excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital."
-    publishedDateTime: 2021-10-19T16:30:00Z
-    webUrl: "https://venturebeat.com/2021/10/19/ai-powered-fraud-fighting-platform-resistant-ai-raises-16-6m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/19/ai-powered-fraud-fighting-platform-resistant-ai-raises-16-6m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/ai-powered-fraud-fighting-platform-resistant-ai-raises-16-6m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-e1634576028703.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
     excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"
     publishedDateTime: 2021-10-19T18:30:00Z

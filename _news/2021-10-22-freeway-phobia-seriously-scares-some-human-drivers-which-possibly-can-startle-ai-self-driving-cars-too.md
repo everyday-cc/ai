@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
 type: article
 quality: 73
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is A Malicious Mass Control Takeover Of Self-Driving Cars Whilst On Our Roadways Really Possible?"
-    excerpt: "It is worthwhile to give consideration to the concerns about a potential future mass control takeover of self-driving cars, which highlights today the need to include tight and robust cybersecurity protections."
-    publishedDateTime: 2021-10-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/19/is-a-malicious-mass-control-takeover-of-self-driving-cars-whilst-on-our-roadways-really-possible/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/19/is-a-malicious-mass-control-takeover-of-self-driving-cars-whilst-on-our-roadways-really-possible/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/19/is-a-malicious-mass-control-takeover-of-self-driving-cars-whilst-on-our-roadways-really-possible/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7f72bb3660c594a3384d3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1468%26cropY1%3D85%26cropY2%3D910"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
     excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
     publishedDateTime: 2021-10-21T12:05:00Z

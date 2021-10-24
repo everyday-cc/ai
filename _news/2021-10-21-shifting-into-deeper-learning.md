@@ -19,36 +19,82 @@ topics:
   - AI
 
 related:
-  - title: "Saving seaweed with machine learning"
-    excerpt: "Charlene Xia, a PhD candidate at MIT, is using machine learning to monitor the microbiome of seaweed farms in an effort to predict and prevent diseases before they destroy livestock."
-    publishedDateTime: 2021-10-22T04:03:00Z
-    webUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
+  - title: "Innovations in training using artificial intelligence and machine learning"
+    excerpt: "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES"
+    publishedDateTime: 2021-10-19T17:53:00Z
+    webUrl: "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
     quality: 69
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Seaweed-Farming-01-PRESS.jpg"
-        width: 5760
-        height: 3840
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Saving seaweed with machine learning"
-    excerpt: "Charlene Xia '17, SM '20 found herself at a crossroads. She was finishing up her master's degree in media arts and sciences from the MIT Media Lab and had just submitted applications to doctoral degree programs."
-    publishedDateTime: 2021-10-22T18:26:00Z
-    webUrl: "https://techxplore.com/news/2021-10-seaweed-machine.html"
-    ampWebUrl: "https://techxplore.com/news/2021-10-seaweed-machine.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-seaweed-machine.amp"
+  - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
+    excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."
+    publishedDateTime: 2021-10-23T12:30:00Z
+    webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/seaweed-1.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "China Is Pouring Everything Into the Race for AI Supremacy"
+    excerpt: "The full strength of the Communist Party is being focused on a technology that may soon tip the scales of global economic and military dominance."
+    publishedDateTime: 2021-10-20T15:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-10-20/china-is-pouring-everything-into-the-race-against-the-u-s-for-ai-supremacy"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 47
+  - title: "High-End Innovations Using Artificial Intelligence To Be Introduced During T20 World Cup Broadcast"
+    excerpt: "The new tech has been developed under Star and Disney India's R&D arm -- Star that spearheads innovation in emerging technologies."
+    publishedDateTime: 2021-10-23T02:59:00Z
+    webUrl: "https://www.news18.com/cricketnext/news/high-end-innovations-using-artificial-intelligence-to-be-introduced-during-t20-world-cup-broadcast-4354520.html"
+    ampWebUrl: "https://www.news18.com/cricketnext/amp/news/high-end-innovations-using-artificial-intelligence-to-be-introduced-during-t20-world-cup-broadcast-4354520.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/cricketnext/amp/news/high-end-innovations-using-artificial-intelligence-to-be-introduced-during-t20-world-cup-broadcast-4354520.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 43
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/10/untitled-design-2-3-163495781716x9.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI is making waves in the rent, property owners define the accurate rent price fluctuations with variations in facilities and specifications"
+    excerpt: "Update of the AI price assessment feature on RENOSY OWNER's MYPAGE targets at property owners. The feature of \"setting the influencing factors about rent price\" has been added to the system in which owners can check the market price of rent based on different facility options and specifications selected."
+    publishedDateTime: 2021-10-21T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1665270/1.jpg"
+        width: 763
+        height: 400
+        isCached: true
+  - title: "Myr.ai is raising € 2M seed funds to bring workspace cleaning into the digital age."
+    excerpt: "Myr.ai, a pioneer in the automation of workspace processes, finalizes a first fundraising of € 2M led by Axeleo Capital, accompanied by Weaving Invest, Second Century Ventures and business angels."
+    publishedDateTime: 2021-10-20T15:02:00Z
+    webUrl: "https://www.linkedin.com/pulse/myrai-raising-2m-seed-funds-bring-workspace-cleaning-digital-galou"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 13
 
 secured: "vqpKTJlkPoZGdpqjcrpGI5hQkgqCbQIR0pRHWalyrKOc1a/ZHcZzPiwoSF8J/oYeChgZR9wXVhlJO6cAjQLJN4MgxxRj/oV/OlMbTSSICZphvEVWNfintMEBjKxKiMlJ2RELsn+c5UGlTEfjLFzs2S0PLfzZRDAeDFny4vtV0ZP1dfsGC7oeaA0+0xb2odkKkhtShoP8GUd98CaIrY8GwEDLp9mYezIzwl1mZNUnaUaOK6Sel1g8EBeX+O4r0odFSUEkZZDhCYnFiv+ztfRfP8sg0NbbK0LVvCYWoJqsFZD3BAtReGUtkHg0O39MF6tJujsmQedz/Yb9AdGG0OKI41fx/hZTQpl3GPzEmueH2YYSC6qEGPRkGwoeH7r334wWj1sWyy6n2wdWwjVEbPlViLAHr34QTf2vYQa4oHeHNgLgAIsI56JtKQQ9GUtCGv2VJKw+AI1P+rFIttnl6uiCcaS8uM4HgLHhML3g9Mohx+M3tMWroAKvLFOQD4AH02eCKhsBJUVYAPBhLmgiTqDD4Q==;sWwQVDQQWWRCepDmQ6uRjg=="
 ---
