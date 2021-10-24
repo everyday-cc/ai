@@ -238,6 +238,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-alibaba-cloud-improves-cloud-services-with-new-chips.md",
+      "title": "Alibaba Cloud improves cloud services with new chips",
+      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group’s chip development business,",
+      "sourceUrl": null,
+      "webUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
+      "originalUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mb.com.ph/wp-content/uploads/2021/10/38431.jpeg",
+          "width": 1094,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
+      "cdnAmpWebUrl": "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
+      "publishedDateTime": "2021-10-19T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manila Bulletin",
+        "domain": "mb.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
       "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
       "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
@@ -1364,49 +1407,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
-      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
-      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

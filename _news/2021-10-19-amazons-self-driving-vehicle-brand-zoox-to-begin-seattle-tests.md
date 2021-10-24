@@ -25,31 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Look: New self-driving vehicle in Ajman to transport tourists from hotels to landmarks"
-    excerpt: "Soon, a self-driving vehicle will pick tourists up from their hotels and take them on a sightseeing journey around Ajman. The Ajman Municipality and Planning Department has launched the Autonomous Vehicle Projects to highlight the emirate's landmarks and push the wheel of infrastructure development."
-    publishedDateTime: 2021-10-19T06:38:00Z
-    webUrl: "https://www.khaleejtimes.com/news/transport/look-new-self-driving-vehicle-in-ajman-to-transport-tourists-from-hotels-to-landmarks"
-    ampWebUrl: "https://amp.khaleejtimes.com/news/transport/look-new-self-driving-vehicle-in-ajman-to-transport-tourists-from-hotels-to-landmarks"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/transport/look-new-self-driving-vehicle-in-ajman-to-transport-tourists-from-hotels-to-landmarks"
+  - title: "Amazon Is Deploying Self-Driving Vehicles for Tests in Seattle's Rain and Smog"
+    excerpt: "The trials see the company’s vehicles equipped with a safety driver to take control if needed take on the often rainy and smog-filled streets of Seattle."
+    publishedDateTime: 2021-10-19T15:45:00Z
+    webUrl: "https://interestingengineering.com/amazon-is-deploying-self-driving-vehicles-for-tests-in-seattles-rain-and-smog"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 36
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 35
     images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20211019/ARTICLE/211019075/AR/0/AR-211019075.jpg&NCS_modified=20211019074240&imageversion=1by1&exif=.jpg"
-        width: 961
-        height: 960
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jg6PJ50bOx/sizes/zoox_md.jpg"
+        width: 864
+        height: 486
         isCached: true
-  - title: "Winter self-driving pilot to start in Finland in 2022"
-    excerpt: "A public transportation self-driving car pilot is set to begin in early 2022 involving two autonomous Toyota vehicles in the city of Tampere in Finland. The goal of the project is to gather feedback on how autonomous vehicles work as part of the public transportation in Tampere,"
-    publishedDateTime: 2021-10-21T12:24:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17331/winter-self-driving-pilot-to-start-in-finland-in-2022"
+  - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
+    excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
+    publishedDateTime: 2021-10-20T15:23:00Z
+    webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: Government Technology
+      domain: govtech.com
     quality: 4
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
+    publishedDateTime: 2021-10-22T16:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/10/22/amazon-plans-self-driving-cars-seattle/6133508001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "MvZJsb1aIeBHEyyHz4ieOuucYp9OKEkSPH/+wSQhXXMjcsVLqqxPS5J3+pzKbcwf+rHgQf/jLGcdCZDpI/JSOsnFwt6WgoHpf5z5e3VotDB37igtzp6DLUzLwrLNT1Tg7zwbB79cVWbpoXPWcoKASVPN8D8gWuve/Qyn3mQTkE443m9hiKv/d8kGWjyjtRvoJz7DmE6fAPLV8JvpqdlZC/Ru0GJHODWFgci4nuLxZ55MQzKSjSblhmcoOJ5Chsk0OF7Fm1Ed66zktvl2mvuU2TFUBVUs4QlZhKjf80jmBl1hXIG8LUj4P2Gzo2isXu85QawCcEgkbJLcV0WDYGYWF7ohftvB9s8xz1JiwtM5Fj8vVdFoMWpJHF9UUsjB0uXYjKErhMrvzj6O27lrzEcfB5/nyfcKT0DA+Y138jtai7IjaDExhIZHFjnlZVXdY1PdMAOxdHuTlREP6oGbjRE4e+pHFU8BJh8oal+M2reqhEeOJETUzeOJNzqgfgQKPRlevdPZC7CGGXyYO/NQ5V6nWA==;QvvVeqNEmx1fdnvzJNI//Q=="
 ---

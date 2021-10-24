@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-19-the-synergy-between-ai-and-healthcare-explored-at-2021-taiwan-innotech-expo.md",
-      "title": "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo",
-      "excerpt": "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
       "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
       "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
@@ -1368,6 +1325,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-zacks-industry-outlook-highlights-encompass-health-radnet-us-physical-therapy-and-quest-diagnostics.md",
+      "title": "Zacks Industry Outlook Highlights: Encompass Health, RadNet, U.S. Physical Therapy and Quest Diagnostics",
+      "excerpt": "Today, Zacks Equity Research discusses Outpatient and Home Healthcare, including Encompass Health Corp. EHC, RadNet, In",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/zacks-industry-outlook-highlights--encompass-health--radnet--u-s--physical-therapy-and-quest-diagnostics-10579316",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/zacks-industry-outlook-highlights--encompass-health--radnet--u-s--physical-therapy-and-quest-diagnostics-10579316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

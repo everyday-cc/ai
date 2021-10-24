@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-19-charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers.md",
+      "title": "Charles de Gaulle airport (timidly) tests autonomous EV luggage haulers",
+      "excerpt": "The terrestrial e-drones are supervised with an artificial intelligence-enhanced central server, which compliments the natural intelligence (or lapses thereof) of human monitors. The trial EV ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "originalUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/3944365286_3831cc7eaa_b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/19/charles-de-gaulle-airport-timidly-tests-autonomous-ev-luggage-haulers/amp/",
+      "publishedDateTime": "2021-10-19T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-scientists-show-how-ai-may-spot-unseen-signs-of-heart-failure.md",
+      "title": "Scientists show how AI may spot unseen signs of heart failure",
+      "excerpt": "A special artificial intelligence (AI)-based computer algorithm created by Mount Sinai researchers was able to learn how to identify subtle changes in electrocardiograms (also known as ECGs or EKGs) to predict whether a patient was experiencing heart failure.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-show-how-ai.jpg",
+          "width": 2880,
+          "height": 2843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp",
+      "publishedDateTime": "2021-10-19T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-how-data-analytics-and-machine-learning-are-driving-value-in-aws.md",
       "title": "How data analytics and machine learning are driving value in AWS",
       "excerpt": "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,",
@@ -43,49 +137,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-the-synergy-between-ai-and-healthcare-explored-at-2021-taiwan-innotech-expo.md",
-      "title": "The Synergy Between AI and Healthcare Explored at 2021 Taiwan Innotech Expo",
-      "excerpt": "At the 2021 Taiwan Innotech Expo, the Future Tech Theme Pavilion (FUTEX) held by Taiwan’s Ministry of Science and Technology with the support of Academia Sinica, the Ministry of Health and Welfare, and various other partners,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1037,43 +1088,25 @@
     {
       "path": "_news/2021-10-18-hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings.md",
       "title": "Hybrid Cloud and GBS in Focus Ahead of IBM's Q3 Earnings",
-      "excerpt": "International Business Machines' (IBM) third-quarter results are likely to benefit from healthy uptake of the company's hybrid cloud and AI offerings.",
+      "excerpt": "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson ... technologies and AI-related solutions is expected ...",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391818",
-      "originalUrl": "https://www.entrepreneur.com/article/391818",
+      "webUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18",
+      "originalUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391818.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T09:00:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp",
+      "publishedDateTime": "2021-10-18T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1136,58 +1169,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics.md",
-      "title": "Apixio Grows Staff by 20% and Continues to Expand Footprint & Product Portfolio to Meet Surging Demand for AI Healthcare Analytics",
-      "excerpt": "Apixio, Inc., the healthcare AI analytics company; today announced it has rapidly expanded its staff and product portfolio to meet surging demand for its AI healthcare analytics solutions that give payers and providers the power to mine clinical information at scale — creating novel insights that will change the way healthcare is measured,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apixio-grows-staff-by-20-and-continues-to-expand-footprint-product-portfolio-to-meet-surging-demand-for-ai-healthcare-analytics-1030873813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1662177/Apixio_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

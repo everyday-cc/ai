@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-chatbot-justifies-sacrificing-colonists-to-create-a-biological-weaponif-it-creates-jobs"
 type: article
 quality: 80
-heat: 87
+heat: 84
 published: true
 
 provider:

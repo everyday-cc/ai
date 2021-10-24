@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/19/how-deep-learning-is-shaping-the-future-of-content-production/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How AI Is Shaping The Future For Humans"
-    excerpt: "By this definition, AI is a disruption. It is a disruption that challenges the limits of human excellence and thinking. Even in its infancy, it has disrupted the notions of the quality and efficiency of manual labour."
-    publishedDateTime: 2021-10-19T05:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-shaping-future-humans-tanuja-rawat"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE5mmvqWlTP4w/article-cover_image-shrink_600_2000/0/1634620709254?e=1640217600&v=beta&t=thSYIdDhN4UY8PGVDa3GZTWbZjB22mInHAMRx9e8QGo"
-        width: 1024
-        height: 512
         isCached: true
   - title: "How is AI Shaping the Future of the Stock-Market and Investment Banking?"
     excerpt: "Artificial Intelligence (AI) is being used alongside natural intelligence to pave the way for future generations, and certain industries such as investment banking are taking full advantage."

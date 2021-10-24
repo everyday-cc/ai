@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-10-05-55-self-driving-ai-robots-deployed-to-sort-postal-mails-in-greece.md",
+      "title": "55 self-driving AI robots deployed to sort postal mails in Greece",
+      "excerpt": "Hellenic Post in Athens, Greece, has deployed 55 small, four-wheeled autonomous mobile robots powered by artificial intelligence to sort mails at its centre. The robots scan the postal code, weigh the package and,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "originalUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/5_tue/img_1633432635497_494.jpg?",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "publishedDateTime": "2021-10-05T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-artificial-intelligence-market-in-india-to-reach-78-bn-by-2025-idc.md",
       "title": "Artificial intelligence market in India to reach $7.8 bn by 2025: IDC",
       "excerpt": "AI software segment is expected to dominate the market and grow from USD 2.8 billion in 2020 at a CAGR of 18.1 per cent by the end of 2025, IDC said.",
@@ -1045,49 +1089,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-robotics-transforming-knee-replacement-surgeries.md",
-      "title": "Robotics transforming knee replacement surgeries",
-      "excerpt": "The most advanced innovation is the Navio Surgical System, a robotic platform that does not need any CT scan or MRIs and creates a real-time image of the limb and deformity and the surgeon is able to visualise all around the knee and make a plan on how it is going to be after surgery even before the bone is touched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "originalUrl": "https://www.newsx.com/health/robotics-transforming-knee-replacement-surgeries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsx.com/wp-content/uploads/2021/10/robotics-in-knee-replacement-309117-y432JCRT.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "cdnAmpWebUrl": "https://www-newsx-com.cdn.ampproject.org/c/s/www.newsx.com/amp/health/robotics-transforming-knee-replacement-surgeries.html",
-      "publishedDateTime": "2021-10-04T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsX",
-        "domain": "newsx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

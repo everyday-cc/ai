@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/ai-takes-over-tedio
 webUrl: "https://www.scmp.com/presented/business/topics/ai-takes-over-tedious-tasks-ipos/article/3152871/hong-kong-fintech"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
+    excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
+    publishedDateTime: 2021-10-21T16:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=551329"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "+ZLzeXSkRpufkwFfoJhC1zlqJaFaHgZ0bYURPrYKFbZv8/f8T1lTnx4jprskqzbSWnzj26ji82xHxuV6b0rBBHRJf2oFkRobZGST6hb7cHQ3570p8gTtEI/wVRge6I6yHnJfjFCHw0tutVZB1kXCW4+ZuM4kYzs7wDGndjkeslHB0tHLBXBF5d4Z0AHlNLyrHatf29/gP2pinxWUS9aWed6ISfcfXWcOkAh3z8eq8DL5ZCiQq+zd6Pn7kyrciQNCvmITE5ZFrRhxHA2B8LMSS+QfGcMuRTUT7xNJXX+I+1PW8IV6l5zQaDiP6IY4xQhfVtwgbRK76bInP7mF0mbJm9ohFdsp1EaU2HQpNtvlvBEhUJtb6QKmCg2eSLHMevTvUjJzelU4S0/EKYbRbgzXk2QXq9OPpYuJdUqOEO/s/lnAsOEVLbUs++aWD9D9iZZm8OHey8ydNk5TgnWRYQoRCBUyOI1qIVX3EIUaLz7+9GrifQyw5VfKAszkdyNyqq9Yq8qFZbFK8LI85rl831N1eQ==;tNwDvfMgtzTVsyja2Y6Ktw=="
 ---

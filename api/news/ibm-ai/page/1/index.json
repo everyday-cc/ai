@@ -56,43 +56,25 @@
     {
       "path": "_news/2021-10-18-hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings.md",
       "title": "Hybrid Cloud and GBS in Focus Ahead of IBM's Q3 Earnings",
-      "excerpt": "International Business Machines' (IBM) third-quarter results are likely to benefit from healthy uptake of the company's hybrid cloud and AI offerings.",
+      "excerpt": "International Business Machines Corporation’s IBM third-quarter results are likely to reflect the healthy adoption of hybrid cloud, Watson ... technologies and AI-related solutions is expected ...",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391818",
-      "originalUrl": "https://www.entrepreneur.com/article/391818",
+      "webUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18",
+      "originalUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391818.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T09:00:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hybrid-cloud-and-gbs-in-focus-ahead-of-ibms-q3-earnings-2021-10-18?amp",
+      "publishedDateTime": "2021-10-18T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba Cloud to build own servers with new in-house chip"
-    excerpt: "Chinese tech giant says it has built its own server chip, called Yitian 710, which is touted to be compatible with the latest Armv9 architecture and will be used to develop new servers that will be deployed across Alibaba's businesses."
-    publishedDateTime: 2021-10-19T06:04:00Z
-    webUrl: "https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Alibaba Cloud improves cloud services with new chips"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group’s chip development business,"
     publishedDateTime: 2021-10-20T00:52:00Z

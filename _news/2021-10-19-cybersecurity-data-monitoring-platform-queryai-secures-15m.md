@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 566
     isCached: true
+
+related:
+  - title: "Navina Raises $15M for AI-Powered Primary Care Platform"
+    excerpt: "Navina, a Tel Aviv-based developer of AI-powered clinical platform for primary care raises $15M in Series A funding led by Vertex Ventures Israel"
+    publishedDateTime: 2021-10-22T20:50:00Z
+    webUrl: "https://hitconsultant.net/2021/10/22/navina-ai-powered-primary-care-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 37
+    images:
+      - url: "https://hitconsultant.net/wp-content/uploads/2021/10/Navina-Secures-15-Million-in-Series-A-Funding-to-Continue-its-Revolution-of-US-Primary-Care-Using-Artificial-Intelligence.png"
+        width: 1502
+        height: 1078
+        isCached: true
 
 secured: "jrBUrRycdL0g0PUkAMXUlGHy0cldzY+9jB3RCG1gudt6Q0J+uIdAYFIfI5IkWRWjOLS0OzMWAuZiH38g/kgunhXqZlSsTSY7Do+63eGcEZyZhCsKb/TSNKqQubWGzq1c7hBnQPojjKQtTKebGXVdp5lPTN7Hd9o1hRApJnePFFCdIMqpq1PMhb2uEgpUUQQK0PDTB4rdmXad0XhWnzPqaMSWhm1eGfct8S8coUI3jKRwHdl5TzfAURolKdrC4kiSp4f3tmWBx+YEFoVi8001ZFrwnYPOr4Vk+XQW4iJ266TVNx76TqmyFYgpkzJOqe/Ma3dO6ePul7iKqeNehYtnHF5S0Ce1DHw0uIgbCMym52OQuwMquxH/PJtaX3yYhcUSQ4yWsnHeVQslV6ceSAHicLrVVdpPi4nZ9GtdvUy28ucAMyj4r0jpbIE0nC0oYNl01RZOeeUzv+RQdyJejyXoc4MCtPFd5kgl6NyvYsKpk5tmC/o+1NPR0Rxm2jYMJ7ZmfAOm9rEo6l/IKO6Ts1YZrg==;2eLYkv4w3ciBrt7RX60gSw=="
 ---

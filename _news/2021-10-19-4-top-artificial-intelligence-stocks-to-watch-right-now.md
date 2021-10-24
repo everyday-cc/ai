@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-artificial-intelligence-stocks
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-artificial-intelligence-stocks-to-watch-right-now-2021-10-19?amp"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

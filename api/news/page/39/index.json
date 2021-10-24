@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-09-22-amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco.md",
+      "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market.md",
       "title": "Technological Advancements in Machine Learning in Healthcare to Boost the World Market",
       "excerpt": "Staying ahead in business is often about being the first; check the pulse of Machine Learning in Healthcare Market know what is hot and what’s going wrong in your industry is a key to success. Stay tuned with latest trends of Machine Learning in Healthcare Market with latest edition released by HTF MI.",
@@ -1086,50 +1129,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-facebook-sharpens-focus-on-safety-security-to-address-wsj-allegations-launches-consumer-products.md",
-      "title": "Facebook Sharpens Focus On Safety, Security To Address 'WSJ' Allegations, Launches Consumer Products",
-      "excerpt": "“These teams reduce the spread of harmful and illicit content on our platforms and develop AI technology to ... “plain false: that Facebook conducts research and then systematically and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/09/21/fbportal-10inch-600_RmiWiCI.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

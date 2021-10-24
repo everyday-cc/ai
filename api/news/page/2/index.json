@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-facebook-ai-wants-to-see-the-world-through-your-eyes-and-thats-scary.md",
+      "title": "Facebook AI Wants To See The World Through Your Eyes, And That’s Scary",
+      "excerpt": "Facebook recently kicked off a research project that portrays the company’s ambition to push the limits of first-person perception. The Ego4D project offers a massive collection of first-person video and supporting data along with a set of challenges for researchers to feed computers to learn and extract useful information from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/2021/10/3-1634885552.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
+      "publishedDateTime": "2021-10-21T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-saving-seaweed-with-machine-learning.md",
       "title": "Saving seaweed with machine learning",
       "excerpt": "Charlene Xia, a PhD candidate at MIT, is using machine learning to monitor the microbiome of seaweed farms in an effort to predict and prevent diseases before they destroy livestock.",
@@ -1064,6 +1107,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-alibaba-cloud-improves-cloud-services-with-new-chips.md",
+      "title": "Alibaba Cloud improves cloud services with new chips",
+      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group’s chip development business,",
+      "sourceUrl": null,
+      "webUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
+      "originalUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mb.com.ph/wp-content/uploads/2021/10/38431.jpeg",
+          "width": 1094,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
+      "cdnAmpWebUrl": "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
+      "publishedDateTime": "2021-10-19T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manila Bulletin",
+        "domain": "mb.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
       "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
       "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
@@ -1113,93 +1199,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
-      "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
-      "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/google-tensor-explained/",
-      "originalUrl": "https://fossbytes.com/google-tensor-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/10/tensor-chip.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/google-tensor-explained/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-tensor-explained/amp/",
-      "publishedDateTime": "2021-10-19T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
-      "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
-      "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "originalUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/10/Google-Pixel-6-Live-translation.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "publishedDateTime": "2021-10-19T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

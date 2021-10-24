@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 828
         isCached: true
-  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
-    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
-    publishedDateTime: 2021-10-19T05:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 35
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
   - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
     excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
     publishedDateTime: 2021-10-20T15:18:00Z

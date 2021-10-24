@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-tai
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-f4efc2157bae73338e095274d339336c"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Associated Press
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taiwan's Government-backed AI Company iKala Supports Japanese Brands Succeed in Taiwan with Data-driven Influencer Marketing"
-    excerpt: "PRNewswire/ -- iKala, Asia's leading Human-Centered AI company headquartered in Taiwan, announced plans to expand its footprint in Japan at today's Taiwan NEXT BIG Award Ceremony while receiving the honour from President Tsai Ing-Wen."
-    publishedDateTime: 2021-10-19T05:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-taiwans-government-backed-ai-company-ikala-supports-japanese-/2021/10/19/9471892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1663879/iKala_Co_Founder_CEO_Sega_Cheng_Received_An_Honour_from_President_Tsai_Ing_We_at_The_Taiwan_NEXT_B.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "BU artificial intelligence symposium explores intersection between AI and public health"
     excerpt: "Mitigating Disparities, Biases and Misinformation” — was an opportunity for scholars across a myriad of disciplines to discuss this critical intersection between healthcare and. The symposium was held over Zoom,"
     publishedDateTime: 2021-10-20T05:11:00Z

@@ -66,7 +66,12 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 26
+    quality: 46
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
+        width: 940
+        height: 500
+        isCached: true
   - title: "Deci scores $21M to develop AI that builds AI"
     excerpt: "Deci’s deep learning development platform helps enterprises build, optimize, and deploy AI models and reach successful production efficiently"
     publishedDateTime: 2021-10-20T14:55:00Z

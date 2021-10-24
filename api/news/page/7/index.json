@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-15-extraordinary-ai-motorcycle-hud-highlights-hazards-and-cornering-lines.md",
+      "title": "Extraordinary AI motorcycle HUD highlights hazards and cornering lines",
+      "excerpt": "The head-up display for motorcyclists: it's the great white whale of the technology world. Over the years, we've seen at least a dozen different attempts to put information into the eyeline of the motorcycle rider,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "originalUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e991b46/2147483647/strip/true/crop/1983x1322+282+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2Fd7%2Fb28d9cd849b49549acc2945a2c16%2Fscreen-shot-2021-10-15-at-5.25.26%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/motorcycles/aegis-motorcycle-cornering-hud/?amp=true",
+      "publishedDateTime": "2021-10-15T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
       "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
       "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
@@ -288,50 +339,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
-      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
-      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-10-15-artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
       "title": "Artificial Intelligence in Video Games Market Is Likely to Experience a Tremendous Growth in Near Future",
       "excerpt": "Click To get SAMPLE PDF of Global Artificial Intelligence in Video Games Market (Including Full TOC, Table & Figures) Global Artificial Intelligence in Video Games Market and Competitive Analysis Know your current market situation!",
@@ -458,6 +465,50 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
+      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
+      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the expansion",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook",
+          "width": 2513,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1129,58 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
-      "title": "Facebook: Here comes the AI of the Metaverse",
-      "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "publishedDateTime": "2021-10-14T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=551329"
 webUrl: "https://us.acrofan.com/detail.php?number=551329"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,54 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Changing Fintech Landscape And Customer Expectations"
-    excerpt: "The rise of fintech players, better user experience and innovative product solutions are acting as a catalyst that will further push digital adoption in India"
-    publishedDateTime: 2021-10-19T06:28:00Z
-    webUrl: "https://www.entrepreneur.com/article/391943"
+  - title: "Hong Kong Fintech startup uses AI to drastically streamline workflows for capital markets and empower professional services"
+    excerpt: "Harnessing the power of deep learning to handle the massive amount of data required for initial public offerings (IPOs). Aims to reduce time to verify IPO prospectus by 75 percent Aspires to become th"
+    publishedDateTime: 2021-10-20T15:51:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/ai-takes-over-tedious-tasks-ipos/article/3152871/hong-kong-fintech"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1634624895-MyPost-2021-10-19T115726666.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
-    excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
-    publishedDateTime: 2021-10-23T18:04:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182023-fintech-klarna-acquires-inspirock-bringing-travel-planning-to-its-consumers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2022 Class"
-    excerpt: "Applications are now being accepted for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture (News - Alert) (NYSE: ACN) and the Partnership Fund for New York City that helps early- and growth-stage financial technology companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
-    publishedDateTime: 2021-10-19T12:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-innovation-lab-new-york-now-accepting-applicants-/2021/10/19/9472151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
-    excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
-    publishedDateTime: 2021-10-20T21:57:00Z
-    webUrl: "https://www.ky3.com/prnewswire/2021/10/20/markaaz-worlds-first-fintech-is-joined-by-investor-sandy-watkins/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 3
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 23
 
 secured: "nSAUHZOAcqsC3eY7LPq8uRoPM1oHP2b4DKdwibPivKW5aZNc7YeHZBqy9vwJbHAAUYHqSb3GTcwyB9+chkl+s6BJkM9gTZ6/t9U1W1xkfnfL4I7+1rMPkr2Zc9Y6B4yzVw17L31pQ7Zm0Nq9xQ0IKUUe94bNLFKJmdsdmEQWEnqGgxdjh9GdsWj0K/kHczFrHAsO45xfX4XCOJezGOwk6HCWoBu4Zm7gq3GnKDED/uu3O9W9YPsFQer8jMXZXguE4AJpor5ek5Z41CQ+7iCW3JeRPHhSrg6J9RZTNEBnKqpxHRfrygE3CNJV+blynENnhoLWWuuxYOraNnwF8lrhu95AsQxDNOUUKnKY0csZrSk=;dPRhCuxf9H2YNqoSVhkfBQ=="
 ---

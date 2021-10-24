@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
-    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
-    publishedDateTime: 2021-10-19T05:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 35
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
 
 secured: "IfsHsaRmUdCPeDUWzHYrukRvaBO/7lLnaEcZcZlJVyyZOaB5diNtcZISzy6XIQzF1JlzyBgse4SKdaVq4P1DDKALVKT+MaIG3hDpkJDQW4YOO1LBNUhfHDaJXkHgK2dUYtampEF/+OP1LEdWIIfR3ImS9s/Op1yshHDMotM6g2aIbyHN0FhgSimJoRwcfPdnVmAjPTBzERCz0Rwzcb0Zum3kMy86aVGF9Hw3ZGKtOfAReI9whVfPu6XrR//ESs7PdSKOiNgGzQg2BpIjZ8w67KbNqS24ZWmAwe61Od+pAuYNc+AwtZmUbnwtl4NT7R7eeKRkNLfpmKvv+ZTYjSqdylZPHiP/ULMFCRehHVqIPDYpOQftUSrVy5For11NGObhoKaXvUa3BZLs59lOkN+Jq/kYEUQwHKQk1WmhmUXZG4RXtTi3HGpt+ITrCsXCwEuKg7jAXfmBcK/gIAnM/sW7v5VquXeiVRl0CeZ+7qI7tFR9hD+Hny7w7LJczF2HWDJI5BcCwWlBQnY/C6tPgbcwKg==;dVN88VCyjGkjEUB5kFHPMQ=="
 ---

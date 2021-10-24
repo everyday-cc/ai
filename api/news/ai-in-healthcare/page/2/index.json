@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-09-29-zacks-industry-outlook-highlights-encompass-health-radnet-us-physical-therapy-and-quest-diagnostics.md",
-      "title": "Zacks Industry Outlook Highlights: Encompass Health, RadNet, U.S. Physical Therapy and Quest Diagnostics",
-      "excerpt": "Today, Zacks Equity Research discusses Outpatient and Home Healthcare, including Encompass Health Corp. EHC, RadNet, In",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zacks-industry-outlook-highlights--encompass-health--radnet--u-s--physical-therapy-and-quest-diagnostics-10579316",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/zacks-industry-outlook-highlights--encompass-health--radnet--u-s--physical-therapy-and-quest-diagnostics-10579316",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-29-united-states-natural-language-processing-markets-to-2026-rapid-innovations-in-the-healthcare-industry-to-give-a-healthy-push-to-market-growth.md",
       "title": "United States Natural Language Processing Markets to 2026: Rapid Innovations in the Healthcare Industry to Give a Healthy Push to Market Growth",
       "excerpt": "DUBLIN, Sept. 28, 2021 /PRNewswire/ -- The \"United States Natural Language Processing Market, By Component (Solution and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's ...",
@@ -1366,6 +1323,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-nhs-artificial-intelligence-provider-reports-160-growth-promising-to-transform-healthcare-with-better-data.md",
+      "title": "NHS Artificial Intelligence provider reports 160% growth, promising to transform healthcare with better data",
+      "excerpt": "RwHealth, the leading provider of Artificial Intelligence to the healthcare industry, has reported 160% year-on-year growth as its data-led solutions are increasingly embraced by NHS trusts, private healthcare providers and pharmaceutical companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-nhs-artificial-intelligence-provider-reports-160-growth-promising-/2021/09/15/9450012.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1626850/Orlando_Agrippa.jpg",
+          "width": 267,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -60,7 +60,12 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 26
+    quality: 46
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
+        width: 940
+        height: 500
+        isCached: true
   - title: "Deci gets $21M funding to help automate deep learning model development"
     excerpt: "is getting a $21 million cash infusion via an early-stage round of funding aimed at furthering its mission of helping companies build, optimize and deploy artificial"
     publishedDateTime: 2021-10-20T11:00:00Z

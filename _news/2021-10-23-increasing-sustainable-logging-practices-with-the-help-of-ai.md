@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHgjC7OBMA2xA/article-cover_image-shrink_720_1280/0/1634832178447?e=1640217600&v=beta&t=ltoYoKu9JlSM_HVJ26nLcSIPeoEV2dnRMlkFsHpJwBw"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Understanding the Impact of Artificial Intelligence on the Design Industry"
-    excerpt: "Today, every tech giant is moving towards artificial intelligence to bring advanced automation into their processes. This is because they know that the future belongs to those technologies that can simplify human work to a more significant extent."
-    publishedDateTime: 2021-10-19T05:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/understanding-impact-artificial-intelligence-design-industry-karanja"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 35
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
         isCached: true
   - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
     excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."

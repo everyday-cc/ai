@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-20T17:06:00Z
 originalUrl: "https://www.biometricupdate.com/202110/deci-raises-21m-to-leverage-artificial-intelligence-to-optimize-algorithm-development"
 webUrl: "https://www.biometricupdate.com/202110/deci-raises-21m-to-leverage-artificial-intelligence-to-optimize-algorithm-development"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/28183020/funding-round-biometrics-and-identity-verification.jpg"
+    width: 940
+    height: 500
+    isCached: true
 
 related:
   - title: "Deci snaps up $21M for tech to build better AI models based on available data and compute power"
@@ -77,6 +83,6 @@ related:
       domain: geektime.com
     quality: 19
 
-secured: "tIQBaJuOiC4Qg1XiZIlPt+VAzVEmVl2YUr9sIF2pUaM2xh4ybyl/If+NiMbOmk3veJ91MGU58s4DTC9HqJXTSHdzJjpo7WtdmXGNANGew3w8qf6Q0HvnLbARA3kl6ak2JN/Kaa01YxQFCxUvhbRlPdtsx2wOf5ZmK2diNvNK2aku62fDZB98B8k1IUC1v+t46hqump6IfdVSlDetQZ3ezeEcB8sbKjyotNH2YnFL2I+9IX+Qqt+2il2UQhwf232UdKhRVCPl+PJ3VhRlnppz+tHivU1/QQUToWNY+CJpO3ljL+sPyWI7mR1dPiSucvfWw6RpmEhM4/TaVs4yqMH4xS+fxfNzfSa4bTOdT0HD78E=;q2BbVwGYvXcrTH6Ki9YJoA=="
+secured: "atQ9enPn2/0txBAUAQLne4dTFrGexrNPBY6OzUASe6/3aby2buFj3QcL+bbGkQlW7Tf1/M2sw0C/oKgc0JGKRiJLOZGguPVVzQ8uQaKlkhVeFPC5WCuZN5TBJV10HIuOXMb0wmUcCtJSDOq/1rR1ituJQ16gXJEe4kVmIJw5QWZY/3sByjHwKsMuxuLkjXrpzgL2D01daSYBrL2T/ckk5AvYT6oEuAdXzYvRO3WhTLRueYNRRBBjD9/pHbf+T6Jb7g2lOt9jpzlSwYgOTNZniT7X1J8fu111N5dhcf4cmfJoNM9rS9MGQiB4UfeB0ZMyPNhchTnoYfVJ68iKu1vhhS1x3oXRsYtBG6bImL6gnXs=;+eMG6/7jqaJAXFp6A7zSpg=="
 ---
 

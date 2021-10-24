@@ -50,20 +50,6 @@ related:
       name: Fudzilla
       domain: fudzilla.com
     quality: 21
-  - title: "Paraffin Physical Therapy Market Analysis Focuses on Industry Size and Forecast by Type and Growth Forecast 2028"
-    excerpt: "The Global Paraffin Physical Therapy market study provides critical information related to the global, regional and top players including Paraffin Physical Therapy market share analysis, winning strategies,"
-    publishedDateTime: 2021-10-19T06:15:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-10-19/paraffin-physical-therapy-market-analysis-focuses-on-industry-size-and-forecast-by-type-and-growth-f"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 18
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "R7zMRZgaPL1Kj30wh9theuCUSLVYarOdqg3amkVJYNUpCYYhvAwcqLg/9S96Fjx+my68FCM8vsq4VCksKEbzplOYTs1T8ZThE3gh7867IWihVUHNwpHQ6s+eTDcwM1BYzqViELAgkXQWpR3IxIrXnKJY85iC1pDcDuiNedhdxWOqH1SxwhR5rFwz9FhqwzTR1/2apVWsctUod6mhCaV2MlSJvWNh1gOICUW+VYUbmPCgXWi1P925rOmT0Cll1VlTOaRtCe1t5N3wn5fuzXYjQyHBQ9AekIyarXHYUNIIPI22HRrA4sp45dvA710G3TCIlkivkhDAx50CN8uPLZocL9XiehXTZK9OrU+IiD8SsDm8oWOKi7Zuque1Q6G2MLOK9FcQN5JIj0k6Uqgitvu5zFPGv9GVJiidCSIBow1TOmg05oSHrVyM69eXsuubHvtvkQm6CkzYDpEL/8weofvsyOFeY8ZVgmcrNk1wLPdIQJM+ozQKcvoTT/c9mYKbvjXyrUNfG8lLoC70ZWoVIEhCbg==;7gozezSH8DRf4bpHsjOQWQ=="
 ---

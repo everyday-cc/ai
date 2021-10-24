@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
+      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
+      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
+          "width": 650,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-dangerous-promise-of-the-self-driving-car.md",
       "title": "The Dangerous Promise of the Self-Driving Car",
       "excerpt": "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created.",
@@ -1145,49 +1188,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
-      "title": "Attention-based deep neural network increases detection capability in sonar systems",
-      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/931330",
-      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

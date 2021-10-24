@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
+      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
+      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
+      "publishedDateTime": "2021-10-08T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-jdcom-baidu-invest-400-million-in-elevator-ad-firm-xinchao.md",
       "title": "JD.com, Baidu invest $400 million in elevator ad firm Xinchao",
       "excerpt": "JD.com and Baidu have jointly invested $400 million in elevator advertising firm Xinchao Media Group. Why it matters: The two Chinese tech giants are returning investors in the Chengdu-based media company. The deal is a major external investment for JD ...",
@@ -1124,59 +1167,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
-      "title": "How AI can fight human trafficking",
-      "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "originalUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "publishedDateTime": "2021-10-07T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

@@ -1,24 +1,33 @@
 ---
 category: news
 title: "AI lab DeepMind becomes profitable and bolsters relationship with Google"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net While this could be great news for DeepMind, which has always hemorrhaged money, the AI lab's ..."
-publishedDateTime: 2021-10-11T13:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google-10609479"
+excerpt: "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company."
+publishedDateTime: 2021-10-10T22:16:00Z
+originalUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+webUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/"
+ampWebUrl: "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Google AI
+  - AI in Autos
   - AI
+  - Google AI
 
-secured: "yRdIy9aCluNlfWmIWhFhtCTBD0pmMw6aIdslss5cmmj+Lvb+ug35dOKpgVVlteNynUTNX+r7aQGbVWFifvNQt74f42d3Di47/6KFcREIjZ9vT1r8rpagfcFSsNIVe4EiRn+CXZH4/crG43wsxS0gb0H6CO1JsfBdejLYhS2W6rWMmspksSYQml7BlYxAa3wfctb3riL9wfxIF1fvFq0NigLgc8gA4Dujz92eOFk/zV/hgWVaSomWPi9NnYXAsI3aLA8CUzq7f7Ee+5B9m8pKjq9258bGaWqEJxwCRMkrAm/yjmEqMTmAPOIP9AO2JUW2ea5q7LoxsDVVPwgruTMypY8vKbB1Kt9CFzaiadn7UpQ=;lgGYKrqWUXjbkJrebVcL9Q=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "yN5cWH8rAQuyurxu4XRvdjTDRibcWowLUMt48y0WO8B0g/eAV7yvXVazVGkmM/WKtUfhY4ULKROojh+PJT8k36UzjIOPgKx17LOtAUHhQuofCbZkJYJ+mifXKea0ZxA96rP7v8eTATe8SjfEIU5/ZoYfg+Y5ZDS2AWTfYba+yThDNnTFXlDe+NopwzbuYh0GnT+l3RKkJ1cFaTW7yiwcXTTGh+GJCr8lo5K/hvbkhXVzKBgaC1IhozzsFpsoQsAM6DnlFf0uD7ehrCvDarT3cx+/OSGDU/DrO2c0EgJlmDPiPlaKObAVOX6tGFzsZutKD/BPXdej3fNVIRnqaJ9BVdxWlJ6DIVU9DqJRmd29oPA=;q93VIY1NY4ZNWsOdOCpFMQ=="
 ---
 

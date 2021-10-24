@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
+      "title": "Attention-based deep neural network increases detection capability in sonar systems",
+      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/931330",
+      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-data-driven-workforce-management-for-a-work-from-anywhere-world.md",
       "title": "Data-Driven Workforce Management For A Work-From-Anywhere World",
       "excerpt": "Fueled by the COVID-19 ... and the rest based anywhere) are becoming the norm. In this environment, organizations are challenged to gain real-time insights on staff productivity.",
@@ -1154,51 +1197,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
       ]
     }
   ],
