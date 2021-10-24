@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Robotaxi Market to Witness Astonishing Growth by 2030"
-excerpt: "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and"
-publishedDateTime: 2021-10-19T21:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/21/10/ab23452373/robotaxi-market-to-witness-astonishing-growth-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/23452373"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23452373"
+excerpt: "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology."
+publishedDateTime: 2021-10-19T22:43:00Z
+originalUrl: "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030"
+webUrl: "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "JgSDOgoowmQ5x0yVIkKK6DJWlIAqn6bp5ogtYkTM9dTum7timF4PNHUpffTy+1a75gs1P3motSmJej0mcKw4BBUERlU7N+cl6g9nYOUcXv5AyzFV8d6SrBM82xBOkdK9wLxyD7AhU6GZ1lO4kv9hIeoE5j3LkPL4vYoWyF4oEC6xFpLa5VEGXDV7sb5fdxu4DGg+zPMcpdIe0GfckHPMYDCaInbFjtqxU7tAX8EmBzQ3TNvUcrUKyUehoM1EthEIoCp9AIs1ogwSr1edq7ySV+0j4XTrQJJVlbyx1QX1M2BK0xA/mfcBrGXFzJ/tQ64zSrSIATGdt5D0x02WIbsds1b6ofD+pdEgrKe1hM8iykiGTMCDYTGG0sqUQlQBmfaHtM6MWv5/dcxrJtU3olRq1LeYlr/QyQXw5pt4tgckALMBFn1RYyAE5A7ZUKZbc3UjVH+wlumTBY5Cdi45qVhpF+o/gA/HTNygWAv+ZFVYp8rgP/7wCK5Nk9nN2bP0/P0KpjjhhgU7WNORdbSr+C1kdg==;408YEWUUyp3yuzyAwlnhtw=="
+images:
+  - url: "https://menafn.com/updates/pr/2021-10/19/G_a467dimage_story.jpeg"
+    width: 650
+    height: 396
+    isCached: true
+
+secured: "sdyqKTWDhAUWBDvi1dEGiXhm6xVXp5FLf27psu94kbVF1gRmo8DWJ+qH2WxjUV+/No5oxwFwCqVV8+IeDMzKf8baOSzmmpT5ktAkpunDoQWbeqAH2uA16ZPXa4Y9ANhDSKlFMN+Oc8VlqJi9oIvzHQggs1tUMcwfjkLWN388OlTkP6DHrYWcJknkYC8LeCb4ZtCvyMVHHH6X2tEW0FbnBz1N6Rx0BZgRuhhx8le4O2VJQ5KWyX5sgi+clwAVwG1PlhU/H53YM+BYNAGgJMDgACCc293lbqZ8iML/a1KREEsQOLu6gbCHly8gH/Xv0OT8xiZBQ8GX/Vx9wmHUOw/F/7Gdp1Lh+n87OE5fWgAkLCk=;SD0Lnpr2PZ+fonFDwronUg=="
 ---
 

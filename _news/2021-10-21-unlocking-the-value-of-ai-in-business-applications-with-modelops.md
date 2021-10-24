@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "Practical benefits of using AI for more accurate forecasting"
+    excerpt: "Forecasting tools based on AI algorithms can predict the future with a higher degree of accuracy. This is usually achieved by machine learning, which continually analyzes past events and forecasts and uses the data to produce more accurate forecasts."
+    publishedDateTime: 2021-10-24T19:33:00Z
+    webUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
+        width: 1280
+        height: 748
+        isCached: true
   - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
     excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
     publishedDateTime: 2021-10-20T15:18:00Z

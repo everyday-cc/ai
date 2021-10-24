@@ -25,20 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Changing DevOps?"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2021-10-22T23:51:00Z
-    webUrl: "https://www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/"
-    ampWebUrl: "https://www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/amp/"
-    cdnAmpWebUrl: "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/how-artificial-intelligence-is-changing-devops/amp/"
+  - title: "What automation, AI, AR, robotics mean for the future of work in mining"
+    excerpt: "A new report by Wikistrat and idoba analyzes the impacts that technological developments and ESG issues are likely to have on workers in the mining industry."
+    publishedDateTime: 2021-10-24T19:38:00Z
+    webUrl: "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/"
     type: article
     provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 57
+      name: Mining
+      domain: mining.com
+    quality: 69
     images:
-      - url: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211022200432/How-Artificial-Intelligence-is-Changing-DevOps.jpg"
-        width: 1000
+      - url: "https://www.mining.com/wp-content/uploads/2021/10/What-automation-AI-AR-robotics-mean-for-the-future-of-work-in-mining.jpeg"
+        width: 900
         height: 500
         isCached: true
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-micro
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
 type: article
 quality: 99
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure: How to Maintain Your Security Posture in the Cloud"
-    excerpt: "Interested to learn about the Security Best practices, Azure Security Suite and how to Maintain your Security Posture in the Cloud?"
-    publishedDateTime: 2021-10-20T01:53:00Z
-    webUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137"
-    type: article
-    provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 86
-    images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F165463859%2F418831787415%2F1%2Foriginal.20211012-091654?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8daddc6c66ce73cf960ced47613ddbf7"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Start training for a cloud computing career as a Microsoft Azure specialist"
     excerpt: "You don't have to go back to school or spend a fortune to acquire the skills you need to break into the tech industry. You can take self-paced courses, even if you're working full-time."
     publishedDateTime: 2021-10-21T19:23:00Z

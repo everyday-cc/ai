@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Microsoft Azure: How to Maintain Your Security Posture in the Cloud"
-    excerpt: "Interested to learn about the Security Best practices, Azure Security Suite and how to Maintain your Security Posture in the Cloud?"
-    publishedDateTime: 2021-10-20T01:53:00Z
-    webUrl: "https://www.eventbrite.com.au/e/microsoft-azure-how-to-maintain-your-security-posture-in-the-cloud-tickets-190128057137"
-    type: article
-    provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 86
-    images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F165463859%2F418831787415%2F1%2Foriginal.20211012-091654?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8daddc6c66ce73cf960ced47613ddbf7"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "In Machine Teaching We Trust, Microsoft"
     excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
     publishedDateTime: 2021-10-22T10:30:00Z

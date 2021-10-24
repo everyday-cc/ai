@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Practical benefits of using AI for more accurate forecasting"
+    excerpt: "Forecasting tools based on AI algorithms can predict the future with a higher degree of accuracy. This is usually achieved by machine learning, which continually analyzes past events and forecasts and uses the data to produce more accurate forecasts."
+    publishedDateTime: 2021-10-24T19:33:00Z
+    webUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
+        width: 1280
+        height: 748
+        isCached: true
 
 secured: "IfsHsaRmUdCPeDUWzHYrukRvaBO/7lLnaEcZcZlJVyyZOaB5diNtcZISzy6XIQzF1JlzyBgse4SKdaVq4P1DDKALVKT+MaIG3hDpkJDQW4YOO1LBNUhfHDaJXkHgK2dUYtampEF/+OP1LEdWIIfR3ImS9s/Op1yshHDMotM6g2aIbyHN0FhgSimJoRwcfPdnVmAjPTBzERCz0Rwzcb0Zum3kMy86aVGF9Hw3ZGKtOfAReI9whVfPu6XrR//ESs7PdSKOiNgGzQg2BpIjZ8w67KbNqS24ZWmAwe61Od+pAuYNc+AwtZmUbnwtl4NT7R7eeKRkNLfpmKvv+ZTYjSqdylZPHiP/ULMFCRehHVqIPDYpOQftUSrVy5For11NGObhoKaXvUa3BZLs59lOkN+Jq/kYEUQwHKQk1WmhmUXZG4RXtTi3HGpt+ITrCsXCwEuKg7jAXfmBcK/gIAnM/sW7v5VquXeiVRl0CeZ+7qI7tFR9hD+Hny7w7LJczF2HWDJI5BcCwWlBQnY/C6tPgbcwKg==;dVN88VCyjGkjEUB5kFHPMQ=="
 ---

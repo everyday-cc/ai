@@ -35,6 +35,29 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Self-driving race cars make history in Indianapolis"
+    excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135"
+    publishedDateTime: 2021-10-24T18:54:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/self-driving-race-cars-make-history-in-indianapolis/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/1d1e0f06b9cc3318a0194db2154f1876861cf596.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "Self-driving race cars reach blistering speed at inaugural race"
+    excerpt: "A team of computer programmers and engineers from a German university have been crowned the inaugural champions of self-driving cars around one of the world's most famous racetracks. Setting the record pace over two laps,"
+    publishedDateTime: 2021-10-24T19:01:00Z
+    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=342133&tst"
+    type: article
+    provider:
+      name: NZCity
+      domain: nzcity.co.nz
+    quality: 4
 
 secured: "5gEkzyJyHRlVBDXqgcz5y10CKcP/57E5DJCOwfKXTiLbKjo9HBgL+4kw/4YXEp2102f/Voa+LWYa7+s7dRbgc1KNp+bnF8uunVs50vg56bfOt7yPqLLkm4ZkjNPpqNszhGYIwSaSutVaynHNEbxN/3dY7mFD07QkWrQscfOP0zO79qw/SjMV13/cBLudjAbEpBoAMLoEFgdtKiQlQOJayQXhhmLh/nmFATDaN1Jyu/2bIbCH5HwGeeoqIl/nM7aKbiXxq/ATyJOFXN5FPNBjntbK06jtYT02vaPRvu1+1Z6p+8oSZ+Op7d5Mg+WhXI2XY9MLD/+KSYXU4cJUBATQ1LaWi2Jm2lvCC5VHrmbdTVIIjzt5Pf11gUx8jGfuwarBcmfiVvwvVTYaowwCEntLCswf9KbP3ffiwwKTJX/jgOp3qxwB5IuUPbJOnkv+KvJelk0dtp89hm/+taoi2/RE/0UYZQFyfvzNjznYLylT4pmFDQC3pj6gPyeL7TTW82Xv5OwIdLR6MFNfbB871giw3g==;VjvMzMoSoAsViwgRzCView=="
 ---

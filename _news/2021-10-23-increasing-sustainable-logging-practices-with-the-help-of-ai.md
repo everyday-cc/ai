@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHgjC7OBMA2xA/article-cover_image-shrink_720_1280/0/1634832178447?e=1640217600&v=beta&t=ltoYoKu9JlSM_HVJ26nLcSIPeoEV2dnRMlkFsHpJwBw"
         width: 1280
         height: 719
+        isCached: true
+  - title: "Practical benefits of using AI for more accurate forecasting"
+    excerpt: "Forecasting tools based on AI algorithms can predict the future with a higher degree of accuracy. This is usually achieved by machine learning, which continually analyzes past events and forecasts and uses the data to produce more accurate forecasts."
+    publishedDateTime: 2021-10-24T19:33:00Z
+    webUrl: "https://customerthink.com/practical-benefits-of-using-ai-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"
+        width: 1280
+        height: 748
         isCached: true
   - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
     excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
