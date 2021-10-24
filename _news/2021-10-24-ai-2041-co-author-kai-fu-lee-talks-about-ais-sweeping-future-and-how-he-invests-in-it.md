@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-auth
 ampWebUrl: "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 801
     isCached: true
 
-secured: "VrJL4brXDuiBgkQQ8XP5cp/KHJiM2/C/1QSlWP6gsH3aldf1nixOx1Job9Uk4kD+nDU0dYldo6WYkriiZiHxF55ngsA1gVJBdhIDR0QxhkPbVKq1HxpoLPMNuz+c+FlThVJRXRdc093m1sKcZKWowACESSJDVptjxYOXC+B5vCwpId5iGrQFUQify1/WaUnF48u/efazjYdrB6TgsNpEKVrwwKWlOJJxuwZa1IxPnZXHA9i6m/YS3prtKNA8nN0NndF7iXG1T0nmqe+sgZ7H6m+x3LeKyfwuFpnbg22eU6fs8Saw94DtfoEfxO9hNHI7qdmN6ci6KYK/EJq4zRbczM5e7eC15/J8lRTkip5YdPw=;5CI0OXVv6gV+qSR9S+HsJA=="
+secured: "RB8o0/GNiDVGY0zDewjj087lQc+QbrA6YcagAye1AKLrbxK5M4IIv+qfMtZMeOasN6xGppNRoA138KvMRNUBa/bIk9NwZCjdb8SqBRgnv7O9rJb7ncSgW6H9bPEMMh9pxtwTbNcgWCSpQyx7HqUFf3K38yBRfA01EVQKcxoAelYx2duX/JzXEVEmpt82kDbiLso0Muegm9uvhAFXDsQSc0iJt4k2SppS2x7FdZAasPRoqsxWROipTn0UCje6szMShbf7JEwwR0vzsn51S4YvMzc2bKQ9LREVa4wjtpcuOnAZcq6LPSIHwfO/m0bJRVzuOzSq13O47dqIqbqL7vtVxEa6EpPWQxZ2oFe0LwwYkEbQp/pd1x9m/zn3N5T8Rqa43WKrEQWDolWnzQqZR0XDP5dxiG1eOEFg+FCoOrtuDUq9oGJwyumjyzqzQvlwDwNuU1V6fkIJKx+VsPC7q/0VrhtmkLqwBc1QVY9tUBCLNfsKZpRXwEZgGNKGnVbzM77wThGn9kOrCVklt2s81T4ViQ==;HF1RczWMSE76gf5GmafL+g=="
 ---
 

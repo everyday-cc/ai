@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-helps-predict-spr
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-bacteria.jpg"
         width: 1920
         height: 1357
+        isCached: true
+  - title: "Emerging Antibiotic Resistance Predicted With Machine Learning"
+    excerpt: "Many novel traits are shared through gene transfer, but scientists haven’t been able to determine why some bacteria engage in gene transfer while others do not."
+    publishedDateTime: 2021-10-24T16:50:00Z
+    webUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
+        width: 4500
+        height: 3000
         isCached: true
 
 secured: "7Dc5z4Zpvvqqr7uXBoHClGoUPfQ6zDOCGJBBuoEHNEHRAI3JS8DSED+0B5GiUQH9aipsQ8urWripSauRKRF0Zi7kXmrArGrq6Dlx0J9zvz9zVIKDz3yO9EBgTVTuiu6oTupIeoHYI+/8wWOhXEHlQX099Ybf0DSdgIVGL9n8kckhkKJgTAjSqEVXFe7sTDeNck3XivIc/ap+aupbF9kxcmiUHsZALmRFiOWzoJv0hnX2S09Nq67JYVeGL3be9H9ngxeXf5I4HE7zFu253vedwb5VVB6U1lK5dDtr8yyyVSfQWHzAHrk6dowYGi9xO90Ks6CrU7QRd5eH8GyvEmF0giyn/UgnGDF6inWs8b2ajQZqBZw8oHdORTNJ50f6mapfqjDdoN+8PQekKzp8CMtsiyw1KMD4cg91J3UmBme/Nr5Fjq7t7nmeR2oZSVQeD6AQRWOCtOMtNsIbYm9uMmDIPDKTJzqsaGepfaTemcg8JQcI34/CJLY2q+Cn1RzyOlMVlXJBCQnH1VRNYrGgiVXb7w==;Kx9wa34kGuSd6mCpZpXrCg=="

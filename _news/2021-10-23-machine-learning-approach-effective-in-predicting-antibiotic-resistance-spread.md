@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1357
         isCached: true
+  - title: "Emerging Antibiotic Resistance Predicted With Machine Learning"
+    excerpt: "Many novel traits are shared through gene transfer, but scientists haven’t been able to determine why some bacteria engage in gene transfer while others do not."
+    publishedDateTime: 2021-10-24T16:50:00Z
+    webUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 39
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
+        width: 4500
+        height: 3000
+        isCached: true
 
 secured: "Y5JNCzmboagzjo3B60UVblj6eBmXigMIhz1OlJHAl4hffhYC9gNk4zYNJIGvu2EGp8YB7ngPf8E7A+MlMK17xjWVAbLXEWrkJ4vHmSaRrqkBGKmYoh64A1NS3OgSpMf4O6ioKxLiiCYG1IDm2hhr9axukfvTbfWgguNoKwtQKjHgitzmAutTfO6+tFL1YEdNl/EQZ6o/QDvDzuU4pJQ7w2IWv+1feWhyQ+A1gQc5gePkhFWtOr6A/8rl67D6AR+zpyo41K8CqCE7nXanO/qUnX7wd3CJYJeDJZLUkOhVAuzdzVna5LnbcXE4ZgReftw3WJK/VMs4aY1q9/i2RIcUlei//djzt8qlP9lSJ7FslrY=;umQ/zAnN2VgEAHbJxCTTOg=="
 ---

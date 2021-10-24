@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Machine learning predicts antibiotic resistance spread"
-excerpt: "Genes aren't only inherited through birth. Bacteria have the ability to pass genes to each other, or pick them up from their environment, through a process called horizonal gene transfer, which is a major culprit in the spread of antibiotic resistance."
-publishedDateTime: 2021-10-22T21:14:00Z
-originalUrl: "https://phys.org/news/2021-10-machine-antibiotic-resistance.html"
-webUrl: "https://phys.org/news/2021-10-machine-antibiotic-resistance.html"
+title: "Emerging Antibiotic Resistance Predicted With Machine Learning"
+excerpt: "Many novel traits are shared through gene transfer, but scientists haven’t been able to determine why some bacteria engage in gene transfer while others do not."
+publishedDateTime: 2021-10-24T16:50:00Z
+originalUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
+webUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: The American Journal of Managed Care
+  domain: ajmc.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-bacteria.jpg"
-    width: 1920
-    height: 1357
+  - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
+    width: 4500
+    height: 3000
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Emerging Antibiotic Resistance Predicted With Machine Learning"
-    excerpt: "Many novel traits are shared through gene transfer, but scientists haven’t been able to determine why some bacteria engage in gene transfer while others do not."
-    publishedDateTime: 2021-10-24T16:50:00Z
-    webUrl: "https://www.ajmc.com/view/emerging-antibiotic-resistance-predicted-with-machine-learning"
+  - title: "Machine learning predicts antibiotic resistance spread"
+    excerpt: "Genes aren't only inherited through birth. Bacteria have the ability to pass genes to each other, or pick them up from their environment, through a process called horizonal gene transfer, which is a major culprit in the spread of antibiotic resistance."
+    publishedDateTime: 2021-10-22T21:14:00Z
+    webUrl: "https://phys.org/news/2021-10-machine-antibiotic-resistance.html"
     type: article
     provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
+      name: Phys.org
+      domain: phys.org
     quality: 39
     images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/e1ec648dc06d633466058f03102964b60f8a93ef-4500x3000.jpg?fit=crop&auto=format"
-        width: 4500
-        height: 3000
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-bacteria.jpg"
+        width: 1920
+        height: 1357
         isCached: true
 
-secured: "cR6/+9cllYeJYLm7GsIaiEDHy5GLVt6LNNDRRJfdAoC6+dZKC9k7OYjovalWDJU8BRXIv9/OCLlmirM9Npfi1deaBa3H3KZFO8o9ypSJg1Q7WS+HrJ62Vux1pgf2FrPTa4569DU2KG/Nl2/MuJlyh7WC5a48fam6Jdf3+xwEm8iRG/iPuOnQELtofsT1Cwi4F+qiQ2pmoGohqNDOaZHenTQ9R83z/B1WVLD93EcwUdH3+rmESXz6Dhh66sAVSplTcgIeUBB8OBk3WBwk3M4E8SutrOTaoQ/ba+jbbSUdi3zE8d74LUUCUr+mqaPJTRMqKj0WllqDXNL3n32OVLi9LaYDGjQ9Pr8lQ/pTJd/r2ZCIcnBnaLTwDnK/3nJAdek5rMf89l8YwLTcMDfrLqtKTUL3ThAKP0kwUYbV1UAT2D4LWFbeTbuMcWNMU3aF5ozUvPwi2nAaMp0pZ/tFOr56uoj6emy7Qm8vlZBEFJPhcKDSwFjydjZRA/FrJevBuRDkevEkku3xF+IS+e3SmWGSkg==;AfE3PbhFkCSS6+lAvIRQGA=="
+secured: "bx0e2zxjhqwDVKf9e+6Wi6056a0d2D5Jh+1d5ykqZdmmgQe/yXnvp4mXYOlLej9wDY0mW2mJ83FuWzQXVrYtfw1ndiwVutPIXoD3l37C3Ke/TwrzqK0WzhF8xNFAMZcNrB/hzJJvf3rtDNPZNIoHEdYLoR1u9Ls5jZtF3cj/YDODIBUHTBJf0wRP7lybEzYo4fKGUIgjdD8qS/Ybr8gX/xNRP16j5vNti5xoqUxtA5kJUwBRE7Z7HosRAYt/1NBCXDJ5EvAIpX32/6yMtNtbMAiKuFImw1hKV+Vp/HcSw0R04o3z2AKDsZ97FwtUYeCeYuf/t4l2KIzKZPnnMCE7PNDrEh5lnwtMCLQny9bnrzQ=;7NjAInJ4syr6/xxS4Go25w=="
 ---
 
