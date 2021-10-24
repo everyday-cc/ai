@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103010778/Artificial-Intelligence-AI-in-Constr
 webUrl: "https://menafn.com/1103010778/Artificial-Intelligence-AI-in-Construction-Market-Next-Big-Thing-Major-Giants-IBM-Autodesk-SAP"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,17 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Construction Market May See a Big Move | Bentley Systems, Autodesk, Alice Technologies"
-    excerpt: "HTF Market Intelligence added research publication document on Artificial Intelligence in Construction Market breaking major business segments and highlighting wider level geographies to get deep dive analysis on market data The study is a perfect balance bridging both qualitative and"
-    publishedDateTime: 2021-10-19T17:02:00Z
-    webUrl: "https://www.openpr.com/news/2433671/artificial-intelligence-in-construction-market-may-see-a-big"
-    ampWebUrl: "https://www.openpr.com/amp/2433671/artificial-intelligence-in-construction-market-may-see-a-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2433671/artificial-intelligence-in-construction-market-may-see-a-big"
+  - title: "Artificial Intelligence (AI) in Marketing"
+    excerpt: "How is artificial intelligence (AI) being used by marketing pros to reach and connect with customers? See here:"
+    publishedDateTime: 2021-10-24T03:13:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
+      name: Datamation
+      domain: datamation.com
+    quality: 69
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Key Artificial Intelligence (AI) Trends 2021"
+    excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
+    publishedDateTime: 2021-10-21T01:49:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 38
+  - title: "Today’s Artificial Intelligence (AI) Job Market"
+    excerpt: "The artificial intelligence (AI) job market is growing quickly. Learn about how you can find and grow into a top AI career today."
+    publishedDateTime: 2021-10-20T19:26:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-job-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 32
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market is expected to show impressive growth rate | CAGR 17.90%"
+    excerpt: "The latest report by Report Ocean discusses the various factors of the global Artificial Intelligence (AI) in the Freig"
+    publishedDateTime: 2021-10-21T08:57:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-the-freight-transportation-market-is-expected-to-show-impressive-growth-rate-cagr-17-90/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 8
 
 secured: "t+Vu1VbVZg9wXzioip6ycgtiejtQKQIj9NO/Wfxk0O98QRYjfd4oNB7GGHqlh6qzA19uSDG2Y30YrQz6M3Erk7n+btuV8musjuYKrI4vCBNUDQkLKEXbXYn/ItLgaJauoF9lgw+JTvhkjW3lPyBEQLYz3RlVYF4Pm64uHh1leXsOTchDMp/hLv6C6L7EnEkfAVPTx15eWKnS9xhABKYtrjvoJlXFI2tSBAtOj0Yd8WTJjN9alFzTN1BIUJqv3Je7o+9ZcL3Wfb2kODJ1c1eSEj5G9SA609veWyft0xF/cHOqLRQTPjX2SUXU25eD2pfXLDEDoQalch6ay9+RnivmH1COpczdknC2FhZaQV35P1k=;oBJnQzZBGAif2VCCeBdqFQ=="
 ---

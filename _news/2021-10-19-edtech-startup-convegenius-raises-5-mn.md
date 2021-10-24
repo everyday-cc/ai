@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/391976"
 webUrl: "https://www.entrepreneur.com/article/391976"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Entrepreneur
@@ -26,24 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Edutainment Startup ConveGenius Raises $5 Mn, Plans To Expand Its Conversational AI Platform"
-    excerpt: "Founded in 2013, the startup plans to scale its vision beyond education to all knowledge services and expand globally, with ConveGeniusAI platform"
-    publishedDateTime: 2021-10-19T10:14:00Z
-    webUrl: "https://inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/"
-    ampWebUrl: "https://inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/convegenius-raises-5-mn-plans-to-expand-conversational-ai-platform/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 46
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2021/10/Funding-Pazcare-Social-2.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "wJxYJHE2cgK21XSSddufyVUHWDQjjycSep75Oj6W3aneN8HBz/fmNvoGeNfsIl7TmP6T+q2dmq8sVzOTf6ktGPsDYGLEF9hGCrfg8p8S2aD8yUVvCH71Oy27Xtgwwwk1ULydMxq6SJ/iSiIMcq8utTVlKXP1FYfkImqtihUmieHArpJ8YzywV+A4UkTCeov1iamEFtO0GEBnNzWecxnQJRR6d68LZjtWAZr3uv6hdPZxMTWU/5huCbyx/z+w47mR2UIbynoyQwvuXJpmx9WZYpMl9mDesi6kvJQ2HEYjZn9uQBydzhXuekXrOCU7b/ge70qHAoqrLYWVEUrdRXzEW69vECw54fe1mISU+7gxWhA=;pM/k+nTE8saIw2Qc6wtxhg=="
 ---

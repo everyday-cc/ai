@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "New deep learning algorithm can pick up genetic mutations and DNA mismatch repair deficiency in colorectal cancers more efficiently"
+    excerpt: "A new deep learning algorithm can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods, meaning patients could benefit from targeted therapies with quicker turnaround times and at a lower cost."
+    publishedDateTime: 2021-10-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/10/211020083946.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Deep learning algorithm can accurately detect molecular pathways, key mutations in colorectal cancer"
     excerpt: "A new deep learning algorithm created by researchers from the University of Warwick can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods,"
     publishedDateTime: 2021-10-20T04:43:00Z

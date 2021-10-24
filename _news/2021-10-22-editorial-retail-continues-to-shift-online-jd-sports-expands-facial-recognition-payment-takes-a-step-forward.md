@@ -7,7 +7,7 @@ originalUrl: "https://internetretailing.net/views/editorial-retail-continues-to-
 webUrl: "https://internetretailing.net/views/editorial-retail-continues-to-shift-online-jd-sports-expands-facial-recognition-payment-takes-a-step-forward"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "VisionLabs unveils facial recognition payment terminal"
-    excerpt: "Facial recognition company VisionLabs has unveiled a payments terminal that lets shoppers make payments with a look."
-    publishedDateTime: 2021-10-21T04:59:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39056/visionlabs-unveils-facial-recognition-payment-terminal"
+  - title: "New funding for one facial recognition firm, features for another"
+    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
+    publishedDateTime: 2021-10-22T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
+    excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
+    publishedDateTime: 2021-10-20T15:39:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/u-s-postal-office-calls-for-facial-recognition-suit-dismissal"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
     quality: 19
 
 secured: "qorsLWq5dUAPXD9RrNOI1zmWVDeBTTVRwtdnizUI4S3oihWqojJmjszHrol2MshrQGiH4pS86fvbxAYXslFgK8Pt74iCY2yJkvT3cZXBST0q0HVQHlptMFzCqiZnSU3sZ47wbiVuCchWvmjwxqOHfkEjF9SGQp0wkiDyAN6LJ+dtQ29hkqFHuvVm0AgEp4w7uygGe03dyv4r2aw9sBVNECb/pL0Xd6s237neglgRoux0BM1DRzTwrcE4q4A6rSFAfd+58S6MKXEJYapd6jf0jzWN81H7ede3CZsh6Y712F4iulSHLVAPfUC4xQNfV9Ier/JcatOMEZDE0YChOCOUqAEdKcd85wt6gXE0sn9zTHI=;L2O/xbNFSseA2Rk2zQD+XA=="

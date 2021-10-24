@@ -75,20 +75,6 @@ related:
         width: 425
         height: 318
         isCached: true
-  - title: "The characteristics of the new AI model of Facebook"
-    excerpt: "Facebook has recently come up with a new model of Facebook AI and here are the few things you need to know about it in 2021. We will also discuss the problems that are connected with the new AI models and how the business will be affected."
-    publishedDateTime: 2021-10-19T10:57:00Z
-    webUrl: "https://www.analyticsinsight.net/the-new-ai-model-of-facebook-few-things-you-must-know-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/The-New-Model-of-Facebook-Few-Things-You-Must-Know-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Facebook wants AI to find your keys and understand your conversations"
     excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
     publishedDateTime: 2021-10-20T23:08:00Z

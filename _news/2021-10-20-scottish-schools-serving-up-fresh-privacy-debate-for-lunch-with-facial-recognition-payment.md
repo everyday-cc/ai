@@ -89,20 +89,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Facial recognition technology to be implemented in UK schools"
-    excerpt: "UK schools so that children can pay for their meals. Indeed, the North Ayrshire Council in Scotland will be implementing this technology in nine schools. It would mean setting up a processing meal payments for school lunches with facial scanning technology."
-    publishedDateTime: 2021-10-19T10:05:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/facial-recognition-technology-to-be-implemented-in-uk-schools/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 39
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/Website-6-1024x585.jpg"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "27 schools in England using facial recognition to take lunch payments"
     excerpt: "More than 60 schools set to deploy the no-contact payments system as a result of the COVID-19 pandemic, but campaigners warn that it could be undermining children's privacy rights."
     publishedDateTime: 2021-10-20T15:44:00Z

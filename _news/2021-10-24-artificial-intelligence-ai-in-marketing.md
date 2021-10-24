@@ -1,40 +1,39 @@
 ---
 category: news
-title: "Key Artificial Intelligence (AI) Trends 2021"
-excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
-publishedDateTime: 2021-10-21T01:49:00Z
-originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
-webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
+title: "Artificial Intelligence (AI) in Marketing"
+excerpt: "How is artificial intelligence (AI) being used by marketing pros to reach and connect with customers? See here:"
+publishedDateTime: 2021-10-24T03:13:00Z
+originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
+webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
   name: Datamation
   domain: datamation.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI Ethics
-  - AI in Healthcare
+  - AI in Marketing
+
+images:
+  - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Marketing"
-    excerpt: "How is artificial intelligence (AI) being used by marketing pros to reach and connect with customers? See here:"
-    publishedDateTime: 2021-10-24T03:13:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
+  - title: "Key Artificial Intelligence (AI) Trends 2021"
+    excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
+    publishedDateTime: 2021-10-21T01:49:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
     type: article
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 69
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/data-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
+    quality: 38
   - title: "Today’s Artificial Intelligence (AI) Job Market"
     excerpt: "The artificial intelligence (AI) job market is growing quickly. Learn about how you can find and grow into a top AI career today."
     publishedDateTime: 2021-10-20T19:26:00Z
@@ -63,6 +62,6 @@ related:
       domain: manometcurrent.com
     quality: 8
 
-secured: "oWUoUhVenkwqdlhDoLAfKQDkYpDCrZOSGkSCV6bg98AeZF4sindq1S33shiNsFXrQtSETm2VUwmKE47nC0jgiJWmq0Xe81u7OR0Why/NLWIT3xrOQYwB+PvMk1Wz2Dm8dq3SSiBkt6r0QRFSnWM9FTx5K+4BZyo5rfiu1nHgaFRx1GUQeFhAEBAWO8SknXxYtRRHdMubXmkwTJEnmNHV1pqtZlJ7QW7weNKDQlHIJoqhjit5D7gLaa8E5DD/YWoALfcHBI3ZCRI6MaPTvImpDC24hBcbNJXMnuOApLCbf8XmAyjU2Ld4+FfKSIkaJktCHSwFA7gjwl5cTBIesxLVGAgSZvWOb43GCLObSu/WykRbqFA8FvEnT6Jf/cQh/HgsxxB3KK0zIkoU16Q8yZY2aUF3UDUrv8zeh4TkunanSxm1A+9iR4MKrnnq5Z/COn0/KwAqv6v1pY7+4jQuERubSEuf3imzB22vvaoC1IuIgCifiIY7X2y4FTKjIOMX4vXKtX3aQ9I4Sllus1aYfDsZCQ==;D+osqR9rURTp5LR3uZKN6A=="
+secured: "XIns1BCZ8FHhp32q2bvYyPVlSs1ZzkdkbKmvDoM4fxchOtkwM/uFG1QLr8U5E4PGVePt4wtvUc0di2IxQh/Zq56p7Hs4xZJdvG8phEOFRpYcl/d6GJqyRVGyUTIQYbiLDcZbd+z8ujeeyqWfI5a/lXfH4A/A+bHHt7zr0kfIKrN+Vf43p8nMZd4+xliB/5xKzL0t5VzmFm4DDB0A0/McoXWwlkAMgPUYqRCJitJ5B6VZ7mFOAd4Yh/iauGerYdAGFrIrqtoD2zmn9FWvT9EauN7e+CZnvfJEj36vhdgRq+TYhmxN1iapTnEhPVGgF5eZ2J8QcGUvKjaIPVJalxyCzOSqVp6MqvMopDmGT4GiXm4=;UADBPyyV2SoqAZ+gGa1ZPg=="
 ---
 

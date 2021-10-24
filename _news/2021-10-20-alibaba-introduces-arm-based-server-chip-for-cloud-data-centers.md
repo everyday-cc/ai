@@ -41,20 +41,6 @@ related:
         width: 1094
         height: 730
         isCached: true
-  - title: "Alibaba unveils custom Arm-based server chip"
-    excerpt: "Alibaba has unveiled a new in-house processor that will be used to power servers in its data centres, as China aims to increase its domestic chip production in the face of a globa"
-    publishedDateTime: 2021-10-19T09:57:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/9283/alibaba-unveils-custom-arm-based-server-chip"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/alibaba_shutterstock.jpg"
-        width: 1000
-        height: 681
-        isCached: true
   - title: "Alibaba Puts Heat On AWS, Huawei With New Chips, Servers, Data Centers"
     excerpt: "Alibaba is stepping up its game against cloud competitors including Amazon Web Services and Huawei by developing new in-house processors and a line of servers to boost its cloud computing data centers,"
     publishedDateTime: 2021-10-22T16:49:00Z

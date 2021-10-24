@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-char
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Medtronic announces first-of-its-kind Regional Open Innovation Platform in APAC to advance the future of healthcare technologies"
-    excerpt: "Focusing on the unique healthcare needs of the APAC ... advance partnership opportunities that can help it leverage artificial intelligence (AI) and automation to address patient needs."
-    publishedDateTime: 2021-10-19T09:55:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20211019/3840087.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "HsxJUmMKo1iBg8Zatu+vDXZ3DKLH7gvkZ6H1o3NQJUwzqVLUUGF8cYCN1RuOeLNSDmixD93JHTay5AI4y86XH5S60sq63C1/N9V62zm6DbS4caveppaNj9nFYBpuP/xvHQfaJp7FMwPh0OJokpBuy/KagFg8vJANJYyOpRoj2WYfxUfmYgVSXN0/ZUZHlBNkEPzm7Ov9ywRycp0iJtmAnqTwlkYwqSTCL1A3TqQntppswPJcKSy9A0D7AoWGKSFJw/P4OYVhyLp1wl1z3Wt8aYY/520G0zZCoc3iO9M7osSEnbEydcsWDWKSrZOrl8OSQWvqXMobw5jWT8/kIgOb8T+F47DRpSCuDQNjxWG1q1F7EWSe5XmYpNf3sBxFm2ew4EAb1h4gwNMZef8n9eiifsFBwS23Ldqjo5Pjm4XY9jJzKGjzEULl+BwozFmzgT7xPbHMecKeugkDJjGhfp4n3NgUHXUSEhBjM6fK+cBYNAmqaTH9GbM6fs0Ju5e2/zCMhl9I9ilR5pm67r1XJ7C0LA==;6bFg9TzPhdOHp5pZTjH0SA=="
 ---

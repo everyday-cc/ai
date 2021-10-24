@@ -9,7 +9,7 @@ ampWebUrl: "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-w
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba unveils custom Arm-based server chip"
-    excerpt: "Alibaba has unveiled a new in-house processor that will be used to power servers in its data centres, as China aims to increase its domestic chip production in the face of a globa"
-    publishedDateTime: 2021-10-19T09:57:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/9283/alibaba-unveils-custom-arm-based-server-chip"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/alibaba_shutterstock.jpg"
-        width: 1000
-        height: 681
-        isCached: true
   - title: "Alibaba Introduces Arm-Based Server Chip for Cloud Data Centers"
     excerpt: "In a big win for Arm, Alibaba is the latest cloud giant to design its own chips, following Facebook, Amazon and Google."
     publishedDateTime: 2021-10-19T22:35:00Z
