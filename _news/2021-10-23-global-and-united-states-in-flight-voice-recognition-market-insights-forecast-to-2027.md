@@ -35,20 +35,6 @@ related:
         width: 482
         height: 350
         isCached: true
-  - title: "Global Edge AI Chips Market 2021 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2027"
-    excerpt: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 found on the online repository of MarketsandResearch.biz provides a fundamental overview of the industry including definitions,"
-    publishedDateTime: 2021-10-19T20:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2021-key-players-comprehensive-research-swot-analysis-and-forecast-by-2027-2021-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
     excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
     publishedDateTime: 2021-10-22T06:39:00Z
