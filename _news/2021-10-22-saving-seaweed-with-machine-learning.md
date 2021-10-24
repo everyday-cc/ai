@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 webUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

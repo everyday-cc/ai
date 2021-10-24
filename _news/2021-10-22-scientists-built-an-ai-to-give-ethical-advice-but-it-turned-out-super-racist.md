@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/delphi-ai-ethics-racist/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/delphi-ai-ethics-racist/amp"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:

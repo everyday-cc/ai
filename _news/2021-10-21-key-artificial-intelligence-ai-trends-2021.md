@@ -49,6 +49,20 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "Artificial Intelligence (AI) in Banking"
+    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,"
+    publishedDateTime: 2021-10-24T21:54:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1853
+        isCached: true
   - title: "Today’s Artificial Intelligence (AI) Job Market"
     excerpt: "The artificial intelligence (AI) job market is growing quickly. Learn about how you can find and grow into a top AI career today."
     publishedDateTime: 2021-10-20T19:26:00Z

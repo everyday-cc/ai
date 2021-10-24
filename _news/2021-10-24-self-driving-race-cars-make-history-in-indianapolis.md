@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/self-driving-race-cars-make-history-indian
 webUrl: "https://www.ibtimes.com/self-driving-race-cars-make-history-indianapolis-3323177"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "University of Waterloo students race self-driving car at Indianapolis Motor Speedway"
+    excerpt: "Brian Mao and Ben Zhang’s fully autonomous race car may not have crossed the finish line at Indianapolis Motor Speedway, but the two students from the University of Waterloo called Saturday’s race at the Indy Autonomous Challenge an unforgettable experience."
+    publishedDateTime: 2021-10-24T20:12:00Z
+    webUrl: "https://kitchener.ctvnews.ca/university-of-waterloo-students-race-self-driving-car-at-indianapolis-motor-speedway-1.5636324"
+    ampWebUrl: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 37
+    images:
+      - url: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Self-driving race cars make history in Indianapolis"
     excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135"
     publishedDateTime: 2021-10-24T18:54:00Z

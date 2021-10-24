@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "University of Waterloo students race self-driving car at Indianapolis Motor Speedway"
+    excerpt: "Brian Mao and Ben Zhang’s fully autonomous race car may not have crossed the finish line at Indianapolis Motor Speedway, but the two students from the University of Waterloo called Saturday’s race at the Indy Autonomous Challenge an unforgettable experience."
+    publishedDateTime: 2021-10-24T20:12:00Z
+    webUrl: "https://kitchener.ctvnews.ca/university-of-waterloo-students-race-self-driving-car-at-indianapolis-motor-speedway-1.5636324"
+    ampWebUrl: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 37
+    images:
+      - url: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Self-driving Race Cars Make History In Indianapolis"
     excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135 mph), ushering autonomous vehicles into a new era."
     publishedDateTime: 2021-10-24T09:33:00Z
@@ -60,6 +76,6 @@ related:
       domain: nzcity.co.nz
     quality: 4
 
-secured: "wesITPmUFMpSGj04aZW7otmJb96rBSk0htVP7K8iBhEJpkvwLVbsfmkaD5ithwNqwZUJKG77ZUcSEIjiiDWgj3GGQX0EfMsxA6Wvb7NaX9sDWjJB9oI8ye5EifwqCL0MoDIB/TD64J7NJT8U1AdFX29IXDnNa4avy0ZGZ5Ch+3rXoeABEJzCPAv9m2ByUav24qV62lA4mdOoDC9kMv304Hn5s1U07aWXw64v/Ng1haEcYO3V960wMRtmHUQhrlyuilG6XZtBhjOZCAycwhlmILUFt7q9vu7CCF6T0nX714nNgWcFMYo1QwvXSw8TtthR7AbXvK2ihNqf7XRHagv0bx7oe+j2bAk5ktw0uT5Pv8M=;/E4xza0UjVNW6vt4aoRmNw=="
+secured: "U82em3c5nOZUl+0urOhv0KaqWPNtGoW/1j8aG7MVme7r2wzQRaZFhst10nVBRY0tC7eg6OUmHOdWOn8XmRLIgMrEy8N7ZbJz4m6a2gFG93cxdBpiCISCNWl0/GuxHYZSCZEfbFN0nToHx3tDzqoTPDJM8LER838WOx0K6RQkbMwpRwysSra8cEWzWs+C6VHTU0ZU9PIM8uujgPfYSDzbz+uTbQzqJcNaOxiRVpMUR6Fp+R05tTZHU0ilgiLf69+cJwXnz+Zy38SyJnA2E2a+S8eug6XgVtS4wMiXZ0OjRELmk8nmVYlDplU0MbmUZJ2ixqVD9bDZqPnHAd7H5F9haskm4EMTsyDeLDQlKGCb/S36L2dWUmOXHOv6/1+TwTeLB4MFk4as5Jab+RYlbAtZkCE4iKAsbgWu8I5X9nJUq29WTxj1b11ucn36SlTMspdhegUsNRCsGdgNTm8xgHfO72V4MQeZdfyMkSXVufePbhb7mzPVqzEdYZAMFH+jj1xdPjMyO5f6vPlLoIVcKnx55A==;Jvir9zlsWxng3DXr1bV9WA=="
 ---
 

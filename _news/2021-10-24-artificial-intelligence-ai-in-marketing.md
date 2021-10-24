@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/06/irwan-iwe-rbDE93-0hHs-unsplash-scaled.jpg"
         width: 2560
         height: 1920
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Banking"
+    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,"
+    publishedDateTime: 2021-10-24T21:54:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg"
+        width: 2560
+        height: 1853
         isCached: true
   - title: "Key Artificial Intelligence (AI) Trends 2021"
     excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."

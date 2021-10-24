@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Hits Speed Bump With Self-Driving Software"
+    excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."
+    publishedDateTime: 2021-10-24T21:20:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-hits-speed-bump-with-self-driving-software-51635110398"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-390980/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla's self-driving cars a step toward a future without auto insurance"
     excerpt: "The phrase “asleep at the wheel” could soon lose all meaning as Tesla and other automakers push self-driving cars closer to reality. CEO Elon Musk has said select Tesla drivers could get their hands on “full self-driving” software as early as October of this year."
     publishedDateTime: 2021-10-22T13:06:00Z
