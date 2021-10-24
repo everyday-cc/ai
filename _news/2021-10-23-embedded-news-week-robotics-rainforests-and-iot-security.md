@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/embedded-news-week-robotics-rainforests-a
 webUrl: "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

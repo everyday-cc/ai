@@ -20,6 +20,22 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "US Intel Warns China Could Dominate AI, Gain Military Edge"
+    excerpt: "Washington-  United States officials issued new warnings Friday about China's ambitions in artificial intelligence and a ra"
+    publishedDateTime: 2021-10-24T05:45:00Z
+    webUrl: "https://menafn.com/1103028617/US-Intel-Warns-China-Could-Dominate-AI-Gain-Military-Edge"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-10/24/KO_ed3b5image_story.jpg"
+        width: 770
+        height: 513
+        isCached: true
+
 secured: "ImT9sZmhcFcS9HCLDwyoq/HldeR/tC/EA5J+170fGdA+QSz/jTDkF2QZSz7tyG83fcRsn3kbGskh8H1bRh9deA6M434tAoj/leK7NUW8FrHK9v7ga0BWI/HHCcA9wYSoLvoxd3RW5d4HU142h2Hv+rh0kI0isFG9st5ZLHMYP6UDQq+lxkH+g0r2iXOODrOTlzmlWkem6EIHZ71GSLMucRN0NNFaqShLmHo5Qlk0HezybXBPAQIlQlBbFdEfRnI6bAU6NrW02dvMqHKP8tWL4nZW6i4327CuP5lW2hzz3j3Uwa6dThzdB4GTUL/ZUKsX6nC/r8Wy6ZQYbwc+BU8KbRIXAYyFuYBzvaHNiGoyQ2jKCfOtFSVHcLIZGYDgj+BdBtJLJH2wBfExgQ/myZAl3CiiASf1AeeP2yZ2LbP6x7dCYjgkzcV6TYA9/LQKBvl0Z0W1z8ICQ6s4Tv86+v/o3/10q4YYWJuj32fGamHc8UbavOoOd3pioaua+17cVtm43qZbjsmMVCnj+arDpoUh2w==;JHUlardHOX/FRxv+YtVklg=="
 ---
 

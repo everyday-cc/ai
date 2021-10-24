@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Zoox to test self-driving cars in rainy Seattle"
-    excerpt: "Zoox, the self-driving car startup backed by Amazon Inc., will begin testing its autonomous vehicles in Seattle to see how the cars hold up to rainy weather, narrow tunnels and one-way streets. Zoox has already been testing its vehicles in San Francisco and Foster City,"
-    publishedDateTime: 2021-10-19T12:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17320/zoox-to-test-self-driving-cars-in-rainy-seattle"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/320/17320/seattle-cover-image.jpg"
-        width: 752
-        height: 451
-        isCached: true
   - title: "Self driving race car"
     excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
     publishedDateTime: 2021-10-20T17:31:00Z

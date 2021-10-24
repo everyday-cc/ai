@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-07-european-parliament-opposes-mass-surveillance-calls-for-a-ban-on-facial-recognition-tech-in-public.md",
+      "title": "European Parliament opposes 'mass surveillance,' calls for a ban on facial recognition tech in public",
+      "excerpt": "MEPs have officially called for a \"permanent ban\" on the use of automated facial recognition technologies in \"public spaces.\" European citizens, they say,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
+      "originalUrl": "https://www.techspot.com/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-06-image-63.jpg",
+          "width": 2896,
+          "height": 1947,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91618-european-parliament-opposes-mass-surveillance-calls-ban-facial.html",
+      "publishedDateTime": "2021-10-07T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world.md",
+      "title": "The Data and AI landscape 2021: It a MAD, MAD, MAD world",
+      "excerpt": "Data and AI companies used to be considered tech companies. But the wave of IPOs and proliferation of unicorns is turning this market into its own sector. Our question is how sustainable is this MAD new world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "originalUrl": "https://www.zdnet.com/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/890f80640dd7706a6c82494d036edfe6dca1eeca/2021/10/07/2e0da503-fa3f-4701-8c59-09547ebc7693/data-and-ai-landscape-2021-small-1024x522.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-and-ai-landscape-2021-it-a-mad-mad-mad-world/",
+      "publishedDateTime": "2021-10-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-google-nest-cam-indoor-wired-review-the-best-nest-yet.md",
       "title": "Google Nest Cam (Indoor, Wired) review: The best Nest yet",
       "excerpt": "It's also the smartest. With on-device machine learning for specific object recognition, sound recognition and some free video history, there's a lot to like. The price is high and other ...",
@@ -881,41 +985,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-curtiss-wright-debuts-its-highest-performance-gpu-module-for-graphics-video-processing-and-aiml-at-the-tactical-edge.md",
-      "title": "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge",
-      "excerpt": "The new PacStar 454 NVIDIA GPU Enhanced Server Module is designed for demanding graphics, video and artificial intelligence (AI) and machine learning (ML) applications at the edge of the tactical battlefield. Measuring only 5.3” x 7.1” x 5.5” and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
-      "originalUrl": "https://www.newswiretoday.com/news/176367/Curtiss-Wright-Debuts-its-Highest-Performance-GPU-Module-for-Graphics-Video-Processing-and-AI-and-ML-at-the-Tactical-Edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-the-ml-glossary-five-years-of-new-language.md",
       "title": "The ML Glossary: Five years of new language",
       "excerpt": "Over guacamole and corn chips at a party, a friend mentions that her favorite phone game uses augmented reality. Another friend points her phone at the host and shouts, \"Watch out—a t-rex is sneaking up behind you.\" Eager to join the conversation, you blurt, \"My blender has an augmented reality setting.\"If",
@@ -1056,47 +1125,12 @@
       ]
     },
     {
-      "path": "_news/2021-10-07-artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-484-during-2021-2027top-key-players-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market : Global Market to Grow at a CAGR of 48.4% During 2021-2027|Top key players: Microsoft, AWS, Xero",
-      "excerpt": "Different market tables and figures, pie charts, graphs split over easy-to-understand pages, and extensive analysis are included in this report on the Artificial Intelligence for Accounting Market. The global research report includes a strategic analysis,",
+      "path": "_news/2021-10-07-curtiss-wright-debuts-its-highest-performance-gpu-module-for-graphics-video-processing-and-aiml-at-the-tactical-edge.md",
+      "title": "Curtiss-Wright Debuts its Highest Performance GPU Module for Graphics, Video Processing, and AI/ML at the Tactical Edge",
+      "excerpt": "The new PacStar 454 NVIDIA GPU Enhanced Server Module is designed for demanding graphics, video and artificial intelligence (AI) and machine learning (ML) applications at the edge of the tactical battlefield. Measuring only 5.3” x 7.1” x 5.5” and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-for-accounting-market-global-market-to-grow-at-a-cagr-of-48-4-during-2021-2027top-key-players-microsoft-aws-xero/",
-      "publishedDateTime": "2021-10-06T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
-      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
-      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "webUrl": "https://www.newswiretoday.com/news/176367/",
+      "originalUrl": "https://www.newswiretoday.com/news/176367/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1106,21 +1140,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T11:10:00-07:00",
+      "publishedDateTime": "2021-10-06T11:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1130,7 +1155,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

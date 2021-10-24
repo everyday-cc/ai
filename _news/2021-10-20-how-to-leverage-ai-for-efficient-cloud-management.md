@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/how-to-leverage-ai-for-efficient-cloud-mana
 webUrl: "https://thenewstack.io/how-to-leverage-ai-for-efficient-cloud-management/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How to use AI to manage inventory in a time of stock shortages"
-    excerpt: "The festive season won’t be very cheerful for retailers if their supply problems persist, but warehouse AI will give them a better chance of keeping their customers happy"
-    publishedDateTime: 2021-10-19T12:05:00Z
-    webUrl: "https://www.raconteur.net/supply-chain/ai-manage-inventory-in-a-time-of-stock-shortages/"
+  - title: "Alarm.com Leverages Artificial Intelligence For Growth"
+    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
+    publishedDateTime: 2021-10-22T15:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/alarmcom-leverages-artificial-intelligence-growth-sramana-mitra"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/10/AI-Warehouse.jpg"
-        width: 1199
-        height: 675
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF7zpRtJJtWHg/article-cover_image-shrink_600_2000/0/1634917717157?e=1640217600&v=beta&t=kyGpvDdt7uaIvmh6pjTb1zwG3L0v2Nfw-jWR0e2OIxo"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Mage Reveals $6.3 Million Seed Led by Gradient Ventures, Google's AI-fund, to Become the Stripe for AI"
+    excerpt: "Mage, a collaborative AI tool for product developers, announces today that it has raised a $6.3 million seed round led by Gradient Ventures, Google's AI-focused venture fund, with additional participation from firms such as Neo and Designer Fund and angel investors like Unity CEO John Riccitiello,"
+    publishedDateTime: 2021-10-19T13:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mage-reveals-63-million-seed-led-gradient-ventures-/2021/10/19/9472463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1663534/Mage_team_photo.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "XjAqxqC+w0W7bhuxC9bplc+EjzYiBn/z9+4PEzFqq4CHTRz9IstQp4tmt4n4JU7bJykIsrJhe3wjmfjRzpllmKt+ild7+Q5Hxxi4TE4lLjEeNNFsPuTTHhNIRQJP8GOTvOTdlpqwYNoISxf6Cxi5MDZDxM2zDiuVnrJ3HYaEM/+knW2kYaJknPRYeaiHhGll7uZuUybW1NY25ez7x2Ss9FtNJq0QVA/8v0qfwPv4ebEfP736sb0GPowxakAWtQuUyOJN6cKUYSaAtslQUx76UAyhmqWI8x7XS6jafHsLZIJ4B1hpv41D/lUrWCCkur1T2QKOIfBpRcbrDdRJgWym4bz7qIEdpYHO2avYOBcZdmOvMVq2S5/4LfhWbNatVanK0I7x/yXtPKSrG9Lk3YvtCgdQ89wdUinmIaGrDdzdC4sBPJVm52sLBMYGDisdfrk8Rt/SkAFMvQvDCgMDvQnvKyRkayrk0w/7YIiU3KkGD99FPdErmZPgzqfy1g/PZw3ME6Bml9WGomN5+zyxpxHVnw==;C2nnEHqSerfxuIvC3XsGDA=="

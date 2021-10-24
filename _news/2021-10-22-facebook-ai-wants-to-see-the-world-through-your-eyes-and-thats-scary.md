@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-t
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
 type: article
 quality: 59
-heat: 109
+heat: 110
 published: true
 
 provider:

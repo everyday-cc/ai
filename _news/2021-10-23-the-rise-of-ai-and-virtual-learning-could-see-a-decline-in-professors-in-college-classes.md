@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-virtual-learning-college-profes
 webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
 type: article
 quality: 60
-heat: 90
+heat: 91
 published: true
 
 provider:

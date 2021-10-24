@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-r
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Ai-Da, World’s First Ultra-Realistic Robot Artist, Detained on Her Way to Exhibit"
+    excerpt: "It’s been 10 very stressful days for Oxford art dealer and entrepreneur Aidan Meller, who is also the representative and creator of the world’s first ultra-realistic robot artist Ai-Da. Ai-Da was detained on her way to Egypt,"
+    publishedDateTime: 2021-10-24T04:07:00Z
+    webUrl: "https://www.autoevolution.com/news/ai-da-worlds-first-ultra-realistic-robot-artist-detained-on-her-way-to-exhibit-172460.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 49
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/ai-da-worlds-first-ultra-realistic-robot-artist-detained-on-her-way-to-exhibit-172460-7.jpg"
+        width: 728
+        height: 300
         isCached: true
   - title: "Egypt holds robot artist Ai-Da before exhibition"
     excerpt: "She has been described as “a vision of the future” who is every bit as good as other abstract artists today, but Ai-Da — the world’s first ultra-realistic robot artist — hit a temporary snag before her latest exhibition when Egyptian security forces detained her at customs."

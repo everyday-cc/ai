@@ -9,7 +9,7 @@ ampWebUrl: "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-w
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.crn.com/resources/026e-138a637c51a8-fbc2a273a3fa-1000/alibaba-cloud.jpg"
         width: 610
         height: 458
-        isCached: true
-  - title: "Alibaba Cloud Unveils New Server Chips to Optimize Cloud Computing Services"
-    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group's chip development business,"
-    publishedDateTime: 2021-10-19T12:48:00Z
-    webUrl: "https://www.design-reuse.com/news/50786/alibaba-cloud-server-chips-risc-v-risc-v.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 37
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage50786/alibaba.jpg"
-        width: 559
-        height: 396
         isCached: true
 
 secured: "E9RMYfXa4YUWbYCWCm3m5NfJnScWHsm2Bm0F49nNVIK70WT6U/QSiyzrUUcHxxUdKFQzkPNNdaHdV3D1iJlZFgCcWvp9NE5FXKGNSZtrrwfGLELveGUSoSp7oQageL1iCtC7yBOhVpqAZE/VNxByHNdQe5F2gqpUW/Vgd1BzYCSL63jB3NIEZnkC3/VP86pX80RZT4COrVuPHmT9tUPYQjGgLj1fJ42xyQ705iEQGqV9lGkU9Oy7W49cI+KjGg5WT2SN0McjfPqNtFC+YYViOzlOWluogZrbMBPKdvTuB51sI4E2AlxT0CvSNcnKK/Kv25YqDmrV6S3OZOx872BvRQG0p9UHHAWJLJzkbwrzDNo=;Oi8M815yhDTDlIatsJ7xDA=="

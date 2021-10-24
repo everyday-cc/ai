@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Navina Raises $15M for AI-Powered Primary Care Platform"
+    excerpt: "Navina, a Tel Aviv-based developer of AI-powered clinical platform for primary care raises $15M in Series A funding led by Vertex Ventures Israel"
+    publishedDateTime: 2021-10-22T20:50:00Z
+    webUrl: "https://hitconsultant.net/2021/10/22/navina-ai-powered-primary-care-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 37
+    images:
+      - url: "https://hitconsultant.net/wp-content/uploads/2021/10/Navina-Secures-15-Million-in-Series-A-Funding-to-Continue-its-Revolution-of-US-Primary-Care-Using-Artificial-Intelligence.png"
+        width: 1502
+        height: 1078
+        isCached: true
   - title: "Artificial Intelligence Supremacy to Give China Decisive Military Edge over US: Officials"
     excerpt: "US officials warn that China’s rapid advances in artificial intelligence could eventually give Beijing a decisive edge in military and dominance in other key sectors, as the world’s two largest economies compete for technological supremacy."
     publishedDateTime: 2021-10-23T07:56:00Z

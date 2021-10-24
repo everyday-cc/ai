@@ -33,6 +33,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 47
+  - title: "Navina Raises $15M for AI-Powered Primary Care Platform"
+    excerpt: "Navina, a Tel Aviv-based developer of AI-powered clinical platform for primary care raises $15M in Series A funding led by Vertex Ventures Israel"
+    publishedDateTime: 2021-10-22T20:50:00Z
+    webUrl: "https://hitconsultant.net/2021/10/22/navina-ai-powered-primary-care-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 37
+    images:
+      - url: "https://hitconsultant.net/wp-content/uploads/2021/10/Navina-Secures-15-Million-in-Series-A-Funding-to-Continue-its-Revolution-of-US-Primary-Care-Using-Artificial-Intelligence.png"
+        width: 1502
+        height: 1078
+        isCached: true
 
 secured: "sWr/BXlhEeKZTCWHj+aIqCImd3ZeuXlp7APaFTjm30fBs8bb7dpxF/u0nYTeccTopHJUDR7zyGTX6IaWekpH33/JTBnqMZs6lezbOqrY4zdYNizEqEEyKZ0pbk4tMEeFx3IZ0caLg8NTa/wtXhlu+89xpW2prRwI/rVRAHffeK9+bDThzMqAK+mkfNHhpvBUD/VF2jvEZNA+vT5AAamE6eBTtmmXwHQy6T6cWEPXAR4kI5c2l00JMFogkysd34SEI73BfyjXOzuGJaErt0A2wcyBWg8S06vRWQuKiKVqg/OALctfQy+PiEJxIddOapL3dcJN57nn9pRGo418GX9KP8L5Htnu5thvRW0jHZUkgC4=;cCk6rD5onMmaa5MgjJZDCQ=="
 ---

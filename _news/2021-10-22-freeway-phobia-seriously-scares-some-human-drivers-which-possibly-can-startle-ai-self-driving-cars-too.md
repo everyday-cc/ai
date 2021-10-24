@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b7f72bb3660c594a3384d3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1468%26cropY1%3D85%26cropY2%3D910"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Zoox to test self-driving cars in rainy Seattle"
-    excerpt: "Zoox, the self-driving car startup backed by Amazon Inc., will begin testing its autonomous vehicles in Seattle to see how the cars hold up to rainy weather, narrow tunnels and one-way streets. Zoox has already been testing its vehicles in San Francisco and Foster City,"
-    publishedDateTime: 2021-10-19T12:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17320/zoox-to-test-self-driving-cars-in-rainy-seattle"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/320/17320/seattle-cover-image.jpg"
-        width: 752
-        height: 451
         isCached: true
   - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
     excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."

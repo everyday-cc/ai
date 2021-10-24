@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-artificial-intelligence-anomalie
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-artificial-intelligence-anomalies-medical-images.amp"
 type: article
 quality: 61
-heat: 62
+heat: 61
 published: false
 
 provider:

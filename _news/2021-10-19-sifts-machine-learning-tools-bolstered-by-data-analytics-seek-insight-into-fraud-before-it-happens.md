@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
-    excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
-    publishedDateTime: 2021-10-19T13:00:00Z
-    webUrl: "https://www.pr-inside.com/owlytics-healthcare-releases-multiple-sclerosis-monitoring-and-analytics-r4851418.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 36
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Cloud tools aim to ease machine learning, cross-cloud analytics"
     excerpt: "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises."
     publishedDateTime: 2021-10-20T04:40:00Z
@@ -61,20 +47,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/Potential-of-Artificial-Intelligence-Replacing-Animal-Testing-in-the-Future.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "SonderMind acquires predictive analytics platform Qntfy to deliver personalized mental health care"
-    excerpt: "SonderMind is a company on a mission to bring those insights into the mental health space, not only using data to match therapists and patients, but to give the therapists information about how their clients are doing so they can improve care and patient mental health outcomes."
-    publishedDateTime: 2021-10-19T16:49:00Z
-    webUrl: "https://vator.tv/news/2021-10-19-sondermind-acquires-predictive-analytics-platform-qntfy-to-deliver-personalized-mental-health-care"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 10
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21316.jpg"
-        width: 320
-        height: 240
         isCached: true
   - title: "How decision intelligence could democratise analytics"
     excerpt: "It’s never been easy to make the most of big data, machine learning models and analytics. Decision intelligence could change that."

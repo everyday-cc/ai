@@ -24,21 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity data monitoring platform Query.ai secures $15M"
-    excerpt: "Query, a startup providing a security monitoring plane for enterprises, has raised $15 million in a venture funding round."
-    publishedDateTime: 2021-10-19T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/"
-    ampWebUrl: "https://venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/cybersecurity-data-monitoring-platform-query-ai-secures-15m/amp/"
+  - title: "China's Race for AI Supremacy"
+    excerpt: "Artificial intelligence is set to revolutionize the world, empowering those nations that fully harness its potential. The U.S. is still seen as the world AI leader, but China is catching up. The race is central to the U."
+    publishedDateTime: 2021-10-20T13:38:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-10-20/china-s-race-for-ai-supremacy"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 47
+  - title: "Artificial Intelligence Supremacy to Give China Decisive Military Edge over US: Officials"
+    excerpt: "US officials warn that China’s rapid advances in artificial intelligence could eventually give Beijing a decisive edge in military and dominance in other key sectors, as the world’s two largest economies compete for technological supremacy."
+    publishedDateTime: 2021-10-23T07:56:00Z
+    webUrl: "https://english.almanar.com.lb/1458734"
+    type: article
+    provider:
+      name: almanar.com.lb
+      domain: almanar.com.lb
+    quality: 28
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-923872400.jpg?w=1200&strip=all"
-        width: 1200
-        height: 566
+      - url: "https://english.almanar.com.lb/framework/includes/uploads/2021/10/manar-07689310016349752356-757x354.jpeg"
+        width: 757
+        height: 354
         isCached: true
 
 secured: "5urppp/kRSUJz/lws0OiSbsLid7UPi0on/n0Mwi4wiWcAAt9C9QslozdvJA3eQpD9aI/hnvu36WwDVoP5lfxwMm5WXgq90iei+x2FXND5tdkbW6QGfHwU+oq6uk2DeQz2+fkl4oyb8n6uzuaZbhHADCAu1dhhLB+NHVPHRIAdc8d31Bnadq8oEbuqnZ32Rgiew9vtepLoBhAxauYKKbNMTBmtEh17DYAMNA8Y7JpAAz8oKCAamkIRLST8ZQkCPWji8uB5Zumxs2gudizWpOudkCMDXGRb83xpCbyxmPuROkeJ5feKu7FQQrKa4keuSb/lpwahbQNacX3g4RWQcKNT104z2jaY8ZaiRaHcRpHDZ8=;rzBnA5walrBRkw2f2XgEJQ=="
