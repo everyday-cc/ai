@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-publishedDateTime: 2021-10-20T07:30:00Z
-originalUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
-webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
+title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
+excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
+publishedDateTime: 2021-10-22T00:00:00Z
+originalUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
+webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: The Wenatchee World
-  domain: wenatcheeworld.com
+  name: TODAYonline
+  domain: todayonline.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
+    width: 1024
+    height: 654
+    isCached: true
 
 related:
   - title: "Freeway Phobia Seriously Scares Some Human Drivers Which Possibly Can Startle AI Self-Driving Cars Too"
@@ -83,20 +89,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
-  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
-    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
-    publishedDateTime: 2021-10-22T00:00:00Z
-    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 17
-    images:
-      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
-        width: 1024
-        height: 654
-        isCached: true
   - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
     excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
     publishedDateTime: 2021-10-21T18:27:00Z
@@ -115,6 +107,15 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
+    publishedDateTime: 2021-10-20T07:30:00Z
+    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
+    type: article
+    provider:
+      name: The Wenatchee World
+      domain: wenatcheeworld.com
+    quality: 0
   - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
     excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
     publishedDateTime: 2021-10-21T04:39:00Z
@@ -125,6 +126,6 @@ related:
       domain: adn.com
     quality: 0
 
-secured: "ZTPgoLdVIvMbwtJz26grScYnyOS4BQYOZnkdbBDIwkwcXlNH0xDDZrBpVRtIK2/ERgoDprGZ4pCAR2Iomctv/GXlG63UxCq2Vgea3YEWTqgRU5pllB6BBjF68rJWNXOZVB3LyhsXKX+XDHwjBAI7BXDXChpG4b4r8k5t8RUUPxe32RoGHtoQnBG/qvFYcFfRytNhzFilMlNEH/PZeBBux4VmqUIN5rWldr0pksrswSHiMu7Sob7N0GpFLrzRl2NH/p5KBX0/fn3o5tEgToT61Ry74fgy3B4hj0W3rHBp/SmNU/27lg+ItiTwSbUxR2+jbIH0IWoMk9XskExTYq+EK/qXEymLRYh6/UjjtC9r1hE=;65FJlyDeRL7PtEGZ/xH0zg=="
+secured: "Pe6mJBavDfRHV1svCo/s2t/Svuv6B43512pjomkjEN5m2ngUAep7PSR+WY7eOVhplwyH8sbbxI1eur1hBi/SUy/hW76Wud6Pkjyvm8yXUaO8yh6+OZCKNsXXkDt3DgaP4F/QEcLD42VzC/u95pUPG58PnaKD3UEZR4PihjqgxnWrk1NEWk7aipee/u6D1whaF+8na3WQFBaRAP3L/0ma6AhNohfMz9DmqyluWgOOdSWihfiMQMYnm10iZEfh2PnkbyCAPWxwgwSADbtkNk5OMfwmoQfWjfkMsigontVNZ0gOy8u0sM1zNIKPWX68LcOAFtZPQ6GyEQoHwMcpde2iM1S1dKZArnoMWPZZxHUGXGY=;49kIskNxuYuYPxJEzu3ypw=="
 ---
 

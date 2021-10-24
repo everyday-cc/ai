@@ -83,6 +83,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
+  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
+    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
+    publishedDateTime: 2021-10-22T00:00:00Z
+    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 17
+    images:
+      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
+        width: 1024
+        height: 654
+        isCached: true
   - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
     excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
     publishedDateTime: 2021-10-21T18:27:00Z

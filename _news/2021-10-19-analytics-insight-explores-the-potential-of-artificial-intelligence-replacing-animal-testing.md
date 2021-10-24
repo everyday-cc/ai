@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How data analytics and machine learning are driving value in AWS"
-    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
-    publishedDateTime: 2021-10-19T07:50:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 56
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
-        width: 315
-        height: 237
-        isCached: true
   - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
     excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
     publishedDateTime: 2021-10-19T13:00:00Z
@@ -98,15 +84,6 @@ related:
       name: Raconteur
       domain: raconteur.net
     quality: 4
-  - title: "Self-driving Cars And Trucks Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
-    excerpt: "The Self-driving Cars And Trucks Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue, among other essential factors."
-    publishedDateTime: 2021-10-20T12:43:00Z
-    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "yCCbGxcs7M0GEo6vSOsG68iy9MO6Mt+Y0fw5+KalUujggumD/om0beqiN0NQaZeSPbHKgLTaninFYOBcbxeL1TNpjYaXPzacsbCvSYbM0Nd8lA2dLjiVXtVrUr0bJnyyQPQs+dh59aiqjQbyDKkFw6lvySNHPsxiCrX4BHu3LkESOnamdQv8i34wdKGXZhx3rC6aziD3GXB5uXDCimmPrybwld/Pr6v2RXEwWOdSC/7NTrmn9G9E3GBFw0zI/LR7YVzsPqH6YKuYhlY99h6ah15ddDApQn96ecy1HR9+esSFTWT6eSHaKNYtFDFdpbc9MtTZ4zd5K1Gukyy9RBGx2OjQNUul6rVfm58JztO3DwE=;k9msvhwifoQ9vUKqDxIfMw=="
 ---

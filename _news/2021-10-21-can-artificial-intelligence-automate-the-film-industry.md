@@ -32,20 +32,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Learn about machine learning and the fundamentals of AI with free Raspberry Pi course"
-    excerpt: "If you are interested in learning about machine learning and artificial intelligence you may be interested in a new free online course by the"
-    publishedDateTime: 2021-10-19T08:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/learn-about-machine-learning-19-10-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 49
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/10/learn-machine-learning.jpg"
-        width: 700
-        height: 490
-        isCached: true
 
 secured: "7iCy+kfdme1d/q1Ofs7/qjNiH4BFB2UhfSxz7IciI0wgRACLBjS7J8XADAYKoMG+q6v6ahiIxC+/92PG5G/Ll5Idoz/Y4CCM80XUTYBDlvL7qXQB0CnsAHdzqGi83yRXOt3tUd/n+oqNhoJQbAklf9sVgeUyt3CUmHCLOwpcfXNuIUUkeLYYHYMXZmmzPzKBX3622V3LEiwBsmHhGNit4RJ2iFm4QMHk3rROMZApVPq6BAHN3h+dn1pdEBu9Brli8ZzEAWS07TtIDQum7Sk5SxWZZn601jzkh9WfNEGKVcyt68jNEEqip/HGtjtBJs/WYlBTVEhwp3/72Jd1/GydFn2w2fbQU13elXKyYQ71lHM=;bRfWpoFB3Cka1itrhvw0Aw=="
 ---

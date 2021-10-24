@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How data analytics and machine learning are driving value in AWS"
-    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
-    publishedDateTime: 2021-10-19T07:50:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 56
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
-        width: 315
-        height: 237
-        isCached: true
   - title: "Owlytics Healthcare Releases Multiple Sclerosis Monitoring and Analytics ..."
     excerpt: "Founder, \"The Owlytics validated enterprise analytics solution will support key pharma and providers' research efforts by using pass"
     publishedDateTime: 2021-10-19T13:00:00Z
@@ -98,15 +84,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "Self-driving Cars And Trucks Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
-    excerpt: "The Self-driving Cars And Trucks Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue, among other essential factors."
-    publishedDateTime: 2021-10-20T12:43:00Z
-    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "cIOU8PqaLAief/lSdL1zkCK7iaDJxjq18UVs8VlBekxkAAfGMS85xEkNrcSYf87NLkXGgBa2x4+yTTcD8MhBtI49YDdYn2nh4RySVo2SvN90qJPYGdWo6j513gAcW4f44VHgTtxJ/aIkW+1Jz415GetAH1voprixxXRBQcmPWsP+8reRYjQOov8u4fMyD9G4wU6ICOfsc6rXWvG6mL6SkXPQ/epVft5alY6K/L59bjulPhzWn420lJ2q1CpjlMgTssgwEeenijUSZ4F43W0BXmLxC3b09r1PKOaJWnlgz7mz0Av1hYCogj4+N/CKNSw7fT5ZBFO7TbEOZa/+GQydPZOxuBGCBMjCO/WHkQLMPaxufGFuJ+uEQsRZ6mKsvltDn3aUjYB8m9BZC9T/JC+X+f+Ej12rYdfDLIRZNdCbPGomxvbqRRUw0DzS8azjvBKYR+nyO5ZyPYjoaBzjrerOetBLoPU4ai7m0qW9jfuX8WAJ36LvUzknp6LvMMDylRkXVFfqvObYLq6yO8e6T9HtpQ==;1ruNv52/c3gUZcK9OYVSIQ=="
 ---

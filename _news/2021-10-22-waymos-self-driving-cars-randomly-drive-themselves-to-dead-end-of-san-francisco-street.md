@@ -83,6 +83,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
+  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
+    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
+    publishedDateTime: 2021-10-22T00:00:00Z
+    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 17
+    images:
+      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
+        width: 1024
+        height: 654
+        isCached: true
   - title: "Only 2 accidents involving self-driving cars caused by poor systems"
     excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
     publishedDateTime: 2021-10-20T12:25:00Z

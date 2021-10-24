@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/owlytics-healthcare-releases-multiple-sc
 webUrl: "https://www.pr-inside.com/owlytics-healthcare-releases-multiple-sclerosis-monitoring-and-analytics-r4851418.htm"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How data analytics and machine learning are driving value in AWS"
-    excerpt: "As organizations process petabytes of data on architectures designed to handle gigabytes, it’s becoming apparent that a shift in data architecture is needed to handle this volume. Companies with the 5 essential characteristics of data-driven organizations,"
-    publishedDateTime: 2021-10-19T07:50:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1632786997_410.html"
-    type: article
-    provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 56
-    images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1632786997_410_lg.jpg"
-        width: 315
-        height: 237
-        isCached: true
   - title: "Google Cloud tools aim to ease machine learning, cross-cloud analytics"
     excerpt: "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises."
     publishedDateTime: 2021-10-20T04:40:00Z
@@ -99,15 +85,6 @@ related:
       name: Raconteur
       domain: raconteur.net
     quality: 4
-  - title: "Self-driving Cars And Trucks Market Size, Share, Statistics, Trends, Types, Applications, Analysis and Forecast to 2028"
-    excerpt: "The Self-driving Cars And Trucks Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue, among other essential factors."
-    publishedDateTime: 2021-10-20T12:43:00Z
-    webUrl: "https://manometcurrent.com/self-driving-cars-and-trucks-market-size-share-statistics-trends-types-applications-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "o7UeisndtXuFayEZAPxgxfwZZHIlBcFWU/LcBXA+2pvkRU6AH0H096FsQp/ZwC+EaxyeIB8tav8lTqmEdOgn5RmcUktMc0/a48dR6iI3oCpROUU5bS6Hb1uI8mvdiC5bkTHyf5rIvMjaKhVRVIjxtJ3pfn1GIGbhN7d0i7qEvlIa8DrFdAdc4jFZv/DuhLTiPDOmLTw1r9mOXUAIpSgtA9eyzf9X5efiFg38zp85B+ezCDmz+HB3CV1Laic6V+HSvzx3GxdC02ecCGx43KNK1th1GVSzgsCyECMrPoZI2wAoTZf/sK7Tb5qwwco3UV3qqUgOvmreWcVSPr+VZ0y5P6xNp1nAHchoYQG3ib53z+A=;aacUra4ZRC197NNGdIBEjA=="
 ---

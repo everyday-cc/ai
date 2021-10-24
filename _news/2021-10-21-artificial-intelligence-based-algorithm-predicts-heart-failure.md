@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Scientists show how AI may spot unseen signs of heart failure"
-    excerpt: "A special artificial intelligence (AI)-based computer algorithm created by Mount Sinai researchers was able to learn how to identify subtle changes in electrocardiograms (also known as ECGs or EKGs) to predict whether a patient was experiencing heart failure."
-    publishedDateTime: 2021-10-19T08:13:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-scientists-ai-unseen-heart-failure.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/scientists-show-how-ai.jpg"
-        width: 2880
-        height: 2843
-        isCached: true
   - title: "Artificial Intelligence can Spot Unseen Signs of Heart Failure: Here's How"
     excerpt: "New self-learning algorithm or artificial intelligence (AI) can detect unseen signs of heart failure by reading electrocardiograms."
     publishedDateTime: 2021-10-19T10:05:00Z

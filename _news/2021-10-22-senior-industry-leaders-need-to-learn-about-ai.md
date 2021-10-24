@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leader
 webUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Learn about machine learning and the fundamentals of AI with free Raspberry Pi course"
-    excerpt: "If you are interested in learning about machine learning and artificial intelligence you may be interested in a new free online course by the"
-    publishedDateTime: 2021-10-19T08:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/learn-about-machine-learning-19-10-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 49
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/10/learn-machine-learning.jpg"
-        width: 700
-        height: 490
-        isCached: true
   - title: "Can Artificial Intelligence Automate the Film Industry?"
     excerpt: "Can artificial intelligence be used to help address the problems of the film industry? Dive into the details and learn about what AI can do."
     publishedDateTime: 2021-10-21T14:26:00Z
