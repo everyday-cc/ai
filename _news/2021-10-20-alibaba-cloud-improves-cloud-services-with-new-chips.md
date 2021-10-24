@@ -9,8 +9,8 @@ ampWebUrl: "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-w
 cdnAmpWebUrl: "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Manila Bulletin
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alibaba Introduces Arm-Based Server Chip for Cloud Data Centers"
-    excerpt: "In a big win for Arm, Alibaba is the latest cloud giant to design its own chips, following Facebook, Amazon and Google."
-    publishedDateTime: 2021-10-19T22:35:00Z
-    webUrl: "https://www.internetnews.com/news/alibaba-arm-based-server-chip-for-cloud-data-centers/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 39
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/10/Hardware-06-1088x725-1.jpg"
-        width: 1088
-        height: 725
-        isCached: true
   - title: "Alibaba Puts Heat On AWS, Huawei With New Chips, Servers, Data Centers"
     excerpt: "Alibaba is stepping up its game against cloud competitors including Amazon Web Services and Huawei by developing new in-house processors and a line of servers to boost its cloud computing data centers,"
     publishedDateTime: 2021-10-22T16:49:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-
 webUrl: "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -20,20 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "DeepMind Announces MuJoCo Physical Process Simulator"
-    excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
-    publishedDateTime: 2021-10-19T22:00:00Z
-    webUrl: "https://www.linuxtoday.com/developer/deepmind-announces-mujoco-physical-process-simulator/"
-    type: article
-    provider:
-      name: Linux Today
-      domain: linuxtoday.com
-    quality: 39
-    images:
-      - url: "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        width: 1201
-        height: 1200
-        isCached: true
   - title: "DeepMind’s Decision To Buy MuJoCo; Good Or Bad?"
     excerpt: "DeepMind has high hopes of riding on this multi-faceted robotics simulator. But how does it compare with other simulators?"
     publishedDateTime: 2021-10-22T11:30:00Z

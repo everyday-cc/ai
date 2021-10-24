@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New deep learning algorithm can pick up genetic mutations in colorectal cancers more efficiently"
-    excerpt: "A new deep learning algorithm created by researchers from the University of Warwick can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods,"
-    publishedDateTime: 2021-10-19T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2021-10-deep-algorithm-genetic-mutations-colorectal.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-10-deep-algorithm-genetic-mutations-colorectal.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-deep-algorithm-genetic-mutations-colorectal.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-deep-learning-algo.jpg"
-        width: 2880
-        height: 2661
-        isCached: true
   - title: "New deep learning algorithm can pick up genetic mutations and DNA mismatch repair deficiency in colorectal cancers more efficiently"
     excerpt: "A new deep learning algorithm can pick up the molecular pathways and development of key mutations causing colorectal cancer more accurately than existing methods, meaning patients could benefit from targeted therapies with quicker turnaround times and at a lower cost."
     publishedDateTime: 2021-10-21T00:00:00Z

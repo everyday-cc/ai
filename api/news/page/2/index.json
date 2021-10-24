@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-video-showing-jamba-juice-robot-kiosk-miserably-failing-at-pouring-smoothie-goes-viral.md",
+      "title": "Video Showing Jamba Juice Robot Kiosk Miserably Failing at Pouring Smoothie Goes Viral",
+      "excerpt": "Jamba Juice introduced the robot kiosk last year, but the viral video showed it missing the cup when pouring the smoothie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "originalUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1918111/robot-making-smoothie.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamba-juice-robot-fail-viral-video-tiktok-1641595?amp=1",
+      "publishedDateTime": "2021-10-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai.md",
+      "title": "Palantir's Peter Thiel thinks people should be concerned about surveillance AI",
+      "excerpt": "Tech billionaire Peter Thiel said this week that people should be more worried about \"surveillance AI\" than artificial general intelligences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/palantirs-peter-thiel-thinks-people-should-be-concerned-about-surveillance-ai/ar-AAPPGG9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106723917-1601485714383-gettyimages-1183198447-350472044_1-12.jpeg?v=1618328636",
+          "width": 4643,
+          "height": 3096,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+      "publishedDateTime": "2021-10-22T05:29:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "domain": "com/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-softbank-in-talks-to-sell-french-robotics-business-to-germanys-united-robotics.md",
       "title": "SoftBank in talks to sell French robotics business to Germany’s United Robotics",
       "excerpt": "SoftBank Group Corp is in talks to sell the Paris-based robotics business behind its Pepper android to Germany's United Robotics Group, according to sources and documents reviewed by Reuters, scaling back a business it once touted as a major growth driver.",
@@ -285,6 +379,58 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
+      "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
+      "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg",
+          "width": 747,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1003,41 +1149,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-20-why-deepmind-acquired-this-robotics-startup.md",
-      "title": "Why DeepMind Acquired This Robotics Startup",
-      "excerpt": "Alphabet-owned DeepMind acquired a physics simulation platform MuJoCo, which stands for Multi-Joint Dynamics with Contact.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/",
-      "originalUrl": "https://analyticsindiamag.com/why-deepmind-acquired-this-robotics-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-10-20-resistant-ai-scores-166m-for-its-anti-fraud-fintech-tools.md",
       "title": "Resistant AI scores $16.6M for its anti-fraud fintech tools",
       "excerpt": "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16.",
@@ -1087,110 +1198,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-convinced-your-dog-is-a-genius-scientists-want-to-hear-from-you.md",
-      "title": "Convinced Your Dog Is a Genius? Scientists Want To Hear From You",
-      "excerpt": "The 'Finding Rico' project is looking for gifted dogs all over the world to better understand canine intelligence and their capacity for learning human words",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
-      "originalUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/7ed387a19a8ae16ace7b83575d455501.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/convinced-your-dog-is-a-genius-scientists-want-to-hear-1847895531/amp",
-      "publishedDateTime": "2021-10-19T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-pixel-6-tensor-cpu-design-revolves-around-machine-learning.md",
-      "title": "Pixel 6 Tensor CPU design revolves around Machine Learning",
-      "excerpt": "This shouldn’t really come as much of a surprise. Google is arguably one of the kings of machine learning (ML) and AI, technologies that it relies on to make sense of all the data it",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
-      "originalUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/google-tensor-1.jpg",
-          "width": 1441,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-tensor-cpu-design-revolves-around-machine-learning-19695938/amp/",
-      "publishedDateTime": "2021-10-19T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -34,20 +34,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 51
-  - title: "DeepMind Announces MuJoCo Physical Process Simulator"
-    excerpt: "MuJoCo models articulated structures interacting with the environment and is used in the development of robots and artificial intelligence systems."
-    publishedDateTime: 2021-10-19T22:00:00Z
-    webUrl: "https://www.linuxtoday.com/developer/deepmind-announces-mujoco-physical-process-simulator/"
-    type: article
-    provider:
-      name: Linux Today
-      domain: linuxtoday.com
-    quality: 39
-    images:
-      - url: "https://www.linuxtoday.com/wp-content/uploads/2021/07/Linux_opengraph_square2-01.png"
-        width: 1201
-        height: 1200
-        isCached: true
 
 secured: "xVHG3FjCZPPIEy+OhYTJhunkKe39NkGgNr3IHuJqRWNu1arGHA/7XIa/TgZZsWhlzJLvHectGONsGadg3bD+lsT7QNfncmXYJYSsskHyejy39Az1uh37TjZNOiQZdt+aOFDkO8x3OA1j7ZObVwtOZEAw13k8KZszGdgjsoUUE1D9l7hAnRA5A7ZFY99ap5xJ4OOL3PyXrevvaQKXkfYiOcE/t24e/95LluY/GB/g9CJgTjClz9hFkoQDDa5+Ulk9R31dKdW7dJGz99TrZNsHku+ytQKKETgFYzmRUINueQjUAZB9l6jV9hpxdO/7Atu7XgvURh4ob+9a9xeT/OraD4iXBTFhDhgv1t83G6FTV/JoYIMH41mxyt337W9EcMgP9HP98gj1IwdUQeaBtsnia3TYrWmZf8R5Qd6HEZAqSFv5301mLB2JE2D6tGVhs694qqNsmBCHaQdb4yC+kgnlQuk22y/gtp6JBO0qCArT1xaB6fyHwrMfzYk18Wmrg9w/0vVUwSGAw9r85CLPAcToHQ==;73eQzBsn5P0eZNB7LaPpng=="
 ---

@@ -19,31 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”"
-    excerpt: "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,"
-    publishedDateTime: 2021-10-19T21:32:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/"
+  - title: "Machine Learning Artificial intelligence Market Future Demands, Companies, Regional Sales and Revenue Forecast"
+    excerpt: "DeepResearchReports has uploaded a latest report on Machine Learning Artificial intelligence Industry from its research database Machine Learning Artificial intelligence Market is segmented by Regions Countries All the key market aspects that influence the Machine Learning Artificial intelligence Market currently"
+    publishedDateTime: 2021-10-23T10:44:00Z
+    webUrl: "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future"
+    ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://cdn.openpr.com/U/a/Ua23644392_g.jpg"
+        width: 482
+        height: 350
         isCached: true
-  - title: "Credo AI launches backed by $5.5 million to help companies with ‘ethical AI’"
-    excerpt: "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,"
-    publishedDateTime: 2021-10-19T21:32:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/"
+  - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
+    excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
+    publishedDateTime: 2021-10-22T06:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
+    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
+    publishedDateTime: 2021-10-21T13:12:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027 report by QYResearch Group. In-Flight Voice Recognition market is segmented by region (country),"
+    publishedDateTime: 2021-10-23T13:36:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4989003-global-and-united-states-in-flight-voice-recognition-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "/vGFcphlX0r6qiaXL3b694Op5yxx2cJ9CnNqDTh4uRxqwo4WDoqWWLwVQz8rcIWc3OttEZbRJPiFonsSGP3M0XQJrVeIGceFZGYG4A+PgDV2Oc3G1sJwPJn7Mgk7/OTToV1l2HNzWEM0yXPJDyz3FZ1RTaopvcotn0QzHAaWzNykyXkuJPexUGVLOkWA9LAiwNsOc/idLrJpftvtWadcBmWqlvivuYf9zEDnFDckFj1LcjSDBqHvy2qBApyFqGMWiHqSrKgNMDNsLU/zB988pgzeQ1UF6W9aUsP6GSpax8ovFLa7EEL4WCc5/8byHJysCLYEqdjVCSKXHECybu2Obl46q7lMCBRAhgp6NydO2hyxaOXIoNL6QfHCR0B7BbBFNRCuOi3oes145ZSzaJ9QknpupXGtiPI+VEHOCfoeSodUNmRRjT80oRNDtaA1fo/I6i00Bej5XW4oJX9UMe7YTgJ+bLsUfrbfihobxbsdc28tBCD+fG5ukbuFk/zbTdJvuAAVnyDnUp6V+xwJeI7nBw==;u8/4rExgfPDDEEYaNoDflw=="
 ---

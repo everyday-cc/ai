@@ -41,20 +41,6 @@ related:
         width: 1094
         height: 730
         isCached: true
-  - title: "Alibaba Introduces Arm-Based Server Chip for Cloud Data Centers"
-    excerpt: "In a big win for Arm, Alibaba is the latest cloud giant to design its own chips, following Facebook, Amazon and Google."
-    publishedDateTime: 2021-10-19T22:35:00Z
-    webUrl: "https://www.internetnews.com/news/alibaba-arm-based-server-chip-for-cloud-data-centers/"
-    type: article
-    provider:
-      name: Internetnews
-      domain: internetnews.com
-    quality: 39
-    images:
-      - url: "https://www.internetnews.com/wp-content/uploads/2021/10/Hardware-06-1088x725-1.jpg"
-        width: 1088
-        height: 725
-        isCached: true
 
 secured: "TMTihv3ToFhp6EGzcL0Bj4AzJAN2LAOUAf4VTpipYJqdlAxOof283C3nsrsiFn+NI0eviZ2QvmRiyIn+Gq7o88uvlgV18y4BzNdd/As14fImUbbq5lTAdPjbZHGZO0Bz1677fbnrcXyHjn83DPR1KDDvwunuD7hD7b9+JKLT1IbCaTAs7z/GNdI/RSOCZjrn4qNn3Opi06Bu7k7myFEWHJiS+3fsnGXp9x4LpGPySHg231BlWlnN6WLk46K01xO7Wj6cFHwh0Y0m8BrYn3cWkWdM4SysdyK3l0ii9bv6SbLiEy2Aw1Hif9unYZuO8bljvsO1LeiYpEb5oYzPTZ8mTAoXIBFnZOFlm5JD1wDxsucERSt2BQFmcI99e2j9KIGU6+iEkablci2AcatiPqR88uefGJe9bNSqQxqM3+OHKKaDv75+MAuaFj1KAfPTcxUScJE7A8rGC1yFV2WgWBORq18+JeiWpyFlDGZ6BG5B1Usn9aZjIzB8SfFqY2RzviYmahl4a6i2l4gYt2WmlMwZ9A==;hE9b/inEKgcFGLnRxRQo3A=="
 ---
