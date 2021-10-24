@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intel
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
 type: article
 quality: 71
-heat: 112
+heat: 111
 published: true
 
 provider:

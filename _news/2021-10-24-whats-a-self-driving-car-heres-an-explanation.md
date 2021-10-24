@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Self driving race car"
-excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
-publishedDateTime: 2021-10-20T17:31:00Z
-originalUrl: "https://globalnews.ca/tag/self-driving-race-car/"
-webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
+title: "What's a self-driving car? Here's an explanation"
+excerpt: "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard."
+publishedDateTime: 2021-10-24T11:00:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/"
+webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 74
+heat: 124
+published: true
 
 provider:
-  name: Global News
-  domain: globalnews.ca
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "What's a self-driving car? Here's an explanation"
-    excerpt: "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard."
-    publishedDateTime: 2021-10-24T11:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Freeway Phobia Seriously Scares Some Human Drivers Which Possibly Can Startle AI Self-Driving Cars Too"
     excerpt: "Consider that the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a human ..."
     publishedDateTime: 2021-10-22T15:30:00Z
@@ -51,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self driving race car"
+    excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
+    publishedDateTime: 2021-10-20T17:31:00Z
+    webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 19
   - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
     excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
     publishedDateTime: 2021-10-22T00:00:00Z
@@ -84,6 +89,6 @@ related:
       domain: adn.com
     quality: 0
 
-secured: "QaTjdMETRWevkBAPRouHfTTX8TFBp6Hae8SJqxsXXNpu/PDgxP3hR1fHQyoCEauHsH5QRjsVEcj5UX4Ul46oQCyImu3yIqOb5HzU39KQ1/x1bnmsH/PNEwKZd5kk08u2aQyDvp5YPymaiBJWJKUT7ZPW1+dY8ht9ouJ8rkhu3yJ9zWyOSkLT7JX9ALLz0HxTmvfbif+cur9z8e5MpyidKHn/6WSdj6Y/SQOzZRr4yq7vXNL0qPuN18Y9i4D2ihLxKaS1hndrZBOeocU7fi7WZw+y8KtZhAPOtFUiWGxBmQ7ROb4Y+o090ZiEbNkTD2cZIFR35a+Bi0dzkFB4XL0LyeGOZrs0yrEjox/bKQrs79o=;/lQfwW9VANdnv68PulVsMg=="
+secured: "JmbX6zO3Z7tduP+/gHkOB1l30OcAEINw8RNyOi3CAn1EQuvVqO35qRz8cYixEzgoe/VezPwSKB0qv3tbSdG+TYkDRHxR5F0yAPTiILKHNLt8GQ5iULp3pSyXUAq8Wwkcs0xg2GRJK9NuoBdcL9iSGSGTTrYvlgWk31B//ZjZDHO9vVt69iD2mrm91W4SDXX2iSA2W0g3Lys8a0NQOXe/e6qX3iDHkoT/ps5F+dFALvXkxCHytyhrLOoaX/jWFXLSlPYd+eXY/edpDqafm2yddvDgr7mKso/JthdwE8J1HaLbooB8mZOFdNFUF6zUKvRvUjWTBq8shxscBMYkPqC4TZ/HOZ4NO7ovr0EU3xl6jig=;oH5gggj+3Ih9W4hn5Dg0MA=="
 ---
 

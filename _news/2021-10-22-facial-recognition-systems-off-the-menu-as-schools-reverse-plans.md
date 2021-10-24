@@ -35,20 +35,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Scottish schools serving up fresh privacy debate for lunch with facial recognition payment"
-    excerpt: "The Information Commissioner’s Office (ICO) has now stepped in to discuss a less invasive alternative to facial recognition."
-    publishedDateTime: 2021-10-19T18:04:00Z
-    webUrl: "https://www.biometricupdate.com/202110/scottish-schools-serving-up-fresh-privacy-debate-for-lunch-with-facial-recognition-payment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
 
 secured: "Iw5jWpd2r6mslSuOyDBWm9mR/1xQruJgSGu8JQfErb94MKKLgfDkKKIdnz6ueJKjYC/ctKGf7BOW8IwWDa0X0bBVH7qfi64AXYDx3wNzNSu9wuD3tBaGnPRH1JaYbVC4JgGi9H+9N5N1i2AjGIh54q24pCL4JHfKjvTmNptH3tDLRQ5gsCA7A5Zq58ax8pP1BeI3GJqoGr1fh8hhz+7U3sEJuNzMGSKqgG0Rfdf+HBlJgz+14QFeRD/NbGJ7ZenZMMWAu1E1TeZ+Kh6t6TQ1+DiFnFm2zUfSx7reZcV0WbgYxyAmB2s/I6z9GjEeo5tFGiwcykgYURWJBqOnnC4RCm/Csp5zw0808hz+afgSKbL9Cm0gRGfY8GQnJAa2rKJ02Qnf5lfcSlZAJavyHDF0QgI27E33so8moAazffdL3wf0sE7y0WXNsODbXEq8xXja9pqJzRnRWbsshBikQsIHHx/wXQ2Pueeo/Mfa3AABmo/DUauUdIFul5HuT3Va7teLITO4duxVTUl8aVrTJ8C+Hw==;yp/TJRp7yROw6LEKcfVppQ=="
 ---

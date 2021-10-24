@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving
 webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
+    excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
+    publishedDateTime: 2021-10-21T12:05:00Z
+    webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 19
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
+    publishedDateTime: 2021-10-20T07:30:00Z
+    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
+    type: article
+    provider:
+      name: The Wenatchee World
+      domain: wenatcheeworld.com
+    quality: 0
   - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
     excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
     publishedDateTime: 2021-10-22T16:20:00Z

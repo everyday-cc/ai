@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Google’s Pixel 6 camera smartens up snapshots with AI tools"
-    excerpt: "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,"
-    publishedDateTime: 2021-10-19T17:38:00Z
-    webUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools/amp/"
+  - title: "The Google Pixel 6 brings a new chip and lofty, AI-powered promises"
+    excerpt: "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features."
+    publishedDateTime: 2021-10-19T21:30:00Z
+    webUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/"
+    ampWebUrl: "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Popular Science
+      domain: popsci.com
+    quality: 76
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0413.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google Pixel 6 Series Uses Powerful AI To Make Service Calls Faster"
     excerpt: "Anybody who's ever been discouraged by long wait times during customer service calls should be looking at the new AI-powered Google Pixel 6 series. That's"

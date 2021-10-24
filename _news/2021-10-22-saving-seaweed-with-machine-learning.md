@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 webUrl: "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022"
 type: article
 quality: 69
-heat: 79
+heat: 90
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Shifting Into Deeper Learning"
+    excerpt: "A focus on belonging, creativity, and metacognition is helping one school lead students away from superficial learning."
+    publishedDateTime: 2021-10-20T21:09:00Z
+    webUrl: "https://www.edutopia.org/article/shifting-deeper-learning"
+    type: article
+    provider:
+      name: Edutopia
+      domain: edutopia.org
+    quality: 4
 
 secured: "DdVuTWYlszKgNeORTFV80uTYiEwVIg16kc5y7D+JuoE7aStJYWJTKs01sxY55gUh2HlQF/cL7uBvHOeHV8AEo5fYM/Lwnr7grl/Jncvtd4AHBMQDJdLnFpF7I2H6pD0EFTqp5/GimZ+Liucen0kJohAkdtnLMu0wMOt0p0gAYRjTxaYHDdy9p3tQ39/GxRQ6t916BKfkh/ENDL01eCLk7rIJhn0VgE6YEmFrdhha9XEvQACdCAJqZ82qg3XaI2/t7np4WNRo9SVWJuVVkHin7nut+TON+axVg2/OeZuC5oSF8e3BBhUpgUaarnRU2uRbKW6RUqKW6TkhupBT/xWtS4fDJJKNyUrlimuJDnG49ginWQxPoO+1M/+H5yR4A51Mots6eykaApFr9JqXH+EQe3neOpawiZZWpfuA66QqhOdppZBbuA8NsBaz+Yn7ZyL4fcMGwaNXY07fPCDaNIO6qAkFR8/A1l3r4FXSHbwJPtANJt99heWlp0S+Y4c/R9eeLB0tQzjzLxw68JsVKoxKEA==;MxKh7eagfxiaQYMbpEfqjA=="
 ---

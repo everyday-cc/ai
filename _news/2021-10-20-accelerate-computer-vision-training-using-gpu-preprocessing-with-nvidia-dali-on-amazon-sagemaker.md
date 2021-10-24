@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/"
 type: article
 quality: 125
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1252
     height: 630
     isCached: true
-
-related:
-  - title: "Choose the best AI accelerator and model compilation for computer vision inference with Amazon SageMaker"
-    excerpt: "AWS customers are increasingly building applications that are enhanced with predictions from computer vision models. For example, a fitness application monitors the body posture of users while exercising in front of a camera and provides live feedback to the users as well as periodic insights. Similarly,"
-    publishedDateTime: 2021-10-19T17:53:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/choose-the-best-ai-accelerator-and-model-compilation-for-computer-vision-inference-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image007-2.png"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "BOGA5BRlJMzc5cLc9I4o0SOttgxhcRMwnXPLcFH0MX5u8OZSK0/kOAjvINu5B0ktiDnMc1P6oTZZtQzPNXnELj0Um8hpLmdYAWfYEpuUAF3cTQJCE3Cl/CGqU+4lhAT4+j3uqNeYUBBiaiZiIcy9Md6bbHP0hkcRJiMir6SLk8Zg9R5WSrJMPsYItMUTquT2Z0EaSknnVft/AhhEQ0mPkbrQPp6F++DzsRt31zRbsHYLzmXxHySsCS0TSgTrzPNRJ4B3Pp7UFEJ5Y8dS7OasojPCPj+juuBtNQsH+LpztTQVvAFbskOMSI1TZhkyDmXqlpVGuufYhPFR1sPjfFI84WLTKE3wC0ldGGQrqR/xw1M=;x0lmGp36RsBv2JGeOw8dtA=="
 ---

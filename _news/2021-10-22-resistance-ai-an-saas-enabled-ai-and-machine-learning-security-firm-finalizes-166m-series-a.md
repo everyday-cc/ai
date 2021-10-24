@@ -37,15 +37,6 @@ related:
         width: 1024
         height: 648
         isCached: true
-  - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
-    excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"
-    publishedDateTime: 2021-10-19T18:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fraud-fighting-platform-resistant-ai-raises-$16-6m-10641399"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Anti-fraud startup Resistant AI raises $16.6 million"
     excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
     publishedDateTime: 2021-10-20T14:26:00Z

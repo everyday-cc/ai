@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-a-harvard-freshman-made-a-social-networking-app-called-the-facetag-its-sparked-a-debate-about-the-ethics-of-facial-recognition.md",
+      "title": "A Harvard freshman made a social networking app called 'The FaceTag.' It's sparked a debate about the ethics of facial recognition.",
+      "excerpt": "Yuen Ler Chow has expressed interest in raising money and, of course, expanding the app to non-Harvard users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/a-harvard-freshman-made-a-social-networking-app-called-the-facetag-its-sparked-a-debate-about-the-ethics-of-facial-recognition/ar-AAPPaN2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6171ff0f4f281c00129685fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10?amp",
+      "publishedDateTime": "2021-10-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+        "domain": "businessinsider.com/harvard-freshman-facetag-stokes-facial-recognition-debate-tiktok-mark-zuckerberg-2021-10",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-ai-and-data-at-dow-jones-why-humans-are-the-machine-behind-ai.md",
       "title": "AI And Data At Dow Jones: Why Humans Are The Machine Behind AI",
       "excerpt": "Dow Jones is a data company. I speak to Dow Jones’ head of data strategy to explore the important role of humans to leverage data and artificial intelligence (AI) in order to create authentic intelligence.",
@@ -105,7 +149,7 @@
       "originalUrl": "https://news.mit.edu/2021/saving-seaweed-machine-learning-1022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -528,7 +572,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -959,7 +1003,7 @@
       "originalUrl": "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1155,49 +1199,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-alibaba-cloud-improves-cloud-services-with-new-chips.md",
-      "title": "Alibaba Cloud improves cloud services with new chips",
-      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, unveiled a new in-house processor design for use in its data centers. The server chips, named Yitian 710, are custom-built by Alibaba Group’s chip development business,",
-      "sourceUrl": null,
-      "webUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
-      "originalUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mb.com.ph/wp-content/uploads/2021/10/38431.jpeg",
-          "width": 1094,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
-      "cdnAmpWebUrl": "https://mb-com-ph.cdn.ampproject.org/c/s/mb.com.ph/2021/10/20/alibaba-cloud-improves-cloud-services-with-new-chips/?amp",
-      "publishedDateTime": "2021-10-19T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manila Bulletin",
-        "domain": "mb.com.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

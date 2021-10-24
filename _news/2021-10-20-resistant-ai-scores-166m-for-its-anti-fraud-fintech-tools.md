@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
 type: article
 quality: 189
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered fraud-fighting platform Resistant AI raises $16.6M"
-    excerpt: "Resistant AI, a startup developing AI-powered products to fight financial fraud, has raised $16.6 million in venture capital.Read MoreRead more"
-    publishedDateTime: 2021-10-19T18:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-fraud-fighting-platform-resistant-ai-raises-$16-6m-10641399"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Resistance AI, an SaaS enabled AI and Machine Learning Security Firm, Finalizes $16.6M Series A"
     excerpt: "Resistant AI, a software-as-a-service (SaaS)-enabled AI and machine learning security firm that aims to protect automated financial systems from manipulation, fraudulent activities and financial crime,"
     publishedDateTime: 2021-10-21T21:46:00Z

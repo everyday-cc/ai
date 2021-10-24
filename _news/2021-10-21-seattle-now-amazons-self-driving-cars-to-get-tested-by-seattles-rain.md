@@ -7,7 +7,7 @@ originalUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-
 webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,62 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "Freeway Phobia Seriously Scares Some Human Drivers Which Possibly Can Startle AI Self-Driving Cars Too"
-    excerpt: "Consider that the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a human ..."
-    publishedDateTime: 2021-10-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
+  - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
+    excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
+    publishedDateTime: 2021-10-20T15:23:00Z
+    webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100df528bb417badeaf3be5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3067%26cropY1%3D0%26cropY2%3D1726"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self driving race car"
-    excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
-    publishedDateTime: 2021-10-20T17:31:00Z
-    webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 19
-  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
-    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
-    publishedDateTime: 2021-10-22T00:00:00Z
-    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 17
-    images:
-      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
-        width: 1024
-        height: 654
-        isCached: true
-  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
-    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
-    publishedDateTime: 2021-10-21T18:27:00Z
-    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 11
-  - title: "Only 2 accidents involving self-driving cars caused by poor systems"
-    excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
-    publishedDateTime: 2021-10-20T12:25:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: Government Technology
+      domain: govtech.com
     quality: 4
   - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
     excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
@@ -85,14 +37,14 @@ related:
       name: The Wenatchee World
       domain: wenatcheeworld.com
     quality: 0
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
+  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
+    excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
+    publishedDateTime: 2021-10-22T16:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/10/22/amazon-plans-self-driving-cars-seattle/6133508001/"
     type: article
     provider:
-      name: Alaska Dispatch News
-      domain: adn.com
+      name: Detroit News
+      domain: detroitnews.com
     quality: 0
 
 secured: "kGN9e4z2HnylMHRz4Mvts5Rjnlb6BYne47rQcGDoDS1DYqWy28IXD0TvfA0gGZHP+XE3hC1RctiQiYLZQshX+YBePi79yzm2/6H7WjU951hOGPYuyc8a5bHnqJ5yRhyBRnrQ83gt+6qL2t5RlJjGXF/Pp7hooMAHVls5+/fM8UnJ3gUziAsnRHOl5XDp2U1Q4bmtXuTecKLrILu8c60EsEHdkOA1aFj+M1jGtu0fMlft2/mTcUJLaWwU4RL6a1URZE14bGEMVqhbcGmJfDQ1eIUn9wDzFR59k1Fom88MzB2foCFhlKIm6tpCh8GuHC29xxG3Wm91lmm2s5a2bBaFZ8wf/p8Eon7R+EGW6W7KD4JccLSSRdMyuNW8INjnjHLe2yfftYXBhN+OZHe1HoaZZnNehLh+cw0e3YfDn2KXtLPDKpj389Od96X2+l1iw0fKEqQreinqh2oULpZnsNhNDCHciMixbQQBXsvkGcV2wWu+lCSjhkxqez6kmPWmG5ksPCPMJs+vtn4ioTmUOoY5bg==;HhRo7CfKkS8bMXN130aHFA=="

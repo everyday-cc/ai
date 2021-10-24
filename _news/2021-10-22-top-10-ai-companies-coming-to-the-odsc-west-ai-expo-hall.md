@@ -28,6 +28,15 @@ related:
       name: Next City
       domain: nextcity.org
     quality: 19
+  - title: "DTI urges companies to step up AI adoption"
+    excerpt: "COMPANIES need to put artificial intelligence (AI) at the center of their modernization efforts in order to remain competitive after the pandemic, the trade department said."
+    publishedDateTime: 2021-10-24T09:42:00Z
+    webUrl: "https://www.bworldonline.com/dti-urges-companies-to-step-up-ai-adoption/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 19
 
 secured: "bEfsgGeJiLb5ZFXEb6LzaX4qsQbdl08lwhmO4KOOyqurLukDEppjFAG3uPG82rQj4o2GkEk2uUUVoftP+NoQPPvarPape/61ZfcO3sDecooIOvulPZG0bVFCBdQXu728vljlEaTIzsJQ58TQshNcr5+DY+5PXr9NflhvxTvFEF5xACk3xLiQZ3NSaNOKfQKMkq062JU/VDJo2zYfMfwzm7wf5bfpTdnUPudb1o1V4/xYFmnTLnHBcRixBtJ6tC59nVx8WoY1Tm69Zfpgs8R0tFTGszJt2t8OAB+YQEe6oLnIQTIo+MnD+R92Vm0hD2WErIZgYeFfKnT/rErUD9bkjdez1gjRTlBDwGe3pitlgrtZnwGIpGVE0wDG2RVpdVEftZhykVL32L37K+PUVSub/8wwkFgwUFzweWZVgJHrBWrUDNt6q+meoJjILvUN4sctgU2eq15l5TlwKoOIxFAcn9Gaz1RkJ7PzjbepXqW70VBqZY2uSTbx1UMvVwctDOF+unFQHYqDgHf1NJYIy5JohQ==;UXZWCxODem0AM/ty57uJ8Q=="
 ---

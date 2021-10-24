@@ -7,7 +7,7 @@ originalUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdr
 webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,81 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Freeway Phobia Seriously Scares Some Human Drivers Which Possibly Can Startle AI Self-Driving Cars Too"
-    excerpt: "Consider that the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a human ..."
-    publishedDateTime: 2021-10-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
+  - title: "Scores Of Waymo’s Self-Driving Cars Are Flocking To One San Francisco Street For No Apparent Reason"
+    excerpt: "Self-driving tech might be marching ahead, but for some residents in a quiet dead-end street in San Francisco, the price of progress involves up to 50 Jaguar I-Paces descending upon the lane every day."
+    publishedDateTime: 2021-10-21T12:35:00Z
+    webUrl: "https://www.carscoops.com/2021/10/scores-of-waymos-self-driving-cars-are-flocking-to-one-san-francisco-street-for-no-apparent-reason/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100df528bb417badeaf3be5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3067%26cropY1%3D0%26cropY2%3D1726"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
-    excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
-    publishedDateTime: 2021-10-21T12:05:00Z
-    webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 19
-  - title: "Self driving race car"
-    excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
-    publishedDateTime: 2021-10-20T17:31:00Z
-    webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 19
-  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
-    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
-    publishedDateTime: 2021-10-22T00:00:00Z
-    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 17
-    images:
-      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
-        width: 1024
-        height: 654
-        isCached: true
-  - title: "Only 2 accidents involving self-driving cars caused by poor systems"
-    excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
-    publishedDateTime: 2021-10-20T12:25:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
+      name: Carscoops
+      domain: carscoops.com
+    quality: 5
+  - title: "Winter self-driving pilot to start in Finland in 2022"
+    excerpt: "A public transportation self-driving car pilot is set to begin in early 2022 involving two autonomous Toyota vehicles in the city of Tampere in Finland. The goal of the project is to gather feedback on how autonomous vehicles work as part of the public transportation in Tampere,"
+    publishedDateTime: 2021-10-21T12:24:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17331/winter-self-driving-pilot-to-start-in-finland-in-2022"
     type: article
     provider:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-    publishedDateTime: 2021-10-20T07:30:00Z
-    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
-    type: article
-    provider:
-      name: The Wenatchee World
-      domain: wenatcheeworld.com
-    quality: 0
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 0
 
 secured: "3ajGCuis79R9QMsuMEBT0e65EDJy7EsiuRZZMqUMlZY+MvnZV21ZeFYgga1trX4PKWfFLsZD3RvRi6Vleu2cii+Nt7IWmxxUOOZR5fuNVSzX1fQSdNipHw1On/8KvMnQ2c2+0qV7v2T/zWaAxMI0J0AYeX2+ObNcr0rVmnv2LYlhym5XN42DJMtz4eAQc/s2eyYchBTFiyEuyXdXNi3i4Y9KX5icnZO77NlmbK28dAPmMb4QMHBNO1MXMoWxQ7DuljRRyi8eV96PQDTdg78RjtPL3sF90ZkBF8dNGfK6wImJUq/bbHDBJIwLgnQk6rbCGcwZ8TrICBgXnZmzPeROiPQv8xtnewmEHi7HLktpbk/qbLekui87mACYXc3qJHYfUQSwJv9+FvqMMQ7lcGbsgjWGIG3nLReMHBeOdzZ2neWBCQZChDj/nVEP8mzDL4j7Zdq5dxkvjrQUCpm8fY3eJHYq3HCyjLZkR0LPNlhbmhdGzxwCtGStHrtR3DphRDf7zFTenLPtSLbHgsPAlVSeCQ==;fPe5NPbK+QHqaO+JJm71tQ=="
 ---

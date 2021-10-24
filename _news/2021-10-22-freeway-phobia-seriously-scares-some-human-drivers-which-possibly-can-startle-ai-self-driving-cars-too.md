@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/22/freeway-phobia-seriously-scares-some-human-drivers-which-possibly-can-startle-ai-self-driving-cars-too/amp/"
 type: article
 quality: 73
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Seattle Now: Amazon's self-driving cars to get tested by Seattle's rain"
-    excerpt: "Amazon says it's getting ready to test self-driving cars on the streets of downtown Seattle. The cars need to perform in adverse conditions, and Seattle has them. But advocates for pedestrian safety are concerned about what autonomous vehicles mean for walkers and cyclists."
-    publishedDateTime: 2021-10-21T12:05:00Z
-    webUrl: "https://www.kuow.org/stories/seattle-now-self-driving-cars-to-get-tested-by-seattle-s-rain"
+  - title: "What's a self-driving car? Here's an explanation"
+    excerpt: "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard."
+    publishedDateTime: 2021-10-24T11:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 19
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self driving race car"
     excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
     publishedDateTime: 2021-10-20T17:31:00Z
@@ -63,15 +70,6 @@ related:
         width: 1024
         height: 654
         isCached: true
-  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
-    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
-    publishedDateTime: 2021-10-21T18:27:00Z
-    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 11
   - title: "Only 2 accidents involving self-driving cars caused by poor systems"
     excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
     publishedDateTime: 2021-10-20T12:25:00Z
@@ -81,15 +79,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
-  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-    publishedDateTime: 2021-10-20T07:30:00Z
-    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
-    type: article
-    provider:
-      name: The Wenatchee World
-      domain: wenatcheeworld.com
-    quality: 0
   - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
     excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
     publishedDateTime: 2021-10-21T04:39:00Z
