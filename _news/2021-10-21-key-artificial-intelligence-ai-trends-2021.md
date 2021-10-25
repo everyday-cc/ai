@@ -63,15 +63,34 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Today’s Artificial Intelligence (AI) Job Market"
-    excerpt: "The artificial intelligence (AI) job market is growing quickly. Learn about how you can find and grow into a top AI career today."
-    publishedDateTime: 2021-10-20T19:26:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-job-market/"
+  - title: "Artificial Intelligence (AI) in Construction"
+    excerpt: "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,"
+    publishedDateTime: 2021-10-25T12:37:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/"
     type: article
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 32
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
+        width: 1024
+        height: 393
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Energy"
+    excerpt: "Innovative advances in artificial intelligence (AI) in energy are improving the way the world consumes, sells, and creates energy at a time when the environmental impacts of the global power grid are under constant scrutiny."
+    publishedDateTime: 2021-10-25T13:05:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-energy/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 54
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Next Big Thing : Major Giants IBM, Autodesk, SAP"
     excerpt: "The latest research on“Global Artificial Intelligence (AI) in Construction Report 2021” offered by HTF MI provides a comprehensive investigatio"
     publishedDateTime: 2021-10-21T04:40:00Z

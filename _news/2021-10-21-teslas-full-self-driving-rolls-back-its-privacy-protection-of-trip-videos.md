@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
 type: article
 quality: 86
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start"
+    excerpt: "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,"
+    publishedDateTime: 2021-10-25T13:25:00Z
+    webUrl: "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/"
+    ampWebUrl: "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
     excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
     publishedDateTime: 2021-10-25T07:17:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tesla rolls out updated version of its Full Self-Driving system AGAIN after roll back due to issues"
+    excerpt: "Tesla rolled out version 10.3 of its Full Self-Driving software Saturday evening, but within hours, CEO Elon Musk tweeted that issues were discovered and cars were put back to 10.2."
+    publishedDateTime: 2021-10-25T13:44:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10128259/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10128259/amp/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10128259/amp/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/25/14/49611365-0-image-a-8_1635167555543.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Here's why Tesla has pulled its Full Self-Driving beta"
     excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls \"FSD.\""
@@ -185,6 +217,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "DLC - a story about betting and self-driving robots"
+    excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
+    publishedDateTime: 2021-10-21T15:19:00Z
+    webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 4
 
 secured: "adv6v32lRHqrZNlztOlRewJRqrtm+HNTjCMIEaqU3QxlvouRuKqeA2wVSaUHhKyQt28zyaX5YvUIWRIjuG8FSByv+qq/bU0iDrTcnsegxxRMkUlYJwH2tievuHIUFxYu0ELoXU7h+iuILGK/pOI6NRtl1RmxMtRSOnVVJ4JXPgeWK3PYry98BouIHFpmavsT5QFI/ovhVWz5TO9gyGBU9DnF5BvxtkU7F1AP26kVL+Qck5kCfLX/2HKqj1T97E6kxTgA0Am54uk4QWlcT46vCWmXh1mlXSGZViZKSM5aOJYphXNqR7C7LCQM6QURK+gHeaOMnYdT+Tg3CIIvS57OXvpv2wmhItyhzAY8TZEze0wvOvszLZbW5TEz6gqf5XkKmz64zKzN+LNEO2thfh855FQL/HxOlVB+xPvPx1CZfPfukrvvpP7q1GjQEdMvCB57qvZzhf3+pfqvjXOWXF+qIqJtNj7YZuZIfVNyo+uq4oO+9xhbNV7jZbmaN44QkawuWtPHx8reBM0m7RYmU9wW+w==;0daHhdus+WCquNXEL3QwLg=="
 ---

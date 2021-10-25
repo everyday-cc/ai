@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Diginomica
@@ -25,22 +25,6 @@ images:
     width: 740
     height: 450
     isCached: true
-
-related:
-  - title: "AI is making waves in the rent, property owners define the accurate rent price fluctuations with variations in facilities and specifications"
-    excerpt: "Update of the AI price assessment feature on RENOSY OWNER's MYPAGE targets at property owners. The feature of \"setting the influencing factors about rent price\" has been added to the system in which owners can check the market price of rent based on different facility options and specifications selected."
-    publishedDateTime: 2021-10-21T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1665270/1.jpg"
-        width: 763
-        height: 400
-        isCached: true
 
 secured: "wBzHUaMAK/AW1VAkbpMdk2x8A74GPAwlfDeSgSFk/VGJ3toUvli6V93KD+iRr5fEQYHmdinmtaoMN91ahFZyDCiaeyY4yXvVSQvD9fNHcMfN+ftQaDCsZxNnCityL1uJFj6rjXJpR6zxjaxucz1/NoiJ4ArY7OXYxr5Iz5MyrYN4Sd/pmGwqtrE77VDe7zyyMcOZ0vufCg6TUnVdKceZ0rGMkPgZdnfDqVH4lDiSAZzF2JVWrtyuzohBlibx4aErNZn4yywErvsHZ8nfCNNC/W4cwti6aVxtYisrlDs8aY/2rh+H/P8HY3BT6tmGRLnhwdKnbq81fiHXFI6TDt18gcir9zlUlJLjOUf3R1FpZPNfWD+s4UPhZVs4X0fANniDtC83r9Alsbd8+HG3qLbvuCzoHonvb40BsFLvfDcWiDNqELbP2948PDBp6eNZdOrTIfK/pynmUBYZBRC5COh9QKRCcX9B3Mp4ZCY4QCBcdoR8xLcTMEmfhm7LRUPYjKqq65RmQuyEeCwSUjVuFry3Rg==;0o9/z2dNBLd0ieEQyx3H5A=="
 ---

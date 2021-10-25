@@ -7,7 +7,7 @@ originalUrl: "https://healthtechmagazine.net/article/2021/10/hlth-2021-partnersh
 webUrl: "https://healthtechmagazine.net/article/2021/10/hlth-2021-partnerships-and-interoperability-are-key-microsofts-healthcare-strategy"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,52 @@ topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+
+related:
+  - title: "The State of AI in 2021: Language models, healthcare, ethics, and AI agnosticism"
+    excerpt: "Healthcare is just getting started with its AI moment, bigger language models mean bigger complications, and there may now be a third pole for AGI."
+    publishedDateTime: 2021-10-25T13:41:00Z
+    webUrl: "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 116
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/cc7c6b5a2d1bd2322b59c93c7c0f67399a5f6fc8/2020/10/26/8d555a8e-93f7-4d63-bd13-e40696bdc433/quantum-computing.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 783
+        isCached: true
+  - title: "Artificial intelligence in banking 2021: How banks use AI"
+    excerpt: "AI-based systems are becoming an integral part of many enterprises in banking and finance, helping them stand out in the market."
+    publishedDateTime: 2021-10-25T13:02:00Z
+    webUrl: "https://knowtechie.com/artificial-intelligence-in-banking-2021-how-banks-use-ai/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 52
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/simple-online-banking-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
+    excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
+    publishedDateTime: 2021-10-22T04:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/latest-article-artificial-intelligence-in-healthcare-market-status-and-forecast-analysis-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/e302e48527a00d9aa3f6c8885afb0efeed56db62-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "evmmLkPhr71fmCWi+pUsNb4qNq3wlL8+GYacI3DjhScp779Gf3mmf/cY1kGpC73kQEDYD9dwSYcGeC21KX5oxHUDCdk81l9VcaRLk3TvoSr2kLEgXQNUmNMjYDhkaauWTJcri3o/IhBC2+08+LoFhnIj292ZT48ILtSkEEayXmnNsITa/nBAxJ+n1Yo5mO7ClMwnyoftnR+uY6b/GD+QDBxvguQMymVy3XBRv8a5e037S+3WDZ3oDbGR1stGGe1nY+79lIUUI0PSXGavZQ/3XpO1+wbR2CrhStstweQhYfs0ht5sHsba9Gbit+91pE37LzgjvBKOAhEztl50hESKxnIPrr3r3GNiDC88g4vmCitJgCgkjwhnb10bKiDOih7ym1elWQJKDlDrDuMM8r3ZIVUA4XRcKvMGhAE33JNdqbGw0ikwWsN0alhwhqpXEmMjRtifCaofUJy6KouuL2HU0BQsocAqPSFEjBBPCw9o6+YECQOGXL9xZYAnud65cm/+YHd3GI9F/4/UaVFvBwcp5w==;HWRPjhqUYxiqYi8TjEtRnw=="
 ---

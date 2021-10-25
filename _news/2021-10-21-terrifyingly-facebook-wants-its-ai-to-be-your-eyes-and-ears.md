@@ -86,18 +86,18 @@ related:
         height: 336
         isCached: true
   - title: "The Facebook Papers may be the biggest crisis in the company's history"
-    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-    publishedDateTime: 2021-10-25T11:34:00Z
-    webUrl: "https://www.wpsdlocal6.com/news/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history/article_8ab4a53e-3587-11ec-93ba-db6aa48aed42.html"
+    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
+    publishedDateTime: 2021-10-25T13:00:00Z
+    webUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
     type: article
     provider:
-      name: WPSD Local 6
-      domain: wpsdlocal6.com
+      name: KITV
+      domain: kitv.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/8/ab/8ab4a53e-3587-11ec-93ba-db6aa48aed42/61769763297b2.preview.jpg?resize=640%2C360"
-        width: 640
-        height: 360
+      - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
+        width: 500
+        height: 333
         isCached: true
   - title: "Can Facebook's smart glasses be smart about security and privacy?"
     excerpt: "Facebook's smart glasses ambitions are in the news again. The company has launched a worldwide project dubbed Ego4D to research new uses for smart glasses."

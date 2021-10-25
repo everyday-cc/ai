@@ -25,22 +25,6 @@ images:
     height: 444
     isCached: true
 
-related:
-  - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
-    excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
-    publishedDateTime: 2021-10-22T04:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/latest-article-artificial-intelligence-in-healthcare-market-status-and-forecast-analysis-2021-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/e302e48527a00d9aa3f6c8885afb0efeed56db62-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "GnLTLurnNO0NzPz1SpGWvpiM/1ODzmqLqYXu7UF/4jl2YqaMPeR0zlkZ9IUcMFH3kExsQFzfK/nkF5gksVSOxJlN7A65JseSWDKN+ajb537eJSzqb3epXIMmzRQy6OxcZCCsFCjyiqcwTpA6Xs4oZEa+Le45dhqTsbFJN2yRZKg9l8Hr7buNw8GHGNc1l3vcbk/G/g/yUQCZFdROOC03JpRIyuYtuYXgnxXG89iHbQPEIH0Kx7OdsUgGKkCxgWaU4ZBLoaXeWju2/sw8cAVd7QtwWnqCwfjVVOT3lhv3Z6WPKZ6qleXIQwjxXdtysqSGKzQfM+PIxA8aeUQvtW28eKkHqTMqYCociArVcKQOl/7/WeuHsq6RvpebNCCnCWxp20JoCdmNDSQEVO5LAQa7oHNooFJN+8rcyCFziI93tZSTE+u1id6ieEk/ZzRVbTOoLWR1PCg9xsTeuk2RoOnOJx2Rhj33XRivpA7bCX87VHE130EEGwvl3yNMdBYENcbkUJwYAuJpy4J4FyKcvr0Jsw==;WN+Iy0lBenl4NGIzuporTg=="
 ---
 

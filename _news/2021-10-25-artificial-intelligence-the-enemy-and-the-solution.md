@@ -8,9 +8,9 @@ webUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-
 ampWebUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: CPO Magazine
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg"
@@ -44,6 +45,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "lxnEh0qw90lr743Oi05ym1f1FzM4fwoDvgV6qu87PHDBRqWO7X+P0yvls8cSso050DHZrdDG/0/IQA9zZ/FEYwo3xVMHu+F/bh9SOdvk/rWUP0vPt4UjE21myhpODSW7IaV3p6Fl/I145wSysCQRv6BYgv987kK3EUQB07qAtXrvw3RkW3VbBeSGpaVgt6a6ermeUQ/oWrgMSSuX3D39jAfD+oP1wUnVfycIr3j4keqmOJg+EFbFxKK2w9s8Lj7v26zC86sq46oOi/nZRgO6/ncMFnjqUHSnGJ/YdgmgSDoC6OiEofF9j5tkgdByJn2giJ12igK2bYBhorzYPADYjnO6kw2M2b8B3bSgwptWzJM=;T4/KUnjeGjsTxsLobZWBsw=="
+secured: "92Ir2WFX64N4ka9TgX6/q8cbqwwOTf8tkAfDiGuTe8aA9/lH6pkEWPM/3CvD4WSLWBGFhYYSkbIH9lR7s3+GkHqrKhJy2pq1nMebxQZa0X8//q3K41QBPHjZMQsGnfSIek9ASoFzuqza57+6SBs1EivyGU/2PLZopURpycfm2aQQx94/OVUK9bT9kzTMyPAlVEgnxFjY23sEEsJSmMdrFQSbxqdT2rKNNsDcjQE6hAHbth+JT5GTHpWlL3JloDasmn56XKDr7ES9FZCsN9ZCQD/W91aS/VsJfG/JeeA/LYNT6QY9wyM22aGYXuuNcRMEOqDRym1J/qM6w03L3yeYkGfm+L8cR2mKosyIL6HRIa25t9mcblR7On5mY5yUUVNYJuG6iUPFuOs65bemet8P0PVeWIMF5YRes5Xef/emF1BGcHBWfK5CXh+9fqnalBrBJ9gBKZ9vR9rF9/Tfio3vKpBdcBtpV0U2YdfZpyp/lPbPBjUpK2r/bDGlFvTj2zToJiSEbsz+GEeuTKtBuZ66Eg==;iBPhHKeZw6yQiuewAMUkug=="
 ---
 

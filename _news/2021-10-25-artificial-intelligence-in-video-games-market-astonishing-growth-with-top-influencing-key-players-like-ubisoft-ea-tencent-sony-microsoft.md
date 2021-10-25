@@ -52,6 +52,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
   - title: "In Machine Teaching We Trust, Microsoft"
     excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
     publishedDateTime: 2021-10-22T10:30:00Z
@@ -74,15 +85,6 @@ related:
     provider:
       name: tech
       domain: techstory.in
-    quality: 36
-  - title: "Microsoft launches new initiative to empower AI startups in India"
-    excerpt: "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging"
-    publishedDateTime: 2021-10-20T19:14:00Z
-    webUrl: "https://www.dailyexcelsior.com/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
     quality: 36
 
 secured: "yiqp6tusksL7y1+AjyjjC6fQ1nBCmep6/8NuxDtdPWlq0p5toajUDMJftzFXxdhacfTnGIWe+NBZM/4aDM6CyLI/a74nL5Q7CAbA+66D1AilBbHvYhbaSCRutfIRkaRbpMflSrpJnfHvT+zN25kcMpu4bLHPG/+uacagdVS+QrNpNZrAUp1mZjT+tAaQ0LlUYRoSewY/SGVXoKreVLtaWxpJa4ZEaCcYBVwRfft720SXhQS51L2ZExGniw/Kr0FaHU6v42KZUkGPiOgd9T7y1jNw6C7kOqZQilekhYhpRjAwUsEfdRWf5Mv8FUhnKv0In5D153yECZ2bm+Mk8ubChATCf5TZZrsnoqXxe/jJZyw=;Nx+Qr0h6DfNrnhyeDbYnqw=="

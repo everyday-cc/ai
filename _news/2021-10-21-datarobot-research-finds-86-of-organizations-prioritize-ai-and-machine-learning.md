@@ -28,20 +28,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "'State of AI in the Enterprise' Fourth Edition: Becoming an AI-fueled Organization A Survey from the Deloitte AI Institute"
-    excerpt: "In order to assess organizations' AI maturity, Deloitte grouped responding organizations into four profiles based on how many types of AI applications they have deployed full-scale and the number of outcomes achieved to a high degree."
-    publishedDateTime: 2021-10-21T12:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-state-ai-the-enterprise-fourth-edition-becoming-an-/2021/10/21/9474729.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1666509/deloitte_1_Infographic.jpg"
-        width: 743
-        height: 400
-        isCached: true
 
 secured: "sZ6Q5r19h0BvuulzRd4j2EQhtXAop8bODgdX5PY3MjjC9IkkGdmADADzEzFL+ZQIFgoHEU4RmA6bdpByJPnbokCbysLOO5LGCYth2+JRe+/JTJWVqhlKbkidCR5+Yrq5pEqN47HYxSGkqZmB+89YGE0Hd4BdOQGy9ImlNZ6Y+Fh0ZqS5CWlhWDKpen8v7LPEudMibsQUNgFYJyQzyLHjE6mBXyGAQ/OrK8pw4/1lQlu0ZXBBsLaE7u9Cs/EH1o7n5DRy1pgdnOE0jOPVQQa+9avxq+OmA9rWfdebv9OxxvGtwyOtshPEyg5j38M68Yw5t3NPWflErwfrdBhdKHOofRC+MTGcC3lQjhA0UDF+l7Q=;aOwLvk55Y/7Ws1qRD3Aqqg=="
 ---

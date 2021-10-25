@@ -10,7 +10,7 @@
       "originalUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -999,6 +999,92 @@
       ]
     },
     {
+      "path": "_news/2021-10-07-what-tech-challenges-are-facing-the-financial-services-sector.md",
+      "title": "What tech challenges are facing the financial services sector?",
+      "excerpt": "InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline ... such as predictive analytics and machine learning, to build smarter processes including real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
+      "originalUrl": "https://www.siliconrepublic.com/enterprise/tech-financial-services-intersystems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/10/Financial-institutions.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-07-how-financial-services-can-invest-in-the-future-with-predictive-analytics.md",
+      "title": "How financial services can invest in the future with predictive analytics",
+      "excerpt": "Adam Mayer, senior manager at Qlik, discusses the benefits that predictive analytics can bring to financial services The financial ... such as predictive analytics and machine learning. These are concerns that Richard Speigal, BI Centre of Excellence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
+      "originalUrl": "https://www.information-age.com/how-financial-services-can-invest-in-the-future-with-predictive-analytics-123497137/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/10/how-financial-services-can-invest-in-the-future-with-predictive-analytics.jpeg.optimal.jpeg",
+          "width": 1080,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-07T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
       "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
       "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
@@ -1246,102 +1332,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-03-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
-      "title": "Fintech 5.0: Evaluating How FirstBank Strengthens Collaboration",
-      "excerpt": "It was Sir Isaac Newton, in his letter to Robert Hooke in 1675, who wrote the now-famous quote: “If I have seen further (than others), it is by standing on the shoulders of giants.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
-      "originalUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.herald.ng/wp-content/uploads/2021/10/FirstBank-HQ-image-scaled.jpg?fit=1024%2C683&ssl=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
-      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration-2/amp/",
-      "publishedDateTime": "2021-10-02T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "herald.ng",
-        "domain": "herald.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-portrait-of-an-ai-leader-piyush-gupta-of-dbs-bank.md",
-      "title": "Portrait of an AI Leader: Piyush Gupta of DBS Bank",
-      "excerpt": "Thomas H. Davenport and Randy Bean It is widely agreed that support from senior leadership is necessary for the successful adoption of artificial intelligence within large organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "originalUrl": "https://www.linkedin.com/pulse/portrait-ai-leader-piyush-gupta-dbs-bank-randy-bean",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFbJ5Qb8lZkIw/article-cover_image-shrink_720_1280/0/1633186737649?e=1639612800&v=beta&t=td8ODBukagJTby89xG7Qy5BDURAwyKz0WyrMsrtLQxU",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

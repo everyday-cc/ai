@@ -51,6 +51,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 44
+  - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
+    excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
+    publishedDateTime: 2021-10-25T13:40:00Z
+    webUrl: "https://www.openpr.com/news/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    ampWebUrl: "https://www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440535/deep-learning-software-market-to-make-great-impact-in-near-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
   - title: "In Machine Teaching We Trust, Microsoft"
     excerpt: "Microsoft's obsession with machine teaching has no end. The company has been actively spearheading machine teaching research and technology in computer vision and speech analysis in the last few years."
     publishedDateTime: 2021-10-22T10:30:00Z
@@ -65,15 +76,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft launches new initiative to empower AI startups in India"
-    excerpt: "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging"
-    publishedDateTime: 2021-10-20T19:14:00Z
-    webUrl: "https://www.dailyexcelsior.com/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 36
   - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
     excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
     publishedDateTime: 2021-10-25T09:48:00Z

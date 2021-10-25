@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-690
 webUrl: "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD and Microsoft announce the rarest ever GPU – Radeon RX 6900 XT Halo Infinite Limited Edition"
+    excerpt: "To celebrate the launch of the new Halo Infinite multi-player game as the 20 years legacy of Halo continues. AMD has become the Exclusive PC Partner of Halo Infinite and this means we will have something special from the Red team in the form of the Radeon RX 6900 XT Halo Infinite Limited Edition."
+    publishedDateTime: 2021-10-25T12:39:00Z
+    webUrl: "https://technosports.co.in/2021/10/25/amd-and-microsoft-announce-the-rarest-ever-gpu-radeon-rx-6900-xt-halo-infinite-limited-edition/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 43
+    images:
+      - url: "https://i2.wp.com/technosports.co.in/wp-content/uploads/2021/10/Radeon-RX-6900-HALO.jpg?resize=696%2C459&#038;ssl=1"
+        width: 696
+        height: 459
+        isCached: true
   - title: "'Halo Infinite' Reveals PC Features & Details, AMD Radeon Limited Edition GPU, Ray Tracing Post-Launch - Trailer"
     excerpt: "Halo Infinite is the next title in the series. The game focuses on the Master Chief and continue his saga after the events of Halo 5."
     publishedDateTime: 2021-10-21T17:10:00Z

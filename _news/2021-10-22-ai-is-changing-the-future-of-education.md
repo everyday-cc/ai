@@ -25,26 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "What automation, AI, AR, robotics mean for the future of work in mining"
-    excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
-    publishedDateTime: 2021-10-24T21:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
+  - title: "How Should We Approach the Ethical Considerations of AI in K-12 Education?"
+    excerpt: "We live in a world fundamentally transformed by our own creations. Once imagined only in science fiction, artificial intelligence now powers much of"
+    publishedDateTime: 2021-10-25T12:50:00Z
+    webUrl: "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 89
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/14446/How_Should_We_Approach_the_Ethical_Considerations_of_AI_in_K-1634587066.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
+        width: 640
+        height: 260
+        isCached: true
+  - title: "What AI brings to national military organizations"
+    excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"
+    publishedDateTime: 2021-10-23T10:35:00Z
+    webUrl: "https://uxdesign.cc/what-ai-brings-to-national-military-organizations-97931e774086"
+    type: article
+    provider:
+      name: uxdesign.cc
+      domain: uxdesign.cc
+    quality: 37
+    images:
+      - url: "https://miro.medium.com/max/1200/1*qGQEsaC_hB8E-1KZQQz7JQ.jpeg"
+        width: 1200
+        height: 1800
+        isCached: true
+  - title: "AI is making waves in the rent, property owners define the accurate rent price fluctuations with variations in facilities and specifications"
+    excerpt: "Update of the AI price assessment feature on RENOSY OWNER's MYPAGE targets at property owners. The feature of \"setting the influencing factors about rent price\" has been added to the system in which owners can check the market price of rent based on different facility options and specifications selected."
+    publishedDateTime: 2021-10-21T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 79
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1665270/1.jpg"
+        width: 763
+        height: 400
+        isCached: true
 
 secured: "svdLdS6Z2IGmhDred93YE8FEuGZCrnYAS7YWP8HdwmRMvT5fsIcdccVhv3l7C0J8Xq5pMyOUeyMs7gb9x/sOqZXf7Jx+nI0DES2F93h731Mt2QKZwDCOHHB0indRpnwlMjg3bC1hn18sWvOtu+CimT0jqgNWQSPbTNywI5rufXBOE/80+EHPkj9ybj18CDaKZgHVz85u3QMwFqjFFd+8Ht/qUXoBEWXYi/rXSJTmaTAZpd3MXzAvG9WdMw0CYbPxCtV7Kww3dpfBBK0Q/T5mcB41T4+Yq0/bincurg9FhWqo3Qlgkw7uGLCUla4x9f+nGfWpJ8MN7+uiku655ZNjb+I83iWLaLxpOrnA7D43aNDopOFWWfDPdRpbA1wtH/yeszu6r4j67s9S8zsOhSHkLzTzLQTiW9ULfm/GjBQZKtDHWRlyEcQWhI5Qc4omUcd4Ipa3h85oAldbshDoo4pQs0elD71tRK8eQ4RzgbQZMDProAmdXdbeOx/0x4PPQ7jE3uXLL/tjt6TchUIDF7ZZbQ==;rDpM6UR9hXcmZ3NHkmsyXA=="
 ---

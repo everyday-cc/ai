@@ -36,7 +36,7 @@ related:
     provider:
       name: CPO Magazine
       domain: cpomagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg"
         width: 1500

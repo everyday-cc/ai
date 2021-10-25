@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-09-17-what-happened-when-humans-stopped-managing-social-media-content.md",
+      "title": "What happened when humans stopped managing social media content",
+      "excerpt": "Their decisions are then pumped into the companies’ machine-learning tools, which require large datasets of removal decisions to learn from, according to Tarleton Gillespie, who works at Microsoft Research ... artificial intelligence,\" Guy Rosen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/",
+      "originalUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/10/sr_explosion453x239-1-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-content-moderation-automation/amp/",
+      "publishedDateTime": "2021-09-16T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-facebook-employees-flag-drug-cartels-and-human-traffickers-the-companys-response-is-weak-documents-show.md",
       "title": "Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show.",
       "excerpt": "Employees raised alarms about how the site is used in developing countries, where its user base is already huge and expanding. In many instances Facebook’s response is inadequate or nothing at all.",

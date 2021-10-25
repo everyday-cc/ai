@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The Facebook Papers may be the biggest crisis in the company's history"
-excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-publishedDateTime: 2021-10-25T11:34:00Z
-originalUrl: "https://www.wpsdlocal6.com/news/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history/article_8ab4a53e-3587-11ec-93ba-db6aa48aed42.html"
-webUrl: "https://www.wpsdlocal6.com/news/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history/article_8ab4a53e-3587-11ec-93ba-db6aa48aed42.html"
+excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
+publishedDateTime: 2021-10-25T13:00:00Z
+originalUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
+webUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WPSD Local 6
-  domain: wpsdlocal6.com
+  name: KITV
+  domain: kitv.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/8/ab/8ab4a53e-3587-11ec-93ba-db6aa48aed42/61769763297b2.preview.jpg?resize=640%2C360"
-    width: 640
-    height: 360
+  - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
+    width: 500
+    height: 333
     isCached: true
 
 related:
@@ -115,6 +115,6 @@ related:
       domain: theconversation.com
     quality: 19
 
-secured: "VkOH/AC29h5kaDAsCdDxcVUmTTpKyrPzLoITTeYPwGjH06NlKZhbvoG+PsptEj7SnvVdxLQB38skCwf+wlT0Ga8wIk11WP9CZ302ySfeEfOZtzYx7XxI1vTSCP2pGtmYh2vxFLLwch1ywXEVG/nxbubw0XIvLh/Xl8UvrbxvskgRGicTqnsvIj/XbwMDjXqgKen84cpK7xUev0T6pzpyjCL4XTryrRhHHgMM119+ci7MH+Gn0+cp1VhFDPnvuVZuUZWBaM5kcbT7H7udU+Ix7SWbMoWVFEPMU1sUQImzgXLxC1znqhqQb/QmAX/1HG8QU798BFVRrZUXYylWn8g5YukBZW11qFIhC6xlxPb19g0=;0fO4VWH3FjE8HWRZRbYzug=="
+secured: "stwBTmra/U1iLYbHo0WCK/jMj0kI46/DqvQf/zUlpp3AXohtqgZwVIPjem9VdEMO0hxOnsSussp+KioKTeZ14EeujeoU9nNDSehksHCfHmId2ovfQ8uzk+DfjO1bghVG9Cdc1IW/TS6zM//XQOdfUnAeDzCSo1o1B2hN1Iv2thxyPmh+AnUF3o09VeT72PT3rW4juoICT0+0j61OMOxmdVhedp8GLffN4/oqW/T8Gv79eSYhJQpDwaA1UBB9K2ZPKnIRbjsw55MjZdlhJmUPFmau4zG+pPDGJu48ocxL2359yNk8ddS4ASaT0l+2i0L244qSEk65FxbaSwfG/CLFmpYl3VoORXTTG4drWG6X1c8=;1YDx4/JnrHPbDZQU1Qyv+g=="
 ---
 

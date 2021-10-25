@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start"
+    excerpt: "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,"
+    publishedDateTime: 2021-10-25T13:25:00Z
+    webUrl: "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/"
+    ampWebUrl: "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla's 'full self-driving' rolls back its privacy protection of trip videos"
     excerpt: "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy."
     publishedDateTime: 2021-10-21T11:13:00Z
@@ -107,6 +123,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla rolls out updated version of its Full Self-Driving system AGAIN after roll back due to issues"
+    excerpt: "Tesla rolled out version 10.3 of its Full Self-Driving software Saturday evening, but within hours, CEO Elon Musk tweeted that issues were discovered and cars were put back to 10.2."
+    publishedDateTime: 2021-10-25T13:44:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10128259/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10128259/amp/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10128259/amp/Tesla-rolls-updated-version-Self-Driving-roll-issues.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/25/14/49611365-0-image-a-8_1635167555543.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Here's why Tesla has pulled its Full Self-Driving beta"
     excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls \"FSD.\""
     publishedDateTime: 2021-10-25T07:22:00Z
@@ -181,6 +213,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "DLC - a story about betting and self-driving robots"
+    excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
+    publishedDateTime: 2021-10-21T15:19:00Z
+    webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 4
 
 secured: "o9LTRzPG7H4KKYZbgC6GPlAxraA+boLljbioznhVrQwE6um62aVMu8k627UkHpbKdQnEdvEHPa85kXMUldGyfPNhxP7h2xwTiJ+GKZUJ8S3+lm6iZiHqnGO4SuP9E14TpRt5lRnlPqqhdWLzD1mPo7elSwgqlmqNL/Ot/IXiofo6mcaKLJc3DJvZM4k/Ze+1yq+pym1NejplWtLYI5AtUI0IQuYuEC+7H5aERSCGs7dUJ/TEvIXGNP8SK5nzdARQCl4gLr8iuuOCIJsxA2nzCI3UYmkcxqf7E/3dTjNIYBVuYvxw1MZtst2gDA2AHlBfVjmXPwhC9XHzxKPf9OsHcf/y7Mf+XgLX9HUlvgsdzcZJh3dwb//8aqhUU8cCxjd+hNE/F9v4i7Y4VXGFTfEbHWOcVgZMH6Fr3mRVSeDCKmg7t391Is22/LQhkX6V4FWEQub0lR5tCCaAjOiuxLI4BTbXNkcKdpUzdtPvDA8ytTY4J50odsiuXHFdFQAhREnb5huuaHF9IFtD8tbaLheG5A==;vVNBODTvs2GpleDZb0XrGw=="
 ---

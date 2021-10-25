@@ -18,6 +18,22 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "The Buzz Around Florida Startup Growth Isn’t Just Hype"
+    excerpt: "The hype around South Florida as an up-and-coming startup hub isn’t just hype. Seed- and early-stage investment to Sunshine State founders really is up several-fold year over year."
+    publishedDateTime: 2021-10-25T12:30:00Z
+    webUrl: "https://news.crunchbase.com/news/florida-miami-startups-vc-investment/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 22
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Florida.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "xTdqflHbW4plEZR++GIZTA9vt5eyfKJSi/VHYP2p1Do8zWxzIyYQAd2TKWgIFX6uewlls45JTG2opUF249liZQXsYwcpgzbmcb4j9ODNDfay1RYHr3w3HfajclEOYTTbkbQfNH4LDF/GudeLQLI7soqtbzfsbkU7NHsTRSW8voYexJmFT6ePkDPlOOLBxvwqQChjo05Eb5nkQDcYqvQ8WG2F/tnR0S+exyv2nFVbwhtPsiIoy3oX9f/uvEmiIzBETenVyT/bXH+5bRIgcX5dXEVKW1m0MrnCoDLgwT4op1J4iwa4RKIU7LuP8Qak4s8m5XqbLOutw6f9YRgXr5sxQqqKHLYBzpZSPDqVZZ7azAau8cvGEQdJgT8hpYl3TTYpmq3Om4gfGqB2dnY7XMZ6GtRmXLQxuw68d+8cmUPbtUSDGXydIUaY6XzkV75A+T5u6keX0M1qOo7z4C/W70ue+JKT8eGEfKU6OGf/f8yFaSYZiaQT/moDlw5aQNVzxFa0OIkvyh8YEAstIgEEcsLXAg==;LDk3jHZ/6g7vziUuFrNakg=="
 ---
 

@@ -2,6 +2,290 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-23-mercedes-benz-to-upgrade-to-expensive-chips-to-resolve-shortage.md",
+      "title": "Mercedes-Benz to upgrade to expensive chips to resolve shortage",
+      "excerpt": "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/10/23/600x338/2020-01-11T070253Z_1_LYNXNPEG0A06E_RTROPTP_4_BELGIUM-CAR_1578977810523_1634964680135.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
+      "publishedDateTime": "2021-10-23T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-increasing-sustainable-logging-practices-with-the-help-of-ai.md",
+      "title": "Increasing Sustainable Logging Practices With The Help Of AI",
+      "excerpt": "AI can be applied specifically to logging operations such as planning where trees should be cut down and predicting the best time of day for cutting trees so they do not disrupt nesting birds or other animal habitats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6173ac70ad3db459766729d0%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/",
+      "publishedDateTime": "2021-10-22T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.md",
+      "title": "Quotation of the Day: U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World",
+      "excerpt": "U.S. Warns of Plan by the Chinese to Collect Genetic Data From Around the World “Once they have access to your genetic data, it’s not something you can change like a pin code.” EDWARD YOU, a national counterintelligence officer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
+      "originalUrl": "https://www.nytimes.com/2021/10/22/todayspaper/quotation-of-the-day-us-warns-of-plan-by-the-chinese-to-collect-genetic-data-from-around-the-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/22/us/politics/22dc-INTEL1/22dc-INTEL1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.amp.html",
+      "publishedDateTime": "2021-10-22T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
+      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
+      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
+          "width": 622,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:56:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
+      "title": "embedded news week: robotics, rainforests and IoT security",
+      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
+          "width": 1700,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
+      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
+      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
+          "width": 708,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "publishedDateTime": "2021-10-22T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-scientists-built-an-ai-to-give-ethical-advice-but-it-turned-out-super-racist.md",
       "title": "Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist",
       "excerpt": "Researchers at the Allen Institute for AI created Ask Delphi to make ethical judgments — but it turned out to be awfully bigoted and racist instead.",
@@ -296,7 +580,7 @@
       "originalUrl": "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -873,7 +1157,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-amd-halo-infinite-radeon-rx-6900-xt-gpu-151505531.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -915,272 +1199,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-ethics-by-design-steps-to-prepare-for-ai-rules-changes.md",
-      "title": "Ethics By Design: Steps To Prepare For AI Rules Changes",
-      "excerpt": "The EU’s AI Act promises to mitigate the harmful use of machine intelligence but will require deeper education and evangelization to ensure more transparent and ethical use of AI, notes Ursula Morgenstern,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
-      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/10/21/ethics-by-design-steps-to-prepare-for-ai-rules-changes/amp/",
-      "publishedDateTime": "2021-10-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-aws-makes-its-panorama-appliance-generally-available.md",
-      "title": "AWS makes its Panorama Appliance generally available",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of its Panorama Appliance. The device integrates computer vision into on-premises internet protocol (IP) cameras, allowing fast and easy visual inspections of production lines,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
-      "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
-      "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "originalUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "publishedDateTime": "2021-10-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-teslas-full-self-driving-rolls-back-its-privacy-protection-of-trip-videos.md",
-      "title": "Tesla's 'full self-driving' rolls back its privacy protection of trip videos",
-      "excerpt": "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html",
-      "originalUrl": "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211020111839-tesla-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html",
-      "publishedDateTime": "2021-10-21T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-artificial-intelligence-in-military-market-to-attain-highest-growth-up-to-2026.md",
-      "title": "Artificial Intelligence In Military Market to Attain Highest Growth up to 2026",
-      "excerpt": "United States Portland The report presents an in depth assessment of the Artificial Intelligence In Military Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2436473/artificial-intelligence-in-military-market-to-attain-highest",
-      "originalUrl": "https://www.openpr.com/news/2436473/artificial-intelligence-in-military-market-to-attain-highest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua21428239_g.jpg",
-          "width": 763,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2436473/artificial-intelligence-in-military-market-to-attain-highest",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2436473/artificial-intelligence-in-military-market-to-attain-highest",
-      "publishedDateTime": "2021-10-21T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

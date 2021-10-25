@@ -30,19 +30,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 79
-  - title: "AI is Changing the Future of Education"
-    excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
-    publishedDateTime: 2021-10-21T23:28:00Z
-    webUrl: "https://www.ozy.com/pg/newsletter/the-daily-dose/443152/"
+  - title: "The Coming AI Transformation of Care Delivery"
+    excerpt: "A glimpse at AI’s near future in helping health care professionals make better decisions to improve care quality, patient safety, and efficiency. The Deputy Director General, Chief Medical Officer, and Chief Innovation Officer for Sheba Medical Center and the Chief of the Division of General Internal Medicine and Primary Care for Brigham and Women’s Hospital discuss the role of artificial intelligence on various aspects of health care delivery in 10 years and what organizations need to do to get ready for its use in decision support,"
+    publishedDateTime: 2021-10-25T13:01:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0378"
     type: article
     provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 37
     images:
-      - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
-        width: 1200
-        height: 630
+      - url: "https://s3.amazonaws.com/production-nejm-nav-images/3Kplus-woman_photo.jpg"
+        width: 525
+        height: 350
         isCached: true
 
 secured: "bp6Gi+eXMgrzrBkneM7hEK1FezqxIMXNBgnTLTJjdDvG3fW70ssxDQWrsLL/xDa4YKqh5R4Ms1zJtBACXT0UvxvuoqDQBFXLQVoYsQuCvmGQ/EeLalK2HroYiXK6uI6d1A/1GHcjNXsu+6AmXrLx8KK1cPTUDckZBtelk/QdJ5wd9hEcHC+mBNsSmGnudHgB/zG0ua2r8r8YD9yLbSBlLfuyft34f9Zdzf2epJIekGqHbIv6IqnavZFoZJk5XTMP793qjiH7U5LcXHthfdyxKdaczzyR8fch/dLDfYE5NmVS9y+IfOHXD7nAEFhJDU/ilyi9f/BOD5XD1QwwtS/sdlYmFxxQp5eGL2AXuWnLJE4=;mn+SpP1iwvEAicZdsSlE5A=="

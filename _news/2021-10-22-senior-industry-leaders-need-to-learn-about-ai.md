@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leader
 webUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine"
+    publishedDateTime: 2021-10-25T13:55:00Z
+    webUrl: "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25281817_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Can Artificial Intelligence Automate the Film Industry?"
     excerpt: "Can artificial intelligence be used to help address the problems of the film industry? Dive into the details and learn about what AI can do."
     publishedDateTime: 2021-10-21T14:26:00Z

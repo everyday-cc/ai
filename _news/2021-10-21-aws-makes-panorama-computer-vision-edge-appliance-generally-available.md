@@ -43,15 +43,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "AWS launches its AWS Panorama computer vision appliance into general availability"
-    excerpt: "AWS Panorama, an appliance that companies can deploy at locations such as factories to run computer vision software on-premises. Organizations are applying artificial intelligence to more and more parts of their operations in a bid to increase efficiency."
-    publishedDateTime: 2021-10-20T20:47:00Z
-    webUrl: "https://siliconangle.com/2021/10/20/aws-launches-aws-panorama-computer-vision-appliance-general-availability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 46
   - title: "Amazon Announces General Availability Of Its Computer Vision Appliance AWS Panorama"
     excerpt: "The appliance is an edge device, runs applications locally on optimised hardware instead of sending images to the AWS Cloud for processing."
     publishedDateTime: 2021-10-21T10:59:00Z
@@ -70,15 +61,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "AWS Announces General Availability of the AWS Panorama Appliance"
-    excerpt: "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras."
-    publishedDateTime: 2021-10-20T19:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-amazoncom-inc-web-services-d4e0f9296bff4570b449aaba742fe7ae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
 
 secured: "0OcdmylHUctH2bte/X1v/aYZHB5woiIAJgBWUkw493pqLxoBPgJpmv7jnhL2bda8XSZdC4xYosQRzKpiNSj/J1GPxrx/wRcPCrZ/FECvgqAZ3QZINrM/+BxLlxB6yg9VKmLz029uRiyyhUo0Njl9tzioS8kqvjks9JCEWWD7DzW8K4zHxIOpqVfWGwujAClY0jelAIkdoNpLwOwzspETGCTUCJ0osG9sK7gZW8szCPOh0ZZ+vB2t5LcNgVNrN09gk6+1XxIegmr6SvJYNN8MnCEPZqZPWgbWksDficLAlX5U5two4vXgZVcPqwfkz4SUwdnyMVw3YNi7LVZv9vTPsMBeElLtNuq8EPdZEuy0FHtCVrrJk7ZeWq73i4mbohsnNWBhKQX74lrPkBnoVhZFi/oeMzNWUrT1t1iLwGgY5R+ajQ6J3l3VLbsDsC4giBTvng3kjopAVujCA5p1Ik6vjAKjbtpLFGnSoiwAPRH7zXZoyaExPZLHF7bXf8/DQYktHTbMUYM+AsqUH2ZaJRDNHw==;h1o1H18SN9BCvuLLoF03Mw=="
 ---

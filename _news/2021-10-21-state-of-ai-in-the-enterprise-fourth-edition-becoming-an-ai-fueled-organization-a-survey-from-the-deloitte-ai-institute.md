@@ -24,24 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot Research Finds 86% of Organizations Prioritize AI and Machine Learning"
-    excerpt: "DataRobot, the AI Cloud leader, released a new research report on the state of artificial intelligence and machine learning (AI/ML) in the enterprise. The report findings are based on a deep exploration of over 400 organizations across industries,"
-    publishedDateTime: 2021-10-21T13:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datarobot-research-finds-86-organizations-prioritize-ai-machine-/2021/10/21/9474860.htm"
+  - title: "State must take central role in Artificial Intelligence application - Lecturer"
+    excerpt: "A Lecturer with the Department of Labour and Human Resources Studies of the University of Cape Coast (UCC), Professor Akua Opokua Britwum, has observed that with the advent of digitalisation, many more jobs will soon fade and this could pose a challenge to employment in the country."
+    publishedDateTime: 2021-10-25T11:50:00Z
+    webUrl: "https://www.graphic.com.gh/news/general-news/state-must-take-central-role-in-artificial-intelligence-application-lecturer.html"
+    ampWebUrl: "https://www.graphic.com.gh/news/general-news/state-must-take-central-role-in-artificial-intelligence-application-lecturer.amp.html"
+    cdnAmpWebUrl: "https://www-graphic-com-gh.cdn.ampproject.org/c/s/www.graphic.com.gh/news/general-news/state-must-take-central-role-in-artificial-intelligence-application-lecturer.amp.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
-  - title: "Investment in Machine Learning Keeps Growing, DataRobot Finds"
-    excerpt: "After years of double-digit growth in machine learning investments, nearly 90% of companies grew their machine learning budgets again from 2020 to 2021,"
-    publishedDateTime: 2021-10-21T19:08:00Z
-    webUrl: "https://www.datanami.com/2021/10/21/investment-in-machine-learning-keeps-growing-datarobot-finds/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: Graphic
+      domain: graphic.com.gh
+    quality: 53
+    images:
+      - url: "https://www.graphic.com.gh/images/jamp/page/amp_default.jpg"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "Dbcn5wer9CFaljsb+PqsTJfFSa6DgTktB2aPscXobYZY4PMxaejtW+pD8CfojVjeZbgKPz46KUYudPzHaj/F3iWxaqFVaeyo4mbP3J6FfK+3jreZ7a4IG2fYTPbsjeTJufu03RcoMsst1Z1UfpaplUQsbrWxET+fPgZHOa2ouf8ZGS6iDYHKm9GcsKSad9fBBAZOHwTrW7ijL9XAg2+5Vy1NX3B2do1ofuh3TmiySE+vcPtVVoMvFim6oNaEVgFXlNxaqNcLt34yEuv+3hXeANKQp6TBGU2StPFPxepcUQd5jIL7GzxZhWzhzEwHN3akM4IHs1w2fDs8H2OV8pdMS2mO1i4t2uBhkg179FklwwI=;aQqC10ExP/jyu7rVOqwPHQ=="
 ---

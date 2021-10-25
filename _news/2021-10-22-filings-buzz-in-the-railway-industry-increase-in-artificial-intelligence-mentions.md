@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Disrupting The CRE Industry: Covercy’s New AI-Driven CRE Fundraising Tool"
-    excerpt: "Artificial intelligence (AI) has the potential to radically disrupt the CRE industry, enabling companies to dramatically increase the scale and scope of their strategic, analytical and organizational capabilities."
-    publishedDateTime: 2021-10-22T15:54:00Z
-    webUrl: "https://techbullion.com/disrupting-the-cre-industry-covercys-new-ai-driven-cre-fundraising-tool/"
-    ampWebUrl: "https://techbullion.com/disrupting-the-cre-industry-covercys-new-ai-driven-cre-fundraising-tool/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/disrupting-the-cre-industry-covercys-new-ai-driven-cre-fundraising-tool/amp/"
+  - title: "IIT Madras RBCDSAI Launches Industrial Consortium To Support AI Industries"
+    excerpt: "IIT Madraas is launching the ‘RBCDSAI Industrial Consortium’ to provide information resources support on cutting-edge technologies to industries working on AI."
+    publishedDateTime: 2021-10-25T12:47:00Z
+    webUrl: "https://www.republicworld.com/india-news/education/iit-madras-rbcdsai-launches-industrial-consortium-to-support-ai-industries.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/education/iit-madras-rbcdsai-launches-industrial-consortium-to-support-ai-industries.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/education/iit-madras-rbcdsai-launches-industrial-consortium-to-support-ai-industries.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 56
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 57
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-Driven-CRE-Fundraising-Tool.png"
-        width: 700
-        height: 400
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ataklqvzfwgqmoag_1635166023.jpeg"
+        width: 768
+        height: 439
         isCached: true
 
 secured: "UZ81miMl8QX84K6fEGjCUj9DuIjYN4nK0s983kVympJtDFLHf/2y0vqHb+HAIQJ1ib9n9rZwawxuRg1lNoN810YnVTtn3ymAovyeoqBxY12gvamoqfBo8RxIBp0CPvb6ckdoPFW/hFoZA5s30sMfhUi7J02kEpoSzxRi0bXSGPSkvuqw0PxQTJiwXCli0EMNbAnieazfCXPVTQo8YkQNb/F7JHlgno7lawtaSKAP4AqmvLA0YFAIoVlRI9xB5x4h/9P6sS+iNXwRQ4S+Jjf8f0debEKZs8cMsWcrWC/Kw1T6hdlyP1yga6xHCn38lhCe7AofF+eDvpjSk49EbLt2EHSL5R19bl3JPE1g4s4o7FDRo54Bb4zZIHgCjAihhlZwug0A7KHjQP/Oaz/cJqacsNlcPGXm/GRv7yDu6dohKnoi5QF4KJz1txYJQ6hY+psng2wOxyfXkdlnMPFL21v2vD7qoiiBuB62nb0UkwgtFPXazPP5f9tVO20cMo8T/Y7f1j/7xqKymUMDadkte26Ipg==;sYav/Yrghxp18s8/CyumVA=="

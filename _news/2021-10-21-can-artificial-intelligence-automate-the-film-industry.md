@@ -32,6 +32,22 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market- Industry Predictions For Coming Years from 2021 to 2027"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence and Machine Learning Industry from its research database Artificial Intelligence and Machine Learning Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence and Machine"
+    publishedDateTime: 2021-10-25T13:55:00Z
+    webUrl: "https://www.openpr.com/news/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440565/artificial-intelligence-and-machine-learning-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25281817_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "7iCy+kfdme1d/q1Ofs7/qjNiH4BFB2UhfSxz7IciI0wgRACLBjS7J8XADAYKoMG+q6v6ahiIxC+/92PG5G/Ll5Idoz/Y4CCM80XUTYBDlvL7qXQB0CnsAHdzqGi83yRXOt3tUd/n+oqNhoJQbAklf9sVgeUyt3CUmHCLOwpcfXNuIUUkeLYYHYMXZmmzPzKBX3622V3LEiwBsmHhGNit4RJ2iFm4QMHk3rROMZApVPq6BAHN3h+dn1pdEBu9Brli8ZzEAWS07TtIDQum7Sk5SxWZZn601jzkh9WfNEGKVcyt68jNEEqip/HGtjtBJs/WYlBTVEhwp3/72Jd1/GydFn2w2fbQU13elXKyYQ71lHM=;bRfWpoFB3Cka1itrhvw0Aw=="
 ---

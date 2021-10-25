@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "What are the Benefits of open-source Technologies for Fintech?"
+    excerpt: "Fintech will continue to thrive if it is implemented correctly ... It provides developers with a platform to develop software applications for AI/blockchain, and the platforms that financial businesses will eventually use to execute those results."
+    publishedDateTime: 2021-10-25T04:37:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-benefits-open-source-technologies-fintech-daniel-abbott"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
     excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
     publishedDateTime: 2021-10-21T19:45:00Z

@@ -5,6 +5,8 @@ excerpt: "As the perils and wonders of artificial intelligence begin to permeate
 publishedDateTime: 2021-10-10T19:10:00Z
 originalUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 webUrl: "https://theconversation.com/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-now-part-of-our-everyday-lives-and-its-growing-power-is-a-double-edged-sword-169449"
 type: article
 
 provider:
@@ -14,7 +16,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
-secured: "Byrem/nsj0Yj2OdSUW9Cn1auVqaNDBwGA7K6bf/4TDR023F524KZAD/DuyU+zeL81ueaWWY+kY8lCy6k4/ggNWxqKKCRqxBnbGKv8gVeVXttdGXxOuo7dB3wkn6yWkpp2aAWect1QTEzLu+jNyWyii1rZ2mlwX9vhNnwiapRw+xn+4KaruckU+f5/3R9Jnrdwxbp6xHNaIRc2FZRxt2kwP22JhQQV3lb0PKou3S/beSY/OR8NH3PmuNJJpN4Kscrd562VXfW3iGetw912Frf+MAz/9MwDywl8bZRp6vDmdjQCBpmEXQg08qp69c2PmMy9Zt95ejwD8F8Jqk7x03l/ZtcmXYfdOEBeFTCrkHUzPk1H98wfRiD99jbJsyvl4u7U9L0HKuoeCK2XAw4Eh8JzPt45WrwXtSwIrdiz7729lVdlm47Gftp1N2+zTHR8jaRJ0LE6qLpBiKbTAz9z/RPrt3doQNE1gWQFJ1s7RhLUycux9fOA6xuVWMkn9Si/Oc6es1VQ4JPnuCZ6CzFyLMwZg==;3E5MvUarckLvM48YcsEy1g=="
+images:
+  - url: "https://images.theconversation.com/files/425394/original/file-20211008-21-1ottqx3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=385&fit=crop"
+    width: 320
+    height: 385
+    isCached: true
+
+secured: "gDl6OTPtPmu1vfOgOQg3cCavn2qFeeELYpMceuEsHK1Wd9h9cSQSVsetjUnIouD+RMsj07LyC6RvTgdLQ9M6T0PIo8OP/Fztfe3ghZVLqYMjFCg7mYs8CMBq7S0WIudM0Tyq/xa3EeDNPUcpsARjfkmM1bLmGJCEuEa5SMRNneib2ICaAQYOeRk4Q9pdHqjOVwPN1F1BsdgsGa8HIqhRhw3Shx9x6Pw3kqEe+L5imz/1B5L9Ku9azTYxP9nRdeTSRUqAQGV+KEh7t6v4PEQdQD5ihz3Xgrf4GtmTBTFMxvmA7P/pr2uUE93kDXIBqetJyeYSQ7I4U5zMLRo4rHcdu++3iRtqx/7efNgbfhhCEZU=;WjLifUX3GXC8nCJCodeI+A=="
 ---
 
