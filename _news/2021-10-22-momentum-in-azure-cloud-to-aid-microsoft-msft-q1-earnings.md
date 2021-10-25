@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-micro
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 36
-  - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
-    excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"
-    publishedDateTime: 2021-10-20T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/group-elite-expands-delivery-of-verint-workforce-engagement-on-microsoft-azure/article_47f85cf7-bcaf-58f1-8752-f3405e90f42d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
 
 secured: "NlTWM5UTT3o9ZO0sIAit0OCfGxM2w+NOzv8D/TVjgZcssYwbv4hoFK8BU3AKjvHJYBYYBLvIZPloLcaj4KVh9oCYv1DEIBskc38fqLEjZVGzNcyJP9mxL5RtuAoVLr9eSuzGj3+QJsA79PtNNHwK57tlKnvbD2456+runSd+Ejm/z49mtf3tSStwYDJIuQKhf3wsRfUuvCZHOGQvOaU4cgyl6q0qnNzY7a1DHOzrg/5ABFvS2DDOuwRqWbAKSCEnZfDvF1tuZom/eVBrOIB1e48MWcNWHndvomI0PWYlB9ionJj/aNhBmh16Ha2k1H4ODrICEco6idDhwoBIuL1evNysAGu0WTNBvgAgKhPUUig=;8ugO92uLZdAbTQWGC1Gp5g=="
 ---

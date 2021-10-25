@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/D49EAF1F57A75E595DE16A8C0D6F4D55ED6
 webUrl: "https://www.publicnow.com/view/D49EAF1F57A75E595DE16A8C0D6F4D55ED65D1B2"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Startup Marries Community Lending to AI"
-    excerpt: "But Camino is confident its tech approach — combined with partnerships with firms like Utah-based lending marketplace Lendio — will guide it through the challenging post-pandemic times ahead. “Moving forward,"
-    publishedDateTime: 2021-10-20T11:30:00Z
-    webUrl: "https://nextcity.org/urbanist-news/entry/startup-marries-community-lending-to-ai"
-    type: article
-    provider:
-      name: Next City
-      domain: nextcity.org
-    quality: 19
 
 secured: "DfuopP2oWjglvqAfpzha7dOQTCSExNL5woeqBaGsVqLyETSE0kpwDkIeFsz48hPNf5nXO38lgMYwtFmDASEj/7B8Q/LIf2rLKbqP2vseh3lZOu54EzTj1TkdkWn3ThX/q7gNbQRZMHL15P8w/cIoKbL3V2sxHl75zSeJrd8LLTcN2MnK64OzlNQv0LgD6NnCI/qWJFvR9VFt6NBW1djgnsU5ZADckI91RgqZM6mXi5eiWZzGadFd5MTWvoB4jL4h0TcX+T96TmyX05eygbmG1aoj2mSogay77hy7YTL4bizmpzUjtdWxFDf4mdwO0LfbI1VhtR9yhH8Uh6oGcuWh19YKym39tL4HWXJxR0OgFX4=;ZciPef2u5XpuERg2+fDTRg=="
 ---

@@ -2,6 +2,100 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-10-06-google-owned-ai-firm-deepmind-turns-profit-for-first-time.md",
+      "title": "Google owned AI firm DeepMind turns profit for first time",
+      "excerpt": "Google owned AI Lab DeepMind turned a profit for the first time in 2020 according to Companies' House filings (Photo by Sean Gallup/Getty Images) Google’s AI department DeepMind turned a profit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
+      "originalUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
+      "publishedDateTime": "2021-10-06T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-european-parliament-backs-ban-on-remote-biometric-surveillance.md",
+      "title": "European Parliament backs ban on remote biometric surveillance",
+      "excerpt": "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
+      "publishedDateTime": "2021-10-06T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries.md",
       "title": "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries",
       "excerpt": "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer",
@@ -1084,110 +1178,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-robotics-pioneer-yoki-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
-      "title": "Robotics pioneer Yoki Matsuoka on the human touch in her new personal assistant venture Yohana",
-      "excerpt": "Yoki Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "originalUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0395-GW-Summit-2021105-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/robotics-pioneer-yoki-matsuoka-human-touch-new-personal-assistant-venture-yohana/amp/",
-      "publishedDateTime": "2021-10-05T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries.md",
-      "title": "Exclusive: Amazon Adds New Speech Setting To Alexa App To Help Stutterers Finish Commands, Queries",
-      "excerpt": "Amazon on Friday is adding a new feature to the Alexa app, available on iOS and Android, that tells Alexa to wait longer in order for a person to finish speaking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/",
-      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615c98cf3aff1993754d178f%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/10/05/exclusive-amazon-adds-new-speech-setting-to-alexa-app-to-help-stutterers-finish-commands-queries/amp/",
-      "publishedDateTime": "2021-10-05T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

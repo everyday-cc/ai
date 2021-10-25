@@ -7,8 +7,8 @@ originalUrl: "https://www.fierceelectronics.com/electronics/deci-gains-21m-fundi
 webUrl: "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: fierceelectronics
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deci snaps up $21M for tech to build better AI models based on available data and compute power"
-    excerpt: "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,"
-    publishedDateTime: 2021-10-20T11:04:00Z
-    webUrl: "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/"
-    ampWebUrl: "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1088155680.jpeg?w=1024"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "AI model optimization startup Deci raises $21M"
     excerpt: "Deci, a startup developing a platform to optimize AI and machine learning algorithms, has raised $21 million in a venture funding round."
     publishedDateTime: 2021-10-20T18:00:00Z

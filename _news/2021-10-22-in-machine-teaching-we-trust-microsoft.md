@@ -63,15 +63,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 36
-  - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
-    excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"
-    publishedDateTime: 2021-10-20T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/group-elite-expands-delivery-of-verint-workforce-engagement-on-microsoft-azure/article_47f85cf7-bcaf-58f1-8752-f3405e90f42d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
 
 secured: "fyAsvVYZJRiQQx1giOOKwmHyjfrtY0Iq2Bc9YavYPLqJ3CCERJ2QvcpqcMfhUhABKMTJuZEr+CUzpjmqa8NNJtfBGFoYnla9GpQ8He1x0bpB4XnQxZCtKXQIxEgY9hKtluqI2lr9yzF8a24iLgkMSCCgueVMhyceTFX/1UDfNro8+aNjQowFMBg5VWZKncyFCLel+0Gomg3c1nLa0QT96/11e5zUQlBZBtbGwP3h4sFiSoPLXOEph2dKsUNf/y43ACOjDPYwCTofbzdCyRa9fBsmH59jx+XYJfmG3Dk4Bn1Vf/iMCEvy6VTN8ze3T4tCfS2bMFpD1MHpJus8ZdPp+O5eQs/ttEzcNwdw2bAimjyLSWDQUhn2PSXZ0PfhseLwrxZLAmQROovbTa6retvAyCqfn60GyCswojgwWybFXeFV4X9QRZ14UwMX9UKACvM2ovAQYvkY7HHkdiPXCh/ug/LMe9sc4gJAXLNPoz074MVOCBe9L0edI2mp5oS7k+Q2lsPvNBBo1e5micjbw86FdA==;crFvzgDkeijLdnroAux0FQ=="
 ---

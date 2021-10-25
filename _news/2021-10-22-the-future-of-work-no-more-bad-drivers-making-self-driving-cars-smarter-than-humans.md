@@ -66,15 +66,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 19
-  - title: "Only 2 accidents involving self-driving cars caused by poor systems"
-    excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
-    publishedDateTime: 2021-10-20T12:25:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
     excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
     publishedDateTime: 2021-10-21T04:39:00Z

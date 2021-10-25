@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-10-12-ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m.md",
+      "title": "AI-powered customer service analytics platform SupportLogic nabs $50M",
+      "excerpt": "SupportLogic, a customer service analytics platform powered by AI, has raised $50 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
+      "originalUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/ai-powered-customer-service-analytics-platform-supportlogic-nabs-50m/amp/",
+      "publishedDateTime": "2021-10-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-the-uk-wants-to-be-an-ai-superpower-but-it-goes-easy-on-ethics.md",
+      "title": "The UK wants to be an AI superpower, but it goes easy on ethics",
+      "excerpt": "After a long preparation, the United Kingdom has officially published its national strategy for artificial intelligence. The Office for Artificial Intelligence, a special government office jointly coordinated by the Department for Business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "originalUrl": "https://www.linkedin.com/pulse/uk-wants-ai-superpower-goes-easy-ethics-luca-sambucci",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEhOP_k8B5IgA/article-cover_image-shrink_600_2000/0/1634042724400?e=1639612800&v=beta&t=0P9ky7rquS50i_Ua4_UkJw1J9VeHAmP9ZU9ePAJ4MN4",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
       "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
       "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
@@ -1100,109 +1203,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
-      "title": "AI technology could reshape the U.S. government, but should it?",
-      "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/government_funding-e1633966248930.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
-      "publishedDateTime": "2021-10-11T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
-      "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
-      "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T14:19:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

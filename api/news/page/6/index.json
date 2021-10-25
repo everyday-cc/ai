@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-18-the-eu-called-for-a-ban-on-police-use-of-facial-recognition-but-not-commercial-use-why.md",
+      "title": "The EU called for a ban on police use of facial recognition but not commercial use. Why?",
+      "excerpt": "Recently, the European Parliament called for a ban on police use of facial recognition. In the US, too, some cities have restricted police use of facial recognition. The first question that comes",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/eagle-eye-uncanny-vision-highlights-value-combining-ai-cloud-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/eu-called-ban-police-facial-recognition-co-1536229326-ga.1634381551.html",
+      "publishedDateTime": "2021-10-18T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-why-the-world-needs-a-bill-of-rights-on-ai.md",
+      "title": "Why the world needs a Bill of Rights on AI",
+      "excerpt": "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "originalUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "publishedDateTime": "2021-10-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-finch-capitals-state-of-european-fintech-as-record-amounts-of-capital-is-raised-signs-emerging-that-the-fintech-blast-is-slowing.md",
       "title": "Finch Capital’s State of European FinTech: as Record Amounts of Capital Is Raised, Signs Emerging That the FinTech Blast Is Slowing",
       "excerpt": "Few deals drive FinTech volumes, record number of mid-market M&A transactions, but European capital markets remain elusive for FinTech Today Finch Capital issued the 6th edition of its annual State of European FinTech Report for 2021.",
@@ -1025,109 +1111,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
-      "title": "Can AI Help Prevent Natural Disasters?",
-      "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61671e8c4646978144e70864%2F0x0.jpg",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
-      "publishedDateTime": "2021-10-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
-      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
-      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
-      "publishedDateTime": "2021-10-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

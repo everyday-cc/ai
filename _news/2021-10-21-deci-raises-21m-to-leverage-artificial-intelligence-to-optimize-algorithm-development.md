@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deci snaps up $21M for tech to build better AI models based on available data and compute power"
-    excerpt: "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,"
-    publishedDateTime: 2021-10-20T11:04:00Z
-    webUrl: "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/"
-    ampWebUrl: "https://techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1088155680.jpeg?w=1024"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Deci gains $21M in funding to help speed AI deep learning models"
     excerpt: "Deci, a deep learning platform company that helps enterprises build AI models to run on different types of hardware and service environments, has $21 million Series A funding. As more companies want to work with AI, there remains a gap between lab-based ..."
     publishedDateTime: 2021-10-21T22:34:00Z

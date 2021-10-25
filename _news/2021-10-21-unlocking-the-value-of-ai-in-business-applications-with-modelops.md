@@ -67,6 +67,20 @@ related:
       name: University of Plymouth
       domain: plymouth.ac.uk
     quality: 32
+  - title: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking"
+    excerpt: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking  - Yoodli aims to help people communicate confidently without the fear of public speaking. FREMONT, CA: Public speaking is"
+    publishedDateTime: 2021-10-25T05:42:00Z
+    webUrl: "https://www.cioreview.com/news/yoodli-is-leveraging-ai-to-help-people-by-reducing-the-struggles-of-public-speaking-nid-34597-cid-175.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "eXwCMKGMCwPp2qN/g+Yah3aRBs0zDeH9X1yDcPLxqmPwBE/3/gW/pDcPltHGmE1s1DE0eilXJbIApbLjvMPePdSBeCLmOGdk24H05N5FiqhjJ4ubSK4Ik2uEqPeN+MO12X67p66FhR7Tgts++AGcwIr0Bu/njsVoAvnkBUnJfbDMgwq/enr1C05Jj08BjL+v23+19uB1vjulhqEPJT1PCJ4hYQImydA4n6hE/Z2/tsw582eJiSPEn831CW+413BkaknPorpcaTxpiMSmnb5OTvUJ8Q4iyXRAGq739x5xdEki+Sf9VMPQcpL5gjQSYF1XzvsXZXIwupAMJ1/21ocN8PwAWWV3UI2I5Rac2+7XfRU=;kPCeBZIeGmjMKGgLTNDNlQ=="
 ---

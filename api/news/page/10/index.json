@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-13-ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers.md",
+      "title": "AI Startup MosaicML Comes Out Of Stealth To Aid AI Developers",
+      "excerpt": "Nervana and Intel, leads the new company focused on improving the efficiency of AI Training Training a deep neural network takes a lot of computational horsepower.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165f8cf45f04e14c76729e4%2F0x0.jpg",
+          "width": 1200,
+          "height": 1228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/13/ai-startup-mosaicml-comes-out-of-stealth-to-aid-ai-developers/amp/",
+      "publishedDateTime": "2021-10-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022.md",
+      "title": "1 Explosive Artificial Intelligence Stock Set to Grow Sales 359% by 2022",
+      "excerpt": "A combination of factors, including low interest rates and aggressive government spending, has put the stock market in a great position to move higher. It's a particularly good environment for technology stocks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "originalUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-explosive-artificial-intelligence-stock-set-to-grow-sales-359-by-2022-2021-10-13?amp",
+      "publishedDateTime": "2021-10-13T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-deep-learning-helps-to-predict-traffic-crashes-before-they-happen.md",
       "title": "Deep learning helps to predict traffic crashes before they happen",
       "excerpt": "Today's world is one big maze, connected by layers of concrete and asphalt that afford us the luxury of navigation by vehicle. For many of our road-related advancements—GPS lets us fire fewer neurons thanks to map apps,",
@@ -1077,100 +1163,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-heres-how-microsoft-is-using-artificial-intelligence.md",
-      "title": "Here's How Microsoft Is Using Artificial Intelligence",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is one of the largest software companies in the world. And while it's probably best known for productivity applications like Word, PowerPoint, and Excel, this tech giant is also doing a lot of work in the field of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/12/heres-how-microsoft-using-artificial-intelligence/",
-      "publishedDateTime": "2021-10-12T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-no-code-ai-analytics-may-soon-automate-data-science-jobs.md",
-      "title": "No-code AI analytics may soon automate data science jobs",
-      "excerpt": "Exclusive SparkBeyond Discovery lets analysts use AI to auto generate new answers to business problems without requiring coding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/",
-      "originalUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/network-6511448-e1632770373894.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/12/no-code-ai-analytics-may-soon-automate-data-science-jobs/amp/",
-      "publishedDateTime": "2021-10-12T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

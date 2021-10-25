@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-10-10-beethovens-last-symphony-finished-by-ai.md",
+      "title": "Beethoven's last symphony finished by AI",
+      "excerpt": "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
+      "originalUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/ludwig_van_beethoven1633846240-0/ludwig_van_beethoven1633846240-0.jpg  ",
+          "width": 724,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2324138/beethovens-last-symphony-finished-by-ai?amp=1",
+      "publishedDateTime": "2021-10-10T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-ai-ml-big-data-use-in-travel-hospitality-sector.md",
+      "title": "AI, ML & Big Data use in travel, hospitality sector",
+      "excerpt": "The travel and hospitality industry in India has been on a rise and has been one of the main factors of growth. AI, machine learning and big data analytics have brought a revolution in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "originalUrl": "https://www.thehansindia.com/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/10/09/1116344-data.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-ml-big-data-use-in-travel-hospitality-sector-710195",
+      "publishedDateTime": "2021-10-09T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-no-humans-allowed-artificial-intelligence-for-faster-smarter-testing-tomorrow.md",
       "title": "No humans allowed: Artificial intelligence for faster, smarter testing tomorrow",
       "excerpt": "Artificial Intelligence (AI) is reshaping our day ... involved in our lives from listening devices in our homes to driverless cars on the road. AI has delivered personalized content in useful ...",
@@ -1085,109 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-algolia-only-26-of-retailers-use-ai-optimized-search.md",
-      "title": "Algolia: Only 26% of retailers use AI-optimized search",
-      "excerpt": "AI is a lesser used tool for generating personalized recommendations, yet companies that embrace AI-driven search are reaping the benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "originalUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/ecommerce-3688436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/08/algolia-only-26-of-retailers-use-ai-optimized-search/amp/",
-      "publishedDateTime": "2021-10-08T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-is-baidus-stock-cheap-at-150.md",
-      "title": "Is Baidu’s Stock Cheap At 150?",
-      "excerpt": "Baidu’s stock (NASDAQ: BIDU) has fallen by 30% from $216 to $150 since the end of 2020. In comparison, the broader S&P500 rose by 16% in the same period. Trefis analysis of Baidu’s Valuation is $224,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1061811420%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/10/08/is-baidus-stock-cheap-at-150/amp/",
-      "publishedDateTime": "2021-10-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

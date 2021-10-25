@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: University of Plymouth
       domain: plymouth.ac.uk
     quality: 32
+  - title: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking"
+    excerpt: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking  - Yoodli aims to help people communicate confidently without the fear of public speaking. FREMONT, CA: Public speaking is"
+    publishedDateTime: 2021-10-25T05:42:00Z
+    webUrl: "https://www.cioreview.com/news/yoodli-is-leveraging-ai-to-help-people-by-reducing-the-struggles-of-public-speaking-nid-34597-cid-175.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "B1j34Zhsz0l5kb0e/yAazOreCWzeH5IvV37WNk0LzvaUepNe/wfJHH/IOglU/35DyTrxf0T5vBxj4ZtK+VmtoR4WK+/t5zkvu3bWWxTrpJbwxWJMj7HZvOADCbMjM6KD1/o0u1pGIFx9ERidBOPwvGxkmn4ur+g0hyc57yuSJhW+zvrIin608a5QvyhZLBxZMoCZJZtmhYkudBAfiLoqTMFz2WZ/iKkZDlt65iOIgVPFq2/Xm7qTeGjZe6g1VXEv7WUjAe/7CUamRYehKpB6NNjG0t260Z7L4JwMOEIBkM3orcQ/wmnObYiL9iTTrMzY8j7xhFmMd1LzyVJt5iQjOYufNQYjitvn8YQvxTYoNnp2gkqrJAVQEewV8YFDObOn5nB09p9iCn/pen3QX0n7Og9KII27N2lyvmMwSzqUR+PW5pMESJbg7E41KkdWkInSCsqm2WFdOBJlZ+SQijJv9rG3VkByOyqMJYcu4m/3gmacXLom6TcHSA3ld7/aPWIr+aVlyrn0GxGbQemzGL7o8A==;Gvoc3Br0TGHPs61Bzzn88w=="
 ---

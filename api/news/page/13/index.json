@@ -2,6 +2,109 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-12-ai-technology-could-reshape-the-us-government-but-should-it.md",
+      "title": "AI technology could reshape the U.S. government, but should it?",
+      "excerpt": "Federal spending on AI in the U.S. rose by 50% between 2018 and 2020, making it the fastest rate of growth for any emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "originalUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/government_funding-e1633966248930.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/ai-technology-could-reshape-the-u-s-government-but-should-it/amp/",
+      "publishedDateTime": "2021-10-11T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-detect-online-transaction-fraud-with-new-amazon-fraud-detector-features.md",
+      "title": "Detect online transaction fraud with new Amazon Fraud Detector features",
+      "excerpt": "Fraud teams need a secure, fast, and flexible transaction fraud detection solution to combat global fraudsters. Unlike many solutions on the market, Amazon Fraud Detector allows you to tailor your fraud detection efforts specifically to your data and business challenge while also bringing the latest",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-online-transaction-fraud-with-new-amazon-fraud-detector-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T14:19:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-the-intento-2021-state-of-machine-translation-report-your-cheatsheet-to-the-mt-landscape.md",
       "title": "The Intento 2021 State of Machine Translation Report - Your Cheatsheet to the MT Landscape",
       "excerpt": "Intento, the leading AI integration platform, has released its annual State of Machine Translation report, giving those working in and around the MT landscape an in-depth analysis of the current vendors and best strategies to successfully leverage their offerings.",
@@ -1063,109 +1166,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey.md",
-      "title": "Five Questions To Ask Before Embarking On An Enterprise AI Journey",
-      "excerpt": "The opportunities and challenges in enterprise AI are unique, and it is important to pressure-test your readiness before you embark on an enterprise AI journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcece35bc8e10006c95e36%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/11/five-questions-to-ask-before-embarking-on-an-enterprise-ai-journey/amp/",
-      "publishedDateTime": "2021-10-11T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more.md",
-      "title": "Is Airbnb Safe? New Report Exposes Scams, Bug Infestations And More",
-      "excerpt": "According to a new report that analyzed Twitter complaints about Airbnb stays, a lot can go wrong on your vacation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6164214ac56137c3172194f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/laurabegleybloom/2021/10/11/is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more/amp/",
-      "publishedDateTime": "2021-10-11T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

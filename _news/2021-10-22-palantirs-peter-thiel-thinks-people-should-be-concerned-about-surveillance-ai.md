@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillan
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/palantirs-peter-thiel-surveillance-ai-is-more-concerning-than-agi.html"
 type: article
 quality: 153
-heat: 154
+heat: 153
 published: true
 
 provider:

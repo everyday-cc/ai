@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-16-can-ai-help-prevent-natural-disasters.md",
+      "title": "Can AI Help Prevent Natural Disasters?",
+      "excerpt": "With the power of big data, advanced analytics, and AI geospatial companies can play a critical role in understanding factors contributing to natural disasters like wildfires, the associated risks, and impacts on communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61671e8c4646978144e70864%2F0x0.jpg",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/10/16/can-ai-help-prevent-natural-disasters/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women.md",
+      "title": "Can Artificial Intelligence Help To Close The Financial Equality Gap For Women?",
+      "excerpt": "How can women can build wealth utilizing advanced technologies and what should they should consider when looking at different services available on the market today?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616a5baafe639c680bdd2bd7%2F0x0.jpg",
+          "width": 1200,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/16/can-artificial-intelligence-help-to-close-the-financial-equality-gap-for-women/amp/",
+      "publishedDateTime": "2021-10-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-intel-chooses-dahod-to-train-students-in-artificial-intelligence.md",
       "title": "Intel chooses Dahod to train students in artificial intelligence",
       "excerpt": "Vadodara: Students from tribal-dominated Dahod district, most of whom face difficulties in pursuing education beyond Class X, got the never-before opp.",
@@ -1070,98 +1173,21 @@
       ]
     },
     {
-      "path": "_news/2021-10-15-artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future.md",
-      "title": "Artificial Intelligence in Video Games Market Is Likely to Experience a Tremendous Growth in Near Future",
-      "excerpt": "Click To get SAMPLE PDF of Global Artificial Intelligence in Video Games Market (Including Full TOC, Table & Figures) Global Artificial Intelligence in Video Games Market and Competitive Analysis Know your current market situation!",
+      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
+      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
+      "excerpt": "New initiative facilitates the integration of machine learning algorithms from open source, third party and customer data science teams into Seeq applications.",
       "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
+      "webUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
+      "originalUrl": "https://www.automation.com/en-us/articles/october-2021/seeq-machine-learning-democratize-data-science",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-video-games-market-is-likely-to-experience-a-tremendous-growth-in-near-future/",
-      "publishedDateTime": "2021-10-14T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-survey-more-than-half-of-us-adults-wary-about-facial-recognition-tech-in-healthcare.md",
-      "title": "Survey: More than half of U.S. adults wary about facial recognition tech in healthcare",
-      "excerpt": "Many adults in the United States are concerned about the use of facial recognition technology in hospitals, medical practices and other healthcare settings, a survey published Thursday by PLOS ONE found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "originalUrl": "https://www.upi.com/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/4971634236004/2021/1/16342373043805/v1.5/Survey-More-than-half-of-US-adults-wary-about-facial-recognition-tech-in-healthcare.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/10/14/facial-recognition-healthcare-survey/4971634236004/",
-      "publishedDateTime": "2021-10-14T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-embark-says-it-has-14200-reservations-for-self-driving-truck-software-slated-for-launch-in-2024.md",
-      "title": "Embark Says It Has 14,200 Reservations For Self-Driving Truck Software, Slated For Launch In 2024",
-      "excerpt": "The reservations are non-binding, but they reflect a vote of confidence by a range of trucking fleets who want to deploy the Embark Driver software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/amp/?__twitter_impression=true",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2021/10/14/embark-trucks-says-it-has-14200-reservations-for-its-self-driving-software-slated-for-launch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61686cfd8870de0631994825%2F0x0.jpg",
-          "width": 770,
-          "height": 400,
+          "url": "https://www.automation.com/getmedia/c87f3858-574b-4646-8810-5bfab7d95b8d/Seeq-news-Oct-14-2021-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1171,21 +1197,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T10:49:00-07:00",
+      "publishedDateTime": "2021-10-14T13:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1194,8 +1211,9 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
-        "AI in Autos"
+        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-17-face-recognition-device-market-future-scope-including-key-players-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc.md",
+      "title": "Face Recognition Device Market Future Scope including key players Airware, Inc., 3D Robotics, Dreamhammer Inc., Drone Volt, Dronedeploy Inc.",
+      "excerpt": "Get the inside scoop of the Sample Face Recognition Device report @: jcmarketresearch.com/report-details/1443230/sample Research Methodology while conducting the study of “Global Face Recognition Device Market Data Survey Report 2029” Secondary research Our Face Recognition Device industry analyst refer a broad array of industry sources for our secondary,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "originalUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-device-market-to-witness-huge-growth-by-2028-airware-inc-3d-robotics-dreamhammer-inc-drone-volt-dronedeploy-inc/?amp=1",
+      "publishedDateTime": "2021-09-17T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-17-mind-controlled-drones-and-robots-techbbq2021.md",
       "title": "Mind-Controlled Drones and Robots #TechBBQ2021",
       "excerpt": "TechBBQ is one of the biggest tech events in the Nordics that exists to support and strengthen the Nordic startup-ecosystem. During this year's event Sherry List and I held a session on \"Mind-Controlled Drones and Robots\".",
@@ -1280,49 +1324,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-13-israeli-firm-unveils-armed-robot-to-patrol-volatile-borders.md",
-      "title": "Israeli Firm Unveils Armed Robot to Patrol Volatile Borders",
-      "excerpt": "An Israeli defense contractor on Monday unveiled a remote-controlled armed robot it says can patrol battle zones, track infiltrators and open fire. The unmanned vehicle is the latest addition to the world of drone technology,",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "originalUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/13/deputy_head_of_israel_aerospace_industries_autonomous_systems_division_rani_avni_speaks_during_an_interview_with_the_associated_press_in_an_iai_facility_near_the_central_israeli_city_of_lod_thursday_sept._9_2021._ap.jpg?itok=wjTEX_gd",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3186611/israeli-firm-unveils-armed-robot-patrol-volatile-borders?amp",
-      "publishedDateTime": "2021-09-13T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

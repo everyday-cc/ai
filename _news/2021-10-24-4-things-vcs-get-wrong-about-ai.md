@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/4-things-vcs-get-w
 webUrl: "https://markets.businessinsider.com/news/stocks/4-things-vcs-get-wrong-about-ai-10657890"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "4 things VCs get wrong about AI"
+    excerpt: "Buying AI isn't like buying SaaS; the way users test the technology, make purchase decisions, and enter into contracts is very different."
+    publishedDateTime: 2021-10-24T20:21:00Z
+    webUrl: "https://venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
 
 secured: "d685XeDBZze4IahfLGwTDeGa4y5R6+sRstdcQ3zV2Bslj+cetfL8+YdbUL1cqWmjPqPuR4PzbjJQFxAx0JB6XFuuFhYo+SvYAanmASjyT4MK79BXMO5RnwxetGQPo8LrBCp7493t0XNlWU2d2JlGrXL+KUCr9QUjZk0jn+wlRHsToWO1fKJ2WpOzTEOvPSMnLKROgmfLMrPLbRLUhmm63yVlHUSphSCBewoYJfdtA1VnlKBShzifDlOUFyAkWDvGp4mSoaumukPcqbu1OxgZ5G63OQwXMJAdp2juz5swgfWn2oqh83O3Nf0MAPJgEQVurjndFTksKV3kXAXx2iHXagGyw5MGpol8eCstWhTNw4c=;7+3MxKYyd0lX0Zch4HUSMQ=="
 ---

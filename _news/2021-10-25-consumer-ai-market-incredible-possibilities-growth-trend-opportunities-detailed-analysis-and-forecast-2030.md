@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2439213/consumer-ai-market-incredible-possi
 ampWebUrl: "https://www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/a/Ua25103727_g.jpg"
@@ -91,6 +92,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "MdVbvssvJfhSV/lxh5LOSHvGhgNGaZw3egdwXFX1pflsiBIpjoDDZD37UYS1kLe5w5+mtMd5Jct/sO2CSfxh2VbbEkD8m+cRFThwLeow+4NNCZCGA0KbuRpP/lcd3PncUXPMKqTbJhXA2S61+IYJ5DwKYoXOLFhB7LszmadBODcZ8BJRh8jd1o/KLfzwxiLyIJ0h/g0cF24V+7Au9yJPN1b8ws8rD/kHWh5JGGM+d5dMP6fW63oetOz80JtjHVK4JSumAGzIr5S46qkVbQUa+hCqB+UtjiMJxSF3vlymrmTBAhes+2KmfTWxGpZnKAVjLrh2YtnmOaRui0kS5rB9swYkfv/6crUVHVKSb2u8dnE=;5bmQ5pFYDts6NWmFBuAo1Q=="
+secured: "2CzPfmjT/T3f5+0Mr6det75drrYpp4iDOQj3mqVjRNwR2Q6bIDotzdgM32sDAvfNqD8kFKEtRkJBoPuDLmlVqP8d0IHadZFlrM8XaYHjZoBnnaYE16ON4MWAyY7XHYOAhAdSDMoAabh6JsF9R4eYyE7bSv/7X3lxOGI01Vvw4VBwXZlRUhzhjI8cNPNmtW8C3lbK6BpXX/fWfPyCWmO9VJrLsveG/IjNOAIKFei1E0JcxQdZlPFuZp2imR5hwpvXIe0hpke6cFGjXQoA5SdE6DIGP5OyiPGOS0UrUW7PHLRJ+efUcoypc9wdjlxzl3UFiIFVvDIO/NFJ1vrb1NL194XdyN6PaJo9omiMcfGoUi+rvmWkWmpXlVZ4aEDyx24eDURMG3jK5rmaEfYN3kx9eczrnrihySKDfCuL63Aq/2VZK6tiyrLIuODmv1yNzw7dHQML8qSdsXIiCMt7IL4d+zb+ZDd31RUFrTvuVxu+6Er0osYYIdK1Y+BH5/v6DluiLkqWTFKd3lekpT+D4DItuQ==;A09KlrqEUBAEahEWF4ohyA=="
 ---
 

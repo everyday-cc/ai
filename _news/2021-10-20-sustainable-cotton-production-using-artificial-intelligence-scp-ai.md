@@ -62,6 +62,20 @@ related:
         width: 1280
         height: 748
         isCached: true
+  - title: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking"
+    excerpt: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking  - Yoodli aims to help people communicate confidently without the fear of public speaking. FREMONT, CA: Public speaking is"
+    publishedDateTime: 2021-10-25T05:42:00Z
+    webUrl: "https://www.cioreview.com/news/yoodli-is-leveraging-ai-to-help-people-by-reducing-the-struggles-of-public-speaking-nid-34597-cid-175.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 31
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "IfsHsaRmUdCPeDUWzHYrukRvaBO/7lLnaEcZcZlJVyyZOaB5diNtcZISzy6XIQzF1JlzyBgse4SKdaVq4P1DDKALVKT+MaIG3hDpkJDQW4YOO1LBNUhfHDaJXkHgK2dUYtampEF/+OP1LEdWIIfR3ImS9s/Op1yshHDMotM6g2aIbyHN0FhgSimJoRwcfPdnVmAjPTBzERCz0Rwzcb0Zum3kMy86aVGF9Hw3ZGKtOfAReI9whVfPu6XrR//ESs7PdSKOiNgGzQg2BpIjZ8w67KbNqS24ZWmAwe61Od+pAuYNc+AwtZmUbnwtl4NT7R7eeKRkNLfpmKvv+ZTYjSqdylZPHiP/ULMFCRehHVqIPDYpOQftUSrVy5For11NGObhoKaXvUa3BZLs59lOkN+Jq/kYEUQwHKQk1WmhmUXZG4RXtTi3HGpt+ITrCsXCwEuKg7jAXfmBcK/gIAnM/sW7v5VquXeiVRl0CeZ+7qI7tFR9hD+Hny7w7LJczF2HWDJI5BcCwWlBQnY/C6tPgbcwKg==;dVN88VCyjGkjEUB5kFHPMQ=="
 ---

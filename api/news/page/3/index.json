@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
+      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
+      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "publishedDateTime": "2021-10-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-how-machine-learning-can-be-fair-and-accurate.md",
+      "title": "How machine learning can be fair and accurate",
+      "excerpt": "Carnegie Mellon University researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-can-b.jpg",
+          "width": 2481,
+          "height": 3508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-machine-fair-accurate.amp",
+      "publishedDateTime": "2021-10-20T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-deci-snaps-up-21m-for-tech-to-build-better-ai-models-based-on-available-data-and-compute-power.md",
       "title": "Deci snaps up $21M for tech to build better AI models based on available data and compute power",
       "excerpt": "Building usable models to run AI algorithms requires not just adequate data to train systems, but also the right hardware subsequently to run them. But because the theoretical and practical are often not the same thing,",
@@ -1125,109 +1220,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
-      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
-      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks.md",
-      "title": "This AI-powered tool helps you generate quality content with just a few clicks",
-      "excerpt": "Sponsored Deals 1. Produce engaging content with ease with this AI-powered tool on sale 2. Grab a subscription to this tool that helps you create engaging content with ease",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
-      "originalUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/sale_303782_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
-      "publishedDateTime": "2021-10-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Setback: Elon Musk Rolls Back Full Self-Driving Software Over False Warnings"
+    excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls FSD."
+    publishedDateTime: 2021-10-25T04:33:00Z
+    webUrl: "https://www.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
+    ampWebUrl: "https://amp.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/tesla-setback-elon-musk-rolls-back-full-self-driving-software-over-false-warnings-60887"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 53
+    images:
+      - url: "https://data.ibtimes.sg/en/full/41342/tesla.jpg"
+        width: 910
+        height: 607
+        isCached: true
   - title: "Making clinicians worthy of medical AI: Lessons from Tesla and self-driving cars"
     excerpt: "Tesla is in the midst of conducting an unprecedented social experiment: testing drivers of its cars to see if they are safe enough operators to receive the company’s Full Self-Driving ... conversation around artificial intelligence tends to focus ..."
     publishedDateTime: 2021-10-21T08:46:00Z

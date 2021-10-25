@@ -74,15 +74,6 @@ related:
         width: 1024
         height: 654
         isCached: true
-  - title: "Only 2 accidents involving self-driving cars caused by poor systems"
-    excerpt: "But of the 187 accidents that self-driving cars have been involved in since 2019 in California, only two have been the fault of poor autonomous systems, according to new research from IDTechEx. Every company testing self-driving vehicles in California must report any collision to the California DMV."
-    publishedDateTime: 2021-10-20T12:25:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17324/only-2-accidents-involving-self-driving-cars-caused-by-poor-systems"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "t1oRacRZbrr3WD6YWFTv6jKLPArutMx6prSor+IqICRIEwN8fNhFrItQiK96CAhFpuWGvVBzUXh0UuglXjAkBZ5fQTqxzlgRYrlqtWDU+PD8PCWw6DDd0o/p2DIfHuxRbTym3Pt/18PsIdDIcWAauFXdePHCbYJZB46RJib/4MDreYwpcO+gyFbToyqTo+dK9aqcCtZu4AVf7Uh9S44qKNDUldoapwqH3bkW7VrclqGcc7//gvuBAfSQo8wRZeoE5rSV891mVyI8nqI+Dr2TCyLf+EXsUo39qSXWIzc2l9L442H2J9pN3JDbbYb7vMnm4D8y5ynVvPT7N1ofKBjoE6YVbGJc72Lzq3LfA6U0a5LNaygCwudovGEa9bI/OpO0zgaGpp3D3I8SLe7cSCrSS4V6p30FoBkQdX92IDq4DpBZSQD3TuBEnp41Z4C5frHDCiacvdCyMuNF332/jWFIDRLwFzriUOH9zLeZNKYfB/lxPJHFQmLWQrIfKLZlWwmIo+bhuQAG9SYS3j0OG/AcVA==;AXzOW3uMmtCjf1czXG6cxg=="
 ---

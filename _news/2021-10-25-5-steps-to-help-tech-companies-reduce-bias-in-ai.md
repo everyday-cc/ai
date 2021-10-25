@@ -2,17 +2,17 @@
 category: news
 title: "5 Steps to Help Tech Companies Reduce Bias in AI"
 excerpt: "The five-step framework can help tech entrepreneurs prevent biases from developing and reverse existing biases in tech.  Children inevitably adapt to the culture in which they were raised. Parents or guardians shape the lens through which they view the world,"
-publishedDateTime: 2021-10-24T22:04:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
-webUrl: "https://www.mysanantonio.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
+publishedDateTime: 2021-10-25T05:01:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/5-Steps-to-Help-Tech-Companies-Reduce-Bias-in-AI-16559021.php"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI
@@ -38,15 +38,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "New £1.4m AI funding aims to reduce racial health inequalities"
-    excerpt: "The funding, from the NHSX AI Lab and Health Foundation, aims to ensure healthcare solutions don’t “exacerbate existing health inequalities”."
-    publishedDateTime: 2021-10-20T12:00:00Z
-    webUrl: "https://www.digitalhealth.net/2021/10/new-1-4m-ai-funding-aims-to-reduce-racial-health-inequalities/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 19
   - title: "Top 10 AI Companies Coming to the ODSC West AI Expo Hall"
     excerpt: "As ODSC West draws nearer, coming up this November 16th-18th, we’re focusing on the hot topics we know you’re looking for when attending one of our conferences—artificial intelligence being one of the biggest."
     publishedDateTime: 2021-10-21T17:16:00Z
@@ -66,6 +57,6 @@ related:
       domain: bworldonline.com
     quality: 19
 
-secured: "5abtEN8D1syXlzxPE8mBkCPWaZlSoVIioJHzOZERndUjbUPPsZEym7TEs/bwmxSnlGdyVdcha+ifoPqUhDSkDB7Ha4K/ZUFg7dRcSRDveMTugltfWOPwigWaapUl+c/2bYhFdljaCHifD2rxxLB7Li7sJ0eADw+MykD7uBAqw+Da8mpkVebdiVjX7xvdwHlzIpBl6gZDNCAuXtrZqBDSUnOuK9N0kKYTD3sULDnteKvbcFTvbRE8NZHxBpDihdJyOiHdUaxOXaAT/Cfl1jCeA+5JhAK1pcBkMzwa10Y1KhI27kBCJRzxOFtZq1DPVysMmwwy3R5/ai0Hoh5nLziD1MsyEo3Ff7pORAKwkYBUEFNBQns7XAmy71ivN1pPnDC14aoEOEhMM5085zJ+mfgrPYCHm4yAl06qiZFOT9iHkaCkMSBoNAIV/au1RIe3bK+rQyfPeNXjMHcvK5XbiMMZXWBfYhnP3B6JtNGIrQGG3sYRLTu85bWcYr0DzqkmaPwpMYd0v5ow5oHadJwcJaY6LA==;m5w+uu43vYsp0HOqFD01dw=="
+secured: "nbHox2fhKA69Mc/H3Us8Bl8HlZgkaeIwF0BglzmQtEsbWOou/HjtTM/gnSPmt20t5OUrgqHRwWULLQIoX3BSQKn2vmuXN274keSp0Hb9Wcw5NkvsgFw4JrSCti2o9HMfcRxtO278t/GxsE3X5KAfRZF8Cu592qzflQTtCRuP9tkg3isVMqVzAf+10ZWLADgv9bLmjozuB4qs/uOk8sMMpB/F29ebswGLlvNUFBOM0LS5vCZfuvL/XgsDfkA8C7mPpvW2Y7mer0WtYGQZqkKe05IptxeO+u+JmGMg8Gq61fcqzK6WOsQ1UvlpSy4wgWYNY6yDMBYDhnVMWNW3k2QMUngLAUkFBHXLf8a+6wz0UWk=;RRIVGQW+NH7enofCbHHAmg=="
 ---
 
