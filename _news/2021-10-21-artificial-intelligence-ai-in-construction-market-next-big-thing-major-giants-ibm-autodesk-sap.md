@@ -102,15 +102,6 @@ related:
         width: 1920
         height: 664
         isCached: true
-  - title: "Key Artificial Intelligence (AI) Trends 2021"
-    excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
-    publishedDateTime: 2021-10-21T01:49:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 38
   - title: "Artificial Intelligence (AI) in the Freight Transportation Market is expected to show impressive growth rate | CAGR 17.90%"
     excerpt: "The latest report by Report Ocean discusses the various factors of the global Artificial Intelligence (AI) in the Freig"
     publishedDateTime: 2021-10-21T08:57:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "100 teens get lifetime support to foster global service work"
 excerpt: "Starting Monday, the 18-year-old from Burundi, who lives in a Kenyan refugee camp and has co-founded a nonprofit to help address poverty there, will get a lifetime of help with his work from a new philanthropic program to nurture talented teens around the world."
-publishedDateTime: 2021-10-25T17:46:00Z
-originalUrl: "https://www.beaumontenterprise.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
-webUrl: "https://www.beaumontenterprise.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
-ampWebUrl: "https://www.beaumontenterprise.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
-cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+publishedDateTime: 2021-10-25T18:39:00Z
+originalUrl: "https://www.seattlepi.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+webUrl: "https://www.seattlepi.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Beaumont Enterprise
-  domain: beaumontenterprise.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Finance
@@ -44,6 +44,6 @@ related:
         height: 336
         isCached: true
 
-secured: "j+4H4nTgXREQfJ1ehodCOh21oafItbC74/6jLsnet5IhLQc121yCjTzKQkPocESy/ctnZfxrrEsqfnWdRBkuUU+obMjkceJi30uZE4KccwaAHuLQFmUTPeW6429O8wemk2LTWB5UIvbrR/6Ajf7pE7AdrGcGmn1W/6IPMqwGl0Oy0czaLTF9TVl/iAsXdiZF/DdtYZ1d9SaW/2SPosYMG+CmpYEnBRcGpQ/qZpR4h49PsYSe6SdaikFXI91wLbStIw7Wq8om36Y+4VlX7+PCB0NeSxYUdMH76dxUTEDryPJAP/zYZBn/ZOnIWdINNWdkhUbF75qWkNW4PPtVkyx12kqBjUrHn50YUwK2WyEqhCk=;Pk/+mex55mFwLlFR3EVVrA=="
+secured: "rfn+FBH2IlT3881Wljkq9MUbeePks+ZG9OmJcQW6un9QvbdJfb8shS9LLuz6js3NmCGbmTaHi0Y6LUF2s+MOc7w8cRUOdujrrzfG46SyFLxw/jfLbz8Z9SQB425GPC/gFyOxF+tWpqrBR21uPtvDzFhG7A+sblRvql1TeYaD4ZdG3V8cCGHPrSQ+VZQNvNI9vsToEU0STiyG5yzHtdpYJS8fqhVgyZxa0FJOInoMeSHTui9x/tb+HoIWjhJOqMeXBQ5rTd3eObmTCSi9oiAsfqsA4/F2zrIjOxbTuMgh1F2z9ccCmd3jakEVE0lRJi8Rq1n0QkXEcMe6sJq/r8QRtvONFQqolfJunOb4xEIAlHM=;HbjqwKdQlzfYiGA+W5hpgQ=="
 ---
 

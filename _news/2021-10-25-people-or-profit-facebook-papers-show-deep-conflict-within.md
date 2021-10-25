@@ -26,6 +26,19 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "People or profit? Facebook papers show deep conflict within"
+    excerpt: "Thousands of pages of internal documents provided to Congress by a former employee depict an internally conflicted company where data on the harms it causes is abundant, but solutions, much less the will to act on them,"
+    publishedDateTime: 2021-10-25T18:33:00Z
+    webUrl: "https://www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/"
+    ampWebUrl: "https://www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/people-or-profit-facebook-papers-show-deep-conflict-within/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+
 secured: "4N3SM7PK+y1J8sVFLteW1UhJvLv8W/NA/aA6d0eZy2Kq5TIIFjnL1y5A7q7l6xDv+rsk/wsZ+qHoMD7+sjf5boHscZ8s+uqQJ/6JjsGFdlSybpnasV+ldaEpF7T/0wvYGo+VV39KvNjY9BGvnxGbZUXl7G41o6sOS44rtN11WqhrZr9NBzuAZsHPJRm8AjDsqebovKZaBI6bUFPzj6L5HV50OnWQzgLpPtXlIwoYkud/J95QzC9NXtP/dtaiwvq1CtbYCLTFel/rDZ9icGEwt5Im1SAwJXXK49Ib4/RHhuhHwbsOYJmqXwP08dzndam+lVb0667zn4DPeeC/YZRhsxTTZc4IngNN1kwyrEIPMWQ=;FiQehE7G14EOCgcuPqexmQ=="
 ---
 

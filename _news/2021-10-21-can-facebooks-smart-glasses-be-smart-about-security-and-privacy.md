@@ -66,30 +66,37 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Terrifyingly, Facebook wants its AI to be your eyes and ears"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where you left your keys. The Ego4D project provides a huge"
-    publishedDateTime: 2021-10-21T11:28:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-watch-listen-your-surroundings-syndication"
+  - title: "Facebook's language gaps weaken screening of hate, terrorism"
+    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
+    publishedDateTime: 2021-10-25T19:54:00Z
+    webUrl: "https://www.beaumontenterprise.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
-  - title: "Facebook Smart Glasses And The Creep Factor"
-    excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
-    publishedDateTime: 2021-10-23T16:08:00Z
-    webUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor"
-    ampWebUrl: "https://crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/10/facebook-smart-glasses-and-creep-factor/amp"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
+      name: The Beaumont Enterprise
+      domain: beaumontenterprise.com
     quality: 44
     images:
-      - url: "https://crooksandliars.com/files/embeds/2021/10/47655.jpg"
-        width: 425
-        height: 318
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "‘The Facebook Papers': What They Are and Takeaways From the Leaks"
+    excerpt: "Internal company documents obtained by a former Facebook employee-turned-whistleblower reveal a troubled, internally conflicted company, where data on the harms it causes is abundant, but solutions are halting at best."
+    publishedDateTime: 2021-10-25T17:47:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/the-facebook-papers-what-they-are-and-takeaways-from-the-leaks/3349930/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
+    images:
+      - url: "https://media.nbcnewyork.com/2021/10/facebook-logo-facebook-generic.jpeg?quality=85&strip=all&fit=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
     excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
@@ -107,20 +114,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Facebook the company is losing control of Facebook the product"
-    excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
-    publishedDateTime: 2021-10-25T15:24:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/25/facebook-the-company-is-losing-control-of-facebook-the-product/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 24
-    images:
-      - url: "https://www.adn.com/resizer//4bA7mMGJo8BxsB-NTS-5CcpcLfM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GEGTA2GOZZGEHKDWSRXE4OK7VM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
     publishedDateTime: 2021-10-25T15:49:00Z
@@ -132,19 +125,19 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 24
-  - title: "The Facebook Papers may be the biggest crisis in the company's history"
-    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
-    publishedDateTime: 2021-10-25T13:00:00Z
-    webUrl: "https://www.kitv.com/story/45039921/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history"
+  - title: "In the ocean’s worth of new Facebook revelations out today, here are some of most important drops"
+    excerpt: "\"It will be a flash in the pan. Some legislators will get pissy. And then in a few weeks they will move onto something else. Meanwhile we are printing money in the basement, and we are fine.\""
+    publishedDateTime: 2021-10-25T18:02:00Z
+    webUrl: "https://www.niemanlab.org/2021/10/in-the-oceans-worth-of-new-facebook-revelations-out-today-here-are-some-of-most-important-drops/"
     type: article
     provider:
-      name: KITV
-      domain: kitv.com
-    quality: 24
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 11
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
-        width: 500
-        height: 333
+      - url: "https://www.niemanlab.org/images/zuck-head-storm-maybe-final-700x467.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "BeZYrWRmNxuKvmfDt+zrvbvofNBiF+aFk554+BzCk8GJOjMgovZ6PbZc9asEvb4/2lRM3iGJOqE71YPEmKMags9piu4SAU48lDG75h/kNGmeWF213iwCpJ6vihUXmoIoPEJqAO95/F2BJ3iM/Xpkx3RaxPYjk6OLrjIMeIXhy3BUlodr30N3YFPz98M1poQMKXmvGB3bMV3ZiUdabyWjcOVcObN+pKDgr7GaLPtRboUjrREvZo53LfPUdC6hWO2Ww4ff0UQwqONa+nX8Im1utCCGlq2EECFY75tYxlFVGj5gyJGimkNUfoMa6OGlNqC3SI6bzhthMoEMpB/sM8QTLR3e51uUoHPQdGOwtS0idwzWws7GTNRFhWlKMVk9zZU3YbZ1G6BychigRgWJrkCil2Pd48MsWoRIoGThB4n+O2WYsbjczN4KaCj2yW9epL8GMEOpAuz+tUQcen3SIl2vzllbxSQ4pvUf0z9NVubiXJc6BHPMUzfKYbNBS8QFDpkGxQ8qFaIsOjPqE4m5mlNRDA==;E7GmOEvtkb9JjgdabH7BPw=="

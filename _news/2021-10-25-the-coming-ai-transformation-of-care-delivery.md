@@ -44,6 +44,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 45
+  - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
+    excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-in-the-transportation-and-logistics-market-to-reach-us6-5-billion-by-2025/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 25
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/124019.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "FjpNHrzePrsf7iK6rD/gGSYp/3UzBc1BcZCep5GEjUbwg/CS0P21h9aSPaytmIxYgxAq+JHhEtgTlReUfOubcH/JQgw3eguAPI8SWVvOghAuF8sXXwPT/oPgBzxxPK3c/Cw6Yn1u6UxanVDGJEdiEq3MBRAyYDxhI2sYUp2XJ8xduWrfNERgmXpEW8TuuT1R4c7lZbh7+XyuQze/n5MG0zEFRJzT7C/XLRUWO3mkg0AkfZC9EbVNWWukWf2Hpd8EOCSikIl7/xaekYNTjNMYD4tLVLFg/7yfVdAsFbQQDAw6gKAv0h5Pmq/Nk0+jgpMsolbjo54AB3nZuxstQBpCmARHTHag4YKr67yBqGNLVcA=;PBtUvIThqXVTB8enyq5Zag=="
 ---

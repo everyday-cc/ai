@@ -29,14 +29,14 @@ images:
 related:
   - title: "100 teens get lifetime support to foster global service work"
     excerpt: "Starting Monday, the 18-year-old from Burundi, who lives in a Kenyan refugee camp and has co-founded a nonprofit to help address poverty there, will get a lifetime of help with his work from a new philanthropic program to nurture talented teens around the world."
-    publishedDateTime: 2021-10-25T17:46:00Z
-    webUrl: "https://www.beaumontenterprise.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
-    ampWebUrl: "https://www.beaumontenterprise.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
-    cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+    publishedDateTime: 2021-10-25T18:39:00Z
+    webUrl: "https://www.seattlepi.com/news/article/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/100-teens-get-lifetime-support-to-foster-global-16561374.php"
     type: article
     provider:
-      name: The Beaumont Enterprise
-      domain: beaumontenterprise.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 44
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

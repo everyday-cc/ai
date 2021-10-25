@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
 type: article
 quality: 66
-heat: 77
+heat: 76
 published: true
 
 provider:

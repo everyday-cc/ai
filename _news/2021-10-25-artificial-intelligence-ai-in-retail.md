@@ -94,15 +94,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Key Artificial Intelligence (AI) Trends 2021"
-    excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
-    publishedDateTime: 2021-10-21T01:49:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-trends/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 38
   - title: "Artificial Intelligence (AI) in Construction Market Next Big Thing : Major Giants IBM, Autodesk, SAP"
     excerpt: "The latest research on“Global Artificial Intelligence (AI) in Construction Report 2021” offered by HTF MI provides a comprehensive investigatio"
     publishedDateTime: 2021-10-21T04:40:00Z
@@ -122,6 +113,6 @@ related:
       domain: manometcurrent.com
     quality: 8
 
-secured: "g02cmMamrhFZ5X4Fa1Wa5OT+Re1yxRYGOCUygfgBo0iSdjs3bDKWqW9QV6pkuWiiRpsvx38qesmhSc1oJX2UcoZOwn9ufN6w64m0yqcWdV4r4V7OZA6nlKOIbIN4bTL4JPQAHOTt9sH+YHFvEmRUJOLON2OmZOmd3IxB56K55WHLXcEEdzt+QfszGsF5DfOzelwYqegaMohC5k9RE36HMz7WibZ3iS4V0PRouO34qsDO54yPm1Y3867ERA3oSAO3P5RQwcqHqvNNra99QYiROATgV9XvEFQ9EPA1JMH3FN4VuuJFICVFfKAcwm7+Z7WmLc5U5eIibN66gefebkkU8eyl88HNnT9gV0bQJ9jpobg=;gxVzINX5abPrbyhCu1/3Dw=="
+secured: "JWXtgmjALdoQZ2ARYrF+9n0oy1cxAtduHcjncN6WnjGkiEKXLp9vU4ih2qs36y2gGRnOK7k1JaBcC8irsDSyRCVJM6iW2LXpzy3QsEnUcDpFieAMBpB3FhnPlgVv6gh7Xgw/zUcCmVNCrOXmXfnkqSHa2Z32JgObsaI+Dy4N1r8iITR7jLyhbo1kjlP5UvP2xXKlYiCCtN4iL4Gh01FrK2SysUGD8TmVvbMoq8OqSLFSz0lv+4K9r4btPS05Jf6vnomjSwDiCn+zbX1PpuPkpZreejWqhxbfPDtkONKTpud/XsxzH06od33jLibUu19LtO0JvoPOGTzOdQKBRJQZ5sLudh0fJGEUfsQsCoLHIt7eGxV5yB0keOWshABfN5l3J3POwTqVEwun2w9NEMz4jQcJ/pLfKKQmIYtmH29b+o2xBaM2E/Y2Nf8iyPs6uIaquIVrJCkuwbtrmB/CzH+rM3L8kIF6toh5XNAHw61BPiqpaH9vyH6FSLxvU/IVcPQx4DClYMK0H6E+m0tD48AQFg==;MJaplyysSID1+b87HQmbQg=="
 ---
 

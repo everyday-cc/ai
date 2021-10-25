@@ -208,6 +208,20 @@ related:
         height: 400
         isCached: true
   - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
+    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
+    publishedDateTime: 2021-10-25T12:07:00Z
+    webUrl: "https://gazette.com/news/us-world/u-s-ntsb-head-criticizes-tesla-over-vehicle-self-driving-feature/article_7480c9a5-df8a-56c3-bab8-b6f39ccf13b8.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/28/52822793-5a13-5702-8f3b-f8d60cdba88a/6176b97bae71d.image.jpg?crop=800%2C450%2C0%2C41&resize=800%2C450&order=crop%2Cresize"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
     excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla (NASDAQ: TSLA) Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
     publishedDateTime: 2021-10-25T17:42:00Z
     webUrl: "https://www.investing.com/news/stock-market-news/tesla-submits-partial-response-in-us-auto-safety-probe--memo-2654161"
