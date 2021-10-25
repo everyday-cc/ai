@@ -63,15 +63,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 36
-  - title: "New Microsoft initiative to help Indian startups innovate with AI"
-    excerpt: "In a fresh bid to empower startup ecosystem in India, Microsoft on Wednesday launched a new programme that leverages the power of Artificial Intelligence (AI) to support both B2B and B2C startups."
-    publishedDateTime: 2021-10-20T05:51:00Z
-    webUrl: "https://www.sify.com/news/new-microsoft-initiative-to-help-indian-startups-innovate-with-ai-news-education-vkufP8ajajbch.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
   - title: "Group Elite Expands Delivery of Verint Workforce Engagement on Microsoft Azure"
     excerpt: "Group Elite, a world leader in contact center services, today announced their ability to deliver Verint Workforce Engagement (WFE) through the Microsoft Azure"
     publishedDateTime: 2021-10-20T12:00:00Z

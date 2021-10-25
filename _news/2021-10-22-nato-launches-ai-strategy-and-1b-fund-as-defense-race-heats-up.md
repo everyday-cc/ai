@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

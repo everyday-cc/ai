@@ -71,15 +71,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 36
-  - title: "New Microsoft initiative to help Indian startups innovate with AI"
-    excerpt: "In a fresh bid to empower startup ecosystem in India, Microsoft on Wednesday launched a new programme that leverages the power of Artificial Intelligence (AI) to support both B2B and B2C startups."
-    publishedDateTime: 2021-10-20T05:51:00Z
-    webUrl: "https://www.sify.com/news/new-microsoft-initiative-to-help-indian-startups-innovate-with-ai-news-education-vkufP8ajajbch.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 34
 
 secured: "mg3vqn1CvZJbnFgjKl+hL3h5Td+xzifEN0IkIQlroxjkJ2qd2Iw+iKsMm0pwI9za6KxqvZzUpNm4rVJaf55SQ3s2Piq0s+P3mEihjSMhnEXyOJJFM4nsD4nLgy/rUMxYZr9h2VzjJ1Ktx2a+dQEZt4Oo2OtP6VYsHvR+czT/k1RwDHhep+L/JTN5hFCoNMxddasRG+NTHUD07kNlR9lsg0DoC53CqyuG24t1DPj4BOcl3L6uvzfHP/gh6ChBisN95usLWU3XoU5kh7pydFfUvD3BqG8JGrHXJpp2cqX3PyULtZM+1PvHJjbnzAyGaFm8Wywe+JKFivTFb7X66UZ9KaTVnW7s1SU2JmzklXkp21c=;hiwEXpsK7yugONefK6reBg=="
 ---

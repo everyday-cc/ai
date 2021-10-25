@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-30434
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

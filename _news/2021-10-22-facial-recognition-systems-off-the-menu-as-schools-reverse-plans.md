@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "27 schools in England using facial recognition to take lunch payments"
-    excerpt: "More than 60 schools set to deploy the no-contact payments system as a result of the COVID-19 pandemic, but campaigners warn that it could be undermining children's privacy rights."
-    publishedDateTime: 2021-10-20T15:44:00Z
-    webUrl: "https://news.sky.com/story/27-schools-in-england-using-facial-recognition-to-take-lunch-payments-12439330"
+  - title: "Tamil Nadu's facial recognition systems slammed over privacy concerns"
+    excerpt: "The State government had launched the Facial Recognition System on October 4 as a mechanism to assist the police department."
+    publishedDateTime: 2021-10-24T22:21:00Z
+    webUrl: "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 19
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/police_cctv.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "Iw5jWpd2r6mslSuOyDBWm9mR/1xQruJgSGu8JQfErb94MKKLgfDkKKIdnz6ueJKjYC/ctKGf7BOW8IwWDa0X0bBVH7qfi64AXYDx3wNzNSu9wuD3tBaGnPRH1JaYbVC4JgGi9H+9N5N1i2AjGIh54q24pCL4JHfKjvTmNptH3tDLRQ5gsCA7A5Zq58ax8pP1BeI3GJqoGr1fh8hhz+7U3sEJuNzMGSKqgG0Rfdf+HBlJgz+14QFeRD/NbGJ7ZenZMMWAu1E1TeZ+Kh6t6TQ1+DiFnFm2zUfSx7reZcV0WbgYxyAmB2s/I6z9GjEeo5tFGiwcykgYURWJBqOnnC4RCm/Csp5zw0808hz+afgSKbL9Cm0gRGfY8GQnJAa2rKJ02Qnf5lfcSlZAJavyHDF0QgI27E33so8moAazffdL3wf0sE7y0WXNsODbXEq8xXja9pqJzRnRWbsshBikQsIHHx/wXQ2Pueeo/Mfa3AABmo/DUauUdIFul5HuT3Va7teLITO4duxVTUl8aVrTJ8C+Hw==;yp/TJRp7yROw6LEKcfVppQ=="
 ---
