@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
-      "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
-      "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T08:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-22-momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings.md",
       "title": "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings",
       "excerpt": "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure.",
@@ -528,7 +475,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -580,7 +527,7 @@
       "originalUrl": "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -856,7 +803,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -899,7 +846,7 @@
       "originalUrl": "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1182,6 +1129,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
+      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
+      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "publishedDateTime": "2021-10-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

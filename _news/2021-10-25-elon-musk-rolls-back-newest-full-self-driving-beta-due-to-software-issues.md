@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
+    excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
+    publishedDateTime: 2021-10-25T07:17:00Z
+    webUrl: "https://gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184"
+    ampWebUrl: "https://gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/elon-musk-says-some-issues-have-forced-tesla-to-pull-1847927184/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 82
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/005e08baa1e379dada5ebd383405b28b.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
     excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
     publishedDateTime: 2021-10-22T10:13:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Here's why Tesla has pulled its Full Self-Driving beta"
+    excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls \"FSD.\""
+    publishedDateTime: 2021-10-25T07:22:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/articleshow/87252351.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/amp_articleshow/87252351.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/heres-why-tesla-has-pulled-its-full-self-driving-beta/amp_articleshow/87252351.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-87252351,imgsize-67564,width-800/87252351.jpg"
+        width: 800
+        height: 560
         isCached: true
   - title: "Tesla Hits Speed Bump With Self-Driving Software"
     excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."
@@ -122,6 +154,20 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/10/as-tesla-pilots-self-driving-cars-auto-insurance-may-become-.jpg"
         width: 728
         height: 400
+        isCached: true
+  - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
+    excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
+    publishedDateTime: 2021-10-25T06:48:00Z
+    webUrl: "https://www.econotimes.com/Tesla-halts-Full-Self-Driving-beta-103-rollout-Elon-Musk-says-theyre-seeing-some-issues-1619882"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 28
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202110256a11885139a875351_th_1024x0.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "FDV6W5u+zUaBHVQmaKh6ToY7jvJse0dPURn3fYi1lJqFFEk0pbdskFAcrbX8gGNQgE13XrvuMRTs9fyVUZe7a0PtX5uDwJ+9O8MOiXYiAR9CtuRs7kl5Vl7QMo4WeS89TRLy9d6E5y07owbmvNzrkNokFI3wFvaeMhLbZglMQl1AFtqQjWIrnJBXllPHLaHlmwt9b77UFYRlGcgJ2AVsQ9/643Xm7KQt2rv4JBcQTRUOcZL1YZHzjgESE/5CBn0prmlRCxXGUZ83sGzpfaBy28F1Sm7519Y2/LaXin8O3JPYSHajqfGJMIrnzmbli1VbHImAe6yMpcdNkGjbpVOHfok7gDtr6weX7GTzSFmXWNGj/Q5EUkNaUI88ShsBNLMUe7ElcFHrRLfEefeNQ8OJt7wruRSaM/k638UuOd6QHSh+ZO0N5g79SmFeLqXvn+FUkeTjJ9aTwbI2FPqr/tRW1wKpz3WqRZyp/sJyV+RGcaff4CGB2eFyWrgH1Cvte+SDAtKrxEIdav60kATnnRkLwQ==;zxm7PPG+s4UDGn+JMLVt9g=="

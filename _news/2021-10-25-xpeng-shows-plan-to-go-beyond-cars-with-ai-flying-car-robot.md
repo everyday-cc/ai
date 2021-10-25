@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "XPeng unveils slate of new technologies: ADAS, flying car, supercharging, robotics"
+    excerpt: "China-based EV maker XPeng unveiled a series of technology innovations at its annual 1024 Tech Day, including the latest and most sophisticated version of its in-house developed advanced driver assistance system XPILOT 3."
+    publishedDateTime: 2021-10-25T07:35:00Z
+    webUrl: "https://www.greencarcongress.com/2021/10/20211025-xpeng.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 50
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdefb293f200c-600wi"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "MkQFRVIF9lf8ifazQ3BgFic59HW0ighhTBjSBzORYShyG1sHg6N+B2z3lE64NCSzy8drBwEM+7EcVkxP+Ep56pIHQskxvREBcJaOfn/BKZy22tJjYx6unMDE00ZrfrSm9xzjGGNeRt7NDGM9+qMPzZGI7g7kKdVclYgQIu+muxaHH2ZBgwYpJDmxZ3cecyZfYRgfUR9JppN/TCzAqRkBlftfRBEj69uKopuyNm7fvRKoRSUjrW3HLheLz9qpji9Gduwey9aovuT1t6BsusyNmvzzwgzmEbiCSeNOBnUtCqo8u+TAD1doqP+NtItQE0IZrLhPYyuMoCc5MZpJvkMvoV/HvQWGuonbKKgSs+NAKG7rc3qlrxe6PhFSJgI96B58055cvpsyCJSAcNnU15Cfm5/ZZFJM80NGjPSETL8hcP5TB6brpBwtTcTtgxaXEKEaCplUcFBz67Hme8hSQF97qbQSKHiy0NpRyJ0fMPZM3e0PJfoTJkYrrOVwA1jF5NgbYZloV83GWAL/dDjVlCU+vQ==;GXJMBkJ98DrconZyA7ov4A=="
 ---

@@ -72,15 +72,6 @@ related:
         width: 401
         height: 401
         isCached: true
-  - title: "Unethical AI poses risk to mining companies"
-    excerpt: "Unethical artificial intelligence (AI) is an issue that can be a risk factor for mining companies going forward. Source: ©Supplied by agency. Wits Mining Institute’s DigiMine leverages a growing range of on-site facilities,"
-    publishedDateTime: 2021-10-20T13:38:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/646/221310.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
   - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027 report by QYResearch Group. In-Flight Voice Recognition market is segmented by region (country),"
     publishedDateTime: 2021-10-23T13:36:00Z

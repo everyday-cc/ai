@@ -48,15 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Deci scores $21M to develop AI that builds AI"
-    excerpt: "Deci’s deep learning development platform helps enterprises build, optimize, and deploy AI models and reach successful production efficiently"
-    publishedDateTime: 2021-10-20T14:55:00Z
-    webUrl: "https://www.geektime.com/deep-learning-startup-deci-raises-series-a/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 19
 
 secured: "INlHBAWhXDLDTamv1nM/i8hAMzfJ9cXF/AZdO0S2n0cbWtJ+nrj2VxJxRDHhqvzz5jKn2Q+61UkEQU3nrHwZyGqJ+frJ5Kg8uDcul3FbecPikP4fiABXn72HWJkZkEiukE4j2af3ZV+TlVUEOKcgPVO1zdTxWXgnHBWe87RWS0bb9OAQWlGvI2T8tH7BVK4H1wqOmZEqGPWoW2/Fw9C0U4RBQf6CViqXjmsfD0Ln0o3FmXoz+jwM8mRn/3N8vWJZV+a7t+8Yq1jOTcye4jBiJ53KYJc+a0yEuzebiCVgxZYFvgMAor1XuPMOtAVCxi7NH6yr5bl8BjBa5S/t9DE9q9Ym0MfK5tUJO5AvRSoa9HSc1qYB8l82LmbaffuHhabS1JvoQSRvfyXaU8xe19nDoRhaNHnhht9Adb8bdTL5DwB2LHN3ULKFW8LtxN6/DfT47f2A4dmk1LLichW537gqFokUwQWd6kmku8uCtpiewgRlLIJZiCxC8RiOMr2z/FelJj5CJphXUGySANqvUcr5Iw==;YBNxundYG77te4SntDD+aQ=="
 ---

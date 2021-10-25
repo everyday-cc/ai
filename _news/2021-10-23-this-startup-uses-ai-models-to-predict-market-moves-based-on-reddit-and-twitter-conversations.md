@@ -25,17 +25,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "The AI oracle of Delphi uses the wisdom of Reddit to offer dubious moral advice"
-    excerpt: "Got a moral quandary you don’t know how to solve? Fancy making it worse? Why not turn to the wisdom of artificial intelligence, aka Ask Delphi: an intriguing research project from the Allen Institute for AI that offers answers to ethical dilemmas while demonstrating in wonderfully clear terms why we shouldn’t trust software with questions of morality."
-    publishedDateTime: 2021-10-20T14:28:00Z
-    webUrl: "https://www.theverge.com/2021/10/20/22734215/ai-ask-delphi-moral-ethical-judgement-demo"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 45
-
 secured: "EYxxTldT2Nfvl2hnBr7xfmC/TZm+8dwUs+WRZgkYQqyrlRj8kD7abWRHCt7pC7+Ebh1plv0PHqMnW0sKTsmUjZI70pfy0t3ivV9MwMoJM2fDMRq22ATHvglZiYavKZ9WVygkT3vJLor7Y3AJk6euzkEmuZ+/O0BDHWBhzkssh9ATK50qRqLfFguG4I4JEyaK034G1DAdByf38MwmQma++2XM0UBMGZkXFVvzcrNvEVCayLSF5LzNCEwwfV1bj2E/ralwv+RUYq/8qk1CTcBCb8pKBGzZXP20ZZ3IiFFs7a61ktQoXvgZ9txesr6XA1KuOUbwG0NGUcNPh2C8IA0IMS6K+RHgWqoYli2Sb4nHBIc=;PgEQdTBCokC90e1IdDm22Q=="
 ---
 

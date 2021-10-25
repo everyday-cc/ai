@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
 type: article
 quality: 66
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,15 +25,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Anti-fraud startup Resistant AI raises $16.6 million"
-    excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
-    publishedDateTime: 2021-10-20T14:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39063/anti-fraud-startup-resistant-ai-raises-166-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
   - title: "Deep North Raises $16.7M Series A-1 to Scale and Expand its AI Computer Vision Software with Celesta Capital and Yobi Partners as Co-Lead Investors"
     excerpt: "Deep North, the AI company transforming video assets into robust, custom-tailored analytics, today announced that it has raised $16.7M in Series A-1 funding co-led by Celesta Capital and Yobi Partners,"
     publishedDateTime: 2021-10-21T17:09:00Z

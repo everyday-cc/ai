@@ -3,18 +3,18 @@ category: news
 title: "WANdisco Announces General Availability of LiveData Platform for Azure"
 excerpt: "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud"
 publishedDateTime: 2021-10-18T13:00:00Z
-originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
-webUrl: "https://www.wdbj7.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
+originalUrl: "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
+webUrl: "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/"
 type: article
 
 provider:
-  name: WDBJ
-  domain: wdbj7.com
+  name: WCAX3
+  domain: wcax.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "/tJ98KndGT8Or1xjLRuzlXG77XSGcNMZBFGKl81+OJ7LQY84a4++2E+IcjpwlYnYDi9NHdj9ziDXJlCeBw9yhfeTjbB3xpVYR/X7P7fquu14qCMKTL10Vk5Cmgii7NpaKDsgdpBDl1CQ/j2/nwg+qbyKTWJhWCN+B92+UiYVr4WkxGo+Xgo78if9BDHi/B86T4H7lfN9Mnx7maQEBOzbsGBNmZzr04F1uz8mWrVkmsdhRrQfZ2Fnk/AZB0LmjUJFAPVjylt1w8SgMgBa/lZq6HWVaO+fT0RDSii0wuFCJJ8xIZOlA0X53xUwb0DaJig6cpZa6tA+7/uR6tI3DAlVbRbnK7l2umsKB51P8a3o9H0=;vVOykMDcZD9C1yewTEwnVQ=="
+secured: "6tUUL6vlNSwSU1rcieGv0oaxERmW6kMe9pmmjfVtWogFtsyKm1lyo2zHaJjVd8BtezkOYktY0s929MeOksjOWJIheVMB1oMGP0CAdu7HkALokqI4cI5xcf92tgT/cs0LY7JcR1dQ08LGn+bf3gRNdgtDmcvx1CKXoKnVjW7vEE02yKl8fmCSfWDshfdmatchmq/DPurH45vAZ78qgPq6AncE7cuaDogdm6WV24PyvXO53PgBX7Y1msf4jB5wAEpCavi2Wzty4Jwmp+drLO91ctYJfMNEzH95WUplqTPsnfkni8XwdpXFGARh7IvjhROgRz7a64ydTDyku7XXEdFIbJxl/h+XohaMYPt3nztxIUk=;bBYewyprXYJQvZXOWD2C5w=="
 ---
 

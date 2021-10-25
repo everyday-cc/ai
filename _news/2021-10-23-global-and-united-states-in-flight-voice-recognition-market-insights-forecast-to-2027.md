@@ -67,15 +67,6 @@ related:
         width: 401
         height: 401
         isCached: true
-  - title: "Unethical AI poses risk to mining companies"
-    excerpt: "Unethical artificial intelligence (AI) is an issue that can be a risk factor for mining companies going forward. Source: ©Supplied by agency. Wits Mining Institute’s DigiMine leverages a growing range of on-site facilities,"
-    publishedDateTime: 2021-10-20T13:38:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/646/221310.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 34
   - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
     excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
     publishedDateTime: 2021-10-21T13:12:00Z

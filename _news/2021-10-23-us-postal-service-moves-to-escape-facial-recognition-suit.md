@@ -35,6 +35,20 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
+    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
+    publishedDateTime: 2021-10-24T01:05:00Z
+    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "EDITORIAL Retail continues to shift online, JD Sports expands, facial recognition payment takes a step forward"
     excerpt: "In today’s InternetRetailing newsletter, we’re reporting as ONS figures show retail sales continuing on a long decline that started following a sales spike at the time that shops reopened from lockdown,"
     publishedDateTime: 2021-10-22T12:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fierceelectronics.com/electronics/deci-gains-21m-fundi
 webUrl: "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 940
         height: 500
         isCached: true
-  - title: "Deci scores $21M to develop AI that builds AI"
-    excerpt: "Deci’s deep learning development platform helps enterprises build, optimize, and deploy AI models and reach successful production efficiently"
-    publishedDateTime: 2021-10-20T14:55:00Z
-    webUrl: "https://www.geektime.com/deep-learning-startup-deci-raises-series-a/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 19
 
 secured: "y1XjUgc2cNdv6CfxFSMzFzLRkQnnUfMX8j6KsLiozQBMcvZD8QhEgR+2kf6ANMDyC3eejz8+z3e+PBD0vGEwRHCNe50xq96fRhg9kH12gMBiM/Jir1hwVaoeEg0ktXeOd/52D37hIxbQrHttxbESkqisKzpK/fmEnyZMxP8hdLQGyEHMUVRrPlagQ6eFJBAfo6rOUU3YXcZv7/EV6fjBcJPs94ZfiD1vwZgOry2UhIdT7SLce5p9gLWcE1DqiU2qP3A79xCF6exZH1cN9zG3xUXQnXLeAYMg9ZSPl8nj8QK8H3K1CIF9Kpvuj+dR13ZyDEmi/EpjnZ8/IW/MqGp7odzWuxy7ydESKLjmRWxjKQc=;PCVf+EmS+Enoh4ixnbdCDw=="
 ---

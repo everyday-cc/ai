@@ -8,8 +8,8 @@ webUrl: "https://medicaldialogues.in/dentistry/cases/artificial-intelligence-enh
 ampWebUrl: "https://medicaldialogues.in/amp/dentistry/cases/artificial-intelligence-enhances-caries-diagnostic-efficacy-reports-study-83403"
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-intelligence-enhances-caries-diagnostic-efficacy-reports-study-83403"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://medicaldialogues.in/h-upload/2021/10/02/500x300_161347-capture.jpg"

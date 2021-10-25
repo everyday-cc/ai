@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/392199"
 webUrl: "https://www.entrepreneur.com/article/392199"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Entrepreneur
@@ -26,17 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Combatting UK health inequalities with Artificial Intelligence"
-    excerpt: "Four projects have been awarded substantial funding to address the growing problem of health inequalities in the UK using AI."
-    publishedDateTime: 2021-10-20T14:07:00Z
-    webUrl: "https://www.healtheuropa.eu/combatting-uk-health-inequalities-with-artificial-intelligence/111365/"
-    type: article
-    provider:
-      name: healtheuropa
-      domain: healtheuropa.eu
-    quality: 21
 
 secured: "I8RvOQlYe25UZt4ZtAz8tcC2tlplIOcsD8jiivgteGt510PW/G31Ku2sE6kFs+yxwygYjHhwoxRTS8NzzrNRp32MOl7CnzK9tTXrLy/cXlm03dtmdX/zVn8uw6scEDUhFf++GuhS/fDm5wWcwtHtC5NceZhrBNTu76XYkWZ7fOtlI7R0DEIjQcqoGVfrM/pM0ekzfVILJk/i3bu8pbshwnYS0sT4gLPEjfSKmjh+/eqfGaJ6mYKF9Ds5JDM5w0kGZg12t89R15qT8prx4g3yKFkEVvM64OYqrmkvJkuiqqQELYjmA2VYZ62lTm/YzTsy14khisNyLejAxaGd5bheITzc2SCK1ZjbEXQDxcWYXN8=;6q0oxQcM9hYH5aAJaGy4dA=="
 ---

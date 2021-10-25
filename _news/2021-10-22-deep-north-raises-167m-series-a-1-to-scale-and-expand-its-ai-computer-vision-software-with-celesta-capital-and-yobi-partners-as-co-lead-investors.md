@@ -30,15 +30,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Anti-fraud startup Resistant AI raises $16.6 million"
-    excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
-    publishedDateTime: 2021-10-20T14:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39063/anti-fraud-startup-resistant-ai-raises-166-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "RglOzsVvXmR8ByYYRGcLz/+XhiYG9TdTgEnPYQayezEwmPvg6DowxDgdlb6qin4kzT6h7wF5sb+zqo5M8zNz3r9C2fApZerBGMAiUH+0sMWeB68m7NuAhtfz1kV5b0heL+FLtC5e+6kmJNCUchoiL4ipEYzwHI20kGBVB/WFXoZ554IEi4fh5diMjbLPlZEb9ZWca2Sj7MkK4jYDwhTSVaXtvzd48WWhSTS223+bwYPr7cctQuqLoPbksmt6+XbH1iLe2/jAuZLpyr5ea88GPcrxrsNFIHTimrlj1x7Js6ayONMkbtv2zw2Dbs/BzI+LyTapRdBFlE7WQb9lRY462eMK4MabqiPJkKQDKdvE4M4=;g7s3JfkgsdfTh5BGpvWHew=="
 ---

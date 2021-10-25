@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-p
 webUrl: "https://www.bloomberg.com/news/articles/2021-10-24/xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/24/full/1635096251-5629.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "XPeng unveils slate of new technologies: ADAS, flying car, supercharging, robotics"
+    excerpt: "China-based EV maker XPeng unveiled a series of technology innovations at its annual 1024 Tech Day, including the latest and most sophisticated version of its in-house developed advanced driver assistance system XPILOT 3."
+    publishedDateTime: 2021-10-25T07:35:00Z
+    webUrl: "https://www.greencarcongress.com/2021/10/20211025-xpeng.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 50
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef026bdefb293f200c-600wi"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "dpZ+nRASbPinXEUx53oJxzJQGUHd528gbmAetVtLusWsBviMfZsC+BDMJNn73tisSaXFvUucnbCXCbtMRQp/LAmEpFH3H/aojm4wrKH+9KYGLUnrGtQdlDeYV+8qva5JEEJ2zil2xJS0CRbGRm8NQ+T3FIb2ENKOtBJ7RAzebR23er+1mVBxCKx5Ls7bL+VEAeIQBzBs7UP98cIGRsh7gsnMmcMwxVBa0x8KsKi/FdSV3UOZVTFIG/rTfD23LH5fPRzGGxCNZFWU0X/NWcikOC54f7jM5N3icxws2Yd3ig7rfITaAia2ljc+de04u731smTJUiYZktinOMGZ2pd/VUZpeeAAEJbH03rwtyhjOGKcTDmmvPldpmNU1J3SRjJmBRVuvdt9kYgOuye4JQasY5f9LnRDL5yjDRpSbrov0leAFH7wOKIEGGDQCTAiTi3FO5EqGyuB41oaebk0vMMzRwcJqM/qVanE/+tvurPMZLBcJ8F3dkb3wOSVox1jlGKr+nQorssFacT/QV2oBWpw2Q==;ayMe2+pqA0CmcOLy+rI3Yw=="

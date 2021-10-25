@@ -50,6 +50,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
+    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
+    publishedDateTime: 2021-10-24T01:05:00Z
+    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
     excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
     publishedDateTime: 2021-10-20T15:39:00Z
