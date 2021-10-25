@@ -2,7 +2,7 @@
 name: "Infermedica"
 overview: "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://infermedica.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=p8YcZnbiB2U"
 
-secured: "QjEvst6b91NcNVlBMyh+VeUeiNhRHQ6DIS6cywAPcy1Gc51YHANIXuQ+DZ7jqkhvA8s7eUkiFw5ufTyDEHsdpu3wRrEtqALQZJrcFGN9QRl96Z6/wthTwo1OPiXdZGlVkemZLFVxONnpWCWt3eOSWobOkjY+nVDMvZ0BTyVVA+yDKJiUZiB9a9HvxeZGvuqncFxTKAIfzFQ2Fe4GKkanvrCNBdQmtKkoxvHcZy9aO5CzTEAqaS5FcK2W25pAR6PeUvhqIQwLDOP/Fiu4hgKeR9LZCIWMyYMdEvEj7OScCxCYA+U689HrwkWvdlAD7fflE0WKTXqZyq278mdoQFuktkywaePe4BzFtY9oRWE/skQ4HDJ11arBiIDVaABT0AuZFI7LWms5M4pFElB1+rg7xw==;CmlUwrJngOrpLW9D72K9WQ=="
+secured: "eJ0aGWwRu4DUNg9qihky54tl4YnoHmTDkf9XbCgeg9kDko4aKx7omrTkFTkOjgjFaekgh1Ul6OPJMe6DuPmLjmELjknIVLRPaRXrdHn9OngwPPTHjnSd8uf34ekLIGHhLzcXrlRiOBlcigDuU4fdfL9kvNGxuywjMhJO1HXT/rRpTpRHON+zqnvAFuukdT+A9J2NlwGzjeIdr70Er9SAmjoOz0MQRjLyfa/KGu3zSXRMrhlSu/3RtabfTN2OcuCRj56iOVfNpBf8VqvVJDYKrkAo0KZuUQ5HaM95CTF/aXgdlxwUXznjF588VmxvnAx9GDN9hgE/wNDiTWt44/um1J6rtanKPP2lXLgYp3cgLAkooscHNH/DgKUWZP7wZ0cWh78eLQ6zrokTdLjE00cpPg==;3Pey1WihG8E4zoKtXMMYTA=="
 ---
 

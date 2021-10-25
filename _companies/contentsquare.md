@@ -2,7 +2,7 @@
 name: "ContentSquare"
 overview: "Contentsquare is a digital experience insights platform that helps businesses understand how and why users are interacting with their app, mobile and web sites."
 type: "profile"
-heat: 65
+heat: 57
 
 website: https://contentsquare.com/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/cE4odijXGE01+keu60u6cK5pknQj+AYhU69aP8WC7BBfMLYzz/q9mGthxiqnmyaIhdyqCjNCFPC8H6ZWlZ34Alghnm4rDQP0u6eWYZhEu7YciU2c1oL4PV7zRKIzGN8fyBYn/2A5z0RRjzxGEBPEcEHuyEgUMi4MLZhOvUcJ3zR7VVpO/FE92mCYnrQlH9kcMheR+mI0B1zb4kS8SQxg344ndIiOTBLuWK43Nw3etYS1SLtF/C+gh9nvDmf5+ZI8EFobaYtVu0Gwmg+TIxaJgnZGLmnqbp+3xLFkvPOHTrF43F6zggoIyyiS8WJ7NP0noxLHkENNzkg5L5dGFK9lBTLHSdW0h4KLxcw7eU5OL5mJfFphiY3aOLCkqf71uHnmeeq1kWhy/9nLxn4H5rj/1YfluvzwS+YZf7920tffGo=;DYvcvZaNhbhXzRmqeEAuWw=="
+secured: "om1H3x2E3+cc5wHRbmaEbrMwhS6rcpP45pDHk3ifEmRWl71anjb6WthrFhB7/5jRNyPvtoNrBHZJrKcmNJOMG2JurXFLwDTgFg8tX8uNRo/OMQl3jUfk2uwceT8EXpxwSMs4CnacWZ6SZ6XiLP9dmA69LJAdHJefezxaGrgIJLXzuFSUNM8RYCyZ7DWoXhH7IpZ6X+iHT/Ig2se8TNgVnMElQwO1HYC2MlMwXRYW9qZ1g0cMBFDR7xDMs+BPzkFPEqNt8jkXtSmKUx0Fes+KZ1FJFUta6xbeXhmr7hs0pmHFZmQyczOed7O9Td9sOeSn5HN5AJHIt421skcGNMtGJAoQT+dbAQT8Kem6zRHPyGwTXvb+XbQKfqVTWRDfB2zHxbbarX0gY8lL3whSiQCKnX8hDfb5XRx/ER1yi4q7AFY=;ZnoPEE3/jJrF8cuWNJaDiw=="
 ---
 

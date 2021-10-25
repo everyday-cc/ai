@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActiveCampaign"
   url: "https://twitter.com/ActiveCampaign"
-  followers: 11943
+  followers: 11942
 
 locations:
   - Chicago, IL
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActiveCampaign"
 
-secured: "ALMrszgsJAfNCQdXmhH6yQlX1JG2/SA/pwvFLRjmBEpIyGoqV1M+b3daH4V3vDBzK1uraCoNRGb4hJidVpn9jix0kxUyWXzS9TuMETvcQU5rfoW1IztRUShqAdHCV0MPlxHzIgMamfFMM6CqP4XX+lw2a8zlD2XGzp9UqHfPw6UVMEg+zjnITD0KoYCOiW3JP7XkpPQKUcNU5qxMx8fTAFRHJNrbDULuP/Po7pyATXJQipgnPFdEDWhwVybLrmftPKh4hTbzr7k+X22J0rn0XKyIbGpDs0LZU0Hezs10M9y5IJsW0iO8h7ftfulmTu72ugkRWDJFnbQSs1+Inm3WPyWhchfPeuff70ejhJNccee1w6/PjETdcTgIAeamlgy+4mXMNLb2RfbEsO8D689ZCbVSZQEtiyHhatXuzOR1rgw=;JwM0++0QjE9oMP22S3afWg=="
+secured: "CTHqHLmFaVwMGEA/yfAgoi0Vx3VYtbmaMXBQptpPVwP2H1WlJeSTeR/GJFnZ79QRBLTiM+wccDxp8VnH0jV38Yj57nTMvPOLCiPreCccTZx5L5WXEiGrC/WBEr4V2h3T1BN5BlFdaBNliuEnfkQq2my49EiYuCnKmIRf0FlX4Mw5grKwsFIEhv0pDoousqiLn5Amw6YIZAftUQLUfUam1zdVvMVQn3yZVbWcQugriSiBRo80ExAIDDmSJlQl1vKb7tRl5rwAav/9mgXGqPWooWRxfpwu8QCpI56DJrHfOmWEmu86LlqlSB3k1AW86dYePJqHjxf1gG4UWCIdqGrettyjEDbP/eXIkpIvEyGPlwTFb5nIKykcilhxlu1nkGF9DOYsTOMyToztilFB+7IuKL5skTB/7WXDX5MAfTCLBtc=;QrtCb+inAqb7ysedALldoA=="
 ---
 
