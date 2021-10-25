@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-24T20:26:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-use-cases-2/"
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-use-cases-2/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"

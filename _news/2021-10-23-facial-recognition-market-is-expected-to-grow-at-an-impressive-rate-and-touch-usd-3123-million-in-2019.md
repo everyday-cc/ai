@@ -39,6 +39,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "AI in Data Integration Market to be dominated by Large Enterprise segment till 2026 – TechSci Research"
+    excerpt: "Ongoing technological advancements and the growing IT sector is expected to drive the global AI in data integration market for the forecast period. According to TechSci Research report, “AI in Data Integration Market - Global Industry Size,"
+    publishedDateTime: 2021-10-22T10:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-data-integration-market-dominated-large-enterprise-kushwaha"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 21
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQElqvA9DUci7g/article-cover_image-shrink_600_2000/0/1634898060403?e=1640822400&v=beta&t=lq9MwngpuTn1jZxsbfk4d7MZdE1EgsHkzwwSbGfHEMA"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "pyWm1g3wpJ2sf1LPNtZNu1ypjdRhcXrXKeudcr///FTicq/4qWUjyLt2YYKU9bU/u163TradUpzwAH3aM25YWk2ChgTKwdBcMPSp6P6pMiEa6WKZYSut/ufFte996DZvLc8US7eptV1gsftsNzHJckNLb8odNz/7Sp1bh0edi71qZWCk0GQPAxuAgfMVqct7C7apI5YiOo6wEgr8dsBetP1kOQnn1jHJtyv3T61ueOQ6QBKKDldeZE2mCA8NJKaRXhpfRrj5rrkURbGqGbas/ylHExSR32I1KFiX2pDCtEeA35NwbkGX/iBcuNK29zM57eEmSN+p50f5lLlHLclyZE2KdfyNv+3ndbRCY+hlA3Y=;sr+84IJLEWDeUl33Nti0QA=="
 ---

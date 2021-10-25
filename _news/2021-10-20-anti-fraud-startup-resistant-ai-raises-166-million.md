@@ -18,57 +18,25 @@ topics:
   - AI
 
 related:
-  - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
-    excerpt: "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16."
-    publishedDateTime: 2021-10-20T08:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
+  - title: "Deep North, which uses AI to track people from camera footage, raises $16.7M"
+    excerpt: "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million."
+    publishedDateTime: 2021-10-21T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/"
+    ampWebUrl: "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
-  - title: "Resistance AI, an SaaS enabled AI and Machine Learning Security Firm, Finalizes $16.6M Series A"
-    excerpt: "Resistant AI, a software-as-a-service (SaaS)-enabled AI and machine learning security firm that aims to protect automated financial systems from manipulation, fraudulent activities and financial crime,"
-    publishedDateTime: 2021-10-21T21:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/10/181942-resistance-ai-an-saas-enabled-ai-and-machine-learning-security-firm-finalizes-16-6m-series-a/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+  - title: "Deep North Raises $16.7M Series A-1 to Scale and Expand its AI Computer Vision Software with Celesta Capital and Yobi Partners as Co-Lead Investors"
+    excerpt: "Deep North, the AI company transforming video assets into robust, custom-tailored analytics, today announced that it has raised $16.7M in Series A-1 funding co-led by Celesta Capital and Yobi Partners,"
+    publishedDateTime: 2021-10-21T17:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-20059803.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-  - title: "Latest Trends in The Fintech Industry and What to Watch For"
-    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
-    publishedDateTime: 2021-10-21T21:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-    publishedDateTime: 2021-10-21T19:45:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
-  - title: "Resistant AI Announces $16.6 Million in Series A Funding from GV and Index Ventures to Protect Financial Automation from Fraud and Financial Crime"
-    excerpt: "Artificial intelligence security company raises Series A funding ● Resistant AI responds to increasing vulnerabilities in financial services caused by widespread automation and algorithm-driven compliance and security ● The founding team’s previous startup,"
-    publishedDateTime: 2021-10-20T15:23:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/resistant-ai-announces-166-million-series-funding-gv-and-index-ventures"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
+      name: Le Lézard
+      domain: lelezard.com
     quality: 0
 
 secured: "Imw+NpSslmi07xucJ9Fnng9yp3o5m1OA9mpOfd6dUPb7ks4CT9XXgZO7SCylj9btdfVS7FqXfAHcJJOSVfscfMlm9Rx5rMSgeD8DcntBX/dEWNMcZZBsA+pN+kKAYncsOR3I/E6Ke0zgTZ8XarAaNZ6MPNeyeuYxhNKubPhC9UmS4N7HqkO9AxCVlF77dmwtuX1CCh/9xjkR9gbsQt1JiE8/nwH5iBvFUzFvkKnLRiwj2/IbcyBvzzcarb16I8yXHdMBRXw6VF2ds97Db5uZru32azgLv3PrVWop8ecEUZgyJDJT+0l0O5XFzkm9tz3Cil5/QOMl25nidzWLBk8sfutPyS1yMLdI/+SzGUMK73p2mireqBcNeq/coMTlNRBBkuJzJrPDw/GH24zk2VZLY8pRiIP351h0JMl5tkiUSkJD9q5Tz1KSlXN0GHGEB9qfaR+f1KmipYcSUc2LaxtkYPdhbAiEZRCRR35qA6QQ2YDBYt03adAhGgdZR2z2RR39DXm1JJmh2eksasKOgDOYQg==;Zd3s8rz3309NafLVLj6nCg=="

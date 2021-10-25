@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk rolls back newest ‘Full Self-Driving’ beta due to software issues"
+    excerpt: "Tesla CEO Elon Musk tweeted that the company would have to temporarily pull back the latest version of the company’s Full Self-Driving (FSD) beta software less than a day after its release. “Seeing some issues with 10."
+    publishedDateTime: 2021-10-25T01:44:00Z
+    webUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/"
+    ampWebUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Tesla Hits Speed Bump With Self-Driving Software"
     excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."

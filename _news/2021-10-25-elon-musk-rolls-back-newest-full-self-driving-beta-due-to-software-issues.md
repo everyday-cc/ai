@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
-excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
-publishedDateTime: 2021-10-22T10:13:00Z
-originalUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/"
-webUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/"
-ampWebUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
+title: "Elon Musk rolls back newest ‘Full Self-Driving’ beta due to software issues"
+excerpt: "Tesla CEO Elon Musk tweeted that the company would have to temporarily pull back the latest version of the company’s Full Self-Driving (FSD) beta software less than a day after its release. “Seeing some issues with 10."
+publishedDateTime: 2021-10-25T01:44:00Z
+originalUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/"
+webUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/"
+ampWebUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
 type: article
-quality: 80
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Elon Musk rolls back newest ‘Full Self-Driving’ beta due to software issues"
-    excerpt: "Tesla CEO Elon Musk tweeted that the company would have to temporarily pull back the latest version of the company’s Full Self-Driving (FSD) beta software less than a day after its release. “Seeing some issues with 10."
-    publishedDateTime: 2021-10-25T01:44:00Z
-    webUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/"
-    ampWebUrl: "https://techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/24/elon-musk-rolls-back-newest-full-self-driving-beta-due-to-software-issues/amp/"
+  - title: "Tesla Autopilot 2.0 owners need a camera upgrade before getting ‘Full Self-Driving Beta’"
+    excerpt: "Elon Musk confirmed that owners of Tesla vehicles who bought the Full Self-Driving (FSD) package on cars with Autopilot 2.0 are going to need a camera upgrade before they get access to the ‘FSD Beta’."
+    publishedDateTime: 2021-10-22T10:13:00Z
+    webUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/22/tesla-autopilot-2-owners-need-camera-upgrade-before-full-self-driving-beta/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
+      name: Electrek
+      domain: electrek.co
+    quality: 80
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla Hits Speed Bump With Self-Driving Software"
     excerpt: "Tesla rolled back the latest version of its autonomous driving software, called full self driving, or FSD. The decision will lead to questions about the rollout. It could also lead to some stock market volatility Monday."
@@ -108,6 +108,6 @@ related:
         height: 400
         isCached: true
 
-secured: "jwXx8EjiUXIGhQJBqymOoeIAY75ZPrPw89sMfz8492wMv9BncU5/EGXUnQ77cJNE8e5Zsea+zpQ/iTQ10XFv9vTC6QJoBa/fkmEjbKxyOuXxlR2TVGShHbCRNRRPPrsVMv0QBOtCBsjImtr5xt5vHfckULGZ1FXplSqIWIhrDhhRVfSM66MD++h/GEHotjOfKB/VqF7qhDEv1fkc4xRJnitVOVzbkOqoPEQ+SkJGFDL+wQ9CzqVw1vyX2HPZfkRZwXheNva1SBQtWAOVXRjUsDlZ0XhXSFehDFdFNxdotRagGjQklea0q17sQ2PVwC5yYhReQwA74uZY99xzuFbiOdkuoZNAKxiVDPAk+1CrY6IOGwu+EflTzL1U1kySEVix25J5I4eA6Gqn4Dch1n1JzBHAd7UyZ5R5nSpSTPgTnbR74KPy9YfVrb00E56U8lOhFZxh8wki5H1b7hGAVpB7G/RkvGE/20mgNhf+4HjsuMR6gcNqYSXnfUcjN6e7Qbc+JDrXFf0nV1YI4Pr/k0kaIA==;etpAT+ZOEsmoKKXq3Hfs4A=="
+secured: "asxSFL3OZlKID5/rPlRwkJqcqL6ayRHMuYv1XKrYOaF5/+uepeFnZvnkuvdpCcOXBQgrSU7Lj4zMtprizi5a6PR+BM05AatxWK7kdru48N0+4J0xzU/XmN/16ga7ybSpBOGTbCNku0foft5Nxuz77w3lnnN3Obxv/MoiDhaT3cJHdo61kJqIBdvTNO1UYlBG0P6hN5b/550KmbIDmJ7xitK8G8NBEZ4HjuJ4MnjqQyH3S0jK51hm8zkRWUWAn1Kz7Yu/i5pcJfi51URaMWSuj6c0rjS5k/bOxbpgyXd49pGqu/6SrLOPpp3XZSEt/pIGAS2/gohKwtbDtBJHu5WHRu1c+CwY/9HaVsT5rvVe0VA=;5a9ywWDn6LZl9YDlCvvEMA=="
 ---
 

@@ -4,34 +4,34 @@
     {
       "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
       "title": "What automation, AI, AR, robotics mean for the future of work in mining",
-      "excerpt": "A new report by Wikistrat and idoba analyzes the impacts that technological developments and ESG issues are likely to have on workers in the mining industry.",
+      "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
       "sourceUrl": null,
-      "webUrl": "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/",
-      "originalUrl": "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining.com/wp-content/uploads/2021/10/What-automation-AI-AR-robotics-mean-for-the-future-of-work-in-mining.jpeg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T12:38:00-07:00",
+      "publishedDateTime": "2021-10-24T14:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mining",
-        "domain": "mining.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

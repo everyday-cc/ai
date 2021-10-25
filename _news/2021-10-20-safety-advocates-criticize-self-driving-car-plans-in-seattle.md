@@ -29,15 +29,6 @@ related:
       domain: kuow.org
     quality: 19
   - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
-    excerpt: "Tech-industry experts, city planners and even Gov. Jay Inslee have touted self-driving cars as a panacea, cutting congestion and vehicle emissions while reducing collisions."
-    publishedDateTime: 2021-10-20T07:30:00Z
-    webUrl: "https://www.wenatcheeworld.com/news/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/article_c22401ea-31a9-11ec-b102-5f82d7b3f03c.html"
-    type: article
-    provider:
-      name: The Wenatchee World
-      domain: wenatcheeworld.com
-    quality: 0
-  - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
     excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
     publishedDateTime: 2021-10-22T16:20:00Z
     webUrl: "https://www.detroitnews.com/story/business/autos/2021/10/22/amazon-plans-self-driving-cars-seattle/6133508001/"

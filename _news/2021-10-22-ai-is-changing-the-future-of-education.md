@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "What automation, AI, AR, robotics mean for the future of work in mining"
-    excerpt: "A new report by Wikistrat and idoba analyzes the impacts that technological developments and ESG issues are likely to have on workers in the mining industry."
-    publishedDateTime: 2021-10-24T19:38:00Z
-    webUrl: "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/"
+    excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
+    publishedDateTime: 2021-10-24T21:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
     type: article
     provider:
-      name: Mining
-      domain: mining.com
-    quality: 69
-    images:
-      - url: "https://www.mining.com/wp-content/uploads/2021/10/What-automation-AI-AR-robotics-mean-for-the-future-of-work-in-mining.jpeg"
-        width: 900
-        height: 500
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
 
 secured: "svdLdS6Z2IGmhDred93YE8FEuGZCrnYAS7YWP8HdwmRMvT5fsIcdccVhv3l7C0J8Xq5pMyOUeyMs7gb9x/sOqZXf7Jx+nI0DES2F93h731Mt2QKZwDCOHHB0indRpnwlMjg3bC1hn18sWvOtu+CimT0jqgNWQSPbTNywI5rufXBOE/80+EHPkj9ybj18CDaKZgHVz85u3QMwFqjFFd+8Ht/qUXoBEWXYi/rXSJTmaTAZpd3MXzAvG9WdMw0CYbPxCtV7Kww3dpfBBK0Q/T5mcB41T4+Yq0/bincurg9FhWqo3Qlgkw7uGLCUla4x9f+nGfWpJ8MN7+uiku655ZNjb+I83iWLaLxpOrnA7D43aNDopOFWWfDPdRpbA1wtH/yeszu6r4j67s9S8zsOhSHkLzTzLQTiW9ULfm/GjBQZKtDHWRlyEcQWhI5Qc4omUcd4Ipa3h85oAldbshDoo4pQs0elD71tRK8eQ4RzgbQZMDProAmdXdbeOx/0x4PPQ7jE3uXLL/tjt6TchUIDF7ZZbQ==;rDpM6UR9hXcmZ3NHkmsyXA=="
 ---

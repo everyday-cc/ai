@@ -29,14 +29,19 @@ related:
       domain: tmcnet.com
     quality: 29
   - title: "'State of AI in the Enterprise' Fourth Edition: Becoming an AI-fueled Organization A Survey from the Deloitte AI Institute"
-    excerpt: "Key takeaways Why this matters Deloitte AI Institute's fourth edition of the \"State of AI in the Enterprise\" survey, conducted between March and May 2021, explores the deeper transformations happening inside organizations that are using AI to drive value in order to understand what the most \"AI-fueled organizations\" are doing to drive success."
-    publishedDateTime: 2021-10-21T12:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/state-of-ai-in-the-enterprise-fourth-edition-becoming-an-ai-fueled-organization-a-survey-from-the-deloitte-ai-institute-1030885671"
+    excerpt: "In order to assess organizations' AI maturity, Deloitte grouped responding organizations into four profiles based on how many types of AI applications they have deployed full-scale and the number of outcomes achieved to a high degree."
+    publishedDateTime: 2021-10-21T12:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-state-ai-the-enterprise-fourth-edition-becoming-an-/2021/10/21/9474729.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1666509/deloitte_1_Infographic.jpg"
+        width: 743
+        height: 400
+        isCached: true
 
 secured: "HnnIHNgWSi915yHeifZPOsV76Zmbmx1b+PmtSdBRNMKTJp3aCEWFKO4fikUgxZL2b6nM4WL240c12VZHX14tcZkGU2QBSBSWGc465vpwRFutYpDWiIpe5FVpI5A396cZne9E/OiR3Az2fCbj/LAI91yxIta1G9VagbInLcv8kHvqYMQ7Jm/5rCq8Cu6IohllFz/73RgbI0+J6PaFmxploIx0dncKC45ploLdj939NvsemJSaLEAsfz+Snn+TPo3YvYkaxFjF4St8zZ+U9CSG+7+UeqHVw1LjRFtGaN6SDSwHqdKQVMYelrxI6lmXyYpnfaP7U5j8sFoCT2xZVyzsAvIwvc32S/uXCJ77psJP8F42CGmRuzvd27KLufYNFsCTz6WBBxfAr938EvxoUC+ba/on24EkIP7Dh8iTL+SkUfLNI1SxIEPSiIrzyo4kPyy8MyWGijHvCCChmKXIgGOb/iWC97mIrS+xyP/n0eZQhMkvX9r4qRJjMJrF4QdctQWBAt02OE4OmrG2sh5a1nHbpg==;CfV0NSZF7T4gRsHJ0TugQw=="
 ---

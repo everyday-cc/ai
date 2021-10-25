@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2021/10/181942-resistance-ai-an-s
 webUrl: "https://www.crowdfundinsider.com/2021/10/181942-resistance-ai-an-saas-enabled-ai-and-machine-learning-security-firm-finalizes-16-6m-series-a/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -21,49 +21,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Resistant AI scores $16.6M for its anti-fraud fintech tools"
-    excerpt: "Resistant AI, which uses artificial intelligence to help financial services companies combat fraud and financial crime — selling tools to protect credit risk scoring models, payment systems, customer onboarding and more — has closed $16."
-    publishedDateTime: 2021-10-20T08:00:00Z
-    webUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/"
-    ampWebUrl: "https://techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/20/resistant-ai-scores-16-6m-for-its-anti-fraud-fintech-tools/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
-  - title: "Anti-fraud startup Resistant AI raises $16.6 million"
-    excerpt: "Resistant AI, a SaaS-based AI and machine learning security company that protects automated financial systems from manipulation, fraud and financial crime, has secured $16.6M in Series A funding."
-    publishedDateTime: 2021-10-20T14:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39063/anti-fraud-startup-resistant-ai-raises-166-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Latest Trends in The Fintech Industry and What to Watch For"
-    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
-    publishedDateTime: 2021-10-21T21:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-    publishedDateTime: 2021-10-21T19:45:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
   - title: "Resistant AI Announces $16.6 Million in Series A Funding from GV and Index Ventures to Protect Financial Automation from Fraud and Financial Crime"
     excerpt: "Artificial intelligence security company raises Series A funding ● Resistant AI responds to increasing vulnerabilities in financial services caused by widespread automation and algorithm-driven compliance and security ● The founding team’s previous startup,"
     publishedDateTime: 2021-10-20T15:23:00Z

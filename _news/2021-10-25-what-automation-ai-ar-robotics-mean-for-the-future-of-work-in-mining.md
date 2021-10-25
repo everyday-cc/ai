@@ -1,28 +1,26 @@
 ---
 category: news
 title: "What automation, AI, AR, robotics mean for the future of work in mining"
-excerpt: "A new report by Wikistrat and idoba analyzes the impacts that technological developments and ESG issues are likely to have on workers in the mining industry."
-publishedDateTime: 2021-10-24T19:38:00Z
-originalUrl: "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/"
-webUrl: "https://www.mining.com/what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining/"
+excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
+publishedDateTime: 2021-10-24T21:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
+webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
 type: article
-quality: 69
-heat: 79
+quality: 79
+heat: 89
 published: true
 
 provider:
-  name: Mining
-  domain: mining.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.mining.com/wp-content/uploads/2021/10/What-automation-AI-AR-robotics-mean-for-the-future-of-work-in-mining.jpeg"
-    width: 900
-    height: 500
-    isCached: true
+  - AI
 
 related:
   - title: "AI is Changing the Future of Education"
@@ -40,6 +38,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GPTZTgU93VoNoQRsfOyi3fj/ce2RKU2cdLXM8vnzVVfJ9HzJ9E9ncszKpXAcHmqd1uR82/uYSNFYI4qWKkEYt87r6RJyBYrAp4+yRh4FmKqk9QM6VsgsATIKrpOzs+JJhWyfI7dy2xArdqFZj7qWWptvyKMncOxuhNs3XkIRaITOhoNR3pudwZqaLxBUnFyGbOAtam/d33ONu16VpHJlMyFdBZ9L9P4rUB+pm15frX7pIsKmCfVjR6hCYEsL9PSgu7cvMBU7PnFGf5GXih6qYlw1GjfpSx0Ys9uuprbcjY2aq2TW6Zjst9KjMMsZX7PDKElJzO5q6NseIU6PIDPIsWvPnFY3cWlIOYCCH+aiGK4=;zXMkxxTs97cbonaK+x6LmQ=="
+secured: "M3JL4OsltuG8lBbx1xksnSpaGh2wWquVsh4CFqpTadVC3btQFnYUK8wLvriAxB1VKcs7FZvz2ta5KMhAKREhgD2ng0LRdv6h2WDgw1kBXm7RCBCJdwurVIiPd5GpqTODL67rLaduGQcDfuoF3WGcGVfo9FN66IbAzq0I+xi88oXfve/dUXt89EFfP2qT0rdl5oYS/geVaNseW1wcuzEBd0ue3eVZIXlawVLBPKsRWrXwW5ri7tWI7PJjPRxAVmL21Qwq1uwEQQAjL/9QR+zOxzy34go4UkyaWSSlRvJw4CBuczzWXRkZdiwrwZ1YpwUC94VnVLGU5fMIxFLzIlykMyMMLBVD8R3Xo7sJi4EkWQk=;6gUWmMzW48pA2osJqiK1yw=="
 ---
 
