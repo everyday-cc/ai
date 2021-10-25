@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Pulls Full Self Driving Beta Due to Multiple Issues"
+    excerpt: "Tesla has dealt with multiple issues with its AutoPilot feature and is now having to do the same with the Full Self Driving beta, according to CEO."
+    publishedDateTime: 2021-10-25T10:25:00Z
+    webUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/"
+    ampWebUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
+    cdnAmpWebUrl: "https://www-maketecheasier-com.cdn.ampproject.org/c/s/www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
+    type: article
+    provider:
+      name: maketecheasier.com
+      domain: maketecheasier.com
+    quality: 74
+    images:
+      - url: "https://www.maketecheasier.com/assets/uploads/2021/10/Tesla-Full-Self-Driving-Featured.jpg"
+        width: 1350
+        height: 675
+        isCached: true
   - title: "Here's why Tesla has pulled its Full Self-Driving beta"
     excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls \"FSD.\""
     publishedDateTime: 2021-10-25T07:22:00Z

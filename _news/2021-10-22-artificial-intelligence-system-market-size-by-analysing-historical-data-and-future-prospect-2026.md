@@ -40,15 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI will start analysing management bull"
-    excerpt: "This will be really funny CEOs and other managers are increasingly under the microscope as some investors use artificial intelligence to learn and analyze their language patterns and tone, opening up a new frontier of opportunities to slip up."
-    publishedDateTime: 2021-10-21T09:53:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53737-ai-will-start-analysing-management-bull"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 21
 
 secured: "GnLTLurnNO0NzPz1SpGWvpiM/1ODzmqLqYXu7UF/4jl2YqaMPeR0zlkZ9IUcMFH3kExsQFzfK/nkF5gksVSOxJlN7A65JseSWDKN+ajb537eJSzqb3epXIMmzRQy6OxcZCCsFCjyiqcwTpA6Xs4oZEa+Le45dhqTsbFJN2yRZKg9l8Hr7buNw8GHGNc1l3vcbk/G/g/yUQCZFdROOC03JpRIyuYtuYXgnxXG89iHbQPEIH0Kx7OdsUgGKkCxgWaU4ZBLoaXeWju2/sw8cAVd7QtwWnqCwfjVVOT3lhv3Z6WPKZ6qleXIQwjxXdtysqSGKzQfM+PIxA8aeUQvtW28eKkHqTMqYCociArVcKQOl/7/WeuHsq6RvpebNCCnCWxp20JoCdmNDSQEVO5LAQa7oHNooFJN+8rcyCFziI93tZSTE+u1id6ieEk/ZzRVbTOoLWR1PCg9xsTeuk2RoOnOJx2Rhj33XRivpA7bCX87VHE130EEGwvl3yNMdBYENcbkUJwYAuJpy4J4FyKcvr0Jsw==;WN+Iy0lBenl4NGIzuporTg=="
 ---

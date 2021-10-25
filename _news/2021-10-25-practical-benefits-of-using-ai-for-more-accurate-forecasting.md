@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "How artificial intelligence is transforming the hiring process?"
+    excerpt: "Artificial intelligence and machine learning, these two names are changing business practices and workplaces tremendously. Artificial intelligence can help business applications in many ways, like with AI businesses can understand their customers better with"
+    publishedDateTime: 2021-10-25T11:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-transforming-the-hiring-process/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/10/pic-2-2.png"
+        width: 322
+        height: 356
+        isCached: true
   - title: "Unlocking the Value of AI in Business Applications with ModelOps"
     excerpt: "AI is fast becoming critical to business and IT applications and operations. Organizations have been investing in artificial intelligence capabilities for years to stay competitive, are hiring the bes"
     publishedDateTime: 2021-10-21T16:14:00Z

@@ -185,49 +185,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-22-deci-gains-21m-in-funding-to-help-speed-ai-deep-learning-models.md",
-      "title": "Deci gains $21M in funding to help speed AI deep learning models",
-      "excerpt": "Deci, a deep learning platform company that helps enterprises build AI models to run on different types of hardware and service environments, has $21 million Series A funding. As more companies want to work with AI, there remains a gap between lab-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models",
-      "originalUrl": "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fierceelectronics/1634856295/GettyImages-871793108.jpg/GettyImages-871793108.jpg?VersionId=uuy12YnDUVcdrRPwzzp.T5uarGOsPOxD",
-          "width": 4288,
-          "height": 2848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fierceelectronics",
-        "domain": "fierceelectronics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-20-how-machine-learning-can-be-fair-and-accurate.md",
       "title": "How machine learning can be fair and accurate",
       "excerpt": "Carnegie Mellon University researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
@@ -1397,6 +1354,49 @@
         "IBM AI",
         "Facebook AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-human-like-ai-technology-based-on-deep-neural-networks-approach.md",
+      "title": "Human-Like AI Technology Based on Deep Neural Networks Approach",
+      "excerpt": "Developing a human-like artificial intelligence technology requires more aspects than simply reflecting human behavior. Such technology must be capable of processing information, or “thinking” similar to humans to have reliability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12540_16340459994726001.jpg",
+          "width": 650,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12540",
+      "publishedDateTime": "2021-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

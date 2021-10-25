@@ -69,6 +69,36 @@ related:
         width: 425
         height: 318
         isCached: true
+  - title: "Facebook's language gaps weaken screening of hate, terrorism"
+    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
+    publishedDateTime: 2021-10-25T10:57:00Z
+    webUrl: "https://www.chron.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "The Facebook Papers may be the biggest crisis in the company's history"
+    excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
+    publishedDateTime: 2021-10-25T11:34:00Z
+    webUrl: "https://www.wpsdlocal6.com/news/the-facebook-papers-may-be-the-biggest-crisis-in-the-companys-history/article_8ab4a53e-3587-11ec-93ba-db6aa48aed42.html"
+    type: article
+    provider:
+      name: WPSD Local 6
+      domain: wpsdlocal6.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/8/ab/8ab4a53e-3587-11ec-93ba-db6aa48aed42/61769763297b2.preview.jpg?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Can Facebook's smart glasses be smart about security and privacy?"
     excerpt: "Facebook's smart glasses ambitions are in the news again. The company has launched a worldwide project dubbed Ego4D to research new uses for smart glasses."
     publishedDateTime: 2021-10-21T12:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-
 cdnAmpWebUrl: "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
-secured: "1m2dkHn7lA6/HBX0UDaObtNKrHixBxMpOGgmumqXBoRDHOsOR2qVY5GTcBHYO635H1EV8cUvVpnnI0GGRZqPyOZUB9umJrnqPfC/wQQNVlk2/75PFHBbdPiJmqzEsq114tQOkAJjWyYj/kny9DkXpI1QHb1CirBsMCgBfSAuuTtrHZcE/FIr41+CY6Nn1OZtKw8qvrnXjf7OJ6Z17EJO4sw3F8dioF+ku+5nX0u0lYVA2OtgeO54woYjEpidgRUE2EQ6+I1j1ZmwxwL5/9xvnDjU99kjMNzN5V7ZjSNA/RLHa7wEaRNGwWxzSUpWS+idHZ2UpNY7FJttG9JHBePUCwTXcw1Jcxr2S1ui8SMikHc=;b3dpV1RpuRXvyZ+Ta6/tcA=="
+related:
+  - title: "Zesty.ai Introduces Predictive Wildfire Risk Analytics Solution"
+    excerpt: "American property insurance and climate risk analytics startup Zesty.ai has unveiled a predictive wildfire risk analytics solution, Z-FIRE a data-driven model powered by AI and comprehensive fire science."
+    publishedDateTime: 2021-10-25T10:25:00Z
+    webUrl: "https://www.just-auto.com/research-reports/zesty-ai-introduces-predictive-wildfire-risk-analytics-solution/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
+        width: 500
+        height: 334
+        isCached: true
+
+secured: "AQxWmqrsbI8131NAH0zS0S1DZUHAsDcMCw3D+/LkSbWNiA0AfNs11CyryQ2MsEiw/R35W5f6xd9U1EodS+liQqlUKVl5m8bxv8LeyFj+Q1mHxyuZiEe0aS7VChhRbCqqbu7q5MlzGsBdu+ouqBUG50YF7/KN/3mVBM5XbDvB5lGjW+UBXM7lenLJMOhceEIhbS2Fj8BjjYfbgdmleF2Q3BmVfW/SRgth7os0oixrpQSe9hmRqzzecAvjB3P+o1Fb+rmqzSkhidqJ2MCiwmR+zNHhvFpJL4ksmXrEEWgcg6ZpCNdHEwao4yZBsoFI+XxPD9JI027sP/p+lcjRHje8dLdP37XZ1jkvHj6vouAnjiKr1Ot41ToteWPldAOAV1xW4jJxLiMLBOBXIHhUuVdqrW0aDa+O5swGGw1nysWiqkEARTI3Gcu3itgZxIbR/t2GTIYDAydoK9Rf26G+W2MZdCZUHO+8Vf1EhdAxi2YDXVi+ywq5NzqGGLGKVwSuS5gv1lv6r/XR9lMEt/8e/d5Alw==;53AiDfP/uOsdTk5UxDzB6g=="
 ---
 

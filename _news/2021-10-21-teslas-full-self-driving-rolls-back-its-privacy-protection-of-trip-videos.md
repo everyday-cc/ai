@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Pulls Full Self Driving Beta Due to Multiple Issues"
+    excerpt: "Tesla has dealt with multiple issues with its AutoPilot feature and is now having to do the same with the Full Self Driving beta, according to CEO."
+    publishedDateTime: 2021-10-25T10:25:00Z
+    webUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/"
+    ampWebUrl: "https://www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
+    cdnAmpWebUrl: "https://www-maketecheasier-com.cdn.ampproject.org/c/s/www.maketecheasier.com/tesla-pulls-full-self-driving-beta/?amp"
+    type: article
+    provider:
+      name: maketecheasier.com
+      domain: maketecheasier.com
+    quality: 74
+    images:
+      - url: "https://www.maketecheasier.com/assets/uploads/2021/10/Tesla-Full-Self-Driving-Featured.jpg"
+        width: 1350
+        height: 675
         isCached: true
   - title: "Elon Musk rolls back newest ‘Full Self-Driving’ beta due to software issues"
     excerpt: "Tesla CEO Elon Musk tweeted that the company would have to temporarily pull back the latest version of the company’s Full Self-Driving (FSD) beta software less than a day after its release. “Seeing some issues with 10."

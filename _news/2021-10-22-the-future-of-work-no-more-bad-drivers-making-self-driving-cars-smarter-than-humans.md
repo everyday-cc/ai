@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self driving race car"
-    excerpt: "Waterloo students at IndianapoIis Motor Speedway for autonomous race car challenge The University of Waterloo says two students will be part of a team chasing the US$1-million top prize at the Indy Autonomous Challenge on Saturday."
-    publishedDateTime: 2021-10-20T17:31:00Z
-    webUrl: "https://globalnews.ca/tag/self-driving-race-car/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 19
   - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
     excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
     publishedDateTime: 2021-10-21T04:39:00Z

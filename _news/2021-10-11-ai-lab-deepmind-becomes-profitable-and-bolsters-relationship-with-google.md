@@ -21,6 +21,7 @@ topics:
   - AI in Autos
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all"

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-scientists-built-an-ai-to-give-ethical-advice-but-it-turned-out-super-racist.md",
+      "title": "Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist",
+      "excerpt": "Researchers at the Allen Institute for AI created Ask Delphi to make ethical judgments — but it turned out to be awfully bigoted and racist instead.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/delphi-ai-ethics-racist",
+      "originalUrl": "https://futurism.com/delphi-ai-ethics-racist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/RacistAI-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/delphi-ai-ethics-racist/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/delphi-ai-ethics-racist/amp",
+      "publishedDateTime": "2021-10-22T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-medical-device-leader-medtronic-joins-race-to-bring-ai-to-health-care.md",
       "title": "Medical device leader Medtronic joins race to bring AI to health care",
       "excerpt": "Medtronic has tightened its focus on health care technology with research and development of artificial-intelligence-based medical devices.",
@@ -545,7 +588,7 @@
       "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -680,49 +723,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-deci-gains-21m-in-funding-to-help-speed-ai-deep-learning-models.md",
-      "title": "Deci gains $21M in funding to help speed AI deep learning models",
-      "excerpt": "Deci, a deep learning platform company that helps enterprises build AI models to run on different types of hardware and service environments, has $21 million Series A funding. As more companies want to work with AI, there remains a gap between lab-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models",
-      "originalUrl": "https://www.fierceelectronics.com/electronics/deci-gains-21m-funding-to-help-speed-ai-deep-learning-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fierceelectronics/1634856295/GettyImages-871793108.jpg/GettyImages-871793108.jpg?VersionId=uuy12YnDUVcdrRPwzzp.T5uarGOsPOxD",
-          "width": 4288,
-          "height": 2848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fierceelectronics",
-        "domain": "fierceelectronics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1055,7 +1055,7 @@
       "originalUrl": "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
