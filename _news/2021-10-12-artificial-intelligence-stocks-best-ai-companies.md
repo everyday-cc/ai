@@ -23,6 +23,7 @@ topics:
   - AI in Autos
   - IBM AI
   - Facebook AI
+  - AWS AI
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/10/AI-Stocks.jpg"

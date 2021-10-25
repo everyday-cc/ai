@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-21T18:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910"
 webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910"
 type: article
-quality: 80
-heat: 90
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg"

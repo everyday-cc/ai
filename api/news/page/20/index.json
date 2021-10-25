@@ -2,398 +2,12 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-10-06-google-owned-ai-firm-deepmind-turns-profit-for-first-time.md",
-      "title": "Google owned AI firm DeepMind turns profit for first time",
-      "excerpt": "Google owned AI Lab DeepMind turned a profit for the first time in 2020 according to Companies' House filings (Photo by Sean Gallup/Getty Images) Google’s AI department DeepMind turned a profit ...",
+      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
+      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
+      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "originalUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/09/Google-Announces-EUR-1-Billion-Investment-In-Germany-Including-Renewable-Energies-1337404394.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/deepmind-turns-a-profit-for-first-time-ever-in-2020/amp/",
-      "publishedDateTime": "2021-10-06T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-european-parliament-backs-ban-on-remote-biometric-surveillance.md",
-      "title": "European Parliament backs ban on remote biometric surveillance",
-      "excerpt": "The European Parliament has voted to back a total ban on biometric mass surveillance. AI-powered remote surveillance technologies such as facial recognition have huge implications for fundamental rights and freedoms like privacy but are already creeping into use in public in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/european-parliament-backs-ban-on-remote-biometric-surveillance/amp/",
-      "publishedDateTime": "2021-10-06T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries.md",
-      "title": "Ocado Invests GBP10 Mln in Self-Driving Startup Wayve for Autonomous Grocery Deliveries",
-      "excerpt": "By Joe Hoppe Self-driving technology startup Wayve said Wednesday that it has secured a 10 million-pound ($13.6 million) investment from online grocer",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236",
-      "originalUrl": "https://www.marketwatch.com/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ocado-invests-gbp10-mln-in-self-driving-startup-wayve-for-autonomous-grocery-deliveries-271633517236",
-      "publishedDateTime": "2021-10-06T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-singapore-patrol-robots-warn-people-of-undesirable-behavior.md",
-      "title": "Singapore patrol robots warn people of ‘undesirable’ behavior",
-      "excerpt": "Singapore has trialed patrol robots that blast warnings at people engaging in “undesirable social behavior,” adding to an arsenal of surveillance technology in the tightly controlled city-state that is fueling privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
-      "originalUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2021/10/06/f714e494-d1a9-4b63-b8fc-03a0cef2efb5/thumbnail/620x413/9d0ddafff68a9a73fce31f5ebd0ab08e/singapore-robot-xavier-1235122903.jpg#",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/world/2021/10/singapore-patrol-robots-warn-people-of-undesirable-behavior/amp/",
-      "publishedDateTime": "2021-10-06T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-in-memory-computing-startup-neuroblade-nabs-83m-in-funding.md",
-      "title": "In-memory computing startup NeuroBlade nabs $83M in funding",
-      "excerpt": "NeuroBlade, a startup developing in-memory computing chips and hardware appliances, has raised $83 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
-      "originalUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Screenshot-20.png?w=566&resize=566%2C600&strip=all",
-          "width": 566,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/in-memory-computing-startup-neuroblade-nabs-83m-in-funding/amp/",
-      "publishedDateTime": "2021-10-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-tata-power-ropes-in-ai-firm-bluwave-ai.md",
-      "title": "Tata Power ropes in AI firm BluWave-ai",
-      "excerpt": "Tata Power on Wednesday announced that it has roped in renewable energy AI (artificial intelligence) company BluWave-ai. \"Tata Power, India’s largest integrated power utility, announced that it has signed a three-year commercial agreement with BluWave-ai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/tata-power-ropes-in-ai-firm-bluwaveai/2173823",
-      "publishedDateTime": "2021-10-06T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-wayve-the-lidar-free-self-driving-startup-raises-136m-from-ocado.md",
-      "title": "Wayve, the Lidar-free self-driving startup, raises $13.6M from Ocado",
-      "excerpt": "Wayve, a U.K.-based self-driving startup that is notable for its use of deep learning and cameras rather than more-costly Lidar and other sensors to guide vehicles, is gearing up for its next stage of development with a strategic backer in its pocket.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/wayve-tech.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/wayve-the-lidar-free-self-driving-startup-raises-13-6m-from-ocado/amp/",
-      "publishedDateTime": "2021-10-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-from-drug-design-to-distribution-this-is-how-robotics-ai-and-blockchain-transforms-pharma.md",
-      "title": "From Drug Design To Distribution: This Is How Robotics, A.I. and Blockchain Transforms Pharma",
-      "excerpt": "Exoskeletons to aid pharma factory workers. 3D printing to allow pharmacies to produce drugs on the spot. Blockchain technologies to help fight counterfeit drugs. These are just bits and pieces, but the entire process of the pharmaceutical supply chain will be affected by disruptive technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "originalUrl": "https://www.linkedin.com/pulse/from-drug-design-distribution-how-robotics-ai-pharma-meskó-md-phd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7yBw6eCSWYA/article-cover_image-shrink_720_1280/0/1633506465376?e=1639008000&v=beta&t=_U-6bUqcs-f9bJe726tT0G7pyblRADpeKHyj0nIGonc",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
-      "title": "AI in Fintech Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
-      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 06:13:30 / Comserve Inc. / -- The market for AI in Fintech is expected to grow from USD 1,337.7 million in 2017 to USD 7,305.6 million by 2022, at a Compound Annual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022-2021-10-06",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -403,14 +17,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T23:15:00-07:00",
+      "publishedDateTime": "2021-10-06T11:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -426,26 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-06-koreai-which-develops-workflow-automation-technologies-raises-70m.md",
-      "title": "Kore.ai, which develops workflow automation technologies, raises $70M",
-      "excerpt": "Kore.ai, a startup developing a platform for enterprise workflow automation, has raised $70 million in a venture funding round.",
+      "path": "_news/2021-10-07-most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real.md",
+      "title": "Most Self-Driving Demonstrations Are Theater, Here’s How To Make Them More Real",
+      "excerpt": "Many self-driving teams have released videos of their cars driving without problems in order to impress. But cherry picked videos say little. By doing a random route at a random time and showing it live,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615de07c94907055fb9bcce9%2F0x0.jpg",
+          "width": 997,
+          "height": 555,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -453,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/kore-ai-which-develops-workflow-automation-technologies-raises-70m/amp/",
-      "publishedDateTime": "2021-10-05T23:12:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/06/most-self-driving-demonstrations-are-theater-heres-how-to-make-them-more-real/amp/",
+      "publishedDateTime": "2021-10-06T10:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -478,82 +92,31 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-06-mobile-artificial-intelligence-ai-market.md",
-      "title": "Mobile Artificial Intelligence (AI) Market",
-      "excerpt": "Allied Market Research published an exclusive report titled Mobile Artificial Intelligence AI Market by Technology Node 20 28nm 10nm 7nm and Others Component Hardware Software and Services and Application Smartphones Cameras Drones Automotive Robotics AR VR and Others Global Opportunity",
+      "path": "_news/2021-10-07-runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads.md",
+      "title": "Run:AI Eliminates GPU Resource Allocation Issues For AI Workloads",
+      "excerpt": "AI, a leader in compute orchestration for AI workloads, today released two new AI technologies, 'Thin GPU Provisioning' and 'Job",
       "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
-      "originalUrl": "https://www.openpr.com/news/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua06400465_g.jpg",
-          "width": 790,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2418361/mobile-artificial-intelligence-ai-market-size-is-expected",
-      "publishedDateTime": "2021-10-05T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
-      "title": "Singapore Patrol Robots Stoke Fears Of Surveillance State",
-      "excerpt": "Singapore has trialled patrol robots that blast warnings at people engaging in \"undesirable social behaviour\", adding to an arsenal of surveillance technology in the tightly controlled city-state that is fuelling privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
-      "originalUrl": "https://www.ibtimes.com/singapore-patrol-robots-stoke-fears-surveillance-state-3310221",
+      "webUrl": "https://www.prnewswire.com/news-releases/runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads-301394448.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/runai-eliminates-gpu-resource-allocation-issues-for-ai-workloads-301394448.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/05/armed-with-seven-cameras-a-xavier-robot-in.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T19:39:00-07:00",
+      "publishedDateTime": "2021-10-06T10:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -563,26 +126,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-10-06-autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a.md",
-      "title": "Autify advances no-code AI-powered software testing automation platform with $10M Series A",
-      "excerpt": "While working as a software engineer in Japan, Singapore and San Francisco for the past 10 years, Ryo Chikazawa, CEO and co-founder of Autify, came to realize that there’s one common problem in the software development industry;",
+      "path": "_news/2021-10-07-databricks-acquires-bamboolib-creator-8080-labs.md",
+      "title": "Databricks acquires bamboolib creator 8080 Labs",
+      "excerpt": "Databricks has acquired 8080 Labs, creator of bamboolib, for an undisclosed sum. Bamboolib is a popular UI-based data exploration and transformation tool. The flagship data science solution also facilitates no-code workflows that seamlessly synchronize with the Python ecosystem.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/autify-board-members-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816297/itpro/2017/02/big_databigstock.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -590,439 +153,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
-      "publishedDateTime": "2021-10-05T19:00:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/acquisition/361140/databricks-acquires-bamboolib-creator-8080-labs?amp",
+      "publishedDateTime": "2021-10-06T10:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks.md",
-      "title": "Uber faces legal action over ‘racially discriminatory’ facial recognition ID checks",
-      "excerpt": "Ride-hailing giant Uber is facing a legal challenge over its use of real-time facial recognition technology in a driver and courier identity check system that it uses in the UK. The App Drivers & Couriers Union (ADCU) announced the legal action Tuesday,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1232204732.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/uber-faces-legal-action-over-racially-discriminatory-facial-recognition-id-checks/amp/",
-      "publishedDateTime": "2021-10-05T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-artificial-intelligence-ai-robots-market-by-application-regional-analysis-global-forecast-by-2020-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market By Application: Regional Analysis - Global Forecast by 2020 - 2030",
-      "excerpt": "Japan, Japan, Wed, 06 Oct 2021 00:22:48 / Comserve Inc. / -- The Artificial Intelligence (AI) Robots Market is expected to be around US$ 15.50 Billion by 2025 at a CAGR of 29% in the given ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-by-application-regional-analysis---global-forecast-by-2020---2030-2021-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-by-application-regional-analysis---global-forecast-by-2020---2030-2021-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "Going ahead of Europe, China has already published a six-point code of ethics to regulate Artificial Intelligence, giving 'full decision-making power' to humans, very similar to Isaac Asimov's laws of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
-      "originalUrl": "https://www.chron.com/business/article/China-publishes-code-of-ethics-to-regulate-16510963.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/22/14/54/21547828/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite.md",
-      "title": "Descartes Unveils Artificial Intelligence And Machine Learning Enhancements To Routing, Mobile & Telematics Suite",
-      "excerpt": "Descartes Systems Group (Nasdaq: DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in commerce, unveiled artificial intelligence (AI)- and machine learning (ML)-based enhancements to its Routing Mobile & Telematics suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "originalUrl": "https://www.fieldtechnologiesonline.com/doc/descartes-unveils-artificial-intelligence-and-machine-learning-enhancements-to-routing-mobile-telematics-suite-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/sites/contentbribes/FTO-nl-popup.png",
-          "width": 800,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-when-do-babies-play-peekaboo.md",
-      "title": "When Do Babies Play Peekaboo?",
-      "excerpt": "Is there a perfect peekaboo age? Not necessarily. Object recognition develops around month 3, and babies start to better understand the concept of object permanence by month 8. By months 9 to 12, your baby will likely be able to play peekaboo on her own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "originalUrl": "https://www.whattoexpect.com/first-year/peek-a-boo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.agoramedia.com/wte3.0/gcms/When-Do-Babies-Play-Peek-a-Boo-722x406.jpg?width=574",
-          "width": 574,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "What To Expect",
-        "domain": "whattoexpect.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
-      "title": "MLOps platform Domino Data Lab nabs $100M",
-      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "publishedDateTime": "2021-10-05T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-onfido-named-to-2021-cb-insights-fintech-250-list-of-top-fintech-startups-for-fourth-year-running.md",
-      "title": "Onfido Named to 2021 CB Insights Fintech 250 List of Top Fintech Startups for Fourth Year Running",
-      "excerpt": "CB Insights today named Onfido to its fourth annual Fintech 250 for the fourth year running. Fintech 250 is a prestigious list of emerging private companies working on groundbreaking financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-22a08396da0a4a55b9da5282107d6de8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-neutons-blair-newman-on-machine-learning-for-edge-computing.md",
-      "title": "Neuton’s Blair Newman on Machine Learning for Edge Computing",
-      "excerpt": "Blair Newman, CTO at Neuton, explains how “TinyML” is used to deploy machine learning on tiny microcontrollers at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "originalUrl": "https://www.eweek.com/networking/neutons-blair-newman-machine-learning-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/10/New-eSPEAKS-thumbnail-3.21.07-PM.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1043,26 +183,35 @@
       ]
     },
     {
-      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
-      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
-      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
+      "path": "_news/2021-10-06-vmware-partners-its-way-deeper-into-cloud-edge-and-ai.md",
+      "title": "VMware Partners Its Way Deeper into Cloud, Edge, And AI",
+      "excerpt": "Software maker VMware has always been about tight partnerships with other tech vendors. When you are middleware between hardware and operating systems,",
       "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
-      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
+      "webUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
+      "originalUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/vmware-logo.jpg",
+          "width": 776,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:30:00-07:00",
+      "ampWebUrl": "https://www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/10/06/vmware-partners-its-way-deeper-into-cloud-edge-and-ai/amp/",
+      "publishedDateTime": "2021-10-06T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1072,26 +221,27 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2021-10-05-create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline.md",
-      "title": "Create a cross-account machine learning training and deployment environment with AWS Code Pipeline",
-      "excerpt": "A continuous integration and continuous delivery (CI/CD) pipeline helps you automate steps in your machine learning (ML) applications such as data ingestion, data preparation, feature engineering, modeling training, and model deployment. A pipeline across multiple AWS accounts improves security, agility,",
+      "path": "_news/2021-10-06-databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition.md",
+      "title": "Databricks Boosts No-Code Data Analytics, AI Capabilities With Acquisition",
+      "excerpt": "Databricks has acquired 8080 Labs and its Bamboolib data science tool to bolster the Databricks data engineering, data analytics and AI product portfolio.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-cross-account-machine-learning-training-and-deployment-environment-with-aws-code-pipeline/",
+      "webUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
+      "originalUrl": "https://www.crn.com/news/applications-os/databricks-boosts-no-code-data-analytics-ai-capabilities-with-acquisition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/20/architecture-2.png",
-          "width": 1436,
-          "height": 787,
+          "url": "https://www.crn.com/resources/0267-11c406e87512-5307b1958bda-1000/123200924.jpeg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,14 +251,56 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:26:56-07:00",
+      "publishedDateTime": "2021-10-06T09:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-google-wants-to-use-ai-to-time-traffic-lights-more-efficiently.md",
+      "title": "Google wants to use AI to time traffic lights more efficiently",
+      "excerpt": "Alphabet Inc's Google cut fuel use and traffic delays by 10% to 20% at four locations in Israel by using artificial intelligence to optimize signal lights and it next plans to test the software in Rio de Janeiro,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
+      "originalUrl": "https://www.reuters.com/technology/google-wants-use-ai-time-traffic-lights-more-efficiently-2021-10-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/bv8rcqIS1zr-l_bcEZJF0h4_YL4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZOE3SA4JFIABGHM7BKAVFD63Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1124,27 +316,58 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-10-06-facebook-whistleblower-frances-haugen-testifies-before-the-senate.md",
-      "title": "Facebook whistleblower Frances Haugen testifies before the Senate",
-      "excerpt": "After revealing her identity on Sunday night, Frances Haugen — the whistleblower who leaked controversial Facebook documents to The Wall Street Journal — testified before the Senate Committee on Commerce,",
+      "path": "_news/2021-10-06-brain-cell-differences-could-be-key-to-learning-in-humans-and-ai.md",
+      "title": "Brain cell differences could be key to learning in humans and AI",
+      "excerpt": "Researchers have found that variability between brain cells might speed up learning and improve the performance of the brain and future AI.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
-      "originalUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/",
+      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211006112626.htm",
+      "originalUrl": "https://techxplore.com/news/2021-10-brain-cell-differences-key-humans.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 127,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-us-firm-acquires-keralites-ai-start-up.md",
+      "title": "US firm acquires Keralite's AI start-up",
+      "excerpt": "Kochi: Uncanny Vision, an artificial intelligence start-up registered in Kerala has been acquired by a US-based company, Eagle Eye Networks, having a global presence. Interestingly, the company has a curious’ triangular South Indian equation’.",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
+      "originalUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1235713956.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.783633.1452191436!/menu/standard/file/490.png",
+          "width": 490,
+          "height": 268,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,9 +375,690 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/amp/",
-      "publishedDateTime": "2021-10-05T13:17:00-07:00",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/offbeat/us-firm-acquires-keralite-s-ai-start-up-kerala-news-1.6064705",
+      "publishedDateTime": "2021-10-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028.md",
+      "title": "North America Facial Recognition Market Covid-19 Impact In-Depth Industry Analysis 2028",
+      "excerpt": "According To Market Research, The North American Facial Recognition Market Is Anticipated To Rise With A Cagr Of 8.29% In The Estimated Years 2019-2028. The United States And Canada Together Shape The Market In This Region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-covid-19-impact-in-depth-industry-analysis-2028-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-ubers-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-claims.md",
+      "title": "Uber's 'racist' facial recognition software is firing Black and Asian drivers, former driver claims",
+      "excerpt": "Uber is facing legal action for alleged indirect racial discrimination against a driver who claims he was sacked after facial recognition software used by the company failed to recognise him. In an employment tribunal claim filed this week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "originalUrl": "https://www.euronews.com/next/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/13/14/64/1000x563_cmsv2_3a714556-0f52-5d73-a4d7-5352ed7a7c5c-6131464.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2021/10/06/uber-s-racist-facial-recognition-software-is-firing-black-and-asian-drivers-former-driver-",
+      "publishedDateTime": "2021-10-06T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu.md",
+      "title": "Online Marketing Platform Market is Booming Worldwide with Marketo, Google, DataXu, BaiDu",
+      "excerpt": "While emphasizing the key driving and restraining forces for this ... The Major Players Covered in this Report: Marketo, Sizmek, Hubspot, BaiDu, Facebook, Tencent, Twitter, Google, DataXu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
+      "originalUrl": "https://www.digitaljournal.com/pr/online-marketing-platform-market-is-booming-worldwide-with-marketo-google-dataxu-baidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/DDD-4-1-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-will-the-cloud-eat-your-ai.md",
+      "title": "Will the cloud eat your AI?",
+      "excerpt": "Commentary: The big cloud providers have a lot going for them when it comes to artificial intelligence. Does that mean these cloud providers are the only game in town?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/will-the-cloud-eat-your-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/will-the-cloud-eat-your-ai/",
+      "publishedDateTime": "2021-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk.md",
+      "title": "Here’s How Artifcial Intelligence Can Help Predict Breast Cancer Risk",
+      "excerpt": "Researchers from MIT say they have developed a new AI algorithms which can better predict breast cancer risk based on radiology images",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614cb5f80cb8203307e03218%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/10/06/heres-how-artifcial-intelligence-can-help-predict-breast-cancer-risk/amp/",
+      "publishedDateTime": "2021-10-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-content-marketing-ai-and-machine-learning-have-arrived.md",
+      "title": "Content Marketing A.I. And Machine Learning Have Arrived",
+      "excerpt": "For the past five years, we have been paying attention to content and active engagement. Well, just like the others, it’s not something you “want to have” – it is very much a “need to have.” Therefore,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915",
+      "originalUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5176a0afe4b0e5c0dba2fd29/1633280666284-QFNXS6QUL8S3SARYHHBC/contert_machine_learning.png?format=1000w",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/content-marketing/content-marketing-a-i-and-machine-learning-have-arrived-02434915/amp",
+      "publishedDateTime": "2021-10-06T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-ignore-chinas-regulatory-crackdown-and-invest-in-baidu-stock.md",
+      "title": "Ignore China’s Regulatory Crackdown and Invest in Baidu Stock",
+      "excerpt": "Consequently, the shares of several top Chinese businesses, including Baidu (NASDAQ:BIDU) stock, are trading at rather low multiples. Source: Sundry Photography / Shutterstock.com Baidu has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/",
+      "originalUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/10/ignore-chinas-regulatory-crackdown-and-invest-in-bidu-stock/amp/",
+      "publishedDateTime": "2021-10-06T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer.md",
+      "title": "CognitiveScale Names AI Industry Veteran Robert J. Picciano New Chief Executive Officer",
+      "excerpt": "Investors include Norwest Venture Partners, Intel Capital, M12 (Microsoft Ventures), IBM Corporation ... sales and marketing for IBM's Cognitive Systems portfolio, including IBM's multi-billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54132054-cognitivescale-names-ai-industry-veteran-robert-j-picciano-new-chief-executive-officer-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health.md",
+      "title": "Neural network approach to diabetes treatment nets $140 million Series C for startup Twin Health",
+      "excerpt": "By composing a whole-body digital twin, the company can use recurrent neural nets to predict the results of dietary interventions to reverse root causes of diabetes and other metabolic disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "originalUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/227b0d7ee6f46df331bd8bc29309849fd712ee90/2021/10/06/e5b0fe07-3745-436a-8f05-6b45be92b2db/twin-health-platform-2021.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
+      "publishedDateTime": "2021-10-06T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
+      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
+      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state.md",
+      "title": "‘Dystopian world’: Singapore patrol robots stoke fears of surveillance state",
+      "excerpt": "Trial of robots to police ‘undesirable’ behaviour such as smoking or breaching social-distancing rules",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5d311d29a91a6d5e920a7ba5adce0ea4afc089f0/0_44_4438_2663/master/4438.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=df3ab4b9b1d37a4187a079d7adfa4eba",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/06/dystopian-world-singapore-patrol-robots-stoke-fears-of-surveillance-state",
+      "publishedDateTime": "2021-10-06T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
+      "title": "Box taps deep learning to detect sophisticated malware",
+      "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
+      "originalUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Malware-Deep-Scan.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/06/box-taps-deep-learning-to-detect-sophisticated-malware/amp/",
+      "publishedDateTime": "2021-10-06T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-microsoft-for-startups-aniai-picked-for-global-grand-final.md",
+      "title": "Microsoft for Startups: Aniai Picked for Global Grand Final",
+      "excerpt": "Aniai was selected as one of the 10 startups in Q3 by Microsoft. \"Microsoft for Startups ... Its robots are further reinforced by its unique cognitive technology with artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
+      "originalUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microsoft-startups-aniai-picked-global-grand-final?amp",
+      "publishedDateTime": "2021-10-06T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-sony-unit-to-introduce-edge-ai-sensing-platform-service.md",
+      "title": "SONY Unit to Introduce Edge AI Sensing Platform Service",
+      "excerpt": "Sony Group Corp.’s SONY subsidiary, Sony Semiconductor Solutions, has announced that its AITRIOS edge artificial intelligence (AI) sensing platform will be launched in Japan, the United States, and Europe in late 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
+      "originalUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sony-unit-to-introduce-edge-ai-sensing-platform-service-2021-10-06?amp",
+      "publishedDateTime": "2021-10-06T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea.md",
+      "title": "Marc Lore-backed ‘conversational commerce’ startup Wizard raises $50M Series A from NEA",
+      "excerpt": "Marc Lore, who earlier this year stepped down from his role as Walmart’s head of U.S. e-commerce, is now backing a new startup in the e-commerce space called Wizard. Lore has taken on the roles of co-founder,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_373885852.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/marc-lore-backed-conversational-commerce-startup-wizard-raises-50m-series-a-from-nea/amp/",
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1177,7 +1081,49 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
+      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
+      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

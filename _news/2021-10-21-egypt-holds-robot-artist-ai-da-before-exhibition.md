@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Egypt detains artist robot Ai-Da before historic pyramid show"
-    excerpt: "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot"
-    publishedDateTime: 2021-10-20T16:33:00Z
-    webUrl: "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Robot artist Ai-Da released by Egyptian border guards"
     excerpt: "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools."
     publishedDateTime: 2021-10-21T16:33:00Z

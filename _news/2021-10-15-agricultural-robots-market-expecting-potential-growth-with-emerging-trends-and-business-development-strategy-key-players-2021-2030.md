@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.openpr.com/U/a/Ua15235900_g.jpg"

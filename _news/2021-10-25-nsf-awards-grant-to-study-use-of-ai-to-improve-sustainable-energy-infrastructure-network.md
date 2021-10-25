@@ -6,8 +6,8 @@ publishedDateTime: 2021-10-25T05:09:00Z
 originalUrl: "https://news.uark.edu/articles/58045/nsf-awards-grant-to-study-use-of-ai-to-improve-sustainable-energy-infrastructure-network"
 webUrl: "https://news.uark.edu/articles/58045/nsf-awards-grant-to-study-use-of-ai-to-improve-sustainable-energy-infrastructure-network"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://campusdata.uark.edu/resources/images/articles/2021-10-21_10-40-06-AMEPSCoRResearchTeam2021.jpg"

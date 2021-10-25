@@ -40,15 +40,6 @@ related:
         height: 600
         isCached: true
   - title: "Future of college will involve fewer professors"
-    excerpt: "graduate students in an artificial intelligence course discover that one of their nine teaching assistants is a virtual avatar, Jill Watson, also known as Watson, IBM’s question-answering ..."
-    publishedDateTime: 2021-10-20T15:03:00Z
-    webUrl: "https://theconversation.com/future-of-college-will-involve-fewer-professors-166394"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 4
-  - title: "Future of college will involve fewer professors"
     excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
     publishedDateTime: 2021-10-21T12:10:00Z
     webUrl: "https://www.upi.com/Voices/2021/10/21/future-of-college-fewer-professors-AI-virtual/8851634817123/"

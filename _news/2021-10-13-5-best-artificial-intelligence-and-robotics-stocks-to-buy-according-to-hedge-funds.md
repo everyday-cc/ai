@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png"

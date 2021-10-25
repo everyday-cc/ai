@@ -34,7 +34,7 @@ related:
     provider:
       name: Railway Technology
       domain: railway-technology.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/10/KS-KYUNG-on-Unsplash-800.jpg"
         width: 800

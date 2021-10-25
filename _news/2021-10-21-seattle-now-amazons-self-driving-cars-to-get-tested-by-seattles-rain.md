@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
-    excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
-    publishedDateTime: 2021-10-20T15:23:00Z
-    webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 4
   - title: "Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased"
     excerpt: "The early promise of the technology has been overshadowed by a string of crashes and near-misses, critics say."
     publishedDateTime: 2021-10-22T16:20:00Z

@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-inaugural-indy-autonomous-challenge-to-bring-shock-and-awe-to-brickyard.md",
+      "title": "Inaugural Indy Autonomous Challenge to Bring 'Shock and Awe' to Brickyard",
+      "excerpt": "Teams will program the cars to run laps around IMS using artificial intelligence ... it's not just about making a driverless car, or going around the Indianapolis Motor Speedway, it's about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "originalUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/418-pd6-0642-min-1634674255.jpg?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "publishedDateTime": "2021-10-19T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
       "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
       "excerpt": "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology.",
@@ -288,6 +331,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-start-ups-at-in5-secure-investments-worth-aed14-billion.md",
+      "title": "Start-ups at in5 secure investments worth AED1.4 billion",
+      "excerpt": "DUBAI, 18th October, 2021 (WAM) -- in5, an enabling platform for entrepreneurs, recently reached a new milestone as its start-ups crossed the AED1.4 billion investment mark, reaffirming Dubai’s leading position as an attractive destination for talent and entrepreneurship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
       "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
       "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
@@ -337,6 +423,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-advancing-ai-telematics-in-the-transportation-and-logistics-industry-series-blog-2.md",
+      "title": "Advancing AI Telematics In The Transportation And Logistics Industry Series : Blog #2",
+      "excerpt": "This is the second blog in the AI Transportation and logistics industry. This blog focuses on advancing AI telematics and provides an overview of current state and future state developments. Key questions for CEOs and Board Directors on leading AI are highlighted for digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616b25abb8e77ff44783f395%2F0x0.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/17/advancing-ai-telematics-in-the-transportation-and-logistics-industry-series--blog-2/amp/",
+      "publishedDateTime": "2021-10-17T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -413,6 +551,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-autonomous-vehicles-spurring-advent-of-industry-40-in-unexpected-ways.md",
+      "title": "Autonomous Vehicles Spurring Advent Of Industry 4.0 In Unexpected Ways",
+      "excerpt": "Autonomous vehicles could be a boon for undertaking massive transit needs for massively distributed manufacturing in Industry 4.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
+      "originalUrl": "https://www.aitrends.com/ai-insider/autonomous-vehicles-spurring-advent-of-industry-4-0-in-unexpected-ways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-15LEliot-Micromanufacturing-2.jpeg",
+          "width": 550,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco.md",
+      "title": "Why are Waymo AVs flocking to one dead end in San Francisco?",
+      "excerpt": "There’s quite the conundrum going on in San Francisco’s Richmond District. Waymo self-driving vehicles, which recently started offering rides to select passengers in the city, are reportedly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "originalUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "publishedDateTime": "2021-10-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -510,6 +734,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-tesla-has-a-new-competitor-in-china-the-zeekr-001-promises-700kms-driving-range.md",
+      "title": "Tesla has a new competitor in China: the Zeekr 001 promises 700kms driving range",
+      "excerpt": "The Zeekr 01 has been in the works for quite some time now following carmaker Geely’s entry into the jam-packed electric vehicle market in China earlier this year. But the wait is finally over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/10/14/tesla-has-a-new-competitor-in-china-zeekr-001-with-700kms-range/",
+      "originalUrl": "https://www.gizmochina.com/2021/10/14/tesla-has-a-new-competitor-in-china-zeekr-001-with-700kms-range/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/10/zeekr-001-featured.png",
+          "width": 1286,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -657,6 +933,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-how-good-is-good-enough-the-corporate-move-toward-esg.md",
+      "title": "How Good Is Good Enough? The Corporate Move Toward ESG",
+      "excerpt": "Take Google, for example. For Google to get into China and compete with Baidu, it has to significantly censor its most popular product: search. Doing so means giving in to an inhumane ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616590b1f6a5fe7449160cbc%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/amp/",
+      "publishedDateTime": "2021-10-13T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -901,7 +1229,8 @@
         "Machine Learning",
         "AI in Autos",
         "IBM AI",
-        "Facebook AI"
+        "Facebook AI",
+        "AWS AI"
       ]
     },
     {
@@ -1083,332 +1412,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-first-self-driving-train.md",
-      "title": "Germany unveils first self-driving train",
-      "excerpt": "German rail operator Deutsche Bahn and industrial group Siemens on Monday unveiled the world's first automated, driverless train in the city of Hamburg, billing it as more punctual and energy efficient than traditional trains.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/german-train.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-germany-unveils-self-driving.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-germany-unveils-self-driving.amp",
-      "publishedDateTime": "2021-10-11T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-tesla-officially-starts-its-wider-release-of-full-self-driving-beta-in-the-us.md",
-      "title": "Tesla officially starts its ‘wider release’ of Full Self-Driving Beta in the US",
-      "excerpt": "Tesla has officially started its ‘wider release’ of Full Self-Driving Beta in the US, which consists of slowly allowing more owners to download based on their ‘safety score’. Tesla Full Self-Driving Beta Tesla’s Full Self-Driving Beta (FSD) enables Tesla vehicles to virtually drive themselves both on highways and city streets by simply entering a location",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
-      "originalUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/11/tesla-officially-starts-wider-release-of-full-self-driving-beta-us/amp/",
-      "publishedDateTime": "2021-10-11T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-the-ethics-of-artificial-intelligence-ai.md",
-      "title": "The Ethics of Artificial Intelligence (AI)",
-      "excerpt": "Ethical AI works to ensure that AI initiatives do not cause harm in any way to people. Explore the AI ethical issues & standards:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/the-ethics-of-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/05/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google.md",
-      "title": "AI lab DeepMind becomes profitable and bolsters relationship with Google",
-      "excerpt": "DeepMind, the U.K.-based AI lab that seeks to develop artificial general intelligence ... data centers and developing the technology of Waymo, Alphabet’s self-driving company.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "originalUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/DeepMind-earnings-2016-2020-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/10/ai-lab-deepmind-becomes-profitable-and-bolsters-relationship-with-google/amp/",
-      "publishedDateTime": "2021-10-10T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-emergence-of-artificial-intelligence.md",
-      "title": "Emergence Of Artificial Intelligence",
-      "excerpt": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/",
-      "originalUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/emergence-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/emergence-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-10-10T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

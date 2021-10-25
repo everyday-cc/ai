@@ -28,15 +28,6 @@ related:
       name: KUOW
       domain: kuow.org
     quality: 19
-  - title: "Safety Advocates Criticize Self-Driving Car Plans in Seattle"
-    excerpt: "An announcement Monday from Amazon's self-driving car unit Zoox that it will soon start testing its autonomous vehicles in downtown Seattle drew criticism from transportation safety advocates."
-    publishedDateTime: 2021-10-20T15:23:00Z
-    webUrl: "https://www.govtech.com/fs/safety-advocates-criticize-self-driving-car-plans-in-seattle"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 4
 
 secured: "M73nwxinN6EHihOy16lPLUD9PjvRv2efzB63yvkjgH4T6IaD4ltOgrVZIp7dEsBFG+dKI5/4xIaL8831DpQrw953xck4edqheuZmvuWhMWNftR4GRNN2z25TbTPn05ODwhaW1K6b0zbkJlZeirehW/STvN6ySuzV0KxKXeMti+ERekWT1StSbZTGxZ85EXBWWp0iD2SDuiUP1ybTXKEt3L/CJDapHiO4VjBU8XLy6HpRhJHWkjr4XTmftFyuPLnQbolatJpOYJa42ztaxlp/ZQ2hUrU9nd26suO9Uy075WDmbmnGGc+MQNzjJnKI9aX30vFo61NwVx2StsyNSdNprFbbexTqGdtk1mEwXxAf0Ac=;c/nAor6HNId0e3IPlk6GwA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 748
         isCached: true
-  - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
-    excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
-    publishedDateTime: 2021-10-20T15:18:00Z
-    webUrl: "https://www.plymouth.ac.uk/research/autonomous-marine-systems/sustainable-cotton-production-using-artificial-intelligence-scp-ai"
-    type: article
-    provider:
-      name: University of Plymouth
-      domain: plymouth.ac.uk
-    quality: 32
   - title: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking"
     excerpt: "Yoodli is Leveraging AI to Help People by Reducing the Struggles of Public Speaking  - Yoodli aims to help people communicate confidently without the fear of public speaking. FREMONT, CA: Public speaking is"
     publishedDateTime: 2021-10-25T05:42:00Z

@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S. Postal Office Calls for Facial Recognition Suit Dismissal"
-    excerpt: "A facial recognition and social media monitoring lawsuit against the U.S. Postal Service should be dismissed because the plaintiff lacks standing, the federal agency is arguing in D.C. federal court."
-    publishedDateTime: 2021-10-20T15:39:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/u-s-postal-office-calls-for-facial-recognition-suit-dismissal"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 19
 
 secured: "qorsLWq5dUAPXD9RrNOI1zmWVDeBTTVRwtdnizUI4S3oihWqojJmjszHrol2MshrQGiH4pS86fvbxAYXslFgK8Pt74iCY2yJkvT3cZXBST0q0HVQHlptMFzCqiZnSU3sZ47wbiVuCchWvmjwxqOHfkEjF9SGQp0wkiDyAN6LJ+dtQ29hkqFHuvVm0AgEp4w7uygGe03dyv4r2aw9sBVNECb/pL0Xd6s237neglgRoux0BM1DRzTwrcE4q4A6rSFAfd+58S6MKXEJYapd6jf0jzWN81H7ede3CZsh6Y712F4iulSHLVAPfUC4xQNfV9Ier/JcatOMEZDE0YChOCOUqAEdKcd85wt6gXE0sn9zTHI=;L2O/xbNFSseA2Rk2zQD+XA=="
 ---

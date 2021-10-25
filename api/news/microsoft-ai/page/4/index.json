@@ -2,6 +2,318 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-09-16-get-the-25-course-for-25-web-development-mega-bundle.md",
+      "title": "Get the 25 Course for $25 Web Development Mega Bundle",
+      "excerpt": "Create a Vocal Recognition App by Using the Microsoft Cognitive Services Node.js & Express for Beginners Master the Basics of the JavaScript Runtime Node.js & Express Framework to Build Your Own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "originalUrl": "https://www.neowin.net/news/get-the-25-course-for-25-web-development-mega-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/09/1631279063_sale_302105_primary_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay.md",
+      "title": "HP Inc. Rolls Out New Management Services For The Hybrid World That’s Here To Stay",
+      "excerpt": "Many Desktop as a Service (DaaS) popping up, including Microsoft recently announced ... On top of all these services, the direction of many notebooks is toward thin and light ACPCs; a good example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/16/hp-inc-rolls-out-new-management-services-for-the-hybrid-world-thats-here-to-stay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614383c8abe52d277cb2efce%2F0x0.png",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-spark-new-zealand-implements-agile-work-practices-to-embrace-business-change.md",
+      "title": "Spark New Zealand Implements Agile Work Practices To Embrace Business Change",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper into Spark New Zealand’s which is the largest telecommunications and digital services. Patrick Moorhead interviews Kallol Dutta, Tribe Lead- Data & Automation of Spark New Zealand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614264492def9c510ff5c3fa%2F0x0.jpg",
+          "width": 936,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/09/15/spark-new-zealand-implements-agile-work-practices-to-embrace-business-change/amp/",
+      "publishedDateTime": "2021-09-15T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028.md",
+      "title": "Cognitive Services Market Size, Key Factors, Major Players, Growth Strategies, Trends, Forecast Till 2028",
+      "excerpt": "Going ahead, the Cognitive Services market report precisely evaluates the gross profits, revenue shares, sales volume, manufacturing costs, and individual growth rate, and financial positions of the leading market contenders.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
+      "originalUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/2-20.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-size-key-factors-major-players-growth-strategies-trends-forecast-till-2028/?amp=1",
+      "publishedDateTime": "2021-09-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops.md",
+      "title": "Aquiline Drones Acquires ElluminAI Labs to Create Deep Learning Drones and Cloud Ops",
+      "excerpt": "All Roads Lead to Artificial Intelligence (AI) with New Drone Industry Deal HARTFORD, Conn. (PRWEB) Apple and Siri. Amazon and Alexa. Microsoft and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/p22952013/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/p22952013/aquiline-drones-acquires-elluminai-labs-to-create-deep-learning-drones-and-cloud-ops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22952013",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22952013",
+      "publishedDateTime": "2021-09-15T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-in-car-speech-recognition-system-market-2021-analysis-by-top-manufacturers-lumenvox-microsoft-alphabet.md",
+      "title": "In-car Speech Recognition System Market 2021 Analysis by Top Manufacturers - LumenVox, Microsoft, Alphabet",
+      "excerpt": "The In car Speech Recognition System Market research report provides detailed observation of several aspects including the rate of growth regional scope and recent developments by the primary market players The report offers Porter s Five Forces PESTEL and market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "originalUrl": "https://www.openpr.com/news/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2394373/in-car-speech-recognition-system-market-2021-analysis-by-top",
+      "publishedDateTime": "2021-09-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences.md",
+      "title": "Former BigHand Head of Product joins Wilson Allen as Director of Data Sciences",
+      "excerpt": "Wilson Allen today announced the addition of James Baldassarra as Director of Data Sciences. In his new role at the company, Baldassarra will be responsible for rolling out Wilson’s Managed Analytics Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "originalUrl": "https://www.legalitprofessionals.com/global-news/12672-former-bighand-head-of-product-joins-wilson-allen-as-director-of-data-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "legalitprofessionals.com",
+        "domain": "legalitprofessionals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
       "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
       "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
@@ -1012,259 +1324,7 @@
         "AI",
         "Microsoft AI"
       ]
-    },
-    {
-      "path": "_news/2021-09-09-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Microsoft's Azure cloud, Azure Edge, Azure Orbital, and emerging Azure Space, AI, and machine learning technologies, plus Nokia's 5G Digital Automation Cloud platform will be leveraged to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/resize/1200xauto/8670fd1bf10e22c9014e1c0252ab198d/azure-satellite-diagram-1000x563.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-09T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-what-databrickss-16b-funding-round-means-for-the-enterprise-ai-market.md",
-      "title": "What Databricks’s $1.6B funding round means for the enterprise AI market",
-      "excerpt": "The Transform Technology Summits start October 13th with Low-Code/No Code: Enabling Enterprise Agility. Register now! The latest winner of the growing interest in enterprise AI is Databricks, a startup that has just secured $1.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "originalUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Databricks1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/08/what-databrickss-1-6b-funding-round-means-for-the-enterprise-ai-market/amp/",
-      "publishedDateTime": "2021-09-08T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-09-cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia.md",
-      "title": "Cognitive Services Market to Witness Huge Growth by 2028 | Softarex, Baidu, Nokia",
-      "excerpt": "The Cognitive Services market size section gives the Cognitive Services market revenue, covering both the historic growth of the market and the forecasting of the future. Moreover, the report covers a host of company profiles,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
-      "originalUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/chart-2021-09-09T000226.751-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
-      "publishedDateTime": "2021-09-08T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/azure-satellite-diagram-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets.md",
-      "title": "Xilinx Showcases Powerful Adaptable Platform Solutions For Data Center, Medical, Robotics And Other Key Markets",
-      "excerpt": "It’s obvious, beyond the complementary product line synergies, why AMD was so interested in pursuing Xilinx for acquisition. This company has done more for demystifying the FPGA (Field Programmable Gate Array) and adaptive computing than many of its competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137affbbaab67e32c274bcc%2F0x0.jpg",
-          "width": 1000,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/09/07/xilinx-showcases-powerful-adaptable-platform-solutions-for-data-center-medical-robotics-and-other-key-markets/amp/",
-      "publishedDateTime": "2021-09-07T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

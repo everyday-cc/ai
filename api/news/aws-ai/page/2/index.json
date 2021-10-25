@@ -2,6 +2,180 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-05-new-study-from-strategyr-highlights-a-35-billion-global-market-for-artificial-intelligence-ai-in-call-centers-by-2026.md",
+      "title": "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026",
+      "excerpt": "Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica ... Zendesk and Others. Artificial intelligence is playing a vital role in ensuring transformation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/new-study-from-strategyr-highlights-a-3-5-billion-global-market-for-artificial-intelligence-ai/article_69e495b7-4b93-5866-b41a-af667a4a0c5f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPVI",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-artificial-intelligence-chipsets-market.md",
+      "title": "Artificial Intelligence Chipsets Market",
+      "excerpt": "Global Artificial Intelligence Chipsets Market 2021 debates the report moreover centers around global giant manufacturers of the Artificial Intelligence Chipsets with dynamic information like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2416509/artificial-intelligence-chipsets-market-size-2021-growing",
+      "originalUrl": "https://www.openpr.com/news/2416509/artificial-intelligence-chipsets-market-size-2021-growing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/a/Ua04344823_g.jpg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2416509/artificial-intelligence-chipsets-market-size-2021-growing",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2416509/artificial-intelligence-chipsets-market-size-2021-growing",
+      "publishedDateTime": "2021-10-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc.md",
+      "title": "Artificial Intelligence (AI) in Medical Market Opportunity, Analytical Insights, Business Growth Analysis |NVIDIA, Intel, IBM, etc",
+      "excerpt": "Digitization is the new buzzword that affects every aspect of our lives, How can it be that the Artificial Intelligence (AI) in Medical industries are not affected? Pre-Purchase PDF Sample Request ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-opportunity-analytical-insights-business-growth-analysis-nvidia-intel-ibm-etc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-04T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-04-review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.md",
+      "title": "Review: Google Cloud Vertex AI irons out ML platform wrinkles",
+      "excerpt": "Vertex AI greatly improves the integration of Google Cloud’s AI/ML platform and AutoML services, combining a new unified API with very good modeling capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "originalUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/10/google-cloud-vertex-ai-11-100905535-medium.jpg?auto=webp",
+          "width": 300,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.amp.html",
+      "publishedDateTime": "2021-10-04T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-artificial-intelligence-in-platform-as-a-service-paas-market-next-big-thing-major-giants-tensorflow-mircrosoft-aws-wipro.md",
       "title": "Artificial Intelligence In Platform As A Service (Paas) Market Next Big Thing | Major Giants TensorFlow, Mircrosoft, AWS, Wipro",
       "excerpt": "The Worldwide Artificial Intelligence In Platform As A Service (Paas) Market study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face.",
@@ -1241,199 +1415,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-aws-to-open-data-centers-in-new-zealand.md",
-      "title": "AWS To Open Data Centers In New Zealand",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced plans to open an infrastructure region in Aotearoa New Zealand",
-      "sourceUrl": null,
-      "webUrl": "https://www.hostreview.com/news/210924-aws-to-open-data-centers-in-new-zealand",
-      "originalUrl": "https://www.hostreview.com/news/210924-aws-to-open-data-centers-in-new-zealand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Host Review",
-        "domain": "hostreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-how-do-databases-support-ai-algorithms.md",
-      "title": "How do databases support AI algorithms?",
-      "excerpt": "Register now! Databases have always been able to do simple, clerical work like finding particular records that match some given criteria — say, all users who are between 20 and 30 years old. Lately database companies have been adding artificial intelligence routines into databases so the users can explore the power of these smarter,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/cloud-database-GettyImages-969567772-e1627330470267.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/how-do-databases-support-ai-algorithms/amp/",
-      "publishedDateTime": "2021-09-23T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-aws-announces-general-availability-of-amazon-quicksight-q.md",
-      "title": "AWS Announces General Availability of Amazon QuickSight Q",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon QuickSight Q, a new capability in Amazon QuickSight that gives anyone in an organization the ability to ask business questions using natural language and receive accurate answers with relevant visualizations that help them gain insights from the data.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
-      "originalUrl": "https://apnews.com/press-release/business-wire/nfl-business-technology-sports-amazoncom-inc-4503228a75bc449b9ac6fa96e29053f4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-cluster-time-series-data-for-use-with-amazon-forecast.md",
-      "title": "Cluster time series data for use with Amazon Forecast",
-      "excerpt": "In the era of Big Data, businesses are faced with a deluge of time series data. This data is not just available in high volumes, but is also highly nuanced. Amazon Forecast Deep Learning algorithms such as DeepAR+ and CNN-QR build representations that effectively capture common trends and patterns across",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cluster-time-series-data-for-use-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-5283-img2.png",
-          "width": 900,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T15:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "IBM and Raytheon Collaborating on AI, Cryptography, and Quantum Computing"
+    excerpt: "IBM and Raytheon Technologies are jointly developing advanced artificial intelligence (AI), cryptographic, and quantum computing solutions:"
+    publishedDateTime: 2021-10-25T08:59:00Z
+    webUrl: "https://www.datamation.com/big-data/ibm-raytheon-technologies-collaborating-ai-cryptography-quantum-computing/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 36
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/IBM-Logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
+
 secured: "LCQrkSRmOHCwNXGTN3Na+xKMlcFjKvlA6NDRtcFPkUC/oh7/2n1ixo2I6JcCnKWL7Z5RclFvukobhP5n57iiqQkv9AJ8ufou6N0KKb/15yZ3/sxsjz2jG/iXUB0WwGSPplE99Alf5Yr2gmSekItdthw6L4fYOGj+tyWrO3eabOJyuM05YI7CRaTqSvjzVLbjP8EqaCqHi842GOmFWa6KXOhOe7uLU8ubMUKXPxKx8MgqpjuruzLC1uUrqt2Y/uXC7JoFIpnKxdj75J3HSXx729RoBaZPuUpmezdxrMbEgQWSFR+xj6R/WhytDxaZ5/rmOBZlRbvSBQvr1M3/Wn+R58rZ2uI8InxVBg3hXSq+pj4=;Uu0CgIJ7wREDuKceTxom3Q=="
 ---
 

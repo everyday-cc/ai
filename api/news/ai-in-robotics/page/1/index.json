@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
+      "title": "Introduce robotics, AI in curriculum",
+      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
+      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
+      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
+      "publishedDateTime": "2021-10-25T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Monitor",
+        "domain": "monitor.co.ug",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
       "title": "What automation, AI, AR, robotics mean for the future of work in mining",
       "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
@@ -391,7 +434,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms-1030886910",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -422,6 +465,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-robot-artist-ai-da-released-by-egyptian-border-guards.md",
+      "title": "Robot artist Ai-Da released by Egyptian border guards",
+      "excerpt": "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp",
+      "publishedDateTime": "2021-10-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -487,6 +574,83 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with.md",
+      "title": "Looking For A Career In Robotics: Here Are The Online Resources To Start With",
+      "excerpt": "In this article, we introduce you to the top five online courses on robotics that will come in handy when it comes to specialisation.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "originalUrl": "https://analyticsindiamag.com/looking-for-a-career-in-robotics-here-are-the-online-resources-to-start-with/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/10/Looking-For-A-Career-In-Robotics-Here-Are-The-Online-Resources-To-Start-With-A-Bang.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
+      "title": "4 Top Surgical Robotics Stocks To Watch This Week",
+      "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
+      "publishedDateTime": "2021-10-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-4-top-artificial-intelligence-stocks-to-watch-right-now.md",
       "title": "4 Top Artificial Intelligence Stocks To Watch Right Now",
       "excerpt": "Artificial Intelligence Stocks To Consider Adding To Your Watchlist Right Now. Artificial intelligence stocks appear to be gaining traction among tech investors in the stock mar",
@@ -519,6 +683,59 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025.md",
+      "title": "Autonomous Mobile Robots Sales Market Size Soaring at 15.9% CAGR to Reach 600 million USD by 2025",
+      "excerpt": "With an impressive compound annual growth rate of 15.9% during 2018-2025, the global Autonomous Mobile Robots market valuation is poised to bolster from USD 180 million in 2017 to USD 600 million by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-mobile-robots-sales-market-size-soaring-at-159-cagr-to-reach-600-million-usd-by-2025-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -747,6 +964,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-17-support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit.md",
+      "title": "Support scientific interest with a price drop on this comprehensive robot arm kit",
+      "excerpt": "The robot arm kit is perfect for those interested in AI engineering and related endeavors. The educational kit allows users to explore robotic technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
+      "originalUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FTNW-Robo-Arm-Kit.jpeg&signature=0cdb2c47927c81dc73cb1f2ceb6f9387",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-here-is-the-list-of-the-top-10-real-world-rescue-robots-you-should-know-in-2021.md",
       "title": "Here is the list of the top 10 real-world rescue robots you should know in 2021",
       "excerpt": "Advanced robotics progressively implies to the salvage. Centauro, TRADR, and more are rescue robots those that fly, swim, creep through rubble, splash fires or in any case help people on call tackle inconvenience.",
@@ -768,6 +1037,58 @@
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-16-life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots.md",
+      "title": "Life keeps getting in the way of my quest to turn my family into robots",
+      "excerpt": "Dinner, bath, book, bedtime: every school year we stick to the timetable – for a few days, says Guardian columnist Emma Brockes",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/67fb223568575d994010faf6950cd6896a705184/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=55a1c719a4c15bbd3a79c41ec6a581e2",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
+      "publishedDateTime": "2021-10-15T23:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -876,6 +1197,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-14-win-the-robot-vacuum-that-even-empties-itself-with-irobot.md",
+      "title": "Win the robot vacuum that even empties itself with iRobot!",
+      "excerpt": "If you’ve followed me for a while, you’ll know about my longstanding love affair with Bertie, my iRobot Roomba robot vacuum. If there’s one thing I recommend over and",
+      "sourceUrl": null,
+      "webUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
+      "originalUrl": "https://theinteriorsaddict.com/win-the-robot-vacuum-that-even-empties-itself-with-irobot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.theinteriorsaddict.com/uploads/2021/10/Screen-Shot-2021-10-13-at-10.47.11-am.png",
+          "width": 1078,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theinteriorsaddict.com",
+        "domain": "theinteriorsaddict.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
       "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
       "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
@@ -915,7 +1279,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1001,384 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
-      "title": "Why graph DB + AI may be the future of data management",
-      "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "originalUrl": "https://www.zdnet.com/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f0372ad25c6804126f901cb8d3c2fdf422b8b1e6/2021/10/12/224e2aaf-3631-43ec-ba47-39756282a739/alindeutsch-tigergraph1-copy.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-graph-db-ai-may-be-the-future-of-data-management/",
-      "publishedDateTime": "2021-10-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-facebook-quietly-acquires-synthetic-data-startup-aireverie.md",
-      "title": "Facebook quietly acquires synthetic data startup AI.Reverie",
-      "excerpt": "Facebook has quietly acquire AI.Reverie, a startup that developed a platform and tools for synthetic data generation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 413,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/FB.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/facebook-quietly-acquires-synthetic-data-startup-ai-reverie/amp/",
-      "publishedDateTime": "2021-10-11T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
-      "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
-      "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
-      "originalUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19894cca4b0468a528607c83b4f597e6.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
-      "publishedDateTime": "2021-10-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-aris-robotics-on-a-mission-to-reduce-waste-in-the-world.md",
-      "title": "ARIS Robotics: On a mission to reduce waste in the world",
-      "excerpt": "The founders of the startup, ARIS Robotics, are on a mission to reduce waste in the world. Read about their journey right here!",
-      "sourceUrl": null,
-      "webUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "originalUrl": "https://www.redbull.com/dk-da/aris-robotics%3A-on-a-mission-to-reduce-waste-in-the-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.redbull.com/images/c_fill,w_760,h_500,g_auto,f_auto,q_auto/redbullcom/2018/06/19/64eb4956-64fc-4286-b9fd-e6e34ff8f510/christian-horner-monaco",
-          "width": 760,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "cdnAmpWebUrl": "https://amp-redbull-com.cdn.ampproject.org/c/s/amp.redbull.com/dk-da/aris-robotics:-on-a-mission-to-reduce-waste-in-the-world",
-      "publishedDateTime": "2021-10-11T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Red Bull",
-        "domain": "redbull.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-a-beginners-guide-to-artificial-intelligence.md",
-      "title": "A beginners guide to Artificial Intelligence",
-      "excerpt": "Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: \"Can machines think?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "originalUrl": "https://www.linkedin.com/pulse/beginners-guide-artificial-intelligence-jeremy-ohl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFct8wJnAHVUg/article-cover_image-shrink_600_2000/0/1633989619308?e=1640217600&v=beta&t=MOZUWLFOIzsvwRk3THDoGpZlTUQuhHcKh_J8ZaJRxOI",
-          "width": 1060,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
-      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
-      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "publishedDateTime": "2021-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-rise-of-the-robots-the-future-of-robotics-is-social.md",
-      "title": "Rise of the Robots: The Future of Robotics is Social",
-      "excerpt": "As an example, an autonomous robot named ‘Xavier’ has been deployed in Singapore to stamp out undesirable social behaviour such as smoking in prohibited areas and illegal bicycle parking. As the world’s most automated country,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-future-of-robotics-is-social-2021-10-11?amp",
-      "publishedDateTime": "2021-10-11T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-robots-with-an-artificial-intelligence-system-began-operation-in-dubai-uae.md",
-      "title": "Robots with an artificial intelligence system began operation in Dubai, UAE",
-      "excerpt": "Security robots model S5.2 Picard started to protect commercial real estate. Picard is the most advanced model of robots in the new S5.2 series introduced in 2019.Security robots of this model",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/kwikset-diy-locks-access-control-920.gif",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/robots-artificial-intelligence-system-began-operation-co-14203-ga.1630393532.html",
-      "publishedDateTime": "2021-10-11T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

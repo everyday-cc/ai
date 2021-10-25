@@ -68,15 +68,6 @@ related:
         width: 1280
         height: 748
         isCached: true
-  - title: "Sustainable Cotton Production using Artificial Intelligence (SCP-AI)"
-    excerpt: "The Texonomy project, funded by the British Council and led by Northumbria University, seeks to support sustainable cotton production – a raw material in Pakistan’s textile industry by applying techniques from AI."
-    publishedDateTime: 2021-10-20T15:18:00Z
-    webUrl: "https://www.plymouth.ac.uk/research/autonomous-marine-systems/sustainable-cotton-production-using-artificial-intelligence-scp-ai"
-    type: article
-    provider:
-      name: University of Plymouth
-      domain: plymouth.ac.uk
-    quality: 32
 
 secured: "QlnpeGt42gRd6b+xFY3Bg3qUeg9djBr5Ii92KiACGwkvWc1Cv8dWgEWc//4/esbz56I/3s6xoMhUmzbX61Dxsj5x+h99P3lYQdzplMvq3KBIzjb6Hl3RaaFyCmXDhszZdqrtf/HfTywn6Ese+DnT1556mltOeiypt+8RVynslFgfu1S5F/pltlI5ILJ07ew7Fho+/1hvKR2SUQbLM/3N99e2/OubMhZ0QQGMD8GDD4AgTtG4i76cqi2XdlxvOH2o7v/QAHiaswFcbD9xeU3sp3wfIskY5aBDVVBYwU96Kx3Cn9bKf81Irky914E93Xq8HeHXuN3K7z1L4+plHgPXlqkOFEzTzkjtzJKLfgjjrD8=;2yMXFpKB7GQG4xV1pKEptQ=="
 ---

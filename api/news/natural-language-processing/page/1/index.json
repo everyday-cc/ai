@@ -151,6 +151,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-20-live-translate-comes-to-a-wealth-of-apps-gboard-for-pixel-6-series.md",
+      "title": "Live Translate Comes To A Wealth Of Apps & Gboard For Pixel 6 Series",
+      "excerpt": "With today's announcement of the Google Pixel 6 and Pixel 6 Pro, Google is also introducing a wealth of new features including Live Translate in-app with",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html",
+      "originalUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/10/Live-Translate-Google-Pixel-6-pressers-00.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html?utm_content=buffercfe80&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html?utm_content=buffercfe80&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp",
+      "publishedDateTime": "2021-10-19T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
       "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
       "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
@@ -276,6 +319,58 @@
         "name": "Business Standard",
         "domain": "business-standard.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
+      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
+      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "publishedDateTime": "2021-10-18T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1286,92 +1381,6 @@
         "name": "Journalism.co.uk",
         "domain": "journalism.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cloud-providers-green-data-center-market-is-projected-to-witness-market-growth-of-2350-by-forecast-2027.md",
-      "title": "Cloud Providers Green Data Center Market is projected to witness market growth of 23.50% by forecast 2027",
-      "excerpt": "In the forecast period from 2020 to 2027, the cloud providers green data centre market is projected to witness market growth of 23.50%. The Data Bridge Market Research Report on the cloud providers green data centre market offers analysis and insights into the various factors expected to be prevalent over the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "originalUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "publishedDateTime": "2021-10-04T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-natural-language-processing-market-2021-global-analysis-by-key-players-2026.md",
-      "title": "Natural Language Processing Market 2021 Global Analysis By Key Players 2026",
-      "excerpt": "Oct 04, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-2021-global-analysis-by-key-players-2026-2021-10-04?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

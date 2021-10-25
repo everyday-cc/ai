@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://mma.prnewswire.com/media/1667150/Leopard_I.jpg"
         width: 747

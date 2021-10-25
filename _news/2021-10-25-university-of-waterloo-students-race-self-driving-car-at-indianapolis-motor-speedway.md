@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.htm
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2021/10/24/1_5636324.amp.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving race cars make history in Indianapolis"
+    excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135 mph), ushering autonomous vehicles into a new era."
+    publishedDateTime: 2021-10-25T08:18:00Z
+    webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/the-indianapolis-event.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Self-driving Race Cars Make History In Indianapolis"
     excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135 mph), ushering autonomous vehicles into a new era."
     publishedDateTime: 2021-10-24T09:33:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/10/24/the-indianapolis-event-was-enjoyed-by-a-handful.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "Self-driving race cars make history in Indianapolis"
-    excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135"
-    publishedDateTime: 2021-10-24T18:54:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/self-driving-race-cars-make-history-in-indianapolis/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/1d1e0f06b9cc3318a0194db2154f1876861cf596.jpg"
-        width: 768
-        height: 511
         isCached: true
   - title: "Start your engine-ers: RIT engineer students join self-driving racecar team at Indianapolis Motor Speedway"
     excerpt: "Yes, you read that right, the cars are autonomous, and helping to lead the charge, are engineering students from the Rochester Institute of Technology."

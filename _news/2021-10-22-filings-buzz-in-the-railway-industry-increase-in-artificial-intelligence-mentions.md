@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-22T13:14:00Z
 originalUrl: "https://www.railway-technology.com/analysis/filings-buzz-in-the-railway-industry-increase-in-artificial-intelligence-mentions/"
 webUrl: "https://www.railway-technology.com/analysis/filings-buzz-in-the-railway-industry-increase-in-artificial-intelligence-mentions/"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/10/KS-KYUNG-on-Unsplash-800.jpg"

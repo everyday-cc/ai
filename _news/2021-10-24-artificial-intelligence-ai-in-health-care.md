@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-24T05:15:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-health-care/"
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-health-care/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/06/irwan-iwe-rbDE93-0hHs-unsplash-scaled.jpg"
@@ -47,7 +48,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 52
+    quality: 69
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg"
         width: 2560

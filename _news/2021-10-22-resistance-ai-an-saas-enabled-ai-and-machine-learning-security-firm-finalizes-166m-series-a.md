@@ -20,17 +20,6 @@ topics:
   - AI in Security
   - AI in Finance
 
-related:
-  - title: "Resistant AI Announces $16.6 Million in Series A Funding from GV and Index Ventures to Protect Financial Automation from Fraud and Financial Crime"
-    excerpt: "Artificial intelligence security company raises Series A funding ● Resistant AI responds to increasing vulnerabilities in financial services caused by widespread automation and algorithm-driven compliance and security ● The founding team’s previous startup,"
-    publishedDateTime: 2021-10-20T15:23:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/resistant-ai-announces-166-million-series-funding-gv-and-index-ventures"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
-
 secured: "xi/aHCXRQV6M+rBA7c5eetSrnj2Jp4wbBLn0v04o6+GvZszM8NZ3DuqpAmKWkMYYBgv9oQdNvUTiFJxsd6ViYUIVdUpEFPcsrFKVl++jtUMNSJVHH3/pRmUOC0E7xDJTuArQKJ7gPt5IP5RR43K5ugTJZ5zPk5lc3Mq20ffZ4lXw+uKCWEFqHEHTmTZu7MLQ18hKAS14O+R+lMHCIXaEMM5egiG3KlwJgC/IW/pzUtneKzrd9U1BQ4a3JdrQeHf4U1b/REpNl+ZFcXUui00XJzqJptkh63q0VjivZwLK17GaxBqmQ4n3HqNyEWRXidZkCGmVJOSXDNSw/IBHQ5c+wp+Yxst4y0jrbKj+tAX3EBQSqitn6OCBGPGNReeJu5VFL77RE1woWxdWM7e4Rh9cyzVt9663tJW8/XthOBtbE4dleXDoARVF9m60DjmDhFJeY4eJuGfD6tPmiKX2M66BfNY7cIsxh4H01+ZB47RuwnxkqzVji4bvtzpWBObEp1YbDfYw4vlQUcilwdEpLxxwFw==;A37wxlZU3wWXnV/oFiSgJA=="
 ---
 

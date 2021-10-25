@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AskSid AI Virtual Advisor of choice for European skin wear retailer Wolford"
-excerpt: "PTI takes no editorial responsibility for the same.) - Wolford uses AskSid's AI models and virtual advisor to deliver luxury and convenience in conversational customer service across 15 countries BANGALORE,"
-publishedDateTime: 2021-10-25T04:29:00Z
-originalUrl: "https://www.theweek.in/wire-updates/business/2021/10/25/pwr1-asksid.html"
-webUrl: "https://www.theweek.in/wire-updates/business/2021/10/25/pwr1-asksid.html"
+title: "AskSid AI: Virtual Advisor of choice for European skin wear retailer, Wolford"
+excerpt: "As the world leader in luxury skin wear, Wolford has established a reputation for high-end products, and the brand's customers expect the"
+publishedDateTime: 2021-10-25T08:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/asksid-ai-virtual-advisor-of-choice-for-european-skin-wear-retailer-wolford-887454578.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/asksid-ai-virtual-advisor-of-choice-for-european-skin-wear-retailer-wolford-887454578.html"
 type: article
-quality: 37
-heat: 37
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://img.theweek.in/etc/designs/theweek/clientlibs/images/week-default.jpg"
-    width: 540
-    height: 315
+  - url: "https://mma.prnewswire.com/media/1506502/AskSid_Logo.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 16
 
-secured: "bwBB0yBVbFvSDUccCc/Z2zs2O1uiwUhokwfRcgEB7EZDuc8/hsygyjBA1BUiHPMwlf52LyfjG9mPujlB5ZutsZiSEtbrd/F1SsSmRcPDAnkdFrnhjDx7MuZd/aJhTif2/4VdEAzh8QbPitcfWKGyPaMXQomtwrOqXNbXHcwfHulRCdrXZxEb8vkH/P238aRkFgksNnS4em9mOgD/JFA9Ko2aKh39TPRNeHZiPGKPHN174RH5Ep++To7scnc4A7X9je0Jfp/RHdUYtxixA75akjpKxOhGwTXo5PFuuw+7RrbWLp1RXROSvlXzxBBhXjG91c2G5D2nRRGMnFcFSqck0L4eclT48QXZK1L49mpKQOM=;2zn6knGwHuvYBrV+fusbhw=="
+secured: "enlcEes/+5DubTDHwHARQuNmwm1Joei82tZhdbw/IZ4pC/kBsb+6UhIowVqr1Ml5OBkbfzVlp/XXMCsJIi+kOJfMCwYI5T2QzjLVXR0laPuTO9tkb4KOPC1eFB5btYCInsMcM/nWIvyTBHa/LFEd/HNVG710ogDcOOSkAKM0raoTEyAOWbB/o+dv5lMhI5eWwv16WW9DTDX+3U7CQeCs+tTm7qc5eCY9K6m2WL8XbI8wgWNS5fWOMLopS52cVIcI9VdStQJBWXw3JkY5ZLNWVWVmZN0Ts+44t3mqh6jTanUwJ3A3ghB/8IeoLZ7/wIb/Th6zoF7qk71OkYV9rQs7uilsyBWVaOg4JlbTAjP/2sc=;LOMR9idaVbcsTpWvs35hfg=="
 ---
 

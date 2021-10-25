@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.getnews.info/uploads/fa52e6112f10ce5c3d2b37b94399fead.png"

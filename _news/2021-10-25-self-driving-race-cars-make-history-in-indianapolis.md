@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Self-driving race cars make history in Indianapolis"
-excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135"
-publishedDateTime: 2021-10-24T18:54:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/self-driving-race-cars-make-history-in-indianapolis/article"
-webUrl: "https://www.digitaljournal.com/tech-science/self-driving-race-cars-make-history-in-indianapolis/article"
+excerpt: "The winner was not a driver but an algorithm on Saturday at the Indianapolis Motor Speedway, where the top car clocked an average speed of 218 km/h (135 mph), ushering autonomous vehicles into a new era."
+publishedDateTime: 2021-10-25T08:18:00Z
+originalUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.html"
+webUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.html"
+ampWebUrl: "https://techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-self-driving-cars-history-indianapolis.amp"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/1d1e0f06b9cc3318a0194db2154f1876861cf596.jpg"
-    width: 768
-    height: 511
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/the-indianapolis-event.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -76,6 +78,6 @@ related:
       domain: nzcity.co.nz
     quality: 4
 
-secured: "U82em3c5nOZUl+0urOhv0KaqWPNtGoW/1j8aG7MVme7r2wzQRaZFhst10nVBRY0tC7eg6OUmHOdWOn8XmRLIgMrEy8N7ZbJz4m6a2gFG93cxdBpiCISCNWl0/GuxHYZSCZEfbFN0nToHx3tDzqoTPDJM8LER838WOx0K6RQkbMwpRwysSra8cEWzWs+C6VHTU0ZU9PIM8uujgPfYSDzbz+uTbQzqJcNaOxiRVpMUR6Fp+R05tTZHU0ilgiLf69+cJwXnz+Zy38SyJnA2E2a+S8eug6XgVtS4wMiXZ0OjRELmk8nmVYlDplU0MbmUZJ2ixqVD9bDZqPnHAd7H5F9haskm4EMTsyDeLDQlKGCb/S36L2dWUmOXHOv6/1+TwTeLB4MFk4as5Jab+RYlbAtZkCE4iKAsbgWu8I5X9nJUq29WTxj1b11ucn36SlTMspdhegUsNRCsGdgNTm8xgHfO72V4MQeZdfyMkSXVufePbhb7mzPVqzEdYZAMFH+jj1xdPjMyO5f6vPlLoIVcKnx55A==;Jvir9zlsWxng3DXr1bV9WA=="
+secured: "zfxTKz+lNngAl0PTc+D4P5rLDOKG2ZdofnLDo3Z5jXSisU+LeaneSkyrZrtZfobuuTpKXFiLkLWFTpRPAOiWXAsDPITJyWxZ3O7vCnDU0+wYgqBEBgeiQRqCC9eBXLHAL7D2VNGO1vBmJaCAhaHeQ+f8NxEycMWZlKO4OGhcHfHGN3fT1HjZXUZLZ54ZVFsifVDkJctUfBLJE5XWdoVTrQnSUOyE3c6imh7ql2ii8OerYsH0TrSfoav2jhRjR8uhZ6OFAG0q6m6BX7X/1oWLDCkrUXhtcHshzYh+8GmHkfxV6S/eZAvmLjR+RQlDt/jmGaGQ9zfSwJrv5lgQPqYSgyvl/Jo2pZceQXm+6K6TFYQ=;CeHNg9nAgsKAp5eOtaFq9Q=="
 ---
 
