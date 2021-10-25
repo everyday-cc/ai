@@ -2,27 +2,45 @@
 category: news
 title: "AWS makes its Panorama Appliance generally available"
 excerpt: "Amazon Web Services (AWS) has announced the general availability of its Panorama Appliance. The device integrates computer vision into on-premises internet protocol (IP) cameras, allowing fast and easy visual inspections of production lines,"
-publishedDateTime: 2021-10-21T14:06:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available"
-webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available"
+publishedDateTime: 2021-10-21T14:59:00Z
+originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9289/aws-makes-its-panorama-appliance-generally-available"
+webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9289/aws-makes-its-panorama-appliance-generally-available"
 type: article
-quality: 64
-heat: 104
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/23//aws_image_3.jpg"
+    width: 3264
+    height: 2448
+    isCached: true
+
 related:
+  - title: "AWS makes its Panorama Appliance generally available"
+    excerpt: "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker."
+    publishedDateTime: 2021-10-22T09:27:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "AWS Announces general availability of the AWS Panorama Appliance"
     excerpt: "Allows customers to use existing on-prem cameras and analyze video feeds in edge environments to improve quality control, optimize supply chains, and enhance consumer experiences"
     publishedDateTime: 2021-10-22T18:25:00Z
@@ -55,16 +73,7 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 45
-  - title: "Amazon’s on-premises device for vision apps, AWS Panorama Appliance, launches publicly"
-    excerpt: "Amazon's AWS Panorama Appliance can process footage from existing video cameras and apply computer vision to extract insights."
-    publishedDateTime: 2021-10-20T21:15:00Z
-    webUrl: "https://venturebeat.com/2021/10/20/amazons-on-premises-device-for-vision-apps-aws-panorama-appliance-launches-publicly/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
 
-secured: "q/rG31kuaMWoV3Rs7UPqs4+dMLuHDaxeEq1+65Fmus/RVnu01Q2b48VSDL3nguqTL1Mdr+xqvZYoRdWjjL6yxFYDfeuJDeKWsd1yNuHWR6fVS3WCguWMjMZTLnvk8jAVULRlKi+wMyz/siU2eKQbbQxpguVuYeqwMq29camTZBRMncdGj0fdV6Tfwt/gs4tFrX7iEqfDxixzW8EwGtTw6HaR9bLgxouh31azCnoJHjt/74WEwlRe5pivERL6bkQSws/r3iVm8dEGcrnZwx2pUaUuj/9YQSEOQtNkvf57Wp3mbTaCOYMiOjkuHpRSijfgrKby2B3/UAbO1JtdRLlTWjMr+sbvpMSYLI7EM3Nog7NTmrS+Rkw8z0seo6ps+cSUs+qKxpqgwIMfZq+X75SfQHb+eUXn4p9UGbU7M8c7jSEtAXNV0XBrwVnzmYtU3tk82ndK8ZDqDCrHzDWlseuTytkGv5CF/Dtk6OmdwwD/ALcpbLEE6jvBofwyKIpbXX0zxiWqfnZL8ZJnvs+G2wZP6g==;Z8TdcDwVDOEHG0K1Vn+8eA=="
+secured: "w/ST/T2XMyU8UAMXBvHlwlJN32ZV4/dHJcN29oMlz5vE2oqvbbCxCI9VjS/61kcbpjqoIDVCz4c6r7MpU5U6hAMImy1F3FtzKevGCBMJja13HyxDP2VvLP4aRnmrF/FMtawmx5f8dOJwxEvBPf25e3T/minqbEJXmggeZ4EhryglWclD4wQng/Qfhde5+xUNu+1/n6SMSrl2zq9iiYA3StJqaoZTqtcUYdW/2Jo5JvJWobZr1Ojkavhj3uSINOSzZ9GDz8IFFdtNpRfqUUzKIKxfIuEMlYPW6z8S5sSDqzMBsSt+3Q6tgD0HqHNcANg3g+5SqqyH3jMkmIzapvaokIlpZOMANI+6bS/Rsdx/jh0=;1mf2nPfjU1Y14ON0IN8x1w=="
 ---
 

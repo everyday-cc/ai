@@ -7,7 +7,7 @@ originalUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-wi
 webUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-will-involve-fewer-professors/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
-    excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."
-    publishedDateTime: 2021-10-23T12:30:00Z
-    webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Future of college will involve fewer professors"
     excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
     publishedDateTime: 2021-10-21T12:10:00Z

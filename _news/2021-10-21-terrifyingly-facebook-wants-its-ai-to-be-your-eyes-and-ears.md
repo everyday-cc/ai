@@ -53,6 +53,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook AI Releases SaLinA: A Flexible and Simple Library for Learning Sequential Agents"
+    excerpt: "Over the past five years, deep learning (DL) frameworks such as TensorFlow and PyTorch have been introduced to enable developers to quickly prototype new machine learning models. Most such frameworks however still struggle with the implementation of sequential decision methods,"
+    publishedDateTime: 2021-10-25T14:34:00Z
+    webUrl: "https://syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/"
+    ampWebUrl: "https://syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 50
+    images:
+      - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "Facebook Smart Glasses And The Creep Factor"
     excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
     publishedDateTime: 2021-10-23T16:08:00Z
@@ -69,22 +85,47 @@ related:
         width: 425
         height: 318
         isCached: true
-  - title: "Facebook's language gaps weaken screening of hate, terrorism"
-    excerpt: "In countries like Afghanistan and Myanmar, these loopholes have allowed inflammatory language to flourish on the platform, while in Syria and the Palestinian territories, Facebook suppresses ordinary speech,"
-    publishedDateTime: 2021-10-25T10:57:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-s-language-gaps-weaken-screening-of-16561184.php"
+  - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
+    excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
+    publishedDateTime: 2021-10-25T15:03:00Z
+    webUrl: "https://www.pbs.org/newshour/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
+      name: PBS
+      domain: pbs.org
+    quality: 42
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/10/2021-10-25T110016Z_1511104453_RC2ZGQ9U2U2Y_RTRMADP_3_FACEBOOK-DOCUMENTS-GLOBAL-1024x681.jpg"
+        width: 1024
+        height: 681
         isCached: true
+  - title: "Facebook the company is losing control of Facebook the product"
+    excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
+    publishedDateTime: 2021-10-25T15:24:00Z
+    webUrl: "https://www.adn.com/nation-world/2021/10/25/facebook-the-company-is-losing-control-of-facebook-the-product/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 24
+    images:
+      - url: "https://www.adn.com/resizer//4bA7mMGJo8BxsB-NTS-5CcpcLfM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GEGTA2GOZZGEHKDWSRXE4OK7VM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook’s language gaps weaken screening of hate, terrorism"
+    excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
+    publishedDateTime: 2021-10-25T15:49:00Z
+    webUrl: "https://www.kansas.com/news/business/article255262091.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article255262091.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article255262091.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
   - title: "The Facebook Papers may be the biggest crisis in the company's history"
     excerpt: "Facebook has confronted whistleblowers, PR firestorms and Congressional inquiries in recent years. But now it faces a combination of all three at once in what could be the most intense and wide-ranging crisis in the company's 17-year history."
     publishedDateTime: 2021-10-25T13:00:00Z

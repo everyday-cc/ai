@@ -71,7 +71,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
         width: 1024
@@ -85,11 +85,25 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
         width: 2560
         height: 1600
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Retail"
+    excerpt: "From better virtual retailer recommendations to theft prevention in physical stores, retail is an industry that has fully embraced the promises of AI. Retail as a field is notoriously competitive, and AI can give companies an edge when it comes to responding to customer desires and reducing inefficiency."
+    publishedDateTime: 2021-10-25T12:23:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-retail/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/smartphone-4942918_1920.jpg"
+        width: 1920
+        height: 664
         isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Next Big Thing : Major Giants IBM, Autodesk, SAP"
     excerpt: "The latest research on“Global Artificial Intelligence (AI) in Construction Report 2021” offered by HTF MI provides a comprehensive investigatio"

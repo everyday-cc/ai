@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-25T13:05:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-energy/"
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-energy/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
@@ -75,11 +76,25 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"
         width: 1024
         height: 393
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Retail"
+    excerpt: "From better virtual retailer recommendations to theft prevention in physical stores, retail is an industry that has fully embraced the promises of AI. Retail as a field is notoriously competitive, and AI can give companies an edge when it comes to responding to customer desires and reducing inefficiency."
+    publishedDateTime: 2021-10-25T12:23:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-retail/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 52
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/smartphone-4942918_1920.jpg"
+        width: 1920
+        height: 664
         isCached: true
   - title: "Key Artificial Intelligence (AI) Trends 2021"
     excerpt: "AI continues to expand in global, corporate, and recreational use. Learn about artificial intelligence trends and future predictions now."
@@ -109,6 +124,6 @@ related:
       domain: manometcurrent.com
     quality: 8
 
-secured: "ofvMuKERXcBZl8kqQt0U6ue7ArVZbIak9V8dqgTmMoCYftpK8xISQv9MRfAKiux/rDcNxagJuPph0VAekDufDPMsH3Ajov2YaboOJIiavNUSWuvQnYagINbGQNUPSF4zPvn74iQbUmm1j6cTSP9U8eNVSmZI+Fp5ODcoMc+lyGbLitOs0lW+q7M6I2APRLZSpLeLYhdTRDIEkcph5pPZnhyV6/fnHHMh9uGNK8KjFrEGNgxM2WfuM0StpXx+UBeHNcpM+blxYJIr0MocXanfcuYiWpv9goBALpBYGcmzSFFCouHvQNZ5MExNNX8RtLbDoQKtrJ5qMVbMdyDycL3MhYIOe435wbstsFmT4uwxRmA=;90Vx971FyMiUccvItl+9eg=="
+secured: "Q4E9bMYLNCVo/AUd43g4O8KXxYqVB8gcC54LOvmOFd/W1pXIfGI0o7jxJdd6vLyyiYxvyR3g4r+zECv48igv13e/PpjrNiySwQ6W0tROi6am7CSGw4zD1zcQjpq6lw/JF27B7D8dNr/4nmgUsG94T/rLFRcLH6Ac/90bGZR7NNx0oT7nj7nSN0bCuFC8K2q1fLvt7UAZltcQGo/B4Y8q5ciS9d0Z0S35uGR/DbW3bFIMLSeW/hzFkTT3WQwOEwSmc6jTo9OjdC1rx8nfu9OUlb3Ptrywx3aJaSlqdotDZMvI5VQnU+Y14OHccZU6PBAhwe2KsSqD9nzY+M6+rjSKwICQCwW2lgjx9C/Rd4FBiL7C24O6QWgxhAKUQAOvx4Uoy/RI0R5hudu3H4lRi3pAVXcbs+qBL6zf8FiYtmnZFSS135G5goUb2rvWm+mEdgw6ixgGOHfsF73m5RUMq1Zb4jSQDtLutYHI3GMNgH+LNAXh/U5kZOH32DN4KvnEMG1yJ1rGkJmBBhiIjwaQf1EtfQ==;XMlsW+6vZUoV2ODtZ1Y2VQ=="
 ---
 

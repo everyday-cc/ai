@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
+    excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-mortgage-lender-button-finance-raises-2m-seed-round"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 54
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-10/Button%20Finance%20New%20Logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
     excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
     publishedDateTime: 2021-10-23T18:04:00Z
@@ -103,15 +117,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 4
-  - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
-    excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
-    publishedDateTime: 2021-10-20T21:57:00Z
-    webUrl: "https://www.ky3.com/prnewswire/2021/10/20/markaaz-worlds-first-fintech-is-joined-by-investor-sandy-watkins/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 3
 
 secured: "0dZjZ29MiNxN4m9tNW3awHPjbaf+7HE19FilveHxOc9y+Q0V50DQmKt+eO6a9d3ONMjvMt5aqm7pJIguTgCGn/BNGyTOu9vPlSgBTWWEOpyGahQdpb9SZE5VBG/p7V9DUTQfa6UgbTwHY2Nj3hcSuadENRI4ZE2csJ+7nAIooxvZQU69ePk//miBK/xo6V6CwCLl+X+2+IiI5MO1XI0YinJCuEspztkvYQaaWmzXqcznM+ls8ZsG58CcuOGB4oDVAmVXVUuuX+LUoAhH9KJ/3OEq23tuW2qU0M86efNK/rxzfdTUOXzOHv3v4i3pFnoHaOB2sA98DmIOQCWj5NvpvAqw44W7OD43BjBb5OkSD9O2rLzdx2OY+j3DCPnq18k6WtCcbiMv4YtpWnYW/sKMoPr8u6CVd0TJ6aFnTJIhNPGiFQ44arOO8TSuzOiCChaium77XYZNYB4uYrLnIo0VM08zOtYwI5nDj4VFjirQwdLX1pbFuTdWmHwHQhafmaQIdfrLY1CMViy7e3cd9FjK6A==;+iLz9zHuFtusb1sKDoERww=="
 ---

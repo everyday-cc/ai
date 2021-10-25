@@ -1,24 +1,34 @@
 ---
 category: news
 title: "2 Artificial Intelligence Stocks That Have Spooked Investors"
-excerpt: "This poor performance thus far, however, does not necessarily mean they are down and out. Both of these companies are using artificial intelligence and machine learning to disrupt their industries. While many investors have demonstrated their pessimism ..."
-publishedDateTime: 2021-10-25T10:33:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-that-have-spooked-investors-2021-10-25"
-webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-that-have-spooked-investors-2021-10-25"
-ampWebUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-stocks-that-have-spooked-investors-2021-10-25?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-stocks-that-have-spooked-investors-2021-10-25?amp"
+excerpt: "Both stocks are far off their all-time highs, but that does not mean they don’t have bright futures. Lemonade’s AI is making waves in insurance, and so far, no other incumbent in the industry has duplicated its model."
+publishedDateTime: 2021-10-25T14:33:00Z
+originalUrl: "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
+webUrl: "https://www.fool.com/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/10/25/2-artificial-intelligence-stocks-that-have-spooked/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "y8DoKH6Ck5dTXVTcONv4aaeH8qwPslSvjQLYBBtLNgM6eBStkccVEJbbL7kUxnv6bEDkkMkkny8fkwwXLkAxf5zFhmEP640332uTu9H7oVCp5/hK0dpndDOK3wIB8x4ObiG5BadnUrCnoa6YoWTBcafwvRWQ1Z21lTsKjA8Pwb9EtVHsc+07X6ddPk5lONmvG03UNLtn8VTXZEaT5c/jXkUw9XyXv0VNhjIfa7vSmVw1V5darFjRD7j6n8SnfRTx1Ruy6nc355ggZ3RdDHYq6CriASZhrWCu7YB1f79qswUz4WErSI7UbxB4c8hzdiS9DgQuZNpdwZ1gZrMbQqXs4DnOuhR6IDsj4qCdy20pj3U=;RfD7fvnvgBATaBJoY1TWYA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F647585%2Fperson-thinking-about-a-problem-at-a-desk.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "j3KSuIjgHRUtwAKV33qt5b1gRM5GVDYrltpQxIrtHYYwl2Qiotsn6N2GmqPqtHdZJ/+LqdiXTwYOLrFX2/hsbj55Y9HRKCX2d9TFfJK/EqFglTJVe2W+YCO+dXDpM8yU3BoLlLoY8VVu56rFXvM+4ODQGAq3R22iNAZdE9m2exnZdSyD6GsEJSQgE3wEBsIx//IDmp7TPTjE7UiMn9UUhG83rvwa1WyoDLUd+xnbRkTR4nNl0gjzW8b+QlMEn46W+5+R6L+n0hucqXCdLaVQPHStWVf059+QF8t1J24ZkjoUkibkso+0mAS2U/pdka6dOXpP4yV6OY5fuGzuCZACzUd9ZMeTAxZEkjgi5yQAFs0=;udoja5T32oQnwOG96UoayQ=="
 ---
 

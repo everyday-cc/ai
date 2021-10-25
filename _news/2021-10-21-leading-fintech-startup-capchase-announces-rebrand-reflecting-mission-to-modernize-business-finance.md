@@ -41,6 +41,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
+    excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-mortgage-lender-button-finance-raises-2m-seed-round"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 54
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-10/Button%20Finance%20New%20Logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
     excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
     publishedDateTime: 2021-10-23T18:04:00Z
@@ -103,15 +117,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 4
-  - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
-    excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
-    publishedDateTime: 2021-10-20T21:57:00Z
-    webUrl: "https://www.ky3.com/prnewswire/2021/10/20/markaaz-worlds-first-fintech-is-joined-by-investor-sandy-watkins/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 3
 
 secured: "nSAUHZOAcqsC3eY7LPq8uRoPM1oHP2b4DKdwibPivKW5aZNc7YeHZBqy9vwJbHAAUYHqSb3GTcwyB9+chkl+s6BJkM9gTZ6/t9U1W1xkfnfL4I7+1rMPkr2Zc9Y6B4yzVw17L31pQ7Zm0Nq9xQ0IKUUe94bNLFKJmdsdmEQWEnqGgxdjh9GdsWj0K/kHczFrHAsO45xfX4XCOJezGOwk6HCWoBu4Zm7gq3GnKDED/uu3O9W9YPsFQer8jMXZXguE4AJpor5ek5Z41CQ+7iCW3JeRPHhSrg6J9RZTNEBnKqpxHRfrygE3CNJV+blynENnhoLWWuuxYOraNnwF8lrhu95AsQxDNOUUKnKY0csZrSk=;dPRhCuxf9H2YNqoSVhkfBQ=="
 ---

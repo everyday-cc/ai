@@ -81,6 +81,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nato defence ministers agree to artificial intelligence strategy"
+    excerpt: "The strategy establishes standards of responsible use of AI technologies. Defence ministers of Nato have agreed to the treaty’s first-ever strategy for artificial intelligence (AI). Nato allies have According to Nato,"
+    publishedDateTime: 2021-10-25T15:13:00Z
+    webUrl: "https://www.airforce-technology.com/news/nato-defence-ministers-agree-to-ai-strategy/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 37
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF3-AI.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "NATO releases first-ever strategy for Artificial Intelligence"
     excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
     publishedDateTime: 2021-10-22T12:32:00Z

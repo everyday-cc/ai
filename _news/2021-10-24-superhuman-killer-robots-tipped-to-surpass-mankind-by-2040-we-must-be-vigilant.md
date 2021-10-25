@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express.co.uk/news/science/1510193/ai-artificial-intelli
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1510193/ai-artificial-intelligence-robots-agi-grace-sophia-westworld-blockchain/amp"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 590
     height: 350
     isCached: true
+
+related:
+  - title: "Superhuman Robots Are Coming Very Soon, Says Expert: We ‘Will Have To Be Vigilant’"
+    excerpt: "Janet Adams, an expert in robots and artificial intelligence, says superhuman robots are likely coming in the next couple of decades."
+    publishedDateTime: 2021-10-25T13:43:00Z
+    webUrl: "https://brobible.com/culture/article/expert-superhuman-robots-coming-vigilant/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 33
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2021/10/Expert-Superhuman-Robots-Are-Coming-We-Will-Have-To-Be-Vigilant.jpg"
+        width: 2111
+        height: 1117
+        isCached: true
 
 secured: "OXxEYcN1wqHBQXtjXmdxjmuRpTvyaTglAFr9aiTiqGqmT7QGotqj1bVf6u8qj9Vc9JZjbCS0YFodPqlLCoBn1urvCLTsQHqXYU3Hj0Pvaa6is3IzJdU6osotrFBQuPoAnfAdNGXMqpdXSpwFV2iWcx50hFlvxsncBIO3hRMzsZ+Q7aRYgot1CFq+UktdJxmGrvf+Ri43801Pfe34y7Qud8Qm0u6dk2JxmGtSzI5XN09/1UHv858p8oMWQJlm2dnA1URa1iz18aHTu9U+uXj2E6VKtuqmGON8lyqloNRmtVOCmIU7ow85QRijlArLRHG/j941P9iOBYx20tv0qLth/HC8hauq81bxD0kqUJTfRHw=;AN4YuOwMvnEDCH0cKHBNbQ=="
 ---

@@ -26,14 +26,35 @@ images:
 
 related:
   - title: "AWS makes its Panorama Appliance generally available"
-    excerpt: "Amazon Web Services (AWS) has announced the general availability of its Panorama Appliance. The device integrates computer vision into on-premises internet protocol (IP) cameras, allowing fast and easy visual inspections of production lines,"
-    publishedDateTime: 2021-10-21T14:06:00Z
+    excerpt: "Customers can update their computer vision application in Amazon SageMaker and deploy the model to the AWS Panorama Appliance, thanks to the device's full integration with Amazon SageMaker."
+    publishedDateTime: 2021-10-22T09:27:00Z
     webUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
     type: article
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 64
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570814329/itpro/aws_logo.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "AWS makes its Panorama Appliance generally available"
+    excerpt: "Amazon Web Services (AWS) has announced the general availability of its Panorama Appliance. The device integrates computer vision into on-premises internet protocol (IP) cameras, allowing fast and easy visual inspections of production lines,"
+    publishedDateTime: 2021-10-21T14:59:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9289/aws-makes-its-panorama-appliance-generally-available"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/23//aws_image_3.jpg"
+        width: 3264
+        height: 2448
+        isCached: true
   - title: "AWS makes Panorama computer vision Edge appliance generally available"
     excerpt: "AWS has officially launched a new Edge appliance for computer vision use cases. The cloud company this week announced the general availability of the AWS Panorama Appliance; a computer vision (CV) appliance designed to analyze images provided by on-premises cameras locally."
     publishedDateTime: 2021-10-21T09:24:00Z
@@ -52,15 +73,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 45
-  - title: "Amazon’s on-premises device for vision apps, AWS Panorama Appliance, launches publicly"
-    excerpt: "Amazon's AWS Panorama Appliance can process footage from existing video cameras and apply computer vision to extract insights."
-    publishedDateTime: 2021-10-20T21:15:00Z
-    webUrl: "https://venturebeat.com/2021/10/20/amazons-on-premises-device-for-vision-apps-aws-panorama-appliance-launches-publicly/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
 
 secured: "G9++/rl7kExZfNNZ8KEDk5m/xv79bVb/XP+0TQ073ZI6S92R2/TB9LJVyh5LfsEQxrBR+JuWWUyrAs655y3UmwWyECafq7ZFqLCSnn1Q8dspNvUKP3avrYhlUprLZPxFqVxBxd7uR+jgzYKiVpfqK8RbpfRH1YQKKXIjkZCWV4da+ig6+38bqogb+rzsvxN7EFxBQ9mbobiqELCBe480mWHltPlTYBkKrtqHKXrGDWanGdD6T2cRXiJ3MhUVNnn5lFKJ1err0LGWaLeCgzjN0Ep95MdT94ETdZi6MQ6hlYgONcOC6bLdO4L4uTXPkCqNGTD1gqPv8z/q1GcnXyGw8xqsEWsYvF+ucA2Nxb0vR3Y=;XpzvBVPz+noPQYC+dYQG9w=="
 ---

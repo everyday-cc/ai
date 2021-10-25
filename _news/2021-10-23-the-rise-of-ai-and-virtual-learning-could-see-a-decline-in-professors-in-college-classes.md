@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/ai-virtual-learning-college-profes
 webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
 type: article
 quality: 60
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,29 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Future of college will involve fewer professors"
-    excerpt: "At a large private university in Northern California, a business professor uses an avatar to lecture on a virtual stage. Meanwhile, at a Southern university, graduate students in an artificial intelligence course discover that one of their nine teaching assistants is a virtual avatar,"
-    publishedDateTime: 2021-10-22T02:46:00Z
-    webUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-will-involve-fewer-professors/"
+  - title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
+    excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
+    publishedDateTime: 2021-10-25T14:40:00Z
+    webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+    ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
     type: article
     provider:
-      name: Brooklyn Daily Eagle
-      domain: brooklyneagle.com
-    quality: 24
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 88
     images:
-      - url: "https://brooklyneagle.com/wp-content/uploads/2021/10/251886-1024x705.jpg"
-        width: 1024
-        height: 705
+      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "Future of college will involve fewer professors"
-    excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
-    publishedDateTime: 2021-10-21T12:10:00Z
-    webUrl: "https://www.upi.com/Voices/2021/10/21/future-of-college-fewer-professors-AI-virtual/8851634817123/"
+  - title: "Mesoscale neural plasticity helps in AI learning"
+    excerpt: "A joint research team led by Xu Bo from the Institute of Automation and Mu-Ming Poo from the Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, have discovered that self-backpropagation,"
+    publishedDateTime: 2021-10-22T12:32:00Z
+    webUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 4
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/mesoscale-neural-plast.jpg"
+        width: 2880
+        height: 1766
+        isCached: true
 
 secured: "SYQzv4IZG/T8Vs8Ec5R2TMEnDK8EuBR8A4fXqCSn3kkyt8Y9tM4nwTZ2d2B58b5KcdNIfgHNuQHzGbQZnWaHWd4s+xZxTXiBM4Jr2M5kGobxhMDTHcbuCc2dQ26ikNhn6MCoeb6xZ1ve4WaMn1mu1w2x/4Ymct2zt+lY8yQCWZZBJmMvSCNszQOmaOFLihC4Yc1sfvdqYSDgb4J2gAFqgRc2St4YpJKV0zoLWE1BuVGMnIjBkVZHq1K0OEWfInGIlPA0RIG8Gr9HO+hjtkxGsr+OhNibsVrZBx24VTqCrGHMacdc+/y/AlY40ysxRr8Djeweffr9irGDDPcxfXU/xKQYB2OSRFsJFLPTvSKKHqqnoJD37bCTTGo0DmyLiHIuWuFnAOOLMGy1Udr6xT+kz3hY5R89bJxmD+fPHda6oLbwTBgdYn5ZVFQySp1FhZJwrl/mmzvUGlt2cGzRAVRBj2pHzgxt1oAEr8pHgwe9VbWNAyHSBMHbFhYL063u0ePHb2ZHUFGhELzLxVx2Ry5PGQ==;rBKtip1BEUIPwrEJZGFiAQ=="
 ---

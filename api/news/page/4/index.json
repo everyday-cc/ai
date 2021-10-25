@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
+      "title": "4 Top Surgical Robotics Stocks To Watch This Week",
+      "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
+      "originalUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
+      "publishedDateTime": "2021-10-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-live-translate-comes-to-a-wealth-of-apps-gboard-for-pixel-6-series.md",
       "title": "Live Translate Comes To A Wealth Of Apps & Gboard For Pixel 6 Series",
       "excerpt": "With today's announcement of the Google Pixel 6 and Pixel 6 Pro, Google is also introducing a wealth of new features including Live Translate in-app with",
@@ -1165,58 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-india-will-use-ai-ml-to-achieve-sustainability-goals-amitabh-kant.md",
-      "title": "India Will Use AI, ML To Achieve Sustainability Goals: Amitabh Kant",
-      "excerpt": "The CEO of Niti Aayog believes that the vast scale of data and the massive digital footprint is India's biggest strength for the technological leapfrogging in AI, ML",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/391977",
-      "originalUrl": "https://www.entrepreneur.com/article/391977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634644030-amitabh.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

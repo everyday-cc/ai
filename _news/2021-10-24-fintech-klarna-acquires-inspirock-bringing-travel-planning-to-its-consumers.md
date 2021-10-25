@@ -43,6 +43,20 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
+    excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-mortgage-lender-button-finance-raises-2m-seed-round"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 54
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-10/Button%20Finance%20New%20Logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
     excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
     publishedDateTime: 2021-10-21T16:21:00Z
@@ -103,15 +117,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 4
-  - title: "Markaaz, a world's first in FinTech, is joined by investor Sandy Watkins"
-    excerpt: "Markaaz, the world's first pre-verified community of businesses, today announced that Sandy Watkins, founder and former chairman of Open Lending, joined their latest Funding Round and will also sit on the company's Board."
-    publishedDateTime: 2021-10-20T21:57:00Z
-    webUrl: "https://www.ky3.com/prnewswire/2021/10/20/markaaz-worlds-first-fintech-is-joined-by-investor-sandy-watkins/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 3
 
 secured: "SQvQGlhqPxPIYrmi1NtFsuWb3eAGbeayrWx5U+zS+YLEMmNM+mQgMptuxy3i0BRkIcA8JZr+UKZspL4BISTip0+3z8tHxnfdhkBN4/aAQxgKmAOAIyQOI+4/tofJwXF8Ilz5P0zVwV9KKA+TpqH3B2b/eAutg2OHpvlfE96KG0P3MwlrMZ9xfg5D80DMmYBkI+89O2F+zaFj7Buyl04sqRznBRUK0c7bTWmwaZi209ciPXTX1QDHm0Su+JM1z7/c2n1rLfhmhMUzmo/7+kcTnHW0VDkRKMOqa3+erxD/zuflqMzMxb67BB+7s7GpjEXRXRziSzD4keHGdwjjLloOoAcma8GO5X+DCaBBk23mfb3/gTHWMATB/o/7kIVx8L7fzTMgNXjARcYUXXWkDqRsayHz+/wPMfi2oN8l9bQp1TVXBEY0J8kRlbfuZ5hBydBbqT5B9iQA6HtJjq6xIZX8EXH7f65BCqwHOfeXV5wX787LuV2TOxWHy10mhGq6OJMaE4z9/mNJOBSNRifP0pBxpA==;ZYubUl4n+izW3zIQ45eP+g=="
 ---

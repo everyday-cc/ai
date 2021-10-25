@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-mesoscale-neural-plasticity-ai.amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 2880
     height: 1766
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security"
+    excerpt: "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology."
+    publishedDateTime: 2021-10-25T14:40:00Z
+    webUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security"
+    ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 88
+    images:
+      - url: "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "The rise of AI and virtual learning could see a decline in professors in college classes"
+    excerpt: "The erosion of tenure is contributing to losing professors, and eventually there will be technologies that could replace in-person instruction."
+    publishedDateTime: 2021-10-23T12:30:00Z
+    webUrl: "https://www.businessinsider.com/ai-virtual-learning-college-professors-future-education2021-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6169907b38c1960018300eed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "bV9qaKuD2zj8HiKVu1npW713bxY4HUwpPqfzZ237xhEvm+QgyllUmZGzBcDYkHMFcoEwmlYBijO3x89qxF8V9OZWeFx0irJgvN017EN0I7beZ9rN6Nhk8Sue5mF90x4xgw5MH7Ta5clvH2gc9iSrOUQJsHA8OPNN+jSZpEx6vbtOxFRttNPHlO7obebSFpDyiDeT95dpC0In3KILvmIeJxumzySEYNANGz8A00u60yRjl3ixDO+PqFh1la+WL64qSY66yMqdrz2XY7dz8DGjx5AbSwXLOTLQ4ko61ppMWEejlOdqojb0pl0TmZxirukzajjeANLQx+A5JbLvBGi4AW5uI3gtM+Dqic3/M3HAnmW3Jq8CBi8WFAp6eKt7/ZF4ERV02wWRolog8j+0Kp1Ya92SwnwJPiAYhL79rOm2LAFZoPQCtxnPZ2oUjmZTLSKG3cQhtMLBZWHVuHJvWXusvgfkdQMA8B2AD1bP8bC8U8bkO5lzB8pi7dx04gopkYnZ+HI+iJejuBo68P5t/FNcZw==;6ZZaN4jyHYQMDKZ2OaOfXA=="
 ---
