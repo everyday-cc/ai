@@ -72,15 +72,6 @@ related:
         width: 940
         height: 500
         isCached: true
-  - title: "Deci gets $21M funding to help automate deep learning model development"
-    excerpt: "is getting a $21 million cash infusion via an early-stage round of funding aimed at furthering its mission of helping companies build, optimize and deploy artificial"
-    publishedDateTime: 2021-10-20T11:00:00Z
-    webUrl: "https://siliconangle.com/2021/10/20/deci-gets-21m-funding-help-automate-deep-learning-model-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "n6WoSITlM77IvNgL0ak3VDx0Ofz6w+BsSd4LzTNE7knnRz12/m3ERwvMlcQfyWd+TOZr79mHYDssVphLK99/BZsOAoZsoh6OLDRskrgrJ1Yfso7dojfr3HDAYHGLKmdkcy/i/TxiP3hL/A/qX8Npf8sTT1WogFtIOGm5banOOjwRa+plTEfmw1PJsYN/W8uumbrDNpNicfwn+JD7S7yX8ux74y0O1yVCzhTBnrhARLvU8cEJpxq8hoo0npwQYZ9r6+WgXHODxwn9lDJ9iN//CQ5jacnxeHtCdqcAkG7WE572lN3j5EHbYNOQL7lTzVph5hdDXA6OhN1F0CX/mNMiXdXSQK0ERSM4+jtaCBcX8e3A7p7PCTio+hMAa5kCV7tvvmFLeJhTfDIzWWw0FWnuqEgOmZtc6kEHQSVsBxUCg1XVyShO3uPfAxHQBxroQqc6Xb4u3nwh12yrzqW9nmT4ZlFqVgYSbPR0cHvai/8PgC0L21AKlkcpgqyi63EbPmfNCnfs1tIUMZjxcaSNQcBnqA==;vIhlxZL+jFULGBnPBarb9Q=="
 ---

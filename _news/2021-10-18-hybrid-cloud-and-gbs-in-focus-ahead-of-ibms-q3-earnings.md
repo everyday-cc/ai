@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-391818.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "uCVdorLuJy/7V8+DsTP68NB5x7n2cn6p0uCDPo/ZRY43P8XoE0dwsKYkcGRul15O30FoaklbW+7jlo8UMjXYRFH6vcEsa0/nNuzCGPs0j5DD2AfrADS4ylIDPx3ASlC1mIAEzQ3OQYIXZRmQssgSfda0ljM0k+RMnUCpyVe6+wcDXcmTWTA0/6Br4C3CdrtKTn+tEY2JwgDTJwdcnNW8nbxCxZeZz0iUOif4YcBfkICKhug4fkalUX7ZEW+9iZRuDVSKCny8ksqa39ggAeFhz8AKoyciq6dX40hQ5KP3/sPb5Fspspy/AwXt4OmwOvv7Ebwb9rG3nrKV2ty1DwT110uTVh7VwxFRu9ViB3Ei2gA=;CbePFfXj94/+9eRnzPIEWQ=="
+secured: "uX+stpD3h8PRAqsk0xefIyENqbbcy6u/Hs1H1rtsNM5NR+aQ7kUNqv3opECf8BiBoA/gK7AvzQQAe1n+k1tboEs/8emEanXmxlor4v2KRu9mIQ3WD5FY9nmmxxbexkQIcbXSfoh0YzmnzPFFAHs7RIs8Vn+MFUKzWdsP7LYQBQ9FhTZoaFGbFwz1gca1kZaJKmi0NaIylEEYW5TyFHQQxqn2ToV35shy7wcXjpcLGE8gqZ5Aog0E45x7fltol5vnsdyFOsp5evATxRvySSv1K5r4n/EbxuIb7tz4eUHTWOKiIW551IoxYTEL4/tzhvos12TbYBsMtUwKDu044jjte3xjJzEuXwwII41H8HsklCCJEt1+Xd2yGH2Hcxl1cPAewM7/A3HBScKo3u6njhe3N+Rcx9hQdyT9RFVfpdu0RlrhQbZ5/Qlkvrw55sEVVeq3PvadunW9BGXIZ3hEWqz2rfCOw87jMIGfIdOEqJcyQa64CCvYgLRjsKWknqc946ch72YPRhw2GZ4aHvOb3T9IvA==;x+r6EKaNuvW+VHYxaA6K0Q=="
 ---
 

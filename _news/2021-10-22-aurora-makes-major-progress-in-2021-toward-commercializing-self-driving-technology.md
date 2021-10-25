@@ -28,7 +28,7 @@ related:
   - title: "Ahead of Expected November 4 NASDAQ Listing, Aurora Executives to Address Self-driving Advancements"
     excerpt: "Aurora, the self-driving company that’s planning to launch autonomous trucking and ride-hailing businesses, is sharing more about its cutting-edge technology and business at events throughout the next few weeks."
     publishedDateTime: 2021-10-21T15:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pittsburgh-aurora-ffe325dcb4e4420598d5696e43e16e55"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-ffe325dcb4e4420598d5696e43e16e55"
     type: article
     provider:
       name: Associated Press
