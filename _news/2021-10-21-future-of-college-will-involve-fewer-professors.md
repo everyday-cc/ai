@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Future of college will involve fewer professors | Opinion"
+    excerpt: "In my view, universities should broaden their use of AI and conduct experiments to improve upon its usefulness to individual learners"
+    publishedDateTime: 2021-10-25T17:35:00Z
+    webUrl: "https://www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html"
+    ampWebUrl: "https://www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6PWCFND4KJGD5L44ZQZ4Z7DKEQ.jpeg"
+        width: 754
+        height: 504
+        isCached: true
   - title: "Future of college will involve fewer professors"
     excerpt: "At a large private university in Northern California, a business professor uses an avatar to lecture on a virtual stage. Meanwhile, at a Southern university, graduate students in an artificial intelligence course discover that one of their nine teaching assistants is a virtual avatar,"
     publishedDateTime: 2021-10-22T02:46:00Z

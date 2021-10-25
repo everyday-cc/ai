@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Robotaxis are coming to Australia"
-    excerpt: "Announced this month, the partnership will see TfNSW and Motional undertake viability studies into a plan to launch driverless robotaxis within Australia. Motional – a $5.5b ($US4b) joint venture of Korean industrial giant Hyundai Motor Group and US-based autonomous-vehicle interest Aptiv PLC – began operating last year with a remit to commercialise self-driving vehicle services."
-    publishedDateTime: 2021-10-21T00:19:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/robotaxis-are-coming-to-australia.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/nsw%20driverless%20vehicle.jpg"
-        width: 782
-        height: 439
-        isCached: true
 
 secured: "bSRj5zsEBm8dg+WKsbfGhVAf1gWHsmtEXPjy/aSAfcaqQksPTyYBHdPuKSg2I5EyigY4u/5XeBxqCIrZQsCq2QE0nZmmWsdLfPKichXbvNjR0huieFbcAup361wBpto2gESWwYv3DW27dl9ZkOC+1HHyZHKjwYsBGK+YsQNDiykjWuEqRPP6JVxsoprWtHeOREWV3tM7+aPheQRNiOpBs8QWGKaTX5Jd0qepXwe1/AaK2vVDwSd95R2/RzHl9GfSy2HahWRA0bkLO+29ZwAHFQE0SYkSPj+vhlDO62jw6YV6J8irMJGVAybOjIjnO2V50/Mu67e7fdbQxe70rm2etOWopzx4RcDssNPCxgxw4jGV2FR3V2HHZcJeQ279WOJ6CI7dBqWwvo5Ysxx6UsIyUlEI+wu7X5+mgUQmWKyS/nEuHx7N5yLeqWxhdm2ASOX4wknyHmQAC60kKxrVZEY1LqvqtKyM0pB/U4QSqYZPAULEsT7X4dss0wmkrCV95aXwYcDm7bosfQGw8AQBSuPzKw==;Py1mdUFIWwnhs5YqJ/zv0w=="
 ---

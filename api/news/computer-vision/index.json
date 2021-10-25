@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-25-tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns.md",
+      "title": "Tamil Nadu's facial recognition systems slammed over privacy concerns",
+      "excerpt": "The State government had launched the Facial Recognition System on October 4 as a mechanism to assist the police department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html",
+      "originalUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/police_cctv.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp",
+      "publishedDateTime": "2021-10-24T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
       "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
       "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
@@ -1356,49 +1399,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-face-recognition-software-launched.md",
-      "title": "Face Recognition Software launched",
-      "excerpt": "The Face Recognition Software (FRS) for use by city police personnel to aid in investigation was launched here on Wednesday. Commissioner of Police G. Karthikeyan explained the software features and t",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Tiruchirapalli/face-recognition-software-launched/article36885212.ece/amp/",
-      "publishedDateTime": "2021-10-07T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

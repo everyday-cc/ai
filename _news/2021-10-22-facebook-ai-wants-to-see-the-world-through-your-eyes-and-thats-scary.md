@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-t
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -51,7 +51,7 @@ related:
     provider:
       name: syncedreview
       domain: syncedreview.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
@@ -146,15 +146,6 @@ related:
       name: techxplore.com
       domain: techxplore.com
     quality: 21
-  - title: "Facebook wants AI to find your keys and understand your conversations"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
-    publishedDateTime: 2021-10-20T23:08:00Z
-    webUrl: "https://theconversation.com/facebook-wants-ai-to-find-your-keys-and-understand-your-conversations-170092"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
 
 secured: "Tf2xnzXPUzICUPCFx7E/z9vIbLziPQGU3e/dLYlVU79LiXMfkLZI7SHbaObP9S38EKXsWz1ILlmi077HltZG1gEx253fabcYi2uqnRlxdsOjdVx+VRDnQ/yh0/uX+VVd5IjnUiJa6lsTTZ5CLM74bHF3q9+/gz2qDDr4ZeCsGWjQh+APVVMm5VSkjXx/OPl7ukdQufRQeXchq90ruigNFbJ3V1cYYpUYyyDIrW/kGnUMsPPRsUwf7jJshJosmvAIWlv3mu9eB2R9qwN25yQh35178P5wmqRY/2BJ958qGJKbMuxEdoeCWRg1XUDBHZ6LoGG1LtHK/PzrLO52nA3NNwzb/ASLUUQHMFQoKohiA0Y=;GWCjwWMCDafGVv9t8bwVDA=="
 ---

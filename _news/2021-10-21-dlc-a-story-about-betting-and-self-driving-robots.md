@@ -207,6 +207,20 @@ related:
         width: 728
         height: 400
         isCached: true
+  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
+    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla (NASDAQ: TSLA) Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
+    publishedDateTime: 2021-10-25T17:42:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/tesla-submits-partial-response-in-us-auto-safety-probe--memo-2654161"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEE310MM_L.jpg"
+        width: 800
+        height: 582
+        isCached: true
   - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
     excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
     publishedDateTime: 2021-10-25T06:48:00Z

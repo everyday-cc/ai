@@ -67,7 +67,7 @@ related:
     provider:
       name: syncedreview
       domain: syncedreview.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
@@ -146,15 +146,6 @@ related:
       name: techxplore.com
       domain: techxplore.com
     quality: 21
-  - title: "Facebook wants AI to find your keys and understand your conversations"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
-    publishedDateTime: 2021-10-20T23:08:00Z
-    webUrl: "https://theconversation.com/facebook-wants-ai-to-find-your-keys-and-understand-your-conversations-170092"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
 
 secured: "pvcazOKu+X5P6o47tqn9H+tZRZO5wGarJ6Y2vEfsO3Bgw9nm8Gr3wOUFsYW6xl+KssjUNeNunvW9+PEHxoP1yxU/DYcwqIGNQEOIqcKIDDVmoT8AId7XAJBbJ2ZRvu95o0K6NOs2WsPxnslQDwOe9pVKKtObq4hOtB+Nowr1KaYIE+rE3uWje9kUR2ZVVXzunTAnxAriBmKR2hrKMODZWL0P+zbuzrMdO/s8aPQsjkkH7OeUimN5ICksAY8sKu2uJ2wQSqShxJlfEnzmbyYkCJLhm7N2NtH2CTwMxp54hp/RJqXf/ddt7ikOrn2+pXoGooUL+HKe/qcocQ69E0NZsaXi7uvTHmYhtYEh7yw/niQ=;uwbcGrhY0akK3XHILqPnWA=="
 ---

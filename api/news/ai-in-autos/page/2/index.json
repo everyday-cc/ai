@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-12-germany-unveils-worlds-first-self-driving-train-see-photos.md",
+      "title": "Germany unveils world's first self-driving train. See photos",
+      "excerpt": "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
+      "originalUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
+      "publishedDateTime": "2021-10-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-germany-unveils-the-worlds-first-fully-automated-train-in-hamburg.md",
       "title": "Germany Unveils the World's First Fully Automated Train in Hamburg",
       "excerpt": "World's first fully automated, driverless train is unveiled in the city of Hamburg by Siemens and German rail operator Deutsche Bahn (DB).",
@@ -1374,58 +1417,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
-      "title": "For Tesla, Facebook and Others, AI’s Flaws Are Getting Harder to Ignore",
-      "excerpt": "Investors are pouring money into artificial intelligence, despite clear setbacks in self-driving cars, social media and even healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-10-04/artificial-intelligence-ain-t-that-smart-look-at-tesla-facebook-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_t5K2dNQfTk/v1/1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

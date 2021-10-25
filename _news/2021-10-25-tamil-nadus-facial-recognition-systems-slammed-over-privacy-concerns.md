@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New Indian Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
+    excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
+    publishedDateTime: 2021-10-25T17:00:00Z
+    webUrl: "https://healthitsecurity.com/news/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 59
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-991470640-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Facial recognition systems off the menu as schools reverse plans"
     excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
     publishedDateTime: 2021-10-22T04:00:00Z

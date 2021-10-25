@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Diginomica
@@ -25,6 +25,22 @@ images:
     width: 740
     height: 450
     isCached: true
+
+related:
+  - title: "10 major surgical complications averted with AI-assisted surgery techniques that deserve attention"
+    excerpt: "AI-assisted surgery is an interesting addition to AI in Healthcare. Current healthtech trends suggest a bright Healthcare future that will significantly avert surgical complications."
+    publishedDateTime: 2021-10-25T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/10-complicated-surgeries-gaining-ease-with-ai-assistance/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 23
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/10/10-complicated-surgeries-gaining-ease-with-AI.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "wBzHUaMAK/AW1VAkbpMdk2x8A74GPAwlfDeSgSFk/VGJ3toUvli6V93KD+iRr5fEQYHmdinmtaoMN91ahFZyDCiaeyY4yXvVSQvD9fNHcMfN+ftQaDCsZxNnCityL1uJFj6rjXJpR6zxjaxucz1/NoiJ4ArY7OXYxr5Iz5MyrYN4Sd/pmGwqtrE77VDe7zyyMcOZ0vufCg6TUnVdKceZ0rGMkPgZdnfDqVH4lDiSAZzF2JVWrtyuzohBlibx4aErNZn4yywErvsHZ8nfCNNC/W4cwti6aVxtYisrlDs8aY/2rh+H/P8HY3BT6tmGRLnhwdKnbq81fiHXFI6TDt18gcir9zlUlJLjOUf3R1FpZPNfWD+s4UPhZVs4X0fANniDtC83r9Alsbd8+HG3qLbvuCzoHonvb40BsFLvfDcWiDNqELbP2948PDBp6eNZdOrTIfK/pynmUBYZBRC5COh9QKRCcX9B3Mp4ZCY4QCBcdoR8xLcTMEmfhm7LRUPYjKqq65RmQuyEeCwSUjVuFry3Rg==;0o9/z2dNBLd0ieEQyx3H5A=="
 ---

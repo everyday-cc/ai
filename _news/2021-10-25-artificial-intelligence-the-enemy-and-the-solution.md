@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-t
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/10/laptop-6332544_1920.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "AI: what, why, where and how"
+    excerpt: "Channel companies can benefit from following the below guidelines to respond to the inevitable phrase, “We use AI.” Using this “what, why, where, when, how” sequence can facilitate conversations with your software vendors and consultants."
+    publishedDateTime: 2021-10-25T16:09:00Z
+    webUrl: "https://www.commsbusiness.co.uk/features/ai-what-why-where-and-how/"
+    type: article
+    provider:
+      name: Comms Business
+      domain: commsbusiness.co.uk
+    quality: 37
+    images:
+      - url: "https://www.commsbusiness.co.uk/wp-content/uploads/2017/03/AI-e1635163605320-590x339.jpg"
+        width: 590
+        height: 339
         isCached: true
 
 secured: "92Ir2WFX64N4ka9TgX6/q8cbqwwOTf8tkAfDiGuTe8aA9/lH6pkEWPM/3CvD4WSLWBGFhYYSkbIH9lR7s3+GkHqrKhJy2pq1nMebxQZa0X8//q3K41QBPHjZMQsGnfSIek9ASoFzuqza57+6SBs1EivyGU/2PLZopURpycfm2aQQx94/OVUK9bT9kzTMyPAlVEgnxFjY23sEEsJSmMdrFQSbxqdT2rKNNsDcjQE6hAHbth+JT5GTHpWlL3JloDasmn56XKDr7ES9FZCsN9ZCQD/W91aS/VsJfG/JeeA/LYNT6QY9wyM22aGYXuuNcRMEOqDRym1J/qM6w03L3yeYkGfm+L8cR2mKosyIL6HRIa25t9mcblR7On5mY5yUUVNYJuG6iUPFuOs65bemet8P0PVeWIMF5YRes5Xef/emF1BGcHBWfK5CXh+9fqnalBrBJ9gBKZ9vR9rF9/Tfio3vKpBdcBtpV0U2YdfZpyp/lPbPBjUpK2r/bDGlFvTj2zToJiSEbsz+GEeuTKtBuZ66Eg==;iBPhHKeZw6yQiuewAMUkug=="

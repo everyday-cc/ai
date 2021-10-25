@@ -31,45 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "What's a self-driving car? Here's an explanation"
-    excerpt: "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard."
-    publishedDateTime: 2021-10-24T11:00:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
+  - title: "When A Ghost Seemingly Has Taken Your AI Self-Driving Car"
+    excerpt: "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car."
+    publishedDateTime: 2021-10-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408"
         width: 1200
-        height: 630
+        height: 880
         isCached: true
-  - title: "The Future of Work: No more bad drivers? Making self-driving cars smarter than humans"
-    excerpt: "The senior software engineer with nuTonomy is trying to programme, through artificial intelligence (AI ... and redesigning algorithms so that the driverless car can identify pedestrians and ..."
-    publishedDateTime: 2021-10-22T00:00:00Z
-    webUrl: "https://www.todayonline.com/singapore/future-work-no-more-bad-drivers-making-self-driving-cars-smarter-humans"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 17
-    images:
-      - url: "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/20180705_27221126.jpg?itok=TIJGnFRW"
-        width: 1024
-        height: 654
-        isCached: true
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 0
 
 secured: "GpE/xQWusLIetyvkdJvdKgWL/+XlKHA1G36Rm771CTvKkfPxa6JoNQtOXhcEqXXSufW///ufT8DtFuRV9mDRzM9ph7BHGZ/XvbtGsMTZVeDqGr3JLz71k197C1PkMBLJoJSsB+5GAimY7tWKnQiz8lsLhtKVeYfgQyiJlWa4XMC9v+hyNNXAQUKSxyAnZtgJvVz4/ITGohL1tIkLNTv8aQ3NBWVK2r/NJvfqJAQ1h7Ksbd1QaVsXSib3g2YASgR/+Qp9zYsjpCykrMHYjFpcV8/BHSz04509OhmXnVmsue4XQsXiKzW3vS/41T8/fx1FZr+gxTLyz7JR4aaGpoCjZ7zDwjk/a251amxH7HGLlMk532NmhlNDOZ7xKCFefhhDUBKvrkzPRfWUCE7jIsFemP+oF0bXCplX+XK7yIQcDJpeWVzEiOwlgLeeLf5ayasuhTmOFXY9BAvrsj8Ve9VxeySVT/+vCPt1+0awfB2bz4pZzveeaVrTbgriQAdIHjbsyfQPFIgZwueen6kwp9yjFw==;0SK2f89IlYRb7tk9wP7Xqg=="
 ---

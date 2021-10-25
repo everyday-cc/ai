@@ -7,7 +7,7 @@ originalUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-wi
 webUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-will-involve-fewer-professors/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Future of college will involve fewer professors | Opinion"
+    excerpt: "In my view, universities should broaden their use of AI and conduct experiments to improve upon its usefulness to individual learners"
+    publishedDateTime: 2021-10-25T17:35:00Z
+    webUrl: "https://www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html"
+    ampWebUrl: "https://www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/10/future-of-college-will-involve-fewer-professors-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6PWCFND4KJGD5L44ZQZ4Z7DKEQ.jpeg"
+        width: 754
+        height: 504
+        isCached: true
   - title: "Future of college will involve fewer professors"
     excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
     publishedDateTime: 2021-10-21T12:10:00Z

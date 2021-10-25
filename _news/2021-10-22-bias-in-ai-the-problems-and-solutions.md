@@ -42,6 +42,20 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "AI: what, why, where and how"
+    excerpt: "Channel companies can benefit from following the below guidelines to respond to the inevitable phrase, “We use AI.” Using this “what, why, where, when, how” sequence can facilitate conversations with your software vendors and consultants."
+    publishedDateTime: 2021-10-25T16:09:00Z
+    webUrl: "https://www.commsbusiness.co.uk/features/ai-what-why-where-and-how/"
+    type: article
+    provider:
+      name: Comms Business
+      domain: commsbusiness.co.uk
+    quality: 37
+    images:
+      - url: "https://www.commsbusiness.co.uk/wp-content/uploads/2017/03/AI-e1635163605320-590x339.jpg"
+        width: 590
+        height: 339
+        isCached: true
 
 secured: "XcEgfL9JwnHB9mKHdlRHNCN52VBfDwBCNJnViJOEJptxEdrijIc8T4y+X+75PBa46KzCeE0HhHtjbYmaAWURDwqEtelK/3beWF10hb7ny68YP7XlyCD7kApViunCBF1eRgrKboeqwOUsrhPvV49SuRqE2hIhpKLMQXId9EUB1ymR+K7nJq0d1fApd2vBHFct4RkJRLsP8+tqDQm1atpjZbd5O0o3sMbTnCkmLLsKwBNOkEaQhs77YHrKoG2bDS+MX0fkDFkeXDydp3iyyU7PbZjCti4hJE3zPW6QnSad/XUXG19BptTI/6RS87XLUw+P0HG5l+tezgaJXkEMZ+EbRsCnY68Wz+OuJzyQ3+zren36l2RfjiiJyLl9+X3d8KMAR47ARyO8DHb3u0oSiyOLhIgUL7aLzkw0Em/na8tScix40eipOlU1qQcyyF2rEFLK0PoSBgQmWxALh+Ccdsu6iKwaZEq5o0cluOEJIJmm3CYKJ6FF0LM418dTFx1VgIiskWEul1+v5FdUgIGhnIyCTQ==;MN/Y5AJypM8dHeyc+5H6UQ=="
 ---

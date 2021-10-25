@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
+      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
+      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
+          "width": 1200,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "publishedDateTime": "2021-10-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-tesla-starts-rolling-out-full-self-driving-beta-103-after-a-false-start.md",
       "title": "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start",
       "excerpt": "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,",
@@ -10,7 +63,7 @@
       "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -202,7 +255,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1369,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-worlds-first-self-driving-train-see-photos.md",
-      "title": "Germany unveils world's first self-driving train. See photos",
-      "excerpt": "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "originalUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "publishedDateTime": "2021-10-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

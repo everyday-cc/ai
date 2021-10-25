@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
+      "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
+      "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616f63a78381218bc51e3a22%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2024%26cropY1%3D0%26cropY2%3D1408",
+          "width": 1200,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/25/when-a-ghost-seemingly-has-taken-your-ai-self-driving-car/amp/",
+      "publishedDateTime": "2021-10-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-rent-a-robot-is-a-game-changer-for-manufacturing.md",
+      "title": "‘Rent-A-Robot’ Is A Game Changer For Manufacturing",
+      "excerpt": "For years, cobots have been shown to make manufacturing processes faster and more efficient, but research shows that fewer than 10% of manufacturers use them. The “rent-a-robot” model—which is gaining steam across the country—can change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176c70049b5743372cc15c8%2F0x0.jpg",
+          "width": 1200,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
+      "publishedDateTime": "2021-10-25T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-artificial-intelligence-and-machine-learning-play-a-role-in-endpoint-security.md",
       "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
       "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
@@ -158,7 +263,7 @@
       "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -305,7 +410,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -357,7 +462,7 @@
       "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -479,6 +584,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
+      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
+      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
+      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
+      "publishedDateTime": "2021-10-25T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19-analysis-microsoft-us-ptc-us.md",
       "title": "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)",
       "excerpt": "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI",
@@ -487,7 +635,7 @@
       "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -614,6 +762,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns.md",
+      "title": "Tamil Nadu's facial recognition systems slammed over privacy concerns",
+      "excerpt": "The State government had launched the Facial Recognition System on October 4 as a mechanism to assist the police department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html",
+      "originalUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/police_cctv.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp",
+      "publishedDateTime": "2021-10-24T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -867,7 +1058,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1003,194 +1194,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3.md",
-      "title": "Advancing AI Emotion Sensors In The Transportation And Logistics Industry Series: Blog #3",
-      "excerpt": "In the first blog in the AI transportation and logistics series, I featured the AI transformation innovations at Purolator, the second blog focused on the acceleration of smarter AI telematics infrastructure in fleet management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/10/23/advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/10/23/advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617486d719764e7c991bf699%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/10/23/advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/10/23/advancing-ai-emotion-sensors-in-the-transportation-and-logistics-industry-series-blog-3/amp/",
-      "publishedDateTime": "2021-10-23T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data.md",
-      "title": "Artificial intelligence sees more funding, but needs more people and better data",
-      "excerpt": "A call for 'developing metrics to assess goodness-of-data, better incentives for data excellence, better data education, better practices for early detection of data cascades, and better data access.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9118d887fd55bed1a1282d5520f414337255095e/2021/10/23/feecb3f2-0da1-4af0-80f1-5e3c43da7529/new-york-occulus-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/",
-      "publishedDateTime": "2021-10-23T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-machine-learning-helps-predict-spread-of-antibiotic-resistance.md",
-      "title": "Machine Learning Helps Predict Spread of Antibiotic Resistance",
-      "excerpt": "Machine learning helps sort organisms by their functions and researchers use the days to predict how genes are transferred between them. This approach could potentially be used to stop the spread of antibiotic resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/probiotic-supplementation-reduce-antibiotic-resistance.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-predict-spread-of-antibiotic-resistance-203945-1.htm",
-      "publishedDateTime": "2021-10-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-ajman-free-zone-launches-artificial-intelligence-and-robotic-hub.md",
-      "title": "Ajman Free Zone Launches “Artificial Intelligence and Robotic Hub”",
-      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021. The free zone, which is part of the Ajman Government’s pavilion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "originalUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dubaichronicle.com/wp-content/uploads/2021/10/Image-scaled.jpg",
-          "width": 2560,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "cdnAmpWebUrl": "https://www-dubaichronicle-com.cdn.ampproject.org/c/s/www.dubaichronicle.com/2021/10/23/ajman-free-zone-artificial-intelligence-and-robotic-hub-at-gitex/?amp",
-      "publishedDateTime": "2021-10-23T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dubai Chronicle",
-        "domain": "dubaichronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

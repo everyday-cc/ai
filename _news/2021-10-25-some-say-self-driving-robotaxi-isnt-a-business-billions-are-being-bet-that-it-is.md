@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/10/22/600x338/Screenshot_2020-09-10_at_8.21.24_AM_1599706295782_1599706304970_1634876473960.png"
         width: 600
         height: 338
-        isCached: true
-  - title: "Robotaxis are coming to Australia"
-    excerpt: "Announced this month, the partnership will see TfNSW and Motional undertake viability studies into a plan to launch driverless robotaxis within Australia. Motional – a $5.5b ($US4b) joint venture of Korean industrial giant Hyundai Motor Group and US-based autonomous-vehicle interest Aptiv PLC – began operating last year with a remit to commercialise self-driving vehicle services."
-    publishedDateTime: 2021-10-21T00:19:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/robotaxis-are-coming-to-australia.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 24
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/nsw%20driverless%20vehicle.jpg"
-        width: 782
-        height: 439
         isCached: true
 
 secured: "yNDRDeI7Q3vGwllVusX+IVGflBBO9KU2A6g5rc4XNU6VNG/PWhhcUA802GVFolyjmU90bm2z7fD9qg9iA3mqWFfvHfyFKXNk1jlSh0xBUIJUvOngX0FfCTYUUpVESulzae0jIVu25CgkHyhsENjOGKSB5Dskllmb0KROz/Wvpq88vjHwbQbsF8z7o/f068NuQQnuJ3DySOAr7JgHFemUJ6sgWKAyW0tSvkyL9QzMJukmBlDcnvawyOuX8Z2amRvfc3H8mgh0fMRt8rYrGxeftzmitMBKYW9DzyrSnC5rlXe4UjxhKAQ/NrUWqaA9VJ+CRzplwJyx3cfxFREWnvaHmXJEFwYtpCaNLrusZ42rL4tyGIHe0vSAWtCuiFhIwjnv4WHq+jqN6PA2GSeh8rl/V/4nMSPf4fWqNas16S6qHwT17IHA5kPIB9LYV1zgtZQ7xgjE4dBVqmF0TUxNtJwgYuCzBhtcLv6GCGHyqQIhFFTWWhrKefgQafPvRcTMwb52meRkEqsvaXJuGY7VzhFMPA==;HeVGzKYeWyy1HRSCzC6Zrw=="

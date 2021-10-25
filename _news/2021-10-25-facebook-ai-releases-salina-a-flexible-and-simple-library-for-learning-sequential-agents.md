@@ -8,7 +8,7 @@ webUrl: "https://syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-fram
 ampWebUrl: "https://syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/amp/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
@@ -146,16 +147,7 @@ related:
       name: techxplore.com
       domain: techxplore.com
     quality: 21
-  - title: "Facebook wants AI to find your keys and understand your conversations"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where your left your keys. The Ego4D project provides a huge collection of first-person video and related data,"
-    publishedDateTime: 2021-10-20T23:08:00Z
-    webUrl: "https://theconversation.com/facebook-wants-ai-to-find-your-keys-and-understand-your-conversations-170092"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 19
 
-secured: "CEUQvvdhwQVT4GUVMvXJ/tzB0QXoswioeF19kOCwwU+G8SIkw8vjfH6m/Eqytb8GObiOoJuRT+pr0QOTAAlgAiCt0JW/eG06yOKi4gx78dfRBtgtS2tMIlHLdYL+UvWxCi21Xwkm/6wvNlBG6CrcmN6Z7FRWiuO7r9YHheYgwp4Rh47Iz0/25qsZA0cyXrZilFri3S9dyziwJ4n4Ggzk3ZWYasGCeQFa0kH+OPoLKYnn3iGslRmYQzi2A5W68s3hN5JfNRTkUcPrrV+x9o67cy0wIzQMyRkErSfmxtdfPtTB+mDtArbkuMwfuiakCoSUJqYwlEczDIMUwufccLBDdyL2q3J01ihhy5cJc9n2eDU=;xxRWLZtfnCuPRLVSzSrZ7A=="
+secured: "2vumkDl1nxg/h4KONGlJSKsCybUDqoTpYOHAT9lYqb2Ev2FzY9WLMcQ9xsQlzQZ5D3p/Jf5fnb0cUZO0Y4vEW8v/UEDe8UQzfSalq+/xV5UfW8sxE3DkaF5lxH/cpklB1Keiv+bMvUyJRk3JNmI9qJjBn9o/o7BVCNA7aGw+LwXQiuqw4sWqtbtCQCK8jXZQnyHczGZs6UKzvd1zOIHnMRB34IAE7GcLkCKsD/mgxUyo1C3Hw33zl9abLGqKS8UsCoi9xgvNGHw8XhZkyh5G8wdt2Ad/zqQtVHogiIaYJhel59qd5r710grjNvqVHQzRouC6eAP7EalmBcRULCoRjljYmXhmI6gHk8FLVdTaooKcOS3rsuCy69Vu1IJGZQoqBUVZYRu1ANkN14yzuUF6UqePC8M8hnvJqjTIkeErJbh2xvoaLI8xYIHlJCggDUkyBllbgURUjhl/2Mq730d6JvLgPaBQeXf96upl7QvSXWZ68aSHdYYk2v3I80MUgahVLWLfKP9z0H0vZUObFfNpzw==;DpSANeVumb64Kn4/iroOCQ=="
 ---
 

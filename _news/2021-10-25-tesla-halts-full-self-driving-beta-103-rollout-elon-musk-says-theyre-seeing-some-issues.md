@@ -213,6 +213,20 @@ related:
         width: 728
         height: 400
         isCached: true
+  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
+    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla (NASDAQ: TSLA) Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
+    publishedDateTime: 2021-10-25T17:42:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/tesla-submits-partial-response-in-us-auto-safety-probe--memo-2654161"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEE310MM_L.jpg"
+        width: 800
+        height: 582
+        isCached: true
   - title: "DLC - a story about betting and self-driving robots"
     excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
     publishedDateTime: 2021-10-21T15:19:00Z
