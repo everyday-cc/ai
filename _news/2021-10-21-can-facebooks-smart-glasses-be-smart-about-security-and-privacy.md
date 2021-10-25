@@ -82,6 +82,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook's language gaps weaken screening of hate"
+    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
+    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 44
+    images:
+      - url: "https://www.wdio.com/WDIO_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "‘The Facebook Papers': What They Are and Takeaways From the Leaks"
     excerpt: "Internal company documents obtained by a former Facebook employee-turned-whistleblower reveal a troubled, internally conflicted company, where data on the harms it causes is abundant, but solutions are halting at best."
     publishedDateTime: 2021-10-25T17:47:00Z

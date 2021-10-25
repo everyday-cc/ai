@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence: The Enemy and The Solution"
-    excerpt: "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take."
-    publishedDateTime: 2021-10-25T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/"
-    ampWebUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
+  - title: "Addressing AI’s Biggest Problem: Trust"
+    excerpt: "For AI to gain mass adoption, it needs to be trusted by governments, enterprises and users directly or indirectly impacted by such applications."
+    publishedDateTime: 2021-10-25T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/25/addressing-ais-biggest-problem-trust/amp/"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "AI: what, why, where and how"
-    excerpt: "Channel companies can benefit from following the below guidelines to respond to the inevitable phrase, “We use AI.” Using this “what, why, where, when, how” sequence can facilitate conversations with your software vendors and consultants."
-    publishedDateTime: 2021-10-25T16:09:00Z
-    webUrl: "https://www.commsbusiness.co.uk/features/ai-what-why-where-and-how/"
-    type: article
-    provider:
-      name: Comms Business
-      domain: commsbusiness.co.uk
-    quality: 37
-    images:
-      - url: "https://www.commsbusiness.co.uk/wp-content/uploads/2017/03/AI-e1635163605320-590x339.jpg"
-        width: 590
-        height: 339
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600203d32263d67c03ef9d7d%2F0x0.jpg"
+        width: 1200
+        height: 831
         isCached: true
 
 secured: "XcEgfL9JwnHB9mKHdlRHNCN52VBfDwBCNJnViJOEJptxEdrijIc8T4y+X+75PBa46KzCeE0HhHtjbYmaAWURDwqEtelK/3beWF10hb7ny68YP7XlyCD7kApViunCBF1eRgrKboeqwOUsrhPvV49SuRqE2hIhpKLMQXId9EUB1ymR+K7nJq0d1fApd2vBHFct4RkJRLsP8+tqDQm1atpjZbd5O0o3sMbTnCkmLLsKwBNOkEaQhs77YHrKoG2bDS+MX0fkDFkeXDydp3iyyU7PbZjCti4hJE3zPW6QnSad/XUXG19BptTI/6RS87XLUw+P0HG5l+tezgaJXkEMZ+EbRsCnY68Wz+OuJzyQ3+zren36l2RfjiiJyLl9+X3d8KMAR47ARyO8DHb3u0oSiyOLhIgUL7aLzkw0Em/na8tScix40eipOlU1qQcyyF2rEFLK0PoSBgQmWxALh+Ccdsu6iKwaZEq5o0cluOEJIJmm3CYKJ6FF0LM418dTFx1VgIiskWEul1+v5FdUgIGhnIyCTQ==;MN/Y5AJypM8dHeyc+5H6UQ=="

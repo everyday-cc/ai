@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 1920
         height: 664
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Next Big Thing : Major Giants IBM, Autodesk, SAP"
-    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Construction Report 2021” offered by HTF MI provides a comprehensive investigatio"
-    publishedDateTime: 2021-10-21T04:40:00Z
-    webUrl: "https://menafn.com/1103010778/Artificial-Intelligence-AI-in-Construction-Market-Next-Big-Thing-Major-Giants-IBM-Autodesk-SAP"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
   - title: "Artificial Intelligence (AI) in the Freight Transportation Market is expected to show impressive growth rate | CAGR 17.90%"
     excerpt: "The latest report by Report Ocean discusses the various factors of the global Artificial Intelligence (AI) in the Freig"
     publishedDateTime: 2021-10-21T08:57:00Z

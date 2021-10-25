@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
         width: 425
         height: 318
         isCached: true
+  - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
+    excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
+    publishedDateTime: 2021-10-25T21:13:00Z
+    webUrl: "https://www.commondreams.org/views/2021/10/25/media-outlets-flood-zone-news-facebooks-failure"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 39
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/facebook_zuckerberg-1.jpg?h=fae7ad3b&itok=Dzqc-MD5"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook the company is losing control of Facebook the product"
     excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
     publishedDateTime: 2021-10-25T15:24:00Z
@@ -115,6 +129,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "710xC38WdvOHnn4t2Gpa6MWf/oT1LsTr7kgssUwMUD1oHR3O+SNRKI1F3tSwLzwgdSwNJl2D13BOhcQV5+5c/Mqo93aIm0jcKiHxecCnVX1LsZlhe+rx2rGVMPGgrpwVev3kocszZrk6gE42DisAmKwQtD63CuBHJ1p30vIoqhLE/0lhrKpx4v5oaqf0aVbQ1Q2TDGpmS1Wl/6gYQV6e946fv8p0jMSQG7JTPo9mabL4lprk7fSorswQpAnHfpZhAkxKihjQ5E4Y01Su3CFEMtoNE8pXNSQjd3TkUCHR0JIUIndWh5X4HUwd88Ct5VVO8DBasRJx8rwwHT/IYneS5kfzbjpvW6xmP1G3elTA1ng=;4FBTLrsfC0msu5Nd8F8h+g=="
+secured: "zjCHC8QbQ7wVVe/hpGI+4ghUKClIkw8i9g1p46OjOZziKHKDK3VRuQfHG0uuFsUs1xDHkLwDhP6YzebuXSG9rKTFm7N1uPV5zTpoW9e1zvILCA7v/d1Ghvk6U7oZHUUAYWxDktX6oMHWZS2BWx+AaNn9jMX06/4WuisE9YBQM315UIy+o4UuBntIkHcRMftQj3KfH8gTBTdhuxuH1GvS8IQ4CCkzY3fpGo7JGE+4gjzN9xEwoNPenGuAMnov3Y8qc94Wel/1GqqobgjWfVP7Kt/N/EnzVjbo+BAXLPq+BIcOD1IADwr/P2NCD0hVii+TLWfYKVgvM0aGmLOU/Y6wnJENeeCW+i1K8d2D/Ater/p+SYFmoG6Ei3lAX52peSRJqgBzTqhGWz/jgqCMjJh/9NhmT9RK8rnJ9GxHwG430ESqh2b548IbFDkq3KfZ/t7NUk/k5snu3lGKwPkmL7QG/UpV+QBQNM76tJpFHm/8j/ZVaIL1Ud8gqZJEzpQeEC8fR8UCrTqGJKlMDm87bjvngA==;OfbNJZOQWNf4bXauC/8kMw=="
 ---
 

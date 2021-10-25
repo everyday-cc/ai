@@ -95,6 +95,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "NATO releases its first strategy for Artificial Intelligence"
+    excerpt: "NATO Defence Ministers released the first-ever strategy for Artificial Intelligence (AI) that encourages the use of AI in a responsible manner. Artificial Intelligence (AI) is changing the global defence and security environment,"
+    publishedDateTime: 2021-10-25T18:51:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/nato-releases/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 37
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/10/NATO-releases-its-first-strategy-for-Artificial-Intelligence.jpg"
+        width: 530
+        height: 400
+        isCached: true
   - title: "NATO releases first-ever strategy for Artificial Intelligence"
     excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
     publishedDateTime: 2021-10-22T12:32:00Z

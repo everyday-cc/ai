@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-exp
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1024
         height: 654
         isCached: true
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 0
 
 secured: "JmbX6zO3Z7tduP+/gHkOB1l30OcAEINw8RNyOi3CAn1EQuvVqO35qRz8cYixEzgoe/VezPwSKB0qv3tbSdG+TYkDRHxR5F0yAPTiILKHNLt8GQ5iULp3pSyXUAq8Wwkcs0xg2GRJK9NuoBdcL9iSGSGTTrYvlgWk31B//ZjZDHO9vVt69iD2mrm91W4SDXX2iSA2W0g3Lys8a0NQOXe/e6qX3iDHkoT/ps5F+dFALvXkxCHytyhrLOoaX/jWFXLSlPYd+eXY/edpDqafm2yddvDgr7mKso/JthdwE8J1HaLbooB8mZOFdNFUF6zUKvRvUjWTBq8shxscBMYkPqC4TZ/HOZ4NO7ovr0EU3xl6jig=;oH5gggj+3Ih9W4hn5Dg0MA=="
 ---

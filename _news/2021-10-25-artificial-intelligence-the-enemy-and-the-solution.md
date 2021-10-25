@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/cyber-security/artificial-intelligence-t
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bias in AI – The Problems and Solutions"
-    excerpt: "Some praise artificial intelligence (AI) as a solution to some of humankind’s toughest problems and those who demonize technology as an existential threat. As you can see, AI has both exciting opportunities and challenges to address,"
-    publishedDateTime: 2021-10-22T15:18:00Z
-    webUrl: "https://techbullion.com/bias-in-ai-the-problems-and-solutions/"
-    ampWebUrl: "https://techbullion.com/bias-in-ai-the-problems-and-solutions/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/bias-in-ai-the-problems-and-solutions/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/laptop-6332544_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI: what, why, where and how"
     excerpt: "Channel companies can benefit from following the below guidelines to respond to the inevitable phrase, “We use AI.” Using this “what, why, where, when, how” sequence can facilitate conversations with your software vendors and consultants."
     publishedDateTime: 2021-10-25T16:09:00Z

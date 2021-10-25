@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon’s self-driving cars are coming to downtown Seattle. Safety advocates are not pleased."
-    excerpt: "Zoox plans to test-drive as many as four Toyota Highlander SUVs retrofitted with the company’s autonomous-driving technology and sensors in Seattle’s Belltown, South Lake Union and downtown neighborhoods."
-    publishedDateTime: 2021-10-21T04:39:00Z
-    webUrl: "https://www.adn.com/nation-world/2021/10/20/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 0
 
 secured: "Pe6mJBavDfRHV1svCo/s2t/Svuv6B43512pjomkjEN5m2ngUAep7PSR+WY7eOVhplwyH8sbbxI1eur1hBi/SUy/hW76Wud6Pkjyvm8yXUaO8yh6+OZCKNsXXkDt3DgaP4F/QEcLD42VzC/u95pUPG58PnaKD3UEZR4PihjqgxnWrk1NEWk7aipee/u6D1whaF+8na3WQFBaRAP3L/0ma6AhNohfMz9DmqyluWgOOdSWihfiMQMYnm10iZEfh2PnkbyCAPWxwgwSADbtkNk5OMfwmoQfWjfkMsigontVNZ0gOy8u0sM1zNIKPWX68LcOAFtZPQ6GyEQoHwMcpde2iM1S1dKZArnoMWPZZxHUGXGY=;49kIskNxuYuYPxJEzu3ypw=="
 ---

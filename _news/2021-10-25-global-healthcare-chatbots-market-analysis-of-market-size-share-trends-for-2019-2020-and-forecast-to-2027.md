@@ -21,35 +21,49 @@ topics:
   - AI
 
 related:
-  - title: "Self Driving Cars and Trucks Market Global Demand and Competitive Analysis between Top Players 2021-2030"
-    excerpt: "The Global Self Driving Cars and Trucks Market size is estimated to be USD 0 90 Billion in 2019 and is predicted to reach USD 2 64 Billion by 2030 with a CAGR of 10 2 from 2020 2030 Self"
-    publishedDateTime: 2021-10-25T02:46:00Z
-    webUrl: "https://www.openpr.com/news/2439196/self-driving-cars-and-trucks-market-global-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2439196/self-driving-cars-and-trucks-market-global-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439196/self-driving-cars-and-trucks-market-global-demand"
+  - title: "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications."
+    publishedDateTime: 2021-10-25T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25645592_g.jpg"
-        width: 800
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deep Learning Software Market Competitive Insights and Precise Outlook 2021 – Adapteva, Inc., Advanced Micro Devices Inc"
-    excerpt: "The Global Deep Learning Software Market size is estimated to be USD 5 98 billion in 2019 and is predicted to reach USD 268 08 billion by 2030 with a CAGR of 41 3 from 2020 2030 Deep Learning Software"
-    publishedDateTime: 2021-10-25T03:33:00Z
-    webUrl: "https://www.openpr.com/news/2439220/deep-learning-software-market-competitive-insights-and-precise"
-    ampWebUrl: "https://www.openpr.com/amp/2439220/deep-learning-software-market-competitive-insights-and-precise"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439220/deep-learning-software-market-competitive-insights-and-precise"
+  - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
+    excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
+    publishedDateTime: 2021-10-25T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
+    ampWebUrl: "https://www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 34
+    quality: 49
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25251257_g.jpg"
+      - url: "https://cdn.openpr.com/U/a/Ua25321359_g.jpg"
+        width: 643
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-10-22T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2437580/artificial-intelligence-system-market-size-by-analysing"
+    ampWebUrl: "https://www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua22380115_g.jpg"
         width: 800
         height: 444
         isCached: true

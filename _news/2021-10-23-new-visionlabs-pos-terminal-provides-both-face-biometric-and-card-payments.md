@@ -55,15 +55,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "VisionLabs unveils facial recognition payment terminal"
-    excerpt: "Facial recognition company VisionLabs has unveiled a payments terminal that lets shoppers make payments with a look."
-    publishedDateTime: 2021-10-21T04:59:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39056/visionlabs-unveils-facial-recognition-payment-terminal"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Phonexia showcases upgrades to voice biometrics, speech recognition"
     excerpt: "Phonexia's R&D teams have unveiled the company’s efforts in the field of voice biometrics and speech analysis over the last six months."
     publishedDateTime: 2021-10-21T19:01:00Z
@@ -73,6 +64,20 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
+  - title: "European Parliament Calls for Bans on AI-based Biometric Recognition in Public Spaces, Predictive Policing, and Social Scoring"
+    excerpt: "Privacy News Online reported on an important set of proposals from the European Commission to regulate the use of artificial intelligence biometric recognition"
+    publishedDateTime: 2021-10-25T09:17:00Z
+    webUrl: "https://www.privateinternetaccess.com/blog/european-parliament-calls-for-bans-on-ai-based-biometric-recognition-in-public-spaces-predictive-policing-and-social-scoring/"
+    type: article
+    provider:
+      name: Private Internet Access
+      domain: privateinternetaccess.com
+    quality: 11
+    images:
+      - url: "https://www.privateinternetaccess.com/blog/wp-content/uploads/2021/10/2560px-Debate_European_Parliament_Copyright_in_the_digital_Single_Market.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "authID.ai Challenges the Industry to Replace One-Time Passwords with Facial Biometric Authentication Solution"
     excerpt: "Following its mission to eliminate one-time passwords and account fraud, identity authentication as-a-service provider authID.ai [Nasdaq: AUID] (formerly Ipsidy), today announced its biometric authentication solution,"
     publishedDateTime: 2021-10-25T12:07:00Z

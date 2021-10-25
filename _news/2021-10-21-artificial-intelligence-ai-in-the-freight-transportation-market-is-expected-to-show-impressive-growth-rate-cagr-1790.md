@@ -103,15 +103,6 @@ related:
         width: 1920
         height: 664
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market Next Big Thing : Major Giants IBM, Autodesk, SAP"
-    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Construction Report 2021” offered by HTF MI provides a comprehensive investigatio"
-    publishedDateTime: 2021-10-21T04:40:00Z
-    webUrl: "https://menafn.com/1103010778/Artificial-Intelligence-AI-in-Construction-Market-Next-Big-Thing-Major-Giants-IBM-Autodesk-SAP"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
 
 secured: "y8WmRE04voR47cqrMtSsX1RWBA6JNmuB402KRzIzKnfNqji7TvPBpkOlJ5i3oUILhygZbc/Hz47J5JFXTDw3Db8YZBxo8nhQOL5HhxQb9TH8bEhnsGsase/2tx7Uo2qiM0QJI6T5XaCvUBjUKGUbCtCsCiyS9pUTqzTZJ5jKOyVGeWHVzyeQYSoSsaKBUadYD6git+zkPsc5nLs/6U5PYIWhyrV//C2dYM95d5wWMxrw83pj50vkWPqgqn3McFI9eB0H1HgyfhN5FJAeWoTmhsXyEGKYAzFG+acGxZhbJtyjCmjUmwq2j9BdjRFxUpAy5e9bpAO87h4OrzqWG7CrIWzWu7vdmP4MGULVpmhGvBk=;ScLoyBX+N7vzUU1GNWU4FQ=="
 ---

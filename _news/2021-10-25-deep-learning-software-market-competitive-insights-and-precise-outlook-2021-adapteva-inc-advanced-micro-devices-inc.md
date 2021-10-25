@@ -43,17 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
-    excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
-    publishedDateTime: 2021-10-25T07:17:00Z
-    webUrl: "https://www.openpr.com/news/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "Mfl6028ihXhGoCyMW4qYsw+/sm71h7OBILV5UBM5s/nPTMzs6C/goKaKkZBwtJqFxpAQg7TxKrX0keMarj6NwPqzllE8h/0BWZm7Gsx75k+NELWm1JEUsU+i+vVeP3KvUWNYCzxfC477JFBMk3OqU55gG60yuEzjcJclmuMtiYhJluVuMaWpQwTXSffNNLYMYW5C6mIJ+1ujx22yFAczCybamEf5McL72DpL4S8kdOVDtw7emz6N6F01Mc8fLqFEeXoDNrtnRpxDdshsVU/gWWF3qHQWZVfBkJEgQI8WwgxYSfurG7ZyuNNQtkfV3UqZAxPJsIMD44T6Z0Tv/OXIQncZVx1tiwVkUw1skcZvCOBlMwFsOfqiJt6zNdpjOnDCXdGFlzfMYALdpTYNcqJAoQ6XeBzo8RjCh0X2+hkPvrD8zG6mkFG50cYZUM3lIZYxdNqPkmFLvIeemVs+6uGqLsYALSYfvxwKAqRl9R2dCYONXSC3ahOWp4KNbYFBnHw++95xUXcbvJ7CsOLdnBvlAQ==;LR8wTiiRPnmWbrmaGY/Urw=="
 ---

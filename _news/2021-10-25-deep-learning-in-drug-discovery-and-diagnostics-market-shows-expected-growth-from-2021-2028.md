@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-a
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,49 @@ images:
     width: 643
     height: 400
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications."
+    publishedDateTime: 2021-10-25T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-10-22T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2437580/artificial-intelligence-system-market-size-by-analysing"
+    ampWebUrl: "https://www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua22380115_g.jpg"
+        width: 800
+        height: 444
+        isCached: true
+  - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
+    excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
+    publishedDateTime: 2021-10-25T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "iOSg0/M+OvFlCLrbVEmwe2ldqc8CnJcKaa/30y7gOCLYQX0ymW8oKXO1sGVnowh9Hp1UhGurm08DDvdjqxKfQwUV/RMghSnUjra0HUsk6LWYrazbCoA6wV9IfVMjWGZ3446Dwmh15rJFPReGxgrCR4GoMDexduMn0gPbbmUpbhbHJl2be2br1P3JsigfPWoa3SehrCbBdOYkn6pY073L8nsTsdRZz0w4WEq/BTX6UegsKP36+jPE9uKLkJiZilOg+pi0jdr2u2PDozHjYxvRyiA3khHwaPtYJ05ICrw4fbnETnKOkdBr/wEgpJlq1BI9lhwHYzY5ZKV78qy/eqqJ6CFbZ+eCG2StkwsT7fMVqL1/UHaw+ZT6UdJU9XyhhyhBYlcYi8preHE/cCqPCVdnVJSWfLQN83WoOY1yAeql4Qa3HgBOHNLQnYjw1+YA/kE5n7WPOVhc/3vSlwcv5vR1aA10VnVPime9MNAzHjoob4QRXzAnEXCVVj8Aajc2Tkqq4MTG+F1ojUxNLW7jGBU3GQ==;guyk1AEBU1oEXVSwgVqGew=="
 ---

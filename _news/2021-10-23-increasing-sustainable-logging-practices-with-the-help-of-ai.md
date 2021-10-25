@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/23/increasing-sustainable-logging-practices-with-the-help-of-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/10/pic-2-2.png"
         width: 322
         height: 356
+        isCached: true
+  - title: "Building Better Startups With Responsible AI"
+    excerpt: "Metaverse and IRL. As very often the case in the past months, this week I am featuring a piece on the metaverse again."
+    publishedDateTime: 2021-10-24T10:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/metaverse-irl-big-tech-its-water-addiction-our-way-ai-portincaso"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHWOEycGxvezQ/article-cover_image-shrink_720_1280/0/1635070052445?e=1640822400&v=beta&t=mMQtxILCIvLvVdOr8XVSNHiCUhCxht8M2LeUREv1_B8"
+        width: 1280
+        height: 672
         isCached: true
   - title: "Unlocking the Value of AI in Business Applications with ModelOps"
     excerpt: "AI is fast becoming critical to business and IT applications and operations. Organizations have been investing in artificial intelligence capabilities for years to stay competitive, are hiring the bes"

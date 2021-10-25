@@ -3,8 +3,8 @@ category: news
 title: "Arturo Joins the AWS Partner Network"
 excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services ( News - Alert) (AWS) Partner Network (APN)."
 publishedDateTime: 2021-10-25T14:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/10/25/9476499.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/10/25/9476499.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-arturo-joins-aws-partner-network-/2021/10/25/9476499.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-arturo-joins-aws-partner-network-/2021/10/25/9476499.htm"
 type: article
 quality: 19
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 512
         isCached: true
 
-secured: "eC7xlteY+kLq/psjnijK1wfSlNL4cCqdOCdYUKHrrksdWmBziMed/EqIrcIux8WQCB/q6bS7eoaxqTBtsHSSQcVXQPTl+e5obkLZixbLuZfLGD/eJX//ntyjGtLvgRMI5QpOn8nbGmbi0NXIVLFRKT0+wvaovaNOCExPgYnReEH0R2ODXQZJC5yRwkRtrubMBOEWAks6Jv8fjsx5GtuuBbtm/N3RlohEc0Ny/ft5lWAMNGrHxRw9lQ8VA/fH24vcEht9JupfemMMJBqCT3wF4qlEEnUy6DHTxW4aNAgnqLLIEpRYq6PfQ7SW2HSMcpWOaktSD//e54ZQrXoPrUhIFhmmZABIvYP2//mYFl0e1qE=;RHjEbxdYlZM/iVHBETkmQw=="
+secured: "jV0ZyC0F+0jZJxK0CTrJ9XZQJnt4usu31mMcEMCKvWywUy1GmLoa43GFq+RCj3MUUVt4qDCNm4Q/m1AStaJBoE2l4c/MbbH6pxIZJPcWPQ8rMq3KzFeOGMd3Kg20Vec0kifToji83OsBWU8tSdEFGIkoFNNpq+Fv5oU73+YgrRx6LgBupLDohVgAcIoGOyoS57CpEp0Mmuw6JRLsVGCvjneNzgfAZZgsiB4voHtPGUwLpMjFbWPiu2qT7xKuyXc02ghpKTm7tw7x0GqcSAID2gDObdNTR0oiAd3F38gz/XOALyiH2NarGFld5s5H4LxsvLh0XddaHShuYdkl32rKjaEOHEi2ZXFyIPLbRb091XA=;yyfiQzg6KSvcjhx6loYBmg=="
 ---
 

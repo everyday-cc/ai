@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla pulls latest Full Self-Driving beta less than a day after release"
+    excerpt: "Tesla boss Elon Musk said on Sunday the automaker had pulled the latest version of its Full Self-Driving feature after discovering a number of issues with it."
+    publishedDateTime: 2021-10-25T11:40:00Z
+    webUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/tesla-fsd-demo.jpg"
+        width: 1135
+        height: 682
+        isCached: true
   - title: "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start"
     excerpt: "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,"
     publishedDateTime: 2021-10-25T13:25:00Z
@@ -107,6 +123,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
+    excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
+    publishedDateTime: 2021-10-25T20:42:00Z
+    webUrl: "https://arstechnica.com/cars/2021/10/tesla-pulls-full-self-driving-update-after-sudden-braking-spooks-drivers/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2018/06/GettyImages-910881692-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Tesla rolls out updated version of its Full Self-Driving system AGAIN after roll back due to issues"
     excerpt: "Tesla rolled out version 10.3 of its Full Self-Driving software Saturday evening, but within hours, CEO Elon Musk tweeted that issues were discovered and cars were put back to 10.2."
     publishedDateTime: 2021-10-25T13:44:00Z
@@ -155,6 +185,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
+    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc’s decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
+    publishedDateTime: 2021-10-25T17:35:00Z
+    webUrl: "https://www.metro.us/u-s-ntsb-head-criticizes/"
+    ampWebUrl: "https://www.metro.us/u-s-ntsb-head-criticizes/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-ntsb-head-criticizes/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH9O0HW-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Tesla Setback: Elon Musk Rolls Back Full Self-Driving Software Over False Warnings"
     excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls FSD."
     publishedDateTime: 2021-10-25T04:33:00Z
@@ -185,6 +231,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tech Bytes: Apple Macbook Pro shipping delays, Tesla self-driving issues, Clubhouse pinned links"
+    excerpt: "Apple is warning of delays when it comes to their new laptops, Tesla is pulling new software due to issues and Clubhouse is allowing users to pin links to the top of their audio rooms."
+    publishedDateTime: 2021-10-25T10:48:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-macbook-pro-shipping-delays-tesla-self-driving-issues-clubhouse-pinned-links/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 46
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2021/01/Tech-Bytes-e1633100029356.jpg?w=1280"
+        width: 1001
+        height: 563
+        isCached: true
   - title: "Tesla's self-driving cars a step toward a future without auto insurance"
     excerpt: "The phrase “asleep at the wheel” could soon lose all meaning as Tesla and other automakers push self-driving cars closer to reality. CEO Elon Musk has said select Tesla drivers could get their hands on “full self-driving” software as early as October of this year."
     publishedDateTime: 2021-10-22T13:06:00Z
@@ -213,20 +275,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
-    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla (NASDAQ: TSLA) Inc's decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-    publishedDateTime: 2021-10-25T17:42:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/tesla-submits-partial-response-in-us-auto-safety-probe--memo-2654161"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEE310MM_L.jpg"
-        width: 800
-        height: 582
-        isCached: true
   - title: "Tesla halts Full Self-Driving beta 10.3 rollout, Elon Musk says they’re ‘seeing some issues’"
     excerpt: "A new version of Teslas Full Self-Driving (FSD) beta build was released over the weekend. However, the company later pulled out beta version 10.3 as CEO Elon Musk said the update was spotted with some issues."
     publishedDateTime: 2021-10-25T06:48:00Z
@@ -241,15 +289,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "DLC - a story about betting and self-driving robots"
-    excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
-    publishedDateTime: 2021-10-21T15:19:00Z
-    webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 4
 
 secured: "kzM5WBBx3XIAexA7EmLpW8kLoQrKAvC8F8qKHlT7FaV+bAkylUhtX6Zu34fi7eYQ7bge4k1hjG2qJ1tX12drlC0Sd1XDvMtIAOplGnl839PFVigZshvxocDPGnkMNaiRFdebNwH7iKDfLotwBJMHgvQrjTUOEQpuLqtWOwtApsqYFTWod8qFJyEzOHp59vixGLSbkfhf/oGk0j0SLzva46kLcGOmVewR2IR53Sa6UoXZInd5KZ/tUFYNHn8C1uEdXt+24UazSADqf1pA/CYBKgImwwc9d7hevkhRrDtuc1esFN2pobtP6oqC0fjUp9alDHxRjJhSYJflucHGnuzednjChUouY3LDEDJ3YzAtB26rIofblW9c+yy/d+7VRA75a45/FfDSXhAlWtl227ZF6NDM32kNN9FjDL6qegWepOWnLKUxoLq2hLtgKNMSio2Nikn9hGJmiilqIZ58pb0Aspk8pPtOgJSQpe2d4kbhHy8ny0rptisYJR90/2ijiotLIor13/59K3tQ4EGtEuA9og==;o0/TJPNhv/pEaqYENF2waw=="
 ---

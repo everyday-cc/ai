@@ -24,39 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "What automation, AI, AR, robotics mean for the future of work in mining"
-    excerpt: "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing"
-    publishedDateTime: 2021-10-24T21:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
+  - title: "Utilizing AI to improve mass transit"
+    excerpt: "AI's capacity for data analysis has the potential to not only improve the current mass transit system, but reimagine it altogether."
+    publishedDateTime: 2021-10-25T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/"
+    ampWebUrl: "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-  - title: "How Bajaj General Insurance leveraged automation, AI and ML for automating key processes"
-    excerpt: "Insurance provider Bajaj Allianz General Insurance Co. Ltd. has developed a mobile phone Application that aids in digital pre-insurance medical checku.."
-    publishedDateTime: 2021-10-25T03:38:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-bajaj-general-insurance-leveraged-automation-ai-and-ml-for-automating-key-processes/87248376"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 45
-  - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
-    excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
-    publishedDateTime: 2021-10-25T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-the-transportation-and-logistics-market-to-reach-us6-5-billion-by-2025/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/124019.png"
-        width: 512
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/avs-and-society-e1572293868810.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence project aims to improve standards and development of AI systems"
+    excerpt: "A new project has been launched in partnership with the University of Birmingham aiming to address racial and ethical health inequalities using artificial intelligence."
+    publishedDateTime: 2021-10-22T09:59:00Z
+    webUrl: "https://www.birmingham.ac.uk/university/colleges/mds/news/2021/10/artificial-intelligence-project-standards-research.aspx"
+    type: article
+    provider:
+      name: birmingham.ac.uk
+      domain: birmingham.ac.uk
+    quality: 46
+    images:
+      - url: "https://www.birmingham.ac.uk/images/news/artificial-intelligence-900.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "FjpNHrzePrsf7iK6rD/gGSYp/3UzBc1BcZCep5GEjUbwg/CS0P21h9aSPaytmIxYgxAq+JHhEtgTlReUfOubcH/JQgw3eguAPI8SWVvOghAuF8sXXwPT/oPgBzxxPK3c/Cw6Yn1u6UxanVDGJEdiEq3MBRAyYDxhI2sYUp2XJ8xduWrfNERgmXpEW8TuuT1R4c7lZbh7+XyuQze/n5MG0zEFRJzT7C/XLRUWO3mkg0AkfZC9EbVNWWukWf2Hpd8EOCSikIl7/xaekYNTjNMYD4tLVLFg/7yfVdAsFbQQDAw6gKAv0h5Pmq/Nk0+jgpMsolbjo54AB3nZuxstQBpCmARHTHag4YKr67yBqGNLVcA=;PBtUvIThqXVTB8enyq5Zag=="

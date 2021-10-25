@@ -24,21 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Introduce robotics, AI in curriculum"
-    excerpt: "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent."
-    publishedDateTime: 2021-10-25T09:47:00Z
-    webUrl: "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214"
-    ampWebUrl: "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp"
-    cdnAmpWebUrl: "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp"
+  - title: "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches"
+    excerpt: "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data."
+    publishedDateTime: 2021-10-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/"
+    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
     type: article
     provider:
-      name: Daily Monitor
-      domain: monitor.co.ug
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg"
-        width: 600
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg"
+        width: 1200
+        height: 794
+        isCached: true
+  - title: "How AI and security guards work together using video analytics"
+    excerpt: "How AI and humans can work together is a longstanding debate. As society progresses technologically, there’s always the worry of robots taking over jobs. Self-checkout tills, automated"
+    publishedDateTime: 2021-10-25T10:59:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 74
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "Evolution of Voice AI"
+    excerpt: "Evolution of Voice AI The progression of technology in the field of Voice AI has been exceptional! Read more to know about the current state 18312660"
+    publishedDateTime: 2021-10-25T17:01:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
+    type: article
+    provider:
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 57
+    images:
+      - url: "https://elclasificado.com/photos/0b/a3/0ba3d9b18f7b447881fdf64234a84156/l.jpg?image=0"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "8pyRlNBijlbGzUanFjYZjDUdi+MLde5reTlhO2xKYZb+kWzcNpwJc54fbblW80eOrG60/NqJuNoesjiVB09QoT+iwhEYU2qJ9oYXRHzUSmQy1phd84iYcjVIxvxPA9cBaAc7AFXBQtqMTrF8KdlEwd/DEP64hpI2NybbBLwCHDBQwEzbCcEfzNdwZtjrblvGiqtHENAmnEjhQtdsNdZ4B5huIMSMvsMxtKI8dF89VFfcJIJQxlOxdhThBhnKW2IU5m2F+oZisACeEFn/imVnSrTFevi6QJ5s3gLpkHxo+6fYBphcy/nVTfV6YNZKj0QR/fqWmEDIGao10v7O8H2axpA7mz2g8ljw4rOmkt5Wa1yWMz5qIV4pSlTbq47Kd2DMDFpSOhvxDT0L4EihCAi7ghygJYqz25kg0g4ZmZu1Fl3p8RY6LiDTxHE1ERX9fm9RoC2E/v4NRZ9GC35R/aj7kT+PfRyyFlzoPGxPcOex3BS3v1CTVTubOQmr+E2RQWAcGsq61fBGc6wIrlPthSA+qw==;UumkgyrRxGlbM9O8QIPJpA=="

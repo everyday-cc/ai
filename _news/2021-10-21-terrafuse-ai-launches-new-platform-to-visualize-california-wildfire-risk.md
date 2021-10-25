@@ -3,16 +3,16 @@ category: news
 title: "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk"
 excerpt: "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI."
 publishedDateTime: 2021-10-21T10:08:00Z
-originalUrl: "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
-webUrl: "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+originalUrl: "https://www.kmvt.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
+webUrl: "https://www.kmvt.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: KOTA TV
-  domain: kotatv.com
+  name: KMVT
+  domain: kmvt.com
 
 topics:
   - Microsoft AI
@@ -34,6 +34,6 @@ related:
         height: 482
         isCached: true
 
-secured: "P14oioUlCnHJLwkvjvnAymT8FVGp7jbUwByEISQZsiOcQ3SKZRdk/yjC17Gw1Q4RXVBaqTkKkDyLc5J2TI75kJXCfJeA3rS/SkySRedLLv+wkp8o717iDm5Avsj5VqGmYVBVGzHRvf6AUi0Cy2oEccETcVlEUGW7LW/fJzTPxaJ6UNZUDuVQLlP0Yj8pbY9edL7SYCWHIfGHBzsDvqLY8QG6aLkSS6gzJV6gjdAasVtQsuFfpTpUr60FrdUfNpCMXlTa/nGepYqoube2uG2EfKu1z+fvrhQWO8iygJ08yCSydgAn/xY1j5Yx3G+/9q0rZrUnLPWrJXNUkBQxDWWGLbaYwFc8qbnJzP01UGAQYVe5TgmPPJm6gZi4w8g9hAhLUfRI4p/jZhkMLG8GS1ZTIkNbyk+uMzNqomVqLBhREbgnthEKA8rS9iN1VsBkY0ETk/UjQl5F4IcKgj+jLoOd+4/Y5cjhJ3JSu8N5dTAlvTXhdjJGtNFkxTvcKxZvGDRD4lbaZrdrI6Nlm1TmQ/MrWQ==;af6O+AsJNjGCMfmrxW1B9w=="
+secured: "70Ipf91nA466Lwze4e2hnvy/sN7Byq7fqA6yHAxEU5JDCIKo5tQjbax+tFcVdCAv+qdzquSXfRboFgxwjz3wg1Efg0Eeefza3vwlRdEz7yVD67AFYVJyvXxkeoiCggJ38C5UvJBYQ05bjMfNulAnj4ColbvVbF0Wp2605669XsyARS7hZ9w/VKi72EIliFu1mxBNSD6DlZHbsKugMFfTu/8j4nBnkTOQJ0k+PDgSpYBydAl9CrrzQLIAnkOZGsQL4erkBOgFWexHOenTmoORcOK6zjMfY1AcA177myDYN2roQ7//4g3SXt27SSVVP4CRPk4sVe0e6dqwJ2IGv/GS16i1lZ7Wodx7v3/9oeCJb4UQLgLs844u3GS/El/xPmTbAl8hmeh7uTS/oySZ8LkL2ppGikkegD7u5x0n6T9W2r8TVSVLQjLz5aajgYUywlptHqDCKnnFmv6fV2mcsYCuBmdpZMjhOqXpGJAsaqOri6zzqV7GbzB5+d4OiWfCij5GgpyMFFmAcE1hLdUq+dneIQ==;TRI552PLSIUw202Kxoeh6A=="
 ---
 

@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Vonage Adds Conversational Commerce with Acquisition of Jumper.ai"
-    excerpt: "This purchase adds to Vonage’s acquisition of conversational AI startup, Over.ai it made in August of 2019. Vonage entered the cloud API market when it acquired Nexmo in 2016. It has been a leader and visionary in recognizing the future of cloud ..."
-    publishedDateTime: 2021-10-25T14:55:00Z
-    webUrl: "https://www.eweek.com/networking/vonage-adds-conversational-commerce-with-acquisition-of-jumper-ai/"
+  - title: "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches"
+    excerpt: "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data."
+    publishedDateTime: 2021-10-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/"
+    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/wires-technology.jpg"
-        width: 1920
-        height: 1277
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg"
+        width: 1200
+        height: 794
+        isCached: true
+  - title: "How AI and security guards work together using video analytics"
+    excerpt: "How AI and humans can work together is a longstanding debate. As society progresses technologically, there’s always the worry of robots taking over jobs. Self-checkout tills, automated"
+    publishedDateTime: 2021-10-25T10:59:00Z
+    webUrl: "https://www.sourcesecurity.com/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 74
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/artificial-intelligence-and-machine-learning-offer-actionable-risk-intelligence-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
+  - title: "Zesty.ai Introduces Predictive Wildfire Risk Analytics Solution"
+    excerpt: "American property insurance and climate risk analytics startup Zesty.ai has unveiled a predictive wildfire risk analytics solution, Z-FIRE a data-driven model powered by AI and comprehensive fire science."
+    publishedDateTime: 2021-10-25T10:25:00Z
+    webUrl: "https://www.just-auto.com/research-reports/zesty-ai-introduces-predictive-wildfire-risk-analytics-solution/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
+        width: 500
+        height: 334
         isCached: true
 
-secured: "DVecoJyywV67ry1aPug/3E5+Ab2vi/MPRp+Dc7OmEUkd8WSCVJoCjytm0RpUV9ZhluFJ6EAD00u1WHN34UZXgg7In71WSwb0qmGizEFqwb7r7ySk2bCvtrgqx2PLR+8PwlFguWidpt1CM8MbQiq7YGiLK0GXKNGwbkUW413PQMmjXnTn6tdbZuAMP9UmLzTmtB/XHIrxUpGd1mdwyOdW8/fpK1h4Z9GWPS0ose/RR2zWFKhYnMXsXJII4fQ5kLCHkQ3kYpizUtGjQQ6LySdp1jHgjLNIWkg+tcDqBvSi6Q+ClKJC70cMnl3cxXcd5vUjH/uqxCqEnUpRniaEvn5Alr5tY1jQ6aB3fYBDmpEYrR0=;A/BA6/HBPDkpeoGPmVZqpg=="
+secured: "7YCsjThKH+qzKCJciktU9q9pLdt55z5kuho9H8++LhwnmoTfUnT+tvIXtuBHc/WXcc7VZv7ndqJyONiqgSeegBGjmsZg0yvg5yJyDYdwuOy+Sa+doJbJhPu+SbvkseVQwvQLUZDVwx8w09sSpXHM9s6QVvjO7MYZnaHtopzPx48eF1hk+k/pNHwoL41nmQIQXTpLm/JH1sikt1TSpcnDZ9uTdR9feIYJVkmjayrABeHtS2E14Z/Rk2JgGBfilndTECiCOkS8tcq8I10IYaGR3rmCnIn/h/H9EpcH7shSKzca56ozdt1uawE2lLWITXRvsjijrF9SMNkOdJ5UheBU//q7UDnSUtdoi7SGWI/3RvffpMP7Dw0abMU01IYZIxFRSFNUm/eCQ8uesB4zCMPpJ8cnSdemXxdsT/+F0WNLRBQBWAm6KmMd70QuUCFAp3ewUhXf6++HZcrdWqMaU1k1cQuvc6tY94C0KUKDuQuawStyqmY7+vuJIuEravJz90fKqxhsCqL1I5HlVg9LaVZ8yg==;L3PrJM/fQGlU+J7AifDu4A=="
 ---
 

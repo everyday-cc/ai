@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/ai-security-guards-work-
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/ai-security-guards-work-video-analytics-co-13009-ga.1635145208.html"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: SourceSecurity
@@ -27,29 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Solidus AI Tech - Bringing AI and Cryptocurrency together via AI TECH"
-    excerpt: "Overview The transformation of finance over the past few years has been profound, as big data, artificial intelligence (AI), and cryptocurrency have merged to create a highly complex industry that continues to rapidly evolve."
-    publishedDateTime: 2021-10-21T17:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/solidus-ai-tech-bringing-cryptocurrency-together-via-kk-digitals"
+  - title: "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches"
+    excerpt: "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data."
+    publishedDateTime: 2021-10-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/"
+    ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGKu5y6Lf_nSw/article-cover_image-shrink_720_1280/0/1634829093808?e=1640822400&v=beta&t=dfWJs3clJbj_5Qfph4QBpZZ76rLm2v6qBdY55WczdW0"
-        width: 1280
-        height: 640
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg"
+        width: 1200
+        height: 794
         isCached: true
-  - title: "AI will start analysing management bull"
-    excerpt: "This will be really funny CEOs and other managers are increasingly under the microscope as some investors use artificial intelligence to learn and analyze their language patterns and tone, opening up a new frontier of opportunities to slip up."
-    publishedDateTime: 2021-10-21T09:53:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/53737-ai-will-start-analysing-management-bull"
+  - title: "Evolution of Voice AI"
+    excerpt: "Evolution of Voice AI The progression of technology in the field of Voice AI has been exceptional! Read more to know about the current state 18312660"
+    publishedDateTime: 2021-10-25T17:01:00Z
+    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660"
+    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
+    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/evolution-of-voice-ai-18312660-amp.html"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 21
+      name: El Clasificado
+      domain: elclasificado.com
+    quality: 57
+    images:
+      - url: "https://elclasificado.com/photos/0b/a3/0ba3d9b18f7b447881fdf64234a84156/l.jpg?image=0"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Zesty.ai Introduces Predictive Wildfire Risk Analytics Solution"
+    excerpt: "American property insurance and climate risk analytics startup Zesty.ai has unveiled a predictive wildfire risk analytics solution, Z-FIRE a data-driven model powered by AI and comprehensive fire science."
+    publishedDateTime: 2021-10-25T10:25:00Z
+    webUrl: "https://www.just-auto.com/research-reports/zesty-ai-introduces-predictive-wildfire-risk-analytics-solution/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "XaaDGJHuClYAc9hfxc5aV1mWl7cpldJO4/4jQ4cEI+B0IbYUz0T8dtGDOhCmdZr1CyLN9SHan742t4z4q2IozeGpBYkaryJbyyCpTX+fVxkG8ZJP+c9ztijeZ3/FPi7cq7u92SgtyeVLKmZD6oi2lFT6rNjWs13lYW2SFa7kkF5U1auSuw8moV2NvL4LYkCUDK/wemK3thZua7q9J35fB+sSjpdFxdJzyaRyAPVu5ZGOYogQPOkKd06oXa6yxhrmz7W1q2Ck//h5aTlg3IwkphwhWYUFqMbF1IH5QUkyyedF9lZd8RKWY2XYBBfK9qK36Je8vIvI1SzIzff5mdeLNTJxI5fyaPorm7eL7Bodl5c=;E8o/O0zOzCyXrlS+4OdRbA=="
 ---

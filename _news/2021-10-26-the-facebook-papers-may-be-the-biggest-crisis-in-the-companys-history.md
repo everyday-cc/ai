@@ -82,6 +82,20 @@ related:
         width: 425
         height: 318
         isCached: true
+  - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
+    excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
+    publishedDateTime: 2021-10-25T21:13:00Z
+    webUrl: "https://www.commondreams.org/views/2021/10/25/media-outlets-flood-zone-news-facebooks-failure"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 39
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-10/facebook_zuckerberg-1.jpg?h=fae7ad3b&itok=Dzqc-MD5"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook the company is losing control of Facebook the product"
     excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
     publishedDateTime: 2021-10-25T15:24:00Z
@@ -111,6 +125,6 @@ related:
         height: 333
         isCached: true
 
-secured: "tsbb0aV0hWkqmMrD40q+ExMXeotxq2qr9y+7FYCoKTFB9aQhUCUf/0bS2BUEXAJFw7+qi8xOj/OtpLKxQioHDVbfpuiIIWgn516/gDl7/JZpD0lTYJosqywYFJEROzo5tsdwj/yhLUwx6Wm4wz7pnjxoo90H8AgsTm/ggpqA2HF6Q6kLL5mED9kM4eZIrKm+hFhR1+DKR3jD9rcJXFppP6u6eoOcAn+sTAa7fVjmOpckToFYzZvll5QIKPrGkdDICKlFPJ4iX2ALlX1aSjcSgNmU/Z8Ya6PyK8BeRCcVsWYPJO9niwWDiCIxzEax3i3d43P5MJEFW4joPOBL2m8ctUZcPb/fPI04dQ7cFW4Xcxk=;HegB8by9lQS7bmfDeOo6dA=="
+secured: "Rk1knBhh0SdGZZKZ6l/AkG3jiZV8JTKioFyrVnhFSaqy7GiTwIv+XV6Zu+K/aHBZDtdxzdQVX27hXQwwMs4g5dIQrL3+u+IwBdk7eGMsf8JlyV8prcPDl9WsZyiHx04GAzSBiVEep9MrtuHqPpNi86ClnyiTa0vr4eanbrWzWuGp1xKTUGhm5a5hMdBWPARMzbUi4pww+4GKrVjWH+62ZLrJk/KP8haY1KULVaYVAt2JSxeMZ7GHq/8Jmno/EVTQHDvbZnj7qNpHDAKSoyAfsnJteqB8vvl0+GTVxUrIqpzuIKR1BZdHMBpDUuU8RSvk35b0rYXN2ELxQ3bzbNQRTNxx6LupNAUpl3QD5PeMCXWe5Q5YVobqeTIGaqECcvU8y/KNNakyCkveflYXvaylBgukO2wCRMFV1Zkf3Rrz9IDxr+mUOHWAuQFUXpGeOHDYZKkacqomKXIx63t8kmZjjQ5wUNw61aR5nQwMMesdpMsgXI8JL2zVAffJESeCZyjaepxDxxj4fmMIET15GnzQ3A==;uYrOrnkV6f2dAspagCZvhg=="
 ---
 

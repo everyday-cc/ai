@@ -89,6 +89,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook's language gaps weaken screening of hate"
+    excerpt: "An examination of files reveals that in some of the world's most volatile regions, terrorist content and hate speech proliferate on Facebook because the company remains short on moderators who speak local languages and understand cultural contexts."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.wdio.com/national/facebook-language-gaps-weaken-screening-of-hate/6280168/"
+    ampWebUrl: "https://amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    cdnAmpWebUrl: "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/facebook-language-gaps-weaken-screening-of-hate-6280168.html"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 44
+    images:
+      - url: "https://www.wdio.com/WDIO_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
     excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
     publishedDateTime: 2021-10-25T15:03:00Z
@@ -140,6 +156,6 @@ related:
         height: 467
         isCached: true
 
-secured: "B0xhHnp+YvyId1M8sv/Ap4sc8RZavw7QJze3UFUvo2Go5D9S87oXHJMSc9xmhE9VGFSwMLs1O5cq5+0f3lQ6rXSEiLiniplbtenZTfn/o2Ng438QMimXO3LomE/xD9x1b1yhlfLm3in21Ij73e2UiW+GsRIfMMcPTP3ddZ2UsBlWxlYUfa45K5Z7ZYFesPWFIuSTzF4BCtVqf+GgwtzNi/hlhZF2OLdMaK6lGvLDQgFMu5DHUdX/39PrNrn9oG8iF5DE++Hy2AsA7rtG8/66tpXBJgTaHEOo78WCicHwH6zxCh0ig1mdXQlwMYXK9uat6fD2wVjN0FZs45yjRJGARqB7CDadw/2vv98j6cYjj5c=;yB6LUa7Lmey7SncgCCkjFw=="
+secured: "Ihl9J+pNtexoQSL46Dq+g9HIVA9lUWX1X/BR3MAcVFawZKuYYtEOUwr/8gSNi1b79mM89QEXI8AF8dZQhFAnlzARa6lTajc0I9k071d7J0pZ2BO0V1D5qDt3i5XiyC41FG73PIS/rGmWJXN9PNStTztcKw0/AxAoZ02O0MJWMQvSUGq+HKuJEcSDlp5HZZPVqJVY2CRwfjZ9IQDDT+eUodErOiN0QUwSmnJuvLNjfTVfwMOFilw2PoXZg3znwjH2/DTWT8D7sb1qPoJcbOh44DxunqRZ7UMbllEJ3UxfUKCBX/vH0rxIEZkyFTjQpkM6zN9EUkDYVF00zH4y6Huy2Trr+bWxlw+UwUwUye7firARmmWPNbHxgDxmap6KX5oKMS8FeTcw4p4TFuTrdx52lca4COkBFUd3FILPA4o+suMxSAlEfySp/zEBTvcsfrYlcszkB+yKzGY+3ZlY1xTFKKPlEPfu27ElSIC+sCQImwaBSnBN7YCg6lT/6EOm/OQIN+ctD+Utm3CwtOlMIWDlDA==;MbXEOeo/BckpGX83/rvKfQ=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Bias in AI – The Problems and Solutions"
-    excerpt: "Some praise artificial intelligence (AI) as a solution to some of humankind’s toughest problems and those who demonize technology as an existential threat. As you can see, AI has both exciting opportunities and challenges to address,"
-    publishedDateTime: 2021-10-22T15:18:00Z
-    webUrl: "https://techbullion.com/bias-in-ai-the-problems-and-solutions/"
-    ampWebUrl: "https://techbullion.com/bias-in-ai-the-problems-and-solutions/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/bias-in-ai-the-problems-and-solutions/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/10/laptop-6332544_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "yorjp7vlRtVUCGcgbClJR2+rYaDZm9VGAyuhBBAqAzRdXs/+hOGpnOMph4OWpMzHtM0zkr2cz32MF7wD99IDQhHg/uimGuViKIOlR72RHAYNa4imQa6f1Rb2mZVGL2rF1BXLZDrRVOPDwmTBZcO70AoYLjccGF26rOzqfNmA31RvGpZN1+ZZRylVqbsEZ/2/V97se2fOSAhqhsBkyjXqJqGhZZnXpL0TpH7xCPoH1E/BvqTr0nvWhlrKRyZstFn4Cn3PtadYEJ3cTIgdy9F91hY/O5TiTYjmLHBAbWjXpNO/bsyhegJwSQBEhM5cAWdzpfbVYlfPNF9KV0CoI7DQHtJXHDp/Giju7XBzNUCIh/E=;Y2+pKM+KmPTLKDaw/AtFeg=="
 ---

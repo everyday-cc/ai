@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF3-AI.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "NATO releases its first strategy for Artificial Intelligence"
+    excerpt: "NATO Defence Ministers released the first-ever strategy for Artificial Intelligence (AI) that encourages the use of AI in a responsible manner. Artificial Intelligence (AI) is changing the global defence and security environment,"
+    publishedDateTime: 2021-10-25T18:51:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/nato-releases/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 37
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2021/10/NATO-releases-its-first-strategy-for-Artificial-Intelligence.jpg"
+        width: 530
+        height: 400
         isCached: true
   - title: "NATO releases first-ever strategy for Artificial Intelligence"
     excerpt: "A summary of the strategy is available here. The strategy outlines how AI can be applied to defence and security in a protected and ethical way. As such, it sets standards of responsible use of AI technologies,"
