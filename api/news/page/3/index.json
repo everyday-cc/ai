@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
+      "title": "Artificial Intelligence: The Enemy and The Solution",
+      "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
+      "originalUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/10/artificial-intelligence-the-enemy-and-the-solution_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/artificial-intelligence-the-enemy-and-the-solution/amp/",
+      "publishedDateTime": "2021-10-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
+      "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
+      "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
+      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
+      "publishedDateTime": "2021-10-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
       "title": "Introduce robotics, AI in curriculum",
       "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
@@ -139,7 +235,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -328,7 +424,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -897,50 +993,6 @@
       ]
     },
     {
-      "path": "_news/2021-10-23-machine-learning-artificial-intelligence-market-future-demands-companies-regional-sales-and-revenue-forecast.md",
-      "title": "Machine Learning Artificial intelligence Market Future Demands, Companies, Regional Sales and Revenue Forecast",
-      "excerpt": "DeepResearchReports has uploaded a latest report on Machine Learning Artificial intelligence Industry from its research database Machine Learning Artificial intelligence Market is segmented by Regions Countries All the key market aspects that influence the Machine Learning Artificial intelligence Market currently",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future",
-      "originalUrl": "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua23644392_g.jpg",
-          "width": 482,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future",
-      "publishedDateTime": "2021-10-23T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-10-23-mercedes-benz-to-upgrade-to-expensive-chips-to-resolve-shortage.md",
       "title": "Mercedes-Benz to upgrade to expensive chips to resolve shortage",
       "excerpt": "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter.",
@@ -1134,58 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
-      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
-      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
-          "width": 622,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-automation--a
 webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 45
+  - title: "The Future of AI Driven Market Research"
+    excerpt: "Over the past few years, the world of market research and surveys has seen the emergence of Artificial Intelligence (AI). AI tools, which are finding their way into almost every industry, hold the potential to change the game entirely."
+    publishedDateTime: 2021-10-26T18:52:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-driven-market-research/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/robot-507811.jpg"
+        width: 4961
+        height: 3508
+        isCached: true
 
 secured: "M3JL4OsltuG8lBbx1xksnSpaGh2wWquVsh4CFqpTadVC3btQFnYUK8wLvriAxB1VKcs7FZvz2ta5KMhAKREhgD2ng0LRdv6h2WDgw1kBXm7RCBCJdwurVIiPd5GpqTODL67rLaduGQcDfuoF3WGcGVfo9FN66IbAzq0I+xi88oXfve/dUXt89EFfP2qT0rdl5oYS/geVaNseW1wcuzEBd0ue3eVZIXlawVLBPKsRWrXwW5ri7tWI7PJjPRxAVmL21Qwq1uwEQQAjL/9QR+zOxzy34go4UkyaWSSlRvJw4CBuczzWXRkZdiwrwZ1YpwUC94VnVLGU5fMIxFLzIlykMyMMLBVD8R3Xo7sJi4EkWQk=;6gUWmMzW48pA2osJqiK1yw=="
 ---

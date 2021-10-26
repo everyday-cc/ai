@@ -247,6 +247,40 @@
       ]
     },
     {
+      "path": "_news/2021-10-19-aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design.md",
+      "title": "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design",
+      "excerpt": "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
+      "originalUrl": "https://www.wowt.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
       "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
       "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
@@ -1327,50 +1361,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-potential-of-artificial-intelligence-to-accelerate-diagnosis-and-drug-discovery-for-covid-19.md",
-      "title": "Potential of artificial intelligence to accelerate diagnosis and drug discovery for COVID-19",
-      "excerpt": "The tests currently used to diagnose COVID-19 are based on real time reverse transcription polymerase chain reaction (RT-PCR), computed tomography medical imaging techniques and immunoassays. It takes 2 days to obtain results from the RT-PCR test and also shortage of test kits creating a requirement for alternate and rapid methods to accurately diagnose COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/articles/12073/",
-      "originalUrl": "https://peerj.com/articles/12073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dfzljdn9uc3pi.cloudfront.net/2021/12073/1/fig-1-1x.jpg",
-          "width": 600,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

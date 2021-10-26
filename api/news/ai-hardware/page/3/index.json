@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu.md",
+      "title": "Artificial intelligence (AI) Chips Market Statistics 2021-Study with COVID-19 Impact | Qualcomm, Adapteva, Intel Corporation, Baidu",
+      "excerpt": "Pune, Maharashtra, India, September 27 2021 (Wiredrelease) Market.biz –:Market.biz added the Most up-to-date research on“Global Artificial intelligence (AI) Chips Market 2021-2026” to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
       "title": "We are sleepwalking into AI-augmented work",
       "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
@@ -1393,50 +1436,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-worldwide-artificial-intelligence-chip-market-size-to-reach-9118-billion-by-2025.md",
-      "title": "Worldwide Artificial Intelligence Chip Market Size to Reach $91.18 Billion by 2025",
-      "excerpt": "Allied Market Research published a research report on the artificial intelligence chip market The findings of the report states that the global market for artificial intelligence chip is expected to reach 91 18 billion by 2025 manifesting a CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "originalUrl": "https://www.openpr.com/news/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U914943029_g.jpg",
-          "width": 790,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2392032/worldwide-artificial-intelligence-chip-market-size-to-reach",
-      "publishedDateTime": "2021-09-14T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

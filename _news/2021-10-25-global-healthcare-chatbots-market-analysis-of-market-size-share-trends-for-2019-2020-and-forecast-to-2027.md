@@ -83,6 +83,38 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Artificial Intelligence In Fashion Retail Market Overview, Global Size, Regional Analysis and Competitor Strategy by Key Companies"
+    excerpt: "The latest report on the Global Artificial Intelligence In Fashion Retail Market published by ResearchMoz has a special section that discusses the impact of COVID19 pandemic on the Artificial Intelligence In Fashion Retail market."
+    publishedDateTime: 2021-10-22T06:39:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fashion-retail-market-overview-global-size-regional-analysis-and-competitor-strategy-by-key-companies/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 42
+    images:
+      - url: "https://i.ibb.co/1b3ycrt/Researchmoz-477.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
+    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
+    publishedDateTime: 2021-10-25T03:16:00Z
+    webUrl: "https://www.openpr.com/news/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
+    ampWebUrl: "https://www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439213/consumer-ai-market-incredible-possibilities-growth-trend"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25103727_g.jpg"
+        width: 401
+        height: 401
+        isCached: true
   - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
     excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
     publishedDateTime: 2021-10-25T23:09:00Z
@@ -110,6 +142,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
+    publishedDateTime: 2021-10-26T05:41:00Z
+    webUrl: "https://menafn.com/1103043696/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
+    publishedDateTime: 2021-10-26T09:42:00Z
+    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
     excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"

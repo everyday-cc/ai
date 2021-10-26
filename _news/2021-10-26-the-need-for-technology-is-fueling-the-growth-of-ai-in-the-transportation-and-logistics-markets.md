@@ -78,7 +78,7 @@ related:
     provider:
       name: medtechintelligence.com
       domain: medtechintelligence.com
-    quality: 37
+    quality: 39
 
 secured: "tgwVpCnkEQJyzuAFwd6W8Kl0iNZXMW0uyvuwVKYesAiXFXJlQzllZyh1UDWP7O2OgqiWqGNAXEQuCaupFMf2V8ftdUB2USgFltFV7lrMz9BklseImzAXwT5DWiWY28aw9LMq5zAlrp7+1jXRsrFSQbCMedE7nhGiBM3SQsH3oVUIf39+jaxxrGQpWtJd63F5n9viXa6I0sy1LwFVIsIcRaFPV5cOHcdn3MBIfBGd05XeFy3XkymryQekETxkdHEuJ7AkEtVyZ1mvvILo0xLGFOXaao1qyUtEIirdBrBo/5ePRUIv71qqTvZAlqoJQ/uzvr2UPvfS2AqzQAKrhPS2qC7soefMSZDZC2o+I09NQFw=;g8PDPpq684qDUNtBjeL7MA=="
 ---

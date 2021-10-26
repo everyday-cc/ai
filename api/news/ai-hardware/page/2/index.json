@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-12-chip-machine-maker-asml-will-grow-into-a-500-billion-business-next-year-tech-investors-predict.md",
+      "title": "Chip machine maker ASML will grow into a $500 billion business next year, tech investors predict",
+      "excerpt": "ASML, a Dutch firm that makes high-tech machines used in semiconductor manufacturing, will see its market value climb from $302 billion to more than $500 billion next year, according to two tech investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106958752-1634039995620-gettyimages-450100976-NETHERLANDS_ASML.jpeg?v=1634040079",
+          "width": 4000,
+          "height": 2693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/12/chip-machine-maker-asml-will-grow-into-a-500-billion-business.html",
+      "publishedDateTime": "2021-10-12T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-global-edge-artificial-intelligence-ai-chip-market-2021-growth-statistics-new-opportunities-competitive-outlook-and-covid-19-analysis-2027.md",
       "title": "Global Edge Artificial Intelligence (AI) Chip Market 2021 Growth Statistics, New Opportunities, Competitive Outlook and COVID-19 Analysis 2027",
       "excerpt": "The most recent market research study on Global Edge Artificial Intelligence (AI) Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 by MarketsandResearch.biz includes some noteworthy developments with accurate market estimates.",
@@ -1319,49 +1371,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu.md",
-      "title": "Artificial intelligence (AI) Chips Market Statistics 2021-Study with COVID-19 Impact | Qualcomm, Adapteva, Intel Corporation, Baidu",
-      "excerpt": "Pune, Maharashtra, India, September 27 2021 (Wiredrelease) Market.biz –:Market.biz added the Most up-to-date research on“Global Artificial intelligence (AI) Chips Market 2021-2026” to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

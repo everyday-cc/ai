@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "By-product of the Great Resignation: People are turning to robots for career support"
+    excerpt: "A new report from Oracle and Workplace Intelligence finds that workers trust robots to make “unbiased” job recommendations."
+    publishedDateTime: 2021-10-26T15:51:00Z
+    webUrl: "https://www.fastcompany.com/90690454/great-resignation-career-development-robots"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 32
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/10/p-1-People-think-robots-are-more-capable-of-helping-them-in-their-career-than-humans.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "4+GhHndr7E6tslN+vXanc33FPD5fEgE+BTSak9y6eek2H5aOwCOjtylevnRRQchg9hRPeM5xk+OtfB9owAM+eR86stiQcE5Dh342LjiTwk3rP845v856buvFQFn2SN+AUthqsq3vBhWm4eIC8rCKKdt0wSuzMUiasZ9YBkxh9l+A9wnqC32VY3cQiBILpPeatSA233Tjw9BY4DtaqyDqY/1bY7mR7p+iinjTjSb4ovRYoRLU7btqZ755rWO6mQBSpvVIz2HSHJZgyB19y9tSujX3sAj0wfNLSbsthPoZTdXXbUNCsjTPsuoXuX//vhq0mIaAizb0nsKeeh3YAP0mflASruetv2HAU0Jkcljg51o=;VEc7BTvJ0Iv+E9EEaTWmPw=="
 ---

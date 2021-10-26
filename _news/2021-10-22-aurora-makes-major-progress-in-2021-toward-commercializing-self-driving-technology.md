@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving tech firms take R&D to the track"
-    excerpt: "On Northern California's Thunderhill Raceway, self-driving competitors get a crack at trying out their advanced technologies in a real-world environment."
-    publishedDateTime: 2021-10-25T19:58:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firms-take-rd-track"
+  - title: "Wall Street Quant Talent Makes Leap to Self-Driving Startups"
+    excerpt: "Wall Street giants like Citadel and D.E. Shaw & Co. are becoming a stealth talent pipeline for autonomous-vehicle startups, according to industry executives and headhunters. Self-driving companies are finding that quantitative researchers and engineers from the financial world are well-suited for creating models that enable cars to make their own driving decisions."
+    publishedDateTime: 2021-10-26T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-10-26/quants-make-the-leap-from-wall-street-to-self-driving-startups"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SELF-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFhZVdpndZW4/v0/1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qb/AixHJHARCpsWoA/tSvfRo1JEL5CxJ839W3Zzx2jAvgGRzExKjJL5iBq6e5m9nhQKATrHtQdwMK7Qa+U7U0q878zgBa6k4qd7MvZqlabGAgdMVPrWFwqCxL8g0uUcVhDhrbWEKYCU0jtU215gzc2G3top+1OmfSjgcOYtncsvMmqnzBJD8db5RwA3vdFvs2mqxX0rSNSAPgZDBvEqPr3DjpipBKOHowXTwW7xLmKoxu5TE+z5vfy+itAkAHrDWkYplnw9wAscumHFxkaflmVDJvcMNKf5vQRO01lsRL2uFxviVpRAjw3Vm1s4Zeak62Oe05g2d3llVdgw+UJatWuIlkjC82z+ubLt0VodJHFE=;d4y+X4MG8bVjelzog8NnWQ=="

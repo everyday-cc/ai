@@ -2,6 +2,154 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-10-13-ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale.md",
+      "title": "IBM's ModelMesh goes open-source, enabling developers to deploy AI models at scale",
+      "excerpt": "Model serving is a critical component of AI use-cases ... allocation. IBM solved this challenge with its proprietary ModelMesh model-serving management layer for Watson products such as Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
+      "originalUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/04/1554122456_machine_learn_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
+      "publishedDateTime": "2021-10-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement.md",
+      "title": "Shareef O’Neal Lands New NIL Deal Using AI-Based Product Placement",
+      "excerpt": "Influential, an influencer marketing company, has partnered with Mirriad, an AI-based digital advertising platform specializing in product placement, to launch the first-ever superimposed image and video capability on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
+      "originalUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616666cc49248193aa9e94f3%2F0x0.jpg",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
+      "publishedDateTime": "2021-10-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
+      "title": "Does DeepMind AI future proof Alphabet’s share price?",
+      "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer.md",
       "title": "The USB-C iPhone Becomes A Reality Thanks To A Robotics Engineer",
       "excerpt": "Recall when we brought to your attention plans by the European Commission to propose legal measures that would force phone",
@@ -1033,153 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-deep-learning-helps-predict-traffic-crashes-before-they-happen.md",
-      "title": "Deep learning helps predict traffic crashes before they happen",
-      "excerpt": "A deep learning model predicts high-resolution automobile crash risk maps that describe the expected number of crashes and identify high-risk areas. The work was led by scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Qatar Center for Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "originalUrl": "https://news.mit.edu/2021/deep-learning-helps-predict-traffic-crashes-1012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/crash-maps_0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-google-pixel-watch-delayed-again-the-reason-is-chip-shortage.md",
-      "title": "Google Pixel Watch Delayed Again: The Reason Is Chip Shortage",
-      "excerpt": "The Google Pixel 6 has been making furor even not actually appearing on the market. We mean this handset will be unleashed in a week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "originalUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/Google-Pixel-Watch-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/12/google-pixel-watch-delayed-again-the-reason-is-chip-shortage/amp/",
-      "publishedDateTime": "2021-10-12T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-artificial-intelligence-is-changing-the-medical-industry-faster-than-anyone-ever-anticipated.md",
-      "title": "Artificial intelligence is changing the medical industry faster than anyone ever anticipated",
-      "excerpt": "AI has undoubtedly been a growing presence in the healthcare industry, shaving years and billions… I believe that the biggest opportunities in digital health are in artificial intelligence. It can unlock valuable insights to deliver better models for fitness,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-changing-medical-industry-faster-joão-bocas",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-changing-medical-industry-faster-joão-bocas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGUz8vfzNmMxQ/article-cover_image-shrink_720_1280/0/1634066517116?e=1640822400&v=beta&t=Ghrmg3dSsDBAAJK4qAOWXC3Mcodw7vhDpfztZ9l9kcQ",
-          "width": 1115,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

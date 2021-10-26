@@ -2,6 +2,213 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-10-10-bothering-and-even-spying-on-your-neighbors-via-an-ai-self-driving-car.md",
+      "title": "Bothering And Even Spying On Your Neighbors Via An AI Self-Driving Car",
+      "excerpt": "And these well-to-do neighbors have lobbed acrid accusations as to the other neighbor having either started the feud or carried the tit-for-tat extraordinarily overboard, as it were (overboard as in like a tiny ship!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb1f6671031050167509541%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/10/bothering-your-neighbors-via-a-self-driving-car/amp/",
+      "publishedDateTime": "2021-10-10T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-tesla-delays-full-self-driving-roll-out-citing-last-minute-concerns.md",
+      "title": "Tesla delays full self-driving roll out citing last minute concerns",
+      "excerpt": "Thousands of Tesla owners woke up to disappointment on Saturday following an early morning tweet from CEO Elon Musk. He cited last minute concerns that would",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "originalUrl": "https://www.techspot.com/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-09-image-9.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91667-tesla-delays-full-self-driving-roll-out-citing.html",
+      "publishedDateTime": "2021-10-10T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-these-virtual-obstacle-courses-help-real-robots-learn-to-walk.md",
+      "title": "These virtual obstacle courses help real robots learn to walk",
+      "excerpt": "As a result, the researchers say they were able to train the robots in less than one-hundredth the time that’s normally required. Using the specialized chips also presented challenges. Nvidia’s chips excel at calculations that are crucial for rendering graphics and running neural networks,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/10/these-virtual-obstacle-courses-help-real-robots-learn-to-walk/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/robot-listing-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-10T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-10-the-eu-is-regulating-your-ai-five-ways-to-prepare-now.md",
+      "title": "The EU Is Regulating Your AI. Five Ways To Prepare Now.",
+      "excerpt": "EU regulations of this type apply to all companies that seek to do business in the EU or with EU-based businesses or EU-based consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615e6368c32bb1fa05b71b54%2F0x0.jpg",
+          "width": 512,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/10/10/the-eu-is-regulating-your-ai-five-ways-to-prepare-now/amp/",
+      "publishedDateTime": "2021-10-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-10-beethovens-last-symphony-finished-by-ai.md",
       "title": "Beethoven's last symphony finished by AI",
       "excerpt": "Now, Ludwig van Beethoven's unfinished symphony has also been given the AI treatment. When the composer died in 1827, he left his last symphony, which would have been his 10th, incomplete. Only a few handwritten sketches of this work have survived.",
@@ -990,186 +1197,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
-      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
-      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
-      "publishedDateTime": "2021-10-08T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-jdcom-baidu-invest-400-million-in-elevator-ad-firm-xinchao.md",
-      "title": "JD.com, Baidu invest $400 million in elevator ad firm Xinchao",
-      "excerpt": "JD.com and Baidu have jointly invested $400 million in elevator advertising firm Xinchao Media Group. Why it matters: The two Chinese tech giants are returning investors in the Chengdu-based media company. The deal is a major external investment for JD ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "originalUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/10/截屏2021-10-08-上午10.42.23.png",
-          "width": 1848,
-          "height": 1202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "publishedDateTime": "2021-10-08T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-what-made-me-want-to-fight-for-fair-ai.md",
-      "title": "What made me want to fight for fair AI",
-      "excerpt": "My life has always involved centering the voices of those historically marginalized in order to foster equitable communities. Growing up, I lived in a small suburb just outside of Cleveland, Ohio and I was fortunate enough to attend Laurel School, an all-girls school focused on encouraging young women",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
-      "originalUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ai_Speaker_sFyeasw.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
-      "publishedDateTime": "2021-10-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys.md",
-      "title": "Artificial intelligence can help halve road deaths by 2030, say UN envoys",
-      "excerpt": "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://news.un.org/en/story/2021/10/1102522",
-      "originalUrl": "https://www.khaleejtimes.com/world/americas/artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/08-12-2020-AI-autonomous-vehicle.jpg/image770x420cropped.jpg",
-          "width": 770,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-08T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

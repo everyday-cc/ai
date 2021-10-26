@@ -1,0 +1,88 @@
+---
+category: news
+title: "AWS signs deal with British spy agencies"
+excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
+publishedDateTime: 2021-10-26T19:30:00Z
+originalUrl: "https://www.itnews.com.au/news/aws-signs-deal-with-british-spy-agencies-571795"
+webUrl: "https://www.itnews.com.au/news/aws-signs-deal-with-british-spy-agencies-571795"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: IT News For Australia Business
+  domain: itnews.com.au
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20150915045334_cloud+security+stock.jpg&w=480&c=0&s=1"
+    width: 480
+    height: 297
+    isCached: true
+
+related:
+  - title: "AWS wins deal to store UK spy agencies' work, brings AI to the table"
+    excerpt: "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools."
+    publishedDateTime: 2021-10-26T12:07:00Z
+    webUrl: "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
+    excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
+    publishedDateTime: 2021-10-26T05:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
+    excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
+    publishedDateTime: 2021-10-26T01:36:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156.html"
+    ampWebUrl: "https://www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/amazon-signs-deal-with-uk-spy-agencies-to-boost-use-of-ai-for-espionage-report-101635211901156-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 53
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Amazon Signs Deal With British Spy Agencies to Boost Use of AI for Espionage -FT"
+    excerpt: "Britain's three spy agencies have given a contract to Amazon Web Services, Amazon’s cloud service unit, to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage,"
+    publishedDateTime: 2021-10-25T20:24:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-10-25/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage-ft"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
+
+secured: "n+cJrYbnDqrmkNqb28sLUY3BbcOM4gOqsP29F+dSTGrCpMcaYhXt/p0dBXyzr7u84cJJ5fg/dtXLKvOCOovZxeduZ9gCrItySQLCbs9Q1coqq0l+rBCxEIjXkm6jzz1wrCHwNLu/LdtRyzvI1SVpCDDRmdItAiK14XY5xtm5nzTgtXTHesn4tHyuyBr0dKPUSL5CEJUkw1STTO+dbbTT7dT86KuDRvtItf2jeCYP3WLzAk+nxlQD8mx8Hcr2LAIQ/obGao+vy2z57erVE1fyWLcZ0LxUr4gBmrCaIHnjluyF/fMK1Tf547tvENIIigIeBe4oniDO9Sx1AQbIM3kID9Fi5LjVXBj1WzI6mW4e1V4=;ctT9vvFuTEjvd+KonLxqLw=="
+---
+

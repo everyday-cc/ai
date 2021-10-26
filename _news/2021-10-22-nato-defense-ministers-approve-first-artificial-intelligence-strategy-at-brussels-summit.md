@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/nato-defense-ministers-approve-first-artificial-intelligence-strategy-at-brussels-summit.html"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NATO launches AI strategy and $1B fund as defense race heats up"
-    excerpt: "NATO has launched an AI strategy and $1 billion investment fund as its members states look to further development of defense technologies."
-    publishedDateTime: 2021-10-22T01:50:00Z
-    webUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/"
-    ampWebUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "An Artificial Intelligence Strategy for NATO"
     excerpt: "At their October 2021 meeting, Allied Defence Ministers formally adopted an Artificial Intelligence Strategy for NATO. Current and former NATO staff with direct involvement in the development and implementation of the Strategy outline its main features and objectives."
     publishedDateTime: 2021-10-25T09:40:00Z

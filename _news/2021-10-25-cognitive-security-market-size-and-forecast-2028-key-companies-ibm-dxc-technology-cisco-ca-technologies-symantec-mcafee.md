@@ -85,6 +85,17 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
     excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
     publishedDateTime: 2021-10-25T16:24:00Z

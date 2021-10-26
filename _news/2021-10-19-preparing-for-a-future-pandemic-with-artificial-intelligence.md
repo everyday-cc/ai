@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://globalbiodefense.com/wp-content/uploads/2021/10/pnnl-artificial-intelligence-algorithm-pandemic-patient-outcomes-triage.jpg"

@@ -2,6 +2,153 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-10-14-stock-news-analysis.md",
+      "title": "Stock News & Analysis",
+      "excerpt": "As the struggle for dominance in the nascent field of artificial intelligence escalates, these tech bigwigs are all betting on a small startup that believes AI-as-a-Service will be the next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
+      "originalUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=7319",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
+      "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
+      "excerpt": "Waymo LLC has raised a further $750 million ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
+      "originalUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
+      "title": "Global Edge Computing AI Chips Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
+      "excerpt": "MarketsandResearch.biz has recently published a report titled Global Edge Computing AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which assesses dynamic factors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-computing-ai-chips-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-to-lead-in-ai-the-us-needs-a-dedicated-workforce-policy.md",
       "title": "To lead in AI, the US needs a dedicated workforce policy",
       "excerpt": "Taking and keeping the lead in talent means not only having the best and brightest, but an adequate supply across the entire U.S. AI workforce, along with secure domestic talent pipelines.",
@@ -866,15 +1013,15 @@
       "title": "Cognitive Medical Systems and Thornhill Medical Receive Army Award to help accelerate medical device interoperability and remote control",
       "excerpt": "Cognitive Medical Systems and Thornhill Medical announced today that the two healthcare innovation companies have been selected by the U.S. Army Medical Research and Development Command to receive $853,",
       "sourceUrl": null,
-      "webUrl": "https://www.kalb.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
-      "originalUrl": "https://www.kalb.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "webUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
+      "originalUrl": "https://www.wkyt.com/prnewswire/2021/10/13/cognitive-medical-systems-thornhill-medical-receive-army-award-help-accelerate-medical-device-interoperability-remote-control/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/SXFVT8Wlr7YmbcFKT-AgTn8yv38=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/J32LS2A22AOMKKBCBFUKYQ3MHM.jpg",
+          "url": "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/SXFVT8Wlr7YmbcFKT-AgTn8yv38=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/J32LS2A22AOMKKBCBFUKYQ3MHM.jpg",
           "width": 980,
           "height": 442,
           "title": null,
@@ -889,8 +1036,8 @@
       "publishedDateTime": "2021-10-13T06:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KALB",
-        "domain": "kalb.com",
+        "name": "WKYT",
+        "domain": "wkyt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -997,154 +1144,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale.md",
-      "title": "IBM's ModelMesh goes open-source, enabling developers to deploy AI models at scale",
-      "excerpt": "Model serving is a critical component of AI use-cases ... allocation. IBM solved this challenge with its proprietary ModelMesh model-serving management layer for Watson products such as Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "originalUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/04/1554122456_machine_learn_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "publishedDateTime": "2021-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement.md",
-      "title": "Shareef O’Neal Lands New NIL Deal Using AI-Based Product Placement",
-      "excerpt": "Influential, an influencer marketing company, has partnered with Mirriad, an AI-based digital advertising platform specializing in product placement, to launch the first-ever superimposed image and video capability on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "originalUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616666cc49248193aa9e94f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "publishedDateTime": "2021-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-does-deepmind-ai-future-proof-alphabets-share-price.md",
-      "title": "Does DeepMind AI future proof Alphabet’s share price?",
-      "excerpt": "Alphabet’s [GOOG] share price had a rough start to October. Along with fellow FAANG stocks, Alphabet’s share price buckled on October 4 as mounting pressure experienced in September finally came to a head.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/does-deepmind-ai-future-proof-alphabets-share-price",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/GoogleMinds_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI"
       ]
     }
   ],

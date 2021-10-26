@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/10/26/why-many-people-are-turning-toward-robots-and-ai-to-help-support-their-mental-health-and-careers/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "By-product of the Great Resignation: People are turning to robots for career support"
+    excerpt: "A new report from Oracle and Workplace Intelligence finds that workers trust robots to make “unbiased” job recommendations."
+    publishedDateTime: 2021-10-26T15:51:00Z
+    webUrl: "https://www.fastcompany.com/90690454/great-resignation-career-development-robots"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 32
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/10/p-1-People-think-robots-are-more-capable-of-helping-them-in-their-career-than-humans.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bvApxQ+b6ztFQGn81A4OlLKW/vUXKVed1azvmVmayHZOzGUjP77cgYugawTKeJevX6gC3FsEl2tKZzLDCJd1gNTufQrD4HS6I1QO9ghOTrOLyhYuRMw5l0W3wouMz71VWbDgLc4OYSN0p833Pjdw/fKa3L95UYYAfagHhvFIvL9a4X1uHAacbnVUzApYHCf3bJe5vmD8hve2rTM+mevQ03tKNCx7DVJBnZocHoFIuPL04bd3PY6l6C/n3Xr3PoCStMn5OZBkWpI1WsA7CSMZ09IkHG6UWLLrVQjwJBwvbjbXAtYdPcJXILxO8uYcah39RK0/V0l4/A0InEohpiPB4jEsGKTr8dED6BeRA8p6Bj/BsdFB3hsrbymGt9CGLrIZ+j0SbAaPmnalAyoLDhoMVcKrQeWX/aUO+v8hxSP0VEFEWGRIByAdcjI4C3UVrrrHO1bCsd4+BrO/CUN7kA8itB76dXbPLudrFwaldBNMD6AeA4cweanYbGk3mAQ8R7ybPFxlDlvpD/h1dPaQZrnMVA==;ItOFjoQMg2XxFudEnWsn1Q=="
 ---

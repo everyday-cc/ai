@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-10-17-here-is-the-list-of-the-top-10-real-world-rescue-robots-you-should-know-in-2021.md",
+      "title": "Here is the list of the top 10 real-world rescue robots you should know in 2021",
+      "excerpt": "Advanced robotics progressively implies to the salvage. Centauro, TRADR, and more are rescue robots those that fly, swim, creep through rubble, splash fires or in any case help people on call tackle inconvenience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-17T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-17-you-can-now-pay-for-ride-fares-in-the-moscow-subway-with-your-face.md",
+      "title": "You Can Now Pay for Ride Fares in the Moscow Subway With Your Face",
+      "excerpt": "As of this week, you can even pay for subway fares with your face. Before you ask where you can sign up, this new facial recognition payment system has debuted in Russia, sparking concerns that it will be used by authorities as a surveillance tool.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "originalUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/578fa339d916724cb77388670d5ea274.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/you-can-now-pay-for-ride-fares-in-the-moscow-subway-wit-1847879989/amp",
+      "publishedDateTime": "2021-10-17T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-17-amazon-to-extend-ban-on-police-use-of-face-recognition-tech.md",
       "title": "Amazon to Extend Ban on Police Use of Face Recognition Tech",
       "excerpt": "Activists have targeted Amazon Web Services cloud computing unit's \"Rekognition\" facial recognition technology and Ring surveillance cameras used for home security. It was not clear the degree to which police have used the systems. Amazon last year called ...",
@@ -826,6 +912,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-15-how-ai-could-bridge-the-linguistic-inclusion-gap.md",
+      "title": "How AI could bridge the linguistic inclusion gap",
+      "excerpt": "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "originalUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_blogs.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThoughtWorks",
+        "domain": "thoughtworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-qubit-the-dog-on-the-big-questions-in-quantum-computing.md",
       "title": "Qubit the dog on the big questions in quantum computing",
       "excerpt": "This week we sat down for an interview with Qubit the dog, whose human Julian Kelly is one of our lead Research Scientists with Google Quantum AI. Qubit was born in 2012, right when Julian and team were first designing the qubits that now underlie Google’s quantum computers. He nearly received the honor",
@@ -979,161 +1108,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
-      "title": "Truly Smart Robots Know When To Ask For Help",
-      "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61696387164eb221966729d2%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2021/10/15/truly-smart-robots-know-when-to-ask-for-help/amp/",
-      "publishedDateTime": "2021-10-15T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-embrace-the-era-of-change-and-evolution-with-self-learning-ai.md",
-      "title": "Embrace The Era Of Change And Evolution With Self-Learning AI",
-      "excerpt": "AI has come a long way since its inception and has now evolved into its inevitable next form: self-learning AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ffbd688a933e24c37e9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/embrace-the-era-of-change-and-evolution-with-self-learning-ai/amp/",
-      "publishedDateTime": "2021-10-15T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-15-five-steps-to-successfully-leverage-ai-in-your-business.md",
-      "title": "Five Steps To Successfully Leverage AI In Your Business",
-      "excerpt": "What exactly does the adoption of AI mean in concrete terms — for the management team, for an employee in a call center, for a doctor or for a research assistant?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611bc51ba8299062b3b9581b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/15/five-steps-to-successfully-leverage-ai-in-your-business/amp/",
-      "publishedDateTime": "2021-10-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

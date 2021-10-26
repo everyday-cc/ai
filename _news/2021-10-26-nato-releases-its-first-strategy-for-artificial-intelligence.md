@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NATO launches AI strategy and $1B fund as defense race heats up"
-    excerpt: "NATO has launched an AI strategy and $1 billion investment fund as its members states look to further development of defense technologies."
-    publishedDateTime: 2021-10-22T01:50:00Z
-    webUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/"
-    ampWebUrl: "https://venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/nato-launches-ai-strategy-and-1b-fund-as-defense-race-heats-up/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NATO Defense Ministers Approve First Artificial Intelligence Strategy At Brussels Summit"
     excerpt: "North Atlantic Treaty Organisation’s defence ministers approved the alliance's first artificial intelligence strategy and creation of the NATO Innovation Fund."
     publishedDateTime: 2021-10-22T15:37:00Z

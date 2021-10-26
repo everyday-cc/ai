@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes"
-excerpt: "SEOUL, South Korea and ARMONK, N.Y., Oct. 26, 2021 /PRNewswire/ -- Samsung Electronics Co., Ltd. and IBM (NYSE:  IBM ) today announced the  Call"
-publishedDateTime: 2021-10-26T17:44:00Z
-originalUrl: "https://menafn.com/1103049870/Samsung-and-IBM-Announce-Call-for-Code-Challenge-to-Honor-Everyday-Heroes"
-webUrl: "https://menafn.com/1103049870/Samsung-and-IBM-Announce-Call-for-Code-Challenge-to-Honor-Everyday-Heroes"
+excerpt: "Samsung Electronics Co., Ltd. and IBM (NYSE: IBM ) today announced the Call for Code Honoring Everyday Heroes Ch"
+publishedDateTime: 2021-10-26T18:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-f779e4d4b897d62f6f206694f4db1beb"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-f779e4d4b897d62f6f206694f4db1beb"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?75781"
-    width: 443
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "0VTVOhODwKA7Cuv4uU3v6mQjxWr3PYZKf4sUNmSKRO+s97SNOrS+le/A/JWtxQuHqlHFtMVGBZfxPAMfG9p7lbNGz5CxtKij3wC/VWw9wRz9t7TWAYkyYfB8mbdkoCYEHl13IXl+Z8jICbpdWDdX+R1wrC0BPYbiLct5389yYZXHXU9TebxYaVhPzg0wZqKl1qjatQkK0wU2Bsxd7Q8q3QcgiWEwKDmO3ZGtrWUKiSrMcYi+9l/f0ZaZQYXD01I7jI9h6EfKVfVzKzCTf4Pifms8YIcFI/F6O2nrKASyx16mBVVVhWNBC7ho4JiisNVsgedlMkHgN/fnh9eGMyiv79mz83rlqbzeN7DGY3GURvY=;5KTcmugFJjbJF8I6dlJPig=="
+secured: "53Ppr3Xr7XxtBNL2MoIMF5tvUm7Tin0dpEjTsdlPZeufZ9xRW+dZTDWEXVyVHYUCjJJ/9K74g2EE7k91ww+SurEEm6b3C+GCVlylBFjflEAo7vJmemduYDTfhOZWTn461g3fg1DU3nYj7eIzl8FDrQw5lFOTayCs2O2Y6wZpV8Dgg+BcraQHb+bwURSZ//Ik4ISw4l3tk3lQ2AdvR3wlL728+aBVAk15Y0ktCBaNpJzcR5KvCzIHqRIEvuqB99lj/vS47zhZKXzjb0uB6NY0JQMoTQfZ1zWsgCTBSk7H4QRourrk6D6JB8mHVCv9K2oIK8g0KBvzdx2fxrO34Ow/tI72xRTa0Jv2f9WO3vsdRIs=;BZF1CpirdA4pO/Bz1D7Beg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
+      "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
+      "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
+      "originalUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
+      "publishedDateTime": "2021-10-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
       "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
       "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
@@ -1109,58 +1152,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
-      "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
-      "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
-      "originalUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
-      "publishedDateTime": "2021-10-19T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

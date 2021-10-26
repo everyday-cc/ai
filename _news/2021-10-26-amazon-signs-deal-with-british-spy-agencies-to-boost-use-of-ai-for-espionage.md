@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage -FT"
-    excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
-    publishedDateTime: 2021-10-25T22:07:00Z
-    webUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://www.reuters.com/resizer/iYqP54ZnBN37H53zTmxh6Ngz04E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AR5SQIUOFVKDXN2QDIUCQRE4YU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
     excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
     publishedDateTime: 2021-10-26T01:36:00Z
@@ -71,6 +57,29 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Amazon Signs Deal With British Spy Agencies to Boost Use of AI for Espionage -FT"
+    excerpt: "Britain's three spy agencies have given a contract to Amazon Web Services, Amazon’s cloud service unit, to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence for espionage,"
+    publishedDateTime: 2021-10-25T20:24:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-10-25/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage-ft"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
+  - title: "AWS signs deal with British spy agencies"
+    excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
+    publishedDateTime: 2021-10-26T19:30:00Z
+    webUrl: "https://www.itnews.com.au/news/aws-signs-deal-with-british-spy-agencies-571795"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f20150915045334_cloud+security+stock.jpg&w=480&c=0&s=1"
+        width: 480
+        height: 297
         isCached: true
 
 secured: "vpEfXDmR5tLlGaiXiBMkqLvyYUO4AvE5o6s7uggc9zrtjYu6o5E+LmrVRA2kD/jYkUwGwZjH7vuUvv2YlHXc17O/9rGpNaNN1kBwz17lHzn/rFb/2pBmtKLgH14KOaGvQTUE0WJ67thVTziDzZUxihULkvjCz13xRmmj27SDbLetYKAgFTIHam9oDIbPJZUSJlgBZCkG910bxYyeUHxX/h89wwTqmrFtcy/sTBEgUWweCelgrTMSwIF6QlbxXfCytfiBJzdPZO6vsGyKq9Chpl4W1F35BctxkUD1U36CgAivYzN6n9XDqGwyFj5IMsXp/BALq9XibQokZSmXkrrNH1J323gzeZp0WJodfP1B8jA=;Ezf8+N63bUGUN3xy7cQHBQ=="

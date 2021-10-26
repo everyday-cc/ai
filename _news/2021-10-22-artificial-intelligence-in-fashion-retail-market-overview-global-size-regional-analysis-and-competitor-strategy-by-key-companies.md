@@ -26,21 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Artificial intelligence Market Future Demands, Companies, Regional Sales and Revenue Forecast"
-    excerpt: "DeepResearchReports has uploaded a latest report on Machine Learning Artificial intelligence Industry from its research database Machine Learning Artificial intelligence Market is segmented by Regions Countries All the key market aspects that influence the Machine Learning Artificial intelligence Market currently"
-    publishedDateTime: 2021-10-23T10:44:00Z
-    webUrl: "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future"
-    ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
+  - title: "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications."
+    publishedDateTime: 2021-10-25T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Auto Insurance Market Insights Shared in Detailed Report 2021 till 2028"
+    excerpt: "New York United States AI in Auto Market report will provide one with overall market analysis statistics various trends drivers opportunities restraints and every minute data relating to the AI in Auto market necessary for forecasting its revenue"
+    publishedDateTime: 2021-10-26T11:07:00Z
+    webUrl: "https://www.openpr.com/news/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    ampWebUrl: "https://www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442126/ai-in-auto-insurance-market-insights-shared-in-detailed-report"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 71
+    quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua23644392_g.jpg"
-        width: 482
-        height: 350
+      - url: "https://cdn.openpr.com/U/a/Ua26697026_g.jpg"
+        width: 800
+        height: 531
+        isCached: true
+  - title: "Deep Learning in Drug Discovery and Diagnostics Market Shows Expected Growth from 2021-2028"
+    excerpt: "Another factual information on the Deep Learning in Drug Discovery and Diagnostics Market has as of late added by CMI to its storehouse This research report offers an inside and out examination of various perspectives for example market patterns pieces"
+    publishedDateTime: 2021-10-25T11:45:00Z
+    webUrl: "https://www.openpr.com/news/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
+    ampWebUrl: "https://www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440301/deep-learning-in-drug-discovery-and-diagnostics-market-shows"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua25321359_g.jpg"
+        width: 643
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence System Market Size by Analysing Historical Data and Future Prospect 2026"
+    excerpt: "United States OR Poland Artificial Intelligence System Market According to a new report added by Reports Big Market Report titled Artificial Intelligence System Market Global Opportunity Analysis and Industry Forecast 2021 2026 The Artificial Intelligence System Market research by Market"
+    publishedDateTime: 2021-10-22T06:37:00Z
+    webUrl: "https://www.openpr.com/news/2437580/artificial-intelligence-system-market-size-by-analysing"
+    ampWebUrl: "https://www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2437580/artificial-intelligence-system-market-size-by-analysing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/a/Ua22380115_g.jpg"
+        width: 800
+        height: 444
         isCached: true
   - title: "Consumer AI Market Incredible Possibilities, Growth, Trend, Opportunities Detailed Analysis and Forecast 2030"
     excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
@@ -58,17 +104,34 @@ related:
         width: 401
         height: 401
         isCached: true
-  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
-    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
-    publishedDateTime: 2021-10-26T06:51:00Z
-    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+  - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
+    publishedDateTime: 2021-10-25T23:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medical-diagnostics-market-2021-study-scope-key-segments-industry-trends-size-and-forecast-to-2027-2021-10-25"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
+    publishedDateTime: 2021-10-26T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
     publishedDateTime: 2021-10-26T05:41:00Z
@@ -97,15 +160,28 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027 report by QYResearch Group. In-Flight Voice Recognition market is segmented by region (country),"
-    publishedDateTime: 2021-10-23T13:36:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4989003-global-and-united-states-in-flight-voice-recognition-market-insights-forecast-to-2027.html"
+  - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
+    excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
+    publishedDateTime: 2021-10-25T07:17:00Z
+    webUrl: "https://www.openpr.com/news/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
+    excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"
+    publishedDateTime: 2021-10-26T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2441410/handing-robots-market-strategy-share-growth-factors"
+    ampWebUrl: "https://www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "wEKh4o51c7JPHz+j47ucdh14FHIZoOvjgBOZQ3xMCzqMHDgoZfaH2INDBb1eFx3D2yESb51A/h3Ij4AHkvcyoKHeMTJvdP4QBxxKPEphg+Oy0/E30ZCiUtFTm6/tckUgaOdhb89UBdfQgMQ88hLh1Md1inVWVyRrlnuPtibhyyLBRfVt9WJrLBcRagS07Pm4NNnIukoJSZT61QWcVxMP9VAL/1buMRs9diFlrS2jqWY/tv4fIBmiGt5F5H7YOpQLOLaQTJCymgktDSU0RZZ5K5NrxMylYdq1VuNqD2nWCEsdp47SRumtsdZtakXUGeyqyrPCClW2MoQ6JtjtyDEAnn40AgNOIu/GrnrgAohE4Fs=;OTL99GBLdXMLW50tW6vzPw=="
 ---

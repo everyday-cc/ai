@@ -236,7 +236,7 @@
       "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -401,50 +401,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-machine-learning-artificial-intelligence-market-future-demands-companies-regional-sales-and-revenue-forecast.md",
-      "title": "Machine Learning Artificial intelligence Market Future Demands, Companies, Regional Sales and Revenue Forecast",
-      "excerpt": "DeepResearchReports has uploaded a latest report on Machine Learning Artificial intelligence Industry from its research database Machine Learning Artificial intelligence Market is segmented by Regions Countries All the key market aspects that influence the Machine Learning Artificial intelligence Market currently",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future",
-      "originalUrl": "https://www.openpr.com/news/2439003/machine-learning-artificial-intelligence-market-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua23644392_g.jpg",
-          "width": 482,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future",
-      "publishedDateTime": "2021-10-23T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1376,6 +1332,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
+      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
+      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
+          "width": 1191,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
+      "publishedDateTime": "2021-10-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

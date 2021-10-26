@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lawmakers investigating Facebook Inc. and other online giants turn attention to ..."
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the"
+    publishedDateTime: 2021-10-26T18:01:00Z
+    webUrl: "https://en.mogaznews.com/World-News/1851237/Lawmakers-investigating-Facebook-Inc-and-other-online-giants-turn-attention-to-.html"
+    ampWebUrl: "https://en.mogaznews.com/World-News/amp/1851237"
+    cdnAmpWebUrl: "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/World-News/amp/1851237"
+    type: article
+    provider:
+      name: en.mogaznews.com
+      domain: mogaznews.com
+    quality: 38
+    images:
+      - url: "https://en.mogaznews.com/temp/resized/medium_2021-10-26-3b666c2fc5.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facebook the company is losing control of Facebook the product"
     excerpt: "The crisis exposed by the documents shows how Facebook, despite its regularly avowed good intentions, appears to have slow-walked or sidelined efforts to address real harms the social network has magnified and sometimes created."
     publishedDateTime: 2021-10-25T15:24:00Z

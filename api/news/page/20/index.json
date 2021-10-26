@@ -2,6 +2,186 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-10-08-african-fintech-finclusion-raises-20m-for-enterprise-development.md",
+      "title": "African FinTech Finclusion Raises $20M for Enterprise Development",
+      "excerpt": "Finclusion Group, which works with online monetary and credit score providers across Africa, recently raised $20 million for enterprise development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Finclusion-investment-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/african-fintech-finclusion-raises-20m-for-enterprise-development/amp/",
+      "publishedDateTime": "2021-10-08T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-jdcom-baidu-invest-400-million-in-elevator-ad-firm-xinchao.md",
+      "title": "JD.com, Baidu invest $400 million in elevator ad firm Xinchao",
+      "excerpt": "JD.com and Baidu have jointly invested $400 million in elevator advertising firm Xinchao Media Group. Why it matters: The two Chinese tech giants are returning investors in the Chengdu-based media company. The deal is a major external investment for JD ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
+      "originalUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2021/10/截屏2021-10-08-上午10.42.23.png",
+          "width": 1848,
+          "height": 1202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
+      "publishedDateTime": "2021-10-08T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-what-made-me-want-to-fight-for-fair-ai.md",
+      "title": "What made me want to fight for fair AI",
+      "excerpt": "My life has always involved centering the voices of those historically marginalized in order to foster equitable communities. Growing up, I lived in a small suburb just outside of Cleveland, Ohio and I was fortunate enough to attend Laurel School, an all-girls school focused on encouraging young women",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
+      "originalUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ai_Speaker_sFyeasw.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/what-made-me-want-fight-fair-ai/amp/",
+      "publishedDateTime": "2021-10-08T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-08-artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys.md",
+      "title": "Artificial intelligence can help halve road deaths by 2030, say UN envoys",
+      "excerpt": "Countries and investors need to step up the development and use of artificial intelligence (AI) to keep roads safe for everyone, three UN Special Envoys said on Thursday, leading a new AI for Road Safety initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://news.un.org/en/story/2021/10/1102522",
+      "originalUrl": "https://www.khaleejtimes.com/world/americas/artificial-intelligence-can-help-halve-road-deaths-by-2030-say-un-envoys",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/08-12-2020-AI-autonomous-vehicle.jpg/image770x420cropped.jpg",
+          "width": 770,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-08T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-08-algolia-only-26-of-retailers-use-ai-optimized-search.md",
       "title": "Algolia: Only 26% of retailers use AI-optimized search",
       "excerpt": "AI is a lesser used tool for generating personalized recommendations, yet companies that embrace AI-driven search are reaping the benefits.",
@@ -1003,180 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv.md",
-      "title": "Robotics startup Ishitva raises $1mn in pre-series A funding led by IPV",
-      "excerpt": "Ahmedabad-based robotics startup Ishitva raised $1 million in pre-series A funding round led by Inflection Point Ventures (IPV). Ishitva is an OEM operating in dry waste sorting technology using AI, ML,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/23/full/1629658476-4597.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-startup-ishitva-raises-1mn-in-pre-series-a-funding-led-by-ipv-121100800076_1.html",
-      "publishedDateTime": "2021-10-07T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "In other words, the three laws of robotics represent the moral code ... that one of China's goals is to be a leader in Artificial Intelligence by 2030, the publication notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389467",
-      "originalUrl": "https://www.entrepreneur.com/article/389467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-how-ai-can-fight-human-trafficking.md",
-      "title": "How AI can fight human trafficking",
-      "excerpt": "A startup relies on AI-based tools to observe patterns of human trafficking and the larger criminal networks at play.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "originalUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/shutterstock_1474099580-2-e1633620164290.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/07/how-ai-can-fight-human-trafficking/amp/",
-      "publishedDateTime": "2021-10-07T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor.md",
-      "title": "Tomahawk Robotics appoints LTG (Ret.) Paul Ostrowski as a Strategic Advisor",
-      "excerpt": "I believe Tomahawk Robotics' universal robotic control software ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture, AI-enabled control ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor-301395050.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tomahawk-robotics-appoints-ltg-ret-paul-ostrowski-as-a-strategic-advisor-301395050.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -70,7 +70,7 @@ related:
     provider:
       name: medtechintelligence.com
       domain: medtechintelligence.com
-    quality: 37
+    quality: 39
   - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
     excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
     publishedDateTime: 2021-10-25T19:30:00Z

@@ -26,22 +26,6 @@ images:
     height: 504
     isCached: true
 
-related:
-  - title: "Future of college will involve fewer professors"
-    excerpt: "At a large private university in Northern California, a business professor uses an avatar to lecture on a virtual stage. Meanwhile, at a Southern university, graduate students in an artificial intelligence course discover that one of their nine teaching assistants is a virtual avatar,"
-    publishedDateTime: 2021-10-22T02:46:00Z
-    webUrl: "https://brooklyneagle.com/articles/2021/10/21/future-of-college-will-involve-fewer-professors/"
-    type: article
-    provider:
-      name: Brooklyn Daily Eagle
-      domain: brooklyneagle.com
-    quality: 24
-    images:
-      - url: "https://brooklyneagle.com/wp-content/uploads/2021/10/251886-1024x705.jpg"
-        width: 1024
-        height: 705
-        isCached: true
-
 secured: "ZGpE+OLsO05tcwbvECcRkNIB9q1NrDFyywk+vaaeq2w/flpXuh3rFAiAM94MX5Gt/zsb4g1gXAym1ahk+Li8aRntN1JVyjB+I623ny0ZmjiRYv3t1D3TjggvQX6RXcn56IhvMmrxrHqDWyXIj7nkV0HLSz+OgCyIWHMyzUlGHdj9iXI3pHmEmZ3o3fZYqIBx9PH44oyzYZw3wM5BEfbgBRhVrhWgeBrJo24wBTP9FD6HEy3cbDWvWjuBbk5j9s7v7Mi4JIqVNPP3TqbFZTkhBKS8sAGFxUiQXzHuCYxzGeTenLoHQXHyZT//cySRxQmGrZ5X+E08BGWTGUZd7hnzEeeUrMaklKL6VRRjrfo88QQ=;aNItR/yyHrUYGDBGSOKxJw=="
 ---
 

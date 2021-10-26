@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20211025005190/en/Connectly
 webUrl: "https://www.businesswire.com/news/home/20211025005190/en/Connectly.ai-Becomes-a-WhatsApp-Business-Solutions-Provider"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "IBM Announces Advances and New Collaborations in AI-Powered Automation, 5G Connectivity and Security at Mobile World Congress Los Angeles"
+    excerpt: "Today IBM (NYSE: IBM) announced new collaborations and expanded partner relationships to further the company's capabilities in hybrid cloud, AI, network automation and s (MWC LA). These innovations highlight IBM's role in helping the telecommunications industry evolve as 5G and Edge Computing redefine how business and consumers connect."
+    publishedDateTime: 2021-10-26T18:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles-1030901288"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "ZUzTPF+ucB4Ut8uXiJKikztvCG5qvNMTZJcIFr8P0WEpBaMMqZ3Cii7OBhSjZvtUssGn/CHsVNFaXI1m5zGKnWy0jndxvY4dSoMIoAz4dJC1L2gbxQEolfJ2aK/jYvBQZqrzmJ+C9H56M1G9fcP8GvYeNFb6WX/WhAtzPWRCewwx4YGjHgEkEMD0EgaE2woYT/Hb0CacWc7xe+elziLwSsLAPq8regPT6tGGeZqKyWWHbuhSa538WJ+PM1sJReVmogS9lhptycTGaDr7oNYhNeUhvDd+hxo3B0l6s6XpsjbkGiKvv1baknymwOkvMnCHJVaF9Bf8l08evuFj1w4DpdQPOn2Wop5g6P+w9OhUxi0=;gJehlzRuoklTeTFz7NY/8A=="
 ---

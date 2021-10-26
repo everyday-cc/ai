@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
-      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
-      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
-          "width": 1191,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-10-13-edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto.md",
       "title": "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO",
       "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
@@ -1390,6 +1337,59 @@
       "topics": [
         "AI Hardware",
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-the-ml-glossary-five-years-of-new-language.md",
+      "title": "The ML Glossary: Five years of new language",
+      "excerpt": "Over guacamole and corn chips at a party, a friend mentions that her favorite phone game uses augmented reality. Another friend points her phone at the host and shouts, \"Watch out—a t-rex is sneaking up behind you.\" Eager to join the conversation, you blurt, \"My blender has an augmented reality setting.\"If",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
+      "originalUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ml-glossary-five-years-new-language/amp/",
+      "publishedDateTime": "2021-10-06T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
         "Machine Learning"
       ]
     }
