@@ -72,6 +72,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Alida Brings Deeper AI, Analytics, and CXM Integrations to Fall 2021 Product Release"
+    excerpt: "Alida, a visionary leader in Total Experience Management (TXM), today delivered its Fall 2021 product release. Alida brings new capabilities in customer experience (CX), employee experience (EX), product experience (PX),"
+    publishedDateTime: 2021-10-26T17:28:00Z
+    webUrl: "https://customerthink.com/alida-brings-deeper-ai-analytics-and-cxm-integrations-to-fall-2021-product-release/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 30
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
 
 secured: "8pyRlNBijlbGzUanFjYZjDUdi+MLde5reTlhO2xKYZb+kWzcNpwJc54fbblW80eOrG60/NqJuNoesjiVB09QoT+iwhEYU2qJ9oYXRHzUSmQy1phd84iYcjVIxvxPA9cBaAc7AFXBQtqMTrF8KdlEwd/DEP64hpI2NybbBLwCHDBQwEzbCcEfzNdwZtjrblvGiqtHENAmnEjhQtdsNdZ4B5huIMSMvsMxtKI8dF89VFfcJIJQxlOxdhThBhnKW2IU5m2F+oZisACeEFn/imVnSrTFevi6QJ5s3gLpkHxo+6fYBphcy/nVTfV6YNZKj0QR/fqWmEDIGao10v7O8H2axpA7mz2g8ljw4rOmkt5Wa1yWMz5qIV4pSlTbq47Kd2DMDFpSOhvxDT0L4EihCAi7ghygJYqz25kg0g4ZmZu1Fl3p8RY6LiDTxHE1ERX9fm9RoC2E/v4NRZ9GC35R/aj7kT+PfRyyFlzoPGxPcOex3BS3v1CTVTubOQmr+E2RQWAcGsq61fBGc6wIrlPthSA+qw==;UumkgyrRxGlbM9O8QIPJpA=="
 ---

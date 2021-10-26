@@ -3,18 +3,18 @@ category: news
 title: "Facebook has language blind spots around the world that allow hate speech to flourish"
 excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
 publishedDateTime: 2021-10-26T14:20:00Z
-originalUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-webUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-ampWebUrl: "https://www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+originalUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+webUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+ampWebUrl: "https://www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Facebook AI
@@ -132,7 +132,23 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "U.S. lawmakers investigating how Facebook Inc. and other online platforms shape users' world views are considering new rules for their artificial intelligence algorithms"
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the powerful algorithms that drive them."
+    publishedDateTime: 2021-10-26T16:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132791/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 10
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/17/49663707-0-image-a-2_1635265326901.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "3qTUIU9cwHW+eXMVKmpfOfInW346DLZneSgPZhTg4whVpntNMs2IRxPecJtfyjLoxSckSJdSfd8gwhTI2VjY1TM6y5/Z9U/xj7CXicpom6dvKvTo0fL/wMRTp6hyIE/TF27AzTCA3NN3b3xoBYsjH8mtJYlPGUAotaUUrTFpZVBG9tDwlA9Lj9CYHXvTYmVETTa6zW7cD3i20mpDxhcYCEAHyCsdLN15q3+9MezBcSt20HpD+PAX5RSEAnBlH6z3whBhZ4RlGSdG/Lbl+CZ5XhVZrWPj3lozj2giQvv/hKmhN12AeOvVGm56taRpxnLyfBjn4e4CFZo/Hniu0Z5JzkfYouth6r8z5N2sgTvfL/I=;TyRw4KLEd5VIc3ITct1/Ig=="
+secured: "6uV69cN1JYzEG9/+y07uGh5tnYFKfqOM5NgMuJs5+6biwQm7nAUt4o7DDPspLgL6kAThcG00DMIVfVV5r+1hYlVDxI6RXgtsCkmHNk6qt7vIJ/LvdzZ3g2jsLipyuSZ5oSra3/vbSIO0CCG2TtMTPyb6NyLbXOlSOQ5xCe0kUChuxFTwYdHPiCl5DdfrEHtou9MWSuHtIxMvtJirA3M6Lx6VCdnrFsHmefJpBPE8KCwcl7H+L8lj/d4w2HSnhz4M4ogsO0djALPBU1bAU4e4eML2cNEmTpTmAQ1Ofu2tM8ieNE/KHFqGSupvOOcwHO2OSGPJQFsGncruxJZNMsHlBm4famVmmgdix6pNweRONtA=;OQQc0zimZTPAgCaNqcMRgg=="
 ---
 

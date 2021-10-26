@@ -1,0 +1,45 @@
+---
+category: news
+title: "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read"
+excerpt: "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,"
+publishedDateTime: 2021-10-26T16:43:00Z
+originalUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/"
+webUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/"
+ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
+type: article
+quality: 77
+heat: 87
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Bridgeweave and IIFL Securities Announce Partnership to Provide AI Powered Investment Insights"
+    excerpt: "Bridgeweave, a UK based fintech, today announced a partnership with IIFL Securities Limited, one of India’s leading brokerage and investment advisory firms. IIFL will offer Bridgeweave’s flagship InvestorAi app for AI powered investments insights and premium content to its clients."
+    publishedDateTime: 2021-10-26T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211026005515/en/Bridgeweave-and-IIFL-Securities-Announce-Partnership-to-Provide-AI-Powered-Investment-Insights"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+
+secured: "EEGRQhA31+tboYXQCOtfy6aG4bFBhnrnu1trSkAUpOpfz1YfPT3TuWMASuNqVV8nyh95T6mVR8SMaChq3ysu3f2doyshjMNpZ50mhTzId3BBhNrPNT/36muuR34KQapbG9uJvifK6vtEhjMT5npcHXitlKV+N/3cMhoFp8SR70ipBk/7msXQS13QPzLyz27G4ORz9gupX+IoqANAGJb/Snu7QJvs83FXTd+wAQYwiG0Xd4H+bylPM65Hm8sm9zj7l+Eds60f3aPvkT3uUz0psgWbCV2g8jGzQjEbKePHG+NPhyN11qu5qs7KEgO6x3cM+HiYVsVSqRxQz9IgXE4kjABvxtdE5e4hspuwBRUU1Iw=;mCykYrUMAiqTcHYM1omH+g=="
+---
+

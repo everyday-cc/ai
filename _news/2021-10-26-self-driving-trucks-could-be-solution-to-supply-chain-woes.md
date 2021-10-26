@@ -9,8 +9,8 @@ ampWebUrl: "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-s
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Cheddar
@@ -41,6 +41,15 @@ related:
         width: 728
         height: 300
         isCached: true
+  - title: "Leading Transportation Experts Join New Aurora Industry Advisory Council to Advance Self-Driving Technology"
+    excerpt: "Self-driving company Aurora announced the launch of its Industry Advisory Council, a group of advisors made up of transportation and logistics visionaries, academics, and government leaders. With decades of collective experience across trucking,"
+    publishedDateTime: 2021-10-26T16:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leading-transportation-experts-jo-new-aurora-industry-advisory-/2021/10/26/9477888.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "dSc+eCXDlP3qfqw6RyFhCscJ5QjG4SvSmgK0aKPEnusSR68rM3tPOkYLS5opq5+UvsqnrsdAoc5EF6FSihhvC9UhsqOn8P5ePugoeEPSkiCSVRfAvNC+KE9Tzy1iqk647qhMeM+RBmCcindH8pEvOgsn55+dBq4EuNkLW0vNP+RnjbVAb1czTt1Chg9Y5toLtkt1aQuYZXmg+kYYChDPSz1wVCcywKGh9VRDVC5lV3wfgpcp4a9BYqP4fZ7PzJf2Pv6mLq433nRKo/5jaM7ZM3NJNDB8+/j++/xk0SNjaANla6RQhr42VUt5pM7Z4bO1+AHeWrFBm71xj7YSL3LmbJoIpvxCxCFmvGgzpo6VRtSOG1/58eE5hjfBvH5kTuF3KQewRvVNvo5YYl7Tf7v64x0fQ8jNQGi51IUO6NKvk5bPYVZmv8ZUOC+v9Nx9Qrh4cldB72DFF27jBwAdPA4JGkVyiScnmo8W9pEoHkOJ4ugk4UOymZDBu84LJdetjdYOyjdxErStFQbZC9YEu1rUNA==;EUNjTpNg3ecdz9MWjIZmsQ=="
 ---

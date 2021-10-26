@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
+      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
+      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-itmo-itmo-signs-russias-first-ai-ethics-code.md",
+      "title": "ITMO: ITMO Signs Russia’s First AI Ethics Code",
+      "excerpt": "The first Russian AI code of ethics establishes general ethical principles and standards of conduct to guide those involved in activities using artificial intelligence. This has to do with ethical asp",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "originalUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/ITMO_University-1-1024x724.png",
+          "width": 1024,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/itmo-itmo-signs-russias-first-ai-ethics-code/",
+      "publishedDateTime": "2021-10-26T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
       "title": "Ethics guidance issued for machine learning in research",
       "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
@@ -54,7 +141,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -107,7 +194,7 @@
       "originalUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -226,6 +313,49 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
+      "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
+      "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
+      "originalUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
+      "publishedDateTime": "2021-10-22T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1311,146 +1441,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-china-publishes-code-of-ethics-to-regulate-artificial-intelligence-what-would-isaac-asimov-say.md",
-      "title": "China publishes code of ethics to regulate Artificial Intelligence, what would Isaac Asimov say?",
-      "excerpt": "In other words, the three laws of robotics represent the moral code ... that one of China's goals is to be a leader in Artificial Intelligence by 2030, the publication notes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/389467",
-      "originalUrl": "https://www.entrepreneur.com/article/389467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-the-ethics-of-artificial-intelligence.md",
-      "title": "The Ethics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) is intelligence demonstrated by machines as opposed to the natural intelligence displayed by humans or animals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2021/the-ethics-of-artificial-intelligence",
-      "originalUrl": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2021/the-ethics-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.isaca.org/-/media/images/isacadp/project/isaca/feature-carousel/membershipnav-iamisaca.png",
-          "width": 321,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-07T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "COBIT",
-        "domain": "isaca.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-driving-ai-innovation-in-tandem-with-regulation.md",
-      "title": "Driving AI innovation in tandem with regulation",
-      "excerpt": "This unleashed criticism that the regulations could slow AI innovation, hamstringing Europe in its competition with the U.S. and China for leadership in AI. For example, Andrew McAfee wrote an article titled “EU proposals to regulate AI are only going to hinder innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "originalUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/driving-ai-innovation-in-tandem-with-regulation/amp/",
-      "publishedDateTime": "2021-10-06T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

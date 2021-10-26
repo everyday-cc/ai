@@ -2,21 +2,109 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-10-26-artificial-intelligence-sheds-light-on-how-the-brain-processes-language.md",
-      "title": "Artificial intelligence sheds light on how the brain processes language",
-      "excerpt": "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain.",
+      "path": "_news/2021-10-26-singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible.md",
+      "title": "Singapore-based digital comic platform uses AI to make manga more accessible",
+      "excerpt": "There was no digital platform that comic lovers could access at all times. Vu and Hieu together with Ken Luong and other comic lovers teamed up and founded INKR, a digital comic platform in 2011 that's currently based in Singapore with an office in Vietnam.",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
+      "webUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
+      "originalUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg",
-          "width": 3999,
-          "height": 2666,
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/inkr_aauh.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/entertainment/18010/singapore-based-digital-comic-platform-uses-ai-to-make-manga-more-accessible?amp=1",
+      "publishedDateTime": "2021-10-26T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-deep-learning-software-market-size-and-forecast-2028-key-companies-microsoft-express-scribe-nuance-google-ibm-aws.md",
+      "title": "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS",
+      "excerpt": "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
+      "originalUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1",
+      "publishedDateTime": "2021-10-25T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-travel-expenses-ai-startup-worth-100-million-in-fund-raiser.md",
+      "title": "Travel Expenses AI Startup Worth $100 million in Fund Raiser",
+      "excerpt": "A Switzerland-based startup that says it uses artificial intelligence to help mange travel expenses is raising funds at $100 million valuation, according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63.dYmgwUJw/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +114,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:00:00-07:00",
+      "publishedDateTime": "2021-10-25T15:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,6 +137,151 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
+      "title": "We need to pay attention to AI bias before it's too late",
+      "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/25/cc0205d8-ff0a-4d0b-b4c6-a09713397ea1/resize/1200x/269e9cf0da4d09b32d22a62c64a5f3f2/shutterstock-1717584028.jpg",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
+      "publishedDateTime": "2021-10-25T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-utilizing-ai-to-improve-mass-transit.md",
+      "title": "Utilizing AI to improve mass transit",
+      "excerpt": "AI's capacity for data analysis has the potential to not only improve the current mass transit system, but reimagine it altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
+      "originalUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/avs-and-society-e1572293868810.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/amp/",
+      "publishedDateTime": "2021-10-25T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-self-driving-trucks-could-be-solution-to-supply-chain-woes.md",
+      "title": "Self-Driving Trucks Could Be Solution to Supply Chain Woes",
+      "excerpt": "Ariel Wolf, general counsel for the Self-Driving Coalition, an industry group promoting autonomous vehicles, joined Cheddar to discuss the ongoing supply chain woes partially attributed to a lack of truck drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes",
+      "originalUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/47bf0278-2a54-4c47-b3b1-9ccb5f29b5c7.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp",
+      "publishedDateTime": "2021-10-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -266,15 +499,15 @@
       "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
       "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "webUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
       "featuredContent": null,
       "highlight": null,
       "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "url": "https://edtechmagazine.com/k12/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -284,8 +517,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
       "publishedDateTime": "2021-10-25T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -300,8 +533,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Machine Learning",
+        "AI",
         "AI in Security"
       ]
     },
@@ -563,7 +796,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -667,7 +900,7 @@
       "originalUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -953,7 +1186,7 @@
       "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -993,230 +1226,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-introduce-robotics-ai-in-curriculum.md",
-      "title": "Introduce robotics, AI in curriculum",
-      "excerpt": "Our annual survey of CXOs and decision makers has revealed that as we emerge from the current crisis, optimism with regard to AI has gone up significantly from 72 percent to 92 percent, and the rate of AI adoption has increased from 62 percent to 70 percent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "originalUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monitor.co.ug/resource/blob/3574060/bb0203f685069f14f00a1b5d66bf87f5/comm03pix-data.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-monitor-co-ug.cdn.ampproject.org/c/s/www.monitor.co.ug/uganda/oped/commentary/introduce-robotics-ai-in-curriculum-3595214?view=htmlamp",
-      "publishedDateTime": "2021-10-25T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Monitor",
-        "domain": "monitor.co.ug",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
-      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
-      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "publishedDateTime": "2021-10-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19-analysis-microsoft-us-ptc-us.md",
-      "title": "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)",
-      "excerpt": "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua25568936_g.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "publishedDateTime": "2021-10-25T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025.md",
-      "title": "Artificial Intelligence (AI) Robots Market Share 2021 Analysis, Dynamics, Industry Size, Latest Trends and Industry Growth Research Report 2025",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry” “ Artificial Intelligence (AI) Robots Market ” report analyses the overview of the global market with respect to major regions and segmented by types and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-5-ways-fintech-is-transforming-the-daily-routine.md",
-      "title": "5 Ways FinTech is Transforming the Daily Routine",
-      "excerpt": "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
-      "originalUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg",
-          "width": 880,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/",
-      "publishedDateTime": "2021-10-25T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

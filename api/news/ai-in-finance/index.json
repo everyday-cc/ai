@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
+      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
+      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-5-ways-fintech-is-transforming-the-daily-routine.md",
       "title": "5 Ways FinTech is Transforming the Daily Routine",
       "excerpt": "FinTech is maturing and financial management has become simple and accessible like never before. , CGO at Smart IT discusses further",
@@ -1278,40 +1322,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-quantexa-named-to-the-2021-cb-insights-fintech-250-list-of-top-fintech-startups.md",
-      "title": "Quantexa Named to the 2021 CB Insights Fintech 250 List of Top Fintech Startups",
-      "excerpt": "Quantexa Logo \"This is the fourth class of the Fintech 250, and it's also the most international, representing 26 countries. These 250 fintech startups are attacking an incredibly",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
-      "originalUrl": "https://www.wdbj7.com/prnewswire/2021/10/05/quantexa-named-2021-cb-insights-fintech-250-list-top-fintech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDBJ",
-        "domain": "wdbj7.com",
         "images": null,
         "publishers": null,
         "authors": null

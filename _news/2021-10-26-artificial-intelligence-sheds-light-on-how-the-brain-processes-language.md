@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence sheds light on how the brain processes language"
-excerpt: "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain."
+excerpt: "In the past few years, artificial intelligence models of language have become very good at certain tasks. Most notably, they excel at predicting the next word in a string of text; this technology helps search engines and texting apps predict the next word you are going to type."
 publishedDateTime: 2021-10-25T19:00:00Z
-originalUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
-webUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
+originalUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
+webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
 type: article
-quality: 82
-heat: 92
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg"
-    width: 3999
-    height: 2666
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -38,13 +37,13 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 72
+    quality: 74
     images:
       - url: "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg"
         width: 1200
         height: 1000
         isCached: true
 
-secured: "Gl6Ndw0P+j8e7ynzJBfi7SbRwT2jPglrwEsLCLiMjbO51wyN6dAnC3wQbVIxss5n9W/mhyEzfVRPRCHPOkKBoXAkUhRkC+gk8bJFw06DntAso/5z3+wVxch1hf9FsktkWtvq4eslPLS37slkqwURyRZfsvLO104+72QIeXy6RjuKA7JJVzo2EvepoBH2wDWAgAQfRtUyl6Fy9iO63o5nzG4tAcNZzWnmHmT5YdFy4Mf0ANExn3rTRKtPpLR73TQCkJ5GpCvhj6qI6q0LB1eEufb6j6MsYiJLsd1VYaqADKMGShs8IjWvlhiPYT5yWpSLVUNjBhhgaOiG3UCiOhiZOHI46trosofy98VQATHs8dM=;TJPCXTccvn6SFZNxAGEhZQ=="
+secured: "qhAJvZJP5EwqD4H0YynzXS/DUTZ7CKIeimbQgaiBvLkQCCVVxaQ8qUB4AdR6Vi/FCcsYZrdz+upmNHYNlOAfGyG1TdV8dqjt2ZqTzM3vuwiPQjPBSRb7s6Lb9U1xlueuffypN1OhO8mEnnyND61Xbixohru5Uu9tegMc0R1QW3BqoYiAKBxw7i0JW/oxc3W0XQ+PtDgIgPgw+tZLhBFJTS4dGuE/pC9IYEvlGzozqPYNgQZKQ+su2ed74UZi3f/Olge/3pWjWLWAPdQgpcKWL9v/0BA3bIQx6zdjGPvmjiTdufJligJTC0Wk3+jYnt4Wz76JcQpbAuDDD/it3FC95i+lp0k5jXsAdyfwB40FjHw=;/nCVJVcpIImKJJifk9d9Yg=="
 ---
 

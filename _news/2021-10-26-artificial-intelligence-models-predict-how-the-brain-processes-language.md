@@ -8,9 +8,9 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-models-predict-ho
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Medindia
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg"
@@ -27,20 +28,22 @@ images:
 
 related:
   - title: "Artificial intelligence sheds light on how the brain processes language"
-    excerpt: "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain."
+    excerpt: "In the past few years, artificial intelligence models of language have become very good at certain tasks. Most notably, they excel at predicting the next word in a string of text; this technology helps search engines and texting apps predict the next word you are going to type."
     publishedDateTime: 2021-10-25T19:00:00Z
-    webUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
+    webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 82
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg"
-        width: 3999
-        height: 2666
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
-secured: "/XlxazUVqnQWDRd28xvo9j/mDjYE4VkkOMYl7c8j3uI/Ev9G0cy6PjuHrgOOVoRIHIQG7serz4OjT8xzGEkVFKAySKn0lpaKQbljg91OWIfWuvPd6z0yhoCQt/nVbk1ShzkkHB1tth/q/M02C+nx2kZDQEr/27KgNXV0sdK1MiuCfaPUUYX+prkQ0Bep2EH1S8UcjpC6MnL0wBdmlXWrZLz2689ebyqsAyl15iC9yngCDgvZHYFyTALt+Su0UU4CIl4keWlkxXx8R0X4B85aXF4VrIhw+K0ZJ+A531Q+dhPuyskf1wJyZAK4+P554Pe3b+q4tEp5T9uPlCY+ZY9FFYVlSGX4KdkEryXrBjEC3tw=;w205XPeCM/j5tHrg/tN6Zw=="
+secured: "zqAIBPtmLQkYV6AMrwrUAHOYZVVOJPvkcdgULExcClKVDbapB8LZr2ztN2bB6ofMoRqIRVevlMu6/9PFjssCNJlT4rBJKOhEfKuk9su2xRfbcyMRbbkVWC9vi60wloTTjecpdZnMf7k2He5iBGithLkEpW5BKMB5C2ww8cd/RPZ1LNV2bpQjbM/hF3lHW65iUR4ZuuI0+8SYc37Yuy+xbAUgR6j/cEMPOf66lZdwMeFkST9+LZbUjBPjyPqtgZi6yLJGEbNDIpUxgg17UM/rtgA/fh0Yt5K149pZk4vbshYlV8Ya3E1GGlaSJjgJHZvnB29mqg08hJ247JsQo6B1ShdTmeOG5S6Cj6QPowBYpM5ZB+6I3d0B1WKud/ooVqxZho3NuYf3R6Z8PIvTrK1EbYyqZLkdLCAw//sJmCbDiFsyxgSN3mRST8gtsPvV+P+64RhsgQIieDXsxGIyLyEqw+H6mB1QdTYR7umMziCbXxpGZdptAwhOgcwNQOLlMLOjiVZV/Sc+Mgb2HpI0HpSvYg==;MntpdA+T0xmM4pHoF6DFlQ=="
 ---
 

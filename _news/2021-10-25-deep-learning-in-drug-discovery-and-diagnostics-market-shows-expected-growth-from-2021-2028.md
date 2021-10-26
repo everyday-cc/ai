@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
+    publishedDateTime: 2021-10-26T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
     excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
     publishedDateTime: 2021-10-25T07:17:00Z

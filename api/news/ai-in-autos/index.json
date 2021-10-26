@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-26-self-driving-trucks-could-be-solution-to-supply-chain-woes.md",
+      "title": "Self-Driving Trucks Could Be Solution to Supply Chain Woes",
+      "excerpt": "Ariel Wolf, general counsel for the Self-Driving Coalition, an industry group promoting autonomous vehicles, joined Cheddar to discuss the ongoing supply chain woes partially attributed to a lack of truck drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes",
+      "originalUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/47bf0278-2a54-4c47-b3b1-9ccb5f29b5c7.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp",
+      "publishedDateTime": "2021-10-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-when-a-ghost-seemingly-has-taken-your-ai-self-driving-car.md",
       "title": "When A Ghost Seemingly Has Taken Your AI Self-Driving Car",
       "excerpt": "In the spirit of Halloween, consider whether a ghost can drive off or more rightly spirit away with your AI self-driving car.",
@@ -255,7 +298,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1356,58 +1399,6 @@
         "name": "WTVA",
         "domain": "wtva.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices.md",
-      "title": "Worries That AI Self-Driving Cars Will Charge Sky-High Monopolistic Prices",
-      "excerpt": "Some are worried that self-driving cars are going to be priced sky-high for usage, perhaps veering into the undesirable arena of monopolistic rents. Time to take a look at this, before things potentially get out of hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ecbf7ba839337a91950aad%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D2092%26cropY1%3D0%26cropY2%3D1326",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/12/worries-that-ai-self-driving-cars-will-charge-sky-high-monopolistic-prices/amp/",
-      "publishedDateTime": "2021-10-12T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

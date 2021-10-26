@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-t
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI is Changing the Future of Education"
-    excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
-    publishedDateTime: 2021-10-21T23:28:00Z
-    webUrl: "https://www.ozy.com/pg/newsletter/the-daily-dose/443152/"
-    type: article
-    provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "What AI brings to national military organizations"
     excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"

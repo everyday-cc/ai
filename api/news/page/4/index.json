@@ -2,6 +2,283 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
+      "title": "embedded news week: robotics, rainforests and IoT security",
+      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
+          "width": 1700,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-eu-proposed-regulatory-regime-for-artificial-intelligence-ai-could-set-global-standard.md",
+      "title": "EU Proposed Regulatory Regime for Artificial Intelligence (AI) Could Set Global Standard",
+      "excerpt": "The European Union (EU) has launched the world’s first comprehensive legislative package to regulate AI.  The Artificial Intelligence Act (AIA), which is currently progressing through the E",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
+      "originalUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/eu-proposed-regulatory-regime-artificial-intelligence-ai-could-set-global-standard?amp",
+      "publishedDateTime": "2021-10-22T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
+      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
+      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
+          "width": 708,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "publishedDateTime": "2021-10-22T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-scientists-built-an-ai-to-give-ethical-advice-but-it-turned-out-super-racist.md",
+      "title": "Scientists Built an AI to Give Ethical Advice, But It Turned Out Super Racist",
+      "excerpt": "Researchers at the Allen Institute for AI created Ask Delphi to make ethical judgments — but it turned out to be awfully bigoted and racist instead.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/delphi-ai-ethics-racist",
+      "originalUrl": "https://futurism.com/delphi-ai-ethics-racist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/10/RacistAI-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/delphi-ai-ethics-racist/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/delphi-ai-ethics-racist/amp",
+      "publishedDateTime": "2021-10-22T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-medical-device-leader-medtronic-joins-race-to-bring-ai-to-health-care.md",
+      "title": "Medical device leader Medtronic joins race to bring AI to health care",
+      "excerpt": "Medtronic has tightened its focus on health care technology with research and development of artificial-intelligence-based medical devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
+      "originalUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/image2-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/how-medtronic-is-leading-the-charge-into-a-new-era-of-health-care-technology/amp/",
+      "publishedDateTime": "2021-10-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-mailchimp-employs-ai-to-boost-email-marketing-campaigns.md",
+      "title": "Mailchimp employs AI to boost email marketing campaigns",
+      "excerpt": "Content Optimizer is not Mailchimp's first foray into using AI for content marketing, but it might be its most impactful effort in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/",
+      "originalUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1279753951-e1634580409297.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/22/mailchimp-employs-ai-to-boost-email-marketing-campaigns/amp/",
+      "publishedDateTime": "2021-10-22T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
       "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
       "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
@@ -493,7 +770,7 @@
       "originalUrl": "https://www.gizbot.com/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -906,274 +1183,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
-      "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
-      "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc12.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "originalUrl": "https://www.nbc12.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWBT",
-        "domain": "nbc12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
-      "title": "Machine learning can be fair and accurate",
-      "excerpt": "Researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/10/211020140038.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/10/211020140038.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker.md",
-      "title": "Accelerate computer vision training using GPU preprocessing with NVIDIA DALI on Amazon SageMaker",
-      "excerpt": "AWS customers are increasingly training and fine-tuning large computer vision (CV) models with hundreds of terabytes of data and millions of parameters. For example, advanced driver assistance systems (ADAS) train perception models to detect pedestrians, road signs, vehicles, traffic lights, and other",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-computer-vision-training-using-gpu-preprocessing-with-nvidia-dali-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/15/ML-4888-image001-1252x630.png",
-          "width": 1252,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T14:25:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z.md",
-      "title": "IBM Q3 report shows gains in cloud revenue, declines in IBM Z",
-      "excerpt": "IBM said total cloud and cognitive software revenue was $5.7 ... Global Technology services, or GTS, posted $6.2 billion in revenue, down 4.8%. Global Business Services revenue (which includes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
-      "publishedDateTime": "2021-10-20T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-at-mass-stem-week-kickoff-mit-raise-announces-day-of-ai.md",
-      "title": "At Mass STEM Week kickoff, MIT RAISE announces Day of AI",
-      "excerpt": "Leaders from MIT and Massachusetts state government kicked off the fourth annual Massachusetts STEM Week at the Media Lab. Speakers emphasized the importance of STEM education and career pathways for learners of all ages and backgrounds,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
-      "originalUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202110/Mass-STEM-Week-presentation-00.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

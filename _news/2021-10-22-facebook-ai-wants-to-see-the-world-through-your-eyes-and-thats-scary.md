@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-t
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -94,13 +94,13 @@ related:
   - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
     excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
     publishedDateTime: 2021-10-26T14:20:00Z
-    webUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    ampWebUrl: "https://www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    webUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    ampWebUrl: "https://www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 37
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -131,6 +131,22 @@ related:
       - url: "https://www.niemanlab.org/images/zuck-head-storm-maybe-final-700x467.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "U.S. lawmakers investigating how Facebook Inc. and other online platforms shape users' world views are considering new rules for their artificial intelligence algorithms"
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the powerful algorithms that drive them."
+    publishedDateTime: 2021-10-26T16:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132791/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 10
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/17/49663707-0-image-a-2_1635265326901.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "Tf2xnzXPUzICUPCFx7E/z9vIbLziPQGU3e/dLYlVU79LiXMfkLZI7SHbaObP9S38EKXsWz1ILlmi077HltZG1gEx253fabcYi2uqnRlxdsOjdVx+VRDnQ/yh0/uX+VVd5IjnUiJa6lsTTZ5CLM74bHF3q9+/gz2qDDr4ZeCsGWjQh+APVVMm5VSkjXx/OPl7ukdQufRQeXchq90ruigNFbJ3V1cYYpUYyyDIrW/kGnUMsPPRsUwf7jJshJosmvAIWlv3mu9eB2R9qwN25yQh35178P5wmqRY/2BJ958qGJKbMuxEdoeCWRg1XUDBHZ6LoGG1LtHK/PzrLO52nA3NNwzb/ASLUUQHMFQoKohiA0Y=;GWCjwWMCDafGVv9t8bwVDA=="

@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Net Health Research into Machine Learning for Wound Care Highlighted in Leading Journal"
-excerpt: "A peer-reviewed article written by clinicians and data scientists at Net Health highlights the value of machine learning and artificial intelligence (AI) in predicting"
-publishedDateTime: 2021-10-26T11:00:00Z
-originalUrl: "https://www.indianagazette.com/news/state/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_c6f029e6-99cc-5782-9a2a-9fb21506d6e7.html"
-webUrl: "https://www.indianagazette.com/news/state/net-health-research-into-machine-learning-for-wound-care-highlighted-in-leading-journal/article_c6f029e6-99cc-5782-9a2a-9fb21506d6e7.html"
+excerpt: "A peer-reviewed article written by clinicians and data scientists at Net Health highlights the value of machine learning and artificial intelligence (AI) in predicting wound healing timeframes and risks."
+publishedDateTime: 2021-10-26T11:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-net-health-research-into-machine-learning-wound-care-/2021/10/26/9477076.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-net-health-research-into-machine-learning-wound-care-/2021/10/26/9477076.htm"
 type: article
-quality: 13
-heat: 13
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Indiana Gazette
-  domain: indianagazette.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
-secured: "FpJZwemXSf2q0Fo/4kM1N1gw2Ik/NMCh4CqGaV1d5xnads27PkAHSXPFZeC+o/CfisQhItNgPNwkwOjqILBZ3QhlLllBugTJVRoVrfB7TS6O2YYKRKWcSU0ygNKb4hHxPy7tU06d/cDE1qPfLXNJvfzKh806U/O8uw4y9bn3MOeVbLAYdPMVSE2ExotbCOFKOLLkKMKnfkdFUvPL6NY1XpgM7wcKPXgMrTUCu96Hx1u4Z5mm6Gsey/X89on0xYmYqkOgSn1HRkCGaaPDpcQbDsvl5Kxm/+iWqVhRT9LUtoOSeOvGGfMKK306vcuAtnHBm26BdQzCke8V6lEbthLfwrhpPpu+jIwrJcx7b5kbSt8=;T7ALskUEhy306OWeYYjbww=="
+secured: "qh7qI+oylNNC59LxCVl+FxbBUUJ7yqLTeWVFyySMSvyHyqghzF6L4dxrYVvWbb7QiSUnXki/Hn6P+mOslQRhk1TbwshkTSvaT6akhNV4AG3HvRIEbxNSmDg9PHtIwo8hQvQfR1yfnlB+YjU1cyV3k4Vcp4UYqbbep5xv+TiMYxej/zl2l7W9pwXK9R86RLTzojQ0KbA3KVlAWbpGSfB/3POSjZ6sGzKlzzdFO3axqX5w60QQXDnyy3QIBeFz3ADFkgG7MghaSNfRrMNO/ClvQLJbMNnPVOZ8TE25zMqDtqd2Qdde2wzmQi3qNu986tIG4pO0py6hVe8dNJ5ptJP/ZLqWvIURP7iTgL0RQ9f84Dk=;FY8ubNRyPGOXSTrW5fGI7w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20211026005515/en/Bridgewea
 webUrl: "https://www.businesswire.com/news/home/20211026005515/en/Bridgeweave-and-IIFL-Securities-Announce-Partnership-to-Provide-AI-Powered-Investment-Insights"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "How Instoried Is Using AI To Turn Your Content Into Something People Actually Want To Read"
+    excerpt: "Enter Instoried, which is today announcing the completion of an $8m funding round as it launches its content enhancement platform in the US. Powered by artificial intelligence (AI), Instoried provides instant feedback on the written content created by businesses and individuals,"
+    publishedDateTime: 2021-10-26T16:43:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/"
+    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2021/10/26/how-instoried-is-using-ai-to-turn-your-content-into-something-people-actually-want-to-read/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61782f4d6dade68bd54813b2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2175%26cropY1%3D339%26cropY2%3D1562"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "S0Zs+xiuHpyANEGrJM3u8qqjPNbRsIs4gJKlI/aqWR2bftWvhAk8ZyxX+DhE++7QncfUlhiIhBCdWD0tQUDKzqaDpkeOaDJg7k4iMJqSlhEiaXNg0QWmIa9eYijgzyBJQ3A/vbzI0xNvi632qDEYypJZKsLiWLC/zIcyZRJbB3fWzVdixHbvL8VS3WzvlKkYLFbXMzG7GGsP0921PXf6Cj6Xo1NvnwatsWiuBT0FmN36jYE+h4nNKNWczXJFpmZH9vuBwZE+kah7EINaeMgCzGBNWd1pUo6qwY0sOl33cQsMRkh08TRecIdeVjtYg81qccTmsm7oGGKsguU/kCFpbk75/87JRzKO+zp8UcE0Vcg=;QCuvfVWLiVl95I/KdYMYtg=="
 ---

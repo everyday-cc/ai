@@ -47,20 +47,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "AI is Changing the Future of Education"
-    excerpt: "Dating in the post-pandemic era feels as uncharted as trying to lock lips for the first time in middle school. Handshake or hug? A romantic restaurant meal or a socially distanced bike ride? And in this upside-down world,"
-    publishedDateTime: 2021-10-21T23:28:00Z
-    webUrl: "https://www.ozy.com/pg/newsletter/the-daily-dose/443152/"
-    type: article
-    provider:
-      name: OZY
-      domain: ozy.com
-    quality: 54
-    images:
-      - url: "https://assets.ozy.com/ozy-prod/2019/07/gettyimages95871489.jpg?width=1200&height=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What AI brings to national military organizations"
     excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"
     publishedDateTime: 2021-10-23T10:35:00Z

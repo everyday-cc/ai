@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/"
 type: article
 quality: 89
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_714285595.jpg"
         width: 500
         height: 334
+        isCached: true
+  - title: "Alida Brings Deeper AI, Analytics, and CXM Integrations to Fall 2021 Product Release"
+    excerpt: "Alida, a visionary leader in Total Experience Management (TXM), today delivered its Fall 2021 product release. Alida brings new capabilities in customer experience (CX), employee experience (EX), product experience (PX),"
+    publishedDateTime: 2021-10-26T17:28:00Z
+    webUrl: "https://customerthink.com/alida-brings-deeper-ai-analytics-and-cxm-integrations-to-fall-2021-product-release/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 30
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
         isCached: true
 
 secured: "yG4wMsbCELpCtkVKFhJGMKkjk3ozguQvxUlVAXgZSVlYCawvWvPOB0OxbBmU1e7F1Z0gSb7YkiFxQIlBkiKLCpuIepguNepKE11uK0RxX0O1ge2IAxGwmh7sL69nzjDQHZvJIWOg5D/7vCQKvU5HKr+CNFxDnnyC/MCyTA1kwJYszV8bIViJEbAqtEVCJ9pTUR867lJ+dR98hHJtPcvYgN4fcn/bb5AW+0cZ1nbZOX3qTDQF6xZ3jVVWji15oeQvjp52iKeJvVZYnNw071NroSAB6gn4MpRPlpyFH54F/x0aA9s2Q6NS15QJy1UGxXPGFDL46HwZ2109WmUGQxQXdD2G2emTGXXVJInWtNhIxFJQy7SH7xkZco/yJMQjKfQPXzgoo0X1LmMyhqUnQ7H/xSyJGv6hSJkpSsJKUJmykOSZ+k+x5XKM0zZYaJgZOeWVydTbz/FocTY3XERNAcilBkQdNKH+qMHFFWU3Rz+/3MXHmPlpzNw++JAzoA3XbAPUYz1KW2osxyRtUFJZ98dwJA==;TF8IMfs7rZgmuD8LefArHw=="

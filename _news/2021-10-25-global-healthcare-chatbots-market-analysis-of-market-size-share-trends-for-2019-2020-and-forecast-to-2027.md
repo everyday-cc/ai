@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lidar for Self-Driving Car Market Overview, Industry Top Manufactures, Market Size, Industry Growth Analysis and Forecast: 2027"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” “Lidar for Self-Driving Car Market” forecast gives a current review of the market size, including definitions, division,"
+    publishedDateTime: 2021-10-26T08:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-overview-industry-top-manufactures-market-size-industry-growth-analysis-and-forecast-2027-2021-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
     excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"
     publishedDateTime: 2021-10-26T07:54:00Z

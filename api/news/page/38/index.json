@@ -2,6 +2,440 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-09-27-crm-marketing-startup-optimove-raises-75m.md",
+      "title": "CRM marketing startup Optimove raises $75M",
+      "excerpt": "Optimove, a company developing customer relationship management software, has raised $75 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
+      "originalUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/27/crm-marketing-startup-optimove-raises-75m/amp/",
+      "publishedDateTime": "2021-09-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency.md",
+      "title": "14 Smart Ways Businesses Can Leverage AI For Growth And Efficiency",
+      "excerpt": "From automating repetitive processes to forecasting to better serving customers and clients, companies can realize significant productivity gains and cost savings from the smart application of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614e24dfe81f627517f55f01%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/27/14-smart-ways-businesses-can-leverage-ai-for-growth-and-efficiency/amp/",
+      "publishedDateTime": "2021-09-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-tensorflow-1x-vs-tensorflow-2-behaviors-and-apis.md",
+      "title": "TensorFlow 1.x vs TensorFlow 2 - Behaviors and APIs",
+      "excerpt": "Under the hood, TensorFlow 2 follows a fundamentally different programming paradigm from TF1.x. This guide describes the fundamental differences between TF1.x and TF2 in terms of behaviors and the APIs, and how these all relate to your migration journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/tf1_vs_tf2?hl=da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-replacing-your-iphone-13-display-will-render-face-id-unusable-unless-apple-does-it.md",
+      "title": "Replacing your iPhone 13 display will render Face ID unusable, unless Apple does it",
+      "excerpt": "By contrast, the Face ID module is simply a capture device that doesn't hold any facial recognition data, which is stored in the iPhone's secure enclave.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "originalUrl": "https://www.techspot.com/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-27-image.jpg",
+          "width": 1960,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91433-replacing-iphone-13-display-render-face-unusable-unless.html",
+      "publishedDateTime": "2021-09-27T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser.md",
+      "title": "Chinese Startup Mech-Mind Robotics Banks USD155 Million in Fundraiser",
+      "excerpt": "Mech-Mind Robotics, a Chinese industrial robotics startup, said it has secured CNY1 billion (USD155 million) in its latest funding round led by online services giant Meituan and venture capital firm IDG Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
+      "originalUrl": "https://www.yicaiglobal.com/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/chinese-startup-mech-mind-robotics-banks-usd155-million-in-fundraiser/16477161300426752.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning.md",
+      "title": "Preparing for the 'golden age' of artificial intelligence and machine learning",
+      "excerpt": "The latest ZDNet survey on AI actionability and accountability finds that IT teams are taking a direct lead, with most companies building in-house systems. However, oversight of AI-generated decisions is lagging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/16/ac7869f1-2363-4269-a70c-ee49b6b9f6b2/resize/1200xauto/40a66bf643c6438a543924b6dd11d0e0/who-reviews-ai-or-ml-decisions.png",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/preparing-for-the-golden-age-of-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2021-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-half-of-people-say-they-are-better-drivers-than-computers-will-be.md",
+      "title": "Half of people say they are better drivers than computers will be",
+      "excerpt": "A study by Volkswagen Financial Services UK (VWFS) has revealed that 46% of British motorists think they’d be a better driver than driverless cars powered by Artificial Intelligence. Regionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
+      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/half-people-say-better-drivers-21686050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coventry Telegraph",
+        "domain": "coventrytelegraph.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon.md",
+      "title": "How a pet subscription startup is outfoxing giants like Chewy and Amazon",
+      "excerpt": "How do you build a subscription box business to rival major brands? PetFriendly, a startup that sells vet-quality flea & tick medication on a subscription model, has found success through personalization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "originalUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/a2d68c1a-71cd-4586-b855-19681a8742f9/resize/1200xauto/4e5c19dae51ada923f1f3e2d32cbfcec/dog-and-laptop.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "publishedDateTime": "2021-09-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-worried-about-facial-recognition-big-tech-wants-your-anal-prints-too.md",
+      "title": "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too",
+      "excerpt": "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg",
+          "width": 745,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "publishedDateTime": "2021-09-27T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav.md",
       "title": "AI navigation startup Phiar lands ex-Google manager, funding from Telenav",
       "excerpt": "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round.",
@@ -732,412 +1166,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-become-a-microsoft-azure-expert-with-this-60-bundle.md",
-      "title": "Become a Microsoft Azure expert with this $60 bundle",
-      "excerpt": "Meanwhile, Microsoft Azure powers thousands of cloud platforms ... Instead of being tied to a particular work machine, we will be able to access data and run powerful software from a virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/become-a-microsoft-azure-expert-with-this-60-bundle/amp/",
-      "publishedDateTime": "2021-09-26T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-3-ways-to-get-into-reinforcement-learning.md",
-      "title": "3 ways to get into reinforcement learning",
-      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included US$10,000 of AWS promotional credits. Don’t let the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/686379/3-ways-get-into-reinforcement-learning/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_m_113932028_learn_-_copy_1.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-26T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-the-lse-alumni-turning-their-university-into-a-startup-powerhouse.md",
-      "title": "The LSE Alumni Turning Their University Into A Startup Powerhouse",
-      "excerpt": "A Google-backed student Lead, a CEO of a unicorn, and a college VC fund are joining forces to create a startup powerhouse in one of London’s most iconic universities, the London School of Economics (LSE),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6150287d385a514f31a2a155%2F0x0.jpg",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisoncoleman/2021/09/26/the-lse-alumni-turning-their-university-into-a-startup-powerhouse/amp/",
-      "publishedDateTime": "2021-09-26T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-we-are-sleepwalking-into-ai-augmented-work.md",
-      "title": "We are sleepwalking into AI-augmented work",
-      "excerpt": "The narrative that AI won't take our jobs but will instead magically make human work more fulfilling is a dangerous myth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "originalUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/unemployment.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/25/we-are-sleepwalking-into-ai-augmented-work/amp/",
-      "publishedDateTime": "2021-09-25T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026.md",
-      "title": "Artificial Intelligence (Ai) In Education Market to Eyewitness Massive Growth by 2026",
-      "excerpt": "HTF MI Analyst have added a new research study on Title Worldwide Artificial Intelligence (Ai) In Education Market In-depth Research Report 2021, Forecast to 2026 with detailed information of Product Types [,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-education-market-to-eyewitness-massive-growth-by-2026/?amp=1",
-      "publishedDateTime": "2021-09-25T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-ai-strategies-for-growth-workshop-in-collaboration-with-aws.md",
-      "title": "AI strategies for growth workshop in collaboration with AWS",
-      "excerpt": "Sharjah -Sharjah Research Technology and Innovation Park hosted a workshop on artificial intelligence (AI) and machine learning (ML), delivered by Amazon Web Services (AWS). The “AI Strategies for Growth” workshop, which took place on Sunday on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
-      "originalUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/ITApark_2021_09_25.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
-      "publishedDateTime": "2021-09-25T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-migrate-multi-worker-cpugpu-training.md",
-      "title": "Migrate multi-worker CPU/GPU training",
-      "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=de",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

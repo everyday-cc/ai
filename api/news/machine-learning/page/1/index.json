@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
+      "title": "How machine learning speeds up Power BI reports",
+      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "publishedDateTime": "2021-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
+      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
+      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
+      "publishedDateTime": "2021-10-26T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
       "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
       "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
@@ -182,15 +277,15 @@
       "title": "Artificial Intelligence and Machine Learning Play a Role in Endpoint Security",
       "excerpt": "ML-enhanced endpoint protection can keep schools safe from cyberattacks. Here are three benefits district leaders will find when investing in this advanced technology.",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "webUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security",
       "featuredContent": null,
       "highlight": null,
       "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
+          "url": "https://edtechmagazine.com/k12/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202110/EdTech-CSAM_2021_Hero-MachineLearning.jpg?itok=wRGjUW6F",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -200,8 +295,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp",
       "publishedDateTime": "2021-10-25T07:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -216,8 +311,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Machine Learning",
+        "AI",
         "AI in Security"
       ]
     },
@@ -1281,93 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first.md",
-      "title": "AI And ML Can Transform Financial Services, But Industry Must Solve Data Problem First",
-      "excerpt": "ML/AI will differentiate successful early adopters, but there are multiple steps to successful adoption and the most important is clean data, a problem the financial services industry has faced for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165ee8f1915a35d69246734%2F0x0.jpg",
-          "width": 1191,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/10/13/ai-and-ml-can-transform-financial-services-but-industry-must-solve-data-problem-first/amp/",
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-edatanetworks-inc-awarded-patent-in-artificial-intelligence-doing-good-for-communities-from-uspto.md",
-      "title": "edatanetworks Inc. Awarded Patent in Artificial Intelligence Doing Good for Communities from USPTO",
-      "excerpt": "PRNewswire/ - edatanetworks Inc. announced today the approval of patent 17/073,308 from the United States Patent and Trademark Office (USPTO). This patent further enhances edatanetworks' patent protection relating to using artificial intelligence (AI) with tokenized rich transactions to benefit community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
-      "originalUrl": "https://www.wtvy.com/prnewswire/2021/10/13/edatanetworks-inc-awarded-patent-artificial-intelligence-doing-good-communities-uspto/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVY",
-        "domain": "wtvy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

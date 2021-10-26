@@ -2,21 +2,28 @@
 category: news
 title: "SambaNova Announces ELEVAITE, a Membership Program Designed to Move the Global 2000 Towards an AI-Enabled Future; Now Open for Applications"
 excerpt: "SambaNova Systems, the company building the industry's most advanced software, hardware and services to run AI applications, today announced that its AI membership program for the enterprise, ELEVAITE,"
-publishedDateTime: 2021-10-26T13:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sambanova-announces-elevaite-membership-program-designed-move-global-/2021/10/26/9477616.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sambanova-announces-elevaite-membership-program-designed-move-global-/2021/10/26/9477616.htm"
+publishedDateTime: 2021-10-26T13:17:00Z
+originalUrl: "https://www.lelezard.com/en/news-20065772.html"
+webUrl: "https://www.lelezard.com/en/news-20065772.html"
 type: article
-quality: 0
-heat: 0
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Microsoft AI
   - AI
 
-secured: "OMxLd42uy33hQIrr+CoSAPlTV1hq5XpPnPb/aGW69u4eu9PG94Ol8RFPYtbQpbChRj94y+uvw8cnUuY2tDbRzF7qbkaq+4Ky7RwSnyIxWwypeF+JqxOFUxE4HixLrrtlLY3El6yPdJrGJPPP2Fb1kixjE3/UW9czy4934k3Lk8n5GBVEmQ9vJ7qtqXBk0g0Z/fItWwpuRCC8DTdoKozVW9qc78C4NYA2oAGpWb556Ipt2R2zYDiR2HHw76GPZu3ISRGwdQUeC+j1cRuAAzTSzc4DulqyPJz3ptN13vZWxK4smzkZFfTVQ1MkT7xeFBtyiHYtcg+reIbmlNqS4Nc2YAqrscBL7PBvlqby1u2/Dag=;t5QA7aU7u7AhPiIitJM1UA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "fVpJRqUuFPeODyCvx+zxws02ArRto2ml5EcjVA5J2P8mAD6SC1xaChJaEtAOlArFPfz17nJR4PeXZA7bpDvczOZ4+emjIkd26SJ21dkNhO8ZwSyzbhZrjNzoSzSQ/1ZMybFutXSPUi+3KCBWVcVHhzH5qOhsoI3MhpIIzW+Irpmpzkc+jb+EolPZL0CeEkLVNqUWf8884ZNkCnAqEYBN7wBRSVwxABuzITswmWYSeu8Ki4eEqEjIdt4egub6r7AxrJmUpYOX49+TdruXCVLCI6F5ffhl17iCVJkpjE3eV1v7HY2aiWHmNqd2/MWq3KpY6DEXOblWDD5L5pj1Dh1CzUtRhv02uxA1mBPOEB06OFQ=;29bo6kUsmNKRDNbYRowBHA=="
 ---
 

@@ -104,13 +104,13 @@ related:
   - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
     excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
     publishedDateTime: 2021-10-26T14:20:00Z
-    webUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    ampWebUrl: "https://www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    webUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    ampWebUrl: "https://www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 37
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -130,6 +130,22 @@ related:
       - url: "https://www.niemanlab.org/images/zuck-head-storm-maybe-final-700x467.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "U.S. lawmakers investigating how Facebook Inc. and other online platforms shape users' world views are considering new rules for their artificial intelligence algorithms"
+    excerpt: "Lawmakers weighing how to limit the spread of disinformation on Facebook and other social media giants are turning their attention to regulating the powerful algorithms that drive them."
+    publishedDateTime: 2021-10-26T16:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132791/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132791/amp/Lawmakers-investigating-Facebook-online-giants-turn-attention-algorithms.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 10
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/17/49663707-0-image-a-2_1635265326901.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "oXyt26tvEzTMAlxAzBL7+42NouR0L8eFlWwMCaSBGKFFqlNiDjVs5RNYJkBHOcQ601YkZtkVo4QrWLVY+6mOKWIFUpLzcsyFdT/PJiotHlo7z0CQmvpWZncdU3cCuHRYcgXPz6pTdybyBn20cz2ZDkxCSdr0RJd0WmnRs0te5NAMupXqHIcdviFJsMP5plg5owwWzTn/+/i43Mm79RkhYq+kyTz+Ano/sa7t1UgNnchJQ7wE/wqSr8x4Ugs69Y4oYSGuct9oIqxK6uMATxdDUHh28Wd6hVz3z6ryI4KPyXNFWdmHCj2RqzVC5E3502U9bf+7m0TpIlin52l/LH3ljlnmpj904YfTwgINWYELVgarx2AVGD+I1qu7pHRW4rnUBtJYYYYDvA2zGAdn/4/9kBe4uN3XnzTce6kjzx0PqwXAsHnYHxUTzWVExL1YluHf8NS75Gw+zbzwJ/3Oy/cxHscKJyjBfNFbEMLtWXvxj6l/iAGBxELc4h8mmqeLWFlCJ/J0y2lG++RPgCPBDSGdVQ==;+NUYoiynQ0sSn9Hu0c/Aog=="

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding"
-excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to customers globally. The funding round was led by Smilegate Investment,"
-publishedDateTime: 2021-10-26T15:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-driven-3d-animation-startup-plask-raises-us256-/2021/10/26/9477811.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-driven-3d-animation-startup-plask-raises-us256-/2021/10/26/9477811.htm"
+excerpt: "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c"
+publishedDateTime: 2021-10-26T15:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
+webUrl: "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 900
         isCached: true
 
-secured: "uZs1YH2r3n1ySaktr++1p6gKRN7Vrrn0MEkz2DmQm9/8WByUXmRG/Z5uoK3qMnJnIoWoH8ybfMWuZtg0cQDTuZIMNWfc0R4GNyNeiA4PJklD4EEb+KTpUo2Rtd69YLKnhGstlGr1MIweYUtQ2wJQO3fPCiO1H/Lhyq0bablueWrMCOiOZ4ozKj5sr/evyY5nbOhUY7xGapz0T+VSp6CNyndxcczR46pFU/IauqOASRAygBFDhZrYsMzFWcaNKDx2G/Q+UeFlN01OMT1ePHz93GJGvwW3iGWhg/jYGQseAyMwMoJyV7eWuDfOMQZjmUZ8bJcjcp+BXcVwAd3/cfpghc2ZKuCJY1tjqF2Y68IXKHg=;lvep1okRkR8rVgB3RAkG5g=="
+secured: "MSkSK0Ad6urfU56mZQUA5ZNux9qFdGhkdeqbSnzirBttDB2ehyDJSyTN+spVGAVL31bQDAcLQeh+sRd1JMaAfoPRX1kqUZLgwYH0AA6MCi1GMpL+avQfcgOrOVZlshT6yJZkmek0rzDUd/SUUVq6MEdNXaAZ3OBT4wvVtEb5SRNmRBtQq2vF31Tum3frYppzOxqwmxV1rW66sHOgqgFw1uZnOBC/VyXXoiiKZb7GYIyMgA/D2Yzajx35Kc6ceGsi39aipXzGsrQOepuCM7M5pJxPcccQPGHmbESj2EkGliKUh3ClZcy6IU94ayX3Ac6ILhjBktRmrwTgz/WCPzNbfALcGDL8ZEWaw7Lj8BuFuug=;f3EMhWtnUuZMPAVdys1hrA=="
 ---
 

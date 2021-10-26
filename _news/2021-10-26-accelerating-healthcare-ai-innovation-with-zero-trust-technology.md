@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innova
 webUrl: "https://azure.microsoft.com/blog/accelerating-healthcare-ai-innovation-with-zero-trust-technology/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "The Growing Role of Artificial Intelligence in Telehealth"
+    excerpt: "The application of AI in telehealth to allow doctors to make real-time, data-driven rich choices is a key component in generating a better patient experience and improved health outcomes."
+    publishedDateTime: 2021-10-26T17:40:00Z
+    webUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/"
+    ampWebUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
+    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
+    type: article
+    provider:
+      name: medtechintelligence.com
+      domain: medtechintelligence.com
+    quality: 37
   - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
     excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
     publishedDateTime: 2021-10-25T19:30:00Z
