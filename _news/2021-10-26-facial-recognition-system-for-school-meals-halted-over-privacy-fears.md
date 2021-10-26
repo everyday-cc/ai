@@ -25,37 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Tamil Nadu's facial recognition systems slammed over privacy concerns"
-    excerpt: "The State government had launched the Facial Recognition System on October 4 as a mechanism to assist the police department."
-    publishedDateTime: 2021-10-24T22:21:00Z
-    webUrl: "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2021/oct/25/tamil-nadus-facial-recognition-systems-slammed-over-privacy-concerns-2375328.amp"
+  - title: "Schools put the brakes on facial recognition scheme for kids buying lunch"
+    excerpt: "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),"
+    publishedDateTime: 2021-10-26T08:21:00Z
+    webUrl: "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
+  - title: "New funding for one facial recognition firm, features for another"
+    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
+    publishedDateTime: 2021-10-22T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/9/23/w600X390/police_cctv.jpg"
-        width: 600
-        height: 390
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
-  - title: "Patient Privacy Concerns Emerge Over Facial Recognition Tech"
-    excerpt: "Surveyed patients expressed concerns over data governance, usage, and patient privacy relating to facial recognition technology being used in medical research."
-    publishedDateTime: 2021-10-25T17:00:00Z
-    webUrl: "https://healthitsecurity.com/news/patient-privacy-concerns-emerge-over-facial-recognition-tech"
-    ampWebUrl: "https://healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/patient-privacy-concerns-emerge-over-facial-recognition-tech"
+  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
+    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
+    publishedDateTime: 2021-10-22T23:45:00Z
+    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
+    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
     type: article
     provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 59
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
+    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
+    publishedDateTime: 2021-10-24T01:05:00Z
+    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
     images:
-      - url: "https://healthitsecurity.com/images/sized/GettyImages-991470640-39a26234983c4eca9381530cb872a66d.jpg"
-        width: 480
-        height: 278
+      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
+    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
+    publishedDateTime: 2021-10-26T09:28:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 36
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "School meals facial-recognition system halted over privacy fears"
     excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"

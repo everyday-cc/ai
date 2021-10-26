@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "DLC - a story about betting and self-driving robots"
-    excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
-    publishedDateTime: 2021-10-21T15:19:00Z
-    webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 4
 
 secured: "bSRj5zsEBm8dg+WKsbfGhVAf1gWHsmtEXPjy/aSAfcaqQksPTyYBHdPuKSg2I5EyigY4u/5XeBxqCIrZQsCq2QE0nZmmWsdLfPKichXbvNjR0huieFbcAup361wBpto2gESWwYv3DW27dl9ZkOC+1HHyZHKjwYsBGK+YsQNDiykjWuEqRPP6JVxsoprWtHeOREWV3tM7+aPheQRNiOpBs8QWGKaTX5Jd0qepXwe1/AaK2vVDwSd95R2/RzHl9GfSy2HahWRA0bkLO+29ZwAHFQE0SYkSPj+vhlDO62jw6YV6J8irMJGVAybOjIjnO2V50/Mu67e7fdbQxe70rm2etOWopzx4RcDssNPCxgxw4jGV2FR3V2HHZcJeQ279WOJ6CI7dBqWwvo5Ysxx6UsIyUlEI+wu7X5+mgUQmWKyS/nEuHx7N5yLeqWxhdm2ASOX4wknyHmQAC60kKxrVZEY1LqvqtKyM0pB/U4QSqYZPAULEsT7X4dss0wmkrCV95aXwYcDm7bosfQGw8AQBSuPzKw==;Py1mdUFIWwnhs5YqJ/zv0w=="
 ---

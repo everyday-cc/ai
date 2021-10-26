@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Leading Fintech Startup Capchase Announces Rebrand, Reflecting Mission to Modernize Business Finance"
-    excerpt: "New look and feel depict Capchase’s ability to accelerate growth and remove barriers to financing for foundersNEW YORK--(BUSINESS WIRE)--​​Capchase, the New York-based provider of non-dilutive capital for recurring-revenue companies,"
-    publishedDateTime: 2021-10-21T16:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=551329"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Tech Behind MSME Fintech Startup ARTH"
     excerpt: "Mumbai-based fintech startup ARTH provides financial assistance to women-led enterprises with limited or no online adoption."
     publishedDateTime: 2021-10-25T08:30:00Z
@@ -112,6 +98,20 @@ related:
       - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
         width: 1400
         height: 800
+        isCached: true
+  - title: "Pandora Papers and the role of 6AMLD in fintech fraud risk"
+    excerpt: "Garient Evans, SVP Identity Solutions at Trulioo talks about the impact the Pandora Papers and the pandemic will have on regulations and risk in fintech"
+    publishedDateTime: 2021-10-26T09:16:00Z
+    webUrl: "https://fintechmagazine.com/fraud-and-cybersecurity/pandora-papers-and-role-6amld-fintech-fraud-risk"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/pandoraJ.jpg.png?itok=TtWzhyCN"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Latest Trends in The Fintech Industry and What to Watch For"
     excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."

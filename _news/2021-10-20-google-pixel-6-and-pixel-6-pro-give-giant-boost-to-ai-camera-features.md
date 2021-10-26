@@ -5,6 +5,8 @@ excerpt: "Google Pixel 6 and Pixel 6 Pro – powered by Google Tensor, Google’
 publishedDateTime: 2021-10-20T09:57:00Z
 originalUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
 webUrl: "https://www.digitalcameraworld.com/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
+ampWebUrl: "https://www.digitalcameraworld.com/amp/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
+cdnAmpWebUrl: "https://www-digitalcameraworld-com.cdn.ampproject.org/c/s/www.digitalcameraworld.com/amp/news/google-pixel-6-and-pixel-6-pro-give-giant-boost-to-ai-camera-features"
 type: article
 quality: 19
 heat: 19
@@ -17,7 +19,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
-secured: "5a6V46r+6zB/h5ASu1pDkbxlXhknl5rSwQvberBntOq4AZ+dC/bVaRUU6+J/dHFgfc1jMMqrmBeGEcvabHeWIYKC/UpUalYqf5goYqJYOx91zcPrmdUIEU71GrP8TUsvekLjT5yM9nppaZjiB94jumr9OS+L+WX4zOFUmP/6SMRJ3hjqTPc62ll2x9L1OFs7CVtrduShDWqH1R0f1m/mDYZnRxZ5N/ItY9XQDZvosE10CPn7jyEE+CK7ZPv4xhqUW73XPNdkYYj1GIQC0iKhvbctWAIS/HaiwuO60YFhZ02ETa6D3QOeoAjlwnKGUxaV0sPG2Zd3fKyjc8tH6+ihHjK0+mBMfQK6djSwiovtLTc=;G1ebhNjaDgP4RmKbjDQCLw=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/ciYQCT3DsbyTgzr7wrWyHS-1200-80.jpeg"
+    width: 1122
+    height: 631
+    isCached: true
+
+secured: "t3nXUiKDhJdUflRyLhrhVpw7BK9saC4nPwEr9PTeyMC8uGNOO77eEA/iXnPeX54qymjchteEP2v1CAmMTNoUS6Js2d6bQfTb6hfC8fqSAv7h3tukfcV0U2FZYWGrEBQObezJn8jJBTH6wXZAnnYLz/L8QZbBwBvzHkpW+LM274BVIS8r+ZNcbxf+EngVJsO4gsy+oIv8ctyGit+p1JST6NT0/kMW9ZJ5c5U6ml/ghp0O/5/Tw95frzmW0d3qKaYZ++3J1WIivbIIs81pF/xdqLW/YY+amvwho0kiirVJKLnVd/4O7EOyBw+KqXu+wYkYQbJIefyQazahW+JlMq4jljRtTjbTjSqyHTsGT6pS1IE=;Pl5yzzxlXsiZ6cfwKhk43A=="
 ---
 

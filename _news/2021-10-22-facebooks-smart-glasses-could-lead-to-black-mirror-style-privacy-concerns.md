@@ -125,6 +125,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
+    excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English, potentially making users in some of the most politically unstable countries more vulnerable to real-world violence,"
+    publishedDateTime: 2021-10-26T08:51:00Z
+    webUrl: "https://www.kezi.com/content/national/575608442.html"
+    ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575608442"
+    cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575608442"
+    type: article
+    provider:
+      name: KEZI
+      domain: kezi.com
+    quality: 37
+    images:
+      - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
     publishedDateTime: 2021-10-25T15:49:00Z

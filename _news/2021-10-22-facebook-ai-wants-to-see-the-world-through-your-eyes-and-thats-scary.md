@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/facebook-ai-wants-t
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/facebook-ai-wants-to-see-the-world-through-your-eyes-077434.html"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/10/2021-10-25T110016Z_1511104453_RC2ZGQ9U2U2Y_RTRMADP_3_FACEBOOK-DOCUMENTS-GLOBAL-1024x681.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
+    excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English, potentially making users in some of the most politically unstable countries more vulnerable to real-world violence,"
+    publishedDateTime: 2021-10-26T08:51:00Z
+    webUrl: "https://www.kezi.com/content/national/575608442.html"
+    ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575608442"
+    cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575608442"
+    type: article
+    provider:
+      name: KEZI
+      domain: kezi.com
+    quality: 37
+    images:
+      - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
+        width: 640
+        height: 380
         isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."

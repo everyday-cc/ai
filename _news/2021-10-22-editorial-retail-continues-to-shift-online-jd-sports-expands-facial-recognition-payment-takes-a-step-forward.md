@@ -7,7 +7,7 @@ originalUrl: "https://internetretailing.net/views/editorial-retail-continues-to-
 webUrl: "https://internetretailing.net/views/editorial-retail-continues-to-shift-online-jd-sports-expands-facial-recognition-payment-takes-a-step-forward"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,58 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "New funding for one facial recognition firm, features for another"
-    excerpt: "Two computer vision startups, one taking venture capital and another crowdsourcing funding for growth, are leaning on COVID restrictions for market attention."
-    publishedDateTime: 2021-10-22T17:09:00Z
-    webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "US Postal Service Moves To Escape Facial Recognition Suit"
-    excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
-    publishedDateTime: 2021-10-22T23:45:00Z
-    webUrl: "https://www.law360.com/articles/1432922/us-postal-service-moves-to-escape-facial-recognition-suit"
-    ampWebUrl: "https://www.law360.com/amp/articles/1432922"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1432922"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "Python Implementation of Viola Jones Algorithm for Face Recognition"
-    excerpt: "Python Implementation of Viola Jones Algorithm for Face Recognition. Training and Testing Data. The following algorithm takes people's images wit"
-    publishedDateTime: 2021-10-24T01:05:00Z
-    webUrl: "https://github.com/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/010282d091366f58b1a4873b08253d904238403e8a8d25765c68929f0568e063/shrutiprakashgupta/Face-Recognition-with-Eigenfaces"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
-    excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."
-    publishedDateTime: 2021-10-23T23:59:00Z
-    webUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 24
 
 secured: "qorsLWq5dUAPXD9RrNOI1zmWVDeBTTVRwtdnizUI4S3oihWqojJmjszHrol2MshrQGiH4pS86fvbxAYXslFgK8Pt74iCY2yJkvT3cZXBST0q0HVQHlptMFzCqiZnSU3sZ47wbiVuCchWvmjwxqOHfkEjF9SGQp0wkiDyAN6LJ+dtQ29hkqFHuvVm0AgEp4w7uygGe03dyv4r2aw9sBVNECb/pL0Xd6s237neglgRoux0BM1DRzTwrcE4q4A6rSFAfd+58S6MKXEJYapd6jf0jzWN81H7ede3CZsh6Y712F4iulSHLVAPfUC4xQNfV9Ier/JcatOMEZDE0YChOCOUqAEdKcd85wt6gXE0sn9zTHI=;L2O/xbNFSseA2Rk2zQD+XA=="
 ---

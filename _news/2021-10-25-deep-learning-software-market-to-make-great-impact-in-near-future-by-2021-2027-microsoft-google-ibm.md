@@ -67,15 +67,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft launches AI Innovate to empower AI startups in India"
-    excerpt: "Microsoft has introduced a startup program called AI Innovate, as well as an AI Playbook, to ensure that start-ups in the country get exposure to reliable AI resources, collaborations, as well as assistance to use AI at scale."
-    publishedDateTime: 2021-10-21T15:33:00Z
-    webUrl: "https://techstory.in/microsoft-launches-ai-innovate-to-empower-ai-startups-in-india/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
   - title: "Artificial Intelligence in Video Games Market Astonishing Growth with Top Influencing Key Players like Ubisoft, EA, Tencent, Sony, Microsoft"
     excerpt: "The Artificial Intelligence in Video Games Market research report added by MarketInsightsReports gives a holistic view of the market from 2016 to 2027 which includes factors such as market drivers restraints opportunities and challenges The market has been studied for"
     publishedDateTime: 2021-10-25T09:48:00Z

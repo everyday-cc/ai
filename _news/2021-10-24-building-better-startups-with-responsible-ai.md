@@ -61,20 +61,6 @@ related:
         width: 322
         height: 356
         isCached: true
-  - title: "Unlocking the Value of AI in Business Applications with ModelOps"
-    excerpt: "AI is fast becoming critical to business and IT applications and operations. Organizations have been investing in artificial intelligence capabilities for years to stay competitive, are hiring the bes"
-    publishedDateTime: 2021-10-21T16:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/unlocking-value-ai-business-applications-modelops-giuliano-liguori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHgjC7OBMA2xA/article-cover_image-shrink_720_1280/0/1634832178447?e=1640217600&v=beta&t=ltoYoKu9JlSM_HVJ26nLcSIPeoEV2dnRMlkFsHpJwBw"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Practical benefits of using AI for more accurate forecasting"
     excerpt: "Forecasting tools based on AI algorithms can predict the future with a higher degree of accuracy. This is usually achieved by machine learning, which continually analyzes past events and forecasts and uses the data to produce more accurate forecasts."
     publishedDateTime: 2021-10-24T19:33:00Z

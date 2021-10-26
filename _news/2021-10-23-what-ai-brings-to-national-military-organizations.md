@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI is making waves in the rent, property owners define the accurate rent price fluctuations with variations in facilities and specifications"
-    excerpt: "Update of the AI price assessment feature on RENOSY OWNER's MYPAGE targets at property owners. The feature of \"setting the influencing factors about rent price\" has been added to the system in which owners can check the market price of rent based on different facility options and specifications selected."
-    publishedDateTime: 2021-10-21T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1665270/1.jpg"
-        width: 763
-        height: 400
-        isCached: true
 
 secured: "KT3ionfkzkfnIte0Zoz8ydjWmP3nLWOmQlfbHgTdXCfF2dULocZzhKfRezQZ5D9jNDsZMNDUJc6tc42sWR6SS9hSCgeBq8hcjRyHyGYpienp0bChg+glan98xFkVpQm67rNq2vVt1U6L320/vbdUrq3wXOFeWS+0pn4VXhRjy7n2bYr6vM2P2N1VHCiXTnGTRFfhU3Kf8L5hX9znPR0oWFzAjHFpVu9hN1YibBj8zral46PseCjW+y2W8DMDSBJVCpiaXTqVq4E6ztJsjPDUjzlM5rRkwh2e4sUrIfhzmgQd1LNF0otBK99It/2Z7jjiFN8k8XTvD3JCnR7bW8ZFcTIubR38Yap1Rhd9hhU2wzf/NJ6FTaBYxdTc7pYv5BEzNXLuY0RVje6esVfH/baaKYVd/cP9mB+EbX0B//vQuS7jDqK+ZlNy2bk4OmD0ynNnhdV4yHV8ZLiA3u1rgNIFdzmr/FmzxqqKfD3cAJUu5Sb5QYssAhQEQ86zf5kVQwx1Pnt6vXeYP+P0RFcFni342g==;mhjYtqa8KD75lsai0XR0lQ=="
 ---

@@ -57,17 +57,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "NATO to Adopt Its First Artificial Intelligence Strategy"
-    excerpt: "NATO will adopt its first strategy on AI and launch an innovation fund this week with the aim of investing $1 billion to \"futureproof\" the 30-nation security pact, Secretary-General Jens Stoltenberg said."
-    publishedDateTime: 2021-10-21T16:01:00Z
-    webUrl: "https://www.govtech.com/news/nato-to-adopt-its-first-artificial-intelligence-strategy"
-    ampWebUrl: "https://www.govtech.com/news/nato-to-adopt-its-first-artificial-intelligence-strategy?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/nato-to-adopt-its-first-artificial-intelligence-strategy?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 37
   - title: "NATO defense ministers adopt strategy on artificial intelligence"
     excerpt: "NATO defense ministers on Friday approved the alliance’s first strategy on artificial intelligence and the establishment of the NATO"
     publishedDateTime: 2021-10-22T16:30:00Z

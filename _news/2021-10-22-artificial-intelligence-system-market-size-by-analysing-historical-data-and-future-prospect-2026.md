@@ -56,6 +56,20 @@ related:
         width: 643
         height: 400
         isCached: true
+  - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
+    publishedDateTime: 2021-10-25T23:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medical-diagnostics-market-2021-study-scope-key-segments-industry-trends-size-and-forecast-to-2027-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Healthcare Chatbots Market - Analysis of Market Size, Share & Trends for 2019 – 2020 and Forecast to 2027"
     excerpt: "The global healthcare chatbots market is expected to grow at a CAGR of 25 to reach USD 1 1 billion by 2027 from 230 6 million in 2020 The growth of the healthcare chatbots market is mainly driven by rising"
     publishedDateTime: 2021-10-25T07:17:00Z

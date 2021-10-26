@@ -70,20 +70,6 @@ related:
         width: 1280
         height: 672
         isCached: true
-  - title: "Unlocking the Value of AI in Business Applications with ModelOps"
-    excerpt: "AI is fast becoming critical to business and IT applications and operations. Organizations have been investing in artificial intelligence capabilities for years to stay competitive, are hiring the bes"
-    publishedDateTime: 2021-10-21T16:14:00Z
-    webUrl: "https://www.linkedin.com/pulse/unlocking-value-ai-business-applications-modelops-giuliano-liguori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHgjC7OBMA2xA/article-cover_image-shrink_720_1280/0/1634832178447?e=1640217600&v=beta&t=ltoYoKu9JlSM_HVJ26nLcSIPeoEV2dnRMlkFsHpJwBw"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Predicting the future of the Earth with artificial intelligence"
     excerpt: "Starting October 25, a group of scientists will host a workshop to identify ways to create artificial intelligence-informed models of the Earth’s climate."
     publishedDateTime: 2021-10-25T00:00:00Z

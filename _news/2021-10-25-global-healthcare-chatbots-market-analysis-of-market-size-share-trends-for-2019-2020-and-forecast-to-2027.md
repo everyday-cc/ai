@@ -67,6 +67,20 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Global Artificial Intelligence in Medical Diagnostics Market 2021 Study Scope, Key Segments, Industry Trends, Size and Forecast to 2027"
+    excerpt: "Global Artificial Intelligence in Medical Diagnostics Market 2021 by Company, Regions, Type and Application, Forecast to 2027 introduced by MarketsandResearch.biz considers the market structure of the market through the analysis of its various sub-segments."
+    publishedDateTime: 2021-10-25T23:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medical-diagnostics-market-2021-study-scope-key-segments-industry-trends-size-and-forecast-to-2027-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
     excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"
     publishedDateTime: 2021-10-26T07:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2439003/machine-learning-artificial-intel
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439003/machine-learning-artificial-intelligence-market-future"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
         width: 333
+        height: 250
+        isCached: true
+  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
+    publishedDateTime: 2021-10-26T09:42:00Z
+    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
         height: 250
         isCached: true
   - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"

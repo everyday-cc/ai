@@ -77,15 +77,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft launches AI Innovate to empower AI startups in India"
-    excerpt: "Microsoft has introduced a startup program called AI Innovate, as well as an AI Playbook, to ensure that start-ups in the country get exposure to reliable AI resources, collaborations, as well as assistance to use AI at scale."
-    publishedDateTime: 2021-10-21T15:33:00Z
-    webUrl: "https://techstory.in/microsoft-launches-ai-innovate-to-empower-ai-startups-in-india/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
 
 secured: "yiqp6tusksL7y1+AjyjjC6fQ1nBCmep6/8NuxDtdPWlq0p5toajUDMJftzFXxdhacfTnGIWe+NBZM/4aDM6CyLI/a74nL5Q7CAbA+66D1AilBbHvYhbaSCRutfIRkaRbpMflSrpJnfHvT+zN25kcMpu4bLHPG/+uacagdVS+QrNpNZrAUp1mZjT+tAaQ0LlUYRoSewY/SGVXoKreVLtaWxpJa4ZEaCcYBVwRfft720SXhQS51L2ZExGniw/Kr0FaHU6v42KZUkGPiOgd9T7y1jNw6C7kOqZQilekhYhpRjAwUsEfdRWf5Mv8FUhnKv0In5D153yECZ2bm+Mk8ubChATCf5TZZrsnoqXxe/jJZyw=;Nx+Qr0h6DfNrnhyeDbYnqw=="
 ---

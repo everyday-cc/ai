@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/10/0x0-ModelS_17.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tesla pulls Full Self-Driving update due to 'issues'"
+    excerpt: "Tesla has rolled back the latest version of its Full Self-Driving car software, from version 10.3 back to version 10.2. The Full Self-Driving (FSD) is optional software that enables a number of autonomous driving features in Tesla cars (though it does not really enabled autonomous driving without driver supervision)."
+    publishedDateTime: 2021-10-25T15:00:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-10-3-roll-back"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/02JRq7FamguNJrHfmSAhcGQ/hero-image.fill.size_1200x675.v1635174008.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
     excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"

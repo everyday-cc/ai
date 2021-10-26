@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-
 webUrl: "https://www.biometricupdate.com/202110/new-funding-for-one-facial-recognition-firm-features-for-another"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Schools put the brakes on facial recognition scheme for kids buying lunch"
+    excerpt: "Schools in the United Kingdom have paused the rollout of facial recognition scans in cafeterias following backlash from data watchdogs and privacy advocates. Last week, the Information Commissioner's Office (ICO),"
+    publishedDateTime: 2021-10-26T08:21:00Z
+    webUrl: "https://www.zdnet.com/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "US Postal Service Moves To Escape Facial Recognition Suit"
     excerpt: "The U.S. Postal Service is asking a D.C. federal judge to throw out a lawsuit challenging its use of facial recognition and other technologies to collect personal information, saying a privacy watchdog lacks standing because it hasn't shown how the organization was harmed."
     publishedDateTime: 2021-10-22T23:45:00Z
@@ -50,31 +61,57 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "EDITORIAL Retail continues to shift online, JD Sports expands, facial recognition payment takes a step forward"
-    excerpt: "In today’s InternetRetailing newsletter, we’re reporting as ONS figures show retail sales continuing on a long decline that started following a sales spike at the time that shops reopened from lockdown,"
-    publishedDateTime: 2021-10-22T12:31:00Z
-    webUrl: "https://internetretailing.net/views/editorial-retail-continues-to-shift-online-jd-sports-expands-facial-recognition-payment-takes-a-step-forward"
+  - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
+    excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
+    publishedDateTime: 2021-10-26T09:28:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/north-ayrshire-council-to-pause-the-use-of-facial-recognition-tech-in-schools/"
     type: article
     provider:
-      name: InternetRetailing
-      domain: internetretailing.net
-    quality: 34
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 36
     images:
-      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/038/Mobile_Joy_Fotolia_214442117_Subscription_Monthly_M_Thumb.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Face-Recognition Amazon Tech Under Fire From Lawmakers"
-    excerpt: "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ..."
-    publishedDateTime: 2021-10-23T23:59:00Z
-    webUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/"
-    ampWebUrl: "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/amp/"
+  - title: "Facial-recognition system for school meals halted over privacy fears"
+    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
+    publishedDateTime: 2021-10-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "School meals facial-recognition system halted over privacy fears"
+    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
+    publishedDateTime: 2021-10-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facial recognition systems off the menu as schools reverse plans"
+    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
+    publishedDateTime: 2021-10-22T04:00:00Z
+    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
+    type: article
+    provider:
+      name: Schools Week
+      domain: schoolsweek.co.uk
+    quality: 19
 
 secured: "UGvNZOKkRi1FLE0N4srszZuDX0p4HtjdgQklhi0XvU40GQpD/7CLwBfRyemNnBtW5zl/8gBvrm9YsR7OpfRCrA1wv2Sk5QOcG9TZFhmq+c21WomZBXAgsKaOMcAsRA0SbnI4kNeyOD83SBv3ERRkB2qtEKOjj4m646f0UFCGb8dj7GrO10psRCVQyZ8pWWuPi2+mFHUGYJ7TEc5D0EWka+7rDNzJ3LJ5RMy3+INCKk36J8c4dH//QXpHUVX0jdjcJ2WOJi0vCknAT0qtcCzmDgTMzfe2XEXNZgCs9QiGqhN5LIyYiXbMccZgiehDrEYvyn0jXeIrRE7e4kqkpvIUwKa/+xmcOxmHL8YuKO1J/ZNEm0y0jfsT0AndPoEeeTosD+LaGlU2VJrYRsGL22p51GaYOjSsRw5xtDnvTGFJqqsfqONeQMS9i8iJXU5FLZz95cFoEferflMFTNrVmH8o49sl5lADdy7Cem/wQQAoX14rkPLqwKT9IOpVAcg3mGxUAX/BQre2PSMrzuwKEuij0w==;WTimLR4oLsRa6DJpsOxSyA=="
 ---

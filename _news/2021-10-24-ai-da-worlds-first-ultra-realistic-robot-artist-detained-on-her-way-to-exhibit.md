@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/ai-da-worlds-first-ultra-realis
 webUrl: "https://www.autoevolution.com/news/ai-da-worlds-first-ultra-realistic-robot-artist-detained-on-her-way-to-exhibit-172460.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 728
     height: 300
     isCached: true
-
-related:
-  - title: "Robot artist Ai-Da released by Egyptian border guards"
-    excerpt: "A British-built robot that uses cameras and a robotic arm to create abstract art has been released after Egyptian authorities detained it at customs. Ai-Da, named for the mathematician Ada Lovelace, was seized by border agents last week who feared her robotics may have been hiding covert spy tools."
-    publishedDateTime: 2021-10-21T16:33:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-58993682.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-58993682.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-58993682.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CB3B/production/_121172025_gettyimages-1318598041.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Egypt holds robot artist Ai-Da before exhibition"
-    excerpt: "She has been described as “a vision of the future” who is every bit as good as other abstract artists today, but Ai-Da — the world’s first ultra-realistic robot artist — hit a temporary snag before her latest exhibition when Egyptian security forces detained her at customs."
-    publishedDateTime: 2021-10-21T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/world/archives/2021/10/22/2003766574"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 34
 
 secured: "BiM0FY2C1hxHwngX0L2Wdrgkp4lHpKQLrPyoNNOXCrOit9Ceu056UC2F7VUBv+a3aZSX5iUxvEBph++LmZ/Fnqv+E9t3KDM3/laHrUFF7aWL7DJDhssUoAHeIdb5TJAHOohoFxOGYrHiC4dWC5e9Lv7hBw2w1aefhyJUNM2nrQ4ndRQyNa2O6vNLTG1kFOcuwg3pVXBwFkZwlXfYWgJ6vaglmwnrDpWMDhjfDWiiOKaxXAIaO9AlYr9oIH//uWuAavdx3prxhpzGHPpc1+SN8mEsN91crZZUmcJG6QIjZX6rp/UzBDfv8C7NqPC/B8iUyIHhdgTRV3h3sgneLEJ0czWJiBrV4P+Ze5Uy5pc1T9oYoThpoRXBHdVTTh1YKfbLdlB6+v5bvPBrJ274o/cLNE58tRzJAhpyaZ8YqRWbFWyCAV8M3al0VmKzW+SC05Py3B/ZOuqz/Kag9P8CjUwP5/pnyLQn7Vkj8KhE48lYcMmpKACMAgLQ1PUu/pKUIO6EXBfeXsprHks61J5mz4l2yA==;maJKobxOovn4Paeh9qRtJA=="
 ---

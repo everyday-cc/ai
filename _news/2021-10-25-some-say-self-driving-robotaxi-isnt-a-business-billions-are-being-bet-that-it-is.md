@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/10/25/some-say-self-driving-robotaxi-isnt-a-business--billions-are-being-bet-that-it-is/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "DLC - a story about betting and self-driving robots"
-    excerpt: "A gentle introduction to Discreet Log Contracts (DLCs) on Bitcoin - dlc-intro/story.md at master · fiksn/dlc-intro"
-    publishedDateTime: 2021-10-21T15:19:00Z
-    webUrl: "https://github.com/fiksn/dlc-intro/blob/master/story.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 4
 
 secured: "yNDRDeI7Q3vGwllVusX+IVGflBBO9KU2A6g5rc4XNU6VNG/PWhhcUA802GVFolyjmU90bm2z7fD9qg9iA3mqWFfvHfyFKXNk1jlSh0xBUIJUvOngX0FfCTYUUpVESulzae0jIVu25CgkHyhsENjOGKSB5Dskllmb0KROz/Wvpq88vjHwbQbsF8z7o/f068NuQQnuJ3DySOAr7JgHFemUJ6sgWKAyW0tSvkyL9QzMJukmBlDcnvawyOuX8Z2amRvfc3H8mgh0fMRt8rYrGxeftzmitMBKYW9DzyrSnC5rlXe4UjxhKAQ/NrUWqaA9VJ+CRzplwJyx3cfxFREWnvaHmXJEFwYtpCaNLrusZ42rL4tyGIHe0vSAWtCuiFhIwjnv4WHq+jqN6PA2GSeh8rl/V/4nMSPf4fWqNas16S6qHwT17IHA5kPIB9LYV1zgtZQ7xgjE4dBVqmF0TUxNtJwgYuCzBhtcLv6GCGHyqQIhFFTWWhrKefgQafPvRcTMwb52meRkEqsvaXJuGY7VzhFMPA==;HeVGzKYeWyy1HRSCzC6Zrw=="
 ---

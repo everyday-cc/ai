@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-t
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://miro.medium.com/max/1200/1*qGQEsaC_hB8E-1KZQQz7JQ.jpeg"
         width: 1200
         height: 1800
-        isCached: true
-  - title: "AI is making waves in the rent, property owners define the accurate rent price fluctuations with variations in facilities and specifications"
-    excerpt: "Update of the AI price assessment feature on RENOSY OWNER's MYPAGE targets at property owners. The feature of \"setting the influencing factors about rent price\" has been added to the system in which owners can check the market price of rent based on different facility options and specifications selected."
-    publishedDateTime: 2021-10-21T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-is-making-waves-in-the-rent-property-owners-define-the-accurate-rent-price-fluctuations-with-variations-in-facilities-and-specifications-1030886587"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1665270/1.jpg"
-        width: 763
-        height: 400
         isCached: true
 
 secured: "6axVz5yqt245f8CbElKtuyzOeHT1Oiu1VxJQSRrbpxb0T/RtARJZ+/Aci4hx3KEPnG2fKdbJAfvq0P9B8TcMTSmuPt4EFvbxrqqhfRQy5LUvVWOoEb1KQY/St0UGg03e4t0vEUJMFZAIpSyfLWnQGVy1fy2KqscJMuwS8siANzkEZGTOUuSg9lV2uQvObzoZFeWTDQEssbe9d62HdxKXhyMzKZi9lE4XWP/isHdh2Z4U7HrBuw9ZuxTfq7dpFWtAoNRBuKVI03WBpCzQ1Q9aPypwtMojGK6/PM+kk6Gz7BD1Sl8imv7eGh3U/BKDN3wweoc7Co8h6faImO/YmRlTQPapqDrH7taQnC6+fX+IVL6PLUSK2bvbLwQe9hGP6ynO6Kzpw9EEzRq8SHo9odty5DPX4VjwsNqTDNAsJU33Kpw87GY+cAJBDT/PDADH6J7gLyhedxaOFjukN09X5Fqb0Z8lOSjJ0/FrAcf0PYgy0+4FN9UIQDUQmCKmazxxRsI2OtTypj7Q2o36oga0rPKQlA==;ZaxJzUtoXlieKzZgUlKrvw=="

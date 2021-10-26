@@ -43,43 +43,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facial-recognition system for school meals halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "School meals facial-recognition system halted over privacy fears"
-    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
-    publishedDateTime: 2021-10-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 19
 
 secured: "OnVVie3fGcjdeHSQ8uzSHT9AyxbR5jhjhRspNROwCA1F+8S/6sQscsnjdBrm/SBko5WgPXaddV/vU71ueLppLjGyNqi6JSJPChMBipqykpNOCYH3kSQMQoM59WrI1S5EBs0IeYWZyFoNgg0PDlsKkPhEmJK8oJjl8RXPhwoR6mIGn4dgLnRMVZdSyKMl9qaQZYyBEc23F8qprU7C6ODu1alGwP0qRtyIxEIFVGAG7HaBoVDaHJNexDj5dgzm7gyGlGnWXqTgpwgOS2/wyt3FCyL6AL96XJcUNYC3XAGdG1/Dz8sr1I2X8Tge9HTlAt/JtWkLYwGAFxYI3sn+IpJ51ZSKAsrR+by9RnDlv2x/OjA=;0BF/P2EYVBC+oqipY50NxQ=="
 ---

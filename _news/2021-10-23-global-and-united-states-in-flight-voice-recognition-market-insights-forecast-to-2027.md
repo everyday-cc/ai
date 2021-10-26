@@ -92,6 +92,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "AI in Fashion Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2024"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 03:16 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at a Compound Annual Growth Rate (CAGR) of 40."
+    publishedDateTime: 2021-10-26T09:42:00Z
+    webUrl: "https://menafn.com/1103046901/AI-in-Fashion-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2024"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "u9RqN1ir9tmpqRHSPYv+LB08tiaTGx8Np/7OJxE/SqHpGegq8aVAAFNLdPt/EcG+BZfREk11gL/mQHFVWxTqhRN1gjKyChDO0qlx+HVJwAduuDI0Fiw3u37aESmRUsqapRRc6u8kQiwrMNnS1xcWpHT/hIM0Zq74w43UF5ddq9vqbqRDqmLwRo/JhYEbqeFm/VbI6HdYmSFAKhtKyi8Ef1X/36rMgfTppDCPKi/MySre+ol8yBCkXFFzoY1iaaBzSM0Q78cWiPJ3ztPPhHbUSj8CPPX+1kzsNmGUAVrkSpElQF4n985yZBYayi2CT522rSg0ZRA4JbqX+/RGgOk7AXwEv6erP9+9sQx2BVQlYnc=;YFvjOgssjakw0pybtOzxUQ=="
 ---
