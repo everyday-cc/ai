@@ -50,6 +50,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Construction Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024"
+    excerpt: "Artificial Intelligence in Construction Market” report explore recent market growths and competitive strategies, such"
+    publishedDateTime: 2021-10-25T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
     excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
     publishedDateTime: 2021-10-22T04:15:00Z

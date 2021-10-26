@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Arturo Joins the AWS Partner Network"
+    excerpt: "Arturo, an AI-powered platform that derives insights and analytics from aerial and satellite imagery, has joined the AWS Partner Network."
+    publishedDateTime: 2021-10-25T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211025005490/en/Arturo-Joins-the-AWS-Partner-Network"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "BqwIWv6xh05rnJwPgafN7GAEGmXrNULwXNsjrP9e9/Z6bC7yc5Swu5f6SlQEUE93lRe/6NV8YWXm73+VJfwtaJ320teEFWObQHAgc6XS3r1eLQufy2wkUwLin2cNSB28LXRJw3mPnl+cq4K/3tWMxch+YFuG3iNQsrtUNbAsWaw7QBJyS3s4JAqThTkIwWxqoEOPYJj1pzZKGw4L7f0ZLtNxkpIebNGt162gUjwlq2lijtwHm61OKtHbSxd1Yz1DB0uIbttWR6ov1jOEui49BKUjwnaLlNyqMBUwJoEoz05sVs5WtbJw/VuYbwOR+1IQlLrePvFMHkU/l9oaVqeZarPrdsrTNJHNZxkZrwqYjtc=;825hXjtfqkvPbcV+hdNQHA=="
 ---

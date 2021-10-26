@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-19-ico-to-step-in-after-schools-use-facial-recognition-to-speed-up-lunch-queue.md",
+      "title": "ICO to step in after schools use facial recognition to speed up lunch queue",
+      "excerpt": "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
+      "originalUrl": "https://www.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk?mid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/46caa3ba140a6006690e196fe6e8436e4e5e8887/0_157_3984_2390/master/3984.jpg?width=620&quality=85&auto=format&fit=max&s=be9514b193c893ee17c62911177176f1",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/education/2021/oct/18/privacy-fears-as-schools-use-facial-recognition-to-speed-up-lunch-queue-ayrshire-technology-payments-uk",
+      "publishedDateTime": "2021-10-18T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai.md",
+      "title": "Taliban can only gain recognition through Afghan people’s support: Karzai",
+      "excerpt": "Former Afghan president Hamid Karzai said that the current Taliban government in Afghanistan can get international recognition only through the \"support of the Afghan people\". International legitimacy could only be achieved through the expression of the will of the Afghan people,",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
+      "originalUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/Hamid-Karzai-AA1616688192-0/Hamid-Karzai-AA1616688192-0.jpg  ",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2325390/taliban-can-only-gain-recognition-through-afghan-peoples-support-karzai?amp=1",
+      "publishedDateTime": "2021-10-18T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-artificial-intelligence-and-robotics-hub-launched-at-gitex-global.md",
+      "title": "‘Artificial Intelligence and Robotics Hub’ launched at Gitex Global",
+      "excerpt": "In support of the UAE Strategy for Artificial Intelligence (AI) 2031, the Ajman Free Zone has launched its “Artificial Intelligence and Robotics Hub” at GITEX Global 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
+      "originalUrl": "https://www.gulftoday.ae/business/2021/10/18/artificial-intelligence-and-robotics-hub-launched-at-gitex-global",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/10/19/gitex-officials-750.ashx?h=450&w=750&hash=09DE765F8E66DE8B471B6F104469C294",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gulf Today",
+        "domain": "gulftoday.ae",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-deepmind-acquires-and-open-sources-robotics-simulator-mujoco.md",
       "title": "DeepMind acquires and open-sources robotics simulator MuJoCo",
       "excerpt": "DeepMind has acquired and pledged to open-source MuJoCo, a popular simulator used in robotics and AI research.",
@@ -370,8 +508,8 @@
       "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
       "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
       "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
+      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -384,8 +522,8 @@
       "publishedDateTime": "2021-10-18T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
+        "name": "KKTV11",
+        "domain": "kktv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1043,153 +1181,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-waymos-self-driving-cars-cant-get-enough-of-one-dead-end-street.md",
-      "title": "Waymo’s self-driving cars can’t get enough of one dead-end street",
-      "excerpt": "Waymo's autonomous cars keep showing up in a dead-end street in a quiet part of San Francisco, causing residents there to wonder what on earth is going on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/waymo-2.jpg",
-          "width": 1346,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-cars-love-this-dead-end-street-in-sf/?amp",
-      "publishedDateTime": "2021-10-17T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages.md",
-      "title": "Azure AI empowers organizations to serve users in more than 100 languages",
-      "excerpt": "Microsoft announced today that 12 new languages and dialects have been added to Translator. These additions mean that the service can now translate between more than 100 languages and dialects, making",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "originalUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/azure-ai-empowers-organizations-to-serve-users-in-more-than-100-languages/",
-      "publishedDateTime": "2021-10-17T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech.md",
-      "title": "Facebook hits back at claims its AI has minimal success in fighting hate speech",
-      "excerpt": "Facebook integrity VP has responded to new claims that its efforts to fight hate speech is not working. By Aimee Chanthadavong | October 17, 2021 | Topic: Social Enterprise Facebook integrity VP Guy Rosen has shut down claims that the AI technology it uses to fight hate speech is having little impact,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/42ecc1af84a7e867f3629ffe9013cccd006f3c93/2021/10/18/df986913-7df7-4f4b-8758-3d64e47284cf/fb-hate-speech-nrp-our-side-of-the-story-hs-chart-1.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-hits-back-at-claims-its-ai-has-minimal-success-in-fighting-hate-speech/",
-      "publishedDateTime": "2021-10-17T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -19,6 +19,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "BooxAI Launches AI-Based Publishing Services for Self-Publishers"
+    excerpt: "With BooxAI, authors can publish and distribute their books worldwide without the stress of the technical aspects of self-publishing.   <"
+    publishedDateTime: 2021-10-25T23:40:00Z
+    webUrl: "https://menafn.com/1103042490/BooxAI-Launches-AI-Based-Publishing-Services-for-Self-Publishers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?500299"
+        width: 443
+        height: 250
+        isCached: true
+
 secured: "e9mFKoKlPtrCc6kgSWwF9eYpctL8b4tLql8k5E1f5tu56j2TV9jFRUOuZ6q0fPiOO6MGjdkQn3OlA9SCscBcjnoS5Xg1et2IJvu5VvHvSkC95njHBw1jVGXlWMkdePekwbVS+2Qt3UlBozKUjZrPq8aJeF+FzHvKHiXi9dPYcUcqDq9RF4f1EZCDQ9t2ALCn+m961FUUSVywS2mLyR+JBZ1r+XQ07CRrNULcN1D/mJJCBr78J0gn3WDgC9p5Svl6tiBYREz3mWSejH2QTJ9S704h4Vef3Cu5awrK5it6uzdaL2Ir1s7LuFbYeNftaKkmKAgqZauGlOzACJWSz0KpGnYKevKuZUhSXNJMfM5pFbh3mecRHa8aBEJ+JYQYDVIDXvhdFDFPY99yfevGMK4M1Smkjy5b7Tq6K89gAsfJMNbJjm2D7csJKPt23lL3Y4VFyvUDQp19VjQHEmIltIE7fv45D1KQUTlFpUODO54QYdx/HEKrYsLCRBuoiG5sDCAyW1RpTacqq5uIpWOLP3NJlw==;Or6973ziXt62tG0xZYfwhA=="
 ---
 

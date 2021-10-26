@@ -7,7 +7,7 @@ originalUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdr
 webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -19,24 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "Scores Of Waymo’s Self-Driving Cars Are Flocking To One San Francisco Street For No Apparent Reason"
-    excerpt: "Self-driving tech might be marching ahead, but for some residents in a quiet dead-end street in San Francisco, the price of progress involves up to 50 Jaguar I-Paces descending upon the lane every day."
-    publishedDateTime: 2021-10-21T12:35:00Z
-    webUrl: "https://www.carscoops.com/2021/10/scores-of-waymos-self-driving-cars-are-flocking-to-one-san-francisco-street-for-no-apparent-reason/"
+  - title: "Self-driving tech firms take R&D to the track"
+    excerpt: "On Northern California's Thunderhill Raceway, self-driving competitors get a crack at trying out their advanced technologies in a real-world environment."
+    publishedDateTime: 2021-10-25T19:58:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firms-take-rd-track"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 5
-  - title: "Winter self-driving pilot to start in Finland in 2022"
-    excerpt: "A public transportation self-driving car pilot is set to begin in early 2022 involving two autonomous Toyota vehicles in the city of Tampere in Finland. The goal of the project is to gather feedback on how autonomous vehicles work as part of the public transportation in Tampere,"
-    publishedDateTime: 2021-10-21T12:24:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17331/winter-self-driving-pilot-to-start-in-finland-in-2022"
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SELF-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Aurora Makes Major Progress in 2021 Toward Commercializing Self-Driving Technology"
+    excerpt: "Through its cutting-edge technology and industry-leading partnerships, self-driving company Aurora is building a generational business that aims to transform how goods and people move through the world."
+    publishedDateTime: 2021-10-22T14:29:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-001949c6044d4da38255219d0c0651c7"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
+    excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
+    publishedDateTime: 2021-10-25T07:57:00Z
+    webUrl: "https://www.autoevolution.com/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 17
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "3ajGCuis79R9QMsuMEBT0e65EDJy7EsiuRZZMqUMlZY+MvnZV21ZeFYgga1trX4PKWfFLsZD3RvRi6Vleu2cii+Nt7IWmxxUOOZR5fuNVSzX1fQSdNipHw1On/8KvMnQ2c2+0qV7v2T/zWaAxMI0J0AYeX2+ObNcr0rVmnv2LYlhym5XN42DJMtz4eAQc/s2eyYchBTFiyEuyXdXNi3i4Y9KX5icnZO77NlmbK28dAPmMb4QMHBNO1MXMoWxQ7DuljRRyi8eV96PQDTdg78RjtPL3sF90ZkBF8dNGfK6wImJUq/bbHDBJIwLgnQk6rbCGcwZ8TrICBgXnZmzPeROiPQv8xtnewmEHi7HLktpbk/qbLekui87mACYXc3qJHYfUQSwJv9+FvqMMQ7lcGbsgjWGIG3nLReMHBeOdzZ2neWBCQZChDj/nVEP8mzDL4j7Zdq5dxkvjrQUCpm8fY3eJHYq3HCyjLZkR0LPNlhbmhdGzxwCtGStHrtR3DphRDf7zFTenLPtSLbHgsPAlVSeCQ==;fPe5NPbK+QHqaO+JJm71tQ=="
 ---

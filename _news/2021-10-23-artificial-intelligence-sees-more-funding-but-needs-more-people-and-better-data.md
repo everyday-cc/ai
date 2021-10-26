@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-see
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-sees-more-funding-but-needs-more-people-and-better-data/"
 type: article
 quality: 82
-heat: 85
+heat: 82
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-ffe325dcb4e4420598d5696e43e16e55"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Aurora Makes Major Progress in 2021 Toward Commercializing Self-Driving Technology"
-    excerpt: "Through its cutting-edge technology and industry-leading partnerships, self-driving company Aurora is building a generational business that aims to transform how goods and people move through the world."
-    publishedDateTime: 2021-10-22T14:29:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-001949c6044d4da38255219d0c0651c7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "N2Vl9RmbN8Fjq1SPz11/wwx7A00WJ6HgIvc1mMZSqR2CUAijkt9RfVSLnwbioK5JcDOK/P2EXjTL/lbe+nO8G1MchEq0bhBDhXyAYMtVPmQA50vxmK9IqgA4Lmqiwhy2dNnsOz+Nk09tdmEtzA2vU5xyhaSJ9qyAw75M4B19Ar0k1wqGV++HXPzBsdtDKAKqKDAdkxmAIq33eDWlQ3YgogIHMlJNtW7dDVT+fieMTzDfr5ENqeSJYZ3EK8jC5TqzxujsMQoKhYQWNsEKsASXrDxSedaZZHQOiRoiWfieJg0sKBZbTEHKFYQ2CZuFIwPll8ONA8TdWKukpDt0+hxgQINbZAygUgc9Ik7+Wq1W5GM=;7QP99asfvQytohe2hG3Ktg=="
 ---

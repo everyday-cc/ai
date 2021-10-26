@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Construction Market 2021: Share, Growth, Evolving Technology, Trends and Industry Analysis 2024"
+    excerpt: "Artificial Intelligence in Construction Market” report explore recent market growths and competitive strategies, such"
+    publishedDateTime: 2021-10-25T11:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-2021-share-growth-evolving-technology-trends-and-industry-analysis-2024-2021-10-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HLTH 2021: Partnerships and Interoperability Are Key to Microsoft’s Healthcare Strategy"
     excerpt: "Chief Medical Officer Dr. David Rhew explained how the company is working to improve patient outcomes through artificial intelligence and cloud computing."
     publishedDateTime: 2021-10-21T19:39:00Z

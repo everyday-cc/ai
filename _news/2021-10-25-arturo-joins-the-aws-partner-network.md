@@ -33,6 +33,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Arturo Joins the AWS Partner Network"
+    excerpt: "Arturo, an AI-powered platform that derives insights and analytics from aerial and satellite imagery, has joined the AWS Partner Network."
+    publishedDateTime: 2021-10-25T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211025005490/en/Arturo-Joins-the-AWS-Partner-Network"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "jV0ZyC0F+0jZJxK0CTrJ9XZQJnt4usu31mMcEMCKvWywUy1GmLoa43GFq+RCj3MUUVt4qDCNm4Q/m1AStaJBoE2l4c/MbbH6pxIZJPcWPQ8rMq3KzFeOGMd3Kg20Vec0kifToji83OsBWU8tSdEFGIkoFNNpq+Fv5oU73+YgrRx6LgBupLDohVgAcIoGOyoS57CpEp0Mmuw6JRLsVGCvjneNzgfAZZgsiB4voHtPGUwLpMjFbWPiu2qT7xKuyXc02ghpKTm7tw7x0GqcSAID2gDObdNTR0oiAd3F38gz/XOALyiH2NarGFld5s5H4LxsvLh0XddaHShuYdkl32rKjaEOHEi2ZXFyIPLbRb091XA=;yyfiQzg6KSvcjhx6loYBmg=="
 ---

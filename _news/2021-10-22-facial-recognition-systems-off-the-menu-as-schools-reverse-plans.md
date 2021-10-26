@@ -51,6 +51,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "School meals facial-recognition system halted over privacy fears"
+    excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"
+    publishedDateTime: 2021-10-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/school-meals-facial-recognition-system-halted-over-privacy-fears-jkhtd295h"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F739d7170-35b2-11ec-8ef4-8e6db1a4b82a.jpg?crop=3144%2C1769%2C0%2C164&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Iw5jWpd2r6mslSuOyDBWm9mR/1xQruJgSGu8JQfErb94MKKLgfDkKKIdnz6ueJKjYC/ctKGf7BOW8IwWDa0X0bBVH7qfi64AXYDx3wNzNSu9wuD3tBaGnPRH1JaYbVC4JgGi9H+9N5N1i2AjGIh54q24pCL4JHfKjvTmNptH3tDLRQ5gsCA7A5Zq58ax8pP1BeI3GJqoGr1fh8hhz+7U3sEJuNzMGSKqgG0Rfdf+HBlJgz+14QFeRD/NbGJ7ZenZMMWAu1E1TeZ+Kh6t6TQ1+DiFnFm2zUfSx7reZcV0WbgYxyAmB2s/I6z9GjEeo5tFGiwcykgYURWJBqOnnC4RCm/Csp5zw0808hz+afgSKbL9Cm0gRGfY8GQnJAa2rKJ02Qnf5lfcSlZAJavyHDF0QgI27E33so8moAazffdL3wf0sE7y0WXNsODbXEq8xXja9pqJzRnRWbsshBikQsIHHx/wXQ2Pueeo/Mfa3AABmo/DUauUdIFul5HuT3Va7teLITO4duxVTUl8aVrTJ8C+Hw==;yp/TJRp7yROw6LEKcfVppQ=="
 ---

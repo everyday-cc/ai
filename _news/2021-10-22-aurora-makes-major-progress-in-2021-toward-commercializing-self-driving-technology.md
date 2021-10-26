@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-001949c6044d4da38255219d0c0651c7"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Ahead of Expected November 4 NASDAQ Listing, Aurora Executives to Address Self-driving Advancements"
-    excerpt: "Aurora, the self-driving company that’s planning to launch autonomous trucking and ride-hailing businesses, is sharing more about its cutting-edge technology and business at events throughout the next few weeks."
-    publishedDateTime: 2021-10-21T15:47:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-ffe325dcb4e4420598d5696e43e16e55"
+  - title: "Self-driving tech firms take R&D to the track"
+    excerpt: "On Northern California's Thunderhill Raceway, self-driving competitors get a crack at trying out their advanced technologies in a real-world environment."
+    publishedDateTime: 2021-10-25T19:58:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firms-take-rd-track"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SELF-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
+  - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
+    excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
+    publishedDateTime: 2021-10-25T07:57:00Z
+    webUrl: "https://www.autoevolution.com/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 17
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
+    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
+    publishedDateTime: 2021-10-21T18:27:00Z
+    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 11
 
 secured: "qb/AixHJHARCpsWoA/tSvfRo1JEL5CxJ839W3Zzx2jAvgGRzExKjJL5iBq6e5m9nhQKATrHtQdwMK7Qa+U7U0q878zgBa6k4qd7MvZqlabGAgdMVPrWFwqCxL8g0uUcVhDhrbWEKYCU0jtU215gzc2G3top+1OmfSjgcOYtncsvMmqnzBJD8db5RwA3vdFvs2mqxX0rSNSAPgZDBvEqPr3DjpipBKOHowXTwW7xLmKoxu5TE+z5vfy+itAkAHrDWkYplnw9wAscumHFxkaflmVDJvcMNKf5vQRO01lsRL2uFxviVpRAjw3Vm1s4Zeak62Oe05g2d3llVdgw+UJatWuIlkjC82z+ubLt0VodJHFE=;d4y+X4MG8bVjelzog8NnWQ=="
 ---
