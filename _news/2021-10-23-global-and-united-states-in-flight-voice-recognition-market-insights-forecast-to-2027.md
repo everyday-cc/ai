@@ -81,6 +81,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 01:03 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
+    publishedDateTime: 2021-10-26T05:41:00Z
+    webUrl: "https://menafn.com/1103043526/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?209619"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "u9RqN1ir9tmpqRHSPYv+LB08tiaTGx8Np/7OJxE/SqHpGegq8aVAAFNLdPt/EcG+BZfREk11gL/mQHFVWxTqhRN1gjKyChDO0qlx+HVJwAduuDI0Fiw3u37aESmRUsqapRRc6u8kQiwrMNnS1xcWpHT/hIM0Zq74w43UF5ddq9vqbqRDqmLwRo/JhYEbqeFm/VbI6HdYmSFAKhtKyi8Ef1X/36rMgfTppDCPKi/MySre+ol8yBCkXFFzoY1iaaBzSM0Q78cWiPJ3ztPPhHbUSj8CPPX+1kzsNmGUAVrkSpElQF4n985yZBYayi2CT522rSg0ZRA4JbqX+/RGgOk7AXwEv6erP9+9sQx2BVQlYnc=;YFvjOgssjakw0pybtOzxUQ=="
 ---

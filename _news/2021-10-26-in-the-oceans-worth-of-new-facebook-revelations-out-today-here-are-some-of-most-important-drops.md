@@ -146,15 +146,6 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 24
-  - title: "Can Facebook's smart glasses be smart about security and privacy?"
-    excerpt: "Facebook's smart glasses ambitions are in the news again. The company has launched a worldwide project dubbed Ego4D to research new uses for smart glasses."
-    publishedDateTime: 2021-10-21T12:10:00Z
-    webUrl: "https://techxplore.com/news/2021-10-facebook-smart-glasses-privacy.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 21
 
 secured: "R9Vr2Zmru9T/rONRIqnkIdE2/0YPaULo8ze4sJFfoWtvrrXogih2W6OCI39hsdfl8nj9Qn7IUIS0jGlVHc2D5J3qK6vcQFvlh96PaWVEa4RYZxpk+J2YP7i6St45VvH2m8pWSJH725HjSmnFGpAD3u0dtmKHzN7KFibEQ0BLy4bTmSGKR/RKLlVGFxpfnr1FfkLY4Iao1wNwU3m5DV3qwGNe6uFnFS7hP/GioVyxHDlJyBqALlD1haC5QTDHoJx3zkqavM0jXewd7hPH82Ptf6ZQhULNSmqsoOKmDXfgmWgbJISTjW7XJ4xI+9kzCbdcoQIIwgMYgFVDvo17/a3qqQ65S91IU33FchxThmGjdl7Yi5dUXpPMBhzoMAJVix4ZaeAwFgFgSNtGLp1OGGToT0F8beqtj6YmfLQhmzOpHxiS4Znh/CG4SD2an4QzkXaCOLwApsfyvA6urd9knGF4Z/l3hvR1vLjhV1GJ4/DB/k2VtCyZV3251fY3XgQWs2ExfYsHtfaBVIN/Bdb93k06cg==;8gcnpJjJrrIbS+7NywxqDw=="
 ---

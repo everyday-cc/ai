@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 705
         isCached: true
-  - title: "Future of college will involve fewer professors"
-    excerpt: "The future of teaching and learning in college will involve artificial intelligence and a drastically reduced role for full-time tenured or tenure-track faculty who teach face to face."
-    publishedDateTime: 2021-10-21T12:10:00Z
-    webUrl: "https://www.upi.com/Voices/2021/10/21/future-of-college-fewer-professors-AI-virtual/8851634817123/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 4
 
 secured: "ZGpE+OLsO05tcwbvECcRkNIB9q1NrDFyywk+vaaeq2w/flpXuh3rFAiAM94MX5Gt/zsb4g1gXAym1ahk+Li8aRntN1JVyjB+I623ny0ZmjiRYv3t1D3TjggvQX6RXcn56IhvMmrxrHqDWyXIj7nkV0HLSz+OgCyIWHMyzUlGHdj9iXI3pHmEmZ3o3fZYqIBx9PH44oyzYZw3wM5BEfbgBRhVrhWgeBrJo24wBTP9FD6HEy3cbDWvWjuBbk5j9s7v7Mi4JIqVNPP3TqbFZTkhBKS8sAGFxUiQXzHuCYxzGeTenLoHQXHyZT//cySRxQmGrZ5X+E08BGWTGUZd7hnzEeeUrMaklKL6VRRjrfo88QQ=;aNItR/yyHrUYGDBGSOKxJw=="
 ---

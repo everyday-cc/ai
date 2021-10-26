@@ -72,6 +72,20 @@ related:
         width: 401
         height: 401
         isCached: true
+  - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 01:03 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
+    publishedDateTime: 2021-10-26T05:41:00Z
+    webUrl: "https://menafn.com/1103043526/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?209619"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States In-Flight Voice Recognition Market Insights, Forecast to 2027 report by QYResearch Group. In-Flight Voice Recognition market is segmented by region (country),"
     publishedDateTime: 2021-10-23T13:36:00Z

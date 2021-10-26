@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Terrifyingly, Facebook wants its AI to be your eyes and ears"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where you left your keys. The Ego4D project provides a huge"
-    publishedDateTime: 2021-10-21T11:28:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-watch-listen-your-surroundings-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "Media Outlets Flood the Zone With News of Facebook's Failure"
     excerpt: "\"The many exposés reveal a toxic but highly profitable revenue model that's driving Facebook’s reluctance to safeguard democracy and stop the spread of hate and disinformation.\""
     publishedDateTime: 2021-10-25T21:13:00Z

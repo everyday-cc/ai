@@ -41,18 +41,20 @@ related:
         height: 628
         isCached: true
   - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
-    excerpt: "Britain's GCHQ spy agency championed the procurement of a high-security cloud system.. Read more at straitstimes.com."
-    publishedDateTime: 2021-10-25T22:50:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage"
+    excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
+    publishedDateTime: 2021-10-26T05:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/26/ac_aws_261021.jpg?itok=q2U7brby"
-        width: 763
-        height: 509
+      - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "qFeJeOu0ITutBmpGV26zWqgXKvMWbxAoNskw0287xZeO3jIO03HK0mPdzgIMkgUvKUmviAg2maVZvWXdBZ3s5rxw9GqGbJuw6qbDstdf573tnIx3xWMnEZvc/EWTPiaGe0S/HI8lNWwzCDDdUoqVyqxkEbLqGfT3lfQXwAFK61pXylG+VbvSlZxZLMzrMVeYqMTaOkAX7Lne6IQ3J3RLH66kgKuuycpeDcdVgENOKgIhoHt3aki+Aws4Yvsfjsg9nPqhsLxlaaG++gjP8PNhH5h29Sk1fAZR4nmGZvTgkSM+HBulopbl7n8/ITClyyfaRGCyztX+Wi8RKnPTseDNhmjoKXB/fH/8YDW6GON4100=;h/tKsDb0m9Jkwlll0+uTgw=="

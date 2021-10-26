@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-sp
 webUrl: "https://www.reuters.com/world/uk/amazon-signs-deal-with-british-spy-agencies-boost-use-ai-espionage-ft-2021-10-25/"
 type: article
 quality: 62
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
+    excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
+    publishedDateTime: 2021-10-26T05:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Amazon signs deal with UK spy agencies to boost use of AI for espionage: Report"
     excerpt: "GCHQ said it would not comment on reports about its relationships with tech suppliers. AWS declined to comment on the report."
     publishedDateTime: 2021-10-26T01:36:00Z
@@ -43,20 +59,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/10/26/1600x900/rss_amazon_east_india_company_congress_pawan_khera_1632746070329_1635212101256.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
-    excerpt: "Britain's GCHQ spy agency championed the procurement of a high-security cloud system.. Read more at straitstimes.com."
-    publishedDateTime: 2021-10-25T22:50:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/26/ac_aws_261021.jpg?itok=q2U7brby"
-        width: 763
-        height: 509
         isCached: true
 
 secured: "Gbhmy5Bz9GCxGw4Ijn/xYNPI9xrs90WD8B702C2Z4y35mCtwDG7E7Bma5NAw454bDu/doCGICHSt5KYbmlvP4axrPji7IEwMH1+QMcJU6Ck7oc4o4Y9QIqFxeKMErx9xGdsQ4C8N1bqOrtX4XSfMxgD3V5l13j1Ku6+2XD41t41SHnilWK1yL+pAJoEJX84A+fD3u8HyB8zpbYzCgiqKBpnb7jdm0qmm4I8sV1UQatlbE4zppcy5VtNQfnmTexqzPO/QUXvjUzkdGW0flswL5HzXEjtJowdA4OggHiAD+fISPMUv3mEs2QpH1PdSVFWOIxw2v20WqFZ8SvJGMYrFqWZX6nId3w5QLsUYkoHIwDc=;0G9n7aqqseAqmLSAbLJVgA=="

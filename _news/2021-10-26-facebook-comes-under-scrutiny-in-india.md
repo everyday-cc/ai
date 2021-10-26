@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Terrifyingly, Facebook wants its AI to be your eyes and ears"
-    excerpt: "Facebook has announced a research project that aims to push the “frontier of first-person perception”, and in the process help you remember where you left your keys. The Ego4D project provides a huge"
-    publishedDateTime: 2021-10-21T11:28:00Z
-    webUrl: "https://thenextweb.com/news/facebook-ai-watch-listen-your-surroundings-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "Facebook Smart Glasses And The Creep Factor"
     excerpt: "Above: Mashable's mixed review of the Facebook / Ray-Ban Smart Glasses.] Apu Kapadia, Indiana University. Facebook’s smart glasses ambitions are in the news again. The company"
     publishedDateTime: 2021-10-23T16:08:00Z

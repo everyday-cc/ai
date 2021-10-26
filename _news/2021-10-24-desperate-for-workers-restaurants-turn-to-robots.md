@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/desperate-for-workers-restau
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/desperate-for-workers-restaurants-turn-to-robots-7617771.html/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 770
     height: 431
     isCached: true
+
+related:
+  - title: "Desperate for workers, restaurants turn to robots"
+    excerpt: "The CDC estimates 48 million people get sick, 128,000 are hospitalized, and 3,000 die each year from foodborne illnesses. Using robots like Flippy improves a kitchens cooking accuracy and consistency,"
+    publishedDateTime: 2021-10-26T05:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/articleshow/87271695.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/amp_articleshow/87271695.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/desperate-for-workers-restaurants-turn-to-robots/amp_articleshow/87271695.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-100622,msid-87271728/istock-1285301436.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "T4laScmYyBTdvE7oWGOVMiITHpKonldgApRoaxofq57385fel1UNFbt/rB948lBiXukqppRkW96X1pkTZOXtbR9JvZZgY5l56VwmyYfui66+cdNCbhtN42tdrDb3cst7G5wFbTPYRbEdkblKn2GYyO52CahP2O1PEFY4fiDpMMXkI6i9PFvxIqvEwuu53p5Hf+tL4bSvRgK7ZBOxV3M2HGPpj+oTr87UT7OKjl21u0fxY7pIye2PJhVtQ2JWl4W1fWGThl4GwaudxIK6V5RmqyaYyqj41ruRaCHXjoeQcp7KZoAHxceLGNJDJT00GuWrNsdEYqRXcT4KlQbdqKNA7hKJD6mvVi/h8Ex9O3hf4Xw=;LbL7cecOSIdYJAHjmxE5Jg=="
 ---

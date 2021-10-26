@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rollingstone.com/culture/culture-news/erotic-nft-anime-g
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-news/erotic-nft-anime-girlfriend-1245432/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,16 +27,19 @@ images:
 
 related:
   - title: "The Coming Convergence of NFTs and Artificial Intelligence"
-    excerpt: "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value."
+    excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
     publishedDateTime: 2021-10-25T18:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
+    webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 39
+    images:
+      - url: "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "MwyMXSUIbKk2Lqf9sXY5+DP5gqgJGvp71u+7MHQDJ3UbXxGEQdnrNyhIVloRX+mta/Xv1wVAVAoslBqUpQ6+NOahFNc+R4zgNodvU8wBGWuy4EnYHcjGd7F/mwsdiCTjwoFW5bx4uWyHz/nUovuP4UFPezwqP12Tx2DQwBIbdArDO2VfJH/43GPSsI5spp2uQzZ2VMB03K4pxmqh4x7NDroYx8iaNPkZ+p7LfVANfE3DIRWPjHlvLCBKZ0gKO5sEQUIBDu0am0jDZi72OLaCN3BrHPBmCpn9rXnb5/q8Xm+trxv+f7mlNfUwRNe0MrYw30IqgT5GrFnl/r4ZrH1fXTIhxS+0NiQb0Wn4ncvozJk=;+v0m/YkPDZDs4/icGEW7dg=="
 ---

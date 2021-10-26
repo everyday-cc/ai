@@ -41,6 +41,20 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "AI industries to get IIT boost"
+    excerpt: "Indian Institute of Technology Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) is launching the ‘RBCDSAI Industrial Consortium’ to provide information resources support on cutting-edge technologies to industries working on Artificial Intelligence."
+    publishedDateTime: 2021-10-26T05:13:00Z
+    webUrl: "https://newstodaynet.com/index.php/2021/10/26/ai-industries-to-get-iit-boost/"
+    type: article
+    provider:
+      name: The News Today
+      domain: newstodaynet.com
+    quality: 37
+    images:
+      - url: "https://newstodaynet.com/wp-content/uploads/2021/04/iit-madras-students-get-more-ppos-this-year.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "UZ81miMl8QX84K6fEGjCUj9DuIjYN4nK0s983kVympJtDFLHf/2y0vqHb+HAIQJ1ib9n9rZwawxuRg1lNoN810YnVTtn3ymAovyeoqBxY12gvamoqfBo8RxIBp0CPvb6ckdoPFW/hFoZA5s30sMfhUi7J02kEpoSzxRi0bXSGPSkvuqw0PxQTJiwXCli0EMNbAnieazfCXPVTQo8YkQNb/F7JHlgno7lawtaSKAP4AqmvLA0YFAIoVlRI9xB5x4h/9P6sS+iNXwRQ4S+Jjf8f0debEKZs8cMsWcrWC/Kw1T6hdlyP1yga6xHCn38lhCe7AofF+eDvpjSk49EbLt2EHSL5R19bl3JPE1g4s4o7FDRo54Bb4zZIHgCjAihhlZwug0A7KHjQP/Oaz/cJqacsNlcPGXm/GRv7yDu6dohKnoi5QF4KJz1txYJQ6hY+psng2wOxyfXkdlnMPFL21v2vD7qoiiBuB62nb0UkwgtFPXazPP5f9tVO20cMo8T/Y7f1j/7xqKymUMDadkte26Ipg==;sYav/Yrghxp18s8/CyumVA=="
 ---

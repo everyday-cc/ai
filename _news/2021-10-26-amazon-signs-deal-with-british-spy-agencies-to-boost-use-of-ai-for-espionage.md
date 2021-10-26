@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
-excerpt: "Britain's GCHQ spy agency championed the procurement of a high-security cloud system.. Read more at straitstimes.com."
-publishedDateTime: 2021-10-25T22:50:00Z
-originalUrl: "https://www.straitstimes.com/world/europe/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage"
-webUrl: "https://www.straitstimes.com/world/europe/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage"
+excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
+publishedDateTime: 2021-10-26T05:42:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazon-signs-deal-with-british-spy-agencies-to-boost-use-of-ai-for-espionage/article37172032.ece/amp/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/26/ac_aws_261021.jpg?itok=q2U7brby"
-    width: 763
-    height: 509
+  - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -55,6 +57,6 @@ related:
         height: 900
         isCached: true
 
-secured: "2RwOMqRfq2On8oY0gXYJzKutV1qLli5Pfzd7+vq5x9S3g9hux46kM6Pvh/g2FIk92/1cvfT4dvTmWatHU2q5O/yGgdwp92saV8GSZjxMqljyrmpopNZoY3yNEkR4QNXL2Tx388uVYfS/Eq2Z0IazOfc0V81CPSAU3NeLxbFLGDarXE3Rj65LzXRt2KWwWj+zBaoRssAOsa//IKGmnxC5vWHZSWZJWTkptMC1Mkf5n0Sq9d3uTIoUrLB9VOpmSCdg3EvAZq6q9uVzygzTA8hOY0q8toPINP6uj3Y2o1r4CvwrUtaeuQE4fK6azqMxlcmhiEpEYCQ1sh4PkeH2K5PCpJSReIAudullB39jf0fpNv0=;o5lDni0XEKu7786jnDHe7Q=="
+secured: "vpEfXDmR5tLlGaiXiBMkqLvyYUO4AvE5o6s7uggc9zrtjYu6o5E+LmrVRA2kD/jYkUwGwZjH7vuUvv2YlHXc17O/9rGpNaNN1kBwz17lHzn/rFb/2pBmtKLgH14KOaGvQTUE0WJ67thVTziDzZUxihULkvjCz13xRmmj27SDbLetYKAgFTIHam9oDIbPJZUSJlgBZCkG910bxYyeUHxX/h89wwTqmrFtcy/sTBEgUWweCelgrTMSwIF6QlbxXfCytfiBJzdPZO6vsGyKq9Chpl4W1F35BctxkUD1U36CgAivYzN6n9XDqGwyFj5IMsXp/BALq9XibQokZSmXkrrNH1J323gzeZp0WJodfP1B8jA=;Ezf8+N63bUGUN3xy7cQHBQ=="
 ---
 

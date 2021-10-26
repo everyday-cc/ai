@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's 'full self-driving' rolls back its privacy protection of trip videos"
-    excerpt: "Tesla owners can buy the company's \"full self-driving\" software for $10,000, but they may have to pay with their privacy."
-    publishedDateTime: 2021-10-21T11:13:00Z
-    webUrl: "https://www.cnn.com/2021/10/21/cars/tesla-fsd-privacy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/10/21/cars/tesla-fsd-privacy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/211020111839-tesla-autopilot-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Elon Musk Says ‘Some Issues’ Have Forced Tesla to Pull Newest Full Self-Driving Beta"
     excerpt: "Although Musk didn't identify the issues that led to the rollback, some drivers said they experienced problems with Autopilot and Traffic Aware Cruise Control."
     publishedDateTime: 2021-10-25T07:17:00Z
@@ -139,6 +123,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
+    excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
+    publishedDateTime: 2021-10-25T17:35:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-10-25/tesla-submits-partial-response-in-us-auto-safety-probe-memo?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Tesla pulls Full Self-Driving update after sudden braking spooks drivers"
     excerpt: "Tesla’s Full Self-Driving software lived up to its “beta” label this weekend. On Saturday morning, CEO Elon Musk announced a delay for the 10.3 update after internal quality-assurance testers discovered that the new version performed worse at left turns at traffic lights than previous versions."
     publishedDateTime: 2021-10-25T20:42:00Z
@@ -200,22 +195,6 @@ related:
       - url: "https://images.barrons.com/im-390980/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "U.S. NTSB head criticizes Tesla over vehicle self-driving feature"
-    excerpt: "The head of the U.S. National Transportation Safety Board on Monday criticized electric carmaker Tesla Inc’s decision to provide new self-driving software to vehicle owners without addressing safety concerns that the agency raised after a series of fatal accidents."
-    publishedDateTime: 2021-10-25T17:35:00Z
-    webUrl: "https://www.metro.us/u-s-ntsb-head-criticizes/"
-    ampWebUrl: "https://www.metro.us/u-s-ntsb-head-criticizes/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/u-s-ntsb-head-criticizes/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH9O0HW-BASEIMAGE.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Tesla Setback: Elon Musk Rolls Back Full Self-Driving Software Over False Warnings"
     excerpt: "The setback comes as Tesla is under regulatory scrutiny over the safety of its semi-autonomous driving technology, which it calls FSD."
