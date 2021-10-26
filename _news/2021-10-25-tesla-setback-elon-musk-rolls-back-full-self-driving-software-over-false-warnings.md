@@ -217,20 +217,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Making clinicians worthy of medical AI: Lessons from Tesla and self-driving cars"
-    excerpt: "Tesla is in the midst of conducting an unprecedented social experiment: testing drivers of its cars to see if they are safe enough operators to receive the company’s Full Self-Driving ... conversation around artificial intelligence tends to focus ..."
-    publishedDateTime: 2021-10-21T08:46:00Z
-    webUrl: "https://www.statnews.com/2021/10/21/making-clinicians-worthy-of-medical-ai-lessons-from-tesla-and-self-driving-cars/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 49
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/10/GettyImages-1311708478-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tech Bytes: Apple Macbook Pro shipping delays, Tesla self-driving issues, Clubhouse pinned links"
     excerpt: "Apple is warning of delays when it comes to their new laptops, Tesla is pulling new software due to issues and Clubhouse is allowing users to pin links to the top of their audio rooms."
     publishedDateTime: 2021-10-25T10:48:00Z

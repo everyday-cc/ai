@@ -27,6 +27,17 @@ images:
     height: 426
     isCached: true
 
+related:
+  - title: "7 Ways Small Businesses Can Leverage AI to Stay Ahead of Competitors"
+    excerpt: "In this article, we will explore some of the ways that AI can be used in small businesses. We will also discuss the benefits and challenges of using AI for your company."
+    publishedDateTime: 2021-10-25T07:00:00Z
+    webUrl: "https://www.manta.com/resources/digital-marketing/7-ways-small-businesses-can-leverage-ai-to-stay-ahead-of-competitors/"
+    type: article
+    provider:
+      name: Manta
+      domain: manta.com
+    quality: 17
+
 secured: "zlc0FIJp6E1MM4zbTnzpj38hGdIE+otMIBeKFyqxUJewRVjb24MPkjyIU48tajaUXj28b+l7c+0E/jrV2WRX/DLLr/KRFV20XdKf2UeQvvhtv3UeUS81ieN/Oa6FF5stcCb5x0lPGUChOirfMhF3y7KKwisJCb3f3kdEeg/fvefFs6Ff62FedjzW+5xfmUoSnDNbwCBm3683D0PV5F5ci6DfVj+/lEBlDywpvZCnrp7alhemHsCCvVLB/xyNl5EX8vygB/rA/6ieC6uS34+vnjWTKIvaak1vDy/3ABO7dDB+zJGBqVJwPLS1lUSAIS+e65nE0mdNK5ObaHsildee8oM0rv1x1G051txw7BjVJmbluOCg4WXKNL5qhRb2h80nYCobMY7tYLxLfslZXOoCF03lmLSdFCsRtLJ2zaW+lfFCoYbhWpuPZyosBrUS6BtTOcj+lZeU0MpK/StSPHo9y2hcSQDOvYdfC/gJGi/cbjQenjtfnXDMP8OCKKzYlWCfxt6QJzFwRQhn2u8Dx6hgHA==;wPjS70IW/6CYL4EO1slGcA=="
 ---
 

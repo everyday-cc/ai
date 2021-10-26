@@ -107,6 +107,20 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Hong Kong Fintech Week 2021 to Lead Scaling up for Fintech Future"
+    excerpt: "Invest Hong Kong (InvestHK) announced details of Hong Kong Fintech Week 2021, themed “Scaling Fintech Future Together”, which will be held in hybrid form, comprising both physical and virtual formats,"
+    publishedDateTime: 2021-10-26T01:15:00Z
+    webUrl: "https://fintechnews.sg/56604/events/hong-kong-fintech-week-2021-to-lead-scaling-up-for-fintech-future/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/10/MW_FinTech_300x250_2.4.png?x45653"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
     excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
     publishedDateTime: 2021-10-21T19:45:00Z

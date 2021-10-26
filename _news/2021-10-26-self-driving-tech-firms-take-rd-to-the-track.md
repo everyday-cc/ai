@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Secure Data Transmission Could Take Connected Self-Driving Vehicles to the Next Level"
-    excerpt: "Teamwork seems to be a valuable concept for autonomous vehicles, as well – connected self-driving cars can respond to road and traffic conditions much better, compared to relying only on their sensors."
-    publishedDateTime: 2021-10-25T07:57:00Z
-    webUrl: "https://www.autoevolution.com/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 17
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/secure-data-transmission-could-take-connected-self-driving-vehicles-to-the-next-level-172506-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
     excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
     publishedDateTime: 2021-10-21T18:27:00Z
@@ -63,6 +49,6 @@ related:
       domain: news9.com
     quality: 11
 
-secured: "Gz9EjgzOni3FHVtR90zdj4NRIQcaVJTNuTM7veHgucRexd/VAkVwSlgapIK5jA9n7XC9BL+6tdfgf6npuhrhB3bVkZrAb14bu7UF7pB7LkGiNOQlw2+sIpRnNhwgoMxeTrKRDG0AlR/UBb6ZS4jpv+MzvRRkriF9tHYwm8l1OtObr2h39AW9xZpPh4QZ3k5aSYMXx+b0c+CNjViz6zGnSQGY6Qnx9U7KXX3K/P83fcPSS8zt8K2GeHZ8bJA0LMa2Ho5c01Nldja38sTpFrxukiUoPHYsyQIP0X3avbruMN09rWbkWtFzWLAG+14HxtXaEulpeBzFqJNaF1Ni8WkhyxTrYNnfMNLNjB4TYWsZvx8=;8pnwKSM5tei4rENIMTDlMQ=="
+secured: "MxeTaNt3rrg4xK9ORxb2gP4MAI82mGngQwQ8Ab4OTjO0XOr1S2UwRoQM64ObBiY87uOLMG/p1vNL851L+NtcP9UcBRaWfUgF+A9BLfXiQw7tcmh3NZzgZZIThOCykpl7H2QIL7sllv5zcunCV7z31EAXhKUNP1F8GWlsfrZzbl1+UimWXPziutb0NqY7ZBuobRkxoz7OBxJtVLbL1sGPU7VYJMg/GUIVMOtQ5f+ad4aE7IRWes75QiprPFHJrZWRk88+Jt5AsEUjIMc3RXILU2FBb11/N+GO/G/VzOjoSclLIFQgHEFJ3CXvlX9d5U8cfU4fB5sc+DpRdhsbSfkuUOfcwTXj7XAjC6QWDhihvmCPMFDg2ZTRkd2+lhNhIfR3MQESC69oubrbF98uhCQXGngzQ4yily8VHH3ixLFVgLc2DKmky1pGTMbHpfoeWjEQtZDZ1CKAv+4OSmCDlSW9gBqotptlSO5gqK+B+8jLw11VF797WBaE9WLw5SV5CRH+9YqckOxdc0h1eA563pYklQ==;ceXrTuwtPMe00i7O9USKPw=="
 ---
 

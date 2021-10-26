@@ -127,6 +127,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
+    excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
+    publishedDateTime: 2021-10-26T01:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10128197/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/25/16/49618083-0-image-a-36_1635176206001.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "WPLqKe6NX+WHTfifsnbifNR6EM3Gk+dkNQf9HlX2hCZ5+sxV4LYkxWiZV80ZQAtN9tlDGgHjKFU79xYNuqqzEYl1V63PbPMyGKU5PdNKkrjzImnBHqZXHZLo2x+3kRGUeXif6EfrubJC6br7p3GBg0IsmuIIVWlraOLmZHlpXg4jLCOYGP9aWz/UscSWhiMpwPZXG+gIyNTfJliQqJ/lck6YB+8wiQ6ZtwfmcqlFDlvtr8vje3sgpm2tanlPOaduvYQPUwqRrjuLoOZtzG3AGCTj69b5uvBiuOx1d2J7GTCCYNGtEUj9SeR7P5q0YiHnDkbaPD8fNj8/e12Cv71Gs8I0zM9audQbSuUpQ5NsfSTIMaZxqb8TfNXXydfQ/vKLHmJARw/f3cgN6soOntYgNVN4ZFGqay6geMKTGQ2fKLFzx8nO96djKhI2vVmkV1PpzHwofLby/h7TkYpSriDzoSsUT4z33a/L3h+l7FbAy3n/6QusyBXWqfYlvuRwo4stGxYjm7Tt+lcRWQ/qPZDcuw==;4vu6PRm82CoBp/QHM2rZ8Q=="
 ---

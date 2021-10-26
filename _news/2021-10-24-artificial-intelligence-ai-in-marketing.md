@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 1920
         height: 664
         isCached: true
-  - title: "Artificial Intelligence (AI) in the Freight Transportation Market is expected to show impressive growth rate | CAGR 17.90%"
-    excerpt: "The latest report by Report Ocean discusses the various factors of the global Artificial Intelligence (AI) in the Freig"
-    publishedDateTime: 2021-10-21T08:57:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-the-freight-transportation-market-is-expected-to-show-impressive-growth-rate-cagr-17-90/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
 
 secured: "NzV5KQYaOOfr1nGlLtRbzKL+vENqgeqDFYnxplyHBUfnXNv0o5gAifUsaeqdKkcS44uTDEgXTDNmQw9VEgUy0qSEXGyIv+xqHSAhfgjKZ+ZdmY4SGv/jteKcy/73Abs1uv3fSxW22zg5j94dWznai2Qu+AitFm6ojSGNHa3AEc28oF/8j3jhQeu47Kk95QL//izlIf1uSg+LfSTKgYh/TVF1zZvMhR/K5hKilXb8FcfMIKKii3KCYr8v1kX3DIyfPlH22qFSk1ZZCmPzvDfNCnqpzNbfcAssOceq7w059Bjj9isAEK6un3NzSqKkJ7r+t8BpFkW4JpV0D+X7o0PU0pKB/XVUKPm/MWgq+keg60S1destCJrFXgxmPzHcGXVY9fzNDjuE0XU65G+8aFgXzmEKSdQg6JSuRjEVH7TmtCOxCFOE1Eraioo3JAKUFKvlBxiGjJQFTbLMQhPBTXWYpsoBHL3V/2z19M+eg/jPHstmSIYzYCmQ3X8RT+5tnKzkcFFHcXRCs0KsC3ktZA4Kqw==;SpsFG8dpI2+AzlFsWah3ZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-a
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
 type: article
 quality: 69
-heat: 79
+heat: 82
 published: true
 
 provider:

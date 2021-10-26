@@ -107,6 +107,20 @@ related:
         width: 1400
         height: 800
         isCached: true
+  - title: "Hong Kong Fintech Week 2021 to Lead Scaling up for Fintech Future"
+    excerpt: "Invest Hong Kong (InvestHK) announced details of Hong Kong Fintech Week 2021, themed “Scaling Fintech Future Together”, which will be held in hybrid form, comprising both physical and virtual formats,"
+    publishedDateTime: 2021-10-26T01:15:00Z
+    webUrl: "https://fintechnews.sg/56604/events/hong-kong-fintech-week-2021-to-lead-scaling-up-for-fintech-future/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/10/MW_FinTech_300x250_2.4.png?x45653"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Latest Trends in The Fintech Industry and What to Watch For"
     excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
     publishedDateTime: 2021-10-21T21:17:00Z

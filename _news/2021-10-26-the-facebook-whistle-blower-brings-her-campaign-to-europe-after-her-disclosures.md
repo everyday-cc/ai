@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://WRCB.images.worldnow.com/images/21597636_G.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'Instagram may NEVER be safe for 14-year-olds': Whistleblower Frances Haugen quotes Facebook's OWN research - and says social media giant won't sacrifice a 'slither of profit ..."
+    excerpt: "Ms Haugen said Facebook was 'very good at dancing with data' to suggest it was successfully clamping down on toxic content but in reality its 'negligence' is pushing users towards extremism."
+    publishedDateTime: 2021-10-26T01:01:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10128197/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10128197/amp/Facebook-whistleblower-Frances-Haugen-gives-evidence-MPs-scrutinising-online-safety-bill.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/25/16/49618083-0-image-a-36_1635176206001.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "zjCHC8QbQ7wVVe/hpGI+4ghUKClIkw8i9g1p46OjOZziKHKDK3VRuQfHG0uuFsUs1xDHkLwDhP6YzebuXSG9rKTFm7N1uPV5zTpoW9e1zvILCA7v/d1Ghvk6U7oZHUUAYWxDktX6oMHWZS2BWx+AaNn9jMX06/4WuisE9YBQM315UIy+o4UuBntIkHcRMftQj3KfH8gTBTdhuxuH1GvS8IQ4CCkzY3fpGo7JGE+4gjzN9xEwoNPenGuAMnov3Y8qc94Wel/1GqqobgjWfVP7Kt/N/EnzVjbo+BAXLPq+BIcOD1IADwr/P2NCD0hVii+TLWfYKVgvM0aGmLOU/Y6wnJENeeCW+i1K8d2D/Ater/p+SYFmoG6Ei3lAX52peSRJqgBzTqhGWz/jgqCMjJh/9NhmT9RK8rnJ9GxHwG430ESqh2b548IbFDkq3KfZ/t7NUk/k5snu3lGKwPkmL7QG/UpV+QBQNM76tJpFHm/8j/ZVaIL1Ud8gqZJEzpQeEC8fR8UCrTqGJKlMDm87bjvngA==;OfbNJZOQWNf4bXauC/8kMw=="

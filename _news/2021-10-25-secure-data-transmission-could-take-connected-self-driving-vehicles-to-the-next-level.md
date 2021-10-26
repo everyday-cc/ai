@@ -25,43 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving tech firms take R&D to the track"
-    excerpt: "On Northern California's Thunderhill Raceway, self-driving competitors get a crack at trying out their advanced technologies in a real-world environment."
-    publishedDateTime: 2021-10-25T19:58:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-firms-take-rd-track"
+  - title: "Self-Driving Trucks Could Be Solution to Supply Chain Woes"
+    excerpt: "Ariel Wolf, general counsel for the Self-Driving Coalition, an industry group promoting autonomous vehicles, joined Cheddar to discuss the ongoing supply chain woes partially attributed to a lack of truck drivers."
+    publishedDateTime: 2021-10-25T20:27:00Z
+    webUrl: "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes"
+    ampWebUrl: "https://cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-trucks-could-be-solution-to-supply-chain-woes.amp"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Cheddar
+      domain: cheddar.com
+    quality: 59
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SELF-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://img.chdrstatic.com/media/47bf0278-2a54-4c47-b3b1-9ccb5f29b5c7.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Aurora Makes Major Progress in 2021 Toward Commercializing Self-Driving Technology"
-    excerpt: "Through its cutting-edge technology and industry-leading partnerships, self-driving company Aurora is building a generational business that aims to transform how goods and people move through the world."
-    publishedDateTime: 2021-10-22T14:29:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-001949c6044d4da38255219d0c0651c7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Waymo's Self-Driving Cars Randomly Drive Themselves To Dead End Of San Francisco Street"
-    excerpt: "Waymo, a sister company of Google, began testing its self-driving vehicles in San Francisco. Neighbors on one dead end street in the area realized they were seeing a lot of these cars for no apparent reason."
-    publishedDateTime: 2021-10-21T18:27:00Z
-    webUrl: "https://www.news9.com/story/6171b0fe5f6e5f0bea190624/waymos-selfdriving-cars-randomly-drive-themselves-to-dead-end-of-san-francisco-street"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 11
 
 secured: "Oc3FGcajQqfltka/R2Q91MlLQdYS68KKQ6ikGaUlPF5djVTgII2Y4bfN78y8/XcwHOUIcuPtxI6e4KqQrMrfM/39AyAJjt2iQHa/bv59wjjhpFnk05LslnctVgLvECcCdywFHdK24th0gaRQTDq2/ssXi3cvdbN30jymYpPkmUPlRtqrxunwVL7u6PTmA8XHPFBaGd1XME8vsb6BV/7mWn258G7HBkGaRyfNJ22g+QyjuSUR29SGfiPmgwyNCURemoRVpSatvz38n1QWFKse5vlNh6ZHv9BQHsdJzt4TXec6sR38V0lkAAZq2anZz+WKV5i2MEJivhcfKlZwzExgDBg33poHDPn35iAr3KqPaTp8SYM6UeJzMxHIVxkL3BIPge+dgyXVG7nj1ALBVqiMDuXAFFlX4TEj3tD5EmvygZh3OunUgkZ0Gk6iaZKDE2TP8AAoYEnH64coqBc/MumWWEazB7sFNaNo63Mvjsw2l7+TnysW7VvuMinADx1n326ECjmU1pcfPnH/2RhTjXLI8g==;WnQh5wbb99CvBM0h2oYfww=="
 ---

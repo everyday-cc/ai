@@ -233,20 +233,6 @@ related:
         width: 910
         height: 607
         isCached: true
-  - title: "Making clinicians worthy of medical AI: Lessons from Tesla and self-driving cars"
-    excerpt: "Tesla is in the midst of conducting an unprecedented social experiment: testing drivers of its cars to see if they are safe enough operators to receive the company’s Full Self-Driving ... conversation around artificial intelligence tends to focus ..."
-    publishedDateTime: 2021-10-21T08:46:00Z
-    webUrl: "https://www.statnews.com/2021/10/21/making-clinicians-worthy-of-medical-ai-lessons-from-tesla-and-self-driving-cars/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 49
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/10/GettyImages-1311708478-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla's self-driving cars a step toward a future without auto insurance"
     excerpt: "The phrase “asleep at the wheel” could soon lose all meaning as Tesla and other automakers push self-driving cars closer to reality. CEO Elon Musk has said select Tesla drivers could get their hands on “full self-driving” software as early as October of this year."
     publishedDateTime: 2021-10-22T13:06:00Z

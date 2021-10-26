@@ -96,15 +96,6 @@ related:
         width: 1920
         height: 664
         isCached: true
-  - title: "Artificial Intelligence (AI) in the Freight Transportation Market is expected to show impressive growth rate | CAGR 17.90%"
-    excerpt: "The latest report by Report Ocean discusses the various factors of the global Artificial Intelligence (AI) in the Freig"
-    publishedDateTime: 2021-10-21T08:57:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-the-freight-transportation-market-is-expected-to-show-impressive-growth-rate-cagr-17-90/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
 
 secured: "WKuNiLtqzlkVPC1bssddR6sly2bTOPq3F9ANx1n8U3ORyFOxuAScgYqOHeB5jwDJaN8Ms+4Sb5+xIMtOX1fKLMqW0ds7Fbj6YXtZegvWh39gPrYOVV7gRgY9OjPujwIcPw15Sc0kL8e3mziYfbuvkn0UZsaR1oWft3OEM9l6cKsKfBZTPJESPpsiSCg1yK1OLc7U+WV+fHOGEVA7muSxPOufiH0Gkrl77VOQwCk3Z5vJfbhZ7bM9we5pbHg5GwpjQ3nwlAOUsBJboIelYAI/J9r6357IUezN1GLB95J550oehpFtPanBO+Yfu6I9JPKWYoVF8PdfMYvz6Oy0LmfLHYpERbP8grMiKjc7Z1MmVjtgBoFGAX1hh3CR2ju+6zPemecRhASH2LRoqff7WpoaRFzztcoxY4Ol++vyFDNq8vEdJF5sFZUEE4IK7s417pKSKfl1TNTaHVjisqLvHVzAd6P/y41Nmv7E7z+ccEWT1FaTCPDFSSHGFk2bstVKBt8zXclVtV2mdZKu+TdJ2HyP4A==;dhJ7bMtTXjOa0QzYunPxPw=="
 ---
