@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Facebook has language blind spots around the world that allow hate speech to flourish"
-excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English, potentially making users in some of the most politically unstable countries more vulnerable to real-world violence,"
-publishedDateTime: 2021-10-26T08:51:00Z
-originalUrl: "https://www.kezi.com/content/national/575608442.html"
-webUrl: "https://www.kezi.com/content/national/575608442.html"
-ampWebUrl: "http://www.kezi.com/templates/AMP?contentID=575608442"
-cdnAmpWebUrl: "https://www-kezi-com.cdn.ampproject.org/c/www.kezi.com/templates/AMP?contentID=575608442"
+excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
+publishedDateTime: 2021-10-26T14:20:00Z
+originalUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+webUrl: "https://www.wmur.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+ampWebUrl: "https://www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KEZI
-  domain: kezi.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/kezidefault.png"
-    width: 640
-    height: 380
+  - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.gizbot.com/img/2021/10/3-1634885552.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Facebook’s smart glasses could lead to Black Mirror-style privacy concerns"
-    excerpt: "I believe it’s important for technology companies to proceed with caution and consider the security and privacy risks of augmented reality."
-    publishedDateTime: 2021-10-22T11:01:00Z
-    webUrl: "https://thenextweb.com/news/facebook-smart-glasses-black-mirror-privacy-concerns-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FFacebook-Ray-Ban-Smart-Glasses-hed-2.jpg&signature=208621d75f163ec97168d933232be728"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Facebook AI Releases SaLinA: A Flexible and Simple Library for Learning Sequential Agents"
     excerpt: "Over the past five years, deep learning (DL) frameworks such as TensorFlow and PyTorch have been introduced to enable developers to quickly prototype new machine learning models. Most such frameworks however still struggle with the implementation of sequential decision methods,"
@@ -121,22 +107,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Facebook’s language gaps allow terrorist content and hate speech to thrive"
-    excerpt: "Internal company documents show the problems are far more systemic than just a few innocent mistakes, and that Facebook has understood the depth of these failings for years while doing little about it."
-    publishedDateTime: 2021-10-25T15:03:00Z
-    webUrl: "https://www.pbs.org/newshour/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/facebooks-language-gaps-allow-terrorist-content-and-hate-speech-to-thrive"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 42
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/10/2021-10-25T110016Z_1511104453_RC2ZGQ9U2U2Y_RTRMADP_3_FACEBOOK-DOCUMENTS-GLOBAL-1024x681.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
     publishedDateTime: 2021-10-25T15:49:00Z
@@ -163,6 +133,6 @@ related:
         height: 467
         isCached: true
 
-secured: "hrtk5ghZY/iM5s6pQ7ZubMTeLg6IBAgdoHrYCU/J3y1XRHGAitQJLuYqvR2X0yo23tHQkOFSM/hAynJE3kf0B7OKGVZrQnMbq1potUAg2E5iWIxzZGpVlkeX+XYkEHToCilRAqgUwgv9iQECNC1Gb5/Ur+qVMoiX/PrMs662BObI1PI6L578c81OgXS6C6LswYrtNBjRw5twIKQUHX+WVdsLmrgu/bTj/W80xlmn7jNIaYsfPKXmBHfuOrTCCYdXB3xMxtDu+GtaECD2vHBtEtmCBTsun14OTYXwSZe7p1u4CW50mujFUQjt9Nq50gHWAKlFQ4+uafKszpzGOXIVY/5N+k8ndlpm2X6s5uQascw=;Shmq8QITSPom3TonlADzYA=="
+secured: "3qTUIU9cwHW+eXMVKmpfOfInW346DLZneSgPZhTg4whVpntNMs2IRxPecJtfyjLoxSckSJdSfd8gwhTI2VjY1TM6y5/Z9U/xj7CXicpom6dvKvTo0fL/wMRTp6hyIE/TF27AzTCA3NN3b3xoBYsjH8mtJYlPGUAotaUUrTFpZVBG9tDwlA9Lj9CYHXvTYmVETTa6zW7cD3i20mpDxhcYCEAHyCsdLN15q3+9MezBcSt20HpD+PAX5RSEAnBlH6z3whBhZ4RlGSdG/Lbl+CZ5XhVZrWPj3lozj2giQvv/hKmhN12AeOvVGm56taRpxnLyfBjn4e4CFZo/Hniu0Z5JzkfYouth6r8z5N2sgTvfL/I=;TyRw4KLEd5VIc3ITct1/Ig=="
 ---
 

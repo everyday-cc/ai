@@ -74,6 +74,20 @@ related:
         width: 2880
         height: 1766
         isCached: true
+  - title: "Artificial Intelligence to Play Major Role in Cybersecurity"
+    excerpt: "Industry analysts predict artificial intelligence (AI) will continue over the next several years to become the most transformative technology in human history. Analysts also recommend for businesses to start preparing now for certain AI trends."
+    publishedDateTime: 2021-10-26T00:42:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-play-major-role-cybersecurity-charles-alexi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOHm4pVn3_QA/article-cover_image-shrink_600_2000/0/1635208868009?e=1640822400&v=beta&t=XEFGCnXEjhrMOdRD2meyI0qFdgOY26dZmQPjfz5jo8Y"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "PjtiGN0DVU5r0FXuK162xEIcSQlWCVOZkKguDxddflZT6KF5+L2oRntCF1O04/Hlq2hQUZa2iNNCAXy7mxcuTfMgd5Cn4VVGX3RphoWa6scS02EPEXvhNkjGtg+NC4MMQgVImiC0ufXwyq9xSgBzkzR1/q6d9zHUm2zP5w7+tgMIHFsv5m25uamyzQPsqKhgwkhJ3Kn10zIY1cNw2JxpRXg5Bv1xMwmAHdT6dYxLz9ROu45ZFtCtSEW4zSZi+b48re9+Y34cIxbhaz/42aolu4qJIk6EBtEaSs62dAbjQFF9Q/aSXYGZQ1RevfnZoTNwkvoIdmHB8raehyKSWEEUFg+k94AnhE1hcqi0/dBbcQzInAK+68I1PSY+f5+oN1X7jp0sTKfSWF+g64iUilypAqYvRBMD1SvNojYTevu5DIHlPVJOsw3EdrlJWL0x9QUmZxzvt2eerThAcfARbuSLW8CSpA2XLXQIzBEigl4HZUHLg8YjOPEDaPs8E3o656ZpmnYL8aD4ZOq8DqfmM1OPWg==;OqH0dZhzfC1CyTKMa7eOTA=="
 ---

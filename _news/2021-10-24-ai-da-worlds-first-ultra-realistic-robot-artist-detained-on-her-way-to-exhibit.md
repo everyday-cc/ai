@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Human-like Artistic Robot Ai-Da Detained At Egyptian Border Over Concerns It’s Being Used As A Spy"
+    excerpt: "A human-like robot named Ai-Da was detained for 10 days at the Egyptian border over concerns that it was being used as a spy."
+    publishedDateTime: 2021-10-26T13:37:00Z
+    webUrl: "https://brobible.com/culture/article/humanlike-robot-ai-da-detained-egyptian-border-spy/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 40
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2021/10/Human-like-Robot-Ai-Da-Detained-At-Egyptian-Border-Over-Spy-Concerns.jpg"
+        width: 2111
+        height: 1202
+        isCached: true
+
 secured: "BiM0FY2C1hxHwngX0L2Wdrgkp4lHpKQLrPyoNNOXCrOit9Ceu056UC2F7VUBv+a3aZSX5iUxvEBph++LmZ/Fnqv+E9t3KDM3/laHrUFF7aWL7DJDhssUoAHeIdb5TJAHOohoFxOGYrHiC4dWC5e9Lv7hBw2w1aefhyJUNM2nrQ4ndRQyNa2O6vNLTG1kFOcuwg3pVXBwFkZwlXfYWgJ6vaglmwnrDpWMDhjfDWiiOKaxXAIaO9AlYr9oIH//uWuAavdx3prxhpzGHPpc1+SN8mEsN91crZZUmcJG6QIjZX6rp/UzBDfv8C7NqPC/B8iUyIHhdgTRV3h3sgneLEJ0czWJiBrV4P+Ze5Uy5pc1T9oYoThpoRXBHdVTTh1YKfbLdlB6+v5bvPBrJ274o/cLNE58tRzJAhpyaZ8YqRWbFWyCAV8M3al0VmKzW+SC05Py3B/ZOuqz/Kag9P8CjUwP5/pnyLQn7Vkj8KhE48lYcMmpKACMAgLQ1PUu/pKUIO6EXBfeXsprHks61J5mz4l2yA==;maJKobxOovn4Paeh9qRtJA=="
 ---
 

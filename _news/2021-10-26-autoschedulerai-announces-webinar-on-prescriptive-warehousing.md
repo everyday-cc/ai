@@ -1,22 +1,24 @@
 ---
 category: news
 title: "AutoScheduler.AI Announces Webinar on Prescriptive Warehousing"
-excerpt: "AutoScheduler.AI, an innovative Warehouse Management System (WMS) accelerator, presents a free webinar hosted and moderated by DC"
-publishedDateTime: 2021-10-26T11:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-autoschedulerai-announces-webinar-prescriptive-warehousing-/2021/10/26/9477145.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-autoschedulerai-announces-webinar-prescriptive-warehousing-/2021/10/26/9477145.htm"
+excerpt: "AutoScheduler.AI, an innovative Warehouse Management System (WMS) accelerator, presents a free webinar hosted and moderated"
+publishedDateTime: 2021-10-26T11:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/10/g23554028/autoscheduler-ai-announces-webinar-on-prescriptive-warehousing"
+webUrl: "https://www.benzinga.com/pressreleases/21/10/g23554028/autoscheduler-ai-announces-webinar-on-prescriptive-warehousing"
+ampWebUrl: "https://www.benzinga.com/amp/content/23554028"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23554028"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "xXE1JO2UjVC/dWe1wSS90Ad2wU5ELETNsqxZ+V+TaR+Ou6fVbRuM6Iv58OBP1v6FnNAmnu2+w5J8P+Tr5n7DT1kngmsEnj6nN7qrZZKqFXomh+BzWizptFbaJ824frmFofizx8psMMIWuk2r0nJNR6cpzA3+iuRj6MaXtMUwNLHD7aKNDlLs6K2QppQYditb+1nCHHpb5ijT6vyp6NAULOMnn9MA1pHhUiUKWdrR7bE74qXJUyylEbohOYinUQCEBs6QjKJOpGrPZGqheLavoCS6lahYS2kaG3ByJhcsrQIy8mhlLkgJ2IENVgqKgUQYFLvFHy+NbUS0a4/xSO5hyp2uNv5vGMOiKm0I0BOYAOw=;2mshZ/Idul7KcOX2XN4IEA=="
+secured: "HfRObsfmHHJq9QW/4kajIWjSLONn8tsE+VJw2k26LO4iI7zgrP8ubuuXH52h0QLJyMJgpTc8QF960v8BlT5LErXMEorN0Ie+l/bfFH7XrgrKv8Dhlfll9WoUvRX2NSr+oT1vr6mh1OqXBo3VaDrYKhrezu88AilxzbjJwvM2LtgaEXCBt4CleuXnCnxoyqHc9OrCH2XFa5wCSKI2piuRfZ6Z5dC+H0BKKrz7PfOqcsfrqVU71W1paS87vwXniGPT8KpCIME220RsPhsYAxIgvU6eztdJYaZ1Iy7p5JxFvWunvBdxq0DCnFCMvYXr+kM1MrKz6coXjUZQxEosKEZd6LLfmFtpaqL1B+3QMg/uNw8=;eEBy4aS1ksUI9Vnx8pWlGA=="
 ---
 

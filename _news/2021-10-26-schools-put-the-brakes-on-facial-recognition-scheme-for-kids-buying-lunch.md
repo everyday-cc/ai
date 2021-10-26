@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/schools-put-the-brakes-on-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/schools-put-the-brakes-on-facial-recognition-scheme-for-kids-buying-lunch/"
 type: article
 quality: 68
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/10/sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
+    excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
+    publishedDateTime: 2021-10-26T14:44:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10132529/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10132529/amp/Council-suspends-facial-recognition-software-scheme-school-canteens.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 25
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/10/26/15/49659575-0-image-a-335_1635258544801.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Facial-recognition system for school meals halted over privacy fears"
     excerpt: "The use of facial recognition software to scan pupils before they receive school meals has been halted days after it was introduced.North Ayrshire council pion"

@@ -3,8 +3,8 @@ category: news
 title: "Isla review – a touching and troubling inquiry into our relationship with AI"
 excerpt: "Mark Lambert is superb as a widower given a digital assistant in Tim Price’s rumination on loneliness, privacy and ethics"
 publishedDateTime: 2021-10-25T04:01:00Z
-originalUrl: "https://www.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price?fr=operanews"
-webUrl: "https://www.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price?fr=operanews"
+originalUrl: "https://www.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price"
+webUrl: "https://www.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price"
 ampWebUrl: "https://amp.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/oct/25/isla-review-theatr-clwyd-tim-price"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "lVu02ik3DejldCdnNQv6JPqAOE8oVV90g4JQu2TAXTpEDDaLOjM3yIO2Ojqb3mvurnlah2s8PsYEy3iN1Ja3wZPGjAx5wKq//KFsudCoslgrQN3+VSR7CKDGeOUU7vJbPA3USgmbkrgH6Gdx0Ac+qKIItC+U5sDYDcfzjYlC0mo7lFU4VuWf2SlCjOuDz3GarzkfnFDLJ21LpIibFKT1YC5kxjkphOMqWTXzXbqjih/dbvOkOfo3V/txxhxy4o0h8FqKM78q0ZDlJX/5q9vJdKfIKcrbWYc71zvKdpSI3vRDDnjxFtjv/m6YKzymm4QWtVdICldJGJSFXtYyssNEtcKe3jQ620oIkIGU7Co9ueEGNV9x/0uSY76SOJZg1fXuo3zSHLlAyHK/W7UDKy/XnsaP3ELKAral8enFhpUSacglnjk7m1vdeSgSLVlPgUC2JkhSFCbUXpnSO0VcXHtiHKZorQX6lRS13Wpf5O5BD5OA8WPNjL9IQflV3k052b91uN2SkDgd22uoh4bIvdiyYA==;lu5AgJ+IrWo1MQh4GSgrIA=="
+secured: "CmtsAY/1x/avHy3E62XfLy227RUIFV/BXkZL4RZl1lCXKbrzgYe9Jygb65fwxNNzwLs2uhH5ZrJSK0s3gUADkAFcqVBaPxW2Yazta337AFfvaa1kFE+Z0tu4sw/RydlT8gOodXr60toVCqt6QQk35exQXJ5tMxCYrrLxHTsPySo/c96yY/cSXCcWE3oMWpmWzuU6jgvTGkjRMTH8fRiVQYd5dn+mzX1USskFMhmk+9SHJ4veWOZ7o9DBJXLx73CCcnxZ6KKtha4VAln4NRQSYKJKiUYstd8Ir9hi18gsrfx7XXQJT6aRhZ82cPAXBaASSWDQbI7ZE6kjv2xpJi4TN0E38B5DehsJZAVtrWSzfzU=;P6/EAJUaAfr4jRm15y3h/A=="
 ---
 

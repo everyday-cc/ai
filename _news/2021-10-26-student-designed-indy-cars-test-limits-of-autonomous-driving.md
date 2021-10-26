@@ -26,6 +26,22 @@ images:
     height: 438
     isCached: true
 
+related:
+  - title: "China’s Autonomous Driving Industry – An Introduction for Foreign Investors"
+    excerpt: "China's self-driving car industry has entered the fast lane. We explore how foreign investors can tap into the future of mobility."
+    publishedDateTime: 2021-10-26T09:51:00Z
+    webUrl: "https://www.china-briefing.com/news/investing-in-chinas-self-driving-car-market/"
+    type: article
+    provider:
+      name: China Briefing
+      domain: china-briefing.com
+    quality: 22
+    images:
+      - url: "https://www.china-briefing.com/news/wp-content/uploads/2021/10/Chinas-self-driving-car-industry.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "CTCG8yq8/1DbPWSwFRGt/+CvedhSWOuH6utBHqc909cfsU8IjlXk/X7f9Zcq5fA//K3Rl7iOfSY6R1lTjjhQeCICjIAjBk094eEGK4F/yUuLZMaOtQ8r8SG0GHqiSqsZiPmoGgGbASnr0F5VxOwpnQvApE3E2QUtLgcCBvYlVGKfiC1/hRhhiAf8NigvEbBf0aCtHNk07qGGxNazPu4u8m1PyLXEZyX8ZMoI8tplrV4ac5/yB20DiE55VUUyEKrmwwEv2fri0Q34Zv9bog5sXs1i1SA2eKPfFPdeeTBusQ7dK+CC79v+Wbln07StTvDo/5Qot9cPJN3u0wcDWajw/RWc9RKIOQjo4DwPSQAbhURvUNitfO/Q2606YgWjxMMgqCgCtpusKMVPf404wLVQDLc4Riqn83w4w7AijOS39FbCN9UGeTjyFCxXHBis76XDMbc3EK8Mb921HADvwOLxtsTOZ6xmhH/Rn5J0pGemRMOgtSLDwM6F8rrbIJ9H/E2vJYRzGNLzJylXzjM8RG4oYw==;C8qZudPOLOzNAUqhrSh+4w=="
 ---
 

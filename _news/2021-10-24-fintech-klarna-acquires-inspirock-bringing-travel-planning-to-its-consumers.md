@@ -43,6 +43,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round"
+    excerpt: "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology."
+    publishedDateTime: 2021-10-26T14:23:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
+        width: 1280
+        height: 934
+        isCached: true
   - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
     excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
     publishedDateTime: 2021-10-25T14:00:00Z
@@ -113,24 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Trends in The Fintech Industry and What to Watch For"
-    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
-    publishedDateTime: 2021-10-21T21:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-    publishedDateTime: 2021-10-21T19:45:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
 
 secured: "SQvQGlhqPxPIYrmi1NtFsuWb3eAGbeayrWx5U+zS+YLEMmNM+mQgMptuxy3i0BRkIcA8JZr+UKZspL4BISTip0+3z8tHxnfdhkBN4/aAQxgKmAOAIyQOI+4/tofJwXF8Ilz5P0zVwV9KKA+TpqH3B2b/eAutg2OHpvlfE96KG0P3MwlrMZ9xfg5D80DMmYBkI+89O2F+zaFj7Buyl04sqRznBRUK0c7bTWmwaZi209ciPXTX1QDHm0Su+JM1z7/c2n1rLfhmhMUzmo/7+kcTnHW0VDkRKMOqa3+erxD/zuflqMzMxb67BB+7s7GpjEXRXRziSzD4keHGdwjjLloOoAcma8GO5X+DCaBBk23mfb3/gTHWMATB/o/7kIVx8L7fzTMgNXjARcYUXXWkDqRsayHz+/wPMfi2oN8l9bQp1TVXBEY0J8kRlbfuZ5hBydBbqT5B9iQA6HtJjq6xIZX8EXH7f65BCqwHOfeXV5wX787LuV2TOxWHy10mhGq6OJMaE4z9/mNJOBSNRifP0pBxpA==;ZYubUl4n+izW3zIQ45eP+g=="
 ---

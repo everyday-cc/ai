@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Start training for a cloud computing career as a Microsoft Azure specialist"
-    excerpt: "You don't have to go back to school or spend a fortune to acquire the skills you need to break into the tech industry. You can take self-paced courses, even if you're working full-time."
-    publishedDateTime: 2021-10-21T19:23:00Z
-    webUrl: "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/"
+  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
+    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
+    publishedDateTime: 2021-10-26T11:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 77
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
+        width: 921
+        height: 432
+        isCached: true
   - title: "AI in Hardware Market New events in technology and market size forecast by 2027 | Microsoft, Apple"
     excerpt: "The new study on the Global AI in Hardware Market 2021 2027 analyzes the crucial capabilities key infrastructures major organizations evaluates measures to attain potential success in the AI in Hardware industry Because of the in depth overview of the"
     publishedDateTime: 2021-10-25T09:10:00Z

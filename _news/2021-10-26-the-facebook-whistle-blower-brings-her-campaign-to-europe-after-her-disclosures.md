@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/10/25/business/frances-haugen-facebook.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/25/business/frances-haugen-facebook.amp.html"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://CNNWIRE.images.worldnow.com/images/21596801_G.jpg?lastEditedDate=1635148751000"
         width: 500
         height: 333
+        isCached: true
+  - title: "China's ByteDance is Disrupting Facebook"
+    excerpt: "History will show Silicon Valley will have failed because it used algorithms that prioritized profits over people. ByteDance has superior AI to Facebook and a better understanding of young consumers."
+    publishedDateTime: 2021-10-26T13:10:00Z
+    webUrl: "https://www.linkedin.com/pulse/chinas-bytedance-disrupting-facebook-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEGElTUS2N7Rg/article-cover_image-shrink_720_1280/0/1635252474701?e=1640822400&v=beta&t=EPadhTgPpfo3AHvvsQgikfR-025QqsfvVNFz8ODcUS8"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facebook comes under scrutiny in India"
     excerpt: "Facebook has come under intense scrutiny for being unable to reign in hate speech and fake news in India, as reported in the 'Facebook Papers'."

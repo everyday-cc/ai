@@ -34,15 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Start training for a cloud computing career as a Microsoft Azure specialist"
-    excerpt: "You don't have to go back to school or spend a fortune to acquire the skills you need to break into the tech industry. You can take self-paced courses, even if you're working full-time."
-    publishedDateTime: 2021-10-21T19:23:00Z
-    webUrl: "https://www.techrepublic.com/article/start-training-for-a-cloud-computing-career-as-a-microsoft-azure-specialist/"
+  - title: "Microsoft Azure, Amazon AWS and Google Cloud: A Quick Look at Each"
+    excerpt: "Microsoft Azure is the first player to offer the full suite of services to developers. It offers a wide range of products and has one of the most mature enterprise-grade clouds."
+    publishedDateTime: 2021-10-26T11:06:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-azure-amazon-aws-google-cloud-quick-look-each-andrew-frost"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 77
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 71
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE5a14hWGJugw/article-cover_image-shrink_600_2000/0/1635246231199?e=1640822400&v=beta&t=FTeIfVv5_WE6giaKpgHD1BOTHkpX2rJm0yI1c8ZaPfI"
+        width: 921
+        height: 432
+        isCached: true
   - title: "Deep Learning Software Market to Make Great Impact in near Future by 2021-2027 | Microsoft, Google, IBM"
     excerpt: "Deep Learning Software is highly useful for data scientists who are responsible with gathering analysing and interpreting massive amounts of data it speeds up and simplifies the process Working with deep learning is similar to a toddler learning to recognise"
     publishedDateTime: 2021-10-25T13:40:00Z

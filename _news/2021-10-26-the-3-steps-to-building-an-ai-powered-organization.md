@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to
 webUrl: "https://www.forbes.com/sites/ganeskesari/2021/10/26/the-3-steps-to-building-an-ai-powered-organization/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,7 +58,21 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Iguazio Partners with Pure Storage to Operationalize AI for Enterprises Taking a Production-First Approach"
+    excerpt: "\"Most organizations starting out with AI initially focus on research and model development ... Red Hat, Inc., the world's leading provider of open source solutions, today announced Azure Red Hat OpenShift on Microsoft Azure for U.S. Government as a ..."
+    publishedDateTime: 2021-10-26T13:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-20065734.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "BfrQ5frGdKNtWM8InSNW0Anb4XGDMGQZ6hh8cCmQGjfPO6Ess+Xd+dd8ObSNS1EpFSfb+U7HcZXhom8mGYdaVQGZzXYHdSzSPFmmgRtYI8Uq60dPfAYFU5YXobXPX4T+FnD9S8woSxCwXMjW65zwHe7I7t1t10f3OLGTOccbXmF+z2YsmA5HqaAFOpVGTG2jINvyk9vAuJFRg9RY5n0iVVUeYcUNGvsh2cb2/eaZwS2HRJjJQSukWFeESihSF3O+U2WLG3avyB8H3YK23jUFV5pSoPa2JMaFaGJisGA4EyCatzcuyDlqkczfD0GhZQSVxbdePpV0Mlg4gWaoQoTnRHT3kxPZ+KZj3nw4IJ4WWNY=;TDwmWj2fLCI6mRcIKiBk2g=="
+secured: "LenQPtX+csxDFPVoRbAHMGc6GeUS0xwk6MDXLJPKuMoJdeKpR+OzH67U54EPX9Cn0pnX29XfGNFWd/PDZ0wgM4oyKEnvXRxvf7WgAfDvzqf9WTBrRf/wGWcZhlVRd8wV/8ZF/UNx22OJJdWEnr+4mYnFpQgdzUssFvFDfLXzyA8LVXM2czP5Q5EcjiUADZaIK/9+AlamQE5hPjJpDlGrNl1Senewbcis8duNi3cvJQFNlURKtt4u9CcluBdFcT50YY1oOUoxGhsDHFZR7lBUsFAuYMZuVvYF37rHZyqXv+aLaCIYJzNgIF7nBzwD0t5FJQew+6euXHFdbn9PnH1Uu+zFdbDLcZ93bt1a75Xajb1vrVJLUTFtq8NBxCD5CWWlGuG7rzKWbxEKnhdx0LeohBNe7NrD0aNC5BPQIPf4W4eaD2cbCsHLdL4i6kLGF25XpHi1FjClNNApxrRzxTcUXg2xjhx4hIZ3BDwo9IY4kPCGbcbZPe+xSD9ob8HdIAL5otKTr0TEpaLOaOroTVsHzw==;G+LW7OzHfmor3Rpj3HwveA=="
 ---
 

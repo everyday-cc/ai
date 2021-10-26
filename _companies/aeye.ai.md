@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AEyeInc"
   url: "https://twitter.com/AEyeInc"
-  followers: 1422
+  followers: 1424
 
 size: 11-50 employees
 yearFounded: 2013

@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microvision Investors Can Forget Self-Driving Cars for Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Microvision has no product revenue, just patent royalties that brought in less than $1 million in its most recent"
-    publishedDateTime: 2021-10-21T20:04:00Z
-    webUrl: "https://www.entrepreneur.com/article/392693"
+  - title: "Student-Designed Indy Cars Test Limits of Autonomous Driving"
+    excerpt: "The Indianapolis Motor Speedway last weekend hosted a competition between autonomous Indy Lights cars made by nine teams of students from 21 universities. Some exceeded 150 mph, testing the limits of the technology."
+    publishedDateTime: 2021-10-25T19:30:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/student-designed-indy-cars-test-limits-of-autonomous-driving"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/student-designed-indy-cars-test-limits-of-autonomous-driving?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/student-designed-indy-cars-test-limits-of-autonomous-driving?_amp=true"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
-        width: 675
-        height: 380
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/0097063/2147483647/strip/true/crop/2048x1068+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5b%2F90%2F6c5ac87e4f618db7bea8799949dd%2Fautonomous-driving-challenge.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "RPhY2uwGgAkzvRNgvwDohtdA4xojMCnVszywcmVfcp0d26PgyeedoIEzlvi6gIvOoG3UOae7xna6+aroHkxBUSSahq0yzw8rLKF44s6ojszOfBwkCpsHglcVz8jzt0a4LdX2R8wRFKS9eXkUfU3i1UasSeI9J+4mwgRdGBraaMVRzxh1FmTW/2zXUZC0COb3fuCSNJQ7VnMtSe01OjC7IarwrQj2hm7+geL3Eb6ta28UlC85VJrh7rArFsY0FzH4oqWLneznYJIxtd30zLEBdRtCmhECzAI1gRdZdGg5UbBew5E6yE+CrocPvbzq72+5my9h+wZ5UlRJAsrrLVhWJi6nkdkwihfiAnbQsjDCH8r64dyTwAB7xrxQdwxDXZ8lD2a8BP1mGe5vU+bbo8Xkj4ZqnWH/gvNxWWqCJoid7XJMxKXoc+AfKsdaYsLLYzdlW2WM4uyfHPm8PGS0A5m2LWxN7c9f0evV2l3XHZeAmby6lDq9mbo8FmjCb4SChM2oxdFbDVd6e29tyG5WIJsulg==;ZjcL2N8vsfsm64oleBJtcQ=="

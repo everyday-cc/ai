@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/article/2021/10/artificial-intelligen
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/10/artificial-intelligence-and-machine-learning-play-role-endpoint-security?amp"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/mesoscale-neural-plast.jpg"
         width: 2880
         height: 1766
+        isCached: true
+  - title: "Artificial Intelligence to Play Major Role in Cybersecurity"
+    excerpt: "Industry analysts predict artificial intelligence (AI) will continue over the next several years to become the most transformative technology in human history. Analysts also recommend for businesses to start preparing now for certain AI trends."
+    publishedDateTime: 2021-10-26T00:42:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-play-major-role-cybersecurity-charles-alexi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOHm4pVn3_QA/article-cover_image-shrink_600_2000/0/1635208868009?e=1640822400&v=beta&t=XEFGCnXEjhrMOdRD2meyI0qFdgOY26dZmQPjfz5jo8Y"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "maWVl/FGEJAHCcSrYyPWvvQggE7Ad9Dpu7kfZDfGI+XHxHGaf0Z2acs01WjX5AKt1fDpJ4WbCMOlaDCNgkaZ6SI2CpwSulX25cBiTpS0+4FCqOXHJCl9eP9CqZ7xb9q0tWIII3htOWlw+U2u8vb/t6zagFeH7fxcoVT8fX4D4OSo1ih4wal44aFrpasRRyKOcM58Xq8TZBcGc/NJJRpNGF5hiptUzRmwi87G3z+rKCwiNkXcU0A5EZEvNvozxO41RVob5+ocUSxFuyDgNCPLZ7F1m5YK6A5HCfh5CDJEUjKtHQsw01oJari+GtcfRZaEPwczF8F63Xh95vkW7I6w2kMGXRd2uziLYl0Cgi0pJ9aiHRH7qKRR9v/Eylh6Qvb34yr4lFXKMZncf5tDIUboMu4xXrtdP3KxbdBVqfx/q0AuL/g2zmrSjjPDhAo/ZXZ4fzv5wpsPSqJ5PSA27c85/qKdoxA12NRqXc6hfK6HRuVxM+1zmPdqd5M1al9NFLqXwxlE9A1QpyIfFWPDsEx8kw==;O0oPAg78VtPLUVxmsgLtlA=="

@@ -21,21 +21,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)"
-    excerpt: "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI"
-    publishedDateTime: 2021-10-25T08:58:00Z
-    webUrl: "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
+  - title: "Deep Learning Software Market Size and Forecast 2028 | Key Companies – Microsoft, Express Scribe, Nuance, Google, IBM, AWS"
+    excerpt: "Deep Learning Software Market is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i.e. 2020 to 2027."
+    publishedDateTime: 2021-10-25T22:46:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-software-market-size-and-analysis/?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 67
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25568936_g.jpg"
-        width: 780
-        height: 470
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Antifungal-Treatment-Market-390x220.jpeg"
+        width: 390
+        height: 220
         isCached: true
   - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
     excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
@@ -64,22 +64,79 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market to Witness Notable Growth by 2027 | Avaamo, Inc., Google LLC"
-    excerpt: "Various crucial findings depicted in this Artificial Intelligence in BFSI market report are the result of primary and secondary research carried out by the analysts In order to provide the relevant data analysts and financial experts take great efforts to"
-    publishedDateTime: 2021-10-25T13:55:00Z
-    webUrl: "https://www.openpr.com/news/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
-    ampWebUrl: "https://www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2440649/artificial-intelligence-in-bfsi-market-to-witness-notable"
+  - title: "Artificial Intelligence as a Service Market is going to Boom with IBM, Google, Amazon Web Services"
+    excerpt: "The latest study released on the Global Artificial Intelligence as a Service Market by AMA Research evaluates market size, trend, and forecast to 202"
+    publishedDateTime: 2021-10-26T06:41:00Z
+    webUrl: "https://menafn.com/1103043712/Artificial-Intelligence-as-a-Service-Market-is-going-to-Boom-with-IBM-Google-Amazon-Web-Services"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://cdn.openpr.com/U/a/Ua25900303_g.jpg"
-        width: 800
-        height: 457
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
+        width: 333
+        height: 250
         isCached: true
+  - title: "Cognitive Security Market Size and Forecast 2028 | Key Companies – IBM, DXC Technology, Cisco, CA Technologies, Symantec, McAfee"
+    excerpt: "Cognitive Security Market was valued at USD 6.79 Billion in 2020 and is projected to reach USD 80.41 Billion by 2028, growing at a CAGR of 36.2 % from 2021 to 2028. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T02:41:00Z
+    webUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-security-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 32
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Facial Recognition Market Size and Forecast 2028 | Key Companies – NEC Corporation, Aware, Cognitec Systems, Gemalto, Thales, Idemia"
+    excerpt: "Facial Recognition Market was valued at USD 3.04 Billion in 2019 and is projected to reach USD 9.95 Billion by 2027, growing at a CAGR of 15.87% from 2020 to 2027. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-25T16:24:00Z
+    webUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/facial-recognition-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/TIP-6-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Size and Forecast 2028 | Key Companies – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM"
+    excerpt: "The report provides an overview of the Artificial Intelligence in Aviation Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
+    publishedDateTime: 2021-10-24T16:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-aviation-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/10/Market-Research-Expertz-1-6-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Computer Vision Market Size and Forecast 2028 | Key Companies – Cognex, Basler, Omron, Keyence, National Instruments, Sony"
+    excerpt: "Computer Vision Market size was valued at USD 14.82 Billion in 2020 and is projected to reach USD 27.02 Billion by 2028, growing at a CAGR of 7.8% from 2021 to 2028. Get | Download Sample Copy with TOC,"
+    publishedDateTime: 2021-10-24T12:19:00Z
+    webUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/computer-vision-market-size-and-analysis/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/computer-vision-market-size-and-analysis/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 13
 
 secured: "7bZpN9sLAHp6i4u7CnRNOCP9auyOwtSnFKpGFWi1pjtuW0SMT0KQeblaI5uW2qSpuhDnW5RCYg11WjjZy5yMIRssOsz1l4z7H0pK2NYqMFT6q9bZXqiM+awspMa4iMsTT6muelr8WVVNTnxiwn22zKhMcZSnH8HczgLkBc674CGXM7ACLQvtimuIr40QG9E77ce2gm84/YEwDiinHXk6wApE2R2z6zyye3RGqRNQes2kKbIyEbEsq0B7I6OP6e1wsdkoQ8bYAZLmbAwkbdXBMGx4FKGZmQBZh8hEnSCQIX53S5Az4SRkNYaSjZSpWBy8sP440c/sltJhPhPBhMAS6CgmE0qVuiYlJ6rxoFUwonYYfqdczEYoE3zAYHHEJBdTG3c9bOvCs14x0nT6VxRIn94FHWVZHuNA5KQSv3PwbikFHxy6avK8DcmezlEK166Dow36gs2k8cyX//nYOmG2BQVAe+K2F7KDzdP/RVqEgivgl7nWVvOmS+UQUf4tL/6wGSqJDI/DkYcyMXBgiWBEQg==;Exis1LBmOk8mbDP0yOm2nw=="
 ---

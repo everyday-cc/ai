@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "HLTH 2021: Partnerships and Interoperability Are Key to Microsoft’s Healthcare Strategy"
-    excerpt: "Chief Medical Officer Dr. David Rhew explained how the company is working to improve patient outcomes through artificial intelligence and cloud computing."
-    publishedDateTime: 2021-10-21T19:39:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/10/hlth-2021-partnerships-and-interoperability-are-key-microsofts-healthcare-strategy"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 28
 
 secured: "R7zMRZgaPL1Kj30wh9theuCUSLVYarOdqg3amkVJYNUpCYYhvAwcqLg/9S96Fjx+my68FCM8vsq4VCksKEbzplOYTs1T8ZThE3gh7867IWihVUHNwpHQ6s+eTDcwM1BYzqViELAgkXQWpR3IxIrXnKJY85iC1pDcDuiNedhdxWOqH1SxwhR5rFwz9FhqwzTR1/2apVWsctUod6mhCaV2MlSJvWNh1gOICUW+VYUbmPCgXWi1P925rOmT0Cll1VlTOaRtCe1t5N3wn5fuzXYjQyHBQ9AekIyarXHYUNIIPI22HRrA4sp45dvA710G3TCIlkivkhDAx50CN8uPLZocL9XiehXTZK9OrU+IiD8SsDm8oWOKi7Zuque1Q6G2MLOK9FcQN5JIj0k6Uqgitvu5zFPGv9GVJiidCSIBow1TOmg05oSHrVyM69eXsuubHvtvkQm6CkzYDpEL/8weofvsyOFeY8ZVgmcrNk1wLPdIQJM+ozQKcvoTT/c9mYKbvjXyrUNfG8lLoC70ZWoVIEhCbg==;7gozezSH8DRf4bpHsjOQWQ=="
 ---

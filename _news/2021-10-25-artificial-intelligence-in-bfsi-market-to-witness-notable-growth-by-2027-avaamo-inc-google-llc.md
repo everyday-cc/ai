@@ -42,44 +42,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Deep Learning Market Size and Forecast 2028 | Key Companies – Amazon Web Services (AWS), Google, IBM, Intel, Micron Technology, Microsoft"
-    excerpt: "The report provides an overview of the Deep Learning Market and offers a detailed analysis of the industry. It includes a comprehensive analysis of the regions and the competitors associated with the market."
-    publishedDateTime: 2021-10-24T15:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 55
-  - title: "GPS Navigation Software Market to Witness Stunning Growth | Google, Microsoft, Navigon, TomTom"
-    excerpt: "Advance Market Analytics published a new research publication on GPS Navigation Software Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends Drivers"
-    publishedDateTime: 2021-10-26T11:45:00Z
-    webUrl: "https://www.openpr.com/news/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2442302/gps-navigation-software-market-to-witness-stunning-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/U/a/Ua26572229_g.jpg"
-        width: 450
-        height: 450
-        isCached: true
-  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
-    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
-    publishedDateTime: 2021-10-25T16:52:00Z
-    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
 
 secured: "1+Jlgxypowiwy5GESdbrXDUTzxotLCDgmMTDn5M3WGg+qWlE34RyGEp2bI82+FwFytWgv28vfY5YjSPtctrsrIBdEv5aUEHbwMS8rW3b9IzS5O//CIYyPQKZyMj08xPQ8UGYAViekF9uz8W5VqqP/WXkwxWJ5AXulcOMIz1Pqh1myqxo7QT3o4qD3TIae1QcmEOZOy+xBYdnvr5Ic+7PnQdJtShMj4ckDPKyzDKhEfpeZZD1fVAJkLXaRGyLs2TtY0IqpTz+0PK/idcyJpaLMrqNu+e/7CFaQLHF74SqJmK2R/py7Hr/GIyjUgUVCAGB54jSw7+1MSHWiEzF7zQSHhpfFOYW0sdbf9nDgDB9OH1tFbi3Yc2Jrlkdn6z6Pvq2c9aSuTGIWPTWMCKHPy8pgsZh6MMiSw/7xbIkDs04NLCksmutZXqbfDKmfCNWCUf3osJe8K/71Fzyu1SyTHK1fStNarkaiJNUhQxHpD6oUN5QW7SJ1qqAAGM4Wyk3sRoU3jWtnZwGYo5p+ZA7Nx2M7g==;MbWAZ2BJhJI9/c7YNx5G9Q=="
 ---

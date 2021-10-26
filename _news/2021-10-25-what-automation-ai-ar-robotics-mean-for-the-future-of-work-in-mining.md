@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-automation--a
 webUrl: "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 45
-  - title: "The need for technology is fueling the growth of AI in the transportation and logistics markets"
-    excerpt: "AI in the transportation and logistics market is expected to reach US$3.8 billion and US$6.5 billion respectively. Check out what are the factors fueling the growth of AI in the transportation and AI in the logistics market."
-    publishedDateTime: 2021-10-25T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/ai-in-the-transportation-and-logistics-market-to-reach-us6-5-billion-by-2025/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 25
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/124019.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "M3JL4OsltuG8lBbx1xksnSpaGh2wWquVsh4CFqpTadVC3btQFnYUK8wLvriAxB1VKcs7FZvz2ta5KMhAKREhgD2ng0LRdv6h2WDgw1kBXm7RCBCJdwurVIiPd5GpqTODL67rLaduGQcDfuoF3WGcGVfo9FN66IbAzq0I+xi88oXfve/dUXt89EFfP2qT0rdl5oYS/geVaNseW1wcuzEBd0ue3eVZIXlawVLBPKsRWrXwW5ri7tWI7PJjPRxAVmL21Qwq1uwEQQAjL/9QR+zOxzy34go4UkyaWSSlRvJw4CBuczzWXRkZdiwrwZ1YpwUC94VnVLGU5fMIxFLzIlykMyMMLBVD8R3Xo7sJi4EkWQk=;6gUWmMzW48pA2osJqiK1yw=="
 ---

@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla pulls its new Full Self-Driving beta due to software 'issues'"
+    excerpt: "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues."
+    publishedDateTime: 2021-10-25T05:25:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-pulls-its-new-full-self-driving-beta-due-software-issues-2021-10-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Zm3CWzgt53K4S06T6qYaJKRfeeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S2YLXVCFOFLAFHDUGLJWY2AD6Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "U.S. NTSB Head Criticizes Tesla Over Vehicle Self-Driving Feature"
     excerpt: "NTSB Chair Jennifer Homendy wrote a letter to Tesla Chief Executive Elon Musk about his decision to let drivers request access to \"Full Self-Driving Beta technology\" before the au"
     publishedDateTime: 2021-10-25T17:35:00Z
@@ -283,6 +297,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/5/28/52822793-5a13-5702-8f3b-f8d60cdba88a/6176b97bae71d.image.jpg?crop=800%2C450%2C0%2C41&resize=800%2C450&order=crop%2Cresize"
         width: 800
         height: 450
+        isCached: true
+  - title: "Tesla Rolled Back Full Self-Driving Beta Because Of 'Some Issues'"
+    excerpt: "Look, it's beta software, these things happen. It's beta software controlling 4,000 pounds of car on public roads, but come on, don't be a luddite"
+    publishedDateTime: 2021-10-26T13:30:00Z
+    webUrl: "https://jalopnik.com/tesla-rolled-back-full-self-driving-beta-because-of-som-1847932757"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e88b80f10bc359590fd239f909ca5bb7.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kqww5+o47es0PTghXNphK910L6DJ9wWPQJ/BDSO68D+ugYHs3lL/kn/tK5n4FgXvptWL8QwKfseF9Pltm1fHtbdz6mJYHlC6YfyP+tQkK5ih5srRDycyooVHT/LKVjwTJQbn70f0rxfYpOdXEBueS9mP9NYI0PP/SY3lkFHWgtv61KwlwjsPtZDdt6v/IZLIsgNzAgip6I9gbL1oC3iBYEOBKygrYYPYn798YULDBArSSFVAw4Yykl2Aqa1F2MuzrGpJe5ljcWSgFjGrzGzPzxavDw5kuvATb7tcaiaAsQB64aXFaQOhLCR0GfhMeuuyF1GMCHQ1XLOyvMoiy8SOSLnUskGqH54eZEA3rDwIQHqiQM/FAsrgKfiDZUpo+G42fRV+R9xRQYAcbqYKGWsXmD/vGI+KsbNmSYE7vIhMA+eTc0lIgiDYbPJnIRM8tg5pU8JUdJxlNjEAuVcxbojn+rnonWPtH921F4AwOChHUNaFoT+OoecVg4lYPbKRGdJAurbSYxI+wSr5IxrUmo1anw==;HC2IE1mdIxRgd4SRacKD5A=="

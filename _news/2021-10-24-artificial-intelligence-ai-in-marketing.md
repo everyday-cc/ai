@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/artificial-inte
 webUrl: "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-marketing/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
         width: 2560
         height: 1600
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market is Going to Boom with Knewton, Metacog, Blackboard"
+    excerpt: "Global Artificial Intelligence (AI) in Education Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact"
+    publishedDateTime: 2021-10-26T14:44:00Z
+    webUrl: "https://menafn.com/1103049383/Artificial-Intelligence-AI-in-Education-Market-is-Going-to-Boom-with-Knewton-Metacog-Blackboard"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 55
+    images:
+      - url: "https://menafn.com/updates/banners/b45ebf54-a.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "Artificial Intelligence (AI) in Retail"
     excerpt: "From better virtual retailer recommendations to theft prevention in physical stores, retail is an industry that has fully embraced the promises of AI. Retail as a field is notoriously competitive, and AI can give companies an edge when it comes to responding to customer desires and reducing inefficiency."

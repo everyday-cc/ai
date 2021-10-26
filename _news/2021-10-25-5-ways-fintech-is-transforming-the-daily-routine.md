@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/5-ways-fintech-is-transformi
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/5-ways-fintech-is-transforming-the-daily-routine/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round"
+    excerpt: "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology."
+    publishedDateTime: 2021-10-26T14:23:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
+        width: 1280
+        height: 934
+        isCached: true
   - title: "Fintech Mortgage Lender Button Finance Raises $2M Seed Round"
     excerpt: "Button Finance Inc. a fintech mortgage lender focused on home equity, closed a $2 million seed raise. Button Finance says it will use its latest round of funding to further develop its proprietary technology."
     publishedDateTime: 2021-10-25T14:00:00Z
@@ -113,24 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Trends in The Fintech Industry and What to Watch For"
-    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
-    publishedDateTime: 2021-10-21T21:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-    publishedDateTime: 2021-10-21T19:45:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
 
 secured: "0dZjZ29MiNxN4m9tNW3awHPjbaf+7HE19FilveHxOc9y+Q0V50DQmKt+eO6a9d3ONMjvMt5aqm7pJIguTgCGn/BNGyTOu9vPlSgBTWWEOpyGahQdpb9SZE5VBG/p7V9DUTQfa6UgbTwHY2Nj3hcSuadENRI4ZE2csJ+7nAIooxvZQU69ePk//miBK/xo6V6CwCLl+X+2+IiI5MO1XI0YinJCuEspztkvYQaaWmzXqcznM+ls8ZsG58CcuOGB4oDVAmVXVUuuX+LUoAhH9KJ/3OEq23tuW2qU0M86efNK/rxzfdTUOXzOHv3v4i3pFnoHaOB2sA98DmIOQCWj5NvpvAqw44W7OD43BjBb5OkSD9O2rLzdx2OY+j3DCPnq18k6WtCcbiMv4YtpWnYW/sKMoPr8u6CVd0TJ6aFnTJIhNPGiFQ44arOO8TSuzOiCChaium77XYZNYB4uYrLnIo0VM08zOtYwI5nDj4VFjirQwdLX1pbFuTdWmHwHQhafmaQIdfrLY1CMViy7e3cd9FjK6A==;+iLz9zHuFtusb1sKDoERww=="
 ---

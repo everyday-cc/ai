@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS wins deal to store UK spy agencies' work, brings AI to the table"
+    excerpt: "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools."
+    publishedDateTime: 2021-10-26T12:07:00Z
+    webUrl: "https://www.zdnet.com/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/13bc191e6c7643df0b3930684177fc754f3eabc3/2021/10/06/42e4848e-e92e-4e87-9a51-fa1f779b23d9/20211006-danny-zuzana.jpg?width=1200&height=675&fit=crop&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage -FT"
     excerpt: "Britain's spy agencies have given a contract to Amazon Web Services (AWS) to host classified material in a deal aimed at boosting the use of data analytics and artificial intelligence (AI) for espionage,"
     publishedDateTime: 2021-10-25T22:07:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://www.reuters.com/resizer/iYqP54ZnBN37H53zTmxh6Ngz04E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AR5SQIUOFVKDXN2QDIUCQRE4YU.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Amazon gets contract from British spy agencies to increase use of AI for espionage"
-    excerpt: "British spy agencies have signed a deal with Amazon Web Services to host classified material in a deal to boost the use of AI for espionage."
-    publishedDateTime: 2021-10-26T10:29:00Z
-    webUrl: "https://www.gizmochina.com/2021/10/26/amazon-gets-contract-from-british-spy-agencies-for-ai-espionage/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/02/Amazon-Logo.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Amazon signs deal with British spy agencies to boost use of AI for espionage"
     excerpt: "Spy agency GCHQ has been using basic forms of AI such as translation technology for years but is now stepping up its use."
@@ -69,22 +71,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/tdkil9/article37172156.ece/ALTERNATES/LANDSCAPE_615/amazon-AFPjpg"
         width: 615
         height: 384
-        isCached: true
-  - title: "Amazon Enters the Spy Game. British Intelligence to Use Tech Giant’s Web Services."
-    excerpt: "The U.K. security services would be using Amazon's high-security cloud service to take advantage of data analytics and artificial intelligence for classified materials."
-    publishedDateTime: 2021-10-26T11:53:00Z
-    webUrl: "https://www.barrons.com/articles/british-intelligence-to-use-amazon-web-services-51635249122"
-    ampWebUrl: "https://www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/british-intelligence-to-use-amazon-web-services-51635249122"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 36
-    images:
-      - url: "https://images.barrons.com/im-423503/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "qFeJeOu0ITutBmpGV26zWqgXKvMWbxAoNskw0287xZeO3jIO03HK0mPdzgIMkgUvKUmviAg2maVZvWXdBZ3s5rxw9GqGbJuw6qbDstdf573tnIx3xWMnEZvc/EWTPiaGe0S/HI8lNWwzCDDdUoqVyqxkEbLqGfT3lfQXwAFK61pXylG+VbvSlZxZLMzrMVeYqMTaOkAX7Lne6IQ3J3RLH66kgKuuycpeDcdVgENOKgIhoHt3aki+Aws4Yvsfjsg9nPqhsLxlaaG++gjP8PNhH5h29Sk1fAZR4nmGZvTgkSM+HBulopbl7n8/ITClyyfaRGCyztX+Wi8RKnPTseDNhmjoKXB/fH/8YDW6GON4100=;h/tKsDb0m9Jkwlll0+uTgw=="

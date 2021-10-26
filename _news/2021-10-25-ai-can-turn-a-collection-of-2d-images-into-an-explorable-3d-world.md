@@ -8,9 +8,9 @@ webUrl: "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-o
 ampWebUrl: "https://www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2294737-ai-can-turn-a-collection-of-2d-images-into-an-explorable-3d-world/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: New Scientist
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "8COAswmG8PFSoouYSa5bVn0R5wzIn3HRe6wx7hzNLgFNHL8EXvB5/LuSq/dlewB9FqhajButp7XaVn1fLuhMs93ans0JZNfZnQS0eFiHKR2I6mN0ozUgv5bj69/0/noV++R4JezrGPVlvY0mFl3M/6dYZI3YySdgt/rWU6MkLy8PjbuK/x8I3rL6+lCfZZuoa/SupVvhBrjl+2vBqtDeCA0Vh9oMW31/1ruOUfEEJEb+2DLvRjZA4BToLF5QqMjCNl6vlbhWowTpurMjdZMb9g/ZRnQCZzDXIRV6BwKgz4WZfAE/iafW2Q8mSISUVD9mZHWhP95IZFGSUVfYnUMwpEEQlCeobSC8N7jE61UaUQ31BTcDOoWERtnCDYbtV1pnl03GOjpUuWbcIKImw6BRR+HdYNfSowwLiUDc/Lc+73up3aqaF9nvsOKkggulCJ1eqsBDFnMIfrkkNHyQ5M92r/AlPd47S65L4mux0Ab1O/jgTZiDeNJnAe9hwzAsXKBw+4uv4eCKFQXKGf0I41t6uQ==;kIPAhCjFU3sJ/zO6GJUQow=="
+secured: "p8B3yNIbnz/fhL4nQJ7FadOHriOSiutRCCXPhWqO+bi44amaVCxH/t3r6Ogsi/7UGEdA3jhCgXywiSvHh2j6mWlwZX+gr3EtqzeT180IatK0TiLHUb/1Wy1bcGsCEQ5I6X/iGrtfMYE1vj4PCFcdKzUzayJ5YO6q5wnZntF48ob1+WRCPPrT7Ovw10of2fbL9PfH4vj65c551tPfo1hMpDIZxXqVQLKLUWA+mS0VbP2/FoJJuEXb2c+QpxsGR6jylnUY/xIbvBFrauhdKOEst+kTMrZmt2FP1DcjGxDlmMV9WTGWqp7YTrMrp3Fh/+jlzpDUzUW0lX7M/jakPbCYBwJzP4EfinZRxRjoJi6oLgCHHDhKrQrm6NWsvgzjvvfMxEmhi245tB0IEBwpL6bqtlFERz5Gd3HU8RDKCDMzsqHR0Rr8+vFaG2qC+7+jAkvCGWk3LgmsZdIlkQLqYlKTspF+mAebSszucTmWT70ie/SIaaFyfFKS1ZnkXmaz5rdzKcQdNtT/IqqqxwPby/zthwnlyZrSeywPQxQd4X2WnVk=;PxZ/rXbhsWeacHfH4bMzsw=="
 ---
 

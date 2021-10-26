@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-lan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/"
 type: article
 quality: 116
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "HLTH 2021: Partnerships and Interoperability Are Key to Microsoft’s Healthcare Strategy"
-    excerpt: "Chief Medical Officer Dr. David Rhew explained how the company is working to improve patient outcomes through artificial intelligence and cloud computing."
-    publishedDateTime: 2021-10-21T19:39:00Z
-    webUrl: "https://healthtechmagazine.net/article/2021/10/hlth-2021-partnerships-and-interoperability-are-key-microsofts-healthcare-strategy"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 28
 
 secured: "QKDOp0nUoZvmbrXBFRR60ZWwmZtrzjyXTzYBX/c8XexDCoTJg7aN6ynijloDnI1ReyE/J4nrqT3S+iQrBHMxDahiJ2Egt+jZU7huy1+olEihjdEAKzVh1j5pMnI3RM8IVprIZ+cfFlGu8Cxvog5dh8wiSZIXRg0ft3PuOc0HF5/BHkqXrsH0vwdKJMJGKRmDayIwNH3V92dPIAmttmXetvEwbEwICvDSBgP2pRDFIC1VcU5MIZC6BX6hkT64o4facw+Wn5rAah4v6ggINVDGPHCL2WCuJ3Q2rJfI/RHXy65sBnQqtCJtUD+ylD0FOSLMGVyHgEXKesgUElmNkT0egNNKYSu5RSZuay4c9K/Od5uzT6Dyl8CowdKtyM5NgS4H870b1mL7OoJOP68HFGUPODQNKz/30fNsY7Df4DqRyV1YMmUR9ecdCKp8XfnHJ4mJpRHpqEpav421Z/2nsmKiT4wZbJ7jC35xcfM9KZyG1RHBEnwb+2kXgyR9hzv5N662/Rv/3kwW2B8BJP7mvZY3lg==;TIWQy4kpuFsD7Ndqc2BPNQ=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 880
         height: 400
         isCached: true
+  - title: "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round"
+    excerpt: "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology."
+    publishedDateTime: 2021-10-26T14:23:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg"
+        width: 1280
+        height: 934
+        isCached: true
   - title: "Fintech Klarna Acquires Inspirock, Bringing Travel Planning to its Consumers"
     excerpt: "Klarna, a global retail bank, payments and shopping service, is bringing its signature experience to the travel sector with the acquisition of Inspirock, an online trip planner that enables consumers to explore a destination's offerings and 'create personalized itineraries utilizing local expertise and artificial intelligence."
     publishedDateTime: 2021-10-23T18:04:00Z
@@ -113,24 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Trends in The Fintech Industry and What to Watch For"
-    excerpt: "In the last 10 years, there has been swift growth in the fintech industry (the industry that creates programs and technologies that support banking and financial services companies). The technology has been fully adopted by financial services in the past  several years and it is now integrated within most financial institutions’ operations."
-    publishedDateTime: 2021-10-21T21:17:00Z
-    webUrl: "https://www.finextra.com/blogposting/21115/latest-trends-in-the-fintech-industry-and-what-to-watch-for"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Ten Finalists Chosen for 2021 FinTech Frontier Pitch Competition"
-    excerpt: "The 10 finalists were chosen from an incredibly competitive pool of diverse companies that are driving innovation in a number of fintech areas \"-- Pete Blackshaw, CEO of Cintrifuse CINCINNATI, OH, UNITED STATES,"
-    publishedDateTime: 2021-10-21T19:45:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ten-finalists-chosen-for-2021-fintech-frontier-pitch-competition"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
 
 secured: "9SvLNI3UqRmsDQ4SAU2jmtDPKOHfO475wQ+f1Qhwc9wZTlSujByLiUo41AaV6zwuVU+D3nd6b/nnmjH1X4Zkb6QB3fQuQJAw27JGK0RWHxccXWWGz0gOhNg0m+mO3lp9wlH5AozOCp3BVr1iGvp9aqZNnFM2kRdN6SEKXb/6mTPTC8+9xzJW/DtuCWwuIW8Yy1DKKBi3XNSDa4FnLPe5/yYqOfnw9kCmL7iVBXZWHpIvu8+3aiVgSNssUYbtCojH3ENbg9zfEsFtTlWbVXwo2SGqGvIuISdaJ+P9NwK32Dq43yvs4VAWte9Hf0qdGjqfa50BSV+smxE58Naa93vC7MVjCe/7GOBVo1JcWeKFx6rlg20j7uG9AfG9d4LR79w8SChCBJNELurO4WPUJFdGHaOPcmUMEr5e8I7ZaJl09P0pTwleO43PVofsG+In+1CvgWcw2TWVzESsvAW6ybr+CRyTq8/yzs2aIDCEacpZfaC0R5HSz54eY+tIc+PyCA9YkMVPIkTbxC7l77CJSvi9cA==;29WaL9IweiYCnGotKH/vsA=="
 ---

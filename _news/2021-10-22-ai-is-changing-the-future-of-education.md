@@ -41,6 +41,22 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "The Data Conversation: Communicators As AI Champions"
+    excerpt: "We can better explain AI to everyone by focusing more on the data, its transformation and its outputs and less on models."
+    publishedDateTime: 2021-10-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/26/the-data-conversation-communicators-as-ai-champions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "What AI brings to national military organizations"
     excerpt: "Here are 4 areas of military defense where mastering data and AI technologies will help prevent conflict and danger. W h en we look at modern wars, whether in Israel, Afghanistan, or Iraq, the winning party seems not to be the one with the most firepower,"
     publishedDateTime: 2021-10-23T10:35:00Z
