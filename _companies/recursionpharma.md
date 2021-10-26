@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 57
+heat: 78
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 4765
+  followers: 4766
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "jDLy89Tw5BHEZohFV3zT1p5lcdJLjiwfRnvMmRlNEkqCi0p2ITAOXP1iyeGBHPLh90bom4tno3RIRiOCSAEvmzKcUHzjCk12Ai1Wz73AJSNm0BuiTqs9mzIJbQtgppvDTpi61KoFAZqb+rQ4pAsS7ZwiJpuTNEs8aBR2+yvTCI9tdcPhhhxtLl0IEwrSXUppCF9WJe84H0UKjbRiIETIl6M5y+3HTZyo1XNhLYf8fzPCMouWfVkyP5WTpiMiHHMXN7y/zQLFjOaQPNGyHAxKQvwMvyrEfThM3AdLy4vXQTkThB/8XztVWTmeagLuhvpdWfoRCwdVrHVm0rT6NafucZPBGVj4yKnRIhf+VxjMht9X2S6LxfUf5FImuSwG0fmmMo/AVw+JdBABG2ybKNku1f2FLngYcdR0iKBdIiZzjmE=;DMUkUx2OjY3ZkZZBodwT+w=="
+secured: "XdXbN3xr3bsaYGK7I8anfHbRHESklNjADDiD4XSHMHst2Zu1qg3C8Dtrb3VJXj3OWfnNqZr0XgV8mtx6eT9Sy+QKCJtQnjyLykf1dKCGMEyKDhsB08tLyLF/Q6WmlVo1AEP4iYsyC4L19KUI2m0lXPZ0TaPoBMEjMIRiem2y9yU8Qy3mkfFA5iohjT/mjr0iX3P8IieNgzN571XOulbFKKkNd12pIyHbf8KIQ680YBZKyRMGDgj75gk1S16Ms/atqj8nCQpRc+QeWJ+lGm4MdHJHui0manHXi+X4zF8QD3r+qkz7K8emprevfb6sq8WPTEMqQYpU1Ibd66L3T2DSCQf/030B+cyEbCO0emt00IC+LJ85hdDLWiekgo8Jaohufxg+kaoY86im6XfqSktEVOc/PYL0eXNQ2Czs00P85oA=;Ydpj7As/ToaRm0iTleb6kA=="
 ---
 
