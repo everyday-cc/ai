@@ -3,18 +3,18 @@ category: news
 title: "Facebook has language blind spots around the world that allow hate speech to flourish"
 excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
 publishedDateTime: 2021-10-26T14:20:00Z
-originalUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-webUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-ampWebUrl: "https://www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+originalUrl: "https://www.kcra.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+webUrl: "https://www.kcra.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+ampWebUrl: "https://www.kcra.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Facebook AI
@@ -107,6 +107,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook is using AI to help you replay your memories"
+    excerpt: "\"Where did I put my watch?\", \"Have I already added salt to this dish?\" How would you feel if I told you that these questions and many more could be answered for you by Artificial Intelligence? Facebook is working on an AI project that can see,"
+    publishedDateTime: 2021-10-25T17:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/facebook-using-ai-help-you-replay-your-memories-tolu-kusanu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGRB_QirrKFyw/article-cover_image-shrink_600_2000/0/1635183408122?e=1640822400&v=beta&t=n-OqTMpUAxgMkpXRn2QLa-um0JFYcCkcLZfroPKNH3w"
+        width: 720
+        height: 422
+        isCached: true
   - title: "Facebook’s language gaps weaken screening of hate, terrorism"
     excerpt: "Across the Middle East, journalists, activists and others have long accused Facebook of censoring their speech."
     publishedDateTime: 2021-10-25T15:49:00Z
@@ -149,6 +163,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yTjaRoihA5vHcBUOYzGJpr7P22QrnWv+NAju3wQZW+qe5sl9rupuVSAvTEs1/IHscakp1KLZdgg1ReS2E2+qQRUU8gF84oHgxZfcB4pKG1g/5CkJ/3/I+/1cRu4Csu6WxknQJmVtZKK9G2nWnLiGng/fZ+fHbD3/HwYh6LcAgLDJMOUcp+GoX59HvKQ84nlU7nXuRbTDHOm4LmjhJ93kDZuq90nR3m07Fp1fyorxcBoR/VpjKJsRxTxaeNdYAjyQ36GRGWqS7BqXCYy8rcv1A8A2qdvROkEv7pT8XUxqNsTgjrxzpRazgRRqfxxlpQTSFTVRjlkaS12ZvLrtNUH6k8gjmC8DfI3igecaVgFm5Ok=;PMJZ5qy+3qV1egCXkVkTvw=="
+secured: "riyEr5V6fnMkEJ98fGk1/3kRsoJsBTqB2e48ATZZu7Vb6S0Mu6IeuGjxVRRhNVmwE1CBf+j7tdXjAWx0XGXM7NhQuk3IXA/9P3IwRFerNCrKgZ+CR/FnOE4E8ADzV/BVdr/yfJwZVI7LJPTfYjGU2pcq0YuirWavOirGZI2eGCCIovebHh5GMwg//wlpCCXSN+nTCcDFLKTzBt88cOCzdfepz5dXqwPvzy45tT7VTccufSMsF/f4MMVXF4GP0cEYH/2RQcxYM+DBKsBfrbyqpEjAfmP0+TnRjgylWOrJFyVfioeJfou8L5G6wcs/ANQqdgyXZk7rj77kX8lM6ZSJiGf2svLWmaVZh4EVJlxCkAg=;OuvtZK+p8OLrUYKqViXElA=="
 ---
 

@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "The Growing Role of Artificial Intelligence in Telehealth"
+    excerpt: "The application of AI in telehealth to allow doctors to make real-time, data-driven rich choices is a key component in generating a better patient experience and improved health outcomes."
+    publishedDateTime: 2021-10-26T17:40:00Z
+    webUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/"
+    ampWebUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
+    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
+    type: article
+    provider:
+      name: medtechintelligence.com
+      domain: medtechintelligence.com
+    quality: 41
   - title: "Bridging Technology Gaps to Drive Healthcare Interoperability"
     excerpt: "For interoperability to move forward and have a widespread impact on the healthcare industry, it must connect existing and emerging modes of health data exchange."
     publishedDateTime: 2021-10-25T12:01:00Z
@@ -68,17 +79,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "The Growing Role of Artificial Intelligence in Telehealth"
-    excerpt: "The application of AI in telehealth to allow doctors to make real-time, data-driven rich choices is a key component in generating a better patient experience and improved health outcomes."
-    publishedDateTime: 2021-10-26T17:40:00Z
-    webUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/"
-    ampWebUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
-    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
-    type: article
-    provider:
-      name: medtechintelligence.com
-      domain: medtechintelligence.com
-    quality: 39
 
 secured: "tgwVpCnkEQJyzuAFwd6W8Kl0iNZXMW0uyvuwVKYesAiXFXJlQzllZyh1UDWP7O2OgqiWqGNAXEQuCaupFMf2V8ftdUB2USgFltFV7lrMz9BklseImzAXwT5DWiWY28aw9LMq5zAlrp7+1jXRsrFSQbCMedE7nhGiBM3SQsH3oVUIf39+jaxxrGQpWtJd63F5n9viXa6I0sy1LwFVIsIcRaFPV5cOHcdn3MBIfBGd05XeFy3XkymryQekETxkdHEuJ7AkEtVyZ1mvvILo0xLGFOXaao1qyUtEIirdBrBo/5ePRUIv71qqTvZAlqoJQ/uzvr2UPvfS2AqzQAKrhPS2qC7soefMSZDZC2o+I09NQFw=;g8PDPpq684qDUNtBjeL7MA=="
 ---

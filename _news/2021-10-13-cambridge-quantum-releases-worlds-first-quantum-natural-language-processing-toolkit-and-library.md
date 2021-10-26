@@ -1,68 +1,26 @@
 ---
 category: news
-title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-excerpt: "Converting sentences into quantum circuits, 'lambeq' accelerates the development of practical QNLP applications as quantum computing systems"
-publishedDateTime: 2021-10-13T07:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-releases-world-s-first-quantum-natural-language-processing-toolkit-and-library-1030861861"
+title: "Cambridge Quantum Releases World’s First Quantum Natural Language Processing Toolkit and Library"
+excerpt: "Converting sentences into quantum circuits, ‘lambeq’ accelerates the development of practical QNLP applications as quantum computing systems scale CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (“CQ”) today announced the release of the world’s first toolkit and library for Quantum Natural Language Processing (QNLP)."
+publishedDateTime: 2021-10-13T07:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Cambridge Quantum Makes Quantum Natural Language Processing A Reality"
-    excerpt: "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq."
-    publishedDateTime: 2021-10-13T19:16:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61672daae1c3ad03b91e3a1c%2F0x0.jpg"
-        width: 810
-        height: 540
-        isCached: true
-  - title: "Cambridge Quantum toolkit converts natural language to quantum circuits"
-    excerpt: "Open-source software toolkit, lambeq, turns sentences into quantum circuits, ready to be implemented on existing quantum hardware, hence enabling both professionals and enthusiasts to linguistically interact with quantum computers."
-    publishedDateTime: 2021-10-15T10:16:00Z
-    webUrl: "https://www.embedded.com/cambridge-quantum-toolkit-converts-natural-language-to-quantum-circuits/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 24
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/10/Cambridge-Quantum-lambeq-quantum-circuit.jpg"
-        width: 602
-        height: 346
-        isCached: true
-  - title: "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library"
-    excerpt: "Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for (QNLP). The toolkit is called lambeq, named after the late mathematician and linguist Joachim Lambek."
-    publishedDateTime: 2021-10-15T01:00:00Z
-    webUrl: "https://www.newswit.com/en/LLme"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 6
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "qm9ZkcNd0HCCE9RT6qluA2bsPYxfkaRs+17dXeEpetnUkLvHMGhBAU6/SGOByTS08mB2opTXxIr6s70COGtgOGPZSuEbmWfEgM6gJWJfOlwcZyqKW7RO0ELHMmNN2Ej9b3Bh3WhcttmeqDG5BPX21wOuiiqKdWxItKh53dwa5eygKfX6tPhfIs711YIsrEDx6yXDVhyw12JQW7kHuHGQtbKIugWupIMGopJ31Cm0Vnj0ycJpwOXoKFNHbxGEtdIm3TdpE1CLhsNOfHxPBSJBMLGHpcLlSQNQjXRBoagbtV0GHQvJoRvPoT+gYQp88Kmrr4PxBPAZZf0fAl6yp7oytvR/5Qj34TZHFmvhPp2Cyi8=;a2hBHd/kY8lYzfdlktYVNA=="
+secured: "ybS6JACggaI2kDk8qYg/cwcTH1EI6CsqwV3jqZKwbC6Rakms/xJUGZmptyWFBT/FujCiO1ZKWnaMLQQL9tIYm+B68n3yBpMGLrG19BR8iWo9MyfDxBHooqgQzRnjau0YhLcc+6i97rIJav9qimDCX0S/IJVEoiuJGT+TY2HP8GQV8M5bGTcuLsARaX1kWBPjjebypstUA07QaUxYyfyVJp4j4uViCYZsApOZwRpRwzStmLYxXXZ4kSLjNF/2YSLugU2GIXndWdps3P6Mt7ldfpStJu0Ad4cTVWMahdPWdIGM4IYlv3wjsjotvIHPd4AEZG0Ds69a+ruHSDpxxKgW3uKEKHuYdpOde8hUWfh4eY0=;aJGLS0QZdkehAm3UUZmq6A=="
 ---
 

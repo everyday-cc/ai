@@ -2,32 +2,28 @@
 category: news
 title: "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift"
 excerpt: "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,"
-publishedDateTime: 2021-10-26T10:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift-1030898836"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift-1030898836"
+publishedDateTime: 2021-10-26T10:04:00Z
+originalUrl: "https://www.wdbj7.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/"
+webUrl: "https://www.wdbj7.com/prnewswire/2021/10/26/visionary-global-fintech-companies-invest-customer-service-experience-by-partnering-with-helpshift/"
 type: article
-quality: 39
-heat: 39
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1669569/Helpshift_Logo.jpg"
-    width: 764
-    height: 400
+  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/LEGaG8bqRHIOwshaD5h71_c42RI=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NXTVMD3MEAEFUHBC7ZES5QXHIM.jpg"
+    width: 980
+    height: 513
     isCached: true
 
-secured: "/ZxwdarqdOw+q2XP3K9/jOr/zIeaRBbYM+eRxvpzLoLwqcuFND2InZR3J+nm8Kh2MljWQu4ftYyjfmjvF3/LCf0bz/PQPDsljZBnHrnZTGUHMq9jzmG7/cIXBK6v7pdO373ozZLHIFj5MK3kMv392LnT1ykvqwOejEOPh3InPF2iWWJN7TaBmWEX14jpMJ7hOKXwQIGGhRb4PIwtdwWk8yhW4fIy+HSVotjYThW3ZruK4WewA3d8Z6mPLZ3nCHFMqwAZ1b4IgILAbxSdCNoOWmeyAo84dJymHh40F/g6WF27bBO30yD6D5bhl3jwEQyAgLI+ktlN1SedmLmbdP02PtY1HM1e8E4hfMA9k1kDTp0cx7ug2rWXzAhG3yDNBkYJzzR3WOoDl3iV+bXOJ8dlph2WZbVim5WFDOY3NmMfeXVap8NOYGdcdboiULgEvIR/q2K6lGp8gm/7kG+PEb8ZsAD92l4iPKnpHo0k6llClAtIbwEWpTpuSOWcOhVqSaX022hJwHjOBMacMzaOdlFSAA==;CZhMCkWw6LOpM0h2GJcAwA=="
+secured: "R45PoTRqkBNf2KOhyPctNZ1D7sSaYAmpuder9V5JpeCHHAtWnAbCA1OSNbyVP4f9GdkcRvlBoY6P/mS7zj6EEFxZJ+5HMMYixeIKU8oJeA7++W0YU37tDL1HmZJHCeqOhWUpJaUjBowAmqZySrcpDYaMufepAUp2fEgwKvfkfFbfxa2KkqA+dTxBvw4MemksIu3YnSa7YGRuMR45IDp0PulztdE6kIFLS+2z6pFJFR/MC03QJlW/H0kk/PXmEbgpx3981ZiV6gqEdg2fv32wA40qBaGwsuLSc3Nn1KaaeyzFkuxjkYvQP7bynRIBKQkNTv4W8RgczKxrtgspINnDNVc2M7klnMvTaOwss5Eheas=;Ug8+DzTW40TqsvCs7Z4CLA=="
 ---
 

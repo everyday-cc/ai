@@ -54,19 +54,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Article: Artificial Intelligence in Healthcare Market Status and Forecast Analysis (2021-2030)"
-    excerpt: "Market.Biz –:Recently released a new research report on the Artificial Intelligence in Healthcare Market By Market.Biz, which uncovered accurate information about the long-term prospects of the global and regional market."
-    publishedDateTime: 2021-10-22T04:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/latest-article-artificial-intelligence-in-healthcare-market-status-and-forecast-analysis-2021-2030"
+  - title: "Artificial Intelligence Market Trends 2021: Industry Size, Share, Business Strategy, Growth, Revenue, Demand, Applications and Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” “Artificial Intelligence Market”"
+    publishedDateTime: 2021-10-26T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-2021-industry-size-share-business-strategy-growth-revenue-demand-applications-and-forecast-to-2025-2021-10-26"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/e302e48527a00d9aa3f6c8885afb0efeed56db62-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MJ2v0/NK4EBJOaW3Iz+4d2vo1Z3fWGMVgrZMyRTLP+pavv+/e33+dT89SCK3JSp7DI5wlPYHuOPMGRbfFhUinN+IOOp9JmeMtQJ/mq9r6+pJQU0BomcGN0dXSVfwg1vSBG2DJ+a+CZGSAJV/OqRH7PSI4JqAQJ5czhBcE5/Y06QiHqNhSynyWulTnSRBr2n9dWS36ciPl2njH5X3FSyTl2c0uNSUXH5TQR8Z+oRe0XAettzoSoA1b1xpIdcWzjkYkYzdmN99S/tAfjc7+EkaFQMxWgWZrR+4bgJieYQhZXwQyZKCYJCCfMyC5x6yiszBgSa5VgIUGtKnccanHFjYXXcqDaKW4O3l8qy1usVUoU7ECWJFa7qlnaJlknNAkfEPJeZpkeVZSMt9TVmy/asevJQM1cWualLSfo30BCZ+OkzxM1Saj0gJoqxtcggtifheUQ7qs5Ym/B33Mslpk0PN5oy2d2rwvO3j5B0run7D+nFtEMa1g71MFqZOFCLtl7mSuUqNU9zjAUB1FzAzUqGcvA==;nLe23YzXPjpUzixLvYv9LA=="

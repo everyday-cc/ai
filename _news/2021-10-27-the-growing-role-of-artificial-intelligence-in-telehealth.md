@@ -8,7 +8,7 @@ webUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artifici
 ampWebUrl: "https://www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
 cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/column/the-growing-role-of-artificial-intelligence-in-telehealth/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "Accelerating healthcare AI innovation with Zero Trust technology"

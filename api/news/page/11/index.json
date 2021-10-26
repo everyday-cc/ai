@@ -2,6 +2,206 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-15-how-ai-could-bridge-the-linguistic-inclusion-gap.md",
+      "title": "How AI could bridge the linguistic inclusion gap",
+      "excerpt": "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "originalUrl": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/insights/in_meta_blogs.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-15T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThoughtWorks",
+        "domain": "thoughtworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-qubit-the-dog-on-the-big-questions-in-quantum-computing.md",
+      "title": "Qubit the dog on the big questions in quantum computing",
+      "excerpt": "This week we sat down for an interview with Qubit the dog, whose human Julian Kelly is one of our lead Research Scientists with Google Quantum AI. Qubit was born in 2012, right when Julian and team were first designing the qubits that now underlie Google’s quantum computers. He nearly received the honor",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/",
+      "originalUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PXL_20210930_201831394.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/qubit-dog-big-questions-quantum-computing/amp/",
+      "publishedDateTime": "2021-10-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos.md",
+      "title": "Spot AI emerges from stealth with $22M with a platform to draw out more intelligence from organizations’ basic security videos",
+      "excerpt": "Security cameras, for better or for worse, are part and parcel of how many businesses monitor spaces in the workplace for security or operational reasons. Now, a startup is coming out of stealth with funding for tech designed to make the video produced by those cameras more useful.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/spot-ai-video-frame.jpg?w=1024",
+          "width": 1024,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/spot-ai-emerges-from-stealth-with-22m-with-a-platform-to-draw-out-more-intelligence-from-organizations-basic-security-videos/amp/",
+      "publishedDateTime": "2021-10-15T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data.md",
+      "title": "Clarifai moves beyond computer vision to manage companies’ unstructured data",
+      "excerpt": "Clarifai enables customers to make sense of the 90% of unstructured data they have using artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "originalUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1168836247-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/15/clarifai-moves-beyond-computer-vision-to-manage-companies-unstructured-data/amp/",
+      "publishedDateTime": "2021-10-15T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-truly-smart-robots-know-when-to-ask-for-help.md",
       "title": "Truly Smart Robots Know When To Ask For Help",
       "excerpt": "Ask a manufacturing company what their current top headaches are, and supply chain disruptions and staff shortages will probably top the list. Vecna Robotics might have the solution for both. Vecna Robotics develops autonomous mobile robots (AMRs) used in distribution,",
@@ -999,202 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
-      "title": "AI paints a Picasso nude, just like Pablo did",
-      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
-          "width": 1454,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
-      "publishedDateTime": "2021-10-14T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
-      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
-      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
-          "width": 5000,
-          "height": 3334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
-      "publishedDateTime": "2021-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-spice-ai-wants-to-help-developers-build-smarter-applications.md",
-      "title": "Spice AI wants to help developers build smarter applications",
-      "excerpt": "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Spice-AI-Logo-with-bg-Dark.png",
-          "width": 750,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/spice-ai-wants-to-help-developers-build-smarter-applications/amp/",
-      "publishedDateTime": "2021-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai.md",
-      "title": "‘Absolutely Not True’: Army CIO Answers Claim US Has Already Lost To China In AI",
-      "excerpt": "\"If you looked at both what we have in the Department of Defense and Intelligence Community, across the federal government and our industrial partners, we have the best AI technology,\" Army CIO Ray Iyer said.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
-      "originalUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/10/211013_dvids_marines_red_computer-e1634157698679.jpg",
-          "width": 2169,
-          "height": 1220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/10/absolutely-not-true-army-cio-answers-claim-us-has-already-lost-to-china-in-ai/amp/",
-      "publishedDateTime": "2021-10-14T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

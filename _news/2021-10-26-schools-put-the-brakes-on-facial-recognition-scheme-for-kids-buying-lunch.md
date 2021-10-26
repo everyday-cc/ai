@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Is facial recognition appropriate for school canteens?"
+    excerpt: "Facial recognition raised its head again last week as a number of schools in Scotland rolled out the technology in their canteens. The announcement that nine schools in Ayrshire were to employ facial"
+    publishedDateTime: 2021-10-25T06:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-appropriate-school-canteens-alistair-enser"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwzFqEx3fiVA/article-cover_image-shrink_720_1280/0/1635095068055?e=1640822400&v=beta&t=ts7p278yn7xjuta3CM6OzyQnaaL0keCZGtm7TLUVsms"
+        width: 1280
+        height: 686
+        isCached: true
   - title: "North Ayrshire Council to pause the use of facial recognition tech in schools"
     excerpt: "Nine schools in North Ayrshire that had introduced facial recognition technology for school lunches have decided to pause it. Indeed, the schools were using the system so that pupils could pay for their lunch with limited physical contact."
     publishedDateTime: 2021-10-26T09:28:00Z
@@ -122,15 +136,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 19
 
 secured: "bqZTLBAYRx22181jat8ibBrl6/sGbE+V5EENHepLO+wROJloTd74h5LbQlQUw3TWZUJQhI5b/RnzQBNR5fUzblsuhoQzmb7r7JPjXMMG9qQwAdnD5wxsY/K9BXdJQRFFoVcrs3mqgxe1I95y52NFOy/7b2nmsJv9qeyJajzh1inIchwXl4XmLrowbELZGPqB1O586URoG4Bnx3bf0N8eQr92AX8m0StkKqIkiRIpBIzp60OmBljQJ70ziJAZ3nF4ib8xAatwGFRS7C/+n/4AHOko9S0tweIk5MdE6B85F3gGOqqWN4rb1BynRMygoFPGtilFX4GC4fx5hPvXErKD/MBkwua/IbSJwa6M6t9WurDQkhpNQBhTj+Wmwk6LbX2FHIBANc3bfbo8w7mGmPXqRPeC6W9i8uOtvqgX34QHCoW6EUjVLVDSq1KA4T0fgRMVWl23W30DEFGRKjVN/R2wf80sa3NHtzcKAF2IMQDDuSnmXx06ePe+bWlrPPX5XfiLQI9tS70BF/u1kTqHh4cpyQ==;OEzeuQ8Se/PRboOdjDCNPQ=="
 ---

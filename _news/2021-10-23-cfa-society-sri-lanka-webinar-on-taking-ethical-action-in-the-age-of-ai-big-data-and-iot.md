@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "CFA Society Sri Lanka joins forces to shed light on Global Ethics Day"
-    excerpt: "CFA Society Sri Lanka, which is the local arm of the CFA Institute, has planned to celebrate this year’s Global Ethics Day with a webinar on taking ethical action in the age of AI, big data and IoT, on Monday,"
-    publishedDateTime: 2021-10-22T03:26:00Z
-    webUrl: "https://www.dailymirror.lk/business-news/CFA-Society-Sri-Lanka-joins-forces-to-shed-light-on-Global-Ethics-Day/273-223025"
-    type: article
-    provider:
-      name: The Daily Mirror
-      domain: dailymirror.lk
-    quality: 39
-    images:
-      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_4065b3cce8.jpg"
-        width: 550
-        height: 310
-        isCached: true
-
 secured: "iWttYnf7ieYnrk5wJ+fmdwBDvi1dkW6nI76xPXc1i0cLxujN04sTKIs25jObaYGCzubbp2yxBCF4ZCaatannnnsnNS4yITpdeD32tE4Y82ZcWZK4mo8RLMnCq0snMXWcNfhZDFcbW0A/cB83IfcKRmJmdI9gpsclheWD+srjPdeU0KnjfqGfgjZlQMPjFJPwxnr3iBXx44su5Xl1Fw22pm2GKjulL/KETH7K1ttxCZKh8TNc9ennOJ5iBsmTTSxmI2lqGW7HjOFxm1MLTKvl9ysXicKjYPMKJS+R44ntT3w2ahpXlPHeHTirydGrhKFg5xWRs5POWapOllvF2IvkGU3bm0pbQgjeFXV7/eyE78EZ+0Pk63+x9RqxnbkGThvO9rvgF1OYixTJgt3wwWEVxRzOiQGEeV7eQEM3cUP8VdkHxHECfHGITr6t6JVeqdJwDLz4WFY4a5RMTP2zfeIOu0KV8QkS1mULfYvLeCBPoka9WRE17wvzSOi2r03C0H9GzM2bqWsbrXwcWBbmCmNrWw==;dIAxE9G/SkACKxUaRmz0Jg=="
 ---
 

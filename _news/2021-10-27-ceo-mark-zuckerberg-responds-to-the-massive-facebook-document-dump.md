@@ -3,18 +3,18 @@ category: news
 title: "CEO Mark Zuckerberg responds to the massive Facebook document dump"
 excerpt: "\"Good faith criticism helps us get better, but my view is that we are seeing a coordinated effort to selectively use leaked documents to paint a false picture of our company,\" Zuckerberg said on a Facebook's call."
 publishedDateTime: 2021-10-26T18:13:00Z
-originalUrl: "https://www.kcra.com/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
-webUrl: "https://www.kcra.com/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
-ampWebUrl: "https://www.kcra.com/amp/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
+originalUrl: "https://www.wmur.com/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
+webUrl: "https://www.wmur.com/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
+ampWebUrl: "https://www.wmur.com/amp/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/38058488"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Facebook AI
@@ -42,6 +42,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "HkjxtmHAjXnUc7Pd+uW7LjlA/a2vzl4/YXKJNAzaH9k0KhpFH31SZzlSRc8ZVUgtfbjWKK+dN8zTowM0saKkHV+eVF9tfxozYoCQcZFGDnuKSE42MVC31gFYWKHIjT94NcffbTkO7zW5yiS/Tu8HTlIw9uwq0gRk1S9uxBI1QZnG7dsqdZmWFva54mbsHFET7eEg8w3vHkAFZzysjvqzHlOhSj8/DvGGnE1HxBl/aho8wXZ3lZ/RvmKUGb0GYLOeQLHq12cvKgN7kgzxjwCTvV/jyKF5nWsuPscH9uaCbbyS2ncpWo161qzLJqocF9vDQ2ieyI/b8jF34kskZ75XlRVihH5KkA6bXOY+HSyeqek=;Cu29BW0i0i/wn2mA5chxDQ=="
+secured: "AhebTExx8KoUeXPLgsD/dHqoIadVHhd6/lV17zSuNNe3CL0OTHuQKLGT6Pu8FzlcBCOR9ICPZ67vZIgpDpV3sMVJL4Iieh8M0rXEo/VqAJj5HP7R8f0jgm+aEgbEj3kusknUMeF/vET0PCzfHQ7ah6zUJ9EhGERKncFF3rrcrdSZMCnSxmNO3Ibwna4YfI3ia5Q4GAREzzYGW9zv3fgIo5k+Ia6+y7OyC6eJZGE+o64D4Lwx3pu2X9IhzGjPbXfITEkFFY4CuZnTkpxwozBfu1Xx+CLNlNcldcs3g9vgxUVm15PAFsyYO+Og3FqIE+UJ6Kc8G+0tkn9FJ422mLKooLs7OnZNnmi5lf6vTXgB0SE=;zSDXwpgYZpPozU/f9Nq6pQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.co.za/the-worlds-first-ai-powered-pay-
 webUrl: "https://www.businessinsider.co.za/the-worlds-first-ai-powered-pay-as-you-need-and-peer-to-peer-life-insurance-model-2021-10-3"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 650
     height: 430
     isCached: true
+
+related:
+  - title: "AI and the Push to End Insurance Ratings Bias"
+    excerpt: "Artificial intelligence (AI) has changed how insurers price the risk associated with an account, in many ways for the better. However, the promise of automation has led to a new concern: bias in the AI algorithms and scoring models,"
+    publishedDateTime: 2021-10-26T21:01:00Z
+    webUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/"
+    ampWebUrl: "https://www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
+    cdnAmpWebUrl: "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/26/ai-and-the-push-to-end-insurance-ratings-bias/?amp=1"
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 57
+    images:
+      - url: "https://images.propertycasualty360.com/contrib/content/uploads/sites/276/2021/10/Theresa-Benson-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "L8mBm/ZKhMAC/6MMJYCpD5KhKVz3R9Njkquy6UekKIO9fT51qGRP07P0W+I8oAt1pCMQ8rzP8jujUec2BMWB37fZQLkzdD779TuFTGhe1Yrh9IQ1OIwHQ6bwKqm2GP89G6vxgAdHzQZ2LEC8ZJyOxTbm20kZT68akXnWuwnRGWmusIIAhassXfIilDyWQ8+4h+5NYjHLNoCJ8pOXGcKaiERykv2x6QyXN2tF56l6dvMrqzO/2LuZtNhVApExDnVRUJ+r3rA2VDWEYdt0eFhzWecmFY2WQUJ+SFdeYKuJsaNINy8IK1Fj/gPbopfEWovX3y0ySob0Ms9jKKyKE6Fp9cWa6Tze9l+3AiMv3RfOJfU=;V3hEpWAMvnmv/jjpLNa1pw=="
 ---

@@ -209,7 +209,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -752,8 +752,8 @@
       "title": "How AI could bridge the linguistic inclusion gap",
       "excerpt": "Thoughtworks’ Data and AI Practice examined how Natural Language Processing (NLP) could be used to create an automated translation service for clinical healthcare settings. NLP technology processes spoken or written language to enable conversations that feel natural — whether that’s text-based,",
       "sourceUrl": null,
-      "webUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
-      "originalUrl": "https://www.thoughtworks.com/en-gb/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "webUrl": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
+      "originalUrl": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/how-ai-could-bridge-the-linguistic-inclusion-gap",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -928,6 +928,49 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library.md",
+      "title": "Cambridge Quantum Releases World’s First Quantum Natural Language Processing Toolkit and Library",
+      "excerpt": "Converting sentences into quantum circuits, ‘lambeq’ accelerates the development of practical QNLP applications as quantum computing systems scale CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (“CQ”) today announced the release of the world’s first toolkit and library for Quantum Natural Language Processing (QNLP).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-a56b0432d92d0536cf87597d9f3a5278",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1347,40 +1390,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai.md",
-      "title": "Language Imitation Games and the Arrival of Broad and Shallow AI",
-      "excerpt": "Natural language generation systems in Artificial Intelligence are currently going through a rather fertile phase of imitation themselves—only not limited to a couple of hapless parents, but rather the whole world.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
-      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

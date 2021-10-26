@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Is facial recognition appropriate for school canteens?"
+    excerpt: "Facial recognition raised its head again last week as a number of schools in Scotland rolled out the technology in their canteens. The announcement that nine schools in Ayrshire were to employ facial"
+    publishedDateTime: 2021-10-25T06:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-appropriate-school-canteens-alistair-enser"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGwzFqEx3fiVA/article-cover_image-shrink_720_1280/0/1635095068055?e=1640822400&v=beta&t=ts7p278yn7xjuta3CM6OzyQnaaL0keCZGtm7TLUVsms"
+        width: 1280
+        height: 686
+        isCached: true
   - title: "Council suspends facial recognition software scheme in school canteens that scanned pupils faces as they bought lunch over privacy concerns"
     excerpt: "Nine schools in North Ayrshire in Scotland became the first in the UK to start using the system on a long-term basis last week after a pilot project in Gateshead last year."
     publishedDateTime: 2021-10-26T14:44:00Z
@@ -119,15 +133,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition systems off the menu as schools reverse plans"
-    excerpt: "At least two schools in England are reversing their plans to install facial recognition systems in their canteens after a Scottish council faced widespread criticism for its use of the technology. Nine schools in North Ayrshire launched the biometric systems this week to allow pupils to make contactless payments for their lunches."
-    publishedDateTime: 2021-10-22T04:00:00Z
-    webUrl: "https://schoolsweek.co.uk/facial-recognition-systems-off-the-menu-as-schools-reverse-plans/"
-    type: article
-    provider:
-      name: Schools Week
-      domain: schoolsweek.co.uk
-    quality: 19
 
 secured: "bydnvCfu/zXukS+46fo61RZDQb+PB8KNzvPnU3rIN0JGpfMCwnbPoned5osIFG+ruwvhCjbSbaDv14Vv/xN1u5meW0V+vP6ASNr8ja5WhaJYL57vporf66ut7nl8uE5UEDpiHk2oyxbW4gQRSM3vugtIDoWhRbHs/FdwZGqUbdbb9bra/iH3V8roM4OSukFlNI4YqgxNSsHo8gwUD54/MrcYOp6XnkRiVnainqL7bBJDrXpgG5nIYfR5Vn4lSvxFZ/qtZg2lPPj/CITYW7GAwm2y88tqbGbwBYMWxnYfPeB4ZpzkjXNQ6tUZeuEnB6oV5TUrsxB2RTVSI77CfGWJ11tO6ItwM1dSAYK5HcOH9oIejuKCmX8d3nnB/X7gd4H0qmqFTEx76YG2j49oadEdarPhjcpCg9ka523zL+tVOPhuebZ76va6O9F+OjPWlnMwgooJGwmRz5JKJS+b4F51MBZxFN+0ai8WeWO11g2L1SgqPdGwjRyVIUSntqOsx+le7l/oZtULAwdkmKltggffTA==;3o1BnVUSsoe8+NVetS2NUg=="
 ---

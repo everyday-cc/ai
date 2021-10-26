@@ -2,6 +2,282 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-10-12-artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study.md",
+      "title": "Artificial neural network promising tool in pain prediction after RCT: Study",
+      "excerpt": "With the development of endodontic treatment, the incidence of pain and swelling during RCT is only approximately 10%. However, patients frequently report of postoperative pain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "originalUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2021/10/02/161347-capture.jpg",
+          "width": 575,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "publishedDateTime": "2021-10-11T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics.md",
+      "title": "House Task Force on Artificial Intelligence to Hold Hearing on Ethics",
+      "excerpt": "On Wednesday, October 13, the House Committee on Financial Services, Task Force on Artificial Intelligence (AI) will hold a hearing to discuss ethics and AI. According to the hearing memo, in financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "publishedDateTime": "2021-10-11T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
+      "title": "Attention-based deep neural network increases detection capability in sonar systems",
+      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/931330",
+      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-data-driven-workforce-management-for-a-work-from-anywhere-world.md",
+      "title": "Data-Driven Workforce Management For A Work-From-Anywhere World",
+      "excerpt": "Fueled by the COVID-19 ... and the rest based anywhere) are becoming the norm. In this environment, organizations are challenged to gain real-time insights on staff productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/enterprise-artificial-intelligence-4th-edition.html?id=us:2el:3pr:4diUS144384:5awa::MMDDYY:&pkid=1008396",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/12/data-driven-workforce-management-for-a-work-from-anywhere-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www2.deloitte.com/content/dam/insights/articles/US144384_CIR-State-of-AI-4th-edition/primary/144384_Banner-1920x630.jpg/jcr:content/renditions/cq5dam.web.1200.627.jpeg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
+      "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
+      "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
+      "originalUrl": "https://fintechmagazine.com/technology-and-ai/fintech-and-insurtech-live-day-one-overview-tobacco-dock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/IMG_1746.jpg.png?itok=QInUkdFr",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-former-senior-pentagon-official-says-china-is-kicking-our-ass-in-artificial-intelligence.md",
+      "title": "Former Senior Pentagon Official Says China is Kicking Our Ass in Artificial Intelligence",
+      "excerpt": "A former senior Pentagon official recently quit his job over frustrations with the government’s apparent inability to make meaningful headway on artificial intelligence and cybersecurity—two areas he says China will likely surpass us in if we don’t get our shit together.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "originalUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19894cca4b0468a528607c83b4f597e6.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/former-senior-pentagon-official-says-china-is-kicking-o-1847838903/amp",
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-lifebio-secures-second-national-institute-on-aging-grant-research-will-use-artificial-intelligence-as-a-possible-diagnostic-tool-for-alzheimers.md",
       "title": "LifeBio Secures Second National Institute on Aging Grant; Research Will Use Artificial Intelligence as a Possible Diagnostic Tool for Alzheimer's",
       "excerpt": "\"Reminiscence therapy has been an effective tool in ... LifeBioALZ, will use artificial intelligence to take person-centered care and contextualized health to a new level.\" LifeBio has now secured ...",
@@ -877,303 +1153,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-2-artificial-intelligence-stocks-to-buy-2-to-avoid.md",
-      "title": "2 Artificial Intelligence Stocks to Buy, 2 to Avoid",
-      "excerpt": "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390452",
-      "originalUrl": "https://www.entrepreneur.com/article/390452",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-estimates-85-of-worlds-population-is-affected-by-climate-change.md",
-      "title": "AI estimates 85% of world's population is affected by climate change",
-      "excerpt": "A team of researchers in Germany used machine learning to crunch at least 60,000 studies related to climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/xhSpkTmhDuqAlahdqvYTA7t3MJ4=/1200x630/2021/10/11/29fa3084-59a6-447e-b90c-5d4aa8fa774b/gettyimages-1235419694.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "publishedDateTime": "2021-10-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ondas-dynamai-collaborate-over-ai-ml-capabilities.md",
-      "title": "Ondas, Dynam.AI Collaborate Over AI, ML Capabilities",
-      "excerpt": "We believe partnering with Dynam will allow us to integrate advanced AI/ML capabilities faster and more deeply as we scale with customers,\" Ondas Chair and CEO Eric Brock said. American Robotics has agreed to utilize Dynam.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ondas-dynam-ai-collaborate-over-ai-ml-capabilities-1030856372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_2160.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
-      "title": "Fintech And Compliance: It’s Not One Size Fits All",
-      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
-      "publishedDateTime": "2021-10-11T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
-      "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
-      "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/11/full/20211011194014.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape-121101101149_1.html",
-      "publishedDateTime": "2021-10-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons.md",
-      "title": "Intel’s Brain-Inspired Loihi 2 Chip Can Hold a Million Artificial Neurons",
-      "excerpt": "The Loihi 2 chip doesn’t just significantly boost the number of neurons from its first iteration, it also greatly expands their functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "originalUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/intel-loihi-2-chip.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/11/intels-brain-inspired-loihi-2-chip-can-hold-a-million-artificial-neurons/amp/",
-      "publishedDateTime": "2021-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

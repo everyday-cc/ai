@@ -91,16 +91,30 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook is using AI to help you replay your memories"
+    excerpt: "\"Where did I put my watch?\", \"Have I already added salt to this dish?\" How would you feel if I told you that these questions and many more could be answered for you by Artificial Intelligence? Facebook is working on an AI project that can see,"
+    publishedDateTime: 2021-10-25T17:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/facebook-using-ai-help-you-replay-your-memories-tolu-kusanu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGRB_QirrKFyw/article-cover_image-shrink_600_2000/0/1635183408122?e=1640822400&v=beta&t=n-OqTMpUAxgMkpXRn2QLa-um0JFYcCkcLZfroPKNH3w"
+        width: 720
+        height: 422
+        isCached: true
   - title: "Facebook has language blind spots around the world that allow hate speech to flourish"
     excerpt: "Facebook's own researchers have repeatedly warned that the company appears ill-equipped to address issues such as hate speech and misinformation in languages other than English."
     publishedDateTime: 2021-10-26T14:20:00Z
-    webUrl: "https://www.wcvb.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    ampWebUrl: "https://www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    webUrl: "https://www.kcra.com/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    ampWebUrl: "https://www.kcra.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/facebook-has-language-blind-spots-around-the-world-that-allow-hate-speech-to-flourish/38061290"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: KCRA
+      domain: kcra.com
     quality: 37
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/facebook-hacked-thumbnail-for-web-1631821710.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"

@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever.md",
+      "title": "AI deployments: Is your organization a transformer, pathseeker, starter or underachiever?",
+      "excerpt": "AI-fueled organizations address strategy, operations, culture and change management and ecosystems, according to Deloitte's latest State of AI in the Enterprise report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/cef0cad3-f8a5-4538-ba45-784daf3c801d/resize/1200x/445309360b3a3b023507b870fd0d0ef1/deloitte-state-of-ai.jpg",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "publishedDateTime": "2021-10-26T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale.md",
+      "title": "Salesforce’s Kathy Baxter and Amazon’s Nashlie Sephus talk keeping AI ethical at Enterprise scale",
+      "excerpt": "AI and big data are an important part of most enterprise-scale companies now, but that very scale can make it difficult to employ them safely and ethically. Kathy Baxter at Salesforce and Nashlie Sephus at AWS have made ethical AI and data collection their business over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/kathy_Amazon_post.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "publishedDateTime": "2021-10-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-speechmatics-pushes-forward-recognition-of-accented-english.md",
       "title": "Speechmatics pushes forward recognition of accented English",
       "excerpt": "Speech recognition has gone from convenient to crucial over the last few years as smart speakers and driving assist modes have taken off — but not everyone’s voice is recognized equally well. Speechmatics claims to have the most inclusive and accurate model out there,",
@@ -102,6 +205,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine.md",
+      "title": "GATC Health Corp chooses Syndi Health to accelerate artificial intelligence training and advance personalized medicine",
+      "excerpt": "Syndi Health and GATC Health Corp today announced they have entered a development agreement, which could accelerate GATC Health's product development and publication release timelines by as much as 50 percent.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-corp-chooses-syndi-health-to-accelerate-artificial-intelligence-training-and-advance-personalized-medicine-1030901211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg",
+          "width": 603,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -399,6 +554,49 @@
       ]
     },
     {
+      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
+      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
+      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
+          "width": 854,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
+      "publishedDateTime": "2021-10-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-vancouver-fraser-port-authority-improves-supply-chain-visibility-with-computer-vision-based-container-tracking.md",
       "title": "Vancouver Fraser Port Authority Improves Supply Chain Visibility With Computer Vision-Based Container Tracking",
       "excerpt": "With AWS Panorama, Deloitte is helping the port authority develop a new class of insights on its physical operations that will improve collaboration with supply chain partners.",
@@ -502,7 +700,7 @@
       "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1043,187 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ethics-guidance-issued-for-machine-learning-in-research.md",
-      "title": "Ethics guidance issued for machine learning in research",
-      "excerpt": "The UK Statistics Authority’s Centre for Applied Data Ethics has published ethics guidance focused on the use of machine learning for research and official statistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
-      "originalUrl": "https://www.research-live.com/article/news/ethics_guidance_issued_for_machine_learning_in_research/id/5090982",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5090982&name=ethics-guidance-issued-for-machine-learning-in-research",
-      "publishedDateTime": "2021-10-26T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
-      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
-      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "publishedDateTime": "2021-10-26T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
-      "title": "AI-powered spend management platform Yokoy secures $26M",
-      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "publishedDateTime": "2021-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-byju-innovation-labs-bridging-the-teacher-student-gap-with-ai-ml.md",
-      "title": "Byju Innovation Labs: Bridging the teacher-student gap with AI, ML",
-      "excerpt": "With an aim to solve moonshot problems, Byju's lab initiative hopes to consistently innovate internally to solve education's biggest challenges with technology to avoid becoming obsolete",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "originalUrl": "https://www.forbesindia.com/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2021/Oct/img_170429_devroy.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/innovation-nation-2021/byju-innovation-labs-bridging-the-teacherstudent-gap-with-ai-ml/71193/1",
-      "publishedDateTime": "2021-10-26T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -44,6 +44,20 @@ related:
         width: 768
         height: 385
         isCached: true
+  - title: "Extend model lineage to include ML features using Amazon SageMaker Feature Store"
+    excerpt: "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature"
+    publishedDateTime: 2021-10-26T21:11:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png"
+        width: 861
+        height: 464
+        isCached: true
 
 secured: "mWHzyBSWKoSocvCk1ffFODoxKCSP/F9tnWHKXHoArCI36EsBd9ogAQPOqr7+bm09FK/BL6+cUVJnKOq9WuCnrKOpq4Z8TNLkpeXbEIa/bgw5aH5VTXWyMJea5a7mjiFzIpxv8wO3zTEyUi+jbttlSw/YmkcBhTNt85Yo/BRLpvkJDHNzaytgeU6euKSgW2BvpxvidLMdjWhj6ukgLZSaRUEmEIhjDI2iFxGJlTCvbuJhZTIU+UsyhX6zbmwupcHwH2Ol4H73zZOub7A19dv4evwD8TV4O52DuPg8wJiGzguNOFTl3SuLgakYpmDZpNPio5mREYlFo/91pYFOuppwpMFbtXsAJjVSsLzp7+cqT0E=;CdvQkcm/TAVGxMyGfdSHvA=="
 ---
