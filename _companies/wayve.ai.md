@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "wayve_ai"
   url: "https://twitter.com/wayve_ai"
-  followers: 2849
+  followers: 2850
 
 size: 11-50 employees
 yearFounded: 2017
