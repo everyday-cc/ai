@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.khaleejtimes.com/business/gfk-launches-ai-supported-inte
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Khaleej Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "New BISTelligence Spin-Off Focused on Manufacturing AI Excellence"
+    excerpt: "BISTelligence, a leading supplier of manufacturing AI-based solutions and services for high-tech and industrial manufacturing, launched early last month, is focused on expanding its innovative new asset performance management (APM) solutions for industrial manufacturing through a newly created division,"
+    publishedDateTime: 2021-10-25T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-engineering-b243c80805d94e878df628cc50afac8c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "New BISTelligence Spin-Off Focused on Manufacturing AI Excellence"
     excerpt: "BISTelligence, a leading supplier of manufacturing AI based solutions and services for high tech and industrial manufacturing, launched early last month, is focused on expanding its innovative new asset performance management (APM) solutions for industrial manufacturing through a newly created division,"
     publishedDateTime: 2021-10-25T17:24:00Z

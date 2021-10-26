@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/?amp"
 type: article
 quality: 89
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -182,6 +182,22 @@ related:
     images:
       - url: "https://images.barrons.com/im-390980/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla rolls out new Full Self-Driving beta version after brief roll back"
+    excerpt: "Tesla has rolled out Full Self-Driving Beta version 10.3.1 following a brief roll back after bugs were found in the initial rollout of software Version 10.3. Users' posts claimed Teslas with the latest 10."
+    publishedDateTime: 2021-10-26T07:28:00Z
+    webUrl: "https://inshorts.com/en/news/tesla-rolls-out-new-full-selfdriving-beta-version-after-brief-roll-back-1635233315210"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/tesla-rolls-out-new-full-selfdriving-beta-version-after-brief-roll-back-1635233315210"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/tesla-rolls-out-new-full-selfdriving-beta-version-after-brief-roll-back-1635233315210"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 58
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/26_tue/img_1635228920190_569.jpg?"
+        width: 960
         height: 640
         isCached: true
   - title: "Tesla Setback: Elon Musk Rolls Back Full Self-Driving Software Over False Warnings"

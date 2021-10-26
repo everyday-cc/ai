@@ -49,7 +49,7 @@ related:
     provider:
       name: The News Today
       domain: newstodaynet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://newstodaynet.com/wp-content/uploads/2021/04/iit-madras-students-get-more-ppos-this-year.jpg"
         width: 1200

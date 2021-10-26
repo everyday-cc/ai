@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/we-need-to-pay-atten
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

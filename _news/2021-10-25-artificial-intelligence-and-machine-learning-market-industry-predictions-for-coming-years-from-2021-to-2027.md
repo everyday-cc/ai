@@ -42,15 +42,6 @@ related:
         width: 800
         height: 419
         isCached: true
-  - title: "Can Artificial Intelligence Automate the Film Industry?"
-    excerpt: "Can artificial intelligence be used to help address the problems of the film industry? Dive into the details and learn about what AI can do."
-    publishedDateTime: 2021-10-21T14:26:00Z
-    webUrl: "https://filmdaily.co/tech/film-industry-ai/"
-    type: article
-    provider:
-      name: filmdaily
-      domain: filmdaily.co
-    quality: 17
 
 secured: "v6T2QyKGE+CQCB+lfa83l/n/yBVTQMBFXIiQnJasEyOdiweh4W4WbouSVo0gaB7HrTchIegqawyX8DZGVrm4Jirv02Fh/f8g6p32h/ax8X/p5+Q2aeWFCGW6pj7xgUpRyAu0jj4o4OD8pxk2JKQgTAma67hnrAE9vxLDphjD0lahHhBm5yaQ1eBt3AEItVQ8VNiW/r7szpONEmsRivXGj+n/ufUEzVMmz9RfRGveGf9GaNBKYVhOTXDy/b51VM1FjdVYliYmoQngVbLrSpeRyc3u1Cc2KG8eIwQonXE7186RzHBHf2mt2oq8df05n+i//KFSVHAGjRrQPgGYR6MfmW2LkQzIb9l5uFBU/yySqNl4VHZJiMM6wzRFgEP3NULrf5Gqw7x63Jap6XxetlkSOje/6+lsE7+Twpybtm+psT7sX4LfTdIQShr1SlugEr9kdgoYBO9mWaSgpo3gmdWTji/Yd0nZPBg6QJjIJPLorkZ7eM+eADockmrDLgXwwdghb65bdeWR2BRmcPkASXV4RA==;RMW6q/3EOtCCC263bW1FKQ=="
 ---

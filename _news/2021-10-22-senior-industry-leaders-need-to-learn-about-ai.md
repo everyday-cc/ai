@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leader
 webUrl: "https://www.reuters.com/legal/legalindustry/senior-industry-leaders-need-learn-about-ai-2021-10-22/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Can Artificial Intelligence Automate the Film Industry?"
-    excerpt: "Can artificial intelligence be used to help address the problems of the film industry? Dive into the details and learn about what AI can do."
-    publishedDateTime: 2021-10-21T14:26:00Z
-    webUrl: "https://filmdaily.co/tech/film-industry-ai/"
-    type: article
-    provider:
-      name: filmdaily
-      domain: filmdaily.co
-    quality: 17
 
 secured: "22pBUDvZzxJoRLO94yk8Hga0o/bRcDaUCpO1qMNaFkSGYoBgmzdOTFp+eQ2uV5Hpt/X6QWHbrYFZpjjuT3qeqaZNdYbL/RdT7yMidBmFWi6nTuW+BieYhNYd9tvhOANvX7rQQ7lvR6M548ZtqTgCy5DEOFc4pFyPFOveJNNKjhr0C5BJeYy/w3qmVNicAGUs+W4QLNUGmPKA1jGO6x9XJKduxZxR0UTAcEecG+K0USnaWe7TFfZ1HwIfywuBcJ2Okh70ud9DiQ1TSg8BuKPJNho/TLRLnwPOT4x/g3hx1VLLcN4euJVIftS4s2omrtbg8tYHPAWgMT3vhjxqWwPnL7KHiYELb/lkk+ulktsvyR+/UhsuKY+JfFf54ygzOmtPi1XIpbXdkhfACYG7F0RVpfD7XOf/CdObQHkdOEFoE/GzC3LgTtOQM/J6u9Vhk3tx441ynEW37lneDYDgN65iPEcBuFZ5rC+5hAyRwDwoB71JePM/K0oIUjBhtogo7UbbEZnqlqSRmX1LETLvDZ4gNA==;UuTk7thRjwQsVKR7VnfXng=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Arturo Joins the AWS Partner Network"
+    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-cf30463736c74d48a081a9fc065316f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Insurtech Arturo joins AWS partner network"
     excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
     publishedDateTime: 2021-10-25T19:43:00Z
@@ -33,15 +47,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Arturo Joins the AWS Partner Network"
-    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services ( News - Alert) (AWS) Partner Network (APN)."
-    publishedDateTime: 2021-10-25T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-arturo-joins-aws-partner-network-/2021/10/25/9476499.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "W9rKDsunHD25z22uUD0QqUAyyUhKEbw0nE+N8BwFmy/WY7bbRT9Udk1QrECO7RJYCDNllW2+53wdqmDE+BA6NQTGBQJeq6oXIszuI/pdIWMiemLZ0RS6yM0O0NLFPhPuEgsMpdN4d6urM2ilRAKtwWGrq3eeRscIBhp573217JEE6bpTdTlg39KvR7vdhVmaC8xXKDeKj3t+VIA8cAhsxkPuJrTfp+Geq8zD6pSa1cmv0M+RqjOyT3l9pIu7rGFh/lmOOdZFhjGSjk33I8R/MaMAZgs0q68maMlr71QzSF/81PtvqS0KoMdCuiMkIvbJbyJQdhLtuCU1pue0VJf96VWsVFXTajC0bmQFfbPfjg0=;PkA/aYhMivp2om0Ojqc/zg=="
 ---

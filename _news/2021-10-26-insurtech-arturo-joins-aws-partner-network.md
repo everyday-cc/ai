@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/89944/insurtech-arturo-joins
 webUrl: "https://www.finextra.com/pressarticle/89944/insurtech-arturo-joins-aws-partner-network"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Arturo Joins the AWS Partner Network"
-    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services ( News - Alert) (AWS) Partner Network (APN)."
-    publishedDateTime: 2021-10-25T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-arturo-joins-aws-partner-network-/2021/10/25/9476499.htm"
+    excerpt: "Arturo, an artificial intelligence-powered (AI) platform that derives property insights and predictive analytics from aerial and satellite imagery, today announced that it has joined the Amazon Web Services (AWS) Partner Network (APN)."
+    publishedDateTime: 2021-10-25T14:00:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-cf30463736c74d48a081a9fc065316f7"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Arturo Joins the AWS Partner Network"
     excerpt: "Arturo, an AI-powered platform that derives insights and analytics from aerial and satellite imagery, has joined the AWS Partner Network."
     publishedDateTime: 2021-10-25T18:00:00Z

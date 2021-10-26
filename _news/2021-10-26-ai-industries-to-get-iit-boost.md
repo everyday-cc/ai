@@ -6,7 +6,7 @@ publishedDateTime: 2021-10-26T05:13:00Z
 originalUrl: "https://newstodaynet.com/index.php/2021/10/26/ai-industries-to-get-iit-boost/"
 webUrl: "https://newstodaynet.com/index.php/2021/10/26/ai-industries-to-get-iit-boost/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://newstodaynet.com/wp-content/uploads/2021/04/iit-madras-students-get-more-ppos-this-year.jpg"
@@ -55,6 +56,6 @@ related:
         height: 533
         isCached: true
 
-secured: "54DOgZJlbc/oHmXVOsQfvNHmz8Lj7PjmIaVFDgsJbOjrXBQOUPJ4CiQ1YrRhsF13LykvnVoyaUNthjZM6j2GK6iaty2fzJ3JvNNxl7dCIP8pw2aZ9ggk/ZeeytxCRnqr6U2vkTe/DX/BSwRhp0x+Mf+g4tVTQn2I3m3+DXPBqKdmEdSeBjkLKmCzN24SvBbCGjgoyOlMQTSmapkfHKa5gjQla6F2XTlTpOsBZ3Bb2ddHNhtE/FTdICn6uaUZucscfGO9tbnBgthI/9niSWqE0SUxm8D1ykWvtvras04QQudtJqxkN1/9QyHvZEpWW+o1/UGpFllKgz8kx17XKsi6eJQrP0GlC0a2GiXIc2UVk1Y=;HrGztHh1qmWvHSW2i13M9w=="
+secured: "eBiLaBP96Cc8grMt01wPbcA+oDZpKqDJ61EXetj3byA3MGsM4KCJdpcU1GN6k9+USdJ6QN4qLVXdnUhtf+64IIrczFP1xL/oeBgWKIjHStwM+B3ZE85RbQg20dWpYW2jBPNfsnY+btsvzTLW0La2bGwVLO7NQctG8Gm3PIGqh2IOLX4CuO5IDu+GRq04JBh18cGctjKE22aCEYOVIfLcXyuosyQ16SFMO3Zplgr3oYuVkVJGp+RNoT8PdoRmH6qb3GuNK/dXIyhp4SKpNUqIiGRYHyB9M1q4Nv5sBc/e1QvOCpqcWuqIOWrA9uNyQy7H+qVIcwK2omedCqNYeFLzh7K5ym6E53BKHzZyQjx8JiGPoVaXqcBc3rfiSBN7auQr/FDGdDn7DPRKLqV23hiuFHmkNlsp7b3axdAGZ3yKD2qZhvoGKcf8CiSXuNoEKUWeG1IhUVrIHrFnsI13vs5640Fx8mBW+BUCUAo81ZJUg8jgcag1XoJQHCyh5i9hiRz0Ig0uz0ods+cCzlw6MMVjvw==;Ex1irxpsZGp1Bxlofos7UA=="
 ---
 

@@ -61,7 +61,7 @@
       "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -112,7 +112,7 @@
       "originalUrl": "https://venturebeat.com/2021/10/25/utilizing-ai-to-improve-mass-transit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -157,19 +157,19 @@
     {
       "path": "_news/2021-10-26-artificial-intelligence-sheds-light-on-how-the-brain-processes-language.md",
       "title": "Artificial intelligence sheds light on how the brain processes language",
-      "excerpt": "In the past few years, artificial intelligence models of language have become very good at certain tasks. Most notably, they excel at predicting the next word in a string of text; this technology helps search engines and texting apps predict the next word you are going to type.",
+      "excerpt": "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html",
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg",
-          "width": 1920,
-          "height": 1280,
+          "url": "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg",
+          "width": 3999,
+          "height": 2666,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -177,13 +177,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-25T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
+      "title": "The Coming Convergence of NFTs and Artificial Intelligence",
+      "excerpt": "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25",
+      "originalUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp",
+      "publishedDateTime": "2021-10-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -490,6 +533,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae.md",
+      "title": "GfK launches AI-supported intelligence platform 'gfknewron' in UAE",
+      "excerpt": "GfK, a leading provider of consumer and market intelligence, analytics and consulting services, launched gfknewron, its integrated, AI-powered software platform in the Middle East. gfknewron is an important step in GfK's transformation from classical market researcher towards an AI-powered data analytics and consulting company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae",
+      "originalUrl": "https://www.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20211025/ARTICLE/211029474/AR/0/AR-211029474.jpg&NCS_modified=20211025153736&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/gfk-launches-ai-supported-intelligence-platform-gfknewron-in-uae",
+      "publishedDateTime": "2021-10-25T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -960,7 +1045,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/tesla-pulls-latest-fsd-beta-less-than-a-day-after-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1140,92 +1225,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-welcome-to-the-algorithmic-nudging-debate-a-potent-ai-practice-with-ethical-implications.md",
-      "title": "Welcome to the algorithmic nudging debate - a potent AI practice with ethical implications",
-      "excerpt": "Nudging isn't new - but algorithmic nudging ups the ante. The AI ethics debate now extends to these new means of persuasion. It's an issue we should all take a look at, whether we're the nudger, or the nudgee.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "originalUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/welcome-algorithmic-nudging-debate-potent-ai-practice-ethical-implications?amp",
-      "publishedDateTime": "2021-10-25T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19-analysis-microsoft-us-ptc-us.md",
-      "title": "AI in IoT Market to Witness Notable Growth by 2027 Covid-19 Analysis | Microsoft (US), PTC (US)",
-      "excerpt": "AI in IoT market report points out problem areas in the business and also presented what areas can expand the business by increasing the customer base It also helps you make sound market decisions and develop effective strategies This AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "originalUrl": "https://www.openpr.com/news/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/a/Ua25568936_g.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19",
-      "publishedDateTime": "2021-10-25T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -40,6 +40,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "New BISTelligence Spin-Off Focused on Manufacturing AI Excellence"
+    excerpt: "BISTelligence, a leading supplier of manufacturing AI-based solutions and services for high-tech and industrial manufacturing, launched early last month, is focused on expanding its innovative new asset performance management (APM) solutions for industrial manufacturing through a newly created division,"
+    publishedDateTime: 2021-10-25T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-engineering-b243c80805d94e878df628cc50afac8c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "SQiFZ2E0tEvFoLK8+eS3ky1ReM9ynzwxCHilMUvBe8O5m57UY+M9rxSD0YjRVF5Fb+IljIkqrjcplkX1lI54y3t8FlHSomBXv11zwcRz9QLl3ihBiRWSkAAjc3vh9rvyFfpekzhOsRm4E8scDzk+Dy08g5ZiHlkLS4Wk7pZVNNPuR0hkuw5Wn7wL+y8qFARfhVn8q+OzAdMigwunkmK1yXxxGeH39g74ia4kfF6VfzuPOSn6G4a4jHu0ngajWm/zDLOJ5QoCWpXxGsmLF3ny6BtepRsGvL2obY20XoHYjFNDUVDPAofjS66DS4bjacQyst4FT3jnFc7wadWac0T3EdkecpMgz1ZYhBOhPBvrwEJ3uu3OavXT+FczO6G3IeSCZdxyCmU6LnQHMUkR+VbVwpSco0sjnJPYzZ4U8GjueS1MWBwVpICMA/z6aVOirArcld792fUVcSmN3Qhpd5OT4CCYRZSrteSEAJIAi9APYBL3+xV4YWUgTAlF+tLsKmnrUUUk+WJ6/Ty6qog/xFhA8Q==;qQgXo3XwQE/UYiyzZbAArQ=="
 ---

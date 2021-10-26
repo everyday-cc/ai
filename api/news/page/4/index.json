@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-21-ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z.md",
+      "title": "IBM Q3 report shows gains in cloud revenue, declines in IBM Z",
+      "excerpt": "IBM said total cloud and cognitive software revenue was $5.7 ... Global Technology services, or GTS, posted $6.2 billion in revenue, down 4.8%. Global Business Services revenue (which includes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-q3-report-shows-gains-in-cloud-revenue-declines-in-ibm-z/",
+      "publishedDateTime": "2021-10-20T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-at-mass-stem-week-kickoff-mit-raise-announces-day-of-ai.md",
+      "title": "At Mass STEM Week kickoff, MIT RAISE announces Day of AI",
+      "excerpt": "Leaders from MIT and Massachusetts state government kicked off the fourth annual Massachusetts STEM Week at the Media Lab. Speakers emphasized the importance of STEM education and career pathways for learners of all ages and backgrounds,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "originalUrl": "https://news.mit.edu/2021/mass-stem-week-kickoff-mit-raise-announces-day-ai-1020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/Mass-STEM-Week-presentation-00.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-aws-announces-general-availability-of-the-aws-panorama-appliance.md",
       "title": "AWS Announces General Availability of the AWS Panorama Appliance",
       "excerpt": "(NASDAQ: AMZN), announced the general availability of the AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
@@ -351,6 +445,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-how-ai-is-changing-hr-practices.md",
+      "title": "How AI is changing HR practices?",
+      "excerpt": "Artificial Intelligence and Machine Learning have come up in many recent discussions, and recently they are being used in human services as well. Expectations from AI as a field span a vast spectrum ranging from personal assistance to medicines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-ai-changing-hr-practices-shailesh-wagh",
+      "originalUrl": "https://www.linkedin.com/pulse/how-ai-changing-hr-practices-shailesh-wagh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEVPHBoHG-qvw/article-cover_image-shrink_600_2000/0/1634723082557?e=1640822400&v=beta&t=VU1vkN7G8bEfhIu6pQHR6F-0ULb1UN6DRVJWsVK8kiQ",
+          "width": 672,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1007,146 +1152,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
-      "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
-      "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "originalUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/10/Google-Pixel-6-Live-translation.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/what-is-pixel-6-live-translate/amp/",
-      "publishedDateTime": "2021-10-19T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-the-5-articles-you-read-in-ai-hell.md",
-      "title": "The 5 articles you read in AI hell",
-      "excerpt": "Hello! Welcome to AI hell. We're here to make your transition as seamless as possible! If you'll just log in to you Amazon account, we'll get",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
-      "originalUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FAIhell.jpg&signature=20e8ac69101ef3c4b1d280c0f896ba2f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
-      "title": "Innovations in training using artificial intelligence and machine learning",
-      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
-      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eventbrite.com.au",
-        "domain": "eventbrite.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

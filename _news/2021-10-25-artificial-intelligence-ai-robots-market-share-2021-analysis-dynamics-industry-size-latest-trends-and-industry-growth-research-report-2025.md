@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-2021-analysis-dynamics-industry-size-latest-trends-and-industry-growth-research-report-2025-2021-10-25"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -67,6 +67,17 @@ related:
     webUrl: "https://www.openpr.com/news/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
     ampWebUrl: "https://www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
     cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439498/global-healthcare-chatbots-market-analysis-of-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+  - title: "Handing Robots Market Strategy, Share, Growth Factors, Analysis and Forecast to 2027 - FANUC, KUKA, ABB, Yaskawa"
+    excerpt: "The Handing Robots market research report provides an in depth analysis of the current trends latest developments scenarios market size various drivers restraints and major players along with their profile details The research report offers the historic data for years"
+    publishedDateTime: 2021-10-26T07:54:00Z
+    webUrl: "https://www.openpr.com/news/2441410/handing-robots-market-strategy-share-growth-factors"
+    ampWebUrl: "https://www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441410/handing-robots-market-strategy-share-growth-factors"
     type: article
     provider:
       name: openpr.com

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "The Coming Convergence of NFTs and Artificial Intelligence"
-excerpt: "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock."
+excerpt: "The first generation of NFTs has focused on key properties such as ownership representation, transfer, automation as well as building the core building blocks of the NFT market infrastructure. The hype in the NFT market makes it relatively hard to distinguish signal versus noise when even the most simplistic form of NFTs are able to capture incredible value."
 publishedDateTime: 2021-10-25T18:43:00Z
-originalUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
-webUrl: "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/"
+originalUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
+webUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25"
+ampWebUrl: "https://www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-coming-convergence-of-nfts-and-artificial-intelligence-2021-10-25?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 82
+published: true
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "AI Girlfriends Are Coming (In the Form of Sexualized Anime NFTs)"
@@ -42,6 +38,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "6ZS417437s1riXgGgOCP3q6pvqXkiZ1HCwOmjx7323yIAiNl0mVmR2rI/4FUa1LEiZQkoUm4W1vZYh18TQHbzp8+ch2ppihk8i/ZXwVpu66Sax3UliyqAcozJige6Z+8xd76S6fR677rQ4Acmmjv8OiFZ0C0BJVBVa+DoesAp9UZZhTYWGRmCbx8SIf/YjFlqE3TxDxi61yulvXlzu49d6bkVrzwd67h8hnuT101R4SSBIK+eJafxb8RwTdPno3Shwla5myEaQxXD2tU23bqhsxFpD3vCDapxAjbiJt3POOcl2nWJbw82Q7vv0bgwmhHR7ktLk6XQWFKxJLMJfiANYSTU73KM2D/ZMMVnr5Kcnc=;TRIs4z/ho/XkdPyNDJfDxg=="
+secured: "9c9s3dzigFwYGwIePHu5n0zIL07YeV17AH/ZYcgGBV8I83i5JRbHPtGX/NeMwayqkBs7iU3+BhXvZFkkMQNMPwH4XqiNvHHYtUUa8nTm7ecyp+YvQtdx7fkq7IdTwggL4ALjmC1UxHOw9CI3M34yhQhfUIxftt83Jx0Sk8pJGb2+2HldtefPbhpEwPXcyZUv9nwUNffUInDpGiPx4hGCR4rnJm4WItY8cqbfYXnBCMIyc7o4JEnPgZaoyBxbaaFA3lJE+e2RWQA8mX0uAUAYdLHIdR06266BZsA9kKewtFyOl/vaO/sYYBTOIVQWGM2VFMm8KysmgMlf/WRsSRg6FzDOFMuT6xhMkK5z06157oWm0v5iJNqNOY8Uv4YgfIK4LfPqWIZXl8Y0jzekD7QsGwWTtAECAKhOOVcDBybgoPcfZr0VgayXx75fT7+rHg6seezRqKPxkk1NMBhhZ7qV/zUfBbh/kf9/tbNi3hE7R5kTXKz2hsnWwLA09Bvee58U2jNb3F4QnRvckLlsVoR6Sw==;ScksHYvSsP4yyxyDIsKetw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notab
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2439714/ai-in-iot-market-to-witness-notable-growth-by-2027-covid-19"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
         width: 800
         height: 457
         isCached: true
+  - title: "AI in Logistics and Supply Chain Management Market Size and Forecast 2028 | Key Companies – IBM, Microsoft, Google, Amazon, Alibaba, Nauto"
+    excerpt: "The AI in Logistics and Supply Chain Management Market report provides vital information that prepares market players to give fierce competition to their toughest competitors based on growth, sales, and revenue,"
+    publishedDateTime: 2021-10-25T16:52:00Z
+    webUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-logistics-and-supply-chain-management-market-size-and-analysis/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
 
 secured: "Gax7q4UYqwORVh1c9ynZqsx4W9wrI06OkbGwVC39I7/EYP7E2F4EHeMbPlMHqcBNZeHKbdKfKYtLh0ZP4MftVHXZho7aLirqbO6McpvvC7zYmVEK5LhUtnrNZnaDWUNuDUqRjoaJYu/0e9gzSffm3oO+iWkz7UeBtvN/YoVAeL1sRTgH/JghB8fB/I9pZwkt6ZDpR7xTjRPvdKyGcuXH6EN+qW7Uteoknml3UALIf/cP9ZADR90nskqGi66UBeq34INwmZ0tKYZtekZk1rdRRiwKc2Q0NyWz1fT0xiiJJ5f5yPqR5av3OavAPXtZg8f4hdKBPQDzIQKiYB4UtMgMuYGpoxwBf7Rf3s10O3Xvii+/qoRTx59DvmU8vl7vY4WbqNp/FcGPw5SgHg8hpyaDCFqatfPI5N55RfbiNzgJY/xD9enl3rAkPN240GdaAKfH1ecLxA9qWHgbYWeLEQUsvlmLMepDnwTVp9dF2iaeW32G4IivSbBHSQ3ekit6KsxF7NpyeAPEEm1dzqXBlT6bbQ==;p33koS/UTygGhOnyrH2UYg=="
 ---

@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-20-pixel-6-live-translate-is-the-feature-you-have-been-waiting-for.md",
+      "title": "Pixel 6 Live Translate Is The Feature You Have Been Waiting For",
+      "excerpt": "Google’s buzzwords for 2021 are Pixel 6 and Tensor. But there is more to the story, and the company has introduced a ton of ML-powered featured. One of them is Live Translate that builds upon Google’s existing translation capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
+      "originalUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/10/Google-Pixel-6-Live-translation.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/what-is-pixel-6-live-translate/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/what-is-pixel-6-live-translate/amp/",
+      "publishedDateTime": "2021-10-19T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-the-5-articles-you-read-in-ai-hell.md",
+      "title": "The 5 articles you read in AI hell",
+      "excerpt": "Hello! Welcome to AI hell. We're here to make your transition as seamless as possible! If you'll just log in to you Amazon account, we'll get",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "originalUrl": "https://thenextweb.com/news/the-5-articles-you-read-ai-hell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FAIhell.jpg&signature=20e8ac69101ef3c4b1d280c0f896ba2f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
+      "title": "Innovations in training using artificial intelligence and machine learning",
+      "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "originalUrl": "https://www.eventbrite.com.au/e/innovations-in-training-using-artificial-intelligence-and-machine-learning-registration-177640265817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F166862609%2F261951525277%2F1%2Foriginal.20211014-022345?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C210%2C1286%2C643&s=fa0d38cfb0c79badb4880c09d0e62181",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-googles-pixel-6-camera-smartens-up-snapshots-with-ai-tools.md",
       "title": "Google’s Pixel 6 camera smartens up snapshots with AI tools",
       "excerpt": "Google’s latest flagship phones have an impressive set of automated, AI-powered tools to help make your photos look better, with smart blurs, object removal, and skin tone exposure. While we’ll have to test them out to see if they work as advertised,",
@@ -1093,135 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-movai-launches-a-robotics-engine-platform-that-allows-manufacturers-and-integrators-to-develop-amrs-and-deploy-them-in-dynamic-environments.md",
-      "title": "MOV.AI launches a Robotics Engine Platform™ that allows manufacturers and integrators to develop AMRs and deploy them in dynamic environments",
-      "excerpt": "The latest version of the MOV.AI platform offers a visual IDE, advanced algorithms such as 3D SLAM, simulation tools, scene and behavior editors, an open API framework and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
-      "originalUrl": "https://www.witn.com/prnewswire/2021/10/19/movai-launches-robotics-engine-platform-that-allows-manufacturers-integrators-develop-amrs-deploy-them-dynamic-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WITN",
-        "domain": "witn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-making-the-case-for-and-against-police-use-of-facial-recognition-technology.md",
-      "title": "Making the case for and against police use of facial recognition technology",
-      "excerpt": "In this week’s Computer Weekly, as the Met Police enhances its facial recognition capabilities, we examine the pros and cons of law enforcement use of the technology. Three in five IT professionals want a new job – is there a tech exodus in the industry?",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
-      "originalUrl": "https://www.computerweekly.com/ezine/Computer-Weekly/Making-the-case-for-and-against-police-use-of-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Top_10_ASEAN_IT_stories_of_2019.jpg",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-desperate-for-workers-restaurants-turn-to-robots.md",
-      "title": "Desperate for Workers, Restaurants Turn to Robots",
-      "excerpt": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "originalUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/20/multimedia/20SP-ROBOTS-INYT1/merlin_195923337_42e6ecac-a4fd-4252-99a5-21c3e6313e43-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/10/19/business/restaurants-robots-workers.amp.html",
-      "publishedDateTime": "2021-10-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

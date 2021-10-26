@@ -2,6 +2,142 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-10-14-google-ai-department-sued-for-using-the-health-data-of-16-million-nhs-patients.md",
+      "title": "Google AI department sued for using the health data of 1.6 million NHS patients",
+      "excerpt": "A class-action lawsuit has been launched against DeepMind, the Google-owned AI research company, over its use of the personal records of 1.6 million patients from the UK's National Health Service ( thanks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "originalUrl": "https://www.pcgamer.com/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NXU3c8zfKAfbFuEGzPnBeE-1200-80.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-ai-division-sued-for-using-the-health-data-of-16-million-nhs-patients/",
+      "publishedDateTime": "2021-10-14T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-artificial-intelligence-helps-complete-beethoven-symphony.md",
+      "title": "Artificial Intelligence helps complete Beethoven Symphony",
+      "excerpt": "Before his death, Ludwig van Beethoven had started writing the 10th symphony. But only a few notes and musical sketches were left. Watch video on Zee News",
+      "sourceUrl": null,
+      "webUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html",
+      "originalUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/10/14/00000003_23.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp",
+      "cdnAmpWebUrl": "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp",
+      "publishedDateTime": "2021-10-14T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom.md",
+      "title": "Putting AI In The Pilot’s Seat: Three Strategies For Navigating The Post-Pandemic Travel Boom",
+      "excerpt": "If I had written an article about the role of AI in the travel industry 18 months ago, I might have covered the rise in chatbots fielding customer service inquiries or Hilton’s hallmark Connie concierge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166e82c6eb3a627c512fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/10/14/putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom/amp/",
+      "publishedDateTime": "2021-10-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-understanding-bias-in-ai-enabled-hiring.md",
       "title": "Understanding Bias In AI-Enabled Hiring",
       "excerpt": "Unless the humans behind the algorithm proactively build and test their tools, AI will struggle to fulfill its promise, and in the worst-case scenario, undermine it.",
@@ -994,137 +1130,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds.md",
-      "title": "5 Best Artificial Intelligence and Robotics Stocks To Buy According To Hedge Funds",
-      "excerpt": "In this article, we discuss the 5 best artificial intelligence and robotics stocks to buy according to hedge funds. - All Parts",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-and-robotics-stocks-to-buy-according-to-hedge-funds-989023/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/08/man-320276_1280.png",
-          "width": 1240,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3.md",
-      "title": "Microsoft’s Massive New Language AI Is Triple the Size of OpenAI’s GPT-3",
-      "excerpt": "Given the tricks GPT-3 had up its sleeve, it’s intriguing to wonder how the Megatron-Turing model may surprise us given that it's three times larger.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "originalUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/10/natural-language-processing-Microsoft-Megatron-Turing-model-AI.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/10/13/microsofts-massive-new-language-ai-is-triple-the-size-of-openais-gpt-3/amp/",
-      "publishedDateTime": "2021-10-13T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
-      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
-      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/n23360003/demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1659549/SAS_EBF_AML_Compliance.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23360003",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23360003",
-      "publishedDateTime": "2021-10-13T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

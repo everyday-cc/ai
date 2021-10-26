@@ -9,7 +9,7 @@ ampWebUrl: "https://techbooky.com/researchers-use-artificial-intelligence-suppor
 cdnAmpWebUrl: "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:

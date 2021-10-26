@@ -67,31 +67,28 @@ related:
         width: 401
         height: 401
         isCached: true
-  - title: "United States Artificial Intelligence in Travel Markets, 2021-2027 - ResearchAndMarkets.com"
-    excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on the United States artificial intelligence in travel market is a customer intelligence and competitive study of the United States market."
-    publishedDateTime: 2021-10-21T13:12:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-41ea92b7bc014bfcab19c15e460acd54"
+  - title: "Image Recognition Market Booming by Size, Revenue, Trend and Top Growing Companies 2021-2027 - Microsoft, AWS, OpenCV, Google"
+    excerpt: "The Image Recognition market research report provides an in depth analysis of the current s trends latest developments scenario market size various drivers restraints and major players along with their profile details Research report offers the historic data for year"
+    publishedDateTime: 2021-10-26T06:51:00Z
+    webUrl: "https://www.openpr.com/news/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    ampWebUrl: "https://www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441361/image-recognition-market-booming-by-size-revenue-trend-and-top"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Blockchain AI Market Insights by Emerging Trends, Future Growth, Revenue Analysis, Demand Forecast to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 01:03 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Oct 26, 2021, 00:13 /Comserve / -- The global blockchain AI market size is projected to grow from USD 228 million in 2020 to USD 703 million by 2025, at a Compound Annual Growth Rate (CAGR) of 25."
     publishedDateTime: 2021-10-26T05:41:00Z
-    webUrl: "https://menafn.com/1103043526/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
+    webUrl: "https://menafn.com/1103043696/Blockchain-AI-Market-Insights-by-Emerging-Trends-Future-Growth-Revenue-Analysis-Demand-Forecast-to-2025"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 21
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?209619"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?832665"
         width: 333
         height: 250
         isCached: true

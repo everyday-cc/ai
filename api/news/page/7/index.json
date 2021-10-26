@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-10-19-facial-recognition-in-uk-schools-prompts-blowback.md",
+      "title": "Facial recognition in UK schools prompts blowback",
+      "excerpt": "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "originalUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "publishedDateTime": "2021-10-18T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
+      "title": "AI ethics maturity model: A company guide",
+      "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-maturity-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6108d89fdf0408e6971ff38495dfe2c6eabe3315/2021/10/14/5a004e69-3267-429f-97f1-4e3f6fb3b1d8/bax1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-maturity-model/",
+      "publishedDateTime": "2021-10-18T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
+      "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
+      "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg",
+          "width": 2880,
+          "height": 1744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
+      "publishedDateTime": "2021-10-18T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-ico-to-step-in-after-schools-use-facial-recognition-to-speed-up-lunch-queue.md",
       "title": "ICO to step in after schools use facial recognition to speed up lunch queue",
       "excerpt": "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments",
@@ -1043,144 +1181,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
-      "title": "General Availability – LiveData Platform for Azure",
-      "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "originalUrl": "https://www.sharesmagazine.co.uk/news/market/LSE20211018070006_4146397/General-Availability-LiveData-Platform-for-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sharesmagazine.co.uk/images/logos/youinvest.png",
-          "width": 800,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sharesmagazine",
-        "domain": "sharesmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.md",
-      "title": "Machine learning can yield \"proxy measures\" for brain-related health issues",
-      "excerpt": "A study published today by an interdisciplinary collaboration, directed by Denis Engemann from Inria, demonstrates that machine learning from large population cohorts can yield \"proxy measures\" for brain-related health issues without the need for a specialist's assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211018/Machine-learning-can-yield-proxy-measures-for-brain-related-health-issues.aspx",
-      "publishedDateTime": "2021-10-17T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-how-ai-is-transforming-the-future-of-digital-marketing.md",
-      "title": "How AI Is Transforming The Future Of Digital Marketing",
-      "excerpt": "In business today, the term AI is used to describe software that is capable of learning and getting better at doing its job without input from humans. Current predictions state AI will end up creating more jobs than it destroys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616cf42b6d301735d937fa4a%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/10/18/how-ai-is-transforming-the-future-of-digital-marketing/amp/",
-      "publishedDateTime": "2021-10-17T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

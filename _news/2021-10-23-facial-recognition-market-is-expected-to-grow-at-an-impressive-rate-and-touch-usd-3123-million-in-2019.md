@@ -53,6 +53,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "The healthcare artificial intelligence market is expected to grow at a CAGR of 42.7% from 2020 to 2027 to reach at USD 52.7 billion by 2027."
+    excerpt: "The factors such as increasing funding for healthcare artificial intelligence growing demand for personalized therapy large pool of healthcare data and growing use of AI in reducing healthcare cost are expected to propel the growth of the overall healthcare artificial"
+    publishedDateTime: 2021-10-26T06:29:00Z
+    webUrl: "https://www.openpr.com/news/2441255/the-healthcare-artificial-intelligence-market-is-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2441255/the-healthcare-artificial-intelligence-market-is-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "pyWm1g3wpJ2sf1LPNtZNu1ypjdRhcXrXKeudcr///FTicq/4qWUjyLt2YYKU9bU/u163TradUpzwAH3aM25YWk2ChgTKwdBcMPSp6P6pMiEa6WKZYSut/ufFte996DZvLc8US7eptV1gsftsNzHJckNLb8odNz/7Sp1bh0edi71qZWCk0GQPAxuAgfMVqct7C7apI5YiOo6wEgr8dsBetP1kOQnn1jHJtyv3T61ueOQ6QBKKDldeZE2mCA8NJKaRXhpfRrj5rrkURbGqGbas/ylHExSR32I1KFiX2pDCtEeA35NwbkGX/iBcuNK29zM57eEmSN+p50f5lLlHLclyZE2KdfyNv+3ndbRCY+hlA3Y=;sr+84IJLEWDeUl33Nti0QA=="
 ---

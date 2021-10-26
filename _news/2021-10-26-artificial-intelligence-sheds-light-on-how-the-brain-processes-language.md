@@ -1,31 +1,33 @@
 ---
 category: news
 title: "Artificial intelligence sheds light on how the brain processes language"
-excerpt: "In the past few years, artificial intelligence models of language have become very good at certain tasks. Most notably, they excel at predicting the next word in a string of text; this technology helps search engines and texting apps predict the next word you are going to type."
+excerpt: "MIT research suggests the underlying function of “next-word prediction” computational models closely resembles the function of language-processing centers in the human brain."
 publishedDateTime: 2021-10-25T19:00:00Z
-originalUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
-webUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-artificial-intelligence-brain-language.amp"
+originalUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
+webUrl: "https://news.mit.edu/2021/artificial-intelligence-brain-language-1025"
 type: article
-quality: 74
-heat: 74
+quality: 84
+heat: 84
 published: true
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Massachusetts Institute of Technology
+  domain: mit.edu
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/26-brain.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://news.mit.edu/sites/default/files/images/202110/MIT-Language-Models-01-PRESS.jpg"
+    width: 3999
+    height: 2666
     isCached: true
 
-secured: "J+Qr3O0rz+ja3eQciOrHWTPNIj3frNPfzA70JzwfpWTSBXQ5hnTaQxvOvCPpvS7iuiWUvt2xAX9F61l7M9B9yy4LaPtw3icytfbSBJWGSCBpd8WL46CBtv2P4Czc4ZtTxRGY0XfzIs8jX60vvEfI7gn/UxpStr1AQ2crIY5pqpMoO3ot4A85CA8ee/h+Z6bIl4y0DyfxY3FyeDs+8v6/t+QrrH16trW+6mhCp70Rb1nqyx0V0aTB1pTnzeWGIZ3KEJvxKj7GiXWVrLDdpUfMYGT/6lPX3f+8Ec3A2ttJ95yeFrjQNDHmBcYaai2lsSeiY/W00N/Y8B5w076O/Ueax/rSiUXhZYx8O8bQBx59MPo=;G4IoFa3bFOWNtc+kr9r5XA=="
+secured: "5HenY1ko81HnSL+p/PEjR7uHeGWYkVpBCM4yW5aJVzM36F52Lv4T0pj8VIQ7bBVCamve/kOSZU7qGVDSeuhnbE0Bjn5U/6r3fSh9dW33a/Cemf9Ws93HFimZAbrY97yvuG0w1oOrb8dVWsJPES3ZInjXlCp/K2M5b2IozKwHIZPslSckBOazODuDZN8njjKssbJEUqSqAYVUf2gYUtKFxbI7ivS+5pkiiIktLd5KKGUb7+oMO2dAQPf6CIWmcPgrcSqtVws9d4rCM6u0tyIgvrY+9eW30anvzoRHiE8pO2I+lNO6Ulw8QZkzvE5ilQSMncbdkBL1+FhmKRGc3FMXBIT2iSsNu2NpiF1cG/Od5N0=;U9ewrD1BQ8a14wxdT+n5rg=="
 ---
 

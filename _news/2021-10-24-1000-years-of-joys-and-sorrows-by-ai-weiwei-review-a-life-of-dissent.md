@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/oct/24/1000-years-of-joys-and
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/oct/24/1000-years-of-joys-and-sorrows-by-ai-weiwei-review-a-life-of-dissent"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Ai Weiwei on the death of Diane Weyermann: ‘Like a bridge of hope washed away in the storm’"
-    excerpt: "The artist and film-maker remembers the pioneering documentary producer behind films such as RBG, The Square and An Inconvenient Truth, who has died aged 66"
-    publishedDateTime: 2021-10-21T14:01:00Z
-    webUrl: "https://www.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-diane-weyermann-like-a-bridge-of-hope-washed-away-in-the-storm"
-    ampWebUrl: "https://amp.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-diane-weyermann-like-a-bridge-of-hope-washed-away-in-the-storm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/oct/21/ai-weiwei-on-the-death-of-diane-weyermann-like-a-bridge-of-hope-washed-away-in-the-storm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 27
 
 secured: "2rtveztgehhCEh3rpuDF99ZMIR2XwbE6UdMfUhIB8RKR9U1d0rcUeFBOmjRijdeBISB9ZC3YaqOQ0IthfH9f+xU0g2nxUAOJ38bxeJM+7/8V34vOuCwruW1Yusz+B/vs+oHPB6USl6QS/rhwKO2/gh0GNfC2Makzy7zzuWJxWLCvsPsZaq65s+M8WHgSOB7HJRmVtonB9CCff8iGA/HS5697yU8Xrv8IX1zDS9Th9qT5mzzQwfL14FHPOGgYJs8nFv2WvfDAgDCp3Ji7DhEttQHrNJ5LCFMyvSqCix+bahp8sov9YfN6pxXTZO8f/I1Nq1YaC6Fu78wawsLheFr9K+kj1CM0/hM+S2cvEdCUMBygUUtycKpDOAFH9ULynm0Gum/i0OGQQ7jVFmmle6DYhzEeNgH47r4IcG472GkfhH+jA8Dx0/LYCe8fOI3S/xepc+wNk+5O8dsoH1wRCaD+BIeDJ1t0nhLrRvaxO4ifIcEhfzb7Xs4KcbxAVlCrLto2mBOLAJgEoG3v/fnOaf0CdA==;WNpL744UPwDT5m1Bw+y4KQ=="
 ---

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "CEO Mark Zuckerberg responds to the massive Facebook document dump"
-excerpt: "By Clare Duffy, CNN Business CEO Mark Zuckerberg kicked off Facebook’s quarterly earnings call by addressing the latest wave of coverage based on a trove of leaked internal documents on Monday. “Good faith criticism helps us get better,"
-publishedDateTime: 2021-10-26T04:38:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/10/25/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2021/10/25/ceo-mark-zuckerberg-responds-to-the-massive-facebook-document-dump/"
+excerpt: "CEO Mark Zuckerberg kicked off Facebook's quarterly earnings call by addressing the latest wave of coverage based on a trove of leaked internal documents on Monday. \"Good faith criticism helps us get better,"
+publishedDateTime: 2021-10-26T02:11:00Z
+originalUrl: "https://www.waaytv.com/content/national/575605352.html"
+webUrl: "https://www.waaytv.com/content/national/575605352.html"
+ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=575605352"
+cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=575605352"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2021/10/hypatia-h_e7760f18a55c47e96f3cf28dd733f1dd-h_d5dfdc62cc92147880de99fcdc4a8db6-300.jpg"
-    width: 2000
-    height: 1333
+  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
+    width: 640
+    height: 380
     isCached: true
 
-secured: "sdaUbhJmK2OXf1lzGDftPLHWI+jU4G5SsNzkDatvhp+0QD5ebQYbgE0LldwtxcKb9dQkkv2XOhfeyQbuDqv7E8PoC2rPlqp459ABMxWwJ5jFR9MLKUUwBscgZodJXwcRdGaUJ16SfrGwhJiXZjrDQ01CXPrip4ugMoCGAvwtj/uBWxP6ze6g7h6Wcos8uSrCcD+yXVDFgJhNBN8zYKr9R5OjBkDrfg+vFaUaKGPaPYCZiaV2Mxqmpet5gInyCYjGzafPpPi/JWUUWNFWUxojGtNPf32AaiC9OEsisDDkCMJhL9xFFxp/svQiNMdULAE7CjfsFuyesX++QXdTcRQdZTxpiuQnEobccVo11KjBJY4=;B71bkqqywqppOmt225gc5w=="
+secured: "HDRTpPn/Q5bH7KW+Vi7tVgfJtLVcVxu3jiT9y9RW4iakEG+qh+nhglMs3+34WQB82Wv8hfRLoXCKXlIa5+aiJ8JewpBZSh740MTqG6BCly3PUoZUVVBEs6n3jYxn4jy0LQdjdVZx0sSoTN7lFZ10RYh/2/7KPSTsIw5Q4gzQtS4YX7yKz3/Zjf6Mbw/gJM/Y1EBv1JhZ4SP4wZU2iGQdjJ20iidkHBNR0uZmuEGp6E0ALGL9/sQcoW7nTfil+xxVuOatdm62PiHEhBiiRzRCXu89hAmRwr5Xp+NXkBB3gNOxVH8Qios87kXSRlHZGSICA6gPbgi8jAxKhP1Rh5KbKfzdDwMTZz8FxFaDHNtQtu4=;W1gVt4yrZVr1X+cLm22cIg=="
 ---
 

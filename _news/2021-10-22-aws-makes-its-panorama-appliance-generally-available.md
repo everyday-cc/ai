@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-mak
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361323/aws-makes-aws-panorama-appliance-generally-available?amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS makes its Panorama Appliance generally available"
-    excerpt: "Amazon Web Services (AWS) has announced the general availability of its Panorama Appliance. The device integrates computer vision into on-premises internet protocol (IP) cameras, allowing fast and easy visual inspections of production lines,"
-    publishedDateTime: 2021-10-21T14:59:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/9289/aws-makes-its-panorama-appliance-generally-available"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/4/23//aws_image_3.jpg"
-        width: 3264
-        height: 2448
-        isCached: true
   - title: "AWS Announces general availability of the AWS Panorama Appliance"
     excerpt: "Allows customers to use existing on-prem cameras and analyze video feeds in edge environments to improve quality control, optimize supply chains, and enhance consumer experiences"
     publishedDateTime: 2021-10-22T18:25:00Z
